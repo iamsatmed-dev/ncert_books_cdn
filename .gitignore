@@ -1,0 +1,7 @@
+generate_json.py
+process_pdfs_batch.py
+run_all.sh
+test_pdf_extract.py
+test_pdfplumber.py
+process_pdfs.py
+process_books_js.py
