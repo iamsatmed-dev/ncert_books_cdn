@@ -7,7 +7,7 @@
 
 Chapter Eight
 
-12089CH08
+
 
 ELECTROMAGNETIC
 
@@ -45,7 +45,7 @@ is the existence of electromagnetic waves, which are (coupled) time-
 varying electric and magnetic fields that propagate in space. The speed
 of the waves, according to these equations, turned out to be very close to
 
-Reprint 2026-27
+
 
 
 ---
@@ -144,7 +144,15 @@ $B.dl =
 (8.1)
 
 to find magnetic field at a point outside the capacitor.
-Figure 8.1(a) shows a parallel plate capacitor C which
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_1.png" alt="Fig. 8.1" onclick="openImageModal(this.src, 'Fig. 8.1: to find magnetic field at a point outside the capacitor. Figure 8.1(a) shows a p...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.1</strong> to find magnetic field at a point outside the capacitor. Figure 8.1(a) shows a parallel plate capacitor C which is a part of circuit through which a time-dependent current i (t) flows . Let us find the magnetic field at a point such as P, in a region outside the parallel plate capacitor. For this, we consider a plane circular loop of radius r whose plane is perpendicular to the direction of the current-carrying wire, and which is centred symmetrically with respect to the wire [Fig. 8.1(a)]. From symmetry, the magnetic field is directed along the circumference of the circular loop and is the same in magnitude at all points on the loop so that if B is the magnitude of the field, the left side of Eq. (8.1) is B (2p r). So we have</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 is a part of circuit through which a time-dependent
 current i (t) flows. Let us find the magnetic field at a
 point such as P, in a region outside the parallel plate
@@ -167,7 +175,7 @@ JAMES CLERK MAXWELL (1831–1879)
 
 202
 
-Reprint 2026-27
+
 
 
 ---
@@ -289,7 +297,16 @@ inside, as it should be. The current carried by conductors due to flow of
 charges is called conduction current. The current, given by Eq. (8.4), is a
 new term, and is due to changing electric field (or electric displacement,
 an old term still used sometimes). It is, therefore, called displacement
-current or Maxwell's displacement current. Figure 8.2 shows the electric
+current or Maxwell's displacement current.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_2.png" alt="Fig. 8.2" onclick="openImageModal(this.src, 'Fig. 8.2: In all respects, the displacement current has the same physical effects as the c...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.2</strong> In all respects, the displacement current has the same physical effects as the conduction current. In some cases, for example, steady electric fields in a conducting wire, the displacement current may be zero since the electric field E does not change with time. In other cases, for example, the charging capacitor above, both conduction and displacement currents may be present in different regions of space. In most of the cases, they both may be present in the same region of space, as there exist no perfectly conducting or perfectly insulating medium. Most interestingly, there may be large regions of space where there is no conduction current, but there is only a displacement current due to time-varying electric fields. In such a region, we expect a magnetic field, though there is no (conduction) current source nearby! The prediction of such a displacement current can be verified experimentally. For example, a magnetic field (say at point M) between the plates of the capacitor in Fig. 8.2(a) can be measured and is seen to be the same as that just outside (at P).</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 and magnetic fields inside the parallel plate capacitor discussed above.
 
 The generalisation made by Maxwell then is the following. The source
@@ -319,7 +336,7 @@ capacitor plates.
 
 203
 
-Reprint 2026-27
+
 
 
 ---
@@ -476,7 +493,7 @@ They are still not perfectly symmetrical; there are no known sources of magnetic
 field (magnetic monopoles) analogous to electric charges which are sources of
 electric field.
 
-Reprint 2026-27
+
 
 
 ---
@@ -558,7 +575,7 @@ frequency that we get even with modern electronic circuits is hardly about
 
 205
 
-Reprint 2026-27
+
 
 
 ---
@@ -631,7 +648,14 @@ along the perimeter of a circle parallel to the capacitor
 plates. So B and E are perpendicular in this case. This
 is a general feature.
 
-In Fig. 8.3, we show a typical example of a plane
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_3.png" alt="Fig. 8.3" onclick="openImageModal(this.src, 'Fig. 8.3: In Fig. 8.3, we show a typical example of a plane electromagnetic wave propagati...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.3</strong> In Fig. 8.3, we show a typical example of a plane electromagnetic wave propagating along the z direction (the fields are shown as a function of the z coordinate, at a given time t). The electric field Ex is along the x-axis, and varies sinusoidally with z, at a given time. The magnetic field By is along the y-axis, and again varies sinusoidally with z. The electric and magnetic fields Ex</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 electromagnetic wave propagating along the z direction
 (the fields are shown as a function of the z coordinate, at
 a given time t). The electric field E is along the x-axis,
@@ -665,7 +689,7 @@ the y-direction.
 
 206
 
-Reprint 2026-27
+
 
 Ex= E sin (kz-wt)
 
@@ -780,7 +804,7 @@ the earth.
 
 207
 
-Reprint 2026-27
+
 
 
 ---
@@ -886,14 +910,22 @@ nineteenth century, X-rays and gamma rays had also been discovered. We
 now know that, electromagnetic waves include visible light waves, X-rays,
 gamma rays, radio waves, microwaves, ultraviolet and infrared waves. The
 classification of em waves according to frequency is the electromagnetic
-spectrum (Fig. 8.4). There is no sharp division between one kind of wave
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_4.png" alt="Fig. 8.4" onclick="openImageModal(this.src, 'Fig. 8.4: At the time Maxwell predicted the existence of electromagnetic waves, the only f...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.4</strong> At the time Maxwell predicted the existence of electromagnetic waves, the only familiar electromagnetic waves were the visible light waves. The existence of ultraviolet and infrared waves was barely established. By the end of the nineteenth century, X-rays and gamma rays had also been discovered. We now know that, electromagnetic waves include visible light waves, X-rays, gamma rays, radio waves, microwaves, ultraviolet and infrared waves. The classification of em waves according to frequency is the electromagnetic spectrum (Fig. 8.4). There is no sharp division between one kind of wave and the next. The classification is based roughly on how the waves are produced and/or detected.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 and the next. The classification is based roughly on how the waves are
 produced and/or detected.
 
 We briefly describe these different types of electromagnetic waves, in
 order of decreasing wavelengths.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1073,7 +1105,7 @@ the molecules. This raises the temperature of any food containing water.
 Microwave
 oven
 
-Reprint 2026-27
+
 
 209
 
@@ -1142,7 +1174,7 @@ Ozone layer in the atmosphere plays a protective role, and hence its
 depletion by chlorofluorocarbons (CFCs) gas (such as freon) is a matter
 of international concern.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1264,7 +1296,7 @@ Gamma rays
 Radioactive decay of the
 nucleus
 
-Reprint 2026-27
+
 
 -do-
 
@@ -1369,7 +1401,7 @@ in the medium.
 
 not
 
-Reprint 2026-27
+
 
 
 ---
@@ -1410,11 +1442,14 @@ wavelength distribution of the sun. It is because humans have evolved
 with visions most sensitive to the strongest wavelengths from
 the sun.
 
-e republished
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_5.png" alt="Fig. 8.5" onclick="openImageModal(this.src, 'Fig. 8.5: 8.1 Figure 8.5 shows a capacitor made of two circular plates each of radius 12 c...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.5</strong> 8.1 Figure 8.5 shows a capacitor made of two circular plates each of radius 12 cm, and separated by 5.0 cm. The capacitor is being charged by an external source (not shown in the figure). The charging current is constant and equal to 0.15A. (a) Calculate the capacitance and the rate of change of potential difference between the plates. (b) Obtain the displacement current across the plates. (c) Is Kirchhoff’s first rule (junction rule) valid at each plate of the capacitor? Explain.</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
-EXERCISES
-
-Figure 8.5 shows a capacitor made of two circular plates each of
 radius 12 cm, and separated by 5.0 cm. The capacitor is being
 charged by an external source (not shown in the figure). The
 charging current is constant and equal to 0.15A.
@@ -1428,16 +1463,18 @@ difference between the plates.
 (c) Is Kirchhoff's first rule (junction rule) valid at each plate of the
 capacitor? Explain.
 
-00
-
-FIGURE 8.5
-
-A parallel plate capacitor (Fig. 8.6) made of circular plates each of radius
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_6.png" alt="Fig. 8.6" onclick="openImageModal(this.src, 'Fig. 8.6: 8.2 A parallel plate capacitor (Fig. 8.6) made of circular plates each of radius...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.6</strong> 8.2 A parallel plate capacitor (Fig. 8.6) made of circular plates each of radius R = 6.0 cm has a capacitance C = 100 pF. The capacitor is connected to a 230 V ac supply with a (angular) frequency of 300 rad s–1.</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 R = 6.0 cm has a capacitance C = 100 pF. The capacitor is connected to
 a 230 V ac supply with a (angular) frequency of 300 rad s¯¹.
 
-Reprint 2026-27
+
 
 213
 
@@ -1522,5 +1559,5 @@ What is the amplitude of the oscillating magnetic field?
 (c) Show that the average energy density of the E field equals the
 average energy density of the B field. [c = 3 × 108 m s¯¹.]
 
-Reprint 2026-27
+
 

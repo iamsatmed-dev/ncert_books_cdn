@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-12083CH07
+
 
 CHAPTER 6
 
@@ -82,7 +82,7 @@ The origin of life is considered a unique event in the
 history of universe. The universe is vast. Relatively speaking
 the earth itself is almost only a speck. The universe is very
 
-Reprint 2025-26
+
 
 
 ---
@@ -128,7 +128,15 @@ evolution, i.e., formation of diverse organic molecules from inorganic
 constituents. The conditions on earth were – high temperature, volcanic
 storms, reducing atmosphere containing CH4, NH3, etc. In 1953, S.L. Miller,
 an American scientist created similar conditions in a laboratory scale
-(Figure 6.1). He created electric discharge in a closed flask containing
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_1.png" alt="Fig. 6.1" onclick="openImageModal(this.src, 'Fig. 6.1: Oparin of Russia and Haldane of England proposed that the first form of life cou...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.1</strong> Oparin of Russia and Haldane of England proposed that the first form of life could have come from pre-existing non-living organic molecules (e.g. RNA, protein, etc.) and that formation of life was preceded by chemical evolution, i.e., formation of diverse organic molecules from inorganic constituents. The conditions on earth were – high temperature, volcanic storms, reducing atmosphere containing CH4, NH3, etc. In 1953, S.L. Miller, an American scientist created similar conditions in a laboratory scale (Figure 6.1). He created electric discharge in a closed flask containing CH4, H2, NH3 and water vapour at 8000C. He observed formation of amino acids. In similar experiments others observed, formation of sugars, nitrogen bases, pigment and fats. Analysis of meteorite content also revealed similar compounds indicating that similar processes are occurring elsewhere in space. With this limited evidence, the first part of the conjectured story, i.e., chemical evolution was more or less accepted.</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 CH4, H2, NH3, and water vapour at 800°C. He observed formation of amino
 acids. In similar experiments others observed, formation of sugars,
 nitrogen bases, pigment and fats. Analysis of meteorite content also
@@ -142,7 +150,7 @@ of life arose. The first non-cellular forms of life could have originated
 
 111
 
-Reprint 2025-26
+
 
 
 ---
@@ -218,7 +226,7 @@ of earth. There has been gradual evolution of life forms. Any population
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -255,7 +263,15 @@ earth's crust indicates the arrangement of sediments one over the other
 during the long history of earth. Different-aged rock sediments contain
 fossils of different life-forms who probably died during the formation of
 the particular sediment. Some of them appear similar to modern
-organisms (Figure 6.2). They represent extinct organisms (e.g., Dinosaurs).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_2.png" alt="Fig. 6.2" onclick="openImageModal(this.src, 'Fig. 6.2: Evidence that evolution of life forms has indeed taken place on earth has come f...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.2</strong> Evidence that evolution of life forms has indeed taken place on earth has come from many quarters. Fossils are remains of hard parts of life-forms found in rocks. Rocks form sediments and a cross-section of earth's crust indicates the arrangement of sediments one over the other during the long history of earth. Different-aged rock sediments contain fossils of different life-forms who probably died during the formation of the particular sediment. Some of them appear similar to modern organisms (Figure 6.2). They represent extinct organisms (e.g., Dinosaurs). A study of fossils in different sedimentary layers indicates the geological period in which they existed. The study showed that life-forms varied over time and certain life forms are restricted to certain geological time- spans. Hence, new forms of life have arisen at different times in the history of earth. All this is called paleontological evidence. Do you remember how the ages of the fossils are calculated? Do you recollect the method of radioactive-dating and the principles behind the procedure?</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 A study of fossils in different sedimentary layers indicates the geological
 period in which they existed. The study showed that life-forms varied
 over time and certain life forms are restricted to certain geological time-
@@ -278,7 +294,7 @@ differences among organisms of today and those that existed years ago.
 
 113
 
-Reprint 2025-26
+
 
 
 ---
@@ -321,7 +337,7 @@ different directions due to adaptations to different needs. This is divergent
 evolution and these structures are homologous. Homology indicates
 common ancestry. Other examples are vertebrate hearts or brains. In
 
-Reprint 2025-26
+
 
 
 ---
@@ -374,25 +390,14 @@ breeding programme has created breeds
 that differ from other breeds (e.g., dogs) but
 still are of the same group. It is argued that
 
-elles
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_3.png" alt="Fig. 6.3" onclick="openImageModal(this.src, 'Fig. 6.3: Such similarities can be interpreted to understand whether common ancestors were...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.3</strong> Such similarities can be interpreted to understand whether common ancestors were shared or not. For example whales, bats, Cheetah and human (all mammals) share similarities in the pattern of bones of forelimbs (Figure 6.3b). Though these forelimbs perform different functions in these animals, they have similar anatomical structure – all of them have humerus, radius, ulna, carpals, metacarpals and phalanges in their forelimbs. Hence, in these animals, the same structure developed along different directions due to adaptations to different needs. This is divergent evolution and these structures are homologous. Homology indicates common ancestry. Other examples are vertebrate hearts or brains. In</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
-(a)
-
-Cucurbita
-
-Tendril
-
-uk
-
-blhed
-
-(b)
-
-Whale
-
-Bat
-
-Figure 6.3 Example of homologous organs in
 (a) Plants and (b) Animals
 
 if within hundreds of years, man could create new breeds, could not nature
@@ -408,19 +413,20 @@ the same area, i.e., the proportion was reversed.
 
 115
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 7
 
-(b)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_4.png" alt="Fig. 6.4" onclick="openImageModal(this.src, 'Fig. 6.4: The explanation put forth for this observation was that ‘predators will spot a m...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.4</strong> The explanation put forth for this observation was that ‘predators will spot a moth against a contrasting background’. During post- industrialisation period, the tree trunks became dark due to industrial smoke and soots. Under this condition the white-winged moth did not survive due to predators, dark-winged or melanised moth survived. Before industrialisation set in, thick growth of almost white-coloured lichen covered the trees - in that background the white winged moth survived but the dark-coloured moth were picked out by predators. Do you know that lichens can be used as industrial pollution indicators? They will not grow in areas that are polluted. Hence, moths that were able to camouflage themselves, i.e., hide in the background, survived (Figure 6.4). This understanding is supported by the fact that in areas where industrialisation did not occur e.g., in rural areas, the count of melanic moths was low. This showed that in a mixed population, those that can better-adapt, survive and increase in population size. Remember that no variant is completely wiped out.</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
-BIOLOGY
-
-(a)
-
-Figure 6.4 Figure showing white - winged moth and dark - winged moth (melanised)
 on a tree trunk (a) In unpolluted area (b) In polluted area
 
 116
@@ -461,23 +467,28 @@ During his journey Darwin went to Galapagos Islands. There he observed
 an amazing diversity of creatures. Of particular interest, small black birds
 later called Darwin's Finches amazed him. He realised that there were many
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 8
 
-EVOLUTION
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_5.png" alt="Fig. 6.5" onclick="openImageModal(this.src, 'Fig. 6.5: varieties of finches in the same island. All the varieties, he conjectured, evol...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.5</strong> varieties of finches in the same island. All the varieties, he conjectured, evolved on the island itself. From the original seed-eating features, many other forms with altered beaks arose, enabling them to become insectivorous and vegetarian finches (Figure 6.5). This process of evolution of different species in a given geographical area starting from a point and literally radiating to other areas of geography (habitats) is called adaptive radiation. Darwin’s finches represent one of the best examples of this phenomenon. Another example is Australian marsupials. A number of marsupials, each different from the other (
 
-1
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_6.png" alt="Fig. 6.6" onclick="openImageModal(this.src, 'Fig. 6.6: Figure 6.6 Adaptive radiation of marsupials of Australia...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.6</strong> Figure 6.6 Adaptive radiation of marsupials of Australia</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
-2
-
-3
-
-4
-
-Figure 6.5 Variety of beaks of finches that Darwin found in Galapagos Island
+<button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 varieties of finches in the same island. All the varieties, he conjectured,
 evolved on the island itself. From the original seed-eating features, many
@@ -522,7 +533,7 @@ Marsupial rat
 
 Figure 6.6 Adaptive radiation of marsupials of Australia
 
-Reprint 2025-26
+
 
 
 ---
@@ -545,7 +556,14 @@ exhibit adaptive radiation in evolving into
 varieties of such placental mammals each of
 which appears to be ‘similar' to a corresponding
 marsupial (e.g., Placental wolf and Tasmanian
-wolf-marsupial). (Figure 6.7).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_7.png" alt="Fig. 6.7" onclick="openImageModal(this.src, 'Fig. 6.7: different habitats), one can call this convergent evolution. Placental mammals i...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.7</strong> different habitats), one can call this convergent evolution. Placental mammals in Australia also exhibit adaptive radiation in evolving into varieties of such placental mammals each of which appears to be ‘similar’ to a corresponding marsupial (e.g., Placental wolf and Tasmanian wolf-marsupial). (Figure 6.7).</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 6.5 BIOLOGICAL EVOLUTION
 
@@ -621,7 +639,7 @@ of Darwinian Theory of Evolution (Figures 6.7 and 6.8).
 Even before Darwin, a French naturalist Lamarck had said that
 evolution of life forms had occurred but driven by use and disuse of
 
-Reprint 2025-26
+
 
 
 ---
@@ -680,7 +698,7 @@ some clarity.
 
 119
 
-Reprint 2025-26
+
 
 
 ---
@@ -709,37 +727,18 @@ Phenotypes
 favoured
 
 by natural
-selection
 
-Medium-sized
-individuals
-are favoured
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_8.png" alt="Fig. 6.8" onclick="openImageModal(this.src, 'Fig. 6.8: Figure 6.8 Diagrammatic representation of the operation of natural selection on ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.8</strong> Figure 6.8 Diagrammatic representation of the operation of natural selection on different</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
 
-Peak shifts in
-one direction
-
-Peak gets higher
-
-and narrower
-
-epushed
-
-(a)
-
-Number of individuals
-
-with phenotype
-
-not to
-
-Two peaks form
-
-(c)
-
-Figure 6.8 Diagrammatic representation of the operation of natural selection on different
 traits: (a) Stabilising (b) Directional and (c) Disruptive
 
-Reprint 2025-26
+
 
 (b)
 
@@ -801,7 +800,7 @@ known. Some of these cells had the ability to release O₂. The reaction
 
 121
 
-Reprint 2025-26
+
 
 
 ---
@@ -843,36 +842,13 @@ Ferns Conifers Cycads
 
 Triassic
 
-Permian
-
-Arborescent
-lycopods
-
-Carboniferous
-
-Seed ferns
-
-shed
-
-Devonian
-
-Silurian
-
-Zosterophyllum
-
-C
-
-Progymnosperms
-
-Psilophyton
-
-Tracheophyte ancestors
-
-Chlorophyte ancestors
-
-not to be propa-pe tha
-
-Figure 6.9 A sketch of the evolution of plant forms through geological periods
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_9.png" alt="Fig. 6.9" onclick="openImageModal(this.src, 'Fig. 6.9: Figure 6.9 A sketch of the evolution of plant forms through geological periods...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.9</strong> Figure 6.9 A sketch of the evolution of plant forms through geological periods</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 could have been similar to the light reaction in photosynthesis where water
 split with the help of solar energy captured and channelised by
@@ -886,7 +862,7 @@ fins could move on land and go back to water. This was about 350 mya. In
 1938, a fish caught in South Africa happened to be a Coelacanth which was
 thought to be extinct. These animals called lobefins evolved into the
 
-Reprint 2025-26
+
 
 BIOLOGY
 
@@ -931,33 +907,13 @@ Dinosaurs
 
 Birds
 
-Therapsids
-(extinct)
-
-Thecodonts
-(extinct)
-
-Sauropsids
-
-Pelycosaurs
-(extinct)
-
-300
-
-Synapsids
-
-Carboniferous
-
-350
-
-Early reptiles
-(extinct)
-
-Mammals
-
-eprese
-
-Figure 6.10 Representative evolutionary history of vertebrates through geological periods
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_10.png" alt="Fig. 6.10" onclick="openImageModal(this.src, 'Fig. 6.10: Figure 6.10 Representative evolutionary history of vertebrates through geologica...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.10</strong> Figure 6.10 Representative evolutionary history of vertebrates through geological periods</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
 first amphibians that lived on both land and water. There are no specimens
 of these left with us. However, these were ancestors of modern day frogs
@@ -968,7 +924,7 @@ and crocodiles. In the next 200 millions years or so, reptiles of different
 
 123
 
-Reprint 2025-26
+
 
 
 ---
@@ -1014,9 +970,15 @@ About 15 mya, primates called Dryopithecus and Ramapithecus were
 existing. They were hairy and walked like gorillas and chimpanzees.
 Ramapithecus was more man-like while Dryopithecus was more
 ape-like. Few fossils of man-like bones have been discovered in Ethiopia
-and
-and 
-Tanzania (Figure 6.11). These revealed hominid features leading to
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_11.png" alt="Fig. 6.11" onclick="openImageModal(this.src, 'Fig. 6.11: About 15 mya, primates called Dryopithecus and Ramapithecus were existing. They ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.11</strong> About 15 mya, primates called Dryopithecus and Ramapithecus were existing. They were hairy and walked like gorillas and chimpanzees. Ramapithecus was more man-like while Dryopithecus was more ape-like. Few fossils of man-like bones have been discovered in Ethiopia and Tanzania (Figure 6.11). These revealed hominid features leading to the belief that about 3-4 mya, man-like primates walked in eastern Africa. They were probably not taller than 4 feet but walked up right. Two mya, Australopithecines probably lived in East African grasslands. Evidence shows they hunted with stone weapons but essentially ate fruit. Some of the bones among the bones discovered were different. This creature was called the first human-like being the hominid and was called Homo habilis. The brain capacities were between 650-800cc. They probably did not eat meat. Fossils discovered in Java in 1891 revealed the next stage, i.e., Homo erectus about 1.5 mya. Homo erectus had a large brain around 900cc.</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
+
 the belief that about 3-4 mya, man-like primates walked in eastern Africa.
 They were probably not taller than 4 feet but walked up right. Two mya,
 Australopithecines probably lived in East African grasslands. Evidence
@@ -1029,7 +991,7 @@ erectus about 1.5 mya. Homo erectus had a large brain around 900cc.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -1061,7 +1023,7 @@ and decline of civilisations.
 
 125
 
-Reprint 2025-26
+
 
 
 ---
@@ -1131,5 +1093,5 @@ not t
 and discussions with your teacher, trace the evolutionary stages of
 any one animal, say horse.
 
-Reprint 2025-26
+
 

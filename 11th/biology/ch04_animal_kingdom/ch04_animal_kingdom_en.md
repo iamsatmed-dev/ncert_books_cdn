@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11080CH04
+
 
 ### 4.1 Basis of
 
@@ -51,17 +51,19 @@ organ level is exhibited by members of Platyhelminthes and other higher
 phyla where tissues are grouped together to form organs, each specialised
 for a particular function. In animals like Annelids, Arthropods, Molluscs,
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 2
 
-38
-
-BIOLOGY
-
-Figure 4.1 (a) Radial symmetry
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_1.png" alt="Fig. 4.1" onclick="openImageModal(this.src, 'Fig. 4.1: Animals can be categorised on the basis of their symmetry. Sponges are mostly as...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.1</strong> Animals can be categorised on the basis of their symmetry. Sponges are mostly asymmetrical, i.e., any plane that passes through the centre does not divide them into equal halves. When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry. Coelenterates, ctenophores and echinoderms have this kind of body plan (Figure 4.1a). Animals like annelids, arthropods, etc., where the body can be divided into identical left and right halves in only one plane, exhibit bilateral symmetry (Figure 4.1b).</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 Echinoderms and Chordates, organs have
 associated to form functional systems, each
@@ -91,19 +93,14 @@ er
 
 Figure 4.1 (b) Bilateral symmetry
 
--Ectoderm
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_2.png" alt="Fig. 4.2" onclick="openImageModal(this.src, 'Fig. 4.2: Animals in which the cells are arranged in two embryonic layers, an external ect...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.2</strong> Animals in which the cells are arranged in two embryonic layers, an external ectoderm and an internal endoderm, are called diploblastic animals, e.g., coelenterates. An undifferentiated layer, mesoglea, is present in between the ectoderm and the endoderm (Figure 4.2a). Figure 4.2 Showing germinal layers : (a) Diploblastic (b) Triploblastic</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
-Mesoglea
-
-(a)
-
-Endoderm
-
-Mesoderm
-
-(b)
-
-Figure 4.2 Showing germinal layers :
 (a) Diploblastic (b) Triploblastic
 
 Animals can be categorised on the basis of their
@@ -132,7 +129,7 @@ animals, e.g., coelenterates. An undifferentiated
 layer, mesoglea, is present in between the
 ectoderm and the endoderm (Figure 4.2a).
 
-Reprint 2025-26
+
 
 
 ---
@@ -172,7 +169,16 @@ endoderm. Such a body cavity is called
 pseudocoelom and the animals possessing them
 called pseudocoelomates, e.g.,
 aschelminthes (Figure 4.3b). The animals in
-which the body cavity is absent are called Figure 4.3 Diagrammatic sectional view of :
+which the body cavity is absent are called
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_3.png" alt="Fig. 4.3" onclick="openImageModal(this.src, 'Fig. 4.3: Presence or absence of a cavity between the body wall and the gut wall is very i...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.3</strong> Presence or absence of a cavity between the body wall and the gut wall is very important in classification. The body cavity, which is lined by mesoderm is called coelom. Animals possessing coelom are called coelomates, e.g., annelids, molluscs, arthropods, echinoderms, hemichordates and chordates (Figure 4.3a). In some animals, the body cavity is not lined by mesoderm, instead, the mesoderm is present as scattered pouches in between the ectoderm and endoderm. Such a body cavity is called pseudocoelom and the animals possessing them are called pseudocoelomates, e.g., aschelminthes (Figure 4.3b). The animals in which the body cavity is absent are called acoelomates, e.g., platyhelminthes (Figure 4.3c).</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 acoelomates, e.g., platyhelminthes (Figure 4.3c).
 
 are
@@ -201,10 +207,15 @@ structure are called non-chordates, e.g., porifera to echinoderms.
 ### 4.2 CLASSIFICATION OF ANIMALS
 
 The broad classification of Animalia, based on common fundamental
-features as mentioned in the preceding sections, is given in Figure 4.4.
+features as mentioned in the preceding sections, is given in
 
-Reprint 2025-26
-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_4.png" alt="Fig. 4.4" onclick="openImageModal(this.src, 'Fig. 4.4: The broad classification of Animalia, based on common fundamental features as me...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.4</strong> The broad classification of Animalia, based on common fundamental features as mentioned in the preceding sections, is given in Figure 4.4.</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 ---
 ## 📄 Page 4
@@ -275,9 +286,13 @@ Chordata
 *Echinodermata exhibits radial or bilateral symmetry depending on the stage.
 Figure 4.4 Broad classification of Kingdom Animalia based on common fundamental features
 
-(a)
-
-Figure 4.5
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_5.png" alt="Fig. 4.5" onclick="openImageModal(this.src, 'Fig. 4.5: Members of this phylum are commonly known as sponges. They are generally marine ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.5</strong> Members of this phylum are commonly known as sponges. They are generally marine and mostly asymmetrical animals (Figure 4.5). These are primitive multicellular animals and have cellular level of organisation. Sponges have a water transport or canal system. Water enters through minute pores (ostia) in the body wall into a central cavity, spongocoel, from where it goes out through the osculum. This pathway of water transport is helpful in food gathering, respiratory exchange and removal of waste. Choanocytes or collar cells line the spongocoel and the canals. Digestion is intracellular. The body is supported by a skeleton made up of spicules or spongin fibres. Sexes are not separate (hermaphrodite), i.e., eggs and sperms are produced by the same individual. Sponges reproduce asexually by fragmentation and sexually by formation of gametes. Fertilisation is internal and development is indirect having a larval stage which is morphologically distinct from the adult.</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 (c)
 
@@ -317,7 +332,7 @@ gametes. Fertilisation is internal and development
 is indirect having a larval stage which is
 morphologically distinct from the adult.
 
-Reprint 2025-26
+
 
 
 ---
@@ -331,7 +346,14 @@ Examples: Sycon (Scypha), Spongilla (Fresh water sponge) and Euspongia
 ### 4.2.2 Phylum – Coelenterata (Cnidaria)
 
 They are aquatic, mostly marine, sessile or free-swimming, radially
-symmetrical animals (Figure 4.6). The name cnidaria is derived from the
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_6.png" alt="Fig. 4.6" onclick="openImageModal(this.src, 'Fig. 4.6: Figure 4.6 Examples of Coelenterata indicating outline of their body form : (a) ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.6</strong> Figure 4.6 Examples of Coelenterata indicating outline of their body form : (a) Aurelia (Medusa) (b) Adamsia (Polyp)</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 (a)
 
@@ -347,7 +369,16 @@ Figure 4.6 Examples of Coelenterata indicating outline of their body form :
 
 cnidoblasts or cnidocytes (which contain the stinging capsules or
 nematocysts) present on the tentacles and the body. Cnidoblasts are used
-for anchorage, defense and for the capture of prey (Figure 4.7). Cnidarians
+for anchorage, defense and for the capture of prey (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_7.png" alt="Fig. 4.7" onclick="openImageModal(this.src, 'Fig. 4.7: cnidoblasts or cnidocytes (which contain the stinging capsules or nematocysts) p...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.7</strong> cnidoblasts or cnidocytes (which contain the stinging capsules or nematocysts) present on the tentacles and the body. Cnidoblasts are used for anchorage, defense and for the capture of prey (Figure 4.7). Cnidarians exhibit tissue level of organisation and are diploblastic. They have a central gastro-vascular cavity with a single opening, mouth on hypostome. Digestion is extracellular and intracellular. Some of the cnidarians, e.g., corals have a skeleton composed of calcium carbonate. Cnidarians exhibit two basic body forms called polyp and medusa (Figure 4.6). The former is a sessile and cylindrical form like Hydra, Adamsia, etc. whereas, the latter is umbrella-shaped and free-swimming like Aurelia or jelly fish. Those cnidarians which exist in both forms exhibit alternation of generations (Metagenesis), i.e., polyps produce medusae asexually and medusae form the polyps sexually (e.g., Obelia).</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 exhibit tissue level of organisation and are diploblastic. They have a central
 gastro-vascular cavity with a single opening, mouth on hypostome.
 Digestion is extracellular and intracellular. Some of the cnidarians, e.g.,
@@ -364,7 +395,7 @@ medusae form the polyps sexually (e.g., Obelia).
 Examples: Physalia (Portuguese man-of-war), Adamsia (Sea anemone),
 Pennatula (Sea-pen), Gorgonia (Sea-fan) and Meandrina (Brain coral).
 
-Reprint 2025-26
+
 
 41
 
@@ -372,11 +403,14 @@ Reprint 2025-26
 ---
 ## 📄 Page 6
 
-42
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_8.png" alt="Fig. 4.8" onclick="openImageModal(this.src, 'Fig. 4.8: Ctenophores, commonly known as sea walnuts or comb jellies are exclusively marin...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.8</strong> Ctenophores, commonly known as sea walnuts or comb jellies are exclusively marine, radially symmetrical, diploblastic organisms with tissue level of organisation. The body bears eight external rows of ciliated comb plates, which help in locomotion (Figure 4.8). Digestion is both extracellular and intracellular. Bioluminescence (the property of a living organism to emit light) is well-marked in ctenophores. Sexes are not separate. Reproduction takes place only by sexual means. Fertilisation is external with indirect development.</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
-BIOLOGY
-
-Figure 4.8 Example of
 Ctenophora
 (Pleurobrachia)
 
@@ -399,7 +433,15 @@ Examples: Pleurobrachia and Ctenoplana.
 ### 4.2.4 Phylum – Platyhelminthes
 
 They have dorso-ventrally flattened body, hence are called
-flatworms (Figure 4.9). These are mostly endoparasites found
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_9.png" alt="Fig. 4.9" onclick="openImageModal(this.src, 'Fig. 4.9: They have dorso-ventrally flattened body, hence are called flatworms (Figure 4.9...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.9</strong> They have dorso-ventrally flattened body, hence are called flatworms (Figure 4.9). These are mostly endoparasites found in animals including human beings. Flatworms are bilaterally symmetrical, triploblastic and acoelomate animals with organ level of organisation. Hooks and suckers are present in the parasitic forms. Some of them absorb nutrients from the host directly through their body surface. Specialised cells called flame cells help in osmoregulation and excretion. Sexes are not separate. Fertilisation is internal and development is through many larval stages. Some members like Planaria possess high regeneration capacity.</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 in animals including human beings. Flatworms are bilaterally
 symmetrical, triploblastic and acoelomate animals with organ
 level of organisation. Hooks and suckers are present in the
@@ -420,7 +462,7 @@ not
 
 Figure 4.9 Examples of Platyhelminthes : (a) Tape worm (b) Liver fluke
 
-Reprint 2025-26
+
 
 
 ---
@@ -434,7 +476,15 @@ ANIMAL KINGDOM
 
 The body of the aschelminthes is circular in
 cross-section, hence, the name roundworms
-(Figure 4.10). They may be freeliving, aquatic
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_10.png" alt="Fig. 4.10" onclick="openImageModal(this.src, 'Fig. 4.10: The body of the aschelminthes is circular in cross-section, hence, the name roun...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.10</strong> The body of the aschelminthes is circular in cross-section, hence, the name roundworms (Figure 4.10). They may be freeliving, aquatic and terrestrial or parasitic in plants and animals. Roundworms have organ-system level of body organisation. They are bilaterally symmetrical, triploblastic and pseudocoelomate animals. Alimentary canal is complete with a well- developed muscular pharynx. An excretory tube removes body wastes from the body cavity through the excretory pore. Sexes are separate (dioecious), i.e., males and females are distinct. Often females are longer than males. Fertilisation is internal and development may be direct (the young ones resemble the adult) or indirect.</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 and terrestrial or parasitic in plants and animals.
 Roundworms have organ-system level of body
 organisation. They are bilaterally symmetrical,
@@ -472,7 +522,16 @@ triploblastic, metamerically segmented and
 coelomate animals. Their body surface is
 distinctly marked out into segments or
 metameres and, hence, the phylum name
-Annelida (Latin, annulus : little ring) (Figure 4.11).
+Annelida (Latin, annulus : little ring) (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_11.png" alt="Fig. 4.11" onclick="openImageModal(this.src, 'Fig. 4.11: They may be aquatic (marine and fresh water) or terrestrial; free-living, and so...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.11</strong> They may be aquatic (marine and fresh water) or terrestrial; free-living, and sometimes parasitic. They exhibit organ-system level of body organisation and bilateral symmetry. They are triploblastic, metamerically segmented and coelomate animals. Their body surface is distinctly marked out into segments or metameres and, hence, the phylum name Annelida (Latin, annulus : little ring) (Figure 4.11). They possess longitudinal and circular muscles which help in locomotion. Aquatic annelids like Nereis possess lateral appendages, parapodia, which help in swimming. A closed circulatory system is present. Nephridia (sing. nephridium) help in osmoregulation and excretion. Neural system consists of paired ganglia (sing. ganglion) connected by lateral nerves to a double ventral nerve cord. Nereis, an aquatic form, is dioecious, but earthworms and leeches are monoecious. Reproduction is sexual.</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 They possess longitudinal and circular muscles
 which help in locomotion. Aquatic annelids like
 Nereis possess lateral appendages, parapodia,
@@ -495,27 +554,20 @@ Figure 4.11 Examples of Annelida : (a) Nereis
 
 (b) Hirudinaria
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 8
 
-44
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_12.png" alt="Fig. 4.12" onclick="openImageModal(this.src, 'Fig. 4.12: This is the largest phylum of Animalia which includes insects. Over two-thirds o...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.12</strong> This is the largest phylum of Animalia which includes insects. Over two-thirds of all named species on earth are arthropods (Figure 4.12). They have organ-system level of organisation. They are bilaterally symmetrical, triploblastic, segmented and coelomate animals. The body of arthropods is covered by chitinous exoskeleton. The body consists of head, thorax and abdomen. They have jointed appendages (arthros-joint, poda-appendages). Respiratory organs are gills, book gills, book lungs or tracheal system. Circulatory system is of open type. Sensory organs like antennae, eyes (compound and simple), statocysts or balancing organs are present. Excretion takes place through malpighian tubules. They are mostly dioecious. Fertilisation is usually internal. They are mostly oviparous. Development may be direct or indirect. Examples: Economically important insects – Apis (Honey bee), Bombyx (Silkworm), Laccifer (Lac insect) Vectors – Anopheles, Culex and Aedes (Mosquitoes) Gregarious pest – Locusta (Locust) Living fossil – Limulus (King crab).</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
-BIOLOGY
-
-(a)
-
-(c)
-
-(b)
-
-(d)
-
-000
-
-Figure 4.12 Examples of Arthropoda:
 (a) Locust (b) Butterfly
 (c) Scorpion (d) Prawn
 
@@ -554,15 +606,14 @@ Living fossil - Limulus (King crab).
 
 ### 4.2.8 Phylum – Mollusca
 
-ONCE
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_13.png" alt="Fig. 4.13" onclick="openImageModal(this.src, 'Fig. 4.13: This is the second largest animal phylum (Figure 4.13). Molluscs are terrestrial...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.13</strong> This is the second largest animal phylum (Figure 4.13). Molluscs are terrestrial or aquatic (marine or fresh water) having an organ-system level of organisation. They are bilaterally symmetrical, triploblastic and coelomate animals. Body is covered by a calcareous shell and is unsegmented with a distinct head, muscular foot and visceral hump. A soft and spongy layer of skin forms a mantle over the visceral hump. The space between the hump and the mantle is called the mantle cavity in which feather like gills are present. They have respiratory and excretory functions. The anterior head region has sensory tentacles. The mouth contains a file-like rasping organ for feeding, called radula.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
-not to be r
-
-(a)
-
-(b)
-
-Figure 4.13 Examples of Mollusca:
 (a) Pila (b) Octopus
 
 This is the second largest animal phylum
@@ -582,7 +633,7 @@ anterior head region has sensory tentacles. The
 mouth contains a file-like rasping organ for
 feeding, called radula.
 
-Reprint 2025-26
+
 
 
 ---
@@ -604,8 +655,16 @@ Echinodermata
 (a)
 
 These animals have an endoskeleton of calcareous ossicles
-and, hence, the name Echinodermata (Spiny bodied, Figure
-4.14). All are marine with organ-system level of organisation.
+and, hence, the name Echinodermata (Spiny bodied,
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_14.png" alt="Fig. 4.14" onclick="openImageModal(this.src, 'Fig. 4.14: These animals have an endoskeleton of calcareous ossicles and, hence, the name E...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.14</strong> These animals have an endoskeleton of calcareous ossicles and, hence, the name Echinodermata (Spiny bodied, Figure 4.14). All are marine with organ-system level of organisation. The adult echinoderms are radially symmetrical but larvae are bilaterally symmetrical. They are triploblastic and coelomate animals. Digestive system is complete with mouth on the lower (ventral) side and anus on the upper (dorsal) side. The most distinctive feature of echinoderms is the presence of water vascular system which helps in locomotion, capture and transport of food and respiration. An excretory system is absent. Sexes are separate. Reproduction is sexual. Fertilisation is usually external. Development is indirect with free-swimming larva. Examples: Asterias (Star fish), Echinus (Sea urchin), Antedon (Sea lily), Cucumaria (Sea cucumber) and Ophiura (Brittle star).</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 The adult echinoderms are radially symmetrical but larvae
 are bilaterally symmetrical. They are triploblastic and
 coelomate animals. Digestive system is complete with mouth
@@ -637,7 +696,16 @@ This phylum consists of a small group of worm-like
 marine animals with organ-system level of organisation. They
 are bilaterally symmetrical, triploblastic and coelomate
 animals. The body is cylindrical and is composed of an
-anterior proboscis, a collar and a long trunk (Figure 4.15).
+anterior proboscis, a collar and a long trunk (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_15.png" alt="Fig. 4.15" onclick="openImageModal(this.src, 'Fig. 4.15: This phylum consists of a small group of worm-like marine animals with organ-sys...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.15</strong> This phylum consists of a small group of worm-like marine animals with organ-system level of organisation. They are bilaterally symmetrical, triploblastic and coelomate animals. The body is cylindrical and is composed of an anterior proboscis, a collar and a long trunk (Figure 4.15). Circulatory system is of open type. Respiration takes place through gills. Excretory organ is proboscis gland. Sexes are separate. Fertilisation is external. Development is indirect.</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 Circulatory system is of open type. Respiration takes place
 through gills. Excretory organ is proboscis gland. Sexes are
 separate. Fertilisation is external. Development is indirect.
@@ -657,7 +725,7 @@ Trunk
 
 Figure 4.15 Balanoglossus
 
-Reprint 2025-26
+
 
 45
 
@@ -674,7 +742,15 @@ Nerve cord Notochord
 Post-anal part
 
 hollow nerve cord and paired pharyngeal
-gill slits (Figure 4.16). These are bilaterally
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_16.png" alt="Fig. 4.16" onclick="openImageModal(this.src, 'Fig. 4.16: hollow nerve cord and paired pharyngeal gill slits (Figure 4.16). These are bila...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.16</strong> hollow nerve cord and paired pharyngeal gill slits (Figure 4.16). These are bilaterally symmetrical, triploblastic, coelomate with organ-system level of organisation. They possess a post anal tail and a closed circulatory system. Table 4.1 presents a comparison of salient features of chordates and non-chordates.</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 symmetrical, triploblastic, coelomate with
 organ-system level of organisation. They
 possess a post anal tail and a closed circulatory
@@ -729,15 +805,13 @@ Phylum Chordata is divided into three
 subphyla: Urochordata or Tunicata,
 Cephalochordata and Vertebrata.
 
-Subphyla
-
-*
-
-NCE
-
-be
-
-Figure 4.17 Ascidia
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_17.png" alt="Fig. 4.17" onclick="openImageModal(this.src, 'Fig. 4.17: Subphyla Urochordata and Cephalochordata are often referred to as protochordates...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.17</strong> Subphyla Urochordata and Cephalochordata are often referred to as protochordates (Figure 4.17) and are exclusively marine. In Urochordata, notochord is present only in larval tail, while in Cephalochordata, it extends from head to tail region and is persistent throughout their life.</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
 Urochordata
 
@@ -765,7 +839,7 @@ chambers, kidneys for excretion and
 osmoregulation and paired appendages which
 may be fins or limbs.
 
-Reprint 2025-26
+
 
 
 ---
@@ -825,7 +899,15 @@ All living members of the class Cyclostomata are
 ectoparasites on some fishes. They have an
 elongated body bearing 6-15 pairs of gill slits
 for respiration. Cyclostomes have a sucking and
-circular mouth without jaws (Fig. 4.18). Their
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_18.png" alt="Fig. 4.18" onclick="openImageModal(this.src, 'Fig. 4.18: All living members of the class Cyclostomata are ectoparasites on some fishes. T...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.18</strong> All living members of the class Cyclostomata are ectoparasites on some fishes. They have an elongated body bearing 6-15 pairs of gill slits for respiration. Cyclostomes have a sucking and circular mouth without jaws (Fig. 4.18). Their body is devoid of scales and paired fins. Cranium and vertebral column are cartilaginous. Circulation is of closed type. Cyclostomes are marine but migrate for spawning to fresh water. After spawning, within a few days, they die. Their larvae, after metamorphosis, return to the ocean.</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 body is devoid of scales and paired fins.
 Cranium and vertebral column are
 cartilaginous. Circulation is of closed type.
@@ -845,7 +927,15 @@ Chondrichthyes
 
 They are marine animals with streamlined body
 and have cartilaginous endoskeleton
-(Figure 4.19). Mouth is located ventrally.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_19.png" alt="Fig. 4.19" onclick="openImageModal(this.src, 'Fig. 4.19: They are marine animals with streamlined body and have cartilaginous endoskeleto...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.19</strong> They are marine animals with streamlined body and have cartilaginous endoskeleton (Figure 4.19). Mouth is located ventrally. Notochord is persistent throughout life. Gill slits are separate and without operculum (gill cover). The skin is tough, containing minute placoid scales. Teeth are modified placoid scales which are backwardly directed. Their jaws are very powerful. These animals are predaceous. Due to the absence of air bladder, they have to swim constantly to avoid sinking.</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 Notochord is persistent throughout life. Gill
 slits are separate and without operculum (gill
 cover). The skin is tough, containing minute
@@ -864,7 +954,7 @@ Figure 4.18 A jawless vertebrate - Petromyzon
 Figure 4.19 Example of Cartilaginous fishes :
 (a) Scoliodon (b) Pristis
 
-Reprint 2025-26
+
 
 
 ---
@@ -887,7 +977,14 @@ are separate. In males pelvic fins bear claspers. They
 have internal fertilisation and many of them are
 viviparous.
 
-Figure 4.20 Examples of Bony fishes :
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_20.png" alt="Fig. 4.20" onclick="openImageModal(this.src, 'Fig. 4.20: It includes both marine and fresh water fishes with bony endoskeleton. Their bod...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.20</strong> It includes both marine and fresh water fishes with bony endoskeleton. Their body is streamlined. Mouth is mostly terminal (Figure 4.20). They have four pairs of gills which are covered by an operculum on each side. Skin is covered with cycloid/ctenoid scales. Air bladder is present which regulates buoyancy. Heart is two- chambered (one auricle and one ventricle). They are cold-blooded animals. Sexes are separate. Fertilisation is usually external. They are mostly oviparous and development is direct.</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
 (a) Hippocampus (b) Catla
 
 Examples: Scoliodon (Dog fish), Pristis (Saw fish),
@@ -924,12 +1021,14 @@ Catla (Katla), Clarias (Magur); Aquarium
 (Fighting fish), Pterophyllum (Angel fish).
 
 ### 4.2.11
-4.2.11.4 
-Class – Amphibia
 
-o be
-
-Figure 4.21 Examples of Amphibia :
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_21.png" alt="Fig. 4.21" onclick="openImageModal(this.src, 'Fig. 4.21: As the name indicates (Gr., Amphi : dual, bios, life), amphibians can live in aq...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.21</strong> As the name indicates (Gr., Amphi : dual, bios, life), amphibians can live in aquatic as well as terrestrial habitats (Figure 4.21). Most of them have two pairs of limbs. Body is divisible into head and trunk. Tail may be present in some. The amphibian skin is moist (without scales). The eyes have eyelids. A tympanum represents the ear. Alimentary canal, urinary and reproductive tracts open into a common chamber called cloaca which opens to the exterior. Respiration is by gills, lungs and through skin. The heart is three- chambered (two auricles and one ventricle). These are cold-blooded animals. Sexes are separate. Fertilisation is external. They are oviparous and development is indirect.</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 (a) Salamandra
 (b) Rana
@@ -955,25 +1054,19 @@ Examples: Bufo (Toad), Rana (Frog), Hyla (Tree frog),
 Salamandra (Salamander), Ichthyophis (Limbless
 amphibia).
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 13
 
-ANIMAL KINGDOM
-
-49
-
-己
-
-(a)
-
-(b)
-
-(c)
-
-Figure 4.22 Reptiles: (a) Chameleon (b) Crocodilus (c) Chelone (d) Naja
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_22.png" alt="Fig. 4.22" onclick="openImageModal(this.src, 'Fig. 4.22: The class name refers to their creeping or crawling mode of locomotion (Latin, r...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.22</strong> The class name refers to their creeping or crawling mode of locomotion (Latin, repere or reptum, to creep or crawl). They are mostly terrestrial animals and their body is covered by dry and cornified skin, epidermal scales or scutes (Fig. 4.22). They do not have external ear openings. Tympanum represents ear. Limbs, when present, are two pairs. Heart is usually three-chambered, but four-chambered in crocodiles. Reptiles are poikilotherms. Snakes and lizards shed their scales as skin cast. Sexes are separate. Fertilisation is internal. They are oviparous and development is direct.</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 ### 4.2.11.5 Class
 
@@ -1006,7 +1099,15 @@ to
 
 The characteristic features of Aves (birds) are the presence of feathers
 and most of them can fly except flightless birds (e.g., Ostrich). They possess
-beak (Figure 4.23). The forelimbs are modified into wings. The hind limbs
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_23.png" alt="Fig. 4.23" onclick="openImageModal(this.src, 'Fig. 4.23: The characteristic features of Aves (birds) are the presence of feathers and mos...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.23</strong> The characteristic features of Aves (birds) are the presence of feathers and most of them can fly except flightless birds (e.g., Ostrich). They possess beak (Figure 4.23). The forelimbs are modified into wings. The hind limbs generally have scales and are modified for walking, swimming or clasping the tree branches. Skin is dry without glands except the oil gland at the base of the tail. Endoskeleton is fully ossified (bony) and the long bones are hollow with air cavities (pneumatic). The digestive tract of birds has additional chambers, the crop and gizzard. Heart is completely four- chambered. They are warm-blooded (homoiothermous) animals, i.e., they are able to maintain a constant body temperature. Respiration is by</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 generally have scales and are modified for walking, swimming or clasping
 the tree branches. Skin is dry without glands except the oil gland at the
 base of the tail. Endoskeleton is fully ossified (bony) and the long bones
@@ -1015,7 +1116,7 @@ additional chambers, the crop and gizzard. Heart is completely four-
 chambered. They are warm-blooded (homoiothermous) animals, i.e.,
 they are able to maintain a constant body temperature. Respiration is by
 
-Reprint 2025-26
+
 
 
 ---
@@ -1051,7 +1152,15 @@ forests, grasslands and dark caves. Some of them have adapted to fly or
 live in water. The most unique mammalian characteristic is the presence
 of milk producing glands (mammary glands) by which the young ones
 are nourished. They have two pairs of limbs, adapted for walking, running,
-climbing, burrowing, swimming or flying (Figure 4.24). The skin of
+climbing, burrowing, swimming or flying (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_24.png" alt="Fig. 4.24" onclick="openImageModal(this.src, 'Fig. 4.24: They are found in a variety of habitats – polar ice caps, deserts, mountains, fo...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.24</strong> They are found in a variety of habitats – polar ice caps, deserts, mountains, forests, grasslands and dark caves. Some of them have adapted to fly or live in water. The most unique mammalian characteristic is the presence of milk producing glands (mammary glands) by which the young ones are nourished. They have two pairs of limbs, adapted for walking, running, climbing, burrowing, swimming or flying (Figure 4.24). The skin of</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
 (a)
 
@@ -1063,7 +1172,7 @@ climbing, burrowing, swimming or flying (Figure 4.24). The skin of
 
 Figure 4.24 Some mammals: (a) Ornithorhynchus (b) Macropus (c) Pteropus (d) Balaenoptera
 
-Reprint 2025-26
+
 
 
 ---
@@ -1288,7 +1397,7 @@ Present Present
 
 Present Present
 
-Reprint 2025-26
+
 
 
 ---
@@ -1340,7 +1449,7 @@ to live both on land and water. Reptiles are characterised by the presence
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -1400,7 +1509,7 @@ viviparous mother be equal? Why?
 
 (a) Platyhelminthes (b) Aschelminthes (c) Annelida (d) Arthropoda
 
-Reprint 2025-26
+
 
 
 ---
@@ -1450,7 +1559,7 @@ beings.
 
 © NCERT
 
-not to be republished
 
-Reprint 2025-26
+
+
 

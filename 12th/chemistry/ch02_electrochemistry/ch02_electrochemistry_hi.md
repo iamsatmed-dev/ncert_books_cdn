@@ -7,7 +7,7 @@
 
 उद्देश्य
 
-12087CH03
+
 
 इस एकक के अध्ययन के पश्चात् आप-
 
@@ -104,7 +104,7 @@ m
 एक अतिविस्तृत एवं अंतरविषयी विषय है। इस एकक में हम केवल
 इसके कुछ महत्वपूर्ण प्रारंभिक पहलुओं पर विचार करेंगे।
 
-Reprint 2026-27
+
 
 
 ---
@@ -114,7 +114,15 @@ Reprint 2026-27
 
 इलेक्ट्रॉनों का प्रवाह
 
-### 2.1 वैद्युत रासायनिक डेन्यल सेल की संरचना एवं कार्यविधि के बारे में हम चित्र 2.1 से समझ सकते
+### 2.1 वैद्युत रासायनिक डेन्यल सेल की संरचना एवं कार्यविधि के बारे में हम
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch02_electrochemistry_fig_2_hi.png" alt="चित्र 2" onclick="openImageModal(this.src, 'चित्र 2: MsU;y lsy dh lajpuk ,oa dk;Zfofèk osQ ckjs esa ge fp=k 2-1 ls le> ldrs gSaA ;g l...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2</strong> MsU;y lsy dh lajpuk ,oa dk;Zfofèk osQ ckjs esa ge fp=k 2-1 ls le> ldrs gSaA ;g lsy fuEufyf[kr jsMkWDl vfHkfØ;k esa mRlftZr jklk;fud ÅtkZ dks oS|qr ÅtkZ esa ifjofrZr djrh gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 हैं। यह सेल निम्नलिखित रेडॉक्स अभिक्रिया में उत्सर्जित रासायनिक ऊर्जा को वैद्युत
 ऊर्जा में परिवर्तित करती है।
@@ -150,7 +158,16 @@ Zn(s) + Cu²+(aq) → Zn2+(aq) + Cu(s)
 
 अपने-अपने लवणों के
 
-यदि गैल्वैनी सेल में एक विपरीत बाह्य विभव लगाया जाए (चित्र 2.2 क) एवं इसे
+यदि गैल्वैनी सेल में एक विपरीत बाह्य विभव लगाया जाए (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch02_electrochemistry_fig_2_2_hi.png" alt="चित्र 2.2" onclick="openImageModal(this.src, 'चित्र 2.2: ;fn xSYoSuh lsy esa ,d foijhr cká foHko yxk;k tk, (fp=k 2.2 d) ,oa bls èkhjs&èkh...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.2</strong> ;fn xSYoSuh lsy esa ,d foijhr cká foHko yxk;k tk, (fp=k 2.2 d) ,oa bls èkhjs&èkhjs c<+k;k tk,] rks ge ns[krs gSa fd vfHkfØ;k rc rd pyrh jgrh gS tc rd fd cká foHko 1.1 V ugha gks tkrk] bl fLFkfr esa vfHkfØ;k iw.kZr% #d tkrh gS ,oa lsy esa fo|qr èkkjk izokfgr ugha gksrhA cká foHko esa dksbZ Hkh vfrfjDr o`f¼ vfHkfØ;k dks iqu% ijarq foijhr fn'kk esa izkjaHk dj nsrh gS (fp=k 2.2 x)A vc ;g ,d oS|qrvi?kVuh lsy osQ leku dk;Z djrh gS tks fd ,d Lor% vizofrZr jklk;fud vfHkfØ;k dks fo|qrh; ÅtkZ osQ mi;ksx ls izkjaHk djus dh ;qfDr gSA nksuksa gh lsy cgqr egRoiw.kZ gksrs gSaA budh oqQN izeq[k fo'ks"krkvksa dk vè;;u vkxs osQ i`"Bksa esa djsaxsA</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 धीरे-धीरे बढ़ाया जाए, तो हम देखते हैं कि अभिक्रिया तब तक चलती रहती है जब तक कि
 बाह्य विभव 1.1 V नहीं हो जाता, इस स्थिति में अभिक्रिया पूर्णतः रुक जाती है एवं सेल
 में विद्युत धारा प्रवाहित नहीं होती। बाह्य विभव में कोई भी अतिरिक्त वृद्धि अभिक्रिया को
@@ -255,7 +272,7 @@ CuSO4
 
 रसायन विज्ञान 32
 
-Reprint 2026-27
+
 
 
 ---
@@ -317,7 +334,7 @@ not
 इलैक्ट्रोड से धनात्मक इलैक्ट्रोड की ओर प्रवाहित होने लगते हैं। विद्युतधारा के प्रवाह की दिशा
 इलेक्ट्रॉनों के प्रवाह की दिशा के विपरीत होती है।
 
-Reprint 2026-27
+
 
 33 वैद्युतरसायन
 
@@ -401,7 +418,7 @@ not
 
 रसायन विज्ञान 34
 
-Reprint 2026-27
+
 
 
 ---
@@ -493,7 +510,7 @@ not
 
 35 वैद्युतरसायन
 
-Reprint 2026-27
+
 
 
 ---
@@ -559,7 +576,7 @@ C
 
 रसायन विज्ञान 36
 
-Reprint 2026-27
+
 
 
 ---
@@ -577,21 +594,15 @@ F2(g) + 2e
 
 2F
 
-### 2.87
-
-Co³+ + e
+### 2.87 Co³+ + e
 
 → Co2+
 
-### 1.81
-
-H2O2 + 2H+ + 2e¯
+### 1.81 H2O2 + 2H+ + 2e¯
 
 → 2H2O
 
-### 1.78
-
-MnO4 + 8H+ + 5e¯
+### 1.78 MnO4 + 8H+ + 5e¯
 
 → Mn2+ + 4H2O
 
@@ -603,9 +614,7 @@ Au³+ + 3e
 
 → Au(s)
 
-### 1.40
-
-Cl2(g) + 2e
+### 1.40 Cl2(g) + 2e
 
 → 2Cl
 
@@ -757,7 +766,7 @@ Fe(s)
 
 37 वैद्युतरसायन
 
-Reprint 2026-27
+
 
 
 ---
@@ -893,7 +902,7 @@ Zn2+ (aq)
 
 रसायन विज्ञान 38
 
-Reprint 2026-27
+
 
 
 ---
@@ -1009,7 +1018,7 @@ Zn(s) + Cu²+(aq) → Zn2+(aq) + Cu(s)
 जा सकता है, घटती जाती है। कुछ समय पश्चात् Cu2+ एवं Zn2+ आयनों की सांद्रता स्थिर
 39 वैद्युतरसायन
 
-Reprint 2026-27
+
 
 
 ---
@@ -1128,7 +1137,7 @@ log
 
 कता है-
 
-Reprint 2026-27
+
 
 
 ---
@@ -1247,7 +1256,7 @@ Ni(s) + 2Ag+ (0.002 M) → Ni2+ (0.160 M) + 2Ag(s)
 
 (सेल)
 
-Reprint 2026-27
+
 
 41 वैद्युतरसायन
 
@@ -1321,7 +1330,7 @@ IUPAC ने विशिष्ट चालकत्व के स्थान 
 विद्युतरोधियों एवं अर्धचालकों में वर्गीकृत किया गया है। धातुओं एवं मिश्रधातुओं की चालकता
 बहुत अधिक होने के कारण इन्हें चालक कहा जाता है। कुछ अधातुएं जैसे कार्बन-ब्लैक
 
-Reprint 2026-27
+
 
 
 ---
@@ -1362,9 +1371,7 @@ S m¯¹
 
 0.1 M HC1
 
-### 3.91
-
-सिल्वर (चाँदी)
+### 3.91 सिल्वर (चाँदी)
 
 6.2×103
 
@@ -1455,7 +1462,7 @@ Ge
 
 43 वैद्युतरसायन
 
-Reprint 2026-27
+
 
 
 ---
@@ -1538,7 +1545,7 @@ A
 
 44
 
-Reprint 2026-27
+
 
 
 ---
@@ -1676,7 +1683,7 @@ C
 
 (2.20)
 
-Reprint 2026-27
+
 
 (2.21)
 45 वैद्युतरसायन
@@ -1781,7 +1788,7 @@ Am = к × 1000 cm³ L¯¹ molarity¯¹
 
 0.248×10-2 Scm¯¹×1000 cm³ L-1
 
-Reprint 2026-27
+
 
 0.02 mol L¹
 
@@ -1917,7 +1924,7 @@ not to
 
 47 वैद्युतरसायन
 
-Reprint 2026-27
+
 
 
 ---
@@ -2011,7 +2018,7 @@ Am = Em-Ac
 करता है। अतः, NaCl, CaCl2, MgSO4 क्रमशः 1-1, 2-1 एवं 2-2 वैद्युतअपघट्य के
 रूप में जाने जाते हैं। एक प्रकार के सभी वैद्युतअपघट्यों के लिए 'A' का मान समान होता है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -2107,7 +2114,7 @@ Am/S cm² mol-1
 
 49 वैद्युतरसायन
 
-Reprint 2026-27
+
 
 
 ---
@@ -2214,7 +2221,7 @@ not to be re
 पूर्णतया वियोजित हो जाता है (a = 1) परंतु इतनी कम सांद्रता पर विलयन की चालकता इतनी
 कम हो जाती है कि इसके वास्तविक मान को नहीं मापा जा सकता। अतः दुर्बल
 
-Reprint 2026-27
+
 
 
 ---
@@ -2326,7 +2333,7 @@ Na+
 = (425.9 + 91.0 – 126.4 ) Scm² mol -1
 = 390.5 S cm² mol-1.
 
-Reprint 2026-27
+
 
 51 वैद्युतरसायन
 
@@ -2425,7 +2432,7 @@ Cu(s) → Cu²+(s) + 2e¯
 निक्षेपित (अपचित) होता है। यह उस औद्योगिक प्रक्रम का आधार है जिसमें अशुद्ध कॉपर
 को उच्च शुद्धता के कॉपर में बदला जाता है। अशुद्ध कॉपर को ऐनोड बनाया जाता है जो कि
 
-Reprint 2026-27
+
 
 
 ---
@@ -2487,7 +2494,7 @@ A
 
 not
 
-Reprint 2026-27
+
 
 53 वैद्युतरसायन
 
@@ -2560,7 +2567,7 @@ notched
 दौरान NaOH, Cl₂ एवं H₂ उत्पाद बनते हैं। इसमें Na* एवं CI के अतिरिक्त H⁺ एवं
 OH- आयन एवं विलायक अणु H₂O भी उपस्थित होते हैं।
 
-Reprint 2026-27
+
 
 
 ---
@@ -2703,7 +2710,7 @@ E (से
 
 55 वैद्युतरसायन
 
-Reprint 2026-27
+
 
 
 ---
@@ -2781,7 +2788,7 @@ MnO2+ NH4++ e¯→ MnO(OH) + NH3
 मयूरी सेल श्रवण यंत्र, घड़ियों आदि जैसी विद्युत् की कम मात्रा की आवश्यकता वाली
 युक्तियों के लिए उपयुक्त होती है (चित्र 2.9)। इसमें जिंक मर्क्युरी अमलगम ऐनोड का तथा
 
-Reprint 2026-27
+
 
 
 ---
@@ -2884,7 +2891,7 @@ PbO₂ से युक्त ग्रिड्स
 
 Cd (s)+2Ni(OH)3 (s) → CdO (s) +2Ni(OH)2 (s) +H2O(l)
 
-Reprint 2026-27
+
 
 57 वैद्युतरसायन
 
@@ -2957,7 +2964,7 @@ O₂ का उपयोग कर
 
 रसायन विज्ञान 58
 
-Reprint 2026-27
+
 
 
 ---
@@ -3052,7 +3059,7 @@ O2(g) → Fe2O3(s) + 4H*(aq)
 
 59 वैद्युतरसायन
 
-Reprint 2026-27
+
 
 
 ---
@@ -3110,7 +3117,7 @@ m'
 
 रसायन विज्ञान 60
 
-Reprint 2026-27
+
 
 
 ---
@@ -3198,7 +3205,7 @@ m
 सभी सांद्रताओं के लिए Am का परिकलन कीजिए एवं Am तथा c के मध्य एक आलेख खींचिए। 1 का मान ज्ञात कीजिए।
 61 वैद्युतरसायन
 
-Reprint 2026-27
+
 
 
 ---
@@ -3282,5 +3289,5 @@ repubished
 
 रसायन विज्ञान 62
 
-Reprint 2026-27
+
 

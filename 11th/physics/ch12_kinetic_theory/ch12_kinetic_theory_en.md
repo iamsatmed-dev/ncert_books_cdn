@@ -23,7 +23,7 @@ CHAPTER TWELVE
 
 KINETIC THEORY
 
-11087CH13
+
 
 Introduction
 
@@ -83,7 +83,7 @@ but repelling upon being squeezed into one another.
 Speculation that matter may not be continuous, existed in
 many places and cultures. Kanada in India and Democritus
 
-Reprint 2025-26
+
 
 
 ---
@@ -184,7 +184,7 @@ and a short range repulsion. The atoms attract
 when they are at a few angstroms but repel when
 they come closer. The static appearance of a gas
 
-Reprint 2025-26
+
 
 
 ---
@@ -311,37 +311,13 @@ PV = k, NT
 
 (Jmol¯¹K
 
-or
-
-1
-
-T
-
-T
-
-P = k nT
-
-Ideal gas
-
-2
-
-T₁ > T₂ > T>
-
-T3
-
-0
-
-200
-
-400
-
-600
-
-800
-
-P (atm)
-
-Fig.12.1 Real gases approach ideal gas behaviour at
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_1.png" alt="Fig. 12.1" onclick="openImageModal(this.src, 'Fig. 12.1: P (atm) Fig.12.1 Real gases approach ideal gas behaviour at low pressures and hi...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.1</strong> P (atm) Fig.12.1 Real gases approach ideal gas behaviour at low pressures and high temperatures.</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 low pressures and high temperatures.
 
@@ -359,7 +335,7 @@ Mo
 
 (12.5)
 
-Reprint 2025-26
+
 
 
 ---
@@ -393,7 +369,25 @@ PV = constant
 
 i.e., keeping temperature constant, pressure of
 a given mass of gas varies inversely with volume.
-This is the famous Boyle's law. Fig. 12.2 shows
+This is the famous Boyle's law.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_2.png" alt="Fig. 12.2" onclick="openImageModal(this.src, 'Fig. 12.2: PV = constant (12.6) i.e., keeping temperature constant, pressure of a given mas...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.2</strong> PV = constant (12.6) i.e., keeping temperature constant, pressure of a given mass of gas varies inversely with volume. This is the famous Boyle’s law. Fig. 12.2 shows comparison between experimental P-V curves and the theoretical curves predicted by Boyle’s law. Once again you see that the agreement is good at high temperatures and low pressures. Next, if you fix P, Eq. (12.1) shows that V ∝ T i.e., for a fixed pressure, the volume of a gas is proportional to its absolute temperature T (Charles’ law). See
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_3.png" alt="Fig. 12.3" onclick="openImageModal(this.src, 'Fig. 12.3: Fig. 12.3 Experimental T-V curves (solid lines) for CO2...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.3</strong> Fig. 12.3 Experimental T-V curves (solid lines) for CO2</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
+<button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 comparison between experimental P-V curves
 and the theoretical curves predicted by Boyle's
 law. Once again you see that the agreement is
@@ -449,15 +443,11 @@ o be republished
 
 ### 1.6
 
-### 1.4
-
-P
+### 1.4 P
 
 ### 1.2
 
-### 1.0
-
-T
+### 1.0 T
 
 0.8
 
@@ -521,7 +511,7 @@ occupied by the water vapour under the
 above conditions of temperature and
 pressure.
 
-Reprint 2025-26
+
 
 
 ---
@@ -681,7 +671,7 @@ velocities change. These interactions are called
 collisions. The molecules collide incessantly
 against each other or with the walls and change
 
-Reprint 2025-26
+
 
 
 ---
@@ -708,7 +698,15 @@ conserved as usual.
 
 Consider a gas enclosed in a cube of side 1. Take
 the axes to be parallel to the sides of the cube,
-as shown in Fig. 12.4. A molecule with velocity
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_4.png" alt="Fig. 12.4" onclick="openImageModal(this.src, 'Fig. 12.4: Consider a gas enclosed in a cube of side l. Take the axes to be parallel to the...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.4</strong> Consider a gas enclosed in a cube of side l. Take the axes to be parallel to the sides of the cube, as shown in Fig. 12.4. A molecule with velocity (vx, vy, vz ) hits the planar wall parallel to yz- plane of area A (= l2). Since the collision is elastic, the molecule rebounds with the same velocity; its y and z components of velocity do not change in the collision but the x-component reverses sign. That is, the velocity after collision is (-vx, vy, vz ) . The change in momentum of the molecule is: –mvx – (mvx) = – 2mvx . By the principle of conservation of momentum, the momentum imparted to the wall in the collision = 2mvx .</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 (vx, v, v₂) hits the planar wall parallel to yz-
 plane of area A (= I2). Since the collision is elastic,
 the molecule rebounds with the same velocity;
@@ -832,7 +830,7 @@ some molecule, there will always be some other
 
 X
 
-Reprint 2025-26
+
 
 
 ---
@@ -1015,7 +1013,7 @@ molecule = (3/2)) kTwhere m is the mass
 E denotes the translational part of the internal energy U that may include energies due to other degrees of
 freedom also. See section 12.5.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1108,7 +1106,15 @@ individually, colliding with the walls of the long
 pore. The faster molecule will leak out more than
 the slower one and so there is more of the lighter
 molecule (enrichment) outside the porous
-cylinder (Fig. 12.5). The method is not very
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_5.png" alt="Fig. 12.5" onclick="openImageModal(this.src, 'Fig. 12.5: [235U is the isotope needed for nuclear fission. To separate it from the more ab...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.5</strong> [235U is the isotope needed for nuclear fission. To separate it from the more abundant isotope 238U, the mixture is surrounded by a porous cylinder. The porous cylinder must be thick and narrow, so that the molecule wanders through individually, colliding with the walls of the long pore. The faster molecule will leak out more than the slower one and so there is more of the lighter molecule (enrichment) outside the porous cylinder (Fig. 12.5). The method is not very efficient and has to be repeated several times for sufficient enrichment.]. ⊳ When gases diffuse, their rate of diffusion is inversely proportional to square root of the masses (see Exercise 12.12 ). Can you guess the explanation from the above answer?</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 efficient and has to be repeated several times
 for sufficient enrichment.].
 
@@ -1156,7 +1162,7 @@ with the bat. The rebound speed will be less than
 u if the bat is not massive. For a molecule this
 would imply an increase in temperature.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1312,7 +1318,16 @@ only translational degrees of freedom. But what
 about a diatomic gas such as O₂ or N₂? A
 molecule of O₂ has three translational degrees
 of freedom. But in addition it can also rotate
-about its centre of mass. Figure 12.6 shows the
+about its centre of mass.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_6.png" alt="Fig. 12.6" onclick="openImageModal(this.src, 'Fig. 12.6: Molecules of a monatomic gas like argon have only translational degrees of freed...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.6</strong> Molecules of a monatomic gas like argon have only translational degrees of freedom. But what about a diatomic gas such as O2 or N2? A molecule of O2 has three translational degrees of freedom. But in addition it can also rotate about its centre of mass. Figure 12.6 shows the two independent axes of rotation 1 and 2, normal</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 two independent axes of rotation 1 and 2, normal
 
 *
@@ -1368,7 +1383,7 @@ variables of motion y and dy/dt.
 Rotation along the line joining the atoms has very small moment of inertia and does not come into play for
 quantum mechanical reasons. See end of section 12.6.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1588,7 +1603,7 @@ Table 12.1 summarises the theoretical
 predictions for specific heats of gases ignoring
 any vibrational modes of motion. The values are
 
-Reprint 2025-26
+
 
 
 ---
@@ -1633,9 +1648,7 @@ Monatomic
 
 8.31
 
-### 1.67
-
-Diatomic
+### 1.67 Diatomic
 
 20.8
 
@@ -1643,17 +1656,13 @@ Diatomic
 
 8.31
 
-### 1.40
-
-Triatomic 24.93
+### 1.40 Triatomic 24.93
 
 33.24
 
 8.31
 
-### 1.33
-
-Table 12.2 Measured values of specific heat
+### 1.33 Table 12.2 Measured values of specific heat
 capacities of some gases
 
 PHYSICS
@@ -1738,9 +1747,7 @@ Monatomic He
 
 8.30
 
-### 1.66
-
-Specific Heat Capacity of some
+### 1.66 Specific Heat Capacity of some
 solids at room temperature and
 
 Monatomic
@@ -1753,9 +1760,7 @@ Ne
 
 8.12
 
-### 1.64
-
-atmospheric pressure
+### 1.64 atmospheric pressure
 
 Monatomic Ar
 
@@ -1765,9 +1770,7 @@ Monatomic Ar
 
 8.30
 
-### 1.67
-
-Substance
+### 1.67 Substance
 
 Specific heat
 
@@ -1785,9 +1788,7 @@ Diatomic H₂
 
 8.45
 
-### 1.41
-
-Aluminium
+### 1.41 Aluminium
 
 900.0
 
@@ -1803,9 +1804,7 @@ Diatomic
 
 8.32
 
-### 1.40
-
-Carbon
+### 1.40 Carbon
 
 506.5
 
@@ -1821,9 +1820,7 @@ N₂
 
 8.32
 
-### 1.40
-
-Copper
+### 1.40 Copper
 
 386.4
 
@@ -1843,9 +1840,7 @@ Triatomic H₂O
 
 8.35
 
-### 1.31
-
-Silver
+### 1.31 Silver
 
 236.1
 
@@ -1859,9 +1854,7 @@ Polyatomic CH4
 
 8.36
 
-### 1.31
-
-Tungsten
+### 1.31 Tungsten
 
 134.4
 
@@ -1883,7 +1876,7 @@ temperature (Carbon is an exception).
 Molecules in a gas have rather large speeds of
 the order of the speed of sound. Yet a gas leaking
 
-Reprint 2025-26
+
 
 
 ---
@@ -1902,11 +1895,14 @@ to undergo collisions. As a result, they cannot
 move straight unhindered; their paths keep
 getting incessantly deflected.
 
-d
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_7.png" alt="Fig. 12.7" onclick="openImageModal(this.src, 'Fig. 12.7: Fig. 12.7 The volume swept by a molecule in time ∆t...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.7</strong> Fig. 12.7 The volume swept by a molecule in time ∆t</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
-vot
-
-Fig. 12.7 The volume swept by a molecule in time At
 in which any molecule will collide with it.
 
 Suppose the molecules of a gas are spheres of
@@ -2006,7 +2002,7 @@ microscopic parameters like molecular size. It is
 through such relations that the molecular sizes
 were first estimated.
 
-Reprint 2025-26
+
 
 
 ---
@@ -2056,11 +2052,7 @@ interpretation of temperature.
 
 PHYSICS
 
-### 3.
-
-1
-
-mv²=kB T
+### 3.1 mv²=kB T
 
 3-2
 
@@ -2134,7 +2126,7 @@ collisions :
 
 where n is the number density and d the diameter of the molecule.
 
-Reprint 2025-26
+
 
 
 ---
@@ -2195,9 +2187,14 @@ gas at STP. Take the diameter of an oxygen molecule to be 3 Å.
 temperature and pressure (STP : 1 atmospheric
 litres.
 
-not to be republish
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_8.png" alt="Fig. 12.8" onclick="openImageModal(this.src, 'Fig. 12.8: 12.3 12.3 12.3 12.3 12.3 Figure 12.8 shows plot of PV/T versus P for 1.00×10–3 k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.8</strong> 12.3 12.3 12.3 12.3 12.3 Figure 12.8 shows plot of PV/T versus P for 1.00×10–3 kg of oxygen gas at two different temperatures.</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
-12.3 Figure 12.8 shows plot of PV/T versus P for 1.00×10-3 kg of oxygen gas at two
 different temperatures.
 
 y
@@ -2218,7 +2215,7 @@ Fig. 12.8
 
 (c) What is the value of PV/Twhere the curves meet on the y-axis?
 
-Reprint 2025-26
+
 
 257
 
@@ -2278,5 +2275,5 @@ beve
 
 be
 
-Reprint 2025-26
+
 

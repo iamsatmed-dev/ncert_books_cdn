@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11080CH20
+
 
 17.1 Types of
 
@@ -61,7 +61,7 @@ climatic conditions or to escape from enemies/predators.
 Cells of the human body exhibit three main types of movements, namely,
 amoeboid, ciliary and muscular.
 
-Reprint 2025-26
+
 
 
 ---
@@ -124,7 +124,7 @@ through the digestive tract and gametes through the genital tract.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -142,7 +142,15 @@ Let us examine a skeletal muscle in detail to understand the structure
 and mechanism of contraction. Each organised skeletal muscle in our
 body is made of a number of muscle bundles or fascicles held together
 by a common collagenous connective tissue layer called fascia. Each
-muscle bundle contains a number of muscle fibres (Figure 17.1). Each
+muscle bundle contains a number of muscle fibres (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch17_locomotion_and_movement_fig_17_1.png" alt="Fig. 17.1" onclick="openImageModal(this.src, 'Fig. 17.1: Let us examine a skeletal muscle in detail to understand the structure and mecha...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 17.1</strong> Let us examine a skeletal muscle in detail to understand the structure and mechanism of contraction. Each organised skeletal muscle in our body is made of a number of muscle bundles or fascicles held together by a common collagenous connective tissue layer called fascia. Each muscle bundle contains a number of muscle fibres (Figure 17.1). Each</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 Muscle fibre
 (muscle cell)
@@ -168,7 +176,7 @@ is due to the distribution pattern of two important proteins – Actin and
 Myosin. The light bands contain actin and is called I-band or Isotropic
 band, whereas the dark band called 'A' or Anisotropic band contains
 
-Reprint 2025-26
+
 
 219
 
@@ -190,7 +198,16 @@ filaments are firmly attached to the ‘Z' line. The thick filaments in the
 membrane called ‘M' line. The ‘A' and 'I' bands are arranged alternately
 throughout the length of the myofibrils. The portion of the myofibril
 between two successive 'Z' lines is considered as the functional unit of
-contraction and is called a sarcomere (Figure 17.2). In a resting state, the
+contraction and is called a sarcomere (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch17_locomotion_and_movement_fig_17_2.png" alt="Fig. 17.2" onclick="openImageModal(this.src, 'Fig. 17.2: myosin. Both the proteins are arranged as rod-like structures, parallel to each ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 17.2</strong> myosin. Both the proteins are arranged as rod-like structures, parallel to each other and also to the longitudinal axis of the myofibrils. Actin filaments are thinner as compared to the myosin filaments, hence are commonly called thin and thick filaments respectively. In the centre of each ‘I’ band is an elastic fibre called ‘Z’ line which bisects it. The thin filaments are firmly attached to the ‘Z’ line. The thick filaments in the ‘A’ band are also held together in the middle of this band by a thin fibrous membrane called ‘M’ line. The ‘A’ and ‘I’ bands are arranged alternately throughout the length of the myofibrils. The portion of the myofibril between two successive ‘Z’ lines is considered as the functional unit of contraction and is called a sarcomere (Figure 17.2). In a resting state, the edges of thin filaments on either side of the thick filaments partially overlap the free ends of the thick filaments leaving the central part of the thick filaments. This central part of thick filament, not overlapped by thin filaments is called the ‘H’ zone.</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 edges of thin filaments on either side of the thick filaments partially overlap
 the free ends of the thick filaments leaving the central part of the thick
 filaments. This central part of thick filament, not overlapped by thin
@@ -224,7 +241,7 @@ Sarcomere
 Figure 17.2 Diagrammatic representation of (a) anatomy of a muscle fibre showing
 a sarcomere (b) a sarcomere
 
-Reprint 2025-26
+
 
 
 ---
@@ -252,30 +269,13 @@ distance and angle from each other from the surface of a polymerised myosin
 filament and is known as cross arm. The globular head is an active ATPase
 enzyme and has binding sites for ATP and active sites for actin.
 
-221
-
-ER
-
-weublished
-
-(a)
-
--Troponin
-
--Tropomyosin
-
-F actin
-
-Actin 
-ATP
-
-Head
-
-Cross arm
-
-(b)
-
-Figure 17.3 (a) An actin (thin) filament (b) Myosin monomer (Meromyosin)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch17_locomotion_and_movement_fig_17_3.png" alt="Fig. 17.3" onclick="openImageModal(this.src, 'Fig. 17.3: Each actin (thin) filament is made of two ‘F’ (filamentous) actins helically wou...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 17.3</strong> Each actin (thin) filament is made of two ‘F’ (filamentous) actins helically wound to each other. Each ‘F’ actin is a polymer of monomeric ‘G’ (Globular) actins. Two filaments of another protein, tropomyosin also run close to the ‘F’ actins throughout its length. A complex protein Troponin is distributed at regular intervals on the tropomyosin. In the resting state a subunit of troponin masks the active binding sites for myosin on the actin filaments (Figure 17.3a).</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 17.2.2 Mechanism of Muscle Contraction
 
@@ -283,7 +283,7 @@ Mechanism of muscle contraction is best explained by the sliding filament
 theory which states that contraction of a muscle fibre takes place by the
 sliding of the thin filaments over the thick filaments.
 
-Reprint 2025-26
+
 
 
 ---
@@ -304,7 +304,15 @@ and causes the release of calcium ions into the sarcoplasm. Increase in
 Ca++ level leads to the binding of calcium with a subunit of troponin on
 actin filaments and thereby remove the masking of active sites for myosin.
 Utilising the energy from ATP hydrolysis, the myosin head now binds to
-the exposed active sites on actin to form a cross bridge (Figure 17.4).
+the exposed active sites on actin to form a cross bridge (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch17_locomotion_and_movement_fig_17_4.png" alt="Fig. 17.4" onclick="openImageModal(this.src, 'Fig. 17.4: Muscle contraction is initiated by a signal sent by the central nervous system (...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 17.4</strong> Muscle contraction is initiated by a signal sent by the central nervous system (CNS) via a motor neuron. A motor neuron along with the muscle fibres connected to it constitute a motor unit. The junction between a motor neuron and the sarcolemma of the muscle fibre is called the neuromuscular junction or motor-end plate. A neural signal reaching this junction releases a neurotransmitter (Acetyl choline) which generates an action potential in the sarcolemma. This spreads through the muscle fibre and causes the release of calcium ions into the sarcoplasm. Increase in Ca++ level leads to the binding of calcium with a subunit of troponin on actin filaments and thereby remove the masking of active sites for myosin. Utilising the energy from ATP hydrolysis, the myosin head now binds to the exposed active sites on actin to form a cross bridge (Figure 17.4).</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 Actin
 filament
@@ -340,12 +348,21 @@ This pulls the attached actin filaments towards the centre of ‘A band. The
 'Z' line attached to these actins are also pulled inwards thereby causing a
 shortening of the sarcomere, i.e., contraction. It is clear from the above
 steps, that during shortening of the muscle, i.e., contraction, the 'I' bands
-get reduced, whereas the ‘A bands retain the length (Figure 17.5). The
+get reduced, whereas the ‘A bands retain the length (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch17_locomotion_and_movement_fig_17_5.png" alt="Fig. 17.5" onclick="openImageModal(this.src, 'Fig. 17.5: This pulls the attached actin filaments towards the centre of ‘A’ band. The ‘Z’ ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 17.5</strong> This pulls the attached actin filaments towards the centre of ‘A’ band. The ‘Z’ line attached to these actins are also pulled inwards thereby causing a shortening of the sarcomere, i.e., contraction. It is clear from the above steps, that during shortening of the muscle, i.e., contraction, the ‘I’ bands get reduced, whereas the ‘A’ bands retain the length (Figure 17.5). The myosin, releasing the ADP and P1 goes back to its relaxed state. A new ATP binds and the cross-bridge is broken (Figure 17.4). The ATP is again hydrolysed by the myosin head and the cycle of cross bridge formation</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 myosin, releasing the ADP and P₁ goes back to its relaxed state. A new
 ATP binds and the cross-bridge is broken (Figure 17.4). The ATP is again
 hydrolysed by the myosin head and the cycle of cross bridge formation
 
-Reprint 2025-26
+
 
 
 ---
@@ -410,7 +427,7 @@ and therefore, appear pale or whitish. These are the White fibres. Number
 of mitochondria are also few in them, but the amount of sarcoplasmic
 reticulum is high. They depend on anaerobic process for energy.
 
-Reprint 2025-26
+
 
 
 ---
@@ -439,7 +456,15 @@ into two principal divisions – the axial and the appendicular skeleton.
 
 Axial skeleton comprises 80 bones distributed along the main
 axis of the body. The skull, vertebral column, sternum and ribs
-constitute axial skeleton. The skull (Figure 17.6) is composed of two
+constitute axial skeleton. The skull (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch17_locomotion_and_movement_fig_17_6.png" alt="Fig. 17.6" onclick="openImageModal(this.src, 'Fig. 17.6: Axial skeleton comprises 80 bones distributed along the main axis of the body. T...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 17.6</strong> Axial skeleton comprises 80 bones distributed along the main axis of the body. The skull, vertebral column, sternum and ribs constitute axial skeleton. The skull (Figure 17.6) is composed of two</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 Frontal bone
 
@@ -477,7 +502,7 @@ present at the base of the buccal cavity. Each middle ear contains three
 tiny bones Malleus, Incus and Stapes, collectively called Ear
 Ossicles. The skull region articulates with the superior region of the
 
-Reprint 2025-26
+
 
 
 ---
@@ -490,7 +515,14 @@ LOCOMOTION AND MOVEMENT
 vertebral column with the help of two occipital
 condyles (dicondylic skull).
 
-Our vertebral column (Figure 17.7) is
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch17_locomotion_and_movement_fig_17_7.png" alt="Fig. 17.7" onclick="openImageModal(this.src, 'Fig. 17.7: Our vertebral column (Figure 17.7) is formed by 26 serially arranged units calle...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 17.7</strong> Our vertebral column (Figure 17.7) is formed by 26 serially arranged units called vertebrae and is dorsally placed. It extends from the base of the skull and constitutes the main framework of the trunk. Each vertebra has a central hollow portion (neural canal) through which the spinal cord passes. First vertebra is the atlas and it articulates with the occipital condyles. The vertebral column is differentiated into cervical (7), thoracic (12), lumbar (5), sacral (1-fused) and coccygeal (1-fused) regions starting from the skull. The number of cervical vertebrae are seven in almost all mammals including human beings. The vertebral column protects the spinal cord, supports the head and serves as the point of attachment for the ribs and musculature of the back. Sternum is a flat bone on the ventral midline of thorax.</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 formed by 26 serially arranged units called
 vertebrae and is dorsally placed. It extends from
 the base of the skull and constitutes the main
@@ -545,7 +577,14 @@ cartilage. These are called vertebrochondral
 ribs are not connected ventrally and are
 therefore, called floating ribs. Thoracic False
 vertebrae, ribs and sternum together form
-the rib cage (Figure 17.8).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch17_locomotion_and_movement_fig_17_8.png" alt="Fig. 17.8" onclick="openImageModal(this.src, 'Fig. 17.8: There are 12 pairs of ribs. Each rib is a thin flat bone connected dorsally to t...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 17.8</strong> There are 12 pairs of ribs. Each rib is a thin flat bone connected dorsally to the vertebral column and ventrally to the sternum. It has two articulation surfaces on its dorsal end and is hence called bicephalic. First seven pairs of ribs are called true ribs. Dorsally, they are attached to the thoracic vertebrae and ventrally connected to the sternum with the help of hyaline cartilage. The 8th, 9th and 10th pairs of ribs do not articulate directly with the sternum but join the seventh rib with the help of hyaline cartilage. These are called vertebrochondral (false) ribs. Last 2 pairs (11th and 12th) of ribs are not connected ventrally and are therefore, called floating ribs. Thoracic vertebrae, ribs and sternum together form the rib cage (Figure 17.8).</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 The bones of the limbs along with their
 
@@ -588,7 +627,7 @@ skeleton. Each limb is made of 30 bones.
 
 The bones of the hand (fore limb) are
 
-Reprint 2025-26
+
 
 Figure 17.8 Ribs and rib cage
 
@@ -596,45 +635,22 @@ Figure 17.8 Ribs and rib cage
 ---
 ## 📄 Page 10
 
-226
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch17_locomotion_and_movement_fig_17_9.png" alt="Fig. 17.9" onclick="openImageModal(this.src, 'Fig. 17.9: Figure 17.9 Right pectoral girdle and upper...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 17.9</strong> Figure 17.9 Right pectoral girdle and upper</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
-BIOLOGY
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch17_locomotion_and_movement_fig_17_10.png" alt="Fig. 17.10" onclick="openImageModal(this.src, 'Fig. 17.10: Pelvic girdle consists of two coxal bones (Figure 17.10). Each coxal bone is for...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 17.10</strong> Pelvic girdle consists of two coxal bones (Figure 17.10). Each coxal bone is formed by the fusion of three bones – ilium, ischium and pubis. At the point of fusion of the above bones is a cavity called acetabulum to which the thigh bone articulates. The two halves of the pelvic girdle meet ventrally to form the pubic symphysis containing fibrous cartilage.</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
-Clavicle
-
-Scapula
-
-Humerus
-
-Radius
-
-Ulna
-
-Carpals
-
-Metacarpals
-
-Phalanges
-
-Figure 17.9 Right pectoral girdle and upper
-arm. (frontal view)
-
-Ilium
-
-Pubis
-Ischium
-
-noto be
-
-Fibula
-
-Tarsals
-
-Metatarsals
-
-Phalanges
-
-Figure 17.10 Right pelvic girdle and lower limb
 bones (frontal view)
 
 humerus, radius and ulna, carpals (wrist bones
@@ -686,7 +702,7 @@ Joints are essential for all types of movements
 involving the bony parts of the body.
 Locomotory movements are no exception to
 
-Reprint 2025-26
+
 
 
 ---
@@ -740,7 +756,7 @@ Movement is an essential feature of all living beings. Protoplasmic streaming, c
 movements, movements of fins, limbs, wings, etc., are some forms exhibited by
 animals. A voluntary movement which causes the animal to change its place, is
 
-Reprint 2025-26
+
 
 227
 
@@ -798,7 +814,7 @@ EXERCISES
 
 ### 3. Describe the important steps in muscle contraction.
 
-Reprint 2025-26
+
 
 BIOLOGY
 
@@ -899,5 +915,5 @@ bones.
 
 (f) The human cranium is made of
 
-Reprint 2025-26
+
 

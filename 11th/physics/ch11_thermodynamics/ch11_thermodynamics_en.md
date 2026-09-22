@@ -9,7 +9,7 @@ CHAPTER ELEVEN
 
 THERMODYNAMICS
 
-11087CH12
+
 
 11.1
 
@@ -108,7 +108,7 @@ observations was that heat was a form of energy and the
 experiment demonstrated conversion of energy from one form
 to another-from work to heat.
 
-Reprint 2025-26
+
 
 
 ---
@@ -180,17 +180,14 @@ Equilibrium in mechanics means that the net
 external force and torque on a system are zero.
 The term 'equilibrium' in thermodynamics appears
 
-*
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch11_thermodynamics_fig_11_1.png" alt="Fig. 11.1" onclick="openImageModal(this.src, 'Fig. 11.1: Fig. 11.1 (a) Systems A and B (two gases) separated by an adiabatic wall – an in...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.1</strong> Fig. 11.1 (a) Systems A and B (two gases) separated by an adiabatic wall – an insulating wall that does not allow flow of heat. (b) The same systems A and B separated by a diathermic wall – a conducting wall that allows heat to flow from one to another. In this case, thermal equilibrium is attained in due course.</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
-A
-
-(a)
-
-(b)
-
-B
-
-Fig. 11.1 (a) Systems A and B (two gases) separated
 by an adiabatic wall an insulating wall
 that does not allow flow of heat. (b) The
 same systems A and B separated by a
@@ -216,7 +213,7 @@ etc., and they are all macroscopic variables. However, a thermodynamic state is 
 variables viz., pressure, volume, temperature, internal energy and entropy. Entropy is a measure of disorderness
 in the system. Enthalpy is a measure of total heat content of the system.
 
-Reprint 2025-26
+
 
 
 ---
@@ -286,7 +283,16 @@ RT
 11.3 ZEROTH LAW OF THERMODYNAMICS
 Imagine two systems A and B, separated by an
 adiabatic wall, while each is in contact with a third
-system C, via a conducting wall [Fig. 11.2(a)]. The
+system C, via a conducting wall [
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch11_thermodynamics_fig_11_2.png" alt="Fig. 11.2" onclick="openImageModal(this.src, 'Fig. 11.2: Imagine two systems A and B, separated by an adiabatic wall, while each is in co...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.2</strong> Imagine two systems A and B, separated by an adiabatic wall, while each is in contact with a third system C, via a conducting wall [Fig. 11.2(a)]. The states of the systems (i.e., their macroscopic variables) will change until both A and B come to thermal equilibrium with C. After this is achieved, suppose that the adiabatic wall between A and B is replaced by a conducting wall and C is insulated from A and B by an adiabatic wall [Fig.11.2(b)]. It is found that the states of A and B change no further i.e. they are found to be in thermal equilibrium with each other. This observation forms the basis of the Zeroth Law of Thermodynamics, which states that ‘two systems in thermal equilibrium with a third system separately are in thermal equilibrium with each other’. R.H. Fowler formulated this</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 states of the systems (i.e., their macroscopic
 variables) will change until both A and B come to
 thermal equilibrium with C. After this is achieved,
@@ -331,7 +337,7 @@ adiabatic wall.
 Both the variables need not change. It depends on the constraints. For instance, if the gases are in containers
 of fixed volume, only the pressures of the gases would change to achieve thermal equilibrium.
 
-Reprint 2025-26
+
 
 
 ---
@@ -380,7 +386,14 @@ in a gas this motion is not only translational
 (i.e. motion from one point to another in the
 volume of the container); it also includes
 rotational and vibrational motion of the
-molecules (Fig. 11.3).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch11_thermodynamics_fig_11_3.png" alt="Fig. 11.3" onclick="openImageModal(this.src, 'Fig. 11.3: associated with various random motions of its molecules. We will see in the next...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.3</strong> associated with various random motions of its molecules. We will see in the next chapter that in a gas this motion is not only translational (i.e. motion from one point to another in the volume of the container); it also includes rotational and vibrational motion of the molecules (Fig. 11.3).</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 000
 
@@ -491,27 +504,14 @@ thermodynamic state variables of the system
 intermolecular forces in a gas, the internal
 energy of a gas is just the sum of kinetic energies
 
-0
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch11_thermodynamics_fig_11_4.png" alt="Fig. 11.4" onclick="openImageModal(this.src, 'Fig. 11.4: Fig. 11.4 Heat and work are two distinct modes of...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.4</strong> Fig. 11.4 Heat and work are two distinct modes of</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
-0
-
-0000
-
-0
-
-0
-
-0
-
-0
-
-0
-
-0
-
-(a)
-
-Fig. 11.4 Heat and work are two distinct modes of
 energy transfer to a system that results in
 change in its internal energy. (a) Heat is
 energy transfer due to temperature
@@ -522,7 +522,7 @@ piston by raising or lowering some weight
 connected to it) that do not involve such a
 temperature difference.
 
-Reprint 2025-26
+
 
 
 ---
@@ -657,7 +657,7 @@ i.e., heat supplied to the system is used up
 entirely by the system in doing work on the
 environment.
 
-Reprint 2025-26
+
 
 
 ---
@@ -858,7 +858,7 @@ specific heat capacity is J kg¯¹ K-1.
 As Table 11.1 shows, the experimentally
 measured values which generally agrees with
 
-Reprint 2025-26
+
 
 
 ---
@@ -878,7 +878,16 @@ was earlier defined to be the amount of heat
 required to raise the temperature of 1g of water
 by 1 C. With more precise measurements, it was
 found that the specific heat of water varies
-slightly with temperature. Figure 11.5 shows
+slightly with temperature.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch11_thermodynamics_fig_11_5.png" alt="Fig. 11.5" onclick="openImageModal(this.src, 'Fig. 11.5: The old unit of heat was calorie. One calorie was earlier defined to be the amou...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.5</strong> The old unit of heat was calorie. One calorie was earlier defined to be the amount of heat required to raise the temperature of 1g of water by 1°C. With more precise measurements, it was found that the specific heat of water varies slightly with temperature. Figure 11.5 shows this variation in the temperature range 0 to 100 °C.</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 this variation in the temperature range 0 to
 100 °C.
 
@@ -1023,10 +1032,18 @@ temperature, and mass (and composition if
 there is a mixture of gases). A thermodynamic
 system is not always in equilibrium. For example,
 a gas allowed to expand freely against vacuum
-is not an equilibrium state [Fig. 11.6(a)]. During
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch11_thermodynamics_fig_11_6.png" alt="Fig. 11.6" onclick="openImageModal(this.src, 'Fig. 11.6: Every equilibrium state of a thermodynamic system is completely described by spe...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.6</strong> Every equilibrium state of a thermodynamic system is completely described by specific values of some macroscopic variables, also called state variables. For example, an equilibrium state of a gas is completely specified by the values of pressure, volume, temperature, and mass (and composition if there is a mixture of gases). A thermodynamic system is not always in equilibrium. For example, a gas allowed to expand freely against vacuum is not an equilibrium state [Fig. 11.6(a)]. During the rapid expansion, pressure of the gas may</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 the rapid expansion, pressure of the gas may
 
-Reprint 2025-26
+
 
 
 ---
@@ -1168,7 +1185,7 @@ stage the system is an equilibrium state. Such a
 As emphasised earlier, Q is not a state variable. However, AQ is clearly proportional to the total mass of
 system and hence is extensive.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1186,7 +1203,15 @@ difference in the pressure of the system and the
 external pressure is infinitesimally small. The
 same is true of the temperature difference
 between the system and its surroundings
-(Fig.11.7). Τo take a gas from the state (P, T) to
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch11_thermodynamics_fig_11_7.png" alt="Fig. 11.7" onclick="openImageModal(this.src, 'Fig. 11.7: process is, in principle, infinitely slow, hence the name quasi-static (meaning ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.7</strong> process is, in principle, infinitely slow, hence the name quasi-static (meaning nearly static). The system changes its variables (P, T, V ) so slowly that it remains in thermal and mechanical equilibrium with its surroundings throughout. In a quasi-static process, at every stage, the difference in the pressure of the system and the external pressure is infinitesimally small. The same is true of the temperature difference between the system and its surroundings (Fig.11.7). To take a gas from the state (P, T ) to another state (P ′, T ′ ) via a quasi-static process, we change the external pressure by a very small amount, allow the system to equalise its pressure with that of the surroundings and continue the process infinitely slowly until the system achieves the pressure P ′. Similarly, to change the temperature, we introduce an infinitesimal temperature difference between the system and the surrounding reservoirs and by choosing reservoirs of progressively different temperatures T to T ′, the system achieves the temperature T ′.</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 another state (P', T') via a quasi-static process,
 we change the external pressure by a very small
 amount, allow the system to equalise its pressure
@@ -1310,7 +1335,7 @@ V₁
 
 = μ RT ∫
 
-Reprint 2025-26
+
 
 
 ---
@@ -1366,11 +1391,14 @@ N
 Thus if an ideal gas undergoes a change in
 its state adiabatically from (P₁, V₁) to (P₂, V₂) :
 
-PV = P2 V
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch11_thermodynamics_fig_11_8.png" alt="Fig. 11.8" onclick="openImageModal(this.src, 'Fig. 11.8: Figure11.8 shows the P-V curves of an ideal gas for two adiabatic processes conn...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.8</strong> Figure11.8 shows the P-V curves of an ideal gas for two adiabatic processes connecting two isotherms.</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
-(11.14)
-
-Figure 11.8 shows the P-V curves of an ideal
 gas for two adiabatic processes connecting two
 g two
 isotherms.
@@ -1501,7 +1529,7 @@ In a cyclic process, the system returns to its
 initial state. Since internal energy is a state
 variable, AU = 0 for a cyclic process. From
 
-Reprint 2025-26
+
 
 
 ---
@@ -1621,7 +1649,7 @@ dissipative effects are present everywhere and
 can be minimised but not fully eliminated, most
 processes that we deal with are irreversible.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1717,13 +1745,13 @@ adiabatic processes must bring about the
 temperature change in the system from T₁ to T
 and T₂ to T₁ in this engine.
 
-↑
-
-P
-
-0
-
-Fig. 11.9
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch11_thermodynamics_fig_11_9.png" alt="Fig. 11.9" onclick="openImageModal(this.src, 'Fig. 11.9: Fig. 11.9 Carnot cycle for a heat engine with an ideal gas as the working substa...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.9</strong> Fig. 11.9 Carnot cycle for a heat engine with an ideal gas as the working substance.</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 (P₁,V,T₁)
 
@@ -1743,7 +1771,7 @@ two temperatures is called a Carnot engine. We
 have just argued that such an engine must have
 the following sequence of steps constituting one
 
-Reprint 2025-26
+
 
 
 ---
@@ -1923,7 +1951,7 @@ the Carnot engine and (b) the efficiency of the
 Carnot engine is independent of the nature of
 the working substance.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1945,27 +1973,14 @@ requiring work_W = Q₁ – Q₂ to be done on it.
 Now suppose nr < n₁ i.e. if R were to act
 as an engine it would give less work output
 
-T
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch11_thermodynamics_fig_11_10.png" alt="Fig. 11.10" onclick="openImageModal(this.src, 'Fig. 11.10: Fig. 11.10 An irreversible engine (I) coupled to a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.10</strong> Fig. 11.10 An irreversible engine (I) coupled to a</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
-1
-
-W'
-
-Q
-
-I
-
-→Q-W'
-
-R
-
-W
-
-T2
-
-Q-W
-
-Fig. 11.10 An irreversible engine (I) coupled to a
 reversible refrigerator (R). If W' > W, this
 would amount to extraction of heat
 W' W from the sink and its full
@@ -2040,7 +2055,7 @@ surroundings. Work is energy transfer brought about by other means, such as movi
 the piston of a cylinder containing the gas, by raising or lowering some weight connected
 to it.
 
-Reprint 2025-26
+
 
 
 ---
@@ -2137,7 +2152,7 @@ W
 μ R(T₁ – T2)
 γ-1
 
-Reprint 2025-26
+
 
 
 ---
@@ -2236,7 +2251,7 @@ because of its high speed.
 describing the thermodynamic state of a system do not depend on time. Equilibrium of
 a system in mechanics means the net external force and torque on the system are zero.
 
-Reprint 2025-26
+
 
 241
 
@@ -2312,7 +2327,7 @@ state) lie on its P-V-Tsurface?
 work at a rate of 75 joules per second. At what rate is the internal
 energy increasing?
 
-Reprint 2025-26
+
 
 PHYSICS
 
@@ -2343,18 +2358,22 @@ E
 
 ### 2.0
 
-### 5.0
+### 5.0 Volume, V (m³)
 
-Volume, V (m³)
-
-Fig. 11.11
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch11_thermodynamics_fig_11_11.png" alt="Fig. 11.11" onclick="openImageModal(this.src, 'Fig. 11.11: Fig. 11.11...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.11</strong> Fig. 11.11</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
 
 Its volume is then reduced to the original value from E to F by an isobaric process.
 Calculate the total work done by the gas from D to E to F
 
 © NCERT
 
-not to be republished
 
-Reprint 2025-26
+
+
 

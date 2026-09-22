@@ -7,7 +7,7 @@
 
 UNIT 8
 
-11083CH12
+
 
 ORGANIC CHEMISTRY – SOME BASIC
 PRINCIPLES AND TECHNIQUES
@@ -114,7 +114,7 @@ The pioneering synthesis of acetic acid by Kolbe
 conclusively that organic compounds could be synthesised
 from inorganic sources in a laboratory.
 
-Reprint 2025-26
+
 
 
 ---
@@ -233,7 +233,7 @@ Solution
 (b) sp³ hybridised carbon, tetrahedral; (c)
 sp hybridised carbon, linear.
 
-Reprint 2025-26
+
 
 
 ---
@@ -368,7 +368,7 @@ Methanol
 
 Br
 
-Reprint 2025-26
+
 
 
 ---
@@ -533,7 +533,7 @@ CH3
 
 ΗΗΗΗ
 
-Reprint 2025-26
+
 
 
 ---
@@ -599,7 +599,14 @@ the wedge is towards the observer. The bonds
 lying in plane of the paper are depicted by
 using a normal line (—). 3-D representation of
 methane molecule on paper has been shown
-in Fig. 8.1
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch08_organic_chemistry_basic_principles_fig_8_1.png" alt="Fig. 8.1" onclick="openImageModal(this.src, 'Fig. 8.1: 8.3.2 Three-Dimensional Representation of Organic Molecules The three-dimensiona...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.1</strong> 8.3.2 Three-Dimensional Representation of Organic Molecules The three-dimensional (3-D) structure of organic molecules can be represented on paper by using certain conventions. For example, by using solid ( ) and dashed ( ) wedge formula, the 3-D image of a molecule from a two-dimensional picture can be perceived. In these formulas the solid-wedge is used to indicate a bond projecting out of the plane of paper, towards the observer. The dashed-wedge is used to depict the bond projecting out of the plane of the paper and away from the observer. Wedges are shown in such a way that the broad end of the wedge is towards the observer. The bonds lying in plane of the paper are depicted by using a normal line (—). 3-D representation of methane molecule on paper has been shown in Fig. 8.1</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 t
 
@@ -662,12 +669,13 @@ observer)
 
 Fig. 8.1 Wedge-and-dash representation of CH4
 
-Space filling model
-
-Fig. 8.2
-
-Reprint 2025-26
-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch08_organic_chemistry_basic_principles_fig_8_2.png" alt="Fig. 8.2" onclick="openImageModal(this.src, 'Fig. 8.2: Fig. 8.2...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.2</strong> Fig. 8.2</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 ---
 ## 📄 Page 6
@@ -801,7 +809,7 @@ Aniline
 
 Non-benzenoid compound
 
-Reprint 2025-26
+
 
 Tropone
 
@@ -982,7 +990,7 @@ group
 
 Parent chain
 
-Reprint 2025-26
+
 
 
 ---
@@ -1191,7 +1199,7 @@ We encounter a number of branched chain
 alkanes. The rules for naming them are given
 below.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1390,7 +1398,7 @@ CH3-CH-CH2-CH-
 CH3 CH3
 1,3-Dimethylbutyl-
 
-Reprint 2025-26
+
 
 
 ---
@@ -1588,7 +1596,7 @@ A functional group, as defined earlier, is an
 atom or a group of atoms bonded together in
 a unique manner which is usually the site of
 
-Reprint 2025-26
+
 
 
 ---
@@ -1730,7 +1738,7 @@ Hexane-2,4-dione.
 
 3 2 1
 
-Reprint 2025-26
+
 
 
 ---
@@ -1934,7 +1942,7 @@ acid
 Methylsulphonic acid
 CH3SO3H
 
-Reprint 2025-26
+
 
 
 ---
@@ -2074,7 +2082,7 @@ names (written in bracket below) of many
 substituted benzene compounds are also
 universally used.
 
-Reprint 2025-26
+
 
 
 ---
@@ -2241,7 +2249,7 @@ as substituent, instead of a parent. The name
 for benzene as substituent is phenyl (CH₃-,
 also abbreviated as Ph).
 
-Reprint 2025-26
+
 
 
 ---
@@ -2386,7 +2394,7 @@ isomerism
 Optical
 isomerism
 
-Reprint 2025-26
+
 
 
 ---
@@ -2533,7 +2541,7 @@ with 1s orbital of each of the three hydrogen
 
 +
 
-Reprint 2025-26
+
 
 
 ---
@@ -2547,7 +2555,14 @@ atoms. Each bond may be represented as
 C(sp²)-H(1s) sigma bond. The remaining
 carbon orbital is perpendicular to the
 molecular plane and contains no electrons.
-[Fig. 8.3(a)].
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch08_organic_chemistry_basic_principles_fig_8_3.png" alt="Fig. 8.3" onclick="openImageModal(this.src, 'Fig. 8.3: atoms. Each bond may be represented as C(sp2)–H(1s) sigma bond. The remaining ca...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.3</strong> atoms. Each bond may be represented as C(sp2)–H(1s) sigma bond. The remaining carbon orbital is perpendicular to the molecular plane and contains no electrons. [Fig. 8.3(a)].</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
 
 H
 
@@ -2691,7 +2706,7 @@ Nucleophiles and Electrophiles
 Reagents attack the reactive site of the
 substrate. The reactive site may be electron
 
-Reprint 2025-26
+
 
 
 ---
@@ -2837,7 +2852,7 @@ Reactions
 The movement of electrons in organic
 reactions can be shown by curved-arrow
 
-Reprint 2025-26
+
 
 
 ---
@@ -2975,7 +2990,7 @@ hand, the alkyl groups like methyl (–CH3) and
 ethyl (-CH2-CH3) are usually considered as
 electron donating groups.
 
-Reprint 2025-26
+
 
 
 ---
@@ -3128,7 +3143,7 @@ atom, a positive charge if any on more
 electropositive atom) and more dispersal of
 charge, is more stable than others.
 
-Reprint 2025-26
+
 
 
 ---
@@ -3280,7 +3295,7 @@ effects are as follows:
 
 R effect: – COOH, –CHO, >C=O, – CN, −NO2
 
-Reprint 2025-26
+
 
 
 ---
@@ -3331,7 +3346,14 @@ the methyl group can align in the plane of this
 empty p orbital and the electrons constituting
 the C-H bond in plane with this p orbital can
 then be delocalised into the empty p orbital
-as depicted in Fig. 8.4 (a).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch08_organic_chemistry_basic_principles_fig_8_4.png" alt="Fig. 8.4" onclick="openImageModal(this.src, 'Fig. 8.4: + H2 (ethyl cation) in which the positively charged carbon atom has an empty p o...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.4</strong> + H2 (ethyl cation) in which the positively charged carbon atom has an empty p orbital. One of the C-H bonds of the methyl group can align in the plane of this empty p orbital and the electrons constituting the C-H bond in plane with this p orbital can then be delocalised into the empty p orbital as depicted in Fig. 8.4 (a).</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
 
 Csp3-H1s
 
@@ -3438,7 +3460,7 @@ interaction and stabilisation of the cation.
 Thus, we have the following relative stability
 of carbocations :
 
-Reprint 2025-26
+
 
 
 ---
@@ -3607,7 +3629,7 @@ have sharp melting points and boiling points.
 New methods of checking the purity of an
 organic compound are based on different
 
-Reprint 2025-26
+
 
 
 ---
@@ -3686,23 +3708,14 @@ The vapours of higher boiling component
 form later and the liquid can be collected
 separately.
 
-R.B. flask
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch08_organic_chemistry_basic_principles_fig_8_5.png" alt="Fig. 8.5" onclick="openImageModal(this.src, 'Fig. 8.5: Fig.8.5 Simple distillation. The vapours of a substance formed are condensed and...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.5</strong> Fig.8.5 Simple distillation. The vapours of a substance formed are condensed and the liquid is collected in conical flask.</span>
+    <button class="icon-btn" onclick="goToPdfPage(24)">📄 View in PDF (Page 24)</button>
+  </div>
+</div>
 
-thermometer
-
-is
-
-to sink
-
-condenser
-
-↑
-water inlet
-
-liquid
-substance
-
-Fig.8.5 Simple distillation. The vapours of a
 substance formed are condensed and
 the liquid is collected in conical flask.
 
@@ -3717,7 +3730,14 @@ this technique, vapours of a liquid mixture are
 passed through a fractionating column before
 condensation. The fractionating column is
 fitted over the mouth of the round bottom
-flask (Fig.8.6, page 280).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch08_organic_chemistry_basic_principles_fig_8_6.png" alt="Fig. 8.6" onclick="openImageModal(this.src, 'Fig. 8.6: Fractional Distillation: If the difference in boiling points of two liquids is n...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.6</strong> Fractional Distillation: If the difference in boiling points of two liquids is not much, simple distillation cannot be used to separate them. The vapours of such liquids are formed within the same temperature range and are condensed simultaneously. The technique of fractional distillation is used in such cases. In this technique, vapours of a liquid mixture are passed through a fractionating column before condensation. The fractionating column is fitted over the mouth of the round bottom flask (Fig.8.6, page 280).</span>
+    <button class="icon-btn" onclick="goToPdfPage(24)">📄 View in PDF (Page 24)</button>
+  </div>
+</div>
 
 Vapours of the liquid with higher boiling
 point condense before the vapours of the
@@ -3725,7 +3745,7 @@ liquid with lower boiling point. The vapours
 rising up in the fractionating column become
 richer in more volatile component. By the
 
-Reprint 2025-26
+
 
 
 ---
@@ -3771,17 +3791,15 @@ used to purify liquids having
 very high boiling points and
 those, which decompose at
 or below their boiling points.
-Such liquids are made to boil
-at a temperature lower than
-their normal boiling points
-by reducing the pressure on
-their surface. A liquid boils
-at a temperature at which its
-vapour pressure is equal to
-the external pressure. The
-pressure is reduced with
-the help of a water pump
-or vacuum pump (Fig.8.8).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch08_organic_chemistry_basic_principles_fig_8_8.png" alt="Fig. 8.8" onclick="openImageModal(this.src, 'Fig. 8.8: Distillation under reduced pressure: This method is used to purify liquids havin...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.8</strong> Distillation under reduced pressure: This method is used to purify liquids having very high boiling points and those, which decompose at or below their boiling points. Such liquids are made to boil at a temperature lower than their normal boiling points by reducing the pressure on their surface. A liquid boils at a temperature at which its vapour pressure is equal to the external pressure. The pressure is reduced with the help of a water pump or vacuum pump (Fig.8.8). Glycerol can be separated from spent-lye in soap industry by using this technique.</span>
+    <button class="icon-btn" onclick="goToPdfPage(25)">📄 View in PDF (Page 25)</button>
+  </div>
+</div>
+
 Glycerol can be separated from
 spent-lye in soap industry by
 usin using this technique.
@@ -3798,7 +3816,15 @@ time the vapours reach to the top of the
 fractionating column, these are rich in the
 more volatile component. Fractionating
 columns are available in various sizes and
-designs as shown in Fig.8.7. A fractionating
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch08_organic_chemistry_basic_principles_fig_8_7.png" alt="Fig. 8.7" onclick="openImageModal(this.src, 'Fig. 8.7: time the vapours reach to the top of the fractionating column, these are rich in...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.7</strong> time the vapours reach to the top of the fractionating column, these are rich in the more volatile component. Fractionating columns are available in various sizes and designs as shown in Fig.8.7. A fractionating column provides many surfaces for heat exchange between the ascending vapours and the descending condensed liquid. Some of the condensing liquid in the fractionating column obtains heat from the ascending vapours and revaporises. The vapours thus become richer in low boiling component. The vapours of low boiling component ascend to the top of the column. On reaching the top, the vapours become pure in low boiling component and pass through the condenser and the pure liquid is collected in a receiver. After a series of successive distillations, the remaining liquid in the distillation flask gets enriched in high boiling component. Each successive condensation and vaporisation Fig.8.7 Different types of fractionating columns.</span>
+    <button class="icon-btn" onclick="goToPdfPage(25)">📄 View in PDF (Page 25)</button>
+  </div>
+</div>
+
 column provides many surfaces for heat
 exchange between the ascending vapours
 and the descending condensed liquid. Some
@@ -3828,7 +3854,7 @@ column
 
 Fig.8.7 Different types of fractionating columns.
 
-Reprint 2025-26
+
 
 
 ---
@@ -3883,7 +3909,14 @@ close to but below, 373K. A mixture of water
 and the substance is obtained which can
 be separated by using a separating funnel.
 Aniline is separated by this technique from
-aniline – water mixture (Fig.8.9, Page 282).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch08_organic_chemistry_basic_principles_fig_8_9.png" alt="Fig. 8.9" onclick="openImageModal(this.src, 'Fig. 8.9: Thus, if one of the substances in the mixture is water and the other, a water in...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.9</strong> Thus, if one of the substances in the mixture is water and the other, a water insoluble substance, then the mixture will boil close to but below, 373K. A mixture of water and the substance is obtained which can be separated by using a separating funnel. Aniline is separated by this technique from aniline – water mixture (Fig.8.9, Page 282).</span>
+    <button class="icon-btn" onclick="goToPdfPage(26)">📄 View in PDF (Page 26)</button>
+  </div>
+</div>
 
 8.8.4 Differential Extraction
 When an organic compound is present in an
@@ -3897,7 +3930,15 @@ funnel. The organic solvent is later removed
 by distillation or by evaporation to get back
 the compound. Differential extraction is
 carried out in a separatory funnel as shown in
-Fig. 8.10 (Page 282). If the organic compound
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch08_organic_chemistry_basic_principles_fig_8_10.png" alt="Fig. 8.10" onclick="openImageModal(this.src, 'Fig. 8.10: 8.8.4 Differential Extraction When an organic compound is present in an aqueous ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.10</strong> 8.8.4 Differential Extraction When an organic compound is present in an aqueous medium, it is separated by shaking it with an organic solvent in which it is more soluble than in water. The organic solvent and the aqueous solution should be immiscible with each other so that they form two distinct layers which can be separated by separatory funnel. The organic solvent is later removed by distillation or by evaporation to get back the compound. Differential extraction is carried out in a separatory funnel as shown in Fig. 8.10 (Page 282). If the organic compound is less soluble in the organic solvent, a very large quantity of solvent would be required to extract even a very small quantity of the compound. The technique of continuous extraction is employed in such cases. In this technique same solvent is repeatedly used for extraction of the compound. 8.8.5 Chromatography Chromatography is an important technique extensively used to separate mixtures into their components, purify compounds and also to test the purity of compounds. The</span>
+    <button class="icon-btn" onclick="goToPdfPage(26)">📄 View in PDF (Page 26)</button>
+  </div>
+</div>
+
 is less soluble in the organic solvent, a very
 large quantity of solvent would be required
 to extract even a very small quantity of the
@@ -3911,7 +3952,7 @@ extensively used to separate mixtures into
 their components, purify compounds and
 also to test the purity of compounds. The
 
-Reprint 2025-26
+
 
 
 ---
@@ -4017,7 +4058,7 @@ adsorption.
 Column chromatography, and
 Thin layer chromatography.
 
-Reprint 2025-26
+
 
 
 ---
@@ -4030,7 +4071,15 @@ chromatography involves separation of
 a mixture over a column of adsorbent
 (stationary phase) packed in a glass tube.
 The column is fitted with a stopcock at its
-lower end (Fig. 8.11). The mixture adsorbed
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch08_organic_chemistry_basic_principles_fig_8_11.png" alt="Fig. 8.11" onclick="openImageModal(this.src, 'Fig. 8.11: Column Chromatography: Column chromatography involves separation of a mixture ov...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.11</strong> Column Chromatography: Column chromatography involves separation of a mixture over a column of adsorbent (stationary phase) packed in a glass tube. The column is fitted with a stopcock at its lower end (Fig. 8.11). The mixture adsorbed on adsorbent is placed on the top of the adsorbent column packed in a glass tube. An appropriate eluant which is a liquid or a mixture of liquids is allowed to flow down the column slowly. Depending upon the degree to which the compounds are adsorbed, complete separation takes place. The most readily adsorbed substances are retained near the top and others come down to various distances in the column (Fig.8.11).</span>
+    <button class="icon-btn" onclick="goToPdfPage(28)">📄 View in PDF (Page 28)</button>
+  </div>
+</div>
+
 on adsorbent is placed on the top of the
 adsorbent column packed in a glass tube.
 An appropriate eluant which is a liquid or a
@@ -4052,7 +4101,15 @@ different distances depending on their degree
 of adsorption and separation takes place.
 The relative adsorption of each component
 of the mixture is expressed in terms of its
-retardation factor i.e. R, value (Fig.8.12 b).
+retardation factor i.e. R, value (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch08_organic_chemistry_basic_principles_fig_8_12.png" alt="Fig. 8.12" onclick="openImageModal(this.src, 'Fig. 8.12: The glass plate is then placed in a closed jar containing the eluant (Fig. 8.12a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.12</strong> The glass plate is then placed in a closed jar containing the eluant (Fig. 8.12a). As the eluant rises up the plate, the components of the mixture move up along with the eluant to different distances depending on their degree of adsorption and separation takes place. The relative adsorption of each component of the mixture is expressed in terms of its retardation factor i.e. Rf value (Fig.8.12 b).</span>
+    <button class="icon-btn" onclick="goToPdfPage(28)">📄 View in PDF (Page 28)</button>
+  </div>
+</div>
 
 R = Distance moved by the substance from base line (x)
 Distance moved by the solvent from base line (y)
@@ -4154,7 +4211,7 @@ may also be sprayed on the plate. For example,
 amino acids may be detected by spraying the
 plate with ninhydrin solution (Fig.8.12b).
 
-Reprint 2025-26
+
 
 
 ---
@@ -4178,7 +4235,15 @@ in it, which acts as the stationary phase.
 A strip of chromatography paper spotted
 at the base with the solution of the mixture is
 suspended in a suitable solvent or a mixture
-of solvents (Fig. 8.13). This solvent acts as the
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch08_organic_chemistry_basic_principles_fig_8_13.png" alt="Fig. 8.13" onclick="openImageModal(this.src, 'Fig. 8.13: A strip of chromatography paper spotted at the base with the solution of the mix...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.13</strong> A strip of chromatography paper spotted at the base with the solution of the mixture is suspended in a suitable solvent or a mixture of solvents (Fig. 8.13). This solvent acts as the mobile phase. The solvent rises up the paper by capillary action and flows over the spot. The paper selectively retains different components according to their differing partition in the two phases. The paper strip so developed is known as a chromatogram. The spots of the separated coloured compounds are visible at different heights from the position of initial</span>
+    <button class="icon-btn" onclick="goToPdfPage(29)">📄 View in PDF (Page 29)</button>
+  </div>
+</div>
+
 mobile phase. The solvent rises up the paper
 by capillary action and flows over the spot. The
 paper selectively retains different components
@@ -4304,7 +4369,7 @@ extract.
 The sodium fusion extract is boiled with
 iron(II) sulphate and then acidified with
 
-Reprint 2025-26
+
 
 
 ---
@@ -4451,36 +4516,20 @@ y
 
 2
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 31
 
-286
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch08_organic_chemistry_basic_principles_fig_8_14.png" alt="Fig. 8.14" onclick="openImageModal(this.src, 'Fig. 8.14: The mass of water produced is determined by passing the mixture through a weighe...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.14</strong> The mass of water produced is determined by passing the mixture through a weighed U-tube containing anhydrous calcium chloride. Carbon dioxide is absorbed in another U-tube containing concentrated solution of potassium hydroxide. These tubes are connected in series (Fig. 8.14). The increase in masses of calcium chloride and potassium hydroxide gives the amounts of water and carbon dioxide from which the percentages of carbon and hydrogen are calculated.</span>
+    <button class="icon-btn" onclick="goToPdfPage(31)">📄 View in PDF (Page 31)</button>
+  </div>
+</div>
 
-sample in platinum boat
-
-CuO pallets
-
-combustion tube
-
-pure dry
-oxygen
-
-UU
-
-↓
-
-excess
-
-anhydrous CaCl₂
-
-KOH solution
-
-CHEMISTRY
-
-Fig.8.14 Estimation of carbon and hydrogen. Water and carbon dioxide formed on oxidation of substance
 are absorbed in anhydrous calcium chloride and potassium hydroxide solutions respectively
 contained in U tubes.
 
@@ -4546,7 +4595,14 @@ The mixture of gases so produced is collected
 over an aqueous solution of potassium
 hydroxide which absorbs carbon dioxide.
 Nitrogen is collected in the upper part of the
-graduated tube (Fig.8.15).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch08_organic_chemistry_basic_principles_fig_8_15.png" alt="Fig. 8.15" onclick="openImageModal(this.src, 'Fig. 8.15: Traces of nitrogen oxides formed, if any, are reduced to nitrogen by passing the...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.15</strong> Traces of nitrogen oxides formed, if any, are reduced to nitrogen by passing the gaseous mixture over a heated copper gauze. The mixture of gases so produced is collected over an aqueous solution of potassium hydroxide which absorbs carbon dioxide. Nitrogen is collected in the upper part of the graduated tube (Fig.8.15). Let the mass of organic compound = m g Volume of nitrogen collected = V1 mL</span>
+    <button class="icon-btn" onclick="goToPdfPage(31)">📄 View in PDF (Page 31)</button>
+  </div>
+</div>
 
 Let the mass of organic compound = mg
 Volume of nitrogen collected = V, mL
@@ -4589,7 +4645,7 @@ the relation;
 p₁= Atmospheric pressure – Aqueous tension
 22400 mL N, at STP weighs 28 g.
 
-Reprint 2025-26
+
 
 
 ---
@@ -4684,7 +4740,15 @@ g
 containing nitrogen is heated with concentrated
 sulphuric acid. Nitrogen in the compound
 gets converted to ammonium sulphate
-(Fig. 8.16). The resulting acid mixture is then
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch08_organic_chemistry_basic_principles_fig_8_16.png" alt="Fig. 8.16" onclick="openImageModal(this.src, 'Fig. 8.16: (ii) Kjeldahl’s method: The compound containing nitrogen is heated with concentr...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.16</strong> (ii) Kjeldahl’s method: The compound containing nitrogen is heated with concentrated sulphuric acid. Nitrogen in the compound gets converted to ammonium sulphate (Fig. 8.16). The resulting acid mixture is then heated with excess of sodium hydroxide. The liberated ammonia gas is absorbed in an excess of standard solution of sulphuric acid. The amount of ammonia produced is determined by estimating the amount of sulphuric acid consumed in the reaction. It is done by estimating unreacted sulphuric acid left after the absorption of ammonia by titrating it with standard alkali solution. The difference between the initial amount of acid</span>
+    <button class="icon-btn" onclick="goToPdfPage(32)">📄 View in PDF (Page 32)</button>
+  </div>
+</div>
+
 heated with excess of sodium hydroxide.
 The liberated ammonia gas is absorbed in
 an excess of standard solution of sulphuric
@@ -4696,7 +4760,7 @@ acid left after the absorption of ammonia by
 titrating it with standard alkali solution. The
 difference between the initial amount of acid
 
-Reprint 2025-26
+
 
 287
 
@@ -4828,7 +4892,7 @@ nitrogen
 
 20 mL of 1M ammonia contains
 
-Reprint 2025-26
+
 
 
 ---
@@ -4854,7 +4918,15 @@ Percentage of nitrogen=
 Carius method: A known mass of an organic
 compound is heated with fuming nitric acid in
 the presence of silver nitrate contained in a hard
-glass tube known as Carius tube, (Fig.8.17)
+glass tube known as Carius tube, (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch08_organic_chemistry_basic_principles_fig_8_17.png" alt="Fig. 8.17" onclick="openImageModal(this.src, 'Fig. 8.17: 8.10.3 Halogens Carius method: A known mass of an organic compound is heated wit...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.17</strong> 8.10.3 Halogens Carius method: A known mass of an organic compound is heated with fuming nitric acid in the presence of silver nitrate contained in a hard glass tube known as Carius tube, (Fig.8.17)</span>
+    <button class="icon-btn" onclick="goToPdfPage(34)">📄 View in PDF (Page 34)</button>
+  </div>
+</div>
 
 sealed capillary-
 
@@ -4957,7 +5029,7 @@ Problem 8.24
 In sulphur estimation, 0.157 g of an
 organic compound gave 0.4813 g of
 
-Reprint 2025-26
+
 
 
 ---
@@ -5116,7 +5188,7 @@ values on a screen within a short time. A
 detailed discussion of such methods is beyond
 the scope of this book.
 
-Reprint 2025-26
+
 
 
 ---
@@ -5178,7 +5250,7 @@ Sulphur and phosphorus are estimated by oxidising them to sulphuric and phosphor
 respectively. The percentage of oxygen is usually determined by difference between the total
 percentage (100) and the sum of percentages of all other elements present.
 
-Reprint 2025-26
+
 
 291
 
@@ -5313,7 +5385,7 @@ electrophiles:
 
 (a) CH3COOH + HƠ→ CH3COO¯+H₂O
 
-Reprint 2025-26
+
 
 
 ---
@@ -5435,7 +5507,7 @@ solubilities in a solvent S.
 What is the difference between distillation, distillation under reduced pressure and
 steam distillation?
 
-Reprint 2025-26
+
 
 
 ---
@@ -5565,5 +5637,5 @@ is classified as :
 
 (c) elimination (d) addition
 
-Reprint 2025-26
+
 

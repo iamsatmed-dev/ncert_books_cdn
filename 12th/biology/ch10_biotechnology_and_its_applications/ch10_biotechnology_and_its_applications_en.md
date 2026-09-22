@@ -7,7 +7,7 @@
 
 CHAPTER 10
 
-12083CH12
+
 
 BIOTECHNOLOGY AND ITS
 
@@ -61,7 +61,7 @@ for increasing food production
 
 (i) agro-chemical based agriculture;
 
-Reprint 2025-26
+
 
 
 ---
@@ -121,7 +121,7 @@ new plant. These hybrids are called somatic hybrids while the process
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -190,7 +190,7 @@ of the insect.
 
 179
 
-Reprint 2025-26
+
 
 
 ---
@@ -201,7 +201,16 @@ Reprint 2025-26
 BIOLOGY
 
 Specific Bt toxin genes were isolated from Bacillus thuringiensis and
-incorporated into the several crop plants such as cotton (Figure 10.1).
+incorporated into the several crop plants such as cotton (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch10_biotechnology_and_its_applications_fig_10_1.png" alt="Fig. 10.1" onclick="openImageModal(this.src, 'Fig. 10.1: Specific Bt toxin genes were isolated from Bacillus thuringiensis and incorporat...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.1</strong> Specific Bt toxin genes were isolated from Bacillus thuringiensis and incorporated into the several crop plants such as cotton (Figure 10.1). The choice of genes depends upon the crop and the targeted pest, as most Bt toxins are insect-group specific. The toxin is coded by a gene cryIAc named cry. There are a number of them, for example, the proteins encoded by the genes cryIAc and cryIIAb control the cotton bollworms, that of cryIAb controls corn borer.</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 The choice of genes depends upon the crop and the targeted pest, as
 most Bt toxins are insect-group specific. The toxin is coded by a gene
 crylAc named cry. There are a number of them, for example, the proteins
@@ -228,7 +237,15 @@ viruses having RNA genomes or mobile genetic elements (transposons)
 that replicate via an RNA intermediate.
 
 Using Agrobacterium vectors, nematode-specific genes were
-introduced into the host plant (Figure 10.2). The introduction of DNA
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch10_biotechnology_and_its_applications_fig_10_2.png" alt="Fig. 10.2" onclick="openImageModal(this.src, 'Fig. 10.2: Using Agrobacterium vectors, nematode-specific genes were introduced into the ho...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.2</strong> Using Agrobacterium vectors, nematode-specific genes were introduced into the host plant (Figure 10.2). The introduction of DNA was such that it produced both sense and anti-sense RNA in the host cells. These two RNA’s being complementary to each other formed a double stranded (dsRNA) that initiated RNAi and thus, silenced the specific mRNA of the nematode. The consequence was that the parasite could not survive in a transgenic host expressing specific interfering RNA. The transgenic plant therefore got itself protected from the parasite (Figure 10.2).</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 was such that it produced both sense and anti-sense RNA in the host
 cells. These two RNA's being complementary to each other formed a double
 stranded (dsRNA) that initiated RNAi and thus, silenced the specific mRNA
@@ -238,7 +255,7 @@ plant therefore got itself protected from the parasite (Figure 10.2).
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -286,11 +303,19 @@ Insulin used for diabetes was earlier extracted from pancreas of
 slaughtered cattle and pigs. Insulin from an animal source, though caused
 some patients to develop allergy or other types of reactions to the foreign
 protein. Insulin consists of two short polypeptide chains: chain A
-and chain B, that are linked together by disulphide bridges (Figure 10.3).
+and chain B, that are linked together by disulphide bridges (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch10_biotechnology_and_its_applications_fig_10_3.png" alt="Fig. 10.3" onclick="openImageModal(this.src, 'Fig. 10.3: Insulin used for diabetes was earlier extracted from pancreas of slaughtered cat...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.3</strong> Insulin used for diabetes was earlier extracted from pancreas of slaughtered cattle and pigs. Insulin from an animal source, though caused some patients to develop allergy or other types of reactions to the foreign protein. Insulin consists of two short polypeptide chains: chain A and chain B, that are linked together by disulphide bridges (Figure 10.3).</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 181
 
-Reprint 2025-26
+
 
 
 ---
@@ -372,7 +397,7 @@ You know that for effective treatment of a disease, early diagnosis and
 understanding its pathophysiology is very important. Using conventional
 methods of diagnosis (serum and urine analysis, etc.) early detection is
 
-Reprint 2025-26
+
 
 
 ---
@@ -437,7 +462,7 @@ such as cancer, cystic fibrosis, rheumatoid arthritis and Alzheimer's.
 
 183
 
-Reprint 2025-26
+
 
 
 ---
@@ -502,7 +527,7 @@ of a specific region/country.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -558,7 +583,7 @@ development initiatives.
 
 185
 
-Reprint 2025-26
+
 
 
 ---
@@ -627,7 +652,7 @@ themselves because
 
 (a) bacteria are resistant to the toxin
 
-Reprint 2025-26
+
 
 
 ---
@@ -669,9 +694,9 @@ pharmaceutical. What is the major problem to be encountered?
 
 ONCERT
 
-not to be republished
 
-Reprint 2025-26
+
+
 
 187
 

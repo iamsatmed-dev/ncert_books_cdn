@@ -6,7 +6,7 @@
 
 CHAPTER 2
 
-12083CH03
+
 
 HUMAN REPRODUCTION
 
@@ -56,7 +56,7 @@ The male reproductive system is located in the pelvis region
 (Figure 2.1a). It includes a pair of testes alongwith
 accessory ducts, glands and the external genitalia.
 
-Reprint 2025-26
+
 
 
 ---
@@ -98,7 +98,15 @@ produced. Each seminiferous tubule
 is lined on its inside by two types
 of cells called male germ cells
 (spermatogonia) and Sertoli cells
-(Figure 2.2). The male germ cells
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_2.png" alt="Fig. 2.2" onclick="openImageModal(this.src, 'Fig. 2.2: Each lobule contains one to three highly coiled seminiferous tubules in which sp...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.2</strong> Each lobule contains one to three highly coiled seminiferous tubules in which sperms are produced. Each seminiferous tubule is lined on its inside by two types of cells called male germ cells (spermatogonia) and Sertoli cells (Figure 2.2 ). The male germ cells undergo meiotic divisions finally leading to sperm formation, while Sertoli cells provide nutrition to the germ cells. The regions outside the seminiferous tubules called interstitial spaces, contain small blood vessels and interstitial cells or Leydig cells (Figure 2.2). Leydig cells synthesise and secrete testicular hormones called androgens. Other immunologically competent cells are also present.</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 undergo meiotic divisions finally
 leading to sperm formation, while
 Sertoli cells provide nutrition to the
@@ -113,24 +121,14 @@ testicular hormones called
 androgens. Other immunologically
 competent cells are also present.
 
-Urethra
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_1.png" alt="Fig. 2.1" onclick="openImageModal(this.src, 'Fig. 2.1: The male reproductive system is located in the pelvis region (Figure 2.1a). It i...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.1</strong> The male reproductive system is located in the pelvis region (Figure 2.1a). It includes a pair of testes alongwith accessory ducts, glands and the external genitalia.</span>
+    <button class="icon-btn" onclick="goToPdfPage(1)">📄 View in PDF (Page 1)</button>
+  </div>
+</div>
 
-Glans penis
-Foreskin
-
-Ejaculatory duct
-
-Rectum
-
-Anus
-
-Testis
-
-Bulbourethral gland
-
-Scrotum
-
-Figure 2.1(a) Diagrammatic sectional view of male pelvis
 showing reproductive system
 
 Ureter
@@ -187,7 +185,7 @@ through the penis to its external opening called urethral meatus.
 
 27
 
-Reprint 2025-26
+
 
 
 ---
@@ -239,39 +237,19 @@ two zones – a peripheral cortex and an inner medulla.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 4
 
-HUMAN REPRODUCTION
-
-Uterus
-
-Urinary Bladder-
-
-Pubic symphysis-
-
-Urethra-
-
-Clitoris-
-
-Labium minora
-
-Labium majora
-
-Vaginal orifice-
-
-Cervix
-
-Rectum
-
--Vagina
-
-blisher
-
-Figure 2.3 (a) Diagrammatic sectional view of female pelvis showing
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_3.png" alt="Fig. 2.3" onclick="openImageModal(this.src, 'Fig. 2.3: The female reproductive system consists of a pair of ovaries alongwith a pair of...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.3</strong> The female reproductive system consists of a pair of ovaries alongwith a pair of oviducts, uterus, cervix, vagina and the external genitalia located in pelvic region (Figure 2.3a). These parts of the system alongwith a pair of the mammary glands are integrated structurally and functionally to support the processes of ovulation, fertilisation, pregnancy, birth and child care.</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 reproductive system
 
@@ -317,7 +295,7 @@ tube
 
 Figure 2.3 (b) Diagrammatic sectional view of the female reproductive system
 
-Reprint 2025-26
+
 
 29
 
@@ -357,31 +335,13 @@ in some sports like horseback riding, cycling, etc. In some women the hymen
 persists even after coitus. In fact, the presence or absence of hymen is not
 a reliable indicator of virginity or sexual experience.
 
-Fat
-
-C
-
-Mammary lobe
-
-Mammary alveolus-
-
-Mammary duct
-
-Lactiferou
-
-not
-
-Ampulla
-
-Lactiferous duct
-
-Nipple
-
-Areola
-
-Figure 2.4 A diagrammatic sectional view of Mammary gland
-
-Reprint 2025-26
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_4.png" alt="Fig. 2.4" onclick="openImageModal(this.src, 'Fig. 2.4: Figure 2.4 A diagrammatic sectional view of Mammary gland...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.4</strong> Figure 2.4 A diagrammatic sectional view of Mammary gland</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 Rib
 
@@ -430,7 +390,15 @@ spermatocytes, which have only 23
 chromosomes each. The secondary
 spermatocytes undergo the second meiotic
 division to produce four equal, haploid
-spermatids (Figure 2.5). What would be the
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_5.png" alt="Fig. 2.5" onclick="openImageModal(this.src, 'Fig. 2.5: The primary sex organs – the testis in the males and the ovaries in the females ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.5</strong> The primary sex organs – the testis in the males and the ovaries in the females – produce gametes, i.e, sperms and ovum, respectively, by the process called gametogenesis. In testis, the immature male germ cells (spermatogonia) produce sperms by spermatogenesis that begins at puberty. The spermatogonia (sing. spermatogonium) present on the inside wall of seminiferous tubules multiply by mitotic division and increase in numbers. Each spermatogonium is diploid and contains 46 chromosomes. Some of the spermatogonia called primary spermatocytes periodically undergo meiosis. A primary spermatocyte completes the first meiotic division (reduction division) leading to formation of two equal, haploid cells called secondary spermatocytes, which have only 23 chromosomes each. The secondary spermatocytes undergo the second meiotic division to produce four equal, haploid spermatids (Figure 2.5). What would be the number of chromosome in the spermatids? The spermatids are transformed into spermatozoa (sperms) by the process called spermiogenesis. After spermiogenesis, sperm heads become embedded in the Sertoli cells, and are finally released from the seminiferous tubules by the process called spermiation.</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 number of chromosome in the spermatids?
 The spermatids are transformed into
 spermatozoa (sperms) by the process called
@@ -467,34 +435,19 @@ spermatogenesis. FSH acts on the Sertoli cells and stimulates
 
 31
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 7
 
-Head
-
-32
-
-Plasma
-
-membrane
-
-Acrosome
-
-Nucleus containing
-chromosomal material
-
-Neck
-
-Middle piece
-Mitochondria
-(energy source for swimming)
-
-Tail
-
-Figure 2.6 Structure of a sperm
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_6.png" alt="Fig. 2.6" onclick="openImageModal(this.src, 'Fig. 2.6: Let us examine the structure of a sperm. It is a microscopic structure composed ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.6</strong> Let us examine the structure of a sperm. It is a microscopic structure composed of a head, neck, a middle piece and a tail (Figure 2.6). A plasma membrane envelops the whole body of sperm. The sperm head contains an elongated haploid nucleus, the anterior portion of which is covered by a cap-like structure, acrosome. The acrosome is filled with enzymes that help fertilisation of the ovum. The middle piece possesses numerous mitochondria, which produce energy for the movement of tail that facilitate sperm motility essential for fertilisation. The human male ejaculates about 200 to 300 million sperms during a coitus of which, for normal fertility, at least 60 per cent sperms must have normal shape and size and at least 40 per cent of them must show vigorous motility.</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
 BIOLOGY
 
@@ -535,7 +488,16 @@ mother cells (oogonia) are formed within each fetal ovary; no more oogonia
 are formed and added after birth. These cells start division and enter into
 prophase-I of the meiotic division and get temporarily arrested at that stage,
 called primary oocytes. Each primary oocyte then gets surrounded by a
-layer of granulosa cells and is called the primary follicle (Figure 2.7). A
+layer of granulosa cells and is called the primary follicle (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_7.png" alt="Fig. 2.7" onclick="openImageModal(this.src, 'Fig. 2.7: The process of formation of a mature female gamete is called oogenesis which is ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.7</strong> The process of formation of a mature female gamete is called oogenesis which is markedly different from spermatogenesis. Oogenesis is initiated during the embryonic development stage when a couple of million gamete mother cells (oogonia) are formed within each fetal ovary; no more oogonia are formed and added after birth. These cells start division and enter into prophase-I of the meiotic division and get temporarily arrested at that stage, called primary oocytes. Each primary oocyte then gets surrounded by a layer of granulosa cells and is called the primary follicle (Figure 2.7). A large number of these follicles degenerate during the phase from birth to puberty. Therefore, at puberty only 60,000-80,000 primary follicles are left in each ovary. The primary follicles get surrounded by more layers of granulosa cells and a new theca and are called secondary follicles.</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 large number of these follicles degenerate during the phase from birth to
 puberty. Therefore, at puberty only 60,000-80,000 primary follicles are
 left in each ovary. The primary follicles get surrounded by more layers of
@@ -549,7 +511,7 @@ oocyte within the tertiary follicle grows in size and completes its first meioti
 division. It is an unequal division resulting in the formation of a large
 haploid secondary oocyte and a tiny first polar body (Figure 2.8b). The
 
-Reprint 2025-26
+
 
 
 ---
@@ -598,7 +560,15 @@ Figure 2.7 Diagrammatic Section view of ovary
 
 spermatogenesis and oogenesis? A diagrammatic representation of
 
-spermatogenesis and oogenesis is given below (Figure 2.8).
+spermatogenesis and oogenesis is given below (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_8.png" alt="Fig. 2.8" onclick="openImageModal(this.src, 'Fig. 2.8: The secondary follicle soon transforms into a tertiary follicle which is charact...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.8</strong> The secondary follicle soon transforms into a tertiary follicle which is characterised by a fluid filled cavity called antrum. The theca layer is organised into an inner theca interna and an outer theca externa. It is important to draw your attention that it is at this stage that the primary oocyte within the tertiary follicle grows in size and completes its first meiotic division. It is an unequal division resulting in the formation of a large haploid secondary oocyte and a tiny first polar body (Figure 2.8b). The</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
 At Puberty
 
@@ -691,7 +661,7 @@ is repeated at an average interval of about 28/29 days, and the cycle of
 events starting from one menstruation till the next one is called the
 menstrual cycle. One ovum is released (ovulation) during the middle
 
-Reprint 2025-26
+
 
 33
 
@@ -728,34 +698,13 @@ corpus luteum
 
 lished
 
-Days
-
-1
-
-3
-
-5 7 9 11 13
-
-15
-
-Menstruation
-
-Follicular phase
-(Proliferative phase)
-
-presentation o
-
-34
-
-17 19 21 23 25 27 29/1
-
-Luteal phase
-(Secretory phase)
-
-Next cycle
-begins
-
-Figure 2.9 Diagrammatic presentation of various events during a menstrual cycle
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_9.png" alt="Fig. 2.9" onclick="openImageModal(this.src, 'Fig. 2.9: Figure 2.9 Diagrammatic presentation of various events during a menstrual cycle...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.9</strong> Figure 2.9 Diagrammatic presentation of various events during a menstrual cycle</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 not
 
@@ -774,7 +723,7 @@ of uterus regenerates through proliferation. These changes in the
 ovary and the uterus are induced by changes in the levels of
 pituitary and ovarian hormones (Figure 2.9). The secretion of
 
-Reprint 2025-26
+
 
 BIOLOGY
 
@@ -859,7 +808,15 @@ The process of fusion of a sperm
 with an ovum is called fertilisation.
 During fertilisation, a sperm comes in
 contact with the zona pellucida layer
-of the ovum (Figure 2.10) and induces
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_10.png" alt="Fig. 2.10" onclick="openImageModal(this.src, 'Fig. 2.10: The process of fusion of a sperm with an ovum is called fertilisation. During fe...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.10</strong> The process of fusion of a sperm with an ovum is called fertilisation. During fertilisation, a sperm comes in contact with the zona pellucida layer of the ovum (Figure 2.10) and induces changes in the membrane that block the entry of additional sperms. Thus, it ensures that only one sperm can fertilise an ovum. The secretions of the acrosome help the sperm enter into the cytoplasm of the ovum through the zona pellucida and the plasma Figure 2.10 Ovum surrounded by few sperms</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 changes in the membrane that block
 the entry of additional sperms. Thus,
 it ensures that only one sperm can
@@ -880,7 +837,7 @@ Perivitelline space
 
 Figure 2.10 Ovum surrounded by few sperms
 
-Reprint 2025-26
+
 
 35
 
@@ -914,7 +871,16 @@ patterns in Chapter 5). That is why, scientifically it is correct to say that th
 sex of the baby is determined by the father and not by the mother!
 
 The mitotic division starts as the zygote moves through the isthmus
-of the oviduct called cleavage towards the uterus (Figure 2.11) and forms
+of the oviduct called cleavage towards the uterus (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_11.png" alt="Fig. 2.11" onclick="openImageModal(this.src, 'Fig. 2.11: During copulation (coitus) semen is released by the penis into the vagina (insem...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.11</strong> During copulation (coitus) semen is released by the penis into the vagina (insemination). The motile sperms swim rapidly, pass through the cervix, enter into the uterus and finally reach the ampullary region of the fallopian tube (Figure 2.11b). The ovum released by the ovary is also transported to the ampullary region where fertilisation takes place. Fertilisation can only occur if the ovum and sperms are transported simultaneously to the ampullary region. This is the reason why not all copulations lead to fertilisation and pregnancy.</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 2, 4, 8, 16 daughter cells called blastomeres. The embryo with 8 to 16
 
 (b)
@@ -960,7 +926,7 @@ Implantation
 
 Figure 2.11 Transport of ovum, fertilisation and passage of growing embryo through fallopian tube
 
-Reprint 2025-26
+
 
 
 ---
@@ -987,7 +953,15 @@ After implantation, finger-like projections appear on the trophoblast called
 chorionic villi which are surrounded by the uterine tissue and maternal
 blood. The chorionic villi and uterine tissue become interdigitated with
 each other and jointly form a structural and functional unit between
-developing embryo (foetus) and maternal body called placenta (Figure 2.12).
+developing embryo (foetus) and maternal body called placenta (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_12.png" alt="Fig. 2.12" onclick="openImageModal(this.src, 'Fig. 2.12: After implantation, finger-like projections appear on the trophoblast called cho...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.12</strong> After implantation, finger-like projections appear on the trophoblast called chorionic villi which are surrounded by the uterine tissue and maternal blood. The chorionic villi and uterine tissue become interdigitated with each other and jointly form a structural and functional unit between developing embryo (foetus) and maternal body called placenta (Figure 2.12).</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 The placenta facilitate the supply of oxygen and nutrients to the
 embryo and also removal of carbon dioxide and excretory/waste materials
@@ -1045,7 +1019,7 @@ in cervix
 
 Figure 2.12 The human foetus within the uterus
 
-Reprint 2025-26
+
 
 
 ---
@@ -1106,7 +1080,7 @@ a healthy baby.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -1185,7 +1159,7 @@ in humans (external/internal)
 
 (diploid/haploid)
 
-Reprint 2025-26
+
 
 39
 
@@ -1303,5 +1277,5 @@ fraternal?
 21. How many eggs do you think were released by the ovary of a female dog
 which gave birth to 6 puppies?
 
-Reprint 2025-26
+
 

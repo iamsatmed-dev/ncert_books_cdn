@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-12087CH02
+
 
 एकक
 
@@ -80,7 +80,7 @@ ed
 द्विअंगी विलयनों (जिनमें दो अवयव हों) का अध्ययन करेंगे। यहाँ प्रत्येक अवयव ठोस, द्रव
 अथवा गैस अवस्था में हो सकता है। जिनका संक्षिप्त विवरण सारणी 1.1 में दिया गया है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -215,7 +215,7 @@ not t
 उदाहरणार्थ; एथेनॉल का जल में 10% विलयन का तात्पर्य है कि 10mL एथेनॉल को इतने
 जल में इतना घोलते हैं कि विलयन का कुल आयतन 100 mL हो जाए। द्रवीय विलयनों
 
-Reprint 2026-27
+
 
 
 ---
@@ -323,7 +323,7 @@ X₁ + x +
 की सांद्रता का वाष्पदाब के साथ संबंध दर्शाने में तथा इसका उपयोग गैसीय मिश्रणों के लिए
 आवश्यक गणना की व्याख्या करने में भी है।
 
-Reprint 2026-27
+
 
 3 विलयन
 
@@ -437,7 +437,7 @@ not
 
 4
 
-Reprint 2026-27
+
 
 = 0.278 M
 
@@ -546,7 +546,7 @@ C2H4O2
 ### 1.5 20% (w/w) जलीय KI का घनत्व 1.202 g mL¹ हो तो KI विलयन की (क) मोललता,
 (ख) मोलरता, (ग) मोल-अंश की गणना कीजिए।
 
-Reprint 2026-27
+
 
 5 विलयन
 
@@ -614,7 +614,7 @@ not to
 
 6
 
-Reprint 2026-27
+
 
 
 ---
@@ -630,7 +630,24 @@ Reprint 2026-27
 विलेयता
 गैस (HCI) जल में अत्यधिक घुलनशील होती है। गैसों की द्रवों में विलेयता ताप एवं दाब
 द्वारा बहुत अधिक प्रभावित होती है। दाब बढ़ने पर गैसों की विलेयता बढ़ती जाती है।
-चित्र 1.1 (क) में दर्शाये गए गैसों के विलयन के एक निकाय का p दाब एवं T ताप पर
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_1_hi.png" alt="
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_hi.png" alt="चित्र 1" onclick="openImageModal(this.src, 'चित्र 1: fp=k 1-1— xSl dh foys;rk ij nkc dk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1</strong> fp=k 1-1— xSl dh foys;rk ij nkc dk</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
+<div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.1</strong> cgqr lh xSlsa ty esa ?kqy tkrh gSaA vkWDlhtu ty esa cgqr de ek=kk esa ?kqyrh gSA vkWDlhtu dh ;g ?kqyh gqbZ ek=kk tyh; thou dks thfor j[krh gSA nwljh vksj gkbMªkstu DyksjkbM xSl (HCl) ty esa vR;fèkd ?kqyu'khy gksrh gSA xSlksa dh nzoksa esa foys;rk rki ,oa nkc }kjk cgqr vfèkd izHkkfor gksrh gSA nkc c<+us ij xSlksa dh foys;rk c<+rh tkrh gSA fp=k 1.1 (d) esa n'kkZ;s x, xSlksa osQ foy;u osQ ,d fudk; dk p nkc ,oa T rki ij vè;;u djrs gSa ftldk fupyk Hkkx foy;u gS ,oa Åijh Hkkx xSlh; gSA eku ysa fd ;g fudk; xfrd lkE; voLFkk esa gS_ vFkkZr~ bu ifjfLFkfr;ksa esa xSlh; d.kksa osQ foy;u esa tkus o mlesa ls fudyus dh xfr leku gSA vc xSl osQ oqQN vk;ru dks laihfMr dj foy;u ij nkc c<+krs gSa (fp=k 1.1 [k)A blls foy;u osQ Åij mifLFkr xSlh; d.kksa dh la[;k izfr bdkbZ vk;ru esa c<+ tk,xh rFkk xSlh; d.kksa dh] foy;u dh lrg esa izos'k djus osQ fy,] mlls Vdjkus dh nj Hkh c<+ tk,xhA blls xSl dh foys;rk rc rd c<+sxh tc rd fd ,d u;k lkE; LFkkfir u gks tk,A vr% foy;u ij nkc c<+us ls xSl dh foys;rk c<+rh gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 अध्ययन करते हैं जिसका निचला भाग विलयन है एवं ऊपरी भाग गैसीय है। मान लें कि यह
 निकाय गतिक साम्य अवस्था में है; अर्थात् इन परिस्थितियों में गैसीय कणों के विलयन में
 जाने व उसमें से निकलने की गति समान है। अब गैस के कुछ आयतन को संपीडित कर
@@ -688,14 +705,14 @@ N
 में 
 गैस की विलेयता गैस के आंशिक दाब पर निर्भर करती है। यदि हम विलयन
 
-+ to
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_2_hi.png" alt="चित्र 1.2" onclick="openImageModal(this.src, 'चित्र 1.2: p = KH x (1.11) ;gk¡ KH gsujh fLFkjkad gSA ;fn ge xSl osQ vkaf&#39;kd nkc ,oa fo...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.2</strong> p = KH x (1.11) ;gk¡ KH gsujh fLFkjkad gSA ;fn ge xSl osQ vkaf'kd nkc ,oa foy;u esa xSl osQ eksy&va'k osQ eè; vkys[k [khapsa rks gesa fp=k 1.2 esa n'kkZ;k x;k vkys[k izkIr gksxkA</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
-0.020
-
-साइक्लोहेक्सेन के विलयन में
-HCI का मोल-अंश
-
-चित्र 1.2- HCl गैस की साइक्लोहेक्सेन में
 293 K पर विलेयता के प्रायोगिक
 परिणाम। रेखा का ढाल हेनरी
 स्थिरांक K को व्यक्त करता है।
@@ -714,7 +731,7 @@ p = KHX
 के मोल-अंश के मध्य आलेख खींचें तो हमें चित्र 1.2 में दर्शाया गया आलेख
 प्राप्त होगा।
 
-Reprint 2026-27
+
 
 7
 
@@ -769,9 +786,7 @@ CO2
 
 298
 
-### 1.67
-
-N
+### 1.67 N
 
 293
 
@@ -886,7 +901,7 @@ n = 1.29 × 10¯º × 55.5 mol
 
 रसायन विज्ञान 8
 
-Reprint 2026-27
+
 
 
 ---
@@ -953,7 +968,7 @@ Reprint 2026-27
 
 9 विलयन
 
-Reprint 2026-27
+
 
 
 ---
@@ -976,30 +991,14 @@ Reprint 2026-27
 के विलयन में प्रत्येक अवयव का आंशिक दाब विलयन में उसके मोल-अंश के
 समानुपाती होता है। अतः अवयव 1 के लिए-
 
-P₁ x x₁
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_3_hi.png" alt="चित्र 1.3" onclick="openImageModal(this.src, 'चित्र 1.3: fp=k 1.3—fLFkj rki ij vkn&#39;kZ foy;u osQ ok&quot;i nkc...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.3</strong> fp=k 1.3—fLFkj rki ij vkn'kZ foy;u osQ ok"i nkc</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
-और p₁ = p x₁
-
-P2
-
-वाष्पदाब
-
-P
-
-P = P₁+ P2
-
-II
-
-x₁ =1
-X2=0
-
-मोल-अंश
-X2
-
-x₁ =0
-X2 =1
-
-चित्र 1.3- स्थिर ताप पर आदर्श विलयन के वाष्प दाब
 एवं मोल-अंश का आलेख असतत रेखाएँ I
 एवं II घटकों के आंशिक दाब को व्यक्त
 करती हैं (आलेख से देखा जा सकता है कि
@@ -1077,7 +1076,7 @@ P₂ = p2 x2
 
 (1.13)
 
-Reprint 2026-27
+
 
 
 ---
@@ -1185,7 +1184,7 @@ mm Hg और PCHCl3 = 200 mm Hg) और वाष्पीय प्रावस
 
 11 विलयन
 
-Reprint 2026-27
+
 
 
 ---
@@ -1223,7 +1222,15 @@ p = KH x
 विलायकों से बहुत अलग होते हैं, उदाहरण है— वाष्प दाब। किसी दिए गए ताप पर द्रव
 वाष्पित होता है तथा साम्यावस्था पर द्रव की वाष्प का, द्रव प्रावस्था
 पर डाला गया दाब उस द्रव का वाष्प दाब कहलाता है
-(चित्र 1.4 क)। शुद्ध द्रवों की सारी सतह द्रव के अणुओं द्वारा घिरी
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_4_hi.png" alt="चित्र 1.4" onclick="openImageModal(this.src, 'चित्र 1.4: okf&quot;ir gksrk gS rFkk lkE;koLFkk ij nzo dh ok&quot;i dk] nzo izkoLFkk ij Mky...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.4</strong> okf"ir gksrk gS rFkk lkE;koLFkk ij nzo dh ok"i dk] nzo izkoLFkk ij Mkyk x;k nkc ml nzo dk ok"i nkc dgykrk gS (fp=k 1.4 d)A 'kq¼ nzoksa dh lkjh lrg nzo osQ v.kqvksa }kjk f?kjh jgrh gSA ;fn fdlh foyk;d esa ,d vok"i'khy foys; Mkydj foy;u cuk;k tk, rks bl foy;u dk ok"i nkc osQoy foyk;d osQ ok"inkc osQ dkj.k gksrk gS (fp=k 1.4 [k)A fn, x, rki ij foy;u dk ;g ok"i nkc 'kq¼ foyk;d osQ ok"inkc ls de gksrk gSA foy;u dh lrg ij foys; o foyk;d nksukas osQ v.kq mifLFkr jgrs gSaA vr% lrg dk foyk;d osQ v.kqvksa ls f?kjk Hkkx de jg tkrk gSA blosQ dkj.k lrg NksM+dj tkus okys foyk;d v.kqvksa dh la[;k Hkh rnuqlkj ?kV tkrh gS] vr% foyk;d dk ok"i nkc Hkh de gks tkrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
 रहती है। यदि किसी विलायक में एक अवाष्पशील विलेय डालकर
 विलयन बनाया जाए तो इस विलयन का वाष्प दाब केवल विलायक
 के वाष्पदाब के कारण होता है (चित्र 1.4 ख)। दिए गए ताप पर
@@ -1277,14 +1284,22 @@ P₁ = x₁ p
 
 (1.20)
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 13
 
 समानुपाती स्थिरांक शुद्ध विलायक के वाष्प दाब p के बराबर होता है, विलायक के
-वाष्प दाब व मोल-अंश प्रभाज के मध्य खींचा गया आलेख रेखीय होता है (चित्र 1.5)।
+वाष्प दाब व मोल-अंश प्रभाज के मध्य खींचा गया आलेख रेखीय होता है (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_5_hi.png" alt="चित्र 1.5" onclick="openImageModal(this.src, 'चित्र 1.5: lekuqikrh fLFkjkad &#39;kq¼ foyk;d osQ ok&quot;i nkc 0 1 p osQ cjkcj gksrk gS] f...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.5</strong> lekuqikrh fLFkjkad 'kq¼ foyk;d osQ ok"i nkc 0 1 p osQ cjkcj gksrk gS] foyk;d osQ ok"i nkc o eksy&va'k izHkkt osQ eè; [khapk x;k vkys[k js[kh; gksrk gS (fp=k 1.5)A</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 चित्र 1.5- यदि कोई विलयन सभी सांद्रणों के लिए राउल्ट
 के नियम का पालन करता है तो उसका वाष्प
@@ -1349,11 +1364,19 @@ A-A व B-B के बीच अंतराआण्विक आकर्ष�
 (predict) किए गए वाष्प दाब से या तो अधिक होता है या कम (समीकरण 1.16)।
 यदि यह अधिक होता है तो यह विलयन राउल्ट नियम से धनात्मक विचलन प्रदर्शित करता
 है और यदि यह कम होता है तो यह ऋणात्मक विचलन प्रदर्शित करता है। ऐसे विलयनों
-के वाष्प दाब का मोल-अंश के सापेक्ष आलेख, चित्र 1.6 में दिखाया गया है।
+के वाष्प दाब का मोल-अंश के सापेक्ष आलेख,
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_6_hi.png" alt="चित्र 1.6" onclick="openImageModal(this.src, 'चित्र 1.6: tc dksbZ foy;u lHkh lkanzrkvksa ij jkmYV osQ fu;e dk ikyu ugha djrk rks og vukn&...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.6</strong> tc dksbZ foy;u lHkh lkanzrkvksa ij jkmYV osQ fu;e dk ikyu ugha djrk rks og vukn'kZ foy;u dgykrk gSA bl izdkj osQ foy;uksa dk ok"inkc jkmYV osQ fu;e }kjk izkxqDr (predict) fd, x, ok"i nkc ls ;k rks vf/d gksrk gS ;k de (lehdj.k 1.16)A ;fn ;g vfèkd gksrk gS rks ;g foy;u jkmYV fu;e ls /ukRed fopyu izn£'kr djrk gS vkSj ;fn ;g de gksrk gS rks ;g Í.kkRed fopyu izn£'kr djrk gSA ,sls foy;uksa osQ ok"i nkc dk eksy&va'k osQ lkis{k vkys[k] fp=k 1.6 esa fn[kk;k x;k gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 13 विलयन
 
-Reprint 2026-27
+
 
 
 ---
@@ -1470,7 +1493,7 @@ not to be re
 एक बार यह संघटन प्राप्त कर लेने के पश्चात्, जो कि स्थिरक्वाथी संघटन है, द्रव व वाष्प
 का संघटन समान हो जाता है तथा इसके आगे पृथक्करण नहीं होता।
 
-Reprint 2026-27
+
 
 
 ---
@@ -1573,7 +1596,7 @@ P
 
 15 विलयन
 
-Reprint 2026-27
+
 
 
 ---
@@ -1690,7 +1713,16 @@ M2 × 39 g
 दाब वायुमंडलीय दाब के बराबर हो जाता है। उदाहरण के लिए जल 373.15 K
 (100°C) पर उबलता है क्योंकि इस ताप पर जल का वाष्प दाब 1.013 bar
 (1 वायुमंडल) है। हमने पिछले खंड में जाना कि अवाष्पशील विलेय कि उपस्थिति से
-विलायक का वाष्प दाब कम हो जाता है। चित्र 1.7 शुद्ध विलायक और विलयन के वाष्पदाब
+विलायक का वाष्प दाब कम हो जाता है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_7_hi.png" alt="चित्र 1.7" onclick="openImageModal(this.src, 'चित्र 1.7: oC) ij mcyrk gS D;ksafd bl rki ij ty dk ok&quot;i nkc 1.013 bar (1 ok;qeaMy) gSA...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.7</strong> oC) ij mcyrk gS D;ksafd bl rki ij ty dk ok"i nkc 1.013 bar (1 ok;qeaMy) gSA geus fiNys [kaM esa tkuk fd vok"i'khy foys; fd mifLFkfr ls foyk;d dk ok"i nkc de gks tkrk gSA fp=k 1.7 'kq¼ foyk;d vkSj foy;u osQ ok"inkc dk rki osQ lkFk ifjorZu izn£'kr djrk gSA mnkgj.k osQ fy, lqØksl osQ tyh; foy;u dk ok"inkc 373.15 K ij 1.013 bar ls de gSA bl foy;u dks mckyus osQ fy, rki dks 'kq¼ foyk;d (ty) osQ DoFkukad ls vfèkd c<+kdj foy;u dk ok"i nkc 1.013 bar rd c<+kuk iM+sxkA vr% fdlh Hkh foy;u dk DoFkukad 'kq¼ foyk;d] ftlesa foy;u cuk;k x;k gS] osQ DoFkukad ls ges'kk vfèkd</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
+
 का ताप के साथ परिवर्तन प्रदर्शित करता है। उदाहरण के लिए सुक्रोस के जलीय विलयन
 का वाष्पदाब 373.15 K पर 1.013 bar से कम है। इस विलयन को उबालने
 के लिए ताप को शुद्ध विलायक (जल) के क्वथनांक से अधिक बढ़ाकर विलयन
@@ -1699,7 +1731,7 @@ M2 × 39 g
 
 रसायन विज्ञान 16
 
-Reprint 2026-27
+
 
 
 ---
@@ -1836,7 +1868,7 @@ b
 चूँकि 1.013 bar दाब पर जल 373.15K पर उबलता है, अतः विलयन का क्वथनांक
 373.15 + 0.052 = 373.202 K होगा।
 
-Reprint 2026-27
+
 
 17 विलयन
 
@@ -1872,7 +1904,15 @@ M₂ =
 = 58 g mol¹
 
 ### 1.6.3 हिमांक का अवनमन वाष्प दाब में कमी के कारण शुद्ध विलायक की तुलना में विलयन के हिमांक का अवनमन
-होता है (चित्र 1.8)। हम जानते हैं कि किसी पदार्थ के हिमांक पर, ठोस प्रावस्था एवं द्रव
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_8_hi.png" alt="चित्र 1.8" onclick="openImageModal(this.src, 'चित्र 1.8: ok&quot;i nkc esa deh osQ dkj.k &#39;kq¼ foyk;d dh rqyuk esa foy;u osQ fgekad dk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.8</strong> ok"i nkc esa deh osQ dkj.k 'kq¼ foyk;d dh rqyuk esa foy;u osQ fgekad dk voueu gksrk gS (fp=k 1.8)A ge tkurs gSa fd fdlh inkFkZ osQ fgekad ij] Bksl izkoLFkk ,oa nzo izkoLFkk xfrd lkE; esa jgrh gSA vr% fdlh inkFkZ osQ fgekad fcanq dks bl izdkj ifjHkkf"kr fd;k tk ldrk gS fd ;g og rki gS ftlij nzo voLFkk dk ok"i nkc mldh Bksl voLFkk osQ ok"i nkc osQ cjkcj gksrk gSA ,d foy;u dk rHkh fgehdj.k gksrk gS tc mldk ok"i nkc 'kq¼ Bksl foyk;d osQ ok"i nkc osQ cjkcj gks tk, tSlk fd fp=k 1.8</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
+
 प्रावस्था गतिक साम्य में रहती है। अतः किसी पदार्थ के हिमांक बिंदु को इस प्रकार परिभाषित
 किया जा सकता है कि यह वह ताप है जिसपर द्रव अवस्था का वाष्प दाब उसकी ठोस
 अवस्था के वाष्प दाब के बराबर होता है। एक विलयन का तभी हिमीकरण होता है जब
@@ -1936,7 +1976,7 @@ AT = K m
 की इकाई K kg mol¹ है। कुछ प्रचलित विलायकों के K₁ मान सारणी 1.3 में दिए
 गए हैं।
 
-Reprint 2026-27
+
 
 
 ---
@@ -2026,9 +2066,7 @@ K/K kg mol¯¹
 
 273.0
 
-### 1.86
-
-एथेनॉल
+### 1.86 एथेनॉल
 
 351.5
 
@@ -2036,9 +2074,7 @@ K/K kg mol¯¹
 
 155.7
 
-### 1.99
-
-साइक्लोहेक्सेन
+### 1.99 साइक्लोहेक्सेन
 
 बेन्जीन
 
@@ -2088,9 +2124,7 @@ not
 
 164.2
 
-### 3.83
-
-डाइएथिल ईथर
+### 3.83 डाइएथिल ईथर
 
 307.8
 
@@ -2098,9 +2132,7 @@ not
 
 156.9
 
-### 1.79
-
-ऐसीटिक अम्ल
+### 1.79 ऐसीटिक अम्ल
 
 391.1
 
@@ -2110,7 +2142,7 @@ not
 
 ### 3.90
 
-Reprint 2026-27
+
 
 19 विलयन
 
@@ -2202,14 +2234,14 @@ p
 हो सकती हैं एवं यह सूअर के ब्लेडर या पार्चमेन्ट की तरह प्राकृतिक रूप में
 मिलती हैं, अथवा सेलोफेन की तरह संश्लेषित प्रकृति की होती हैं।
 
-विलायक
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_9_hi.png" alt="चित्र 1.9" onclick="openImageModal(this.src, 'चित्र 1.9: eku yhft, fd osQoy foyk;d osQ v.kq gh bu v/ZikjxE; f>fYy;ksa esa ls fudy ldrs gS...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.9</strong> eku yhft, fd osQoy foyk;d osQ v.kq gh bu v/ZikjxE; f>fYy;ksa esa ls fudy ldrs gSaA ;fn fp=k 1.9 esa n'kkZ;s vuqlkj ;g f>Yyh foyk;d ,oa foy;u osQ eè; j[k nh tk, rks foyk;d osQ v.kq bl f>Yyh esa ls fudydj foy;u dh vksj izokfgr gks tk,axsA foyk;d osQ izokg dk ;g izØe ijklj.k dgykrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
 
-• विलयन
-
-अर्धपारगम्य
-झिल्ली
-
-चित्र 1.9- विलायक के परासरण के कारण
 थिसेल फनल में विलयन का स्तर
 बढ़ जाता है।
 
@@ -2227,24 +2259,20 @@ p
 निकलकर विलयन की ओर प्रवाहित हो जाएंगे। विलायक के प्रवाह का यह
 प्रक्रम परासरण कहलाता है।
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 21
 
-P
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_10_hi.png" alt="चित्र 1.10" onclick="openImageModal(this.src, 'चित्र 1.10: ,d foy;u dk ijklj.k nkc og vfrfjDr nkc gS] tks ijklj.k dks jksdus vFkkZr~ foyk;d...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.10</strong> ,d foy;u dk ijklj.k nkc og vfrfjDr nkc gS] tks ijklj.k dks jksdus vFkkZr~ foyk;d osQ v.kqvksa oQks ,d vèkZikjxE; f>Yyh }kjk foy;u esa tkus ls jksdus osQ fy, yxk;k tkuk pkfg,A ;g fp=k 1.10 esa le>k;k x;k gSA ijklj.k nkc ,d v.kqla[;d xq.k gS] tks fd foys; fd v.kq la[;k ij fuHkZj djrk gS] u fd mldh izÑfr ijA ruq foy;uksa osQ fy, izk;ksfxd rkSj ij ;g ik;k x;k gS fd ijklj.k nkc fn, x, rki T ij] eksyjrk] C osQ lekuqikfrd gksrk gSA vr%</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
 
-वायु + П
-
-विलयन
-
-SPM
-
-Pबाय
-
-विलायक
-चित्र 1.10- परासरण को रोकने के लिए परासरण
 दाब के तुल्य अतिरिक्त दाब विलयन पर
 प्रयुक्त करना चाहिए।
 
@@ -2326,7 +2354,7 @@ M2
 
 21 विलयन
 
-Reprint 2026-27
+
 
 
 ---
@@ -2404,29 +2432,20 @@ M₂ =
 यह परिघटना प्रतिलोम परासरण कहलाती है एवं व्यावहारिक रूप से बहुत उपयोगी
 है। प्रतिलोम परासरण का उपयोग समुद्री जल के विलवणीकरण में किया जाता है। प्रक्रम
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 23
 
-पिस्टन
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_11_hi.png" alt="चित्र 1.11" onclick="openImageModal(this.src, 'चित्र 1.11: dk vkjs[kh; fu:i.k fp=k 1.11 esa n&#39;kkZ;k x;k gSA tc ijklj.k nkc ls vfèkd nkc...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.11</strong> dk vkjs[kh; fu:i.k fp=k 1.11 esa n'kkZ;k x;k gSA tc ijklj.k nkc ls vfèkd nkc yxk;k tkrk gS rks 'kq¼ ty v/ZikjxE; f>Yyh osQ ekè;e ls leqnzh ty esa ls fu"dkflr gks tkrk gSA rks bl mís'; osQ fy, fofHkUu izdkj dh cgqydh; f>fYy;k¡ miyCèk gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
+  </div>
+</div>
 
-दाब > II
-
-00001
-
-शुद्ध जल
-
-लवणीय जल
-
-जल निकास
-
-↓
-
-SPM
-
-चित्र 1.11- जब विलयन पर परासरण दाब से अधिक
 दाब लगाया जाता है तो प्रतिलोम
 परासरण होता है।
 
@@ -2493,7 +2512,7 @@ O-HO
 
 अणुओं का संगुणन
 
-Reprint 2026-27
+
 
 23 विलयन
 
@@ -2582,9 +2601,7 @@ NaCl
 
 ### 1.97
 
-### 2.00
-
-KCI
+### 2.00 KCI
 
 ### 1.85
 
@@ -2592,9 +2609,7 @@ KCI
 
 ### 1.98
 
-### 2.00
-
-MgSO4
+### 2.00 MgSO4
 
 ### 1.21
 
@@ -2602,9 +2617,7 @@ MgSO4
 
 ### 1.82
 
-### 2.00
-
-K2SO4
+### 2.00 K2SO4
 
 ### 2.32
 
@@ -2620,7 +2633,7 @@ i के मान अपूर्ण वियोजन के लिए है
 
 रसायन विज्ञान 24
 
-Reprint 2026-27
+
 
 
 ---
@@ -2715,7 +2728,7 @@ X
 
 अतः बेन्ज़ोइक अम्ल का बेन्जीन में संगुणन 99.2% है।
 
-Reprint 2026-27
+
 
 25 विलयन
 
@@ -2838,7 +2851,7 @@ nx
 
 रसायन विज्ञान 26
 
-Reprint 2026-27
+
 
 
 ---
@@ -2901,7 +2914,7 @@ be re
 ### 1.5 ग्लूकोस का एक जलीय विलयन 10% (w/w) है। विलयन की मोललता तथा विलयन में प्रत्येक घटक का मोल-अंश
 क्या है? यदि विलयन का घनत्व 1.2gmL¹ हो तो विलयन की मोलरता क्या होगी?
 
-Reprint 2026-27
+
 
 27 विलयन
 
@@ -2971,7 +2984,7 @@ shed
 
 रसायन विज्ञान 28
 
-Reprint 2026-27
+
 
 
 ---
@@ -3063,7 +3076,7 @@ Pक्लोरोफार्म / mm Hg 632.8 548.1 469.4 359.7
 उपरोक्त आंकड़ों को भी उसी ग्राफ में आलेखित कीजिए और इंगित कीजिए कि क्या इसमें आदर्श विलयन से धनात्मक
 अथवा ऋणात्मक विचलन है?
 
-Reprint 2026-27
+
 
 29 विलयन
 
@@ -3109,9 +3122,9 @@ Reprint 2026-27
 
 © NCERT
 
-not to be republished
+
 
 रसायन विज्ञान 30
 
-Reprint 2026-27
+
 

@@ -99,7 +99,7 @@ them as rigid.
 Let us try to explore this question by taking some examples
 of the motion of rigid bodies. Let us begin with a rectangular
 
-Reprint 2026-27
+
 
 
 ---
@@ -130,7 +130,14 @@ body. Its motion down the plane is such that all
 the particles of the body are moving together,
 i.e. they have the same velocity at any instant
 of time. The rigid body here is in pure
-translational motion (Fig. 6.1).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_1.png" alt="Fig. 6.1" onclick="openImageModal(this.src, 'Fig. 6.1: block sliding down an inclined plane without any sidewise movement. The block is...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.1</strong> block sliding down an inclined plane without any sidewise movement. The block is taken as a rigid body. Its motion down the plane is such that all the particles of the body are moving together, i.e. they have the same velocity at any instant of time. The rigid body here is in pure translational motion (Fig. 6.1).</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 In pure translational motion at any
 instant of time, all particles of the body have
@@ -153,7 +160,15 @@ CERT
 
 Consider now the rolling motion of a solid
 metallic or wooden cylinder down the same
-inclined plane (Fig. 6.2). The rigid body in this
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_2.png" alt="Fig. 6.2" onclick="openImageModal(this.src, 'Fig. 6.2: Consider now the rolling motion of a solid metallic or wooden cylinder down the ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.2</strong> Consider now the rolling motion of a solid metallic or wooden cylinder down the same inclined plane (Fig. 6.2). The rigid body in this problem, namely the cylinder, shifts from the top to the bottom of the inclined plane, and thus, seems to have translational motion. But as Fig. 6.2 shows, all its particles are not moving with the same velocity at any instant. The body, therefore, is not in pure translational motion. Its motion is translational plus ‘something else.’</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 problem, namely the cylinder, shifts from the
 top to the bottom of the inclined plane, and thus,
 seems to have translational motion. But as Fig.
@@ -197,9 +212,14 @@ In order to understand what this 'something
 else' is, let us take a rigid body so constrained
 that it cannot have translational motion. The
 
-(b)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_3.png" alt="Fig. 6.3" onclick="openImageModal(this.src, 'Fig. 6.3: (b) Fig. 6.3 Rotation about a fixed axis...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.3</strong> (b) Fig. 6.3 Rotation about a fixed axis</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
-Fig. 6.3 Rotation about a fixed axis
 (a) A ceiling fan
 (b) A potter's wheel.
 
@@ -207,53 +227,30 @@ Let us try to understand what rotation is,
 what characterises rotation. You may notice that
 in rotation of a rigid body about a fixed axis,
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 3
 
-94
-
-Z
-
-小
-
-ro
-
-C2
-
-P2
-
-P
-
-C
-
-P
-P3
-
-y
-
-z
-
-PHYSICS
-
-y
-
-X
-
-Fig. 6.5 (a) A spinning top
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_5.png" alt="Fig. 6.5" onclick="openImageModal(this.src, 'Fig. 6.5: Fig. 6.5 (a) A spinning top...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.5</strong> Fig. 6.5 (a) A spinning top</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 (The point of contact of the top with the
-ground, its tip O, is fixed.)
 
-Axis of oscillation
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_4.png" alt="Fig. 6.4" onclick="openImageModal(this.src, 'Fig. 6.4: every particle of the body moves in a circle, which lies in a plane perpendicula...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.4</strong> every particle of the body moves in a circle, which lies in a plane perpendicular to the axis and has its centre on the axis. Fig. 6.4 shows the rotational motion of a rigid body about a fixed axis (the z-axis of the frame of reference). Let P1 be a particle of the rigid body, arbitrarily chosen and at a distance r1 from fixed axis. The particle P1 describes a circle of radius r1 with its centre C1 on the fixed axis. The circle lies in a plane perpendicular to the axis. The figure also shows another particle P2 of the rigid body, P2 is at a distance r2 from the fixed axis. The particle P2 moves in a circle of radius r2 and with centre C2 on the axis. This circle, too, lies in a plane perpendicular to the axis. Note that the circles described by P1 and P2 may lie in different planes; both these planes, however, are perpendicular to the fixed axis. For any particle on the axis like P3, r = 0. Any such particle remains stationary while the body rotates. This is expected since the axis of rotation is fixed.</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
-2
-
-X
-
-Fig. 6.4 A rigid body rotation about the z-axis (Each
 point of the body such as P or
 P₂ describes a circle with its centre (C₁
 or C) on the axis of rotation. The radius of
@@ -326,7 +323,7 @@ contact. Another simple example of this kind of
 rotation is the oscillating table fan or a pedestal
 fan [Fig.6.5(b)]. You may have observed that the
 
-Reprint 2026-27
+
 
 
 ---
@@ -349,15 +346,13 @@ through the fixed point. In our study, however,
 we mostly deal with the simpler and special case
 of rotation in which one line (i.e. the axis) is fixed.
 
-P
-
-αι
-
-3
-
-Tr₁
-
-Fig. 6.6(a) Motion of a rigid body which is pure
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_6.png" alt="Fig. 6.6" onclick="openImageModal(this.src, 'Fig. 6.6: The rolling motion of a cylinder down an inclined plane is a combination of rota...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.6</strong> The rolling motion of a cylinder down an inclined plane is a combination of rotation about a fixed axis and translation. Thus, the ‘something else’ in the case of rolling motion which we referred to earlier is rotational motion. You will find Fig. 6.6(a) and (b) instructive from this point of view. Both these figures show motion of the same body along identical translational trajectory. In one case, Fig. 6.6(a), the motion is a pure translation; in the other case [Fig. 6.6(b)] it is a combination of translation and rotation. (You may try to reproduce the two types of motion shown, using a rigid object like a heavy book.)</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 P
 
@@ -431,31 +426,19 @@ significance. For simplicity we shall start with
 a two particle system. We shall take the line
 joining the two particles to be the x- axis.
 
-YA
-
-X
-
-m
-
-m₂
-
-X
-
-Ο
-
-C
-
-X
-
-X2
-
-Fig. 6.7
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_7.png" alt="Fig. 6.7" onclick="openImageModal(this.src, 'Fig. 6.7: Fig. 6.7...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.7</strong> Fig. 6.7</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 Let the distances of the two particles be x₁
 and x₂ respectively from some origin O. Let m₁
 and m be respectively the masses of the two
 
-Reprint 2026-27
+
 
 
 ---
@@ -654,7 +637,7 @@ so large that it is impossible to carry out the
 summations over individual particles in these
 equations. Since the spacing of the particles is
 
-Reprint 2026-27
+
 
 
 ---
@@ -735,7 +718,15 @@ geometric centre of the rod and x-axis to be
 along the length of the rod, we can say that on
 account of reflection symmetry, for every
 element dm of the rod at x, there is an element
-of the same mass dm located at -x (Fig. 6.8).
+of the same mass dm located at -x (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_8.png" alt="Fig. 6.8" onclick="openImageModal(this.src, 'Fig. 6.8: Let us consider a thin rod, whose width and breath (in case the cross section of...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.8</strong> Let us consider a thin rod, whose width and breath (in case the cross section of the rod is rectangular) or radius (in case the cross section of the rod is cylindrical) is much smaller than its length. Taking the origin to be at the geometric centre of the rod and x-axis to be along the length of the rod, we can say that on account of reflection symmetry, for every element dm of the rod at x, there is an element of the same mass dm located at –x (Fig. 6.8).</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 The net contribution of every such pair to
 the integral and hence the integral ∫ x dm itself
@@ -821,10 +812,13 @@ A(0.5,0)
 
 Fig. 6.8 Determining the CM of a thin rod.
 
-Fig. 6.9
-
-Reprint 2026-27
-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_9.png" alt="Fig. 6.9" onclick="openImageModal(this.src, 'Fig. 6.9: Fig. 6.9 Fig. 6.8 Determining the CM of a thin rod....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.9</strong> Fig. 6.9 Fig. 6.8 Determining the CM of a thin rod.</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 ---
 ## 📄 Page 7
@@ -900,7 +894,14 @@ triangular lamina.
 
 Answer The lamina (ALMN) may be subdivided
 into narrow strips each parallel to the base (MN)
-as shown in Fig. 6.10
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_10.png" alt="Fig. 6.10" onclick="openImageModal(this.src, 'Fig. 6.10: Answer The lamina (∆LMN) may be subdivided into narrow strips each parallel to t...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.10</strong> Answer The lamina (∆LMN) may be subdivided into narrow strips each parallel to the base (MN) as shown in Fig. 6.10</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
 M
 
@@ -913,7 +914,15 @@ with dimensions as shown. The mass of
 the lamina is 3 kg.
 
 Answer Choosing the X and Y axes as shown
-in Fig. 6.11 we have the coordinates of the
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_11.png" alt="Fig. 6.11" onclick="openImageModal(this.src, 'Fig. 6.11: Answer Choosing the X and Y axes as shown in Fig. 6.11 we have the coordinates o...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.11</strong> Answer Choosing the X and Y axes as shown in Fig. 6.11 we have the coordinates of the vertices of the L-shaped lamina as given in the figure. We can think of the L-shape to consist of 3 squares each of length 1m. The mass of each square is 1kg, since the lamina is uniform. The centres of mass C1, C2 and C3 of the squares are, by symmetry, their geometric centres and have coordinates (1/2,1/2), (3/2,1/2), (1/2,3/2) respectively. We take the masses of the squares to be concentrated at these points. The centre of mass of the whole L shape (X, Y) is the centre of mass of these mass points.</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 vertices of the L-shaped lamina as given in the
 figure. We
 can think of the
@@ -997,7 +1006,7 @@ the line OD. We could have guessed this without
 calculations. Can you tell why? Suppose, the
 three squares that make up the L shaped lamina
 
-Reprint 2026-27
+
 
 
 ---
@@ -1165,7 +1174,7 @@ acting at the centre of mass.
 This is the procedure that we followed earlier
 in analysing forces on bodies and solving
 
-Reprint 2026-27
+
 
 
 ---
@@ -1229,9 +1238,15 @@ Thus, the total momentum of a system of
 particles is equal to the product of the total
 mass of the system and the velocity of its
 centre of mass. Differentiating Eq. (6.15) with
-respect to time,
 
-Fig. 6.12 The centre of mass of the fragments
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_12.png" alt="Fig. 6.12" onclick="openImageModal(this.src, 'Fig. 6.12: Fig. 6.12 The centre of mass of the fragments of the projectile continues along ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.12</strong> Fig. 6.12 The centre of mass of the fragments of the projectile continues along the same parabolic path which it would have followed if there were no explosion.</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 of the projectile continues along the
 same parabolic path which it would
 have followed if there were no
@@ -1328,7 +1343,7 @@ Note that on account of the internal forces,
 i.e. the forces exerted by the particles on one
 another, the individual particles may have
 
-Reprint 2026-27
+
 
 
 ---
@@ -1355,24 +1370,14 @@ and z-axes respectively; c₁, c₂ and c3 are
 
 constants.
 
-He
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_14.png" alt="Fig. 6.14" onclick="openImageModal(this.src, 'Fig. 6.14: In astronomy, binary (double) stars is a common occurrence. If there are no exte...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.14</strong> In astronomy, binary (double) stars is a common occurrence. If there are no external forces, the centre of mass of a double star moves like a free particle, as shown in Fig.6.14 (a). The trajectories of the two stars of equal mass are also shown in the figure; they look complicated. If we go to the centre of mass frame, then we find that there the two stars are moving in a circle, about the centre of mass, which is at rest. Note that the position of the stars have to be diametrically opposite to each other [Fig. 6.14(b)]. Thus in our frame of reference, the trajectories of the stars are a combination of (i) uniform motion in a straight line of the centre of mass and (ii) circular orbits of the stars about the centre of mass.</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
-S
-
-S
-
-C
-
-S
-(a)
-
-S
-
-(b)
-
-101
-
-Fig. 6.14 (a) Trajectories of two stars, S₁ (dotted line)
 and S, (solid line) forming a binary
 system with their centre of mass C in
 uniform motion.
@@ -1385,7 +1390,14 @@ Ra
 He
 
 move back to back with their centre of mass
-remaining at rest as shown in Fig.6.13 (b).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_13.png" alt="Fig. 6.13" onclick="openImageModal(this.src, 'Fig. 6.13: Fig. 6.13 (a) A heavy nucleus radium (Ra) splits into...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.13</strong> Fig. 6.13 (a) A heavy nucleus radium (Ra) splits into</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
 CM
 *
@@ -1473,7 +1485,7 @@ important physical quantity, work, is defined as
 a scalar product of two vector quantities, force
 and displacement.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1527,7 +1539,15 @@ stretched thumb points in the direction of c.
 
 It should be remembered that there are two
 angles between any two vectors a and b. In
-Fig. 6.15 (a) or (b) they correspond to 0 (as shown)
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_15.png" alt="Fig. 6.15" onclick="openImageModal(this.src, 'Fig. 6.15: lying in the plane of a and b and the screw perpendicular to this plane, and if ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.15</strong> lying in the plane of a and b and the screw perpendicular to this plane, and if we turn the head in the direction from a to b, then the tip of the screw advances in the direction of c. This right handed screw rule is illustrated in Fig. 6.15a. Alternately, if one curls up the fingers of right hand around a line perpendicular to the plane of the vectors a and b and if the fingers are curled up in the direction from a to b, then the stretched thumb points in the direction of c, as shown in Fig. 6.15b.</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 and (360°-0). While applying either of the above
 rules, the rotation should be taken through the
 smaller angle (<180°) between a and b. It is
@@ -1611,7 +1631,7 @@ with zero magnitude)
 This follows since magnitude of a ×a is
 a2 sin 0° = 0.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1708,27 +1728,15 @@ bx by bz
 Example 6.4 Find the scalar and vector
 
 products of two vectors. a = (3i-4j+5k)
-and b = (-2i + j + 3k)
 
-Answer
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_16.png" alt="Fig. 6.16" onclick="openImageModal(this.src, 'Fig. 6.16: Fig. 6.16 Rotation about a fixed axis. (A particle (P) of the rigid body rotatin...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.16</strong> Fig. 6.16 Rotation about a fixed axis. (A particle (P) of the rigid body rotating about the fixed (z-) axis moves in a circle with centre (C) on the axis.)</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
-a•b = (3ì – 4j+5k).(−2i + j −3k)
-=-6-4-15
-= -25
-
-X
-
-Z
-
-C
-
-P
-
-r
-
-y
-
-Fig. 6.16 Rotation about a fixed axis. (A particle (P)
 of the rigid body rotating about the fixed
 (z-) axis moves in a circle with centre (C)
 on the axis.)
@@ -1739,7 +1747,7 @@ redraw Fig. 6.4, showing a typical particle (at a
 point P) of the rigid body rotating about a fixed
 axis (taken as the z-axis). The particle describes
 
-Reprint 2026-27
+
 
 
 ---
@@ -1779,7 +1787,14 @@ screw is rotated with the body. (See Fig. 6.17a).
 The magnitude of this vector is @ =d0/dt
 referred as above.
 
-Fig. 6.17 (a) If the head of a right handed screw
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_17.png" alt="Fig. 6.17" onclick="openImageModal(this.src, 'Fig. 6.17: and points out in the direction in which a right handed screw would advance, if ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.17</strong> and points out in the direction in which a right handed screw would advance, if the head of the screw is rotated with the body. (See Fig. 6.17a).</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 rotates with the body, the screw
 advances in the direction of the angular
 velocity ω. If the sense (clockwise or
@@ -1867,7 +1882,7 @@ particle at P of the rigid body with respect to
 the origin O. Note that the origin is chosen to
 be on the axis of rotation.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2002,35 +2017,20 @@ including rigid bodies. We shall also relate it to
 a change in the state of rotational motion, i.e. is
 angular acceleration of a rigid body.
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 15
 
-106
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_18.png" alt="Fig. 6.18" onclick="openImageModal(this.src, 'Fig. 6.18: Fig. 6.18 τ = τ = τ = τ = τ = r × F, τ τ τ τ τ is perpendicular to the plane con...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.18</strong> Fig. 6.18 τ = τ = τ = τ = τ = r × F, τ τ τ τ τ is perpendicular to the plane containing r and F, and its direction is given by the right handed screw rule.</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
-PHYSICS
-
-X
-
-τ
-
-Z
-
-r sin e
-
-r
-
-F
-
-θ
-
-P
-
-y
-
-Fig. 6.18 t=rxF, tis perpendicular to the plane
 containing r and F, and its direction is
 given by the right handed screw rule.
 
@@ -2145,7 +2145,7 @@ momentum vanishes (p = 0), if the particle is at
 the origin (r = 0), or if the directional line of p
 passes through the origin 0 = 0° or 180°.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2346,7 +2346,7 @@ particle to a system of particles.
 
 Using Eqs. (6.23) and (6.25b), we get
 
-Reprint 2026-27
+
 
 
 ---
@@ -2522,7 +2522,7 @@ momentum about any point of a single
 particle moving with constant velocity
 remains constant throughout the motion.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2553,7 +2553,15 @@ V
 
 The angular momentum is 1 = r × mv. Its
 magnitude is mvr sind, where 0 is the angle
-between r and v as shown in Fig. 6.19. Although
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_19.png" alt="Fig. 6.19" onclick="openImageModal(this.src, 'Fig. 6.19: The angular momentum is l = r × mv. Its magnitude is mvr sinθ, where θ is the an...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.19</strong> The angular momentum is l = r × mv. Its magnitude is mvr sinθ, where θ is the angle between r and v as shown in Fig. 6.19. Although the particle changes position with time, the line of direction of v remains the same and hence OM = r sin θ. is a constant.</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
+
 the particle changes position with time, the line
 of direction of v remains the same and hence
 OM = r sin 0. is a constant.
@@ -2694,7 +2702,7 @@ z components of the torque τ₁ .
 Eq. (6.31a) and (6.31b) give six independent
 conditions to be satisfied for mechanical
 
-Reprint 2026-27
+
 
 
 ---
@@ -2736,7 +2744,15 @@ equilibrium and not in translational
 equilibrium.
 
 Consider a light (i.e. of negligible mass) rod
-(AB) as shown in Fig. 6.20(a). At the two ends (A
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_20.png" alt="Fig. 6.20" onclick="openImageModal(this.src, 'Fig. 6.20: Consider a light (i.e. of negligible mass) rod (AB) as shown in Fig. 6.20(a). At...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.20</strong> Consider a light (i.e. of negligible mass) rod (AB) as shown in Fig. 6.20(a). At the two ends (A and B) of which two parallel forces, both equal in magnitude and acting along same direction are applied perpendicular to the rod.</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
+
 and B) of which two parallel forces, both equal
 in magnitude and acting along same direction
 are applied perpendicular to the rod.
@@ -2797,7 +2813,13 @@ produces rotation without translation.
 When we open the lid of a bottle by turning
 it, our fingers are applying a couple to the lid
 
-[Fig. 6.21(a)]. Another known example is a
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_21.png" alt="Fig. 6.21" onclick="openImageModal(this.src, 'Fig. 6.21: When we open the lid of a bottle by turning it, our fingers are applying a coupl...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.21</strong> When we open the lid of a bottle by turning it, our fingers are applying a couple to the lid [Fig. 6.21(a)]. Another known example is a compass needle in the earth’s magnetic field as shown in the Fig. 6.21(b). The earth’s magnetic field exerts equal forces on the north and south poles. The force on the North Pole is towards the north, and the force on the South Pole is toward the south. Except when the needle points in the north-south direction; the two forces do not have the same line of action. Thus there is a couple acting on the needle due to the earth’s magnetic field.</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
 
 compass needle in the earth's magnetic field as
 shown in the Fig. 6.21(b). The earth's magnetic
@@ -2823,7 +2845,7 @@ equilibrium; ∑F≠0
 Fig. 6.21(a) Our fingers apply a couple to turn
 the lid.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2843,7 +2865,14 @@ example of a lever. Two forces F, and F₂, parallel
 to each other and usually perpendicular to the
 lever, as shown here, act on the lever at
 distances d₁ and d₂ respectively from the fulcrum
-as shown in Fig. 6.23.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_23.png" alt="Fig. 6.23" onclick="openImageModal(this.src, 'Fig. 6.23: length. This point is called the fulcrum. A see- saw on the children’s playgroun...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.23</strong> length. This point is called the fulcrum. A see- saw on the children’s playground is a typical example of a lever. Two forces F1 and F2, parallel to each other and usually perpendicular to the lever, as shown here, act on the lever at distances d1 and d2 respectively from the fulcrum as shown in Fig. 6.23.</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
 
 AR
 
@@ -2879,19 +2908,13 @@ equilibrium. Let R be the reaction of the support
 at the fulcrum; R is directed opposite to the
 forces F₁ and F₂. For translational equilibrium,
 
-R- F - F = 0
-
-(i)
-
--F
-
-A
-
-11
-
-F2
-
-Fig. 6.22
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_22.png" alt="Fig. 6.22" onclick="openImageModal(this.src, 'Fig. 6.22: Fig. 6.22...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.22</strong> Fig. 6.22</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
 
 ---
 
@@ -2975,7 +2998,7 @@ large load. There are several examples of a lever
 around you besides the see-saw. The beam of a
 balance is a lever. Try to find more such
 
-Reprint 2026-27
+
 
 
 ---
@@ -3000,7 +3023,15 @@ angle, to the lever.
 
 Many of you may have the experience of
 balancing your notebook on the tip of a finger.
-Figure 6.24 illustrates a similar experiment that
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_24.png" alt="Fig. 6.24" onclick="openImageModal(this.src, 'Fig. 6.24: Many of you may have the experience of balancing your notebook on the tip of a f...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.24</strong> Many of you may have the experience of balancing your notebook on the tip of a finger. Figure 6.24 illustrates a similar experiment that you can easily perform. Take an irregular- shaped cardboard having mass M and a narrow tipped object like a pencil. You can locate by trial and error a point G on the cardboard where it can be balanced on the tip of the pencil. (The cardboard remains horizontal in this position.) This point of balance is the centre of gravity (CG) of the cardboard. The tip of the pencil provides a vertically upward force due to which the cardboard is in mechanical equilibrium. As shown in the Fig. 6.24, the reaction of the tip is equal and opposite to Mg and hence the cardboard is in translational equilibrium. It is also in rotational equilibrium; if it were not so, due to the unbalanced torque it would tilt and fall. There are torques on the card board due to the forces of gravity like m1g, m2g …. etc, acting on the individual particles that make up the cardboard.</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
+
 you can easily perform. Take an irregular-
 shaped cardboard having mass Mand a narrow
 tipped object like a pencil. You can locate by trial
@@ -3086,12 +3117,19 @@ Fig. 6.24 Balancing a cardboard on the tip of a
 pencil. The point of support, G, is the
 centre of gravity.
 
-Fig. 6.25 Determining the centre of gravity of a body
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_25.png" alt="Fig. 6.25" onclick="openImageModal(this.src, 'Fig. 6.25: Fig. 6.25 Determining the centre of gravity of a body...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.25</strong> Fig. 6.25 Determining the centre of gravity of a body</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
+
 of irregular shape. The centre of gravity G
 lies on the vertical AA, through the point
 of suspension of the body A.
 
-Reprint 2026-27
+
 
 
 ---
@@ -3192,32 +3230,24 @@ Thus the reactions of the support are about
 Example 6.9 A 3m long ladder weighing
 20 kg leans on a frictionless wall. Its feet
 rest on the floor 1 m from the wall as shown
-in Fig.6.27. Find the reaction forces of the
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_27.png" alt="Fig. 6.27" onclick="openImageModal(this.src, 'Fig. 6.27: Example 6.9 A 3m long ladder weighing 20 kg leans on a frictionless wall. Its fe...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.27</strong> Example 6.9 A 3m long ladder weighing 20 kg leans on a frictionless wall. Its feet rest on the floor 1 m from the wall as shown in Fig.6.27. Find the reaction forces of the wall and the floor.</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
+
 wall and the floor.
 
-A
-
-R
-
-PG
-
-•
-
-K
-
-W. W
-
-R₂
-
-Answer
-
-B
-
-K
-
-FB
-
-Fig. 6.26
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_26.png" alt="Fig. 6.26" onclick="openImageModal(this.src, 'Fig. 6.26: Fig. 6.26...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.26</strong> Fig. 6.26</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
 
 Figure 6.26 shows the rod AB, the positions
 of the knife edges K₁ and K₂, the centre of
@@ -3250,7 +3280,7 @@ E
 
 Fig. 6.27
 
-Reprint 2026-27
+
 
 
 ---
@@ -3437,7 +3467,7 @@ mass does in linear motion.
 We now apply the definition Eq. (6.34), to
 calculate the moment of inertia in two simple cases.
 
-Reprint 2026-27
+
 
 
 ---
@@ -3463,19 +3493,14 @@ Mu
 Comparing with Eq. (6.35) we get I = MR2
 for the ring.
 
-M/2
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_28.png" alt="Fig. 6.28" onclick="openImageModal(this.src, 'Fig. 6.28: Fig. 6.28 A light rod of length l with a pair of...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.28</strong> Fig. 6.28 A light rod of length l with a pair of</span>
+    <button class="icon-btn" onclick="goToPdfPage(24)">📄 View in PDF (Page 24)</button>
+  </div>
+</div>
 
-A
-
-C
-
-1/2
-
-1/2
-
-M/2
-
-Fig. 6.28 A light rod of length 1 with a pair of
 masses rotating about an axis through
 the centre of mass of the system and
 perpendicular to the rod. The total mass
@@ -3567,7 +3592,7 @@ vehicle. It allows a gradual change in the speed
 and prevents jerky motions, thereby ensuring
 a smooth ride for the passengers on the vehicle.
 
-Reprint 2026-27
+
 
 
 ---
@@ -3689,7 +3714,7 @@ involves only one degree of freedom, i.e., needs
 only one independent variable to describe the
 motion. This in translation corresponds to linear
 
-Reprint 2026-27
+
 
 
 ---
@@ -3704,7 +3729,15 @@ We shall turn to dynamics in later sections.
 
 We recall that for specifying the angular
 displacement of the rotating body we take any
-particle like P (Fig.6.29) of the body. Its angular
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_29.png" alt="Fig. 6.29" onclick="openImageModal(this.src, 'Fig. 6.29: We recall that for specifying the angular displacement of the rotating body we t...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.29</strong> We recall that for specifying the angular displacement of the rotating body we take any particle like P (Fig.6.29) of the body. Its angular displacement θ in the plane it moves is the angular displacement of the whole body; θ is measured from a fixed direction in the plane of motion of P, which we take to be the x′-axis, chosen parallel to the x-axis. Note, as shown, the axis of rotation is the z – axis and the plane of the motion of the particle is the x - y plane. Fig. 6.29 also shows θ0, the angular displacement at t = 0.</span>
+    <button class="icon-btn" onclick="goToPdfPage(26)">📄 View in PDF (Page 26)</button>
+  </div>
+</div>
+
 displacement & in the plane it moves is the
 angular displacement of the whole body; 0 is
 measured from a fixed direction in the plane of
@@ -3833,7 +3866,7 @@ of the body.
 Answer
 (i)
 
-Reprint 2026-27
+
 
 We shall use w = @ + at
 
@@ -3985,33 +4018,20 @@ de
 
 <
 
-P
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_30.png" alt="Fig. 6.30" onclick="openImageModal(this.src, 'Fig. 6.30: Fig. 6.30 Work done by a force F1 acting on a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.30</strong> Fig. 6.30 Work done by a force F1 acting on a</span>
+    <button class="icon-btn" onclick="goToPdfPage(27)">📄 View in PDF (Page 27)</button>
+  </div>
+</div>
 
-1
-
-ds
-
-Φι
-
-P
-
-F
-
-1
-
-1
-
-->
-
-첫
-
-Fig. 6.30 Work done by a force F₁ acting on a
 particle of a body rotating about a fixed
 axis; the particle describes a circular path
 with centre C on the axis; arc P₁P'₁(ds₁)
 gives the displacement of the particle.
 
-Reprint 2026-27
+
 
 
 ---
@@ -4183,7 +4203,7 @@ P = Fv
 In a perfectly rigid body there is no internal
 motion. The work done by external torques is
 
-Reprint 2026-27
+
 
 
 ---
@@ -4260,7 +4280,15 @@ Example 6.12 A cord of negligible mass is
 wound round the rim of a fly wheel of mass
 20 kg and radius 20 cm. A steady pull of
 25 N is applied on the cord as shown in
-Fig. 6.31. The flywheel is mounted on a
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_31.png" alt="Fig. 6.31" onclick="openImageModal(this.src, 'Fig. 6.31: Example 6.12 A cord of negligible mass is wound round the rim of a fly wheel of ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.31</strong> Example 6.12 A cord of negligible mass is wound round the rim of a fly wheel of mass 20 kg and radius 20 cm. A steady pull of 25 N is applied on the cord as shown in Fig. 6.31. The flywheel is mounted on a horizontal axle with frictionless bearings.</span>
+    <button class="icon-btn" onclick="goToPdfPage(29)">📄 View in PDF (Page 29)</button>
+  </div>
+</div>
+
 horizontal axle with frictionless bearings.
 
 (a) Compute the angular acceleration of
@@ -4344,7 +4372,7 @@ w² = 2 × 12.5×10.0 = 250(rad/s)²
 gained by the wheel = work done by the force.
 There is no loss of energy due to friction.
 
-Reprint 2026-27
+
 
 
 ---
@@ -4523,7 +4551,7 @@ dt
 
 = τ
 
-Reprint 2026-27
+
 
 
 ---
@@ -4637,7 +4665,7 @@ Fig 6.32 (b) An acrobat employing the principle of
 conservation of angular momentum in
 her performance.
 
-Reprint 2026-27
+
 
 
 ---
@@ -4723,7 +4751,7 @@ The force F acting on the ſth particle includes the external as well as interna
 Assuming Newton's third law of motion and that forces between any two particles act
 along the line joining the particles, we can show tint = 0 and
 
-Reprint 2026-27
+
 
 
 ---
@@ -4836,7 +4864,7 @@ zero.
 7. The centre of gravity of a body coincides with its centre of mass only if the gravitational
 field does not vary from one part of the body to the other.
 
-Reprint 2026-27
+
 
 
 ---
@@ -4897,7 +4925,15 @@ is taken.
 6.8
 
 A non-uniform bar of weight Wis suspended at rest by two strings of negligible
-weight as shown in Fig.6.33. The angles made by the strings with the vertical are
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_33.png" alt="Fig. 6.33" onclick="openImageModal(this.src, 'Fig. 6.33: 6.5 Show that a.(b × c) is equal in magnitude to the volume of the parallelepipe...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.33</strong> 6.5 Show that a.(b × c) is equal in magnitude to the volume of the parallelepiped formed on the three vectors , a, b and c. 6.6 Find the components along the x, y, z axes of the angular momentum l of a particle, whose position vector is r with components x, y, z and momentum is p with components px, py and pz. Show that if the particle moves only in the x-y plane the angular momentum has only a z-component. 6.7 Two particles, each of mass m and speed v, travel in opposite directions along parallel lines separated by a distance d. Show that the angular momentum vector of the two particle system is the same whatever be the point about which the angular momentum is taken. 6.8 A non-uniform bar of weight W is suspended at rest by two strings of negligible weight as shown in Fig.6.33. The angles made by the strings with the vertical are 36.9° and 53.1° respectively. The bar is 2 m long. Calculate the distance d of the centre of gravity of the bar from its left end.</span>
+    <button class="icon-btn" onclick="goToPdfPage(34)">📄 View in PDF (Page 34)</button>
+  </div>
+</div>
+
 36.9° and 53.1° respectively. The bar is 2 m long. Calculate the distance d of the
 
 not to be
@@ -4918,7 +4954,7 @@ A car weighs 1800 kg. The distance between its front and back axles is 1.8 m. It
 centre of gravity is 1.05 m behind the front axle. Determine the force exerted by the
 level ground on each front wheel and each back wheel.
 
-Reprint 2026-27
+
 
 125
 
@@ -4974,7 +5010,7 @@ Find the average angular velocity of the molecule.
 
 not to beaty of the
 
-Reprint 2026-27
+
 
 PHYSICS
 

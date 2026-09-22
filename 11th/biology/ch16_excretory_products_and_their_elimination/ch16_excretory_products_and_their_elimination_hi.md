@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11081CH19
+
 
 ### अध्याय 16
 
@@ -57,7 +57,7 @@ blished
 द्वारा निर्मित अमोनिया को यकृत द्वारा यूरिया में परिवर्तित कर रक्त में मुक्त कर दिया
 जाता है, जिसे वृक्कों द्वारा निस्यंदन के पश्चात उत्सर्जित कर दिया जाता है। कुछ प्राणियों
 
-Reprint 2025-26
+
 
 
 ---
@@ -119,7 +119,15 @@ rep
 
 मनुष्यों में उत्सर्जी तंत्र एक जोड़ी वृक्क, एक जोड़ी
 मूत्र नलिका, एक मूत्राशय और एक मूत्र मार्ग का
-बना होता है (चित्र 16.1)। वृक्क सेम के बीज की
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch16_excretory_products_and_their_elimination_fig_16_hi.png" alt="चित्र 16" onclick="openImageModal(this.src, 'चित्र 16: euq&quot;;ksa esa mRlthZ ra=k ,d tksM+h o`Dd] ,d tksM+h ew=k ufydk] ,d ew=kk&#39...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 16</strong> euq";ksa esa mRlthZ ra=k ,d tksM+h o`Dd] ,d tksM+h ew=k ufydk] ,d ew=kk'k; vkSj ,d ew=k ekxZ dk cuk gksrk gS (fp=k 16-1)A o`Dd lse osQ cht dh vkÑfr osQ xgjs Hkwjs yky jax osQ gksrs gSa rFkk ;s vafre o{kh; vkSj rhljh dfV d'ks#dk osQ lehi mnj xqgk esa vkarfjd i`"B lrg ij fLFkr gksrs gSaA o;Ld euq"; osQ izR;sd o`Dd dh yEckbZ 10&12 lseh-] pkSM+kbZ 5&7 lseh-] eksVkbZ 2&3 lseh- rFkk Hkkj yxHkx 120&170 xzke gksrk gSA o`Dd osQ osaQnzh; Hkkx dh Hkhrjh vory (dkWUosQo) lrg osQ eè; esa ,d [kkap gksrh gS] ftls gkbye dgrs gSaA bls gksdj ew=k&ufydk] jDr okfgfu;k¡ vkSj raf=kdk,a izos'k djrh gSaA gkbye osQ Hkhrjh vksj dhi osQ vkdkj dk jpuk gksrh gS ftls o`Ddh; Jksf.k (isfYol) dgrs gSa rFkk blls fudyus okys iz{ksiksa (izkstsD'ku) dks p"kd (oSQfyDl) dgrs gSaA fp=k 16-1 ekuo dk mRltZu ra=k</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 आकृति के गहरे भूरे लाल रंग के होते हैं तथा ये
 अंतिम वक्षीय और तीसरी कटि कशेरुका के समीप
 उदर गुहा में आंतरिक पृष्ठ सतह पर स्थित होते हैं।
@@ -142,7 +150,7 @@ rep
 
 चित्र 16.1 मानव का उत्सर्जन तंत्र
 
-Reprint 2025-26
+
 
 
 ---
@@ -217,7 +225,7 @@ not to be published
 
 चित्र 16.3 रक्त वाहिनियाँ, वाहिनियाँ तथा नलिकाएं प्रदर्शित करता हुआ एक नेफ्रोन
 
-Reprint 2025-26
+
 
 
 ---
@@ -287,7 +295,7 @@ not
 बोमेन संपुट की उपकला तथा इन दोनों पर्तों के बीच पाई जाने वाली आधार झिल्ली।
 बोमेन संपुट की उपकला कोशिकाएं पदाणु (पोडोसाइट्स) कहलाती हैं, जो विशेष प्रकार
 
-Reprint 2025-26
+
 
 
 ---
@@ -343,7 +351,7 @@ e
 से करती है। जैसे-जैसे सांद्र निस्यंद ऊपर की ओर जाता है, वैसे-वैसे वैद्युत अपघट्य के मध्यांश
 तरल में जाने से निस्यंद तनु (dilute) होता जाता है।
 
-Reprint 2025-26
+
 
 209
 
@@ -419,7 +427,7 @@ H₂O
 के नियमन तथा H+ और K+ आयनों के चयनात्मक स्रवण द्वारा रक्त में आयनों का संतुलन
 बनाए रखने में भी भूमिका निभाता है (चित्र 16.5)।
 
-Reprint 2025-26
+
 
 
 ---
@@ -563,7 +571,7 @@ H₂O
 
 चित्र 16.6 नेफ्रोन तथा वासा रेक्टा द्वारा निर्मित प्रतिधारा प्रवाह क्रियाविधि
 
-Reprint 2025-26
+
 
 211
 
@@ -621,7 +629,7 @@ hea
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -678,7 +686,7 @@ Reprint 2025-26
 करती हैं। ये स्राव त्वचा को सुरक्षात्मक तैलीय कवच प्रदान करते हैं। क्या आप जानते
 हैं कि कुछ नाइट्रोजनी अपशिष्टों का निष्कासन लार द्वारा भी होता है?
 
-Reprint 2025-26
+
 
 
 ---
@@ -732,7 +740,7 @@ Reprint 2025-26
 का गुच्छ है जो कि वृक्क धमनी की सूक्ष्म शाखाएं होती है। वृक्क नलिका का प्रारंभ दोहरी भित्ति युक्त बोमन
 संपुट से होता है जो आगे समीपस्थ संवलित नलिका (पीसीटी) हेनले-लूप और दूरस्थ संचलित (डीसीटी)
 
-Reprint 2025-26
+
 
 
 ---
@@ -789,7 +797,7 @@ mOsm/लीटर तक यह जल संरक्षण की उत्त
 
 6. मूत्रण की व्याख्या कीजिए।
 
-Reprint 2025-26
+
 
 215
 
@@ -873,5 +881,5 @@ replished
 
 not to be rep
 
-Reprint 2025-26
+
 

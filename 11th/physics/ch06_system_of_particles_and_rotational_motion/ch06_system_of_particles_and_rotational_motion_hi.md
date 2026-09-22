@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11088CH07
+
 
 ### अध्याय 6
 
@@ -87,7 +87,7 @@ not to
 है, वे मुड़ते हैं या कम्पन करते हैं। हम उन्हें दृढ़ पिण्ड मान कर उनकी
 गति का अध्ययन करेंगे।
 
-Reprint 2026-27
+
 
 
 ---
@@ -125,7 +125,23 @@ Fig 6.1 नत-तल पर एक ब्लॉक की अधोमुखी
 गति होगी। वह सरल रेखा जिसके अनुदिश इस दृढ़ पिण्ड को
 स्थिर बनाया गया है इसकी घूर्णन-अक्ष कहलाती है। यदि आप
 अपने चारों ओर देखें तो आपको छत का पंखा, कुम्हार का चाक
-(चित्र 6.3(a) एवं (b)), विशाल चक्री-झूला (जॉयन्ट व्हील),
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_3_hi.png" alt="
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_hi.png" alt="चित्र 6" onclick="openImageModal(this.src, 'चित्र 6: igys ge ;g ns[ksaxs fd nzO;eku osQUnz D;k gS vkSj fiQj blosQ egRo ij izdk&#39;k ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6</strong> igys ge ;g ns[ksaxs fd nzO;eku osQUnz D;k gS vkSj fiQj blosQ egRo ij izdk'k MkysaxsA ljyrk dh n`f"V ls ge nks d.kksa osQ fudk; ls 'kq#vkr djsaxsA nksuksa d.kksa dh fLFkfr;ksa dks feykus okyh js[kk dks ge x- v{k ekusaxsA (fp=k 6-7)</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
+<div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.3</strong> ;g ^oqQN vkSj vyx* Hkh D;k gS\ ;g le>us osQ fy,] vkb;s] ge ,d ,slk n`<+ ¯iM ysa ftldks bl izdkj O;o#¼ dj fn;k x;k gS fd ;g LFkkukarj.k xfr u dj losQA fdlh n`<+ fi.M dh LFkkukarj.k xfr dks fu#¼ djus dh loZ lkekU; fof/ ;g gS fd mls ,d ljy js[kk osQ vuqfn'k fLFkj dj fn;k tk,A rc bl n`<+ fi.M dh ,dek=k laHkkfor xfr ?kw.khZ xfr gksxhA og ljy js[kk ftlosQ vuqfn'k bl n`<+ fi.M dks fLFkj cuk;k x;k gS bldh ?kw.kZu&v{k dgykrh gSA ;fn vki vius pkjksa vksj ns[ksa rks vkidks Nr dk ia[kk] oqQEgkj dk pkd (fp=k 6.3(a) ,oa (b))] fo'kky pØh&>wyk (tkW;UV Oghy)] esjh&xks&jkm.M tSls vusd ,sls mnkgj.k fey tk;saxs tgk¡ fdlh v{k osQ ifjr% ?kw.kZu gks jgk gksA</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 6.1.1 एक दृढ़ पिण्ड में किस प्रकार की गतियाँ हो मेरी-गो-राउण्ड जैसे अनेक ऐसे उदाहरण मिल जायेंगे जहाँ
 
@@ -137,7 +153,14 @@ Fig 6.1 नत-तल पर एक ब्लॉक की अधोमुखी
 फिसल रहा है। ब्लॉक एक दृढ़ पिण्ड लिया है। नत तल पर नीचे
 की ओर इसकी गति ऐसी है कि इसके सभी कण साथ-साथ चल
 रहे हैं, अर्थात् किसी क्षण सभी कण समान वेग से चलते हैं
-(चित्र 6.1)। यहाँ यह दृढ़ पिंड शुद्ध स्थानांतरण गति में है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_1_hi.png" alt="चित्र 6.1" onclick="openImageModal(this.src, 'चित्र 6.1: vkb;s] n`<+ fi.Mksa dh xfr osQ oqQN mnkgj.kksa ls bl iz&#39;u dk mÙkj <wa<+us dh...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.1</strong> vkb;s] n`<+ fi.Mksa dh xfr osQ oqQN mnkgj.kksa ls bl iz'u dk mÙkj <wa<+us dh dksf'k'k djsaA izFke ,d vk;rkdkj CykWd ij fopkj djsa tks ,d ur ry ij lh/k (fcuk b/j&m/j gVs) uhps dh vksj fiQly jgk gSA CykWd ,d n`<+ fi.M fy;k gSA ur ry ij uhps dh vksj bldh xfr ,slh gS fd blosQ lHkh d.k lkFk&lkFk py jgs gSa] vFkkZr~ fdlh {k.k lHkh d.k leku osx ls pyrs gSa (fp=k 6.1)A ;gk¡ ;g n`<+ fiaM 'kq¼ LFkkukarj.k xfr esa gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 किसी अक्ष के परितः घूर्णन हो रहा हो।
 
@@ -145,25 +168,14 @@ NCERT
 be repubished
 
 शुद्ध स्थानांतरण गति में किसी क्षण विशेष पर पिण्ड का
-प्रत्येक कण समान वेग से चलता है।
 
-P2
-
-P4
-
-G-C
-
-(a)
-
-θ
-
-B
-
-P3
-
-C
-
-चित्र 6.2 नत तल पर नीचे की ओर लुढ़कता सिलिंडर (बेलन)। यह
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_2_hi.png" alt="चित्र 6.2" onclick="openImageModal(this.src, 'चित्र 6.2: fp=k 6.2 ur ry ij uhps dh vksj yq<+drk fl¯yMj (csyu)A ;g...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.2</strong> fp=k 6.2 ur ry ij uhps dh vksj yq<+drk fl¯yMj (csyu)A ;g</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 शुद्ध स्थानांतरण गति नहीं है। किसी क्षण पर बिन्दु P₁, P₂,
 
@@ -197,7 +209,7 @@ P एवं P₁ के अलग-अलग वेग हैं (जैसा �
 
 (b) कुम्हार का चाक
 
-Reprint 2026-27
+
 
 
 ---
@@ -209,7 +221,15 @@ Reprint 2026-27
 है, और इसके क्या अभिलक्षण हैं? आप देख सकते हैं कि एक
 दृढ़ पिण्ड के एक स्थिर अक्ष के परितः घूर्णन में, पिण्ड का हर
 कण एक वृत्त में घूमता है। यह वृत्त अक्ष के लम्बवत् तल में है
-और इनका केन्द्र अक्ष पर अवस्थित है। चित्र 6.4 में एक
+और इनका केन्द्र अक्ष पर अवस्थित है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_4_hi.png" alt="चित्र 6.4" onclick="openImageModal(this.src, 'चित्र 6.4: vkb;s] vc ge ;g le>us dh ps&quot;Vk djsa fd ?kw.kZu D;k gS] vkSj blosQ D;k vfHky...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.4</strong> vkb;s] vc ge ;g le>us dh ps"Vk djsa fd ?kw.kZu D;k gS] vkSj blosQ D;k vfHky{k.k gSa\ vki ns[k ldrs gSa fd ,d n`<+ fi.M osQ ,d fLFkj v{k osQ ifjr% ?kw.kZu esa] fi.M dk gj d.k ,d o`Ùk esa ?kwerk gSA ;g o`Ùk v{k osQ yEcor~ ry esa gS vkSj budk osQUnz v{k ij vofLFkr gSA fp=k 6.4 esa ,d</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 Z
 
@@ -226,8 +246,16 @@ C
 स्थान पर स्थानांतरित नहीं होता और इसलिए इसमें स्थानांतरण
 गति नहीं है।) अपने अनुभव के आधार पर हम यह जानते हैं कि
 इस प्रकार घूमते लट्टू की अक्ष, भूमि पर इसके सम्पर्क-बिन्दु
-से गुजरते अभिलम्ब के परितः एक शंकु बनाती है जैसा कि चित्र
-6.5(a) में दर्शाया गया है। (ऊर्ध्वाधर के परितः लट्टू की अक्ष
+से गुजरते अभिलम्ब के परितः एक शंकु बनाती है जैसा कि
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_5_hi.png" alt="चित्र 6.5" onclick="openImageModal(this.src, 'चित्र 6.5: LFkku ij LFkkukarfjr ugha gksrk vkSj blfy, blesa LFkkukarj.k xfr ugha gSA) vius ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.5</strong> LFkku ij LFkkukarfjr ugha gksrk vkSj blfy, blesa LFkkukarj.k xfr ugha gSA) vius vuqHko osQ vk/kj ij ge ;g tkurs gSa fd bl izdkj ?kwers yV~Vw dh v{k] Hkwfe ij blosQ lEioZQ&fcUnq ls xqtjrs vfHkyEc osQ ifjr% ,d 'kaoqQ cukrh gS tSlk fd fp=k 6.5(a) esa n'kkZ;k x;k gSA (ÅèokZ/j osQ ifjr% yV~Vw dh v{k dk bl izdkj ?kweuk iqjLlj.k dgykrk gS )A è;ku nsa fd yV~Vw dk og fcUnq tgk¡ ;g /jkry dks Nwrk gS] fLFkj gSA fdlh Hkh {k.k] yV~Vw dh ?kw.kZu&v{k] blosQ lEioZQ fcUnq ls xqtjrh gSA bl izdkj dh ?kw.kZu xfr dk nwljk ljy mnkgj.k ?kweus okyk est dk ia[kk ;k ihfBdk&ia[kk gSA vkius ns[kk gksxk fd bl izdkj osQ ia[ks dh v{k] {kSfrt ry esa] nksyu xfr (bèkj ls m/ j ?kweus dh) djrh gS vkSj ;g xfr ÅèokZ/j js[kk osQ ifjr% gksrh gS tks ml fcUnq ls xqtjrh gS ftl ij v{k dh /qjh fVdh gksrh gS (fp=k 6.5(b) esa fcUnq O)A</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 का इस प्रकार घूमना पुरस्सरण कहलाता है)। ध्यान दें कि लट्टू
 का वह बिन्दु जहाँ यह धरातल को छूता है, स्थिर है। किसी भी
 क्षण, लट्टू की घूर्णन-अक्ष, इसके सम्पर्क बिन्दु से गुजरती है।
@@ -301,7 +329,7 @@ G--
 चित्र 6.5 (b) दोलन करता हुआ मेज का पंखा जिसकी पंखुड़ियाँ
 घूर्णन गति में हैं। (पंखे की धुरी, बिन्दु O, स्थिर है)
 
-Reprint 2026-27
+
 
 
 ---
@@ -319,17 +347,13 @@ Reprint 2026-27
 सीमित रहेंगे जिनमें एक रेखा (यानि अक्ष) स्थिर रहती है। अतः
 जब तक अन्यथा न कहा जाय, हमारे लिए घूर्णी गति एक स्थिर
 
-अक्ष के परितः ही होगी।
-
-αι
-
-α
-
-303
-
-Tr₁
-
-चित्र 6.6 (a) एक दृढ़ पिण्ड की गति जो शुद्ध स्थानांतरीय है
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_6_hi.png" alt="चित्र 6.6" onclick="openImageModal(this.src, 'चित्र 6.6: ,d ur ry ij uhps dh vksj csyu dk yq<+duk nks rjg dh xfr;ksa dk la;kstu gS& LFkku...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.6</strong> ,d ur ry ij uhps dh vksj csyu dk yq<+duk nks rjg dh xfr;ksa dk la;kstu gS& LFkkukarj.k xfr vkSj ,d fLFkj v{k osQ ifjr% ?kw.khZ xfrA vr%] yq<+du xfr osQ lanHkZ esa ftl ^oqQN vkSj vyx* dk ftØ igys geus fd;k Fkk og ?kw.khZ xfr gSA bl n`f"Vdks.k ls fp=k 6.6(a) ,oa (b) dks vki i;kZIr f'k{kkizn ik;saxsA bu nksuksa fp=kksa esa ,d gh fi.M dh xfr] leku LFkkukarjh; xeu&iFk osQ vuqfn'k n'kkZbZ xbZ gSA fp=k 6.6(a) esa n'kkZbZ xbZ xfr 'kq¼ LFkkukarjh; gS] tcfd fp=k 6.6(b) esa n'kkZbZ xbZ xfr LFkkukarj.k ,oa ?kw.khZ nksuksa izdkj dh xfr;ksa dk la;kstu gSA (vki Lo;a Hkkjh iqLrd tSlk ,d n`<+ fi.M isaQd dj n'kkZbZ xbZ nksuksa izdkj dh xfr;k¡ mRiUu djus dh dksf'k'k dj ldrs gSaA)</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 α
 
@@ -387,7 +411,15 @@ O एवं P के क्षणिक वेगों के मान अल�
 पहले हम यह देखेंगे कि द्रव्यमान केन्द्र क्या है और फिर इसके
 महत्व पर प्रकाश डालेंगे। सरलता की दृष्टि से हम दो कणों के
 निकाय से शुरुआत करेंगे। दोनों कणों की स्थितियों को मिलाने
-वाली रेखा को हम x- अक्ष मानेंगे। (चित्र 6.7)
+वाली रेखा को हम x- अक्ष मानेंगे। (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_7_hi.png" alt="चित्र 6.7" onclick="openImageModal(this.src, 'चित्र 6.7: fp=k 6.7 nks d.kksa vkSj muosQ nzO;eku osQUnz dh fLFkfr...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.7</strong> fp=k 6.7 nks d.kksa vkSj muosQ nzO;eku osQUnz dh fLFkfr</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 YA
 
@@ -409,7 +441,7 @@ X
 
 चित्र 6.7 दो कणों और उनके द्रव्यमान केन्द्र की स्थिति
 
-Reprint 2026-27
+
 
 
 ---
@@ -607,7 +639,7 @@ M
 b, c, d) दृढ़ पिण्ड के लिए भी लागू होते हैं। इस प्रकार के
 पिण्डों में कणों (परमाणुओं या अणुओं) की संख्या इतनी
 
-Reprint 2026-27
+
 
 
 ---
@@ -716,7 +748,15 @@ frdm = 0
 छोटी है। छड़ की लम्बाई x-अक्ष के अनुदिश रखें और मूल बिन्दु
 इसके ज्यामितीय केन्द्र पर ले लें तो परावर्तन सममिति की दृष्टि
 से हम कह सकते हैं कि प्रत्येक x पर स्थित प्रत्येक dm घटक के
-समान dm का घटक –x पर भी स्थित होगा (चित्र 6.8)।
+समान dm का घटक –x पर भी स्थित होगा (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_8_hi.png" alt="चित्र 6.8" onclick="openImageModal(this.src, 'चित्र 6.8: vkb;s] ,d iryh NM+ ij fopkj djsa] ftldh pkSM+kbZ vkSj eksVkbZ (;fn bldh vuqizLFk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.8</strong> vkb;s] ,d iryh NM+ ij fopkj djsa] ftldh pkSM+kbZ vkSj eksVkbZ (;fn bldh vuqizLFk dkV vk;rkdkj gS) vFkok f=kT;k (;fn NM+ csyukdkj gS)] bldh yEckbZ dh rqyuk esa cgqr NksVh gSA NM+ dh yEckbZ x-v{k osQ vuqfn'k j[ksa vkSj ewy fcUnq blosQ T;kferh; osQUnz ij ys ysa rks ijkorZu lefefr dh n`f"V ls ge dg ldrs gSa fd izR;sd x ij fLFkr izR;sd dm ?kVd osQ leku dm dk ?kVd –x ij Hkh fLFkr gksxk (fp=k 6.8)A</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 dm
 ↓
@@ -753,31 +793,20 @@ fxdm का मान शून्य हो जाता है। समीक
 द्रव्यमान क्रमशः 100g, 150g, एवं 200g हैं। त्रिभुज की
 प्रत्येक भुजा की लम्बाई 0.5 m है।
 
-हल
-
-У个
-
-100 g
-
-200 g B(0.25,0.25/3)
-
-1
-
-°C
-5
-
-18'3√3
-
-(0.25,0)
-
-चित्र 6.9
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_9_hi.png" alt="चित्र 6.9" onclick="openImageModal(this.src, 'चित्र 6.9: fp=k 6.9...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.9</strong> fp=k 6.9</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 150 g
 A(0.5,0)
 
 →x
 
-Reprint 2026-27
+
 
 
 ---
@@ -846,7 +875,15 @@ m
 
 उदाहरण 6.3: एक दिए गए L-आकृति के फलक (एक
 पतली चपटी प्लेट) का द्रव्यमान केन्द्र ज्ञात कीजिए,
-जिसका विभिन्न भुजाओं को चित्र 6.11 में दर्शाया है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_11_hi.png" alt="चित्र 6.11" onclick="openImageModal(this.src, 'चित्र 6.11: gy fp=k 6.11 osQ vuqlkj X ,oa Y v{kkas dks pqusa rks L-vko`Qfr iQyd osQ fofHkUu ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.11</strong> gy fp=k 6.11 osQ vuqlkj X ,oa Y v{kkas dks pqusa rks L-vko`Qfr iQyd osQ fofHkUu 'kh"kks± osQ funsZ'kkad ogh izkIr gksrs gSa tks fp=k esa vafdr fd, x, gSaA ge L-vko`Qfr dks rhu oxks± ls feydj cuk gqvk eku ldrs gSa ftuesa ls izR;sd oxZ dh Hkqtk 1m gSA izR;sd oxZ dk nzO;eku 1kg gS] D;ksafd iQyd lekax gSaA bu rhu oxks± osQ nzO;eku osQUnz C1, C2 vkSj C3 gSa] tks lefefr osQ fopkj ls muosQ T;kferh; osQUnz gSa vkSj buosQ funsZ'kkad Øe'k% (1/2,1/2), (3/2,1/2), (1/2,3/2) gSaA ge dg ldrs gSa fd L-vko`Qfr dk nzO;eku osQUnz (X, Y) bu nzO;eku fcUnqvksa dk nzO;eku osQUnz gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 फलक का द्रव्यमान 3 kg है।
 
 हल चित्र 6.11 के अनुसार X एवं Y अक्षों को चुनें तो
@@ -884,7 +921,16 @@ D(1,1)
 be repu
 
 हल फलक (ALMN) को आधार (MN) के समान्तर पतली
-पट्टियों में बांटा जा सकता है जैसा चित्र 6.10 में दर्शाया
+पट्टियों में बांटा जा सकता है जैसा
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_10_hi.png" alt="चित्र 6.10" onclick="openImageModal(this.src, 'चित्र 6.10: gy iQyd (∆LMN) dks vk/kj (MN) osQ lekUrj iryh if^;ksa esa ckaVk tk ldrk gS tSlk ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.10</strong> gy iQyd (∆LMN) dks vk/kj (MN) osQ lekUrj iryh if^;ksa esa ckaVk tk ldrk gS tSlk fp=k 6.10 esa n'kkZ;k x;k gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 गया है।
 
 Ο (0,0)
@@ -945,7 +991,7 @@ L-आकृति का द्रव्यमान केन्द्र र�
 बात का अंदाजा हम बिना किसी गणना के लगा सकते थे। क्या
 आप बता सकते हैं, कैसे? यदि यह मानें कि चित्र 6.11 में
 
-Reprint 2026-27
+
 
 
 ---
@@ -1106,7 +1152,7 @@ MA = Foxt
 अब हम यह समझ सकते हैं, कि पूर्व के अध्ययनों में, हमने
 बिन कहे ही यह मान लिया था कि निकाय में घूर्णी गति, एवं
 
-Reprint 2026-27
+
 
 
 ---
@@ -1164,13 +1210,14 @@ P = MV
 
 के कुल द्रव्यमान तथा इसके द्रव्यमान केन्द्र के वेग के
 
-गुणनफल के बराबर होता है। समीकरण
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_12_hi.png" alt="चित्र 6.12" onclick="openImageModal(this.src, 'चित्र 6.12: fp=k 6.12 fdlh iz{ksI; osQ [k.Mksa dk nzO;eku osQUnz foLiQksV osQ ckn Hkh mlh ij...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.12</strong> fp=k 6.12 fdlh iz{ksI; osQ [k.Mksa dk nzO;eku osQUnz foLiQksV osQ ckn Hkh mlh ijoy;kdkj iFk ij pyrk gqvk ik;k tk;sxk ftl ij ;g foLiQksV u gksus ij pyrkA</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
-ीिकरण (6.15)
-
-का समय के
-
-चित्र 6.12 किसी प्रक्षेप्य के खण्डों का द्रव्यमान केन्द्र विस्फोट के
 बाद भी उसी परवलयाकार पथ पर चलता हुआ पाया
 जायेगा जिस पर यह विस्फोट न होने पर चलता।
 
@@ -1263,7 +1310,7 @@ dt
 ध्यान दें, कि आंतरिक बलों के कारण, यानि उन बलों के
 कारण जो कण एक दूसरे पर आरोपित करते हैं, किसी विशिष्ट
 
-Reprint 2026-27
+
 
 
 ---
@@ -1284,26 +1331,14 @@ P₁ = C₁, P₁ = C₂ तथा P₂ = C3
 यहाँ P, P, P कुल रेखीय संवेग सदिश P के, क्रमशः
 x, y एवं z दिशा में अवयव हैं और C₁, C2, C3 अचरांक हैं।
 
-Ra
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_13_hi.png" alt="चित्र 6.13" onclick="openImageModal(this.src, 'चित्र 6.13: (a) (b) fp=k 6.13 (a) ,d Hkkjh ukfHkd jsfM;e (Ra) ,d vis{kko`Qr gyosQ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.13</strong> (a) (b) fp=k 6.13 (a) ,d Hkkjh ukfHkd jsfM;e (Ra) ,d vis{kko`Qr gyosQ</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
-(a)
-
-He 1
-
-He
-
-CM
-*---
-
-Ra
-
-Rn
-
-Rn
-
-(b)
-
-चित्र 6.13 (a) एक भारी नाभिक रेडियम (Ra) एक अपेक्षाकृत हलके
 नाभिक रेडॉन (Rn) एवं एक अल्फा-कण (हीलियम
 परमाणु का नाभिक, He) में विखंडित होता है।
 निकाय का द्रव्यमान केन्द्र समगति में है।
@@ -1330,23 +1365,14 @@ Rn
 विपरीत दिशा में इस प्रकार गतिमान होते हैं कि उनका द्रव्यमान केन्द्र
 स्थिर रहे, जैसा चित्र 6.13 (b) में दर्शाया गया है।
 
-S
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_14_hi.png" alt="चित्र 6.14" onclick="openImageModal(this.src, 'चित्र 6.14: fp=k 6.14 (a) ck;ujh fudk; cukrs nks u{k=kksa S1 ,oa S2 osQ xeu...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.14</strong> fp=k 6.14 (a) ck;ujh fudk; cukrs nks u{k=kksa S1 ,oa S2 osQ xeu</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
-S
-
-C
-
-S
-
-(a)
-
-(b)
-
-S2
-
-103
-
-चित्र 6.14 (a) बायनरी निकाय बनाते दो नक्षत्रों S₁ एवं S, के गमन
 पथ, जो क्रमशः बिन्दु रेखा एवं सतत रेखा द्वारा दर्शाये
 गए हैं। इनका द्रव्यमान केन्द्र C समगति
 में है।
@@ -1383,7 +1409,7 @@ S2
 हम सदिशों एवं भौतिकी में उनके उपयोग के विषय में पहले से
 ही जानते हैं। अध्याय 5 (कार्य, ऊर्जा, शक्ति) में हमने दो
 
-Reprint 2026-27
+
 
 
 ---
@@ -1432,7 +1458,15 @@ c
 दिशा बतायेगा।
 
 यह याद रखना चाहिए कि a और b के बीच दो कोण बनते
-हैं। चित्र 6.15 (a) एवं (b) में इनमें से कोण 0 दर्शाया गया है,
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_15_hi.png" alt="चित्र 6.15" onclick="openImageModal(this.src, 'चित्र 6.15: fd bldk &#39;kh&quot;kZ a ,oa b osQ ry esa gks vkSj yEckbZ bl ry osQ vfHkyEcor~ ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.15</strong> fd bldk 'kh"kZ a ,oa b osQ ry esa gks vkSj yEckbZ bl ry osQ vfHkyEcor~ gks vkSj fiQj 'kh"kZ dks a ls b dh vksj ?kqek;sa] rks isap dh ukasd c dh fn'kk esa vkxs c<+sxkA nf{k.kkorZ isap dk fu;e fp=k 6.15a esa n'kkZ;k x;k gSA ;fn vki lfn'kksa a ,oa b osQ ry osQ vfHkyEcor~ js[kk osQ ifjr% vius nkfgus gkFk dh maxfy;ksa dks bl izdkj eksM+sa fd muosQ fljs a ls b dh vksj bafxr djsa] rc bl gkFk dk iSQyk gqvk vaxwBk c dh fn'kk crk;sxk tSlk fp=k 6.15b esa n'kkZ;k x;k gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 स्पष्टतः दूसरा (360°- ) है। उपरोक्त नियमों में से कोई भी
 नियम लगाते समय a एवंb के बीच का छोटा कोण (<180°)
 लेकर नियम लगाना चाहिए। यहाँ यह 0 है।
@@ -1506,7 +1540,7 @@ ax (b + c) = axb+axc
 
 (i) a × a = 0 (0 एक शून्य सदिश है, यानि शून्य परिमाण
 
-Reprint 2026-27
+
 
 
 ---
@@ -1604,13 +1638,14 @@ bx by bz
 
 उदाहरण 6.4: दो सदिशों a = (3i – 4j + 5k) एवं
 b = (- 2i + j – 3k) के अदिश एवं सदिश गुणनफल
-ज्ञात कीजिए।
 
-reo
-
-x
-
-चित्र 6.16
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_16_hi.png" alt="चित्र 6.16" onclick="openImageModal(this.src, 'चित्र 6.16: fp=k 6.16 ,d fLFkj v{k osQ ifjr% ?kw.kZuA fLFkj (z-) v{k osQ ifjr% ?kwers n`<+ f...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.16</strong> fp=k 6.16 ,d fLFkj v{k osQ ifjr% ?kw.kZuA fLFkj (z-) v{k osQ ifjr% ?kwers n`<+ fi.M osQ fdlh d.k P dk o`Ùkkdkj iFk ij pyukA o`Ùk dk osQUnz (C), v{k ij vofLFkr gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 C
 
@@ -1629,7 +1664,7 @@ y
 व्यक्त होता है। सदिश गुणन के विषय में आपने पिछले अनुभाग
 में पढ़ा है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -1674,7 +1709,15 @@ v = wr द्वारा प्रस्तुत किया जा सकत
 घूर्णन में, कोणीय वेग सदिश, घूर्णन अक्ष के अनुदिश होता है,
 और उस दिशा में संकेत करता है जिसमें एक दक्षिणावर्त पेंच
 आगे बढ़ेगा जब उसके शीर्ष को पिण्ड के घूर्णन की दिशा में
-घुमाया जाएगा। देखिए चित्र 6.17(a)। इस सदिश का परिमाण,
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_17_hi.png" alt="चित्र 6.17" onclick="openImageModal(this.src, 'चित्र 6.17: gekjs vHkh rd osQ foospu ls ,slk yxrk gS fd dks.kh; osx ,d vfn&#39;k jkf&#39;k g...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.17</strong> gekjs vHkh rd osQ foospu ls ,slk yxrk gS fd dks.kh; osx ,d vfn'k jkf'k gSA ¯drq rF; ;g gS] fd ;g ,d lfn'k jkf'k gSA ge bl rF; osQ leFkZu ;k iqf"V osQ fy, dksbZ roZQ ugha nsaxs] cl ;g eku dj pysaxsA ,d fLFkj v{k osQ ifjr% ?kw.kZu esa] dks.kh; osx lfn'k] ?kw.kZu v{k osQ vuqfn'k gksrk gS] vkSj ml fn'kk esa laosQr djrk gS ftlesa ,d nf{k.kkorZ isap vkxs c<+sxk tc mlosQ 'kh"kZ dks fi.M osQ ?kw.kZu dh fn'kk esa ?kqek;k tk,xkA nsf[k, fp=k 6.17(a)A bl lfn'k dk ifjek.k]</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 w = de/dt, जैसा ऊपर बताया गया है।
 
 ER
@@ -1733,7 +1776,7 @@ P
 उसके ऊपर खींची गई स्पर्श रेखा के
 अनुदिश है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -1851,7 +1894,7 @@ dt
 रेखा पर लगने वाला बल, द्वार में कोई भी घूर्णन गति
 उत्पन्न नहीं कर सकता किंतु किसी दिए गए परिमाण का
 
-Reprint 2026-27
+
 
 
 ---
@@ -1870,29 +1913,15 @@ Reprint 2026-27
 परिभाषा देंगे। बाद में इस अवधारणा को आगे बढ़ाकर कणों के
 निकाय और दृढ़ पिण्डों के लिए लागू करेंगे। हम, घूर्णन गति में
 इसके कारण होने वाले परिवर्तन यानि दृढ़ पिण्ड के कोणीय
-त्वरण से इसका संबंध भी जानेंगे।
 
-X
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_18_hi.png" alt="चित्र 6.18" onclick="openImageModal(this.src, 'चित्र 6.18: fp=k 6.18 τ = r × F, τ τ τ τ τ ml ry osQ yEcor~ gS ftlesa r ,oa F gSa] vkSj bldh...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.18</strong> fp=k 6.18 τ = r × F, τ τ τ τ τ ml ry osQ yEcor~ gS ftlesa r ,oa F gSa] vkSj bldh fn'kk nf{k.kkorZ isap osQ fu;e }kjk tkuh tk ldrh gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
-τ
-
-Z
-
-r sin 0
-
-r
-
-P
-
-θ
-
-F
-
-y
-
-to be
-
-चित्र 6.18 t =rxF, t उस तल के लम्बवत् है जिसमें r एवं
 F हैं, और इसकी दिशा दक्षिणावर्त पेंच के नियम द्वारा
 जानी जा सकती है।
 
@@ -1973,7 +2002,7 @@ m द्रव्यमान और p रेखीय संवेग का �
 O के सापेक्ष इस कण का कोणीय संवेग 1 निम्नलिखित
 समीकरण द्वारा परिभाषित होगा-
 
-Reprint 2026-27
+
 
 
 ---
@@ -2172,7 +2201,7 @@ i
 लगते हैं। इस स्थिति में आंतरिक बलों का, निकाय के कुल बल
 आघूर्ण में योगदान शून्य होगा। क्योंकि, प्रत्येक क्रिया-प्रतिक्रिया
 
-Reprint 2026-27
+
 
 
 ---
@@ -2309,7 +2338,13 @@ r
 वियोजित अवयव हैं। यह कथन कि कुल कोणीय संवेग संरक्षित
 है, इसका यह भी अर्थ है कि ये तीनों अवयव भी संरक्षित हैं।
 
-चित्र 6.19
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_19_hi.png" alt="चित्र 6.19" onclick="openImageModal(this.src, 'चित्र 6.19: fp=k 6.19 dks.kh; laosx l = r × mv gSA bldk ifjek.k mvr sinθ gS] tgk¡ θ , r vkSj...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.19</strong> fp=k 6.19 dks.kh; laosx l = r × mv gSA bldk ifjek.k mvr sinθ gS] tgk¡ θ , r vkSj v osQ chp dk dks.k gS (nsf[k, fp=k 6.19)A ;|fi d.k le; osQ lkFk viuh fLFkfr cny jgk gS] fiQj Hkh]</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
 
 कोणीय संवेग 1 = r × mv है। इसका परिमाण mur sine
 है, जहाँ 0, r और v के बीच का कोण है (देखिए चित्र 6.19)।
@@ -2319,7 +2354,7 @@ OM = r sin 10 अचर है।
 
 V
 
-Reprint 2026-27
+
 
 
 ---
@@ -2479,7 +2514,7 @@ Ty एवं ₁₂ क्रमशः x, y एवं z दिशा में �
 अध्यायों में बात की है। कण पर घूर्णी गति का कोई विचार आवश्यक
 नहीं होता। इसके संतुलन के लिए केवल स्थानांतरीय संतुलन की शर्तें
 
-Reprint 2026-27
+
 
 
 ---
@@ -2503,7 +2538,15 @@ Reprint 2026-27
 एक हलकी (यानि नगण्य द्रव्यमान वाली) स्वतंत्र छड़
 (AB) पर विचार कीजिए, जिसके दो सिरों (A एवं B) पर,
 बराबर परिमाण वाले दो समांतर बल, (जो समान दिशा में लगे
-हों) F, चित्र 6.20(a) में दर्शाये अनुसार, छड़ के लम्बवत्
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_20_hi.png" alt="चित्र 6.20" onclick="openImageModal(this.src, 'चित्र 6.20: (AB) ij fopkj dhft,] ftlosQ nks fljksa (A ,oa B) ij] cjkcj ifjek.k okys nks leka...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.20</strong> (AB) ij fopkj dhft,] ftlosQ nks fljksa (A ,oa B) ij] cjkcj ifjek.k okys nks lekarj cy] (tks leku fn'kk esa yxs gksa) F, fp=k 6.20(a) esa n'kkZ;s vuqlkj] NM+ osQ yEcor~ yxs gksaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
+
 लगे हों।
 
 a
@@ -2539,7 +2582,15 @@ a है। A एवं B
 
 जब हम घुमाकर किसी बोतल का ढक्कन खोलते हैं
 तो हमारी उंगलियाँ ढक्कन पर एक बलयुग्म आरोपित
-करती हैं। [चित्र 6.21(a)]। इसका दूसरा उदाहरण पृथ्वी
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_21_hi.png" alt="चित्र 6.21" onclick="openImageModal(this.src, 'चित्र 6.21: tc ge ?kqekdj fdlh cksry dk <Ddu [kksyrs gSa rks gekjh maxfy;k¡ <Ddu ij ,d cy;qX...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.21</strong> tc ge ?kqekdj fdlh cksry dk <Ddu [kksyrs gSa rks gekjh maxfy;k¡ <Ddu ij ,d cy;qXe vkjksfir djrh gSaA [fp=k 6.21(a)]A bldk nwljk mnkgj.k i`Foh osQ pqEcdh; {ks=k esa j[kh pqEcdh; lqbZ gS [fp=k 6.21(b)]A i`Foh dk pqEcdh; {ks=k] pqEcdh; lqbZ osQ mÙkjh vkSj nf{k.kh /zqoksa ij cjkcj cy yxkrk gSA mÙkjh /qzo ij yxk cy mÙkj fn'kk dh vksj ,oa nf{k.kh /zqo ij yxk cy nf{k.kh fn'kk dh vksj gksrk gSA ml voLFkk osQ vfrfjDr tc lqbZ mÙkj&nf{k.k fn'kk esa laosQr djrh gks] nksuksa cyksa dh fØ;k js[kk ,d ugha gksrhA vr% ml ij] i`Foh osQ pqEcdh; {ks=k osQ dkj.k] ,d cy;qXe izHkkoh gksrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
+
 के चुम्बकीय क्षेत्र में रखी चुम्बकीय सुई है [चित्र
 6.21(b)]। पृथ्वी का चुम्बकीय क्षेत्र, चुम्बकीय सुई के
 उत्तरी और दक्षिणी ध्रुवों पर बराबर बल लगाता है। उत्तरी
@@ -2560,7 +2611,7 @@ F
 चित्र 6.21 (a) ढक्कन को घुमाने के लिए हमारी उंगलियाँ उस पर
 एक बलयुग्म लगाती हैं
 
-Reprint 2026-27
+
 
 
 ---
@@ -2582,15 +2633,14 @@ N
 
 उदाहरण 6.7: दर्शाइये कि किसी बलयुग्म का आघूर्ण
 उस बिन्दु के ऊपर निर्भर नहीं करता जिसके परितः आप
-आघूर्ण ज्ञात करते हैं।
 
-हल
-
-A
-
-11
-
-चित्र 6.22
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_22_hi.png" alt="चित्र 6.22" onclick="openImageModal(this.src, 'चित्र 6.22: fp=k 6.22...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.22</strong> fp=k 6.22</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
 
 I2
 
@@ -2609,7 +2659,14 @@ B
 उत्तोलक का एक प्रतिनिधिक उदाहरण है। दो बल F, एवं F, जो
 एक दूसरे के समांतर हैं उत्तोलक के सिरों पर, इसके लम्बवत्
 तथा आलम्ब से क्रमशः d₁ एवं d, दूरियों पर लगाये गए हैं हैं जैसा
-चित्र 6.23 में दर्शाया गया है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_23_hi.png" alt="चित्र 6.23" onclick="openImageModal(this.src, 'चित्र 6.23: 6.8.1 vk?kw.kks± dk fl¼kar ,d vkn&#39;kZ mÙkksyd] vfuok;Z :i ls] ,d ,slh gydh (;...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.23</strong> 6.8.1 vk?kw.kks± dk fl¼kar ,d vkn'kZ mÙkksyd] vfuok;Z :i ls] ,d ,slh gydh (;kfu ux.; nzO;eku okyh) NM+ gS tks viuh yEckbZ osQ vuqfn'k fy, x, fdlh fcUnq osQ ifjr% ?kwe ldrh gksA ;g fcUnq vkyEc dgykrk gSA cPpksa osQ [ksy osQ eSnku esa yxk lh&lk] mÙkksyd dk ,d izfrfuf/d mnkgj.k gSA nks cy F1 ,oa F2, tks ,d nwljs osQ lekarj gSa mÙkksyd osQ fljksa ij] blosQ yEcor~ rFkk vkyEc ls Øe'k% d1 ,oa d2 nwfj;ksa ij yxk;s x, gSa tSlk fp=k 6.23 esa n'kkZ;k x;k gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
 
 d
 
@@ -2687,7 +2744,7 @@ d₁F₁ =d2 F2
 
 या, भार × भार की भुजा = प्रयास × प्रयास की भुजा
 
-Reprint 2026-27
+
 
 
 ---
@@ -2729,7 +2786,15 @@ F2 d₁
 6.8.2 गुरुत्व केन्द्र
 
 आपमें से कई लोगों ने अपनी नोट बुक को अपनी उंगली की
-नोक पर संतुलित किया होगा। चित्र 6.24 उसी तरह का एक
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_24_hi.png" alt="चित्र 6.24" onclick="openImageModal(this.src, 'चित्र 6.24: vkiesa ls dbZ yksxksa us viuh uksV cqd dks viuh maxyh dh uksd ij larqfyr fd;k gk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.24</strong> vkiesa ls dbZ yksxksa us viuh uksV cqd dks viuh maxyh dh uksd ij larqfyr fd;k gksxkA fp=k 6.24 mlh rjg dk ,d fØ;kdyki gS tks vki vklkuh ls dj ldrs gSaA ,d vfu;fer vkdkj dk M nzO;eku okyk xÙks dk VqdM+k vkSj isafly tSlh dksbZ ckjhd uksd okyh oLrq yksA oqQN ckj iz;kl djosQ vki xÙks osQ VqdM+s esa ,d ,slk fcUnq G <w¡<+ ldrs gSa ftlosQ uhps isafly dh uksd j[kus ij xÙks dk VqdM+k ml uksd ij larqfyr gks tk,xkA (bl fLFkfr esa xÙks dk VqdM+k iw.kZr% {kSfrt voLFkk esa jguk pkfg,)A ;g larqyu fcUnq xÙks osQ VqdM+s dk xq#Ro osQUnz (CG) gSA isafly dh uksd ÅèokZ/jr% Åij dh vksj yxus okyk ,d cy iznku djrh gS ftlosQ dkj.k xÙks dk VqdM+k ;kaf=kd larqyu esa vk tkrk gSA tSlk fp=k 6.24 esa n'kkZ;k x;k gS] isafly dh uksd dk izfrfØ;k cy R xÙks osQ VqdM+s osQ oqQy Hkkj M g osQ cjkcj vkSj foijhr gS vkSj blfy, ;g LFkkukarjh; larqyukoLFkk esa gSA lkFk gh ;g ?kw.khZ larqyu esa Hkh gSA D;ksafd] vxj ,slk u gksrk rks vlarqfyr cy vk?kw.kZ osQ dkj.k ;g ,d vksj >qd tkrk vkSj fxj tkrkA xq#Ro cy osQ dkj.k xÙks osQ VqdM+s ij cgqr ls cy vk?kw.kZ izHkkoh gSa D;ksafd ,dkdh d.kksa osQ Hkkj m1g, m2g …. vkfn G ls fofHkUu nwfj;ksa ij dk;Z dj jgs gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
+
 क्रियाकलाप है जो आप आसानी से कर सकते हैं। एक
 अनियमित आकार का M द्रव्यमान वाला गत्ते का टुकड़ा और
 पेंसिल जैसी कोई बारीक नोक वाली वस्तु लो। कुछ बार
@@ -2796,7 +2861,7 @@ ed
 इतना बड़ा हो जाए कि इसके एक भाग की तुलना में दूसरे भाग
 के लिए g का मान बदल जाए तब गुरुत्व केन्द्र एवं द्रव्यमान
 
-Reprint 2026-27
+
 
 
 ---
@@ -2830,37 +2895,14 @@ A
 की गणना कीजिए। (छड़ को समांग और समान अनुप्रस्थ
 काट वाली मान सकते हैं।)
 
-C
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_25_hi.png" alt="चित्र 6.25" onclick="openImageModal(this.src, 'चित्र 6.25: fp=k 6.25 vfu;fer vkdkj osQ iQyd dk xq#Ro osQUnz Kkr djukA iQyd dk xq#Ro osQUnz ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.25</strong> fp=k 6.25 vfu;fer vkdkj osQ iQyd dk xq#Ro osQUnz Kkr djukA iQyd dk xq#Ro osQUnz G bldks A dksus ls yVdkus ij blls gksdj xqtjus okyh ÅèokZ/j js[kk ij iM+rk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
 
-B
-
-G
-
-B
-
-हल :
-
-R
-
-A
-
-PG
-
-K
-
-C
-
-ublished
-
-NCERT
-
-K
-
-B
-
-A
-
-चित्र 6.25 अनियमित आकार के फलक का गुरुत्व केन्द्र ज्ञात
 करना। फलक का गुरुत्व केन्द्र G इसको A कोने से
 लटकाने पर इससे होकर गुजरने वाली ऊर्ध्वाधर रेखा
 पर पड़ता है।
@@ -2878,7 +2920,13 @@ A
 अब हम फलक को किसी दूसरे बिन्दु जैसे B या C से लटकाते
 हैं। इन दो ऊर्ध्वाधर रेखाओं का कटान बिन्दु गुरुत्व केन्द्र है।
 
-चित्र 6.26
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_26_hi.png" alt="चित्र 6.26" onclick="openImageModal(this.src, 'चित्र 6.26: fp=k 6.26...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.26</strong> fp=k 6.26</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
 
 चित्र 6.26 में छड़ को AB से दर्शाया गया है। K, एवं K,
 क्षुर-धारों की स्थिति दर्शाते हैं। G एवं P क्रमशः गुरुत्व केन्द्र
@@ -2910,7 +2958,7 @@ R₁+R-W₁ - W= 0
 
 अतः घूर्णी संतुलन के लिए
 
-Reprint 2026-27
+
 
 
 ---
@@ -2980,7 +3028,15 @@ K₁ पर 55 N तथा K₂ पर 43 N
 
 उदाहरण 6.9: 20 kg द्रव्यमान की एक 3 m लंबी सीढ़ी
 एक घर्षणविहीन दीवार के साथ झुका कर टिकाई गई है।
-जैसा चित्र 6.27 में दर्शाया गया है, इसका निचला सिरा
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_27_hi.png" alt="चित्र 6.27" onclick="openImageModal(this.src, 'चित्र 6.27: mnkgj.k 6.9: 20 kg nzO;eku dh ,d 3 m yach lh<+h ,d ?k&quot;kZ.kfoghu nhokj osQ l...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.27</strong> mnkgj.k 6.9: 20 kg nzO;eku dh ,d 3 m yach lh<+h ,d ?k"kZ.kfoghu nhokj osQ lkFk >qdk dj fVdkbZ xbZ gSA tSlk fp=k 6.27 esa n'kkZ;k x;k gS] bldk fupyk fljk iQ'kZ ij nhokj ls 1 m dh nwjh ij gSA nhokj vkSj iQ'kZ osQ izfrfØ;k cy Kkr dhft,A</span>
+    <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
+  </div>
+</div>
+
 फर्श पर दीवार से 1 m की दूरी पर है। दीवार और फर्श
 के प्रतिक्रिया बल ज्ञात कीजिए।
 
@@ -3069,7 +3125,7 @@ i=1
 
 21-1
 
-Reprint 2026-27
+
 
 
 ---
@@ -3090,37 +3146,15 @@ i=1
 
 हम दृढ़ पिण्ड को अभिलक्षित करने वाला एक नया प्राचल
 परिभाषित करते हैं जिसका नाम जड़त्त्व आघूर्ण है और जिसका
-व्यक्तिकरण है
 
-n
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_28_hi.png" alt="चित्र 6.28" onclick="openImageModal(this.src, 'चित्र 6.28: fp=k 6.28 nzO;eku osQ ,d tksM+s ls ;qDr] l yackbZ dh NM+] tks...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.28</strong> fp=k 6.28 nzO;eku osQ ,d tksM+s ls ;qDr] l yackbZ dh NM+] tks</span>
+    <button class="icon-btn" onclick="goToPdfPage(24)">📄 View in PDF (Page 24)</button>
+  </div>
+</div>
 
-1 = mr
-
-i=1
-
-2
-
-इस परिभाषा के साथ
-
-K = 1102
-
-2
-
-M/2
-
-C
-
-1/2
-
-1/2
-
-117
-
-M/2
-
-(6.34)
-
-चित्र 6.28 द्रव्यमान के एक जोड़े से युक्त, 1 लंबाई की छड़, जो
 निकाय के द्रव्यमान केन्द्र से गुजरने वाली इसकी लंबाई
 के लम्बवत् अक्ष के परितः घूम रही है। निकाय का कुल
 द्रव्यमान M है।
@@ -3212,7 +3246,7 @@ I = MP / 4
 परिभ्रमण त्रिज्या कहते हैं। यह पिण्ड के जड़त्व आघूर्ण और कुल
 द्रव्यमान से संबंधित है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -3336,7 +3370,7 @@ k = L/√12 । इसी प्रकार वृत्ताकार चक�
 द्रव्यमान के बराबर है। फलतः जिसका जड़त्व आघूर्ण, दी गई अक्ष
 के परितः पिण्ड के वास्तविक जड़त्व आघूर्ण के बराबर है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -3419,7 +3453,15 @@ E
 
 याद करें, कि किसी घूर्णन करते हुए पिण्ड का कोणीय
 विस्थापन बताने के लिए हमने इस पिण्ड पर कोई कण P ले
-लिया था (चित्र 6.29)। जिस तल में यह कण गति करता है
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_29_hi.png" alt="चित्र 6.29" onclick="openImageModal(this.src, 'चित्र 6.29: ;kn djsa] fd fdlh ?kw.kZu djrs gq, fi.M dk dks.kh; foLFkkiu crkus osQ fy, geus b...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.29</strong> ;kn djsa] fd fdlh ?kw.kZu djrs gq, fi.M dk dks.kh; foLFkkiu crkus osQ fy, geus bl fi.M ij dksbZ d.k P ys fy;k Fkk (fp=k 6.29)A ftl ry esa ;g d.k xfr djrk gS mlesa bldk dks.kh; foLFkkiu θ gh lEiw.kZ fi.M dk dks.kh; foLFkkiu gS_ θ ,d fu;r fn'kk ls ekik tkrk gS] ftldks ;gk¡ ge x′ - v{k ys ysrs gSa tks fcUnq P osQ xfr osQ ry esa fLFkr x-v{k osQ lekukarj js[kk gSA è;ku nsa fd z – v{k ?kw.kZu&v{k gS vkSj d.k P dh xfr dk ry x - y ry osQ lekukarj gSA fp=k 6.29 esa θ0, Hkh n'kkZ;k x;k gS tks t = 0 ij dks.kh; foLFkkiu gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(26)">📄 View in PDF (Page 26)</button>
+  </div>
+</div>
+
 उसमें इसका कोणीय विस्थापन 0 ही सम्पूर्ण पिण्ड का कोणीय
 विस्थापन है; 0 एक नियत दिशा से मापा जाता है, जिसको यहाँ
 हम x' - अक्ष ले लेते हैं जो बिन्दु P के गति के तल में स्थित
@@ -3465,7 +3507,7 @@ Po
 
 चित्र 6.29 किसी दृढ़ पिण्ड की कोणीय स्थिति बताना
 
-Reprint 2026-27
+
 
 
 ---
@@ -3620,7 +3662,7 @@ rad/s
 के घटकों पर विचार में करने की आवश्यकता नहीं है। पर्याय में
 हमें निम्न विचार में लाने की आवश्यकता हैः
 
-Reprint 2026-27
+
 
 
 ---
@@ -3703,11 +3745,15 @@ C
 के अनुदिश है इसके कारण बल आघूर्ण पर विचार करने की
 आवश्यकता नहीं है। F₁ के कारण प्रभाव बल आघूर्ण है :
 t₁= CP₁ × F₁; यह घूर्णी अक्ष के अनुदिश है तथा इसका
-परिमाण t₁ = r₁F₁ sin a है। अतः
 
-dW₁ = τ₁d0
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_30_hi.png" alt="चित्र 6.30" onclick="openImageModal(this.src, 'चित्र 6.30: fp=k 6.30 ,d vpy v{k osQ ifjr% ?kwers fi.M osQ fdlh d.k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.30</strong> fp=k 6.30 ,d vpy v{k osQ ifjr% ?kwers fi.M osQ fdlh d.k</span>
+    <button class="icon-btn" onclick="goToPdfPage(28)">📄 View in PDF (Page 28)</button>
+  </div>
+</div>
 
-चित्र 6.30 एक अचल अक्ष के परितः घूमते पिण्ड के किसी कण
 पर लगे बल F द्वारा किया गया कार्य। कण, अक्ष पर
 स्थित केन्द्र C वाले वृत्त पर चलता है। चाप P₁P'₁(ds₁)
 कण का विस्थापन बताता है।
@@ -3786,7 +3832,7 @@ dW = (τ₁ + 12 + ...) de
 
 कोणीय संवेग L = Iω
 
-Reprint 2026-27
+
 
 
 ---
@@ -3863,7 +3909,15 @@ d (Ιω² (20) do
 उदाहरण 6.12: नगण्य द्रव्यामन वाली एक रस्सी,
 20 kg द्रव्यमान एवं 20 cm त्रिज्या के गतिपालक पहिये
 के रिम पर लपेटी हुई है। रस्सी पर 25 N का एकसमान
-कर्षण बल लगाया जाता है जैसा कि चित्र 6.31 में दर्शाया
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_31_hi.png" alt="चित्र 6.31" onclick="openImageModal(this.src, 'चित्र 6.31: 20 kg nzO;eku ,oa 20 cm f=kT;k osQ xfrikyd ifg;s osQ fje ij yisVh gqbZ gSA jLlh ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.31</strong> 20 kg nzO;eku ,oa 20 cm f=kT;k osQ xfrikyd ifg;s osQ fje ij yisVh gqbZ gSA jLlh ij 25 N dk ,dleku d"kZ.k cy yxk;k tkrk gS tSlk fd fp=k 6.31 esa n'kkZ;k x;k gSA xfrikyd ifg;k ,d {kSfrt /qjh ij yxk;k x;k gS ftlosQ fo;¯jxksa esa dksbZ ?k"kZ.k ugha gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(29)">📄 View in PDF (Page 29)</button>
+  </div>
+</div>
+
 गया है। गतिपालक पहिया एक क्षैतिज धुरी पर लगाया गया
 है जिसके वियरिंगों में कोई घर्षण नहीं है।
 
@@ -3927,7 +3981,7 @@ F=25N
 
 (6.41)
 
-Reprint 2026-27
+
 
 = 25 × 0.20 Nm (R = 0.20m)
 = 5.0 Nm
@@ -4096,7 +4150,7 @@ i
 
 (6.42b)
 
-Reprint 2026-27
+
 
 
 ---
@@ -4267,17 +4321,20 @@ Z
 हो जायेगा। भुजाओं को शरीर के पास लाने से विपरीत परिस्थिति
 प्राप्त होगी।
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 32
 
-कणों के निकाय तथा घूर्णी गति
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_32_hi.png" alt="चित्र 6.32" onclick="openImageModal(this.src, 'चित्र 6.32: fp=k 6.32 (b) dykckt vius dyk izn&#39;kZu esa dks.kh; laosx osQ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.32</strong> fp=k 6.32 (b) dykckt vius dyk izn'kZu esa dks.kh; laosx osQ</span>
+    <button class="icon-btn" onclick="goToPdfPage(32)">📄 View in PDF (Page 32)</button>
+  </div>
+</div>
 
-125
-
-चित्र 6.32 (a) कोणीय संवेग के संरक्षण का प्रदर्शन। घुमाऊ कुर्सी
 पर बैठी लड़की अपनी भुजाओं को शरीर के पास
 लाती है/ दूर ले जाती है।
 
@@ -4329,7 +4386,7 @@ R =
 mr
 M
 
-Reprint 2026-27
+
 
 
 ---
@@ -4434,7 +4491,7 @@ kg m²
 
 I = ∑m²
 
-Reprint 2026-27
+
 
 
 ---
@@ -4513,7 +4570,7 @@ HCI अणु में दो परमाणुओं के नाभिक�
 सदिश P के अवयव px, P₁ P₁₂ हैं, के कोणीय संवेग 1 के अक्षों के अनुदिश अवयव ज्ञात कीजिए। दर्शाइये, कि
 यदि कण केवल x-y तल में ही गतिमान हो तो कोणीय संवेग का केवल z-अवयव ही होता है।
 
-Reprint 2026-27
+
 
 127
 
@@ -4531,7 +4588,16 @@ Reprint 2026-27
 में चल रहे हैं। दर्शाइये कि इस द्विकण निकाय का सदिश कोणीय संवेग समान रहता है, चाहे हम जिस बिन्दु
 के परितः कोणीय संवेग लें।
 
-W भार की एक असमांग छड़ को, उपेक्षणीय भार वाली दो डोरियों से चित्र 6.33 में दर्शाये अनुसार लटका कर
+W भार की एक असमांग छड़ को, उपेक्षणीय भार वाली दो डोरियों से
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch06_system_of_particles_and_rotational_motion_fig_6_33_hi.png" alt="चित्र 6.33" onclick="openImageModal(this.src, 'चित्र 6.33: 6.8 W Hkkj dh ,d vlekax NM+ dks] mis{k.kh; Hkkj okyh nks Mksfj;ksa ls fp=k 6.33 ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.33</strong> 6.8 W Hkkj dh ,d vlekax NM+ dks] mis{k.kh; Hkkj okyh nks Mksfj;ksa ls fp=k 6.33 esa n'kkZ;s vuqlkj yVdk dj fojkekoLFkk esa j[kk x;k gSA Mksfj;ksa }kjk ÅèokZ/j ls cus dks.k Øe'k% 36.9° ,oa 53.1° gaSA NM+ 2 m yEckbZ dh gSA NM+ osQ ck,¡ fljs ls blosQ xq#Ro osQUnz dh nwjh d Kkr dhft,A</span>
+    <button class="icon-btn" onclick="goToPdfPage(35)">📄 View in PDF (Page 35)</button>
+  </div>
+</div>
+
 विरामावस्था में रखा गया है। डोरियों द्वारा ऊर्ध्वाधर से बने कोण क्रमश: 36.9° एवं 53.1° हैं। छड़ 2 m लम्बाई
 की है। छड़ के बाएँ सिरे से इसके गुरुत्व केन्द्र की दूरी व ज्ञात कीजिए।
 
@@ -4582,7 +4648,7 @@ Nm का बल आघूर्ण प्रेषित करना आवश
 में लगाए गए बल आघूर्ण की आवश्यकता घर्षणी बल आघूर्ण को निरस्त करने के लिए होती है ।) यह मानिए
 कि इंजन की दक्षता 100% है।
 
-Reprint 2026-27
+
 
 भौतिकी
 
@@ -4623,7 +4689,7 @@ Reprint 2026-27
 
 not to be republish
 
-Reprint 2026-27
+
 
 129
 

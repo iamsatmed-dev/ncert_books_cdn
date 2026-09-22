@@ -7,7 +7,7 @@
 
 CHAPTER 5
 
-12083CH06
+
 
 MOLECULAR BASIS OF
 INHERITANCE
@@ -81,7 +81,7 @@ that determines the sequences of amino acids in proteins,
 the process of protein synthesis (translation) and
 elementary basis of their regulation. The determination
 
-Reprint 2025-26
+
 
 
 ---
@@ -138,35 +138,13 @@ Two nucleotides are linked through 3'-5' phosphodiester linkage to form
 a dinucleotide. More nucleotides can be joined in such a manner to form
 a polynucleotide chain. A polymer thus formed has at one end a free
 
-H
-
-H-C-H
-
-P
-
-H-C-H
-
-P
-
-H-C-H
-
-P
-
-H-C-H
-
-3' hydroxyl
-
-OH
-
-A
-
-T
-
-G
-
-Figure 5.1 A Polynucleotide chain
-
-Reprint 2025-26
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_1.png" alt="Fig. 5.1" onclick="openImageModal(this.src, 'Fig. 5.1: Figure 5.1 A Polynucleotide chain...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.1</strong> Figure 5.1 A Polynucleotide chain</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 C
 
@@ -221,7 +199,14 @@ bonds with Thymine from opposite strand and vice-versa.
 Similarly, Guanine is bonded with Cytosine with three H-bonds.
 As a result, always a purine comes opposite to a pyrimidine. This
 generates approximately uniform distance between the two
-strands of the helix (Figure 5.2).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_2.png" alt="Fig. 5.2" onclick="openImageModal(this.src, 'Fig. 5.2: (H-bonds) forming base pairs (bp). Adenine forms two hydrogen bonds with Thymine...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.2</strong> (H-bonds) forming base pairs (bp). Adenine forms two hydrogen bonds with Thymine from opposite strand and vice-versa. Similarly, Guanine is bonded with Cytosine with three H-bonds. As a result, always a purine comes opposite to a pyrimidine. This generates approximately uniform distance between the two strands of the helix (Figure 5.2). (iv) The two chains are coiled in a right-handed fashion. The pitch</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 (iv) The two chains are coiled in a right-handed fashion. The pitch
 of the helix is 3.4 nm (a nanometre is one billionth of a
@@ -231,7 +216,7 @@ shed
 
 81
 
-Reprint 2025-26
+
 
 
 ---
@@ -321,7 +306,14 @@ approximately 0.34 nm.
 over the other in double helix. This,
 in addition to H-bonds, confers
 stability of the helical structure
-(Figure 5.3).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_3.png" alt="Fig. 5.3" onclick="openImageModal(this.src, 'Fig. 5.3: Figure 5.3 DNA double helix...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.3</strong> Figure 5.3 DNA double helix</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 Compare the structure of purines and
 pyrimidines. Can you find out why the
@@ -344,7 +336,7 @@ C
 
 82
 
-Reprint 2025-26
+
 
 Central dogma
 
@@ -405,7 +397,16 @@ in their side chains. Histones are organised to form
 a unit of eight molecules called histone octamer.
 
 The negatively charged DNA is wrapped around the positively charged
-histone octamer to form a structure called nucleosome (Figure 5.4 a). A
+histone octamer to form a structure called nucleosome (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_4.png" alt="Fig. 5.4" onclick="openImageModal(this.src, 'Fig. 5.4: Figure 5.4a Nucleosome...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.4</strong> Figure 5.4a Nucleosome</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 typical nucleosome contains 200 bp of DNA helix. Nucleosomes constitute
 the repeating unit of a structure in nucleus called chromatin, thread-
 like stained (coloured) bodies seen in nucleus. The nucleosomes in
@@ -422,7 +423,7 @@ level requires additional set of proteins that collectively are referred to as
 
 83
 
-Reprint 2025-26
+
 
 
 ---
@@ -492,7 +493,7 @@ R strain
 
 (live)
 
-Reprint 2025-26
+
 
 Inject into mice
 
@@ -568,7 +569,7 @@ DNA does not contain sulfur.
 
 85
 
-Reprint 2025-26
+
 
 
 ---
@@ -586,7 +587,15 @@ were radioactive, indicating that DNA was the material that passed from
 the virus to the bacteria. Bacteria that were infected with viruses that had
 radioactive proteins were not radioactive. This indicates that proteins did
 not enter the bacteria from the viruses. DNA is therefore the genetic
-material that is passed from virus to bacteria (Figure 5.5).
+material that is passed from virus to bacteria (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_5.png" alt="Fig. 5.5" onclick="openImageModal(this.src, 'Fig. 5.5: Bacteria which was infected with viruses that had radioactive DNA were radioacti...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.5</strong> Bacteria which was infected with viruses that had radioactive DNA were radioactive, indicating that DNA was the material that passed from the virus to the bacteria. Bacteria that were infected with viruses that had radioactive proteins were not radioactive. This indicates that proteins did not enter the bacteria from the viruses. DNA is therefore the genetic material that is passed from virus to bacteria (Figure 5.5).</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 -Bacteriophage-
 -Radioactive (35S) labelled
@@ -634,7 +643,7 @@ that acts as genetic material. However, it subsequently became clear that
 
 86
 
-Reprint 2025-26
+
 
 
 ---
@@ -700,7 +709,7 @@ The above discussion indicate that both RNA and DNA can function as
 
 87
 
-Reprint 2025-26
+
 
 
 ---
@@ -773,36 +782,14 @@ GC
 
 G
 
-3'
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_6.png" alt="Fig. 5.6" onclick="openImageModal(this.src, 'Fig. 5.6: The scheme suggested that the two strands would separate and act as a template f...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.6</strong> The scheme suggested that the two strands would separate and act as a template for the synthesis of new complementary strands. After the completion of replication, each DNA molecule would have one parental and one newly synthesised strand. This scheme was termed as semiconservative DNA replication (Figure 5.6).</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
-TA
-
-GC
-
-AT
-
-TA
-
-AT
-
-CG
-
-CG
-
-TA GC
-
-AT
-
-AT
-
-GC
-
-GC
-
-TA
-GC
-
-Figure 5.6 Watson-Crick model for
 semiconservative DNA
 replication
 
@@ -834,7 +821,7 @@ replication (Figure 5.6).
 It is now proven that DNA replicates semiconservatively. It was shown first in
 Escherichia coli and subsequently in higher organisms, such as plants
 
-Reprint 2025-26
+
 
 
 ---
@@ -859,7 +846,14 @@ separated from 14N only based on densities).
 the cells multiplied, and extracted the DNA that remained as
 double-stranded helices. The various samples were separated
 independently on CsCl gradients to measure the densities of
-DNA (Figure 5.7).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_7.png" alt="Fig. 5.7" onclick="openImageModal(this.src, 'Fig. 5.7: Figure 5.7 Meselson and Stahl’s Experiment...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.7</strong> Figure 5.7 Meselson and Stahl’s Experiment</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
 
 Can you recall what centrifugal force is, and think why a
 molecule with higher mass/density would sediment faster?
@@ -872,7 +866,7 @@ The results are shown in Figure 5.7.
 
 Generation II
 
-not to be republished
+
 
 Gravitational force
 
@@ -913,7 +907,7 @@ Hybrid
 
 89
 
-Reprint 2025-26
+
 
 
 ---
@@ -965,7 +959,15 @@ This creates some additional complications at the replicating fork.
 Consequently, on one strand (the template with polarity 3'→5'), the
 replication is continuous, while on the other (the template with
 polarity 5'→3'), it is discontinuous. The discontinuously synthesised
-fragments are later joined by the enzyme DNA ligase (Figure 5.8).
+fragments are later joined by the enzyme DNA ligase (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_8.png" alt="Fig. 5.8" onclick="openImageModal(this.src, 'Fig. 5.8: In addition to DNA-dependent DNA polymerases, many additional enzymes are requir...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.8</strong> In addition to DNA-dependent DNA polymerases, many additional enzymes are required to complete the process of replication with high degree of accuracy. For long DNA molecules, since the two strands of DNA cannot be separated in its entire length (due to very high energy requirement), the replication occur within a small opening of the DNA helix, referred to as replication fork. The DNA-dependent DNA polymerases catalyse polymerisation only in one direction, that is 5'à3'. This creates some additional complications at the replicating fork. Consequently, on one strand (the template with polarity 3'à5'), the replication is continuous, while on the other (the template with polarity 5'à3'), it is discontinuous. The discontinuously synthesised fragments are later joined by the enzyme DNA ligase (Figure 5.8).</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 The DNA polymerases on their own cannot initiate the process of
 replication. Also the replication does not initiate randomly at any place
@@ -974,7 +976,7 @@ originates. Such regions are termed as origin of replication. It is
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -1065,7 +1067,7 @@ the DNA:
 
 91
 
-Reprint 2025-26
+
 
 
 ---
@@ -1101,25 +1103,13 @@ Coding Strand
 
 Can you now write the sequence of RNA transcribed from the above DNA?
 
-e above
-
-Transcription start site
-
-Structural gene
-
-Terminator
-
-Template strand
-
-5'
-
-NCERT
-
-Coding strand
-
-3'
-
-Figure 5.9 Schematic structure of a transcription unit
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_9.png" alt="Fig. 5.9" onclick="openImageModal(this.src, 'Fig. 5.9: Figure 5.9 Schematic structure of a transcription unit...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.9</strong> Figure 5.9 Schematic structure of a transcription unit</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
 The promoter and terminator flank the structural gene in a
 transcription unit. The promoter is said to be located towards 5′-end
@@ -1142,7 +1132,7 @@ not
 A gene is defined as the functional unit of inheritance. Though there is no
 ambiguity that the genes are located on the DNA, it is difficult to literally
 
-Reprint 2025-26
+
 
 
 ---
@@ -1206,38 +1196,13 @@ Sigma factor
 
 3'
 
-Terminator
-
-5
-
-RNA
-
-Elongation
-
-3'
-
-5
-
-Termination
-
-σ
-
-P
-
-RNA
-
-5'
-
-3'
-
-RNA
-Polymerase
-
-Rho factor
-
-Figure 5.10 Process of Transcription in Bacteria
-
-Reprint 2025-26
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_10.png" alt="Fig. 5.10" onclick="openImageModal(this.src, 'Fig. 5.10: Figure 5.10 Process of Transcription in Bacteria...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.10</strong> Figure 5.10 Process of Transcription in Bacteria</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
 ished
 
@@ -1306,40 +1271,13 @@ Exon
 
 Gppp
 
-Intron
-
-5'
-
-Messenger RNA
-
-m
-
-G
-
-PPP
-
-5'
-
-3'
-
-XIXIX
-
-3' mRNA
-
-RNA splicing
-
-Polyadenylation
-
-3'
-
-Poly A tail
-
-3'
-
-Figure 5.11 Process of Transcription in Eukaryotes
-
-Reprint 2025-26
-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_11.png" alt="Fig. 5.11" onclick="openImageModal(this.src, 'Fig. 5.11: Figure 5.11 Process of Transcription in Eukaryotes...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.11</strong> Figure 5.11 Process of Transcription in Eukaryotes</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
 ---
 ## 📄 Page 17
@@ -1401,7 +1339,7 @@ task. The chemical method developed by Har Gobind Khorana was
 
 95
 
-Reprint 2025-26
+
 
 
 ---
@@ -1605,7 +1543,7 @@ sequence of amino acid coded by it (take help of the checkerboard):
 
 -AUG UUU UUC UUC UUU UUU UUC-
 
-Reprint 2025-26
+
 
 
 ---
@@ -1676,7 +1614,7 @@ insertion or deletion. However, such mutations are referred to as
 
 97
 
-Reprint 2025-26
+
 
 
 ---
@@ -1708,37 +1646,13 @@ as an adapter molecule was assigned much later.
 
 Ser
 
-3'
-
-tRNA
-
-UCA
-
-5'
-
-Tyr
-
-CERA
-
-Anticodon
-
-AGU
-
-Codon
-
-5'
-
-AUG
-
-3'
-
-UAC
-
-mRNA
-
-3'
-
-Figure 5.12 tRNA - the adapter molecule
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_12.png" alt="Fig. 5.12" onclick="openImageModal(this.src, 'Fig. 5.12: tRNA has an anticodon loop that has bases complementary to the code, and it also...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.12</strong> tRNA has an anticodon loop that has bases complementary to the code, and it also has an amino acid acceptor end to which it binds to amino acids. tRNAs are specific for each amino acid (Figure 5.12). For initiation, there is another specific tRNA that is referred to as initiator tRNA. There are no tRNAs for stop codons. In figure 5.12, the secondary structure of tRNA has been depicted that looks like a clover-leaf. In actual structure, the tRNA is a compact molecule which looks like inverted L.</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
 
 ant
 
@@ -1770,7 +1684,15 @@ tRNA is a compact molecule which looks like inverted L.
 not
 
 Translation refers to the process of polymerisation of amino acids to
-form a polypeptide (Figure 5.13). The order and sequence of amino acids
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_13.png" alt="Fig. 5.13" onclick="openImageModal(this.src, 'Fig. 5.13: Translation refers to the process of polymerisation of amino acids to form a pol...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.13</strong> Translation refers to the process of polymerisation of amino acids to form a polypeptide (Figure 5.13). The order and sequence of amino acids are defined by the sequence of bases in the mRNA. The amino acids are joined by a bond which is known as a peptide bond. Formation of a peptide bond requires energy. Therefore, in the first phase itself amino acids are activated in the presence of ATP and linked to their cognate tRNA – a process commonly called as charging of tRNA or aminoacylation of tRNA to be more specific. If two such charged tRNAs are brought close enough, the formation of peptide bond between them</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
+
 are defined by the sequence of bases in the mRNA. The amino acids are
 joined by a bond which is known as a peptide bond. Formation of a
 peptide bond requires energy. Therefore, in the first phase itself amino
@@ -1779,7 +1701,7 @@ tRNA-a process commonly called as charging of tRNA or
 aminoacylation of tRNA to be more specific. If two such charged tRNAS
 are brought close enough, the formation of peptide bond between them
 
-Reprint 2025-26
+
 
 
 ---
@@ -1886,7 +1808,7 @@ regulation could be exerted at
 
 99
 
-Reprint 2025-26
+
 
 
 ---
@@ -1943,11 +1865,19 @@ permease, which increases permeability of the cell to ẞ-galactosides. The
 a gene encodes a transacetylase. Hence, all the three gene products in
 lac operon are required for metabolism of lactose. In most other operons
 as well, the genes present in the operon are needed together to function
-in the same or related metabolic pathway (Figure 5.14).
+in the same or related metabolic pathway (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_14.png" alt="Fig. 5.14" onclick="openImageModal(this.src, 'Fig. 5.14: The lac operon consists of one regulatory gene (the i gene – here the term i doe...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.14</strong> The lac operon consists of one regulatory gene (the i gene – here the term i does not refer to inducer, rather it is derived from the word inhibitor) and three structural genes (z, y, and a). The i gene codes for the repressor of the lac operon. The z gene codes for beta-galactosidase (β-gal), which is primarily responsible for the hydrolysis of the disaccharide, lactose into its monomeric units, galactose and glucose. The y gene codes for permease, which increases permeability of the cell to β-galactosides. The a gene encodes a transacetylase. Hence, all the three gene products in lac operon are required for metabolism of lactose. In most other operons as well, the genes present in the operon are needed together to function in the same or related metabolic pathway (Figure 5.14).</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -2041,7 +1971,7 @@ but it is beyond the scope of discussion at this level.
 
 101
 
-Reprint 2025-26
+
 
 
 ---
@@ -2106,7 +2036,7 @@ new ways to diagnose, treat and someday prevent the thousands of
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -2152,10 +2082,15 @@ on some overlapping regions
 present in them. This required
 generation of overlapping fragments
 for sequencing. Alignment of these
-sequences was humanly not
-possible. Therefore, specialised
-computer based programs were
-developed (Figure 5.15). These
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_15.png" alt="Fig. 5.15" onclick="openImageModal(this.src, 'Fig. 5.15: The fragments were sequenced using automated DNA sequencers that worked on the p...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.15</strong> The fragments were sequenced using automated DNA sequencers that worked on the principle of a method developed by Frederick Sanger. (Remember, Sanger is also credited for developing method for determination of amino acid sequences in proteins). These sequences were then arranged based on some overlapping regions present in them. This required generation of overlapping fragments for sequencing. Alignment of these sequences was humanly not possible. Therefore, specialised computer based programs were developed (Figure 5.15). These sequences were subsequently annotated and were assigned to each chromosome. The sequence of chromosome 1 was completed only in May 2006 (this was the last of the 24 human chromosomes – 22 autosomes and X and Y – to be</span>
+    <button class="icon-btn" onclick="goToPdfPage(25)">📄 View in PDF (Page 25)</button>
+  </div>
+</div>
+
 sequences were subsequently
 annotated and were assigned to each
 chromosome. The sequence of
@@ -2181,7 +2116,7 @@ TA
 Figure 5.15 A representative diagram of human
 genome project
 
-Reprint 2025-26
+
 
 103
 
@@ -2244,7 +2179,7 @@ to biological research. In the past, researchers studied one or a few genes
 at a time. With whole-genome sequences and new high-throughput
 technologies, we can approach questions systematically and on a much
 
-Reprint 2025-26
+
 
 
 ---
@@ -2305,7 +2240,7 @@ ability to have offspring who can transmit the mutation, it can spread to
 
 105
 
-Reprint 2025-26
+
 
 
 ---
@@ -2349,7 +2284,15 @@ membranes, such as nitrocellulose or nylon,
 (v) hybridisation using labelled VNTR probe, and
 
 (vi) detection of hybridised DNA fragments by autoradiography. A schematic
-representation of DNA fingerprinting is shown in Figure 5.16.
+representation of DNA fingerprinting is shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_16.png" alt="Fig. 5.16" onclick="openImageModal(this.src, 'Fig. 5.16: representation of DNA fingerprinting is shown in Figure 5.16....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.16</strong> representation of DNA fingerprinting is shown in Figure 5.16.</span>
+    <button class="icon-btn" onclick="goToPdfPage(28)">📄 View in PDF (Page 28)</button>
+  </div>
+</div>
 
 The VNTR belongs to a class of satellite DNA referred to as mini-satellite.
 A small DNA sequence is arranged tandemly in many copy numbers. The
@@ -2368,7 +2311,7 @@ application in forensic science, it has much wider application, such as
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -2442,7 +2385,7 @@ in determining population and genetic diversities. Currently, many
 
 different probes are used to generate DNA fingerprints.
 
-Reprint 2025-26
+
 
 107
 
@@ -2504,7 +2447,7 @@ the principle of polymorphism in DNA sequences. It has immense
 applications in the field of forensic science, genetic biodiversity and
 evolutionary biology.
 
-Reprint 2025-26
+
 
 
 ---
@@ -2582,5 +2525,5 @@ time after addition of lactose in the medium?
 
 109
 
-Reprint 2025-26
+
 

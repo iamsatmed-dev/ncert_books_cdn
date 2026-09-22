@@ -48,7 +48,7 @@ classification, of animals and plants from a taxonomist's perspective.
 
 no
 
-Reprint 2025-26
+
 
 
 ---
@@ -78,13 +78,13 @@ the age of 100 in the year 2004.
 
 not to b
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 3
 
-11080CH01
+
 
 ### 1.1 Diversity in the
 
@@ -133,7 +133,7 @@ different kind of plant, animal or organism that you see, represents a
 species. The number of species that are known and described range
 between 1.7-1.8 million. This refers to biodiversity or the number and
 
-Reprint 2025-26
+
 
 
 ---
@@ -198,7 +198,7 @@ origin.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -261,7 +261,7 @@ relationships among them. This branch of study was referred to as
 systematics. The word systematics is derived from the Latin word
 'systema' which means systematic arrangement of organisms. Linnaeus
 
-Reprint 2025-26
+
 
 5
 
@@ -278,9 +278,7 @@ systematics was later enlarged to include identification, nomenclature
 and classification. Systematics takes into account evolutionary
 relationships between organisms.
 
-### 1.2
-
-TAXONOMIC CATEGORIES
+### 1.2 TAXONOMIC CATEGORIES
 
 Classification is not a single step process but involves hierarchy of steps
 in which each step represents a rank or category. Since the category is a
@@ -328,7 +326,7 @@ epithet called tigris and Solanum includes species like nigrum and
 
 no
 
-Reprint 2025-26
+
 
 
 ---
@@ -399,7 +397,7 @@ Mammalia has other orders also.
 Classes comprising animals like fishes, amphibians, reptiles, birds along
 with mammals constitute the next higher category called Phylum. All
 
-Reprint 2025-26
+
 
 7
 
@@ -407,27 +405,14 @@ Reprint 2025-26
 ---
 ## 📄 Page 8
 
-8
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch01_the_living_world_fig_1_1.png" alt="Fig. 1.1" onclick="openImageModal(this.src, 'Fig. 1.1: The taxonomic categories from species to kingdom have been shown in ascending or...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.1</strong> The taxonomic categories from species to kingdom have been shown in ascending order starting with species in Figure 1.1. These are broad categories. However, taxonomists have also developed sub-categories in this hierarchy to facilitate more sound and scientific placement of various taxa.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
-BIOLOGY
-
-Kingdom
-
-Phylum or Division
-
-Class
-
-Order
-
-Family
-
-↑
-
-Genus
-
-Species
-
-Figure 1.1 Taxonomic
 categories
 showing
 hierarchial
@@ -528,7 +513,7 @@ Monocotyledonae Angiospermae
 
 aestivum
 
-Reprint 2025-26
+
 
 
 ---
@@ -636,5 +621,5 @@ plants and animals on one hand, and bacteria on the other hand.
 10. Illustrate the taxonomical hierarchy with suitable examples of a plant
 and an animal.
 
-Reprint 2025-26
+
 

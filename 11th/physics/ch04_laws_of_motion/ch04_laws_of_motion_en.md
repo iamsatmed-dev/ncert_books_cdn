@@ -11,9 +11,7 @@ LAWS OF MOTION
 
 11086CHOS
 
-### 4.1
-
-Introduction
+### 4.1 Introduction
 
 ### 4.2 Aristotle's fallacy
 4.3 The law of inertia
@@ -87,7 +85,7 @@ a skater moving straight with constant speed on a horizontal
 ice slab)? Is an external force required to keep a body in
 uniform motion?
 
-Reprint 2026-27
+
 
 
 ---
@@ -169,7 +167,15 @@ accelerate, while those (ii) moving up retard.
 diate situation. Galileo concluded that an object
 moving on a frictionless horizontal plane must
 neither have acceleration nor retardation, i.e. it
-should move with constant velocity (Fig. 4.1(a)).
+should move with constant velocity (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_1.png" alt="Fig. 4.1" onclick="openImageModal(this.src, 'Fig. 4.1: Galileo studied motion of objects on an inclined plane. Objects (i) moving down ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.1</strong> Galileo studied motion of objects on an inclined plane. Objects (i) moving down an inclined plane accelerate, while those (ii) moving up retard. (iii) Motion on a horizontal plane is an interme- diate situation. Galileo concluded that an object moving on a frictionless horizontal plane must neither have acceleration nor retardation, i.e. it should move with constant velocity (Fig. 4.1(a)).</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 (i)
 
@@ -208,7 +214,7 @@ Fig. 4.1(b) The law of inertia was inferred by Galileo
 from observations of motion of a ball on a
 double inclined plane.
 
-Reprint 2026-27
+
 
 
 ---
@@ -310,7 +316,7 @@ according to the first law, must be zero. If it is
 in motion, it must continue to move with a
 uniform velocity.
 
-Reprint 2026-27
+
 
 
 ---
@@ -398,9 +404,14 @@ forward due to inertia. We are thrown forward.
 The restoring muscular forces again come into
 play and bring the body to rest.
 
-er
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_2.png" alt="Fig. 4.2" onclick="openImageModal(this.src, 'Fig. 4.2: Fig. 4.2 (a) a book at rest on the table, and (b) a car moving with uniform velo...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.2</strong> Fig. 4.2 (a) a book at rest on the table, and (b) a car moving with uniform velocity. The net force is zero in each case.</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
-Fig. 4.2 (a) a book at rest on the table, and (b) a car
 moving with uniform velocity. The net force
 is zero in each case.
 
@@ -426,7 +437,7 @@ gravitational force on him and the small
 spaceship exerts negligible gravitational
 attraction on him, the net force acting on the
 
-Reprint 2026-27
+
 
 
 ---
@@ -483,7 +494,15 @@ act. One reason is that the cricketer allows a
 longer time for his hands to stop the ball. As
 you may have noticed, he draws in the hands
 backward in the act of catching the ball
-(Fig. 4.3). The novice, on the other hand,
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_3.png" alt="Fig. 4.3" onclick="openImageModal(this.src, 'Fig. 4.3: act. One reason is that the cricketer allows a longer time for his hands to stop...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.3</strong> act. One reason is that the cricketer allows a longer time for his hands to stop the ball. As you may have noticed, he draws in the hands backward in the act of catching the ball (Fig. 4.3). The novice, on the other hand, keeps his hands fixed and tries to catch the ball almost instantly. He needs to provide a much greater force to stop the ball instantly, and this hurts. The conclusion is clear: force not only depends on the change in momentum, but also on how fast the change is brought about. The same change in momentum brought about in a shorter time needs a greater applied force. In short, the greater the rate of change of momentum, the greater is the force.</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 keeps his hands fixed and tries to catch the
 ball almost instantly. He needs to provide a
 much greater force to stop the ball instantly,
@@ -557,7 +576,7 @@ second law of motion.
 
 In the preceding observations, the vector
 
-Reprint 2026-27
+
 
 
 ---
@@ -574,7 +593,15 @@ But this is not always the case. Suppose a
 stone is rotated with uniform speed in a
 horizontal plane by means of a string, the
 magnitude of momentum is fixed, but its
-direction changes (Fig. 4.4). A force is needed
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_4.png" alt="Fig. 4.4" onclick="openImageModal(this.src, 'Fig. 4.4: character of momentum has not been evident. In the examples so far, momentum and...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.4</strong> character of momentum has not been evident. In the examples so far, momentum and change in momentum both have the same direction. But this is not always the case. Suppose a stone is rotated with uniform speed in a horizontal plane by means of a string, the magnitude of momentum is fixed, but its direction changes (Fig. 4.4). A force is needed to cause this change in momentum vector. This force is provided by our hand through the string. Experience suggests that our hand needs to exert a greater force if the stone is rotated at greater speed or in a circle of smaller radius, or both. This corresponds to greater acceleration or equivalently a greater rate of change in momentum vector. This suggests that the greater the rate of change in momentum vector the greater is the force applied.</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 to cause this change in momentum vector.
 This force is provided by our hand through
 the string. Experience suggests that our hand
@@ -716,7 +743,7 @@ the velocity of the body, but makes some angle
 with it, it changes only the component of
 velocity along the direction of force. The
 
-Reprint 2026-27
+
 
 
 ---
@@ -728,7 +755,14 @@ component of velocity normal to the force
 remains unchanged. For example, in the
 motion of a projectile under the vertical
 gravitational force, the horizontal component
-of velocity remains unchanged (Fig. 4.5).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_5.png" alt="Fig. 4.5" onclick="openImageModal(this.src, 'Fig. 4.5: component of velocity normal to the force remains unchanged. For example, in the...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.5</strong> component of velocity normal to the force remains unchanged. For example, in the motion of a projectile under the vertical gravitational force, the horizontal component of velocity remains unchanged (Fig. 4.5).</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
 ### 3. The second law of motion given by Eq. (4.5) is
 applicable to a single point particle. The force
@@ -857,7 +891,7 @@ Impulse = Force time duration
 
 (4.7)
 
-Reprint 2026-27
+
 
 
 ---
@@ -994,7 +1028,7 @@ internal forces of the system (A + B). They add
 up to give a null force. Internal forces in a
 body or a system of particles thus cancel away
 
-Reprint 2026-27
+
 
 
 ---
@@ -1011,7 +1045,15 @@ body or a system of particles (See Chapter 6).
 Example 4.5 Two identical billiard balls
 strike a rigid wall with the same speed but
 at different angles, and get reflected without
-any change in speed, as shown in Fig. 4.6.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_6.png" alt="Fig. 4.6" onclick="openImageModal(this.src, 'Fig. 4.6: Example 4.5 Two identical billiard balls strike a rigid wall with the same speed...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.6</strong> Example 4.5 Two identical billiard balls strike a rigid wall with the same speed but at different angles, and get reflected without any change in speed, as shown in Fig. 4.6. What is (i) the direction of the force on the wall due to each ball? (ii) the ratio of the magnitudes of impulses imparted to the balls by the wall ?</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 What is (i) the direction of the force on the
 wall due to each ball? (ii) the ratio of the
 magnitudes of impulses imparted to the
@@ -1158,7 +1200,7 @@ of momentum :
 
 y
 
-Reprint 2026-27
+
 
 
 ---
@@ -1232,35 +1274,13 @@ concurrent forces F1, F2 and F requires that
 
 the vector sum of the three forces is zero.
 
-F + F + F = 0
-
-1
-
-2
-
-3
-
-(4.11)
-
-F3
-
-PHYSICS
-
-F₁
-
-F2
-
-F3
-
-F
-
-F2
-
-F
-
-F2
-
-Fig. 4.7 Equilibrium under concurrent forces.
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_7.png" alt="Fig. 4.7" onclick="openImageModal(this.src, 'Fig. 4.7: Fig. 4.7 Equilibrium under concurrent forces....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.7</strong> Fig. 4.7 Equilibrium under concurrent forces.</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
 1
 
@@ -1310,9 +1330,14 @@ ly
 where F₁x, F₁y and F₁₂ are the components of F₁
 along x, y and z directions respectively.
 
->
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_8.png" alt="Fig. 4.8" onclick="openImageModal(this.src, 'Fig. 4.8: Example 4.6 See Fig. 4.8. A mass of 6 kg is suspended by a rope of length 2 m fr...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.8</strong> Example 4.6 See Fig. 4.8. A mass of 6 kg is suspended by a rope of length 2 m from the ceiling. A force of 50 N in the horizontal direction is applied at the mid- point P of the rope, as shown. What is the angle the rope makes with the vertical in equilibrium ? (Take g = 10 m s-2). Neglect the mass of the rope.</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
-Example 4.6 See Fig. 4.8. A mass of 6 6 kg
 is suspended by a rope of length 2 m
 from the ceiling. A force of 50 N in the
 horizontal direction is applied at the mid-
@@ -1365,7 +1390,7 @@ T2
 * Equilibrium of a body requires not only translational equilibrium (zero net external force) but also rotational
 equilibrium (zero net external torque), as we shall see in Chapter 6.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1439,7 +1464,14 @@ fluids. For example, for a solid immersed in a
 fluid, there is an upward bouyant force equal to
 the weight of the fluid displaced. The viscous
 force, air resistance, etc are also examples of
-contact forces (Fig. 4.9).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_9.png" alt="Fig. 4.9" onclick="openImageModal(this.src, 'Fig. 4.9: other types of supports), there are mutual contact forces (for each pair of bodi...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.9</strong> other types of supports), there are mutual contact forces (for each pair of bodies) satisfying the third law. The component of contact force normal to the surfaces in contact is called normal reaction. The component parallel to the surfaces in contact is called friction. Contact forces arise also when solids are in contact with fluids. For example, for a solid immersed in a fluid, there is an upward bouyant force equal to the weight of the fluid displaced. The viscous force, air resistance, etc are also examples of contact forces (Fig. 4.9).</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
 
 Two other common forces are tension in a
 string and the force due to spring. When a spring
@@ -1483,7 +1515,7 @@ Fig. 4.9 Some examples of contact forces in mechanics.
 We are not considering, for simplicity, charged and magnetic bodies. For these, besides gravity, there are
 electrical and magnetic non-contact forces.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1525,7 +1557,15 @@ horizontal direction and opposes the applied
 force F, resulting in zero net force on the body.
 This force f parallel to the surface of the body in
 contact with the table is known as frictional
-force, or simply friction (Fig. 4.10(a)). The
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_10.png" alt="Fig. 4.10" onclick="openImageModal(this.src, 'Fig. 4.10: Let us return to the example of a body of mass m at rest on a horizontal table. ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.10</strong> Let us return to the example of a body of mass m at rest on a horizontal table. The force of gravity (mg) is cancelled by the normal reaction force (N) of the table. Now suppose a force F is applied horizontally to the body. We know from experience that a small applied force may not be enough to move the body. But if the applied force F were the only external force on the body, it must move with acceleration F/m, however small. Clearly, the body remains at rest because some other force comes into play in the horizontal direction and opposes the applied force F, resulting in zero net force on the body. This force fs parallel to the surface of the body in contact with the table is known as frictional force, or simply friction (Fig. 4.10(a)). The subscript stands for static friction to distinguish it from kinetic friction fk that we consider later (Fig. 4.10(b)). Note that static friction does not</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
 subscript stands for static friction to distinguish
 it from kinetic friction fe that we consider later
 (Fig. 4.10(b)). Note that static friction does not
@@ -1625,7 +1665,7 @@ the status of fundamental laws like those for
 gravitational, electric and magnetic forces. They
 are empirical relations that are only
 
-Reprint 2026-27
+
 
 
 ---
@@ -1669,19 +1709,15 @@ between the box and the train's floor is
 0.15.
 
 Answer Since the acceleration of the box is due
-to the static friction,
 
-ma = f≤ μN = μ¸mg
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_11.png" alt="Fig. 4.11" onclick="openImageModal(this.src, 'Fig. 4.11: Example 4.8 See Fig. 4.11. A mass of 4 kg rests on a horizontal plane. The plane...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.11</strong> Example 4.8 See Fig. 4.11. A mass of 4 kg rests on a horizontal plane. The plane is gradually inclined until at an angle θ = 15° with the horizontal, the mass just begins to slide. What is the coefficient of static friction between the block and the surface ?</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
-i.e. a ≤ μg
-
-: ax = µg = 0.15 x 10 m s-2
-
-= 1.5 ms-2
-
-4kg
-
-Example 4.8 See Fig. 4.11. A mass of 4 kg
 rests on a horizontal plane. The plane is
 gradually inclined until at an angle 0 = 15°
 with the horizontal, the mass just begins to
@@ -1737,7 +1773,15 @@ max
 
 Example 4.9 What is the acceleration of
 the block and trolley system shown in a
-Fig. 4.12(a), if the coefficient of kinetic friction
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_12.png" alt="Fig. 4.12" onclick="openImageModal(this.src, 'Fig. 4.12: Example 4.9 What is the acceleration of the block and trolley system shown in a ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.12</strong> Example 4.9 What is the acceleration of the block and trolley system shown in a Fig. 4.12(a), if the coefficient of kinetic friction between the trolley and the surface is 0.04? What is the tension in the string? (Take g = 10 m s-2). Neglect the mass of the string.</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 between the trolley and the surface is 0.04?
 What is the tension in the string? (Take g
 10 0 
@@ -1799,7 +1843,7 @@ A
 
 Fig. 4.12
 
-Reprint 2026-27
+
 
 
 ---
@@ -1889,7 +1933,15 @@ motion and thereby dissipates power in the form
 of heat, etc. Lubricants are a way of reducing
 kinetic friction in a machine. Another way is to
 use ball bearings between two moving parts of a
-machine [Fig. 4.13(a)]. Since the rolling friction
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_13.png" alt="Fig. 4.13" onclick="openImageModal(this.src, 'Fig. 4.13: We often regard friction as something undesirable. In many situations, like in a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.13</strong> We often regard friction as something undesirable. In many situations, like in a machine with different moving parts, friction does have a negative role. It opposes relative motion and thereby dissipates power in the form of heat, etc. Lubricants are a way of reducing kinetic friction in a machine. Another way is to use ball bearings between two moving parts of a machine [Fig. 4.13(a)]. Since the rolling friction between ball bearings and the surfaces in contact is very small, power dissipation is reduced. A thin cushion of air maintained between solid surfaces in relative motion is another effective way of reducing friction (Fig. 4.13(a)).</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
+
 between ball bearings and the surfaces in
 contact is very small, power dissipation is
 reduced. A thin cushion of air maintained
@@ -1926,7 +1978,7 @@ Air cushion
 Fig. 4.13 Some ways of reducing friction. (a) Ball bearings placed between moving parts of a machine.
 (b) Compressed cushion of air between surfaces in relative motion.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1990,43 +2042,19 @@ Umax = √us Rg
 
 R
 
-Speed = v
-
-α=υ²/R ---
-
-N
-
-α=υ²/R
-
-f
-
-θ
-
-mg
-
-(a)
-
-N
-
-N cos 0
-
-mg
-
-fsin 0
-
-N
-
-fcos 0
-
-θ
-
-Fig. 4.14 Circular motion of a car on (a) a level road, (b) a banked road.
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_14.png" alt="Fig. 4.14" onclick="openImageModal(this.src, 'Fig. 4.14: Fig. 4.14 Circular motion of a car on (a) a level road, (b) a banked road....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.14</strong> Fig. 4.14 Circular motion of a car on (a) a level road, (b) a banked road.</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
 fsin 0
 
 mg
 
-not to be republished
+
 
 gravitational force on the planet due to the sun.
 For a car taking a circular turn on a horizontal
@@ -2103,7 +2131,7 @@ Ncos e = mg + µN sin θ
 
 (4.20a)
 
-Reprint 2026-27
+
 
 
 ---
@@ -2263,7 +2291,7 @@ the system and the remaining part of the
 assembly (plus any other agencies of forces) as
 the environment. We have followed the same
 
-Reprint 2026-27
+
 
 
 ---
@@ -2309,9 +2337,15 @@ diagram of B, the force on B due to A should
 be shown as -F.
 
 The following example illustrates the above
-procedure :
 
-Example 4.12 See Fig. 4.15. A wooden
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_15.png" alt="Fig. 4.15" onclick="openImageModal(this.src, 'Fig. 4.15: Example 4.12 See Fig. 4.15. A wooden block of mass 2 kg rests on a soft horizont...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.15</strong> Example 4.12 See Fig. 4.15. A wooden block of mass 2 kg rests on a soft horizontal floor. When an iron cylinder of mass 25 kg is placed on top of the block, the floor yields steadily and the block and the cylinder together go down with an acceleration of 0.1 m s–2. What is the action of the block on the floor (a) before and (b) after the floor yields ? Take g = 10 m s–2. Identify the action-reaction pairs in the problem.</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 block of mass 2 kg rests on a soft horizontal
 floor. When an iron cylinder of mass 25 kg
 is placed on top of the block, the floor yields
@@ -2391,7 +2425,7 @@ system by the earth (say, action); the
 force of gravity on the earth by the
 system (reaction), equal to 270 N,
 
-Reprint 2026-27
+
 
 
 ---
@@ -2485,7 +2519,7 @@ the action of the impulsive force.
 
 To every action, there is always an equal and opposite reaction
 
-Reprint 2026-27
+
 
 
 ---
@@ -2613,7 +2647,7 @@ air are neglected. The stone then has only the vertical force of gravity.
 material agencies external to the body. a is the effect of the force. ma should
 not be regarded as yet another force, besides F.
 
-Reprint 2026-27
+
 
 67
 
@@ -2715,7 +2749,7 @@ being at rest relative to the train.
 
 Neglect air resistance throughout.
 
-Reprint 2026-27
+
 
 PHYSICS
 
@@ -2732,9 +2766,7 @@ other to a small peg on a smooth horizontal table. If the particle moves in a
 circle with speed u the net force on the particle (directed towards the centre)
 is:
 
-### 4.6
-
-mv2
+### 4.6 mv2
 
 (i) T, (ii) T--
 
@@ -2792,7 +2824,16 @@ What would be the readings on the scale in each case?
 (d) What would be the reading if the lift mechanism failed and it hurtled
 down freely under gravity?
 
-### 4.14 Figure 4.16 shows the position-time graph of a particle of mass 4 kg. What is
+### 4.14
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_16.png" alt="Fig. 4.16" onclick="openImageModal(this.src, 'Fig. 4.16: down freely under gravity ? 4.14 Figure 4.16 shows the position-time graph of a ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.16</strong> down freely under gravity ? 4.14 Figure 4.16 shows the position-time graph of a particle of mass 4 kg. What is the (a) force on the particle for t < 0, t > 4 s, 0 < t < 4 s? (b) impulse at t = 0 and t = 4 s ? (Consider one-dimensional motion only).</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
+
 the (a) force on the particle for t < 0, t > 4 s, 0 < t < 4 s? (b) impulse at t = 0 and
 t = 4 s? (Consider one-dimensional motion only).
 
@@ -2817,7 +2858,7 @@ surface are tied to the ends of a light string. A horizontal force F = 600 N is
 applied to (i) A, (ii) B along the direction of string. What is the tension in the
 string in each case?
 
-Reprint 2026-27
+
 
 69
 
@@ -2874,7 +2915,7 @@ suddenly,
 
 (d) a cricketer moves his hands backwards while holding a catch.
 
-not to be republished
 
-Reprint 2026-27
+
+
 

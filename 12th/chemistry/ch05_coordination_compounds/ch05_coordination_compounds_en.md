@@ -7,7 +7,7 @@
 
 Objectives
 
-12085CH09
+
 
 After studying this Unit, you will be
 able to
@@ -105,7 +105,7 @@ found that some of the chloride ions could be precipitated as AgCl on
 adding excess silver nitrate solution in cold but some remained in
 solution.
 
-Reprint 2026-27
+
 
 
 ---
@@ -220,7 +220,7 @@ square planar, respectively.
 
 119 Coordination Compounds
 
-Reprint 2026-27
+
 
 
 ---
@@ -303,7 +303,7 @@ on the linkage of atoms and the coordination theory.
 
 Chemistry 120
 
-Reprint 2026-27
+
 
 
 ---
@@ -417,7 +417,7 @@ C2O42 and en (ethane-1,2-diamine) are didentate ligands.
 
 Coordination Compounds
 
-Reprint 2026-27
+
 
 
 ---
@@ -442,7 +442,16 @@ attached to the central atom/ion defines a coordination
 polyhedron about the central atom. The most common
 coordination polyhedra are octahedral, square planar and
 tetrahedral. For example, [Co(NH3)6]³+ is octahedral, [Ni(CO)4] is
-tetrahedral and [PtCl4]² is square planar. Fig. 5.1 shows the
+tetrahedral and [PtCl4]² is square planar.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch05_coordination_compounds_fig_5_1.png" alt="Fig. 5.1" onclick="openImageModal(this.src, 'Fig. 5.1: 2– is square planar. Fig. 5.1 shows the shapes of different coordination polyhed...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.1</strong> 2– is square planar. Fig. 5.1 shows the shapes of different coordination polyhedra.</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 shapes of different coordination polyhedra.
 
 L
@@ -547,7 +556,7 @@ Chemistry (IUPAC).
 
 Chemistry 122
 
-Reprint 2026-27
+
 
 
 ---
@@ -641,7 +650,7 @@ names are used in the complex anions, e.g., ferrate for Fe.
 
 123 Coordination Compounds
 
-Reprint 2026-27
+
 
 
 ---
@@ -737,7 +746,7 @@ Solution (a) diamminechloridonitrito-N-platinum(II)
 
 Chemistry 124
 
-Reprint 2026-27
+
 
 
 ---
@@ -833,7 +842,14 @@ numbers 4 and 6. In a square planar complex of
 formula [MX2L2] (X and L are unidentate), the
 two ligands X may be arranged adjacent to each
 other in a cis isomer, or opposite to each other
-in a trans isomer as depicted in Fig. 5.2.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch05_coordination_compounds_fig_5_2.png" alt="Fig. 5.2" onclick="openImageModal(this.src, 'Fig. 5.2: This type of isomerism arises in heteroleptic complexes due to different possibl...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.2</strong> This type of isomerism arises in heteroleptic complexes due to different possible geometric arrangements of the ligands. Important examples of this behaviour are found with coordination numbers 4 and 6. In a square planar complex of formula [MX2L2] (X and L are unidentate), the two ligands X may be arranged adjacent to each other in a cis isomer, or opposite to each other in a trans isomer as depicted in Fig. 5.2.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 not to be
 
@@ -845,37 +861,14 @@ of Pt [NH3)2Cl₂]
 
 Cl
 
-Cl
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch05_coordination_compounds_fig_5_3.png" alt="Fig. 5.3" onclick="openImageModal(this.src, 'Fig. 5.3: Other square planar complex of the type MABXL (where A, B, X, L are unidentates)...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.3</strong> Other square planar complex of the type MABXL (where A, B, X, L are unidentates) shows three isomers-two cis and one trans. You may attempt to draw these structures. Such isomerism is not possible for a tetrahedral geometry but similar behaviour is possible in octahedral complexes of formula [MX2L4] in which the two ligands X may be oriented cis or trans to each other (Fig. 5.3).</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
-NH3
-
-Cl
-
-NH3
-
-NH3
-
-Co
-
-Co
-
-NH3
-
-NH3
-
-NH3
-
-NH3
-
-NH3
-
-Cl
-
-cis
-
-trans
-
-Fig. 5.3: Geometrical isomers (cis and trans)
 of [Co(NH3)4Cl]+
 
 +
@@ -890,7 +883,7 @@ octahedral complexes of formula [MX2L4] in
 which the two ligands X may be oriented cis or
 trans to each other (Fig. 5.3).
 
-Reprint 2026-27
+
 
 125 Coordination Compounds
 
@@ -898,43 +891,21 @@ Reprint 2026-27
 ---
 ## 📄 Page 9
 
-Cl
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch05_coordination_compounds_fig_5_4.png" alt="Fig. 5.4" onclick="openImageModal(this.src, 'Fig. 5.4: This type of isomerism also arises when didentate ligands L – L [e.g., NH2 CH2 C...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.4</strong> This type of isomerism also arises when didentate ligands L – L [e.g., NH2 CH2 CH2 NH2 (en)] are present in complexes of formula [MX2(L – L)2] (Fig. 5.4).</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
-Cl
-
-en
-
-Co
-
-Cl
-
-en
-
-Co
-
-en
-
-**
-
-en
-
-Cl
-
-Fig. 5.4: Geometrical isomers (cis and trans)
-
-of [CoCl2(en)2]
-
-NH3
-
-NH3
-
-ON
-
-HN NH3
-
-NO2
-
-Fig. 5.5
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch05_coordination_compounds_fig_5_5.png" alt="Fig. 5.5" onclick="openImageModal(this.src, 'Fig. 5.5: Another type of geometrical isomerism occurs in octahedral coordination entities...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.5</strong> Another type of geometrical isomerism occurs in octahedral coordination entities of the type [Ma3b3] like [Co(NH3)3(NO2)3]. If three donor atoms of the same ligands occupy adjacent positions at the corners of an octahedral face, we have the facial (fac) isomer. When the positions are around the meridian of the octahedron, we get the meridional (mer) isomer (Fig. 5.5).</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 Co
 
@@ -1021,7 +992,14 @@ plane of polarised light in a
 polarimeter (d rotates to the right, I to
 the left). Optical isomerism is common
 in octahedral complexes involving
-didentate ligands (Fig. 5.6).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch05_coordination_compounds_fig_5_6.png" alt="Fig. 5.6" onclick="openImageModal(this.src, 'Fig. 5.6: Optical isomers are mirror images that cannot be superimposed on one another. Th...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.6</strong> Optical isomers are mirror images that cannot be superimposed on one another. These are called as enantiomers. The molecules or ions that cannot be superimposed are called chiral. The two forms are called dextro (d) and laevo (l) depending upon the direction they rotate the plane of polarised light in a polarimeter (d rotates to the right, l to the left). Optical isomerism is common in octahedral complexes involving didentate ligands (Fig. 5.6).</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 en
 
@@ -1035,31 +1013,13 @@ laevo
 
 Fig.5.6: Optical isomers (d and 1) of [Co(en)3]
 
-3+
-
-2+
-
-Cl
-
-Cl
-
-Cl
-
-Cl
-
-en
-
-Pt
-
-Pt
-
-en
-
-In a coordination
-2+ entity of the type
-[PtCl2(en)2]2+, only the
-cis-isomer shows optical
-activity (Fig. 5.7).
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch05_coordination_compounds_fig_5_7.png" alt="Fig. 5.7" onclick="openImageModal(this.src, 'Fig. 5.7: 2+, only the cis-isomer shows optical activity (Fig. 5.7)....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.7</strong> 2+, only the cis-isomer shows optical activity (Fig. 5.7).</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 Fig.5.7
 
@@ -1079,7 +1039,7 @@ laevo
 
 Chemistry 126
 
-Reprint 2026-27
+
 
 
 ---
@@ -1210,7 +1170,7 @@ is itself a potential ligand and can displace a ligand which can then
 become the counter ion. An example is provided by the ionisation
 isomers [Co(NH3)5(SO4)]Br and [Co(NH3)5Br]SO4.
 
-Reprint 2026-27
+
 
 127 Coordination Compounds
 
@@ -1325,7 +1285,7 @@ Octahedral
 
 Chemistry 128
 
-Reprint 2026-27
+
 
 
 ---
@@ -1487,7 +1447,7 @@ paramagnetic since it contains two unpaired electrons. Similarly,
 [Ni(CO)4] has tetrahedral geometry but is diamagnetic since nickel is in
 zero oxidation state and contains no unpaired electron.
 
-Reprint 2026-27
+
 
 129
 
@@ -1594,7 +1554,7 @@ not
 
 Chemistry 130
 
-Reprint 2026-27
+
 
 
 ---
@@ -1672,7 +1632,7 @@ set and two orbitals of higher energy, e set. This splitting of the
 
 Coordination Compounds
 
-Reprint 2026-27
+
 
 
 ---
@@ -1722,26 +1682,14 @@ Barycentre
 
 2/54
 
-ddd
-axy xz Gyz
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch05_coordination_compounds_fig_5_8.png" alt="Fig. 5.8" onclick="openImageModal(this.src, 'Fig. 5.8: degenerate levels due to the presence of ligands in a definite geometry is terme...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.8</strong> degenerate levels due to the presence of ligands in a definite geometry is termed as crystal field splitting and the energy separation is denoted by Do (the subscript o is for octahedral) (Fig.5.8). Thus, the energy of the two eg orbitals will increase by (3/5) Do and that of the three t2g will decrease by (2/5)Do.</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
-tag
-
-به بی به
-
-ddd dd Average energy
-of the d orbitals in
-spherical crystal field
-
-Free metal ion
-
-degenerate levels due to the
-presence of ligands in a
-definite geometry is termed as
-crystal field splitting and
-the energy separation is
-denoted by ∆。(the subscript
-o is for octahedral) (Fig.5.8).
 Thus, the energy of the two eg
 orbitals will increase by (3/5)
 A and that of the three t2g will
@@ -1808,7 +1756,7 @@ stable for strong field as compared to weak field cases.
 
 Chemistry 132
 
-Reprint 2026-27
+
 
 
 ---
@@ -1819,34 +1767,14 @@ Energy
 (b) Crystal field splitting in tetrahedral coordination entities
 
 d orbitals
-free ion
 
-Average energy of the
-d orbitals in spherical
-crystal field
-
-dxy dyze dxz
-
-25
-
-3-5
-
-Δε
-
-At
-
-dx2-y2 d2
-
-He
-
-t2
-
-Splitting of d orbitals
-
-in tetrahedral crystal
-field
-
-Fig.5.9: d orbital splitting in a tetrahedral
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch05_coordination_compounds_fig_5_9.png" alt="Fig. 5.9" onclick="openImageModal(this.src, 'Fig. 5.9: Fig.5.9: d orbital splitting in a tetrahedral...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.9</strong> Fig.5.9: d orbital splitting in a tetrahedral</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
 crystal field.
 
@@ -1951,7 +1879,16 @@ in the t₂g level in the ground state of the complex. The next higher state
 available for the electron is the empty e』 level. If light corresponding to
 the energy of blue-green region is absorbed by the complex, it would
 excite the electron from t2g level to the eg level (t2g eg → t2geg).
-Consequently, the complex appears violet in colour (Fig. 5.10). The
+Consequently, the complex appears violet in colour (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch05_coordination_compounds_fig_5_10.png" alt="Fig. 5.10" onclick="openImageModal(this.src, 'Fig. 5.10: 1eg 0 ® t2g 0eg 1). Consequently, the complex appears violet in colour (Fig. 5.1...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.10</strong> 1eg 0 ® t2g 0eg 1). Consequently, the complex appears violet in colour (Fig. 5.10). The crystal field theory attributes the colour of the coordination compounds to d-d transition of the electron.</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
+
 crystal field theory attributes the colour of the coordination compounds
 to d-d transition of the electron.
 
@@ -1959,7 +1896,7 @@ to d-d transition of the electron.
 
 0
 
-Reprint 2026-27
+
 
 133
 
@@ -2007,7 +1944,13 @@ didentate ligand, ethane-1,2-diamine(en) is progressively added in the
 molar ratios en:Ni, 1:1, 2:1, 3:1, the following series of reactions and
 their associated colour changes occur:
 
-Fig.5.11
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch05_coordination_compounds_fig_5_11.png" alt="Fig. 5.11" onclick="openImageModal(this.src, 'Fig. 5.11: 2+(aq) + 2H2O violet This sequence is shown in Fig. 5.11....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.11</strong> 2+(aq) + 2H2O violet This sequence is shown in Fig. 5.11.</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
 
 Aqueous solutions of
 
@@ -2066,7 +2009,16 @@ mot to be
 Colour of Some Gem Stones
 
 The colours produced by electronic transitions within the d orbitals of a
-transition metal ion occur frequently in everyday life. Ruby [Fig.5.12(a)] is
+transition metal ion occur frequently in everyday life. Ruby [
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch05_coordination_compounds_fig_5_12.png" alt="Fig. 5.12" onclick="openImageModal(this.src, 'Fig. 5.12: Colour of Some Gem Stones The colours produced by electronic transitions within ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.12</strong> Colour of Some Gem Stones The colours produced by electronic transitions within the d orbitals of a transition metal ion occur frequently in everyday life. Ruby [Fig.5.12(a)] is aluminium oxide (Al2O3) containing about 0.5-1% Cr</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 aluminium oxide (Al2O3) containing about 0.5-1% Cr³+ ions (d³), which are
 randomly distributed in positions normally occupied by Al³⁺. We may view
 these chromium(III) species as octahedral chromium(III) complexes incorporated
@@ -2074,7 +2026,7 @@ into the alumina lattice; d–d transitions at these centres give rise to the co
 
 Chemistry 134
 
-Reprint 2026-27
+
 
 
 ---
@@ -2149,13 +2101,21 @@ hexacarbonyl chromium(0) is octahedral.
 
 Decacarbonyldimanganese(0) is made up of two square pyramidal
 Mn(CO)5 units joined by a Mn – Mn bond. Octacarbonyldicobalt(0)
-has a Co Co bond bridged by two CO groups (Fig.5.13).
+has a Co Co bond bridged by two CO groups (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch05_coordination_compounds_fig_5_13.png" alt="Fig. 5.13" onclick="openImageModal(this.src, 'Fig. 5.13: Decacarbonyldimanganese(0) is made up of two square pyramidal Mn(CO)5 units join...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.13</strong> Decacarbonyldimanganese(0) is made up of two square pyramidal Mn(CO)5 units joined by a Mn – Mn bond. Octacarbonyldicobalt(0) has a Co – Co bond bridged by two CO groups (Fig.5.13).</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
 
 135
 
 Coordination Compounds
 
-Reprint 2026-27
+
 
 
 ---
@@ -2246,29 +2206,14 @@ homoleptic metal
 
 carbonyls.
 
-π*
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch05_coordination_compounds_fig_5_14.png" alt="Fig. 5.14" onclick="openImageModal(this.src, 'Fig. 5.14: orbital of carbon monoxide. The metal to ligand bonding creates a synergic effec...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.14</strong> orbital of carbon monoxide. The metal to ligand bonding creates a synergic effect which strengthens the bond between CO and the metal (Fig.5.14). Fig. 5.14: Example of synergic bonding</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
 
-π
-
-π
-
-σ
-
-←
-
-M
-
-↓
-
-π
-
-Cr(CO), Octahedral
-
-NC
-
-Synergic bonding
-
-Fig. 5.14: Example of synergic bonding
 interactions in a carbonyl
 
 complex.
@@ -2334,7 +2279,7 @@ and subsequent decomposition of their coordination compounds.
 
 Chemistry 136
 
-Reprint 2026-27
+
 
 
 ---
@@ -2408,7 +2353,7 @@ and has nothing to say about the optical properties of these compounds.
 The Crystal Field Theory (CFT) to coordination compounds is based on
 the effect of different crystal fields (provided by the ligands taken as point charges),
 
-Reprint 2026-27
+
 
 137 Coordination Compounds
 
@@ -2510,7 +2455,7 @@ Chemistry 138
 
 (ii) [PtCl2(en)2]2+
 
-Reprint 2026-27
+
 
 (iii) [Cr(NH3)2Cl2(en)]+
 
@@ -2613,7 +2558,7 @@ compounds in:
 
 (iii) 3
 
-Reprint 2026-27
+
 
 (iv) 2
 
@@ -2718,5 +2663,5 @@ there is no unpaired electron.
 
 Chemistry 140
 
-Reprint 2026-27
+
 

@@ -38,9 +38,9 @@ NCERT
 यह संभावना होती है कि उनमें आवेश वाहकों की संख्या तथा उनके प्रवाह की दिशा को नियंत्रित
 किया जा सकता है। प्रकाश, ऊष्मा तथा अल्प अनुप्रयुक्त वोल्टता जैसे उत्तेजक किसी अर्धचालक
 
-Reprint 2025-26
 
-12092CH14
+
+
 
 
 ---
@@ -136,7 +136,7 @@ not
 
 कार्बनिक बहुलक (Organic polymers)- पॉलीपाइरोल, पॉलीऐनिलीन, पॉलीथायोफ़ीन आदि।
 
-Reprint 2025-26
+
 
 
 ---
@@ -195,10 +195,18 @@ shed
 करता है।
 
 Si तथा Ge के क्रिस्टल जालकों में परमाणुओं के बीच की दूरियों पर, इन 8N स्तरों का ऊर्जा
-बैंड दो भागों में टूट जाता है, जिनके बीच ऊर्जा अंतराल E (चित्र 14.1) का पृथकन होता है।
+बैंड दो भागों में टूट जाता है, जिनके बीच ऊर्जा अंतराल E (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_1_hi.png" alt="चित्र 14.1" onclick="openImageModal(this.src, 'चित्र 14.1: Si rFkk Ge osQ fØLVy tkydksa esa ijek.kqvksa osQ chp dh nwfj;ksa ij] bu 8N Lrjks...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.1</strong> Si rFkk Ge osQ fØLVy tkydksa esa ijek.kqvksa osQ chp dh nwfj;ksa ij] bu 8N Lrjksa dk ÅtkZ cSaM nks Hkkxksa esa VwV tkrk gS] ftuosQ chp ÅtkZ varjky Eg (fp=k 14.1) dk i`Fkdu gksrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 g
-Reprint 2025-26
+
 
 325
 
@@ -248,7 +256,16 @@ Ec के ऊपर तथा E के नीचे इसमें एक-द�
 के बीच के अंतराल को ऊर्जा बैंड अंतराल (अथवा
 ऊर्जा अंतराल, E, ) कहते हैं। यह अंतराल पदार्थ की
 प्रकृति पर निर्भर करता है। यह अधिक, कम अथवा
-शून्य हो सकता है। इन विभिन्न स्थितियों को चित्र 14.2
+शून्य हो सकता है। इन विभिन्न स्थितियों को
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_2_hi.png" alt="चित्र 14.2" onclick="openImageModal(this.src, 'चित्र 14.2: la;kstdrk cSaM osQ &#39;kh&quot;kZ rFkk pkyu cSaM dh ryh osQ chp osQ varjky dks ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.2</strong> la;kstdrk cSaM osQ 'kh"kZ rFkk pkyu cSaM dh ryh osQ chp osQ varjky dks ÅtkZ cSaM varjky (vFkok ÅtkZ varjky] Eg ) dgrs gSaA ;g varjky inkFkZ dh izo`Qfr ij fuHkZj djrk gSA ;g vf/d] de vFkok 'kwU; gks ldrk gSA bu fofHkUu fLFkfr;ksa dks fp=k 14.2 esa n'kkZ;k x;k gS rFkk uhps budh foospuk dh xbZ gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 में दर्शाया गया है तथा नीचे इनकी विवेचना की गई है।
 प्रकरण I : यह चित्र 14.2(a) में दर्शायी गई
 स्थिति के संदर्भ में है। यह एक धातु की स्थिति है जिसमें चालन बैंड आंशिक रूप से भरा है तथा
@@ -316,7 +333,7 @@ love 16 Hous
 
 (b) विद्युतरोधी तथा (c) अर्धचालकों के ऊर्जा बैंडों के बीच अंतर।
 
-Reprint 2025-26
+
 
 (c)
 
@@ -352,7 +369,33 @@ g
 
 shed
 
-हम Ge और Si का सबसे साधारण उदाहरण लेंगे जिनकी जालक (Lattice) रचना चित्र 14.3
+हम Ge और Si का सबसे साधारण उदाहरण लेंगे जिनकी जालक (Lattice) रचना
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_3_hi.png" alt="चित्र 14.3" onclick="openImageModal(this.src, 'चित्र 14.3: ge Ge vkSj Si dk lcls lkèkkj.k mnkgj.k ysaxs ftudh tkyd (Lattice) jpuk fp=k 14.3...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.3</strong> ge Ge vkSj Si dk lcls lkèkkj.k mnkgj.k ysaxs ftudh tkyd (Lattice) jpuk fp=k 14.3 esa fn[kkbZ xbZ gSA bu jpukvksa dks ghjs tSlh jpuk dgrs gSaA izR;sd ijek.kq pkj vU; fudVre ijek.kqvksa }kjk f?kjk gksrk gSA ge tkurs gSa fd Si vkSj Ge esa pkj la;kstdrk bysDVªkWu gksrs gSaA bldh fØLVyh; jpuk esa izR;sd Si ;k Ge ijek.kq vius pkj la;kstdrk bysDVªkWuksa esa ls ,d&,d bysDVªkWu dks vius pkj fudVre ijek.kqvksa osQ lkFk lgHkkfxrk djkus dh izo`fÙk j[krk gS rFkk ,sls izR;sd fudVorhZ ijek.kq osQ ,d bysDVªkWu dk lgHkkx Hkh djrk gSA ;gh lgHkkxh bysDVªkWu ;qxy lgla;ksth caèk (Covalent bond) ;k la;kstdrk vkcaèk (Valence bond) dgykrs gSaA ,slk ekuk tk ldrk gS fd nksuksa lgHkkftr bysDVªkWu mu lacafèkr ijek.kqvksa osQ chp vkxs&ihNs xfr djrs jgrs gSa] ftlls os n`<+rk ls c¡èks gksrs gSaA fp=k 14.3 esa fn[kkbZ xbZ Si ;k Ge dh lajpuk dk 2-foeh; fu:i.k
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_4_hi.png" alt="चित्र 14.4" onclick="openImageModal(this.src, 'चित्र 14.4: fp=k 14.4 Si ;k Ge dh lajpuk dk nks&foeh; O;oLFkkRed...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.4</strong> fp=k 14.4 Si ;k Ge dh lajpuk dk nks&foeh; O;oLFkkRed</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_5_hi.png" alt="चित्र 14.5" onclick="openImageModal(this.src, 'चित्र 14.5: vèkZpkydksa esa ;g vf}rh; xq.k gksrk gS fd muesa bysDVªkWuksa osQ lkFk&lkFk gksy...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.5</strong> vèkZpkydksa esa ;g vf}rh; xq.k gksrk gS fd muesa bysDVªkWuksa osQ lkFk&lkFk gksy Hkh xfr djrs gSaA eku ysa fd LFkku 1 ij ,d gksy gS tSlk fp=k 14.5 (a) esa fn[kk;k x;k gSA gksyksa dh xfr dks fp=k</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
+<button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 में दिखाई गई है। इन रचनाओं को हीरे जैसी रचना कहते हैं। प्रत्येक परमाणु चार अन्य निकटतम
 परमाणुओं द्वारा घिरा होता है। हम जानते हैं कि Si और Ge में चार संयोजकता इलेक्ट्रॉन होते
 हैं। इसकी क्रिस्टलीय रचना में प्रत्येक Si या Ge परमाणु अपने चार संयोजकता इलेक्ट्रॉनों में
@@ -403,7 +446,7 @@ a
 मान लें कि स्थान 1 पर एक होल है जैसा चित्र 14.5 (a) में दिखाया गया है। होलों की गति को चित्र
 14.5 (b) में दिखाए ढंग से दृष्टित किया जा सकता है। नीचे वाले बाईं ओर के सहसंयोजी बंध
 
-Reprint 2025-26
+
 
 327
 
@@ -547,16 +590,20 @@ Si अथवा Ge
 इलेक्ट्रॉन प्रारंभिक होल स्थान 1 पर चला जाता है और अपने स्थान पर एक होल छोड़ता है।
 इस प्रकार स्थान 1 से स्थान 2 तक होल का आभासी स्थानांतरण इंगित होता है।
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 7
 
-अर्धचालक इलेक्ट्रॉनिकी – पदार्थ,
-युक्तियाँ तथा सरल परिपथ
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_6_hi.png" alt="चित्र 14.6" onclick="openImageModal(this.src, 'चित्र 14.6: fp=k 14.6(a) esa n&#39;kkZ, vuqlkj...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.6</strong> fp=k 14.6(a) esa n'kkZ, vuqlkj</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
-चित्र 14.6(a) में दर्शाए अनुसार
 T = 0 K पर कोई नैज अर्धचालक किसी
 विद्युतरोधी की भाँति व्यवहार करता है।
 यह तापीय ऊर्जा ही है जिसके कारण
@@ -628,7 +675,7 @@ sh
 (i) पंच संयोजक (संयोजकता 5); जैसे आर्सेनिक (As), ऐंटीमनी (Sb), फ़ॉस्फोरस (P), आदि।
 (ii) त्रि संयोजक (संयोजकता 3); जैसे इंडियम (In), बोरॉन (B), ऐलुमिनियम (Al), आदि।
 
-Reprint 2025-26
+
 
 उदाहरण 14.1
 
@@ -696,9 +743,14 @@ Reprint 2025-26
 
 एक पंचसंयोजक (संयोजकता 5) तत्व से अपमिश्रित
 
-CERT
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_7_hi.png" alt="चित्र 14.7" onclick="openImageModal(this.src, 'चित्र 14.7: eku yhft, fd ge Si ;k Ge (la;kstdrk 4) dks ,d iapla;kstd (la;kstdrk 5) rRo ls vi...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.7</strong> eku yhft, fd ge Si ;k Ge (la;kstdrk 4) dks ,d iapla;kstd (la;kstdrk 5) rRo ls vifefJr djsa tSlk fp=k 14.7 esa fn[kk;k x;k gSA tc +5 la;kstdrk okyk rRo Si osQ ,d ijek.kq dks izfrLFkkfir djosQ viuk LFkku xzg.k djrk gS rks blosQ bysDVªkWuksa esa ls pkj] fudVorhZ pkj flfydkWu ijek.kqvksa ls ca/ cukrs gSa] tcfd ik¡pok¡ bysDVªkWu tud ijek.kq ls nqcZy ca/ }kjk tqM+k jgrk gSA ,slk blfy, gS fd ik¡posa bysDVªkWu osQ fy, ca/ esa Hkkx ysus okys pkjksa bysDVªkWu ijek.kq osQ izHkkoh ØksM+ osQ Hkkx gSaA blosQ ifj.kkeLo:i bl bysDVªkWu dks eqDr djus osQ fy, vko';d vk;uu ÅtkZ cgqr de gksrh gS vkSj lkekU; d{k rki ij ;g vèkZpkyd osQ tkyd esa eqDr xfr djus osQ fy, eqDr gksrk gSA mnkgj.k osQ fy,] bl bysDVªkWu dks ijek.kq ls eqDr djus osQ fy, teZsfu;e esa ~ 0.01 eV rFkk flfydkWu esa yxHkx 0.05 eV ÅtkZ pkfg,A blosQ foijhr fdlh uSt v/Zpkyd esa d{k rki ij fdlh bysDVªkWu dks o£tr cSaM ls LFkkukarj.k osQ fy, (tesZfu;e esa yxHkx 0.72 eV rFkk flfydkWu esa yxHkx 1.1 eV) ÅtkZ pkfg,A bl izdkj iapla;kstd vifeJd fo|qr pkyu osQ fy, ,d vfrfjDr bysDVªkWu iznku djrk gS vkSj blhfy, bls nkrk v'kqf¼ (donor impurity) dgrs gSaA vifeJd ijek.kq }kjk fo|qr pkyu osQ fy, miyC/ djk, x, bysDVªkWu dh la[;k izcy :i ls vifeJ.k ij fuHkZj djrh gSA ;g vklikl osQ rki ij fuHkZj ugha djrhA blosQ foijhr Si ijek.kq }kjk mRiUu eqDr bysDVªkWuksa dh la[;k (leku la[;k esa gksyksa osQ lkFk) esa rki osQ lkFk cgqr de o`f¼ gksrh gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
-चित्र 14.7 (a) चतुर्थ संयोजी Si या Ge में पंचसंयोजी दाता परमाणु
 (As, Sb, P, आदि) के अपमिश्रण से बना n-अर्धचालक।
 (b) n-प्रकार के पदार्थ का साधारणतया प्रयुक्त व्यवस्थात्मक
 निरूपण जिसमें प्रतिस्थापी दाता के स्थिर क्रोड़ को केवल एक
@@ -740,7 +792,7 @@ not
 की संख्या में वृद्धि के कारण हो जाती है। इसके परिणामस्वरूप होलों की संख्या में और कमी
 हो जाती है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -773,7 +825,15 @@ ne >> nh
 
 p-प्रकार का अर्धचालक तब बनता है जब Si या Ge (चतुर्थसंयोजी) में ग्रुप-III की
 त्रिसंयोजी अशुद्धियाँ; जैसे- Al, B, In आदि अपमिश्रित की जाती हैं, जैसा
-चित्र 14.8 में दिखाया गया है। अपमिश्रक में Si या Ge की अपेक्षा एक बाहरी
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_8_hi.png" alt="चित्र 14.8" onclick="openImageModal(this.src, 'चित्र 14.8: p-izdkj dk v/Zpkyd rc curk gS tc Si ;k Ge (prqFkZla;ksth) esa xzqi-III dh f=kla;...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.8</strong> p-izdkj dk v/Zpkyd rc curk gS tc Si ;k Ge (prqFkZla;ksth) esa xzqi-III dh f=kla;ksth v'kqf¼;k¡_ tSls& Al, B, In vkfn vifefJr dh tkrh gSa] tSlk fp=k 14.8 esa fn[kk;k x;k gSA vifeJd esa Si ;k Ge dh vis{kk ,d ckgjh bysDVªkWu de gksrk gS vkSj blfy, ;g ijek.kq rhu vksj ls Si ijek.kqvksa ls caèk cuk ldrk gS] ysfdu pkSFkh vksj caèk cukus osQ fy, vko';d bysDVªkWu miyC/ u gksus osQ dkj.k pkSFkk ca/ cukus esa liQy ugha gks ikrkA vr% f=kla;kstd ijek.kq rFkk pkSFks fudVLFk ijek.kq osQ chp ca/ esa ,d fjfDr vFkok gksy gksrk gS ftls fp=k 14.8 esa n'kkZ;k x;k gSA D;ksafd tkyd esa iM+kslh Si ijek.kq gksy osQ LFkku ij ,d bysDVªkWu pkgrk gS] fudV osQ ijek.kq osQ cká d{k dk dksbZ bysDVªkWu bl fjfDr dks Hkjus osQ fy, owQnku Hkj ldrk gS ftlls mlosQ vius LFkku ij ,d gksy cu tkrk gSA ;gh gksy pkyu osQ fy, miyC/ jgrk gSA è;ku nsus ;ksX; ckr ;g gS fd] f=kla;ksth fotkrh; ijek.kq iM+kslh Si ijek.kq osQ lkFk bysDVªkWu dh lk>snkjh djosQ izHkkor% ½.kkRed vkosf'kr gks tkrk gS] rFkk blosQ lHkh la;ksth caèk iwjs gks tkrs gSaA blfy, lkèkkj.k Hkk"kk esa izk;% p –inkFkZ osQ vifeJd ijek.kq dks vius lac¼ gksy osQ lkFk ,d ½.kkRed vkos'k dk ØksM+ dgk tkrk gS] tSlk fp=k 14.8(b) esa fn[kk;k x;k gSA ;g Li"V gS fd ,d xzkgh ijek.kq (NA) ,d gksy nsrk gSA ;g gksy uSt tfur gksyksa osQ vfrfjDr gS tcfd pkyu bysDVªkWuksa dk Ïksr osQoy uSt tuu gh gSA bl izdkj] ,sls inkFkZ osQ fy,] gksy cgqla[;d okgd rFkk bysDVªkWu vYila[;d okgd gSaA blhfy, f=kla;kstd v'kqf¼ ls vifefJr uSt v/Zpkyd p-izdkj osQ v/Zpkyd dgykrs gSaA p-izdkj osQ v/Zpkydksa esa iqu%la;kstu izfØ;k] uSt tfur bysDVªkWuksa dh la[;k ni ?kV dj ne gks tkrh gSA vr% p-izdkj osQ vèkZpkydksa osQ fy,</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 इलेक्ट्रॉन कम होता है और इसलिए यह परमाणु तीन ओर से Si परमाणुओं से बंध
 बना सकता है, लेकिन चौथी ओर बंध बनाने के लिए आवश्यक इलेक्ट्रॉन उपलब्ध
 न होने के कारण चौथा बंध बनाने में सफल नहीं हो पाता। अतः त्रिसंयोजक परमाणु
@@ -848,7 +908,7 @@ Ge के जालक में त्रिसंयोजी ग्राह�
 ऊर्जा स्तर E, चालक बैंड की तली E से कुछ नीचे होता है तथा इस स्तर से कुछ इलेक्ट्रॉन बहुत
 कम ऊर्जा की आपूर्ति होने पर चालन बैंड में प्रवेश कर जाते हैं। कक्ष ताप पर अधिकांश दाता परमाणु
 
-Reprint 2025-26
+
 
 331
 
@@ -868,8 +928,16 @@ Ev
 
 A
 
-आयनीकृत हो जाते हैं, परंतु Si के अति अल्प (~1012) परमाणु ही आयनीकृत होते हैं। अतः चित्र
-14.9(a) में दर्शाए अनुसार चालन बैंड में अधिकांश इलेक्ट्रॉन दाता अशुद्धियों से ही आते हैं। इसी
+आयनीकृत हो जाते हैं, परंतु Si के अति अल्प (~1012) परमाणु ही आयनीकृत होते हैं। अतः
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_9_hi.png" alt="चित्र 14.9" onclick="openImageModal(this.src, 'चित्र 14.9: vk;uho`Qr gks tkrs gSa] ijarq Si osQ vfr vYi (~1012) ijek.kq gh vk;uho`Qr gksrs ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.9</strong> vk;uho`Qr gks tkrs gSa] ijarq Si osQ vfr vYi (~1012) ijek.kq gh vk;uho`Qr gksrs gSaA vr% fp=k 14.9(a) esa n'kkZ, vuqlkj pkyu cSaM esa vf/dka'k bysDVªkWu nkrk v'kqf¼;ksa ls gh vkrs gSaA blh izdkj p-izdkj osQ v/Zpkydksa esa xzkgh ÅtkZ Lrj EA la;ksth cSaM osQ 'kh"kZ ls oqQN Åij gksrk gS [fp=k 14.9(b) nsf[k, ]A cgqr de ÅtkZ vkiw£r gksus ij Hkh la;ksth cSaM ls dksbZ bysDVªkWu EA osQ Lrj ij owQnku Hkj ysrk gS vkSj mls xzkgh dks ½.kkRed vk;fur dj nsrk gSA ¹fodYi osQ :i esa ge bl izdkj Hkh dg ldrs gSa fd cgqr de ÅtkZ dh vkiw£r ls gksy ÅtkZ Lrj EA ls la;ksth cSaM esa xeu dj ldrk gSA ÅtkZ izkIr djus ij bysDVªkWu Åij dh vksj vkrs gSa tcfd gksy uhps dh vksj vkrs gSaAº lkekU; d{k rki ij vf/dka'k xzkgh ijek.kq vk;uho`Qr gks tkrs gSa rFkk la;ksth cSaM esa gksy cp tkrs gSaA bl izdkj d{k rki ij la;ksth cSaM esa gksyksa dk ?kuRo izeq[k :i esa vinzO;h v/Zpkydksa esa v'kqf¼ osQ dkj.k gksrk gSA rkih; lkE; esa v/Zpkydksa esa bysDVªkWuksa rFkk gksyksa dh lkanzrk bl izdkj O;Dr dh tkrh gS</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 प्रकार p-प्रकार के अर्धचालकों में ग्राही ऊर्जा स्तर E संयोजी बैंड के शीर्ष से कुछ ऊपर होता है
 [चित्र 14.9(b) देखिए]। बहुत कम ऊर्जा आपूर्ति होने पर भी संयोजी बैंड से कोई इलेक्ट्रॉन EA
 के स्तर पर कूदान भर लेता है और उसे ग्राही को ऋणात्मक आयनित कर देता है। [विकल्प के
@@ -943,7 +1011,7 @@ n₁ = (2.25 × 1032)/(5 ×1022)
 
 ~ 4.5 × 109 m-3
 
-Reprint 2025-26
+
 
 
 ---
@@ -990,8 +1058,15 @@ n-फलक पर छोड़ देता है। यह आयनित �
 विसरित होते हैं, ऋणात्मक आवेश (ऋणात्मक स्पेस-चार्ज़ क्षेत्र) की एक परत संधि के
 p-फलक पर विकसित होती जाती है। संधि के दोनों फलकों पर विकसित इस स्पेस-चार्ज़ क्षेत्र को
 हासी क्षेत्र (Depletion region) कहते हैं। यह इसलिए है क्योंकि इलेक्ट्रॉन तथा होल जो संधि
-के आर-पार आरंभिक गति में भाग लेते हैं वे इसके मुक्त आवेशों के क्षेत्र का ह्रास कर देते हैं (चित्र
-14.10)। इस ह्रासी क्षेत्र की मोटाई माइक्रोमीटर के दसवें भाग की कोटि
+के आर-पार आरंभिक गति में भाग लेते हैं वे इसके मुक्त आवेशों के क्षेत्र का ह्रास कर देते हैं (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_10_hi.png" alt="चित्र 14.10" onclick="openImageModal(this.src, 'चित्र 14.10: blh izdkj] tc dksbZ gksy lkanzrk izo.krk osQ dkj.k p → n dh vksj folfjr gksrk gS...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.10</strong> blh izdkj] tc dksbZ gksy lkanzrk izo.krk osQ dkj.k p → n dh vksj folfjr gksrk gS rks og vius ihNs ,d vk;fur xzkgh (½.kkRed vkos'k) NksM+ nsrk gS tks fu'py gksrk gSA tSls&tSls gksy folfjr gksrs gSa] ½.kkRed vkos'k (½.kkRed Lisl&pk”kZ {ks=k) dh ,d ijr laf/ osQ p-iQyd ij fodflr gksrh tkrh gSA laf/ osQ nksuksa iQydksa ij fodflr bl Lisl&pk”kZ {ks=k dks ßklh {ks=k (Depletion region) dgrs gSaA ;g blfy, gS D;ksafd bysDVªkWu rFkk gksy tks laf/ osQ vkj&ikj vkjafHkd xfr esa Hkkx ysrs gSa os blosQ eqDr vkos'kksa osQ {ks=k dk ßkl dj nsrs gSa (fp=k 14.10)A bl ßklh {ks=k dh eksVkbZ ekbØksehVj osQ nlosa Hkkx dh dksfV dh gksrh gSA laf/ osQ n-iQyd ij /ukRed Lisl&pk”kZ {ks=k rFkk p- iQyd ij ½.kkRed Lisl&pktZ {ks=k gksus osQ dkj.k laf/ ij /ukRed vkos'k ls ½.kkRed vkos'k dh vksj ,d fo|qr {ks=k mRiUu gks tkrk gSA bl {ks=k osQ dkj.k laf/ osQ p-iQyd dk bysDVªkWu n-iQyd dh vksj rFkk laf/ osQ n-iQyd dk gksy p-iQyd dh vksj xfr djrk gSA bl fo|qr {ks=k osQ dkj.k vkos'k okgdksa dh bl xfr dks viokg dgrs gSaA bl izdkj ,d viokg èkkjk tks fd folj.k /kjk osQ foijhr gksrh gS] izokfgr gksuk vkjaHk dj nsrh gS (fp=k 14.10)A</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
 
 की होती है। संधि के 1n-फलक पर धनात्मक स्पेस-चार्ज़ क्षेत्र तथा p- इलेक्ट्रॉन ड्रिफ्ट (अपवाह)
 
@@ -1029,7 +1104,7 @@ n
 आरंभ में, विसरण धारा उच्च होती है तथा अपवाह धारा निम्न होती है।
 जैसे-जैसे विसरण प्रक्रिया होती जाती है, संधि के दोनों फलकों पर अंतराकाशी आवेश क्षेत्र विस्तारित
 
-Reprint 2025-26
+
 
 333
 
@@ -1037,34 +1112,14 @@ Reprint 2025-26
 ---
 ## 📄 Page 12
 
--
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_11_hi.png" alt="चित्र 14.11" onclick="openImageModal(this.src, 'चित्र 14.11: n-{ks=k ls bysDVªkWuksa dh gkfu rFkk p-{ks=k esa gksyksa dh izkfIr osQ dkj.k nks...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.11</strong> n-{ks=k ls bysDVªkWuksa dh gkfu rFkk p-{ks=k esa gksyksa dh izkfIr osQ dkj.k nksuksa {ks=kksa dh laf/ osQ vkj&ikj ,d foHkokarj mRiUu gks tkrk gSA bl foHko dh /zqork bl izdkj gksrh gS fd ;g vkos'k okgdksa osQ vkSj izokg dk fojks/ djrk gS ftlosQ iQyLo:i lkE;koLFkk dh fLFkfr mRiUu gks tkrh gSA fp=k 14.11 esa laf/ dks lkE;koLFkk esa rFkk blosQ fljksa osQ chp foHkokarj n'kkZ;k x;k gSA n-inkFkZ us bysDVªkWu [kks, gSa rFkk p-inkFkZ us bysDVªkWu v£tr fd, gSaA bl izdkj p-inkFkZ osQ lkis{k</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
-भौतिकी
-
-W
-
-ΘΘΘΘ
-ΘΘΘΘ
-
-P
-
-ΘΘΘΘ
-
-n
-
-V
-
-ΘΘΘΘ
-
-ΘΘΘΘ
-
-(a)
-
-(b)
-
-E
-
-चित्र 14.11 (a) डायोड साम्य में
 (V = 0), (b) बिना किसी बायस के संधि
 का विभव।
 
@@ -1111,18 +1166,15 @@ n-प्रकार के अर्धचालक से भौतिक र�
 हल नहीं! कोई भी पट्टी, चाहे कितनी ही समतल हो, अंतर-परमाण्वीय क्रिस्टल अंतराल (~2 से
 3Å) से कहीं ज़्यादा खुरदरी होगी और इसलिए परमाण्वीय स्तर पर अविच्छिन्न संपर्क (अथवा
 संतत संपर्क) संभव नहीं होगा। प्रवाहित होने वाले आवेश वाहकों के लिए संधि एक विच्छिन्नता
-की तरह व्यवहार करेगी।
 
-ह्रासी क्षेत्र
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_12_hi.png" alt="चित्र 14.12" onclick="openImageModal(this.src, 'चित्र 14.12: v/Zpkyd Mk;ksM ¹fp=k 14.12(a)º ewy :i esa ,d p-n laf/ gksrh gS ftlosQ fljksa ij ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.12</strong> v/Zpkyd Mk;ksM ¹fp=k 14.12(a)º ewy :i esa ,d p-n laf/ gksrh gS ftlosQ fljksa ij /kfRod laioZQ tqM+s gksrs gSa rkfd bl lafèk ij dksbZ cká oksYVrk vuqiz;qDr dh tk losQA bl ;qfDr osQ nks VfeZuy gksrs gSaA v/Zpkyd Mk;ksM dks izrhdkRed :i esa fp=k 14.12(b) esa fu:fir fd;k x;k gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
-धात्विक
-संपर्क
-
-(a)
-
-14.6 अर्धचालक डायोड
-
-अर्धचालक डायोड [चित्र 14.12 (a)] मूल रूप में एक p-n संधि
 होती है जिसके सिरों पर धात्विक संपर्क जुड़े होते हैं ताकि इस संधि
 पर कोई बाह्य वोल्टता अनुप्रयुक्त की जा सके। इस युक्ति के दो टर्मिनल
 होते हैं। अर्धचालक डायोड को प्रतीकात्मक रूप में चित्र 14.12(b) में
@@ -1138,15 +1190,22 @@ p-n संधि डायोड की बिना किसी बायस �
 14.6.1 अग्रदिशिक बायस में p-n संधि डायोड
 
 जब किसी अर्धचालक डायोड के दो सिरों के बीच कोई बाह्य वोल्टता V इस प्रकार अनुप्रयुक्त की जाती
-है कि बैटरी का धन टर्मिनल p-फलक से तथा ऋण टर्मिनल n-फलक से संयोजित करते हैं [चित्र
-14.13(a) तथा (b)] तो इसे अग्रदिशिक बायसित कहते हैं।
+है कि बैटरी का धन टर्मिनल p-फलक से तथा ऋण टर्मिनल n-फलक से संयोजित करते हैं [
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_13_hi.png" alt="चित्र 14.13" onclick="openImageModal(this.src, 'चित्र 14.13: 14.6.1 vxzfnf&#39;kd ck;l esa p-n laf/ Mk;ksM tc fdlh v/Zpkyd Mk;ksM osQ nks flj...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.13</strong> 14.6.1 vxzfnf'kd ck;l esa p-n laf/ Mk;ksM tc fdlh v/Zpkyd Mk;ksM osQ nks fljksa osQ chp dksbZ cká oksYVrk V bl izdkj vuqiz;qDr dh tkrh gS fd cSVjh dk /u V£euy p-iQyd ls rFkk ½.k V£euy n-iQyd ls la;ksftr djrs gSa ¹fp=k 14.13(a) rFkk (b)º rks bls vxzfnf'kd ck;flr dgrs gSaA vuqiz;qDr vf/dka'k oksYVrk ikr v/Zpkyd Mk;ksM osQ ßklh {ks=k osQ fljksa ij gksrk gS rFkk laf/ osQ p-iQyd rFkk n-iQyd ij foHkoikr ux.; gksrk gS (bldk dkj.k ;g gS fd ßklh {ks=k] og {ks=k tgk¡ dksbZ vkos'k ugha gS] dk izfrjks/ n-iQyd vFkok p-iQyd osQ izfrjks/ksa dh rqyuk esa vR;f/d gksrk gS)A vuqiz;qDr oksYVrk (V) dh fn'kk var%fufeZr (built-in) foHko V0</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 अनुप्रयुक्त अधिकांश वोल्टता पात अर्धचालक डायोड के ह्रासी क्षेत्र के सिरों पर होता है तथा
 संधि के p-फलक तथा n-फलक पर विभवपात नगण्य होता है (इसका कारण यह है कि ह्रासी
 क्षेत्र, वह क्षेत्र जहाँ कोई आवेश नहीं है, का प्रतिरोध n-फलक अथवा p-फलक के प्रतिरोधों की
 तुलना में अत्यधिक होता है)। अनुप्रयुक्त वोल्टता (V) की दिशा अंतःनिर्मित (built-in) विभव Vo
 
-Reprint 2025-26
+
 
 0
 
@@ -1176,7 +1235,16 @@ injection) कहते हैं। संधि की सीमा पर ह
 वाहकों की सांद्रता की तुलना में, अल्पांश वाहक सांद्रता में महत्वपूर्ण वृद्धि हो जाती है।
 इस सांद्रता प्रवणता के कारण p-फलक की संधि के किनारे विसरित होकर
 p-फलक के दूसरे किनारे पर पहुँच जाते हैं। इसी प्रकार 1n-फलक की संधि के किनारे
-से विसरित होकर n-फलक के दूसरे सिरे पर पहुँचते हैं (चित्र 14.14)। दोनों फलकों पर
+से विसरित होकर n-फलक के दूसरे सिरे पर पहुँचते हैं (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_14_hi.png" alt="चित्र 14.14" onclick="openImageModal(this.src, 'चित्र 14.14: vuqiz;qDr oksYVrk osQ dkj.k] bysDVªkWu n-iQyd ßklh {ks=k dks ikj dj p-iQyd ij ig...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.14</strong> vuqiz;qDr oksYVrk osQ dkj.k] bysDVªkWu n-iQyd ßklh {ks=k dks ikj dj p-iQyd ij igq¡prs gSa (tgk¡ os vYika'k okgd gSa)A blh izdkj p-iQyd osQ gksy laf/ dks ikj djosQ n-iQyd ij igq¡prs gSa (tgk¡ os vYika'k okgd gSa)A vxzfnf'kd ck;l esa gksus okys bl izØe dks vYika'k okgd var%{ksi.k (Minority carrier injection) dgrs gSaA laf/ dh lhek ij gj iQyd ij] laf/ ls nwj vofLFkr vYika'k okgdksa dh lkaærk dh rqyuk esa] vYika'k okgd lkaærk esa egRoiw.kZ o`f¼ gks tkrh gSA bl lkaærk izo.krk osQ dkj.k p-iQyd dh laf/ osQ fdukjs folfjr gksdj p-iQyd osQ nwljs fdukjs ij igq¡p tkrs gaSA blh izdkj n-iQyd dh laf/ osQ fdukjs ls folfjr gksdj n-iQyd osQ nwljs fljs ij igq¡prs gSa (fp=k 14.14)A nksuksa iQydksa ij vkos'k okgdksa dh bl xfr osQ dkj.k fo|qr /kjk izokfgr gksus yxrh gSA oqQy vxzfnf'kd Mk;ksM /kjk dk eku gksy folj.k /kjk rFkk bysDVªkWu folj.k osQ dkj.k ikjaifjd /kjk dk ;ksx gksrk gSA bl /kjk dk ifjek.k izk;% feyh,sfEi;j esa gksrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 आवेश वाहकों की इस गति के कारण विद्युत धारा प्रवाहित होने लगती है। कुल
 अग्रदिशिक डायोड धारा का मान होल विसरण धारा तथा इलेक्ट्रॉन विसरण के कारण
 पारंपरिक धारा का योग होता है। इस धारा का परिमाण प्रायः मिलीऐम्पियर में होता है,
@@ -1245,7 +1313,15 @@ injection)।
 
 जब किसी अर्धचालक डायोड के दो सिरों के बीच कोई बाह्य वोल्टता (V) इस
 प्रकार अनुप्रयुक्त करते हैं कि बैटरी के धन टर्मिनल को n-फलक से तथा ऋण
-टर्मिनल को p-फलक से जोड़ते हैं [चित्र 14.15(a)], तो डायोड को पश्चदिशिक
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_15_hi.png" alt="चित्र 14.15" onclick="openImageModal(this.src, 'चित्र 14.15: tc fdlh v/Zpkyd Mk;ksM osQ nks fljksa osQ chp dksbZ cká oksYVrk (V) bl izdkj vuq...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.15</strong> tc fdlh v/Zpkyd Mk;ksM osQ nks fljksa osQ chp dksbZ cká oksYVrk (V) bl izdkj vuqiz;qDr djrs gSa fd cSVjh osQ /u VfeZuy dks n-iQyd ls rFkk ½.k VfeZuy dks p-iQyd ls tksM+rs gSa [fp=k 14.15(a)]] rks Mk;ksM dks i'pfnf'kd ck;flr (Reverse bias) dgrs gSaA vuqiz;qDr oksYVrk dk vf/dka'k foHkoikr v/Zpkyd osQ ßklh {ks=k osQ fljksa ij gksrk gSA ;gk¡ vuqiz;qDr oksYVrk dh fn'kk jksf/dk foHko dh fn'kk osQ leku gksrh gSA blosQ ifj.kkeLo:i jksf/dk dh Å¡pkbZ c<+ tkrh gS rFkk ßklh {ks=k dh pkSM+kbZ esa fo|qr esa ifjorZu gksus osQ dkj.k o`f¼ gks tkrh gSA i'pfnf'kd ck;lu~ esa izHkkoh jksf/dk Å¡pkbZ (V0 + V) gksrh gS [fp=k 14.15(b)]A ;g n → p dh vksj bysDVªkWuksa osQ izokg rFkk p → n dh vksj gksyksa osQ izokg dk neu djrh gSA bl izdkj] Mk;ksM osQ vxzfnf'kd ck;lu~ dh rqyuk esa bl fLFkfr esa folj.k /kjk vR;f/ d de gks tkrh gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 बायसित (Reverse bias) कहते हैं। अनुप्रयुक्त वोल्टता का अधिकांश विभवपात
 अर्धचालक के ह्रासी क्षेत्र के सिरों पर होता है। यहाँ अनुप्रयुक्त वोल्टता की दिशा
 रोधिका विभव की दिशा के समान होती है। इसके परिणामस्वरूप रोधिका की
@@ -1268,7 +1344,7 @@ injection)।
 डायोड प्रतीप धारा (Reverse current) अनुप्रयुक्त वोल्टता पर अत्यधिक निर्भर नहीं होती।
 अल्पांश वाहकों को संधि के एक फलक से दूसरे फलक तक पहुँचाने के लिए लघु वोल्टता ही
 
-Reprint 2025-26
+
 
 335
 
@@ -1323,7 +1399,16 @@ br
 हो जाए तो अतितप्त होने के कारण डायोड नष्ट हो जाता है। ऐसा तब भी हो सकता है,
 जब डायोड अग्रदिशिक बायसित होता है तथा अग्रदिशिक धारा अनुमत मान से अधिक हो।
 किसी डायोड के V-I अभिलाक्षणिक (अनुप्रयुक्त की गई वोल्टता के फलन के
-रूप में धारा का विचरण) का अध्ययन करने के लिए परिपथ आरेख चित्र 14.16 (a)
+रूप में धारा का विचरण) का अध्ययन करने के लिए परिपथ आरेख
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_16_hi.png" alt="चित्र 14.16" onclick="openImageModal(this.src, 'चित्र 14.16: fdlh Mk;ksM osQ V-I vfHkyk{kf.kd (vuqiz;qDr dh xbZ oksYVrk osQ iQyu osQ :i esa è...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.16</strong> fdlh Mk;ksM osQ V-I vfHkyk{kf.kd (vuqiz;qDr dh xbZ oksYVrk osQ iQyu osQ :i esa èkkjk dk fopj.k) dk vè;;u djus osQ fy, ifjiFk vkjs[k fp=k 14.16 (a) rFkk (b) esa fn[kk;k x;k gSA Mk;ksM ls oksYVrk dks ,d iksVasf'k;ksehVj (;k èkkjk fu;a=kd) ls gksdj tksM+k tkrk gS ftlls Mk;ksM ij vuqiz;qDr dh xbZ oksYVrk dks ifjofrZr fd;k tk ldrk gSA oksYVrk osQ fofHkUu ekuksa osQ fy, èkkjk dk eku uksV fd;k tkrk gSA V vkSj I osQ chp ,d xzkI+kQ] tSlk fp=k 14.16(c) esa fn[kk;k x;k gS] izkIr gksrk gSA è;ku nhft,] vxzfnf'kd ck;l ekiu osQ fy, ge feyhehVj dk mi;ksx djrs gSa D;ksafd (tSlk fiNys vuqHkkx esa le>k;k x;k Fkk) visf{kr èkkjk vfèkd gS tcfd foijhr ck;l esa de èkkjk dks ukius osQ fy, ,d ekbØks,sehVj dk mi;ksx fd;k tkrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
+
 तथा (b) में दिखाया गया है। डायोड से वोल्टता को एक पोटेंशियोमीटर (या धारा
 नियंत्रक) से होकर जोड़ा जाता है जिससे डायोड पर अनुप्रयुक्त की गई वोल्टता को
 परिवर्तित किया जा सकता है। वोल्टता के विभिन्न मानों के लिए धारा का मान नोट
@@ -1393,7 +1478,7 @@ V (V)
 
 अध्ययन के प्रयोगिक परिपथ, (c) किसी सिलिकॉन डायोड के प्रतिरूपी V-I अभिलाक्षणिक।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1430,7 +1515,16 @@ ra =
 
 करते हैं:
 
-उदाहरण 14.4 किसी सिलिकॉन डायोड का V-I अभिलाक्षणिक चित्र 14.17 में दर्शाया गया है।
+उदाहरण 14.4 किसी सिलिकॉन डायोड का V-I अभिलाक्षणिक
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_17_hi.png" alt="चित्र 14.17" onclick="openImageModal(this.src, 'चित्र 14.17: mnkgj.k 14.4 fdlh flfydkWu Mk;ksM dk V-I vfHkyk{kf.kd fp=k 14.17 esa n&#39;kkZ;k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.17</strong> mnkgj.k 14.4 fdlh flfydkWu Mk;ksM dk V-I vfHkyk{kf.kd fp=k 14.17 esa n'kkZ;k x;k gSA Mk;ksM dk izfrjks/ (a) ID = 15 mA rFkk (b) VD = –10 V ij ifjdfyr dhft,A</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
+
 डायोड का प्रतिरोध (a) I₁ = 15 mA तथा (b) V₁ = −10 V पर परिकलित कीजिए।
 
 D
@@ -1467,7 +1561,7 @@ rp = AV/ΔΙ = 0.1V/10 mA = 10 Ω
 
 rb
 
-Reprint 2025-26
+
 
 उदाहरण 14.4
 
@@ -1488,37 +1582,15 @@ Reprint 2025-26
 होगी जब डायोड अग्रदिशिक बायसित है। डायोड के इस गुण का
 उपयोग प्रत्यावर्ती वोल्टता का दिष्टकरण करने में किया जाता है
 तथा इस कार्य के लिए जिस परिपथ का उपयोग करते हैं उसे
-दिष्टकारी कहते हैं।
 
-ट्रांसफार्मर
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_18_hi.png" alt="चित्र 14.18" onclick="openImageModal(this.src, 'चित्र 14.18: ;fn Mk;ksM osQ fljksa ij dksbZ izR;korhZ (ac) oksYVrk Js.khØe esa la;ksftr yksM ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.18</strong> ;fn Mk;ksM osQ fljksa ij dksbZ izR;korhZ (ac) oksYVrk Js.khØe esa la;ksftr yksM izfrjks/ RL osQ lkFk vuqiz;qDr dh tk, rks yksM osQ fljksa ij osQoy ac fuos'k osQ ml v/ZpØ esa ftlesa Mk;ksM vxzfnf'kd ck;flr gS] ,d Lianeku oksYVrk n`f"Vxkspj gksxhA bl izdkj dk fo|qr ifjiFk fp=k 14.18 osQ fo|qr ifjiFk esa n'kkZ;k x;k gS ftls v/Z&rjax fn"Vdkjh ifjiFk dgrs gSaA VªkalI+kQkeZj dh f}rh;d oqaQMyh VfeZuy A rFkk B ij okafNr ac oksYVrk dh vkiwfrZ djrh gSA tc A ij oksYVrk /ukRed gksrh gS rks Mk;ksM vxzfnf'kd ck;flr gksrk gS rFkk ;g fo|qr /kjk dk pkyu djrk gSA tc A ij oksYVrk ½.kkRed gksrh gS rks Mk;ksM i'pfnf'kd ck;flr gksrk gS vkSj og fo|qr pkyu ugha djrkA i'pfnf'kd ck;l esa Mk;ksM dh lar`Ir izrhi /kjk ux.; gksrh gS rFkk bls O;kogkfjd dk;ks± osQ fy, 'kwU; ekuk tk ldrk gSA (Mk;ksM dh izrhi Hkatu oksYVrk dk eku VªkalI+kQkeZj dh f}rh;d oqaQMyh ij f'k[kj ac oksYVrk dh rqyuk esa dkI+kQh vf/d gksuk pkfg, rkfd Mk;ksM izrhi Hkatu ls lqjf{kr jg losQA)</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
-प्राथमिक
-
-द्वितीयक
-
-A
-
-X
-
-B
-
-Y
-
-(a)
-
-(b)
-
-निवेशी ac
-
-निर्गत वोल्टता
-
-RL
-
-t
-
-t
-
-चित्र 14.18 (a) अर्धतरंग दिष्टकारी परिपथ, (b) दिष्टकारी
 परिपथ से निवेशी ac और निर्गत वोल्टता के
 
 338
@@ -1551,9 +1623,14 @@ t
 ही दिशा में प्रतिबंधित होने के कारण दिष्टकारी कहलाती है। चूँकि हमें ac तरंग के केवल एक
 ही अर्धचक्र में निर्गत वोल्टता प्राप्त हो रही है, अतः इस परिपथ को अर्ध-तरंग दिष्टकारी कहते हैं।
 
-not
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_19_hi.png" alt="चित्र 14.19" onclick="openImageModal(this.src, 'चित्र 14.19: fp=k 14.19(a) esa n&#39;kkZ, x, ifjiFk esa nks Mk;ksMksa dk mi;ksx djosQ ,d ,slh...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.19</strong> fp=k 14.19(a) esa n'kkZ, x, ifjiFk esa nks Mk;ksMksa dk mi;ksx djosQ ,d ,slh ifjiFk O;oLFkk dh xbZ gS ftlls ac pØ osQ /ukRed ,oa ½.kkRed nksuksa gh v/ZpØksa esa rnuq:ih fn"VÑr fuxZr oksYVrk izkIr gksrh gSA blhfy, bl ifjiFk dks iw.kZ rjax fn"Vdkjh dgrs gSaA blesa nksuksa Mk;ksMksa osQ n-iQydksa dks ,d lkFk la;ksftr dj nsrs gSa rFkk fuxZr dks Mk;ksMksa osQ bl mHk;fu"B ¯cnq rFkk VªkalI+kQkeZj dh f}rh;d oqaQMyh osQ eè; ¯cnq osQ chp izkIr fd;k tkrk gSA vr% fdlh iw.kZ rjax fn"Vdkjh osQ fy, VªkaliQkZej dh f}rh;d oqaQMyh osQ eè; esa ,d va'kfu"dklh ¯cnq (Tapping point) iznku fd;k tkrk gS vkSj blhfy, bl VªkalI+kQkeZj dks eè; fu"dklh VªkalI+kQkeZj (centre-tap transformer) dgrs gSaA tSlk fd fp=k 14.19(c) ls Li"V gS fd izR;sd Mk;ksM }kjk fn"VÑr oksYVrk oqQy f}rh;d oqaQMyh ls izkIr oksYVrk dh osQoy vk/h gh gSA izR;sd Mk;ksM osQoy vk/s pØ dk fn"Vdj.k djrk gS] ijarq nks Mk;ksM izR;korhZ pØksa dk fn"Vdj.k djrs gSaA bl izdkj Mk;ksMkas osQ mHk;fu"B ¯cnq rFkk eè; fu"dklh VªkalI+kQkeZj</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
-चित्र 14.19(a) में दर्शाए गए परिपथ में दो डायोडों का उपयोग करके एक ऐसी परिपथ
 व्यवस्था की गई है जिससे ac चक्र के धनात्मक एवं ऋणात्मक दोनों ही अर्धचक्रों में तदनुरूपी
 दिष्टकृत निर्गत वोल्टता प्राप्त होती है। इसीलिए इस परिपथ को पूर्ण तरंग दिष्टकारी कहते हैं। इसमें
 दोनों डायोडों के n-फलकों को एक साथ संयोजित कर देते हैं तथा निर्गत को डायोडों के इस
@@ -1565,7 +1642,7 @@ not
 आधी ही है। प्रत्येक डायोड केवल आधे चक्र का दिष्टकरण करता है, परंतु दो डायोड प्रत्यावर्ती
 चक्रों का दिष्टकरण करते हैं। इस प्रकार डायोडों के उभयनिष्ठ बिंदु तथा मध्य निष्कासी ट्रांसफ़ार्मर
 
-Reprint 2025-26
+
 
 
 ---
@@ -1672,7 +1749,15 @@ D₁
 परिपथ में कोई बाह्य लोड नहीं है तो यह दिष्टकृत निर्गत की शिखर वोल्टता तक आवेशित रहता
 है। यदि परिपथ में कोई लोड है तो यह लोड से होकर विसर्जित होने लगता है तथा इसके सिरों
 पर वोल्टता कम होने लगती है। दिष्टकृत निर्गत के अगले अर्ध चक्र में यह फिर अपनी शिखर
-वोल्टता तक आवेशित होता है (चित्र 14.20)। संधारित्र के सिरों पर वोल्टता में कमी होने की दर
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_20_hi.png" alt="चित्र 14.20" onclick="openImageModal(this.src, 'चित्र 14.20: vc ge fiQYVju esa la/kfj=k dh Hkwfedk dh foospuk djsaxsA tc la/kfj=k osQ fljksa ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.20</strong> vc ge fiQYVju esa la/kfj=k dh Hkwfedk dh foospuk djsaxsA tc la/kfj=k osQ fljksa ij oksYVrk esa o`f¼ gks jgh gksrh gS rks og vkosf'kr gks tkrk gSA ;fn ifjiFk esa dksbZ cká yksM ugha gS rks ;g fn"VÑr fuxZr dh f'k[kj oksYVrk rd vkosf'kr jgrk gSA ;fn ifjiFk esa dksbZ yksM gS rks ;g yksM ls gksdj folftZr gksus yxrk gS rFkk blosQ fljksa ij oksYVrk de gksus yxrh gSA fn"VÑr fuxZr osQ vxys v/Z pØ esa ;g fiQj viuh f'k[kj oksYVrk rd vkosf'kr gksrk gS (fp=k 14.20)A la/kfj=k osQ fljksa ij oksYVrk esa deh gksus dh nj la/kfj=k dh /kfjrk C rFkk ifjiFk esa yxs izHkkoh izfrjks/d RL osQ izfrjks/ xq.kuiQy ftls dkykad dgrs gSa] ij fuHkZj djrk gSA dkykad dk eku vf/d gksus osQ fy, C dk eku vfèkd gksuk pkfg,A vr% la/kfj=k fuos'k fiQYVjksa dk mi;ksx djus ij izkIr fuxZr oksYVrk fn"VÑr oksYVrk osQ f'k[kj eku osQ fudV gksrh gSA fo|qr iznk;ksa esa O;kid :i esa blh izdkj osQ fiQYVj mi;ksx fd, tkrs gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 संधारित्र की धारिता C तथा परिपथ में लगे प्रभावी प्रतिरोधक R₁ के प्रतिरोध गुणनफल जिसे
 कालांक कहते हैं, पर निर्भर करता है। कालांक का मान अधिक होने के लिए C का मान अधिक
 होना चाहिए। अतः संधारित्र निवेश फिल्टरों का उपयोग करने पर प्राप्त निर्गत वोल्टता दिष्टकृत
@@ -1687,7 +1772,7 @@ t
 
 339
 
-Reprint 2025-26
+
 
 
 ---
@@ -1767,7 +1852,7 @@ Ge को त्रिसंयोजी परमाणु (ग्राही)
 10. पदार्थ के दो भिन्न ऊर्जा बैंड (संयोजकता बैंड और चालन बैंड) होते हैं, जिनमें इलेक्ट्रॉन
 रहते हैं। संयोजकता बैंड की ऊर्जा चालन बैंड की ऊर्जा की अपेक्षा कम है। संयोजकता बैंड
 
-Reprint 2025-26
+
 
 → t
 
@@ -1835,7 +1920,7 @@ Ga1.1 AS0.9 अथवा Ga0.9 As 1.1 हो सकता है। सामा
 
 341
 
-Reprint 2025-26
+
 
 
 ---
@@ -1883,5 +1968,5 @@ Co
 
 not to
 
-Reprint 2025-26
+
 

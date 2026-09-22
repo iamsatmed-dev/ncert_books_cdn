@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-12086CH14
+
 
 Unit
 
@@ -80,7 +80,7 @@ sugar, used in our homes is named as sucrose whereas the sugar present
 
 no
 
-Reprint 2025-26
+
 
 
 ---
@@ -195,7 +195,7 @@ equal amounts.
 
 Chemistry 282
 
-Reprint 2025-26
+
 
 
 ---
@@ -345,7 +345,7 @@ CHO
 
 CH2OH
 
-Reprint 2025-26
+
 
 CH2-O-C-CH3
 
@@ -508,7 +508,7 @@ configuration whereas those which can be correlated to ‘L' (−) isomer of
 glyceraldehyde are said to have L─configuration. In L (−) isomer –OH
 group is on left hand side as you can see in the structure. For assigning
 
-Reprint 2025-26
+
 
 
 ---
@@ -680,7 +680,7 @@ CH2OH
 The two cyclic hemiacetal forms of glucose differ only in the
 configuration of the hydroxyl group at C1, called anomeric carbon
 
-Reprint 2025-26
+
 
 285 Biomolecules
 
@@ -917,7 +917,7 @@ OH H
 
 Chemistry 286
 
-Reprint 2025-26
+
 
 
 ---
@@ -1098,7 +1098,7 @@ Maltose
 
 287 Biomolecules
 
-Reprint 2025-26
+
 
 
 ---
@@ -1272,7 +1272,7 @@ a-Link
 
 Amylose
 
-Reprint 2025-26
+
 
 
 ---
@@ -1439,7 +1439,7 @@ made up of cellulose. We build furniture, etc. from cellulose in the form
 Importance of
 Carbohydrates
 
-Reprint 2025-26
+
 
 
 ---
@@ -1564,7 +1564,7 @@ L
 
 Chemistry 290
 
-Reprint 2025-26
+
 
 
 ---
@@ -1711,7 +1711,7 @@ as essential amino acids (marked with asterisk in Table 10.2).
 
 291 Biomolecules
 
-Reprint 2025-26
+
 
 
 ---
@@ -1804,15 +1804,20 @@ hydrogen and disulphide bonds, then fibre- like structure is formed. Such
 proteins are generally insoluble in water. Some common examples are
 keratin (present in hair, wool, silk) and myosin (present in muscles), etc.
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 13
 
-AAA
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch10_biomolecules_fig_10_1.png" alt="Fig. 10.1" onclick="openImageModal(this.src, 'Fig. 10.1: Fig. 10.1: a-Helix structure of proteins...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.1</strong> Fig. 10.1: a-Helix structure of proteins</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
-Fig. 10.1: a-Helix
 structure of proteins
 
 N
@@ -1949,12 +1954,13 @@ stabilise the 2º and 3° structures of proteins are
 hydrogen bonds, disulphide linkages, van der Waals
 and electrostatic forces of attraction.
 
-C=0
-
-HCR
-=C
-
-Fig. 10.2: ẞ-Pleated sheet structure of (iv) Quaternary structure of proteins: Some of the
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch10_biomolecules_fig_10_2.png" alt="Fig. 10.2" onclick="openImageModal(this.src, 'Fig. 10.2: Fig. 10.2: b-Pleated sheet structure of...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.2</strong> Fig. 10.2: b-Pleated sheet structure of</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 proteins
 
@@ -1963,7 +1969,7 @@ chains referred to as sub-units. The spatial
 arrangement of these subunits with respect to each
 other is known as quaternary structure.
 
-Reprint 2025-26
+
 
 293 Biomolecules
 
@@ -1975,7 +1981,15 @@ Primary
 structure
 
 A diagrammatic representation of all these four structures is
-given in Figure 10.3 where each coloured ball represents an
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch10_biomolecules_fig_10_3.png" alt="Fig. 10.3" onclick="openImageModal(this.src, 'Fig. 10.3: Fig. 10.3: Diagrammatic representation of protein structure (two sub-units...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.3</strong> Fig. 10.3: Diagrammatic representation of protein structure (two sub-units</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
+
 amino acid.
 
 Secondary
@@ -1992,9 +2006,14 @@ Fig. 10.3: Diagrammatic representation of protein structure (two sub-units
 
 of two types in quaternary structure)
 
-blis
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch10_biomolecules_fig_10_4.png" alt="Fig. 10.4" onclick="openImageModal(this.src, 'Fig. 10.4: Fig. 10.4: Primary, secondary, tertiary and quaternary structures of haemoglobin...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.4</strong> Fig. 10.4: Primary, secondary, tertiary and quaternary structures of haemoglobin</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
-Fig. 10.4: Primary,
 secondary, tertiary
 and quaternary
 structures of
@@ -2036,7 +2055,7 @@ and protein loses its biological activity. This is called denaturation of
 
 Chemistry 294
 
-Reprint 2025-26
+
 
 
 ---
@@ -2111,7 +2130,7 @@ biological functions for normal maintenance of optimum growth
 
 295 Biomolecules
 
-Reprint 2025-26
+
 
 
 ---
@@ -2216,7 +2235,7 @@ joint pain in adults)
 
 Chemistry 296
 
-Reprint 2025-26
+
 
 
 ---
@@ -2328,7 +2347,7 @@ OH OH
 
 β-D-ribose
 
-Reprint 2025-26
+
 
 OH H
 β-D-2-deoxyribose
@@ -2413,7 +2432,15 @@ A unit formed by the attachment to 1' position of sugar is
 known as nucleoside. In nucleosides, the sugar carbons are numbered
 as 1', 2', 3', etc. in order to distinguish these from the bases
 (Fig. 10.5a). When nucleoside is linked to phosphoric acid at 5'-position
-of sugar moiety, we get a nucleotide (Fig. 10.5).
+of sugar moiety, we get a nucleotide (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch10_biomolecules_fig_10_5.png" alt="Fig. 10.5" onclick="openImageModal(this.src, 'Fig. 10.5: A unit formed by the attachment of a base to 1¢ position of sugar is known as nu...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.5</strong> A unit formed by the attachment of a base to 1¢ position of sugar is known as nucleoside. In nucleosides, the sugar carbons are numbered as 1¢, 2¢, 3¢, etc. in order to distinguish these from the bases (Fig. 10.5a). When nucleoside is linked to phosphoric acid at 5¢-position of sugar moiety, we get a nucleotide (Fig. 10.5).</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
 
 CHO
 
@@ -2481,10 +2508,14 @@ Fig. 10.5: Structure of (a) a nucleoside and (b) a nucleotide
 
 Nucleotides are joined together by phosphodiester linkage between
 5' and 3' carbon atoms of the pentose sugar. The formation of a typical
-dinucleotide is shown in Fig. 10.6.
 
-Reprint 2025-26
-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch10_biomolecules_fig_10_6.png" alt="Fig. 10.6" onclick="openImageModal(this.src, 'Fig. 10.6: Nucleotides are joined together by phosphodiester linkage between 5¢ and 3¢ carb...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.6</strong> Nucleotides are joined together by phosphodiester linkage between 5¢ and 3¢ carbon atoms of the pentose sugar. The formation of a typical dinucleotide is shown in Fig. 10.6.</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
 
 ---
 ## 📄 Page 19
@@ -2611,7 +2642,16 @@ Sugar-
 Information regarding the sequence of nucleotides in the chain
 of a nucleic acid is called its primary structure. Nucleic acids
 have a secondary structure also. James Watson and Francis Crick
-gave a double strand helix structure for DNA (Fig. 10.7). Two
+gave a double strand helix structure for DNA (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch10_biomolecules_fig_10_7.png" alt="Fig. 10.7" onclick="openImageModal(this.src, 'Fig. 10.7: Fig. 10.7: Double strand helix structure for DNA...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.7</strong> Fig. 10.7: Double strand helix structure for DNA</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
+
 nucleic acid chains are wound about each other and held together
 by hydrogen bonds between pairs of bases. The two strands are
 complementary to each other because the hydrogen bonds are
@@ -2627,7 +2667,7 @@ RNA (t-RNA).
 
 Fig. 10.7: Double strand helix structure for DNA
 
-Reprint 2025-26
+
 
 299 Biomolecules
 
@@ -2703,7 +2743,7 @@ external stimuli. Growth hormones and sex hormones play role in growth
 and development. Thyroxine produced in the thyroid gland is an iodinated
 derivative of amino acid tyrosine. Abnormally low level of thyroxine leads
 
-Reprint 2025-26
+
 
 
 ---
@@ -2765,7 +2805,7 @@ Vitamins are accessory food factors required in the diet. They are classified as
 fat soluble (A, D, E and K) and water soluble (B group and C). Deficiency of vitamins
 leads to many diseases.
 
-Reprint 2025-26
+
 
 301 Biomolecules
 
@@ -2855,5 +2895,5 @@ and RNA.
 
 Chemistry 302
 
-Reprint 2025-26
+
 

@@ -7,7 +7,7 @@
 
 ### अध्याय 11
 
-11089CH12
+
 
 ऊष्मागतिकी
 
@@ -77,7 +77,7 @@ not to
 हो गया कि ऊर्जा एक रूप से दूसरे रूप में अर्थात् कार्य से ऊष्मा में रूपांतारित
 हो जाती है ।
 
-Reprint 2025-26
+
 
 
 ---
@@ -125,19 +125,15 @@ Reprint 2025-26
 
 में भरी कोई गैस ऊष्मागतिक रूप से तब साम्यावस्था में होगी
 जब उसके दाब, आयतन, ताप, द्रव्यमान के परिमाण तथा संगठन
-समय के साथ परिवर्तित न हों ।
 
-A
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch11_thermodynamics_fig_11_hi.png" alt="चित्र 11" onclick="openImageModal(this.src, 'चित्र 11: fp=k 11 11 11 11 11-1 1 1 1 1 (a) (nks xSlksa osQ) fudk; A o B ,d #¼ks&quot;e nh...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 11</strong> fp=k 11 11 11 11 11-1 1 1 1 1 (a) (nks xSlksa osQ) fudk; A o B ,d #¼ks"e nhokj ls i`Fko~Q gSa % bl nhokj ls mQ"ek vkj&ikj ugha tk ikrh A (b) ;gh fudk; A o B ,d mQ"ek&ikFkZ nhokj ls i`Fko~Q n'kkZ, x, gSa A ;g ,d pkyd nhokj gksrh gS ftlls mQ"ek ,d fudk; ls nwljs esa pyh tkrh gS A bl mnkgj.k esa rkih; lkE; ;Fkksfpr le; esa izkIr gks tkrk gS A</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
-(a)
-
-(b)
-
-B
-
-B
-
-चित्र 11.1 (a) (दो गैसों के) निकाय A व B एक रुद्धोष्म दीवार
 से पृथक् हैं : इस दीवार से ऊष्मा आर-पार नहीं जा पाती ।
 (b) यही निकाय A व B एक ऊष्मा-पार्थ दीवार से पृथक्
 दर्शाए गए हैं। यह एक चालक दीवार होती है जिससे आका
@@ -172,7 +168,7 @@ B
 उच्च कक्षाओं में पढ़ेंगे), किंतु ये सभी स्थूल चर हैं । यद्यपि किसी उष्मागतिकीय अवस्था को पाँच अवस्था चरों, जैसे दाब, आयतन, ताप, आंतरिक ऊर्जा और एंट्रॉपी के
 रूप में निरूपित किया जाता है । किसी निकाय की एंट्रॉपी उसकी अव्यवस्था का माप होता है ।
 
-Reprint 2025-26
+
 
 
 ---
@@ -272,7 +268,7 @@ B
 ** यह आवश्यक नहीं है कि दोनों चर बदलें । ऐसा प्रतिबंधों पर निर्भर करता है । उदाहरण के लिए, यदि गैस स्थिर आयतन वाले पात्र में भरी हो तो तापीय साम्य के लिए
 केवल गैसों के दाब को परिवर्तित होना चाहिए ।
 
-Reprint 2025-26
+
 
 
 ---
@@ -433,7 +429,7 @@ U ऊष्मागतिकीय 'अवस्था चर' का एक �
 देना) द्वारा उत्पन्न ऊर्जा का स्थानांतरण है जिनमें तापांतर
 समाहित नहीं होता ।
 
-Reprint 2025-26
+
 
 
 ---
@@ -544,7 +540,7 @@ V₂) अवस्था में पहुँच जाती है । व�
 
 AQ = AW
 
-Reprint 2025-26
+
 
 
 ---
@@ -671,7 +667,7 @@ C =
 
 (11.7)
 
-Reprint 2025-26
+
 
 
 ---
@@ -870,7 +866,7 @@ P
 
 (11.11)
 
-Reprint 2025-26
+
 
 
 ---
@@ -989,7 +985,7 @@ Pऔर Vया Tऔर V हैं । निश्चित ताप पर �
 
 * जैसा पहले भी दर्शाया गया है अवस्था चर नहीं है किन्तु ∆Q निकाय की कुल मात्रा समानुपातिक है। अतः यह विस्तीर्ण चर है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1120,7 +1116,7 @@ V2
 
 V₁
 
-Reprint 2025-26
+
 
 (11.12)
 
@@ -1306,7 +1302,7 @@ W = P (V₂-V₁) = μR (T2-T₁)
 नियत दाब पर गैस की विशिष्ट ऊष्मा द्वारा निर्धारित किया
 जाता है ।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1410,7 +1406,7 @@ Reprint 2025-26
 
 होते हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1469,23 +1465,14 @@ Reprint 2025-26
 उत्क्रमणीय ऊष्मा इंजन में ऊष्मा का अवशोषण (गरम ऊष्मा
 भंडार से) समतापीय विधि द्वारा होना चाहिए तथा (अपेक्षाकृत
 
-↑
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch11_thermodynamics_fig_11_9_hi.png" alt="चित्र 11.9" onclick="openImageModal(this.src, 'चित्र 11.9: ge tkurs gSa fd dkuksZ batu ,d mRØe.kh; batu gSA okLro esa ;gh ,dek=k ,slk batu ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 11.9</strong> ge tkurs gSa fd dkuksZ batu ,d mRØe.kh; batu gSA okLro esa ;gh ,dek=k ,slk batu laHko gS tks fHkUu rkiksa osQ nks mQ"ek HkaMkjksa osQ eè; dk;Z djrk gSA fp=k 11.9 esas n'kkZ, dkuksZ pØ dk gj pj.k mRozQfer fd;k tk ldrk gSA ;g ml izØe osQ leku gksrk gS] ftlesa T2 rki ij BaMs mQ"ek HkaMkj ls Q2 mQ"ek yh tkrh gS] fudk; ij W dk;Z fd;k tkrk gS] rFkk xje mQ"ek HkaMkj dks Q1 mQ"ek LFkkukarfjr dj nh tkrh gSA ;g ;qfDr ,d mRØe.kh; iz'khrd gksxhA</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
-(P,V,T₁)
-
-P
-
-(P2,V2,T₁)
-
-0
-
-(P4,V4,T2)
-
-V
-
-(P3,V3,T2)
-
-चित्र 11.9 किसी ऊष्मा इंजन के लिए कार्नो चक्र जिसमें कार्यकारी
 पदार्थ के रूप में आदर्श गैस का उपयोग होता है ।
 
 ठंडे ऊष्मा भंडार को) समतापीय विधि द्वारा ऊष्मा मुक्त होनी
@@ -1518,7 +1505,7 @@ T₂ से T₁ पर वापस ले जाएँ। प्रश्न �
 इस इंजन में चरणों का क्रम निम्नलिखित होना चाहिए, जो चित्र
 11.11 में दर्शाए अनुसार एक चक्र का निर्माण करते हैं, जिसे
 
-Reprint 2025-26
+
 
 
 ---
@@ -1721,7 +1708,7 @@ T₁
 दोनों इंजनों को इस प्रकार संयोजित करते हैं कि I ऊष्मा इंजन
 की भांति तथा R प्रशीतक की भांति कार्य करें । कल्पना कीजिए
 
-Reprint 2025-26
+
 
 
 ---
@@ -1758,33 +1745,15 @@ Reprint 2025-26
 न्यायसंगत है । आदर्श गैस की अवस्था समीकरण सरल होती है
 जिसके कारण n का परिकलन सरल हो जाता है, किंतु । के
 लिए अंतिम परिणाम, समीकरण (11.27), किसी भी कार्नो
-इंजन के लिए सही है ।
 
-to
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch11_thermodynamics_fig_11_10_hi.png" alt="चित्र 11.10" onclick="openImageModal(this.src, 'चित्र 11.10: fp=k 11.10 11.10 11.10 11.10 11.10 mRØe.kh; iz&#39;khrd (R) ls la;qDr ,d vuqRØe....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 11.10</strong> fp=k 11.10 11.10 11.10 11.10 11.10 mRØe.kh; iz'khrd (R) ls la;qDr ,d vuqRØe.kh; batu (I) A ;fn W ′ > W, rks bldk vk'k; ;g gqvk fd vo'kks"kd ls W1 – W mQ"ek fudkydj mls iw.kZr% dk;Z esa :ikarfjr dj fn;k x;k gS] tks mQ"ekxfrdh osQ nwljs fu;e osQ foijhr gS A</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
-T
-
-1
-
-W'
-
-Q1
-
-I
-
-→Q-W'
-
-T2
-
-R
-
-Q-W
-
-W
-
-भौतिकी
-
-चित्र 11.10 उत्क्रमणीय प्रशीतक (R) से संयुक्त एक अनुत्क्रमणीय
 इंजन (I) । यदि W' > W, तो इसका आशय यह हुआ
 कि अवशोषक से W¹ – W ऊष्मा निकालकर उसे
 पूर्णतः कार्य में रूपांतरित कर दिया गया है, जो ऊष्मागतिकी
@@ -1828,7 +1797,7 @@ Q2 T2
 
 AQ = AU + AW
 
-Reprint 2025-26
+
 
 
 ---
@@ -1917,7 +1886,7 @@ W =
 μ R(T₁-T2)
 γ- 1
 
-Reprint 2025-26
+
 
 
 ---
@@ -2031,7 +2000,7 @@ dx
 
 ### 3. ऊष्मागतिकीय साम्य में निकाय के सूक्ष्म संघटक साम्यावस्था में नहीं होते (यांत्रिकी के प्रसंग में)।
 
-Reprint 2025-26
+
 
 
 ---
@@ -2099,7 +2068,7 @@ pausiranda
 11.8 किसी ऊष्मागतिकीय निकाय को मूल अवस्था से मध्यवर्ती अवस्था तक चित्र (11.11) में दर्शाये अनुसार एक रेखीय
 प्रक्रम द्वारा ले जाया गया है।
 
-Reprint 2025-26
+
 
 253
 
@@ -2125,9 +2094,7 @@ E
 
 ### 2.0
 
-### 5.0
-
-आयतन (m³)
+### 5.0 आयतन (m³)
 
 चित्र 11.11
 
@@ -2137,7 +2104,7 @@ E तथा वहाँ से F तक कुल किए गए कार्
 
 NCERT
 
-not to be republished
 
-Reprint 2025-26
+
+
 

@@ -34,7 +34,7 @@ qualitative improvement in health and food production. The
 basic principles underlying biotechnological processes and some
 applications are highlighted and discussed in this unit.
 
-Reprint 2025-26
+
 
 
 ---
@@ -72,7 +72,7 @@ Oon whic
 
 not to
 
-Reprint 2025-26
+
 
 
 ---
@@ -90,7 +90,7 @@ ori
 
 rop
 
-12083CH11
+
 
 BIOTECHNOLOGY : PRINCIPLES
 AND PROCESSES
@@ -138,7 +138,7 @@ of modern biotechnology are :
 (i) Genetic engineering : Techniques to alter the
 chemistry of genetic material (DNA and RNA),
 
-Reprint 2025-26
+
 
 
 ---
@@ -200,7 +200,7 @@ specific locations became possible with the discovery of the so-called
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -265,7 +265,7 @@ Escherichia coli RY 13. In EcoRI, the letter 'R' is derived from the name of
 
 165
 
-Reprint 2025-26
+
 
 
 ---
@@ -285,7 +285,15 @@ Each restriction endonuclease functions by 'inspecting' the length of
 a DNA sequence. Once it finds its specific recognition sequence, it
 will bind to the DNA and cut each of the two strands of the double
 helix at specific points in their sugar-phosphate backbones
-(Figure 9.1). Each restriction endonuclease recognises a specific
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch09_biotechnology_principles_and_processes_fig_9_1.png" alt="Fig. 9.1" onclick="openImageModal(this.src, 'Fig. 9.1: Each restriction endonuclease functions by ‘inspecting’ the length of a DNA sequ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.1</strong> Each restriction endonuclease functions by ‘inspecting’ the length of a DNA sequence. Once it finds its specific recognition sequence, it will bind to the DNA and cut each of the two strands of the double helix at specific points in their sugar -phosphate backbones (Figure 9.1). Each restriction endonuclease recognises a specific palindromic nucleotide sequences in the DNA.</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 palindromic nucleotide sequences in the DNA.
 
 The enzyme cuts both DNA
@@ -348,7 +356,7 @@ e.g., “MALAYALAM”. As against a word-palindrome where the same
 word is read in both directions, the palindrome in DNA is a sequence
 of base pairs that reads same on the two strands when orientation of
 
-Reprint 2025-26
+
 
 
 ---
@@ -386,7 +394,14 @@ different sources/genomes.
 
 When cut by the same restriction enzyme, the resultant DNA fragments
 have the same kind of ‘sticky-ends' and, these can be joined together
-(end-to-end) using DNA ligases (Figure 9.2).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch09_biotechnology_principles_and_processes_fig_9_2.png" alt="Fig. 9.2" onclick="openImageModal(this.src, 'Fig. 9.2: When cut by the same restriction enzyme, the resultant DNA fragments have the sa...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.2</strong> When cut by the same restriction enzyme, the resultant DNA fragments have the same kind of ‘sticky-ends’ and, these can be joined together (end-to-end) using DNA ligases (Figure 9.2).</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
 Foreign DNA
 
@@ -421,7 +436,7 @@ Cells divide
 
 Figure 9.2 Diagrammatic representation of recombinant DNA technology
 
-Reprint 2025-26
+
 
 167
 
@@ -448,7 +463,15 @@ a medium/matrix. Nowadays the most commonly used matrix is agarose
 which is a natural polymer extracted from sea weeds. The DNA fragments
 separate (resolve) according to their size through sieving effect provided
 by the agarose gel. Hence, the smaller the fragment size, the farther it
-moves. Look at the Figure 9.3 and guess at which end of the gel the
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch09_biotechnology_principles_and_processes_fig_9_3.png" alt="Fig. 9.3" onclick="openImageModal(this.src, 'Fig. 9.3: You may have realised that normally, unless one cuts the vector and the source D...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.3</strong> You may have realised that normally, unless one cuts the vector and the source DNA with the same restriction enzyme, the recombinant vector molecule cannot be created. Separation and isolation of DNA fragments : The cutting of DNA by restriction endonucleases results in the fragments of DNA. These fragments can be separated by a technique known as gel electrophoresis. Since DNA fragments are negatively charged molecules they can be separated by forcing them to move towards the anode under an electric field through a medium/matrix. Nowadays the most commonly used matrix is agarose which is a natural polymer extracted from sea weeds. The DNA fragments separate (resolve) according to their size through sieving effect provided by the agarose gel. Hence, the smaller the fragment size, the farther it moves. Look at the Figure 9.3 and guess at which end of the gel the sample was loaded.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 sample was loaded.
 
 DNA
@@ -505,7 +528,7 @@ bacteriophage. Vectors used at present, are engineered in such a way
 that they help easy linking of foreign DNA and selection of recombinants
 from non-recombinants.
 
-Reprint 2025-26
+
 
 
 ---
@@ -548,7 +571,15 @@ used restriction enzymes. Presence of
 more than one recognition sites within
 the vector will generate several
 fragments, which will complicate the
-gene cloning (Figure 9.4). The ligation
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch09_biotechnology_principles_and_processes_fig_9_4.png" alt="Fig. 9.4" onclick="openImageModal(this.src, 'Fig. 9.4: (i) Origin of replication (ori) : This is a sequence from where replication star...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.4</strong> (i) Origin of replication (ori) : This is a sequence from where replication starts and any piece of DNA when linked to this sequence can be made to replicate within the host cells. This sequence is also responsible for controlling the copy number of the linked DNA. So, if one wants to recover many copies of the target DNA it should be cloned in a vector whose origin support high copy number. (ii) Selectable marker : In addition to ‘ori’, the vector requires a selectable marker, which helps in identifying and eliminating non- transformants and selectively permitting the growth of the transformants. Transformation is a procedure through which a piece of DNA is introduced in a host bacterium (you will study the process in subsequent section). Normally, the genes encoding resistance to antibiotics such as ampicillin, chloramphenicol, tetracycline or kanamycin, etc., are considered useful selectable markers for E. coli. The normal E. coli cells do not carry resistance against any of these antibiotics. (iii) Cloning sites: In order to link the alien DNA, the vector needs to have very few, preferably single, recognition sites for the commonly used restriction enzymes. Presence of more than one recognition sites within the vector will generate several fragments, which will complicate the gene cloning (Figure 9.4). The ligation of alien DNA is carried out at a restriction site present in one of the two antibiotic resistance genes. For example, you can ligate a foreign DNA at the BamH I site of tetracycline resistance gene in the vector pBR322. The recombinant plasmids will lose tetracycline resistance due to insertion of foreign DNA but can still be selected out from non-recombinant ones by plating the transformants on ampicillin containing medium. The transformants growing on ampicillin containing medium are then transferred on a medium containing tetracycline. The recombinants will grow in ampicillin containing medium but not on that containing tetracycline. But, non- recombinants will grow on the medium containing both the antibiotics. In this case, one antibiotic resistance gene helps in selecting the transformants, whereas the other antibiotic resistance</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 of alien DNA is carried out at a
 restriction site present in one of the two
 antibiotic resistance genes. For
@@ -602,7 +633,7 @@ selecting the transformants, whereas the other antibiotic resistance
 
 169
 
-Reprint 2025-26
+
 
 
 ---
@@ -667,7 +698,7 @@ bacterial cells must first be made 'competent' to take up DNA. This is
 done by treating them with a specific concentration of a divalent cation,
 such as calcium, which increases the efficiency with which DNA enters
 
-Reprint 2025-26
+
 
 
 ---
@@ -721,7 +752,14 @@ treatment with ribonuclease whereas proteins can be removed by
 treatment with protease. Other molecules can be removed by appropriate
 treatments and purified DNA ultimately precipitates out after the addition
 of chilled ethanol. This can be seen as collection of fine threads in the
-suspension (Figure 9.5).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch09_biotechnology_principles_and_processes_fig_9_5.png" alt="Fig. 9.5" onclick="openImageModal(this.src, 'Fig. 9.5: Recall that nucleic acid is the genetic material of all organisms without except...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.5</strong> Recall that nucleic acid is the genetic material of all organisms without exception. In majority of organisms this is deoxyribonucleic acid or DNA. In order to cut the DNA with restriction enzymes, it needs to be in pure form, free from other macro-molecules. Since the DNA is enclosed within the membranes, we have to break the cell open to release DNA along with other macromolecules such as RNA, proteins, polysaccharides and also lipids. This can be achieved by treating the bacterial cells/plant or animal tissue with enzymes such as lysozyme (bacteria), cellulase (plant cells), chitinase (fungus). You know that genes are located on long molecules of DNA interwined with proteins such as histones. The RNA can be removed by treatment with ribonuclease whereas proteins can be removed by treatment with protease. Other molecules can be removed by appropriate treatments and purified DNA ultimately precipitates out after the addition of chilled ethanol. This can be seen as collection of fine threads in the suspension (Figure 9.5).</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
 
 ed
 
@@ -731,7 +769,7 @@ removed by spooling
 
 171
 
-Reprint 2025-26
+
 
 
 ---
@@ -787,18 +825,13 @@ Denaturation
 
 ### 5.
 
-3
-
-34
-
-5'
-
-3'
-5'
-
-3-
-
-Figure 9.6
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch09_biotechnology_principles_and_processes_fig_9_6.png" alt="Fig. 9.6" onclick="openImageModal(this.src, 'Fig. 9.6: Figure 9.6 Polymerase chain reaction (PCR) : Each cycle has three steps: (i) Den...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.6</strong> Figure 9.6 Polymerase chain reaction (PCR) : Each cycle has three steps: (i) Denaturation; (ii) Primer annealing; and (iii) Extension of primers</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 Primers
 
@@ -830,7 +863,7 @@ Extension
 Polymerase chain reaction (PCR) : Each cycle has three steps: (i) Denaturation;
 (ii) Primer annealing; and (iii) Extension of primers
 
-Reprint 2025-26
+
 
 
 ---
@@ -895,7 +928,7 @@ added from the other to maintain the cells in their physiologically most
 
 173
 
-Reprint 2025-26
+
 
 
 ---
@@ -917,7 +950,14 @@ optimum growth conditions (temperature, pH, substrate, salts, vitamins,
 oxygen).
 
 The most commonly used bioreactors are of stirring type, which are
-shown in Figure 9.7.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch09_biotechnology_principles_and_processes_fig_9_7.png" alt="Fig. 9.7" onclick="openImageModal(this.src, 'Fig. 9.7: The most commonly used bioreactors are of stirring type, which are shown in Figu...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.7</strong> The most commonly used bioreactors are of stirring type, which are shown in Figure 9.7.</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
 Acid/Base
 for pH
@@ -985,7 +1025,7 @@ can be withdrawn periodically.
 After completion of the biosynthetic stage, the product has to be subjected
 through a series of processes before it is ready for marketing as a finished
 
-Reprint 2025-26
+
 
 
 ---
@@ -1045,7 +1085,7 @@ transformation of host cells by foreign DNA in addition to a selectable
 
 marker?
 
-Reprint 2025-26
+
 
 175
 
@@ -1081,9 +1121,9 @@ BIOLOGY
 
 © NCERT
 
-not to be republished
+
 
 176
 
-Reprint 2025-26
+
 

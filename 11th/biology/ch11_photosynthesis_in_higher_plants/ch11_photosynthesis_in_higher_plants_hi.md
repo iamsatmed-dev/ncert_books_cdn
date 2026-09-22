@@ -38,7 +38,7 @@
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -72,13 +72,13 @@ Reprint 2025-26
 
 not tod
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 3
 
-11081CH13
+
 
 11.1 हम क्या जानते
 हैं?
@@ -144,25 +144,19 @@ ed
 आपने शायद शबलित (वेरीगेट) पत्तियों अथवा उस पत्ती में जिसे आंशिक रूप से
 काले कागज से ढक दिया हो और प्रकाश में रखा हो, जिससे स्टार्च (मंड) बनाने का
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 4
 
-134
-
-जीव विज्ञान
-
-(अ)
-
-(स)
-
-(ब)
-
-(द)
-
-चित्र 11.1 प्रीस्टले का प्रयोग
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch11_photosynthesis_in_higher_plants_fig_11_hi.png" alt="चित्र 11" onclick="openImageModal(this.src, 'चित्र 11: tkslsiQ izhLVys (1733&1804) us 1770 esa cgqr ls iz;ksx fd, ftuls irk yxk fd gjs ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 11</strong> tkslsiQ izhLVys (1733&1804) us 1770 esa cgqr ls iz;ksx fd, ftuls irk yxk fd gjs ikS/ksa dh o`f¼ esa gok dh ,d vfuok;Z Hkwfedk gSA vki dks ;kn gksxk fd izhLVys us 1774 esa vkWDlhtu dh [kkst dh FkhA izhLVys us ns[kk fd ,d can LFkku&tSls fd ,d csytkj esa tyus okyh eksecÙkh tYnh gh cq> tkrh gS (fp=k 11-1 v]c]l]n)A blh izdkj fdlh pwgs dk lhfer LFkku esa tYnh gh ne ?kqV tk,xkA bu voyksduksa osQ vk/kj ij mUgksaus ;g fu"d"kZ fudkyk fd pkgs tyrh eksecÙkh gks vFkok dksbZ izk.kh tks ok;q ls lk¡l ysrs gSa] os gok dks {kfr igq¡pkrs gSaA ysfdu tc mlus mlh csy tkj esa ,d iqnhus dk ikS/k j[kk rks mlus ik;k fd pwgk thfor jgk vkSj eksecÙkh Hkh lrr tyrh jghA bl vk/kj ij izhLVys us fuEu ifjdYiuk dh% ^^ikS/s ml ok;q dh {kfriwfrZ djrs gSa] ftUgsa lk¡l ysus okys izk.kh vkSj tyrh gqbZ eksecÙkh de dj nsrh gSA**</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 प्रयोग को किया होगा। स्टार्च के लिए इन पत्तियों के परीक्षण
 से यह बात प्रकट होती है कि प्रकाश-संश्लेषण क्रिया सूर्य के
@@ -211,7 +205,7 @@ not
 जॉन इंजेनहाउज (1730-1799) ने प्रीस्टले द्वारा निर्मित जैसे सेटअप का उपयोग
 किया जिसमें उसने उसे एक बार अंधेरे में और फिर एक बार सूर्य की रोशनी में रखा।
 
-Reprint 2025-26
+
 
 
 ---
@@ -281,7 +275,7 @@ CO₂ + H₂O
 
 2
 
-Reprint 2025-26
+
 
 135
 
@@ -354,7 +348,7 @@ Poo
 
 चित्र 11.2 इलेक्ट्रॉन सूक्ष्मदर्शी के द्वारा दिखाया गया हरित लवक की काट का आरेख प्रस्तुतीकरण
 
-Reprint 2025-26
+
 
 
 ---
@@ -449,7 +443,7 @@ lack Phyllable
 प्रकाश-संश्लेषण के क्रियात्मक वर्णक्रम का
 अध्यारोपित दृश्य का ग्राफ
 
-Reprint 2025-26
+
 
 
 ---
@@ -512,7 +506,7 @@ to be
 
 फोटोन
 
-Reprint 2025-26
+
 
 
 ---
@@ -601,7 +595,7 @@ H2O
 ऑक्सीजन उत्पन्न होती है, जो प्रकाश-संश्लेषण का एक शुद्ध उत्पाद है। फोटोसिस्टम I
 से निकलने वाले इलेक्ट्रॉन, फोटोसिस्टम II से उपलब्ध कराए जाते हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -675,7 +669,7 @@ not
 संचित होता है। श्वसन में प्रोटोन माइटोकांड्रिया की अंतरा झिल्ली अवकोशिका में संचित
 होती है, जब इलेक्ट्रॉन इटीएस (अध्याय 12) से गुजरते हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -779,7 +773,7 @@ CF
 
 चित्र 11.7 रसोपरासरण के द्वारा एटीपी का निर्माण
 
-Reprint 2025-26
+
 
 अवकाशिका
 (उच्च H*)
@@ -837,7 +831,7 @@ notf
 प्रक्रिया जारी रहती है और इसके बाद बंद हो जाती है। यदि इसके बाद पुनः प्रकाश
 उपलब्ध होता है तो संश्लेषण पुनः आरंभ हो जाता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -899,7 +893,7 @@ C. पथ और जिनका पहला उत्पाद C₁ अम्�
 वर्ष तक प्रयत्न किए। अंततः उन्होंने पाँच कार्बन वाले RuBP की खोज करने में सफलता
 प्राप्त की।
 
-Reprint 2025-26
+
 
 143
 
@@ -939,7 +933,7 @@ CO2 + H₂O
 
 3-फौस्फोग्लिसेरेट
 
-not to be republished
+
 
 एटीपी
 
@@ -969,7 +963,7 @@ not to be republished
 रासायनिक ग्राही तथा एनएडीपीएच की मदद से होता है तथा (3) पुनरुद्भवन जिसमें CO₂
 ग्राही राइबुलोज-1, 5 बिसफोस्फेट का फिर से निर्माण होता है तथा चक्र चलता रहता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -984,11 +978,7 @@ Reprint 2025-26
 
 ### 2.
 
-### 3.
-
-2
-
-कार्बोक्सिलीकरण - CO, के यौगिकीकरण से एक स्थिर कार्बनिक मध्यस्थ
+### 3.2 कार्बोक्सिलीकरण - CO, के यौगिकीकरण से एक स्थिर कार्बनिक मध्यस्थ
 बनता है। केल्विन चक्र में कार्बोक्सिलीकरण एक अत्यधिक निर्णायक चरण
 है जहाँ RuBP के कार्बोक्सिलीकरण के लिए CO, का उपयोग किया जाता है।
 यह प्रतिक्रिया एंजाइम RuBP कार्बोक्सिलेस के द्वारा उत्प्रेरित होती है, जिसके
@@ -1048,7 +1038,7 @@ C. पथ जैसा कि पहले बताया गया है क�
 हैं उनमें C₁ पथ होता है। इन पौधों में CO₂ को यौगिकीकरण का पहला उत्पाद यद्यपि
 C₁ औक्जेलोएसिटिक अम्ल होता है फिर भी इनके मुख्य जैव संश्लेषण पथ में C पथ
 
-Reprint 2025-26
+
 
 ished
 
@@ -1156,7 +1146,7 @@ CO₂ का प्राथमिक ग्राही एक 3 कार्�
 एंजाइम नहीं होता है। C अम्ल ओएए
 पर्णमध्योतक कोशिका में निर्मित होता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1222,7 +1212,7 @@ C3 पौधों में कुछ O₂ रुबिस्को से ब�
 श्वसन पथ में एटीपी अथवा एनएडीपीएच का संश्लेषण नहीं होता। प्रकाश श्वसन के जैविक
 कार्य के बारे में अभी तक पता नहीं है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1335,7 +1325,7 @@ not to be repu lished
 शारीर देखें तथा उन्हें उपयुक्त खाने
 (कॉलम) में भरें।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1413,7 +1403,7 @@ IF 22 146 lakhpatlal K
 चित्र 11.10 प्रकाश की तीव्रता का प्रकाशसंश्लेषण
 के दर पर प्रभाव का ग्राफ
 
-Reprint 2025-26
+
 
 
 ---
@@ -1476,7 +1466,7 @@ C. पादपों के लिए सीमाकारी है।
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -1533,7 +1523,7 @@ II होते हैं। पीएस I के अभिक्रिया �
 एच इस्तेमाल होता है। इसके साथ ही C पौधों में रुबिस्को एक निरर्थक ऑक्सीजिनेशन प्रतिक्रियाः प्रकाश
 श्वसन को उत्प्रेरित करता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1588,7 +1578,16 @@ Reprint 2025-26
 करें अथवा गमले में लगे धूप में रखे हुए तथा छाया में रखे हुए पौधों के बीच तुलना करें। कौन सा
 गहरे हरे रंग का होता है, और क्यों?
 
-प्रकाश-संश्लेषण की दर पर प्रकाश का प्रभाव पड़ता है (चित्र 13.10)। ग्राफ के आधार पर निम्नलिखित
+प्रकाश-संश्लेषण की दर पर प्रकाश का प्रभाव पड़ता है (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch11_photosynthesis_in_higher_plants_fig_13_hi.png" alt="चित्र 13" onclick="openImageModal(this.src, 'चित्र 13: 1- ,d ikS/s dks ckgj ls ns[kdj D;k vki crk ldrs gSa fd og C3 gS vFkok C4\ oSQls ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13</strong> 1- ,d ikS/s dks ckgj ls ns[kdj D;k vki crk ldrs gSa fd og C3 gS vFkok C4\ oSQls vkSj D;ksa\ 2- ,d ikS/s dh vkarfjd lajpuk dks ns[kdj D;k vki crk ldrs gSa fd og C3 gS vFkok C4\ o.kZu djsa\ 3- gkykafd C4 ikS/s esa cgqr de dksf'kdk,a tSo&la'ys"k.k & osQfYou iFk dks ogu djrs gaS] fiQj Hkh os mPp mRikndrk okys gksrs gSaA D;k bl ij ppkZ dj ldrs gks fd ,slk D;ksa gSa\ 4- #fcLdks (RuBisCO) ,d ,atkbe gS tks dkcksZfDlysl vkSj vkWDlhftusl osQ :i esa dke djrk gSA vki ,slk D;ksa ekurs gSa fd C4 ikS/ksa esa] #fcLdks vf/d ek=kk esa dkcksZfDlys'ku djrk gS\ 5- eku yhft,] ;gk¡ ij DyksjksfiQy ch dh mPp lkanzrk ;qDr] exj DyksjksfiQy , dh deh okys isM+ FksA D;k ;s izdk'k&la'ys"k.k djrs gksaxs\ rc ikS/ksa esa DyksjksfiQy ch D;ksa gksrk gSa\ vkSj fiQj nwljs xkS.k o.kZdksa dh D;k t:jr gS\ 6- ;fn iÙkh dks va/sjs esa j[k fn;k x;k gks rks mldk jax Øe'k% ihyk ,oa gjk ihyk gks tkrk gS\ dkSu ls o.kZd vkidh lksp esa vf/d LFkk;h gSa\ 7- ,d gh ikS/s dh iÙkh dk Nk;k okyk (mYVk) Hkkx ns[ksa vkSj mlosQ ped okys (lh/s) Hkkx ls rqyuk djsa vFkok xeys esa yxs /wi esa j[ks gq, rFkk Nk;k esa j[ks gq, ikS/ksa osQ chp rqyuk djsaA dkSu lk xgjs gjs jax dk gksrk gS] vkSj D;ksa\ 8- izdk'k&la'ys"k.k dh nj ij izdk'k dk izHkko iM+rk gS (fp=k 13-10)A xzkiQ osQ vk/kj ij fuEufyf[kr iz'ukas osQ mÙkj nsa% (v) oØ osQ fdl fcanq vFkok fcanqvksa ij (d] [k] vFkok x) izdk'k ,d fu;ked dkjd gS\ (c) d fcanq ij fu;ked dkjd dkSu ls gSa\ (l) oØ esa x vkSj ?k D;k fu:fir djrk gS\ 9- fuEukafdr esa rqyuk djsa& (v) C3 ,oa C4</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
+
 प्रश्नों के उत्तर देंः
 
 (अ) वक्र के किस बिंदु अथवा बिंदुओं पर (क, ख, अथवा ग) प्रकाश एक नियामक कारक है?
@@ -1607,5 +1606,5 @@ Reprint 2025-26
 
 no
 
-Reprint 2025-26
+
 

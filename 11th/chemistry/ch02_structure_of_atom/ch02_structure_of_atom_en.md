@@ -9,7 +9,7 @@ STRUCTURE OF ATOM
 
 UNIT 2
 
-11082CH02
+
 
 Objectives
 
@@ -102,7 +102,7 @@ atoms are made of sub-atomic particles, i.e., electrons,
 protons and neutrons a concept very different from
 that of Dalton.
 
-Reprint 2026-27
+
 
 
 ---
@@ -125,15 +125,13 @@ basic rule regarding the behaviour of charged
 particles : "Like charges repel each other and
 unlike charges attract each other”.
 
-cathode
-
-+
-
-anode
-
-High voltage
-
-Fig. 2.1(a) A cathode ray discharge tube
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch02_structure_of_atom_fig_2_1.png" alt="Fig. 2.1" onclick="openImageModal(this.src, 'Fig. 2.1: In mid 1850s many scientists mainly Faraday began to study electrical discharge ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.1</strong> In mid 1850s many scientists mainly Faraday began to study electrical discharge in partially evacuated tubes, known as cathode ray discharge tubes. It is depicted in Fig. 2.1. A cathode ray tube is made of glass containing two thin pieces of metal, called electrodes, sealed in it. The electrical discharge through the gases could be observed only at very low pressures and at very high voltages. The pressure of different gases could be adjusted by evacuation of the glass tubes. When sufficiently high voltage is applied across the electrodes, current starts flowing through a stream of particles moving in the tube from the negative electrode (cathode) to the positive electrode (anode). These were called cathode rays or cathode ray particles. The flow of current from cathode to anode was further checked by making a hole in the anode and coating the tube behind anode with phosphorescent material zinc sulphide. When these rays, after passing through anode, strike the zinc sulphide coating, a bright spot is developed on the coating [Fig. 2.1(b)].</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 ### 2.1.1 Discovery of Electron
 
@@ -214,7 +212,14 @@ phosphorescent materials.
 
 (iii) In the absence of electrical or magnetic
 field, these rays travel in straight lines
-(Fig. 2.2).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch02_structure_of_atom_fig_2_2.png" alt="Fig. 2.2" onclick="openImageModal(this.src, 'Fig. 2.2: field, these rays travel in straight lines (Fig. 2.2). (iv) In the presence of e...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.2</strong> field, these rays travel in straight lines (Fig. 2.2). (iv) In the presence of electrical or magnetic field, the behaviour of cathode rays are similar to that expected from negatively charged particles, suggesting that the cathode rays consist of negatively charged particles, called electrons. (v) The characteristics of cathode rays (electrons) do not depend upon the</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 (iv) In the presence of electrical or magnetic
 field, the behaviour of cathode rays are
@@ -228,7 +233,7 @@ charged particles, called electrons.
 The characteristics of cathode rays
 (electrons) do not depend upon the
 
-Reprint 2026-27
+
 
 
 ---
@@ -345,7 +350,7 @@ Magnet
 
 Fig. 2.2 The apparatus to determine the charge to the mass ratio of electron
 
-Reprint 2026-27
+
 
 
 ---
@@ -400,9 +405,7 @@ these particles as neutrons. The important
 properties of all these fundamental particles
 are given in Table 2.1.
 
-### 2.2
-
-to
+### 2.2 to
 
 ΑΤΟMIC MODELS
 
@@ -440,17 +443,13 @@ electrical charge, q, on the droplets is always
 an integral multiple of the electrical charge,
 e, that is, q = n e, where n = 1, 2, 3... .
 
-Atomizer
-
-Oil droplets
-
-Charged plate (+)
-
-日
-
-Telescope
-
-Fig. 2.3
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch02_structure_of_atom_fig_2_3.png" alt="Fig. 2.3" onclick="openImageModal(this.src, 'Fig. 2.3: Fig. 2.3 The Millikan oil drop apparatus for measuring charge ‘e’. In chamber, t...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.3</strong> Fig. 2.3 The Millikan oil drop apparatus for measuring charge ‘e’. In chamber, the forces acting on oil drop are: gravitational, electrostatic due to electrical field and a viscous drag force when the oil drop is moving.</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 Small hole
 
@@ -491,7 +490,7 @@ radiation absorbed or emitted by atoms.
 
 •
 
-Reprint 2026-27
+
 
 
 ---
@@ -570,7 +569,15 @@ approximately 10-10 m) in which the positive
 charge is uniformly distributed. The electrons
 are embedded into it in such a manner as to
 give the most stable electrostatic arrangement
-(Fig. 2.4). Many different names are given
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch02_structure_of_atom_fig_2_4.png" alt="Fig. 2.4" onclick="openImageModal(this.src, 'Fig. 2.4: 2.2.1 Thomson Model of Atom J. J. Thomson, in 1898, proposed that an atom posses...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.4</strong> 2.2.1 Thomson Model of Atom J. J. Thomson, in 1898, proposed that an atom possesses a spherical shape (radius approximately 10–10 m) in which the positive charge is uniformly distributed. The electrons are embedded into it in such a manner as to give the most stable electrostatic arrangement (Fig. 2.4). Many different names are given to this model, for example, plum pudding, raisin pudding or watermelon. This model</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 to this model, for example, plum pudding,
 raisin pudding or watermelon. This model
 
@@ -631,7 +638,7 @@ that a- particles are helium nuclei as when a-
 particles combined with two electrons yielded
 helium gas. ẞ-rays are negatively charged
 
-Reprint 2026-27
+
 
 33
 
@@ -657,15 +664,14 @@ and Ernest Marsden) bombarded very thin
 gold foil with a-particles. Rutherford's famous
 a-particle scattering experiment is
 
-**
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch02_structure_of_atom_fig_2_5.png" alt="Fig. 2.5" onclick="openImageModal(this.src, 'Fig. 2.5: represented in Fig. 2.5. A stream of high energy α–particles from a radioactive ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.5</strong> represented in Fig. 2.5. A stream of high energy α–particles from a radioactive source was directed at a thin foil (thickness ∼ 100 nm) of gold metal. The thin gold foil had a circular fluorescent zinc sulphide screen around it. Whenever α–particles struck the screen, a tiny flash of light was produced at that point.</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
-*
-
-Gold foil
-
-*
-
-represented in Fig. 2.5. A stream of high
 energy a-particles from a radioactive source
 was directed at a thin foil (thickness ~ 100 nm)
 of gold metal. The thin gold foil had a circular
@@ -781,7 +787,7 @@ the atom is about 10-10 m, while that of
 nucleus is 10-15 m. One can appreciate
 this difference in size by realising that if
 
-Reprint 2026-27
+
 
 
 ---
@@ -901,7 +907,7 @@ on the chemical properties of an element.
 Therefore, all the isotopes of a given element
 show same chemical behaviour.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1033,7 +1039,7 @@ why not consider electrons as stationary
 Classical mechanics is a theoretical science based on Newton's laws of motion. It specifies the laws of motion of macroscopic
 objects.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1131,7 +1137,15 @@ established.
 
 Maxwell was again the first to reveal that
 light waves are associated with oscillating
-electric and magnetic character (Fig. 2.6).
+electric and magnetic character (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch02_structure_of_atom_fig_2_6.png" alt="Fig. 2.6" onclick="openImageModal(this.src, 'Fig. 2.6: Maxwell was again the first to reveal that light waves are associated with oscil...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.6</strong> Maxwell was again the first to reveal that light waves are associated with oscillating electric and magnetic character (Fig. 2.6).</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 y
 
@@ -1165,7 +1179,7 @@ a few simple properties.
 The oscillating electric and magnetic
 fields produced by oscillating charged
 
-Reprint 2026-27
+
 
 
 ---
@@ -1193,8 +1207,15 @@ vacuum.
 are many types of electromagnetic
 radiations, which differ from one
 another in wavelength (or frequency).
-These constitute what is called
-electromagnetic spectrum (Fig. 2.7).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch02_structure_of_atom_fig_2_7.png" alt="Fig. 2.7" onclick="openImageModal(this.src, 'Fig. 2.7: are many types of electromagnetic radiations, which differ from one another in w...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.7</strong> are many types of electromagnetic radiations, which differ from one another in wavelength (or frequency). These constitute what is called electromagnetic spectrum (Fig. 2.7). Different regions of the spectrum are identified by different names. Some examples are: radio frequency region around 106 Hz, used for broadcasting; microwave region around 1010 Hz used for radar; infrared region around 1013</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 Different regions of the spectrum are
 identified by different names. Some
 examples are: radio frequency region
@@ -1301,7 +1322,7 @@ Fig. 2.7
 
 a small part of the entire spectrum.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1450,7 +1471,7 @@ Diffraction is the bending of wave around an obstacle.
 ** Interference is the combination of two waves of the same or different frequencies to give a wave whose distribution at each
 point in space is the algebraic or vector sum of disturbances at that point resulting from each interfering wave.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1529,7 +1550,15 @@ intensity of radiation emitted increases
 with the increase of wavelength, reaches a
 maximum value at a given wavelength and
 then starts decreasing with further increase of
-wavelength, as shown in Fig. 2.8. Also, as the
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch02_structure_of_atom_fig_2_8.png" alt="Fig. 2.8" onclick="openImageModal(this.src, 'Fig. 2.8: entering the hole will be reflected by the cavity walls and will be eventually a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.8</strong> entering the hole will be reflected by the cavity walls and will be eventually absorbed by the walls. A black body is also a perfect radiator of radiant energy. Furthermore, a black body is in thermal equilibrium with its surroundings. It radiates same amount of energy per unit area as it absorbs from its surrounding in any given time. The amount of light emitted (intensity of radiation) from a black body and its spectral distribution depends only on its temperature. At a given temperature, intensity of radiation emitted increases with the increase of wavelength, reaches a maximum value at a given wavelength and then starts decreasing with further increase of wavelength, as shown in Fig. 2.8. Also, as the temperature increases, maxima of the curve shifts to short wavelength. Several attempts were made to predict the intensity of radiation as a function of wavelength.</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
 temperature increases, maxima of the curve
 shifts to short wavelength. Several attempts
 were made to predict the intensity of radiation
@@ -1562,7 +1591,7 @@ Fig. 2.8(a) Black body
 
 ←
 
-Reprint 2026-27
+
 
 
 ---
@@ -1613,9 +1642,13 @@ values between them.
 
 E = 0, hv, 2hv, 3hv....nhv.....
 
-Ammeter
-
-Fig.2.9
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch02_structure_of_atom_fig_2_9.png" alt="Fig. 2.9" onclick="openImageModal(this.src, 'Fig. 2.9: Photoelectric Effect In 1887, H. Hertz performed a very interesting experiment i...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.9</strong> Photoelectric Effect In 1887, H. Hertz performed a very interesting experiment in which electrons (or electric current) were ejected when certain metals (for example potassium, rubidium, caesium etc.) were exposed to a beam of light as shown in Fig. 2.9. The phenomenon is called Photoelectric effect. The results observed in this experiment were: (i) The electrons are ejected from the metal surface as soon as the beam of light strikes the surface, i.e., there is no time lag between the striking of light beam and the ejection of electrons from the metal surface. (ii) The number of electrons ejected is proportional to the intensity or brightness of light. (iii) For each metal, there is a characteristic</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 Light
 
@@ -1698,7 +1731,7 @@ ejected and kinetic energy associated with
 them should depend on the brightness of light.
 It has been observed that though the number
 
-Reprint 2026-27
+
 
 
 ---
@@ -1722,9 +1755,7 @@ K
 
 ### 2.3
 
-### 2.25
-
-Mg
+### 2.25 Mg
 3.7
 
 Cu
@@ -1733,9 +1764,7 @@ Ag
 
 ### 4.8
 
-### 4.3
-
-CHEMISTRY
+### 4.3 CHEMISTRY
 
 of electrons ejected does depend upon the
 brightness of light, the kinetic energy of the
@@ -1837,7 +1866,7 @@ as you shall see later, that some microscopic
 particles like electrons also exhibit this wave-
 particle duality.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1995,7 +2024,7 @@ Kinetic energy = ½ mv²=h(v – v｡)
 = (6.626 × 10-34 J s) × (3.0 × 1014 s¯¹)
 = 1.988 × 10-19 J
 
-Reprint 2026-27
+
 
 43
 
@@ -2082,7 +2111,14 @@ wavelengths with dark spaces between them.
 Such spectra are called line spectra or
 atomic spectra because the emitted radiation
 is identified by the appearance of bright lines
-in the spectra (Fig. 2.10 page 45).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch02_structure_of_atom_fig_2_10.png" alt="Fig. 2.10" onclick="openImageModal(this.src, 'Fig. 2.10: The study of emission or absorption spectra is referred to as spectroscopy. The ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.10</strong> The study of emission or absorption spectra is referred to as spectroscopy. The spectrum of the visible light, as discussed above, was continuous as all wavelengths (red to violet) of the visible light are represented in the spectra. The emission spectra of atoms in the gas phase, on the other hand, do not show a continuous spread of wavelength from red to violet, rather they emit light only at specific wavelengths with dark spaces between them. Such spectra are called line spectra or atomic spectra because the emitted radiation is identified by the appearance of bright lines in the spectra (Fig. 2.10 page 45).</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
 Line emission spectra are of great
 interest in the study of electronic structure.
@@ -2118,7 +2154,7 @@ on the basis of experimental observations
 
 The restriction of any property to discrete values is called quantization.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2217,7 +2253,16 @@ series of lines that correspond to n₁ = 1, 2, 3,
 4, 5 are known as Lyman, Balmer, Paschen,
 Bracket and Pfund series, respectively,
 Table 2.3 shows these series of transitions in
-the hydrogen spectrum. Fig. 2.11 (page, 46)
+the hydrogen spectrum.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch02_structure_of_atom_fig_2_11.png" alt="Fig. 2.11" onclick="openImageModal(this.src, 'Fig. 2.11: The value 109,677 cm–1 is called the Rydberg constant for hydrogen. The first fi...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.11</strong> The value 109,677 cm–1 is called the Rydberg constant for hydrogen. The first five series of lines that correspond to n1 = 1, 2, 3, 4, 5 are known as Lyman, Balmer, Paschen, Bracket and Pfund series, respectively, Table 2.3 shows these series of transitions in the hydrogen spectrum. Fig. 2.11 (page, 46) shows the Lyman, Balmer and Paschen series of transitions for hydrogen atom.</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 shows the Lyman, Balmer and Paschen series
 of transitions for hydrogen atom.
 
@@ -2270,7 +2315,7 @@ Pfund
 
 Infrared
 
-Reprint 2026-27
+
 
 
 ---
@@ -2420,7 +2465,7 @@ n = 1,2,3.....
 
 (2.11)
 
-Reprint 2026-27
+
 
 
 ---
@@ -2570,7 +2615,7 @@ most negative energy value is given by
 n=1 which corresponds to the most stable
 orbit. We call this the ground state.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2786,7 +2831,7 @@ intensity of spectral lines depends upon the
 number of photons of same wavelength or
 frequency absorbed or emitted.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2935,9 +2980,7 @@ points mentioned above, one needs a better
 theory which can explain the salient features
 of the structure of complex atoms.
 
-### 2.5
-
-TOWARDS QUANTUM MECHANICAL
+### 2.5 TOWARDS QUANTUM MECHANICAL
 MODEL OF THE ATOM
 
 In view of the shortcoming of the Bohr's
@@ -2964,7 +3007,7 @@ from this analogy, gave the following relation
 between wavelength (λ) and momentum (p) of
 a material particle.
 
-Reprint 2026-27
+
 
 
 ---
@@ -3124,7 +3167,7 @@ of an electron.
 Mathematically, it can be given as in
 equation (2.23).
 
-Reprint 2026-27
+
 
 
 ---
@@ -3248,7 +3291,7 @@ mountain climber. Heisenberg was awarded the Nobel Prize in Physics in 1932.
 
 ≈ 10-28m2s-1
 
-Reprint 2026-27
+
 
 
 ---
@@ -3399,7 +3442,7 @@ of the hydrogen atom, therefore, not only
 ignores dual behaviour of matter but also
 contradicts Heisenberg uncertainty principle.
 
-Reprint 2026-27
+
 
 
 ---
@@ -3518,7 +3561,7 @@ natural consequence in the solution of the
 Schrödinger equation. When an electron
 is in any energy state, the wave function
 
-Reprint 2026-27
+
 
 
 ---
@@ -3640,7 +3683,7 @@ will most probably be found.
 A large number of orbitals are possible in
 an atom. Qualitatively these orbitals can
 
-Reprint 2026-27
+
 
 
 ---
@@ -3816,7 +3859,7 @@ orbitals]. For l = 2, m₁ = −2, −1, 0, +1 and +2,
 that the values of m₁ are derived from land
 that the value of lare derived from n.
 
-Reprint 2026-27
+
 
 
 ---
@@ -3931,7 +3974,7 @@ The total probability of finding the electron in a given volume can then be calc
 of all the products of | y|2 and the corresponding volume elements. It is thus possible to get the
 probable distribution of an electron in an orbital.
 
-Reprint 2026-27
+
 
 
 ---
@@ -4031,7 +4074,16 @@ is simply a mathematical function of the
 coordinates of the electron. However, for
 different orbitals the plots of corresponding
 wave functions as a function of r (the distance
-from the nucleus) are different. Fig. 2.12(a),
+from the nucleus) are different.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch02_structure_of_atom_fig_2_12.png" alt="Fig. 2.12" onclick="openImageModal(this.src, 'Fig. 2.12: According to the German physicist, Max Born, the square of the wave function (i....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.12</strong> According to the German physicist, Max Born, the square of the wave function (i.e.,ψ 2) at a point gives the probability density of the electron at that point. The variation of ψ 2 as a function of r for 1s and 2s orbitals is given in Fig. 2.12(b). Here again, you may note that the curves for 1s and 2s orbitals are different.</span>
+    <button class="icon-btn" onclick="goToPdfPage(29)">📄 View in PDF (Page 29)</button>
+  </div>
+</div>
+
 gives such plots for 1s (n = 1, l = 0) and 2s
 (n = 2, 1 = 0) orbitals.
 
@@ -4160,10 +4212,14 @@ for 2s orbital is one, two for 3s and so on.
 
 These probability density variation can be
 visualised in terms of charge cloud diagrams
-[Fig. 2.13(a)]. In these diagrams, the density
 
-Reprint 2026-27
-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch02_structure_of_atom_fig_2_13.png" alt="Fig. 2.13" onclick="openImageModal(this.src, 'Fig. 2.13: These probability density variation can be visualised in terms of charge cloud d...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.13</strong> These probability density variation can be visualised in terms of charge cloud diagrams [Fig. 2.13(a)]. In these diagrams, the density</span>
+    <button class="icon-btn" onclick="goToPdfPage(29)">📄 View in PDF (Page 29)</button>
+  </div>
+</div>
 
 ---
 ## 📄 Page 30
@@ -4241,7 +4297,14 @@ the nucleus as the principal quantum number
 increases.
 
 Boundary surface diagrams for three
-2p orbitals (l = 1) are shown in Fig. 2.14. In
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch02_structure_of_atom_fig_2_14.png" alt="Fig. 2.14" onclick="openImageModal(this.src, 'Fig. 2.14: Boundary surface diagrams for three 2p orbitals (l = 1) are shown in Fig. 2.14. ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.14</strong> Boundary surface diagrams for three 2p orbitals (l = 1) are shown in Fig. 2.14. In</span>
+    <button class="icon-btn" onclick="goToPdfPage(30)">📄 View in PDF (Page 30)</button>
+  </div>
+</div>
 
 *
 
@@ -4282,7 +4345,7 @@ for ||² and || are identical.
 
 2
 
-Reprint 2026-27
+
 
 
 ---
@@ -4357,7 +4420,15 @@ number (n) has to be 3. as the value of I cannot
 be greater than n−1. There are five m₁ values
 (−2, -1, 0, +1 and +2) for l = 2 and thus there
 are five d orbitals. The boundary surface
-diagram of d orbitals are shown in Fig. 2.15.
+diagram of d orbitals are shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch02_structure_of_atom_fig_2_15.png" alt="Fig. 2.15" onclick="openImageModal(this.src, 'Fig. 2.15: For l = 2, the orbital is known as d-orbital and the minimum value of principal ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.15</strong> For l = 2, the orbital is known as d-orbital and the minimum value of principal quantum number (n) has to be 3. as the value of l cannot be greater than n–1. There are five ml values (–2, –1, 0, +1 and +2) for l = 2 and thus there are five d orbitals. The boundary surface diagram of d orbitals are shown in Fig. 2.15.</span>
+    <button class="icon-btn" onclick="goToPdfPage(31)">📄 View in PDF (Page 31)</button>
+  </div>
+</div>
 
 The five d-orbitals are designated as dy,
 dyz, dxz, dx2-y2 and d₂2. The shapes of the first
@@ -4411,7 +4482,7 @@ radial nodes.
 The energy of an electron in a hydrogen atom
 is determined solely by the principal quantum
 
-Reprint 2026-27
+
 
 
 ---
@@ -4423,9 +4494,15 @@ number. Thus the energy of the orbitals in
 hydrogen atom increases as follows :
 
 1s < 2s = 2p < 3s = 3p = 3d <4s = 4p = 4d
-= 4f <
-(2.23)
-and is depicted in Fig. 2.16. Although the
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch02_structure_of_atom_fig_2_16.png" alt="Fig. 2.16" onclick="openImageModal(this.src, 'Fig. 2.16: 1s < 2s = 2p < 3s = 3p = 3d <4s = 4p = 4d = 4f < (2.23) and is depicted in Fig. ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.16</strong> 1s < 2s = 2p < 3s = 3p = 3d <4s = 4p = 4d = 4f < (2.23) and is depicted in Fig. 2.16. Although the shapes of 2s and 2p orbitals are different, an electron has the same energy when it is in the 2s orbital as when it is present in 2p orbital. The orbitals having the same energy are called degenerate. The 1s orbital in a hydrogen atom, as said earlier, corresponds to the most stable condition and is called the ground state and an electron residing in this orbital is most strongly held by the nucleus. An electron in the 2s, 2p or higher orbitals in a hydrogen atom is in excited state.</span>
+    <button class="icon-btn" onclick="goToPdfPage(32)">📄 View in PDF (Page 32)</button>
+  </div>
+</div>
+
 shapes of 2s and 2p orbitals are different,
 an electron has the same energy when it is
 in the 2s orbital as when it is present in 2p
@@ -4528,7 +4605,7 @@ with same principal quantum number
 possess different energies for different
 azimuthal quantum numbers.
 
-Reprint 2026-27
+
 
 
 ---
@@ -4716,7 +4793,7 @@ Aufbau Principle
 The word 'aufbau' in German means ‘building
 up'. The building up of orbitals means the
 
-Reprint 2026-27
+
 
 
 ---
@@ -4746,7 +4823,14 @@ the orbitals is extremely useful:
 4f, 5d, 6p, 7s...
 
 The order may be remembered by using
-the method given in Fig. 2.17. Starting from
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch02_structure_of_atom_fig_2_17.png" alt="Fig. 2.17" onclick="openImageModal(this.src, 'Fig. 2.17: The order may be remembered by using the method given in Fig. 2.17. Starting fro...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.17</strong> The order may be remembered by using the method given in Fig. 2.17. Starting from</span>
+    <button class="icon-btn" onclick="goToPdfPage(34)">📄 View in PDF (Page 34)</button>
+  </div>
+</div>
 
 1s
 
@@ -4843,7 +4927,7 @@ the orbitals belonging to the same subshell
 (that is, orbitals of equal energy, called
 degenerate orbitals). It states : pairing of
 
-Reprint 2026-27
+
 
 
 ---
@@ -5046,7 +5130,7 @@ of electrons in the first two shells by the
 name of element neon (Ne). The electronic
 configuration of the elements from sodium to
 
-Reprint 2026-27
+
 
 
 ---
@@ -5152,7 +5236,7 @@ configurations of Cr and Cu, therefore, are
 extra stability associated with these electronic
 configurations.
 
-Reprint 2026-27
+
 
 
 ---
@@ -5202,7 +5286,15 @@ this exchange is called exchange energy.
 The number of exchanges that can take
 place is maximum when the subshell
 is either half filled or completely filled
-(Fig. 2.18). As a result the exchange
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch02_structure_of_atom_fig_2_18.png" alt="Fig. 2.18" onclick="openImageModal(this.src, 'Fig. 2.18: The completely filled and completely half-filled subshells are stable due to the...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.18</strong> The completely filled and completely half-filled subshells are stable due to the following reasons: 1. Symmetrical distribution of electrons: It is well known that symmetry leads to stability. The completely filled or half filled subshells have symmetrical distribution of electrons in them and are therefore more stable. Electrons in the same subshell (here 3d) have equal energy but different spatial distribution. Consequently, their shielding of one- another is relatively small and the electrons are more strongly attracted by the nucleus. 2. Exchange Energy : The stabilizing effect arises whenever two or more electrons with the same spin are present in the degenerate orbitals of a subshell. These electrons tend to exchange their positions and the energy released due to this exchange is called exchange energy. The number of exchanges that can take place is maximum when the subshell is either half filled or completely filled (Fig. 2.18). As a result the exchange energy is maximum and so is the stability. You may note that the exchange energy is at the basis of Hund’s rule that electrons which enter orbitals of equal energy have parallel spins as far as possible. In other words, the extra stability of half-filled and completely filled subshell is due to: (i) relatively small shielding, (ii) smaller coulombic repulsion energy, and (iii) larger exchange energy. Details about the exchange energy will be dealt with in higher classes.</span>
+    <button class="icon-btn" onclick="goToPdfPage(37)">📄 View in PDF (Page 37)</button>
+  </div>
+</div>
+
 energy is maximum and so is the stability.
 
 You may note that the exchange
@@ -5234,7 +5326,7 @@ configuration
 
 not
 
-Reprint 2026-27
+
 
 65
 
@@ -6078,7 +6170,7 @@ Xe
 
 * Elements with exceptional electronic configurations
 
-Reprint 2026-27
+
 
 
 ---
@@ -7582,7 +7674,7 @@ Rg** 111 2
 
 ** Elements with atomic number 112 and above have been reported but not yet fully authenticated and named.
 
-Reprint 2026-27
+
 
 67
 
@@ -7650,7 +7742,7 @@ the orbitals in a multi-electron atom depends upon the values of n and l: The lo
 of (n + 1) for an orbital, the lower is its energy. If two orbitals have the same (n + 1) value,
 the orbital with lower value of n has the lower energy. In an atom many such orbitals are
 
-Reprint 2026-27
+
 
 
 ---
@@ -7689,9 +7781,7 @@ Will the answer wer change if the temperature and pressure are changed ?
 
 chan
 
-### 2.3
-
-How many neutrons and protons are there in the following nuclei ?
+### 2.3 How many neutrons and protons are there in the following nuclei ?
 
 13
 
@@ -7703,9 +7793,7 @@ How many neutrons and protons are there in the following nuclei ?
 
 18C, 180, Mg, Fe, 38 Sr
 
-### 2.4
-
-n with th
+### 2.4 n with th
 
 Write the complete symbol for the atom with the given atomic number (Z) and atomic
 mass (A)
@@ -7716,14 +7804,10 @@ mass (A)
 
 (iii) Z = 4, A = 9.
 
-### 2.5
-
-Yellow light emitted from a sodium lamp has a wavelength (λ) of 580 nm. Calculate
+### 2.5 Yellow light emitted from a sodium lamp has a wavelength (λ) of 580 nm. Calculate
 the frequency (v) and wavenumber (Ⅳ) of the yellow light.
 
-### 2.6
-
-Find energy of each of the photons which
+### 2.6 Find energy of each of the photons which
 
 (i)
 
@@ -7731,45 +7815,31 @@ correspond to light of frequency 3×1015 Hz.
 
 (ii) have wavelength of 0.50 Å.
 
-### 2.7
-
-Calculate the wavelength, frequency and wavenumber of a light wave whose period
+### 2.7 Calculate the wavelength, frequency and wavenumber of a light wave whose period
 is 2.0 × 10-10 s.
 
-### 2.8
-
-What is the number of photons of light with a wavelength of 4000 pm that provide
+### 2.8 What is the number of photons of light with a wavelength of 4000 pm that provide
 1J of energy?
 
-### 2.9
-
-A photon of wavelength 4 × 10-7 m strikes on metal surface, the work function
+### 2.9 A photon of wavelength 4 × 10-7 m strikes on metal surface, the work function
 of the metal being 2.13 eV. Calculate (i) the energy of the photon (eV),
 (ii) the kinetic energy of the emission, and (iii) the velocity of the photoelectron
 (1 eV= 1.6020 × 10-19 J).
 
-### 2.10
-
-Electromagnetic radiation of wavelength 242 nm is just sufficient to ionise the
+### 2.10 Electromagnetic radiation of wavelength 242 nm is just sufficient to ionise the
 sodium atom. Calculate the ionisation energy of sodium in kJ mol-1.
 
-### 2.11
-
-A 25 watt bulb emits monochromatic yellow light of wavelength of 0.57µm.
+### 2.11 A 25 watt bulb emits monochromatic yellow light of wavelength of 0.57µm.
 Calculate the rate of emission of quanta per second.
 
-### 2.12
-
-Electrons are emitted with zero velocity from a metal surface when it is exposed to
+### 2.12 Electrons are emitted with zero velocity from a metal surface when it is exposed to
 radiation of wavelength 6800 Å. Calculate threshold frequency (v) and work function
 (W) of the metal.
 
-### 2.13
-
-What is the wavelength of light emitted when the electron in a hydrogen atom undergoes
+### 2.13 What is the wavelength of light emitted when the electron in a hydrogen atom undergoes
 transition from an energy level with n = 4 to an energy level with n = 2?
 
-Reprint 2026-27
+
 
 69
 
@@ -7787,9 +7857,7 @@ Reprint 2026-27
 
 ### 2.17
 
-### 2.18
-
-CHEMISTRY
+### 2.18 CHEMISTRY
 
 How much energy is required to ionise a H atom if the electron occupies n = 5 orbit?
 Compare your answer with the ionization enthalpy of H atom (energy required to
@@ -7816,18 +7884,14 @@ energy is -2.18 × 10-11 ergs.
 
 ### 2.20
 
-### 2.21
-
-The electron energy in hydrogen atom is given by E = (-2.18 × 10-18)/n² J. Calculate
+### 2.21 The electron energy in hydrogen atom is given by E = (-2.18 × 10-18)/n² J. Calculate
 the energy required to remove an electron completely from the n = 2 orbit. What is
 the longest wavelength of light in cm that can be used to cause this transition?
 Calculate the wavelength of an electron moving with a velocity of 2.05 × 107 m s¯¹.
 The mass of an electron is 9.1 × 10-31 kg. If its K.E. is 3.0 × 10-25 J, calculate its
 wavelength.
 
-### 2.22
-
-Which of the following are isoelectronic species i.e., those having the same number
+### 2.22 Which of the following are isoelectronic species i.e., those having the same number
 of electrons?
 
 Na+, K+, Mg2+, Ca2+, S2-, Ar.
@@ -7848,19 +7912,13 @@ What is the lowest value of n that allows g orbitals to exist?
 
 ### 2.24
 
-### 2.25
-
-An electron is in one of the 3d orbitals. Give the possible values of n, land m₁ for
+### 2.25 An electron is in one of the 3d orbitals. Give the possible values of n, land m₁ for
 this electron.
 
-### 2.26
-
-An atom of an element contains 29 electrons and 35 neutrons. Deduce (i) the number
+### 2.26 An atom of an element contains 29 electrons and 35 neutrons. Deduce (i) the number
 of protons and (ii) the electronic configuration of the element.
 
-### 2.27
-
-Give the number of electrons in the species H₂, H₂ and O
+### 2.27 Give the number of electrons in the species H₂, H₂ and O
 
 ### 2.28
 
@@ -7932,7 +7990,7 @@ ms
 = + 1/2
 1/2
 
-Reprint 2026-27
+
 
 
 ---
@@ -7966,9 +8024,7 @@ ms
 
 = + 1/2
 
-### 2.31
-
-How many electrons in an atom may have the following quantum numbers?
+### 2.31 How many electrons in an atom may have the following quantum numbers?
 
 (a) n = 4, m
 
@@ -7978,26 +8034,18 @@ How many electrons in an atom may have the following quantum numbers?
 
 (b) n = 3, 1 = 0
 
-### 2.32
-
-Show that the circumference of the Bohr orbit for the hydrogen atom is an integral
+### 2.32 Show that the circumference of the Bohr orbit for the hydrogen atom is an integral
 multiple of the de Broglie wavelength associated with the electron revolving around
 the orbit.
 
-### 2.33
-
-What transition in the hydrogen spectrum would have the same wavelength as the
+### 2.33 What transition in the hydrogen spectrum would have the same wavelength as the
 Balmer transition n = 4 to n = 2 of Het spectrum ?
 
-### 2.34
-
-Calculate the energy required for the process
+### 2.34 Calculate the energy required for the process
 
 He+ (g) → He2+ (g) + e-
 
-### 2.35
-
-The ionization energy for the H atom in the ground state is 2.18 × 10-18 J atom-1
+### 2.35 The ionization energy for the H atom in the ground state is 2.18 × 10-18 J atom-1
 If the diameter of a carbon atom is 0.15 nm, calculate the number of carbon atoms
 which can be placed side by side in a straight line across length of scale of length
 
@@ -8010,26 +8058,18 @@ atom if the length of this arrangement is 2.4 cm.
 
 of carbon
 
-### 2.37
-
-The diameter of zinc atom is 2.6 Å. Calculate (a) radius of zinc atom in pm and
+### 2.37 The diameter of zinc atom is 2.6 Å. Calculate (a) radius of zinc atom in pm and
 (b) number of atoms present in a length of 1.6 cm if the zinc atoms are arranged
 side by side lengthwise.
 
-### 2.38
-
-A certain particle carries 2.5 × 10-16C of static electric charge. Calculate the number
+### 2.38 A certain particle carries 2.5 × 10-16C of static electric charge. Calculate the number
 of electrons present in it.
 
-### 2.39
-
-In Milikan's experiment, static electric charge on the oil drops has been obtained
+### 2.39 In Milikan's experiment, static electric charge on the oil drops has been obtained
 by shining X-rays. If the static electric charge on the oil drop is -1.282 × 10-18C,
 calculate the number of electrons present on it.
 
-### 2.40
-
-In Rutherford's experiment, generally the thin foil of heavy atoms, like gold, platinum
+### 2.40 In Rutherford's experiment, generally the thin foil of heavy atoms, like gold, platinum
 etc. have been used to be bombarded by the a-particles. If the thin foil of light atoms
 like aluminium etc. is used, what difference would be observed from the above
 results?
@@ -8043,39 +8083,29 @@ be writte
 Symbols Brand 79Br can be written, whereas symbols 35 Br and 35Br are not
 acceptable. Answer briefly.
 
-### 2.42
-
-An element with mass number 81 contains 31.7% more neutrons as compared to
+### 2.42 An element with mass number 81 contains 31.7% more neutrons as compared to
 protons. Assign the atomic symbol.
 
 ### 2.43
 
-### 2.44
-
-An ion with mass number 37 possesses one unit of negative charge. If the ion
+### 2.44 An ion with mass number 37 possesses one unit of negative charge. If the ion
 conatins 11.1% more neutrons than the electrons, find the symbol of the ion.
 An ion with mass number 56 contains 3 units of positive charge and 30.4% more
 neutrons than electrons. Assign the symbol to this ion.
 
-### 2.45
-
-Arrange the following type of radiations in increasing order of frequency: (a) radiation
+### 2.45 Arrange the following type of radiations in increasing order of frequency: (a) radiation
 from microwave oven (b) amber light from traffic signal (c) radiation from FM radio
 (d) cosmic rays from outer space and (e) X-rays.
 
-### 2.46
-
-Nitrogen laser produces a radiation at a wavelength of 337.1 nm. If the number of
+### 2.46 Nitrogen laser produces a radiation at a wavelength of 337.1 nm. If the number of
 photons emitted is 5.6 × 1024, calculate the power of this laser.
 
-### 2.47
-
-Neon gas is generally used in the sign boards. If it emits strongly at 616 nm,
+### 2.47 Neon gas is generally used in the sign boards. If it emits strongly at 616 nm,
 calculate (a) the frequency of emission, (b) distance traveled by this radiation in
 30 s (c) energy of quantum and (d) number of quanta present if it produces 2 J of
 energy.
 
-Reprint 2026-27
+
 
 71
 
@@ -8087,9 +8117,7 @@ Reprint 2026-27
 
 ### 2.48
 
-### 2.49
-
-CHEMISTRY
+### 2.49 CHEMISTRY
 
 In astronomical observations, signals observed from the distant stars are generally
 weak. If the photon detector receives a total of 3.15 × 10-18 J from the radiations of
@@ -8100,22 +8128,16 @@ radiation source of duration nearly in the nano second range. If the radiation s
 has the duration of 2 ns and the number of photons emitted during the pulse source
 is 2.5 × 1015, calculate the energy of the source.
 
-### 2.50
-
-The longest wavelength doublet absorption transition is observed at 589 and 589.6
+### 2.50 The longest wavelength doublet absorption transition is observed at 589 and 589.6
 nm. Calcualte the frequency of each transition and energy difference between two
 excited states.
 
-### 2.51
-
-The work function for caesium atom is 1.9 eV. Calculate (a) the threshold wavelength
+### 2.51 The work function for caesium atom is 1.9 eV. Calculate (a) the threshold wavelength
 and (b) the threshold frequency of the radiation. If the caesium element is irradiated
 with a wavelength 500 nm, calculate the kinetic energy and the velocity of the ejected
 photoelectron.
 
-### 2.52
-
-Following results are observed when sodium metal is irradiated with different
+### 2.52 Following results are observed when sodium metal is irradiated with different
 wavelengths. Calculate (a) threshold wavelength and, (b) Planck's constant.
 
 rent
@@ -8130,67 +8152,47 @@ v × 10-5 (cm s¯¹)
 
 ### 5.35
 
-### 2.53
-
-The ejection of the photoelectron from the silver metal in the photoelectric effect
+### 2.53 The ejection of the photoelectron from the silver metal in the photoelectric effect
 experiment can be stopped by applying the voltage of 0.35 V when the radiation
 256.7 nm is used. Calculate the work function for silver metal.
 
-### 2.54
-
-If the photon of the wavelength 150 pm strikes an atom and one one of tis inner bound
+### 2.54 If the photon of the wavelength 150 pm strikes an atom and one one of tis inner bound
 electrons is ejected out with a velocity of 1.5 × 107 m s¯¹, calculate the energy with
 which it is bound to the nucleus.
 
 * 10 m s³, calculat
 
-### 2.55
-
-Emission transitions in the Paschen series end at orbit n = 3 and start from orbit n
+### 2.55 Emission transitions in the Paschen series end at orbit n = 3 and start from orbit n
 and can be represeted as v = 3.29 × 1015 (Hz) [1/32 – 1/n²]
 
 Calculate the value of n if the transition is observed at 1285 nm. Find the region of
 the spectrum.
 
-### 2.56
-
-Calculate the wavelength for the emission transition if it starts from the orbit having
+### 2.56 Calculate the wavelength for the emission transition if it starts from the orbit having
 radius 1.3225 nm and ends at 211.6 pm. Name the series to which this transition
 belongs and the region of the spectrum.
 
-### 2.57
-
-Dual behaviour of matter proposed by de Broglie led to the discovery of electron
+### 2.57 Dual behaviour of matter proposed by de Broglie led to the discovery of electron
 microscope often used for the highly magnified images of biological molecules and
 other type of material. If the velocity of the electron in this microscope is 1.6 × 106
 ms¯¹, calculate de Broglie wavelength associated with this electron.
 
-### 2.58
-
-Similar to electron diffraction, neutron diffraction microscope is also used for the
+### 2.58 Similar to electron diffraction, neutron diffraction microscope is also used for the
 determination of the structure of molecules. If the wavelength used here is 800 pm,
 calculate the characteristic velocity associated with the neutron.
 
-### 2.59
-
-If the velocity of the electron in Bohr's first orbit is 2.19 × 106 ms¯¹, calculate the
+### 2.59 If the velocity of the electron in Bohr's first orbit is 2.19 × 106 ms¯¹, calculate the
 de Broglie wavelength associated with it.
 
-### 2.60
-
-The velocity associated with a proton moving in a potential difference of 1000 V
+### 2.60 The velocity associated with a proton moving in a potential difference of 1000 V
 is 4.37 × 105 ms¯¹. If the hockey ball of mass 0.1 kg is moving with this velocity,
 calcualte the wavelength associated with this velocity.
 
-### 2.61
-
-If the position of the electron is measured within an accuracy of + 0.002 nm, calculate
+### 2.61 If the position of the electron is measured within an accuracy of + 0.002 nm, calculate
 the uncertainty in the momentum of the electron. Suppose the momentum of the
 electron is h/4π㎜ × 0.05 nm, is there any problem in defining this value.
 
-### 2.62
-
-The quantum numbers of six electrons are given below. Arrange them in order of
+### 2.62 The quantum numbers of six electrons are given below. Arrange them in order of
 increasing energies. If any of these combination(s) has/have the same energy lists:
 
 ### 1. n = 4, l = 2, m₁= −2, m¸ = −1/2
@@ -8199,7 +8201,7 @@ increasing energies. If any of these combination(s) has/have the same energy lis
 
 n = 3, 1 = 2, m₁= 1, m = +1/2
 
-Reprint 2026-27
+
 
 
 ---
@@ -8223,35 +8225,27 @@ n = 3, l = 1, m= −1, m¸ = +1/2
 
 n = 4, l = 1, m₁ = 0, m¸ = +1/2
 
-### 2.63
-
-The bromine atom possesses 35 electrons. It contains 6 electrons in 2p orbital,
+### 2.63 The bromine atom possesses 35 electrons. It contains 6 electrons in 2p orbital,
 6 electrons in 3p orbital and 5 electron in 4p orbital. Which of these electron
 experiences the lowest effective nuclear charge ?
 
-### 2.64
-
-Among the following pairs of orbitals which orbital will experience the larger effective
+### 2.64 Among the following pairs of orbitals which orbital will experience the larger effective
 nuclear charge? (i) 2s and 3s, (ii) 4d and 4f, (iii) 3d and 3p.
 
-### 2.65
-
-The unpaired electrons in Al and Si are present in 3p orbital. Which electrons will
+### 2.65 The unpaired electrons in Al and Si are present in 3p orbital. Which electrons will
 experience more effective nuclear charge from the nucleus ?
 
 ### 2.66
 
-### 2.67
-
-Indicate the number of unpaired electrons in: (a) P, (b) Si, (c) Cr, (d) Fe and (e) Kr.
+### 2.67 Indicate the number of unpaired electrons in: (a) P, (b) Si, (c) Cr, (d) Fe and (e) Kr.
 (a) How many subshells are associated with n = 4 ? (b) How many electrons will be
 present in the subshells having m value of-1/2 for n = 4 ?
 
 © NCERT
 
-not to be republished
 
-Reprint 2026-27
+
+
 
 73
 

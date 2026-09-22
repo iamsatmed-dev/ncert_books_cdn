@@ -32,7 +32,7 @@
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -60,7 +60,7 @@ Reprint 2025-26
 
 not to be
 
-Reprint 2025-26
+
 
 
 ---
@@ -70,7 +70,7 @@ Reprint 2025-26
 
 मानव स्वास्थ्य तथा रोग
 
-12084CH08
+
 
 Antigen binding site
 
@@ -125,7 +125,7 @@ not to
 
 (ख) संक्रमण और
 
-Reprint 2025-26
+
 
 
 ---
@@ -181,7 +181,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -235,7 +235,7 @@ shed
 
 143
 
-Reprint 2025-26
+
 
 
 ---
@@ -277,13 +277,28 @@ CERT
 (लाला) ग्रंथियों में चले
 जाते हैं।
 
-not to be republished
+
 
 रुधिर कोशिकाओं में परिवर्धन होता है।
 
-चित्र 7.1 प्लैज्मोडियम के जीवन चक्र में अवस्थाएँ
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_hi.png" alt="चित्र 7" onclick="openImageModal(this.src, 'चित्र 7: vkb,! IySTeksfM;e osQ thou pozQ ij ,d fuxkg Mkyrs gSa (fp=k 7-1) tc laozQfer ekn...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7</strong> vkb,! IySTeksfM;e osQ thou pozQ ij ,d fuxkg Mkyrs gSa (fp=k 7-1) tc laozQfer eknk ,suksiQsyht ekuo dks dkVrh gS rks IySTeksfM;e thok.kqt (LiksjkstkWbV~l) osQ :i esa ekuo 'kjhj esa ?kql tkrs gSaA thok.kqt laozQked :i gSA izkjaHk esa ijthoh ;Ñr esa viuh la[;k c<+krs jgrs gSa vkSj fiQj yky #f/j df.kdkvksa ij vkozQe.k</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
-आइए! प्लैज्मोडियम के जीवन चक्र पर एक निगाह डालते हैं (चित्र 7.1) जब
+आइए! प्लैज्मोडियम के जीवन चक्र पर एक निगाह डालते हैं (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_1_hi.png" alt="चित्र 7.1" onclick="openImageModal(this.src, 'चित्र 7.1: fp=k 7.1 IySTeksfM;e osQ thou pØ esa voLFkk,¡...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.1</strong> fp=k 7.1 IySTeksfM;e osQ thou pØ esa voLFkk,¡</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 संक्रमित मादा ऐनोफेलीज मानव को काटती है तो प्लैज्मोडियम जीवाणुज (स्पोरोजॉइट्स)
 के रूप में मानव शरीर में घुस जाते हैं। जीवाणुज संक्रामक रूप है। प्रारंभ में परजीवी
 यकृत में अपनी संख्या बढ़ाते रहते हैं और फिर लाल रुधिर कणिकाओं पर आक्रमण
@@ -305,7 +320,7 @@ not to be republished
 
 चले जाते हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -327,7 +342,15 @@ Reprint 2025-26
 मानव को काटता है तो जीवाणुज उसके शरीर में
 प्रवेश कर जाते हैं और इस प्रकार ऊपर वर्णित घटना
 आंरभ हो जाती है। यह दिलचस्प बात है कि मलेरिया
-परजीवी को अपना जीवन चक्र (चित्र 7.2) पूरा
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_2_hi.png" alt="चित्र 7.2" onclick="openImageModal(this.src, 'चित्र 7.2: fp=k 7.2 ,d fuEu ikn esa fpjdkjh &#39;kksFk n&#39;kkZrk fp=k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.2</strong> fp=k 7.2 ,d fuEu ikn esa fpjdkjh 'kksFk n'kkZrk fp=k</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 करने के लिए, मनुष्य और मच्छर, दो परपोषियों की
 जरूरत पड़ती है। मादा ऐनोफेलीज रोगवाहक अर्थात्
 रोग का संचरण करने वाली भी है।
@@ -358,13 +381,19 @@ Reprint 2025-26
 
 145
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 8
 
-चित्र 7.3 त्वचा के दाद प्रभावित क्षेत्र को दर्शाता चित्र
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_3_hi.png" alt="चित्र 7.3" onclick="openImageModal(this.src, 'चित्र 7.3: fp=k 7.3 Ropk osQ nkn izHkkfor {ks=k dks n&#39;kkZrk fp=k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.3</strong> fp=k 7.3 Ropk osQ nkn izHkkfor {ks=k dks n'kkZrk fp=k</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 146
 
@@ -414,7 +443,7 @@ not
 जैसे जानलेवा रोग का पूरी तरह से उन्मूलन कर दिया गया है। वैक्सीन के इस्तेमाल से
 पोलियो, डिफ्थीरिया, न्युमोनिया और टिटनस जैसे अनेक संक्रामक रोगों को काफी हद
 
-Reprint 2025-26
+
 
 
 ---
@@ -471,36 +500,19 @@ blished
 
 147
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 10
 
-प्रतिजन बंधक स्थल
-
-N
-
-लघु श्रृंखला
-
-55
-
-S-S-
--S-S-
-
-SS
-
-दीर्घ श्रृंखला
-
-C
-
-C
-
-S-S
-
-प्रतिजन बंधक स्थल
-
-चित्र 7.4 प्रतिरक्षी अणु की संरचना
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_4_hi.png" alt="चित्र 7.4" onclick="openImageModal(this.src, 'चित्र 7.4: fp=k 7.4 izfrj{kh v.kq dh lajpuk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.4</strong> fp=k 7.4 izfrj{kh v.kq dh lajpuk</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
 में बी-कोशिकाओं
 
@@ -549,7 +561,7 @@ not
 
 148
 
-Reprint 2025-26
+
 
 
 ---
@@ -607,7 +619,7 @@ lished
 
 149
 
-Reprint 2025-26
+
 
 
 ---
@@ -659,7 +671,7 @@ Reprint 2025-26
 
 ot
 
-Reprint 2025-26
+
 
 
 ---
@@ -677,7 +689,14 @@ Reprint 2025-26
 लसीकाभ अंग ऐसे स्थान है जहाँ लसीकाणुओं की प्रतिजन के साथ
 पारस्परिक क्रिया होती है जो बाद में प्रचुर संख्या में उत्पन्न होकर
 प्रभावी कोशिकाएँ बन जाते हैं। मानव शरीर में विभिन्न लसीकाभ
-अंगों की स्थिति चित्र 7.5 में दर्शित है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_5_hi.png" alt="चित्र 7.5" onclick="openImageModal(this.src, 'चित्र 7.5: fp=k 7.5 ylhdk ra=k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.5</strong> fp=k 7.5 ylhdk ra=k</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 लसीका
 ग्रंथियाँ
@@ -724,7 +743,7 @@ ot
 
 151
 
-Reprint 2025-26
+
 
 
 ---
@@ -776,7 +795,13 @@ not to be shed
 टिप्पणी (नोट) – संक्रमित कोशिका जीवित रह सकती है जबकि
 विषाणुओं की प्रतिकृतियाँ बनती हैं और मोचित होती हैं।
 
-चित्र 7.6 पश्चविषाणु (रेट्रोवायरस) की प्रतिकृति
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_6_hi.png" alt="चित्र 7.6" onclick="openImageModal(this.src, 'चित्र 7.6: fp=k 7.6 i&#39;pfo&quot;kk.kq (jsVªksok;jl) dh izfro`Qfr...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.6</strong> fp=k 7.6 i'pfo"kk.kq (jsVªksok;jl) dh izfro`Qfr</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
 एड्स एक विषाणु रोग है जो मानव में प्रतिरक्षा न्यूनता विषाणु (एचआईवी- ह्यूमन
 इम्यूनो डिफिसिएंसी वायरस) के कारण होता है। एचआईवी विषाणुओं के उस समूह में
@@ -788,7 +813,7 @@ not to be shed
 अपरा द्वारा उसके बच्चे में। इसलिए, जिन लोगों में यह संक्रमण होने का बहुत ज्यादा
 खतरा है वे हैं- ऐसे व्यक्ति जो अनेक से मैथुन करते हैं, मादक द्रव्य व्यसनी जो अंतः
 
-Reprint 2025-26
+
 
 152
 
@@ -840,7 +865,7 @@ shed
 
 153
 
-Reprint 2025-26
+
 
 
 ---
@@ -895,7 +920,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -948,7 +973,7 @@ shed
 
 155
 
-Reprint 2025-26
+
 
 
 ---
@@ -983,7 +1008,15 @@ HO
 
 ओपिऑइड्स ऐसे ड्रग हैं जो हमारे केंद्रीय तंत्रिका तंत्र और जठरांत्र पथ में मौजूद
 विशिष्ट ओपिऑइड्स ग्राहियों (रिसेप्ट्रस) से बंध जाते हैं। आमतौर पर 'स्मैक' के नाम
-से मशहूर हिरोइन (चित्र 7.7), रासायनिक रूप से डाइएसिटिल मॉर्फीन है जो एक सफेद,
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_7_hi.png" alt="चित्र 7.7" onclick="openImageModal(this.src, 'चित्र 7.7: fp=k 7.7 ekWiQhZu dh jklk;fud lajpuk fp=k 7.8 lksEuhisQje (viQhe iksLr)...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.7</strong> fp=k 7.7 ekWiQhZu dh jklk;fud lajpuk fp=k 7.8 lksEuhisQje (viQhe iksLr)</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
+
 गंधहीन, तीखा रवेदार यौगिक होता है। यह मॉर्फिन के एसीटिलीकरण से प्राप्त किया जाता
 है (चित्र 7.7), जो कि पोस्त के पौधे पैपेवर सोम्नीफेरम (चित्र 7.8) के लेटेक्स के
 निष्कर्षण द्वारा प्राप्त किया जाता है। आमतौर पर हिरोइन नाक द्वारा जोर से सांस लेकर
@@ -996,7 +1029,7 @@ N-CH3
 
 चित्र 7.7 मॉर्फीन की रासायनिक संरचना
 
-Reprint 2025-26
+
 
 चित्र 7.8 सोम्नीफेरम (अफीम पोस्त)
 
@@ -1004,14 +1037,13 @@ Reprint 2025-26
 ---
 ## 📄 Page 19
 
-मानव स्वास्थ्य तथा रोग
-
-Ο
-H
-
-OH
-
-चित्र 7.9 कैनेबिनाइड अणु की संरचना
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_9_hi.png" alt="चित्र 7.9" onclick="openImageModal(this.src, 'चित्र 7.9: fp=k 7.9 oSQusfcukbM v.kq dh lajpuk fp=k 7.10 oSQusfcl lSVkbok (Hkk¡x) dh ifÙk;k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.9</strong> fp=k 7.9 oSQusfcukbM v.kq dh lajpuk fp=k 7.10 oSQusfcl lSVkbok (Hkk¡x) dh ifÙk;k¡</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
 
 कैनाबिनॉइड्स रसायनों का समूह हैं (चित्र 7.9), जो
 मुख्यरूप से मस्तिष्क में मौजूद कैनोबिनॉइड ग्राहियों से पारस्परिक
@@ -1025,9 +1057,13 @@ OH
 
 चित्र 7.10 कैनेबिस सैटाइवा (भाँग) की पत्तियाँ
 
-epued
-
-चित्र 7.11 धतूरा की पुष्पी शाखा
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_11_hi.png" alt="चित्र 7.11" onclick="openImageModal(this.src, 'चित्र 7.11: fp=k 7.11 /rwjk dh iq&quot;ih &#39;kk[kk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.11</strong> fp=k 7.11 /rwjk dh iq"ih 'kk[kk</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
 
 कोका ऐल्कोलॉइड या कोकिन कोका पादप ऐरिथ्रोज़ाइलम
 कोका से प्राप्त किया जाता है जो कि मूलरूप से दक्षिण अमेरिका
@@ -1048,7 +1084,7 @@ epued
 
 157
 
-Reprint 2025-26
+
 
 
 ---
@@ -1108,7 +1144,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -1163,7 +1199,7 @@ shed
 
 159
 
-Reprint 2025-26
+
 
 
 ---
@@ -1219,7 +1255,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -1275,7 +1311,7 @@ ished
 
 161
 
-Reprint 2025-26
+
 
 
 ---
@@ -1324,7 +1360,7 @@ not
 ### 2. जैविकी के अध्ययन ने संक्रामक रोगों को नियंत्रित करने में किस प्रकार हमारी
 सहायता की है?
 
-Reprint 2025-26
+
 
 
 ---
@@ -1382,7 +1418,7 @@ republished
 
 no
 
-Reprint 2025-26
+
 
 163
 

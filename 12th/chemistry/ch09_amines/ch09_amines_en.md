@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-12086CH13
+
 
 Unit
 
@@ -101,14 +101,21 @@ The fourth orbital of nitrogen in all amines contains an
 unshared pair of electrons. Due to the presence of
 unshared pair of electrons, the angle C-N–E, (where E is
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 2
 
 Cor H) is less than 109.5°; for instance, it is 108° in case of
-trimethylamine as shown in Fig. 9.1.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch09_amines_fig_9_1.png" alt="Fig. 9.1" onclick="openImageModal(this.src, 'Fig. 9.1: C or H) is less than 109.5°; for instance, it is 108o in case of trimethylamine ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.1</strong> C or H) is less than 109.5°; for instance, it is 108o in case of trimethylamine as shown in Fig. 9.1.</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 unshared
 electron
@@ -176,7 +183,7 @@ Chemistry 260
 To name secondary and tertiary amines, we use locant N to designate
 substituent attached to a nitrogen atom. For example, CH, NHCH2CH3 is
 
-Reprint 2025-26
+
 
 
 ---
@@ -255,7 +262,7 @@ Trimethylamine
 Prop-2-en-1-amine
 Hexane-1,6-diamine
 
-of not to be republished
+of 
 
 NH2
 
@@ -267,7 +274,7 @@ p-Bromoaniline
 
 N,N-Dimethylaniline
 
-Reprint 2025-26
+
 
 Aniline or Benzenamine
 
@@ -376,7 +383,7 @@ R-NH, X
 Substituted
 ammonium salt
 
-Reprint 2025-26
+
 
 
 ---
@@ -507,7 +514,7 @@ R-C-NH2
 
 R-CH2-NH2
 
-Reprint 2025-26
+
 
 263 Amines
 
@@ -625,7 +632,7 @@ CH3-CH2-CH2-NH2
 
 Chemistry 264
 
-Reprint 2025-26
+
 
 
 ---
@@ -704,7 +711,7 @@ boiling points of isomeric amines is as follows:
 
 no
 
-Reprint 2025-26
+
 
 
 ---
@@ -713,7 +720,14 @@ Reprint 2025-26
 Primary > Secondary > Tertiary
 
 Intermolecular hydrogen bonding in primary amines is shown in
-Fig. 9.2.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch09_amines_fig_9_2.png" alt="Fig. 9.2" onclick="openImageModal(this.src, 'Fig. 9.2: Primary > Secondary > Tertiary Intermolecular hydrogen bonding in primary amines...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.2</strong> Primary > Secondary > Tertiary Intermolecular hydrogen bonding in primary amines is shown in Fig. 9.2.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 H
 R-N-H--
@@ -832,7 +846,7 @@ Aniline
 
 Anilinium chloride
 
-Reprint 2025-26
+
 
 
 ---
@@ -950,7 +964,7 @@ PK
 
 8.92
 
-Reprint 2025-26
+
 
 267 Amines
 
@@ -1062,7 +1076,7 @@ OH₂
 Decreasing order of extent of H-bonding in water and order of
 stability of ions by solvation.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1152,7 +1166,7 @@ is observed that electron releasing groups like −OCH3, -CH3 increase
 basic strength whereas electron withdrawing groups like -NO2, −SO3H,
 -COOH, –X decrease it.
 
-Reprint 2025-26
+
 
 269 Amines
 
@@ -1260,7 +1274,7 @@ Benzoyl chloride N - Methylbenzamide
 What do you think is the product of the reaction of amines with
 carboxylic acids ? They form salts with amines at room temperature.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1368,7 +1382,7 @@ N,N-Diethylbenzenesulphonamide
 
 271 Amines
 
-Reprint 2025-26
+
 
 
 ---
@@ -1477,7 +1491,7 @@ Chemistry 272
 
 NC-CH
 
-Reprint 2025-26
+
 
 :0:
 
@@ -1597,7 +1611,7 @@ Lewis acid, which is used as a catalyst. Due to this, nitrogen of
 aniline acquires positive charge and hence acts as a strong
 deactivating group for further reaction.
 
-Reprint 2025-26
+
 
 273 Amines
 
@@ -1703,7 +1717,7 @@ C6H5NH2 + NaNO2 + 2HCl
 
 → C6H5 N2 Cl+ NaCl + 2H2O
 
-Reprint 2025-26
+
 
 
 ---
@@ -1796,7 +1810,7 @@ phosphorous acid and ethanal, respectively.
 
 275 Amines
 
-Reprint 2025-26
+
 
 
 ---
@@ -1913,7 +1927,7 @@ from diazonium salt.
 
 Thus, the replacement of diazo group by other groups is helpful in
 
-Reprint 2025-26
+
 
 
 ---
@@ -2001,7 +2015,7 @@ respectively increase and decrease their basic character. Aniline is a weaker ba
 
 277 Amines
 
-Reprint 2025-26
+
 
 
 ---
@@ -2094,7 +2108,7 @@ C6H5NH2, C6H5N(CH3)2, (C2H5)2NH and CH3NH2
 
 (a) Aniline, p-nitroaniline and p-toluidine
 
-Reprint 2025-26
+
 
 
 ---
@@ -2276,7 +2290,7 @@ CH5OH →C
 
 273K
 
-Reprint 2025-26
+
 
 279 Amines
 
@@ -2343,5 +2357,5 @@ not to bepushed
 
 Chemistry 280
 
-Reprint 2025-26
+
 

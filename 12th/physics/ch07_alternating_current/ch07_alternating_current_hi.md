@@ -46,7 +46,7 @@ ac वोल्टता एवं ac धारा, ये वाक्यां
 प्रयोग में हम प्रचलित परिपाटी का ही अनुसरण करेंगे। इसके अतिरिक्त, सामान्यतः प्रयुक्त होने वाले शब्द
 वोल्टता का अर्थ दो बिंदुओं के बीच विभवांतर होता है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -54,7 +54,23 @@ Reprint 2026-27
 
 7.2 प्रतिरोधक पर प्रयुक्त ac वोल्टता
 
-चित्र 7.1 में ac वोल्टता स्रोत ६ से जुड़ा प्रतिरोधक R दर्शाया गया है। परिपथ
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_1_hi.png" alt="
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_hi.png" alt="चित्र 7" onclick="openImageModal(this.src, 'चित्र 7: fp=k 7-1 esa n&#39;kkZ, x, ifjiFk ij fdj[kksiQ dk ywi fu;e ε( )t = ∑ 0 , ([k.M 3...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7</strong> fp=k 7-1 esa n'kkZ, x, ifjiFk ij fdj[kksiQ dk ywi fu;e ε( )t = ∑ 0 , ([k.M 3-12 ns[ksa) ykxw djrs gSa ftlls gesa izkIr gksrk gS %</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
+<div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.1</strong> fp=k 7.1 esa ac oksYVrk lzksr ε ls tqM+k izfrjks/d R n'kkZ;k x;k gSA ifjiFk vkjs[k esa ac lzksr dk laosQr fpÉ ~ gSA ;gk¡ ge ,d ,sls lzksr dh ckr dj jgs gSa tks vius fljksa osQ chp T;koØh; :i esa ifjorZu'khy foHkokarj mRiUu djrk gS] ekuk fd ;g foHkokarj ftls ac oksYVrk Hkh dgk tkrk gS] fuEufyf[kr izdkj ls O;Dr fd;k tk,</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 आरेख में ac स्रोत का संकेत चिह्न है। यहाँ हम एक ऐसे स्रोत की बात कर
 रहे हैं जो अपने सिरों के बीच ज्यावक्रीय रूप में परिवर्तनशील विभवांतर
 उत्पन्न करता है, माना कि यह विभवांतर जिसे ac वोल्टता भी कहा जाता है,
@@ -144,7 +160,16 @@ m
 समीकरण (7.3) ओम का नियम है जो प्रतिरोधकों के प्रकरण में ac एवं dc दोनों
 प्रकार की वोल्टताओं के लिए समान रूप से लागू होता है। समीकरण (7.1) एवं
 समीकरण (7.2) द्वारा व्यक्त किसी शुद्ध प्रतिरोधक के सिरों के बीच लगाई गई वोल्टता
-एवं इसमें प्रवाहित होने वाली धारा को चित्र 7.2 में समय के फलन के रूप में आलेखित
+एवं इसमें प्रवाहित होने वाली धारा को
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_2_hi.png" alt="चित्र 7.2" onclick="openImageModal(this.src, 'चित्र 7.2: lehdj.k (7.3) vkse dk fu;e gS tks izfrjks/dksa osQ izdj.k esa ac ,oa dc nksuksa ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.2</strong> lehdj.k (7.3) vkse dk fu;e gS tks izfrjks/dksa osQ izdj.k esa ac ,oa dc nksuksa izdkj dh oksYVrkvksa osQ fy, leku :i ls ykxw gksrk gSA lehdj.k (7.1) ,oa lehdj.k (7.2) }kjk O;Dr fdlh 'kq¼ izfrjks/d osQ fljksa osQ chp yxkbZ xbZ oksYVrk ,oa blesa izokfgr gksus okyh /kjk dks fp=k 7.2 esa le; osQ iQyu osQ :i esa vkysf[kr fd;k x;k gSA bl rF; ij fo'ks"k è;ku nhft, fd v ,oa i nksuksa gh 'kwU;] U;wure ,oa vf/dre ekuksa dh fLFkfr;k¡ lkFk&lkFk gh izkIr djrh gSaA vr% Li"V gS fd oksYVrk ,oa /kjk ,d nwljs osQ lkFk leku dyk esa gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 किया गया है। इस तथ्य पर विशेष ध्यान दीजिए कि v एवं i दोनों ही शून्य, न्यूनतम एवं
 अधिकतम मानों की स्थितियाँ साथ-साथ ही प्राप्त करती हैं। अतः स्पष्ट है कि वोल्टता
 एवं धारा एक दूसरे के साथ समान कला में हैं।
@@ -155,7 +180,7 @@ m
 शून्य होती है। तथापि माध्य धारा शून्य है इस तथ्य का यह अर्थ नहीं है कि व्यय होने
 वाली माध्य शक्ति भी शून्य है, और विद्युत ऊर्जा का क्षय नहीं हो रहा है। जैसा कि आप
 
-Reprint 2026-27
+
 
 Um
 
@@ -252,7 +277,15 @@ na
 ac शक्ति को उसी रूप में व्यक्त करने के लिए जिसमें dc शक्ति
 (P = iR) को व्यक्त किया जाता है धारा के एक विशिष्ट मान का उपयोग
 किया जाता है जिसे वर्ग माध्य मूल (rms) अथवा प्रभावी (effective) धारा
-(चित्र 7.3
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_3_hi.png" alt="चित्र 7.3" onclick="openImageModal(this.src, 'चित्र 7.3: ac &#39;kfDr dks mlh :i esa O;Dr djus osQ fy, ftlesa dc &#39;kfDr (P = i2R) dks ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.3</strong> ac 'kfDr dks mlh :i esa O;Dr djus osQ fy, ftlesa dc 'kfDr (P = i2R) dks O;Dr fd;k tkrk gS /kjk osQ ,d fof'k"V eku dk mi;ksx fd;k tkrk gS ftls oxZ ekè; ewy (rms) vFkok izHkkoh (effective) èkkjk (fp=k 7.3) dgrs gSa vkSj bls Irms vFkok I }kjk fu£n"V fd;k tkrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 (चित्र 7.3
 ) कहते हैं और इसे I अथवा I द्वारा निर्दिष्ट किया जाता है।
 
@@ -308,7 +341,7 @@ T
 
 T
 
-Reprint 2026-27
+
 
 2ω
 
@@ -419,7 +452,7 @@ I =-=
 
 V 220V
 
-Reprint 2026-27
+
 
 उदाहरण 7.1
 
@@ -444,7 +477,15 @@ i
 है। ac परिपथ में धारा एवं वोल्टता के बीच कला संबंध दर्शाने
 के लिए हम फेजर्स की धारणा का उपयोग करते हैं। फेजर चित्र
 के उपयोग से ac परिपथ का विश्लेषण सरलतापूर्वक हो जाता
-है। फेजर* जैसा कि चित्र 7.4 में दर्शाया गया है, एक सदिश है
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_4_hi.png" alt="चित्र 7.4" onclick="openImageModal(this.src, 'चित्र 7.4: gSA ac ifjiFk esa /kjk ,oa oksYVrk osQ chp dyk laca/ n&#39;kkZus osQ fy, ge isQt...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.4</strong> gSA ac ifjiFk esa /kjk ,oa oksYVrk osQ chp dyk laca/ n'kkZus osQ fy, ge isQtlZ dh /kj.kk dk mi;ksx djrs gSaA isQtj fp=k osQ mi;ksx ls ac ifjiFk dk fo'ys"k.k ljyrkiwoZd gks tkrk gSA isQtj* tSlk fd fp=k 7.4 esa n'kkZ;k x;k gS] ,d lfn'k gS tks ewy ¯cnq osQ ifjr% dks.kh; osx ω ls ?kw.kZu djrk gSA isQtlZ V ,oa I osQ ÅèokZ/j ?kVd T;koØh; :i ls ifjorZu'khy jkf'k;k¡ v ,oa i fu:fir djrs gSaA isQtlZ V ,oa I osQ ifjek.k bu nksyk;eku jkf'k;ksa osQ vk;ke vFkok f'k[kjeku vm ,oa im fu:fir djrs gSaA fp=k 7.4(a) fp=k 7.1 osQ laxr fdlh izfrjksèkd osQ fljksa ls tqM+h ac oksYVrk dh] fdlh {k.k t1 ij] oksYVrk ,oa /kjk osQ isQtlZ vkSj mudk ikjLifjd laca/ n'kkZrk gSA oksYVrk ,oa /kjk osQ ÅèokZ/j v{k ij iz{ksi vFkkZr vm sinω t ,oa im sin ω t, Øe'k%] ml {k.k fo'ks"k ij oksYVrk ,oa /kjk osQ eku fu:fir djrs gSaA T;ksa&T;ksa os vko`fÙk ω ls ?kw.kZu djrs gSa fp=k 7.4(b) esa n'kkZ, x, oØ tSls gksrs gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 जो मूल बिंदु के परितः कोणीय वेग से घूर्णन करता है। फेजर्स
 V एवं I के ऊर्ध्वाधर घटक ज्यावक्रीय रूप से परिवर्तनशील
 राशियाँ v एवं i निरूपित करते हैं। फेजर्स V एवं I के परिमाण
@@ -485,7 +526,14 @@ sinet एवं im sinat, क्रमशः, उस क्षण विशे�
 
 7.4 प्रेरक पर प्रयुक्त ac वोल्टता
 
-चित्र 7.5 एक प्रेरक के सिरों पर लगा ac स्रोत दर्शाता है। प्रायः प्रेरक के लपेटों में लगे तार का
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_5_hi.png" alt="चित्र 7.5" onclick="openImageModal(this.src, 'चित्र 7.5: fp=k 7.5 ,d iszjd osQ fljksa ij yxk ac lzksr n&#39;kkZrk gSA izk;% izsjd osQ yis...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.5</strong> fp=k 7.5 ,d iszjd osQ fljksa ij yxk ac lzksr n'kkZrk gSA izk;% izsjd osQ yisVksa esa yxs rkj dk</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 अच्छा खासा प्रतिरोध होता है, लेकिन यहाँ हम यह मानेंगे कि इस प्रेरक
 का प्रतिरोध नगण्य है। अतः यह परिपथ विशुद्ध प्रेरणिक ac परिपथ है।
 माना कि स्रोत के सिरों के बीच वोल्टता v = vm sinet है क्योंकि
@@ -521,7 +569,7 @@ dt
 करने से हम इन राशियों का संयोजन एक सरल विधि द्वारा, एक पहले से ही ज्ञात नियम का प्रयोग करके,
 कर सकते हैं।
 
-Reprint 2026-27
+
 
 
 ---
@@ -627,13 +675,22 @@ ac परिपथ के अवयव, R, L तथा C एवं RLC श्र
 होता है।
 
 स्रोत वोल्टता एवं प्रेरक में प्रवाहित होने वाली धारा के समीकरण (7.1) एवं (7.12) की तुलना से
-यह ज्ञात होता है कि धारा वोल्टता से 7/2 अथवा (1/4) चक्र पीछे रहती है। चित्र 7.6 (a) प्रस्तुत
+यह ज्ञात होता है कि धारा वोल्टता से 7/2 अथवा (1/4) चक्र पीछे रहती है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_6_hi.png" alt="चित्र 7.6" onclick="openImageModal(this.src, 'चित्र 7.6: lzksr oksYVrk ,oa izsjd esa izokfgr gksus okyh /kjk osQ lehdj.k (7.1) ,oa (7.12)...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.6</strong> lzksr oksYVrk ,oa izsjd esa izokfgr gksus okyh /kjk osQ lehdj.k (7.1) ,oa (7.12) dh rqyuk ls ;g Kkr gksrk gS fd /kjk oksYVrk ls π/2 vFkok (1/4) pØ ihNs jgrh gSA fp=k 7.6 (a) izLrqr izdj.k osQ t1 {k.k ij] oksYVrk ,oa /kjk isQtlZ n'kkZrk gSA /kjk isQtj I oksYVrk isQtj V ls π/2 ihNs gSA tc mUgsa ω vko`fÙk ls okekorZ fn'kk esa ?kw.kZu djkrs gSa rks ;s oksYVrk ,oa /kjk tfur djrs gSa tks Øe'k% lehdj.k (7.1) ,oa (7.12) }kjk O;Dr dh tkrh gS vkSj ftls fp=k 7.6 (b) esa n'kkZ;k x;k gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 प्रकरण के t₁ क्षण पर, वोल्टता एवं धारा फेजर्स दर्शाता है। धारा फेजर I वोल्टता फेजर V से 7/2 पीछे
 है। जब उन्हें आवृत्ति से वामावर्त दिशा में घूर्णन कराते हैं तो ये वोल्टता एवं धारा जनित करते हैं जो
 क्रमशः समीकरण (7.1) एवं (7.12) द्वारा व्यक्त की जाती है और जिसे चित्र 7.6 (b) में दर्शाया
 गया है।
 
-Reprint 2026-27
+
 
 179
 
@@ -755,7 +812,7 @@ XL
 
 7.85Ω
 
-Reprint 2026-27
+
 
 
 ---
@@ -765,7 +822,14 @@ Reprint 2026-27
 
 7.5 संधारित्र पर प्रयुक्त ac वोल्टता
 
-चित्र 7.7 में एक संधारित्रीय ac परिपथ दर्शाया गया है जिसमें केवल एक संधारित्र एक ऐसे ac स्रोत
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_7_hi.png" alt="चित्र 7.7" onclick="openImageModal(this.src, 'चित्र 7.7: fp=k 7.7 esa ,d la/kfj=kh; ac ifjiFk n&#39;kkZ;k x;k gS ftlesa osQoy ,d la/kfj=k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.7</strong> fp=k 7.7 esa ,d la/kfj=kh; ac ifjiFk n'kkZ;k x;k gS ftlesa osQoy ,d la/kfj=k ,d ,sls ac lzksr ε ls tqM+k gS tks oksYVrk v = vm sin ωt iznku djrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 ६ से जुड़ा है जो वोल्टता v = vm sin at प्रदान करता है।
 
 जब dc परिपथ में वोल्टता स्रोत से किसी संधारित्र को जोड़ा जाता
@@ -851,7 +915,7 @@ Xc
 
 181
 
-Reprint 2026-27
+
 
 C
 
@@ -892,7 +956,14 @@ wt
 
 समीकरण (7.16) की स्रोत वोल्टता की समीकरण (7.1)
 से तुलना करने पर हम पाते हैं कि धारा, वोल्टता से π/2
-अग्रगामी होती है। चित्र 7.8 (a) किसी क्षण t₁ पर फेजर आरेख
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_8_hi.png" alt="चित्र 7.8" onclick="openImageModal(this.src, 'चित्र 7.8: fp=k 7.8 (a) fp=k 7.7 esa n&#39;kkZ, x, ifjiFk dk isQtj vkjs[k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.8</strong> fp=k 7.8 (a) fp=k 7.7 esa n'kkZ, x, ifjiFk dk isQtj vkjs[k</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 चित्र 7.8 (a) चित्र 7.7 में दर्शाए गए परिपथ का फेजर आरेख दर्शाता है। यहाँ धारा फेजर I, वोल्टता फेजर V से 7/2 कोण
 
@@ -972,11 +1043,19 @@ Xc =
 
 2 πνC 2π(50Hz)(15.0×10¯°F)
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 10
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_9_hi.png" alt="चित्र 7.9" onclick="openImageModal(this.src, 'चित्र 7.9: fp=k 7.9 NM+ dks izfo&quot;V djkrs le; izdk&#39;k cYc dh ped (a) c<+rh gS (b) ?k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.9</strong> fp=k 7.9 NM+ dks izfo"V djkrs le; izdk'k cYc dh ped (a) c<+rh gS (b) ?kVrh gS (c) vifjo£rr jgrh gSA dkj.k lfgr mÙkj nhft,A gy tSls&tSls yksgs dh NM+ oqaQMyh esa izos'k djrh gS oqaQMyh osQ vanj dk pqacdh; {ks=k bls pqacfdr dj nsrk gS ftlls oqaQMyh osQ vanj pqacdh; {ks=k c<+ tkrk gSA vr% oqaQMyh dk izsjdRo c<+ tkrk gSA ifj.kker% oqaQMyh dk izsjdh; izfr?kkr c<+ tkrk gSA bl izdkj iz;qDr ac oksYVrk dk vf/dka'k Hkkx iszjd osQ fljksa osQ chp izHkkoh gks tkrk gS vkSj cYc osQ fljksa osQ chp oksYVrk de jg tkrh gSA vr% cYc dh nhfIr de gks tkrh gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
 प्रत्यावर्ती धारा
 
@@ -995,7 +1074,14 @@ Reprint 2026-27
 
 7.6 श्रेणीबद्ध LCR परिपथ पर प्रयुक्त ac वोल्टता
 
-चित्र 7.10, ac स्रोत ɛ से जुड़ा श्रेणीबद्ध LCR परिपथ दर्शाता है। पहले की ही भाँति हम ac स्रोत
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_10_hi.png" alt="चित्र 7.10" onclick="openImageModal(this.src, 'चित्र 7.10: fp=k 7.10, ac lzksr ε ls tqM+k Js.khc¼ LCR ifjiFk n&#39;kkZrk gSA igys dh gh Hkk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.10</strong> fp=k 7.10, ac lzksr ε ls tqM+k Js.khc¼ LCR ifjiFk n'kkZrk gSA igys dh gh Hkk¡fr ge ac lzksr dh oksYVrk v = vm sin ωt ysrs gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 की वोल्टता v = v sin at लेते हैं।
 
 m
@@ -1067,7 +1153,7 @@ L
 
 183
 
-Reprint 2026-27
+
 
 C
 
@@ -1098,8 +1184,16 @@ i = i sin(ωt+¢)
 मान लीजिए कि समीकरण (7.21) द्वारा प्रदत्त परिपथ की धारा को फेजर I द्वारा व्यक्त करें।
 और प्रेरक, प्रतिरोधक, संधारित्र एवं स्रोत के सिरों के बीच वोल्टताओं को क्रमशः VL, VR, Vc,
 एवं V से निरूपित करें तो पिछले अनुभाग से हम जानते हैं कि VR, I के समातंर है, Vc धारा I
-से 7/2 रेडियन पीछे है तथा V₁, I से /2 रेडियन आगे है। चित्र
-7.11(a) में V₁, VR, VC एवं I को समुचित कला संबंधों के साथ
+से 7/2 रेडियन पीछे है तथा V₁, I से /2 रेडियन आगे है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_11_hi.png" alt="चित्र 7.11" onclick="openImageModal(this.src, 'चित्र 7.11: VL + VR + VC = V (7.24) bl laca/ dks fp=k 7.11 (b) esa izLrqr fd;k x;k gSA pw¡fd...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.11</strong> VL + VR + VC = V (7.24) bl laca/ dks fp=k 7.11 (b) esa izLrqr fd;k x;k gSA pw¡fd]</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 दर्शाया गया है।
 
 VRm
@@ -1225,7 +1319,7 @@ Z
 
 √R² + (X - X₁)²
 
-Reprint 2026-27
+
 
 [7.25(b)]
 
@@ -1236,7 +1330,14 @@ Reprint 2026-27
 ## 📄 Page 12
 
 चूँकि फेजर I सदैव फेजर VR के समांतर होता है, कला कोण Ø VR एवं V के बीच
-बना कोण है और चित्र 7.12 के आधार पर इसका मान ज्ञात किया जा सकता है
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_12_hi.png" alt="चित्र 7.12" onclick="openImageModal(this.src, 'चित्र 7.12: pw¡fd isQtj I lnSo isQtj VR osQ lekarj gksrk gS] dyk dks.k φ VR ,oa V osQ chp cu...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.12</strong> pw¡fd isQtj I lnSo isQtj VR osQ lekarj gksrk gS] dyk dks.k φ VR ,oa V osQ chp cuk dks.k gS vkSj fp=k 7.12 osQ vk/kj ij bldk eku Kkr fd;k tk ldrk gS</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 tan q =
 
@@ -1271,15 +1372,15 @@ R
 यदि X > XL, धनात्मक होता है तथा परिपथ का धारितात्मक व्यवहार प्रधान हो जाता है।
 परिणामतः परिपथ में धारा स्रोत वोल्टता से अग्र हो जाती है। यदि X < X₁, ऋणात्मक होता है
 तथा परिपथ का प्रेरकीय व्यवहार प्रमुख हो जाता है। परिणामतः परिपथ में धारा स्रोत वोल्टता से पश्च
-हो जाती है।
 
-Published
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_13_hi.png" alt="चित्र 7.13" onclick="openImageModal(this.src, 'चित्र 7.13: fp=k 7.13, XC > XL osQ izdj.k osQ fy, isQtj vkjs[k gS vkSj ;g ω t osQ lkFk v ,oa...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.13</strong> fp=k 7.13, XC > XL osQ izdj.k osQ fy, isQtj vkjs[k gS vkSj ;g ω t osQ lkFk v ,oa i esa gksus okys ifjorZu dks n'kkZrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
-ब है और यह ot
-
-और यह at के साथ vएवं i में
-
-चित्र 7.13, X > X₁ के प्रकरण के लिए फेजर आरेख है और यह æt
 होने वाले परिवर्तन को दर्शाता है।
 
 इस प्रकार, फेजर्स तकनीक का उपयोग करके, हमने
@@ -1335,7 +1436,7 @@ wt
 निकाय बहुत अधिक आयाम के साथ दोलन करता हुआ पाया जाता है। इसका एक सुपरिचित
 उदाहरण झूले पर बैठा हुआ बच्चा है। झूले की, लोलक की ही तरह मूल बिन्दु के इधर-उधर दोलन
 
-Reprint 2026-27
+
 
 185
 
@@ -1345,9 +1446,7 @@ Reprint 2026-27
 
 Im, A
 
-### 1.0
-
-भौतिकी
+### 1.0 भौतिकी
 
 की एक प्राकृतिक आवृत्ति होती है। यदि बच्चा रस्सी को नियमित समय-अंतरालों पर खींचता है
 और खींचने की आवृत्ति लगभग झूले के दोलनों की प्राकृतिक आवृत्ति के बराबर हो तो झूलने का
@@ -1417,9 +1516,14 @@ Wo
 
 ### 2.0
 
-ω, M rad/s
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_14_hi.png" alt="चित्र 7.14" onclick="openImageModal(this.src, 'चित्र 7.14: fp=k 7.14 nks izdj.kksa (i) R = 100 Ω ,oa (ii) R = 200 Ω...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.14</strong> fp=k 7.14 nks izdj.kksa (i) R = 100 Ω ,oa (ii) R = 200 Ω</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
-चित्र 7.14 दो प्रकरणों (i) R = 100 2 एवं (ii) R = 200 Ω
 के लिए. के साथ 1 का परिवर्तन। दोनों प्रकरणों में
 
 186
@@ -1478,7 +1582,7 @@ rad/s।
 द्वारा प्रदर्शित की जाती है जिनमें L एवं C दोनों विद्यमान होते हैं। क्योंकि केवल तभी L एवं C के
 सिरों के बीच की वोल्टता (विपरीत कला में होने के कारण) एक दूसरे को निरस्त करती हैं और
 
-Reprint 2026-27
+
 
 
 ---
@@ -1575,7 +1679,7 @@ Z
 
 R
 
-Reprint 2026-27
+
 
 उदाहरण 7.6
 
@@ -1665,7 +1769,7 @@ cos q = 0 और इसलिए यद्यपि परिपथ में �
 (b) माना कि किसी परिपथ में धारा 1 वोल्टता से कोण पीछे रहती है तो इस परिपथ के लिए
 cos =R/Z
 
-Reprint 2026-27
+
 
 
 ---
@@ -1686,23 +1790,13 @@ q
 है क्योंकि धारा के इस घटक के संगत कोई शक्ति क्षय नहीं होता। Ip को शक्ति घटक कहा जाता
 है, क्योंकि यह वोल्टता के साथ समान कला में है और इसी के साथ परिपथ में शक्ति क्षय होती है।
 
-VA
-
-Ig
-
-ID
-
-Φ
-
-CERT
-
-q
-
-ublined
-
-Ο
-
-चित्र 7.15
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_15_hi.png" alt="चित्र 7.15" onclick="openImageModal(this.src, 'चित्र 7.15: fp=k 7.15...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.15</strong> fp=k 7.15</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
 इस विश्लेषण से यह स्पष्ट है कि यदि हम शक्ति गुणांक में सुधार लाना चाहें तो पश्चगामी वाटहीन
 धारा I को उसी के बराबर अग्रगामी वाटहीन धारा I' द्वारा उदासीन करना पड़ेगा। इसके लिए
@@ -1757,7 +1851,7 @@ Z = √R² + (X₁ – Xc)² = 32 + (8-4)2
 
 = 5 Ω
 
-Reprint 2026-27
+
 
 उदाहरण 7.8
 
@@ -1867,7 +1961,7 @@ P = I2 × R = (66.7)² × 3 = 13.35 kW
 पथ से गुजारा जाता है। यदि उसके पास कोई धातु से बनी वस्तु है, तो धातु संसूचक से एक ध्वनि
 निकलने लगती है। यह संसूचक किस सिद्धांत पर कार्य करता है?
 
-Reprint 2026-27
+
 
 
 ---
@@ -1894,7 +1988,16 @@ Reprint 2026-27
 shed
 
 ट्रांसफार्मर में दो कुंडलियाँ होती हैं जो एक दूसरे से विद्युतरुद्ध होती हैं। वे एक कोमल-लौह-क्रोड
-पर लिपटी होती हैं। लपेटने की विधि या तो चित्र 7.16 (a) की भाँति होती है, जिसमें एक कुंडली
+पर लिपटी होती हैं। लपेटने की विधि या तो
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_16_hi.png" alt="चित्र 7.16" onclick="openImageModal(this.src, 'चित्र 7.16: VªkaliQkeZj esa nks oqaQMfy;k¡ gksrh gSa tks ,d nwljs ls fo|qr#¼ gksrh gSaA os ,...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.16</strong> VªkaliQkeZj esa nks oqaQMfy;k¡ gksrh gSa tks ,d nwljs ls fo|qr#¼ gksrh gSaA os ,d dksey&ykSg&ØksM ij fyiVh gksrh gSaA yisVus dh fof/ ;k rks fp=k 7.16 (a) dh Hkk¡fr gksrh gS] ftlesa ,d oqaQMyh nwljh osQ Åij fyiVh gksrh gS] ;k fiQj fp=k 7.16 (b) dh Hkk¡fr ftlesa nksuksa oqaQMfy;k¡ ØksM dh vyx&vyx Hkqtkvksa ij fyiVh gksrh gSaA ,d oqaQMyh dks izkFkfed oqaQMyh (primary coil) dgrs gSa blesa Np yisVs gksrs gSaA nwljh oqaQMyh dks f}rh;d oqaQMyh (secondary coil) dgrs gSa] blesa Ns yisVs gksrs gSaA izk;% izkFkfed oqaQMyh fuos'kh oqaQMyh gksrh gS ,oa f}rh;d oqaQMyh VªkaliQkeZj dh fuxZr oqaQMyh gksrh gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
+
 दूसरी के ऊपर लिपटी होती है, या फिर चित्र 7.16 (b) की भाँति जिसमें दोनों कुंडलियाँ क्रोड
 की अलग-अलग भुजाओं पर लिपटी होती हैं। एक कुंडली को प्राथमिक कुंडली (primary
 coil) कहते हैं हैं इसमें N लपेटे होते हैं। दूसरी कुंडली को द्वितीयक कुंडली (secondary coil)
@@ -1950,7 +2053,7 @@ P dt
 
 191
 
-Reprint 2026-27
+
 
 
 ---
@@ -2076,7 +2179,7 @@ S
 अपचयी (step-down transformer) है। इस ट्रांसफार्मर में V < V एवं 1 > I अर्थात वोल्टता
 कम हो जाती है तथा धारा बढ़ जाती है।
 
-Reprint 2026-27
+
 
 p
 
@@ -2157,7 +2260,7 @@ Um
 
 XL
 
-Reprint 2026-27
+
 
 193
 
@@ -2269,7 +2372,7 @@ Ns
 हो जाती है (V > V)। इस प्रकार की युक्ति को उच्चायी ट्रांसफार्मर कहते हैं। किंतु यदि
 प्राथमिक की तुलना में द्वितीयक में फेरों की संख्या कम है तो ट्रांसफार्मर अपचयी होता है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -2436,7 +2539,7 @@ rms
 दिशा परिवर्तित करती है जिससे माध्य आकर्षण बल शून्य हो जाता है। अतः ac ऐम्पियर को
 किसी ऐसे गुण के संबंध में परिभाषित करना चाहिए जो धारा की दिशा पर निर्भर न करता हो।
 
-Reprint 2026-27
+
 
 195
 
@@ -2533,7 +2636,7 @@ C
 7.4 एक 60 µF का संधारित्र 110V, 60 Hz ac आपूर्ति से जोड़ा गया है। परिपथ में धारा के
 rms मान को ज्ञात कीजिए।
 
-Reprint 2026-27
+
 
 
 ---
@@ -2550,11 +2653,15 @@ Reprint 2026-27
 7.7 एक श्रेणीबद्ध LCR परिपथ को, जिसमें R = 20 Q, L = 1.5 H तथा C = 35 µF, एक
 परिवर्ती आवृत्ति की 200 V ac आपूर्ति से जोड़ा गया है। जब आपूर्ति की आवृत्ति परिपथ की
 मूल आवृत्ति के बराबर होती है तो एक पूरे चक्र में परिपथ को स्थानांतरित की गई माध्य शक्ति
-कितनी होगी?
 
-7.8
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_17_hi.png" alt="चित्र 7.17" onclick="openImageModal(this.src, 'चित्र 7.17: fp=k 7.17...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.17</strong> fp=k 7.17</span>
+    <button class="icon-btn" onclick="goToPdfPage(24)">📄 View in PDF (Page 24)</button>
+  </div>
+</div>
 
-चित्र 7.17 में एक श्रेणीबद्ध LCR परिपथ दिखलाया गया है जिसे परिवर्ती आवृत्ति के 230
 V के स्रोत से जोड़ा गया है। L = 5.0 H, C = 80 μF, R = 40 Ω
 
 ε
@@ -2579,9 +2686,9 @@ SERT
 
 शून्य है।
 
-not to be republished
+
 
 197
 
-Reprint 2026-27
+
 

@@ -9,7 +9,7 @@
 
 अणुगति सिद्धांत
 
-11089CH13
+
 
 12.1 भूमिका
 
@@ -64,7 +64,7 @@ not to
 तो फीनमेन विश्व की अगली पीढ़ी के प्राणियों को परमाणु परिकल्पना संप्रेषित
 करना चाहेंगे। परमाणु परिकल्पना : सभी वस्तुएँ परमाणुओं से बनी हैं, जो अनवरत
 
-Reprint 2025-26
+
 
 
 ---
@@ -136,7 +136,7 @@ Reprint 2025-26
 सकता है। इस सिद्धांत को अब वैज्ञानिकों द्वारा मान्यता है।
 तथापि, उन्नीसवीं शताब्दी के अंत तक भी ऐसे कई प्रसिद्ध
 
-Reprint 2025-26
+
 
 
 ---
@@ -262,7 +262,7 @@ MO NA
 करके समीकरण (12.3) को इस प्रकार व्यक्त कर सकते हैं :
 PV = k NT अथवा P = k nT
 
-Reprint 2025-26
+
 
 
 ---
@@ -278,15 +278,11 @@ Reprint 2025-26
 
 1
 
-### 1.4
-
-P
+### 1.4 P
 
 T
 
-### 1.2
-
-Ad
+### 1.2 Ad
 
 (Jmol-1-1)
 
@@ -300,37 +296,14 @@ T₁> T2>T>
 
 0.8
 
-T₁>T2>T3
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_hi.png" alt="चित्र 12" onclick="openImageModal(this.src, 'चित्र 12: fp=k 12 12 12 12 12.3 .3 .3 .3 .3 rhu fHkUu nkcksa osQ fy, CO2 osQ izk;ksfxd...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 12</strong> fp=k 12 12 12 12 12.3 .3 .3 .3 .3 rhu fHkUu nkcksa osQ fy, CO2 osQ izk;ksfxd</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
-T3
-
-T
-
-0.6
-
-0.4
-
-T2
-
-T3
-
-T2
-
-0
-
-200
-
-400
-
-600
-
-800
-
-0.2
-
-P (atm)
-
-चित्र 12.1 निम्न दाब और उच्च तापों पर वास्तविक गैसों का
 व्यवहार आदर्श गैसों के सदृश होने लगता है।
 
 T3
@@ -349,9 +322,14 @@ V
 
 जहाँ n संख्या घनत्व, अर्थात् प्रति एकांक आयतन में अणुओं की
 संख्या है। k उपरिवर्णित बोल्ट्ज़मान नियतांक हैं। SI मात्रकों में
-इसका मान 1.38 × 10-23 J K-1 है।
 
-चित्र 12.2 भाप के लिए, तीन भिन्न तापों पर प्रायोगिक P-V वक्रों
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_2_hi.png" alt="चित्र 12.2" onclick="openImageModal(this.src, 'चित्र 12.2: fp=k 12.2 12.2 12.2 12.2 12.2 Hkki osQ fy,] rhu fHkUu rkiksa ij izk;ksfxd P-V oØ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 12.2</strong> fp=k 12.2 12.2 12.2 12.2 12.2 Hkki osQ fy,] rhu fHkUu rkiksa ij izk;ksfxd P-V oØksa</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 समीकरण (12.3) का दूसरा उपयोगी रूप है,
 
@@ -378,8 +356,16 @@ Mo
 कोई गैस, जो समीकरण (12.3) का, सभी 
 दाबों पर पूर्णतः पालन करती है आदर्श गैस कहलाती है। है। अतः
 आदर्श गैस किसी गैस का सरल सैद्धांतिक निदर्श है। कोई भी
-वास्तविक गैस सही अर्थों में आदर्श गैस नहीं होती। चित्र
-12.1 में तीन भिन्न तापों पर किसी वास्तविक गैस का आदर्श
+वास्तविक गैस सही अर्थों में आदर्श गैस नहीं होती।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_1_hi.png" alt="चित्र 12.1" onclick="openImageModal(this.src, 'चित्र 12.1: fp=k 12.1 12.1 12.1 12.1 12.1 fuEu nkc vkSj mPp rkiksa ij okLrfod xSlksa dk O;og...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 12.1</strong> fp=k 12.1 12.1 12.1 12.1 12.1 fuEu nkc vkSj mPp rkiksa ij okLrfod xSlksa dk O;ogkj vkn'kZ xSlksa osQ ln`'k gksus yxrk gSA tgk¡ n la[;k ?kuRo] vFkkZr~ izfr ,dkad vk;ru esa v.kqvksa dh la[;k gSA kB mifjo£.kr cksYV~”keku fu;rkad gSaA SI ek=kdksa esa bldk eku 1-38 × 10&23 J K–1 gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 गैस से विचलन दर्शाया गया है। ध्यान दीजिए, निम्न दाबों और
 उच्च तापों पर सभी वक्र आदर्श गैस व्यवहार के सदृश होने
 लगते हैं।
@@ -440,7 +426,7 @@ T-V वक्रों की (पूर्ण रेखाओं द्वा�
 द्वारा प्रदर्शित) तुलना। T,300 K के मात्रकों में एवं
 V, 0.13 लीटर के मात्रकों में है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -567,7 +553,7 @@ Sned
 होने पर यह अकेली गैस आरोपित करती (अक्रिय गैसों के एक
 मिश्रण का कुल दाब, अवयवी गैसों के आंशिक दाबों के योग
 
-Reprint 2025-26
+
 
 
 ---
@@ -637,7 +623,15 @@ M2
 12.4.1 किसी आदर्श गैस का दाब
 
 माना कि । भुजा के किसी घनाकार बर्तन में कोई आदर्श गैस
-भरी है। चित्र 12.4 में दर्शाए अनुसार बर्तन की भुजाएँ संदर्भ
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_4_hi.png" alt="चित्र 12.4" onclick="openImageModal(this.src, 'चित्र 12.4: fp=k 12.4 12.4 12.4 12.4 12.4 xSl osQ ,d v.kq dk /kjd dh nhokj ls izR;kLFk la?kê...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 12.4</strong> fp=k 12.4 12.4 12.4 12.4 12.4 xSl osQ ,d v.kq dk /kjd dh nhokj ls izR;kLFk la?kêðA</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 अक्षों के समांतर हैं। एक अणु जिसका वेग (vx, U₁, v₂) है, yz-
 तल के समांतर दीवार, जिसका क्षेत्रफल A (= 12) है, पर संघात
 करता है। क्योंकि संघट्ट प्रत्यास्थ है, यह अणु दीवार से
@@ -697,7 +691,7 @@ X
 
 संघट्ट ।
 
-Reprint 2025-26
+
 
 
 ---
@@ -837,7 +831,7 @@ E = (3/2) k NT
 * संकेत E आंतरिक ऊर्जा U, जिसमें अन्य स्वातंत्र्य कोटियों के कारण भी ऊर्जाएँ सम्मिलित हो सकती हैं (देखिये अनुभाग 12.5), का
 केवल स्थानांतरीय भाग ही व्यक्त करता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -995,7 +989,7 @@ AV
 = 0.44%
 V
 
-Reprint 2025-26
+
 
 
 ---
@@ -1012,7 +1006,15 @@ Reprint 2025-26
 अणुओं की तुलना में तीव्रगति से चलने वाले अणु
 अधिक संख्या में रिस कर बाहर आएंगे और इस प्रकार
 सरंध्र सिलिंडर के बाहर हलके अणु अधिक मात्रा में पाए जाएँगे
-(संवर्धन) (देखिए चित्र 12.5)। यह विधि अत्यंत प्रभावी
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_5_hi.png" alt="चित्र 12.5" onclick="openImageModal(this.src, 'चित्र 12.5: 235U og leLFkkfud gS ftldh vko&#39;;drk ukfHkdh; fo[kaMu esa gksrh gSA bldks vf/...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 12.5</strong> 235U og leLFkkfud gS ftldh vko';drk ukfHkdh; fo[kaMu esa gksrh gSA bldks vf/d ek=kk esa ik, tkus okys leLFkkfud 238U ls i`Fkd djus osQ fy, feJ.k dks ,d lja/z fl¯yMj }kjk pkjksa vksj ls ?ksj nsrs gSaA lja/z fl¯yMj eksVh nhokj dk ysfdu ladjk gksuk pkfg, rkfd v.kq yacs ja/zksa dh nhokjksa ls la?kêð djrs gq, ,d ,d dj tk losaQA èkhes v.kqvksa dh rqyuk esa rhozxfr ls pyus okys v.kq vf/d la[;k esa fjl dj ckgj vk,axs vkSj bl izdkj lja/z fl¯yMj osQ ckgj gyosQ v.kq vf/d ek=kk esa ik, tk,¡xs (lao/Zu) (nsf[k, fp=k 12.5)A ;g fof/ vR;ar izHkkoh ugha gS vkSj i;kZIr lao/Zu osQ fy, bls dbZ ckj nksgjkuk iM+rk gSA ◁</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 नहीं है और पर्याप्त संवर्धन के लिए इसे कई बार दोहराना
 पड़ता है।
 
@@ -1147,7 +1149,7 @@ mu
 
 (12.24)
 
-Reprint 2025-26
+
 
 
 ---
@@ -1184,7 +1186,15 @@ y
 द्विपरमाणुक गैसों के विषय में क्या कह सकते हैं? O, के अणु
 में 3 स्थानांतरीय स्वातंत्र्य कोटि तो होती ही हैं, पर, इनके
 अतिरिक्त यह अणु अपने द्रव्यमान केंद्र के परितः घूर्णन गति भी
-कर सकते हैं। चित्र 12.6 में, ऑक्सीजन के दो परमाणुओं को
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_6_hi.png" alt="चित्र 12.6" onclick="openImageModal(this.src, 'चित्र 12.6: vkxZu tSlh ,dijek.kqd xSl osQ v.kqvksa esa osQoy LFkkukarjh; Lokra=; dksfV gksrh...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 12.6</strong> vkxZu tSlh ,dijek.kqd xSl osQ v.kqvksa esa osQoy LFkkukarjh; Lokra=; dksfV gksrh gSA ysfdu O2 ;k N2 tSlh f}ijek.kqd xSlksa osQ fo"k; esa D;k dg ldrs gSa\ O2 osQ v.kq esa 3 LFkkukarjh; Lokra=; dksfV rks gksrh gh gSa] ij] buosQ vfrfjDr ;g v.kq vius nzO;eku osaQnz osQ ifjr% ?kw.kZu xfr Hkh dj ldrs gSaA fp=k 12.6 esa] vkWDlhtu osQ nks ijek.kqvksa dks tksM+us okyh js[kk osQ yacor~ nks Lora=k ?kw.kZu v{k 1 ,oa 2 n'kkZ, x, gSa ftuosQ ifjr% v.kq ?kw.kZu xfr dj ldrk gS*A vr% bu v.kqvksa esa izR;sd dh nks ?kw.khZ Lokra=; dksfV gksrh gSaA bl izdkj oqQy ÅtkZ esa LFkkukarjh; ÅtkZ tε ,oa ?kw.khZ ÅtkZ εr nksuksa dk ;ksxnku gksrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 जोड़ने वाली रेखा के लंबवत् दो स्वतंत्र घूर्णन अक्ष 1 एवं 2
 दर्शाए गए हैं जिनके परितः अणु घूर्णन गति कर सकता है*।
 अतः इन अणुओं में प्रत्येक की दो घूर्णी स्वातंत्र्य कोटि होती हैं।
@@ -1284,7 +1294,7 @@ E = E + E + E
 परमाणुओं को मिलाने वाली रेखा के परितः घूर्णन का जड़त्व आघूर्ण बहुत कम होता है और क्वांटम यांत्रिकीय कारणों से प्रभावी नहीं
 हो पाता। अनुभाग 12.6 का अंतिम भाग देखिए।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1475,9 +1485,7 @@ Y
 
 8.31
 
-### 1.67
-
-द्विपरमाणुक
+### 1.67 द्विपरमाणुक
 
 20.8
 
@@ -1485,9 +1493,7 @@ Y
 
 8.31
 
-### 1.40
-
-C (दृढ़ द्विपरमाणुक) = 2 R, C = 1R
+### 1.40 C (दृढ़ द्विपरमाणुक) = 2 R, C = 1R
 
 (12.33)
 
@@ -1509,7 +1515,7 @@ C (दृढ़ द्विपरमाणुक) = 2 R, C = 1R
 
 अतः मोलर विशिष्ट ऊष्मा धारिताएँ
 
-Reprint 2025-26
+
 
 
 ---
@@ -1544,9 +1550,7 @@ He
 
 8.30
 
-### 1.66
-
-एकपरमाणुक
+### 1.66 एकपरमाणुक
 
 Ne
 
@@ -1556,9 +1560,7 @@ Ne
 
 8.12
 
-### 1.64
-
-एकपरमाणुक Ar
+### 1.64 एकपरमाणुक Ar
 
 12.5
 
@@ -1566,9 +1568,7 @@ Ne
 
 8.30
 
-### 1.67
-
-द्विपरमाणुक H₂
+### 1.67 द्विपरमाणुक H₂
 
 20.4
 
@@ -1576,9 +1576,7 @@ Ne
 
 8.45
 
-### 1.41
-
-द्विपरमाणुक
+### 1.41 द्विपरमाणुक
 
 02
 
@@ -1588,9 +1586,7 @@ Ne
 
 8.32
 
-### 1.40
-
-द्विपरमाणुक N2
+### 1.40 द्विपरमाणुक N2
 
 20.8
 
@@ -1598,9 +1594,7 @@ Ne
 
 8.32
 
-### 1.40
-
-त्रिपरमाणुक H₂O
+### 1.40 त्रिपरमाणुक H₂O
 
 27.0
 
@@ -1608,9 +1602,7 @@ Ne
 
 8.35
 
-### 1.31
-
-बहुपरमाणुक CH4
+### 1.31 बहुपरमाणुक CH4
 
 27.1
 
@@ -1618,9 +1610,7 @@ Ne
 
 8.36
 
-### 1.31
-
-मानों में बहुत अंतर पाया गया है। साधारणतः इन गैसों की
+### 1.31 मानों में बहुत अंतर पाया गया है। साधारणतः इन गैसों की
 
 भौतिकी
 
@@ -1746,23 +1736,20 @@ Cp = (5/2) R है। क्योंकि बर्तन का आयतन
 अबाध्य रूप से, सरल रेखा में चलते नहीं रह सकते, उनका पथ
 निरंतर परिवर्तित रहता है।
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 13
 
-अणुगति सिद्धांत
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_7_hi.png" alt="चित्र 12.7" onclick="openImageModal(this.src, 'चित्र 12.7: fp=k 12.7 12.7 12.7 12.7 12.7 ∆t le; esa fdlh v.kq }kjk izl£ir vk;ru ftleas...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 12.7</strong> fp=k 12.7 12.7 12.7 12.7 12.7 ∆t le; esa fdlh v.kq }kjk izl£ir vk;ru ftleas</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
-267
-
-p
-
-At
-
-d
-
-चित्र 12.7 At समय में किसी अणु द्वारा प्रसर्पित आयतन जिसमें
 कोई दूसरा अणु इससे टकराएगा।
 
 मान लीजिए, किसी गैस के अणु व व्यास के गोले हैं।
@@ -1867,7 +1854,7 @@ PV = μ RT = k NT
 यहाँ गैस में मोलों की संख्या और N अणुओं की संख्या है। R तथा k₁ क्रमशः सार्वत्रिक गैस नियतांक एवं
 बोल्ट्ज़मान नियतांक हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1986,7 +1973,7 @@ PV = 2 E
 है तो वह माध्य मुक्त पथ है जो किसी गैस में अंतरापरमाणुक दूरी का 100 गुना और अणु की आमाप का
 1000 गुना होता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -2037,9 +2024,14 @@ B
 
 0°C)। दर्शाइये कि यह 22.4 लीटर है।
 
-12.3
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_8_hi.png" alt="चित्र 12.8" onclick="openImageModal(this.src, 'चित्र 12.8: 12.3 fp=k 12.8 esa vkWDlhtu osQ 1.00×10–3 kg nzO;eku osQ fy, PV/T ,oa P eas] nks...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 12.8</strong> 12.3 fp=k 12.8 esa vkWDlhtu osQ 1.00×10–3 kg nzO;eku osQ fy, PV/T ,oa P eas] nks vyx&vyx rkiksa ij xzkiQ n'kkZ;s x, gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
-चित्र 12.8 में ऑक्सीजन के 1.00×10-3 kg द्रव्यमान के लिए PV/T एवं P में, दो अलग-अलग तापों पर
 ग्राफ दर्शाये गए हैं।
 
 269
@@ -2075,7 +2067,7 @@ T का मान (कम दाब और उच्च ताप के क्
 17 °C हो जाता है। ज्ञात कीजिए कि सिलिंडर से ऑक्सीजन की कितनी मात्रा निकाली गई है। (R = 8.31
 J mol-1 K-1, ऑक्सीजन का अणु द्रव्यमान O₂ = 32 u)।
 
-Reprint 2025-26
+
 
 
 ---
@@ -2121,5 +2113,5 @@ Reprint 2025-26
 
 not to be republis
 
-Reprint 2025-26
+
 

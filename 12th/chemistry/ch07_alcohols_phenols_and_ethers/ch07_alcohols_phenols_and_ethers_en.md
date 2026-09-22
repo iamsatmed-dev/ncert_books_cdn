@@ -96,7 +96,7 @@ hydrocarbon by an alkoxy or aryloxy group
 as 'ethers', for example, CH3OCH3 (dimethyl ether). You
 may also visualise ethers as compounds formed by
 
-Reprint 2025-26
+
 
 
 ---
@@ -208,7 +208,7 @@ Benzylic alcohols: In these alcohols, the —OH group is attached
 to a sp³-hybridised carbon atom next to an aromatic ring. For
 example.
 
-Reprint 2025-26
+
 
 
 ---
@@ -314,7 +314,7 @@ CH3
 common name of the alkyl group and adding the word alcohol to it.
 For example, CH3OH is methyl alcohol.
 
-Reprint 2025-26
+
 
 195 Alcohols, Phenols and Ethers
 
@@ -420,7 +420,7 @@ of phenol involves a benzene ring, in its substituted compounds the
 terms ortho (1,2- disubstituted), meta (1,3-disubstituted) and para
 (1,4-disubstituted) are often used in the common names.
 
-Reprint 2025-26
+
 
 
 ---
@@ -571,7 +571,7 @@ Ethoxybenzene
 
 -1,1-dimethylcyclohexane
 
-Reprint 2025-26
+
 
 197 Alcohols, Phenols and Ethers
 
@@ -649,7 +649,15 @@ CH3 Br
 
 In alcohols, the oxygen of the -OH group is attached to carbon by a
 sigma (σ) bond formed by the overlap of a sp³ hybridised orbital of
-sp³ hybridised orbital of oxygen. Fig. 7.1 depicts
+sp³ hybridised orbital of oxygen.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch07_alcohols_phenols_and_ethers_fig_7_1.png" alt="Fig. 7.1" onclick="openImageModal(this.src, 'Fig. 7.1: 3 hybridised orbital of oxygen. Fig. 7.1 depicts structural aspects of methanol,...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.1</strong> 3 hybridised orbital of oxygen. Fig. 7.1 depicts structural aspects of methanol, phenol and methoxymethane.</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 structural aspects of methanol, phenol and methoxymethane.
 
@@ -688,7 +696,7 @@ Methoxymethane
 
 Fig. 7.1: Structures of methanol, phenol and methoxymethane
 
-Reprint 2025-26
+
 
 
 ---
@@ -792,7 +800,7 @@ HOH
 
 +
 
-Reprint 2025-26
+
 
 199 Alcohols, Phenols and Ethers
 
@@ -906,7 +914,7 @@ Catalyst
 
 Chemistry 200
 
-Reprint 2025-26
+
 
 
 ---
@@ -1005,7 +1013,7 @@ nineteenth century from coal tar. Nowadays, phenol is commercially
 produced synthetically. In the laboratory, phenols are prepared from
 benzene derivatives by any of the following methods:
 
-Reprint 2025-26
+
 
 201 Alcohols, Phenols and Ethers
 
@@ -1084,7 +1092,7 @@ Cumene
 Cumene
 hydroperoxide
 
-Reprint 2025-26
+
 
 
 ---
@@ -1179,7 +1187,7 @@ molecular masses. For example, ethanol and propane have comparable
 molecular masses but their boiling points differ widely. The boiling
 point of methoxymethane is intermediate of the two boiling points.
 
-Reprint 2025-26
+
 
 203 Alcohols, Phenols and Ethers
 
@@ -1302,7 +1310,7 @@ of alcohols and phenols may be divided into two groups:
 
 Chemistry 204
 
-Reprint 2025-26
+
 
 
 ---
@@ -1421,7 +1429,7 @@ Secondary
 
 Tertiary
 
-Reprint 2025-26
+
 
 205 Alcohols, Phenols and Ethers
 
@@ -1509,7 +1517,7 @@ ions. In alkoxide ion, the negative charge is localised on oxygen
 while in phenoxide ion, the charge is delocalised.
 The delocalisation of negative charge (structures I-V) makes
 
-Reprint 2025-26
+
 
 
 ---
@@ -1629,7 +1637,7 @@ Propan-1-ol, 4-methylphenol, phenol, 3-nitrophenol, 3,5-dinitrophenol, Solution
 Alcohols and phenols react with carboxylic acids, acid chlorides and
 acid anhydrides to form esters.
 
-Reprint 2025-26
+
 
 207 Alcohols, Phenols and Ethers
 
@@ -1747,7 +1755,7 @@ C2H5OH-
 
 443 K
 
-Reprint 2025-26
+
 
 
 ---
@@ -1892,7 +1900,7 @@ these involve loss of dihydrogen from an alcohol molecule. Depending
 on the oxidising agent used, a primary alcohol is oxidised to an
 aldehyde which in turn is oxidised to a carboxylic acid.
 
-Reprint 2025-26
+
 
 209 Alcohols, Phenols and Ethers
 
@@ -2012,7 +2020,7 @@ Chemistry 210
 
 Following reactions are shown by phenols only.
 
-Reprint 2025-26
+
 
 
 ---
@@ -2112,7 +2120,7 @@ phenol-2,4-disulphonic acid, and then with concentrated nitric
 acid to get 2,4,6-trinitrophenol. Can you write the equations of
 the reactions involved?
 
-Reprint 2025-26
+
 
 211 Alcohols, Phenols and Ethers
 
@@ -2229,7 +2237,7 @@ substitution. Hence, it undergoes electrophilic substitution with
 carbon dioxide, a weak electrophile. Ortho hydroxybenzoic acid is
 formed as the main reaction product.
 
-Reprint 2025-26
+
 
 
 ---
@@ -2335,7 +2343,7 @@ resonance structures of the corresponding phenoxide ions.
 
 213 Alcohols, Phenols and Ethers
 
-Reprint 2025-26
+
 
 
 ---
@@ -2439,7 +2447,7 @@ by mixing in it some copper sulphate (to give it a colour) and pyridine
 Nowadays, large quantities of ethanol are obtained by hydration of
 ethene (Section 7.4).
 
-Reprint 2025-26
+
 
 
 ---
@@ -2556,7 +2564,7 @@ Ethers containing substituted alkyl groups (secondary or tertiary)
 may also be prepared by this method. The reaction involves SŊ2 attack
 of an alkoxide ion on primary alkyl halide.
 
-Reprint 2025-26
+
 
 215 Alcohols, Phenols and Ethers
 
@@ -2660,7 +2668,7 @@ R-X
 
 Chemistry 216
 
-Reprint 2025-26
+
 
 
 ---
@@ -2754,7 +2762,7 @@ The order of reactivity of hydrogen halides is as follows:
 HI > HBr > HCl. The cleavage of ethers takes place with concentrated
 HI or HBr at high temperature.
 
-Reprint 2025-26
+
 
 217 Alcohols, Phenols and Ethers
 
@@ -2897,7 +2905,7 @@ because the carbon of phenyl
 group is sp² hybridised and there
 is a partial double bond character.
 
-Reprint 2025-26
+
 
 
 ---
@@ -2985,7 +2993,7 @@ Anisole
 
 Br
 
-Reprint 2025-26
+
 
 +
 
@@ -3121,7 +3129,7 @@ CH₂ONa
 
 NO2
 
-Reprint 2025-26
+
 
 +
 
@@ -3196,7 +3204,7 @@ C-O bond in ethers can be cleaved by hydrogen halides. In electrophilic
 substitution, the alkoxy group activates the aromatic ring and directs the incoming
 group to ortho and para positions.
 
-Reprint 2025-26
+
 
 221 Alcohols, Phenols and Ethers
 
@@ -3329,7 +3337,7 @@ preparation of phenol using these reagents.
 
 Chemistry 222
 
-Reprint 2025-26
+
 
 
 ---
@@ -3407,7 +3415,7 @@ Propan-2-ol.
 7.22 Give reason for the higher boiling point of ethanol in comparison to
 methoxymethane.
 
-Reprint 2025-26
+
 
 223 Alcohols, Phenols and Ethers
 
@@ -3516,7 +3524,7 @@ Give a mechanism for this reaction.
 (Hint: The secondary carbocation formed in step II rearranges to a more
 stable tertiary carbocation by a hydride ion shift from 3rd carbon atom.
 
-Reprint 2025-26
+
 
 
 ---
@@ -3607,7 +3615,7 @@ CH3-CH2 - CH – CH – ONa + C₂H₄Br → CH₃ – CH₂ – CH – CH – O
 
 CH3 CH3
 
-Reprint 2025-26
+
 
 CH3 CH3
 
@@ -3643,9 +3651,9 @@ OC2H5
 
 © NCERT
 
-not to be republished
+
 
 Chemistry 226
 
-Reprint 2025-26
+
 

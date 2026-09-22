@@ -35,7 +35,7 @@
 के बारे में हमारे ज्ञान को बढ़ाया है। इस ईकाई में डीएनए की संरचना तथा कार्य तथा
 विकास की कहानी तथा वाद को विस्तार से समझा तथा उसकी व्याख्या की गई है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -72,13 +72,13 @@ Reprint 2025-26
 कॉलिन वैरैन पुरस्कार तथा वर्ष 1960 का लैस्कर पुरस्कार और 1962 का अनुसंधान कॉर्पोरेशन
 पुरस्कार भी शामिल है।
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 3
 
-12084CH05
+
 
 RRYY
 
@@ -156,7 +156,7 @@ not to bblished
 करवाया तथा उनसे इच्छित लक्षणों के जीव प्राप्त किए। उदाहरण
 पुरानी जंगली गायों के कृत्रिम चयन और उनको पालतू बनाकर हमने
 
-Reprint 2025-26
+
 
 
 ---
@@ -170,9 +170,7 @@ Reprint 2025-26
 ज्ञान था किंतु उनको इन घटनाओं के वैज्ञानिक आधार
 के विषय में बहुत कम जानकारी थी।
 
-### 4.1
-
-लक्षण
+### 4.1 लक्षण
 बीज का आकार
 
 प्रभावी विशेषक अप्रभावी विशेषक
@@ -232,15 +230,13 @@ republished
 पीढ़ियों तक स्वपरागण के फलस्वरूप स्थायी विशेषक
 (ट्रेट) प्रदर्शित करता है। मंडल ने मटर की 14 तद्रूप
 
-पुष्प की स्थिति
-
-अक्षीय
-
-अंत्य
-
-तने की ऊँचाई
-
-चित्र 4.1
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_hi.png" alt="चित्र 4" onclick="openImageModal(this.src, 'चित्र 4: mUuhloha lnh osQ e?; osQ o&quot;kks± esa gh vkuqoaf&#39;kdrk dks le>us osQ laca/...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4</strong> mUuhloha lnh osQ e?; osQ o"kks± esa gh vkuqoaf'kdrk dks le>us osQ laca/ esa izxfr gks ldhA xzhxksj esaMy us m|ku eVj osQ ikS/s esa lkr o"kks± (1856&1863) rd ladj.k osQ iz;ksx fd, rFkk muosQ vk/kj ij thoksa dh oa'kkxfr fu;e dks izLrkfor fd;kA lka[;dh; fo'ys"k.kksa vkSj xf.krh; roZQ'kkL=k dk tho foKku dh leL;kvksa osQ lek/ku gsrq izFke mi;ksx Hkh esaMy }kjk oa'kkxr vaos"k.kksa osQ nkSjku gh fd;k x;kA muosQ iz;ksxksa esa uewuksa dh fo'kky la[;k us muosQ vk¡dM+ksa oQks fo'oluh;rk iznku dhA lkFk gh muosQ ijh{kk/hu ikS/ksa dh mÙkjksÙkj ihf<+;ksa ij fd, x, iz;ksx rFkk muosQ liQy fu"d"kks± us fl¼ fd;k fd esaMy osQ oa'kkxfr fu;eksa esa O;kidrk Fkh vkSj os osQoy viq"V fopkj ugha FksA esaMy us eVj osQ ikS/s osQ mu y{k.kksa ij fopkj fd;k tks loZFkk foijhrkFkZ Fks_ tSls yacs ;k ckSus ikS/s] ihys ;k gjs chtA blosQ dkj.k mls oa'kkxfr fu;eksa dk vk/kjHkwr <k¡pk rS;kj djus esa lgk;rk feyhA ckn osQ oSKkfudkas us bls foLrkj fn;k ftlls fofo/ uSlfxZd ?kVukvksa vkSj muesa fufgr tfVyrk dk Li"Vhdj.k fd;k tk ldkA esaMy us vusd rnzwi&iztuu&le] eVj osQ 'kq¼ oa'kozQeksa dks ysdj Ñf=ke ijkx.k@ij&ijkx.k osQ iz;ksx fd,A rnzwi& iztuu&le (Vª™ czhfMax) oa'kozQe og gksrk gS] tks dbZ ihf<+;ksa rd Loijkx.k osQ iQyLo:i LFkk;h fo'ks"kd (VsªV) iznf'kZr djrk gSA esaMy us eVj dh 14 rnzwi iztuuh eVj dh fdLeksa dks N¡kVk vFkkZr~ lkr tksM+s foijhr y{k.kksa dks fy;k] buosQ vU; y{k.k leku FksA buesa ls oqQN mnkgj.k bl izdkj gSa — fpdus ;k >qjhZnkj cht] ihys ;k gjs cht] iwQyh gqbZ ;k floqQM+h gqbZ iQfy;k¡] gjh ;k ihyh iQfy;k¡] yacs ;k ckSus ikS/s (fp=k 4-1] o rkfydk 4-1)A</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 लंबा
 
@@ -252,11 +248,18 @@ republished
 प्रजननी मटर की किस्मों को छाँटा अर्थात् सात जोड़े विपरीत लक्षणों को लिया, इनके
 अन्य लक्षण समान थे। इनमें से कुछ उदाहरण इस प्रकार हैं – चिकने या झुर्रीदार बीज,
 पीले या हरे बीज, फूली हुई या सिकुड़ी हुई फलियाँ, हरी या पीली फलियाँ, लंबे या
-बौने पौधे (चित्र 4.1, व तालिका 4.1)।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_1_hi.png" alt="चित्र 4.1" onclick="openImageModal(this.src, 'चित्र 4.1: fp=k 4.1 esaMy }kjk v?;;u fd, x, eVj osQ ikS/s osQ foi;kZl fo&#39;ks&quot;kdkas ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.1</strong> fp=k 4.1 esaMy }kjk v?;;u fd, x, eVj osQ ikS/s osQ foi;kZl fo'ks"kdkas osQ lkr tksM+sA</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 61
 
-Reprint 2025-26
+
 
 
 ---
@@ -348,7 +351,13 @@ Reprint 2025-26
 
 प्रयोग द्वारा एक जीन का आनुवंशिक अध्ययन किया
 
-चित्र 4.2 मटर में संकरण के चरण
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_2_hi.png" alt="चित्र 4.2" onclick="openImageModal(this.src, 'चित्र 4.2: fp=k 4.2 eVj esa ladj.k osQ pj.k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.2</strong> fp=k 4.2 eVj esa ladj.k osQ pj.k</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 not to
 
@@ -363,8 +372,16 @@ CER
 ### 4.2)। इस पीढ़ी को प्रथम संतति पीढ़ी (फिलिअल,
 प्रोजेनी) या F₁ भी कहा जाता है। मेंडल ने देखा कि
 F, पीढ़ी के सभी पौधे लंबे थे अर्थात् अपने लंबे
-जनक के समान थे, कोई पौधा बौना नहीं था (चित्र
-4.3)। इसी प्रकार के परिणाम अन्य विशेषकों वाले
+जनक के समान थे, कोई पौधा बौना नहीं था (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_3_hi.png" alt="चित्र 4.3" onclick="openImageModal(this.src, 'चित्र 4.3: fp=k 4.3 ,d&ladj Økl dk vkjs[kh; fu:i.k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.3</strong> fp=k 4.3 ,d&ladj Økl dk vkjs[kh; fu:i.k</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 संकरण प्रयोगों में भी पाए गए। उन्होंने देखा कि F
 में दो में से एक जनक के लक्षणों की ही अभिव्यक्ति
 होती है। दूसरे जनक के लक्षण प्रकट नहीं होते।
@@ -389,7 +406,7 @@ F, पीढ़ी के सभी पौधे लंबे थे अर्�
 
 2
 
-Reprint 2025-26
+
 
 
 ---
@@ -473,7 +490,7 @@ X
 
 63
 
-Reprint 2025-26
+
 
 
 ---
@@ -520,37 +537,14 @@ Tt
 
 T
 
-T
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_4_hi.png" alt="चित्र 4.4" onclick="openImageModal(this.src, 'चित्र 4.4: fp=k 4.4 esaMy }kjk ladfjr &#39;kq¼ oa&#39;kØe yacs rFkk &#39;kq¼ oa&#39;kØe ckS...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.4</strong> fp=k 4.4 esaMy }kjk ladfjr 'kq¼ oa'kØe yacs rFkk 'kq¼ oa'kØe ckSus ikS/ksa dh ØkWl dks le>us osQ fy, iusV oxZ dk mi;ksx</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
-युग्मक
-
-युग्मक
-
-t
-
-t
-
-TT
-
-F₂ पादप
-
-Tt
-
-Tt
-
-tt
-
-फीनोटाइप अनुपात
-
-लंबा बौना
-
-3:1
-
-जीनोटाइप अनुपात : TT: Tt: tt
-
-1:2:1
-
-चित्र 4.4 मेंडल द्वारा संकरित शुद्ध वंशक्रम लंबे तथा शुद्ध
 वंशक्रम बौने पौधों की क्रॉस को समझने के लिए
 पनेट वर्ग का उपयोग
 
@@ -599,7 +593,7 @@ F₁, F, संतति पादपों को समझाया जा स
 युग्मक और F₁, Tt संतति पीढ़ी, दर्शाए गए हैं। Tt जीनोटाइप के F, पौधे स्वपरागित
 हैं। F, पीढ़ी के नर (अंड) और मादा (पराग) के द्योतन के लिए क्रमशः १ और ४
 
-Reprint 2025-26
+
 
 
 ---
@@ -658,12 +652,21 @@ F₂ के लंबे पौधे के जीनोटाइप-निर�
 फीनोटाइप वाले जीव (यहाँ पर मटर का पौधा, जिसका जीनोटाइप मालूम करना
 है-परीक्षार्थ जीव) का अप्रभावी पौधे से संकरण किया जाता है न कि स्वपरागण, जैसा
 पिछले प्रयोगों में किया गया था)। परीक्षार्थ जीव के जीनोटाइप निर्धारण के हेतु ऐसे
-संकरण की संततियों का विश्लेषण किया जा सकता है। चित्र 4.5 में ऐसे संकरण के
+संकरण की संततियों का विश्लेषण किया जा सकता है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_5_hi.png" alt="चित्र 4.5" onclick="openImageModal(this.src, 'चित्र 4.5: fp=k 4.5 ijh{kkFkZ ladj dk vkjs[kh izfr:i.k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.5</strong> fp=k 4.5 ijh{kkFkZ ladj dk vkjs[kh izfr:i.k</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 परिणाम दर्शाए गए हैं। यहाँ पर बैंगनी (W) रंग श्वेत (w) के ऊपर प्रभावी है।
 
 65
 
-Reprint 2025-26
+
 
 
 ---
@@ -775,7 +778,7 @@ F₁ में केवल एक जनक लक्षण का प्रक
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -805,7 +808,16 @@ Reprint 2025-26
 प्रभाविता को समझने के लिए अच्छा उदाहरण है। तद्रूप
 प्रजननी लाल फूल वाली (RR) और तद्रूप प्रजननी सफेद
 फूल वाली (rr) प्रजाति के संकरण के परिणामस्वरूप F₁
-पीढ़ी गुलाबी फूलों (Rr) वाली प्राप्त हुई। (चित्र 4.6) जब
+पीढ़ी गुलाबी फूलों (Rr) वाली प्राप्त हुई। (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_6_hi.png" alt="चित्र 4.6" onclick="openImageModal(this.src, 'चित्र 4.6: fp=k 4.6 &#39;oku iq&quot;i uked ikS/ksa esa ,dladj ladj.k osQ ifj.kke ;gk¡ ij ,...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.6</strong> fp=k 4.6 'oku iq"i uked ikS/ksa esa ,dladj ladj.k osQ ifj.kke ;gk¡ ij ,d vyhy nwljs osQ mQij viw.kZr% izHkkoh gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 इस F, संतति को स्वयं परागित किया गया तो परिणामों का
 अनुपात 1 (RR) लाल : 2 (Rr) गुलाबी : 1 (rr)
 सफेद था। यहाँ पर जीनोटाइप अनुपात वही था जो किसी
@@ -881,7 +893,7 @@ Rr
 
 67
 
-Reprint 2025-26
+
 
 
 ---
@@ -937,7 +949,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -1046,12 +1058,21 @@ shed
 ### 4.3 दो जीनों की वंशागति
 
 मेंडल ने दो लक्षणों में भिन्न मटर के पौधों पर भी संकरण प्रयोग किए जैसे पीले और
-गोल बीज वाले पौधों का क्रॉस हरे और झुर्रीदार बीज वाले पौधों से किया। (चित्र 4.7)
+गोल बीज वाले पौधों का क्रॉस हरे और झुर्रीदार बीज वाले पौधों से किया। (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_7_hi.png" alt="चित्र 4.7" onclick="openImageModal(this.src, 'चित्र 4.7: fp=k 4.7 f}ladj ØkWl osQ ifj.kke ftuesa tud nks tksM+s foijhr fo&#39;ks&quot;kdk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.7</strong> fp=k 4.7 f}ladj ØkWl osQ ifj.kke ftuesa tud nks tksM+s foijhr fo'ks"kdksa esa fHkUu Fks & tSls cht</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 मेंडल ने पाया कि इस प्रकार के जनकों के संकरण से केवल पीले रंग वाले गोल बीज
 
 69
 
-Reprint 2025-26
+
 
 
 ---
@@ -1168,7 +1189,7 @@ RrYy
 चित्र 4.7 द्विसंकर क्रॉस के परिणाम जिनमें जनक दो जोड़े विपरीत विशेषकों में भिन्न थे – जैसे बीज
 का रंग और बीज की आकृति।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1226,7 +1247,7 @@ Rr के समान ही होता है। याद रखने ल�
 
 71
 
-Reprint 2025-26
+
 
 
 ---
@@ -1285,31 +1306,20 @@ nott
 1902 तक अर्धसूत्रणी कोशिका विभाजन के दौरान क्रोमोसोम की गति (संचालन) का
 ज्ञान हो चुका था। वाल्टर सटन और थियोडोर बोमेरी ने देखा कि क्रोमोसोम का
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 16
 
-वंशागति तथा विविधता के सिद्धांत
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_8_hi.png" alt="चित्र 4.8" onclick="openImageModal(this.src, 'चित्र 4.8: fp=k 4.8 pkj Øksekslkse okyh dksf&#39;kdk esa v/Zlw=k.k vkSj tuu dksf&#39;kdk mR...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.8</strong> fp=k 4.8 pkj Øksekslkse okyh dksf'kdk esa v/Zlw=k.k vkSj tuu dksf'kdk mRiknu ns[k ldrs gks fd</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
-G
-
-G2
-
-अर्धसूत्रण I
-
-अर्धसूत्रण II
-
-जनन कोशिका
-
-पश्चावस्था
-
-पश्चावस्था
-
-युगली
-
-चित्र 4.8 चार क्रोमोसोम वाली कोशिका में अर्धसूत्रण और जनन कोशिका उत्पादन देख सकते हो कि
 कैसे ये क्रोमोसोम बनते हैं और जनन कोशिका बनने के दौरान कैसे विसंयोजित होते हैं।
 
 व्यवहार भी जीन जैसा ही है। इन्होंने मेंडल के नियमों (तालिका 4.3) को क्रोमोसोम की
@@ -1352,14 +1362,23 @@ to
 का और कौन सा जीन का प्रतिनिधित्व करता है? यह निर्णय आपने कैसे किया?
 
 अर्धसूत्रण I की पश्चावस्था में क्रोमोसोम के दो जोड़े मेटाफेस पट्टिका पर एक दूसरे
-से स्वतंत्र रूप से पंक्तिबद्ध हो सकते हैं (चित्र 4.9)। इसे समझने के लिए दाएँ और बाएँ
+से स्वतंत्र रूप से पंक्तिबद्ध हो सकते हैं (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_9_hi.png" alt="चित्र 4.9" onclick="openImageModal(this.src, 'चित्र 4.9: fp=k 4.9 Øksekslkseksa dk Lora=k laO;wgu...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.9</strong> fp=k 4.9 Øksekslkseksa dk Lora=k laO;wgu</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 स्तंभों के चार अलग रंगों के क्रोमोसोम की तुलना करो। बाएँ स्तंभ में (संभावना I) नारंगी
 और हरे एक साथ विसंयोजित हैं किंतु दाहिने स्तंभ (संभावना II) में नारंगी क्रामोसोम
 लाल क्रोमोसोमों के साथ विसंयोजित हो रहा है।
 
 73
 
-Reprint 2025-26
+
 
 
 ---
@@ -1409,7 +1428,15 @@ epub
 इस विचार के विश्लेषणों का अनुपालन करते हुए, थामस हंट मोरगन तथा
 (अ)
 उसके साथियों ने वंशागति का क्रोमोसोम-वाद या सिद्धांत के प्रयोगात्मक सत्यापन
-चित्र 4.10 ड्रोसोफिला मेलनोगैस्टर किए और यौन जनन उत्पादन विभेदन के लिए खोज के आधार की नींव डाली।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_10_hi.png" alt="चित्र 4.10" onclick="openImageModal(this.src, 'चित्र 4.10: eksjxu us iQy&efD[k;ksa (izwQVÝykbZ & MªkslksfiQyk esyuksxSLVj) ij dke fd;k] tks...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.10</strong> eksjxu us iQy&efD[k;ksa (izwQVÝykbZ & MªkslksfiQyk esyuksxSLVj) ij dke fd;k] tks ;s ,sls vè;;uksa osQ fy, mi;qZDr ikbZ x;h (fp=k 4.10)A bUgsa iz;ksx'kkyk esa ljy Ñf=ke ekè;eksa ij j[kk tk ldrk FkkA ;s viuk iwjk thou pØ nks lIrkg esa iwjk dj ldrh Fkha vkSj buesa ,dy eSFkqu ls fo'kky la[;k esa larfr efD[k;ksa dk mRiknu laHko FkkA lkFk gh fyaxksa dk foHksnu Li"V FkkA uj vkSj eknk dh vklkuh ls igpku dh tk ldrh FkhA lkFk gh blesa vkuqoaf'kd fofo/rkvksa osQ vusd izdkj Fks tks de {kerk okys ekbØksLdksi ls ns[ks tk ldrs FksA</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 मोरगन ने फल-मक्खियों (फ्रूटफ्लाई - ड्रोसोफिला मेलनोगैस्टर) पर काम
 किया, जो ये ऐसे अध्ययनों के लिए उपर्युक्त पाई गयी (चित्र 4.10)। इन्हें
 प्रयोगशाला में सरल कृत्रिम माध्यमों पर रखा जा सकता था। ये अपना पूरा जीवन चक्र
@@ -1418,7 +1445,7 @@ epub
 आसानी से पहचान की जा सकती थी। साथ ही इसमें आनुवंशिक विविधताओं के अनेक
 प्रकार थे जो कम क्षमता वाले माइक्रोस्कोप से देखे जा सकते थे।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1594,40 +1621,18 @@ m
 
 y w
 
-y w
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_11_hi.png" alt="चित्र 4.11" onclick="openImageModal(this.src, 'चित्र 4.11: fp=k 4.11 lgyXurk&ekSle }kjk fd, x, nks f}ladj ØkWlksa osQ ifj.kke] ØkWl A esa t...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.11</strong> fp=k 4.11 lgyXurk&ekSle }kjk fd, x, nks f}ladj ØkWlksa osQ ifj.kke] ØkWl A esa thu y vkSj w osQ chp ladj.k fn[kyk;k</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
 
-W
-
-m
-
-W m+
-
-y w
-
-पीला, श्वेत
-
-y w
-पीला
-
-W
-
-m
-
-W
-
-m
-
-श्वेत, लघुतर
-
-श्वेत
-
-75
-
-चित्र 4.11 सहलग्नता-मौसम द्वारा किए गए दो द्विसंकर क्रॉसों के परिणाम, क्रॉस A में जीन y और w के बीच संकरण दिखलाया
 गया है, क्रॉस B में w और m जीनों के बीच का संकरण है। यहाँ प्रभावी वन्य प्रकार के अलील को (+) प्रतीक से
 दिखाया गया है। नोट कीजिए कि y और w के बीच w और m की अपेक्षा सहलग्नता अधिक बलवती है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1681,7 +1686,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -1735,35 +1740,19 @@ Cublished
 
 77
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 21
 
-XY
-
-오
-
-X X
-
-(अ)
-
-오
-
-O+
-
-XY
-
-X X
-
-(ब)
-
-오
-
-ZZ
-
-चित्र 4.12
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_12_hi.png" alt="चित्र 4.12" onclick="openImageModal(this.src, 'चित्र 4.12: fp=k 4.12 Øksekslkse fHkUurkvksa osQ }kjk fyax fu/kZj.k (v]c) ekuo rFkk Mªkslksf...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.12</strong> fp=k 4.12 Øksekslkse fHkUurkvksa osQ }kjk fyax fu/kZj.k (v]c) ekuo rFkk MªkslksfiQyk] eknk esa XX Øksekslkse (le;qXedh) rFkk uj esa XY (fo"ke;qXedh) fLFkfrA (l) vusd if{k;ksa esa eknk esa vleku Øksekslkse ZW rFkk uj esa leku Øksekslkse ZZ A</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
 
 78
 
@@ -1827,7 +1816,7 @@ not t
 जैसाकि पहले समझाया जा चुका है कि मानव का लिंग निर्धारण XY प्रकार का होता है।
 कुल 23 जोड़े क्रोमोसोम में से 22 जोड़े नर और मादा में बिल्कुल एक जैसे होते हैं,
 
-Reprint 2025-26
+
 
 
 ---
@@ -1921,7 +1910,7 @@ F, पीढ़ी
 
 79
 
-Reprint 2025-26
+
 
 
 ---
@@ -1944,29 +1933,13 @@ Reprint 2025-26
 ऐनिमिया) नामक रोग है। डीएनए के क्षार युग्मों के घटने-बढ़ने से फ्रेम शिफ्ट
 उत्परिवर्तजन उत्पन्न करते हैं (अगले अध्याय में वर्णित)।
 
-लिंग का उल्लेख नहीं
-
-प्रभावित व्यक्ति
-
-मैथुन
-
-रिश्तेदारों के बीच मैथुन
-(सम रक्त मैथुन)
-
-जनक ऊपर और संतति नीचे
-
-(बाएँ से दाएँ, जन्म के अनुसार)
-
-नर शिशु वाले जनक रोग से
-प्रभावित
-
-5
-
-पाँच प्रभावहीन संतति
-
-noto b
-
-चित्र 4.14 मानव वंशावली विश्लेषण में प्रयुक्त प्रतीक
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_14_hi.png" alt="चित्र 4.14" onclick="openImageModal(this.src, 'चित्र 4.14: fp=k 4.14 ekuo oa&#39;kkoyh fo&#39;ys&quot;k.k esa iz;qDr izrhd...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.14</strong> fp=k 4.14 ekuo oa'kkoyh fo'ys"k.k esa iz;qDr izrhd</span>
+    <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
+  </div>
+</div>
 
 80
 
@@ -1976,9 +1949,7 @@ noto b
 नाम दिया गया है। पराबैंगनी विकिरण, जीवों में उत्परिवर्तन पैदा
 कर देते हैं। ये उत्परिवर्तजन ही हैं।
 
-### 4.8
-
-आनुवंशिक विकार
+### 4.8 आनुवंशिक विकार
 
 ### 4.8.1 वंशावली विश्लेषण (पेडीग्री एनालेसिस)
 मानव समाज में वंशागत विकारों की बात पुराने समय से चली
@@ -2001,7 +1972,7 @@ noto b
 में विद्यमान डीएनए पर स्थित जीन में निहित होता है। डीएनए ही आनुवंशिक सूचना का
 वाहक है और यह बिना किसी परिवर्तन के एक से दूसरी पीढ़ी में स्थानांतरित होता जाता
 
-Reprint 2025-26
+
 
 
 ---
@@ -2025,7 +1996,16 @@ Reprint 2025-26
 थैलेसीमिया इत्यादि हैं। यहाँ यह भी बताना महत्त्वपूर्ण है कि ये मंडलीय विकार प्रभावी
 अथवा अप्रभावी हो सकते हैं, साथ ही जैसाकि हीमोफीलिया में होता है। यह लक्षण लिंग
 क्रोमोसोम-आधारित भी हो सकता है। यह सुस्पष्ट है कि X- लग्न अप्रभावी लक्षण, वाहक
-मादा (कैरियर मदर) से नर संतति को प्राप्त होता है। इस वंशावली का नमूना चित्र 4.15
+मादा (कैरियर मदर) से नर संतति को प्राप्त होता है। इस वंशावली का नमूना
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_15_hi.png" alt="चित्र 4.15" onclick="openImageModal(this.src, 'चित्र 4.15: fp=k 4.15 izrhdkRed oa&#39;kkoyh fo&#39;ys&quot;k.k (v) vfyaxh Øksekslkse ij izH...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.15</strong> fp=k 4.15 izrhdkRed oa'kkoyh fo'ys"k.k (v) vfyaxh Øksekslkse ij izHkkoh fo'ks"kd tSls ek;ksVksfud nq"iks"k.k (fMLVªksiQh)] (c) vkyaxh&Øksekslkse ij&vizHkkoh fo'ks"kd tSls nk=k dksf'kdk vjDrrk (fldy lsy ,fufe;k)</span>
+    <button class="icon-btn" onclick="goToPdfPage(24)">📄 View in PDF (Page 24)</button>
+  </div>
+</div>
+
 पर प्रस्तुत है जिसमें प्रभावी और अप्रभावी लक्षण दिखलाए गए हैं। अपने अध्यापक से चर्चा
 करें और अलिंग तथा लिंग क्रोमोसोम से लग्न लक्षणों वाला वंशावली नक्शा बनाएँ।
 हीमोफीलिया- इस लिंग सहलग्न रोग का व्यापक अध्ययन हो चुका है। इसमें प्रभाव
@@ -2048,7 +2028,7 @@ shed
 प्रतीकात्मक वंशावली विश्लेषण (अ) अलिंगी क्रोमोसोम पर प्रभावी विशेषक जैसे मायोटोनिक दुष्पोषण (डिस्ट्रोफी),
 (ब) आलंगी-क्रोमोसोम पर-अप्रभावी विशेषक जैसे दात्र कोशिका अरक्तता (सिकल सेल एनिमिया)
 
-Reprint 2025-26
+
 
 
 ---
@@ -2083,7 +2063,15 @@ Reprint 2025-26
 में से केवल Hb (HbHb) वाले समयुग्मकी व्यक्तियों में दर्शित होता है।
 विषमयुग्मकी (Hb^ Hb˚) व्यक्ति रोग मुक्त होते हैं परंतु वे रोग के वाहक होते हैं।
 उत्परिवर्तित जीन के संतति में पहुँचने की 50 प्रतिशत संभावना (अर्थात् दात्र कोशिका
-के लक्षण आने की) होती है (चित्र 4.16)। इस विकार का कारण हीमोग्लोबिन अणु
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_16_hi.png" alt="चित्र 4.16" onclick="openImageModal(this.src, 'चित्र 4.16: fp=k 4.16 gheksXyksfcu dh B Ük`a[kyk osQ laxr va&#39;kksa osQ vehuks vEy la?kVu ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.16</strong> fp=k 4.16 gheksXyksfcu dh B Ük`a[kyk osQ laxr va'kksa osQ vehuks vEy la?kVu vkSj yky #f/j dksf'kdk osQ lw{e&vkjs[k (v) lkekU;</span>
+    <button class="icon-btn" onclick="goToPdfPage(26)">📄 View in PDF (Page 26)</button>
+  </div>
+</div>
+
 की बीटा ग्लोबिनश्रृंखला की छठी स्थिति में एक अमीनों अम्ल ग्लूटैमिक अम्ल (Glu)
 का वैलीन द्वारा प्रतिस्थापन है। ग्लोबिन प्रोटीन में एमीनो अम्ल का यह प्रतिस्थापन बीटा
 ग्लोबिन जीन के छठे कोडोन में GAG का GUG द्वारा प्रतिस्थापन के कारण होता है। निम्न
@@ -2101,7 +2089,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -2160,7 +2148,7 @@ republished
 
 83
 
-Reprint 2025-26
+
 
 
 ---
@@ -2186,28 +2174,13 @@ Reprint 2025-26
 यह अवस्था प्रायः पौधों में पाई जाती है। मानव में क्रोमोसोमों की कुल संख्या 46
 (23 जोड़े) हैं। इनमें से 22 जोड़े अलिंग सूत्र होते हैं और एक जोड़ा लिंग सूत्रों का।
 
-सिर का चपटा पिछला भाग
-अंगुलियों के सिरों पर अनेक 'लूप'
-
-हथेली की क्रीज
-
-चौड़ा चपटा चेहरा
-
-84
-
-not to be
-
-बड़ी झुर्रीदार जीभ
-
-7
-
-जन्मजात हृदय रोग
-
-20
-
-22
-
-चित्र 4.17 निरूपक चित्र जिसमें डाउन सिंड्रोम का रोगी तथा उस व्यक्ति के तदनुरूप क्रोमोसोम दर्शाए गए हैं।
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_17_hi.png" alt="चित्र 4.17" onclick="openImageModal(this.src, 'चित्र 4.17: fp=k 4.17 fu:id fp=k ftlesa Mkmu flaMªkse dk jksxh rFkk ml O;fDr osQ rnuq:i Økse...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.17</strong> fp=k 4.17 fu:id fp=k ftlesa Mkmu flaMªkse dk jksxh rFkk ml O;fDr osQ rnuq:i Øksekslkse n'kkZ, x, gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(27)">📄 View in PDF (Page 27)</button>
+  </div>
+</div>
 
 कभी-कभी, विरले ही सही, व्यक्ति में क्रोमोसोम का एक अतिरिक्त जोड़ा शामिल हो
 जाता है या कभी एक जोड़े क्रोमोसोम की कमी हो जाती है। इन स्थितियों को क्रमशः
@@ -2215,7 +2188,7 @@ not to be
 स्थिति के प्रभाव से व्यक्ति में गंभीर रोग हो जाता है। क्रोमोसोमीय विकारों का उदाहरण
 डाउन सिंड्रोम, टर्नर सिंड्रोम, क्लाइनफैल्टर सिंड्रोम है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -2236,7 +2209,16 @@ Reprint 2025-26
 जिसके कारण केंद्रक में 47, क्रोमोसोम (XXY) हो जाते
 हैं। ऐसे व्यक्ति समग्र रूप से तो पुंप्रधान होते हैं, किंतु
 मादा लक्षण (गाइनीकोमैस्टिजि अर्थात् स्त्रीवत् पुरुष वक्ष
-का वर्धन) भी व्यक्त हो जाते हैं (चित्र 4.18 अ) ऐसे
+का वर्धन) भी व्यक्त हो जाते हैं (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_18_hi.png" alt="चित्र 4.18" onclick="openImageModal(this.src, 'चित्र 4.18: fp=k 4.18 ekuo esa lsDl Øksekslkseksa dh cukoV osQ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.18</strong> fp=k 4.18 ekuo esa lsDl Øksekslkseksa dh cukoV osQ</span>
+    <button class="icon-btn" onclick="goToPdfPage(28)">📄 View in PDF (Page 28)</button>
+  </div>
+</div>
+
 व्यक्ति बाँझ होते हैं।
 
 टर्नर सिंड्रोम – इस विकार का कारण एक X क्रोमोसोम
@@ -2279,7 +2261,7 @@ N
 
 85
 
-Reprint 2025-26
+
 
 
 ---
@@ -2331,7 +2313,7 @@ Reprint 2025-26
 क्रोमोसोम XO हो जाते हैं, क्लाइन फेल्टर सिंड्रोम में अवस्था XXY प्रदर्शित होती है। ये
 केंद्रक-प्ररूपों (कैरियोटाइपों) के अध्ययन से आसानी से समझा जा सकता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -2399,5 +2381,5 @@ republished
 
 87
 
-Reprint 2025-26
+
 

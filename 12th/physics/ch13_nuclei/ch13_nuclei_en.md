@@ -9,7 +9,7 @@ Chapter Thirteen
 
 NUCLEI
 
-12090CH13
+
 
 not
 
@@ -39,7 +39,7 @@ The mass of an atom is very small, compared to a kilogram; for example,
 the mass of a carbon atom, 12C, is 1.992647 × 10-26 kg. Kilogram is not
 a very convenient unit to measure such small quantities. Therefore, a
 
-Reprint 2025-26
+
 
 
 ---
@@ -118,7 +118,7 @@ arguments based on quantum theory. All the electrons of an atom are
 outside the nucleus. We know that the number of these electrons outside
 the nucleus of the atom is Z, the atomic number. The total charge of the
 
-Reprint 2025-26
+
 
 307
 
@@ -193,7 +193,7 @@ the chemical symbol of the species. For example, the nucleus of gold is
 denoted by 197 Au. It contains 197 nucleons, of which 79 are protons
 and the rest118 are neutrons.
 
-Reprint 2025-26
+
 
 
 ---
@@ -263,7 +263,7 @@ compared to ordinary matter, say water, which is 103 kg m³. This is
 understandable, as we have already seen that most of the atom is empty.
 Ordinary matter consisting of atoms has a large amount of empty space.
 
-Reprint 2025-26
+
 
 309
 
@@ -362,7 +362,7 @@ In Section 13.2 we have seen that the nucleus is made up of neutrons
 and protons. Therefore it may be expected that the mass of the nucleus
 is equal to the total mass of its individual protons and neutrons. However,
 
-Reprint 2025-26
+
 
 
 ---
@@ -456,7 +456,7 @@ The energy needed to separate O into its constituents is thus
 If a certain number of neutrons and protons are brought together to
 form a nucleus of a certain charge and mass, an energy E₁ will be released
 
-Reprint 2025-26
+
 
 EXAMPLE 13.3
 
@@ -506,35 +506,13 @@ per nucleon needed to separate a nucleus into its individual nucleons.
 
 An
 
-8
-
-He
-
-140
-
-14N
-
-6
-
-Li
-
-4
-
-H
-
-2
-
-H
-
-0
-
-50
-
-100
-150
-Mass number · (A) (A)
-
-FIGURE 13.1 The binding energy per
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch13_nuclei_fig_13_1.png" alt="Fig. 13.1" onclick="openImageModal(this.src, 'Fig. 13.1: Figure 13.1 is a plot of the binding energy per nucleon Ebn versus the mass numb...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.1</strong> Figure 13.1 is a plot of the binding energy per nucleon Ebn versus the mass number A for a large number of nuclei. We notice the following main features of the plot: (i) the binding energy per nucleon, Ebn, is practically constant, i.e. practically independent of the atomic number for nuclei of middle mass number ( 30 < A < 170). The curve has a maximum of about 8.75 MeV for A = 56 and has a value of 7.6 MeV for A = 238. (ii) Ebn is lower for both light</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
 as a function of mass number.
 
@@ -588,7 +566,7 @@ and not on the surface, the change in binding energy per nucleon
 would be small. The binding energy per nucleon is a constant and is
 approximately equal to pk. The property that a given nucleon
 
-Reprint 2025-26
+
 
 
 ---
@@ -649,7 +627,16 @@ nucleus, which is the reason for the constancy of the
 binding energy per nucleon.
 
 A rough plot of the potential energy between two nucleons
-as a function of distance is shown in the Fig. 13.2. The
+as a function of distance is shown in the
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch13_nuclei_fig_13_2.png" alt="Fig. 13.2" onclick="openImageModal(this.src, 'Fig. 13.2: zero as their distance is more than a few femtometres. This leads to saturation ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.2</strong> zero as their distance is more than a few femtometres. This leads to saturation of forces in a medium or a large-sized nucleus, which is the reason for the constancy of the binding energy per nucleon. A rough plot of the potential energy between two nucleons as a function of distance is shown in the Fig. 13.2. The potential energy is a minimum at a distance r0 of about 0.8 fm. This means that the force is attractive for distances larger than 0.8 fm and repulsive if they are separated by distances less than 0.8 fm.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 potential energy is a minimum at a distance ro of about
 
 Potential energy (MeV)
@@ -684,7 +671,7 @@ than 0.8 fm.
 
 313
 
-Reprint 2025-26
+
 
 
 ---
@@ -755,7 +742,7 @@ sources produce a million times more energy than a chemical source.
 Fission of 1 kg of uranium, for example, generates 1014 J of energy;
 compare it with burning of 1 kg of coal that gives 107 J.
 
-Reprint 2025-26
+
 
 
 ---
@@ -873,7 +860,7 @@ H+H → H+ H + 4.03 MeV
 In the first reaction, two protons combine to form a deuteron and
 a positron with a release of 0.42 MeV energy. In reaction [13.13(b)], two
 
-Reprint 2025-26
+
 
 315
 
@@ -970,7 +957,7 @@ This kind of process can generate through fusion higher and higher mass
 number elements. But elements more massive than those near the peak of
 the binding energy curve in Fig. 13.1 cannot be so produced.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1039,7 +1026,7 @@ on the left side need not be the same as that on the right hand
 side. The difference in these binding energies appears as energy
 released or absorbed in a nuclear reaction. Since binding energy
 
-Reprint 2025-26
+
 
 EXAMPLE 13.4
 
@@ -1118,7 +1105,7 @@ is independent of A. It is of the order of 1017 kg/m³.
 nuclear force. The nuclear force does not distinguish between neutron
 and proton.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1223,7 +1210,7 @@ R
 
 Bq
 
-Reprint 2025-26
+
 
 Nuclei
 
@@ -1314,7 +1301,7 @@ identified in astronomical observations of matter in the universe.
 
 not t
 
-Reprint 2025-26
+
 
 
 ---
@@ -1430,7 +1417,7 @@ m (Al) = 27.98191 u.
 
 321
 
-Reprint 2025-26
+
 
 
 ---
@@ -1466,9 +1453,9 @@ is
 
 © NCERT
 
-not to be republished
+
 
 322
 
-Reprint 2025-26
+
 

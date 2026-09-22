@@ -9,7 +9,7 @@
 
 ठोसों के यांत्रिक गुण
 
-11089CH09
+
 
 8.1 भूमिका
 
@@ -62,7 +62,7 @@ not to
 रज्जुमार्ग आदि की डिज़ाइन के लिए भी यही बात सत्य है। यह प्रश्न भी पूछा
 जा सकता है कि क्या हम ऐसा वायुयान डिज़ाइन कर सकते हैं जो बहुत हलका
 
-Reprint 2025-26
+
 
 
 ---
@@ -72,7 +72,25 @@ Reprint 2025-26
 
 भौतिकी
 
-फिर भी बहुत मजबूत हो? क्या हम एक ऐसा कृत्रिम अंग दिखाए गए हैं। चित्र 8.1(a) में, एक बेलन को उसके अनुप्रस्थ
+फिर भी बहुत मजबूत हो? क्या हम एक ऐसा कृत्रिम अंग दिखाए गए हैं।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_1_hi.png" alt="
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_hi.png" alt="चित्र 8" onclick="openImageModal(this.src, 'चित्र 8: fn[kk, x, gSaA fp=k 8-1(a) esa] ,d csyu dks mlosQ vuqizLFk ifjPNsn dh yacor~ fn&...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8</strong> fn[kk, x, gSaA fp=k 8-1(a) esa] ,d csyu dks mlosQ vuqizLFk ifjPNsn dh yacor~ fn'kk esa nks leku cy yxkdj rkfur fd;k x;k gSA bl fLFkfr esa] ,dkad {ks=kiQy ij izR;ku;u cy dks ruu izfrcy dgrs gSaA ;fn izR;kjksfir cyksa osQ dk;Z ls csyu laihfMr gks tk, rks ,dkad {ks=kiQy ij izR;ku;u cy dks laihMu izfrcy dgrs gSaA ruu ;k laihMu izfrcy dks vuqnS?;Z izfrcy Hkh dgk tk ldrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
+<div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8.1</strong> fp=k 8.1 8.1 8.1 8.1 8.1 (a) ruu izfrcy osQ izHkko esa ,d csyu ∆L eku ls foLRkfjr gks tkrk gS] (b) vi:i.k (Li'khZ) izfrcy osQ izHkko esa ,d csyu dks.k θ ls fo:fir gks tkrk gS] (c) vi:i.k izfrcy osQ izHkko esa ,d iqLrd] (d) leku tyh; izfrcy osQ izHkko esa ,d Bksl xksyk ∆V eku ls vk;ru esa laoqQfpr gks tkrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 डिज़ाइन कर सकते हैं जो अपेक्षाकृत हलका किन्तु अधिक परिच्छेद की लंबवत् दिशा में दो समान बल लगाकर तानित
 मजबूत हो? रेल पटरी की आकृति 1 के समान क्यों होती है? किया गया है। इस स्थिति में, एकांक क्षेत्रफल पर प्रत्यानयन
 काँच क्यों भंगुर होता है जबकि पीतल ऐसा नहीं होता? इस बल को तनन प्रतिबल कहते हैं। यदि प्रत्यारोपित बलों के कार्य
@@ -173,7 +191,7 @@ F
 बेलन कोण 0 से विरूपित हो जाता है, (c) अपरूपण प्रतिबल के प्रभाव में एक पुस्तक, (d) समान जलीय प्रतिबल के प्रभाव
 में एक ठोस गोला △V मान से आयतन में संकुचित हो जाता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -186,7 +204,15 @@ Reprint 2025-26
 लगभग कोण के बराबर ही होता है, (उदाहरण के लिए यदि
 0= 10° तो और tane के मान में केवल 1% का अंतर होता
 है)। यदि किसी पुस्तक को हाथ से दबाकर क्षैतिज दिशा में
-ढकेलें, जैसा चित्र 8.2 (c) में दिखाया गया है, तब भी ऐसी
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_2_hi.png" alt="चित्र 8.2" onclick="openImageModal(this.src, 'चित्र 8.2: θ = 10° rks θ vkSj tanθ osQ eku esa osQoy 1% dk varj gksrk gS)A ;fn fdlh iqLrd d...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8.2</strong> θ = 10° rks θ vkSj tanθ osQ eku esa osQoy 1% dk varj gksrk gS)A ;fn fdlh iqLrd dks gkFk ls nckdj {kSfrt fn'kk esa <osQysa] tSlk fp=k 8.2(c) esa fn[kk;k x;k gS] rc Hkh ,slh foo`Qfr dks ns[kk tk ldrk gSA bl izdkj]</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 विकृति को देखा जा सकता है। इस प्रकार,
 
 अपरूपण विकृति = tan 0≈ 0
@@ -307,7 +333,7 @@ B/ प्लास्टिक आचरण
 
 वक्र।
 
-Reprint 2025-26
+
 
 
 ---
@@ -341,7 +367,14 @@ B और D के बीच का भाग यह दर्शाता है
 एक द्रव्य से दूसरे द्रव्य में अंतर हो जाता है। उदाहरण के लिए,
 रबड़ को अपनी प्रारंभिक लंबाई के कई गुने तक खींचा जा
 सकता है, फिर भी वह अपनी प्रारंभिक आकृति में वापस आ
-जाता है। चित्र 8.3 में रबड़ जैसे द्रव्य, महाधमनी का प्रत्यास्थ
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_3_hi.png" alt="चित्र 8.3" onclick="openImageModal(this.src, 'चित्र 8.3: fp=k 8.3 8.3 8.3 8.3 8.3 egk/euh] ân; ls jDr dks ys tkus okyh o`gr ufydk (okfgdk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8.3</strong> fp=k 8.3 8.3 8.3 8.3 8.3 egk/euh] ân; ls jDr dks ys tkus okyh o`gr ufydk (okfgdk)] osQ izR;kLFk Ård osQ fy, izfrcy&foo`Qfr oØA</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 भौतिकी
 
@@ -417,7 +450,7 @@ Y = (F/A)/(AL/L)
 तारों में उतनी ही विकृति उत्पन्न करने के लिए आवश्यक बल
 क्रमश: 690 N, 900 N तथा 1100 N होते हैं। इसका अर्थ
 
-Reprint 2025-26
+
 
 
 ---
@@ -616,7 +649,7 @@ W/A = Y × (∆L/L) = Y¸ × (∆L/L)
 
 AL/AL = (Y/Y) × (L/L)
 
-Reprint 2025-26
+
 
 
 ---
@@ -657,7 +690,15 @@ S
 उदाहरण 8.3 किसी सर्कस में एक मानवीय पिरैमिड
 में एक संतुलित ग्रुप का सारा भार एक व्यक्ति, जो अपनी
 पीठ के बल लेटा हुआ है, के पैरों पर आधारित है (जैसा
-चित्र 8.4 में दिखाया गया है)। इस कार्य का निष्पादन
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_4_hi.png" alt="चित्र 8.4" onclick="openImageModal(this.src, 'चित्र 8.4: fp=k 8.4 8.4 8.4 8.4 8.4 loZQl esa ,d ekuoh; fijSfeMA...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8.4</strong> fp=k 8.4 8.4 8.4 8.4 8.4 loZQl esa ,d ekuoh; fijSfeMA</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 करने वाले सभी व्यक्तियों, मेजों, प्लाकों आदि का कुल
 द्रव्यमान 280 kg है। पिरैमिड की तली पर अपनी पीठ
 के बल लेटे हुए व्यक्ति का द्रव्यमान 60 kg है। इस
@@ -746,7 +787,7 @@ G = (F/A)/0
 गुणांक) आमतौर पर यंग गुणांक (सारणी 8.1) से कम होता
 है। अधिकतर द्रव्यों के लिए G ≈ Y/3।
 
-Reprint 2025-26
+
 
 
 ---
@@ -784,9 +825,7 @@ G (109 Nm-2
 
 सीसा
 
-### 5.6
-
-निकिल
+### 5.6 निकिल
 
 77
 
@@ -809,7 +848,15 @@ G (109 Nm-2
 कितनी विस्थापित हो जाएगी?
 
 हल सीसे का स्लैब स्थिर है तथा बल को पतली फलक के
-समांतर लगाया गया है, जैसा चित्र 8.5 में दिखाया गया है। इस
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_5_hi.png" alt="चित्र 8.5" onclick="openImageModal(this.src, 'चित्र 8.5: fp=k 8.5 8.5 8.5 8.5 8.5...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8.5</strong> fp=k 8.5 8.5 8.5 8.5 8.5</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 फलक का क्षेत्रफल है
 
 इसलिए
@@ -885,7 +932,7 @@ k = (1/B) = - (1/∆p) × (AV/V)
 गैसों के अणु अपने पास के अणुओं से बहुत हलके से
 युग्मित होते हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -941,21 +988,15 @@ AV/V = प्रतिबल/B
 
 जल
 
-### 2.2
-
-इथेनाल
+### 2.2 इथेनाल
 
 0.9
 
 कार्बन डाइसल्फाइड
 
-### 1.56
+### 1.56 ग्लिसरीन
 
-ग्लिसरीन
-
-### 4.76
-
-पारा
+### 4.76 पारा
 
 25
 
@@ -1043,7 +1084,7 @@ W=XYXXAL
 
 L
 
-Reprint 2025-26
+
 
 
 ---
@@ -1225,7 +1266,7 @@ A≥ W/σ₁ = Mg/бу
 किसी पुल को इस प्रकार डिज़ाइन करना होता है जिससे
 यह चलते हुए यातायात के भार को, पवन बल को तथा अपने
 
-Reprint 2025-26
+
 
 
 ---
@@ -1241,7 +1282,15 @@ Reprint 2025-26
 छुटकारा पाना बहुत ही महत्वपूर्ण होता है। दण्ड को अत्यधिक
 बंकित होना या टूटना नहीं चाहिए। हम किसी ऐसे दण्ड के
 बारे में विचार करें जो सिरों के पास आधारित हो तथा जिसके
-मध्य बिंदु पर भार लगा हो, जैसा चित्र 8.6 में दिखाया गया
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_6_hi.png" alt="चित्र 8.6" onclick="openImageModal(this.src, 'चित्र 8.6: fp=k 8.6 8.6 8.6 8.6 8.6 fljksa ij vk/kfjr rFkk osQUnz ij Hkkfjr ,d n.MA...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8.6</strong> fp=k 8.6 8.6 8.6 8.6 8.6 fljksa ij vk/kfjr rFkk osQUnz ij Hkkfjr ,d n.MA</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 है। लंबाई 1, चौड़ाई b तथा मोटाई d की एक पट्टी के मध्य
 बिंदु पर भार W का भार लगाने से इसमें एक झोल आएगा
 जिसकी मात्रा होगी
@@ -1273,7 +1322,16 @@ W
 यथासम्भव कम होनी ही चाहिए)। लेकिन जब तक ऐसा न हो
 कि भार बिलकुल ठीक स्थान पर लगा हो (पर चलते हुए
 यातायात वाले पुल पर ऐसा व्यवस्थित करना कठिन है), मोटाई
-बढ़ाने पर पट्टी ऐसे बंकित हो सकती है जैसा चित्र 8.7(b) में
+बढ़ाने पर पट्टी ऐसे बंकित हो सकती है जैसा
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_7_hi.png" alt="चित्र 8.7" onclick="openImageModal(this.src, 'चित्र 8.7: FkksM+k lk oSQyoqQyl vkSj ftruk vki igys gh i<+ pqosQ gSa] mldk mi;ksx djosQ bl ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8.7</strong> FkksM+k lk oSQyoqQyl vkSj ftruk vki igys gh i<+ pqosQ gSa] mldk mi;ksx djosQ bl laca/ dk fuxeu fd;k tk ldrk gSA lehdj.k (8.15) ls ge ns[krs gSa fd fdlh fn;s gq, Hkkj osQ fy, cadu de djus osQ fy, ,sls nzO; dk mi;ksx djuk pkfg, ftldk ;ax xq.kkad Y vf/d gksA fdlh fn;s gq, nzO; osQ fy, cadu de djus osQ fy, pkSM+kbZ b oQh ctk; eksVkbZ d dks c<+kuk vf/d izHkkoh gksrk gS D;ksafd δ , d -3 ysfdu b-1 osQ vuqØekuqikrh gksrk gS (;|fi n.M dh yackbZ ;FkklEHko de gksuh gh pkfg,)A ysfdu tc rd ,slk u gks fd Hkkj fcyoqQy Bhd LFkku ij yxk gks (ij pyrs gq, ;krk;kr okys iqy ij ,slk O;ofLFkr djuk dfBu gS)] eksVkbZ c<+kus ij iêðh ,sls cafdr gks ldrh gS tSlk fp=k 8.7(b) esa fn[kk;k x;k gSA bls vkoqaQpu dgrs gSaA blls cpus osQ fy, lk/kj.kr;k fp=k 8.7(c) esa fn[kkbZ xbZ vkÑfr dk vuqizLFk ifjPNsn fy;k tkrk gSA ,sls ifjPNsn ls Hkkj ogu djus osQ fy, cM+k i`"B rFkk cadu jksdus osQ fy, i;kZIr eksVkbZ feyrh gSA bl izdkj dh vkÑfr ls izcyrk dks U;ksNkoj fd;s fcuk gh n.M osQ Hkkj dks de fd;k tk ldrk gS] vr% ykxr Hkh de gks tkrh gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 दिखाया गया है। इसे आकुंचन कहते हैं। इससे बचने के लिए
 साधारणतया चित्र 8.7(c) में दिखाई गई आकृति का अनुप्रस्थ
 परिच्छेद लिया जाता है। ऐसे परिच्छेद से भार वहन करने के
@@ -1301,7 +1359,16 @@ b
 लिए
 
 भवनों तथा पुलों में खम्भों या स्तम्भों का उपयोग भी बहुत
-प्रचलित है। गोल सिरों वाले खम्भे जैसा चित्र 8.8 (a) में दिखाये
+प्रचलित है। गोल सिरों वाले खम्भे जैसा
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_8_hi.png" alt="चित्र 8.8" onclick="openImageModal(this.src, 'चित्र 8.8: Hkouksa rFkk iqyksa esa [kEHkksa ;k LrEHkksa dk mi;ksx Hkh cgqr izpfyr gSA xksy ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8.8</strong> Hkouksa rFkk iqyksa esa [kEHkksa ;k LrEHkksa dk mi;ksx Hkh cgqr izpfyr gSA xksy fljksa okys [kEHks tSlk fp=k 8.8(a) esa fn[kk;s x;s gSa] iSQykonkj vkÑfr fp=k 8.8(b) okys [kEHkksa dh vis{kk de Hkkj ogu dj ldrs gSaA fdlh iqy ;k Hkou dh ifj'kq¼ fMT+kkbu djrs le; mu ckrksa dk è;ku j[kuk iM+rk gS fd og fdu ifjfLFkfr;ksa esa dke djrk gS] ykxr D;k gksxh vkSj laHkkfor nzO;ksa vkfn dh nh?kZdkyhu fo'oluh;rk vkfn D;k gS\</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 गये हैं, फैलावदार आकृति चित्र 8.8(b) वाले खम्भों की अपेक्षा
 कम भार वहन कर सकते हैं। किसी पुल या भवन की परिशुद्ध
 डिज़ाइन करते समय उन बातों का ध्यान रखना पड़ता है कि वह
@@ -1326,7 +1393,7 @@ ep
 संपीडन के अन्तर्गत नहीं होता है, यह चट्टानों को कुछ
 अपरूपक प्रतिबल प्रदान करता है जिसके अन्तर्गत वे प्रवाहित
 
-Reprint 2025-26
+
 
 
 ---
@@ -1409,7 +1476,7 @@ p = B (AV/V),
 जहाँ p पिण्ड पर द्रव के कारण दाब (जलीय प्रतिबल) है, ∆V/V (आयतन विकृति) उस दाब के कारण पिण्ड
 के आयतन में भिन्नात्मक अन्तर और B पिण्ड का आयतन गुणांक होता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1473,12 +1540,19 @@ beron
 काट के ताँबे के तार पर दिए गए समान परिमाण के भारों को लटकाने पर उनकी लंबाइयों में समान वृद्धि होती
 है । स्टील तथा ताँबे के यंग प्रत्यास्थता गुणांकों में क्या अनुपात है?
 
-8.2 नीचे चित्र 8.9 में किसी दिए गए पदार्थ के लिए प्रतिबल-विकृति वक्र दर्शाया गया है। इस पदार्थ के लिए
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_9_hi.png" alt="चित्र 8.9" onclick="openImageModal(this.src, 'चित्र 8.9: fp=k 8.9 8.9 8.9 8.9 8.9...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8.9</strong> fp=k 8.9 8.9 8.9 8.9 8.9</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 (a) यंग प्रत्यास्थता गुणांक, तथा (b) सन्निकट पराभव सामर्थ्य क्या है?
 
 น
 
-Reprint 2025-26
+
 
 
 ---
@@ -1508,7 +1582,15 @@ Reprint 2025-26
 
 चित्र 8.9
 
-8.3 दो पदार्थों A और B के लिए प्रतिबल-विकृति ग्राफ चित्र 8.10 में दर्शाए गए हैं।
+8.3 दो पदार्थों A और B के लिए प्रतिबल-विकृति ग्राफ
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_10_hi.png" alt="चित्र 8.10" onclick="openImageModal(this.src, 'चित्र 8.10: fp=k 8.10 8.10 8.10 8.10 8.10...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8.10</strong> fp=k 8.10 8.10 8.10 8.10 8.10</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 प्रतिबल
 
@@ -1540,7 +1622,15 @@ not to republished
 
 (b) किसी कुण्डली का तनन उसके अपरूपण गुणांक से निर्धारित होता है।
 
-8.5 0.25 cm व्यास के दो तार, जिनमें एक इस्पात का तथा दूसरा पीतल का है, चित्र 8.11 के अनुसार भारित हैं।
+8.5 0.25 cm व्यास के दो तार, जिनमें एक इस्पात का तथा दूसरा पीतल का है,
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_11_hi.png" alt="चित्र 8.11" onclick="openImageModal(this.src, 'चित्र 8.11: bu xzkiQksa dks ,d gh iSekuk ekudj [khapk x;k gSA (a) fdlh inkFkZ dk ;ax izR;kLF...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8.11</strong> bu xzkiQksa dks ,d gh iSekuk ekudj [khapk x;k gSA (a) fdlh inkFkZ dk ;ax izR;kLFkrk xq.kkad vf/d gS\ (b) nksuksa inkFkks± esa dkSu vf/d etcwr gS\ 8.4 fuEufyf[kr nks dFkuksa dks è;ku ls if<+;s vkSj dkj.k lfgr crkb;s fd os lR; gSa ;k vlR; % (a) bLikr dh vis{kk jcM+ dk ;ax xq.kkad vf/d gS_ (b) fdlh oqQ.Myh dk ruu mlosQ vi:i.k xq.kkad ls fu/kZfjr gksrk gSA 8.5 0.25 cm O;kl osQ nks rkj] ftuesa ,d bLikr dk rFkk nwljk ihry dk gS] fp=k 8.11 osQ vuqlkj Hkkfjr gSaA fcuk Hkkj yVdk;s bLikr rFkk ihry osQ rkjksa dh yackb;k¡ Øe'k% 1.5 m rFkk 1.0 m gSaA ;fn bLikr rFkk ihry osQ ;ax xq.kkad Øe'k% 2.0 × 1011 Pa rFkk 0.91 × 1011 Pa gksa rks bLikr rFkk ihry osQ rkjksa esa foLrkj dh x.kuk dhft,A</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 बिना भार लटकाये इस्पात तथा पीतल के तारों की लंबाइयाँ क्रमशः 1.5 m तथा 1.0 m हैं। यदि इस्पात तथा
 पीतल के यंग गुणांक क्रमश: 2.0× 1011 Pa तथा 0.91 × 1011 Pa हों तो इस्पात तथा पीतल के तारों में विस्तार
@@ -1559,7 +1649,7 @@ not to republished
 
 चित्र 8.11
 
-Reprint 2025-26
+
 
 185
 
@@ -1611,7 +1701,7 @@ ONCE
 
 not to be rep
 
-Reprint 2025-26
+
 
 भौतिकी
 

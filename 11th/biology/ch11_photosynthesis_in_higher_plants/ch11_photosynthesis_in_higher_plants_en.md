@@ -43,7 +43,7 @@ discussed.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -81,13 +81,13 @@ research.
 
 not to
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 3
 
-11080CH13
+
 
 11.1 What do we
 Know?
@@ -163,25 +163,19 @@ black paper, and exposed to light. On testing these leaves for the presence
 of starch it was clear that photosynthesis occurred only in the green parts
 of the leaves in the presence of light.
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 4
 
-134
-
-BIOLOGY
-
-(a)
-
-(c)
-
-(b)
-
-(d)
-
-Figure 11.1 Priestley's experiment
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch11_photosynthesis_in_higher_plants_fig_11_1.png" alt="Fig. 11.1" onclick="openImageModal(this.src, 'Fig. 11.1: Joseph Priestley (1733-1804) in 1770 performed a series of experiments that reve...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.1</strong> Joseph Priestley (1733-1804) in 1770 performed a series of experiments that revealed the essential role of air in the growth of green plants. Priestley, you may recall, discovered oxygen in 1774. Priestley observed that a candle burning in a closed space – a bell jar, soon gets extinguished (Figure 11.1 a, b, c, d). Similarly, a mouse would soon suffocate in a closed space. He concluded that a burning candle or an animal that breathe the air, both somehow, damage the air. But when he placed a mint plant in the same bell jar, he found that the mouse stayed alive and the candle continued to burn. Priestley hypothesised as follows: Plants restore to the air whatever breathing animals and burning candles remove.</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 Another experiment you may have carried out
 where a part of a leaf is enclosed in a test tube
@@ -240,7 +234,7 @@ while in the dark they did not. Later he identified these bubbles to be of
 oxygen. Hence he showed that it is only the green part of the plants that
 could release oxygen.
 
-Reprint 2025-26
+
 
 
 ---
@@ -314,7 +308,7 @@ C6H12O6 + 6H2O+602
 where C6 H12 O6 represents glucose. The O₂ released is from water; this
 was proved using radio isotope techniques. Note that this is not a single
 
-Reprint 2025-26
+
 
 135
 
@@ -347,7 +341,16 @@ When would they be perpendicular to the incident light?
 
 You have studied the structure of chloroplast in Chapter 8. Within
 the chloroplast there is membranous system consisting of grana, the
-stroma lamellae, and the matrix stroma (Figure 11.2). There is a clear
+stroma lamellae, and the matrix stroma (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch11_photosynthesis_in_higher_plants_fig_11_2.png" alt="Fig. 11.2" onclick="openImageModal(this.src, 'Fig. 11.2: You have studied the structure of chloroplast in Chapter 8. Within the chloropla...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.2</strong> You have studied the structure of chloroplast in Chapter 8. Within the chloroplast there is membranous system consisting of grana, the stroma lamellae, and the matrix stroma (Figure 11.2). There is a clear division of labour within the chloroplast. The membrane system is responsible for trapping the light energy and also for the synthesis of ATP and NADPH. In stroma, enzymatic reactions synthesise sugar, which in turn forms starch. The former set of reactions, since they are directly light driven are called light reactions (photochemical reactions). The latter are not directly light driven but are dependent on the products of light reactions (ATP and NADPH). Hence, to distinguish the latter they are called, by convention, as dark reactions (carbon reactions). However, this should not be construed to mean that they occur in darkness or that they are not light-dependent.</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 division of labour within the chloroplast. The membrane system is
 responsible for trapping the light energy and also for the synthesis of ATP
 and NADPH. In stroma, enzymatic reactions synthesise sugar, which in
@@ -389,7 +392,7 @@ Figure 11.2 Diagrammatic representation of an electron micrograph of a section o
 
 chloroplast
 
-Reprint 2025-26
+
 
 
 ---
@@ -424,8 +427,16 @@ to absorb light, at specific wavelengths. Can you
 guess which is the most abundant plant
 pigment in the world? Let us study the graph
 showing the ability of chlorophyll a pigment to
-absorb lights of different wavelengths (Figure
-11.3 a). Of course, you are familiar with the
+absorb lights of different wavelengths (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch11_photosynthesis_in_higher_plants_fig_11_3.png" alt="Fig. 11.3" onclick="openImageModal(this.src, 'Fig. 11.3: Pigments are substances that have an ability to absorb light, at specific wavele...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.3</strong> Pigments are substances that have an ability to absorb light, at specific wavelengths. Can you guess which is the most abundant plant pigment in the world? Let us study the graph showing the ability of chlorophyll a pigment to absorb lights of different wavelengths (Figure 11.3 a). Of course, you are familiar with the wavelength of the visible spectrum of light as well as the VIBGYOR.</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 wavelength of the visible spectrum of light as
 well as the VIBGYOR.
 
@@ -493,7 +504,7 @@ spectrum of photosynthesis
 superimposed on absorption
 spectrum of chlorophyll a
 
-Reprint 2025-26
+
 
 
 ---
@@ -541,8 +552,16 @@ reaction. The LHC are made up of hundreds of
 pigment molecules bound to proteins. Each
 photosystem has all the pigments (except one
 molecule of chlorophyll a) forming a light
-harvesting system also called antennae (Figure
-11.4). These pigments help to make
+harvesting system also called antennae (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch11_photosynthesis_in_higher_plants_fig_11_4.png" alt="Fig. 11.4" onclick="openImageModal(this.src, 'Fig. 11.4: Light reactions or the ‘Photochemical’ phase include light absorption, water spl...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.4</strong> Light reactions or the ‘Photochemical’ phase include light absorption, water splitting, oxygen release, and the formation of high-energy chemical intermediates, ATP and NADPH. Several protein complexes are involved in the process. The pigments are organised into two discrete photochemical light harvesting complexes (LHC) within the Photosystem I (PS I) and Photosystem II (PS II). These are named in the sequence of their discovery, and not in the sequence in which they function during the light reaction. The LHC are made up of hundreds of pigment molecules bound to proteins. Each photosystem has all the pigments (except one molecule of chlorophyll a) forming a light harvesting system also called antennae (Figure 11.4). These pigments help to make photosynthesis more efficient by absorbing different wavelengths of light. The single chlorophyll a molecule forms the reaction centre. The reaction centre is different in both the photosystems. In PS I the reaction centre chlorophyll a has an absorption peak at 700 nm, hence is called P700, while in PS II it has absorption maxima at 680 nm, and is called P680.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 photosynthesis more efficient by absorbing
 
 note
@@ -564,7 +583,7 @@ wavelength of red light causing electrons to become excited and jump
 into an orbit farther from the atomic nucleus. These electrons are picked
 up by an electron acceptor which passes them to an electrons transport
 
-Reprint 2025-26
+
 
 
 ---
@@ -586,8 +605,16 @@ Electron
 transport
 system
 
-system consisting of cytochromes (Figure
-11.5). This movement of electrons is downhill,
+system consisting of cytochromes (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch11_photosynthesis_in_higher_plants_fig_11_5.png" alt="Fig. 11.5" onclick="openImageModal(this.src, 'Fig. 11.5: system consisting of cytochromes (Figure 11.5). This movement of electrons is do...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.5</strong> system consisting of cytochromes (Figure 11.5). This movement of electrons is downhill, in terms of an oxidation-reduction or redox potential scale. The electrons are not used up as they pass through the electron transport chain, but are passed on to the pigments of photosystem PS I. Simultaneously, electrons in the reaction centre of PS I are also excited when they receive red light of wavelength 700 nm and are transferred to another accepter molecule that has a greater redox potential. These electrons then are moved downhill again, this time to a molecule of energy-rich NADP+. The addition of these electrons reduces NADP+</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 in terms of an oxidation-reduction or redox
 potential scale. The electrons are not used up
 as they pass through the electron transport
@@ -655,33 +682,19 @@ Living organisms have the capability of extracting energy from oxidisable
 substances and store this in the form of bond energy. Special substances like
 ATP, carry this energy in their chemical bonds. The process through which
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 10
 
-140
-
-BIOLOGY
-
-Light
-
-ADP+iP ATP
-
-Photosystem I
-
-e- acceptor
-
-Electron
-transport
-system
-
-Chlorophyll
-
-P 700
-
-Figure 11.6 Cyclic photophosphorylation
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch11_photosynthesis_in_higher_plants_fig_11_6.png" alt="Fig. 11.6" onclick="openImageModal(this.src, 'Fig. 11.6: Figure 11.6 Cyclic photophosphorylation...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.6</strong> Figure 11.6 Cyclic photophosphorylation</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
 ATP is synthesised by cells (in mitochondria and
 chloroplasts) is named phosphorylation. Photo-
@@ -726,13 +739,21 @@ not
 Let us understand what causes the proton gradient across the
 membrane. We need to consider again the processes that take place during
 the activation of electrons and their transport to determine the steps that
-cause a proton gradient to develop (Figure 11.7).
+cause a proton gradient to develop (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch11_photosynthesis_in_higher_plants_fig_11_7.png" alt="Fig. 11.7" onclick="openImageModal(this.src, 'Fig. 11.7: Let us understand what causes the proton gradient across the membrane. We need t...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.7</strong> Let us understand what causes the proton gradient across the membrane. We need to consider again the processes that take place during the activation of electrons and their transport to determine the steps that cause a proton gradient to develop (Figure 11.7).</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
 (a) Since splitting of the water molecule takes place on the inner side of
 the membrane, the protons or hydrogen ions that are produced by
 the splitting of water accumulate within the lumen of the thylakoids.
 
-Reprint 2025-26
+
 
 
 ---
@@ -848,7 +869,7 @@ important because it is the breakdown of this gradient that leads to the
 synthesis of ATP. The gradient is broken down due to the movement of
 protons across the membrane to the stroma through the transmembrane
 
-Reprint 2025-26
+
 
 
 ---
@@ -915,7 +936,7 @@ How many carbon atoms does it have?
 
 2
 
-Reprint 2025-26
+
 
 
 ---
@@ -967,7 +988,15 @@ that the pathway operated in a cyclic manner; the RuBP was regenerated.
 Let us now see how the Calvin pathway operates and where the sugar is
 synthesised. Let us at the outset understand very clearly that the Calvin
 pathway occurs in all photosynthetic plants; it does not matter whether
-they have C, or C4 (or any other) pathways (Figure 11.8).
+they have C, or C4 (or any other) pathways (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch11_photosynthesis_in_higher_plants_fig_11_8.png" alt="Fig. 11.8" onclick="openImageModal(this.src, 'Fig. 11.8: Calvin and his co-workers then worked out the whole pathway and showed that the ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.8</strong> Calvin and his co-workers then worked out the whole pathway and showed that the pathway operated in a cyclic manner; the RuBP was regenerated. Let us now see how the Calvin pathway operates and where the sugar is synthesised. Let us at the outset understand very clearly that the Calvin pathway occurs in all photosynthetic plants; it does not matter whether they have C3 or C4 (or any other) pathways (Figure 11.8).</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 For ease of understanding, the Calvin cycle can be described under
 three stages: carboxylation, reduction and regeneration.
@@ -982,7 +1011,7 @@ or RuBisCO.
 
 4
 
-Reprint 2025-26
+
 
 143
 
@@ -1055,7 +1084,7 @@ required for the formation of one molecule of glucose from the pathway.
 crucial if the cycle is to continue uninterrupted. The regeneration
 steps require one ATP for phosphorylation to form RuBP.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1140,19 +1169,20 @@ the microscope look for the bundle sheath around the vascular
 bundles. The presence of the bundle sheath would help you identify
 the C₁ plants.
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 16
 
-146
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch11_photosynthesis_in_higher_plants_fig_11_9.png" alt="Fig. 11.9" onclick="openImageModal(this.src, 'Fig. 11.9: Now study the pathway shown in Figure 11.9. This pathway that has been named the...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.9</strong> Now study the pathway shown in Figure 11.9. This pathway that has been named the Hatch and Slack Pathway, is again a cyclic process. Let us study the pathway by listing the steps.</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
-not
-
-BIOLOGY
-
-Now study the pathway shown in Figure 11.9. This pathway that has
 been named the Hatch and Slack Pathway, is again a cyclic process. Let
 us study the pathway by listing the steps.
 
@@ -1232,7 +1262,7 @@ C3 acid
 
 Figure 11.9 Diagrammatic representation of the Hatch and Slack Pathway
 
-Reprint 2025-26
+
 
 
 ---
@@ -1307,7 +1337,7 @@ C3 and the C₁ pathway? Use the table format given in table 11.1 and fill
 
 in the information.
 
-Reprint 2025-26
+
 
 147
 
@@ -1428,7 +1458,7 @@ the microscope for Kranz anatomy
 and list them in the appropriate
 columns.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1492,7 +1522,16 @@ photosynthesis. There is a linear relationship
 between incident light and CO₂ fixation rates at
 low light intensities. At higher light intensities,
 gradually the rate does not show further increase
-as other factors become limiting (Figure 11.10).
+as other factors become limiting (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch11_photosynthesis_in_higher_plants_fig_11_10.png" alt="Fig. 11.10" onclick="openImageModal(this.src, 'Fig. 11.10: We need to distinguish between light quality, light intensity and the duration o...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.10</strong> We need to distinguish between light quality, light intensity and the duration of exposure to light, while discussing light as a factor that affects photosynthesis. There is a linear relationship between incident light and CO2 fixation rates at low light intensities. At higher light intensities, gradually the rate does not show further increase as other factors become limiting (Figure 11.10). What is interesting to note is that light saturation occurs at 10 per cent of the full sunlight. Hence, except for plants in shade or in dense forests, light is rarely a limiting factor in nature. Increase in</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
+
 What is interesting to note is that light saturation
 occurs at 10 per cent of the full sunlight. Hence,
 
@@ -1514,7 +1553,7 @@ except for plants in shade or in dense forests, light Figure 11.10 Graph of ligh
 is rarely a limiting factor in nature. Increase in
 rate of photosynthesis
 
-Reprint 2025-26
+
 
 
 ---
@@ -1584,7 +1623,7 @@ reducing the surface area of the leaves and their metabolic activity as well.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -1645,7 +1684,7 @@ C3 or C₁? Explain.
 ### 3. Even though a very few cells in a C₁ plant carry out the biosynthetic – Calvin
 pathway, yet they are highly productive. Can you discuss why?
 
-Reprint 2025-26
+
 
 
 ---
@@ -1688,7 +1727,7 @@ graph, answer the following questions:
 
 © NCERT
 
-not to be republished
 
-Reprint 2025-26
+
+
 

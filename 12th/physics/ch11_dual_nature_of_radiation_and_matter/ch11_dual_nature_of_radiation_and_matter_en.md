@@ -36,9 +36,9 @@ J. J. Thomson (1856-1940) confirmed this hypothesis. By applying
 mutually perpendicular electric and magnetic fields across the discharge
 tube, J. J. Thomson was the first to determine experimentally the speed
 
-Reprint 2025-26
 
-12090CH11
+
+
 
 
 ---
@@ -108,7 +108,7 @@ metal.
 
 275
 
-Reprint 2025-26
+
 
 
 ---
@@ -154,7 +154,16 @@ photoelectric emission in detail during 1886-1902.
 
 Lenard (1862-1947) observed that when ultraviolet radiations were
 allowed to fall on the emitter plate of an evacuated glass tube enclosing
-two electrodes (metal plates), current flows in the circuit (Fig. 11.1). As
+two electrodes (metal plates), current flows in the circuit (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch11_dual_nature_of_radiation_and_matter_fig_11_1.png" alt="Fig. 11.1" onclick="openImageModal(this.src, 'Fig. 11.1: Lenard (1862-1947) observed that when ultraviolet radiations were allowed to fal...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.1</strong> Lenard (1862-1947) observed that when ultraviolet radiations were allowed to fall on the emitter plate of an evacuated glass tube enclosing two electrodes (metal plates), current flows in the circuit (Fig. 11.1). As soon as the ultraviolet radiations were stopped, the current flow also stopped. These observations indicate that when ultraviolet radiations fall on the emitter plate C, electrons are ejected from it which are attracted towards the positive, collector plate A by the electric field. The electrons flow through the evacuated glass tube, resulting in the current flow. Thus, light falling on the surface of the emitter causes current in the external circuit. Hallwachs and Lenard studied how this photo current varied with collector plate potential, and with frequency and intensity of incident light.</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 soon as the ultraviolet radiations were stopped, the current flow also
 stopped. These observations indicate that when ultraviolet radiations fall
 on the emitter plate C, electrons are ejected from it which are attracted
@@ -178,7 +187,7 @@ nos
 After the discovery of the electron in 1897, it became evident that the
 incident light causes electrons to be emitted from the emitter plate. Due
 
-Reprint 2025-26
+
 
 
 ---
@@ -245,7 +254,7 @@ and (d) the nature of the material of plate C. Light of
 different frequencies can be used by putting appropriate
 coloured filter or coloured glass in the path of light falling
 
-Reprint 2025-26
+
 
 Photosensitive
 
@@ -277,13 +286,14 @@ photoelectric effect.
 ---
 ## 📄 Page 5
 
-Photoelectric current
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch11_dual_nature_of_radiation_and_matter_fig_11_2.png" alt="Fig. 11.2" onclick="openImageModal(this.src, 'Fig. 11.2: The collector A is maintained at a positive potential with respect to emitter C ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.2</strong> The collector A is maintained at a positive potential with respect to emitter C so that electrons ejected from C are attracted towards collector A. Keeping the frequency of the incident radiation and the potential fixed, the intensity of light is varied and the resulting photoelectric current is measured each time. It is found that the photocurrent increases linearly with intensity of incident light as shown graphically in Fig. 11.2. The photocurrent is directly proportional to the number of photoelectrons emitted per second. This implies that the number of photoelectrons emitted per second is directly proportional to the intensity of incident radiation.</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
-■ Physics
-
-Intensity of light
-
-FIGURE 11.2 Variation of
 Photoelectric current with
 intensity of light.
 
@@ -319,22 +329,14 @@ value of the photoelectric current is called saturation current. Saturation
 current corresponds to the case when all the photoelectrons emitted by
 the emitter plate C reach the collector plate A.
 
-not to b
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch11_dual_nature_of_radiation_and_matter_fig_11_3.png" alt="Fig. 11.3" onclick="openImageModal(this.src, 'Fig. 11.3: FIGURE 11.3 Variation of photocurrent with...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.3</strong> FIGURE 11.3 Variation of photocurrent with</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
-0
-
-Retarding potential
-
-Collector plate
-potential
-
-13
-
-12
-
-I
-
-FIGURE 11.3 Variation of photocurrent with
 collector plate potential for different
 intensity of incident radiation.
 
@@ -362,7 +364,7 @@ in terms of photoelectrons is
 straightforward. All the photoelectrons
 emitted from the metal do not have the
 
-Reprint 2025-26
+
 
 
 ---
@@ -405,7 +407,15 @@ potential Vo. We suitably adjust the same
 intensity of light radiation at various frequencies
 and study the variation of photocurrent with
 collector plate potential. The resulting variation
-is shown in Fig. 11.4. We obtain different values
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch11_dual_nature_of_radiation_and_matter_fig_11_4.png" alt="Fig. 11.4" onclick="openImageModal(this.src, 'Fig. 11.4: FIGURE 11.4 Variation of photoelectric current...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.4</strong> FIGURE 11.4 Variation of photoelectric current</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 of stopping potential but the same value of the
 saturation current for incident radiation of
 different frequencies. The energy of the emitted
@@ -422,7 +432,16 @@ greater retarding potential to stop them
 completely. If we plot a graph between the
 frequency of incident radiation and the
 corresponding stopping potential for different
-metals we get a straight line, as shown in Fig. 11.5.
+metals we get a straight line, as shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch11_dual_nature_of_radiation_and_matter_fig_11_5.png" alt="Fig. 11.5" onclick="openImageModal(this.src, 'Fig. 11.5: FIGURE 11.5 Variation of stopping potential V0...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.5</strong> FIGURE 11.5 Variation of stopping potential V0</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 The graph shows that
 
 (i) the stopping potential Vo varies linearly with
@@ -474,7 +493,7 @@ given photosensitive material.
 
 279
 
-Reprint 2025-26
+
 
 
 ---
@@ -546,7 +565,7 @@ According to this picture, light is an electromagnetic wave consisting of
 electric and magnetic fields with continuous distribution of energy over
 the region of space over which the wave is extended. Let us now see if this
 
-Reprint 2025-26
+
 
 
 ---
@@ -618,7 +637,7 @@ the observations on photoelectric effect given at the end of sub-section
 
 281
 
-Reprint 2025-26
+
 
 
 ---
@@ -751,7 +770,7 @@ ALBERT EINSTEIN (1879 – 1955)
 
 282
 
-Reprint 2025-26
+
 
 
 ---
@@ -823,7 +842,7 @@ total energy and total momentum are conserved. However, the number
 of photons may not be conserved in a collision. The photon may be
 absorbed or a new photon may be created.
 
-Reprint 2025-26
+
 
 283
 
@@ -940,7 +959,7 @@ general) comes out clearly from what we have learnt in this and the
 preceding chapters. The wave nature of light shows up in the phenomena
 of interference, diffraction and polarisation. On the other hand, in
 
-Reprint 2025-26
+
 
 
 ---
@@ -1048,7 +1067,7 @@ calculated:
 
 285
 
-Reprint 2025-26
+
 
 
 ---
@@ -1145,7 +1164,7 @@ energy. It follows the law of conservation of energy. The photoelectric
 emission is an instantaneous process and possesses certain special
 features.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1228,7 +1247,7 @@ ed
 
 287
 
-Reprint 2025-26
+
 
 
 ---
@@ -1357,7 +1376,7 @@ EXERCISES
 
 (b) minimum wavelength of X-rays produced by 30 kV electrons.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1426,7 +1445,7 @@ m/s?
 11.11 Show that the wavelength of electromagnetic radiation is equal to
 the de Broglie wavelength of its quantum (photon).
 
-Reprint 2025-26
+
 
 289
 

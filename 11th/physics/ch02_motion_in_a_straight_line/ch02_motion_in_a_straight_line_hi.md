@@ -7,7 +7,7 @@
 
 ### अध्याय 2
 
-11088CH03
+
 
 सरल रेखा में गति
 
@@ -64,7 +64,7 @@ bed
 की गतियों का वर्णन किया गया है । इन गतियों के कारणों का अध्ययन हम पाँचवें
 अध्याय में करेंगे ।
 
-Reprint 2026-27
+
 
 
 ---
@@ -121,7 +121,15 @@ t के सापेक्ष
 गणितीय विधि को प्रयोग में लाते हैं । मान लीजिए कि हम
 गतिमान कार का वेग t = 4s (बिंदु P) पर निकालना चाहते हैं ।
 पहले हम t = 4 s को केंद्र में रखकर △t को 2s लें । औसत
-वेग की परिभाषा के अनुसार सरल रेखा P₁P₂ (चित्र 2.1) की
+वेग की परिभाषा के अनुसार सरल रेखा P₁P₂ (<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_1_hi.png" alt="चित्र 2.1" onclick="openImageModal(this.src, 'चित्र 2.1: P ij Li&#39;kZ js[kk gks tkrh gS A bl izdkj t = 4 s {k.k ij dkj dk osx ml fcanq ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.1</strong> P ij Li'kZ js[kk gks tkrh gS A bl izdkj t = 4 s {k.k ij dkj dk osx ml fcanq ij [khaph xbZ Li'kZ js[kk dh izo.krk osQ cjkcj gksxk A ;|fi xzkfiQd fof/ ls bls iznf'kZr djuk oqQN dfBu gS rFkkfi ;fn blosQ fy, ge xf.krh; fof/ dk mi;ksx djsa rks lhekar izfØ;k vklkuh ls le>h tk ldrh gS A fp=k 2.1 eas [khaps x, xzkiQ osQ fy, x = 0.8 t3 gS A lkj.kh 2.1 eas t=4 s dks osaQnz esas j[kdj ∆t = 2.0 s, 1.0 s,</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
+
 प्रवणता 3s से 5s के अंतराल में वस्तु के औसत वेग को
 
 20
@@ -289,7 +297,7 @@ Ax/At
 
 ### 3.8400
 
-Reprint 2026-27
+
 
 
 ---
@@ -429,7 +437,7 @@ SI मात्रक m s-2 है ।
 की प्रवणता के बराबर होता है जो बिंदु (v₂, t₁₂) को बिंदु (v₁, t₁)
 से जोड़ती है ।
 
-Reprint 2026-27
+
 
 
 ---
@@ -533,7 +541,15 @@ t
 
 (c)
 
-चित्र 2.2 ऐसी गति के लिए स्थिति-समय ग्राफ जिसके लिए
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_2_hi.png" alt="चित्र 2.2" onclick="openImageModal(this.src, 'चित्र 2.2: fp=k 2.2 ,slh xfr osQ fy, fLFkfr&le; xzkiQ ftlosQ fy,...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.2</strong> fp=k 2.2 ,slh xfr osQ fy, fLFkfr&le; xzkiQ ftlosQ fy,</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
+
 
 ऋण
 
@@ -556,7 +572,15 @@ t-0
 (2.4)
 
 अब हम यह देखेंगे कि कुछ सरल उदाहरणों में वेग-समय
-ग्राफ कैसा दिखलाई देता है । चित्र 2.3 में स्थिर त्वरण के लिए
+ग्राफ कैसा दिखलाई देता है । <div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_3_hi.png" alt="चित्र 2.3" onclick="openImageModal(this.src, 'चित्र 2.3: − gksxk A vr,o] v= vñ+at (2.4) vc ge ;g ns[ksaxs fd oqQN ljy mnkgj.kksa eas osx&...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.3</strong> − gksxk A vr,o] v= vñ+at (2.4) vc ge ;g ns[ksaxs fd oqQN ljy mnkgj.kksa eas osx&le; xzkiQ oSQlk fn[kykbZ nsrk gS A fp=k 2.3 eas fLFkj Roj.k osQ fy, pkj vyx&vyx fLFkfr;ksa eas v – t xzkiQ fn[kk, x, gSa%</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
+
 चार अलग-अलग स्थितियों में v -t ग्राफ दिखाए गए हैं:
 
 गति, (c) ऋणात्मक त्वरण से ऋणात्मक दिशा में
@@ -592,9 +616,17 @@ rep
 के लिए अवकल गणित की आवश्यकता पड़ती है तथापि
 सुगमता के लिए एक स्थिर वेग u से गतिमान वस्तु पर विचार
 करके इस कथन की सत्यता प्रमाणित कर सकते हैं। इसका
-वेग-समय ग्राफ चित्र 2.4 में दिखाया गया है ।
+वेग-समय ग्राफ <div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_4_hi.png" alt="चित्र 2.4" onclick="openImageModal(this.src, 'चित्र 2.4: vkSj fiQj Í.kkRed fn&#39;kk eas Í.kkRed Roj.k osQ lkFk xfreku gS A fdlh xfreku o...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.4</strong> vkSj fiQj Í.kkRed fn'kk eas Í.kkRed Roj.k osQ lkFk xfreku gS A fdlh xfreku oLrq osQ osx&le; xzkiQ dk ,d egÙoiw.kZ y{k.k gS fd v–t xzkiQ osQ varxZr vkus okyk {ks=kiQy oLrq dk foLFkkiu O;Dr djrk gSA bl dFku dh lkekU; miifÙk osQ fy, vody xf.kr dh vko';drk iM+rh gS rFkkfi lqxerk osQ fy, ,d fLFkj osx u ls xfreku oLrq ij fopkj djosQ bl dFku dh lR;rk izekf.kr dj ldrs gSa A bldk osx&le; xzkiQ fp=k 2.4 eas fn[kk;k x;k gS A</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
-Reprint 2026-27
+
+
+
 
 
 ---
@@ -660,7 +692,15 @@ v = v + at
 
 (2.4)
 
-इस समीकरण को चित्र 2.5 में ग्राफ के रूप में निरूपित किया
+इस समीकरण को <div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_5_hi.png" alt="चित्र 2.5" onclick="openImageModal(this.src, 'चित्र 2.5: v = vo + at (2.4) bl lehdj.k dks fp=k 2.5 eas xzkiQ osQ :i eas fu:fir fd;k x;k g...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.5</strong> v = vo + at (2.4) bl lehdj.k dks fp=k 2.5 eas xzkiQ osQ :i eas fu:fir fd;k x;k gS A</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
+
 गया है।
 
 AU
@@ -737,7 +777,7 @@ v =
 समीकरण (2.4) से t = (v-v)/a। यह मान समीकरण (2.7a)
 में रखने पर
 
-Reprint 2026-27
+
 
 
 ---
@@ -861,7 +901,7 @@ v² = v² + 2a (x − xo)
 
 ONCERT
 
-not to be republished
+
 
 du
 
@@ -895,7 +935,15 @@ v² = v² + 2a(x − xo)
 ऊपर जाएगी ?, तथा (b) गेंद धरती से टकराने के पहले
 कितना समय लेगी? g = 10 m s-2 ।
 
-हल (a) y - अक्ष को चित्र 2.6 में दिखाए गए अनुसार
+हल (a) y - अक्ष को <div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_6_hi.png" alt="चित्र 2.6" onclick="openImageModal(this.src, 'चित्र 2.6: gy (a) y – v{k dks fp=k 2.6 eas fn[kk, x, vuqlkj ÅèokZ/j fn&#39;kk eas Åij dh vk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.6</strong> gy (a) y – v{k dks fp=k 2.6 eas fn[kk, x, vuqlkj ÅèokZ/j fn'kk eas Åij dh vksj bl izdkj pqurs gSa fd v{k dk 'kwU; fcanq /jrh ij gks A vc] vo = + 20 m s–1,</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
+
 ऊर्ध्वाधर दिशा में ऊपर की ओर इस प्रकार चुनते हैं कि अक्ष का
 शून्य बिंदु धरती पर हो ।
 
@@ -917,7 +965,7 @@ v - vo = at
 
 v = vo + at
 
-Reprint 2026-27
+
 
 
 ---
@@ -1062,7 +1110,7 @@ v=0 और वस्तु के लिए गति संबंधी (2.9a) 
 दिशा सदैव नीचे की ओर होती है, इसलिए इसे हम ऋणात्मक
 दिशा में लेते हैं ।
 
-Reprint 2026-27
+
 
 
 ---
@@ -1149,7 +1197,15 @@ t(s)
 У -80
 (m) -90
 
-चित्र 2.7
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_7_hi.png" alt="चित्र 2.7" onclick="openImageModal(this.src, 'चित्र 2.7: v2 = 0 – 2 g y = –19.6 y m2 s–2 ;s lehdj.k oLrq osQ osx] vkSj mlosQ }kjk pyh xbZ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.7</strong> v2 = 0 – 2 g y = –19.6 y m2 s–2 ;s lehdj.k oLrq osQ osx] vkSj mlosQ }kjk pyh xbZ nwjh dks le; osQ iQyu osQ :i eas rFkk nwjh osQ lkis{k mlosQ osx eas ifjorZu dks O;Dr djrs gSa A le; osQ lkis{k Roj.k] osx rFkk nwjh osQ ifjorZu dks fp=k 2.7(a), (b) rFkk (c) esa fn[kyk;k x;k gS A ¶</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
+
 
 भौतिकी
 
@@ -1227,7 +1283,7 @@ v² = 0 – 2 g y = −19.6 y m² s-2
 है। किसी वाहन की अवरोधन दूरी के लिए v तथा a
 के पदों में व्यंजक निकालिए ।
 
-Reprint 2026-27
+
 
 
 ---
@@ -1376,7 +1432,15 @@ d =
 द्वारा माप सकते हैं । आप अपने मित्र को एक रूलर दें
 और उससे कहें कि वह आपके हाथ के अंगूठे और तर्जनी
 के बीच की खाली जगह से रूलर ऊर्ध्वाधर दिशा में गिरा
-दे (चित्र 2.8) । ज्योंही रूलर को छोड़ा जाए आप उसे
+दे (<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_8_hi.png" alt="चित्र 2.8" onclick="openImageModal(this.src, 'चित्र 2.8: vki Lo;a dk izfrfØ;k dky ,d lk/kj.k iz;ksx }kjk eki ldrs gSa A vki vius fe=k dks...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.8</strong> vki Lo;a dk izfrfØ;k dky ,d lk/kj.k iz;ksx }kjk eki ldrs gSa A vki vius fe=k dks ,d :yj nsa vkSj mlls dgsa fd og vkiosQ gkFk osQ vaxwBs vkSj rtZuh osQ chp dh [kkyh txg ls :yj ÅèokZ/j fn'kk eas fxjk ns (fp=k 2.8) A T;ksagh :yj dks NksM+k tk, vki mls idM+ ysa A bu nksuksa ?kVukvksa (:yj dks NksM+us rFkk vkiosQ }kjk idM+us) osQ chp yxs le; tr rFkk :yj }kjk pyh xbZ nwjh d dks uki ysa A fdlh fo'ks"k mnkgj.k eas d = 21.0 cm gS rks izfrfØ;k dky dh x.kuk dhft, A gy :yj eqDr :i ls fxjrk gS] vr% v0 = 0, a = – g = –9.8</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
+
 पकड़ लें । इन दोनों घटनाओं (रूलर को छोड़ने तथा आपके
 द्वारा पकड़ने) के बीच लगे समय 1 तथा रूलर द्वारा चली
 गई दूरी d को नाप लें । किसी विशेष उदाहरण में d= 21.0
@@ -1416,7 +1480,7 @@ t =
 
 s = 0.2 s
 
-Reprint 2026-27
+
 
 
 ---
@@ -1505,7 +1569,7 @@ x, तत्संबंधित समय t, प्रारंभिक व�
 
 v = v + at
 
-Reprint 2026-27
+
 
 भौतिकी
 
@@ -1655,7 +1719,7 @@ At 0 At dt
 वस्तु गुरुत्व के कारण नीचे की ओर गिर रही है तो भी वस्तु की चाल बढ़ती जाएगी यद्यपि त्वरण का मान ऋणात्मक है।
 वस्तु ऊपर की दिशा में फेंकी जाए तो उसी ऋणात्मक (गुरुत्वजनित) त्वरण के कारण वस्तु की चाल में कमी आती जाएगी।
 
-Reprint 2026-27
+
 
 
 ---
@@ -1700,7 +1764,7 @@ Reprint 2026-27
 
 :
 
-not to be republished
+
 
 0
 
@@ -1710,7 +1774,15 @@ B
 
 t
 
-चित्र 2.9
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_9_hi.png" alt="चित्र 2.9" onclick="openImageModal(this.src, 'चित्र 2.9: 2.2 nks cPps A o B vius fo|ky; O ls ykSV dj vius&vius ?kj Øe&#39;k% P rFkk Q dks...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.9</strong> 2.2 nks cPps A o B vius fo|ky; O ls ykSV dj vius&vius ?kj Øe'k% P rFkk Q dks tk jgs gSa A muosQ fLFkfr&le; (x - t ) xzkiQ fp=k 2.9 esa fn[kk, x, gSa A uhps fy[ks dks"Bdksa esa lgh izfof"V;ksa dks pqfu, %</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
+
 
 ### 2.3 एक महिला अपने घर से प्रातः 9.00 बजे 2.5 km दूर अपने कार्यालय के लिए सीधी सड़क पर 5 km h¯¹ चाल से
 चलती है । वहाँ वह सायं 5.00 बजे तक रहती है और 25 km h¯¹ की चाल से चल रही किसी ऑटो रिक्शा द्वारा अपने
@@ -1721,7 +1793,7 @@ t
 है। उसकी गति का x - t ग्राफ खींचिए । ग्राफ से तथा किसी अन्य विधि से यह ज्ञात कीजिए कि वह जहां से चलना
 प्रारंभ करता है वहाँ से 13 m दूर किसी गड्ढे में कितने समय पश्चात गिरता है ।
 
-Reprint 2026-27
+
 
 भौतिकी
 
@@ -1788,10 +1860,18 @@ Wolished
 हम तात्क्षणिक चाल व वेग के परिमाण पर विचार करते हैं तो इस तरह का अंतर करना आवश्यक नहीं होता । तात्क्षणिक
 चाल हमेशा तात्क्षणिक वेग के बराबर होती है । क्यों ?
 
-### 2.13 चित्र 2.10 में (a) से (d) तक के ग्राफों को ध्यान से देखिए और देखकर बताइए कि इनमें से कौन-सा ग्राफ एकविमीय
+### 2.13 <div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_10_hi.png" alt="चित्र 2.10" onclick="openImageModal(this.src, 'चित्र 2.10: 2.13 fp=k 2.10 esa (a) ls (d) rd osQ xzkiQksa dks è;ku ls nsf[k, vkSj ns[kdj crk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.10</strong> 2.13 fp=k 2.10 esa (a) ls (d) rd osQ xzkiQksa dks è;ku ls nsf[k, vkSj ns[kdj crkb, fd buesa ls dkSu&lk xzkiQ ,dfoeh; xfr dks laHkor% ugha n'kkZ ldrk A</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
+
 गति को संभवतः नहीं दर्शा सकता ।
 
-Reprint 2026-27
+
 
 25
 
@@ -1809,9 +1889,25 @@ t
 
 (b)
 
-चित्र 2.12
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_12_hi.png" alt="चित्र 2.12" onclick="openImageModal(this.src, 'चित्र 2.12: 2.16 fp=k 2.12 esa fn[kk, x, izR;sd xzkiQ osQ fy, fdlh mfpr HkkSfrd fLFkfr dk lq...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.12</strong> 2.16 fp=k 2.12 esa fn[kk, x, izR;sd xzkiQ osQ fy, fdlh mfpr HkkSfrd fLFkfr dk lq>ko nhft, %</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
-### 2.14 चित्र 2.11 में किसी कण की एकविमीय गति
+
+
+### 2.14 <div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_11_hi.png" alt="चित्र 2.11" onclick="openImageModal(this.src, 'चित्र 2.11: 2.14 fp=k 2.11 esa fdlh d.k dh ,dfoeh; xfr dk x - t xzkiQ fn[kk;k x;k gS A xzkiQ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.11</strong> 2.14 fp=k 2.11 esa fdlh d.k dh ,dfoeh; xfr dk x - t xzkiQ fn[kk;k x;k gS A xzkiQ ls D;k ;g dguk Bhd gksxk fd ;g d.k t < 0 osQ fy, fdlh ljy js[kk esa vkSj t > 0 osQ fy, fdlh ijoyh; iFk esa xfr djrk gS A ;fn ugha] rks xzkiQ osQ laxr fdlh mfpr HkkSfrd lanHkZ dk lq>ko nhft, A</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
+
+
 का x - t ग्राफ दिखाया गया है । ग्राफ से क्या
 यह कहना ठीक होगा कि यह कण t<0 के
 लिए किसी सरल रेखा में और t> 0 के लिए
@@ -1845,7 +1941,7 @@ CERT
 
 कुल पथ-लंबाई
 
-Not to be republished
+
 
 (c)
 
@@ -1857,7 +1953,7 @@ a
 
 चित्र 2.11
 
-Reprint 2026-27
+
 
 t
 
@@ -1869,7 +1965,15 @@ t
 
 सरल रेखा में गति
 
-### 2.17 चित्र 2.13 में किसी कण की एकविमीय सरल आवर्ती गति के लिए x - t ग्राफ दिखाया गया है । (इस गति के बारे
+### 2.17 <div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_13_hi.png" alt="चित्र 2.13" onclick="openImageModal(this.src, 'चित्र 2.13: 2.17 fp=k 2.13 esa fdlh d.k dh ,dfoeh; ljy vkorhZ xfr osQ fy, x - t xzkiQ fn[kk;...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.13</strong> 2.17 fp=k 2.13 esa fdlh d.k dh ,dfoeh; ljy vkorhZ xfr osQ fy, x - t xzkiQ fn[kk;k x;k gS A (bl xfr osQ ckjs esa vki vè;k; 13 esa i<+saxs) le; t = 0.3 s, 1.2 s, –1.2 s ij d.k osQ fLFkfr] osx o Roj.k osQ fpÉ D;k gksaxs \</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
+
+
 में आप अध्याय 13 में पढ़ेंगे) समय t = 0.3 s, 1.2 s, -1.2s पर कण के स्थिति, वेग व त्वरण के चिह्न क्या होंगे ?
 
 X
@@ -1888,7 +1992,15 @@ t
 
 चित्र 2.13
 
-### 2.18 चित्र 2.14 किसी कण की एकविमीय गति का x - t
+### 2.18 <div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_14_hi.png" alt="चित्र 2.14" onclick="openImageModal(this.src, 'चित्र 2.14: 2.18 fp=k 2.14 fdlh d.k dh ,dfoeh; xfr dk x - t xzkiQ n&#39;kkZrk gS A blesa rhu...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.14</strong> 2.18 fp=k 2.14 fdlh d.k dh ,dfoeh; xfr dk x - t xzkiQ n'kkZrk gS A blesa rhu leku varjky fn[kk, x, gSa A fdl varjky esa vkSlr pky vf/dre gS vkSj fdlesa U;wure gS \ izR;sd varjky osQ fy, vkSlr osx dk fpÉ crkb, A</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
+
+
 ग्राफ दर्शाता है । इसमें तीन समान अंतराल दिखाए गए
 हैं। किस अंतराल में औसत चाल अधिकतम है और किसमें
 न्यूनतम है ? प्रत्येक अंतराल के लिए औसत वेग का चिह्न
@@ -1901,7 +2013,15 @@ CERT
 
 republished
 
-### 2.19 चित्र 2.15 में किसी नियत (स्थिर) दिशा के अनुदिश
+### 2.19 <div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_15_hi.png" alt="चित्र 2.15" onclick="openImageModal(this.src, 'चित्र 2.15: 2.19 fp=k 2.15 esa fdlh fu;r (fLFkj) fn&#39;kk osQ vuqfn&#39;k py jgs d.k dk pky...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.15</strong> 2.19 fp=k 2.15 esa fdlh fu;r (fLFkj) fn'kk osQ vuqfn'k py jgs d.k dk pky&le; xzkiQ fn[kk;k x;k gS A blesa rhu leku le; varjky fn[kk, x, gSa A fdl varjky esa vkSlr Roj.k dk ifjek.k vf/dre gksxk \ fdl varjky esa vkSlr pky vf/dre gksxh \ /ukRed fn'kk dks xfr dh fLFkj fn'kk pqurs gq, rhuksa varjkyksa esa v rFkk a osQ fpÉ crkb, A A, B, C, o D fcanqvksa ij Roj.k D;k gksaxs \</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
+
+
 चल रहे कण का चाल-समय ग्राफ दिखाया गया है । इसमें
 तीन समान समय अंतराल दिखाए गए हैं । किस अंतराल
 में औसत त्वरण का परिमाण अधिकतम होगा ?
@@ -1911,7 +2031,7 @@ republished
 
 ot to
 
-Reprint 2026-27
+
 
 A
 

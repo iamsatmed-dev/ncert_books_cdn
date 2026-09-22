@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11081CH04
+
 
 ### 4.1 वर्गीकरण का
 
@@ -51,17 +51,19 @@ blished
 निर्माण करता है और प्रत्येक अंग एक विशेष कार्य करता है। प्राणी में जैसे, ऐनेलिड,
 आर्थोपोड, मोलस्क, एकाइनोडर्म तथा रज्जुकी के अंग मिलकर तंत्र के रूप में शारीरिक
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 2
 
-38
-
-मीजोग्लोया
-
-चित्र 4.1 (अ) अरीय सममिति
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_hi.png" alt="चित्र 4" onclick="openImageModal(this.src, 'चित्र 4: izk.kh dks lefefr osQ vk/kj ij Hkh Js.khc¼ fd;k tk ldrk gSA Liat eq[;r% vlefefr ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4</strong> izk.kh dks lefefr osQ vk/kj ij Hkh Js.khc¼ fd;k tk ldrk gSA Liat eq[;r% vlefefr gksrs gSa_ vFkkZr~ fdlh Hkh osaQnzh; v{k ls xqtjus okyh js[kk bUgsa nks cjkcj Hkkxksa foHkkftr ugha djrhA tc fdlh Hkh osaQnzh; v{k ls xqtjus okyh js[kk izkf.k osQ 'kjhj dks nks le:i Hkkxksa esa foHkkftr djrh gS rks bls vjh; lefefr dgrs gSaA lhysaVjsV] VhuksiQksj] rFkk ,dkbuksMeZ esa blh izdkj dh lefefr gksrh gS (fp=k 4-1 v)A fdarq ,susfyM] vkFkksZiksM] vkfn esa ,d gh v{k ls xqtjus okyh js[kk }kjk 'kjhj nks le:i nk,a o ck,a Hkkx esa ck¡Vk tk ldrk gSA bls f}ik'oZ lefefr dgrs gSaA (fp=k 4-1 c)</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 जीव विज्ञान
 
@@ -131,7 +133,7 @@ ober
 त्रिकोरकी कहलाते हैं (जैसे प्लेटीहेल्मिंथीज से रज्जुकी
 तक चित्र. 4.2 ब)।
 
-Reprint 2025-26
+
 
 
 ---
@@ -213,7 +215,7 @@ ed
 द्वारा शरीर की केंद्रीय स्पंज गुहा (स्पंजोशील) में प्रवेश करता है तथा बड़े रंध्र
 ऑस्कुलम द्वारा बाहर निकलता है। जल परिवहन का यह रास्ता भोजन जमा करने,
 
-Reprint 2025-26
+
 
 
 ---
@@ -315,7 +317,7 @@ T
 
 (ब) यूस्पांजिया (स) स्पांजिला
 
-Reprint 2025-26
+
 
 
 ---
@@ -361,7 +363,7 @@ Reprint 2025-26
 चित्र 4.7 नाइडोब्लास्ट का
 आरेखीय दृश्य
 
-Reprint 2025-26
+
 
 
 ---
@@ -405,7 +407,7 @@ Reprint 2025-26
 ये मुक्तजीवी, जलीय अथवा स्थलीय तथा पौधे एवं प्राणियों में परजीवी भी होते हैं। ये
 द्विर्पाश्व सममिति, त्रिकोरकी, तथा कूटप्रगुही प्राणी होते हैं। इनका शरीर संगठन अंगतंत्र
 
-Reprint 2025-26
+
 
 
 ---
@@ -473,7 +475,7 @@ rep
 ऐनेलिडा के उदाहरण (अ) नेरीस
 (ब) हीरुडिनेरिया (रक्तचूषक जोंक)
 
-Reprint 2025-26
+
 
 
 ---
@@ -546,7 +548,7 @@ be
 मुख में भोजन के लिए रेती के समान घिसने का अंग
 होता है। इसे रेतीजिह्वा (रेडुला) कहते हैं। सामान्यतः नर
 
-Reprint 2025-26
+
 
 
 ---
@@ -614,7 +616,7 @@ published
 
 वक्ष
 
-Reprint 2025-26
+
 
 
 ---
@@ -712,7 +714,7 @@ to be r
 अथवा चार प्रकोष्ठ वाला पेशीय अधर हृदय होता है। वृक्क
 उत्सर्जन तथा जल संतुलन का कार्य करते हैं तथा पख
 
-Reprint 2025-26
+
 
 
 ---
@@ -793,7 +795,7 @@ NCERT
 (अ) स्कॉलियोडोन (कुत्तामछली)
 (ब) प्रीस्टिस (आरामछली)
 
-Reprint 2025-26
+
 
 
 ---
@@ -868,7 +870,7 @@ ob
 विभाजित होता है। कुछ में पूंछ उपस्थित होती है। उभयचर की
 त्वचा नम (शल्क रहित) होती है, नेत्र पलक वाले होते हैं। बाह्य
 
-Reprint 2025-26
+
 
 
 ---
@@ -919,7 +921,7 @@ be
 
 चित्र 4.22 सरीसृपः (अ) वृक्ष छिपकली (ब) घडियाल (स) कछुआ (किलोन) (द) नाग (साँप)
 
-Reprint 2025-26
+
 
 
 ---
@@ -977,7 +979,7 @@ G
 अलग होते हैं तथा निषेचन आंतरिक होता है। कुछ को छोड़कर सभी स्तनधारी बच्चे को
 जन्म देते हैं (जरायुज) तथा परिवर्धन प्रत्यक्ष होता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1100,7 +1102,7 @@ blished
 बाह्य कंकाल
 काइटिनी संधिपाद
 
-Reprint 2025-26
+
 
 
 ---
@@ -1216,7 +1218,7 @@ blish
 मछलियों में वहिकंकाल उपास्थिल होता है। उभयचर (एफिबिया), सरीसृप (रेप्टीलिया), पक्षिवर्ग (एवीज)
 तथा स्तनधारी (मैमेलिया) वर्गो में दो जोड़े पाद होते हैं तथा ये टेट्रापोडा के अंतर्गत रखे गए हैं। उभयचर थल
 
-Reprint 2025-26
+
 
 
 ---
@@ -1276,7 +1278,7 @@ republish
 
 15. मनुष्यों पर पाए जाने वाले कुछ परजीवों के नाम लिखें।
 
-Reprint 2025-26
+
 
 53
 

@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-12084CH14
+
 
 ### अध्याय 12
 
@@ -45,7 +45,7 @@ not to
 को भी देखेंगे-जोकि तंत्र के अंतर्गत प्रवाहित इन ऊर्जाओं के परिणामस्वरूप
 पैदा हुए हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -105,7 +105,7 @@ ublished
 
 225
 
-Reprint 2025-26
+
 
 
 ---
@@ -159,7 +159,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -193,11 +193,14 @@ bublished
 
 कुछ भोज्य पदार्थ रासायनिक
 क्रियाओं द्वारा मृदा में निक्षलित
-कर दिए जाते हैं।
 
-कार्बनिक पदार्थयुक्त मृदा
-
-चित्र 12.1 एक स्थलीय पारितंत्र में अपघटन चक्र का आरेखीय निरूपण
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch12_ecosystem_fig_12_hi.png" alt="चित्र 12" onclick="openImageModal(this.src, 'चित्र 12: ;g le>uk egÙoiw.kZ gSa fd mi;qZDr vi?kVu dh leLr izfØ;k,¡ vijn ij lekukarj :i ls...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 12</strong> ;g le>uk egÙoiw.kZ gSa fd mi;qZDr vi?kVu dh leLr izfØ;k,¡ vijn ij lekukarj :i ls yxkrkj pyrh jgrh gaSA (fp=k 12-1) áwehfiQosQ'ku vkSj feujsykbts'ku dh izfØ;k vi?kVu osQ nkSjku e`nk esa laiUu gksrh gSA áwehfiQosQ'ku osQ }kjk ,d xgjs jax osQ fØlVy jfgr rÙo dk fuekZ.k gksrk gS ftls áwel dgrs gSa tksfd lw{etSfod fØ;k osQ fy, mPp izfrjks/h gksrk gS vkSj bldk vi?kVu cgqr gh /heh xfr ls pyrk gSA LoHkko (izÑfr) esa dksykbMy gksus osQ dkj.k ;g iks"kd osQ HkaMkj dk dke djrk gSA áwel iqu% oqQN lw{ethoksa }kjk [kafMr gksrk gS vkSj tks [kfuthdj.k uked izfØ;k }kjk vdkcZfud iks"kd mRiUu gksrs gSa mUgsa eqDr djrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 अपरदाहारी (जैसे कि केंचुए) अपरद को छोटे-छोटे कणों में खंडित कर देते हैं।
 इस प्रक्रिया को खंडन कहते हैं। निक्षालन प्रक्रिया के अंतर्गत जल-विलेय अकार्बनिक
@@ -216,7 +219,7 @@ bublished
 
 227
 
-Reprint 2025-26
+
 
 
 ---
@@ -271,7 +274,7 @@ not
 अंतर निर्भरता के कारण शृंखला जाल (वेब) की रचना होती है। किसी भी जीव द्वारा
 आबद्ध (ग्रहण) की गई ऊर्जा सदैव के लिए संचित नहीं रहती है। उत्पादक द्वारा आबद्ध
 
-Reprint 2025-26
+
 
 
 ---
@@ -341,7 +344,7 @@ T
 
 229
 
-Reprint 2025-26
+
 
 
 ---
@@ -413,7 +416,7 @@ shed
 द्वितीयक मांसभक्षी आदि (चित्र 12.3)। क्या आप सोच सकते हैं कि इस प्रकार अपरद
 खाद्य श्रृंखला की कोई सीमा है?
 
-Reprint 2025-26
+
 
 
 ---
@@ -483,7 +486,7 @@ pu
 
 231
 
-Reprint 2025-26
+
 
 
 ---
@@ -565,7 +568,7 @@ pou to be rebus30.000
 
 खड़ी फसल।
 
-Reprint 2025-26
+
 
 
 ---
@@ -620,7 +623,7 @@ lished
 जाल का समावेश नहीं है। पारिस्थितिकी तंत्र में एक प्रमुख भूमिका निभाने के अतिरिक्त
 मृत जीवियों को पारिस्थितिकी पिरामिड में कोई स्थान प्राप्त नहीं है।
 
-Reprint 2025-26
+
 
 233
 
@@ -688,7 +691,7 @@ not to
 
 है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -769,5 +772,5 @@ be republished
 
 235
 
-Reprint 2025-26
+
 

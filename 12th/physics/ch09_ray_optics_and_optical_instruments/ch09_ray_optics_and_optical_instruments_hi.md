@@ -11,7 +11,7 @@
 
 प्रकाशिक यंत्र
 
-12092CH09
+
 
 © NCERT
 
@@ -39,7 +39,7 @@ c = 2.99792458 × 10º m s¯¹ है। अनेक प्रयोजनो�
 में कुछ सेंटीमीटर की कोटि अथवा इससे अधिक) की तुलना में प्रकाश की तरंगदैर्ध्य काफ़ी कम
 होती है। जैसा कि आप अध्याय 10 में सीखेंगे, इस स्थिति में, प्रकाश तरंग को एक बिंदु से दूसरे
 
-Reprint 2025-26
+
 
 
 ---
@@ -73,7 +73,33 @@ Reprint 2025-26
 आपतन कोण (आपतित किरण तथा दर्पण के आपतन बिंदु अभिलंब
 परावर्तित किरण के बीच का कोण) के बराबर होता है। इसके अतिरिक्त, आपतित
 किरण, परावर्तित किरण तथा परावर्तक पृष्ठ के आपतन बिंदु पर
-अभिलंब एक ही समतल में होते हैं (चित्र 9.1)। ये नियम किसी
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_1_hi.png" alt="
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_hi.png" alt="चित्र 9" onclick="openImageModal(this.src, 'चित्र 9: okyh dksbZ izdk&#39;k dh fdj.k viorZu OksQ i&#39;pkr~ eq[; v{k OksQ lekarj xeu d...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9</strong> okyh dksbZ izdk'k dh fdj.k viorZu OksQ i'pkr~ eq[; v{k OksQ lekarj xeu djrh gSA [fp=k 9-17(a)] (b) fdlh vory ysal ij mlOksQ f}rh; I-kQksdl fcanq dh vksj vkrh izrhr gksrh gqbZ dksbZ izdk'k dh fdj.k viorZu OksQ i'pkr~ eq[; v{k OksQ lekarj xeu djrh gSA [fp=k 9-17(b)]
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_17_hi.png" alt="चित्र 9.17" onclick="openImageModal(this.src, 'चित्र 9.17: fp=k 9.17 (a) mÙky ysal] (b) vory ysal ls xq”kjus...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.17</strong> fp=k 9.17 (a) mÙky ysal] (b) vory ysal ls xq”kjus</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
+
+<button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
+
+<div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.1</strong> fp=k 9.1 vkifrr fdj.k] ijkofrZr fdj.k rFkk ijkorZd i`"B osQ vkiru ¯cnq ij vfHkyac ,d gh ry esa gksrs gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 भी परावर्तक पृष्ठ, चाहे वह समतल हो या वक्रित हो, के प्रत्येक
 बिंदु के लिए वैध हैं। तथापि, हम अपने विवेचन को वक्रित पृष्ठों
 की विशेष स्थिति, अर्थात गोलीय पृष्ठों तक ही सीमित रखेंगे। इस
@@ -97,27 +123,13 @@ Reprint 2025-26
 वक्रता केंद्र को मिलाने वाली सरल रेखा मुख्य अक्ष कहलाती है। गोलीय लेंसों में जैसा कि आप
 बाद में देखेंगे, प्रकाशिक केंद्र को मुख्य फोकस से मिलाने वाली रेखा मुख्य अक्ष कहलाती है।
 
-9.2.1 चिह्न परिपाटी
-
-आपतित किरण
-
-दर्पण
-
-x-अक्ष
-
-आपतित प्रकाश के
-विपरीत दिशा में
-
-ऊँचाई नीचे दूरियाँ ऋणात्मक
-
-की ओर
-
-ऋणात्मक
-
-आपतित प्रकाश की दिशा
-में दूरियाँ धनात्मक
-
-चित्र 9.2 कार्तीय चिह्न परिपाटी।
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_2_hi.png" alt="चित्र 9.2" onclick="openImageModal(this.src, 'चित्र 9.2: fp=k 9.2 dkrhZ; fpÉ ifjikVhA...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.2</strong> fp=k 9.2 dkrhZ; fpÉ ifjikVhA</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 गोलीय दर्पणों द्वारा परावर्तन तथा गोलीय लेंसों द्वारा
 अपवर्तन के लिए प्रासंगिक सूत्र व्युत्पन्न करने के
@@ -137,7 +149,7 @@ x-अक्ष
 x-अक्ष के सापेक्ष तथा दर्पण/लेंस के मुख्य अक्ष (x-अक्ष) के अभिलंबवत, उपरिमुखी मापित ऊँचाइयाँ
 धनात्मक मानी जाती हैं (चित्र 9.2)। अधोमुखी मापित ऊँचाइयों को ऋणात्मक लिया जाता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -149,9 +161,14 @@ Reprint 2025-26
 सामान्य मान्य परिपाटी के साथ हमें गोलीय दर्पणों के लिए एकल सूत्र तथा गोलीय लेंसों के
 लिए एकल सूत्र मिल जाते हैं तथा इन सूत्रों द्वारा हम विभिन्न स्थितियों का निपटान कर सकते हैं।
 
-9.2.2 गोलीय दर्पणों की फोकस दूरी
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_3_hi.png" alt="चित्र 9.3" onclick="openImageModal(this.src, 'चित्र 9.3: fp=k 9.3 esa n&#39;kkZ;k x;k gS fd tc dksbZ lekarj izdk&#39;k&iqat fdlh (a) vory...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.3</strong> fp=k 9.3 esa n'kkZ;k x;k gS fd tc dksbZ lekarj izdk'k&iqat fdlh (a) vory niZ.k rFkk (b) mÙky niZ.k] ij vkifrr gksrk gS rks D;k gksrk gSA ge ;gk¡ ;g ekurs gSa fd fdj.ksa mik{kh; (paraxial) gSa] vFkkZr os niZ.k osQ /qzo P osQ fudV osQ fcanqvksa ij vkifrr gSa rFkk eq[; v{k ls NksVs dks.k cukrh gSaA ijkofrZr fdj.ksa vory niZ.k osQ eq[; v{k ij fcanq F ij vfHklfjr gksrh gSa [fp=k</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
-चित्र 9.3 में दर्शाया गया है कि जब कोई समांतर प्रकाश-पुंज किसी (a) अवतल दर्पण तथा (b) उत्तल
 दर्पण, पर आपतित होता है तो क्या होता है। हम यहाँ यह मानते हैं कि किरणें उपाक्षीय (paraxial)
 हैं, अर्थात वे दर्पण के ध्रुव P के निकट के बिंदुओं पर आपतित हैं तथा मुख्य अक्ष से छोटे कोण
 बनाती हैं। परावर्तित किरणें अवतल दर्पण के मुख्य अक्ष पर बिंदु F पर अभिसरित होती हैं [चित्र
@@ -193,7 +210,15 @@ P
 
 दर्पण के फ़ोकस F तथा ध्रुव P के बीच की दूरी दर्पण की फ़ोकस दूरी कहलाती है तथा इसे
 f द्वारा निर्दिष्ट किया जाता है। अब हम यह दर्शाते हैं कि f = R/2, यहाँ R दर्पण की वक्रता त्रिज्या
-है। किसी आपतित प्रकाश किरण के परावर्तन की ज्यामिति चित्र 9.4 में दर्शायी गई है।
+है। किसी आपतित प्रकाश किरण के परावर्तन की ज्यामिति
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_4_hi.png" alt="चित्र 9.4" onclick="openImageModal(this.src, 'चित्र 9.4: f }kjk fufnZ&quot;V fd;k tkrk gSA vc ge ;g n&#39;kkZrs gSa fd f = R/2, ;gk¡ R ni...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.4</strong> f }kjk fufnZ"V fd;k tkrk gSA vc ge ;g n'kkZrs gSa fd f = R/2, ;gk¡ R niZ.k dh oØrk f=kT;k gSA fdlh vkifrr izdk'k fdj.k osQ ijkorZu dh T;kfefr fp=k 9.4 esa n'kkZ;h xbZ gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 मान लीजिए C दर्पण का वक्रता केंद्र है। मुख्य अक्ष के समांतर एक प्रकाश किरण पर विचार
 कीजिए जो दर्पण से M पर टकराती है। तब CM बिंदु M पर दर्पण पर अभिलंब होगा। मान लीजिए
@@ -213,7 +238,7 @@ CD
 
 FD
 
-Reprint 2025-26
+
 
 (9.1)
 
@@ -314,33 +339,14 @@ f = R/2
 केंद्र से जाती प्रतीत होती है। परावर्तित किरण केवल अपना पथ पुनः अनुरेखित करती है।
 वह किरण जो किसी अवतल दर्पण के मुख्य फ़ोकस से गुज़रती है अथवा उत्तल दर्पण के
 मुख्य फ़ोकस से गुज़रती (की ओर दिष्ट) प्रतीत होती है। परावर्तित किरण मुख्य अक्ष के
-समांतर गमन करती है।
 
-M
-
-B'
-
-P
-
-B
-
-C
-
-F
-
-A'
-
-D
-
-f
-
-υ
-
-u
-
-N
-
-चित्र 9.5 किसी अवतल दर्पण द्वारा प्रतिबिंब रचना का
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_5_hi.png" alt="चित्र 9.5" onclick="openImageModal(this.src, 'चित्र 9.5: fp=k 9.5 fdlh vory niZ.k }kjk izfrfcac jpuk dk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.5</strong> fp=k 9.5 fdlh vory niZ.k }kjk izfrfcac jpuk dk</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 224
 
@@ -368,7 +374,7 @@ B'A' B'F
 
 PM FP
 
-Reprint 2025-26
+
 
 
 ---
@@ -455,7 +461,7 @@ u
 
 NCERT
 
-not to be republished
+
 
 इसे v से भाग देने पर हमें प्राप्त होगा
 
@@ -504,7 +510,7 @@ h
 
 225
 
-Reprint 2025-26
+
 
 
 ---
@@ -532,7 +538,16 @@ u
 यहाँ पर हमने दर्पण समीकरण [समीकरण (9.7)] तथा आवर्धन सूत्र [समीकरण (9.9)]
 अवतल दर्पण द्वारा बने वास्तविक तथा उलटे प्रतिबिंब के लिए व्युत्पन्न किए हैं। परंतु वास्तव में
 उचित चिह्न परिपाटी का उपयोग करने पर, ये संबंध गोलीय दर्पणों (अवतल तथा उत्तल) द्वारा
-परावर्तन के सभी उदाहरणों (चाहे प्रतिबिंब वास्तविक बने या आभासी) पर लागू होते हैं। चित्र 9.6
+परावर्तन के सभी उदाहरणों (चाहे प्रतिबिंब वास्तविक बने या आभासी) पर लागू होते हैं।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_6_hi.png" alt="चित्र 9.6" onclick="openImageModal(this.src, 'चित्र 9.6: ;gk¡ ij geus niZ.k lehdj.k ¹lehdj.k (9.7)º rFkk vko/Zu lw=k ¹lehdj.k (9.9)º vory...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.6</strong> ;gk¡ ij geus niZ.k lehdj.k ¹lehdj.k (9.7)º rFkk vko/Zu lw=k ¹lehdj.k (9.9)º vory niZ.k }kjk cus okLrfod rFkk myVs izfrfcac osQ fy, O;qRiUu fd, gSaA ijarq okLro esa mfpr fpÉ ifjikVh dk mi;ksx djus ij] ;s laca/ xksyh; niZ.kksa (vory rFkk mÙky) }kjk ijkorZu osQ lHkh mnkgj.kksa (pkgs izfr¯cc okLrfod cus ;k vkHkklh) ij ykxw gksrs gSaA fp=k 9.6 esa vory rFkk mÙky niZ.k }kjk vkHkklh izfrfccksa dh jpuk osQ fdj.k&vkjs[k n'kkZ, x, gSaA vki Lo;a ;g lR;kfir dj ldrs gSa fd lehdj.k (9.7) rFkk (9.9) bu mnkgj.kksa osQ fy, Hkh ekU; gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 में अवतल तथा उत्तल दर्पण द्वारा आभासी प्रतिबिबों की रचना के किरण-आरेख दर्शाए गए हैं। आप
 स्वयं यह सत्यापित कर सकते हैं कि समीकरण (9.7) तथा (9.9) इन उदाहरणों के लिए भी मान्य हैं।
 
@@ -595,24 +610,13 @@ P तथा F के बीच स्थित है, तथा
 आरेख द्वारा प्रतिबिंब की रचना दर्शाइए। व्याख्या कीजिए कि आवर्धन एकसमान क्यों नहीं है। क्या
 प्रतिबिंब की विकृति दर्पण के सापेक्ष फोन की स्थिति पर निर्भर करती है?
 
-A'
-
-B
-
-A
-
->
-
-B'
-
-C
-
-F
-
-चित्र 9.7
-
-Reprint 2025-26
-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_7_hi.png" alt="चित्र 9.7" onclick="openImageModal(this.src, 'चित्र 9.7: fp=k 9.7...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.7</strong> fp=k 9.7</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 ---
 ## 📄 Page 7
@@ -736,7 +740,7 @@ m
 
 उदाहरण 9.4
 
-Reprint 2025-26
+
 
 227
 
@@ -798,28 +802,13 @@ ms¹, ms¹ तथा ms¹ होंगी।
 जब किसी पारदर्शी माध्यम में गमन करता कोई प्रकाश किरण-पुंज प्रकाश किरण-पुंज किसी दूसरे पारदर्शी माध्यम से
 टकराता है, तो प्रकाश का एक भाग पहले माध्यम में वापस परावर्तित हो जाता है। जबकि शेष भाग
 
-NCE
-
-(1)
-
-अभिलंब
-
-आपतित किरण
-
-परावर्तित किरण
-
-परावर्तक
-सतह
-
-(2)
-
-i
-
-i
-
-अपवर्तित किरण
-
-चित्र 9.8 प्रकाश का अपवर्तन तथा परावर्तन।
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_8_hi.png" alt="चित्र 9.8" onclick="openImageModal(this.src, 'चित्र 9.8: fp=k 9.8 izdk&#39;k dk viorZu rFkk ijkorZuA...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.8</strong> fp=k 9.8 izdk'k dk viorZu rFkk ijkorZuA</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 दूसरे माध्यम में प्रवेश करता है। हम प्रायः किसी किरण-पुंज को
 प्रकाश की किरण द्वारा निरूपित करते हैं। जब कोई प्रकाश की किरण
@@ -854,7 +843,7 @@ sinr
 यह है कि n₂₁ दो माध्यम के युगल का अभिलक्षण है (तथा यह प्रकाश की तरंगदैर्ध्य पर भी निर्भर
 करता है), परंतु यह आपतन कोण पर निर्भर नहीं करता।
 
-Reprint 2025-26
+
 
 
 ---
@@ -909,7 +898,24 @@ n21
 
 eptblish
 
-यदि n32 माध्यम 3 का माध्यम 2 के सापेक्ष अपवर्तनांक है चित्र 9.9 समांतर फलकों के स्लैब से अपवर्तित किसी प्रकाश
+यदि n32 माध्यम 3 का माध्यम 2 के सापेक्ष अपवर्तनांक है
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_9_hi.png" alt="चित्र 9.9" onclick="openImageModal(this.src, 'चित्र 9.9: ;fn n32 ekè;e 3 dk ekè;e 2 osQ lkis{k viorZukad gS rks ;g Hkh Li&quot;V gS fd n3...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.9</strong> ;fn n32 ekè;e 3 dk ekè;e 2 osQ lkis{k viorZukad gS rks ;g Hkh Li"V gS fd n32 = n31 × n12, ;gk¡ n31 ekè;e 3 dk ekè;e 1 osQ lkis{k viorZukad gSA viorZu osQ fu;eksa ij vk/kfjr oqQN izkjafHkd ifj.kke rqjar izkIr fd, tk ldrs gSaA fdlh vk;rkdkj LySc esa] viorZu nks varjki`"Bksa ij gksrk gS (ok;q&dk¡p rFkk dk¡p&ok;q)A fp=k 9.9 }kjk ;g vklkuh ls ns[kk tk ldrk gS fd r2 = i1, vFkkZr fuxZr fdj.k vkifrr fdj.k osQ lekarj gksrh gSµvkifrr fdj.k osQ lkis{k fuxZr fdj.k esa dksbZ fopyu ugha gksrk] ijarq blesa vkifrr fdj.k osQ lkis{k ikf'Zod foLFkkiu gks tkrk gSA ,d nwljk lqifjfpr izs{k.k ;g Hkh gS fd ty ls Hkjs fdlh rkykc dh isanh Åij mBh izrhr gksrh gS (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_10_hi.png" alt="चित्र 9.10" onclick="openImageModal(this.src, 'चित्र 9.10: fp=k 9.10 (a) vfHkyacor] rFkk (b) fr;Zd n&#39;kZu osQ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.10</strong> fp=k 9.10 (a) vfHkyacor] rFkk (b) fr;Zd n'kZu osQ</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
+<button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 तो यह भी स्पष्ट है कि n32 = n31 × n₁₂, यहाँ 31 माध्यम
 3 का माध्यम 1 के सापेक्ष अपवर्तनांक है।
@@ -968,10 +974,19 @@ h
 लिए आभासी गहराई।
 
 जब कोई प्रकाश किरण सघन माध्यम से विरल माध्यम में प्रवेश
-करती है तो यह अभिलंब से दूर मुड़ जाती है, उदाहरणार्थ, चित्र 9.11 में किरण AOB आपतित
+करती है तो यह अभिलंब से दूर मुड़ जाती है, उदाहरणार्थ,
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_11_hi.png" alt="चित्र 9.11" onclick="openImageModal(this.src, 'चित्र 9.11: tc dksbZ izdk&#39;k fdj.k l?ku ekè;e ls fojy ekè;e esa izos&#39;k djrh gS rks ;g...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.11</strong> tc dksbZ izdk'k fdj.k l?ku ekè;e ls fojy ekè;e esa izos'k djrh gS rks ;g vfHkyac ls nwj eqM+ tkrh gS] mnkgj.kkFkZ] fp=k 9.11 esa fdj.k AO1B vkifrr fdj.k AO1 va'kr% ijkofrZr (O1C) rFkk va'kr% ikjxfer vFkok viofrZr (O1B) gksrh gS] rFkk</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 किरण AO₁ अंशतः परावर्तित (O₁C) तथा अंशतः पारगमित अथवा अपवर्तित (O₁B) होती है, तथा
 
-Reprint 2025-26
+
 
 229
 
@@ -1084,9 +1099,7 @@ not to
 
 ### 1.62
 
-### 2.42
-
-क्रांतिक कोण
+### 2.42 क्रांतिक कोण
 
 48.75°
 
@@ -1110,22 +1123,20 @@ not to
 पृष्ठ पर टकराए। क्या आप देख पाते हैं कि इसमें आंशिक परावर्तन (जो मेज़ के नीचे एक बिंदु
 के रूप में दिखाई देगा) तथा आंशिक अपवर्तन (जो वायु में निकलकर छत पर एक बिंदु के रूप
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 11
 
-किरण प्रकाशिकी एवं
-प्रकाशिक यंत्र
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_12_hi.png" alt="चित्र 9.12" onclick="openImageModal(this.src, 'चित्र 9.12: esa fn[kkbZ nsxk) rFkk vkaf&#39;kd viorZu (tks ok;q esa fudydj Nr ij ,d fcanq os...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.12</strong> esa fn[kkbZ nsxk) rFkk vkaf'kd viorZu (tks ok;q esa fudydj Nr ij ,d fcanq osQ :i esa fn[kkbZ nsrk gS) gksrk gS [fp=k 9.12 (a)] ? vc yslj fdj.k&iqat dks chdj osQ ,d vksj ls bl izdkj Mkfy, fd ;g ty osQ Åijh i`"B ij fr;ZoQ Vdjk, [fp=k 9.12 (b)]A yslj fdj.k&iqat dh fn'kk dks bl izdkj lek;ksftr dhft, fd vkidks ,slk dks.k izkIr gks tk, ftlls ty osQ i`"B osQ mQij viorZu iw.kZ :i ls lekIr gks tk, rFkk fdj.k&iqat iw.kZ :i ls ty esa okil ijkofrZr gks tk,A ;g ljyre :i esa iw.kZ vkarfjd ijkorZu gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
 
-(a)
-
-(b)
-
-(c)
-
-चित्र 9.12 लेसर किरण-पुंज से जल में पूर्ण आंतरिक परावर्तन का प्रेक्षण करना (काँच का बीकर
 अत्यंत पतला होने के कारण इसमें होने वाले अपवर्तन को नगण्य माना गया है)।
 
 ished
@@ -1149,7 +1160,15 @@ ished
 
 प्रिज़्म : प्रकाश को 90° अथवा 180° पर मोड़ने
 के लिए डिज़ाइन किए गए प्रिज्मों में पूर्ण आंतरिक
-परावर्तन का उपयोग किया जाता है [चित्र 9.13 (a)
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_13_hi.png" alt="चित्र 9.13" onclick="openImageModal(this.src, 'चित्र 9.13: osQ fy, fM”kkbu fd, x, fizTeksa esa iw.kZ vkarfjd ijkorZu dk mi;ksx fd;k tkrk gS...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.13</strong> osQ fy, fM”kkbu fd, x, fizTeksa esa iw.kZ vkarfjd ijkorZu dk mi;ksx fd;k tkrk gS [fp=k 9.13 (a) rFkk (b)]A ,sls fiz”e dks izfrfcac osQ lkb”k esa fcuk dksbZ ifjorZu fd, myVus osQ fy, Hkh iz;ksx fd;k tkrk gS [fp=k 9.13 (c)]A igyh nks fLFkfr;ksa osQ fy,] fiz”e osQ inkFkZ osQ Økafrd dks.k ic dks</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 तथा (b)]। ऐसे प्रिज़्म को प्रतिबिंब के साइज़ में
 बिना कोई परिवर्तन किए उलटने के लिए भी प्रयोग
 किया जाता है [चित्र 9.13 (c)]। पहली दो स्थितियों
@@ -1219,7 +1238,7 @@ A
 
 231
 
-Reprint 2025-26
+
 
 
 ---
@@ -1236,7 +1255,15 @@ Reprint 2025-26
 जब प्रकाश के रूप में कोई संकेत उचित कोण पर तंतु के
 एक सिरे पर दिष्ट होता है तब यह उसकी लंबाई के अनुदिश
 बार-बार पूर्ण आंतरिक परावर्तित होता है तथा अंततः दूसरे सिरे
-से बाहर निकल आता है (चित्र 9.14)। क्योंकि प्रत्येक चरण
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_14_hi.png" alt="चित्र 9.14" onclick="openImageModal(this.src, 'चित्र 9.14: tc izdk&#39;k osQ :i esa dksbZ laosQr mfpr dks.k ij rarq osQ ,d fljs ij fn&quot;...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.14</strong> tc izdk'k osQ :i esa dksbZ laosQr mfpr dks.k ij rarq osQ ,d fljs ij fn"V gksrk gS rc ;g mldh yackbZ osQ vuqfn'k ckj&ckj iw.kZ vkarfjd ijkofrZr gksrk gS rFkk varr% nwljs fljs ls ckgj fudy vkrk gS (fp=k 9.14)A D;ksafd izR;sd pj.k esa izdk'k dk iw.kZ vkarfjd ijkorZu gksrk gS blfy, izdk'k laosQr dh rhozrk esa dksbZ fo'ks"k gkfu ugha gksrhA izdk'k rarq bl izdkj cuk, tkrs gSa fd ,d vksj osQ vkarfjd i`"B ij ijkofrZr gksus osQ i'pkr nwljs i`"B ij izdk'k Økafrd dks.k ls vf/d dks.k ij vkifrr gksrk gSA ;gk¡ rd fd rarq esa eqM+ko gksus ij Hkh izdk'k rarq osQ Hkhrj mldh yackbZ osQ vuqfn'k ljyrkiwoZd xeu dj ldrk gSA bl izdkj ,d izdk'k rarq izdkf'kr ikbi (ykbV ikbi) osQ :i esa iz;ksx fd;k tk ldrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
 में प्रकाश का पूर्ण आंतरिक परावर्तन होता है इसलिए प्रकाश
 संकेत की तीव्रता में कोई विशेष हानि नहीं होती। प्रकाश तंतु इस
 प्रकार बनाए जाते हैं कि एक ओर के आंतरिक पृष्ठ पर परावर्तित
@@ -1282,14 +1309,21 @@ no
 
 9.5.1 किसी गोलीय पृष्ठ पर अपवर्तन
 
-चित्र 9.15 में वक्रता त्रिज्या R तथा वक्रता केंद्र C के गोलीय पृष्ठ के मुख्य अक्ष पर स्थित किसी
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_15_hi.png" alt="चित्र 9.15" onclick="openImageModal(this.src, 'चित्र 9.15: 9.5.1 fdlh xksyh; i`&quot;B ij viorZu fp=k 9.15 esa oØrk f=kT;k R rFkk oØrk osaQ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.15</strong> 9.5.1 fdlh xksyh; i`"B ij viorZu fp=k 9.15 esa oØrk f=kT;k R rFkk oØrk osaQæ C osQ xksyh; i`"B osQ eq[; v{k ij fLFkr fdlh oLrq osQ fcanq O osQ izfrfcac I dh jpuk dh T;kfefr n'kkZ;h xbZ gSA izdk'k fdj.ksa n1 viorZukad osQ fdlh ekè;e ls vkifrr gksdj n2 viorZukad osQ fdlh vU; ekè;e esa tkrh gSaA igys dh Hkk¡fr] ge i`"B dk }kjd (vFkok ik'oZ lkb”k) vU; lac¼ nwfj;ksa dh rqyuk esa dkI+kQh NksVk ysrs gSa rkfd vko';drkuqlkj y?kq dks.k lfUudVu fd;k tk losQA fo'ks"k :i ls ge NM dks N ls eq[; v{k ij yac dh yackbZ osQ yxHkx cjkcj ysaxsA ;gk¡ ij</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
 वस्तु के बिंदु O के प्रतिबिंब 1 की रचना की ज्यामिति दर्शायी गई है। प्रकाश किरणें n₁ अपवर्तनांक
 के किसी माध्यम से आपतित होकर n₂ अपवर्तनांक के किसी अन्य माध्यम में जाती हैं। पहले की
 भाँति, हम पृष्ठ का द्वारक (अथवा पार्श्व साइज़) अन्य संबद्ध दूरियों की तुलना में काफ़ी छोटा लेते
 हैं ताकि आवश्यकतानुसार लघु कोण सन्निकटन किया जा सके। विशेष रूप से हम NM को N
 से मुख्य अक्ष पर लंब की लंबाई के लगभग बराबर लेंगे। यहाँ पर
 
-Reprint 2025-26
+
 
 
 ---
@@ -1433,7 +1467,7 @@ vu
 
 u = 100 cm, v = ?, R = + 20 cm, n₁ = 1, तथा n₂ = 1.5 रखने पर
 
-Reprint 2025-26
+
 
 उदाहरण 9.5
 
@@ -1465,9 +1499,14 @@ Reprint 2025-26
 
 प्रतिबिंब आपतित प्रकाश की दिशा में काँच के पृष्ठ से 100 cm की दूरी पर बनेगा।
 
-9.5.2 किसी लेंस द्वारा अपवर्तन
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_16_hi.png" alt="चित्र 9.16" onclick="openImageModal(this.src, 'चित्र 9.16: 9.5.2 fdlh ysal }kjk viorZu fp=k 9.16 (a) esa fdlh mHk;ksÙky ysal }kjk izfrfcac&...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.16</strong> 9.5.2 fdlh ysal }kjk viorZu fp=k 9.16 (a) esa fdlh mHk;ksÙky ysal }kjk izfrfcac&jpuk dh T;kfefr n'kkZ;h xbZ gSA bl izfrfcac dh jpuk dks nks pj.kksa esa ns[kk tk ldrk gS % (i) igyk viorhZ i`"B fcac O dk izfrfcac I1 cukrk gS [fp=k 9.16 (b)]A izfrfcac I1 nwljs i`"B }kjk izfrfcac I cuus osQ fy, vkHkklh fcac dh</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
-चित्र 9.16 (a) में किसी उभयोत्तल लेंस द्वारा प्रतिबिंब-रचना की ज्यामिति दर्शायी गई है। इस
 प्रतिबिंब की रचना को दो चरणों में देखा जा सकता है : (i) पहला अपवर्ती पृष्ठ बिंब O का प्रतिबिंब 1,
 बनाता है [चित्र 9.16 (b)]। प्रतिबिंब 1, दूसरे पृष्ठ द्वारा प्रतिबिंब I बनने के लिए आभासी बिंब की
 भाँति कार्य करता है [चित्र 9.16 (c)]। समीकरण (9.15)
@@ -1615,7 +1654,7 @@ RR
 नोट कीजिए अब ADC के दायीं ओर के माध्यम का अपवर्तनांक n₁ है जबकि इसके बायीं ओर यह n₂ है।
 इसके अतिरिक्त DI₁ ऋणात्मक है क्योंकि दूरी आपतित प्रकाश की दिशा के विपरीत दिशा में मापी गई है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1736,7 +1775,7 @@ F'
 
 भाँति यहाँ भी किसी लेंस के लिए यह सरलता से देखा जा सकता है कि
 
-Reprint 2025-26
+
 
 235
 
@@ -1786,7 +1825,14 @@ f→ ∞ प्राप्त होगा। द्रव के अंदर 
 अपवर्तित किरण अपसरित होती है। किसी लेंस की क्षमता P को उस कोण
 की स्पर्शज्या से परिभाषित करते हैं, जिससे यह किसी मुख्य अक्ष के समांतर
 प्रकाश पुंज को जो प्रकाशिक केंद्र से एकांक दूरी पर आकर गिरता है,
-अभिसरित या अपसरित करता है। (चित्र 9.18)।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_18_hi.png" alt="चित्र 9.18" onclick="openImageModal(this.src, 'चित्र 9.18: mÙky ysal esa viofrZr fdj.k vfHklfjr gksrh gS rFkk vory ysal esa viofrZr fdj.k v...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.18</strong> mÙky ysal esa viofrZr fdj.k vfHklfjr gksrh gS rFkk vory ysal esa viofrZr fdj.k vilfjr gksrh gSA fdlh ysal dh {kerk P dks ml dks.k dh Li'kZT;k ls ifjHkkf"kr djrs gSa] ftlls ;g fdlh eq[; v{k OksQ lekarj izdk'k iaqt dks tks izdkf'kd osaQæ ls ,dkad nwjh ij vkdj fxjrk gS] vfHklfjr ;k vilfjr djrk gSA (fp=k 9.18)A</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
 δ
 
@@ -1848,7 +1894,7 @@ f
 
 वायु का अपवर्तनांक 1 माना जाता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1897,8 +1943,16 @@ publised
 
 एक-दूसरे के संपर्क में रखे f₁ तथा f₂ फ़ोकस दूरियों के दो पतले
 लेंसों A तथा B पर विचार कीजिए। मान लीजिए कोई बिंब पहले
-लेंस A के फ़ोकस से दूर किसी बिंदु O पर स्थित है (चित्र
-9.19)। पहला लेंस बिंदु 1, पर प्रतिबिंब बनाता है। क्योंकि प्रतिबिंब
+लेंस A के फ़ोकस से दूर किसी बिंदु O पर स्थित है (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_19_hi.png" alt="चित्र 9.19" onclick="openImageModal(this.src, 'चित्र 9.19: ,d&nwljs osQ laioZQ esa j[ks f1 rFkk f2 i+Qksdl nwfj;ksa osQ nks irys ysalksa A ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.19</strong> ,d&nwljs osQ laioZQ esa j[ks f1 rFkk f2 i+Qksdl nwfj;ksa osQ nks irys ysalksa A rFkk B ij fopkj dhft,A eku yhft, dksbZ fcac igys ysal A osQ i+Qksdl ls nwj fdlh fcanq O ij fLFkr gS (fp=k 9.19)A igyk ysal ¯cnq I1 ij izfrfcac cukrk gSA D;ksafd izfrfcac I1 okLrfod gS] vr% ;g nwljs ysal B osQ fy, vkHkklh ¯cc dh Hkk¡fr dk;Z djrk gS rFkk vafre izfrfcac I ij curk gSA gesa bl ckr dks le> ysuk pkfg, fd igys ysal ls izfrfcac dk cuuk] osQoy vafre izfrfcac dh fLFkfr fu/kZfjr djus osQ fy,] ekuk x;k gSA okLro esa igys ysal ls fudyus okyh fdj.kksa dh fn'kk] muosQ nwljs ysal ls Vdjkus okys dks.k osQ vuqlkj ifjofrZr gks tkrh gSA D;ksafd ysal irys gSa] ge nksuksa ysalksa osQ izdkf'kd osaQæksa dks laikrh eku ldrs gSaA eku yhft, ;g osQaæh; fcanq P }kjk fufnZ"V gksrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 I, वास्तविक है, अतः यह दूसरे लेंस B के लिए आभासी बिंब की
 भाँति कार्य करता है तथा अंतिम प्रतिबिंब I पर बनता है। हमें इस बात
 को समझ लेना चाहिए कि पहले लेंस से प्रतिबिंब का बनना, केवल
@@ -1970,7 +2024,7 @@ f₂
 
 f
 
-Reprint 2025-26
+
 
 (9.29)
 
@@ -2031,7 +2085,13 @@ m = m₁ m₂ m3..
 इस प्रकार के लेंसों के संयोजन सामान्यतः कैमरों, सूक्ष्मदर्शियों, दूरबीनों तथा अन्य प्रकाशिक
 यंत्रों के लेंसों के डिज़ाइन में उपयोग किए जाते हैं।
 
-उदाहरण 9.8 चित्र 9.20 में
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_20_hi.png" alt="चित्र 9.20" onclick="openImageModal(this.src, 'चित्र 9.20: mnkgj.k 9.8 fp=k 9.20 esa fn, x, ysalksa osQ la;kstu }kjk fufeZr izfrfcac dh fLF...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.20</strong> mnkgj.k 9.8 fp=k 9.20 esa fn, x, ysalksa osQ la;kstu }kjk fufeZr izfrfcac dh fLFkfr Kkr dhft,A</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
 
 ज्ञात त कीजिए। कीजि
 
@@ -2067,7 +2127,7 @@ cm
 पहले लेंस द्वारा निर्मित प्रतिबिंब दूसरे लेंस के लिए बिंब की भाँति कार्य करता है। यह दूसरे लेंस
 के दायीं ओर (15 – 5) cm = 10 cm दूरी पर है। यद्यपि प्रतिबिंब वास्तविक है परंतु यह दूसरे
 
-Reprint 2025-26
+
 
 
 ---
@@ -2122,11 +2182,14 @@ U3
 
 अंतिम प्रतिबिंब तीसरे लेंस के दायीं ओर 30 cm दूरी पर बनता है।
 
-9.6 प्रिज़्म में अपवर्तन
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_21_hi.png" alt="चित्र 9.21" onclick="openImageModal(this.src, 'चित्र 9.21: fp=k 9.21 dk¡p osQ f=kHkqtkdkj fç”e ls fdlh izdk&#39;k fdj.k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.21</strong> fp=k 9.21 dk¡p osQ f=kHkqtkdkj fç”e ls fdlh izdk'k fdj.k</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
 
-lised
-
-चित्र 9.21 में किसी प्रिज़्म ABC से प्रकाश किरण को गुज़रते हुए दर्शाया गया है। पहले फलक
 AB पर आपतन कोण तथा अपवर्तन कोण क्रमशः i तथा r₁ हैं, जबकि दूसरे फलक (काँच से वायु
 में) AC पर आपतन कोण r₂ तथा अपवर्तन कोण या निर्गत कोण e हैं। निर्गत किरण RS तथा
 आपतित किरण की दिशा PQ के बीच के कोण को विचलन कोण 8 कहते हैं।
@@ -2163,7 +2226,7 @@ r₁ + r₂ + ∠QNR = 180°
 
 2
 
-Reprint 2025-26
+
 
 239
 
@@ -2180,27 +2243,13 @@ r₁ + r₂ = A
 
 कुल विचलन 8 दोनों फलकों पर विचलनों का योग है:
 
-d = (i – r₁ ) + (e – r₂)
-
-अर्थात, 8 = i + e-A
-
-(9.35)
-
-60°-
-
-50°-
-
-40
-
-30°
-
-i = e'
-
-blished
-
-ERT
-
-चित्र 9.22
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_22_hi.png" alt="चित्र 9.22" onclick="openImageModal(this.src, 'चित्र 9.22: fp=k 9.22 fdlh f=kHkqtkdkj fç”e osQ fy, vkiru dks.k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.22</strong> fp=k 9.22 fdlh f=kHkqtkdkj fç”e osQ fy, vkiru dks.k</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
 
 आपतन कोण (i)
 
@@ -2261,7 +2310,7 @@ sin r
 
 sin[A/2]
 
-Reprint 2025-26
+
 
 
 ---
@@ -2308,7 +2357,15 @@ sh
 9.7.1 सूक्ष्मदर्शी
 
 सरल आवर्धक अथवा सरल सूक्ष्मदर्शी कम फ़ोकस दूरी का एक अभिसारी लेंस होता है
-(चित्र 9.23)। इस प्रकार के लेंस को सूक्ष्मदर्शी के रूप में प्रयोग करने के लिए, लेंस को बिंब
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_23_hi.png" alt="चित्र 9.23" onclick="openImageModal(this.src, 'चित्र 9.23: (fp=k 9.23)A bl izdkj osQ ysal dks lw{en&#39;khZ osQ :i esa iz;ksx djus osQ fy,]...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.23</strong> (fp=k 9.23)A bl izdkj osQ ysal dks lw{en'khZ osQ :i esa iz;ksx djus osQ fy,] ysal dks fcac osQ fudV mlls ,d i+Qksdl nwjh vFkok mlls de nwjh ij j[kk tkrk gS rFkk ysal osQ nwljh vksj us=k dks ysal ls lVkdj j[kk tkrk gSA ,slk djus dk y{; gS fd fcac dk lh/k] vkof/Zr rFkk vkHkklh izfrfcac fdlh ,slh nwjh ij cus fd us=k mls ljyrkiwoZd ns[k losaQ] vFkkZr izfrfcac</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
+
 के निकट उससे एक फ़ोकस दूरी अथवा उससे कम दूरी पर रखा जाता है तथा लेंस के दूसरी ओर
 नेत्र को लेंस से सटाकर रखा जाता है। ऐसा करने का लक्ष्य है कि बिंब का सीधा, आवर्धित तथा
 आभासी प्रतिबिंब किसी ऐसी दूरी पर बने कि नेत्र उसे सरलतापूर्वक देख सकें, अर्थात प्रतिबिंब
@@ -2330,7 +2387,7 @@ m==-=(-)
 
 241
 
-Reprint 2025-26
+
 
 
 ---
@@ -2371,7 +2428,7 @@ h θί
 के समान है तथा (c) बिंब लेंस के फ़ोकस बिंदु पर, प्रतिबिंब बहुत दूर है लेकिन
 अनंत से पास है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -2474,11 +2531,20 @@ h_f
 
 वास्तविक फ़ोकस दूरियों के लेंसों के लिए किसी सरल सूक्ष्मदर्शी का अधिकतम आवर्धन
 (≤ 9) होता है। अधिक आवर्धन के लिए दो लेंसों का उपयोग किया जाता है, जिनमें एक लेंस दूसरे
-लेंस के प्रभाव को संयुक्त (बढ़ाता) करता है। इसे संयुक्त सूक्ष्मदर्शी कहते हैं। चित्र 9.24 में संयुक्त
+लेंस के प्रभाव को संयुक्त (बढ़ाता) करता है। इसे संयुक्त सूक्ष्मदर्शी कहते हैं।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_24_hi.png" alt="चित्र 9.24" onclick="openImageModal(this.src, 'चित्र 9.24: (≤ 9) gksrk gSA vf/d vko/Zu osQ fy, nks ysalksa dk mi;ksx fd;k tkrk gS] ftuesa ,...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.24</strong> (≤ 9) gksrk gSA vf/d vko/Zu osQ fy, nks ysalksa dk mi;ksx fd;k tkrk gS] ftuesa ,d ysal nwljs ysal osQ izHkko dks la;qDr (c<+krk) djrk gSA bls la;qDr lw{en'khZ dgrs gSaA fp=k 9.24 esa la;qDr lw{en'khZ dk O;oLFkk vkjs[k n'kkZ;k x;k gSA fcac osQ lcls fudV osQ ysal dks vfHkn`';d</span>
+    <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
+  </div>
+</div>
+
 सूक्ष्मदर्शी का व्यवस्था आरेख दर्शाया गया है। बिंब के सबसे निकट के लेंस को अभिदृश्यक
 (objective) कहते हैं जो बिंब का वास्तविक, उलटा, आवर्धित प्रतिबिंब बनाता है। यह प्रतिबिंब
 
-Reprint 2025-26
+
 
 243
 
@@ -2582,7 +2648,7 @@ fe
 
 [9.44(a)]
 
-Reprint 2025-26
+
 
 
 ---
@@ -2645,11 +2711,15 @@ ERT
 अन्य विभिन्न कारक जैसे वस्तु की प्रदीप्ति भी प्रतिबिंब की
 योगदान देते हैं। आधुनिक सूक्ष्मदर्शियों में, अभिदृश्यक तथा नेत्रिका बहुअवयवी लेंसों द्वारा बनाए जाते
 हैं, जिनके कारण लेंसों के प्रकाशिक विपथनों (दोष) को कम करके प्रतिबिंबों की गुणता में सुधार
-किया जाता है।
 
-9.7.2 दूरदर्शक
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_25_hi.png" alt="चित्र 9.25" onclick="openImageModal(this.src, 'चित्र 9.25: nwjn&#39;kZd vFkok nwjchu (fp=k 9.25) dk mi;ksx nwj dh oLrqvksa dks dks.kh; vko/...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.25</strong> nwjn'kZd vFkok nwjchu (fp=k 9.25) dk mi;ksx nwj dh oLrqvksa dks dks.kh; vko/Zu iznku djus osQ fy, fd;k tkrk gSA blesa Hkh ,d vfHkn`';d rFkk ,d usf=kdk gksrh gSA ijarq ;gk¡ ij] usf=kdk dh vis{kk vfHkn`';d dh i+Qksdl nwjh vf/d rFkk bldk }kjd Hkh dkI+kQh vf/d gksrk gSA fdlh nwjLFk fcac ls pydj izdk'k vfHkn`';d esa izos'k djrk gS rFkk V~;wc osQ vanj blosQ f}rh; i+Qksdl ij okLrfod izfrfcac curk gSA usf=kdk bl izfrfcac dks vkof/Zr djosQ vafre myVk izfrfcac cukrh gSA vko/Zu {kerk m, izfrfcac }kjk us=k ij varfjr dks.k β rFkk fcac }kjk us=k ij vFkok ysal ij varfjr dks.k α osQ vuqikr }kjk ifjHkkf"kr fd;k tkrk gSA vr%</span>
+    <button class="icon-btn" onclick="goToPdfPage(25)">📄 View in PDF (Page 25)</button>
+  </div>
+</div>
 
-दूरदर्शक अथवा दूरबीन (चित्र 9.25) का उपयोग दूर की वस्तुओं को कोणीय आवर्धन प्रदान करने
 के लिए किया जाता है। इसमें भी एक अभिदृश्यक तथा एक नेत्रिका होती है। परंतु यहाँ पर, नेत्रिका
 की अपेक्षा अभिदृश्यक की फ़ोकस दूरी अधिक तथा इसका द्वारक भी काफ़ी अधिक होता है। किसी
 दूरस्थ बिंब से चलकर प्रकाश अभिदृश्यक में प्रवेश करता है तथा ट्यूब के अंदर इसके द्वितीय
@@ -2685,7 +2755,7 @@ m = 100/1 = 100
 
 245
 
-Reprint 2025-26
+
 
 
 ---
@@ -2733,16 +2803,13 @@ ed
 इतने बड़े साइज़ के लेंसों को इस प्रकार बनाना कि प्रतिबिंबों में वर्ण विपथन तथा अन्य विरूपण
 न आएँ, बहुत कठिन तथा महँगा कार्य है।
 
-not
-
-द्वितीयक
-दर्पण
-
-246
-
-चित्र 9.26 परावर्ती दूरदर्शक (कैसेग्रेन) का व्यवस्था आरेख।
-
-Reprint 2025-26
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_26_hi.png" alt="चित्र 9.26" onclick="openImageModal(this.src, 'चित्र 9.26: fp=k 9.26 ijkorhZ nwjn&#39;kZd (oSQlsxzsu) dk O;oLFkk vkjs[kA...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.26</strong> fp=k 9.26 ijkorhZ nwjn'kZd (oSQlsxzsu) dk O;oLFkk vkjs[kA</span>
+    <button class="icon-btn" onclick="goToPdfPage(26)">📄 View in PDF (Page 26)</button>
+  </div>
+</div>
 
 अभिदृश्यक
 दर्पण
@@ -2801,7 +2868,7 @@ shed
 
 247
 
-Reprint 2025-26
+
 
 
 ---
@@ -2904,7 +2971,7 @@ P = P₁ + P2 + P3 +
 
 7. प्रकाश का परिक्षेपण, प्रकाश का अपने संघटक वर्णों में विपाटन (विघटन) होता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -2971,7 +3038,7 @@ published
 
 249
 
-Reprint 2025-26
+
 
 
 ---
@@ -3011,7 +3078,15 @@ cm दूरी पर रखी है। दर्पण से किसी �
 किसी सुई की आभासी गहराई 9.4 cm मापी जाती है। जल का अपवर्तनांक क्या है? बीकर
 में उसी ऊँचाई तक जल के स्थान पर किसी 1.63 अपवर्तनांक के अन्य द्रव से प्रतिस्थापन करने
 पर सुई को पुनः फ़ोकसित करने के लिए सूक्ष्मदर्शी को कितना ऊपर/नीचे ले जाना होगा?
-चित्र 9.27 (a) तथा (b) में किसी आपतित किरण का अपवर्तन दर्शाया गया है जो वायु में
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_27_hi.png" alt="चित्र 9.27" onclick="openImageModal(this.src, 'चित्र 9.27: 9.4 fp=k 9.27 (a) rFkk (b) esa fdlh vkifrr fdj.k dk viorZu n&#39;kkZ;k x;k gS tk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.27</strong> 9.4 fp=k 9.27 (a) rFkk (b) esa fdlh vkifrr fdj.k dk viorZu n'kkZ;k x;k gS tks ok;q esa Øe'k% dk¡p&ok;q rFkk ty&ok;q varjki`"B osQ vfHkyac ls 60o dk dks.k cukrh gSA ml vkifrr fdj.k dk viorZu dks.k Kkr dhft,] tks ty esa ty&dk¡p varjki`"B osQ vfHkyac ls 45o dk dks.k cukrh gS ¹fp=k 9.27 (c)ºA</span>
+    <button class="icon-btn" onclick="goToPdfPage(30)">📄 View in PDF (Page 30)</button>
+  </div>
+</div>
+
 क्रमशः काँच-वायु तथा जल-वायु अंतरापृष्ठ के अभिलंब से 60° का कोण बनाती है। उस
 आपतित किरण का अपवर्तन कोण ज्ञात कीजिए, जो जल में जल-काँच अंतरापृष्ठ के अभिलंब
 से 45° का कोण बनाती है [चित्र 9.27 (c)]।
@@ -3062,7 +3137,7 @@ C
 (अपवर्तनांक 1.33) में रख दिया जाए तो प्रकाश के समांतर पुंज के लिए नए न्यूनतम विचलन
 कोण का परिकलन कीजिए।
 
-Reprint 2025-26
+
 
 
 ---
@@ -3143,7 +3218,7 @@ Reprint 2025-26
 (नोट : यह अभ्यास आपकी बीजगणितीय विधि द्वारा उन प्रतिबिंबों के गुण व्युत्पन्न करने में
 सहायता करेगा जिन्हें हम किरण आरेखों द्वारा प्राप्त करते हैं।)
 
-Reprint 2025-26
+
 
 251
 
@@ -3164,7 +3239,14 @@ Reprint 2025-26
 
 9.17 निम्नलिखित प्रश्नों के उत्तर लिखिए :
 
-(a) चित्र 9.28 में अपवर्तनांक 1.68 के तंतु काँच से बनी किसी ‘प्रकाश नलिका' (लाइट पाइप)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_28_hi.png" alt="चित्र 9.28" onclick="openImageModal(this.src, 'चित्र 9.28: (a) fp=k 9.28 esa viorZukad 1.68 osQ rarq dk¡p ls cuh fdlh ^izdk&#39;k ufydk* (y...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.28</strong> (a) fp=k 9.28 esa viorZukad 1.68 osQ rarq dk¡p ls cuh fdlh ^izdk'k ufydk* (ykbV ikbi)</span>
+    <button class="icon-btn" onclick="goToPdfPage(32)">📄 View in PDF (Page 32)</button>
+  </div>
+</div>
+
 का अनुप्रस्थ परिच्छेद दर्शाया गया है। नलिका का बाह्य आवरण 1.44 अपवर्तनांक के पदार्थ
 
 का बना है। नलिका के अक्ष से आपतित किरणों के कोणों का परिसर, जिनके लिए चित्र
@@ -3215,7 +3297,7 @@ not to
 
 (c) क्या (a) में आवर्धन क्षमता (b) में आवर्धन के बराबर है? स्पष्ट कीजिए।
 
-Reprint 2025-26
+
 
 
 ---
@@ -3290,7 +3372,7 @@ shed
 (c) यदि अंतिम प्रतिबिंब 25 cm दूर बनता है तो अंतिम प्रतिबिंब में मीनार की ऊँचाई
 क्या है?
 
-Reprint 2025-26
+
 
 253
 
@@ -3305,7 +3387,16 @@ Reprint 2025-26
 220 mm हो तथा छोटे दर्पण की वक्रता त्रिज्या 140 mm हो तो अनंत पर रखे किसी बिंब
 का अंतिम प्रतिबिंब कहाँ बनेगा?
 
-9.30 किसी गैल्वेनोमीटर की कुंडली से जुड़े समतल दर्पण पर लंबवत आपतित प्रकाश (चित्र 9.29),
+9.30 किसी गैल्वेनोमीटर की कुंडली से जुड़े समतल दर्पण पर लंबवत आपतित प्रकाश (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_29_hi.png" alt="चित्र 9.29" onclick="openImageModal(this.src, 'चित्र 9.29: 9.30 fdlh xSYosuksehVj dh oqaQMyh ls tqM+s lery niZ.k ij yacor vkifrr izdk&#39;k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.29</strong> 9.30 fdlh xSYosuksehVj dh oqaQMyh ls tqM+s lery niZ.k ij yacor vkifrr izdk'k (fp=k 9.29)] niZ.k ls Vdjkdj viuk iFk iqu% vuqjsf[kr djrk gSA xSYosuksehVj dh oqaQMyh esa izokfgr dksbZ /kjk niZ.k esa 3.5º dk ifj{ksi.k mRiUu djrh gSaA niZ.k osQ lkeus 1.5 m nwjh ij j[ks ijns ij izdk'k osQ ijkorhZ fpÉ esa fdruk foLFkkiu gksxk\</span>
+    <button class="icon-btn" onclick="goToPdfPage(34)">📄 View in PDF (Page 34)</button>
+  </div>
+</div>
+
 दर्पण से टकराकर अपना पथ पुनः अनुरेखित करता है। गैल्वेनोमीटर की कुंडली में प्रवाहित कोई
 धारा दर्पण में 3.5° का परिक्षेपण उत्पन्न करती हैं। दर्पण के सामने 1.5m दूरी पर रखे परदे
 पर प्रकाश के परावर्ती चिह्न में कितना विस्थापन होगा?
@@ -3325,13 +3416,12 @@ not to be oblished
 के अनुदिश ऊपर-नीचे गति कराकर इस प्रकार समायोजित की जाती है कि सुई की नोंक का
 उलटा प्रतिबिंब सुई की स्थिति पर ही बने। इस स्थिति में सुई की लेंस से दूरी 45.0 cm है। द्रव
 को हटाकर प्रयोग को दोहराया जाता है। नयी दूरी 30.0 cm मापी जाती है। द्रव का अपवर्तनांक
-क्या है?
 
-QPP' 9'
-
-254
-
-Reprint 2025-26
-
-चित्र 9.30
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_30_hi.png" alt="चित्र 9.30" onclick="openImageModal(this.src, 'चित्र 9.30: 9.31 fp=k 9.30 esa dksbZ leksÙky ysal (viorZukad 1-50) fdlh lery niZ.k osQ iQyd ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.30</strong> 9.31 fp=k 9.30 esa dksbZ leksÙky ysal (viorZukad 1-50) fdlh lery niZ.k osQ iQyd ij fdlh nzo dh ijr osQ laioQZ esa n'kkZ;k x;k gSA dksbZ NksVh lqbZ ftldh uksad eq[; v{k ij gS] v{k osQ vuqfn'k Åij&uhps xfr djkdj bl izdkj lek;ksftr dh tkrh gS fd lqbZ dh uksad dk myVk izfr¯cc lqbZ dh fLFkfr ij gh cusA bl fLFkfr esa lqbZ dh ysal ls nwjh 45.0 cm gSA nzo dks gVkdj iz;ksx dks nksgjk;k tkrk gSA u;h nwjh 30.0 cm ekih tkrh gSA nzo dk viorZukad D;k gS\</span>
+    <button class="icon-btn" onclick="goToPdfPage(34)">📄 View in PDF (Page 34)</button>
+  </div>
+</div>
 

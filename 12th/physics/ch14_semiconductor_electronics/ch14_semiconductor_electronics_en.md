@@ -7,7 +7,7 @@
 
 Chapter Fourteen
 
-12090CH14
+
 
 SEMICONDUCTOR
 ELECTRONICS:
@@ -40,7 +40,7 @@ the number and the direction of flow of charge carriers through them.
 Simple excitations like light, heat or small applied voltage can change
 the number of mobile charges in a semiconductor. Note that the supply
 
-Reprint 2025-26
+
 
 
 ---
@@ -144,7 +144,7 @@ could be:
 Most of the currently available semiconductor devices are based on
 elemental semiconductors Si or Ge and compound inorganic
 semiconductors. However, after 1990, a few semiconductor devices using
-Reprint 2025-26
+
 
 
 ---
@@ -213,7 +213,15 @@ g
 
 At the distance between the atoms in the crystal lattices of Si and Ge,
 the energy band of these 8N states is split apart into two which are
-separated by an energy gap E (Fig. 14.1). The lower band which is
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_1.png" alt="Fig. 14.1" onclick="openImageModal(this.src, 'Fig. 14.1: At the distance between the atoms in the crystal lattices of Si and Ge, the ener...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.1</strong> At the distance between the atoms in the crystal lattices of Si and Ge, the energy band of these 8N states is split apart into two which are separated by an energy gap Eg (Fig. 14.1). The lower band which is completely occupied by the 4N valence electrons at temperature of absolute zero is the valence band. The other band consisting of 4N energy states, called the conduction band, is completely empty at absolute zero. Reprint 2025-26</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 completely occupied by the 4N valence electrons at temperature of absolute
 zero is the valence band. The other band consisting of 4N energy states,
 called the conduction band, is completely apply20252@solute zero.
@@ -265,8 +273,15 @@ band and bottom of the conduction band
 is called the energy band gap (Energy gap
 E). It may be large, small, or zero,
 depending upon the material. These
-different situations, are depicted in Fig.
-14.2 and discussed below:
+different situations, are depicted in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_2.png" alt="Fig. 14.2" onclick="openImageModal(this.src, 'Fig. 14.2: The gap between the top of the valence band and bottom of the conduction band is...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.2</strong> The gap between the top of the valence band and bottom of the conduction band is called the energy band gap (Energy gap Eg). It may be large, small, or zero, depending upon the material. These different situations, are depicted in Fig. 14.2 and discussed below: Case I: This refers to a situation, as shown in Fig. 14.2(a). One can have a metal either when the conduction band is partially filled and the balanced band is partially empty or when the conduction and valance bands overlap. When there is overlap electrons from valence band can easily move into the conduction band. This situation makes a large number of electrons available for electrical conduction. When the valence band is partially empty, electrons from its lower level can move to higher level making conduction possible. Therefore, the resistance of such materials is low or the conductivity is high.</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 Case I: This refers to a situation, as
 shown in Fig. 14.2(a). One can have a
@@ -336,7 +351,7 @@ Ev
 FIGURE 14.2 Difference between energy bands of (a) metals,
 (b) insulators and (c) semiconductors.
 
-Reprint 2025-26
+
 
 (c)
 
@@ -376,7 +391,32 @@ learn the conduction process in semiconductors.
 ublished
 
 We shall take the most common case of Ge and Si whose
-lattice structure is shown in Fig. 14.3. These structures
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_3.png" alt="Fig. 14.3" onclick="openImageModal(this.src, 'Fig. 14.3: We shall take the most common case of Ge and Si whose lattice structure is shown...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.3</strong> We shall take the most common case of Ge and Si whose lattice structure is shown in Fig. 14.3. These structures are called the diamond-like structures. Each atom is surrounded by four nearest neighbours. We know that Si and Ge have four valence electrons. In its crystalline structure, every Si or Ge atom tends to share one of its four valence electrons with each of its four nearest neighbour atoms, and also to take share of one electron from each such neighbour. These shared electron pairs are referred to as forming a covalent bond or simply a valence bond. The two shared electrons can be assumed to shuttle back-and-forth between the associated atoms holding them together strongly.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_4.png" alt="Fig. 14.4" onclick="openImageModal(this.src, 'Fig. 14.4: FIGURE 14.4 Schematic two-dimensional representation of Si or Ge structure showi...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.4</strong> FIGURE 14.4 Schematic two-dimensional representation of Si or Ge structure showing</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_5.png" alt="Fig. 14.5" onclick="openImageModal(this.src, 'Fig. 14.5: in Fig. 14.5(a). The movement of holes can be visualised as shown in Fig. 14.5(b...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.5</strong> in Fig. 14.5(a). The movement of holes can be visualised as shown in Fig. 14.5(b). An electron from the covalent bond at site 2 may jump to the vacant site 1 (hole). Thus, after such a jump, the hole is at site 2 and the site 1 has now an electron. Therefore, apparently, the hole has moved from site 1 to site 2. Note that the electron originally set free [Fig. 14.5(a)] is not involved in this process of hole motion. The free electron moves completely independently as conduction electron and gives rise to an electron current, Ie under an applied electric field. Remember that the motion of hole is only a convenient way of describing the actual motion of bound electrons, whenever there is an empty bond anywhere in the crystal. Under the action of an electric field, these holes move towards negative potential giving the hole current, Ih. The total current, I is thus the sum of the electron current Ie and the hole current Ih: I = Ie + Ih (14.2) It may be noted that apart from the process of generation of conduction electrons and holes, a simultaneous process of recombination occurs in which the electrons recombine with the holes. At equilibrium, the rate of generation is equal to the rate of recombination of charge carriers. The recombination occurs due to an electron colliding with a hole.</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
+<button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 are called the diamond-like structures. Each atom is
 surrounded by four nearest neighbours. We know that
 Si and Ge have four valence electrons. In its crystalline
@@ -426,7 +466,7 @@ where n₁ is called intrinsic carrier concentration.
 Semiconductors posses the unique property in which, apart from
 electrons, the holes also move. Suppose there is a hole at site 1 as shown
 
-Reprint 2025-26
+
 
 327
 
@@ -575,19 +615,20 @@ possible thermal motion of a hole. The electron from the lower left hand covalen
 (site 2) goes to the earlier hole sitel, leaving a hole at its site indicating an
 apparent movement of the hole from site 1 to site 2.
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 7
 
-Semiconductor Electronics:
-Materials, Devices and
-Simple Circuits
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_6.png" alt="Fig. 14.6" onclick="openImageModal(this.src, 'Fig. 14.6: An intrinsic semiconductor will behave like an insulator at T = 0 K as shown in ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.6</strong> An intrinsic semiconductor will behave like an insulator at T = 0 K as shown in Fig. 14.6(a). It is the thermal energy at higher temperatures (T > 0K), which excites some electrons from the valence band to the conduction band. These thermally excited electrons at T > 0 K, partially occupy the conduction band. Therefore, the energy-band diagram of an intrinsic semiconductor will be as shown in Fig. 14.6(b). Here, some electrons are shown in the conduction band. These have come from the valence band leaving equal number of holes there.</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
-An intrinsic semiconductor
-will behave like an insulator at
-T=0 Kas shown in Fig. 14.6(a).
 It is the thermal energy at
 higher temperatures (T > 0K),
 which excites some electrons
@@ -671,7 +712,7 @@ EXAMPLE 14.1
 
 329
 
-Reprint 2025-26
+
 
 
 ---
@@ -732,7 +773,14 @@ discussed below.
 (i) n-type semiconductor
 
 Suppose we dope Si or Ge with a pentavalent
-element as shown in Fig. 14.7. When an atom
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_7.png" alt="Fig. 14.7" onclick="openImageModal(this.src, 'Fig. 14.7: Suppose we dope Si or Ge with a pentavalent element as shown in Fig. 14.7. When ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.7</strong> Suppose we dope Si or Ge with a pentavalent element as shown in Fig. 14.7. When an atom of +5 valency element occupies the position of an atom in the crystal lattice of Si, four of its electrons bond with the four silicon neighbours while the fifth remains very weakly bound to its parent atom. This is because the four electrons participating in bonding are seen as part of the effective core of the atom by the fifth electron. As a result the ionisation energy required to set this electron free is very small and even at room temperature it will be free to move in the lattice of the semiconductor. For example, the energy required is ~ 0.01 eV for germanium, and 0.05 eV for silicon, to separate this electron from its atom. This is in contrast to the energy required to jump the forbidden band (about 0.72 eV for germanium and about 1.1 eV for silicon) at room temperature in the intrinsic semiconductor. Thus, the pentavalent dopant is donating one extra electron for conduction and hence is known as donor impurity. The number of electrons made available for conduction by dopant atoms depends strongly upon the doping level and is independent of any increase in ambient temperature. On the other hand, the number of free electrons (with an equal number of holes) generated by Si atoms, increases weakly with temperature.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 of +5 valency element occupies the position
 of
@@ -791,7 +839,7 @@ number of holes would get reduced further.
 Thus, with proper level of doping the number of conduction electrons
 can be made much larger than the number of holes. Hence in an extrinsic
 
-Reprint 2025-26
+
 
 
 ---
@@ -828,7 +876,15 @@ Si or Ge and, therefore, this atom can form covalent bonds with
 neighbouring three Si atoms but does not have any electron to
 offer to the fourth Si atom. So the bond between the fourth
 neighbour and the trivalent atom has a vacancy or hole as
-shown in Fig. 14.8. Since the neighbouring Si atom in the lattice
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_8.png" alt="Fig. 14.8" onclick="openImageModal(this.src, 'Fig. 14.8: This is obtained when Si or Ge is doped with a trivalent impurity like Al, B, In...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.8</strong> This is obtained when Si or Ge is doped with a trivalent impurity like Al, B, In, etc. The dopant has one valence electron less than Si or Ge and, therefore, this atom can form covalent bonds with neighbouring three Si atoms but does not have any electron to offer to the fourth Si atom. So the bond between the fourth neighbour and the trivalent atom has a vacancy or hole as shown in Fig. 14.8. Since the neighbouring Si atom in the lattice wants an electron in place of a hole, an electron in the outer orbit of an atom in the neighbourhood may jump to fill this vacancy, leaving a vacancy or hole at its own site. Thus the hole is available for conduction. Note that the trivalent foreign atom becomes effectively negatively charged when it shares fourth electron with neighbouring Si atom. Therefore, the dopant atom of p-type material can be treated as core of one negative charge along with its associated hole as shown in Fig. 14.8(b). It is obvious that one acceptor atom gives one hole. These holes are in addition to the intrinsically generated holes while the source of conduction electrons is only intrinsic generation. Thus, for such a material, the holes are the majority carriers and electrons are minority carriers. Therefore, extrinsic semiconductors doped with trivalent impurity are called p-type semiconductors. For p-type semiconductors, the recombination process will reduce the number (ni)of intrinsically generated electrons to ne. We have, for p-type semiconductors</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 wants an electron in place of a hole, an electron in the outer
 orbit of an atom in the neighbourhood may jump to fill this
 vacancy, leaving a vacancy or hole at its own site. Thus the hole
@@ -905,9 +961,15 @@ below the bottom E of the conduction band and electrons from this level
 move into the conduction band with very small supply of energy. At room
 temperature, most of the donor atoms get ionised but very few (~1012)
 atoms of Si get ionised. So the conduction band will have most electrons
-coming from the donor impurities, as shown in Fig. 14.9(a). Similarly,
+coming from the donor impurities, as shown in
 
-Reprint 2025-26
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_9.png" alt="Fig. 14.9" onclick="openImageModal(this.src, 'Fig. 14.9: The semiconductor’s energy band structure is affected by doping. In the case of ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.9</strong> The semiconductor’s energy band structure is affected by doping. In the case of extrinsic semiconductors, additional energy states due to donor impurities (ED) and acceptor impurities (EA) also exist. In the energy band diagram of n-type Si semiconductor, the donor energy level ED is slightly below the bottom EC of the conduction band and electrons from this level move into the conduction band with very small supply of energy. At room temperature, most of the donor atoms get ionised but very few (~1012) atoms of Si get ionised. So the conduction band will have most electrons coming from the donor impurities, as shown in Fig. 14.9(a). Similarly,</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 331
 
@@ -1004,7 +1066,7 @@ n₁ = (2.25 × 1032)/(5 ×1022)
 
 ~ 4.5 × 109 m-3
 
-Reprint 2025-26
+
 
 
 ---
@@ -1067,7 +1129,15 @@ negative space-charge region) on the p-side of the junction is developed.
 This space-charge region on either side of the junction together is known
 as depletion region as the electrons and holes taking
 part in the initial movement across the junction depleted
-the region of its free charges (Fig. 14.10). The thickness
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_10.png" alt="Fig. 14.10" onclick="openImageModal(this.src, 'Fig. 14.10: Similarly, when a hole diffuses from p ® n due to the concentration gradient, it...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.10</strong> Similarly, when a hole diffuses from p ® n due to the concentration gradient, it leaves behind an ionised acceptor (negative charge) which is immobile. As the holes continue to diffuse, a layer of negative charge (or negative space-charge region) on the p-side of the junction is developed. This space-charge region on either side of the junction together is known as depletion region as the electrons and holes taking part in the initial movement across the junction depleted the region of its free charges (Fig. 14.10). The thickness of depletion region is of the order of one-tenth of a micrometre. Due to the positive space-charge region on n-side of the junction and negative space charge region on p-side of the junction, an electric field directed from positive charge towards negative charge develops. Due to this field, an electron on p-side of the junction moves to n-side and a hole on n-side of the junction moves to p- side. The motion of charge carriers due to the electric field is called drift. Thus a drift current, which is opposite in direction to the diffusion current (Fig. 14.10) starts.</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 of depletion region is of the order of one-tenth of a
 micrometre. Due to the positive space-charge region on
 n-side of the junction and negative space charge region
@@ -1079,7 +1149,7 @@ side. The motion of charge carriers due to the electric field
 is called drift. Thus a drift current, which is opposite in
 direction to the diffusion current (Fig. 14.10) starts.
 
-Reprint 2025-26
+
 
 P
 
@@ -1105,33 +1175,14 @@ formation process.
 ---
 ## 📄 Page 12
 
-Physics
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_11.png" alt="Fig. 14.11" onclick="openImageModal(this.src, 'Fig. 14.11: The loss of electrons from the n-region and the gain of electron by the p-region...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.11</strong> The loss of electrons from the n-region and the gain of electron by the p-region causes a difference of potential across the junction of the two regions. The polarity of this potential is such as to oppose further flow of carriers so that a condition of equilibrium exists. Figure 14.11 shows the p-n junction at equilibrium and the potential across the junction. The n-material has lost electrons, and p material has acquired electrons. The n material is thus positive relative to the p material. Since this potential tends to prevent the movement of electron from the n region into the p region, it is often called a barrier potential.</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
-P
-
-Vo
-
-W
-
-ΘΘΘΘ
-ΘΘΘΘ
-
-ΘΘΘΘ
-
-ΘΘΘΘ
-ΘΘΘΘ
-
-(a)
-
-(b)
-
--E
-
--
-
-n
-
-FIGURE 14.11 (a) Diode under
 equilibrium (V = 0), (b) Barrier
 potential under no bias.
 
@@ -1181,26 +1232,14 @@ larger than the inter-atomic crystal spacing (~2 to 3 Å) and hence
 continuous contact at the atomic level will not be possible. The junction
 will behave as a discontinuity for the flowing charge carriers.
 
-Metallic
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_12.png" alt="Fig. 14.12" onclick="openImageModal(this.src, 'Fig. 14.12: A semiconductor diode [Fig. 14.12(a)] is basically a p-n junction with metallic ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.12</strong> A semiconductor diode [Fig. 14.12(a)] is basically a p-n junction with metallic contacts provided at the ends for the application of an external voltage. It is a two terminal device. A p-n junction diode is symbolically represented as shown in Fig. 14.12(b).</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
-contact
-
-Depletion
-region
-
-P
-
-(a)
-
-(१)
-
-n
-
-contact
-
-to
-
-FIGURE 14.12 (a) Semiconductor diode,
 (b) Symbol for p-n junction diode.
 
 334
@@ -1224,7 +1263,14 @@ situation of p-n junction diode under equilibrium
 
 When an external voltage Vis applied across a semiconductor diode such
 that p-side is connected to the positive terminal of the battery and n-side
-to the negative terminal [Fig. 14.13(a)], it is said to be forward biased.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_13.png" alt="Fig. 14.13" onclick="openImageModal(this.src, 'Fig. 14.13: When an external voltage V is applied across a semiconductor diode such that p-s...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.13</strong> When an external voltage V is applied across a semiconductor diode such that p-side is connected to the positive terminal of the battery and n-side to the negative terminal [Fig. 14.13(a)], it is said to be forward biased.</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 The applied voltage mostly drops across the depletion region and the
 voltage drop across the p-side and n-side of the junction is negligible.
@@ -1232,7 +1278,7 @@ voltage drop across the p-side and n-side of the junction is negligible.
 there are no charges – is very high compared to the resistance of n-side
 and p-side.) The direction of the applied voltage (V) is opposite to the
 
-Reprint 2025-26
+
 
 
 ---
@@ -1268,7 +1314,15 @@ Due to this concentration gradient, the injected electrons on
 p-side diffuse from the junction edge of p-side to the other end
 of p-side. Likewise, the injected holes on n-side diffuse from the
 junction edge of n-side to the other end of n-side
-(Fig. 14.14). This motion of charged carriers on either side
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_14.png" alt="Fig. 14.14" onclick="openImageModal(this.src, 'Fig. 14.14: Due to this concentration gradient, the injected electrons on p-side diffuse fro...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.14</strong> Due to this concentration gradient, the injected electrons on p-side diffuse from the junction edge of p-side to the other end of p-side. Likewise, the injected holes on n-side diffuse from the junction edge of n-side to the other end of n-side (Fig. 14.14). This motion of charged carriers on either side gives rise to current. The total diode forward current is sum of hole diffusion current and conventional current due to electron diffusion. The magnitude of this current is usually in mA.</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 gives rise to current. The total diode forward current is sum
 of hole diffusion current and conventional current due to
 electron diffusion. The magnitude of this current is usually
@@ -1337,7 +1391,15 @@ minority carrier injection.
 
 When an external voltage (V) is applied across the diode such
 that n-side is positive and p-side is negative, it is said to be
-reverse biased [Fig.14.15(a)]. The applied voltage mostly
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_15.png" alt="Fig. 14.15" onclick="openImageModal(this.src, 'Fig. 14.15: When an external voltage (V ) is applied across the diode such that n-side is po...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.15</strong> When an external voltage (V ) is applied across the diode such that n-side is positive and p-side is negative, it is said to be reverse biased [Fig.14.15(a)]. The applied voltage mostly drops across the depletion region. The direction of applied voltage is same as the direction of barrier potential. As a result, the barrier height increases and the depletion region widens due to the change in the electric field. The effective barrier height under reverse bias is (V0 + V ), [Fig. 14.15(b)]. This suppresses the flow of electrons from n ® p and holes from p ® n. Thus, diffusion current, decreases enormously compared to the diode under forward bias.</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 drops across the depletion region. The direction of applied voltage is same
 as the direction of barrier potential. As a result, the barrier height increases
 and the depletion region widens due to the change in the electric field.
@@ -1359,7 +1421,7 @@ The diode reverse current is not very much dependent on the applied
 voltage. Even a small voltage is sufficient to sweep the minority carriers
 from one side of the junction to the other side of the junction. The current
 
-Reprint 2025-26
+
 
 335
 
@@ -1419,7 +1481,15 @@ current exceeds the rated value.
 
 The circuit arrangement for studying the V-I characteristics
 of a diode, (i.e., the variation of current as a function of applied
-voltage) are shown in Fig. 14.16(a) and (b). The battery is connected
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_16.png" alt="Fig. 14.16" onclick="openImageModal(this.src, 'Fig. 14.16: The circuit arrangement for studying the V-I characteristics of a diode, (i.e., ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.16</strong> The circuit arrangement for studying the V-I characteristics of a diode, (i.e., the variation of current as a function of applied voltage) are shown in Fig. 14.16(a) and (b). The battery is connected to the diode through a potentiometer (or reheostat) so that the applied voltage to the diode can be changed. For different values of voltages, the value of the current is noted. A graph between V and I is obtained as in Fig. 14.16(c). Note that in forward bias measurement, we use a milliammeter since the expected current is large (as explained in the earlier section) while a micrometer is used in reverse bias to measure the current. You can see in Fig. 14.16(c) that in forward</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
+
 to the diode through a potentiometer (or reheostat) so that the
 applied voltage to the diode can be changed. For different values
 of voltages, the value of the current is noted. A graph between V
@@ -1492,19 +1562,19 @@ a p-n junction diode (a) in forward bias, (b) in reverse bias. (c) Typical V-I
 
 characteristics of a silicon diode.
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 15
 
-Reprint 2025-26
-
-Trb
-
-= 10 V/1μA= 1.0 × 107 Ω
-
-FIGURE 14.17
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_17.png" alt="Fig. 14.17" onclick="openImageModal(this.src, 'Fig. 14.17: Example 14.4 The V-I characteristic of a silicon diode is shown in the Fig. 14.1...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.17</strong> Example 14.4 The V-I characteristic of a silicon diode is shown in the Fig. 14.17. Calculate the resistance of the diode at (a) ID = 15 mA and (b) VD = –10 V.</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
 Solution Considering the diode characteristics as a straight line
 between I = 10 mA to I = 20 mA passing through the origin, we can
@@ -1558,7 +1628,7 @@ d
 
 ΔΙ
 
-not to be republished
+
 
 EXAMPLE 14.4
 
@@ -1580,33 +1650,14 @@ From the V-I characteristic of a junction diode we see that it allows current
 to pass only when it is forward biased. So if an alternating voltage is
 applied across a diode the current flows only in that part of the cycle
 
-Transformer
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_18.png" alt="Fig. 14.18" onclick="openImageModal(this.src, 'Fig. 14.18: If an alternating voltage is applied across a diode in series with a load, a pul...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.18</strong> If an alternating voltage is applied across a diode in series with a load, a pulsating voltage will appear across the load only during the half cycles of the ac input during which the diode is forward biased. Such rectifier circuit, as shown in Fig. 14.18, is called a half-wave rectifier. The secondary of a transformer supplies the desired ac voltage across terminals A and B. When the voltage at A is positive, the diode is forward biased and it conducts. When A is negative, the diode is reverse-biased and it does not conduct. The reverse saturation current of a diode is negligible and can be considered equal to zero for practical purposes. (The reverse breakdown voltage of the diode must be sufficiently higher than the peak ac voltage at the secondary of the transformer to protect the diode from reverse breakdown.)</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
-A
-
-mm
-
-Secondary
-
-X
-
-B
-
-Y
-
-(a)
-
-INPUT ac
-
-OUTPUT VOLTAGE
-
-(b)
-
-t
-
-RL
-
-FIGURE 14.18 (a) Half-wave rectifier
 circuit, (b) Input ac voltage and output
 voltage waveforms from the rectifier circuit.
 
@@ -1647,7 +1698,16 @@ called as half-wave rectifier.
 
 ap-side of the
 
-The circuit using two diodes, shown in Fig. 14.19(a), gives output
+The circuit using two diodes, shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_19.png" alt="Fig. 14.19" onclick="openImageModal(this.src, 'Fig. 14.19: The circuit using two diodes, shown in Fig. 14.19(a), gives output rectified vol...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.19</strong> The circuit using two diodes, shown in Fig. 14.19(a), gives output rectified voltage corresponding to both the positive as well as negative half of the ac cycle. Hence, it is known as full-wave rectifier. Here the p-side of the two diodes are connected to the ends of the secondary of the transformer. The n-side of the diodes are connected together and the output is taken between this common point of diodes and the midpoint of the secondary of the transformer. So for a full-wave rectifier the secondary of the transformer is provided with a centre tapping and so it is called centre-tap transformer. As can be seen from Fig.14.19(c) the voltage rectified by each diode is only half the total secondary voltage. Each diode rectifies only for half the cycle, but the two do so for alternate cycles. Thus, the output between their common terminals and the centre- tap of the transformer becomes a full-wave rectifier output. (Note that there is another circuit of full wave rectifier which does not need a centre- tap transformer but needs four diodes.) Suppose the input voltage to A</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
+
 rectified voltage corresponding to both the positive as well as negative
 half of the ac cycle. Hence, it is known as full-wave rectifier. Here the
 two diodes are connected to the ends of the secondary of the
@@ -1663,7 +1723,7 @@ tap of the transformer becomes a full-wave rectifier output. (Note that
 there is another circuit of full wave rectifier which does not need a centre-
 tap transformer but needs four diodes.) Suppose the input voltage to A
 
-Reprint 2025-26
+
 
 
 ---
@@ -1782,7 +1842,16 @@ across the capacitor is rising, it gets
 charged. If there is no external load, it remains charged to the peak voltage
 of the rectified output. When there is a load, it gets discharged through
 the load and the voltage across it begins to fall. In the next half-cycle of
-rectified output it again gets charged to the peak value (Fig. 14.20). The
+rectified output it again gets charged to the peak value (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch14_semiconductor_electronics_fig_14_20.png" alt="Fig. 14.20" onclick="openImageModal(this.src, 'Fig. 14.20: Now we shall discuss the role of capacitor in filtering. When the voltage across...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.20</strong> Now we shall discuss the role of capacitor in filtering. When the voltage across the capacitor is rising, it gets charged. If there is no external load, it remains charged to the peak voltage of the rectified output. When there is a load, it gets discharged through the load and the voltage across it begins to fall. In the next half-cycle of rectified output it again gets charged to the peak value (Fig. 14.20). The rate of fall of the voltage across the capacitor depends inversely upon the product of capacitance C and the effective resistance RL used in the circuit and is called the time constant. To make the time constant large value of C should be large. So capacitor input filters use large capacitors. The output voltage obtained by using capacitor input filter is nearer to the peak voltage of the rectified voltage. This type of filter is most widely used in power supplies.</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 rate of fall of the voltage across the capacitor depends inversely upon the
 product of capacitance Cand the effective resistance R₁ used in the circuit
 and is called the time constant. To make the time constant large value of
@@ -1797,7 +1866,7 @@ used in power supplies.
 
 t
 
-Reprint 2025-26
+
 
 
 ---
@@ -1879,7 +1948,7 @@ the conductivity. The extent of conductivity depends upon the energy
 gap (E) between the top of valence band (Ev) and the bottom of the
 conduction band E. The electrons from valence band can be excited by
 
-Reprint 2025-26
+
 
 
 ---
@@ -1967,7 +2036,7 @@ ed
 
 341
 
-Reprint 2025-26
+
 
 
 ---
@@ -2013,11 +2082,11 @@ for the same input frequency.
 
 ONCE
 
-not to be republished on
+ on
 
 342
 
-Reprint 2025-26
+
 
 
 ---
@@ -2027,9 +2096,9 @@ Notes
 
 © NCERT
 
-not to be republished
 
-Reprint 2025-26
+
+
 
 
 ---
@@ -2228,7 +2297,7 @@ deci
 
 d
 
-Reprint 2025-26
+
 
 
 ---
@@ -2438,7 +2507,7 @@ g
 
 (sea level, at equator)
 
-Reprint 2025-26
+
 
 345
 
@@ -2563,7 +2632,7 @@ Separation = 9.47 cm; Magnifying power = 88
 
 (b) Diameter of the image = 13.7 cm.
 
-Reprint 2025-26
+
 
 
 ---
@@ -2664,7 +2733,7 @@ cm
 
 Magnitude of magnification due to the second (concave)
 
-Reprint 2025-26
+
 
 347
 
@@ -2766,7 +2835,7 @@ magnification is achieved.
 (b) Yes, it decreases a little because the angle subtended at the eye
 is then slightly less than the angle subtended at the lens. The
 
-Reprint 2025-26
+
 
 
 ---
@@ -2866,7 +2935,7 @@ fe
 
 25
 
-Reprint 2025-26
+
 
 349
 
@@ -2982,7 +3051,7 @@ m
 
 10.8 tan¯¹(1.5) ~ 56.3°
 
-Reprint 2025-26
+
 
 
 ---
@@ -3092,7 +3161,7 @@ CHAPTER 13
 
 351
 
-Reprint 2025-26
+
 
 
 ---
@@ -3136,11 +3205,11 @@ C
 
 NCERT
 
-not to be republished
+
 
 352
 
-Reprint 2025-26
+
 
 
 ---
@@ -3221,7 +3290,7 @@ Hill (1977).
 
 21 Physics, Hans C. Ohanian, W.W. Norton (1989).
 
-Reprint 2025-26
+
 
 
 ---
@@ -3302,5 +3371,5 @@ Hazen, John Wiley (2004).
 
 not to
 
-Reprint 2025-26
+
 

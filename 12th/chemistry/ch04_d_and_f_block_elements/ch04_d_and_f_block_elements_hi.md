@@ -7,7 +7,7 @@
 
 उद्देश्य
 
-12087CH08
+
 
 इस एकक के अध्ययन के पश्चात् आप
 
@@ -93,7 +93,7 @@ d¹° विन्यास है और इसीलिए इन्हें 
 अनेक बहुमूल्य धातुएं जैसे सिल्वर, गोल्ड तथा प्लैटिनम और औद्योगिक रूप
 से महत्वपूर्ण धातुएं जैसे आयरन, कॉपर तथा टाइटेनियम सभी संक्रमण धातुएं हैं।
 
-Reprint 2026-27
+
 
 
 ---
@@ -404,7 +404,7 @@ Z
 
 रसायन विज्ञान 92
 
-Reprint 2026-27
+
 
 
 ---
@@ -547,7 +547,7 @@ strength), तन्यता (ductility), वर्धनीयता (malleabi
 छोड़कर सामान्य ताप पर इनकी एक या अधिक प्रारूपिक धात्विक संरचनाएं होती हैं। संक्रमण
 धातुओं की विभिन्न जालक संरचनाओं को आगे सारणी में दिया गया है।
 
-Reprint 2026-27
+
 
 93 d- एवं f- ब्लॉक के तत्व
 
@@ -698,13 +698,39 @@ X
 ### 4.3.1 भौतिक गुण
 
 संक्रमण धातुएं (जिंक, कैडमियम तथा मयूरी के अपवादों के साथ) अतिकठोर तथा अल्प
-वाष्पशील होती हैं। इनके गलनांक व क्वथनांक उच्च होते हैं। चित्र 4.1 में 3d, 4d तथा 5d
+वाष्पशील होती हैं। इनके गलनांक व क्वथनांक उच्च होते हैं।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_1_hi.png" alt="
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_hi.png" alt="चित्र 4" onclick="openImageModal(this.src, 'चित्र 4: fp=k 4-2µ laØe.k rRoksa dh d.ku ,UFkSYih dh izo`fÙk;k¡ fp=k 4-1µ laØe.k rRoksa o...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4</strong> fp=k 4-2µ laØe.k rRoksa dh d.ku ,UFkSYih dh izo`fÙk;k¡ fp=k 4-1µ laØe.k rRoksa osQ xyukadksa dh izo`fÙk;k¡</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
+<div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.1</strong> laØe.k /krq,a (f”kad] dSMfe;e rFkk eD;wZjh osQ vioknksa osQ lkFk) vfrdBksj rFkk vYi ok"i'khy gksrh gSaA buosQ xyukad o DoFkukad mPp gksrs gSaA fp=k 4.1 esa 3d, 4d rFkk 5d Js.kh dh laØe.k /krqvksa osQ xyukad fn, x, gSaA mPp xyukad dk dkj.k varjkijekf.od èkkfRod caèku esa ns bysDVªkWu osQ vfrfjDr (n–1)d d{kdksa osQ vfèkd bysDVªkWuksa dh Hkkxhnkjh gSA osQoy Mn rFkk Tc osQ vioknksa dks NksM+dj fdlh Hkh Js.kh esa /krqvksa osQ xyukad d</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 श्रेणी की संक्रमण धातुओं के गलनांक दिए गए हैं। उच्च गलनांक का कारण अंतरापरमाण्विक
 धात्विक बंधन में ns इलेक्ट्रॉन के अतिरिक्त (n-1)d कक्षकों के अधिक इलेक्ट्रॉनों की
 भागीदारी है। केवल Mn तथा Tc के अपवादों को छोड़कर किसी भी श्रेणी में धातुओं के
 गलनांक ď॰ विन्यास पर अधिकतम होते हैं तथा बढ़ते हुए परमाणु क्रमांकों के साथ गलनांकों
 में नियमित रूप से कमी आती है। इनकी कणन एन्थैल्पी (enthalpy of atomisation)
-के मान उच्च होते हैं जैसा कि चित्र 4.2 में दर्शाया गया है। प्रत्येक श्रेणी के लगभग मध्य
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_2_hi.png" alt="चित्र 4.2" onclick="openImageModal(this.src, 'चित्र 4.2: 5 foU;kl ij vfèkdre gksrs gSa rFkk c<+rs gq, ijek.kq Øekadksa osQ lkFk xyukadksa...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.2</strong> 5 foU;kl ij vfèkdre gksrs gSa rFkk c<+rs gq, ijek.kq Øekadksa osQ lkFk xyukadksa esa fu;fer :i ls deh vkrh gSA budh d.ku ,UFkSYih (enthalpy of atomisation) osQ eku mPp gksrs gSa tSlk fd fp=k 4.2 esa n'kkZ;k x;k gSA izR;sd Js.kh osQ yxHkx eè; esa mPpre eku bl rF; dks n'kkZrk gS fd izcy varjkijekf.od vU;ksU;fØ;k osQ fy, izfr</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 में उच्चतम मान इस तथ्य को दर्शाता है कि प्रबल अंतरापरमाण्विक अन्योन्यक्रिया के लिए प्रति
 d कक्षक एक अयुगलित इलेक्ट्रॉन का होना विशेष रूप से अनुकूल है। सामान्यतः संयोजकता
 
@@ -790,7 +816,7 @@ Ag
 
 चित्र 4.2 – संक्रमण तत्वों की कणन एन्थैल्पी की प्रवृत्तियाँ
 
-Reprint 2026-27
+
 
 
 ---
@@ -875,7 +901,7 @@ La Hf Ta W Re Os Ir Pt Au Hg
 
 d- एवं f- ब्लॉक के तत्व
 
-Reprint 2026-27
+
 
 
 ---
@@ -1202,7 +1228,7 @@ M3+/M2+
 
 रसायन विज्ञान 96
 
-Reprint 2026-27
+
 
 
 ---
@@ -1268,7 +1294,7 @@ Cu के लिए अप्रत्याशित रूप से उच्
 
 not
 
-Reprint 2026-27
+
 
 97 d- एवं f- ब्लॉक के तत्व
 
@@ -1415,7 +1441,7 @@ not to
 
 रसायन विज्ञान 98
 
-Reprint 2026-27
+
 
 
 ---
@@ -1437,27 +1463,15 @@ Reprint 2026-27
 एवं क्यों?
 
 ### 4.3.5 M2+/M मानक इलैक्ट्रोड
-विभवों में प्रवृत्तियाँ
 
-blood shops belt
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_4_hi.png" alt="चित्र 4.4" onclick="openImageModal(this.src, 'चित्र 4.4: V osQ izsf{kr ekuksa osQ eè; rqyuk dks fp=k 4.4 esa n&#39;kkZ;k x;k gSA...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.4</strong> V osQ izsf{kr ekuksa osQ eè; rqyuk dks fp=k 4.4 esa n'kkZ;k x;k gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
-0.5
-
-0
-
--0.5
-
--1
-
--1.5
-
--2
-
-Ti V Cr Mn Fe Co Ni Cu Zn
-प्रेक्षित मान
-परिकलित मान
-
-चित्र 4.4-Ti से Zn तक के तत्त्वों के (M²+→M°)
 मानक इलैक्ट्रोड विभवों के प्रेक्षित तथा
 परिकलित मान
 
@@ -1619,7 +1633,7 @@ Zn
 
 d- एवं f- ब्लॉक के तत्व
 
-Reprint 2026-27
+
 
 
 ---
@@ -1752,7 +1766,7 @@ NiX2
 
 रसायन विज्ञान 100
 
-Reprint 2026-27
+
 
 II
 
@@ -1894,7 +1908,7 @@ CoO
 NiO CuO ZnO
 Cu2O
 
-Reprint 2026-27
+
 
 101 d- एवं f- ब्लॉक के तत्व
 
@@ -2029,7 +2043,7 @@ Mn³+/Mn+2 युग्म के लिए E का मान Cr³+/Cr2+ अथ
 
 रसायन विज्ञान 102
 
-Reprint 2026-27
+
 
 
 ---
@@ -2107,9 +2121,7 @@ Ti3+
 
 ### 1.73
 
-### 1.75
-
-T12+
+### 1.75 T12+
 
 3d
 
@@ -2117,9 +2129,7 @@ T12+
 
 ### 2.84
 
-### 2.76
-
-V2+
+### 2.76 V2+
 
 3d³
 
@@ -2127,9 +2137,7 @@ V2+
 
 ### 3.87
 
-### 3.86
-
-Cr2+
+### 3.86 Cr2+
 
 3d
 
@@ -2139,7 +2147,7 @@ Cr2+
 
 ### 4.80
 
-Reprint 2026-27
+
 
 103 d- एवं f- ब्लॉक के तत्व
 
@@ -2155,9 +2163,7 @@ Mn2+
 
 ### 5.92
 
-### 5.96
-
-Fe2+
+### 5.96 Fe2+
 
 3d
 
@@ -2177,9 +2183,7 @@ Co2+
 
 ### 4.4
 
-### 5.2
-
-Ni2+
+### 5.2 Ni2+
 
 3d
 
@@ -2225,7 +2229,13 @@ Zn2+
 
 ### 4.3.10 रंगीन आयनों का बनना
 
-चित्र 4.5 - प्रथम संक्रमण श्रेणी के कुछ धात्विक
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_5_hi.png" alt="चित्र 4.5" onclick="openImageModal(this.src, 'चित्र 4.5: okys d-d{kd esa gksrk gS rks mÙkstu ÅtkZ (energy of excitation) dk eku vo&#39;kk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.5</strong> okys d-d{kd esa gksrk gS rks mÙkstu ÅtkZ (energy of excitation) dk eku vo'kksf"kr izdk'k dh vko`fÙk osQ laxr gksrk gS (,dd 5)A lkekU;r% ;g vko`fÙk] n`'; iz{ks=k (visible region) esa fLFkr gksrh gSA izsf{kr jax] vo'kksf"kr izdk'k dk iwjd jax gksrk gSA vo'kksf"kr izdk'k osQ vko`fÙk dk fu/kZj.k fyxUM (Ligand) osQ LoHkko osQ vk/kj ij fd;k tkrk gSA lkj.kh 4-8 esa vk;uksa osQ tyh; foy;u esa izsf{kr jaxksa dks Øec¼ fd;k x;k gS] ;gk¡ ty osQ v.kq fyxUM dk dk;Z djrs gSaA fp=k 4.5 esa oqQN d-CykWd rRoksa osQ jaxhu foy;uksa dks n'kkZ;k x;k gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
 आयनों के जलीय विलयनों के रंग। बाईं
 
@@ -2326,7 +2336,7 @@ Fe3+
 
 रसायन विज्ञान 104
 
-Reprint 2026-27
+
 
 
 ---
@@ -2431,7 +2441,7 @@ C संपाशित हो जाते हैं तो अंतराक�
 
 105 d- एवं f- ब्लॉक के तत्व
 
-Reprint 2026-27
+
 
 
 ---
@@ -2518,7 +2528,7 @@ Cr2O3 उभयधर्मी है।
 
 2+
 
-Reprint 2026-27
+
 
 
 ---
@@ -2661,7 +2671,7 @@ Cr2O7²¯ + 14H⁺ + 6e¯ → 2Cr³⁺ + 7H2O (E°= 1.33V)
 
 107 d- एवं f- ब्लॉक के तत्व
 
-Reprint 2026-27
+
 
 
 ---
@@ -2789,7 +2799,7 @@ COO
 
 रसायन विज्ञान 108
 
-Reprint 2026-27
+
 
 
 ---
@@ -2914,7 +2924,7 @@ C
 
 109 d- एवं f- ब्लॉक के तत्व
 
-Reprint 2026-27
+
 
 
 ---
@@ -3227,7 +3237,7 @@ Lu
 
 रसायन विज्ञान 110
 
-Reprint 2026-27
+
 
 
 ---
@@ -3277,7 +3287,15 @@ Sm³+
 तृतीय संक्रमण श्रेणी के तत्वों के रसायन पर दूरगामी प्रभाव होता है। परमाणु त्रिज्याओं के
 मानों (धातुओं की संरचनाओं से व्युत्पन्न) में पाई गई कमी
 नियमित नहीं है जैसा कि M³⁺ आयनों में नियमित रूप से देखने
-को मिलता है, (चित्र 4.6)। यह आकुंचन ठीक वैसा ही है
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_6_hi.png" alt="चित्र 4.6" onclick="openImageModal(this.src, 'चित्र 4.6: 3+ vk;uksa esa fu;fer :i ls ns[kus dks feyrk gS] (fp=k 4.6)A ;g vkoaqQpu Bhd oSl...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.6</strong> 3+ vk;uksa esa fu;fer :i ls ns[kus dks feyrk gS] (fp=k 4.6)A ;g vkoaqQpu Bhd oSlk gh gS tSlkfd lkekU; laØe.k Jsf.k;ksa esa ik;k x;k gS rFkk dkj.k Hkh leku gS] vFkkZr~ ,d gh midks'k esa ,d bysDVªkWu dk nwljs bysDVªkWu }kjk viw.kZ ifjj{k.k izHkko (imperfact shielding</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
+
 जैसाकि सामान्य संक्रमण श्रेणियों में पाया गया है तथा कारण
 भी समान है, अर्थात् एक ही उपकोश में एक इलेक्ट्रॉन का दूसरे
 इलेक्ट्रॉन द्वारा अपूर्ण परिरक्षण प्रभाव (imperfact shielding
@@ -3356,7 +3374,7 @@ Ce³+ के E का मान +1.74 V है, जो यह दर्शात
 
 111 d- एवं f- ब्लॉक के तत्व
 
-Reprint 2026-27
+
 
 
 ---
@@ -3454,7 +3472,16 @@ Ln3C, Ln2C3 तथा LnC2 बनते हैं। यह तनु अम्�
 LnX बनाती हैं। ये ऑक्साइड M₂O₃ तथा हाइड्रॉक्साइड M(OH)3 बनाती
 हैं। हाइड्रॉक्साइड निश्चित यौगिक हैं न कि केवल हाइड्रेटेड ऑक्साइड।
 ये क्षारीय मृदा धातुओं के ऑक्साइड तथा हाइड्रॉक्साइड की भाँति
-क्षारकीय होते हैं। इनकी सामान्य अभिक्रियाएं चित्र 4.7 में प्रदर्शित
+क्षारकीय होते हैं। इनकी सामान्य अभिक्रियाएं
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_7_hi.png" alt="चित्र 4.7" onclick="openImageModal(this.src, 'चित्र 4.7: Ln3C, Ln2C3 rFkk LnC2 curs gSaA ;g ruq vEyksa ls gkbMªkstu xSl eqDr djrh gSa rFk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.7</strong> Ln3C, Ln2C3 rFkk LnC2 curs gSaA ;g ruq vEyksa ls gkbMªkstu xSl eqDr djrh gSa rFkk gSykstu osQ okrkoj.k esa tyus ij gSykbM cukrh gSaA ;s vkWDlkbM M2O3 rFkk gkbMªkWDlkbM M(OH)3 cukrh gSaA gkbMªkWDlkbM fuf'pr ;kSfxd gSa u fd osQoy gkbMªsVsM vkWDlkbMA ;s {kkjh; e`nk /krqvksa osQ vkWDlkbM rFkk gkbMªkWDlkbM dh Hkk¡fr {kkjdh; gksrs gSaA budh lkekU; vfHkfØ;k,a fp=k 4.7 esa izn£'kr dh xbZ gSaA ySUFksukW;Mks dk loksZÙke mi;ksx IysV rFkk ikbi cukus osQ fy, feJkrq bLikr osQ mRiknu esa gSA ,d lqizfl¼ feJkrq fe'k èkkrq</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
+
 की गई हैं।
 
 चित्र 4.7- लैन्थेनॉयडों की रासायनिक अभिक्रियाएं
@@ -3464,7 +3491,7 @@ LnX बनाती हैं। ये ऑक्साइड M₂O₃ तथा
 
 रसायन विज्ञान 112
 
-Reprint 2026-27
+
 
 
 ---
@@ -3743,7 +3770,7 @@ Lr
 
 113 d- एवं f- ब्लॉक के तत्व
 
-Reprint 2026-27
+
 
 
 ---
@@ -3877,7 +3904,7 @@ t
 अधिकांश अधातुओं से संयोजन, सामान्य ताप पर होता है। हाइड्रोक्लोरिक अम्ल सभी धातुओं
 को प्रभावित करता है, परंतु अधिकतर धातुएं नाइट्रिक अम्ल द्वारा, अल्प प्रभावित होती हैं,
 
-Reprint 2026-27
+
 
 
 ---
@@ -3937,7 +3964,7 @@ Zn तथा Ni/Cd की भी आवश्यकता पड़ती है
 
 115 d- एवं f- ब्लॉक के तत्व
 
-Reprint 2026-27
+
 
 
 ---
@@ -3993,7 +4020,7 @@ N2/H2 मिश्रण से अमोनिया प्राप्त क�
 
 रसायन विज्ञान 116
 
-Reprint 2026-27
+
 
 
 ---
@@ -4093,7 +4120,7 @@ d तथा f- ब्लॉक के तत्व तथा उनके यौ
 
 समीकरण लिखिए।
 
-Reprint 2026-27
+
 
 117 d- एवं f- ब्लॉक के तत्व
 
@@ -4228,7 +4255,7 @@ Mn3+, Cr3+, V³+ तथा Ti³+ इनमें से कौन सा जल�
 
 रसायन विज्ञान 118
 
-Reprint 2026-27
+
 
 
 ---
@@ -4266,13 +4293,9 @@ K4[Mn(CN)6)
 
 ### 2.2
 
-### 5.3
+### 5.3 K2[MnCl4]
 
-K2[MnCl4]
-
-### 5.9
-
-पाठ्‌यनिहित प्रश्नों के उत्तर
+### 5.9 पाठ्‌यनिहित प्रश्नों के उत्तर
 
 ### 4.1 सिल्वर (Z=47), +2 ऑक्सीकरण अवस्था प्रदर्शित कर सकता है, जिसमें उसके 4d कक्षक अपूर्ण भरे हुए हैं अतः यह
 संक्रमण तत्व है।
@@ -4308,7 +4331,7 @@ d°, d, d¹⁰) असामान्य रूप से स्थायी ह
 
 not to
 
-Reprint 2026-27
+
 
 119 d- एवं f- ब्लॉक के तत्व
 

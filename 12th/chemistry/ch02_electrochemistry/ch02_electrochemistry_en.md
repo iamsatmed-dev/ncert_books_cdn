@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-12085CH03
+
 
 Unit
 
@@ -125,14 +125,22 @@ an
 
 electrochemical process.
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 2
 
 ### 2.1 Electrochemical We had studied the construction and functioning of Daniell cell
-(Fig. 2.1). This cell converts the chemical energy liberated during the
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch02_electrochemistry_fig_2_1.png" alt="Fig. 2.1" onclick="openImageModal(this.src, 'Fig. 2.1: We had studied the construction and functioning of Daniell cell (Fig. 2.1). This...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.1</strong> We had studied the construction and functioning of Daniell cell (Fig. 2.1). This cell converts the chemical energy liberated during the redox reaction</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 redox reaction
 
 Cells
@@ -173,7 +181,15 @@ Such a device is called a galvanic or a
 voltaic cell.
 
 If an external opposite potential is applied
-in the galvanic cell [Fig. 2.2(a)] and increased
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch02_electrochemistry_fig_2_2.png" alt="Fig. 2.2" onclick="openImageModal(this.src, 'Fig. 2.2: Anode –ve Zn Fig. 2.2 Functioning of Daniell cell when external voltage Eext opp...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.2</strong> Anode –ve Zn Fig. 2.2 Functioning of Daniell cell when external voltage Eext opposing the cell potential is applied.</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 slowly, we find that the reaction continues to
 take place till the opposing voltage reaches
 the value 1.1 V [Fig. 2.2(b)] when, the reaction
@@ -261,7 +277,7 @@ solutions, it is equal to concentration. You will study more about it in higher 
 
 Chemistry 32
 
-Reprint 2026-27
+
 
 
 ---
@@ -336,7 +352,7 @@ electron flow.
 
 no
 
-Reprint 2026-27
+
 
 33 Electrochemistry
 
@@ -407,23 +423,26 @@ measure only the difference between the two half-cell potentials that
 gives the emf of the cell. If we arbitrarily choose the potential of one
 electrode (half-cell) then that of the other can be determined with respect
 to this. According to convention, a half-cell
-called standard hydrogen electrode (Fig.3.3)
+called standard hydrogen electrode (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch02_electrochemistry_fig_3_3.png" alt="Fig. 3.3" onclick="openImageModal(this.src, 'Fig. 3.3: to this. According to convention, a half-cell called standard hydrogen electrode...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.3</strong> to this. According to convention, a half-cell called standard hydrogen electrode (Fig.3.3) represented by Pt(s)ú H2(g)ú H+(aq), is assigned a zero potential at all temperatures corresponding to the reaction</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 represented by Pt(s) | H₂(g) | H+(aq), is assigned
 a zero potential at all temperatures
-corresponding to the reaction
 
-be
-
-be
-
-H2(g) at
-1 bar
-
--Finely divided
-platinum coated
-on platinum foil
-
-Fig. 2.3: Standard Hydrogen Electrode (SHE).
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch02_electrochemistry_fig_2_3.png" alt="Fig. 2.3" onclick="openImageModal(this.src, 'Fig. 2.3: The standard hydrogen electrode consists of a platinum electrode coated with pla...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.3</strong> The standard hydrogen electrode consists of a platinum electrode coated with platinum black. The electrode is dipped in an acidic solution and pure hydrogen gas is bubbled through it. The concentration of both the reduced and oxidised forms of hydrogen is maintained at unity (Fig. 2.3). This implies that the pressure of hydrogen gas is one bar and the concentration of hydrogen ion in the solution is one molar.</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 Chemistry 34
 
@@ -442,7 +461,7 @@ that the pressure of hydrogen gas is one bar
 and the concentration of hydrogen ion in the
 solution is one molar.
 
-Reprint 2026-27
+
 
 
 ---
@@ -526,7 +545,7 @@ With half-cell reaction: H+ (aq)+ e → ½ H2(g)
 
 Bromine electrode: Pt(s)|Br₂(aq)| Br¯(aq)
 
-Reprint 2026-27
+
 
 35 Electrochemistry
 
@@ -628,7 +647,7 @@ E(Mn+/M) has already been defined, Ris gas constant (8.314 JK¯¹ moľ¯¹),
 Fis Faraday constant (96487 C moľ¯¹), T is temperature in kelvin and
 [Mn⁺] is the concentration of the species, Mn+.
 
-Reprint 2026-27
+
 
 
 ---
@@ -646,9 +665,7 @@ Reaction (Oxidised form + ne¯
 
 E°/V
 
-### 2.87
-
-F2(g) + 2e
+### 2.87 F2(g) + 2e
 
 2F
 
@@ -660,9 +677,7 @@ Co2+
 
 ### 1.81
 
-### 1.78
-
-H2O2 + 2H+ + 2e¯
+### 1.78 H2O2 + 2H+ + 2e¯
 
 → 2H2O
 
@@ -680,9 +695,7 @@ Au³+ + 3e
 
 ### 1.40
 
-### 1.36
-
-Cl2(g) + 2e
+### 1.36 Cl2(g) + 2e
 
 → 2C1
 
@@ -690,9 +703,7 @@ Cr2O72 + 14H+ + 6e¯
 
 → 2Cr³+ + 7H2O
 
-### 1.33
-
-O2(g) + 4H+ + 4e¯
+### 1.33 O2(g) + 4H+ + 4e¯
 
 → 2H2O
 
@@ -821,7 +832,7 @@ Increasing strength of reducing agent
 
 37 Electrochemistry
 
-Reprint 2026-27
+
 
 
 ---
@@ -988,7 +999,7 @@ RT
 In
 nF [A] [B]b
 
-Reprint 2026-27
+
 
 (2.13)
 
@@ -1126,7 +1137,7 @@ takes place. Thus, equilibrium constants of the reaction, difficult to
 measure otherwise, can be calculated from the corresponding Eº value
 of the cell.
 
-Reprint 2026-27
+
 
 39 Electrochemistry
 
@@ -1250,7 +1261,7 @@ Therefore, AG
 
 -1
 
-Reprint 2026-27
+
 
 
 ---
@@ -1339,7 +1350,7 @@ of cross section is 1 m². It may be noted that 1 S cm = 100 S m¯¹.
 
 -1
 
-Reprint 2026-27
+
 
 41
 
@@ -1383,9 +1394,7 @@ Copper
 
 0.1 M HCI
 
-### 3.91
-
-Silver
+### 3.91 Silver
 
 6.2×103
 
@@ -1484,7 +1493,7 @@ polymers, MacDiarmid, Heeger and Shirakawa were awarded the Nobel Prize in Chemi
 
 Chemistry42
 
-Reprint 2026-27
+
 
 
 ---
@@ -1526,7 +1535,14 @@ be connected to the bridge like a metallic wire or other solid conductor.
 The first difficulty is resolved by using an alternating current (AC) source
 of power. The second problem is solved by using a specially designed
 vessel called conductivity cell. It is available in several designs and two
-simple ones are shown in Fig. 2.4.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch02_electrochemistry_fig_2_4.png" alt="Fig. 2.4" onclick="openImageModal(this.src, 'Fig. 2.4: We know that accurate measurement of an unknown resistance can be performed on a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.4</strong> We know that accurate measurement of an unknown resistance can be performed on a Wheatstone bridge. However, for measuring the resistance of an ionic solution we face two problems. Firstly, passing direct current (DC) changes the composition of the solution. Secondly, a solution cannot be connected to the bridge like a metallic wire or other solid conductor. The first difficulty is resolved by using an alternating current (AC) source of power. The second problem is solved by using a specially designed vessel called conductivity cell. It is available in several designs and two simple ones are shown in Fig. 2.4.</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 Solutions
 
@@ -1563,7 +1579,7 @@ R = p
 1
 Α ΚΑ
 
-Reprint 2026-27
+
 
 (2.17)
 
@@ -1664,7 +1680,14 @@ R3
 Once the cell constant is determined, we can
 use it for measuring the resistance or conductivity
 of any solution. The set up for the measurement
-of the resistance is shown in Fig. 2.5.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch02_electrochemistry_fig_2_5.png" alt="Fig. 2.5" onclick="openImageModal(this.src, 'Fig. 2.5: Once the cell constant is determined, we can use it for measuring the resistance...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.5</strong> Once the cell constant is determined, we can use it for measuring the resistance or conductivity of any solution. The set up for the measurement of the resistance is shown in Fig. 2.5.</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
 It consists of two resistances Rand R4, a
 variable resistance R₁ and the conductivity cell
@@ -1713,7 +1736,7 @@ Chemistry 44
 The conductivity of solutions of different electrolytes in the same
 solvent and at a given temperature differs due to charge and size of the
 
-Reprint 2026-27
+
 
 
 ---
@@ -1846,7 +1869,7 @@ K =
 
 = 0.248 × 10-2 S cm¯¹
 
-Reprint 2026-27
+
 
 45 Electrochemistry
 
@@ -1946,7 +1969,7 @@ with
 
 Chemistry 46
 
-Reprint 2026-27
+
 
 
 ---
@@ -2016,7 +2039,15 @@ approaches zero, the molar conductivity
 is known as limiting molar
 conductivity and is represented by the
 symbol Am. The variation in Am with
-concentration is different (Fig. 2.6) for
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch02_electrochemistry_fig_2_6.png" alt="Fig. 2.6" onclick="openImageModal(this.src, 'Fig. 2.6: Molar conductivity increases with decrease in concentration. This is because the...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.6</strong> Molar conductivity increases with decrease in concentration. This is because the total volume, V, of solution containing one mole of electrolyte also increases. It has been found that decrease in k on dilution of a solution is more than compensated by increase in its volume. Physically, it means that at a given concentration, Lm can be defined as the conductance of the electrolytic solution kept between the electrodes of a conductivity cell at unit distance but having area of cross section large enough to accommodate sufficient volume of solution that contains one mole of the electrolyte. When concentration approaches zero, the molar conductivity is known as limiting molar conductivity and is represented by the symbol L°m . The variation in Lm with concentration is different (Fig. 2.6) for strong and weak electrolytes.</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 strong and weak electrolytes.
 
 NCER
@@ -2051,7 +2082,7 @@ solution. Thus, NaCl, CaCl2, MgSO4 are known as 1-1, 2-1 and 2-2
 electrolytes respectively. All electrolytes of a particular type have the
 same value for 'A'.
 
-Reprint 2026-27
+
 
 47 Electrochemistry
 
@@ -2114,7 +2145,15 @@ Am/S cm²mol¯¹
 
 147.09
 
-A plot of Am (y-axis) and c1/2 (x-axis) is shown in (Fig. 3.7).
+A plot of Am (y-axis) and c1/2 (x-axis) is shown in (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch02_electrochemistry_fig_3_7.png" alt="Fig. 3.7" onclick="openImageModal(this.src, 'Fig. 3.7: A plot of Lm ( y-axis) and c1/2 (x-axis) is shown in (Fig. 3.7). It can be seen ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.7</strong> A plot of Lm ( y-axis) and c1/2 (x-axis) is shown in (Fig. 3.7). It can be seen that it is nearly a straight line. From the intercept (c1/2 = 0), we find that</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
 
 (c1/2 = 0), we find that
 
@@ -2144,30 +2183,13 @@ pe
 
 87.46 S cm² mol¯¹/(mol/L¯¹)1/2.
 
-148.2
-
-147.8- 7.8-
-
-147.4-
-
-147.0
-
-not
-
-Chemistry 48
-
-T
-
-0
-
-.005 .010.015 .020.025.030 .035
-
-c1/2/(mol/L)1/2
-
-Fig. 2.7: Variation of Am against c¹/2.
-
-Reprint 2026-27
-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch02_electrochemistry_fig_2_7.png" alt="Fig. 2.7" onclick="openImageModal(this.src, 'Fig. 2.7: Fig. 2.7: Variation of Lm against c½....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.7</strong> Fig. 2.7: Variation of Lm against c½.</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
 
 ---
 ## 📄 Page 19
@@ -2322,7 +2344,7 @@ is obtained by using Kohlrausch law of independent migration of ions
 
 49 Electrochemistry
 
-Reprint 2026-27
+
 
 
 ---
@@ -2487,7 +2509,7 @@ k
 
 Chemistry 50
 
-Reprint 2026-27
+
 
 
 ---
@@ -2569,7 +2591,7 @@ Number of electrons required to reduce the cation).
 
 51 Electrochemistry
 
-Reprint 2026-27
+
 
 
 ---
@@ -2656,7 +2678,7 @@ reaction and acts only as source or sink for electrons. On the other
 hand, if the electrode is reactive, it participates in the electrode reaction.
 Thus, the products of electrolysis may be different for reactive and inert
 
-Reprint 2026-27
+
 
 
 ---
@@ -2765,7 +2787,7 @@ E(cell) = +1.23 V (2.38)
 
 53 Electrochemistry
 
-Reprint 2026-27
+
 
 
 ---
@@ -2821,7 +2843,16 @@ cell (known as Leclanche cell after its discoverer) which is
 used commonly in our transistors and clocks. The cell
 consists of a zinc container that also acts as anode and
 the cathode is a carbon (graphite) rod surrounded by
-powdered manganese dioxide and carbon (Fig.2.8). The
+powdered manganese dioxide and carbon (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch02_electrochemistry_fig_2_8.png" alt="Fig. 2.8" onclick="openImageModal(this.src, 'Fig. 2.8: again. The most familiar example of this type is the dry cell (known as Leclanch...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.8</strong> again. The most familiar example of this type is the dry cell (known as Leclanche cell after its discoverer) which is used commonly in our transistors and clocks. The cell consists of a zinc container that also acts as anode and the cathode is a carbon (graphite) rod surrounded by powdered manganese dioxide and carbon (Fig.2.8). The space between the electrodes is filled by a moist paste of ammonium chloride (NH4Cl) and zinc chloride (ZnCl2). The electrode reactions are complex, but they can be written approximately as follows :</span>
+    <button class="icon-btn" onclick="goToPdfPage(24)">📄 View in PDF (Page 24)</button>
+  </div>
+</div>
+
 space between the electrodes is filled by a moist paste of
 ammonium chloride (NH4Cl) and zinc chloride (ZnCl2). The
 electrode reactions are complex, but they can be written
@@ -2856,7 +2887,14 @@ from the + 4 oxidation state to the +3 state. Ammonia
 produced in the reaction forms a complex with Zn2+ to give
 [Zn (NH3)4]2+. The cell has a potential of nearly 1.5 V.
 
-Mercury cell, (Fig. 2.9) suitable for low current devices
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch02_electrochemistry_fig_2_9.png" alt="Fig. 2.9" onclick="openImageModal(this.src, 'Fig. 2.9: Mercury cell, (Fig. 2.9) suitable for low current devices like hearing aids, wat...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.9</strong> Mercury cell, (Fig. 2.9) suitable for low current devices like hearing aids, watches, etc. consists of zinc – mercury amalgam as anode and a paste of HgO and carbon as the cathode. The electrolyte is a paste of KOH and ZnO. The electrode reactions for the cell are given below:</span>
+    <button class="icon-btn" onclick="goToPdfPage(24)">📄 View in PDF (Page 24)</button>
+  </div>
+</div>
+
 like hearing aids, watches, etc. consists of zinc – mercury
 amalgam as anode and a paste of HgO and carbon as the
 cathode. The electrolyte is a paste of KOH and ZnO. The
@@ -2869,7 +2907,7 @@ Cathode:
 Zn(Hg) + 2OH → ZnO(s) + H₂O + 2e¯
 HgO + H2O + 2e¯ → Hg(l) + 2OH¯
 
-Reprint 2026-27
+
 
 
 ---
@@ -2913,7 +2951,15 @@ A secondary cell after use can be recharged by passing current
 through it in the opposite direction so that it can be used again. A
 good secondary cell can undergo a large number of discharging
 and charging cycles. The most important secondary cell is the lead
-storage battery (Fig. 2.10) commonly used in automobiles and
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch02_electrochemistry_fig_2_10.png" alt="Fig. 2.10" onclick="openImageModal(this.src, 'Fig. 2.10: Fig. 2.10: The Lead storage battery....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.10</strong> Fig. 2.10: The Lead storage battery.</span>
+    <button class="icon-btn" onclick="goToPdfPage(25)">📄 View in PDF (Page 25)</button>
+  </div>
+</div>
+
 invertors. It consists of a lead anode and a grid of lead packed with
 lead dioxide (PbO2) as cathode. A 38% solution of sulphuric acid
 is used as an electrolyte.
@@ -2955,13 +3001,19 @@ Fig. 2.10: The Lead storage battery.
 
 55 Electrochemistry
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 26
 
-Fig. 2.11
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch02_electrochemistry_fig_2_11.png" alt="Fig. 2.11" onclick="openImageModal(this.src, 'Fig. 2.11: Another important secondary cell is the nickel-cadmium cell (Fig. 2.11) which ha...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.11</strong> Another important secondary cell is the nickel-cadmium cell (Fig. 2.11) which has longer life than the lead storage cell but more expensive to manufacture. We shall not go into details of working of the cell and the electrode reactions during charging and discharging. The overall reaction during discharge is:</span>
+    <button class="icon-btn" onclick="goToPdfPage(26)">📄 View in PDF (Page 26)</button>
+  </div>
+</div>
 
 A rechargeable
 nickel-cadmium cell
@@ -3019,7 +3071,15 @@ Aqueous electrolyte
 
 One of the most successful fuel cells
 uses the reaction of hydrogen with oxygen
-to form water (Fig. 2.12). The cell was
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch02_electrochemistry_fig_2_12.png" alt="Fig. 2.12" onclick="openImageModal(this.src, 'Fig. 2.12: One of the most successful fuel cells uses the reaction of hydrogen with oxygen ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.12</strong> One of the most successful fuel cells uses the reaction of hydrogen with oxygen to form water (Fig. 2.12). The cell was used for providing electrical power in the Apollo space programme. The water vapours produced during the reaction were condensed and added to the drinking water supply for the astronauts. In the cell, hydrogen and oxygen are bubbled through porous carbon electrodes into concentrated aqueous sodium hydroxide solution. Catalysts like finely divided platinum or palladium metal are incorporated into the electrodes for increasing the rate of electrode reactions. The electrode reactions are given below:</span>
+    <button class="icon-btn" onclick="goToPdfPage(26)">📄 View in PDF (Page 26)</button>
+  </div>
+</div>
+
 used for providing electrical power in the
 Apollo space programme. The water
 vapours produced during the reaction
@@ -3054,7 +3114,7 @@ Fuel cells produce electricity with an efficiency of about 70 % compared
 
 Chemistry 56
 
-Reprint 2026-27
+
 
 
 ---
@@ -3110,8 +3170,15 @@ to oxygen and formation of oxides. Corrosion of iron
 water and air. The chemistry of corrosion is quite
 complex but it may be considered
 essentially as an electrochemical
-phenomenon. At a particular spot
-(Fig. 2.13) of an object made of iron,
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch02_electrochemistry_fig_2_13.png" alt="Fig. 2.13" onclick="openImageModal(this.src, 'Fig. 2.13: Fig. 2.13: Corrosion of iron in atmosphere...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.13</strong> Fig. 2.13: Corrosion of iron in atmosphere</span>
+    <button class="icon-btn" onclick="goToPdfPage(27)">📄 View in PDF (Page 27)</button>
+  </div>
+</div>
+
 oxidation takes place and that spot
 behaves as anode and we can write
 the reaction
@@ -3170,7 +3237,7 @@ are inert or react to save the object. An electrochemical method is to
 provide a sacrificial electrode of another metal (like Mg, Zn, etc.) which
 corrodes itself but saves the object.
 
-Reprint 2026-27
+
 
 57 Electrochemistry
 
@@ -3235,7 +3302,7 @@ conductivity at infinite dilution, for an electrolyte is sum of the contribution
 
 Chemistry 58
 
-Reprint 2026-27
+
 
 
 ---
@@ -3248,9 +3315,7 @@ electrodes in an electrochemical cell. Batteries and fuel cells are very useful
 forms of galvanic cell. Corrosion of metals is essentially an electrochemical
 phenomenon. Electrochemical principles are relevant to the Hydrogen Economy.
 
-### 2.1
-
-Exercises
+### 2.1 Exercises
 
 Arrange the following metals in the order in which they displace each other
 from the solution of their salts.
@@ -3314,9 +3379,7 @@ Zn(s) + Ag2O(s) + H₂O(l) → Zn2+(aq) + 2Ag(s) + 2OH(aq)
 
 Determine A,Gº and E° for the reaction.
 
-### 2.7
-
-Define conductivity and molar conductivity for the solution of an electrolyte.
+### 2.7 Define conductivity and molar conductivity for the solution of an electrolyte.
 Discuss their variation with concentration.
 
 ### 2.8 The conductivity of 0.20 M solution of KCl at 298 K is 0.0248 S cm¯¹. Calculate
@@ -3326,7 +3389,7 @@ its molar conductivity.
 K is 1500 Ω. What is the cell constant if conductivity of 0.001M KCl solution
 at 298 K is 0.146 × 103 S cm¯¹.
 
-Reprint 2026-27
+
 
 59 Electrochemistry
 
@@ -3429,5 +3492,5 @@ Answers to Some Intext Questions
 
 Chemistry60
 
-Reprint 2026-27
+
 

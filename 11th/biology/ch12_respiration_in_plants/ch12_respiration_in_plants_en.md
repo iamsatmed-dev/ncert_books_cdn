@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11080CH14
+
 
 12.1 Do Plants
 
@@ -71,7 +71,7 @@ all other organs, tissues and cells that are non-green, need food for
 oxidation. Hence, food has to be translocated to all non-green parts.
 Animals are heterotrophic, i.e., they obtain food from plants
 
-Reprint 2025-26
+
 
 
 ---
@@ -132,7 +132,7 @@ a problem in these cells since O₂ is released within the cell. Third, the
 
 2
 
-Reprint 2025-26
+
 
 
 ---
@@ -193,7 +193,7 @@ organisms. In this process, glucose undergoes partial oxidation to form
 two molecules of pyruvic acid. In plants, this glucose is derived from
 sucrose, which is the end product of photosynthesis, or from storage
 
-Reprint 2025-26
+
 
 155
 
@@ -285,7 +285,16 @@ hexokinase. This phosphorylated form of
 glucose then isomerises to produce fructose-6-
 phosphate. Subsequent steps of metabolism of
 glucose and fructose are same. The various
-steps of glycolysis are depicted in Figure 12.1.
+steps of glycolysis are depicted in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch12_respiration_in_plants_fig_12_1.png" alt="Fig. 12.1" onclick="openImageModal(this.src, 'Fig. 12.1: pathway. Glucose and fructose are phosphorylated to give rise to glucose-6- phos...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.1</strong> pathway. Glucose and fructose are phosphorylated to give rise to glucose-6- phosphate by the activity of the enzyme hexokinase. This phosphorylated form of glucose then isomerises to produce fructose-6- phosphate. Subsequent steps of metabolism of glucose and fructose are same. The various steps of glycolysis are depicted in Figure 12.1. In glycolysis, a chain of ten reactions, under the control of different enzymes, takes place to produce pyruvate from glucose. While studying the steps of glycolysis, please note the steps at which utilisation or synthesis of ATP or (in this case) NADH + H+ take place.</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 In glycolysis, a chain of ten reactions, under the
 control of different enzymes, takes place to
 produce pyruvate from glucose. While studying
@@ -330,7 +339,7 @@ Pyruvic acid is then the key product of
 glycolysis. What is the metabolic fate of
 pyruvate? This depends on the cellular need.
 
-Reprint 2025-26
+
 
 
 ---
@@ -359,7 +368,15 @@ achieved under anaerobic conditions by sets of reactions where pyruvic
 acid is converted to CO₂ and ethanol. The enzymes, pyruvic acid
 decarboxylase and alcohol dehydrogenase catalyse these reactions. Other
 organisms like some bacteria produce lactic acid from pyruvic acid. The
-steps involved are shown in Figure 12.2. In animal cells also, like muscles
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch12_respiration_in_plants_fig_12_2.png" alt="Fig. 12.2" onclick="openImageModal(this.src, 'Fig. 12.2: In fermentation, say by yeast, the incomplete oxidation of glucose is achieved u...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.2</strong> In fermentation, say by yeast, the incomplete oxidation of glucose is achieved under anaerobic conditions by sets of reactions where pyruvic acid is converted to CO2 and ethanol. The enzymes, pyruvic acid decarboxylase and alcohol dehydrogenase catalyse these reactions. Other organisms like some bacteria produce lactic acid from pyruvic acid. The steps involved are shown in Figure 12.2. In animal cells also, like muscles during exercise, when oxygen is inadequate for cellular respiration pyruvic acid is reduced to lactic acid by lactate dehydrogenase. The reducing agent is NADH+H+ which is reoxidised to NAD+</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 during exercise, when oxygen is inadequate for cellular respiration pyruvic
 acid is reduced to lactic acid by lactate dehydrogenase. The reducing
 agent is NADH+H+ which is reoxidised to NAD+
@@ -423,7 +440,7 @@ Ethanol+CO2
 Figure 12.2 Major pathways of anaerobic
 respiration
 
-Reprint 2025-26
+
 
 
 ---
@@ -492,12 +509,21 @@ not
 12.4.1 Tricarboxylic Acid Cycle
 
 The TCA cycle starts with the condensation of acetyl group with oxaloacetic
-acid (OAA) and water to yield citric acid (Figure 12.3). The reaction is
+acid (OAA) and water to yield citric acid (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch12_respiration_in_plants_fig_12_3.png" alt="Fig. 12.3" onclick="openImageModal(this.src, 'Fig. 12.3: The TCA cycle starts with the condensation of acetyl group with oxaloacetic acid...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.3</strong> The TCA cycle starts with the condensation of acetyl group with oxaloacetic acid (OAA) and water to yield citric acid (Figure 12.3). The reaction is catalysed by the enzyme citrate synthase and a molecule of CoA is released. Citrate is then isomerised to isocitrate. It is followed by two successive steps of decarboxylation, leading to the formation of α-ketoglutaric acid</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 catalysed by the enzyme citrate synthase and a molecule of CoA is released.
 Citrate is then isomerised to isocitrate. It is followed by two successive
 steps of decarboxylation, leading to the formation of a-ketoglutaric acid
 
-Reprint 2025-26
+
 
 
 ---
@@ -615,12 +641,21 @@ the energy stored in NADH+H+ and FADH, This is accomplished when
 they are oxidised through the electron transport system and the electrons
 are passed on to O₂ resulting in the formation of H2O. The metabolic
 pathway through which the electron passes from one carrier to another,
-is called the electron transport system (ETS) (Figure 12.4) and it is
+is called the electron transport system (ETS) (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch12_respiration_in_plants_fig_12_4.png" alt="Fig. 12.4" onclick="openImageModal(this.src, 'Fig. 12.4: The following steps in the respiratory process are to release and utilise the en...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.4</strong> The following steps in the respiratory process are to release and utilise the energy stored in NADH+H+ and FADH2. This is accomplished when they are oxidised through the electron transport system and the electrons are passed on to O2 resulting in the formation of H2O. The metabolic pathway through which the electron passes from one carrier to another, is called the electron transport system (ETS) (Figure 12.4) and it is present in the inner mitochondrial membrane. Electrons from NADH</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 present in the inner mitochondrial membrane. Electrons from NADH
 
 + FADH2 + ATP
 
-Reprint 2025-26
+
 
 
 ---
@@ -783,7 +818,7 @@ You have already studied about the mechanism of membrane-linked
 ATP synthesis as explained by chemiosmotic hypothesis in the earlier
 chapter. As mentioned earlier, the energy released during the electron
 
-Reprint 2025-26
+
 
 
 ---
@@ -794,7 +829,15 @@ RESPIRATION IN PLANTS
 transport system is utilised in synthesising ATP
 with the help of ATP synthase (complex V). This
 complex consists of two major components, F₁
-and F (Figure 12.5). The F₁ headpiece is a
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch12_respiration_in_plants_fig_12_5.png" alt="Fig. 12.5" onclick="openImageModal(this.src, 'Fig. 12.5: transport system is utilised in synthesising ATP with the help of ATP synthase (...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.5</strong> transport system is utilised in synthesising ATP with the help of ATP synthase (complex V). This complex consists of two major components, F1 and F0 (Figure 12.5). The F1 headpiece is a peripheral membrane protein complex and contains the site for synthesis of ATP from ADP and inorganic phosphate. F0 is an integral membrane protein complex that forms the channel through which protons cross the inner membrane. The passage of protons through the channel is coupled to the catalytic site of the F1 component for the production of ATP. For each ATP produced, 4H+ pass through F0 from the intermembrane space to the matrix down the electrochemical proton gradient.</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 peripheral membrane protein complex and
 contains the site for synthesis of ATP from ADP
 and inorganic phosphate. Fo is an integral
@@ -878,7 +921,7 @@ exercise to appreciate the beauty and efficiency of the living system in
 extraction and storing energy. Hence, there can be a net gain of 38 ATP
 molecules during aerobic respiration of one molecule of glucose.
 
-Reprint 2025-26
+
 
 
 ---
@@ -910,8 +953,16 @@ carboh
 Glucose is the favoured substrate for respiration. All carbohydrates are
 usually first converted into glucose before they are used for respiration.
 Other substrates can also be respired, as has been mentioned earlier, but
-then they do not enter the respiratory pathway at the first step. See Figure
-12.6 to see the points of entry of different substrates in the respiratory
+then they do not enter the respiratory pathway at the first step. See
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch12_respiration_in_plants_fig_12_6.png" alt="Fig. 12.6" onclick="openImageModal(this.src, 'Fig. 12.6: Glucose is the favoured substrate for respiration. All carbohydrates are usually...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.6</strong> Glucose is the favoured substrate for respiration. All carbohydrates are usually first converted into glucose before they are used for respiration. Other substrates can also be respired, as has been mentioned earlier, but then they do not enter the respiratory pathway at the first step. See Figure 12.6 to see the points of entry of different substrates in the respiratory pathway. Fats would need to be broken down into glycerol and fatty acids first. If fatty acids were to be respired they would first be degraded to acetyl CoA and enter the pathway. Glycerol would enter the pathway after being converted to PGAL. The proteins would be degraded by proteases and the individual amino acids (after deamination) depending on their structure would enter the pathway at some stage within the Krebs’ cycle or even as pyruvate or acetyl CoA.</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 pathway. Fats would need to be broken down into glycerol and fatty acids
 first. If fatty acids were to be respired they would first be degraded to
 acetyl CoA and enter the pathway. Glycerol would enter the pathway
@@ -941,7 +992,7 @@ as an amphibolic pathway rather than as a catabolic one.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -996,7 +1047,7 @@ When carbohydrates are used as substrate and are completely
 oxidised, the RQ will be 1, because equal amounts of CO2 and O₂ are
 evolved and consumed, respectively, as shown in the equation below :
 
-Reprint 2025-26
+
 
 163
 
@@ -1069,7 +1120,7 @@ matrix of the mitochondria. NADH + H+ and FADH2 are generated in the Krebs'
 cycle. The energy in these molecules as well as that in the NADH+ H+ synthesised
 during glycolysis are used to synthesise ATP. This is accomplished through a
 
-Reprint 2025-26
+
 
 
 ---
@@ -1133,5 +1184,5 @@ not be republished
 
 12. What is the significance of step-wise release of energy in respiration?
 
-Reprint 2025-26
+
 

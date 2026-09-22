@@ -34,7 +34,7 @@ ed
 उपयोगों को इस ईकाई में उजागर किया गया तथा उनपर विचार-विमर्श किया
 गया है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -69,7 +69,7 @@ be
 
 not to
 
-Reprint 2025-26
+
 
 
 ---
@@ -81,7 +81,7 @@ R
 
 PBR322
 
-12084CH11
+
 
 ori
 
@@ -130,7 +130,7 @@ not to
 विज्ञान व जीवों' कोशिकाओं व इसके अंग तथा आणविक अनुरूपों
 का समायोजन।
 
-Reprint 2025-26
+
 
 
 ---
@@ -185,7 +185,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -246,7 +246,7 @@ ot to be republished
 गया कि हिंड II, डीएनए अणु को उस विशेष बिंदु पर काटते हैं जहाँ पर छह क्षारक युग्मों
 (बेस पेयर) का एक विशेष अनुक्रम होता है। इस विशिष्ट क्षारक अनुक्रम को हिंड II,
 
-Reprint 2025-26
+
 
 
 ---
@@ -270,7 +270,16 @@ Reprint 2025-26
 विशिष्ट स्थलों पर काटते हैं। प्रत्येक प्रतिबंधन एंडोन्यूक्लिएज डीएनए अनुक्रम की लंबाई
 के 'निरीक्षण' के बाद कार्य करता है। जब यह अपना विशिष्ट पहचान अनुक्रम पा जाता
 है तब यह डीएनए से जुड़ता है तथा द्विकुंडलिनी की दोनों लड़ियों को शर्करा-फॉस्फेट
-आधारस्तंभों में विशिष्ट केंद्रों पर काटता है (चित्र 9.1) प्रत्येक प्रतिबंधन एंडोन्यूक्लिएज
+आधारस्तंभों में विशिष्ट केंद्रों पर काटता है (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch09_biotechnology_principles_and_processes_fig_9_hi.png" alt="चित्र 9" onclick="openImageModal(this.src, 'चित्र 9: izfrca/u ,atkbe] U;wfDy,tst dgykus okys ,atkbeksa osQ cM+s oxZ esa vkrs gSaA ,Dl...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9</strong> izfrca/u ,atkbe] U;wfDy,tst dgykus okys ,atkbeksa osQ cM+s oxZ esa vkrs gSaA ,DlksU;wfDy,t nks izdkj osQ gksrs gSa— ,oa ,aMksU;wfDy,t ,DlksU;wfDy,t Mh,u, osQ fljs ls U;wfDy;ksVkbM dks vyx djrs gSa] tcfd ,aMksU;wfDy,t Mh,u, dks Hkhrj fof'k"V LFkyksa ij dkVrs gSaA izR;sd izfrca/u ,aMksU;wfDy,t Mh,u, vuqØe dh yackbZ osQ ^fujh{k.k* osQ ckn dk;Z djrk gSA tc ;g viuk fof'k"V igpku vuqØe ik tkrk gS rc ;g Mh,u, ls tqM+rk gS rFkk f}oqQaMfyuh dh nksuksa yfM+;ksa dks 'kdZjk&iQkWLiQsV vk/kjLraHkksa esa fof'k"V osaQnzksa ij dkVrk gS (fp=k 9-1) izR;sd izfrca/u ,aMksU;wfDy,t Mh,u, esa fof'k"V iSyhUMksfed U;wfDy;ksVkbM vuqØeksa dks igpkurk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 डीएनए में विशिष्ट पैलीन्डोमिक न्यूक्लियोटाइड अनुक्रमों को पहचानता है।
 
 NCER
@@ -320,7 +329,7 @@ G
 
 चित्र 9.1 प्रतिबंधन एंजाइम – इको आर वन (EcoR1) की क्रिया द्वारा पुनर्योगज डीएनए के निर्माण के चरण
 
-Reprint 2025-26
+
 
 
 ---
@@ -385,7 +394,7 @@ be
 
 चित्र 9.2 पुनर्योगज डीएनए तकनीक का आरेखीय प्रदर्शन
 
-Reprint 2025-26
+
 
 183
 
@@ -464,7 +473,7 @@ not
 
 चित्र 9.3
 
-Reprint 2025-26
+
 
 
 ---
@@ -555,7 +564,7 @@ Pvu II, Pst I, Cla I), ori व प्रतिजैविक
 
 185
 
-Reprint 2025-26
+
 
 
 ---
@@ -608,7 +617,7 @@ not to
 ठीक इसी तरह से जंतु कोशिकाओं में पश्चविषाणु (रीट्रोवायरस) सामान्य
 कोशिकाओं को कैंसर कोशिकाओं में रूपांतरित कर देते हैं। रोगजनकों द्वारा
 
-Reprint 2025-26
+
 
 
 ---
@@ -661,7 +670,7 @@ shed
 
 187
 
-Reprint 2025-26
+
 
 
 ---
@@ -719,7 +728,7 @@ not
 पीसीआर का अर्थ पोलीमरेजचेन रिऐक्शन (पॉलिमरेज श्रृंखला अभिक्रिया) है। इस
 अभिक्रिया में उपक्रमकों (प्राइमर्स - छोटे रासायनिक संश्लेषित अल्पन्यूक्लियोटाइड जो
 
-Reprint 2025-26
+
 
 
 ---
@@ -802,7 +811,7 @@ shed
 चित्र 9.6 पालिमरेज श्रृंखला अभिक्रिया (पीसीआर) का प्रदर्शन – प्रत्येक चक्र में तीन चरण हैं - (अ) निष्क्रियकरण (ब) उपक्रामक
 तापानुशीलन व (स) उपक्रामकों का विस्तार
 
-Reprint 2025-26
+
 
 
 ---
@@ -859,7 +868,7 @@ not
 बायोरिएक्टर एक बर्तन के समान है, जिसमें सूक्ष्मजीवों, पौधों, जंतुओं व मानव
 कोशिकाओं का उपयोग करते हुए कच्चे माल को जैव रूप से विशिष्ट उत्पादों व्यष्टि
 
-Reprint 2025-26
+
 
 
 ---
@@ -938,7 +947,7 @@ shed
 
 191
 
-Reprint 2025-26
+
 
 
 ---
@@ -989,7 +998,7 @@ nott
 8. अर्धसूत्री विभाजन को ध्यान में रखते हुए क्या बता सकते हैं कि पुनर्योगज डीएनए किस
 अवस्था में बनते हैं?
 
-Reprint 2025-26
+
 
 
 ---
@@ -1033,9 +1042,9 @@ Reprint 2025-26
 
 © NCERT
 
-not to be republished
 
-Reprint 2025-26
+
+
 
 193
 

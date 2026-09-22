@@ -55,7 +55,7 @@ about the neural system of human, mechanisms of neural coordination
 like transmission of nerve impulse and impulse conduction across
 a synapse.
 
-Reprint 2025-26
+
 
 
 ---
@@ -121,11 +121,19 @@ and from the viscera to the central nervous system.
 NEURAL SYSTEM
 
 A neuron is a microscopic structure composed of three major parts, namely,
-cell body, dendrites and axon (Figure 18.1). The cell body contains cytoplasm
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch18_neural_control_and_coordination_fig_18_1.png" alt="Fig. 18.1" onclick="openImageModal(this.src, 'Fig. 18.1: A neuron is a microscopic structure composed of three major parts, namely, cell ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 18.1</strong> A neuron is a microscopic structure composed of three major parts, namely, cell body, dendrites and axon (Figure 18.1). The cell body contains cytoplasm with typical cell organelles and certain granular bodies called Nissl’s granules. Short fibres which branch repeatedly and project out of the cell body also</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 with typical cell organelles and certain granular bodies called Nissl's granules.
 Short fibres which branch repeatedly and project out of the cell body also
 
-Reprint 2025-26
+
 
 
 ---
@@ -210,7 +218,7 @@ axonal membrane possesses a positive charge while its inner surface
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -282,37 +290,13 @@ B
 
 +
 
-+
-
-+
-
-+
-
-+
-
-+
-
-++
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-Figure 18.2 Diagrammatic representation of impulse conduction through an axon
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch18_neural_control_and_coordination_fig_18_2.png" alt="Fig. 18.2" onclick="openImageModal(this.src, 'Fig. 18.2: You might be curious to know about the mechanisms of generation of nerve impulse...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 18.2</strong> You might be curious to know about the mechanisms of generation of nerve impulse and its conduction along an axon. When a stimulus is applied at a site (Figure 18.2 e.g., point A) on the polarised membrane, the membrane at the site A becomes freely permeable to Na+. This leads to a rapid influx of Na+ followed by the reversal of the polarity at that site, i.e., the outer surface of the membrane becomes negatively charged and the inner side becomes positively charged. The polarity of the membrane at the site A is thus reversed and hence depolarised. The electrical potential difference across the plasma membrane at the site A is called the action potential, which is in fact termed as a nerve impulse. At sites immediately ahead, the axon (e.g., site B) membrane has a positive charge on the outer surface and a negative charge on its inner surface. As a result, a current flows on the inner surface from site A to site B. On the outer surface current flows from site B to site A (Figure 18.2) to complete the circuit of current flow. Hence, the polarity at the site is reversed, and an action potential is generated at site B. Thus, the impulse (action potential) generated at site A arrives at site B. The sequence is repeated along the length of the axon and consequently the impulse is conducted. The rise in the stimulus-induced permeability to Na+ is extremely short- lived. It is quickly followed by a rise in permeability to K+. Within a fraction of a second, K+ diffuses outside the membrane and restores the resting potential of the membrane at the site of excitation and the fibre becomes once more responsive to further stimulation.</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 (at points A and B)
 
@@ -346,7 +330,7 @@ of a second, K+ diffuses outside the membrane and restores the resting
 potential of the membrane at the site of excitation and the fibre becomes
 once more responsive to further stimulation.
 
-Reprint 2025-26
+
 
 
 ---
@@ -373,7 +357,15 @@ system.
 
 At a chemical synapse, the membranes of the pre- and post-synaptic
 neurons are separated by a fluid-filled space called synaptic cleft
-(Figure 18.3). Do you know how the pre-synaptic neuron transmits an
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch18_neural_control_and_coordination_fig_18_3.png" alt="Fig. 18.3" onclick="openImageModal(this.src, 'Fig. 18.3: At a chemical synapse, the membranes of the pre- and post-synaptic neurons are s...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 18.3</strong> At a chemical synapse, the membranes of the pre- and post-synaptic neurons are separated by a fluid-filled space called synaptic cleft (Figure 18.3). Do you know how the pre-synaptic neuron transmits an impulse (action potential) across the synaptic cleft to the post-synaptic neuron? Chemicals called neurotransmitters are involved in the transmission of impulses at these synapses. The axon terminals contain vesicles filled with these neurotransmitters. When an impulse (action potential) arrives at the axon terminal, it stimulates the movement of the synaptic vesicles towards the membrane where they fuse with the plasma</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 impulse (action potential) across the synaptic cleft to the post-synaptic
 neuron? Chemicals called neurotransmitters are involved in the
 transmission of impulses at these synapses. The axon terminals contain
@@ -404,7 +396,7 @@ Receptors
 
 Figure 18.3 Diagram showing axon terminal and synapse
 
-Reprint 2025-26
+
 
 Synapse
 
@@ -442,7 +434,14 @@ brain is covered by cranial meninges consisting of an outer layer called
 dura mater, a very thin middle layer called arachnoid and an inner layer
 (which is in contact with the brain tissue) called pia mater. The brain can
 be divided into three major parts: (i) forebrain, (ii) midbrain, and
-(iii) hindbrain (Figure 18.4).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch18_neural_control_and_coordination_fig_18_4.png" alt="Fig. 18.4" onclick="openImageModal(this.src, 'Fig. 18.4: The human brain is well protected by the skull. Inside the skull, the brain is c...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 18.4</strong> The human brain is well protected by the skull. Inside the skull, the brain is covered by cranial meninges consisting of an outer layer called dura mater, a very thin middle layer called arachnoid and an inner layer (which is in contact with the brain tissue) called pia mater. The brain can be divided into three major parts: (i) forebrain, (ii) midbrain, and (iii) hindbrain (Figure 18.4).</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 Cerebrum-
 
@@ -470,7 +469,7 @@ Cerebral aqueduct
 
 Figure 18.4 Diagram showing sagital section of the human brain
 
-Reprint 2025-26
+
 
 
 ---
@@ -532,7 +531,7 @@ the brain and spinal cord.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -594,7 +593,7 @@ EXERCISES
 
 (c) Transmission of a nerve impulse across a chemical synapse
 
-Reprint 2025-26
+
 
 
 ---
@@ -651,7 +650,7 @@ fibre
 
 C
 
-not to be republished
 
-Reprint 2025-26
+
+
 

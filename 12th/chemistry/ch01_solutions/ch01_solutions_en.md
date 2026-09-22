@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-12085CH02
+
 
 Unit
 
@@ -93,7 +93,7 @@ Solvent determines the physical state in which solution exists. One or
 more components present in the solution other than solvent are called
 solutes. In this Unit we shall consider only binary solutions (i.e.,
 
-Reprint 2026-27
+
 
 
 ---
@@ -223,7 +223,7 @@ Volume % of a component =
 
 Chemistry 2
 
-Reprint 2026-27
+
 
 
 ---
@@ -323,7 +323,7 @@ of solutions, say vapour pressure with the concentration of the
 solution and quite useful in describing the calculations involving
 gas mixtures.
 
-Reprint 2026-27
+
 
 3 Solutions
 
@@ -442,7 +442,7 @@ Molarity =
 
 = 0.278 M
 
-Reprint 2026-27
+
 
 
 ---
@@ -530,7 +530,7 @@ upon the nature of solute and solvent as well as temperature and
 pressure. Let us consider the effect of these factors in solution of a solid
 or a gas in a liquid.
 
-Reprint 2026-27
+
 
 5 Solutions
 
@@ -610,7 +610,7 @@ Liquid
 
 Chemistry 6
 
-Reprint 2026-27
+
 
 
 ---
@@ -622,7 +622,15 @@ W
 
 temperature. The solubility of gases increase with increase of pressure.
 For solution of gases in a solvent, consider a system as shown in
-Fig. 1.1 (a). The lower part is solution and the upper part is gaseous
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_1.png" alt="Fig. 1.1" onclick="openImageModal(this.src, 'Fig. 1.1: temperature. The solubility of gases increase with increase of pressure. For sol...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.1</strong> temperature. The solubility of gases increase with increase of pressure. For solution of gases in a solvent, consider a system as shown in Fig. 1.1 (a). The lower part is solution and the upper part is gaseous system at pressure p and temperature T. Assume this system to be in a state of dynamic equilibrium, i.e., under these conditions rate of gaseous particles entering and leaving the solution phase is the same. Now increase the pressure over the solution phase by compressing the gas to a smaller volume [Fig. 1.1 (b)]. This will increase the number of gaseous particles per unit volume over the solution and also the rate at which the gaseous particles are striking the surface of solution to enter it. The solubility of the gas will increase until a new equilibrium is reached resulting in an increase in the pressure of a gas above the solution and thus its solubility increases.</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 system at pressure p and temperature T. Assume this system to be in
 a state of dynamic equilibrium, i.e., under these conditions rate of
 gaseous particles entering and leaving the solution phase is the same.
@@ -685,16 +693,14 @@ law states that "the partial pressure of the gas in
 vapour phase (p) is proportional to the mole fraction
 of the gas (x) in the solution" and is expressed as:
 
-ot to
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_2.png" alt="Fig. 1.2" onclick="openImageModal(this.src, 'Fig. 1.2: p = KH x (1.11) Here KH is the Henry’s law constant. If we draw a graph between ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.2</strong> p = KH x (1.11) Here KH is the Henry’s law constant. If we draw a graph between partial pressure of the gas versus mole fraction of the gas in solution, then we should get a plot of the type as shown in Fig. 1.2.</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
-0.010
-
-0.020
-
-Mole fraction of HCl in its
-solution in cyclohexane
-
-Fig. 1.2: Experimental results for
 the solubility of HCl gas in
 cyclohexane at 293 K. The
 slope of the line is the
@@ -719,7 +725,7 @@ of the gas in the liquid. It can be seen from Table 1.2
 that KH values for both N₂ and O2 increase with increase
 of temperature indicating that the solubility of gases
 
-Reprint 2026-27
+
 
 7
 
@@ -765,9 +771,7 @@ CO2
 
 298
 
-### 1.67
-
-N2
+### 1.67 N2
 
 293
 
@@ -883,7 +887,7 @@ releases the dissolved gases and leads to the formation of bubbles
 of nitrogen in the blood. This blocks capillaries and creates a medical
 condition known as bends, which are painful and dangerous to life.
 
-Reprint 2026-27
+
 
 
 ---
@@ -958,18 +962,19 @@ the Raoult's law which states that for a solution of volatile liquids,
 
 9 Solutions
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 10
 
-Vapour pressure -
-
-X₁ =1
-X2=0
-
-Fig. 1.3: The plot of
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_3.png" alt="Fig. 1.3" onclick="openImageModal(this.src, 'Fig. 1.3: A plot of p1 or p2 versus the mole fractions x1 and x2 for a solution gives a li...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.3</strong> A plot of p1 or p2 versus the mole fractions x1 and x2 for a solution gives a linear plot as shown in Fig. 1.3. These lines (I and II) pass through the points for which x1 and x2 are equal to unity. Similarly the plot (line III) of ptotal versus x2 is also linear (Fig. 1.3). The minimum value of ptotal is p1</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
 the partial vapour pressure of each component of the solution
 is directly proportional to its mole fraction present in solution.
@@ -1112,7 +1117,7 @@ equilibrium with the solution is determined
 by the partial pressures of the components.
 If y₁ and y₂ are the mole fractions of the
 
-Reprint 2026-27
+
 
 
 ---
@@ -1219,7 +1224,7 @@ in CH2Cl2 [YCH2Cl2 = 0.82 and YCHCl3 = 0.18], it may thus be concluded
 that at equilibrium, vapour phase will be always rich in the component
 which is more volatile.
 
-Reprint 2026-27
+
 
 11 Solutions
 
@@ -1272,7 +1277,16 @@ pure solvents. For example, vapour pressure. Liquids at a given
 temperature vapourise and under
 equilibrium conditions the pressure exerted
 by the vapours of the liquid over the liquid
-phase is called vapour pressure [Fig. 1.4 (a)].
+phase is called vapour pressure [
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_4.png" alt="Fig. 1.4" onclick="openImageModal(this.src, 'Fig. 1.4: temperature vapourise and under equilibrium conditions the pressure exerted by t...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.4</strong> temperature vapourise and under equilibrium conditions the pressure exerted by the vapours of the liquid over the liquid phase is called vapour pressure [Fig. 1.4 (a)]. In a pure liquid the entire surface is occupied by the molecules of the liquid. If a non-volatile solute is added to a solvent to give a solution [Fig. 1.4.(b)], the vapour pressure of the solution is solely from the solvent alone. This vapour pressure of the solution at a given temperature is found to be lower than the vapour pressure of the pure solvent at the same temperature. In the solution, the surface has both solute and solvent molecules; thereby the fraction of the surface covered by the solvent molecules gets reduced. Consequently, the number of solvent molecules escaping from the surface is correspondingly reduced, thus, the vapour pressure is also reduced. The decrease in the vapour pressure of solvent depends on the quantity of non-volatile solute present in the solution, irrespective of its nature. For example, decrease in the vapour pressure of water by adding 1.0 mol of sucrose to one kg of water is nearly similar to that produced by adding 1.0 mol of urea to the same quantity of water at the same temperature.</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
 In a pure liquid the entire surface is
 occupied by the molecules of the liquid. If a
 non-volatile solute is added to a solvent to
@@ -1324,13 +1338,19 @@ present in vapour phase and contribute to vapour pressure. Let p₁ be
 
 Chemistry 12
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 13
 
-Fig. 1.5
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_5.png" alt="Fig. 1.5" onclick="openImageModal(this.src, 'Fig. 1.5: 1 p . A plot between the vapour pressure and the mole fraction of the solvent is...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.5</strong> 1 p . A plot between the vapour pressure and the mole fraction of the solvent is linear (Fig. 1.5).</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 If a solution obeys
 Raoult's law for all
@@ -1420,7 +1440,14 @@ of such a solution is either higher or lower than that predicted by
 Raoult's law (equation 1.16). If it is higher, the solution exhibits positive
 deviation and if it is lower, it exhibits negative deviation from Raoult's
 law. The plots of vapour pressure as a function of mole fractions
-for such solutions are shown in Fig. 1.6.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_6.png" alt="Fig. 1.6" onclick="openImageModal(this.src, 'Fig. 1.6: When a solution does not obey Raoult’s law over the entire range of concentratio...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.6</strong> When a solution does not obey Raoult’s law over the entire range of concentration, then it is called non-ideal solution. The vapour pressure of such a solution is either higher or lower than that predicted by Raoult’s law (equation 1.16). If it is higher, the solution exhibits positive deviation and if it is lower, it exhibits negative deviation from Raoult’s law. The plots of vapour pressure as a function of mole fractions for such solutions are shown in Fig. 1.6.</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 no
 
@@ -1434,7 +1461,7 @@ find it easier to escape than in pure state. This will increase the vapour
 
 13 Solutions
 
-Reprint 2026-27
+
 
 
 ---
@@ -1543,7 +1570,7 @@ called minimum boiling azeotrope and maximum boiling
 azeotrope. The solutions which show a large positive deviation from
 Raoult's law form minimum boiling azeotrope at a specific composition.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1660,7 +1687,7 @@ P
 
 P
 
-Reprint 2026-27
+
 
 (1.25)
 
@@ -1777,7 +1804,16 @@ is equal to the atmospheric pressure. For example, water boils at
 373.15 K (100° C) because at this temperature the vapour pressure
 of water is 1.013 bar (1 atmosphere). We have also learnt in the last
 section that vapour pressure of the solvent decreases in the presence
-of non-volatile solute. Fig. 1.7 depicts the variation of vapour pressure
+of non-volatile solute.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_7.png" alt="Fig. 1.7" onclick="openImageModal(this.src, 'Fig. 1.7: The vapour pressure of a liquid increases with increase of temperature. It boils...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.7</strong> The vapour pressure of a liquid increases with increase of temperature. It boils at the temperature at which its vapour pressure is equal to the atmospheric pressure. For example, water boils at 373.15 K (100° C) because at this temperature the vapour pressure of water is 1.013 bar (1 atmosphere). We have also learnt in the last section that vapour pressure of the solvent decreases in the presence of non-volatile solute. Fig. 1.7 depicts the variation of vapour pressure of the pure solvent and solution as a function of temperature. For example, the vapour pressure of an aqueous solution of sucrose is less than 1.013 bar at 373.15 K. In order to make this solution boil, its vapour pressure must be increased to 1.013 bar by raising the temperature above the boiling temperature of the pure solvent (water). Thus, the boiling point of a solution is</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
+
 of the pure solvent and solution as a function of temperature. For
 example, the vapour pressure of an aqueous solution of sucrose is
 less than 1.013 bar at 373.15 K. In order to make this solution
@@ -1787,7 +1823,7 @@ the pure solvent (water). Thus, the boiling point of a solution is
 
 Chemistry16
 
-Reprint 2026-27
+
 
 
 ---
@@ -1911,7 +1947,7 @@ Thus molality of glucose solution = 0.1 mol kg¯¹
 
 For water, change in boiling point
 
-Reprint 2026-27
+
 
 Solution
 
@@ -1951,7 +1987,16 @@ Therefore, molar mass of the solute, M₂ = 58 g mol¯¹
 Vapour pressure →
 
 ### 1.6.3 Depression The lowering of vapour pressure of a solution causes a a lowering of the
-of Freezing freezing point compared to that of the pure solvent (Fig. 1.8). We know
+of Freezing freezing point compared to that of the pure solvent (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_8.png" alt="Fig. 1.8" onclick="openImageModal(this.src, 'Fig. 1.8: The lowering of vapour pressure of a solution causes a lowering of the freezing ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.8</strong> The lowering of vapour pressure of a solution causes a lowering of the freezing point compared to that of the pure solvent (Fig. 1.8). We know that at the freezing point of a substance, the solid phase is in dynamic</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
+
 Point
 that at the freezing point of a substance, the solid phase is in dynamic
 
@@ -2028,7 +2073,7 @@ solvent is known as Freezing Point Depression Constant or Molal
 
 (1.34)
 
-Reprint 2026-27
+
 
 
 ---
@@ -2173,9 +2218,7 @@ not
 
 209.6
 
-### 4.79
-
-Carbon tetrachloride
+### 4.79 Carbon tetrachloride
 
 350.0
 
@@ -2193,9 +2236,7 @@ Carbon disulphide
 
 164.2
 
-### 3.83
-
-Diethyl ether
+### 3.83 Diethyl ether
 
 307.8
 
@@ -2203,9 +2244,7 @@ Diethyl ether
 
 156.9
 
-### 1.79
-
-Acetic acid
+### 1.79 Acetic acid
 
 391.1
 
@@ -2215,7 +2254,7 @@ Acetic acid
 
 ### 3.90
 
-Reprint 2026-27
+
 
 19 Solutions
 
@@ -2299,12 +2338,15 @@ and these occur naturally
 such as pig's bladder or
 parchment or can be
 synthetic such as cellophane.
-These membranes appear to
-be continuous sheets or
 
-not to
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_9.png" alt="Fig. 1.9" onclick="openImageModal(this.src, 'Fig. 1.9: Fig. 1.9 Level of solution rises in the thistle funnel due to osmosis of solvent...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.9</strong> Fig. 1.9 Level of solution rises in the thistle funnel due to osmosis of solvent.</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
 
-Fig. 1.9
 Level of solution
 rises in the thistle
 funnel due to
@@ -2326,7 +2368,7 @@ films, yet they contain a
 network of submicroscopic
 holes or pores. Small solvent
 
-Reprint 2026-27
+
 
 
 ---
@@ -2357,13 +2399,14 @@ always flow from lower concentration to higher concentration of solution.
 The osmotic pressure has been found to depend on the concentration
 of the solution.
 
-SPM
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_10.png" alt="Fig. 1.10" onclick="openImageModal(this.src, 'Fig. 1.10: The osmotic pressure of a solution is the excess pressure that must be applied t...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.10</strong> The osmotic pressure of a solution is the excess pressure that must be applied to a solution to prevent osmosis, i.e., to stop the passage of solvent molecules through a semipermeable membrane into the solution. This is illustrated in Fig. 1.10. Osmotic pressure is a colligative property as it depends on the number of solute molecules and not on their identity. For dilute solutions, it has been found experimentally that osmotic pressure is proportional to the molarity, C of the solution at a given temperature T. Thus:</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
 
-Patm
-
-Solvent
-
-Fig. 1.10: The excess pressure equal to the the
 osmotic pressure must be applied on
 the solution side to prevent osmosis.
 
@@ -2419,7 +2462,7 @@ determine molar masses of proteins, polymers and other
 
 21 Solutions
 
-Reprint 2026-27
+
 
 
 ---
@@ -2491,7 +2534,7 @@ volume) salt, blood cells swell due to flow of water in them by osmosis.
 People taking a lot of salt or salty food experience water retention in
 tissue cells and intercellular spaces because of osmosis. The resulting
 
-Reprint 2026-27
+
 
 
 ---
@@ -2523,7 +2566,16 @@ Fresh water
 pure solvent flows out of the solution through the semi permeable
 membrane. This phenomenon is called reverse osmosis and is of
 great practical utility. Reverse osmosis is used in desalination of sea
-water. A schematic set up for the process is shown in Fig. 1.11.
+water. A schematic set up for the process is shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_11.png" alt="Fig. 1.11" onclick="openImageModal(this.src, 'Fig. 1.11: The direction of osmosis can be reversed if a pressure larger than the osmotic p...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.11</strong> The direction of osmosis can be reversed if a pressure larger than the osmotic pressure is applied to the solution side. That is, now the pure solvent flows out of the solution through the semi permeable membrane. This phenomenon is called reverse osmosis and is of great practical utility. Reverse osmosis is used in desalination of sea water. A schematic set up for the process is shown in Fig. 1.11.</span>
+    <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
+  </div>
+</div>
+
 When pressure more than osmotic pressure is
 applied, pure water is squeezed out of the sea
 water through the membrane. A variety of
@@ -2581,7 +2633,7 @@ one kg of water would be expected to increase the boiling point by
 2 × 0.52 K = 1.04 K. Now if we did not know about the degree of
 23 Solutions
 
-Reprint 2026-27
+
 
 
 ---
@@ -2671,7 +2723,7 @@ Osmotic pressure of solution, Π
 
 =in₂RT/V
 
-Reprint 2026-27
+
 
 
 ---
@@ -2702,17 +2754,13 @@ NaCl
 
 ### 1.97
 
-### 2.00
-
-KCI
+### 2.00 KCI
 
 ### 1.85 1.94
 
 ### 1.98
 
-### 2.00
-
-MgSO4
+### 2.00 MgSO4
 
 ### 1.21
 
@@ -2720,9 +2768,7 @@ MgSO4
 
 ### 1.82
 
-### 2.00
-
-K2SO4
+### 2.00 K2SO4
 
 ### 2.32
 
@@ -2810,7 +2856,7 @@ But i =
 
 Abnormal molar mass
 
-Reprint 2026-27
+
 
 25 Solutions
 
@@ -2945,7 +2991,7 @@ a
 0.0106 × 0.041 × 0.0106 × 0.041
 0.0106 (1.00 – 0.041)
 
-Reprint 2026-27
+
 
 
 ---
@@ -3008,7 +3054,7 @@ Define the following terms:
 aqueous solution. What should be the molarity of such a sample of the acid if
 the density of the solution is 1.504 g mL¯¹?
 
-Reprint 2026-27
+
 
 27 Solutions
 
@@ -3082,7 +3128,7 @@ for benzene is 5.1 K kg moľ¯¹. Calculate atomic masses of A and B.
 
 Chemistry 28
 
-Reprint 2026-27
+
 
 
 ---
@@ -3172,7 +3218,7 @@ under 760 mm Hg.
 500 torr. Calculate the vapour pressure of pure liquid A and its vapour pressure
 in the solution if the total vapour pressure of the solution is 475 Torr.
 
-Reprint 2026-27
+
 
 29 Solutions
 
@@ -3245,5 +3291,5 @@ not to be repu
 
 Chemistry 30
 
-Reprint 2026-27
+
 

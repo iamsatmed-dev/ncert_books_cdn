@@ -7,7 +7,7 @@
 
 CHAPTER 8
 
-12083CH10
+
 
 MICROBES IN HUMAN WELFARE
 
@@ -56,11 +56,20 @@ agents. Some of the microbes are shown in Figures 8.1
 and 8.2.
 
 Microbes like bacteria and many fungi can be grown
-on nutritive media to form colonies (Figure 8.3), that can
+on nutritive media to form colonies (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_3.png" alt="Fig. 8.3" onclick="openImageModal(this.src, 'Fig. 8.3: Microbes like bacteria and many fungi can be grown on nutritive media to form co...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.3</strong> Microbes like bacteria and many fungi can be grown on nutritive media to form colonies (Figure 8.3), that can be seen with the naked eyes. Such cultures are useful in studies on micro-organisms.</span>
+    <button class="icon-btn" onclick="goToPdfPage(1)">📄 View in PDF (Page 1)</button>
+  </div>
+</div>
+
 be seen with the naked eyes. Such cultures are useful in
 studies on micro-organisms.
 
-Reprint 2025-26
+
 
 
 ---
@@ -68,41 +77,25 @@ Reprint 2025-26
 
 -Flagella
 
-Head
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_1.png" alt="Fig. 8.1" onclick="openImageModal(this.src, 'Fig. 8.1: (c) Figure 8.1 Bacteria: (a) Rod-shaped, magnified 1500X; (b) Spherical shaped, ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.1</strong> (c) Figure 8.1 Bacteria: (a) Rod-shaped, magnified 1500X; (b) Spherical shaped, magnified1500X; (c) A rod- shaped bacterium showing flagella, magnified 50,000X</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
-(a)
-
-Collar
-
-Tail
-Plate
-
-(b)
-
-Prongs
-
-(a)
-
-Rod-shaped
-bacterium
-
-(c)
-
-Pins
-
-(b)
-
-d
-
-BIOLOGY
-
-Figure 8.1 Bacteria: (a) Rod-shaped,
 magnified 1500X; (b) Spherical
 shaped, magnified1500X; (c) A rod-
 shaped bacterium showing flagella,
-magnified 50,000X
 
-Figure 8.2
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_2.png" alt="Fig. 8.2" onclick="openImageModal(this.src, 'Fig. 8.2: Figure 8.2 Viruses: (a) A bacteriophage; (b) Adenovirus which causes respiratory...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.2</strong> Figure 8.2 Viruses: (a) A bacteriophage; (b) Adenovirus which causes respiratory infections; (c) Rod-shaped Tobacco Mosaic Virus (TMV). Magnified about 1,00,000–1,50,000X</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 ONCE
 
@@ -131,7 +124,7 @@ Mosaic Virus (TMV). Magnified about
 Figure 8.3 (a) Colonies of bacteria growing in a petri dish;
 (b) Fungal colony growing in a petri dish
 
-Reprint 2025-26
+
 
 Fungal colony
 
@@ -188,11 +181,18 @@ growing a specific fungi on them, which gives them a particular flavour.
 Even in industry, microbes are used to synthesise a number of products
 valuable to human beings. Beverages and antibiotics are some examples.
 Production on an industrial scale, requires growing microbes in very large
-vessels called fermentors (Figure 8.4).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_4.png" alt="Fig. 8.4" onclick="openImageModal(this.src, 'Fig. 8.4: Even in industry, microbes are used to synthesise a number of products valuable ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.4</strong> Even in industry, microbes are used to synthesise a number of products valuable to human beings. Beverages and antibiotics are some examples. Production on an industrial scale, requires growing microbes in very large vessels called fermentors (Figure 8.4).</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 151
 
-Reprint 2025-26
+
 
 
 ---
@@ -221,7 +221,14 @@ Wine and beer are produced without distillation
 whereas whisky, brandy and rum are produced
 by distillation of the fermented broth. The
 photograph of a fermentation plant is shown in
-Figure 8.5.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_5.png" alt="Fig. 8.5" onclick="openImageModal(this.src, 'Fig. 8.5: Microbes especially yeasts have been used from time immemorial for the productio...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.5</strong> Microbes especially yeasts have been used from time immemorial for the production of beverages like wine, beer, whisky, brandy or rum. For this purpose the same yeast Saccharomyces cerevisiae used for bread-making and commonly called brewer’s yeast, is used for fermenting malted cereals and fruit juices, to produce ethanol. Do you recollect the metabolic reactions, which result in the production of ethanol by yeast? Depending on the type of the raw material used for fermentation and the type of processing (with or without distillation) different types of alcoholic drinks are obtained. Wine and beer are produced without distillation whereas whisky, brandy and rum are produced by distillation of the fermented broth. The photograph of a fermentation plant is shown in Figure 8.5.</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 8.2.2 Antibiotics
 
@@ -255,7 +262,7 @@ Howard Florey. This antibiotic was extensively used to treat American
 soldiers wounded in World War II. Fleming, Chain and Florey were awarded
 the Nobel Prize in 1945, for this discovery.
 
-Reprint 2025-26
+
 
 
 ---
@@ -312,15 +319,19 @@ to make it less polluting. Treatment of waste water is done by the
 
 153
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 6
 
-BIOLOGY
-
-Figure 8.6 Secondary treatment
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_6.png" alt="Fig. 8.6" onclick="openImageModal(this.src, 'Fig. 8.6: Primary treatment : These treatment steps basically involve physical removal of ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.6</strong> Primary treatment : These treatment steps basically involve physical removal of particles – large and small – from the sewage through filtration and sedimentation. These are removed in stages; initially, floating debris is removed by sequential filtration. Then the grit (soil and small pebbles) are removed by sedimentation. All solids that settle form the primary sludge, and the supernatant forms the effluent. The effluent from the primary settling tank is taken for secondary treatment. Secondary treatment or Biological treatment : The primary effluent is passed into large aeration tanks (Figure 8.6) where it is constantly agitated mechanically and air is pumped into it. This allows vigorous growth of useful aerobic microbes into flocs (masses of bacteria associated with fungal filaments to form mesh like structures). While growing, these microbes consume the major part of the organic matter in the effluent. This significantly reduces the BOD (biochemical oxygen demand) of the effluent. BOD refers to the amount of the oxygen that would be consumed if all the organic matter in one liter of water were oxidised by bacteria. The sewage water is treated till the BOD is reduced. The BOD test measures the rate of uptake of oxygen by micro-organisms in a sample of water and thus, indirectly, BOD is a measure of the organic matter present in the water. The greater the BOD of waste water, more is its polluting potential.</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 154
 
@@ -371,10 +382,14 @@ no
 
 The effluent from the secondary treatment plant is generally released
 into natural water bodies like rivers and streams. An aerial view of such
-a plant is shown in Figure 8.7.
 
-Reprint 2025-26
-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_7.png" alt="Fig. 8.7" onclick="openImageModal(this.src, 'Fig. 8.7: The effluent from the secondary treatment plant is generally released into natur...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.7</strong> The effluent from the secondary treatment plant is generally released into natural water bodies like rivers and streams. An aerial view of such a plant is shown in Figure 8.7.</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 ---
 ## 📄 Page 7
@@ -435,7 +450,7 @@ bio-wastes are collected and a slurry of dung is fed. A floating cover is
 
 155
 
-Reprint 2025-26
+
 
 
 ---
@@ -467,13 +482,15 @@ another outlet and may be used
 as fertiliser. Cattle dung is
 available in large quantities in
 rural areas where cattle are used
-for a variety of purposes. So
-biogas plants are more often
-built in rural areas. The biogas
-thus produced is used for
-cooking and lighting. The
-picture of a biogas plant is
-shown in Figure 8.8. The
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_8.png" alt="Fig. 8.8" onclick="openImageModal(this.src, 'Fig. 8.8: placed over the slurry, which keeps on rising as the gas is produced in the tank...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.8</strong> placed over the slurry, which keeps on rising as the gas is produced in the tank due to the microbial activity. The biogas plant has an outlet, which is connected to a pipe to supply biogas to nearby houses. The spent slurry is removed through another outlet and may be used as fertiliser. Cattle dung is available in large quantities in rural areas where cattle are used for a variety of purposes. So biogas plants are more often built in rural areas. The biogas thus produced is used for cooking and lighting. The picture of a biogas plant is shown in Figure 8.8. The technology of biogas production was developed in India mainly due to the efforts of Indian Agricultural Research Institute (IARI) and Khadi and Village Industries Commission (KVIC). If your school is situated in a village or near a village, it would be very interesting to enquire if there are any biogas plants nearby. Visit the biogas plant and learn more about it from the people who are actually managing it.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 technology of biogas production
 was developed in India mainly
 
@@ -510,7 +527,7 @@ are kept at manageable levels by a complex system of checks and balances
 within a living and vibrant ecosystem. Contrary to the ‘conventional'
 farming practices which often use chemical methods to kill both useful
 
-Reprint 2025-26
+
 
 
 ---
@@ -571,7 +588,7 @@ of concern. The use of the chemical fertilisers to meet the ever-increasing
 
 157
 
-Reprint 2025-26
+
 
 
 ---
@@ -631,7 +648,7 @@ Antibiotics like penicillins produced by useful microbes are used to kill
 disease-causing harmful microbes. Antibiotics have played a major role
 in controlling infectious diseases like diphtheria, whooping cough and
 
-Reprint 2025-26
+
 
 
 ---
@@ -698,7 +715,7 @@ relatively clean?
 
 159
 
-Reprint 2025-26
+
 
 
 ---
@@ -726,9 +743,9 @@ Biogas, Citric acid, Penicillin and Curd
 
 © NCERT
 
-not to be republished
+
 
 160
 
-Reprint 2025-26
+
 

@@ -40,10 +40,27 @@ not
 आवेश विन्यास के कारण किसी स्थिरवैद्युत क्षेत्र E पर विचार कीजिए। सरलता की दृष्टि से
 पहले मूल बिंदु पर स्थित किसी आवेश के कारण क्षेत्र E पर विचार करते हैं। कल्पना कीजिए
 कि हम कोई परीक्षण आवेश १ को आवेश के कारण आवेश q पर लगे प्रतिकर्षी बल के विरुद्ध,
-बिंदु R से बिंदु P तक लाते हैं। चित्र 2.1 के संदर्भ में ऐसा तभी होगा जब तथा q दोनों धनात्मक
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_1_hi.png" alt="
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_hi.png" alt="चित्र 2" onclick="openImageModal(this.src, 'चित्र 2: mnkgj.k 2.10 (a) 900 pF osQ fdlh laèkkfj=k dks 100 V cSVjh ls vkosf&#39;kr fd;k ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2</strong> mnkgj.k 2.10 (a) 900 pF osQ fdlh laèkkfj=k dks 100 V cSVjh ls vkosf'kr fd;k x;k [fp=k 2-31(a)]A laèkkfj=k esa lafpr oqQy fLFkjoS|qr ÅtkZ fdruh gS\ (b) bl laèkkfj=k dks cSVjh ls fo;ksftr djosQ fdlh vU; 900 pF osQ laèkkfj=k ls la;ksftr fd;k x;kA fudk; }kjk lafpr fLFkjoS|qr ÅtkZ fdruh gS\</span>
+    <button class="icon-btn" onclick="goToPdfPage(31)">📄 View in PDF (Page 31)</button>
+  </div>
+</div>
+
+<div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.1</strong> vkos'k foU;kl osQ dkj.k fdlh fLFkjoS|qr {ks=k E ij fopkj dhft,A ljyrk dh n`f"V ls igys ewy ¯cnq ij fLFkr fdlh vkos'k Q osQ dkj.k {ks=k E ij fopkj djrs gSaA dYiuk dhft, fd ge dksbZ ijh{k.k vkos'k q dks vkos'k Q osQ dkj.k vkos'k q ij yxs çfrd"khZ cy osQ fo#¼] ¯cnq R ls ¯cnq P rd ykrs gSaA fp=k 2.1 osQ lanHkZ esa ,slk rHkh gksxk tc Q rFkk q nksuksa èkukRed gksa vFkok nksuksa ½.kkRed gksaA lqfuf'pr djus osQ fy,] ge Q, q > 0 ekurs gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(1)">📄 View in PDF (Page 1)</button>
+  </div>
+</div>
+
 हों अथवा दोनों ऋणात्मक हों। सुनिश्चित करने के लिए, हम Q, q> 0 मानते हैं।
 
-Reprint 2026-27
+
 
 
 ---
@@ -147,12 +164,20 @@ b
 करता है। इसका अर्थ यह है कि किसी स्थिरवैद्युत क्षेत्र द्वारा किसी आवेश को एक बिंदु से
 दूसरे बिंदु तक ले जाने में किया गया कार्य केवल आरंभिक तथा अंतिम स्थितियों (बिंदुओं)
 पर निर्भर करता है, उस पथ पर निर्भर नहीं करता जिससे होकर वह आवेश एक बिंदु से दूसरे
-बिंदु तक जाता है (चित्र 2.2)। यह किसी संरक्षी बल का मूल अभिलक्षण है। स्थितिज ऊर्जा
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_2_hi.png" alt="चित्र 2.2" onclick="openImageModal(this.src, 'चित्र 2.2: djrk gSA bldk vFkZ ;g gS fd fdlh fLFkjoS|qr {ks=k }kjk fdlh vkos&#39;k dks ,d ¯c...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.2</strong> djrk gSA bldk vFkZ ;g gS fd fdlh fLFkjoS|qr {ks=k }kjk fdlh vkos'k dks ,d ¯cnq ls nwljs ¯cnq rd ys tkus esa fd;k x;k dk;Z osQoy vkjafHkd rFkk vafre fLFkfr;ksa (¯cnqvksa) ij fuHkZj djrk gS] ml iFk ij fuHkZj ugha djrk ftlls gksdj og vkos'k ,d ¯cnq ls nwljs ¯cnq rd tkrk gS (fp=k 2.2)A ;g fdlh laj{kh cy dk ewy vfHky{k.k gSA fLFkfrt ÅtkZ dh èkkj.kk vFkZiw.kZ ugha jgsxh] ;fn fd;k x;k dk;Z iFk ij fuHkZj gks tk,xkA fdlh fLFkjoS|qr {ks=k }kjk fd, x, dk;Z dk iFk ij fuHkZj u gksuk owQykWe osQ fu;e }kjk fl¼ fd;k tk ldrk gSA bldh miifÙk ge ;gk¡ NksM+ jgs gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 की धारणा अर्थपूर्ण नहीं रहेगी, यदि किया गया कार्य पथ पर निर्भर हो जाएगा। किसी स्थिरवैद्युत
 क्षेत्र द्वारा किए गए कार्य का पथ पर निर्भर न होना कूलॉम के नियम द्वारा सिद्ध किया जा
 सकता है। इसकी उपपत्ति हम यहाँ छोड़ रहे हैं।
 
-Reprint 2026-27
+
 
 45
 
@@ -243,7 +268,7 @@ q
 बाह्य बल द्वारा किसी एकांक धनावेश को अनंत से किसी बिंदु तक लाने में किया गया
 कार्य = उस बिंदु पर स्थिरवैद्युत विभव (V)
 
-Reprint 2026-27
+
 
 
 ---
@@ -283,7 +308,16 @@ q
 
 shed
 
-मूल बिंदु पर स्थित किसी बिंद आवेश पर विचार कीजिए (चित्र 2.3)। सुस्पष्टता की दष्टि
+मूल बिंदु पर स्थित किसी बिंद आवेश पर विचार कीजिए (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_3_hi.png" alt="चित्र 2.3" onclick="openImageModal(this.src, 'चित्र 2.3: ewy ¯cnq ij fLFkr fdlh ¯cnq vkos&#39;k Q ij fopkj dhft, (fp=k 2.3)A lqLi&quot;Vr...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.3</strong> ewy ¯cnq ij fLFkr fdlh ¯cnq vkos'k Q ij fopkj dhft, (fp=k 2.3)A lqLi"Vrk dh n`f"V ls Q dks èkukRed yhft,A ge ¯cnq P ij ewy ¯cnq ls fLFkfr lfn'k r osQ lkFk foHko fuèkkZfjr djuk pkgrs gSaA blosQ fy, gesa ,dkad èkukos'k dks vuar ls ml ¯cnq rd ykus esa fd;k x;k dk;Z ifjdfyr djuk pkfg,A</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 से Q को धनात्मक लीजिए। हम बिंदू P पर मूल बिंदु से स्थिति सदिश के साथ विभव निर्धारित
 करना चाहते हैं। इसके लिए हमें एकांक धनावेश को अनंत से उस
 
@@ -377,7 +411,7 @@ V(r) =
 
 (2.8)
 
-Reprint 2026-27
+
 
 
 ---
@@ -424,7 +458,14 @@ V
 
 ### 4.5
 
-चित्र 2.4 किसी बिंदु आवेश के लिए दूरी में परिवर्तन के साथ विभव में
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_4_hi.png" alt="चित्र 2.4" onclick="openImageModal(this.src, 'चित्र 2.4: fp=k 2.4 fdlh ¯cnq vkos&#39;k Q osQ fy, nwjh r esa ifjorZu osQ lkFk foHko esa...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.4</strong> fp=k 2.4 fdlh ¯cnq vkos'k Q osQ fy, nwjh r esa ifjorZu osQ lkFk foHko esa</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 परिवर्तन (G/4περ) m¯¹ के मात्रकों में (नीला वक्र) तथा दूरी rमें परिवर्तन
 के साथ विद्युत क्षेत्र में परिवर्तन (G/4περ) m² काला वक्र।
 
@@ -493,10 +534,19 @@ V<0 के लिए, अर्थात् अनंत से उस बिं
 जैसा कि हम पिछले अध्याय में जान ही चुके हैं कि वैद्युत द्विध्रुव दो बिंदु आवेशों q तथा -q से
 मिलकर बनता है तथा इन आवेशों के बीच (लघु) पृथकन 2a होता है। इसका कुल आवेश शून्य
 होता है तथा यह द्विध्रुव सदिश p जिसका परिमाण q x 2a तथा दिशा-q से q के अनुदिश होती
-है, के अभिलाक्षणिक गुण द्वारा प्रकट किया जाता है (चित्र 2.5)। हमने यह भी देखा कि किसी
+है, के अभिलाक्षणिक गुण द्वारा प्रकट किया जाता है (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_5_hi.png" alt="चित्र 2.5" onclick="openImageModal(this.src, 'चित्र 2.5: tSlk fd ge fiNys vè;k; esa tku gh pqosQ gSa fd oS|qr f}èkzqo nks ¯cnq vkos&#39;k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.5</strong> tSlk fd ge fiNys vè;k; esa tku gh pqosQ gSa fd oS|qr f}èkzqo nks ¯cnq vkos'kksa q rFkk −q ls feydj curk gS rFkk bu vkos'kksa osQ chp (y?kq) i`Fkdu 2a gksrk gSA bldk oqQy vkos'k 'kwU; gksrk gS rFkk ;g f}èkzqo lfn'k p ftldk ifjek.k q × 2a rFkk fn'kk –q ls q osQ vuqfn'k gksrh gS] osQ vfHkyk{kf.kd xq.k }kjk çdV fd;k tkrk gS (fp=k 2.5)A geus ;g Hkh ns[kk fd fdlh ¯cnq ij oS|qr f}èkqzo dk fLFkfr lfn'k r lfgr fo|qr {ks=k ek=k r osQ ifjek.k ij gh fuHkZj ugha</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 बिंदु पर वैद्युत द्विध्रुव का स्थिति सदिश र सहित विद्युत क्षेत्र मात्र r के परिमाण पर ही निर्भर नहीं
 
-Reprint 2026-27
+
 
 
 ---
@@ -657,7 +707,7 @@ r2
 
 अब, P cos 0 = p•r
 
-Reprint 2026-27
+
 
 (2.14)
 
@@ -732,7 +782,15 @@ r तथा द्विध्रुव आघूर्ण p के बीच �
 ### 2.5 आवेशों के निकाय के कारण विभव
 
 किसी आवेशों q1, q2,..., q, के ऐसे निकाय पर विचार कीजिए जिनके किसी मूल बिंदु के सापेक्ष
-स्थिति सदिश क्रमशः r₁, r₂,..., r हैं (चित्र 2.6)। बिंदु P पर आवेश q₁ के कारण विभव
+स्थिति सदिश क्रमशः r₁, r₂,..., r हैं (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_6_hi.png" alt="चित्र 2.6" onclick="openImageModal(this.src, 'चित्र 2.6: fp=k 2.6 fdlh ¯cnq ij vkos&#39;kksa osQ fudk; osQ dkj.k foHko...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.6</strong> fp=k 2.6 fdlh ¯cnq ij vkos'kksa osQ fudk; osQ dkj.k foHko</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
 01.10
 
@@ -796,7 +854,7 @@ An
 
 InP
 
-Reprint 2026-27
+
 
 nP
 
@@ -854,7 +912,15 @@ RT
 अनंत पर वैद्युत विभव शून्य लीजिए।
 
 हल मान लीजिए धनावेश मूल बिंदु O पर रखा है। दोनों आवेशों को मिलाने वाली रेखा
-x-अक्ष है; तथा ऋणावेश मूल बिंदु के दाईं ओर रखा है (चित्र 2.7 देखिए)।
+x-अक्ष है; तथा ऋणावेश मूल बिंदु के दाईं ओर रखा है (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_7_hi.png" alt="चित्र 2.7" onclick="openImageModal(this.src, 'चित्र 2.7: x-v{k gS_ rFkk ½.kkos&#39;k ewy ¯cnq osQ nkbZ± vksj j[kk gS (fp=k 2.7 nsf[k,)A...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.7</strong> x-v{k gS_ rFkk ½.kkos'k ewy ¯cnq osQ nkbZ± vksj j[kk gS (fp=k 2.7 nsf[k,)A</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 Ο
 
@@ -913,7 +979,7 @@ X
 
 x-15
 
-Reprint 2026-27
+
 
 उदाहरण 2.2
 
@@ -952,21 +1018,14 @@ X
 ही व्युत्पन्न किया गया था।
 
 उदाहरण 2.3 (a) तथा (b) में क्रमशः एकल धन तथा ऋण आवेशों की क्षेत्र रेखाएँ दर्शायी
-गई हैं
 
-9
-
-P
-
-(a)
-
-ERT
-
-blished
-
-• B
-
-चित्र 2.8
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_8_hi.png" alt="चित्र 2.8" onclick="openImageModal(this.src, 'चित्र 2.8: fp=k 2.8...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.8</strong> fp=k 2.8</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 (a) विभवांतर Vp - Vo; VB - VA के चिह्न बताइए।
 
@@ -1016,11 +1075,19 @@ B
 (e) ऋणावेश पर प्रतिकर्षी बल लगने के कारण वेग घटता है अतः B से A तक जाने में
 गतिज ऊर्जा घट जाती है।
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 10
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_9_hi.png" alt="चित्र 2.9" onclick="openImageModal(this.src, 'चित्र 2.9: fp=k 2.9 fdlh ,dy vkos&#39;k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.9</strong> fp=k 2.9 fdlh ,dy vkos'k</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
 स्थिरवैद्युत विभव
 तथा धारिता
@@ -1055,30 +1122,25 @@ V =
 है। समविभव पृष्ठ किसी आवेश विन्यास के चारों ओर की विद्युत क्षेत्र रेखाओं के दृश्यों के
 वैकल्पिक दृश्य प्रस्तुत करते हैं।
 
-ep
-
-E
-
-(a)
-
-+9
-
-(b)
-
-चित्र 2.9 किसी एकल आवेश
-१ के लिए (a) समविभव पृष्ठ
-संकेंद्री गोलीय पृष्ठ होते हैं
-जिनके केंद्र पर आवेश स्थित
-होता है, तथा (b) यदि q > 0
-है, तो क्षेत्र रेखाएँ आवेश से
-आरंभ होने वाली अरीय रेखाएँ
-होती हैं।
-
-चित्र 2.10 किसी एकसमान विद्युत क्षेत्र के लिए समविभव पृष्ठ।
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_10_hi.png" alt="चित्र 2.10" onclick="openImageModal(this.src, 'चित्र 2.10: fp=k 2.10 fdlh ,dleku fo|qr {ks=k osQ fy, lefoHko i`&quot;BA...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.10</strong> fp=k 2.10 fdlh ,dleku fo|qr {ks=k osQ fy, lefoHko i`"BA</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
 किसी अक्ष के अनुदिश, मान लीजिए x-अक्ष के अनुदिश किसी एकसमान विद्युत क्षेत्र E के
 लिए, समविभव पृष्ठ x-अक्ष के अभिलंबवत, अर्थात y-z तल के समांतर तल होते हैं (चित्र
-2.10)। चित्र 2.11 में (a) किसी वैद्युत द्विध्रुव तथा (b) में दो सर्वसम धनावेशों के कारण
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_11_hi.png" alt="चित्र 2.11" onclick="openImageModal(this.src, 'चित्र 2.11: fp=k 2.11(a) fdlh oS|qr f}èkqzo rFkk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.11</strong> fp=k 2.11(a) fdlh oS|qr f}èkqzo rFkk</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 समविभव पृष्ठ तथा वैद्युत रेखाएँ दर्शाई गई हैं।
 
 (a)
@@ -1088,7 +1150,7 @@ E
 चित्र 2.11(a) किसी वैद्युत द्विध्रुव तथा
 (b) दो सर्वसम धनावेशों के क्षेत्र के लिए कुछ समविभव पृष्ठ।
 
-Reprint 2026-27
+
 
 53
 
@@ -1114,7 +1176,16 @@ V+8V
 
 V
 
-एक-दूसरे के पास रखे दो समविभव पृष्ठों A तथा B (चित्र 2.12) जिनके विभवों के मान क्रमशः
+एक-दूसरे के पास रखे दो समविभव पृष्ठों A तथा B (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_12_hi.png" alt="चित्र 2.12" onclick="openImageModal(this.src, 'चित्र 2.12: ,d&nwljs osQ ikl j[ks nks lefoHko i`&quot;Bksa A rFkk B (fp=k 2.12) ftuosQ foHko...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.12</strong> ,d&nwljs osQ ikl j[ks nks lefoHko i`"Bksa A rFkk B (fp=k 2.12) ftuosQ foHkoksa osQ eku Øe'k%</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 V तथा V + 8V हैं, यहाँ SV विद्युत क्षेत्र E की दिशा में V में परिवर्तन है।
 मान लीजिए पृष्ठ B पर कोई बिंदु P है। मान लीजिए पृष्ठ A की बिंदु P
 से लंबवत दूरी 81 है। यह भी मानिए कि विद्युत क्षेत्र के विरुद्ध कोई एकांक
@@ -1206,7 +1277,7 @@ q₂ पर किया गया कार्य
 9192
 4πε, Γ12
 
-Reprint 2026-27
+
 
 
 ---
@@ -1217,23 +1288,14 @@ Reprint 2026-27
 चूँकि स्थिरवैद्युत बल संरक्षी है, यह कार्य निकाय की स्थितिज ऊर्जा के रूप
 में संचित हो जाता है। अतः दो आवेशों q₁ तथा qक के निकाय की स्थितिज ऊर्जा
 
-U =
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_13_hi.png" alt="चित्र 2.13" onclick="openImageModal(this.src, 'चित्र 2.13: fp=k 2.13 vkos&#39;kksa q1 rFkk q2 osQ fudk; dh...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.13</strong> fp=k 2.13 vkos'kksa q1 rFkk q2 osQ fudk; dh</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
-1
-
-9192
-4πεο Γ12
-
-(2.22)
-
-91
-
-स्थिरवैद्युत विभव
-तथा धारिता
-
-Γ12
-
-चित्र 2.13 आवेशों q₁ तथा q₂ के निकाय की
 स्थितिज ऊर्जा आवेशों के गुणनफल के
 अनुक्रमानुपाती तथा उनके बीच की दूरी के
 व्युत्क्रमानुपाती होती है।
@@ -1332,15 +1394,14 @@ U =
 व्यंजक, समीकरण (2.26), विन्यास को किस प्रकार संयोजित किया
 गया है, उसके क्रम पर निर्भर नहीं करता। स्थितिज ऊर्जा विन्यास की
 
-Reprint 2026-27
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_14_hi.png" alt="चित्र 2.14" onclick="openImageModal(this.src, 'चित्र 2.14: fp=k 2.14 fp=k esa fn, x, laosQrksa lfgr lehdj.k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.14</strong> fp=k 2.14 fp=k esa fn, x, laosQrksa lfgr lehdj.k</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
-123
-
-91
-
-12
-
-चित्र 2.14 चित्र में दिए गए संकेतों सहित समीकरण
 (2.26) में तीन आवेशों के निकाय की स्थितिज ऊर्जा
 दी गई है।
 
@@ -1361,7 +1422,14 @@ Reprint 2026-27
 वर्तमान अवस्था का अभिलाक्षणिक गुण होता है, यह इस बात पर निर्भर नहीं करता कि इस विन्यास
 को किस प्रकार प्राप्त किया गया है।
 
-उदाहरण 2.4 चित्र 2.15 में दर्शाए अनुसार चार आवेश भुजा d वाले किसी वर्ग ABCD
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_15_hi.png" alt="चित्र 2.15" onclick="openImageModal(this.src, 'चित्र 2.15: mnkgj.k 2.4 fp=k 2.15 esa n&#39;kkZ, vuqlkj pkj vkos&#39;k Hkqtk d okys fdlh oxZ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.15</strong> mnkgj.k 2.4 fp=k 2.15 esa n'kkZ, vuqlkj pkj vkos'k Hkqtk d okys fdlh oxZ ABCD osQ 'kh"kks± ij O;ofLFkr fd, x, gSaA (a) bl O;oLFkk dks ,d lkFk cukus esa fd;k x;k dk;Z Kkr dhft,A (b) dksbZ vkos'k q0 oxZ osQ osaQnz E ij yk;k tkrk gS rFkk pkjksa vkos'k vius 'kh"kks± ij n`<+ jgrs gSaA ,slk djus osQ fy, fdruk vfrfjDr dk;Z djuk iM+rk gS\</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 के शीर्षों पर व्यवस्थित किए गए हैं। (a) इस व्यवस्था को एक साथ बनाने में किया गया
 कार्य ज्ञात कीजिए। (b) कोई आवेश q० वर्ग के केंद्र E पर लाया जाता है तथा चारों आवेश
 अपने शीर्षों पर दृढ़ रहते हैं। ऐसा करने के लिए कितना अतिरिक्त कार्य करना पड़ता है?
@@ -1463,7 +1531,7 @@ q
 
 4πε
 
-Reprint 2026-27
+
 
 
 ---
@@ -1531,7 +1599,7 @@ E उस स्रोत द्वारा उत्पन्न किया �
 में परिवर्तित हो सकता है। परिभाषा के अनुसार, किसी बिंदु P पर विभव V एकांक धनावेश को
 अनंत से उस बिंदु P तक लाने में किए गए कार्य के बराबर होता है (हम निरंतर ही अनंत पर विभव
 
-Reprint 2026-27
+
 
 57
 
@@ -1629,7 +1697,7 @@ not
 (b) दोनों आवेशों को एक-दूसरे से अनंत दूरी तक पृथक करने के लिए कितने कार्य की
 आवश्यकता होगी?
 
-Reprint 2026-27
+
 
 
 ---
@@ -1692,9 +1760,13 @@ q₁V (r₁) + q2V (12) + 9192
 
 ### 2.8.3 बाह्य क्षेत्र में द्विध्रुव की स्थितिज ऊर्जा
 
-3J
-
-चित्र 2.16 में दर्शाए अनुसार किसी एकसमान विद्युत क्षेत्र E में रखे आवेशों q₁
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_16_hi.png" alt="चित्र 2.16" onclick="openImageModal(this.src, 'चित्र 2.16: fp=k 2.16 eas n&#39;kkZ, vuqlkj fdlh ,dleku fo|qr {ks=k E esa j[ks vkos&#39;kksa...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.16</strong> fp=k 2.16 eas n'kkZ, vuqlkj fdlh ,dleku fo|qr {ks=k E esa j[ks vkos'kksa q1 = +q rFkk</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
 q2 = -q के द्विध्रुव पर विचार कीजिए।
 
@@ -1775,7 +1847,7 @@ U (0) = pE cos-cos=-pEcos0 = U(0)=pE(cos-cose)
 
 59
 
-Reprint 2026-27
+
 
 
 ---
@@ -1863,7 +1935,7 @@ q²
 इलेक्ट्रॉन अपनी नियत स्थितियों पर ही दृढ़ रहते हैं। अपघटनी चालकों में धनायन तथा
 ऋणायन दोनों ही आवेश वाहक होते हैं; परंतु इस प्रकरण में स्थिति अधिक जटिल
 
-Reprint 2026-27
+
 
 
 ---
@@ -1923,7 +1995,7 @@ C
 तो चालक के पृष्ठ के अभिलंबवत विद्युत क्षेत्र होता है; इसका यह अभिप्राय है कि चालक के
 पृष्ठ के किसी बिंदु का विभव चालक से तुरंत बाहर के बिंदु के विभव से भिन्न होगा।
 
-Reprint 2026-27
+
 
 61
 
@@ -1948,7 +2020,15 @@ E = n
 यहाँ पृष्ठीय आवेश घनत्व तथा n पृष्ठ के अभिलंबवत बहिर्मुखी दिशा में एकांक सदिश है।
 
 इस परिणाम को व्युत्पन्न करने के लिए, कोई डिबिया (एक छोटा बेलनाकार खोखला बर्तन)
-चित्र 2.17 में दर्शाए अनुसार, पृष्ठ के किसी बिंदु P के परितः गाउसीय पृष्ठ के रूप में चुनिए।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_17_hi.png" alt="चित्र 2.17" onclick="openImageModal(this.src, 'चित्र 2.17: bl ifj.kke dks O;qRiUu djus osQ fy,] dksbZ fMfc;k (,d NksVk csyukdkj [kks[kyk cr...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.17</strong> bl ifj.kke dks O;qRiUu djus osQ fy,] dksbZ fMfc;k (,d NksVk csyukdkj [kks[kyk crZu) fp=k 2.17 esa n'kkZ, vuqlkj] i`"B osQ fdlh ¯cnq P osQ ifjr% xkmlh; i`"B osQ :i esa pqfu,A bl fMfc;k dk oqQN Hkkx pkyd osQ i`"B osQ ckgj rFkk oqQN Hkkx pkyd osQ i`"B osQ Hkhrj gSA bldh vuqçLFk dkV dk {ks=kiQy δS cgqr NksVk rFkk bldh Å¡pkbZ ux.; gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
+
 इस डिबिया का कुछ भाग चालक के पृष्ठ के बाहर तथा कुछ भाग चालक के पृष्ठ के भीतर
 है। इसकी अनुप्रस्थ काट का क्षेत्रफल 8S बहुत छोटा तथा इसकी ऊँचाई नगण्य है।
 
@@ -2009,20 +2089,35 @@ E =
 क्षेत्र द्वारा उदासीन चालक पर आवेश प्रेरित क्यों न किए गए हों, समस्त आवेश केवल चालक
 पर कोटर सहित उसके बाह्य पृष्ठ पर विद्यमान रहता है।
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 20
 
-चित्र 2.18 में दिए गए परिणामों की व्युत्पत्ति को यहाँ हम छोड़
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_18_hi.png" alt="चित्र 2.18" onclick="openImageModal(this.src, 'चित्र 2.18: fp=k 2.18 fdlh Hkh pkyd dh dksVj (xqgk) osQ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.18</strong> fp=k 2.18 fdlh Hkh pkyd dh dksVj (xqgk) osQ</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
+
 रहे हैं, परंतु हमें इनकी महत्वपूर्ण उलझनों का ध्यान है। बाहर चाहे
 कितना भी आवेश तथा कैसा भी विद्युत क्षेत्र विन्यास क्यों न हो, उस
 चालक में कोई भी कोटर बाह्य विद्युत क्षेत्रों के प्रभाव से सदैव
 परिरक्षित रहती है; कोटर के भीतर विद्युत क्षेत्र सदैव ही शून्य होता है।
 इसे स्थिरवैद्युत परिरक्षण कहते हैं। इस प्रभाव का उपयोग संवेदनशील
-उपकरणों को बाह्य विद्युत प्रभावों से बचाने में किया जाता है। चित्र
-2.19 में किसी चालक के महत्वपूर्ण स्थिरवैद्युत गुणधर्मों का सारांश
+उपकरणों को बाह्य विद्युत प्रभावों से बचाने में किया जाता है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_19_hi.png" alt="चित्र 2.19" onclick="openImageModal(this.src, 'चित्र 2.19: fp=k 2.19 fdlh pkyd osQ oqQN egRoiw.kZ fLFkjoS|qr xq.kèkeZA...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.19</strong> fp=k 2.19 fdlh pkyd osQ oqQN egRoiw.kZ fLFkjoS|qr xq.kèkeZA</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
+
 दिया गया है।
 
 E = 0
@@ -2133,7 +2228,7 @@ X
 है अथवा वर्षा का दिन है तो कंघे और बालों के बीच घर्षण कम हो जाता है तथा कंघा
 आवेशित नहीं होता। अतः वह कागज़ के छोटे टुकड़ों को आकर्षित नहीं करता।
 
-Reprint 2026-27
+
 
 उदाहरण 2.7
 
@@ -2210,58 +2305,25 @@ E。
 सीमा परावैद्युत की प्रकृति पर निर्भर करती है। इस प्रभाव को समझने
 के के लिए हमें किसी परावैद्युत पदार्थ में आण्विक स्तर पर आवेश वितरण
 
-Eअंदर
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_20_hi.png" alt="चित्र 2.20" onclick="openImageModal(this.src, 'चित्र 2.20: fp=k 2.20 fdlh cká fo|qr {ks=k esa fdlh pkyd rFkk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.20</strong> fp=k 2.20 fdlh cká fo|qr {ks=k esa fdlh pkyd rFkk</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
 
-+
-+
-
-+
-
-p+
-
-E. + Eअंदर ≠ 0 + +
-परावैद्युत
-
-+
-
-E。
-
-चित्र 2.20 किसी बाह्य विद्युत क्षेत्र में किसी चालक तथा
 परावैद्युत के व्यवहार में अंतर।
 
 H
 
-H
-
-r
-
-अध्रुवी अणु
-
-H₂
-
-C
-
-ot to be
-
-H
-
-CO2
-
-Cl
-
-H
-
-H
-
-P
-
-ध्रुवी अणु
-
-HCI
-
-H₂O
-
-चित्र 2.21 ध्रुवी तथा अध्रुवी अणुओं के कुछ उदाहरण।
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_21_hi.png" alt="चित्र 2.21" onclick="openImageModal(this.src, 'चित्र 2.21: fp=k 2.21 èkzqoh rFkk vèkzqoh v.kqvksa osQ oqQN mnkgj.kA...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.21</strong> fp=k 2.21 èkzqoh rFkk vèkzqoh v.kqvksa osQ oqQN mnkgj.kA</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
 
 64
 
@@ -2286,7 +2348,7 @@ P
 
 आघूर्ण विकसित कर लेता है। उस स्थिति में परावैद्युत को बाह्य क्षेत्र द्वारा ध्रुवित कहा जाता है। हम
 
-Reprint 2026-27
+
 
 
 ---
@@ -2357,37 +2419,14 @@ E≠ 0
 
 +
 
-+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_22_hi.png" alt="चित्र 2.22" onclick="openImageModal(this.src, 'चित्र 2.22: fp=k 2.22 fdlh cká fo|qr {ks=k esa dksbZ ijkoS|qr fdl çdkj ,d usV...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.22</strong> fp=k 2.22 fdlh cká fo|qr {ks=k esa dksbZ ijkoS|qr fdl çdkj ,d usV</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
 
-+
-
-+
-
-+
-
-+
-
-+
-
-(b) ध्रुवी अणु
-
-+
-
-+
-
--+
-
-+
-
-+
-
-+
-
-+-
-
-+-
-
-चित्र 2.22 किसी बाह्य विद्युत क्षेत्र में कोई परावैद्युत किस प्रकार एक नेट
 द्विध्रुव आघूर्ण विकसित करता है। (a) अध्रुवी अणु, (b) ध्रुवी अणु।
 
 बिगाड़ने का प्रयास करती है। इसके अतिरिक्त अध्रुवी अणुओं की भाँति यहाँ भी प्रेरित द्विध्रुव आघूर्ण
@@ -2418,7 +2457,7 @@ susceptibility) कहते हैं।
 गुटके के प्रत्येक आयतन अल्पांश AV का क्षेत्र की दिशा में एक द्विध्रुव आघूर्ण P AV होता
 है। स्थूल रूप से आयतन अल्पांश Av छोटा होता है, परंतु इसमें अत्यधिक संख्या में
 
-Reprint 2026-27
+
 
 65
 
@@ -2468,37 +2507,14 @@ d
 
 +
 
-+-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_23_hi.png" alt="चित्र 2.23" onclick="openImageModal(this.src, 'चित्र 2.23: vkf.od f}èkzqo gksrs gSaA ijkoS|qr ds Hkhrj fdlh Hkh LFkku ij vk;ru vYika&#39;k ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.23</strong> vkf.od f}èkzqo gksrs gSaA ijkoS|qr ds Hkhrj fdlh Hkh LFkku ij vk;ru vYika'k ∆v ij dksbZ usV vkos'k ugha gksrk (;|fi bldk usV f}èkzqo vk?kw.kZ gksrk gS)A bldk dkj.k ;g gS fd ,d f}èkzqo osQ èkukos'k vius ls layXu f}èkzqo osQ ½.kkos'k osQ fudV gksrs gSaA ijarq] ijkoS|qr osQ i`"B ij fo|qr {ks=k osQ vfHkyacor Li"V :i ls ,d usV vkos'k ?kuRo gksrk gSA tSlk fd fp=k 2.23 esa n'kkZ;k x;k gS] nk,¡ i`"B ij f}èkzqoksa osQ èkukRed fljs rFkk ck,¡ i`"B ij f}èkqzoksa osQ ½.kkRed fljs vuqnkflr jg tkrs gSaA vlarqfyr vkos'k cká {ks=k osQ dkj.k çsfjr vkos'k gksrs gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
+  </div>
+</div>
 
-+-+-
-
-+-
-
-+-
-
-+-+-
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
-+
-
--+
-
-+
-
-+
-
-चित्र 2.23 कोई एकसमान ध्रुवित परावैद्युत
 पृष्ठीय आवेश घनत्व के समान होता है, परंतु
 किसी आयतनी आवेश घनत्व के नहीं।
 
@@ -2521,7 +2537,16 @@ P जाते हैं। असंतुलित आवेश बाह्�
 
 ### 2.11 संधारित्र तथा धारिता
 
-कोई संधारित्र विद्युतरोधी द्वारा पृथक दो चालकों का एक निकाय होता है (चित्र 2.24)। चालकों
+कोई संधारित्र विद्युतरोधी द्वारा पृथक दो चालकों का एक निकाय होता है (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_24_hi.png" alt="चित्र 2.24" onclick="openImageModal(this.src, 'चित्र 2.24: dksbZ laèkkfj=k fo|qrjksèkh }kjk i`Fkd nks pkydksa dk ,d fudk; gksrk gS (fp=k 2....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.24</strong> dksbZ laèkkfj=k fo|qrjksèkh }kjk i`Fkd nks pkydksa dk ,d fudk; gksrk gS (fp=k 2.24)A pkydksa ij vkos'k Q1 rFkk Q2 rFkk muosQ foHko Øe'k% V1 rFkk V2 gSaA çk;%] O;ogkj esa] nks pkydksa ij vkos'k Q rFkk −Q gksrs gSa rFkk muesa foHkokarj V = V1 − V2 gksrk gSA ge osQoy blh çdkj osQ foU;kl osQ laèkkfj=k ij fopkj djsaxsA (,d ljy pkyd dks Hkh la/kfj=k dh Hkk¡fr iz;ksx fd;k tk ldrk gS] ;fn nwljs dks vuar ij ekus) nksuksa pkydksa dks fdlh cSVjh osQ nks VfeZuyksa ls la;ksftr djosQ vkosf'kr djk;k tk ldrk gSA Q dks laèkkfj=k dk vkos'k dgrs gSa] ;|fi] okLro esa ;g laèkkfj=k osQ ,d pkyd ij vkos'k gksrk gSµlaèkkfj=k dk oqQy vkos'k 'kwU; gksrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
+  </div>
+</div>
+
 पर आवेश ₁ तथा ₂ तथा उनके विभव क्रमशः V₁ तथा V₂ हैं। प्रायः, व्यवहार में, दो चालकों
 पर आवेश तथा – होते हैं तथा उनमें विभवांतर V = V₁ - V₂ होता है। हम केवल इसी प्रकार
 के विन्यास के संधारित्र पर विचार करेंगे। (एक सरल चालक को भी संधारित्र की भाँति प्रयोग
@@ -2569,7 +2594,7 @@ V2
 
 66
 
-Reprint 2026-27
+
 
 
 ---
@@ -2606,7 +2631,15 @@ Reprint 2026-27
 Shed
 
 किसी समांतर पट्टिका संधारित्र में दो बड़ी समतल एक- एक-दूसरे के समांतर चार चालक पट्टिकाएँ होती हैं,
-जिनके बीच पृथकन कम होता है (चित्र 2.25)। हम सर्वप्रथम दो पट्टिकाओं के बीच माध्यम के
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_25_hi.png" alt="चित्र 2.25" onclick="openImageModal(this.src, 'चित्र 2.25: fdlh lekarj ifêðdk laèkkfj=k esa nks cM+h lery ,d-nwljs osQ lekarj pkyd ifêðdk,¡...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.25</strong> fdlh lekarj ifêðdk laèkkfj=k esa nks cM+h lery ,d-nwljs osQ lekarj pkyd ifêðdk,¡ gksrh gSa] ftuosQ chp i`Fkdu de gksrk gS (fp=k 2.25)A ge loZçFke nks ifêðdkvksa osQ chp ekè;e osQ :i esa fuokZr dks ysrs gSaA vxys vuqHkkx esa ifêðdkvksa osQ chp ijkoS|qr ekè;e osQ çHkko dk o.kZu fd;k x;k gSA eku yhft, çR;sd ifêðdk dk {ks=kiQy A rFkk muosQ chp i`Fkdu d gSA nksuksa ifêðdkvksa ij vkos'k Q rFkk −Q gSA pw¡fd ifêðdkvksa dh jSf[kd foekvksa dh rqyuk esa d cgqr NksVk gS (d2 << A), ge ,dleku vkosf'kr i`"Bh; ?kuRo σ dh vuar lery pknj osQ fo|qr {ks=k osQ ifj.kke dk mi;ksx dj ldrs gSa (nsf[k, vuqHkkx 1.15)A ifêðdk 1 dk i`"Bh;</span>
+    <button class="icon-btn" onclick="goToPdfPage(24)">📄 View in PDF (Page 24)</button>
+  </div>
+</div>
+
 रूप में निर्वात को लेते हैं। अगले अनुभाग में पट्टिकाओं के बीच परावैद्युत माध्यम के प्रभाव का
 वर्णन किया गया है। मान लीजिए प्रत्येक पट्टिका का क्षेत्रफल A तथा उनके बीच पृथकन d है।
 दोनों पट्टिकाओं पर आवेश तथा - है। चूँकि पट्टिकाओं की रैखिक विमाओं की तुलना में d
@@ -2689,7 +2722,7 @@ II
 
 ΕΑ
 
-Reprint 2026-27
+
 
 E =
 280 280
@@ -2799,7 +2832,7 @@ E =
 
 0
 
-Reprint 2026-27
+
 
 
 ---
@@ -2826,7 +2859,7 @@ Co
 धारिता के मान में निर्वात के मान से वृद्धि हो जाती है। यद्यपि हम समांतर पट्टिका संधारित्र के
 प्रकरण के लिए समीकरण (2.54) पर पहुँचे हैं, तथापि यह हर प्रकार के संधारित्रों पर लागू
 
-Reprint 2026-27
+
 
 C-KA
 
@@ -2894,7 +2927,7 @@ V = Ed = -p d
 
 ONCERT
 
-not to be republished
+
 
 (2.53)
 
@@ -2978,7 +3011,13 @@ VK+3VK+3
 
 ### 2.14.1 संधारित्रों का श्रेणीक्रम संयोजन
 
-चित्र 2.26 में दो संधारित्र C₁ तथा C₂ श्रेणीक्रम में संयोजित दर्शाए गए हैं।
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_26_hi.png" alt="चित्र 2.26" onclick="openImageModal(this.src, 'चित्र 2.26: fp=k 2.26 nks laèkkfj=kksa dk Js.khØe la;kstuA...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.26</strong> fp=k 2.26 nks laèkkfj=kksa dk Js.khØe la;kstuA</span>
+    <button class="icon-btn" onclick="goToPdfPage(27)">📄 View in PDF (Page 27)</button>
+  </div>
+</div>
 
 9
 
@@ -3039,7 +3078,7 @@ V
 
 2
 
-Reprint 2026-27
+
 
 
 ---
@@ -3164,40 +3203,25 @@ C
 
 ### 2.14.2 संधारित्रों का पार्श्वक्रम संयोजन
 
-चित्र 2.28(a) में दो संधारित्र पार्श्वक्रम में संयोजित दर्शाए गए हैं। इस प्रकरण
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_28_hi.png" alt="चित्र 2.28" onclick="openImageModal(this.src, 'चित्र 2.28: 2.14.2 la/kfj=kksa dk ik&#39;oZØe la;kstu fp=k 2.28(a) esa nks laèkkfj=k ik&#39;...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.28</strong> 2.14.2 la/kfj=kksa dk ik'oZØe la;kstu fp=k 2.28(a) esa nks laèkkfj=k ik'oZØe esa la;ksftr n'kkZ, x, gSaA bl çdj.k esa nksuksa laèkkfj=kksa ij leku foHkokarj vuqç;qDr fd;k x;k gSA ijarq laèkkfj=k</span>
+    <button class="icon-btn" onclick="goToPdfPage(28)">📄 View in PDF (Page 28)</button>
+  </div>
+</div>
+
 में दोनों संधारित्रों पर समान विभवांतर अनुप्रयुक्त किया गया है। परंतु संधारित्र
 1 की पट्टिकाओं पर आवेश (± Q₁) का परिमाण संधारित्र 2 की पट्टिकाओं पर
 आवेश (± Q₂) के समान होना आवश्यक नहीं है :
 
-91
-
--91
-
-C
-
-92-92
-
-+
-
-+
-
-+
-
-+
-
-----
-
-----
-
-+
-
-+
-
-C
-
-C2
-
-चित्र 2.27 n संधारित्रों का
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_27_hi.png" alt="चित्र 2.27" onclick="openImageModal(this.src, 'चित्र 2.27: fp=k 2.27 n laèkkfj=kksa dk Js.khØe la;kstuA...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.27</strong> fp=k 2.27 n laèkkfj=kksa dk Js.khØe la;kstuA</span>
+    <button class="icon-btn" onclick="goToPdfPage(28)">📄 View in PDF (Page 28)</button>
+  </div>
+</div>
 
 (2.59)
 
@@ -3295,15 +3319,18 @@ C = C₁ + C₂ + ... Cn
 
 चित्र 2.28 (a) दो संधारित्रों, (b) n संधारित्रों का
 
-पार्श्वक्रम संयोजन।
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_29_hi.png" alt="चित्र 2.29" onclick="openImageModal(this.src, 'चित्र 2.29: mnkgj.k 2.9 fp=k 2.29 esa n&#39;kkZ, vuqlkj 10 µF osQ pkj laèkkfj=kksa osQ fdlh ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.29</strong> mnkgj.k 2.9 fp=k 2.29 esa n'kkZ, vuqlkj 10 µF osQ pkj laèkkfj=kksa osQ fdlh usVooZQ dks 500 V osQ Ïksr ls la;ksftr fd;k x;k gSA (a) usVooZQ dh rqY; èkkfjrk] rFkk (b) çR;sd laèkkfj=k ij vkos'k Kkr dhft,A (uksV% fdlh laèkkfj=k ij vkos'k mldh mPp</span>
+    <button class="icon-btn" onclick="goToPdfPage(28)">📄 View in PDF (Page 28)</button>
+  </div>
+</div>
 
-(2.67)
-
-उदाहरण 2.9 चित्र 2.29 में दर्शाए अनुसार 10µF के चार संधारित्रों के किसी नेटवर्क
 को 500 V के स्रोत से संयोजित किया गया है। (a) नेटवर्क की तुल्य धारिता, तथा (b)
 प्रत्येक संधारित्र पर आवेश ज्ञात कीजिए। (नोट: किसी संधारित्र पर आवेश उसकी उच्च
 
-Reprint 2026-27
+
 
 उदाहरण 2.9
 
@@ -3419,10 +3446,14 @@ Q' = 500 V × 10 μF = 5.0×10¯³ С
 ज्ञात करने के लिए आरंभ में दो अनावेशित चालकों 1 तथा 2 पर विचार कीजिए। अब चालक 2
 से चालक 1 पर आवेश को छोटे-छोटे टुकड़ों में स्थानांतरित करने की किसी प्रक्रिया की कल्पना
 कीजिए, ताकि अंत में चालक 1 पर आवेश आ जाए। आवेश संरक्षण नियम के अनुसार अंत में
-चालक 2 पर - आवेश होता है (चित्र 2.30)।
 
-Reprint 2026-27
-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_30_hi.png" alt="चित्र 2.30" onclick="openImageModal(this.src, 'चित्र 2.30: tSlk fd geus Åij ppkZ esa vè;;u fd;k] laèkkfj=k nks pkydksa dk ,d ,slk fudk; gks...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.30</strong> tSlk fd geus Åij ppkZ esa vè;;u fd;k] laèkkfj=k nks pkydksa dk ,d ,slk fudk; gksrk gS ftl ij vkos'k Q rFkk −Q gksrs gSa rFkk ftuesa oqQN i`Fkdu gksrk gSA bl foU;kl esa lafpr ÅtkZ Kkr djus osQ fy, vkjaHk esa nks vukosf'kr pkydksa 1 rFkk 2 ij fopkj dhft,A vc pkyd 2 ls pkyd 1 ij vkos'k dks NksVs&NksVs VqdM+ksa esa LFkkukarfjr djus dh fdlh çfØ;k dh dYiuk dhft,] rkfd var esa pkyd 1 ij Q vkos'k vk tk,A vkos'k laj{k.k fu;e osQ vuqlkj var esa pkyd 2 ij −Q vkos'k gksrk gS (fp=k 2.30)A</span>
+    <button class="icon-btn" onclick="goToPdfPage(29)">📄 View in PDF (Page 29)</button>
+  </div>
+</div>
 
 ---
 ## 📄 Page 30
@@ -3608,7 +3639,7 @@ U = (1/2) E² × Ad
 
 73
 
-Reprint 2026-27
+
 
 
 ---
@@ -3625,7 +3656,15 @@ Reprint 2026-27
 किसी भी आवेश विन्यास के कारण विद्युत क्षेत्र पर लागू होता है।
 
 उदाहरण 2.10 (a) 900 pF के किसी संधारित्र को 100V बैटरी से आवेशित किया
-गया [चित्र 2.31(a)]। संधारित्र में संचित कुल स्थिरवैद्युत ऊर्जा कितनी है? (b) इस
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_31_hi.png" alt="चित्र 2.31" onclick="openImageModal(this.src, 'चित्र 2.31: fp=k 2.31 gy...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.31</strong> fp=k 2.31 gy</span>
+    <button class="icon-btn" onclick="goToPdfPage(31)">📄 View in PDF (Page 31)</button>
+  </div>
+</div>
+
 संधारित्र को बैटरी से वियोजित करके किसी अन्य 900 pF के संधारित्र से संयोजित किया
 गया। निकाय द्वारा संचित स्थिरवैद्युत ऊर्जा कितनी है?
 
@@ -3711,7 +3750,7 @@ V' है। तब, प्रत्येक संधारित्र पर
 पहले संधारित्र से दूसरे संधारित्र में एक अस्थायी विद्युत धारा प्रवाहित होती है। इस
 अवधि में ऊष्मा तथा विद्युत चुंबकीय विकिरणों के रूप में कुछ ऊर्जा-क्षय हो जाती है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -3799,7 +3838,7 @@ U =
 7. किसी बाह्य विभव V(r) में आवेश q की स्थितिज ऊर्जा q V(r) होती है। एकसमान विद्युत क्षेत्र
 E में किसी द्विध्रुव p की स्थितिज ऊर्जा - p. E होती है।
 
-Reprint 2026-27
+
 
 75
 
@@ -3893,7 +3932,7 @@ U = = QV =
 किसी विद्युत क्षेत्र के स्थान पर वैद्युत आवेश घनत्व (प्रति एकांक आयतन ऊर्जा)
 (1/2)&E² होता है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -3987,7 +4026,7 @@ shed
 में भीतर आवेश रख देते हैं, तब तो चालक का बहिर्भाग भीतर के आवेशों के विद्युत क्षेत्रों से
 परिरक्षित नहीं रहता।
 
-Reprint 2026-27
+
 
 77
 
@@ -4013,9 +4052,7 @@ Reprint 2026-27
 
 ### 2.7
 
-### 2.8
-
-अभ्यास
+### 2.8 अभ्यास
 
 5 × 10-8 C तथा –3 × 10-8 C के दो आवेश 16cm दूरी पर स्थित हैं। दोनों आवेशों को
 मिलाने वाली रेखा के किस बिंदु पर वैद्युत विभव शून्य होगा? अनंत पर विभव शून्य लीजिए।
@@ -4065,9 +4102,7 @@ shed
 
 not t
 
-### 2.9
-
-अभ्यास 2.8 में दिए गए संधारित्र की पट्टिकाओं के बीच यदि 3 mm मोटी अभ्रक की एक शीट
+### 2.9 अभ्यास 2.8 में दिए गए संधारित्र की पट्टिकाओं के बीच यदि 3 mm मोटी अभ्रक की एक शीट
 (पत्तर) (परावैद्युतांक = 6) रख दी जाती है तो स्पष्ट कीजिए कि क्या होगा जब
 
 (a) विभव (वोल्टेज) संभरण जुड़ा ही रहेगा।
@@ -4081,5 +4116,5 @@ not t
 संभरण से वियोजित कर देते हैं तथा एक अन्य 600 pF वाले अनावेशित संधारित्र से जोड़ देते
 हैं। इस प्रक्रिया में कितनी ऊर्जा का ह्रास होता है?
 
-Reprint 2026-27
+
 

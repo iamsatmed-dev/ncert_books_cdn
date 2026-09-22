@@ -9,7 +9,7 @@
 
 तरंग-प्रकाशिकी
 
-12092CH10
+
 
 ONCERT
 be republished
@@ -32,7 +32,7 @@ be republished
 सन् 1850 में फूको द्वारा किए गए प्रयोग द्वारा दर्शाया गया कि जल में प्रकाश की चाल वायु में
 प्रकाश की चाल से कम है। इस प्रकार तरंग मॉडल की प्रागुक्ति की पुष्टि की गई।
 
-Reprint 2025-26
+
 
 
 ---
@@ -89,7 +89,7 @@ no
 समय पश्चात (लगभग 1890 में) हेनरी हर्ट्ज़ ने प्रयोगशाला में रेडियो तरंगें उत्पन्न कीं। जगदीश चंद्र
 बोस तथा मारकोनी ने हर्ट्ज़ की तरंगों का प्रायोगिक उपयोग किया।
 
-Reprint 2025-26
+
 
 
 ---
@@ -110,7 +110,15 @@ Reprint 2025-26
 
 यदि एक बिंदु-स्रोत प्रत्येक दिशा में एक समान तरंगें उत्सर्जित करता है तो उन बिंदुओं
 का बिंदुपथ, जिनका आयाम समान है और जो एक समान कला में कंपन करते हैं, गोला होता
-है तथा हमें चित्र 10.1 (a) की भाँति एक गोलीय तरंग प्राप्त होती है। स्रोत से बहुत अधिक
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_1_hi.png" alt="चित्र 10.1" onclick="openImageModal(this.src, 'चित्र 10.1: ;fn ,d ¯cnq&lzksr izR;sd fn&#39;kk esa ,d leku rjaxsa mRl£tr djrk gS rks mu ¯cnq...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.1</strong> ;fn ,d ¯cnq&lzksr izR;sd fn'kk esa ,d leku rjaxsa mRl£tr djrk gS rks mu ¯cnqvksa dk ¯cnqiFk] ftudk vk;ke leku gS vkSj tks ,d leku dyk esa oaQiu djrs gSa] xksyk gksrk gS rFkk gesa fp=k 10.1 (a) dh Hkk¡fr ,d xksyh; rjax izkIr gksrh gSA lzksr ls cgqr vf/d nwjh ij] xksys dk ,d NksVk Hkkx lery ekuk tk ldrk gS vkSj gesa ,d lery rjax izkIr gksrh gS [fp=k 10.1 (b)]A</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 दूरी पर, गोले का एक छोटा भाग समतल माना जा सकता है और हमें एक समतल तरंग प्राप्त
 होती है [चित्र 10.1 (b)]।
 
@@ -126,7 +134,15 @@ she
 एक ज्यामितीय रचना है जो किसी समय यदि तरंगाग्र की आकृति दी हुई हो तो किसी बाद के समय
 पर हम तरंगाग्र की आकृति ज्ञात कर सकते हैं। आइए, एक अपसरित तरंग के बारे में विचार करें
 और मान लीजिए F₁F₂, t = 0 समय पर एक गोलीय तरंगाग्र के एक भाग को प्रदर्शित करता है
-(चित्र 10.2)। अब हाइगेंस के सिद्धांत के अनुसार, तरंगाग्र का प्रत्येक बिंदु एक द्वितीयक विक्षोभ
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_2_hi.png" alt="चित्र 10.2" onclick="openImageModal(this.src, 'चित्र 10.2: vc ;fn gesa t = 0 ij fdlh rjaxkxz dh vko`Qfr Kkr gS rks gkbxsal osQ fl¼kar }kjk ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.2</strong> vc ;fn gesa t = 0 ij fdlh rjaxkxz dh vko`Qfr Kkr gS rks gkbxsal osQ fl¼kar }kjk ge fdlh ckn osQ le; τ ij rjaxkxz dh vko`Qfr Kkr dj ldrs gSaA vr% gkbxsal dk fl¼kar okLro esa ,d T;kferh; jpuk gS tks fdlh le; ;fn rjaxkxz dh vko`Qfr nh gqbZ gks rks fdlh ckn osQ le; ij ge rjaxkxz dh vko`Qfr Kkr dj ldrs gSaA vkb,] ,d vilfjr rjax osQ ckjs esa fopkj djsa vkSj eku yhft, F1F2, t = 0 le; ij ,d xksyh; rjaxkxz osQ ,d Hkkx dks izn£'kr djrk gS (fp=k 10.2)A vc gkbxsal osQ fl¼kar osQ vuqlkj] rjaxkxz dk izR;sd ¯cnq ,d f}rh;d fo{kksHk dk lzksr gS vkSj bu ¯cnqvksa ls gksus okyh rjafxdk,¡ rjax dh xfr ls lHkh fn'kkvksa esa iSQyrh gSaA rjaxkxz ls fuxZeu gksus okyh bu rjafxdkvksa dks izk;% f}rh;d rjafxdkvksa osQ uke ls tkuk tkrk gS vkSj ;fn ge bu lHkh xksyksa ij ,d mHk;fu"B Li'kZd i`"B [khapsa rks gesa fdlh ckn osQ le; ij rjaxkxz dh u;h fLFkfr izkIr gks tkrh gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 का स्रोत है और इन बिंदुओं से होने वाली तरंगिकाएँ तरंग की गति से सभी दिशाओं में फैलती हैं।
 तरंगाग्र से निर्गमन होने वाली इन तरंगिकाओं को प्रायः द्वितीयक तरंगिकाओं के नाम से जाना जाता
 है और यदि हम इन सभी गोलों पर एक उभयनिष्ठ स्पर्शक पृष्ठ खींचें तो हमें किसी बाद के समय
@@ -169,7 +185,7 @@ D₁D, विद्यमान नहीं होती।
 अतः यदि हम t = t समय पर तरंगाग्र की आकृति ज्ञात करना चाहते हैं तो हम गोलीय
 तरंगाग्र के प्रत्येक बिंदु से vr त्रिज्या के गोले खींचेंगे, जहाँ पर माध्यम में तरंग की चाल को
 
-Reprint 2025-26
+
 
 257
 
@@ -177,30 +193,13 @@ Reprint 2025-26
 ---
 ## 📄 Page 4
 
-- भौतिकी
-
-F
-
-G1
-
-A1
-
-A2
-
-B1 B2
-
-C1 C2
-
-D1 D2
-
-F2
-
-t = 0
-
-G2
-t = τ
-
-चित्र 10.3 दाईं ओर संचरित
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_3_hi.png" alt="चित्र 10.3" onclick="openImageModal(this.src, 'चित्र 10.3: blh fof/ }kjk ge gkbxsal osQ fl¼kar dk mi;ksx fdlh ekè;e esa lapfjr gksus okyh l...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.3</strong> blh fof/ }kjk ge gkbxsal osQ fl¼kar dk mi;ksx fdlh ekè;e esa lapfjr gksus okyh lery rjax osQ rjaxkxz dh vko`Qfr Kkr djus osQ fy, dj ldrs gSa (fp=k 10.3)A</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 होने वाली एक समतल तरंग
 
@@ -245,8 +244,16 @@ D₁D₂ द्वारा दर्शाया गया है। हाइ�
 1
 
 अब हम हाइगेंस के सिद्धांत का उपयोग अपवर्तन के नियमों को व्युत्पन्न करने के लिए करेंगे। मान
-लीजिए PP' माध्यम 1 तथा माध्यम 2 को पृथक करने वाले पृष्ठ को निरूपित करता है (चित्र
-10.4)। मान लीजिए v₁ तथा v₂ क्रमशः माध्यम 1 तथा माध्यम 2 में प्रकाश की चाल को निरूपित
+लीजिए PP' माध्यम 1 तथा माध्यम 2 को पृथक करने वाले पृष्ठ को निरूपित करता है (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_4_hi.png" alt="चित्र 10.4" onclick="openImageModal(this.src, 'चित्र 10.4: vc ge gkbxsal osQ fl¼kar dk mi;ksx viorZu osQ fu;eksa dks O;qRiUu djus osQ fy, d...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.4</strong> vc ge gkbxsal osQ fl¼kar dk mi;ksx viorZu osQ fu;eksa dks O;qRiUu djus osQ fy, djsaxsA eku yhft, PP′ ekè;e 1 rFkk ekè;e 2 dks i`Fkd djus okys i`"B dks fu:fir djrk gS (fp=k 10.4)A eku yhft, v1 rFkk v2 Øe'k% ekè;e 1 rFkk ekè;e 2 esa izdk'k dh pky dks fu:fir djrs gSaA ge eku ysrs gSa fd ,d lery rjaxkxz AB, A′A fn'kk esa lapfjr gksrk gqvk fp=k esa n'kkZ, vuqlkj varjki`"B ij dks.k i cukrs gq, vkifrr gksrk gSA eku yhft, BC nwjh pyus osQ fy, rjaxkxz }kjk fy;k x;k le; τ gSA vr%</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 करते हैं। हम मान लेते हैं कि एक समतल तरंगाग्र AB, A'A दिशा में संचरित होता हुआ चित्र में
 दर्शाए अनुसार अंतरापृष्ठ पर कोण i बनाते हुए आपतित होता है। मान लीजिए BC दूरी चलने के लिए
 तरंगाग्र द्वारा लिया गया समय है। अतः
@@ -300,7 +307,7 @@ U2<U1
 करता है। चित्र v₂ < v₁ के तदनुरूप है, अतः अपवर्तित तरंगें
 अभिलंब की ओर मुड़ती हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -456,7 +463,7 @@ U1
 U2
 λα
 
-Reprint 2025-26
+
 
 क्रिस्टिआन हाइगेंस (1629-1695)
 
@@ -475,7 +482,16 @@ Reprint 2025-26
 10.3.2 विरल माध्यम पर अपवर्तन
 
 आइए, एक समतल तरंग के विरल माध्यम में होने वाले अपवर्तन पर विचार करें, अर्थात
-v₂ > v₁। पहले की भाँति ही कार्यवाही करते हुए हम चित्र 10.5 में दर्शाए अनुसार अपवर्तित तरंगाग्र
+v₂ > v₁। पहले की भाँति ही कार्यवाही करते हुए हम
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_5_hi.png" alt="चित्र 10.5" onclick="openImageModal(this.src, 'चित्र 10.5: vkb,] ,d lery rjax osQ fojy ekè;e esa gksus okys viorZu ij fopkj djsa] vFkkZr v2...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.5</strong> vkb,] ,d lery rjax osQ fojy ekè;e esa gksus okys viorZu ij fopkj djsa] vFkkZr v2 > v1A igys dh Hkk¡fr gh dk;Zokgh djrs gq, ge fp=k 10.5 esa n'kkZ, vuqlkj vio£rr rjaxkxz dk fuekZ.k dj ldrs gSaA vc viorZu dks.k vkiru dks.k ls cM+k gksxk_ rFkkfi bl ckj Hkh n1 sin i = n2 sin r A ge ,d dks.k ic dks fuEu lehdj.k }kjk ifjHkkf"kr dj ldrs gSa</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 का निर्माण कर सकते हैं। अब अपवर्तन कोण आपतन कोण से बड़ा होगा; तथापि इस बार भी
 n₁ sin i = n₂ sin r। हम एक कोण को निम्न समीकरण द्वारा परिभाषित कर सकते हैं
 
@@ -548,7 +564,15 @@ E
 BC= υτ
 
 परावर्तित तरंगाग्र का निर्माण करने के लिए हम बिंदु A से त्रिज्या vt का गोला खींचते हैं
-(चित्र 10.6)। मान लीजिए CE इस गोले पर बिंदु C से खींची गई स्पर्शी समतल को
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_6_hi.png" alt="चित्र 10.6" onclick="openImageModal(this.src, 'चित्र 10.6: ijko£rr rjaxkxz dk fuekZ.k djus osQ fy, ge ¯cnq A ls f=kT;k v τ dk xksyk [khaprs...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.6</strong> ijko£rr rjaxkxz dk fuekZ.k djus osQ fy, ge ¯cnq A ls f=kT;k v τ dk xksyk [khaprs gSa (fp=k 10.6)A eku yhft, CE bl xksys ij ¯cnq C ls [khaph xbZ Li'khZ lery dks fu:fir djrh gSA Li"Vr;k</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 निरूपित करती है। स्पष्टतया
 
 AE = BC = υτ
@@ -556,7 +580,7 @@ AE = BC = υτ
 अब यदि हम त्रिभुजों EAC तथा BAC पर विचार करें तो हम पाएँगे कि ये सर्वांगसम हैं और
 इसीलिए, कोण i तथा r बराबर होंगे (चित्र 10.6)। यह परावर्तन का नियम है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -592,7 +616,16 @@ she
 एक बार परावर्तन तथा अपवर्तन के नियमों को जान लेने के पश्चात प्रिज़्मों, लेंसों तथा दर्पणों
 के व्यवहार को समझा जा सकता है। इस परिघटना की प्रकाश के सरल रेखीय पथ पर गमन करने
 के आधार पर अध्याय 9 में विस्तार से चर्चा की गई थी। यहाँ हम केवल परावर्तन तथा अपवर्तन
-के समय तरंगाग्रों के व्यवहार का वर्णन करेंगे। चित्र 10.7(a) में हम एक पतले प्रिज़्म से गुज़रने
+के समय तरंगाग्रों के व्यवहार का वर्णन करेंगे।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_7_hi.png" alt="चित्र 10.7" onclick="openImageModal(this.src, 'चित्र 10.7: ,d ckj ijkorZu rFkk viorZu osQ fu;eksa dks tku ysus osQ i&#39;pkr fiz”eksa] ysal...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.7</strong> ,d ckj ijkorZu rFkk viorZu osQ fu;eksa dks tku ysus osQ i'pkr fiz”eksa] ysalksa rFkk niZ.kksa osQ O;ogkj dks le>k tk ldrk gSA bl ifj?kVuk dh izdk'k osQ ljy js[kh; iFk ij xeu djus osQ vk/kj ij vè;k; 9 esa foLrkj ls ppkZ dh xbZ FkhA ;gk¡ ge osQoy ijkorZu rFkk viorZu osQ le; rjaxkxzksa osQ O;ogkj dk o.kZu djsaxsA fp=k 10.7(a) esa ge ,d irys fiz”e ls xq”kjus okyh lery rjax ij fopkj djrs gSaA Li"Vr;k] D;ksafd dk¡p esa izdk'k rjaxksa dh pky de gS] vanj vkrs gq, rjaxkxz dk fupyk Hkkx (tks dk¡p dh vf/dre eksVkbZ dks ikj djrk gS) lcls vfèkd foyafcr gksxkA blosQ ifj.kkeLo:i fiz”e ls ckgj fudyus okyh rjaxkxz fp=k esa n'kkZ, vuqlkj >qd tk,xkA fp=k 10.7(b) esa ge ,d irys mÙky ysal ij vkifrr gksus okyh lery rjax ij fopkj djrs gSaA vkifrr lery rjax dk eè; Hkkx ysal osQ lcls eksVs Hkkx ls gksdj tkrk gS rFkk lokZf/d foyafcr gksrk gSA ysal ls ckgj fudyus okys rjaxkxz esa osaQnz ij voueu gksrk gS vkSj blhfy, rjaxkxz xksyh; gks tkrk gS rFkk ,d ¯cnq F ij vfHklfjr gksrk gS ftls I+kQksdl dgrs gSaA fp=k 10.7(c) esa ,d vory niZ.k ij ,d lery rjax vkifrr gksrh gS rFkk ijkorZu ij gesa ,d xksyh; rjax izkIr gksrh gS tks i+Qksdl ¯cnq F ij vfHklfjr gksrh gSA blh izdkj ge vory ysalksa rFkk mÙky niZ.kksa }kjk viorZu rFkk ijkorZu dks le> ldrs gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 वाली समतल तरंग पर विचार करते हैं। स्पष्टतया, क्योंकि काँच में प्रकाश तरंगों की चाल कम है,
 अंदर आते हुए तरंगाग्र का निचला भाग (जो काँच की अधिकतम मोटाई को पार करता है) सबसे
 अधिक विलंबित होगा। इसके परिणामस्वरूप प्रिज़्म से बाहर निकलने वाली तरंगाग्र चित्र में दर्शाए
@@ -644,7 +677,7 @@ F
 लगने वाला समय उतना ही होता है जितना कि लेंस के किनारे के निकट से होकर चलने वाली
 किरणों के लिए होता है।
 
-Reprint 2025-26
+
 
 261
 
@@ -713,7 +746,15 @@ A
 उत्पन्न परिणामी विस्थापन इनमें से प्रत्येक तरंग के विस्थापनों का सदिश योग होता है।
 
 दो सुइयों S₁ तथा S₂ की कल्पना करें जो जल की एक द्रोणिका में ऊपर और नीचे समान
-आवर्ती गति कर रही हैं [चित्र 10.8 (a)]। वे जल की दो तरंगें उत्पन्न करती हैं तथा किसी विशिष्ट
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_8_hi.png" alt="चित्र 10.8" onclick="openImageModal(this.src, 'चित्र 10.8: nks lqb;ksa S1 rFkk S2 dh dYiuk djsa tks ty dh ,d nzksf.kdk esa Åij vkSj uhps le...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.8</strong> nks lqb;ksa S1 rFkk S2 dh dYiuk djsa tks ty dh ,d nzksf.kdk esa Åij vkSj uhps leku vkorhZ xfr dj jgh gaS ¹fp=k 10.8 (a)ºA os ty dh nks rjaxsa mRiUu djrh gSa rFkk fdlh fof'k"V ¯cnq ij] izR;sd rjax }kjk mRiUu foLFkkiuksa osQ chp dykarj le; osQ lkFk ugha cnyrkA tc ,slk gksrk gS rks bu nks lzksrksa dks dyk&lac¼ dgk tkrk gSA fp=k 10.8 (b) esa fdlh fn, gq, le; ij Ük`ax (lrr o`Ùk) rFkk xrZ (¯cnqfdr o`Ùk) n'kkZ, x, gSaA ,d ¯cnq P ij fopkj djsa ftlosQ fy,</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 N बिंदु पर, प्रत्येक तरंग द्वारा उत्पन्न विस्थापनों के बीच कलांतर समय के साथ नहीं बदलता। जब
 A ऐसा होता है तो इन दो स्रोतों को कला-संबद्ध कहा जाता है। चित्र 10.8 (b) में किसी दिए हुए
 समय पर शृंग (सतत वृत्त) तथा गर्त (बिंदुकित वृत्त) दर्शाए गए हैं। एक बिंदु P पर विचार करें
@@ -758,7 +799,7 @@ Y2
 
 NAJAN
 
-Reprint 2025-26
+
 
 
 ---
@@ -776,7 +817,14 @@ I = 4 I
 जहाँ I प्रत्येक स्रोत की पृथक तीव्रता को निरूपित करती है। हम देख रहे हैं कि Io, a² के
 समानुपाती है। वास्तव में S₁S₂ के लंबअर्धक के किसी भी बिंदु पर तीव्रता 41 होगी। दोनों स्रोतों
 को रचनात्मक रूप से व्यतिकरण करते हुए कहा जाता है और इसे हम संपोषी व्यतिकरण कहते हैं।
-अब हम बिंदु पर विचार करते हैं [चित्र 10.9(a)], जिसके लिए
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_9_hi.png" alt="चित्र 10.9" onclick="openImageModal(this.src, 'चित्र 10.9: I = 4 I0 tgk¡ I0 izR;sd lzksr dh i`Fkd rhozrk dks fu:fir djrh gSA ge ns[k jgs gS...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.9</strong> I = 4 I0 tgk¡ I0 izR;sd lzksr dh i`Fkd rhozrk dks fu:fir djrh gSA ge ns[k jgs gSa fd I0, a2 osQ lekuqikrh gSA okLro esa S1S2 osQ yacv/Zd osQ fdlh Hkh ¯cnq ij rhozrk 4I0 gksxhA nksuksa lzksrksa dks jpukRed :i ls O;frdj.k djrs gq, dgk tkrk gS vkSj bls ge laiks"kh O;frdj.k dgrs gSaA vc ge ¯cnq Q ij fopkj djrs gSa ¹fp=k 10.9(a)º] ftlosQ fy,</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 S2Q −S₁Q = 21
 
@@ -870,7 +918,7 @@ S₁P ~ S₂P = (n+2)
 
 (10.10)
 
-Reprint 2025-26
+
 
 SR-SR=-2.5λ
 
@@ -880,34 +928,14 @@ SR-SR=-2.5λ
 
 λ λ
 
-R
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_10_hi.png" alt="चित्र 10.10" onclick="openImageModal(this.src, 'चित्र 10.10: fp=k 10.10 mu ¯cnqvksa dk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.10</strong> fp=k 10.10 mu ¯cnqvksa dk</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
-(a) बिंदु पर संपोषी
-व्यतिकरण जिसके लिए
-पथांतर 20 है। (b) बिंदु R पर
-
-विनाशी व्यतिकरण जिसके
-लिए पथांतर 2.5 % है ।
-
-y
-
-n = 3
-
-n = 2
-
-9
-
-n = 1
-
-n = 0
-
-Gn=-1
-
-n = -3
-
-n=-2
-
-चित्र 10.10 उन बिंदुओं का
 बिंदुपथ जिनके लिए
 
 S₁P - S₂P शून्य, ±2,
@@ -996,14 +1024,23 @@ no
 10.5 प्रकाश तरंगों का व्यतिकरण तथा यंग का प्रयोग
 
 अब हम प्रकाश तरंगों का उपयोग करके व्यतिकरण पर विचार करेंगे। यदि हम दो सूचिछिद्रों को
-प्रदीप्त करने के लिए दो सोडियम लैंपों का उपयोग करें (चित्र 10.11), तो हमें कोई व्यतिकरण
+प्रदीप्त करने के लिए दो सोडियम लैंपों का उपयोग करें (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_11_hi.png" alt="चित्र 10.11" onclick="openImageModal(this.src, 'चित्र 10.11: vc ge izdk&#39;k rjaxksa dk mi;ksx djosQ O;frdj.k ij fopkj djsaxsA ;fn ge nks lw...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.11</strong> vc ge izdk'k rjaxksa dk mi;ksx djosQ O;frdj.k ij fopkj djsaxsA ;fn ge nks lwfpfNnzksa dks iznhIr djus osQ fy, nks lksfM;e ySaiksa dk mi;ksx djsa (fp=k 10.11)] rks gesa dksbZ O;frdj.k ¯izQt fn[kkbZ ugha nsaxhA ,slk bl rF; osQ dkj.k gS fd ,d lkekU; Ïksr (tSls lksfM;e ySai) ls mRl£tr gksus okyh izdk'k rjaxksa esa] 10–10 s dh dksfV osQ le; varjkyksa ij] vkdfLed dyk&ifjorZu gksrk gSA vr% nks Lora=k izdk'k lzksrksa ls vkus okyh izdk'k rjaxksa esa dksbZ fuf'pr dyk laca/ ugha gksrk rFkk ;s dyk&vlac¼ gksrs gSaA tSlh fd igys vuqPNsn esa foospuk dh tk pqdh gS] ,slk gksus ij ijns ij rhozrk,¡ tqM+ tkrh gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 फ्रिज दिखाई नहीं देंगी। ऐसा इस तथ्य के कारण है कि एक सामान्य स्रोत (जैसे सोडियम लैंप)
 से उत्सर्जित होने वाली प्रकाश तरंगों में, 10-10s की कोटि के समय अंतरालों पर, आकस्मिक
 कला-परिवर्तन होता है। अतः दो स्वतंत्र प्रकाश स्रोतों से आने वाली प्रकाश तरंगों में कोई निश्चित
 कला संबंध नहीं होता तथा ये कला-असंबद्ध होते हैं। जैसी कि पहले अनुच्छेद में विवेचना की जा
 चुकी है, ऐसा होने पर परदे पर तीव्रताएँ जुड़ जाती हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1020,7 +1057,16 @@ S
 इंग्लैंड के भौतिकशास्त्री टॉमस यंग ने स्रोतों S, तथा S, से उत्सर्जित
 होने वाली तरंगों की कलाओं को नियंत्रित करने के लिए एक उत्तम
 तकनीक उपयोग की। उन्होंने एक अपारदर्शी परदे पर दो सूचिछिद्र S₁ तथा
-S₂ (एक-दूसरे को बहुत निकट) बनाए [चित्र 10.12(a)]। इन्हें एक
+S₂ (एक-दूसरे को बहुत निकट) बनाए [
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_12_hi.png" alt="चित्र 10.12" onclick="openImageModal(this.src, 'चित्र 10.12: S2 (,d&nwljs dks cgqr fudV) cuk, ¹fp=k 10.12(a)ºA bUgsa ,d vU; lwfpfNnz ls iznhI...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.12</strong> S2 (,d&nwljs dks cgqr fudV) cuk, ¹fp=k 10.12(a)ºA bUgsa ,d vU; lwfpfNnz ls iznhIr fd;k x;k ftls ,d nhIr lzksr ls izdkf'kr fd;k x;k FkkA izdk'k rjaxsa S ls fudydj S1 rFkk S2 ij fxjrh gSaA S1 rFkk S2 nks dyk&lac¼ lzksrksa dh Hkk¡fr dk;Z djrs gSa D;ksafd S1 rFkk</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 अन्य सूचिछिद्र से प्रदीप्त किया गया जिसे एक दीप्त स्रोत से प्रकाशित
 किया गया था। प्रकाश तरंगें S से निकलकर S₁ तथा S₂ पर गिरती हैं। S₁
 तथा S₂ दो कला-संबद्ध स्रोतों की भाँति कार्य करते हैं क्योंकि S₁ तथा
@@ -1109,9 +1155,14 @@ AD:
 
 के निकट अदीप्त क्षेत्र प्राप्त होंगे।
 
-(10.14)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_13_hi.png" alt="चित्र 10.13" onclick="openImageModal(this.src, 'चित्र 10.13: osQ fudV vnhIr {ks=k izkIr gksaxsA bl izdkj fp=k 10.13 dh Hkk¡fr ijns ij vnhIr r...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.13</strong> osQ fudV vnhIr {ks=k izkIr gksaxsA bl izdkj fp=k 10.13 dh Hkk¡fr ijns ij vnhIr rFkk nhIr cSaM fn[kykbZ nsaxsA ,sls cSaMksa dks ¯izQt dgrs gSaA lehdj.k (10.13) rFkk (10.14) n'kkZrs gSa fd dkys rFkk nhIr ¯izQt leku nwjh ij gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
 
-इस प्रकार चित्र 10.13 की भाँति परदे पर अदीप्त तथा दीप्त बैंड दिखलाई देंगे। ऐसे बैंडों
 को फ्रिज कहते हैं। समीकरण (10.13) तथा (10.14) दर्शाते हैं कि काले तथा दीप्त फ्रिंज
 समान दूरी पर हैं।
 
@@ -1123,7 +1174,7 @@ Z
 
 y
 
-Reprint 2025-26
+
 
 265
 
@@ -1201,7 +1252,7 @@ no
 से समझ सकते हैं। आखिर, आपको कोने के पीछे से किसी को बात करते हुए उसकी ध्वनि तरंगों
 को सुनकर शायद ही आश्चर्य होता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1214,7 +1265,24 @@ Reprint 2025-26
 जाता है तो एक ब्रॉड (चौड़ा) पैटर्न दिखाई पड़ता है जिसके
 मध्य में दीप्त क्षेत्र होता है। इसके दोनों ओर क्रमागत दीप्त
 एवं अदीप्त क्षेत्र होते हैं जिनकी तीव्रता केंद्र से दूर होने पर
-कम होती जाती है (चित्र 10.15)। इसको समझने के लिए
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_15_hi.png" alt="चित्र 10.15" onclick="openImageModal(this.src, 'चित्र 10.15: tc ;ax osQ iz;ksx dh ,do.khZ Ïksr ls izdkf&#39;kr f}f>jh dks ,d ladh.kZ ,dy f>jh...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.15</strong> tc ;ax osQ iz;ksx dh ,do.khZ Ïksr ls izdkf'kr f}f>jh dks ,d ladh.kZ ,dy f>jh }kjk izfrLFkkfir fd;k tkrk gS rks ,d czkWM (pkSM+k) iSVuZ fn[kkbZ iM+rk gS ftlosQ eè; esa nhIr {ks=k gksrk gSA blosQ nksuksa vksj Øekxr nhIr ,oa vnhIr {ks=k gksrs gSa ftudh rhozrk osaQnz ls nwj gksus ij de gksrh tkrh gS (fp=k 10.15)A bldks le>us osQ fy,
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_14_hi.png" alt="चित्र 10.14" onclick="openImageModal(this.src, 'चित्र 10.14: ¯cnq M ls xq”kjus okyh vkSj f>jh osQ ry osQ vfHkyacor ljy js[kk ijns dks ¯cnq C ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.14</strong> ¯cnq M ls xq”kjus okyh vkSj f>jh osQ ry osQ vfHkyacor ljy js[kk ijns dks ¯cnq C ij feyrh gSA gesa ijns osQ fdlh ¯cnq P ij rhozrk Kkr djuh gSA tSlk igys ppkZ dj pqosQ gSa] P dks fofHkUu ¯cnqvksa L, M, N vkfn ls tksM+us okyh fofHkUu ljy js[kk,¡ ijLij lekarj ,oa vfHkyac MC ls dks.k θ cukrh gqbZ ekuh tk ldrh gSa ¹fp=k 10.14ºA</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
+<button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 चित्र 10.14 देखिए, जिसमें व चौड़ाई की एकल झिरी LN
 पर अभिलंबवत पड़ने वाले समांतर किरण पुंज को दर्शाया
 गया है। विवर्तित प्रकाश आगे रखे एक परदे पर आपतित होता
@@ -1303,15 +1371,19 @@ published
 
 267
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 14
 
-- भौतिकी
-
-चित्र 10.16 एक एकल झिरी
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_16_hi.png" alt="चित्र 10.16" onclick="openImageModal(this.src, 'चित्र 10.16: ,dy f>jh foorZu iSVuZ dks Lo;a gh ns[kuk vk&#39;p;Ztud :i ls ljy gSA vko&#39;;d ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.16</strong> ,dy f>jh foorZu iSVuZ dks Lo;a gh ns[kuk vk'p;Ztud :i ls ljy gSA vko';d midj.k vf/dka'k ?kjksa esa ik;k tk ldrk gSµ nks jsT+kj CysM rFkk ,d ikjn'kZd dk¡p dk fo|qr cYc (fdlh lh/s rarq okys cYc dks ojh;rk iznku djsa)A nksuksa CysMksa dks bl izdkj idM+k tkrk gS fd muosQ fdukjs lekarj gksa vkSj nksuksa osQ chp ,d ladh.kZ f>jh cusA ;g ljyrk ls v¡xwBs rFkk m¡xfy;ksa osQ }kjk Hkh fd;k tk ldrk gS (fp=k 10.16)A</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
 निर्मित करने के लिए दो ब्लेडों
 
@@ -1359,7 +1431,16 @@ no
 
 एक लंबी डोरी पर विचार कीजिए जिसे क्षैतिज रखकर पकड़ा गया है और इसका दूसरा सिरा स्थिर
 माना गया है। यदि हम डोरी के सिरे को ऊपर-नीचे आवर्ती रूप से गति कराएँ तो एक तरंग उत्पन्न
-कर पाएँगे जो +x दिशा में संचारित होगी (चित्र 10.17)। ऐसी तरंग को समीकरण (10.15) द्वारा
+कर पाएँगे जो +x दिशा में संचारित होगी (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_17_hi.png" alt="चित्र 10.17" onclick="openImageModal(this.src, 'चित्र 10.17: ,d yach Mksjh ij fopkj dhft, ftls {kSfrt j[kdj idM+k x;k gS vkSj bldk nwljk fljk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.17</strong> ,d yach Mksjh ij fopkj dhft, ftls {kSfrt j[kdj idM+k x;k gS vkSj bldk nwljk fljk fLFkj ekuk x;k gSA ;fn ge Mksjh osQ fljs dks Åij&uhps vkorhZ :i ls xfr djk,¡ rks ,d rjax mRiUu dj ik,¡xs tks +x fn'kk esa lapkfjr gksxh (fp=k 10.17)A ,slh rjax dks lehdj.k (10.15) }kjk O;Dr fd;k tk ldrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
+
 व्यक्त किया जा सकता है।
 
 268
@@ -1374,7 +1455,7 @@ y (x, t) = a sin (kx-wt)
 λ =
 k
 
-Reprint 2025-26
+
 
 (10.16)
 
@@ -1447,7 +1528,7 @@ z (x, t) = a sin (kx– wt)
 
 269
 
-Reprint 2025-26
+
 
 
 ---
@@ -1476,7 +1557,15 @@ Reprint 2025-26
 प्रकाश की तीव्रता केवल P₂ से ही पारित होने में कम हो जाएगी। परंतु अब P₁ के घुमाने का P₂
 से आने वाले प्रकाश पर एक नाटकीय प्रभाव पड़ेगा। एक स्थिति में P₂ से पारगमित तीव्रता P₁ से
 पारित होने पर लगभग शून्य हो जाती है। जब इस स्थिति से P₁ को 90° पर घुमाते हैं तो यह P2
-से आने वाली लगभग पूर्ण तीव्रता को पारगमित कर देता है (चित्र 10.18)।
+से आने वाली लगभग पूर्ण तीव्रता को पारगमित कर देता है (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_18_hi.png" alt="चित्र 10.18" onclick="openImageModal(this.src, 'चित्र 10.18: bl izdkj] tc fdlh lk/kj.k lzksr (tSls ,d lksfM;e ySai) dk izdk&#39;k iksysjkWbM ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.18</strong> bl izdkj] tc fdlh lk/kj.k lzksr (tSls ,d lksfM;e ySai) dk izdk'k iksysjkWbM dh fdlh 'khV P1 ls ikfjr gksrk gS rks ;g ns[kk tkrk gS fd bldh rhozrk vk/h gks tkrh gSA P1 dks ?kqekus ij ikjxr fdj.k&iqat ij dksbZ izHkko ugha iM+rk D;ksafd ikjxfer rhozrk fLFkj jgrh gSA vc ge ,d le:i iksysjkWbM P2 dks P1 ls igys j[krs gSaA vis{kkuqlkj] ySai ls vkus okys izdk'k dh rhozrk osQoy P2 ls gh ikfjr gksus esa de gks tk,xhA ijarq vc P1 osQ ?kqekus dk P2 ls vkus okys izdk'k ij ,d ukVdh; izHkko iM+sxkA ,d fLFkfr esa P2 ls ikjxfer rhozrk P1 ls ikfjr gksus ij yxHkx 'kwU; gks tkrh gSA tc bl fLFkfr ls P1 dks 90° ij ?kqekrs gSa rks ;g P2 ls vkus okyh yxHkx iw.kZ rhozrk dks ikjxfer dj nsrk gS (fp=k 10.18)A</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
 P2
 
@@ -1533,7 +1622,7 @@ P₁ की पारित अक्ष से कोण बनाती है
 
 I = I cos20
 
-Reprint 2025-26
+
 
 (10.18)
 
@@ -1613,7 +1702,7 @@ ublined
 
 271
 
-Reprint 2025-26
+
 
 
 ---
@@ -1679,7 +1768,7 @@ notto
 पर जहाँ पथांतर । है, प्रकाश की तीव्रता K इकाई है। उस बिंदु पर प्रकाश की तीव्रता कितनी होगी
 जहाँ पथांतर 2/3 है?
 
-Reprint 2025-26
+
 
 
 ---
@@ -1698,9 +1787,9 @@ Reprint 2025-26
 
 © NCERT
 
-not to be republished
+
 
 273
 
-Reprint 2025-26
+
 

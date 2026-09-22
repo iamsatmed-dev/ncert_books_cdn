@@ -42,7 +42,7 @@ not
 अंग तथा अंग तंत्र में श्रम विभाजन के द्वारा संपन्न होती हैं और पूरे शरीर को जीवित
 रखने के लिए योगदान देती हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -95,17 +95,13 @@ republished
 जाते हैं। इस प्रक्रिया को क्रमशः शीत निष्क्रियता (hibernation)
 व ग्रीष्म निष्क्रियता (aestivation) कहते हैं।
 
-सिर
--आँख
-
-अग्रपाद
-
-पश्चपाद
-
-Reprint 2025-26
-
-चित्र 7.1 मेंढक का बाह्य चित्र
-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch07_structural_organisation_in_animals_fig_7_hi.png" alt="चित्र 7" onclick="openImageModal(this.src, 'चित्र 7: fp=k 7-1 esa<d dk cká fp=k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7</strong> fp=k 7-1 esa<d dk cká fp=k</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 ---
 ## 📄 Page 3
@@ -175,7 +171,7 @@ t
 
 चित्र 7.2 मेंढक की आंतरिक संरचना जो पूर्ण आहार तंत्र दर्शाती है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -226,7 +222,7 @@ shed
 खुलता है। हृदय से रक्त धमनियों द्वारा शरीर के सभी भागों में भेजा जाता है। इसे धमनी
 तंत्र कहते हैं। शिराएं शरीर के विभिन्न भागों से रक्त एकत्रित कर हृदय में पहुँचाती हैं,
 
-Reprint 2025-26
+
 
 81
 
@@ -278,7 +274,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -364,7 +360,7 @@ oned
 
 चित्र 7.4 मादा जनन तंत्र
 
-Reprint 2025-26
+
 
 
 ---
@@ -397,7 +393,7 @@ NCER
 
 not to be repub
 
-Reprint 2025-26
+
 
 (स) केंचुए की देहभित्ति
 

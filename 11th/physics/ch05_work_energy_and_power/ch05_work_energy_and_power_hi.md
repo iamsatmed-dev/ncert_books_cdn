@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11088CH06
+
 
 ### अध्याय 5
 
@@ -76,7 +76,7 @@ ed
 अध्याय 6 में पढ़ेंगे। इस अध्याय में हम लोग अदिश गुणनफल की
 विवेचना करेंगे।
 
-Reprint 2026-27
+
 
 
 ---
@@ -92,8 +92,16 @@ A.B = AB cos 0
 
 (5.la)
 
-यहाँ ७ दो सदिशों A तथा B के बीच का कोण है। इसे चित्र
-5.1a में दिखाया गया है। क्योंकि, B तथा cos 0 सभी अदिश हैं
+यहाँ ७ दो सदिशों A तथा B के बीच का कोण है। इसे
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_hi.png" alt="चित्र 5" onclick="openImageModal(this.src, 'चित्र 5: F, fdlh m nzO;eku osQ fiaM ij yx jgk gS ftlosQ dkj.k fiaM dk èkUkkRed x-fn&#39;k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5</strong> F, fdlh m nzO;eku osQ fiaM ij yx jgk gS ftlosQ dkj.k fiaM dk èkUkkRed x-fn'kk esa gksus okyk foLFkkiu d gS tSlk fd fp=k 5-2 eas n'kkZ;k x;k gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 इसलिए A तथा B का बिंदु गुणनफल भी अदिश राशि है । A व
 B में से प्रत्येक की अपनी-अपनी दिशा है किन्तु उनके अदिश
 गुणनफल की कोई दिशा नहीं है।
@@ -207,39 +215,17 @@ F2 = F2 + F + F2
 
 16
 
-16
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_1_hi.png" alt="चित्र 5.1" onclick="openImageModal(this.src, 'चित्र 5.1: A.B = A (B cos θ ) = B (A cos θ ) T;kfefr osQ vuqlkj B cos θ lfn&#39;k B dk lfn&...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.1</strong> A.B = A (B cos θ ) = B (A cos θ ) T;kfefr osQ vuqlkj B cos θ lfn'k B dk lfn'k A ij iz{ksi gS (fp=k 5.1b)A blh izdkj A cos θ lfn'k A dk lfn'k B ij iz{ksi gS (nsf[k, fp=k 5.1c)A bl izdkj A.B lfn'k A osQ ifjek.k rFkk B osQ vuqfn'k A osQ ?kVd osQ xq.kuiQy osQ cjkcj gksrk gSA nwljs rjhosQ ls ;g B osQ ifjek.k rFkk A dk lfn'k B osQ vuqfn'k ?kVd osQ xq.kuiQy osQ cjkcj gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
-.. cos 0 =
-
-0.32
-
-√50/50 50
-
-0 = cos-1 0.32
-
-B
-
-B
-
-A cos θ
-
-θ
-
-A
-
-→B cos
-
-(b)
-
-θ
-
-A
-(c)
-
-चित्र 5.1 (a) दो सदिशों A व B का अदिश गुणनफल एक अदिश होता है अर्थात् A·B = AB cos 0, (b) B cos 0 सदिश B का
 सदिश A पर प्रक्षेप है, (c) A cos 0 सदिश A का B पर प्रक्षेप है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -393,7 +379,7 @@ X
 
 चित्र 5.2 किसी पिंड का आरोपित बल F के कारण विस्थापन d ।
 
-Reprint 2026-27
+
 
 
 ---
@@ -538,7 +524,7 @@ mv²
 
 (5.5)
 
-Reprint 2026-27
+
 
 
 ---
@@ -697,7 +683,7 @@ X X
 के क्षेत्रफलों को जोड़ने पर, वक्र द्वारा आच्छादित क्षेत्रफल,
 बल F(x) द्वारा किए गए कार्य के ठीक बराबर है ।
 
-Reprint 2026-27
+
 
 
 ---
@@ -898,7 +884,7 @@ WF = 100×10+(100+50)×10
 यह है कि दो या तीन विमाओं में न्यूटन का द्वितीय नियम सदिश
 रूप में होता है जबकि कार्य-ऊर्जा प्रमेय अदिश रूप में होता है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -1043,7 +1029,7 @@ mgh
 
 * गुरुत्वीय त्वरण g के मान में ऊंचाई के साथ परिवर्तन पर विचार गुरुत्वाकषर्ण (अध्याय 7) में करेंगे ।
 
-Reprint 2026-27
+
 
 
 ---
@@ -1180,7 +1166,7 @@ v = V
 चित्र 5.5 H ऊँचाई की किसी चट्टान से गिराई गई, m द्रव्यमान
 की गेंद की स्थितिज ऊर्जा का गतिज ऊर्जा में रूपांतरण।
 
-Reprint 2026-27
+
 
 
 ---
@@ -1275,7 +1261,15 @@ H ऊँचाई पर, पिण्ड की ऊर्जा केवल �
 A पर क्षैतिज वेग v इस प्रकार लगाया जाता है कि यह
 ऊर्ध्वाधर तल में अर्धवृत्ताकार प्रक्षेप्य पथ को इस प्रकार
 तय करता है कि डोरी केवल उच्चतम बिंदु C पर ढीली
-होती है जैसा कि चित्र 5.6 में दिखाया गया है। निम्न राशियों
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_6_hi.png" alt="चित्र 5.6" onclick="openImageModal(this.src, 'चित्र 5.6: A ij {kSfrt osx vo bl izdkj yxk;k tkrk gS fd ;g ÅèokZ/j ry eas v/Zo`Rrkdkj iz{ks...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.6</strong> A ij {kSfrt osx vo bl izdkj yxk;k tkrk gS fd ;g ÅèokZ/j ry eas v/Zo`Rrkdkj iz{ksI; iFk dks bl izdkj r; djrk gS fd Mksjh osQoy mPPkre fcanq C ij <hyh gksrh gS tSlk fd fp=k 5.6 eas fn[kk;k x;k gSA fuEu jkf'k;ksa osQ fy, O;atd izkIr dhft, % (a) v0, (b) fcanqvksa B rFkk</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 के लिए व्यंजक प्राप्त कीजिए : (a) v₁, (b) बिंदुओं B तथा
 C पर गोलक की चाल, तथा (c) बिंदु B तथा C पर गतिज
 ऊर्जाओं का अनुपात (K/K)। गोलक के बिंदु C पर पहुंचने
@@ -1334,7 +1328,7 @@ E = mgL
 
 2
 
-Reprint 2026-27
+
 
 
 ---
@@ -1474,7 +1468,15 @@ Kcmv
 ### 5.9 किसी स्प्रिंग की स्थितिज ऊर्जा
 
 कोई स्प्रिंग-बल एक परिवर्ती–बल का उदाहरण है जो संरक्षी होता है ।
-चित्र 5.7 स्प्रिंग से संलग्न किसी गुटके को दर्शाता है जो किसी
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_7_hi.png" alt="चित्र 5.7" onclick="openImageModal(this.src, 'चित्र 5.7: eku yhft, fd ge xqVosQ dks ckgj dh rjiQ] tSlk fd fp=k 5.7(b) esa fn[kk;k x;k gS]...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.7</strong> eku yhft, fd ge xqVosQ dks ckgj dh rjiQ] tSlk fd fp=k 5.7(b) esa fn[kk;k x;k gS] èkheh vpj pky ls [khaprs gSa A ;fn fLizax dk f[kapko xm gS rks fLizax&cy }kjk fd;k dk;Z</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 चिकने क्षैतिज पृष्ठ पर विरामावस्था में है। स्प्रिंग का दूसरा सिरा
 किसी दृढ़ दीवार से जुड़ा है। स्प्रिंग हलका है और द्रव्यमान-रहित
 माना जा सकता है। किसी आदर्श स्प्रिंग में, स्प्रिंग-बल
@@ -1530,7 +1532,7 @@ m
 
 m
 
-Reprint 2026-27
+
 
 
 ---
@@ -1730,7 +1732,7 @@ X
 करती है जिसका स्प्रिंग नियतांक 5.25 × 103 N m-¹ है।
 स्प्रिंग का अधिकतम संपीडन क्या होगा?
 
-Reprint 2026-27
+
 
 
 ---
@@ -1901,7 +1903,7 @@ m
 
 nc
 
-Reprint 2026-27
+
 
 
 ---
@@ -2063,7 +2065,7 @@ F = mg + F = (1800 × 10) + 4000 = 22000 N
 m₁ चाल v₁₁ से गतिमान है जहाँ अधोलिखित ' आरंभिक चाल
 को निरूपित करता है। दूसरा द्रव्यमान m₂ स्थिर है। इस निर्देश
 
-Reprint 2026-27
+
 
 
 ---
@@ -2073,7 +2075,15 @@ Reprint 2026-27
 
 फ्रेम का चयन करने में व्यापकता में कोई कमी नहीं आती। इस
 फ्रेम में द्रव्यमान m₁, दूसरे द्रव्यमान m₂ से जो विरामावस्था में
-है, संघट्ट करता है जो चित्र 5.10 में चित्रित किया गया है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_10_hi.png" alt="चित्र 5.10" onclick="openImageModal(this.src, 'चित्र 5.10: fp=k 5.10 fdlh nzO;eku m1 dk vU; fLFkj nzO;eku m2 ls la?kêðA...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.10</strong> fp=k 5.10 fdlh nzO;eku m1 dk vU; fLFkj nzO;eku m2 ls la?kêðA</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
+
 संघट्ट के पश्चात् द्रव्यमान 1m, व m, विभिन्न दिशाओं में गति
 करते हैं। हम देखेंगे कि द्रव्यमानों, उनके वेगों और कोणों में निश्चित
 संबंध है।
@@ -2273,7 +2283,7 @@ m₁ + m2
 
 (5.26)
 
-Reprint 2026-27
+
 
 
 ---
@@ -2429,7 +2439,7 @@ muli
 यह हमें समीकरण (5.28) व (5.29) के अलावा एक और
 समीकरण देता है लेकिन अभी भी हमारे पास सभी अज्ञात राशियों
 
-Reprint 2026-27
+
 
 
 ---
@@ -2540,7 +2550,7 @@ F(x) =
 dV(x)
 dx
 
-Reprint 2026-27
+
 
 
 ---
@@ -2662,7 +2672,7 @@ P=
 
 dt
 
-Reprint 2026-27
+
 
 
 ---
@@ -2714,7 +2724,7 @@ W12 + W21 ≠ 0
 
 not to b
 
-Reprint 2026-27
+
 
 89
 
@@ -2765,7 +2775,7 @@ Vo
 
 not to
 
-Reprint 2026-27
+
 
 a
 
@@ -2789,38 +2799,13 @@ a
 
 bd
 
-X
-
-V(x)
-
--Vo
-
-*
-
-E
-
-X
-
-a
-
-a
-
-b
-
-2
-
-2
-
-b
-
-2
-
--V
-
-2
-
-चित्र 5.11
-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_11_hi.png" alt="चित्र 5.11" onclick="openImageModal(this.src, 'चित्र 5.11: fp=k 5.11...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.11</strong> fp=k 5.11</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
 
 ---
 ## 📄 Page 20
@@ -2831,7 +2816,16 @@ b
 
 ### 5.4 रेखीय सरल आवर्त गति कर रहे किसी कण का स्थितिज ऊर्जा फलन
 V(x) = kx²/2 है, जहां k दोलक का बल नियतांक है । k = 0.5
-Nm-¹के लिए V(x) व x के मध्य ग्राफ चित्र 5.12 में दिखाया गया
+Nm-¹के लिए V(x) व x के मध्य ग्राफ
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_12_hi.png" alt="चित्र 5.12" onclick="openImageModal(this.src, 'चित्र 5.12: 5.4 js[kh; ljy vkorZ xfr dj jgs fdlh d.k dk fLFkfrt mQtkZ iQyu V(x) = kx2/2 gS] ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.12</strong> 5.4 js[kh; ljy vkorZ xfr dj jgs fdlh d.k dk fLFkfrt mQtkZ iQyu V(x) = kx2/2 gS] tgka k nksyoQ dk cy fu;rkaoQ gS A k = 0.5 N m–1 osQ fy, V(x) o x osQ eè; xzkIkQ fp=k 5.12 eas fn[kk;k x;k gSA ;g fn[kkb, fd bl foHko osQ varxZr xfreku oqQy 1J mQtkZ okys d.k dks vo'; gh ^okfil vkuk* pkfg, tc ;g x = ± 2 m ij igqaprk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
+
 है। यह दिखाइए कि इस विभव के अंतर्गत गतिमान कुल 1J ऊर्जा
 वाले कण को अवश्य ही 'वापिस आना' चाहिए जब यह x = ±2m
 पर पहुंचता है।
@@ -2856,9 +2850,15 @@ V(x)
 प्रतिरोध (चाहे यह कितना ही कम क्यों न हो) के विरुद्ध
 क्षय के कारण कम होती जाती है फिर भी जैसे-जैसे कृत्रिम
 उपग्रह पृथ्वी के समीप आता है तो उसकी चाल में लगातार
-वृद्धि क्यों होती है ?
 
-(d) चित्र 5.13(i) में एक व्यक्ति अपने हाथों में 15kg का
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_13_hi.png" alt="चित्र 5.13" onclick="openImageModal(this.src, 'चित्र 5.13: (d) fp=k 5.13(i) eas ,d O;fDr vius gkFkksa eas 15kg dk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.13</strong> (d) fp=k 5.13(i) eas ,d O;fDr vius gkFkksa eas 15kg dk</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
+
 कोई द्रव्यमान लेकर 2m चलता है। चित्र 5.13(ii) में
 
 वह उतनी ही दूरी अपने पीछे रस्सी को खींचते हुए चलता
@@ -2915,7 +2915,7 @@ epubli
 
 (c) किसी अप्रत्यास्थ संघट्ट के लिए प्रश्न (a) व (b) के लिए आपके उत्तर क्या हैं?
 
-Reprint 2026-27
+
 
 
 ---
@@ -2963,7 +2963,15 @@ F = (-i + 2) + 3k) N
 
 ### 5.16 दो समरूपी बॉल-बियरिंग एक-दूसरे के संपर्क में हैं और किसी घर्षणरहित मेज पर विरामावस्था में हैं। इनके साथ समान
 द्रव्यमान का कोई दूसरा बॉल-बियरिंग, जो आरंभ में V चाल से गतिमान है, सम्मुख संघट्ट करता है। यदि संघट्ट प्रत्यास्थ
-है तो संघट्ट के पश्चात् निम्नलिखित (चित्र 5.14) में से कौन-सा परिणाम संभव है?
+है तो संघट्ट के पश्चात् निम्नलिखित (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_14_hi.png" alt="चित्र 5.14" onclick="openImageModal(this.src, 'चित्र 5.14: fp=k 5.14...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.14</strong> fp=k 5.14</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
 
 not to
 
@@ -2995,7 +3003,7 @@ V
 
 चित्र 5.14
 
-Reprint 2026-27
+
 
 ►
 
@@ -3014,7 +3022,16 @@ V
 कार्य, ऊर्जा और शक्ति
 
 ### 5.17 किसी लोलक के गोलक A को, जो ऊर्ध्वाधर से 30 का कोण बनाता है, छोड़े जाने
-पर मेज पर, विरामावस्था में रखे दूसरे गोलक B से टकराता है जैसा कि चित्र 5.15
+पर मेज पर, विरामावस्था में रखे दूसरे गोलक B से टकराता है जैसा कि
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_15_hi.png" alt="चित्र 5.15" onclick="openImageModal(this.src, 'चित्र 5.15: 5.17 fdlh yksyd osQ xksyd A dks] tks ÅèokZ/j ls 30° dk dks.k cukrk gS] NksM+s tk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.15</strong> 5.17 fdlh yksyd osQ xksyd A dks] tks ÅèokZ/j ls 30° dk dks.k cukrk gS] NksM+s tkus ij est ij] fojkekoLFkk eas j[ks nwljs xksyd B ls Vdjkrk gS tSlk fd fp=k 5.15 eas iznf'kZr gSA Kkr dhft, fd la?kêð osQ i'pkr~ xksyd A fdruk maQpk mBrk gS\ xksydksa osQ vkdkjksa dh mis{kk dhft, vkSj eku yhft, fd la?kêð izR;kLFk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
+
 में प्रदर्शित है। ज्ञात कीजिए कि संघट्ट के पश्चात् गोलक A कितना ऊंचा उठता है?
 गोलकों के आकारों की उपेक्षा कीजिए और मान लीजिए कि संघट्ट प्रत्यास्थ है।
 
@@ -3063,7 +3080,7 @@ v = 36 km h¯¹ और वायु का घनत्व 1.2 kg m³ है त
 
 not to be re
 
-Reprint 2026-27
+
 
 93
 

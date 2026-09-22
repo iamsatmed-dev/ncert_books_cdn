@@ -90,7 +90,7 @@ Polish monk named Nicolaus Copernicus (1473-1543)
 
 not to
 
-Reprint 2026-27
+
 
 
 ---
@@ -153,8 +153,16 @@ Select two points F₁ and F₂. Take a length
 of a string and fix its ends at F, and F, by
 pins. With the tip of a pencil stretch the string
 taut and then draw a curve by moving the
-pencil keeping the string taut throughout. (Fig.
-7.1(b)) The closed curve you get is called an
+pencil keeping the string taut throughout. (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_1.png" alt="Fig. 7.1" onclick="openImageModal(this.src, 'Fig. 7.1: Fig. 7.1(a) An ellipse traced out by a planet around...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.1</strong> Fig. 7.1(a) An ellipse traced out by a planet around</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 ellipse. Clearly for any point T on the ellipse,
 the sum of the distances from F₁ and F₂ is a
 constant. F₁, F₂ are called the focii. Join the
@@ -171,7 +179,15 @@ circle.
 
 ### 2. Law of areas : The line that joins any planet
 to the Sun sweeps equal areas in equal
-intervals of time (Fig. 7.2). This law comes from
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_2.png" alt="Fig. 7.2" onclick="openImageModal(this.src, 'Fig. 7.2: Fig. 7.2 The planet P moves around the sun in an...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.2</strong> Fig. 7.2 The planet P moves around the sun in an</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 the observations that planets appear to move
 slower when they are farther from the Sun
 than when they are nearer.
@@ -220,7 +236,7 @@ Fig. 7.2 The planet P moves around the sun in an
 elliptical orbit. The shaded area is the area
 AA swept out in a small interval of time At.
 
-Reprint 2026-27
+
 
 
 ---
@@ -301,65 +317,49 @@ Mercury
 
 0.24
 
-### 2.95
-
-Venus
+### 2.95 Venus
 
 10.8
 
 0.615
 
-### 3.00
-
-Earth
+### 3.00 Earth
 
 15.0
 
 1
 
-### 2.96
-
-Mars
+### 2.96 Mars
 
 22.8
 
 ### 1.88
 
-### 2.98
-
-Jupiter
+### 2.98 Jupiter
 
 77.8
 
 11.9
 
-### 3.01
-
-Saturn
+### 3.01 Saturn
 
 143
 
 29.5
 
-### 2.98
-
-Uranus
+### 2.98 Uranus
 
 287
 
 84
 
-### 2.98
-
-Neptune
+### 2.98 Neptune
 
 450
 
 165
 
-### 2.99
-
-The law of areas can be understood as a
+### 2.99 The law of areas can be understood as a
 consequence of conservation of angular
 momentum which is valid for any central
 force. A central force is such that the force
@@ -437,7 +437,7 @@ the earth, arising also due to earth's gravitational
 
 attraction.
 
-Reprint 2026-27
+
 
 
 ---
@@ -530,7 +530,7 @@ T14=(-141)
 
 ERT
 
-not to be republished
+
 
 X
 
@@ -567,15 +567,21 @@ equilateral triangle ABC.
 (a) What is the force acting on a mass 2m
 placed at the centroid G of the triangle?
 (b) What is the force if the mass at the
-vertex A is doubled?
 
-Take AG = BG = CG = 1 m (see Fig. 7.5)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_5.png" alt="Fig. 7.5" onclick="openImageModal(this.src, 'Fig. 7.5: Fig. 7.5 Three equal masses are placed at the three...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.5</strong> Fig. 7.5 Three equal masses are placed at the three</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 Answer (a) The angle between GC and the
 positive x-axis is 30° and so is the angle between
 GB and the negative x-axis. The individual forces
 in vector notation are
 
-Reprint 2026-27
+
 
 
 ---
@@ -683,7 +689,14 @@ the Universal law of gravitation can be
 determined experimentally and this was first done
 by English scientist Henry Cavendish in 1798.
 The apparatus used by him is schematically
-shown in Fig.7.6
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_6.png" alt="Fig. 7.6" onclick="openImageModal(this.src, 'Fig. 7.6: The value of the gravitational constant G entering the Universal law of gravitat...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.6</strong> The value of the gravitational constant G entering the Universal law of gravitation can be determined experimentally and this was first done by English scientist Henry Cavendish in 1798. The apparatus used by him is schematically shown in Fig.7.6</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 //////
 
@@ -735,7 +748,7 @@ the bar AB rotates a little since the torque
 reverses direction. The angle of rotation can
 be measured experimentally.
 
-Reprint 2026-27
+
 
 
 ---
@@ -824,7 +837,15 @@ gravitational force is just as if its entire mass of
 the earth is concentrated at its centre.
 
 For a point inside the earth, the situation
-is different. This is illustrated in Fig. 7.7.
+is different. This is illustrated in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_7.png" alt="Fig. 7.7" onclick="openImageModal(this.src, 'Fig. 7.7: For a point inside the earth, the situation is different. This is illustrated in...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.7</strong> For a point inside the earth, the situation is different. This is illustrated in Fig. 7.7.</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 P
 
@@ -877,7 +898,7 @@ mass of the sphere M of radius ris
 
 -pr³ and
 
-Reprint 2026-27
+
 
 
 ---
@@ -950,7 +971,15 @@ Cavendish: “Cavendish weighed the earth".
 7.6 ACCELERATION DUE TO GRAVITY BELOW
 AND ABOVE THE SURFACE OF EARTH
 Consider a point mass mat a height h above the
-surface of the earth as shown in Fig. 7.8(a). The
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_8.png" alt="Fig. 7.8" onclick="openImageModal(this.src, 'Fig. 7.8: Consider a point mass m at a height h above the surface of the earth as shown in...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.8</strong> Consider a point mass m at a height h above the surface of the earth as shown in Fig. 7.8(a). The radius of the earth is denoted by RE . Since this point is outside the earth,</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 radius of the earth is denoted by R. Since this
 point is outside the earth,
 
@@ -1053,7 +1082,7 @@ cube of its radius.
 
 earth.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1231,7 +1260,7 @@ r2
 In place of Eq. (7.21), we can thus associate
 a potential energy W(r) at a distance r, such that
 
-Reprint 2026-27
+
 
 
 ---
@@ -1307,7 +1336,16 @@ vertices of a square of side l. Also obtain
 the potential at the centre of the square.
 
 Answer Consider four masses each of mass m
-at the corners of a square of side l; See Fig. 7.9.
+at the corners of a square of side l; See
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_9.png" alt="Fig. 7.9" onclick="openImageModal(this.src, 'Fig. 7.9: Answer Consider four masses each of mass m at the corners of a square of side l;...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.9</strong> Answer Consider four masses each of mass m at the corners of a square of side l; See Fig. 7.9. We have four mass pairs at distance l and two</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 We have four mass pairs at distance l and two
 diagonal pairs at distance √21
 
@@ -1393,7 +1431,7 @@ GmME
 
 + W₁ (7.27)
 
-Reprint 2026-27
+
 
 
 ---
@@ -1459,7 +1497,15 @@ RE
 Example 7.4 Two uniform solid spheres
 of equal radii R, but mass Mand 4 Mhave
 a centre to centre separation 6 R, as shown
-in Fig. 7.10. The two spheres are held fixed.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_10.png" alt="Fig. 7.10" onclick="openImageModal(this.src, 'Fig. 7.10: Example 7.4 Two uniform solid spheres of equal radii R, but mass M and 4 M have ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.10</strong> Example 7.4 Two uniform solid spheres of equal radii R, but mass M and 4 M have a centre to centre separation 6 R, as shown in Fig. 7.10. The two spheres are held fixed. A projectile of mass m is projected from the surface of the sphere of mass M directly towards the centre of the second sphere. Obtain an expression for the minimum speed v of the projectile so that it reaches the surface of the second sphere.</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 A projectile of mass mis projected from the
 surface of the sphere of mass M directly
 towards the centre of the second sphere.
@@ -1581,7 +1627,7 @@ R 5R
 
 or
 
-Reprint 2026-27
+
 
 
 ---
@@ -1778,7 +1824,7 @@ E
 
 ES
 
-Reprint 2026-27
+
 
 
 ---
@@ -1954,7 +2000,7 @@ zero, the object escapes to infinity. Satellites
 are always at finite distance from the earth and
 hence their energies cannot be positive or zero.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2096,7 +2142,7 @@ RE
 
 RE
 
-Reprint 2026-27
+
 
 
 ---
@@ -2242,7 +2288,7 @@ GM
 r2
 (vector)
 
-Reprint 2026-27
+
 
 
 ---
@@ -2337,7 +2383,7 @@ to the moon, you would find that the Sun's pull is greater than the moon's pull.
 However, the tidal effect of the moon's pull is greater than the tidal effect of sun.
 Why?
 
-Reprint 2026-27
+
 
 
 ---
@@ -2425,7 +2471,7 @@ earth is 1.50 × 108 km away from the sun?
 7.15 A body weighs 63 N on the surface of the earth. What is the gravitational force on it
 due to the earth at a height equal to half the radius of the earth ?
 
-Reprint 2026-27
+
 
 PHYSICS
 
@@ -2471,7 +2517,7 @@ equilibrium? If so, is the equilibrium stable or ?
 
 © NCERT
 
-not to be republished
 
-Reprint 2026-27
+
+
 

@@ -7,7 +7,7 @@
 
 UNIT 3
 
-11082CH03
+
 
 CLASSIFICATION OF ELEMENTS AND
 
@@ -122,7 +122,7 @@ only that it would rationalize known chemical facts about
 elements, but even predict new ones for undertaking
 further study.
 
-Reprint 2026-27
+
 
 
 ---
@@ -322,7 +322,7 @@ At. wt.
 
 40
 
-Reprint 2026-27
+
 
 
 ---
@@ -379,7 +379,15 @@ For example, iodine with lower atomic weight
 than that of tellurium (Group VI) was placed
 in Group VII along with fluorine, chlorine,
 bromine because of similarities in properties
-(Fig. 3.1). At the same time, keeping his
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch03_classification_of_elements_fig_3_1.png" alt="Fig. 3.1" onclick="openImageModal(this.src, 'Fig. 3.1: classification if the order of atomic weight was strictly followed. He ignored t...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.1</strong> classification if the order of atomic weight was strictly followed. He ignored the order of atomic weights, thinking that the atomic measurements might be incorrect, and placed the elements with similar properties together. For example, iodine with lower atomic weight than that of tellurium (Group VI) was placed in Group VII along with fluorine, chlorine, bromine because of similarities in properties (Fig. 3.1). At the same time, keeping his primary aim of arranging the elements of similar properties in the same group, he proposed that some of the elements were still undiscovered and, therefore, left several gaps in the table. For example, both gallium and germanium were unknown at the time Mendeleev published his Periodic Table. He left the gap under aluminium and a gap under silicon, and called these elements Eka-Aluminium and Eka-Silicon. Mendeleev predicted not only the existence of gallium and germanium, but also described some of their general physical properties. These elements were discovered later. Some of the properties predicted by Mendeleev for these elements and those found experimentally are listed in Table 3.3.</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 primary aim of arranging the elements of
 similar properties in the same group, he
 proposed that some of the elements were
@@ -443,9 +451,7 @@ Density/(g/cm³)
 
 ### 5.5
 
-### 5.36
-
-Melting point/K
+### 5.36 Melting point/K
 
 Low
 
@@ -475,13 +481,13 @@ EC14
 
 GeCl4
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 4
 
-Reprint 2026-27
+
 
 PERIODIC SYSTEM OF THE ELEMENTS IN GROUPS AND SERIES
 
@@ -521,9 +527,7 @@ Helium
 
 He
 
-### 4.0
-
-Lithium
+### 4.0 Lithium
 Li
 7.03
 
@@ -954,7 +958,15 @@ forms emphasise chemical reactions and
 valence, whereas others stress the electronic
 configuration of elements. A modern version,
 the so-called “long form” of the Periodic
-Table of the elements (Fig. 3.2), is the most
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch03_classification_of_elements_fig_3_2.png" alt="Fig. 3.2" onclick="openImageModal(this.src, 'Fig. 3.2: Numerous forms of Periodic Table have been devised from time to time. Some forms...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.2</strong> Numerous forms of Periodic Table have been devised from time to time. Some forms emphasise chemical reactions and valence, whereas others stress the electronic configuration of elements. A modern version, the so-called “long form” of the Periodic Table of the elements (Fig. 3.2), is the most convenient and widely used. The horizontal rows (which Mendeleev called series) are called periods and the vertical columns, groups. Elements having similar outer electronic configurations in their atoms are arranged in vertical columns, referred to as groups or families. According to the recommendation of International Union of Pure and Applied Chemistry (IUPAC), the groups are numbered from 1 to 18 replacing the older notation of groups IA … VIIA, VIII, IB … VIIB and 0.</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 convenient and widely used. The horizontal
 rows (which Mendeleev called series) are
 called periods and the vertical columns,
@@ -1001,7 +1013,7 @@ those of all the transuranium elements from 94 to 102 led to reconfiguration of 
 the lanthanoids. In 1951, Seaborg was awarded the Nobel Prize in chemistry for his work. Element 106 has been named
 Seaborgium (Sg) in his honour.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1475,7 +1487,7 @@ Ts Og
 
 PERIOD NUMBER
 
-Reprint 2026-27
+
 
 f- Inner transition elements
 
@@ -1869,7 +1881,7 @@ Oganesson
 
 Og
 
-Reprint 2026-27
+
 
 
 ---
@@ -1982,7 +1994,7 @@ period will end at the element with atomic
 number 118 which would belong to the noble
 gas family. Filling up of the 5f orbitals after
 
-Reprint 2026-27
+
 
 
 ---
@@ -2037,7 +2049,15 @@ can classify the elements into four blocks viz.,
 s-block, p-block, d-block and f-block
 depending on the type of atomic orbitals that
 are being filled with electrons. This is illustrated
-in Fig. 3.3. We notice two exceptions to this
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch03_classification_of_elements_fig_3_3.png" alt="Fig. 3.3" onclick="openImageModal(this.src, 'Fig. 3.3: a theoretical foundation for the periodic classification. The elements in a vert...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.3</strong> a theoretical foundation for the periodic classification. The elements in a vertical column of the Periodic Table constitute a group or family and exhibit similar chemical behaviour. This similarity arises because these elements have the same number and same distribution of electrons in their outermost orbitals. We can classify the elements into four blocks viz., s-block, p-block, d-block and f-block depending on the type of atomic orbitals that are being filled with electrons. This is illustrated in Fig. 3.3. We notice two exceptions to this categorisation. Strictly, helium belongs to the s-block but its positioning in the p-block along with other group 18 elements is justified because it has a completely filled valence shell (1s2) and as a result, exhibits properties characteristic of other noble gases. The other exception is hydrogen. It has only one s-electron and hence can be placed in group 1 (alkali metals). It can also gain an electron to achieve a noble gas arrangement and hence it can behave similar to a group 17 (halogen family) elements. Because it is a special case, we shall place hydrogen separately at the top of the Periodic Table as shown in Fig. 3.2 and Fig. 3.3. We will briefly discuss the salient features of the four types of elements marked in the Periodic Table. More about these elements</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 categorisation. Strictly, helium belongs to the
 s-block but its positioning in the p-block
 along with other group 18 elements is
@@ -2121,13 +2141,13 @@ Group 2 (alkaline earth metals) which have
 ns¹ and ns² outermost electronic configuration
 belong to the s-Block Elements. They are all
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 10
 
-Reprint 2026-27
+
 
 p-BLOCK
 
@@ -2427,7 +2447,7 @@ will be placed in Group 2 (alkaline earth
 metals), and will have the electronic
 configuration [Uuo]8s2.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2540,7 +2560,7 @@ measuring the radius of a ball. Do you know
 why? Firstly, because the size of an atom
 (~ 1.2 Å i.e., 1.2 × 10-10 m in radius) is very
 
-Reprint 2026-27
+
 
 
 ---
@@ -2587,7 +2607,15 @@ in Table 3.6. Two trends are obvious. We can
 explain these trends in terms of nuclear charge
 and energy level. The atomic size generally
 decreases across a period as illustrated in
-Fig. 3.4(a) for the elements of the second
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch03_classification_of_elements_fig_3_4.png" alt="Fig. 3.4" onclick="openImageModal(this.src, 'Fig. 3.4: The atomic radii of a few elements are listed in Table 3.6. Two trends are obvio...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.4</strong> The atomic radii of a few elements are listed in Table 3.6. Two trends are obvious. We can explain these trends in terms of nuclear charge and energy level. The atomic size generally decreases across a period as illustrated in Fig. 3.4(a) for the elements of the second period. It is because within the period the outer electrons are in the same valence shell and the effective nuclear charge increases as the atomic number increases resulting in the increased attraction of electrons to the nucleus. Within a family or vertical column of the periodic table, the atomic radius increases regularly with atomic number as illustrated in Fig. 3.4(b). For alkali metals and halogens, as we descend the groups, the principal quantum number (n) increases and the valence electrons are farther from the nucleus. This happens because the inner energy levels are filled with electrons, which serve to shield the outer electrons from the pull of the nucleus. Consequently the size of the atom increases as reflected in the atomic radii.</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 period. It is because within the period the
 outer electrons are in the same valence shell
 and the effective nuclear charge increases
@@ -2737,7 +2765,7 @@ At
 
 140
 
-Reprint 2026-27
+
 
 
 ---
@@ -2885,7 +2913,7 @@ isolated gaseous atom (X) in its ground state.
 Two or more species with same number of atoms, same number of valence electrons and same structure, regardless of the
 nature of elements involved.
 
-Reprint 2026-27
+
 
 87
 
@@ -2977,7 +3005,15 @@ as the first ionization enthalpy.
 
 The first ionization enthalpies of elements
 having atomic numbers up to 60 are plotted
-in Fig. 3.5. The periodicity of the graph is
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch03_classification_of_elements_fig_3_5.png" alt="Fig. 3.5" onclick="openImageModal(this.src, 'Fig. 3.5: The first ionization enthalpies of elements having atomic numbers up to 60 are p...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.5</strong> The first ionization enthalpies of elements having atomic numbers up to 60 are plotted in Fig. 3.5. The periodicity of the graph is quite striking. You will find maxima at the noble gases which have closed electron shells and very stable electron configurations. On the other hand, minima occur at the alkali metals and their low ionization enthalpies</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
+
 quite striking. You will find maxima at the
 noble gases which have closed electron shells
 and very stable electron configurations. On
@@ -3087,16 +3123,21 @@ Cs(374)
 
 ### 3.6 (α)
 
-Atomic number(Z)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch03_classification_of_elements_fig_3_6.png" alt="Fig. 3.6" onclick="openImageModal(this.src, 'Fig. 3.6: Fig. 3.6(a) First ionization enthalpies (∆iH) of elements of the second period a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.6</strong> Fig. 3.6(a) First ionization enthalpies (∆iH) of elements of the second period as a</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
-Fig. 3.6(a) First ionization enthalpies (AH) of elements of the second period as a
 function of atomic number (Z) and Fig. 3.6(b) AH of alkali metals as a function of Z.
 
 Atomic number(Z)
 
 ### 3.6 (b)
 
-Reprint 2026-27
+
 
 
 ---
@@ -3217,7 +3258,7 @@ is added to the atom and the electron gain
 enthalpy is negative. For example, group
 17 elements (the halogens) have very high
 
-Reprint 2026-27
+
 
 
 ---
@@ -3430,7 +3471,7 @@ account in ∆H = -A - 5/2 RT.
 
 eg
 
-Reprint 2026-27
+
 
 
 ---
@@ -3487,23 +3528,13 @@ you now visualise the relationship between
 electronegativity and non-metallic properties?
 Non-metallic elements have strong tendency
 
-Electron Gain Enthalpy
-
-Ionization Enthalpy
-
-Nonmetalic Character
-
-Metallic Character
-
-Atomic Radius
-
-Electronegativity
-
-Ionization Enthalpy
-
-Electron Gain Enthalpy
-
-Fig. 3.7 The periodic trends of elements in the periodic table
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch03_classification_of_elements_fig_3_7.png" alt="Fig. 3.7" onclick="openImageModal(this.src, 'Fig. 3.7: Fig. 3.7 The periodic trends of elements in the periodic table...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.7</strong> Fig. 3.7 The periodic trends of elements in the periodic table</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
 
 Table 3.8(a) Electronegativity Values (on Pauling scale) Across the Periods
 
@@ -3521,9 +3552,7 @@ Electronegativity
 
 ### 1.5
 
-### 2.0
-
-C
+### 2.0 C
 2.5
 
 N
@@ -3534,9 +3563,7 @@ F
 
 ### 3.5
 
-### 4.0
-
-Atom (Period III)
+### 4.0 Atom (Period III)
 
 Na
 
@@ -3566,9 +3593,7 @@ Electronegativity
 
 ### 2.5
 
-### 3.0
-
-Table 3.8(b) Electronegativity Values (on Pauling scale) Down a Family
+### 3.0 Table 3.8(b) Electronegativity Values (on Pauling scale) Down a Family
 
 Atom
 
@@ -3588,37 +3613,27 @@ Value
 
 Li
 
-### 1.0
+### 1.0 F
 
-F
-
-### 4.0
-
-Na
+### 4.0 Na
 
 0.9
 
 C1
 
-### 3.0
-
-K
+### 3.0 K
 
 0.8
 
 Br
 
-### 2.8
-
-Rb
+### 2.8 Rb
 
 0.8
 
 I
 
-### 2.5
-
-Cs
+### 2.5 Cs
 
 0.7
 
@@ -3626,7 +3641,7 @@ At
 
 ### 2.2
 
-Reprint 2026-27
+
 
 
 ---
@@ -3796,7 +3811,7 @@ alence
 
 0,8
 
-Reprint 2026-27
+
 
 
 ---
@@ -4035,7 +4050,7 @@ elements (e.g., C = O, C = N, C = N,
 N = O) compared to subsequent members
 of the same group.
 
-Reprint 2026-27
+
 
 
 ---
@@ -4145,7 +4160,7 @@ intermediate between those of s- and p-blocks.
 As a consequence, they are less electropositive
 than group 1 and 2 metals.
 
-Reprint 2026-27
+
 
 
 ---
@@ -4208,7 +4223,7 @@ do not occur in nature in free state; they usually occur in the combined form. O
 of the elements on the left are basic and of the elements on the right are acidic in nature.
 Oxides of elements in the centre are amphoteric or neutral.
 
-Reprint 2026-27
+
 
 
 ---
@@ -4220,32 +4235,22 @@ CHEMISTRY
 
 EXERCISES
 
-### 3.1
+### 3.1 What is the basic theme of organisation in the periodic table?
 
-What is the basic theme of organisation in the periodic table?
-
-### 3.2
-
-Which important property did Mendeleev use to classify the elements in his periodic
+### 3.2 Which important property did Mendeleev use to classify the elements in his periodic
 table and did he stick to that?
 
-### 3.3
-
-What is the basic difference in approach between the Mendeleev's Periodic Law and
+### 3.3 What is the basic difference in approach between the Mendeleev's Periodic Law and
 the Modern Periodic Law?
 
-### 3.4
-
-On the basis of quantum numbers, justify that the sixth period of the periodic table
+### 3.4 On the basis of quantum numbers, justify that the sixth period of the periodic table
 should have 32 elements.
 
 ### 3.5
 
 ### 3.6
 
-### 3.7
-
-Which element do you think would have been named by
+### 3.7 Which element do you think would have been named by
 
 (i) Lawrence Berkeley Laboratory
 
@@ -4257,17 +4262,13 @@ Which element do you think would have been named by
 
 ### 3.10
 
-### 3.11
-
-Preashed
+### 3.11 Preashed
 
 (i) F
 
 (ii) Ar
 
-### 3.12
-
-Consider the following species :
+### 3.12 Consider the following species :
 
 N3-, O2-, F, Na+, Mg2+ and Al3+
 
@@ -4298,25 +4299,19 @@ isoelectronic with each of the following atoms or ions.
 
 ### 3.13
 
-### 3.14
-
-Explain why cation are smaller and anions larger in radii than their parent atoms?
+### 3.14 Explain why cation are smaller and anions larger in radii than their parent atoms?
 What is the significance of the terms 'isolated gaseous atom' and 'ground state'
 while defining the ionization enthalpy and electron gain enthalpy?
 
 Hint: Requirements for comparison purposes.
 
-### 3.15
-
-Energy of an electron in the ground state of the hydrogen atom is
+### 3.15 Energy of an electron in the ground state of the hydrogen atom is
 -2.18×10-18J. Calculate the ionization enthalpy of atomic hydrogen in terms of
 J mol-1.
 
 Hint: Apply the idea of mole concept to derive the answer.
 
-### 3.16
-
-Among the second period elements the actual ionization enthalpies are in the order
+### 3.16 Among the second period elements the actual ionization enthalpies are in the order
 
 Li < B < Be < C < O < N < F < Ne.
 
@@ -4326,7 +4321,7 @@ Explain why
 
 (ii) O has lower ∆H than N and F?
 
-Reprint 2026-27
+
 
 
 ---
@@ -4334,20 +4329,14 @@ Reprint 2026-27
 
 CLASSIFICATION OF ELEMENTS AND PERIODICITY IN PROPERTIES
 
-### 3.17
-
-How would you explain the fact that the first ionization enthalpy of sodium is lower
+### 3.17 How would you explain the fact that the first ionization enthalpy of sodium is lower
 than that of magnesium but its second ionization enthalpy is higher than that of
 magnesium?
 
-### 3.18
-
-What are the various factors due to which the ionization enthalpy of the main group
+### 3.18 What are the various factors due to which the ionization enthalpy of the main group
 elements tends to decrease down a group?
 
-### 3.19
-
-The first ionization enthalpy values (in kJ mol¯¹) of group 13 elements are :
+### 3.19 The first ionization enthalpy values (in kJ mol¯¹) of group 13 elements are :
 
 B
 
@@ -4369,52 +4358,36 @@ T1
 
 How would you explain this deviation from the general trend ?
 
-### 3.20
-
-Which of the following pairs of elements would have a more negative electron gain
+### 3.20 Which of the following pairs of elements would have a more negative electron gain
 enthalpy?
 
 (i) O or F (ii) F or Cl
 
-### 3.21
-
-Would you expect the second electron gain enthalpy of O as positive, more negative
+### 3.21 Would you expect the second electron gain enthalpy of O as positive, more negative
 or less negative than the first? Justify your answer.
 
-### 3.22
-
-What is the basic difference between the terms electron gain enthalpy and
+### 3.22 What is the basic difference between the terms electron gain enthalpy and
 electronegativity?
 
-### 3.23
-
-How would you react to the statement that the electronegativity of N on Pauling
+### 3.23 How would you react to the statement that the electronegativity of N on Pauling
 scale is 3.0 in all the nitrogen compounds?
 
-### 3.24
-
-Describe the theory associated with the radius of an atom as it
+### 3.24 Describe the theory associated with the radius of an atom as it
 
 (a) gains an electron
 
 (b) loses an electron
 
-### 3.25
-
-ioniza
+### 3.25 ioniza
 
 Would you expect the first ionization enthalpies for two isotopes of the same element
 to be the same or different? Justify your answer.
 
 enthalpies for
 
-### 3.26
+### 3.26 What are the major differences between metals and non-metals?
 
-What are the major differences between metals and non-metals?
-
-### 3.27
-
-Use the periodic table to answer the following questions.
+### 3.27 Use the periodic table to answer the following questions.
 
 (a) Identify an element with five electrons in the outer subshell.
 
@@ -4425,21 +4398,17 @@ Use the periodic table to answer the following questions.
 (d) Identify the group having metal, non-metal, liquid as well as gas at the room
 temperature.
 
-### 3.28
-
-The increasing order of reactivity among group 1 elements is Li < Na < K < Rb <Cs
+### 3.28 The increasing order of reactivity among group 1 elements is Li < Na < K < Rb <Cs
 whereas that among group 17 elements is F > CI > Br > I. Explain.
 
 ### 3.29
 
-### 3.30
-
-Write the general outer electronic configuration of s-, p-, d- and f- block elements.
+### 3.30 Write the general outer electronic configuration of s-, p-, d- and f- block elements.
 Assign the position of the element having outer electronic configuration
 (i) ns2np⁺ for n=3 (ii) (n-1)d²ns² for n=4, and (iii) (n-2) f7 (n-1)d¹ns² for n=6, in the
 periodic table.
 
-Reprint 2026-27
+
 
 97
 
@@ -4451,9 +4420,7 @@ Reprint 2026-27
 
 ### 3.31
 
-### 3.32
-
-CHEMISTRY
+### 3.32 CHEMISTRY
 
 The first (∆H₁) and the second (△₁H₂) ionization enthalpies (in kJ mol¯¹) and the (∆egH)
 electron gain enthalpy (in kJ mol¯¹) of a few elements are given below:
@@ -4551,9 +4518,7 @@ Silicon and oxygen
 
 Element 71 and fluorine
 
-### 3.33
-
-In the modern periodic table, the period indicates the value of :
+### 3.33 In the modern periodic table, the period indicates the value of :
 
 (a) atomic number
 
@@ -4580,7 +4545,7 @@ can occupy that subshell.
 (d) The block indicates value of azimuthal quantum number (l) for the last subshell
 that received electrons in building up the electronic configuration.
 
-Reprint 2026-27
+
 
 
 ---
@@ -4588,9 +4553,7 @@ Reprint 2026-27
 
 CLASSIFICATION OF ELEMENTS AND PERIODICITY IN PROPERTIES
 
-### 3.35
-
-Anything that influences the valence electrons will affect the chemistry of the
+### 3.35 Anything that influences the valence electrons will affect the chemistry of the
 element. Which one of the following factors does not affect the valence shell?
 
 (a) Valence principal quantum number (n)
@@ -4656,7 +4619,7 @@ not®
 
 (d) O > F > N > Cl
 
-Reprint 2026-27
+
 
 99
 

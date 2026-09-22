@@ -13,7 +13,7 @@ MECHANICAL PROPERTIES OF SOLIDS
 
 INTRODUCTION
 
-11087CH09
+
 
 of elastic
 
@@ -76,7 +76,7 @@ not? Answers to such questions begin with the study of how
 relatively simple kinds of loads or forces act to deform
 different solids bodies. In this chapter, we shall study the
 
-Reprint 2025-26
+
 
 
 ---
@@ -114,7 +114,15 @@ and its dimensional formula is [ ML-1T-2 ].
 
 There are three ways in which a solid may
 change its dimensions when an external force
-acts on it. These are shown in Fig. 8.1. In
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_1.png" alt="Fig. 8.1" onclick="openImageModal(this.src, 'Fig. 8.1: There are three ways in which a solid may change its dimensions when an external...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.1</strong> There are three ways in which a solid may change its dimensions when an external force acts on it. These are shown in Fig. 8.1. In Fig.8.1(a), a cylinder is stretched by two equal forces applied normal to its cross-sectional area. The restoring force per unit area in this case is called tensile stress. If the cylinder is compressed under the action of applied forces, the restoring force per unit area is known as compressive stress. Tensile or compressive stress can also be termed as longitudinal stress.</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 Fig.8.1(a), a cylinder is stretched by two equal
 forces applied normal to its cross-sectional area.
 The restoring force per unit area in this case is
@@ -176,7 +184,14 @@ and tan 0).
 
 It can also be visualised, when a book is
 pressed with the hand and pushed horizontally,
-as shown in Fig. 8.2 (c).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_2.png" alt="Fig. 8.2" onclick="openImageModal(this.src, 'Fig. 8.2: It can also be visualised, when a book is pressed with the hand and pushed horiz...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.2</strong> It can also be visualised, when a book is pressed with the hand and pushed horizontally, as shown in Fig. 8.2 (c).</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 Thus, shearing strain = tan 0 ≈ 0
 
@@ -225,7 +240,7 @@ Fig. 8.1 (a) A cylindrical body under tensile stress elongates by AL (b) Shearin
 an angle 0 (c) A body subjected to shearing stress (d) A solid body under a stress normal to the surface at
 every point (hydraulic stress). The volumetric strain is AV/V, but there is no change in shape.
 
-Reprint 2025-26
+
 
 
 ---
@@ -357,7 +372,7 @@ fracture points D and E are close, the material
 is said to be brittle. If they are far apart, the
 material is said to be ductile.
 
-Reprint 2025-26
+
 
 
 ---
@@ -378,11 +393,16 @@ Stress (106Nm-2)
 
 0.5
 
-### 1.0
+### 1.0 Strain
 
-Strain
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_3.png" alt="Fig. 8.3" onclick="openImageModal(this.src, 'Fig. 8.3: As stated earlier, the stress-strain behaviour varies from material to material....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.3</strong> As stated earlier, the stress-strain behaviour varies from material to material. For example, rubber can be pulled to several times its original length and still returns to its original shape. Fig. 8.3 shows stress-strain curve for the elastic tissue of aorta, present in the heart. Note that although elastic region is very large, the material does not obey Hooke’s law over most of the region. Secondly, there is no well defined plastic region. Substances like tissue of aorta, rubber etc. which can be stretched to cause large strains are called elastomers.</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
-Fig. 8.3 Stress-strain curve for the elastic tissue of
 Aorta, the large tube (vessel) carrying blood
 from the heart.
 
@@ -542,7 +562,7 @@ Polystyrene
 
 # Substance tested under compression
 
-Reprint 2025-26
+
 
 
 ---
@@ -647,8 +667,16 @@ X
 Example 8.3 In a human pyramid in a
 circus, the entire weight of the balanced
 group is supported by the legs of a performer
-who is lying on his back (as shown in Fig.
-8.4). The combined mass of all the persons
+who is lying on his back (as shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_4.png" alt="Fig. 8.4" onclick="openImageModal(this.src, 'Fig. 8.4: circus, the entire weight of the balanced group is supported by the legs of a pe...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.4</strong> circus, the entire weight of the balanced group is supported by the legs of a performer who is lying on his back (as shown in Fig. 8.4). The combined mass of all the persons performing the act, and the tables, plaques etc. involved is 280 kg. The mass of the performer lying on his back at the bottom of the pyramid is 60 kg. Each thighbone (femur) of this performer has a length of 50 cm and an effective radius of 2.0 cm. Determine the amount by which each thighbone gets compressed under the extra load.</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 performing the act, and the tables, plaques
 etc. involved is 280 kg. The mass of the
 performer lying on his back at the bottom of
@@ -701,7 +729,7 @@ the load applied.
 
 Fig. 8.4 Human pyramid in a circus.
 
-Reprint 2025-26
+
 
 
 ---
@@ -774,9 +802,7 @@ Iron
 
 Lead
 
-### 5.6
-
-Nickel
+### 5.6 Nickel
 
 77
 
@@ -862,7 +888,15 @@ How much will the upper edge be displaced?
 
 Answer The lead slab is fixed and the force is
 applied parallel to the narrow face as shown in
-Fig. 8.6. The area of the face parallel to which
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_6.png" alt="Fig. 8.6" onclick="openImageModal(this.src, 'Fig. 8.6: Answer The lead slab is fixed and the force is applied parallel to the narrow fa...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.6</strong> Answer The lead slab is fixed and the force is applied parallel to the narrow face as shown in Fig. 8.6. The area of the face parallel to which this force is applied is</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 this force is applied is
 
 A = 50 cm x 10 cm
@@ -893,14 +927,20 @@ modulus (or modulus of rigidity) is generally less
 than Young's modulus (from Table 9.1). For most
 materials G≈ Y/3.
 
-Fig. 8.5
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_5.png" alt="Fig. 8.5" onclick="openImageModal(this.src, 'Fig. 8.5: Fig. 8.5...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.5</strong> Fig. 8.5</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 We know that shearing strain = (Ax/L)=Stress/G.
 Therefore the displacement ∆x = (Stress × L)/G
 = (1.8 × 10º N m¯² × 0.5m)/(5.6 × 10º N m-2)
 = 1.6 x 10-4 m = 0.16 mm
 
-Reprint 2025-26
+
 
 
 ---
@@ -974,17 +1014,13 @@ Liquids
 
 Water
 
-### 2.2
-
-Ethanol
+### 2.2 Ethanol
 
 0.9
 
 Carbon disulphide
 
-### 1.56
-
-Glycerine
+### 1.56 Glycerine
 
 ### 4.76
 
@@ -1116,7 +1152,7 @@ modulus
 Solid, liquid
 and gas
 
-Reprint 2025-26
+
 
 
 ---
@@ -1265,7 +1301,7 @@ Answers to these questions can be obtained
 from the study of structural engineering which
 is based on concepts developed here.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1336,7 +1372,15 @@ the length I of the span should be as small as
 possible). But on increasing the depth, unless
 the load is exactly at the right place (difficult to
 arrange in a bridge with moving traffic), the
-deep bar may bend as shown in Fig. 8.7(b). This
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_7.png" alt="Fig. 8.7" onclick="openImageModal(this.src, 'Fig. 8.7: This relation can be derived using what you have already learnt and a little cal...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.7</strong> This relation can be derived using what you have already learnt and a little calculus. From Eq. (8.16), we see that to reduce the bending for a given load, one should use a material with a large Young’s modulus Y. For a given material, increasing the depth d rather than the breadth b is more effective in reducing the bending, since δ is proportional to d -3 and only to b-1(of course the length l of the span should be as small as possible). But on increasing the depth, unless the load is exactly at the right place (difficult to arrange in a bridge with moving traffic), the deep bar may bend as shown in Fig. 8.7(b). This is called buckling. To avoid this, a common compromise is the cross-sectional shape shown in Fig. 8.7(c). This section provides a large load- bearing surface and enough depth to prevent bending. This shape reduces the weight of the beam without sacrificing the strength and hence reduces the cost.</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 is called buckling. To avoid this, a common
 compromise is the cross-sectional shape shown
 in Fig. 8.7(c). This section provides a large load-
@@ -1385,7 +1429,15 @@ bearing bar.
 
 The use of pillars or columns is also very
 common in buildings and bridges. A pillar with
-rounded ends as shown in Fig. 8.9(a) supports
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_9.png" alt="Fig. 8.9" onclick="openImageModal(this.src, 'Fig. 8.9: 8.2 Figure 8.9 shows the strain-stress curve for a given material. What are (a) ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.9</strong> 8.2 Figure 8.9 shows the strain-stress curve for a given material. What are (a) Young’s modulus and (b) approximate yield strength for this material?</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 less load than that with a distributed shape at
 the ends [Fig. 8.9(b)]. The precise design of a
 bridge or a building has to take into account
@@ -1393,17 +1445,19 @@ the conditions under which it will function, the
 cost and long period, reliability of usable
 material, etc.
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 10
 
-176
-
-PHYSICS
-
-Fig. 8.8
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_8.png" alt="Fig. 8.8" onclick="openImageModal(this.src, 'Fig. 8.8: Fig. 8.8 Pillars or columns: (a) a pillar with rounded ends, (b) Pillar with dis...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.8</strong> Fig. 8.8 Pillars or columns: (a) a pillar with rounded ends, (b) Pillar with distributed ends. The answer to the question why the maximum height of a mountain on earth is ~10 km can also be provided by considering the elastic properties of rocks. A mountain base is not under uniform compression and this provides some</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
 (b)
 
@@ -1500,7 +1554,7 @@ where p is the pressure (hydraulic stress) on the object due to the fluid, AV/V 
 volume strain) is the absolute fractional change in the object's volume due to that
 pressure and B is the bulk modulus of the object.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1570,7 +1624,7 @@ Stress (106Nm¯²)
 Strain
 Fig. 8.9
 
-Reprint 2025-26
+
 
 177
 
@@ -1580,7 +1634,15 @@ Reprint 2025-26
 
 178
 
-8.3 The stress-strain graphs for materials A and B are shown in Fig. 8.10.
+8.3 The stress-strain graphs for materials A and B are shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_10.png" alt="Fig. 8.10" onclick="openImageModal(this.src, 'Fig. 8.10: 8.3 The stress-strain graphs for materials A and B are shown in Fig. 8.10....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.10</strong> 8.3 The stress-strain graphs for materials A and B are shown in Fig. 8.10.</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 PHYSICS
 
@@ -1617,7 +1679,14 @@ The stretching of a coil is determined by its shear modulus.
 
 8.5 Two wires of diameter 0.25 cm, one made of steel and the other made of brass are loaded
 
-as shown in Fig. 8.11. The unloaded length of steel wire is 1.5 m and that of brass wire
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_11.png" alt="Fig. 8.11" onclick="openImageModal(this.src, 'Fig. 8.11: 8.5 Two wires of diameter 0.25 cm, one made of steel and the other made of brass...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.11</strong> 8.5 Two wires of diameter 0.25 cm, one made of steel and the other made of brass are loaded as shown in Fig. 8.11. The unloaded length of steel wire is 1.5 m and that of brass wire is 1.0 m. Compute the elongations of the steel and the brass wires.</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
 is 1.0 m. Compute the elongations of the steel and the brass wires.
 
 m
@@ -1660,7 +1729,7 @@ whirled in a vertical circle with an angular velocity of 2 rev/s at the bottom o
 The cross-sectional area of the wire is 0.065 cm². Calculate the elongation of the wire
 when the mass is at the lowest point of its path.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1687,9 +1756,9 @@ carry one quarter of the load.
 
 © NCERT
 
-not to be republished
 
-Reprint 2025-26
+
+
 
 179
 

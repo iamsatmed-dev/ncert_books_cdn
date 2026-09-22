@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11081CH14
+
 
 हैं?
 
@@ -52,7 +52,7 @@ blished
 हमें यह याद रखना चाहिए कि हरे पादपों में भी सभी कोशिकाओं, ऊतकों, अंगों में
 प्रकाश-संश्लेषण नहीं होता है, केवल वे कोशिकाएं, जिनमें क्लोरोप्लास्ट होता है, वे ही
 
-Reprint 2025-26
+
 
 
 ---
@@ -103,7 +103,7 @@ nott
 गैसीय आदान-प्रदान की आवश्यकता का ध्यान रखता है। पादपों के एक भाग से दूसरे
 भाग में गैसों का परिवहन बहुत कम होता है। दूसरा कारण यह है कि पादपों में गैसों के
 
-Reprint 2025-26
+
 
 
 ---
@@ -158,7 +158,7 @@ C6H12O6 + 602
 ऑक्सीकृत करता है। इस प्रकार ग्लूकोज का पाइरुविक अम्ल में विघटन ग्लाइकोलिसिस
 कहलाता है।
 
-Reprint 2025-26
+
 
 155
 
@@ -250,7 +250,15 @@ H₂O
 का फॉस्फरिकृत रूप समायवीकरण द्वारा फ्रुक्टोज-6 फॉस्फेट
 में परिवर्तित हो जाता है। ग्लूकोज एवं फ्रुक्टोज के
 उपापचय के बाद के क्रम एक समान होते हैं। ग्लाइकोलिसिस
-के विभिन्न चरण चित्र 12.1 में दर्शाए गए हैं। ग्लाइकीलिसस
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch12_respiration_in_plants_fig_12_hi.png" alt="चित्र 12" onclick="openImageModal(this.src, 'चित्र 12: Xywdkst ,oa izqQDVkst] gsDlksdkbust ,atkbe }kjk iQkWLiQfjÑr gksdj Xywdkst&6 iQkW...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 12</strong> Xywdkst ,oa izqQDVkst] gsDlksdkbust ,atkbe }kjk iQkWLiQfjÑr gksdj Xywdkst&6 iQkWLiQsV cukrs gSaA Xywdkst dk iQkWLiQfjÑr :i lek;ohdj.k }kjk izqQDVkst&6 iQkWLisQV esa ifjofrZr gks tkrk gSA Xywdkst ,oa izqQDVkst osQ mikip; osQ ckn osQ Øe ,d leku gksrs gSaA Xykbdksfyfll osQ fofHkUu pj.k fp=k 12-1 esa n'kkZ, x, gSaA XykboQhfyll esa nl Ük`a[kykc¼ vfHkfØ;kvksa esa fofHkUu ,atkbe }kjk Xywdkst ls ikb#osV dk fuekZ.k gksrk gSA Xykbdksfyfll osQ fofHkUu pj.kksa osQ vè;;u osQ nkSjku mu pj.kksa ij è;ku nsa ftlesa ,Vhih dk mi;ksx (,Vhih ÅtkZ) vFkok la'ys"k.k (bl ekeys esa NADH+H+) gksrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 में दस श्रृंखलाबद्ध अभिक्रियाओं में विभिन्न एंजाइम द्वारा
 ग्लूकोज से पाइरुवेट का निर्माण होता है। ग्लाइकोलिसिस
 के विभिन्न चरणों के अध्ययन के दौरान उन चरणों पर
@@ -291,7 +299,7 @@ K
 तो NAD+ से NADH + H+ का निर्माण होता है। पीजीएएल
 से दो समान अपचयोपचय (रिडॉक्स) दो हाइड्रोजन अणु
 
-Reprint 2025-26
+
 
 
 ---
@@ -379,7 +387,7 @@ NADH+H
 
 चित्र 12.2 अनॉक्सी श्वसन के प्रमुख पथ
 
-Reprint 2025-26
+
 
 
 ---
@@ -445,7 +453,7 @@ Mg2+ → ऐसीटाइल CoA+ CO2 + NADH + H+
 ऐसीटाइल CoA चक्रीय पथ, ट्राइकार्बोक्सिलिक अम्ल चक्र में प्रवेश करता है। जिसे
 साधारणतया वैज्ञानिक हैन्स क्रेब की खोज के कारण क्रेब्स चक्र कहते हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -569,11 +577,19 @@ FADH, की क्या भूमिका होगी। हमें अब
 उपयोग में लाना है। यह तब संपादित होता है। जब उनका ऑक्सीकरण इलेक्ट्रॉन परिवहन
 तंत्र द्वारा होता है तथा इलेक्ट्रॉन ऑक्सीजन पर चला जाता है तथा पानी का निर्माण होता
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 8
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch12_respiration_in_plants_fig_14_hi.png" alt="चित्र 14" onclick="openImageModal(this.src, 'चित्र 14: fp=k 14-4 bysDVªkWu ra=k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14</strong> fp=k 14-4 bysDVªkWu ra=k</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 160
 
@@ -732,7 +748,7 @@ NADH के एक अणु के ऑक्सीकरण से एटीप
 
 चित्र 12.4 इलेक्ट्रॉन तंत्र
 
-Reprint 2025-26
+
 
 
 ---
@@ -825,7 +841,7 @@ T
 किण्वन में ग्लूकोज का आंशिक विघटन होता है जबकि ऑक्सी श्वसन में पूर्ण
 विघटन होता है तथा कार्बनडाइऑक्साइड एवं जल बनते हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -885,7 +901,7 @@ not to be republisher
 चित्र 12.6 श्वसन मध्यस्थता के दौरान विभिन्न कार्बनिक अणुओं का व जल में विखंडन को दर्शाने वाला
 उपापचय पाथक्रम के आपसी संबंध का प्रदर्शन
 
-Reprint 2025-26
+
 
 
 ---
@@ -959,7 +975,7 @@ C6H12O6 + 602
 
 = 1.0
 
-Reprint 2025-26
+
 
 
 ---
@@ -1032,7 +1048,7 @@ O₂ की उपलब्धता तथा जीव पर निर्भ�
 श्वसनी पथ में उपचयी अथवा अपचयी दोनों भाग लेते हैं, इसलिए इसे ऐंफीबेलिक पथ कहते हैं। साँस
 गुणांक साँस के दौरान में आने वाले श्वसनी क्रियाधार पर निर्भर करता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1086,5 +1102,5 @@ O republished
 
 not to be rep
 
-Reprint 2025-26
+
 

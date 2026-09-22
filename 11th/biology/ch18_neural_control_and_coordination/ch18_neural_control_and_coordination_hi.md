@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11081CH21
+
 
 18.1 तंत्रिकीय तंत्र
 
@@ -51,7 +51,7 @@ not
 तंत्रिकोशिका कहते हैं। ये विभिन्न उद्दीपनों को पहचान कर ग्रहण करती हैं तथा इनका
 संचरण करती हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -94,7 +94,15 @@ e
 क्रियात्मक इकाई
 
 न्यूरॉन एक सूक्ष्मदर्शीय संरचना है जो तीन भागों से मिलकर बनती है – कोशिका काय,
-दुम्राक्ष्य व तंत्रिकाक्ष (चित्र 18.1)। कोशिका काय में कोशिका द्रव्य व प्रारूपिक कोशिकांग
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch18_neural_control_and_coordination_fig_18_hi.png" alt="चित्र 18" onclick="openImageModal(this.src, 'चित्र 18: U;wjkWu ,d lw{en&#39;khZ; lajpuk gS tks rhu Hkkxkas ls feydj curh gS & dksf&#39;...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 18</strong> U;wjkWu ,d lw{en'khZ; lajpuk gS tks rhu Hkkxkas ls feydj curh gS & dksf'kdk dk;] nqezk{; o raf=kdk{k (fp=k 18-1)A dksf'kdk dk; esa dksf'kdk nzO; o izk:fid dksf'kdkax o fo'ks"k nkusnkj vaxd fulsy xzsU;wy ik, tkrs gaSA NksVs rarq tks dksf'kdk dk; ls izofèkZr gksdj yxkrkj foHkkftr gksrs gSa rFkk ftuesa fulsy xzsU;wy Hkh ik, tkrs gSa] nqezk{; dgykrs gSaA ;s rarq mn~nhiuksa dks dksf'kdk dk; dh vksj Hkstrs gaSA ,d raf=kdksf'kdk esa ,d raf=kdk{k fudyrk gSA bldk nwjLFk Hkkx 'kkf[kr o izR;sd 'kkf[kr Hkkx dk vafre Nksj yM+huqek lajpuk flusfIVd uksc ftlesa flusIVh iqfVdk,a gksrh gSa] blesa jlk;u U;wjksVªaklehVlZ ik, tkrs gSaA raf=kdk{k rakf=kdh; vkosxksa dks dksf'kdk dk; ls nwj flusIl ij vFkok rkaf=kdh;is'kh laf/ ij igq¡pkrs gSaA raf=kdk{k rFkk nqezk{k dh la[;k osQ vk/kj ij U;wjksal dks rhu lewgksa esa c¡kVrs gaSA tSls cgq/zqoh; (,d raf=kdk{k o nks ;k vf/d nqezk{; ;qDr</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 व विशेष दानेदार अंगक निसेल ग्रेन्यूल पाए जाते हैं। छोटे तंतु जो कोशिका काय से प्रवर्धित
 होकर लगातार विभाजित होते हैं तथा जिनमें निसेल ग्रेन्यूल भी पाए जाते हैं, दुम्राक्ष्य कहलाते
 हैं। ये तंतु उद्दीपनों को कोशिका काय की ओर भेजते हैं। एक तंत्रिकोशिका में एक तंत्रिकाक्ष
@@ -104,7 +112,7 @@ e
 तांत्रिकीयपेशी संधि पर पहुँचाते हैं। तंत्रिकाक्ष तथा दुम्राक्ष की संख्या के आधार पर न्यूरोस
 को तीन समूहों में बाँटते हैं। जैसे बहुध्रुवीय (एक तंत्रिकाक्ष व दो या अधिक दुम्राक्ष्य युक्त
 
-Reprint 2025-26
+
 
 231
 
@@ -183,7 +191,7 @@ not
 विपरीत ध्रुवता होने से विध्रुवीकरण हो जाता है। A झिल्ली की सतह पर विद्युत विभवांतर
 क्रियात्मक विभव कहलाता है, जिसे तथ्यात्मक रूप से तंत्रिका आवेग कहा जाता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -306,7 +314,7 @@ lished
 रासायनिक सिनेप्स पर, पूर्व एवं पश्च सिनेप्टिक न्यूरोंस की झिल्लियाँ द्रव से भरे
 अवकाश द्वारा पृथक होती है जिसे सिनेप्टिक दरार कहते हैं (चित्र 18.3)। क्या आप
 
-Reprint 2025-26
+
 
 
 ---
@@ -363,7 +371,7 @@ not t
 देखने, सुनने, बोलने की प्रक्रिया, याददाश्त, कुशाग्रता, भावनाओं और विचारों का भी
 स्थल है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -425,7 +433,7 @@ not
 
 चित्र 18.4 मानव मस्तिष्क का सममितार्धी (सेजीटल) काट
 
-Reprint 2025-26
+
 
 235
 
@@ -479,7 +487,7 @@ to be
 और रासायनिक सिनेप्स। रासायनिक सिनैप्स पर आवेगों के संचरण में भाग लेने वाले रसायन न्यूरोट्रांसमीटर
 कहलाते हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -541,7 +549,7 @@ erepublish
 
 (ब) सिनेप्स पर न्यूरोट्रांसमीटर मुक्त करने में Ca** की भूमिका का वर्णन कीजिए।
 
-Reprint 2025-26
+
 
 237
 
@@ -575,9 +583,9 @@ Reprint 2025-26
 
 © NCERT
 
-not to be republished
 
-Reprint 2025-26
+
+
 
 जीव विज्ञान
 

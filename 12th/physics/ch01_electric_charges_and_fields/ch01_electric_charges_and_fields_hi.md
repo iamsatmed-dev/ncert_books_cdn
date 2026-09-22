@@ -37,7 +37,7 @@ ONCERT
 निवासी थेल्स को जाता है। 'इलेक्ट्रिसिटी' शब्द भी ग्रीस की भाषा के शब्द इलेक्ट्रॉन से व्युत्पन्न
 हुआ है जिसका अर्थ ऐम्बर है। उस समय पदार्थों के ऐसे बहुत से युगल ज्ञात थे जो परस्पर रगड़े
 
-Reprint 2026-27
+
 
 
 ---
@@ -45,37 +45,23 @@ Reprint 2026-27
 
 भौतिकी
 
-रेशम का धागा
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_1_hi.png" alt="
 
-रेशम का धागा
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_hi.png" alt="चित्र 1" onclick="openImageModal(this.src, 'चित्र 1: ;gk¡ ,d lafnX/rk ij è;ku nhft,A fdlh {ks=kiQy vo;o dh fn&#39;kk mlosQ vfHkyac os...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1</strong> ;gk¡ ,d lafnX/rk ij è;ku nhft,A fdlh {ks=kiQy vo;o dh fn'kk mlosQ vfHkyac osQ vuqfn'k gksrh gSA ijarq vfHkyac nks fn'kk,¡ laosQr dj ldrk gSA fdlh {ks=kiQy vo;o ls lac¼ lfn'k dh fn'kk dk p;u fdl izdkj fd;k tkrk gS\ bl leL;k dk lek/ku bl lanHkZ esa mfpr oqQN ifjikfV;ksa osQ fu/kZj.k }kjk fd;k x;k gSA can i`"Bksa osQ izdj.kksa osQ fy, ;g ifjikVh vfr ljy gSA fdlh can i`"B osQ izR;sd {ks=kiQy vo;o ls lac¼ lfn'k dh fn'kk cfgeqZ[kh vfHkyac dh fn'kk ekuh tkrh gSA blh ifjikVh dk mi;ksx fp=k 1-16 esa fd;k x;k gSA bl izdkj] fdlh can i`"B osQ fdlh ¯cnq ij {ks=kiQy vo;o lfn'k ∆S dk eku ∆S ˆn gksrk gS] ;gk¡ ∆S {ks=kiQy lfn'k dk ifjek.k rFkk ˆn bl ¯cnq ij cfgeqZ[kh vfHkyac dh fn'kk esa ,dkad lfn'k gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
 
-काँच की छड़
+<div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.1</strong> ;g Hkh izsf{kr fd;k x;k fd ;fn Åu vFkok js'ke osQ diM+s ls jxM+h gqbZ nks dk¡p dh NM+ksa dks ,d&nwljs osQ fudV yk,¡ rks os ,d&nwljs dks izfrd£"kr djrh gSa ¹fp=k 1.1(a)ºA Åu dh os yfM+;k¡ vFkok js'ke osQ diM+s osQ os VqdM+s ftuls bu NM+ksa dks jxM+k x;k Fkk] os Hkh ijLij ,d&nwljs dks izfrd£"kr djrs gSa ijarq dk¡p dh NM+ rFkk Åu ,d&nwljs dks vkd£"kr djrs gSaA blh izdkj] fcYyh dh lewj ls jxM+h gqbZ nks IykfLVd dh NM+sa ,d&nwljs dks izfrd£"kr djrh gSa ¹fp=k 1.1(b)º ijarq lewj dks vkd£"kr djrh gSaA blosQ foijhr] IykfLVd dh NM+sa dk¡p dh NM+ksa dks vkd£"kr djrh gSa ¹fp=k 1.1(c)º rFkk flYd vFkok Åu ftlls dk¡p dh NM+ksa dks jxM+k x;k Fkk] dks izfrd£"kr djrh gSaA dk¡p dh NM+ lewj dks izfrd£"kr djrh gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
-2
-
-******
-
-(a)
-
-++
-
-प्लास्टिक की छड़
-
-प्लास्टिक की छड़
-
-(b)
-
-रेशम का धागा
-
-काँच की छड़
-
-++++++
-
-प्लास्टिक की छड
-
-(c)
-
-चित्र 1.1 छड़ेंः सजातीय आवेश एक-दूसरे को प्रतिकर्षित तथा
 विजातीय आवेश एक-दूसरे को आकर्षित करते हैं।
 
 जाने पर भूसे के तिनकों, सरकंडे की गोलियों, कागज़
@@ -124,13 +110,21 @@ Reprint 2026-27
 not
 
 आवेशों की उपस्थिति के संसूचन के लिए एक सरल उपकरण स्वर्ण पत्र विद्युतदर्शी है
-[चित्र 1.2 (a)]। इसमें एक बॉक्स में धातु की एक छड़ ऊर्ध्वाधरतः लगी होती है जिसके निचले
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_2_hi.png" alt="चित्र 1.2" onclick="openImageModal(this.src, 'चित्र 1.2: vkos&#39;kksa dh mifLFkfr osQ lalwpu osQ fy, ,d ljy midj.k Lo.kZ i=k fo|qrn&#39;...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.2</strong> vkos'kksa dh mifLFkfr osQ lalwpu osQ fy, ,d ljy midj.k Lo.kZ i=k fo|qrn'khZ gS ¹fp=k 1.2 (a)ºA blesa ,d ckWDl esa /krq dh ,d NM+ ÅèokZèkjr% yxh gksrh gS ftlosQ fupys fljs ij lksus osQ ooZQ dh nks ifêð;k¡ c¡/h gksrh gSaA tc dksbZ vkosf'kr oLrq NM+ osQ Åijh fljs dks Nwrh gS rks NM+ esa gksrk gqvk vkos'k lksus osQ odks± ij vk tkrk gS vkSj os ,d&nwljs ls nwj gV tkrs gSaA vkos'k ftruk vf/d gksrk gS] odks± osQ fupys fljksa osQ chp mruh gh vf/d nwjh gks tkrh gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 सिरे पर सोने के वर्क की दो पट्टियाँ बँधी होती हैं। जब कोई आवेशित वस्तु छड़ के ऊपरी सिरे
 को छूती है तो छड़ में होता हुआ आवेश सोने के वर्कों पर आ जाता है और वे एक-दूसरे से दूर
 हट जाते हैं। आवेश जितना अधिक होता है, वर्कों के निचले सिरों के बीच उतनी ही अधिक दूरी
 हो जाती है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -207,7 +201,7 @@ berepublished
 एक तीसरी श्रेणी जिसे अर्धचालक कहते हैं, आवेशों की गति में अवरोध उत्पन्न करती है। इस अवरोध
 का परिमाण चालकों तथा विद्युतरोधियों के मध्यवर्ती होता है।
 
-Reprint 2026-27
+
 
 3
 
@@ -276,7 +270,7 @@ no
 वियुक्त निकाय के नेट आवेश को उत्पन्न करना अथवा नष्ट करना संभव नहीं है। कभी-कभी प्रकृति
 आवेशित कण उत्पन्न करती है : कोई न्यूट्रॉन एक प्रोटॉन तथा एक इलेक्ट्रॉन में रूपांतरित हो जाता
 
-Reprint 2026-27
+
 
 
 ---
@@ -338,7 +332,7 @@ e के मात्रकों में घट अथवा बढ़ सक
 
 5
 
-Reprint 2026-27
+
 
 
 ---
@@ -407,7 +401,7 @@ F = k
 91 92
 r2
 
-Reprint 2026-27
+
 
 (1.1)
 
@@ -499,7 +493,7 @@ q/2) के संयोजन से कुल आवेश q बनता ह�
 
 7
 
-Reprint 2026-27
+
 
 
 ---
@@ -534,37 +528,13 @@ r2
 
 (1.2)
 
-0
-
-(a)
-
-T21
-
-2
-
-91
-
-F
-
-F12
-
-91
-
-F
-
-9192 > 0
-
-12
-
-121
-
-9192< 0
-
-21
-
-(b)
-
-चित्र 1.3 (a) ज्यामिति तथा
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_3_hi.png" alt="चित्र 1.3" onclick="openImageModal(this.src, 'चित्र 1.3: cy ,d lfn&#39;k gS] vr% owQykWe fu;e dks lfn&#39;k laosQru esa fy[kk mÙke gksrk ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.3</strong> cy ,d lfn'k gS] vr% owQykWe fu;e dks lfn'k laosQru esa fy[kk mÙke gksrk gSA eku yhft, q1 rFkk q2 vkos'kksa osQ fLFkfr lfn'k Øe'k% r1 rFkk r2 gSa ¹fp=k 1.3(a) nsf[k,ºA ge q2 osQ }kjk q1 ij vkjksfir cy dks F12 rFkk q1 osQ }kjk</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 (b) आवेशों के बीच आरोपित बल।
 
@@ -651,7 +621,7 @@ F21
 लिखने की आवश्यकता नहीं है। समीकरण (1.3) दोनों ही प्रकरणों को सही-सही प्रकट कर
 देती है [चित्र 1.3(b) देखिए]।
 
-Reprint 2026-27
+
 
 
 ---
@@ -753,7 +723,7 @@ F ~ 230 N है जबकि F ~ 1.9 × 10-34 N हैं।
 इन दोनों बलों का (विमाहीन) अनुपात यह दर्शाता है कि गुरुत्वाकर्षण बल की तुलना में वैद्युत
 बल अत्यंत प्रबल होते हैं।
 
-Reprint 2026-27
+
 
 ed
 
@@ -805,7 +775,16 @@ a = 2.3×10¯° N / 9.11 ×10-31 kg = 2.5 × 1022 m/s²
 ed
 
 उदाहरण 1.4 धातु का आवेशित गोला A नाइलॉन के धागे से निलंबित है। विद्युतरोधी हत्थी द्वारा
-किसी अन्य धातु के आवेशित गोले B को A के इतने निकट लाया जाता है कि चित्र 1.4(a) में
+किसी अन्य धातु के आवेशित गोले B को A के इतने निकट लाया जाता है कि
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_4_hi.png" alt="चित्र 1.4" onclick="openImageModal(this.src, 'चित्र 1.4: mnkgj.k 1.4 /krq dk vkosf&#39;kr xksyk A ukbykWu osQ /kxs ls fuyafcr gSA fo|qrjk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.4</strong> mnkgj.k 1.4 /krq dk vkosf'kr xksyk A ukbykWu osQ /kxs ls fuyafcr gSA fo|qrjks/h gRFkh }kjk fdlh vU; /krq osQ vkosf'kr xksys B dks A osQ brus fudV yk;k tkrk gS fd fp=k 1.4(a) esa n'kkZ, vuqlkj buosQ osaQnzksa osQ chp dh nwjh 10 cm gSA xksys A osQ ifj.kkeh izfrd"kZ.k dks uksV fd;k tkrk gS (mnkgj.kkFkZµ xksys ij pedhyk izdk'k iqat Mkydj rFkk va'kkafdr insZ ij cuh bldh Nk;k dk fo{ksi.k ekidj)A A rFkk B xksyksa dks fp=k 1.4(b) esa n'kkZ, vuqlkj] Øe'k% vukosf'kr xksyksa C rFkk D ls Li'kZ djk;k tkrk gSA rRi'pkr fp=k 1.4(c) esa n'kkZ, vuqlkj C rFkk D dks gVkdj B dks A osQ bruk fudV yk;k tkrk gS fd buosQ oasQnzksa osQ chp dh nwjh</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 दर्शाए अनुसार इनके केंद्रों के बीच की दूरी 10 cm है। गोले A के परिणामी प्रतिकर्षण को नोट
 किया जाता है (उदाहरणार्थ- गोले पर चमकीला प्रकाश पुंज डालकर तथा अंशांकित पर्दे पर बनी
 इसकी छाया का विक्षेपण मापकर)। A तथा B गोलों को चित्र 1.4(b) में दर्शाए अनुसार, क्रमशः
@@ -825,7 +804,7 @@ tobe
 
 (b)
 
-Reprint 2026-27
+
 
 10 cm
 (a)
@@ -898,12 +877,20 @@ repubmed
 उपस्थिति के कारण प्रभावित नहीं होता। इसे अध्यारोपण का सिद्धांत कहते हैं।
 
 इस अवधारणा को भलीभाँति समझने के लिए तीन आवेशों q1, q2 तथा
-q3 के निकाय, जिसे चित्र 1.5 (a) में दर्शाया गया है, पर विचार कीजिए।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_5_hi.png" alt="चित्र 1.5" onclick="openImageModal(this.src, 'चित्र 1.5: fp=k 1.5 (a) rhu vkos&#39;kksa (b) cgqy vkos&#39;kksa osQ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.5</strong> fp=k 1.5 (a) rhu vkos'kksa (b) cgqy vkos'kksa osQ</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 किसी एक आवेश, जैसे q₁ पर अन्य दो आवेशों q₂ तथा q3 के कारण बल को
 इनमें से प्रत्येक आवेश के कारण लगे बलों का सदिश संयोजन करके प्राप्त
 किया जा सकता है। इस प्रकार यदि q₂ के कारण q₁ पर बल को F12 द्वारा
 
-Reprint 2026-27
+
 
 12
 
@@ -1088,7 +1075,16 @@ Li
 का एक परिणाम है।
 
 उदाहरण 1.5 तीन आवेशों q1, q2, q3 पर विचार कीजिए जिनमें प्रत्येक q के बराबर है तथा ।
-भुजा वाले समबाहु त्रिभुज के शीर्षों पर स्थित है। त्रिभुज के केंद्रक पर चित्र 1.6 में दर्शाए अनुसार
+भुजा वाले समबाहु त्रिभुज के शीर्षों पर स्थित है। त्रिभुज के केंद्रक पर
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_6_hi.png" alt="चित्र 1.6" onclick="openImageModal(this.src, 'चित्र 1.6: mnkgj.k 1.5 rhu vkos&#39;kksa q1, q2, q3 ij fopkj dhft, ftuesa izR;sd q osQ cjkc...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.6</strong> mnkgj.k 1.5 rhu vkos'kksa q1, q2, q3 ij fopkj dhft, ftuesa izR;sd q osQ cjkcj gS rFkk l Hkqtk okys leckgq f=kHkqt osQ 'kh"kks± ij fLFkr gSA f=kHkqt osQ oasQnzd ij fp=k 1.6 esa n'kkZ, vuqlkj fLFkr vkos'k Q (tks q dk ltkrh;) ij fdruk ifj.kkeh cy yx jgk gS\</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
 स्थित आवेश (जो q का सजातीय) पर कितना परिणामी बल लग रहा है?
 
 A
@@ -1116,7 +1112,7 @@ q3=q
 
 चित्र 1.6
 
-Reprint 2026-27
+
 
 
 ---
@@ -1170,7 +1166,14 @@ OA के अनुदिश है।
 मान लीजिए परिणामी बल शून्येतर था परंतु किसी दिशा में था। विचार कीजिए कि क्या हुआ होता
 यदि इस निकाय को O के गिर्द (परितः) 60º पर घूर्णन कराया जाता।
 
-उदाहरण 1.6 चित्र 1.7 में दर्शाए अनुसार किसी समबाहु त्रिभुज के शीर्षों पर स्थित आवेशों
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_7_hi.png" alt="चित्र 1.7" onclick="openImageModal(this.src, 'चित्र 1.7: mnkgj.k 1.6 fp=k 1.7 esa n&#39;kkZ, vuqlkj fdlh leckgq f=kHkqt osQ &#39;kh&quot;...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.7</strong> mnkgj.k 1.6 fp=k 1.7 esa n'kkZ, vuqlkj fdlh leckgq f=kHkqt osQ 'kh"kks± ij fLFkr vkos'kksa</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 q, q, तथा -q पर विचार कीजिए। प्रत्येक आवेश पर कितना बल लग रहा है?
 
 F31
@@ -1232,7 +1235,7 @@ F =
 q²
 4 πεο 12
 
-Reprint 2026-27
+
 
 ed
 
@@ -1246,17 +1249,13 @@ ed
 ---
 ## 📄 Page 14
 
-भौतिकी
-
-(a)
-
-(b)
-
-9
-
--9
-
-चित्र 1.8 (a) आवेश के
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_8_hi.png" alt="चित्र 1.8" onclick="openImageModal(this.src, 'चित्र 1.8: fp=k 1.8 (a) vkos&#39;k Q osQ dkj.k fo|qr {ks=k] (b) vkos&#39;k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.8</strong> fp=k 1.8 (a) vkos'k Q osQ dkj.k fo|qr {ks=k] (b) vkos'k</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
 कारण विद्युत क्षेत्र, (b) आवेश
 
@@ -1353,7 +1352,7 @@ F(r) = qE(r)
 
 अगले अध्याय में विद्युत क्षेत्र के लिए एक अन्य वैकल्पिक मात्रक V/m पर विचार किया जाएगा।
 
-Reprint 2026-27
+
 
 
 ---
@@ -1419,7 +1418,7 @@ n
 परिभाषित किया जाता है। यहाँ यह माना जाता है कि एकांक आवेश के कारण q1, q2, ..., qn
 आवेशों की मूल स्थितियाँ विक्षुब्ध नहीं होतीं। बिंदु P, जिसे स्थिति सदिश द्वारा निर्दिष्ट किया जाता
 
-Reprint 2026-27
+
 
 15
 
@@ -1472,7 +1471,14 @@ E₁ =
 तथा P के बीच की दूरी है। इसी प्रकार r₂ पर स्थित आवेश q₂ के कारण
 94 अवस्थिति r पर विद्युत क्षेत्र E को इस प्रकार व्यक्त करते हैं
 
-चित्र 1.9 आवेशों के निकाय के कारण किसी
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_9_hi.png" alt="चित्र 1.9" onclick="openImageModal(this.src, 'चित्र 1.9: ;gk¡ 2P ˆr vkos&#39;k q2 ls P dh fn&#39;kk esa ,dkad lfn&#39;k gS rFkk r2P vkos&...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.9</strong> ;gk¡ 2P ˆr vkos'k q2 ls P dh fn'kk esa ,dkad lfn'k gS rFkk r2P vkos'k q2 rFkk P osQ chp dh nwjh gSA blh izdkj osQ O;atd q3, q4, ..., qn vkos'kksa osQ fo|qr {ks=kksa E3, E4, ..., En fy[ks tk ldrs gSaA vè;kjksi.k fl¼kar }kjk vkos'kksa osQ fudk; osQ dkj.k r ij fo|qr {ks=k (fp=k 1.9 esa n'kkZ, vuqlkj) bl izdkj O;Dr fd;k tk ldrk gS&</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
+
 बिंदु पर वैद्युत क्षेत्र पृथक-पृथक आवेशों के कारण
 उस बिंदु पर वैद्युत क्षेत्रों के सदिश योग के बराबर
 होता है।
@@ -1562,7 +1568,7 @@ not
 तथापि विद्युत क्षेत्र की अभिधारणा की वास्तविक भौतिक सार्थकता तभी प्रकट होती है जब
 हम स्थिरवैद्युतिकी से बाहर निकलकर कालाश्रित वैद्युतचुंबकीय परिघटनाओं से व्यवहार करते हैं।
 
-Reprint 2026-27
+
 
 
 ---
@@ -1589,7 +1595,15 @@ Reprint 2026-27
 lished
 
 उदाहरण 1.7 कोई इलेक्ट्रॉन 2.0 × 10* N C¯¹ परिमाण के एकसमान विद्युत क्षेत्र में
-1.5 cm दूरी तक गिरता है [चित्र 1.10(a)]। क्षेत्र का परिमाण समान रखते हुए इसकी
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_10_hi.png" alt="चित्र 1.10" onclick="openImageModal(this.src, 'चित्र 1.10: 1.5 cm nwjh rd fxjrk gS ¹fp=k 1.10(a)ºA {ks=k dk ifjek.k leku j[krs gq, bldh fn&...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.10</strong> 1.5 cm nwjh rd fxjrk gS ¹fp=k 1.10(a)ºA {ks=k dk ifjek.k leku j[krs gq, bldh fn'kk mRØfer dj nh tkrh gS rFkk vc dksbZ izksVkWu bl {ks=k esa mruh gh nwjh rd fxjrk gS ¹fp=k 1.10(b)ºA nksuksa izdj.kksa esa fxjus esa yxs le; dh x.kuk dhft,A bl ifjfLFkfr dh ^xq#Ro osQ v/hu eqDr iru* ls rqyuk dhft,A</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 दिशा उत्क्रमित कर दी जाती है तथा अब कोई प्रोटॉन इस क्षेत्र में उतनी ही दूरी तक गिरता
 है [चित्र 1.10(b)] 1.10(b)]। दोनों प्रकरणों में गिरने में लगे समय की गणना कीजिए। इस परिस्थिति
 की 'गुरुत्व के अधीन मुक्त पतन' से तुलना कीजिए।
@@ -1651,7 +1665,7 @@ t = 2.9 × 10¯ºs
 चित्र 1.10 (b) में क्षेत्र अधोमुखी है, अतः धनावेशित प्रोटॉन eE परिमाण का अधोमुखी बल
 अनुभव करता है। अतः प्रोटॉन का त्वरण
 
-Reprint 2026-27
+
 
 उदाहरण 1.7
 
@@ -1720,7 +1734,16 @@ eruished
 
 हैं। चित्र 1.
 
-एक दूसरे से 0.1 m दूरी पर रखे हैं। चित्र 1.11 में दर्शाए बिंदुओं A, B तथा C पर विद्युत क्षेत्र
+एक दूसरे से 0.1 m दूरी पर रखे हैं।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_11_hi.png" alt="चित्र 1.11" onclick="openImageModal(this.src, 'चित्र 1.11: mnkgj.k 1.8 nks ¯cnq vkos&#39;k q1 rFkk q2 ftuosQ ifjek.k Øe&#39;k% +10–8 C rFkk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.11</strong> mnkgj.k 1.8 nks ¯cnq vkos'k q1 rFkk q2 ftuosQ ifjek.k Øe'k% +10–8 C rFkk –10–8 C gSa ,d nwljs ls 0.1 m nwjh ij j[ks gSaA fp=k 1.11 esa n'kkZ, ¯cnqvksa A, B rFkk C ij fo|qr {ks=k ifjdfyr dhft,A</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
+
 परिकलित कीजिए।
 
 not to be r
@@ -1774,7 +1797,7 @@ EA = E1A + E2A = 7.2 × 10^ N C¯¹ (यह दाईं ओर निर्द�
 
 धनावेश q₁ के कारण B पर विद्युत क्षेत्र सदिश E1B बाईं ओर निर्दिष्ट है तथा इसका परिमाण
 
-Reprint 2026-27
+
 
 
 ---
@@ -1849,7 +1872,15 @@ CERT
 खींचिए। चूँकि किसी बिंदु पर विद्युत क्षेत्र का परिमाण आवेश से उस बिंदु की
 दूरी के वर्ग के व्युत्क्रमानुसार घटता है, मूल बिंदु से दूर जाने पर सदिश की
 लंबाई निरंतर घटती जाती है तथा इसकी दिशा सदैव बहिर्मुखी अरीय संकेत
-करती है। चित्र 1.12 इसी चित्रण को दर्शाता है। इस चित्रण में प्रत्येक तीर
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_12_hi.png" alt="चित्र 1.12" onclick="openImageModal(this.src, 'चित्र 1.12: fiNys vuqHkkx esa geus fo|qr {ks=k dk vè;;u fd;kA ;g ,d lfn&#39;k jkf&#39;k gS r...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.12</strong> fiNys vuqHkkx esa geus fo|qr {ks=k dk vè;;u fd;kA ;g ,d lfn'k jkf'k gS rFkk bls ge lfn'kksa dh Hkk¡fr gh fu:fir dj ldrs gSaA vkb, fdlh ¯cnq vkos'k osQ dkj.k E dks fp=kkRed fu:fir djus dk iz;kl djrs gSaA eku yhft, ¯cnq vkos'k ewy ¯cnq ij fLFkr gSA izR;sd ¯cnq ij fo|qr {ks=k dh fn'kk osQ vuqfn'k laosQr djrs gq, {ks=k dh rhozrk dh vkuqikfrd yackbZ osQ lfn'k [khafp,A pw¡fd fdlh ¯cnq ij fo|qr {ks=k dk ifjek.k vkos'k ls ml ¯cnq dh nwjh osQ oxZ osQ O;qRØekuqlkj ?kVrk gS] ewy ¯cnq ls nwj tkus ij lfn'k dh yackbZ fujarj ?kVrh tkrh gS rFkk bldh fn'kk lnSo cfgeqZ[kh vjh; laosQr djrh gSA fp=k 1.12 blh fp=k.k dks n'kkZrk gSA bl fp=k.k esa izR;sd rhj fo|qr {ks=k vFkkZr ml rhj osQ iqPN ij fLFkr bdkbZ /u vkos'k ij yxus okyk cy n'kkZrk gSA ,d fn'kk esa laosQr djus okys rhjksa dks feykus ij izkIr ifj.kkeh fp=k {ks=k js[kk dks fu:fir djrk gSA bl izdkj gesa cgqr lh {ks=k js[kk,¡ izkIr gksrh gSa ftuesa lHkh ¯cnq vkos'k ls ckgj dh vksj laosQr djrh gSaA D;k vc geus fo|qr {ks=k dh rhozrk vFkok ifjek.k osQ fo"k; esa tkudkjh u"V dj nh gS] D;ksafd og rks rhj dh yackbZ esa lekbZ gqbZ Fkh\ ughaA vc] {ks=k osQ ifjek.k dks {ks=k js[kkvksa osQ ?kuRo }kjk fu:fir fd;k tkrk gSA vkos'k osQ fudV E izcy gksrk gSA vr% vkos'k osQ fudV {ks=k js[kkvksa dk ?kuRo vf/d gksrk gS rFkk {ks=k js[kk,¡ l?ku gksrh gSaA vkos'k ls nwj tkus ij {ks=k nqcZy gksrk tkrk gS rFkk {ks=k js[kkvksa dk ?kuRo de gksrk gS ifj.kkeLo:i js[kk,¡ Hkh nwj&nwj gksrh gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
+
 विद्युत क्षेत्र अर्थात उस तीर के पुच्छ पर स्थित इकाई धन आवेश पर लगने
 वाला बल दर्शाता है। एक दिशा में संकेत करने वाले तीरों को मिलाने पर प्राप्त
 परिणामी चित्र क्षेत्र रेखा को निरूपित करता है। इस प्रकार हमें बहुत सी क्षेत्र
@@ -1872,7 +1903,7 @@ CERT
 में किसी क्षेत्र में असंख्य रेखाएँ खींची जा सकती हैं। अतः महत्वपूर्ण यह है कि विभिन्न क्षेत्रों में
 रेखाओं का आपेक्षिक घनत्व क्या है?
 
-Reprint 2026-27
+
 
 19
 
@@ -1884,37 +1915,14 @@ Reprint 2026-27
 
 दुर्बल क्षेत्र
 
-वाला स्थान
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_13_hi.png" alt="चित्र 1.13" onclick="openImageModal(this.src, 'चित्र 1.13: geus vkjaHk esa ;g dgk Fkk fd {ks=k js[kk,¡ fno~QLFkku osQ fofHkUu ¯cnqvksa ij f...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.13</strong> geus vkjaHk esa ;g dgk Fkk fd {ks=k js[kk,¡ fno~QLFkku osQ fofHkUu ¯cnqvksa ij fo|qr {ks=k dh fn'kk osQ fo"k; esa lwpuk,¡ igq¡pkrh gSaA oqQN {ks=k js[kkvksa dk leqPp; [khapus ij fofHkUu ¯cnqvksa ij {ks=k js[kkvksa dk vkisf{kd la[;k ?kuRo (vFkkZr vR;f/d fudVrk) mu ¯cnqvksa ij fo|qr {ks=k dh vkisf{kd izcyrk bafxr djrk gSA tgk¡ {ks=k js[kk,¡ l?ku gksrh gSa ogk¡ {ks=k izcy gksrk gS rFkk tgk¡ nwj&nwj gksrh gSa ogk¡ nqcZy gksrk gSA fp=k 1.13 esa {ks=k js[kkvksa dk leqPp; n'kkZ;k x;k gSA ge ¯cnqvksa R rFkk S ij ogk¡ dh {ks=k js[kkvksa osQ vfHkyacor nks leku rFkk NksVs {ks=k vo;oksa dh dYiuk dj ldrs gSaA gekjs fp=k.k esa bu {ks=k vo;oksa dks dkVus okyh {ks=k js[kkvksa dh la[;k bu ¯cnqvksa ij fo|qr {ks=kksa osQ ifjek.kksa osQ vuqØekuqikrh gSA fp=k.k ;g n'kkZrk gS fd ¯cnq R ij {ks=k] ¯cnq S ij {ks=k dh rqyuk esa vfèkd izcy gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
 
-S
-
-प्रबल क्षेत्र
-
-वाला स्थान
-
-P
-
-R
-
-P2
-
-r₁ = OP
-
-ΓΔΩ
-
-P
-
-ΓΔΩ,
-
-q
-
-ΔΩ
-
-r₂ = OP2
-
-Ο
-
-चित्र 1.13 विद्युत क्षेत्र प्रबलता की दूरी पर
 निर्भरता तथा इसका क्षेत्र रेखाओं की संख्या से
 
 20
@@ -1984,7 +1992,7 @@ not
 शंकु के घन कोण 2 की परिभाषा इसे △S/R² के बराबर मानकर करते हैं, यहाँ △S शंकु द्वारा गोले पर
 काटा गया क्षेत्रफल है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -1993,7 +2001,14 @@ Reprint 2026-27
 दिशा दर्शाने के लिए वक्र पर तीर का चिह्न अंकित करना आवश्यक है। क्षेत्र
 रेखा एक दिक्स्थान वक्र अर्थात तीन दिशाओं में वक्र होती है।
 
-चित्र 1.14 में कुछ सरल आवेश विन्यासों के चारों ओर क्षेत्र रेखाएँ दर्शायी
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_14_hi.png" alt="चित्र 1.14" onclick="openImageModal(this.src, 'चित्र 1.14: fp=k 1.14 esa oqQN ljy vkos&#39;k foU;klksa osQ pkjksa vksj {ks=k js[kk,¡ n&#39;...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.14</strong> fp=k 1.14 esa oqQN ljy vkos'k foU;klksa osQ pkjksa vksj {ks=k js[kk,¡ n'kkZ;h xbZ gSaA tSlk fd igys o.kZu fd;k tk pqdk gS] ;s {ks=k js[kk,¡ rhu foeh; fno~QLFkku esa gSa ;|fi fp=k esa bUgsa osQoy ,d ry esa n'kkZ;k x;k gSA ,dy /ukos'k osQ dkj.k {ks=k js[kk,¡ f=kT;r% (vjh;) cfgeqZ[kh gksrh gSa tcfd ,dy ½.kkos'k osQ dkj.k {ks=k js[kk,¡ f=kT;r% vareqZ[kh gksrh gSaA nks /ukos'kksa (q, q) osQ fudk; osQ pkjksa vksj dh {ks=k js[kk,¡ ikjLifjd izfrd"kZ.k dk ,d ltho fp=k.k izLrqr djrh gSa tcfd ifjek.k esa leku nks fotkrh; vkos'kksa (q, –q) osQ fudk;] vFkkZr fdlh f}/qzo osQ pkjksa vksj {ks=k js[kk,¡ vkos'kksa osQ chp Li"V ikjLifjd vkd"kZ.k n'kkZrh gSaA {ks=k js[kk,¡ oqQN egRoiw.kZ lkekU; xq.kksa dk ikyu djrh gSaµ (i) {ks=k js[kk,¡ /ukos'k ls vkjaHk gksdj ½.kkos'k ij lekIr gksrh gSaA ;fn vkos'k</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
+
 गई हैं। जैसा कि पहले वर्णन किया जा चुका है, ये क्षेत्र रेखाएँ तीन विमीय
 दिक्स्थान में हैं यद्यपि चित्र में इन्हें केवल एक तल में दर्शाया गया है। एकल
 धनावेश के कारण क्षेत्र रेखाएँ त्रिज्यतः (अरीय) बहिर्मुखी होती हैं जबकि
@@ -2051,7 +2066,7 @@ AS के अनुक्रमानुपाती* है। अब मान
 हैं, पर निर्भर है। अतः विभिन्न बिंदुओं पर दिए गए क्षेत्रफल से गुजरने वाली क्षेत्र रेखाओं
 की आपेक्षिक संख्या के ज्ञात होने में ही इनकी भौतिक सार्थकता है।
 
-Reprint 2026-27
+
 
 (b)
 
@@ -2106,7 +2121,14 @@ E
 AS से गुजरने वाली क्षेत्र रेखाओं की संख्या E AS cose के
 अनुक्रमानुपाती है। जब 0 = 90° होता है तो क्षेत्र रेखाएँ AS के
 समांतर हो जाती हैं और इससे कोई भी क्षेत्र रेखा नहीं गुजरती
-(चित्र 1.15 देखिए)।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_15_hi.png" alt="चित्र 1.15" onclick="openImageModal(this.src, 'चित्र 1.15: dks.k θ ij >qdk nsrs gSaA Li&quot;V gS vc bl {ks=kiQy vo;o ls xqtjus okyh {ks=k ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.15</strong> dks.k θ ij >qdk nsrs gSaA Li"V gS vc bl {ks=kiQy vo;o ls xqtjus okyh {ks=k js[kkvksa dh la[;k ?kV tk,xhA pw¡fd E osQ vfHkyacor {ks=kiQy vo;o ∆S dk iz{ksi ∆S cosθ gS] vr% ∆S ls xqtjus okyh {ks=k js[kkvksa dh la[;k E ∆S cosθ osQ vuqØekuqikrh gSA tc θ = 90° gksrk gS rks {ks=k js[kk,¡ ∆S osQ lekarj gks tkrh gSa vkSj blls dksbZ Hkh {ks=k js[kk ugha xqtjrh (fp=k 1.15 nsf[k,)A</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
 
 बहुत से संदर्भों में क्षेत्रफल अवयव के परिमाण के
 साथ-साथ उसका दिक्विन्यास भी महत्वपूर्ण होता है। उदाहरण
@@ -2120,19 +2142,13 @@ AS से गुजरने वाली क्षेत्र रेखाओ�
 है। समतलीय क्षेत्र की दिशा कैसे निर्दिष्ट की जाए? स्पष्ट रूप से तल पर अभिलंब तल का
 दिक्विन्यास निर्दिष्ट करता है। इस प्रकार समतलीय क्षेत्र सदिश की दिशा इसके अभिलंब के
 
-चित्र 1.15 E तथा के बीच झुकाव पर
-
-n
-
-AS = A Sn
-
-n
-
-AS
-
-फ्लक्स की निर्भरता।
-
-चित्र 1.16 अभिलंब
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_16_hi.png" alt="चित्र 1.16" onclick="openImageModal(this.src, 'चित्र 1.16: fp=k 1.16 vfHkyac...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.16</strong> fp=k 1.16 vfHkyac</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
 
 22
 
@@ -2169,7 +2185,7 @@ EAS cose पर दो ढंग से विचार कर सकते ह�
 प्रक्षेप का E गुना, अथवा E₁ AS अर्थात क्षेत्र-अवयव पर अभिलंब के अनुदिश E का अवयव गुना
 क्षेत्र-अवयव का परिमाण। वैद्युत फ्लक्स का मात्रक N C¯¹ m² है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -2260,7 +2276,7 @@ P
 
 23
 
-Reprint 2026-27
+
 
 
 ---
@@ -2358,37 +2374,13 @@ P
 
 2
 
-4πε, r² + a²
-
-q
-
-E+q =
-
-q
-
-E-g =
-
--q
-
-समान हैं।
-
-1
-
-2
-
-2
-
-4πε, r² + a²
-
-(1.15)
-
-[1.16(a)]
-
-[1.16(b)]
-
-Olished
-
-चित्र 1.17 (a) अक्ष पर स्थित किसी बिंदु, (b) द्विध्रुव
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_17_hi.png" alt="चित्र 1.17" onclick="openImageModal(this.src, 'चित्र 1.17: E+q rFkk E–q dh fn&#39;kk,¡ fp=k 1.17(b) esa n&#39;kkZ;h xbZ gSaA Li&quot;V gS f...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.17</strong> E+q rFkk E–q dh fn'kk,¡ fp=k 1.17(b) esa n'kkZ;h xbZ gSaA Li"V gS fd f}/qzo v{k osQ vfHkyacor vo;o ,d&nwljs dks fujLr dj nsrs gSaA f}èkzqo v{k osQ vuqfn'k vo;o la;ksftr gks tkrs gSaA oqQy fo|qr {ks=k ˆp osQ foijhr gksrk gSA vr%</span>
+    <button class="icon-btn" onclick="goToPdfPage(24)">📄 View in PDF (Page 24)</button>
+  </div>
+</div>
 
 के विषुवतीय तल पर स्थित किसी बिंदु पर द्विध्रुव का
 विद्युत क्षेत्र। द्विध्रुव आघूर्ण p सदिश है जिसका परिमाण
@@ -2469,7 +2461,7 @@ P
 
 (r>> a)
 
-Reprint 2026-27
+
 
 (1.20)
 
@@ -2503,7 +2495,16 @@ r पर ही निर्भर नही है वरन् ये सद�
 revblished
 
 उदाहरण 1.9 ±10 µC के दो आवेश एक-दूसरे से 5.0 mm दूरी पर स्थित हैं। (a) इस द्विध्रुव
-के अक्ष पर द्विध्रुव के केंद्र O से चित्र 1.18(a) में दर्शाए अनुसार, धनावेश की ओर 15 cr दूरी
+के अक्ष पर द्विध्रुव के केंद्र O से
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_18_hi.png" alt="चित्र 1.18" onclick="openImageModal(this.src, 'चित्र 1.18: mnkgj.k 1.9 ±10 µC osQ nks vkos&#39;k ,d&nwljs ls 5.0 mm nwjh ij fLFkr gSaA (a) ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.18</strong> mnkgj.k 1.9 ±10 µC osQ nks vkos'k ,d&nwljs ls 5.0 mm nwjh ij fLFkr gSaA (a) bl f}èkqzo osQ v{k ij f}/qzo osQ osaQnz O ls fp=k 1.18(a) esa n'kkZ, vuqlkj] /ukos'k dh vksj 15 cm nwjh ij fLFkr fdlh ¯cnq P ij rFkk (b) f}/qzo osQ v{k osQ vfHkyacor O ls] fp=k 1.18(b) esa n'kkZ, vuqlkj xqtjus okyh js[kk ls 15 cm nwjh ij fLFkr fdlh ¯cnq Q ij fo|qr {ks=k Kkr dhft,A</span>
+    <button class="icon-btn" onclick="goToPdfPage(25)">📄 View in PDF (Page 25)</button>
+  </div>
+</div>
+
 पर स्थित किसी बिंदु P पर तथा (b) द्विध्रुव के अक्ष के अभिलंबवत O से, चित्र 1.18(b) में दर्शाए
 अनुसार गुजरने वाली रेखा से 15 cm दूरी पर स्थित किसी बिंदु पर विद्युत
 
@@ -2550,7 +2551,7 @@ Li
 
 li
 
-Reprint 2026-27
+
 
 25
 
@@ -2695,7 +2696,7 @@ X
 (a) की ही भाँति द्विध्रुव के अक्ष के अभिलंबवत किसी बिंदु पर द्विध्रुव विद्युत क्षेत्र के लिए सीधे ही
 सूत्र के उपयोग द्वारा हम इसी परिणाम की अपेक्षा कर सकते हैं-
 
-Reprint 2026-27
+
 
 
 ---
@@ -2736,7 +2737,14 @@ X
 
 ### 1.11 एकसमान बाह्य क्षेत्र में द्विध्रुव
 
-चित्र 1.19 में दर्शाए अनुसार एकसमान विद्युत क्षेत्र E में रखे द्विध्रुव आघूर्ण p के स्थायी
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_19_hi.png" alt="चित्र 1.19" onclick="openImageModal(this.src, 'चित्र 1.19: fp=k 1.19 esa n&#39;kkZ, vuqlkj ,dleku fo|qr {ks=k E esa j[ks f}/qzo vk?kw.kZ p ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.19</strong> fp=k 1.19 esa n'kkZ, vuqlkj ,dleku fo|qr {ks=k E esa j[ks f}/qzo vk?kw.kZ p osQ LFkk;h f}èkqzo (LFkk;h f}èkqzo ls gekjk rkRi;Z ;g gS fd p dk E ls Lora=k vfLrRo gS_ ;g E }kjk izsfjr ugha gqvk gSA) ij fopkj dhft,A</span>
+    <button class="icon-btn" onclick="goToPdfPage(27)">📄 View in PDF (Page 27)</button>
+  </div>
+</div>
+
 द्विध्रुव (स्थायी द्विध्रुव से हमारा तात्पर्य यह है कि p का E से स्वतंत्र अस्तित्व है; यह E
 द्वारा प्रेरित नहीं हुआ है।) पर विचार कीजिए।
 
@@ -2792,7 +2800,14 @@ PxE का परिमाण भी p E sine है है तथा इसक�
 प्रतिसमांतर है। दोनों ही प्रकरणों में नेट बल आघूर्ण तो शून्य होता है परंतु यदि E
 एकसमान नहीं है तो द्विध्रुव पर एक नेट बल लगता है।
 
-चित्र 1.20 स्वतः स्पष्टीकरण करता है। इसे आसानी से देखा जा सकता है
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_20_hi.png" alt="चित्र 1.20" onclick="openImageModal(this.src, 'चित्र 1.20: fp=k 1.20 Lor% Li&quot;Vhdj.k djrk gSA bls vklkuh ls ns[kk tk ldrk gS fd tc p {k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.20</strong> fp=k 1.20 Lor% Li"Vhdj.k djrk gSA bls vklkuh ls ns[kk tk ldrk gS fd tc p {ks=k E osQ lekarj gS rks f}/zqo ij c<+rs {ks=k dh fn'kk esa ,d usV cy dk;Z djrk gSA tc p {ks=k osQ E izfrlekarj gksrk gS rks f}/qzo ij ?kVrs {ks=k dh fn'kk esa ,d usV cy dk;Z djrk gSA O;kid :i esa] cy E osQ lkis{k p osQ fno~QfoU;kl ij fuHkZj djrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(27)">📄 View in PDF (Page 27)</button>
+  </div>
+</div>
+
 कि जब p क्षेत्र E के समांतर है तो द्विध्रुव पर बढ़ते क्षेत्र की दिशा में एक नेट बल
 कार्य करता है। जब p क्षेत्र के E प्रतिसमांतर होता है तो द्विध्रुव पर घटते क्षेत्र की
 दिशा में एक नेट बल कार्य करता है। व्यापक रूप में, बल E के सापेक्ष p के
@@ -2803,7 +2818,7 @@ PxE का परिमाण भी p E sine है है तथा इसक�
 जानते हैं कि कंघी घर्षण द्वारा आवेश अर्जित करती है। परंतु कागज़ आवेशित नहीं
 है तो फिर इस आकर्षक बल का स्पष्टीकरण कैसे करें? पिछली चर्चा से संकेत
 
-Reprint 2026-27
+
 
 E
 
@@ -2885,7 +2900,15 @@ R
 उदाहरणार्थ, किसी आवेशित चालक के पृष्ठ पर सूक्ष्म आवेशित अवयवों की अवस्थितियों के पदों
 में आवेश वितरण का विशेष रूप से उल्लेख करना व्यावहारिक नहीं है। चालक के पृष्ठ पर किसी
 क्षेत्रफल अवयव △S (जो स्थूल स्तर पर बहुत छोटा परंतु इलेक्ट्रॉनों की विशाल संख्या को सम्मिलित
-करने के लिए पर्याप्त है, देखिए चित्र 1.21) के विषय में विचार करके उस अवयव पर आवेश AQ
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_21_hi.png" alt="चित्र 1.21" onclick="openImageModal(this.src, 'चित्र 1.21: vc rd geus fofoDr vkos&#39;kksa q1, q2, ..., qn osQ vkos&#39;k foU;kl osQ fo&quo...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.21</strong> vc rd geus fofoDr vkos'kksa q1, q2, ..., qn osQ vkos'k foU;kl osQ fo"k; esa ppkZ dh gSA bldk dkj.k ;g gS fd ,sls foU;klksa osQ fy, xf.krh; ifjdyu ljy gksrs gSa ftuesa dyu (oSQyoqQyl) dh vko';drk ugha gksrhA lkFk gh] cgqr ls dk;ks± osQ fy, fofoDr vkos'kksa osQ inksa esa dk;Z djuk O;kogkfjd ugha gksrk vkSj gesa larr vkos'k forj.k dh vko';drk gksrh gSA mnkgj.kkFkZ] fdlh vkosf'kr pkyd osQ i`"B ij lw{e vkosf'kr vo;oksa dh vofLFkfr;ksa osQ inksa esa vkos'k forj.k dk fo'ks"k :i ls mYys[k djuk O;kogkfjd ugha gSA pkyd osQ i`"B ij fdlh {ks=kiQy vo;o ∆S (tks LFkwy Lrj ij cgqr NksVk ijarq bysDVªkWuksa dh fo'kky la[;k dks lfEefyr djus osQ fy, i;kZIr gS] nsf[k, fp=k 1.21) osQ fo"k; esa fopkj djosQ ml vo;o ij vkos'k ∆Q dk i`Fkd&i`Fkd mYys[k djuk vf/d mi;qDr gSA blosQ ckn ge {ks=kiQy vo;o ij i`"Bh; vkos'k ?kuRo σ dh ifjHkk"kk bl izdkj djrs gSaµ</span>
+    <button class="icon-btn" onclick="goToPdfPage(28)">📄 View in PDF (Page 28)</button>
+  </div>
+</div>
+
 का पृथक-पृथक उल्लेख करना अधिक उपयुक्त है। इसके बाद हम क्षेत्रफल क्षेत्रफल अवयव पर पृष्ठीय आवेश
 घनत्व की परिभाषा इस प्रकार करते हैं–
 
@@ -2975,7 +2998,7 @@ AV
 सूक्ष्मदर्शीय स्तर पर, आवेश वितरण असंतत होता है। पृथक आवेश एक आवेशरहित मध्यवर्ती स्थान से
 पृथकृत होते हैं।
 
-Reprint 2026-27
+
 
 
 ---
@@ -3033,8 +3056,15 @@ f'
 ### 1.13 गाउस नियम
 
 वैद्युत फ्लक्स की अवधारणा के सरल अनुप्रयोग के रूप में आइए किसी r त्रिज्या के ऐसे गोले
-जिसके केंद्र पर कोई बिंदु आवेश q परिबद्ध है, से गुजरने वाले कुल फ्लक्स पर विचार करें। चित्र
-1.22 में दर्शाए अनुसार इस गोले को छोटे क्षेत्रफल अवयवों में विभाजित करते हैं।
+जिसके केंद्र पर कोई बिंदु आवेश q परिबद्ध है, से गुजरने वाले कुल फ्लक्स पर विचार करें।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_22_hi.png" alt="चित्र 1.22" onclick="openImageModal(this.src, 'चित्र 1.22: oS|qr ÝyDl dh vo/kj.kk osQ ljy vuqiz;ksx osQ :i esa vkb, fdlh r f=kT;k osQ ,sls ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.22</strong> oS|qr ÝyDl dh vo/kj.kk osQ ljy vuqiz;ksx osQ :i esa vkb, fdlh r f=kT;k osQ ,sls xksys ftlosQ osaQnz ij dksbZ ¯cnq vkos'k q ifjc¼ gS] ls xqtjus okys oqQy ÝyDl ij fopkj djsaA fp=k 1.22 esa n'kkZ, vuqlkj bl xksys dks NksVs {ks=kiQy vo;oksa esa foHkkftr djrs gSaA {ks=kiQy vo;o ∆S ls xqtjus okyk ÝyDl</span>
+    <button class="icon-btn" onclick="goToPdfPage(29)">📄 View in PDF (Page 29)</button>
+  </div>
+</div>
 
 क्षेत्रफल अवयव △S से गुजरने वाला फ्लक्स
 
@@ -3086,25 +3116,20 @@ AS
 
 29
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 30
 
-भौतिकी
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_23_hi.png" alt="चित्र 1.23" onclick="openImageModal(this.src, 'चित्र 1.23: ;gk¡ q i`&quot;B S }kjk ifjc¼ oqQy vkos&#39;k gSA bl fu;e ls ;g miyf{kr gksrk gS...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.23</strong> ;gk¡ q i`"B S }kjk ifjc¼ oqQy vkos'k gSA bl fu;e ls ;g miyf{kr gksrk gS fd ;fn fdlh can i`"B }kjk dksbZ vkos'k ifjc¼ ugha fd;k x;k gS rks ml i`"B ls xqtjus okyk oqQy ÝyDl 'kwU; gksrk gSA bls ge fp=k 1.23 dh ljy vofLFkfr esa lqLi"V ns[k ldrs gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(30)">📄 View in PDF (Page 30)</button>
+  </div>
+</div>
 
-30
-
-3
-
-2
-
-→E
-
-= Σ
-
-चित्र 1.23 सिलिंडर के पृष्ठ से गुजरने वाले
 एकसमान विद्युत क्षेत्र के फ्लक्स का परिकलन।
 
 q
@@ -3191,7 +3216,7 @@ not
 कुछ पृष्ठ के बाहर होते हैं, विद्युत क्षेत्र [जिसका फ्लक्स समीकरण (1.31) के वाम पक्ष में
 दृष्टिगोचर होता है] S के भीतर तथा बाहर स्थित सभी आवेशों के कारण है। तथापि, गाउस
 
-Reprint 2026-27
+
 
 
 ---
@@ -3217,7 +3242,14 @@ Reprint 2026-27
 (vi) अंत में, गाउस नियम कूलॉम नियम में अंतर्निहित दूरी पर व्युत्क्रम वर्ग निर्भरता पर आधारित
 है। गाउस नियम का कोई उल्लंघन व्युत्क्रम वर्ग नियम से विचलन को संकेत करेगा।
 
-उदाहरण 1.10 चित्र 1.24 में विद्युत क्षेत्र अवयव Ex = ax¹/2, E₁ = E₂ = 0 है, जिसमें
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_24_hi.png" alt="चित्र 1.24" onclick="openImageModal(this.src, 'चित्र 1.24: mnkgj.k 1.10 fp=k 1.24 esa fo|qr {ks=k vo;o Ex = αx1/2, Ey = Ez = 0 gS] ftlesa...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.24</strong> mnkgj.k 1.10 fp=k 1.24 esa fo|qr {ks=k vo;o Ex = αx1/2, Ey = Ez = 0 gS] ftlesa</span>
+    <button class="icon-btn" onclick="goToPdfPage(31)">📄 View in PDF (Page 31)</button>
+  </div>
+</div>
+
 α = 800 N/C m1/2 m1/2 है। (a) घन से गुजरने वाला फ्लक्स, तथा (b) घन के भीतर आवेश
 
 NCER
@@ -3271,7 +3303,7 @@ OR ERAS = ER AS cose = ER AS, चूँकि 0 = 0°
 
 घन से गुजरने वाला नेट फ्लक्स
 
-Reprint 2026-27
+
 
 उदाहरण 1.10
 
@@ -3307,7 +3339,15 @@ q = 1.05 × 8.854 × 10-12 C = 9.27 × 10-12 C
 परिमाण के साथ परंतु ऋणात्मक x के लिए, ऋणात्मक x दिशा में एकसमान है। यह दिया गया
 है कि E = 200 i N/C जबकि x > 0 तथा E = −200 Î N/C, जबकि x < 0 है। 20 cm
 लंबे 5 cm त्रिज्या के किसी लंबवृत्तीय सिलिंडर का केंद्र मूल बिंदु पर तथा इस अक्षx के इस प्रकार
-अनुदिश है कि इसका एक फलक चित्र 1.25 में दर्शाए अनुसार x = +10 cm तथा दूसरा फलक
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_25_hi.png" alt="चित्र 1.25" onclick="openImageModal(this.src, 'चित्र 1.25: mnkgj.k 1.11 dksbZ fo|qr {ks=k /ukRed x osQ fy,] /ukRed x fn&#39;kk esa ,dleku g...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.25</strong> mnkgj.k 1.11 dksbZ fo|qr {ks=k /ukRed x osQ fy,] /ukRed x fn'kk esa ,dleku gS rFkk mlh ifjek.k osQ lkFk ijarq ½.kkRed x osQ fy,] ½.kkRed x fn'kk esa ,dleku gSA ;g fn;k x;k gS fd E = 200 ˆi N/C tcfd x > 0 rFkk E = –200 ˆi N/C] tcfd x < 0 gSA 20 cm yacs 5 cm f=kT;k osQ fdlh yaco`Ùkh; flfyaMj dk osaQnz ewy ¯cnq ij rFkk bl v{k x osQ bl izdkj vuqfn'k gS fd bldk ,d iQyd fp=k 1.25 esa n'kkZ, vuqlkj x = +10 cm rFkk nwljk iQyd x = –10 cm ij gSA (a) izR;sd piVs iQyd ls xqtjus okyk usV cfgeqZ[kh ÝyDl fdruk gS\ (b) flfyaMj osQ ik'oZ ls xqtjus okyk ÝyDl fdruk gS\ (c) flfyaMj ls xqtjus okyk usV cfgeqZ[kh ÝyDl fdruk gS\ (d) flfyaMj osQ Hkhrj usV vkos'k fdruk gS\ gy</span>
+    <button class="icon-btn" onclick="goToPdfPage(32)">📄 View in PDF (Page 32)</button>
+  </div>
+</div>
+
 x = −10 cm पर है। (a) प्रत्येक चपटे फलक से गुजरने वाला नेट बहिर्मुखी फ्लक्स कितना है?
 (b) सिलिंडर के पार्श्व से गुजरने वाला फ्लक्स कितना है? (c) सिलिंडर से गुजरने वाला नेट बहिर्मुखी
 फ्लक्स कितना है? (d) सिलिंडर के भीतर नेट आवेश कितना है?
@@ -3389,7 +3429,7 @@ q =
 
 = 2.78 × 10-11 С
 
-Reprint 2026-27
+
 
 
 ---
@@ -3436,7 +3476,14 @@ repubished
 बिंदुओं पर विद्युत क्षेत्र का परिमाण समान होना चाहिए। प्रत्येक
 बिंदु पर विद्युत क्षेत्र की दिशा अरीय (त्रिज्यीय) होनी चाहिए
 (यदि x > 0, तो बहिर्मुखी तथा यदि > < 0, तो अंतर्मुखी)।
-यह चित्र 1.26 से स्पष्ट है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_26_hi.png" alt="चित्र 1.26" onclick="openImageModal(this.src, 'चित्र 1.26: fdlh vuar yackbZ osQ ,dleku jSf[kd vkos&#39;k ?kuRo λ osQ lh/s irys rkj ij fopkj...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.26</strong> fdlh vuar yackbZ osQ ,dleku jSf[kd vkos'k ?kuRo λ osQ lh/s irys rkj ij fopkj dhft,A Li"V :i ls ;g rkj ,d lefer v{k gSA eku yhft, ge O ls P dh fn'kk esa èkzqokarj (f=kT; lfn'k) ysdj bls rkj osQ pkjksa vksj ?kw.kZu djkrs gSaA bl izdkj izkIr ¯cnq P, P′, P′′ vkosf'kr rkj osQ lanHkZ esa laiw.kZ :i ls rqY; gSaA blls ;g miyf{kr gksrk gS fd bu ¯cnqvksa ij fo|qr {ks=k dk ifjek.k leku gksuk pkfg,A izR;sd ¯cnq ij fo|qr {ks=k dh fn'kk vjh; (f=kT;h;) gksuh pkfg, (;fn λ > 0] rks cfgeqZ[kh rFkk ;fn λ < 0] rks vareqZ[kh)A ;g fp=k 1.26 ls Li"V gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(33)">📄 View in PDF (Page 33)</button>
+  </div>
+</div>
 
 1
 
@@ -3496,7 +3543,7 @@ r
 
 33
 
-Reprint 2026-27
+
 
 
 ---
@@ -3561,7 +3608,15 @@ A = A a के रूप में लिखते हैं तो अदिश
 (1.32) सन्निकटतः सही है।
 
 ### 1.14.2 एकसमान एकसमान आवेशित अनंत समतल चादर के कारण विद्युत क्षेत्र
-मान लीजिए किसी अनंत समतल चादर (चित्र 1.27) का एकसमान पृष्ठीय आवेश घनत्व ० है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_27_hi.png" alt="चित्र 1.27" onclick="openImageModal(this.src, 'चित्र 1.27: eku yhft, fdlh vuar lery pknj (fp=k 1.27) dk ,dleku i`&quot;Bh; vkos&#39;k ?kuRo...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.27</strong> eku yhft, fdlh vuar lery pknj (fp=k 1.27) dk ,dleku i`"Bh; vkos'k ?kuRo σ gSA ge x-v{k dks fn, x, ry osQ vfHkyacor ekurs gSaA lefefr osQ vuqlkj fo|qr {ks=k y rFkk z funsZ'kkadksa ij fuHkZj ugha djsxk rFkk bldh izR;sd ¯cnq ij fn'kk x-fn'kk osQ lekarj gksuh pkfg,A</span>
+    <button class="icon-btn" onclick="goToPdfPage(34)">📄 View in PDF (Page 34)</button>
+  </div>
+</div>
+
 हम x-अक्ष को दिए गए तल के अभिलंबवत मानते हैं। सममिति के अनुसार विद्युत क्षेत्र y तथा z
 निर्देशांकों पर निर्भर नहीं करेगा तथा इसकी प्रत्येक बिंदु पर दिशा x-दिशा के समांतर होनी चाहिए।
 
@@ -3598,7 +3653,7 @@ X
 परिबद्ध आवेश QA है। इसीलिए गाउस नियम द्वारा हमें यह संबंध प्राप्त
 होता है
 
-Reprint 2026-27
+
 
 
 ---
@@ -3634,7 +3689,15 @@ E, x पर भी निर्भर नहीं है।
 Shed
 
 मान लीजिए R त्रिज्या के पतले गोलीय खोल का एकसमान पृष्ठीय आवेश घनत्व ० है
-(चित्र 1.28)। स्पष्ट रूप से इस स्थिति में गोलीय सममिति है। किसी बिंदु P पर चाहे वह भीतर
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_28_hi.png" alt="चित्र 1.28" onclick="openImageModal(this.src, 'चित्र 1.28: fp=k 1.28 fdlh ¯cnq osQ fy, tks...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.28</strong> fp=k 1.28 fdlh ¯cnq osQ fy, tks</span>
+    <button class="icon-btn" onclick="goToPdfPage(35)">📄 View in PDF (Page 35)</button>
+  </div>
+</div>
+
 है अथवा बाहर, विद्युत क्षेत्र केवल r पर निर्भर कर सकता है (यहाँ r खोल के केंद्र से उस बिंदु
 तक की त्रिज्य दूरी है।) तथा इस क्षेत्र को अरीय (अर्थात ध्रुवांतर के अनुदिश) होना चाहिए।
 
@@ -3714,7 +3777,7 @@ fr
 (ii) खोल के भीतर विद्युत क्षेत्र-चित्र 1.28(b) में बिंदु P खोल के भीतर है। इस प्रकरण
 में भी गाउसीय पृष्ठ P से गुज़रने वाला वह गोला है जिसका केंद्र O है। पहले किए गए
 
-Reprint 2026-27
+
 
 पृष्ठ।
 
@@ -3803,7 +3866,7 @@ p=0-Ze
 इसकी तुलना भौतिकी पाठ्यपुस्तक कक्षा 11 के अनुभाग 7.5 में वर्णित एकसमान द्रव्यमान खोल से
 कीजिए।
 
-Reprint 2026-27
+
 
 
 ---
@@ -3899,7 +3962,7 @@ system) का कुल आवेश समय के साथ अपरिव
 
 37
 
-Reprint 2026-27
+
 
 
 ---
@@ -3998,7 +4061,7 @@ E =
 
 (r >> a के लिए)
 
-Reprint 2026-27
+
 
 
 ---
@@ -4091,7 +4154,7 @@ E = 0
 आवेश घनत्व के ठोस गोले के लिए भी सत्य होता है। खोल के अंदर सभी बिंदुओं पर विद्युत
 क्षेत्र शून्य होता है।
 
-Reprint 2026-27
+
 
 ed
 
@@ -4232,7 +4295,7 @@ nott
 गतियों में निर्देश फ्रेमों के लिए अचर नहीं है, अथवा इस दृष्टि से तो द्रव्यमान भी अचर
 नहीं है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -4300,7 +4363,7 @@ re
 
 (b) स्पष्ट कीजिए कि दो क्षेत्र रेखाएँ कभी भी एक-दूसरे का प्रतिच्छेदन क्यों नहीं करतीं?
 
-Reprint 2026-27
+
 
 41
 
@@ -4337,7 +4400,16 @@ A : (0, 0, -15 cm) तथा B : (0, 0, +15cm) पर अवस्थित ह�
 (b) यदि प्रत्येक गोले पर आवेश की मात्रा दो गुनी तथा गोलों के बीच की दूरी आधी कर दी जाए
 तो प्रत्येक गोले पर कितना बल लगेगा?
 
-### 1.13 चित्र 1.30 में किसी एकसमान स्थिरवैद्युत क्षेत्र में तीन आवेशित कणों के पथचिह्न (tracks) दर्शाए
+### 1.13
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_30_hi.png" alt="चित्र 1.30" onclick="openImageModal(this.src, 'चित्र 1.30: 1.13 fp=k 1.30 esa fdlh ,dleku fLFkjoS|qr {ks=k eas rhu vkosf&#39;kr d.kksa osQ ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.30</strong> 1.13 fp=k 1.30 esa fdlh ,dleku fLFkjoS|qr {ks=k eas rhu vkosf'kr d.kksa osQ iFkfpÉ (tracks) n'kkZ, x, gSaA rhuksa vkos'kksa osQ fpÉ fyf[k,A buesa ls fdl d.k dk vkos'k&lagfr vuqikr (q/m) vfèkdre gS\</span>
+    <button class="icon-btn" onclick="goToPdfPage(42)">📄 View in PDF (Page 42)</button>
+  </div>
+</div>
+
 गए हैं। तीनों आवेशों के चिह्न लिखिए। इनमें से किस कण का आवेश-संहति अनुपात
 (q/m) अधिकतम है?
 
@@ -4372,11 +4444,20 @@ y
 (b) यदि बॉक्स के पृष्ठ से नेट बहिर्मुखी फ्लक्स शून्य है तो क्या आप यह निष्कर्ष निकालेंगे कि
 बॉक्स के भीतर कोई आवेश नहीं है? क्यों, अथवा क्यों नहीं?
 
-### 1.17 चित्र 1.31 में दर्शाए अनुसार 10 cm भुजा के किसी वर्ग के केंद्र से ठीक 5 cm ऊँचाई पर कोई
+### 1.17
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_31_hi.png" alt="चित्र 1.31" onclick="openImageModal(this.src, 'चित्र 1.31: 1.17 fp=k 1.31 esa n&#39;kkZ, vuqlkj 10 cm Hkqtk osQ fdlh oxZ osQ osQaæ ls Bhd 5...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.31</strong> 1.17 fp=k 1.31 esa n'kkZ, vuqlkj 10 cm Hkqtk osQ fdlh oxZ osQ osQaæ ls Bhd 5 cm Å¡pkbZ ij dksbZ</span>
+    <button class="icon-btn" onclick="goToPdfPage(42)">📄 View in PDF (Page 42)</button>
+  </div>
+</div>
+
 +10 µC आवेश रखा है। इस वर्ग से गुजरने वाले वैद्युत फ्लक्स का परिमाण क्या है? (संकेत :
 वर्ग को 10 cm किनारे के किसी घन का एक फलक मानिए।)
 
-Reprint 2026-27
+
 
 
 ---
@@ -4426,7 +4507,7 @@ be
 
 not
 
-Reprint 2026-27
+
 
 43
 

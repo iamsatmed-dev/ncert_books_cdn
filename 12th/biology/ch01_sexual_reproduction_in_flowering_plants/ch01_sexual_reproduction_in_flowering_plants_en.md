@@ -40,7 +40,7 @@ human reproductive health and how reproductive ill health
 can be avoided is also presented to complete our
 understanding of biology of reproduction.
 
-Reprint 2025-26
+
 
 
 ---
@@ -77,7 +77,7 @@ by NCERT in 1964.
 
 In 1964.
 
-Reprint 2025-26
+
 
 
 ---
@@ -85,7 +85,7 @@ Reprint 2025-26
 
 CHAPTER 1
 
-12083CH02
+
 
 SEXUAL REPRODUCTION IN
 
@@ -138,31 +138,19 @@ important human feelings such as love, affection,
 happiness, grief, mourning, etc. List at least five flowers
 of ornamental value that are commonly cultivated at
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 4
 
-4
-
-note
-
-Style-
-
-Stigma
-
-Anther
-
-Petal
-
-Filament
-
-CE
-
-published
-
-Figure 1.1 A diagrammatic representation of L.S. of a flower
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_1.png" alt="Fig. 1.1" onclick="openImageModal(this.src, 'Fig. 1.1: To a biologist, flowers are morphological and embryological marvels and the site...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.1</strong> To a biologist, flowers are morphological and embryological marvels and the sites of sexual reproduction. In earlier classes, you have read the various parts of a flower. Figure 1.1 will help you recall the parts of a typical flower. Can you name the two parts in a flower in which the two most important units of sexual reproduction develop?</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 homes and in gardens. Find out the names of five more flowers that are
 used in social and cultural celebrations in your family. Have you heard
@@ -186,7 +174,7 @@ You would recollect that the androecium consists of a whorl of stamens
 representing the male reproductive organ and the gynoecium represents
 the female reproductive organ.
 
-Reprint 2025-26
+
 
 BIOLOGY
 
@@ -244,7 +232,15 @@ Pollen grains
 
 (a)
 
-all through the length of an anther and are packed Figure 1.2 (a) A typical stamen;
+all through the length of an anther and are packed
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_2.png" alt="Fig. 1.2" onclick="openImageModal(this.src, 'Fig. 1.2: Figure 1.2a shows the two parts of a typical stamen – the long and slender stalk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.2</strong> Figure 1.2a shows the two parts of a typical stamen – the long and slender stalk called the filament, and the terminal generally bilobed structure called the anther. The proximal end of the filament is attached to the thalamus or the petal of the flower. The number and length of stamens are variable in flowers of different species. If you were to collect a stamen each from ten flowers (each from different species) and arrange them on a slide, you would be able to appreciate the large variation in size seen in nature. Careful observation of each stamen under a dissecting microscope and making neat diagrams would elucidate the range in shape and attachment of anthers in different flowers.</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 with pollen grains.
 
@@ -279,7 +275,7 @@ be the ploidy of the cells of the tetrad?
 
 5
 
-Reprint 2025-26
+
 
 
 ---
@@ -292,35 +288,15 @@ BIOLOGY
 -Epidermis
 
 -Endothecium
--Sporogenous
-tissue
 
-Epidermis
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_3.png" alt="Fig. 1.3" onclick="openImageModal(this.src, 'Fig. 1.3: Structure of microsporangium: In a transverse section, a typical microsporangium...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.3</strong> Structure of microsporangium: In a transverse section, a typical microsporangium appears near circular in outline. It is generally surrounded by four wall layers (Figure 1.3b)– the epidermis, endothecium, middle layers and the tapetum. The outer three wall layers perform the function of protection and help in dehiscence of anther to release the pollen. The innermost wall layer is the tapetum. It nourishes the developing pollen grains. Cells of the tapetum possess dense cytoplasm and generally have more than one nucleus. Can you think of how tapetal cells could become bi-nucleate?</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
-Endothecium
-
-Middle layers
-
-Microspore
-mother cells
-
-Tapetum
-
-Middle layers-
-
-Tapetum
-
-(a)
-
-(b)
-
-ed
-
-Pollen grains
-
-(c)
-
-Figure 1.3 (a) Transverse section of a young anther; (b) Enlarged view of one microsporangium
 showing wall layers; (c) A mature dehisced anther
 
 6
@@ -345,7 +321,7 @@ touch the opened anthers of Hibiscus or any other flower you would find
 deposition of yellowish powdery pollen grains on your fingers. Sprinkle
 these grains on a drop of water taken on a glass slide and observe under
 
-Reprint 2025-26
+
 
 
 ---
@@ -353,7 +329,13 @@ Reprint 2025-26
 
 SEXUAL REPRODUCTION IN FLOWERING PLANTS
 
-Figure 1.4 Scanning electron micrographs of a few pollen grains
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_4.png" alt="Fig. 1.4" onclick="openImageModal(this.src, 'Fig. 1.4: a microscope. You will really be amazed at the variety of architecture – sizes, ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.4</strong> a microscope. You will really be amazed at the variety of architecture – sizes, shapes, colours, designs – seen on the pollen grains from different species (Figure 1.4).</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
 a microscope. You will really be amazed at the variety of architecture
 sizes, shapes, colours, designs
@@ -394,11 +376,14 @@ are shed at this 2-celled stage. In the remaining species, the
 generative cell divides mitotically to give rise to the two male
 gametes before pollen grains are shed (3-celled stage).
 
-Vegetative cel
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_5.png" alt="Fig. 1.5" onclick="openImageModal(this.src, 'Fig. 1.5: Pollen grains are generally spherical measuring about 25-50 micrometers in diame...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.5</strong> Pollen grains are generally spherical measuring about 25-50 micrometers in diameter. It has a prominent two-layered wall. The hard outer layer called the exine is made up of sporopollenin which is one of the most resistant organic material known. It can withstand high temperatures and strong acids and alkali. No enzyme that degrades sporopollenin is so far known. Pollen grain exine has prominent apertures called germ pores where sporopollenin is absent. Pollen grains are well- preserved as fossils because of the presence of sporopollenin. The exine exhibits a fascinating array of patterns and designs. Why do you think the exine should be hard? What is the function of germ pore? The inner wall of the pollen grain is called the intine. It is a thin and continuous layer made up of cellulose and pectin. The cytoplasm of pollen grain is surrounded by a plasma membrane. When the pollen grain is mature it contains two cells, the vegetative cell and generative cell (Figure 1.5b). The vegetative cell is bigger, has abundant food reserve and a large irregularly shaped nucleus. The generative cell is small and floats in the cytoplasm of the vegetative cell. It is spindle shaped with dense cytoplasm and a nucleus. In over 60 per cent of angiosperms, pollen grains are shed at this 2-celled stage. In the remaining species, the generative cell divides mitotically to give rise to the two male gametes before pollen grains are shed (3-celled stage).</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
-(b)
-
-Figure 1.5 (a) Enlarged view of
 a pollen grain tetrad; (b) stages
 of a microspore maturing into a
 pollen grain
@@ -411,7 +396,7 @@ has become ubiquitous in occurrence and causes pollen allergy.
 
 7
 
-Reprint 2025-26
+
 
 
 ---
@@ -436,7 +421,15 @@ Pollen grains are rich in nutrients. It has become a fashion in recent
 years to use pollen tablets as food supplements. In western countries, a
 large number of pollen products in the form of tablets and syrups are
 available in the market. Pollen consumption has been claimed to increase
-the performance of athletes and race horses (Figure 1.6).
+the performance of athletes and race horses (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_6.png" alt="Fig. 1.6" onclick="openImageModal(this.src, 'Fig. 1.6: Figure 1.6 Pollen products...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.6</strong> Figure 1.6 Pollen products</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 Pollen Products
 
@@ -499,7 +492,7 @@ cavity. Recall the definition and types of placentation that you studied in
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -520,37 +513,13 @@ Carpels
 
 Hilum
 
-Funicle
-
--Micropyle
-
--Micropylar pole
-
-Outer integument
-
--Inner integument
-
-Nucellus
-
-Embryo sac
-
-Ovary
-
-Thalamus
-
-(a)
-
-(b)
-
-(c)
-
-ERT
-
--Chalazal pole
-
-(d)
-
-Figure 1.7 (a) A dissected flower of Hibiscus showing pistil (other floral parts have been removed);
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_7.png" alt="Fig. 1.7" onclick="openImageModal(this.src, 'Fig. 1.7: The gynoecium represents the female reproductive part of the flower. The gynoeci...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.7</strong> The gynoecium represents the female reproductive part of the flower. The gynoecium may consist of a single pistil (monocarpellary) or may have more than one pistil (multicarpellary). When there are more than one, the pistils may be fused together (syncarpous) (Figure 1.7b) or may be free (apocarpous) (Figure 1.7c). Each pistil has three parts (Figure 1.7a), the stigma, style and ovary. The stigma serves as a landing platform for pollen grains. The style is the elongated slender part beneath the stigma. The basal bulged part of the pistil is the ovary. Inside the ovary is the ovarian cavity ( ( ( ( (locule). The placenta is located inside the ovarian cavity. Recall the definition and types of placentation that you studied in</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 (b) Multicarpellary, syncarpous pistil of Papaver; (c) A multicarpellary, apocarpous
 gynoecium of Michelia; (d) A diagrammatic view of a typical anatropous ovule
@@ -580,7 +549,7 @@ differentiate a single megaspore mother cell (MMC) in the micropylar region
 
 9
 
-Reprint 2025-26
+
 
 
 ---
@@ -621,34 +590,15 @@ Central
 cell
 
 2 polar-
-nuclei
 
-Antipodals
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_8.png" alt="Fig. 1.8" onclick="openImageModal(this.src, 'Fig. 1.8: Figure 1.8 (a) Parts of the ovule showing a large megaspore mother cell, a dyad ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.8</strong> Figure 1.8 (a) Parts of the ovule showing a large megaspore mother cell, a dyad and a tetrad of megaspores; (b) 2, 4, and 8-nucleate stages of embryo sac and a mature embryo sac; (c) A diagrammatic representation of the mature embryo sac.</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
-ONCER
-
-(b)
-
-ed
-
--Antipodals
-
--Polar nuclei
-Central cell
-Egg
-
-Synergids
-
-Filiform
-
-apparatus
-
-not to be republish
-
-Micropylar end
-(c)
-
-Figure 1.8 (a) Parts of the ovule showing a large megaspore mother cell, a dyad and a tetrad of
 megaspores; (b) 2, 4, and 8-nucleate stages of embryo sac and a mature embryo sac; (c) A
 diagrammatic representation of the mature embryo sac.
 
@@ -666,7 +616,7 @@ MMC, the functional megaspore and female gametophyte?
 
 10
 
-Reprint 2025-26
+
 
 
 ---
@@ -730,7 +680,7 @@ and stigma receptivity and also, the anthers and the stigma should
 
 11
 
-Reprint 2025-26
+
 
 
 ---
@@ -770,21 +720,14 @@ pollinating agent, genetically it is similar to
 autogamy since the pollen grains come from
 the same plant.
 
-NCER
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_9.png" alt="Fig. 1.9" onclick="openImageModal(this.src, 'Fig. 1.9: (i) Autogamy Autogamy Autogamy Autogamy Autogamy : In this type, pollination is ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.9</strong> (i) Autogamy Autogamy Autogamy Autogamy Autogamy : In this type, pollination is achieved within the same flower. Transfer of pollen grains from the anther to the stigma of the same flower (Figure 1.9a). In a normal flower which opens and exposes the anthers and the stigma, complete autogamy is rather rare. Autogamy in such flowers requires synchrony in pollen release and stigma receptivity and also, the anthers and the stigma should</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
 
-to be re
-
-12
-
-(c)
-
--Chasmogamous
-flower
-
-Cleistogamous
-flowers
-
-Figure 1.9 (a) Self-pollinated flowers;
 (b) Cross pollinated flowers;
 (c) Cleistogamous flowers
 
@@ -805,7 +748,7 @@ associated loss of pollen grains, the flowers produce
 enormous amount of pollen when compared to the
 number of ovules available for pollination.
 
-Reprint 2025-26
+
 
 
 ---
@@ -820,7 +763,15 @@ and non-sticky so that they can be
 transported in wind currents. They often
 possess well-exposed stamens (so that the
 pollens are easily dispersed into wind currents,
-Figure 1.10) and large often-feathery stigma
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_10.png" alt="Fig. 1.10" onclick="openImageModal(this.src, 'Fig. 1.10: Pollination by wind is more common amongst abiotic pollinations. Wind pollinatio...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.10</strong> Pollination by wind is more common amongst abiotic pollinations. Wind pollination also requires that the pollen grains are light and non-sticky so that they can be transported in wind currents. They often possess well-exposed stamens (so that the pollens are easily dispersed into wind currents, Figure 1.10) and large often-feathery stigma to easily trap air-borne pollen grains. Wind- pollinated flowers often have a single ovule in each ovary and numerous flowers packed into an inflorescence; a familiar example is the corn cob – the ears you see are nothing but the stigma and style which wave in the wind to trap pollen grains. Wind-pollination is quite common in grasses.</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 to easily trap air-borne pollen grains. Wind-
 pollinated flowers often have a single ovule in
 each ovary and numerous flowers packed into
@@ -869,7 +820,7 @@ not produce nectar. What would be the reason for this?
 
 13
 
-Reprint 2025-26
+
 
 
 ---
@@ -912,11 +863,14 @@ pollinated plants are specifically
 adapted for a particular species of
 animal.
 
-RT
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_11.png" alt="Fig. 1.11" onclick="openImageModal(this.src, 'Fig. 1.11: Pollination by water is quite rare in flowering plants and is limited to about 3...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.11</strong> Pollination by water is quite rare in flowering plants and is limited to about 30 genera, mostly monocotyledons. As against this, you would recall that water is a regular mode of transport for the male gametes among the lower plant groups such as algae, bryophytes and pteridophytes. It is believed, particularly for some bryophytes and pteridophytes, that their distribution is limited because of the need for water for the transport of male gametes and fertilisation. Some examples of water pollinated plants are Vallisneria and Hydrilla which grow in fresh water and several marine sea-grasses such as Zostera. Not all aquatic plants use water for pollination. In a majority of aquatic plants such as water hyacinth and water lily, the flowers emerge above the level of water and are pollinated by insects or wind as in most of the land plants. In Vallisneria, the female flower reach the surface of water by the long stalk and the male flowers or pollen grains are released on to the surface of water. They are carried passively by water currents (Figure 1.11a); some of them eventually reach the female flowers and the stigma. In another group of water pollinated plants such as seagrasses, female flowers remain submerged in water and the pollen grains are released inside the water. Pollen grains in many such species are long, ribbon like and they are carried passively inside the water; some of them reach the stigma and achieve pollination. In most of the water-pollinated species, pollen grains are protected from wetting by a mucilaginous covering.</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
-repu
-
-Figure 1.11 (a) Pollination by water in Vallisneria;
 (b) Insect pollination
 
 14
@@ -950,7 +904,7 @@ an example is that of the tallest flower of Amorphophallus (the flower
 itself is about 6 feet in height). A similar relationship exists between a
 species of moth and the plant Yucca where both species – moth and the
 
-Reprint 2025-26
+
 
 
 ---
@@ -1010,32 +964,19 @@ the pistil accepts the pollen and promotes post-pollination events that
 
 15
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 16
 
-(a)
-
-BIOLOGY
-
-Pollen tube
-
--Antipodal
-
-Polar nuclei
-
-Egg cell
-
-Synergid
-
-Central cell-
-
-Egg-
-nucleus
-
-Figure 1.12
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_12.png" alt="Fig. 1.12" onclick="openImageModal(this.src, 'Fig. 1.12: As mentioned earlier, following compatible pollination, the pollen grain germina...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.12</strong> As mentioned earlier, following compatible pollination, the pollen grain germinates on the stigma to produce a pollen tube through one of the germ pores (Figure 1.12a). The contents of the pollen grain move into the</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
 Plasma
 membrane
@@ -1093,7 +1034,7 @@ As mentioned earlier, following compatible pollination, the pollen grain
 germinates on the stigma to produce a pollen tube through one of the
 germ pores (Figure 1.12a). The contents of the pollen grain move into the
 
-Reprint 2025-26
+
 
 
 ---
@@ -1152,7 +1093,7 @@ desired pollen and the flower rebagged.
 
 17
 
-Reprint 2025-26
+
 
 
 ---
@@ -1194,35 +1135,15 @@ nucleus (3n)
 Radicle
 
 Degenerating
-antipodal cells
 
-(a)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_13.png" alt="Fig. 1.13" onclick="openImageModal(this.src, 'Fig. 1.13: Figure 1.13 (a) Fertilised embryo sac showing zygote and Primary Endosperm Nucle...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.13</strong> Figure 1.13 (a) Fertilised embryo sac showing zygote and Primary Endosperm Nucleus (PEN);</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
 
-embryo
-
-Zygote
-
-• develops
-
-olishes
-
-ERT
-
-Heart-Shaped
-Embryo
-
-Plumule
-
-Globular Embryo
-
-Mature
-(b)
-
-not be re
-
-Cotyledon
-
-Figure 1.13 (a) Fertilised embryo sac showing zygote and Primary Endosperm Nucleus (PEN);
 (b) Stages in embryo development in a dicot [shown in reduced size as compared to (a)]
 
 18
@@ -1238,7 +1159,7 @@ collectively termed post-fertilisation events.
 Endosperm development precedes embryo development. Why? The
 primary endosperm cell divides repeatedly and forms a triploid
 
-Reprint 2025-26
+
 
 
 ---
@@ -1317,7 +1238,16 @@ embryo; (b) L.S. of an
 embryo of grass
 
 A typical dicotyledonous embryo (Figure 1.14a), consists
-of an embryonal axis and two cotyledons. The portion of Figure 1.14 (a) A typical dicot
+of an embryonal axis and two cotyledons. The portion of
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_14.png" alt="Fig. 1.14" onclick="openImageModal(this.src, 'Fig. 1.14: A typical dicotyledonous embryo (Figure 1.14a), consists of an embryonal axis an...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.14</strong> A typical dicotyledonous embryo (Figure 1.14a), consists of an embryonal axis and two cotyledons. The portion of embryonal axis above the level of cotyledons is the epicotyl, which terminates with the plumule or stem tip. The cylindrical portion below the level of cotyledons is hypocotyl that terminates at its lower end in the radicle or root tip. The root tip is covered with a root cap.</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
+
 embryonal axis above the level of cotyledons is the epicotyl,
 which terminates with the plumule or stem tip. The cylindrical
 portion below the level of cotyledons is hypocotyl that
@@ -1331,7 +1261,7 @@ embryonal axis. At its lower end, the embryonal axis has the
 
 19
 
-Reprint 2025-26
+
 
 
 ---
@@ -1394,7 +1324,7 @@ of the species, fruits are the results of fertilisation, there are a few species
 
 no of
 
-Reprint 2025-26
+
 
 
 ---
@@ -1439,36 +1369,13 @@ root axis
 
 Scutellum-
 
-Root tip
-
-Endosperm
-
-NCERT
-
-Thalamus
-
-Seed
-
-Coleoptile
-
--Plumule
-
-Radicle
-Coleorhiza
-
-to bepubd
-
-Endocarp
-
-Mesocarp
-
-(b)
-
-Thalamus-
-
-Achene-
-
-Figure 1.15 (a) Structure of some seeds. (b) False fruits of apple and strawberry
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_15.png" alt="Fig. 1.15" onclick="openImageModal(this.src, 'Fig. 1.15: In angiosperms, the seed is the final product of sexual reproduction. It is ofte...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.15</strong> In angiosperms, the seed is the final product of sexual reproduction. It is often described as a fertilised ovule. Seeds are formed inside fruits. A seed typically consists of seed coat(s), cotyledon(s) and an embryo axis. The cotyledons (Figure 1.15a) of the embryo are simple structures, generally thick and swollen due to storage of food reserves (as in legumes). Mature seeds may be non-albuminous or ex-albuminous. Non- albuminous seeds have no residual endosperm as it is completely consumed during embryo development (e.g., pea, groundnut). Albuminous seeds retain a part of endosperm as it is not completely used up during embryo development (e.g., wheat, maize, barley, castor). Occasionally, in some seeds such as black pepper and beet, remnants of nucellus are also persistent. This residual, persistent nucellus is the perisperm.</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
 
 in which fruits develop without fertilisation. Such fruits are called
 parthenocarpic fruits. Banana is one such example. Parthenocarpy can
@@ -1480,7 +1387,7 @@ reproductive processes such as pollination and fertilisation are
 independent of water, seed formation is more dependable. Also seeds have
 better adaptive strategies for dispersal to new habitats and help the species
 
-Reprint 2025-26
+
 
 21
 
@@ -1545,7 +1452,7 @@ the embryo without fertilisation. More often, as in many Citrus and Mango
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -1609,7 +1516,7 @@ mature embryo sac is 7-celled and 8-nucleate. At the micropylar end is
 
 23
 
-Reprint 2025-26
+
 
 
 ---
@@ -1679,7 +1586,7 @@ ovule.
 6. With a neat diagram explain the 7-celled, 8-nucleate nature of the female
 gametophyte.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1729,9 +1636,9 @@ and why?
 17. Explain the role of tapetum in the formation of pollen-grain wall.
 18. What is apomixis and what is its importance?
 
-not to be republished
 
-Reprint 2025-26
+
+
 
 25
 

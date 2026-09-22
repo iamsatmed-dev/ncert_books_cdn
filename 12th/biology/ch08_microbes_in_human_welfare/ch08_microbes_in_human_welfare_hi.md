@@ -9,7 +9,7 @@
 
 मानव कल्याण में सूक्ष्मजीव
 
-12084CH10
+
 
 blished
 
@@ -51,7 +51,14 @@ blished
 पर्यावरण जैसे स्थानों पर भी पाए जाते हैं। सूक्ष्मजीव विविध रूपायित-
 प्रोटोजोआ, जीवाणु, कवक तथा सूक्ष्मदर्शीय पादपों एवं प्राणियों से होते
 हैं। विषाणु, विरायड तथा प्रायोन भी प्रोटीनीय संक्रमित कारक हैं। कुछ
-सूक्ष्मजीवियों को चित्र 8.1 तथा 8.2 में दिखाया गया है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_hi.png" alt="चित्र 8" onclick="openImageModal(this.src, 'चित्र 8: vlw{e ikniksa rFkk izkf.k;ksa osQ vfrfjDr bl i`Foh ij tho foKkuh ra=k osQ izeq[k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8</strong> vlw{e ikniksa rFkk izkf.k;ksa osQ vfrfjDr bl i`Foh ij tho foKkuh ra=k osQ izeq[k ?kVd lw{etho gSaA d{kk 11 esa vkius thfor thoksa esa ikbZ tkus okyh fofo/rk osQ ckjs esa vè;;u fd;k gksxkA D;k vkidks ;kn gS_ thfor thoksa esa dkSu ls txr osQ varxZr lw{ethoh tho vkrs gSa\ os dkSu ls tho gSa] ftUgsa osQoy lw{en'khZ; ekuk tk,\ lw{etho loZO;kih gksrs gaSA ;g e`nk] ty] ok;q] gekjs 'kjhj osQ vanj rFkk vU; izdkj osQ izkf.k;ksa rFkk ikniksa esa ik, tkrs gSaA tgk¡ fdlh izdkj thou laHko ugha gS tSls — xh”kj osQ Hkhrj xgjkbZ rd (rkih; fpeuh) tgk¡ rki 100OC rd c<+k gqvk jgrk gS] e`nk esa xgjkbZ rd] ciZQ dh irks± osQ dbZ ehVj uhps rFkk mPp vEyh; i;kZoj.k tSls LFkkuksa ij Hkh ik, tkrs gSaA lw{etho fofo/ :ikf;r& izksVkstksvk] thok.kq] dod rFkk lw{en'khZ; ikniksa ,oa izkf.k;ksa ls gksrs gSaA fo"kk.kq] fojk;M rFkk izk;ksu Hkh izksVhuh; laØfer dkjd gSaA oqQN lw{ethfo;ksa dks fp=k 8-1 rFkk 8-2 esa fn[kk;k x;k gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(1)">📄 View in PDF (Page 1)</button>
+  </div>
+</div>
 
 not to b
 
@@ -61,56 +68,32 @@ not to b
 (चित्र 8.3)। ऐसे संवर्धनजन सूक्ष्मजीवियों पर अध्ययन के दौरान
 काफी लाभदायक होते हैं।
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 2
 
-मानव कल्याण में सूक्ष्मजीव
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_1_hi.png" alt="चित्र 8.1" onclick="openImageModal(this.src, 'चित्र 8.1: (l) fp=k 8.1 thok.kq (cSDVhfj;k) (v) naMkdkj (vkof/Zr :i 1500 x) (c) xksykdkj vk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8.1</strong> (l) fp=k 8.1 thok.kq (cSDVhfj;k) (v) naMkdkj (vkof/Zr :i 1500 x) (c) xksykdkj vkof/Zr 1500 x (l) d'kkfHkdk iznf'kZr djrs gq, 50,000 x vkofèkZr naMkdkj cSDVhfj;e</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
-कशाभिका
-
-शीर्ष
-
-(अ)
-
-00
-
-(ब)
-
-भुजा
-
-(अ)
-
-दंडाकार बैस्टीरियम
-
-(स)
-
-चित्र 8.1 जीवाणु (बैक्टीरिया) (अ) दंडाकार
 (आवर्धित रूप 1500x) (ब) गोलाकार
 आवर्धित 1500 x (स) कशाभिका
 प्रदर्शित करते हुए 50,000 x आवर्धित
-दंडाकार बैक्टीरियम
 
-कॉलर
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_2_hi.png" alt="चित्र 8.2" onclick="openImageModal(this.src, 'चित्र 8.2: fp=k 8.2 fo&quot;kk.kq (v) thok.kqHkksth (c) ,sMhuksok;jl tks &#39;oluh; laØe.k ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8.2</strong> fp=k 8.2 fo"kk.kq (v) thok.kqHkksth (c) ,sMhuksok;jl tks 'oluh; laØe.k mRiUu djrk gS (l) naMkdkj VkscSdks ekstsd ok;jl (Vh,eoh) 100,000-15,00,000 rd vkof/Zr</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
-पुच्छप्लेट
-
-सूचि
-
-(ब)
-
-ed
-
-(स)
-
-संघटित
-
-दंडाकार
-विषाणु
-
-चित्र 8.2 विषाणु (अ) जीवाणुभोजी (ब) ऐडीनोवायरस जो
 श्वसनीय संक्रमण उत्पन्न करता है (स) दंडाकार टोबैको
 मोजेक वायरस (टीएमवी) 100,000-15,00,000 तक
 आवर्धित
@@ -126,7 +109,7 @@ be re
 (अ) पैट्री प्लेटों में वृद्धि कर रही जीवाणुओं की कालोनियाँ (ब) पैट्री प्लेटों
 में वृद्धि कर रही कवकीय कालोनियाँ
 
-Reprint 2025-26
+
 
 कवक कालोनी
 
@@ -183,7 +166,7 @@ CO₂ के कारण होते हैं। 'रॉक्यूफोर
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -201,7 +184,14 @@ Reprint 2025-26
 (ऐंटीबॉयटिक) इसके कुछ उदाहरण हैं। व्यावसायिक पैमाने
 पर सूक्ष्मजीवियों को पैदा करने के लिए बड़े बर्तन की
 आवश्यकता होती है जिसे फरमैंटर या किण्वक कहते
-हैं (चित्र 8.4)।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_4_hi.png" alt="चित्र 8.4" onclick="openImageModal(this.src, 'चित्र 8.4: fp=k 8.4 fd.od (iQjeSaVj)...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8.4</strong> fp=k 8.4 fd.od (iQjeSaVj)</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 8.2.1 किण्वित पेय
 
@@ -218,7 +208,14 @@ Reprint 2025-26
 पदार्थों पर निर्भर करती है; वाइन तथा बियर का उत्पादन
 बिना आसवन के; जबकि ह्विस्की, ब्रांडी तथा रम किण्वित
 रस के आसवन द्वारा तैयार किए जाते हैं। किण्वन संयंत्र
-(प्लांट) का फोटोग्राफ चित्र 8.5 में दिखाया गया है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_5_hi.png" alt="चित्र 8.5" onclick="openImageModal(this.src, 'चित्र 8.5: fp=k 8.5 fd.ou la;a=k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8.5</strong> fp=k 8.5 fd.ou la;a=k</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 8.2.2 प्रतिजैविक (ऐंटीबॉयोटिक)
 
@@ -240,7 +237,7 @@ Reprint 2025-26
 
 167
 
-Reprint 2025-26
+
 
 
 ---
@@ -293,7 +290,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -316,7 +313,13 @@ Reprint 2025-26
 आश्चर्य होता होगा कि वाहितमल की बड़ी मात्रा
 अथवा शहरी व्यर्थजल का रोजाना निपटान कैसे होता
 
-चित्र 8.6 वाहित मल उपचार संयंत्र का वायुवीय टैंक
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_6_hi.png" alt="चित्र 8.6" onclick="openImageModal(this.src, 'चित्र 8.6: fp=k 8.6 okfgr ey mipkj la;a=k dk ok;qoh; VSad...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8.6</strong> fp=k 8.6 okfgr ey mipkj la;a=k dk ok;qoh; VSad</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 she
 
@@ -349,13 +352,19 @@ she
 
 169
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 7
 
-चित्र 8.7 वाहित मल उपचार संयंत्र का आकाशी चित्र
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_7_hi.png" alt="चित्र 8.7" onclick="openImageModal(this.src, 'चित्र 8.7: fp=k 8.7 okfgr ey mipkj la;a=k dk vkdk&#39;kh fp=k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8.7</strong> fp=k 8.7 okfgr ey mipkj la;a=k dk vkdk'kh fp=k</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
 170
 
@@ -404,7 +413,7 @@ not
 अपने आस-पास स्थित ऐसे किसी भी वाहित मल उपचार संयंत्र में जाएँ। जो अत्यंत ही
 रोचक तथा शिक्षाप्रद अनुभव होगा।
 
-Reprint 2025-26
+
 
 
 ---
@@ -457,19 +466,14 @@ blished
 
 फीट गहरा) होता है; जिसमें अपशिष्ट
 संग्रहीत एवं गोबर की कर्दम (स्तरी)
-भरी जाती है। कर्दम के ऊपर एक
 
-गैस-होल्डर
-
-(CH + CO₂ +
-
-)
-
-स्लज
-
-डायजैस्टर
-
-चित्र 8.8 संयंत्र का एक प्रारूप बायोगैस
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_8_hi.png" alt="चित्र 8.8" onclick="openImageModal(this.src, 'चित्र 8.8: fp=k 8.8 la;a=k dk ,d izk:i ck;ksxSl...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8.8</strong> fp=k 8.8 la;a=k dk ,d izk:i ck;ksxSl</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 171
 
@@ -479,7 +483,7 @@ blished
 है। उपयोग की गई कर्दम दूसरे निकास द्वार से बाहर निकाल दी जाती है। इसका प्रयोग
 उर्वरक के रूप में किया जाता है। गोबर ग्रामीण क्षेत्रों में बड़ी मात्रा में मिलता है, जहाँ
 
-Reprint 2025-26
+
 
 
 ---
@@ -528,7 +532,7 @@ Reprint 2025-26
 का महत्त्वपूर्ण भाग विभिन्न जीवन के रूपों से परिचित होता है। उदाहरणार्थ खेतों को
 परभक्षी तथा पीड़कों द्वारा उनके जीवन चक्र, आहार ग्रहण करने की विधि तथा वास
 
-Reprint 2025-26
+
 
 
 ---
@@ -587,7 +591,7 @@ t
 
 173
 
-Reprint 2025-26
+
 
 
 ---
@@ -640,7 +644,7 @@ be rep
 प्रयोग औद्योगिक उत्पाद जैसे लैक्टिक एसिड, एसिटिक एसिड तथा ऐल्कोहल उत्पन्न
 करने में किया जाता है, जिनका प्रयोग उद्योग में अलग-अलग संसाधनों में किया जाता
 
-Reprint 2025-26
+
 
 
 ---
@@ -699,7 +703,7 @@ publised
 
 175
 
-Reprint 2025-26
+
 
 
 ---
@@ -744,5 +748,5 @@ not to beअपवाद
 
 176
 
-Reprint 2025-26
+
 

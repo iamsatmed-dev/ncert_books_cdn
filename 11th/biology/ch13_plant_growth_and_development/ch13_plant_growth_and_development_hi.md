@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11081CH15
+
 
 13.1 वृद्धि
 
@@ -35,7 +35,15 @@
 परिवर्धन एक युग्मक (एक निषेचित अंडा) से शुरू होकर एक सुनिश्चित एवं उच्च नियमित
 वंशानुक्रम की घटना है। इस प्रक्रिया के दौरान एक जटिल शरीर संरचना का गठन होता है जो
 जड़ों, पत्तियों, शाखाओं, फूलों, फलों एवं बीजों को उत्पादित करता है और अंततः वे मर जाते
-हैं। (चित्र 13.1) पौधों की वृद्धि के प्रक्रम का प्रथम चरण बीज का अंकुरण है। जब पर्यावरण
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch13_plant_growth_and_development_fig_13_hi.png" alt="चित्र 13" onclick="openImageModal(this.src, 'चित्र 13: vkius igys gh vè;k; 5 osQ varxZr iwQy okys ikS/s osQ laxBu osQ ckjs esa vè;;u fd...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13</strong> vkius igys gh vè;k; 5 osQ varxZr iwQy okys ikS/s osQ laxBu osQ ckjs esa vè;;u fd;k gSA D;k vkius dHkh lkspk gS fd ewy] ruk] ifÙk;ka] iwQy rFkk cht tSlh lajpuk,a dgk¡ vkSj oSQls iSnk gksrh gSa vkSj og Hkh ,d Øec¼ rjhosQ ls\ vc vki cht] ikS/ (uo vaoqQfjr ikS/k)] iknid (NksVk ikS/k) rFkk ifjiDo ikS/s tSls 'kCnksa ls ifjfpr gks x, gSaA vkius ;g Hkh ns[kk gS fd lHkh isM+ le; osQ varjky esa ÅapkbZ ,oa xksykbZ (pkSM+kbZ) esa yxkrkj o`f¼ djrs gSaA gkyk¡fd mlh o`{k dh ifÙk;ka] iwQy ,oa iQy vkfn u osQoy ,d lhfer yackbZ&pkSM+kbZ osQ gksrs gSa] cfYd le;kuqowQy o`{k ls fudyrs ,oa fxj tkrs gSaA ;gh izfØ;k yxkrkj nksgjkbZ tkrh gSA ,d ikS/s esa iwQy vkus dh izfØ;k dkf;d o`f¼ osQ ckn D;ksa gksrh gS\ lHkh ikS/ksa osQ vax fofHkUu rjg osQ Årdksa ls cus gksrs gSaA D;k ,d dksf'kdk@Ård@vax dh lajpuk vkSj mlosQ }kjk laiUu tkus okyh fØ;kdyki osQ chp dksbZ laca/ gS\ ikS/s dh lHkh dksf'kdk,a ;qXet dh larfr ;k oa'kt gksrh gSA rc loky ;g mBrk gS fd D;ksa vkSj oSQls muesa fHkUu&fHkUu lajpukRed ,oa fØ;kRed fo'ks"krk,a gksrh gSa\ ifjo/Zu nks izfØ;kvksa dk ;ksx gS% o`f¼ ,oa foHksnuA 'kq#vkr esa ;g tkuuk vfuok;Z gS fd ,d ifjiDo o`{k dk ifjo/Zu ,d ;qXed (,d fu"ksfpr vaMk) ls 'kq: gksdj ,d lqfuf'pr ,oa mPp fu;fer oa'kkuqØe dh ?kVuk gSA bl izfØ;k osQ nkSjku ,d tfVy 'kjhj lajpuk dk xBu gksrk gS tks tM+ksa] ifÙk;ksa] 'kk[kkvksa] iwQyksa] iQyksa ,oa chtksa dks mRikfnr djrk gS vkSj varr% os ej tkrs gSaA (fp=k 13-1) ikS/ksa dh o`f¼ osQ izØe dk izFke pj.k cht dk vaoqQj.k gSA tc i;kZoj.k esa o`f¼ osQ fy, vuqowQy ifjfLFkfr;k¡ gksrh gSa rks cht vaoqQfjr gks tkrk gSA bl izdkj dh vuqowQy ifjfLFkfr;ksa osQ vHkko esa cht vaoqQfjr ugha gksrk rFkk fuyafcr o`f¼ vFkok izlqIr dky esa pyk tkrk gSA tc vuqowQy ifjfLFkfr;k¡ okil vkrh gSa rc chtksa esa mikip; fØ;k,¡ iquosZf'kr gks tkrh gSa rFkk o`f¼ gksus yxrh gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(1)">📄 View in PDF (Page 1)</button>
+  </div>
+</div>
+
 में वृद्धि के लिए अनुकूल परिस्थितियाँ होती हैं तो बीज अंकुरित हो जाता है। इस प्रकार की
 अनुकूल परिस्थितियों के अभाव में बीज अंकुरित नहीं होता तथा निलंबित वृद्धि अथवा प्रसुप्त
 काल में चला जाता है। जब अनुकूल परिस्थितियाँ वापस आती हैं तब बीजों में उपापचय क्रियाएँ
@@ -46,7 +54,7 @@ not
 इस अध्याय में; आप कुछ उन कारकों के बारे में पढ़ेंगे जो कि इस परिवर्धन प्रक्रिया को
 संचालित एवं नियंत्रित करते हैं। ये कारक एक पौधे के लिए आंतरिक एवं बाहरी होते हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -94,7 +102,7 @@ Reprint 2025-26
 खुला स्वरूप कहा जाता है। क्या होगा जब विभज्योतक का विभाजन बंद हो जाए? क्या
 कभी ऐसा होता है?
 
-Reprint 2025-26
+
 
 ed
 
@@ -188,7 +196,7 @@ be
 प्राथमिक, पतली तथा प्रचुर जीवद्रव्य तंतु संयोजन के साथ
 सेलुलाजिक होती है। विभज्योतक क्षेत्र के समीपस्थ (ठीक
 
-Reprint 2025-26
+
 
 
 ---
@@ -238,7 +246,7 @@ not to
 
 चित्र 13.4 (अ) अंकगणितीय और (ब) ज्यामितिक वृद्धि
 
-Reprint 2025-26
+
 
 
 ---
@@ -336,7 +344,7 @@ e = स्वाभाविक लघुगाणिक का आधार
 यहाँ r = एक सापेक्ष वृद्धि दर है, तथा साथ ही पौधे द्वारा नई
 पादप सामग्री को पैदा करने की क्षमता को मापने के लिए है,
 
-Reprint 2025-26
+
 
 
 ---
@@ -398,7 +406,7 @@ shed
 इसके अतिरिक्त प्रत्येक पादप जीव के लिए इष्टतम ताप परिसर होता है, जो उसकी
 वृद्धि के लिए अत्यंत ही अनुकूल होता है। इस ताप के दायरे से किसी प्रकार का
 
-Reprint 2025-26
+
 
 
 ---
@@ -454,7 +462,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -512,7 +520,7 @@ lishe
 
 चित्र 13.9 लार्कस्पर (अ) एवं (ब) बटरकप में विषमपर्णी
 
-Reprint 2025-26
+
 
 173
 
@@ -579,7 +587,7 @@ Reprint 2025-26
 की नोक संचारणीय प्रवाह की जगह है जो संपूर्ण प्रांकुर
 चोल के मुड़ने का कारण है (चित्र 13.10)। ऑक्सिन
 
-Reprint 2025-26
+
 
 
 ---
@@ -637,7 +645,7 @@ shed
 पुरानी एवं परिपक्व पत्तियों एवं फलों के विलगन को बढ़ावा देते हैं। उच्च पादपों में वृद्धि
 करती अग्रस्थ कलिका पार्श्व (कक्षस्थ) कलियों की वृद्धि को अवरोधित करते हैं। जिसे
 
-Reprint 2025-26
+
 
 
 ---
@@ -701,7 +709,7 @@ ub
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -754,7 +762,7 @@ shed
 विरलन)। यह खीरों में मादा पुष्पों का बढ़ाता है जिससे फसल की पैदावार में वृद्धि
 होती है।
 
-Reprint 2025-26
+
 
 177
 
@@ -809,7 +817,7 @@ not
 पौधे के अक्ष की दीर्घगामी वृद्धि में भागीदारी करते हैं। उच्च पेड़ों में वृद्धि अनियत होती है। मूल शिखाग्र
 एवं प्ररोह शिखाग्र में कोशिका विभाजन का अनुपालन करते हुए वृद्धि अंकगणितीय या ज्यामितीय हो सकती
 
-Reprint 2025-26
+
 
 
 ---
@@ -867,7 +875,7 @@ Reprint 2025-26
 
 (घ) कक्षस्थ कलिकाओं में वृद्धि कराने हेतु
 
-Reprint 2025-26
+
 
 179
 
@@ -893,9 +901,9 @@ Reprint 2025-26
 
 © NCERT
 
-not to be republished
 
-Reprint 2025-26
+
+
 
 जीव विज्ञान
 

@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11080CH06
+
 
 6.1 The Tissue
 System
@@ -60,7 +60,7 @@ plant body and comprises epidermal cells, stomata and the epidermal
 appendages – the trichomes and hairs. The epidermis is the outermost
 layer of the primary plant body. It is made up of elongated, compactly
 
-Reprint 2025-26
+
 
 
 ---
@@ -85,9 +85,14 @@ and regulate the opening and closing of stomata. Sometimes, a few epidermal
 cells, in the vicinity of the guard cells become specialised in their shape and
 size and are known as subsidiary cells. The stomatal aperture, guard
 cells and the surrounding subsidiary cells are together
-her 
-called stomatal
-apparatus (Figure 6.1).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch06_anatomy_of_flowering_plants_fig_6_1.png" alt="Fig. 6.1" onclick="openImageModal(this.src, 'Fig. 6.1: arranged cells, which form a continuous layer. Epidermis is usually single- laye...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.1</strong> arranged cells, which form a continuous layer. Epidermis is usually single- layered. Epidermal cells are parenchymatous with a small amount of cytoplasm lining the cell wall and a large vacuole. The outside of the epidermis is often covered with a waxy thick layer called the cuticle which prevents the loss of water. Cuticle is absent in roots. Stomata are structures present in the epidermis of leaves. Stomata regulate the process of transpiration and gaseous exchange. Each stoma is composed of two bean- shaped cells known as guard cells which enclose stomatal pore. In grasses, the guard cells are dumb-bell shaped. The outer walls of guard cells (away from the stomatal pore) are thin and the inner walls (towards the stomatal pore) are highly thickened. The guard cells possess chloroplasts and regulate the opening and closing of stomata. Sometimes, a few epidermal cells, in the vicinity of the guard cells become specialised in their shape and size and are known as subsidiary cells. The stomatal aperture, guard cells and the surrounding subsidiary cells are together called stomatal apparatus (Figure 6.1).</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 Epidermal cells
 
@@ -123,7 +128,7 @@ pericycle, pith and medullary rays, in the primary stems and roots. In
 leaves, the ground tissue consists of thin-walled chloroplast containing
 cells and is called mesophyll.
 
-Reprint 2025-26
+
 
 
 ---
@@ -138,7 +143,15 @@ ANATOMY OF FLOWERING PLANTS
 The vascular system consists of complex tissues,
 the phloem and the xylem.The xylem and
 phloem together constitute vascular bundles
-(Figure 6.2). In dicotyledonous stems,
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch06_anatomy_of_flowering_plants_fig_6_2.png" alt="Fig. 6.2" onclick="openImageModal(this.src, 'Fig. 6.2: The vascular system consists of complex tissues, the phloem and the xylem.The xy...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.2</strong> The vascular system consists of complex tissues, the phloem and the xylem.The xylem and phloem together constitute vascular bundles (Figure 6.2). In dicotyledonous stems, cambium is present between phloem and xylem. Such vascular bundles because of the presence of cambium possess the ability to form secondary xylem and phloem tissues, and hence are called open vascular bundles. In the monocotyledons, the vascular bundles have no cambium present in them. Hence, since they do not form secondary tissues they are referred to as closed. When xylem and phloem within a vascular bundle are arranged in an alternate manner along the different radii, the arrangement is called radial such as in roots. In conjoint type of vascular bundles, the xylem and phloem are jointly situated along the same radius of vascular bundles. Such vascular bundles are common in stems and leaves. The conjoint vascular bundles usually have the phloem located only on the outer side of xylem.</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 cambium is present between phloem and
 xylem. Such vascular bundles because of the
 presence of cambium possess the ability to form
@@ -184,9 +197,14 @@ convenient to study the transverse sections of
 
 the mature zones of these organs.
 
-6.2.1 Dicotyledonous Root
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch06_anatomy_of_flowering_plants_fig_6_3.png" alt="Fig. 6.3" onclick="openImageModal(this.src, 'Fig. 6.3: Look at Figure 6.3 (a), it shows the transverse section of the sunflower root. T...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.3</strong> Look at Figure 6.3 (a), it shows the transverse section of the sunflower root. The internal tissue organisation is as follows:</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
-Look at Figure 6.3 (a), it shows the transverse
 section of the sunflower root. The internal tissue
 organisation is as follows:
 
@@ -207,7 +225,7 @@ Figure 6.2 Various types of vascular bundles :
 (a) radial (b) conjoint closed
 (c) conjoint open
 
-Reprint 2025-26
+
 
 
 ---
@@ -303,15 +321,20 @@ The transverse section of a typical young
 dicotyledonous stem shows that the epidermis
 is the outermost protective layer of the stem
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 5
 
-ANATOMY OF FLOWERING PLANTS
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch06_anatomy_of_flowering_plants_fig_6_4.png" alt="Fig. 6.4" onclick="openImageModal(this.src, 'Fig. 6.4: (Figure 6.4 a). Covered with a thin layer of cuticle, it may bear trichomes and ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.4</strong> (Figure 6.4 a). Covered with a thin layer of cuticle, it may bear trichomes and a few stomata. The cells arranged in multiple layers between epidermis and pericycle constitute the cortex. It consists of three sub-zones. The outer hypodermis, consists of a few layers of collenchymatous cells just below the epidermis, which provide mechanical strength to the young stem. Cortical layers below hypodermis consist of rounded thin walled parenchymatous cells with conspicuous intercellular spaces. The innermost layer of the cortex is called the endodermis. The cells of the endodermis are rich in starch grains and the layer is also referred to as the starch sheath. Pericycle is</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
-(Figure 6.4 a). Covered with a thin layer of cuticle, it may bear trichomes and
 a few stomata. The cells arranged in multiple layers between epidermis and
 pericycle constitute the cortex. It consists of three sub-zones. The outer
 hypodermis, consists of a few layers of collenchymatous cells just below the
@@ -398,7 +421,7 @@ tissue
 
 Figure 6.4 T.S. of stem: (a) Dicot (b) Monocot
 
-Reprint 2025-26
+
 
 75
 
@@ -449,32 +472,14 @@ mesophyll
 
 Air cavity
 Spongy
-mesophyll
-Sub-stomatal
 
-cavity
-
-Abaxial
-
-epidermis
-
-b
-
-Adaxial
-epidermis
-Xylem
-
--Mesophyll
-
-Sub-stomatal
-cavity
-
-Abaxial
-epidermis
-
-Stoma
-
-Figure 6.5 T.S. of leaf: (a) Dicot (b) Monocot
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch06_anatomy_of_flowering_plants_fig_6_5.png" alt="Fig. 6.5" onclick="openImageModal(this.src, 'Fig. 6.5: Figure 6.5 T.S. of leaf : (a) Dicot (b) Monocot...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.5</strong> Figure 6.5 T.S. of leaf : (a) Dicot (b) Monocot</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 bundle sheath, and a large, conspicuous
 parenchymatous ground tissue (Figure
@@ -511,7 +516,7 @@ parenchyma. The adaxially placed
 palisade parenchyma is made up of
 elongated cells, which are arranged
 
-Reprint 2025-26
+
 
 
 ---
@@ -568,7 +573,7 @@ Monocotyledonous and dicotyledonous plants show marked variation in their
 internal structures. They differ in type, number and location of vascular bundles.
 The secondary growth occurs in most of the dicotyledonous roots and stems.
 
-Reprint 2025-26
+
 
 77
 
@@ -616,5 +621,5 @@ diagrams.
 
 not to be republisell
 
-Reprint 2025-26
+
 

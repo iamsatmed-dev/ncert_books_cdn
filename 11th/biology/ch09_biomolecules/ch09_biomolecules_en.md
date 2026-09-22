@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11080CH09
+
 
 9.1 How to Analyse
 Chemical
@@ -64,7 +64,7 @@ fractions. One is called the filtrate or more technically, the acid-soluble
 pool, and the second, the retentate or the acid-insoluble fraction. Scientists
 have found thousands of organic compounds in the acid-soluble pool.
 
-Reprint 2025-26
+
 
 
 ---
@@ -100,9 +100,7 @@ Nitrogen (N)
 
 very little
 
-### 3.3
-
-Sulphur (S)
+### 3.3 Sulphur (S)
 
 0.03
 
@@ -118,9 +116,7 @@ Calcium (Ca)
 
 ### 3.6
 
-### 1.5
-
-Magnesium (Mg)
+### 1.5 Magnesium (Mg)
 
 ### 2.1
 
@@ -179,30 +175,15 @@ dry TABLE 9.2 A List of Representative Inorganic
 Constituents of Living Tissues
 
 Component
-Sodium
-Potassium
-Calcium
-Magnesium
-Water
 
-Formula
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch09_biomolecules_fig_9_1.png" alt="Fig. 9.1" onclick="openImageModal(this.src, 'Fig. 9.1: the kind of organic (Figure 9.1) and inorganic constituents (Table 9.2) present ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.1</strong> the kind of organic (Figure 9.1) and inorganic constituents (Table 9.2) present in living tissues. From a chemistry point of view, one can identify functional groups like aldehydes, ketones, aromatic compounds, etc. But from a biological point of view, we shall classify them into amino acids, nucleotide bases, fatty acids etc.</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
-Na+
-K+
-
-Ca++
-
-Mg++
-
-Compounds
-
-NaCl, CaCO3,
-
-2-
-
-PO, SO
-
-the kind of organic (Figure 9.1) and inorganic constituents (Table 9.2)
 present in living tissues. From a chemistry point of view, one can identify
 functional groups like aldehydes, ketones, aromatic compounds, etc. But
 from a biological point of view, we shall classify them into amino acids,
@@ -216,7 +197,7 @@ are hydrogen, carboxyl group, amino group and a variable group
 designated as R group. Based on the nature of R group there are many
 amino acids. However, those which occur in proteins are only of twenty
 
-Reprint 2025-26
+
 
 
 ---
@@ -288,7 +269,7 @@ as genetic material.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -463,7 +444,7 @@ Nucleotide
 Diagrammatic representation of small molecular weight organic
 compounds in living tissues
 
-Reprint 2025-26
+
 
 107
 
@@ -559,7 +540,7 @@ are polymeric substances. Then why do lipids, whose molecular weights
 do not exceed 800 Da, come under acid insoluble fraction, i.e.,
 macromolecular fraction? Lipids are indeed small molecular weight
 
-Reprint 2025-26
+
 
 
 ---
@@ -599,7 +580,14 @@ CE
 
 Proteins are polypeptides. They are linear chains of
 amino acids linked by peptide bonds as shown in
-Figure 9.3.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch09_biomolecules_fig_9_3.png" alt="Fig. 9.3" onclick="openImageModal(this.src, 'Fig. 9.3: Proteins are polypeptides. They are linear chains of amino acids linked by pepti...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.3</strong> Proteins are polypeptides. They are linear chains of amino acids linked by peptide bonds as shown in Figure 9.3.</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 Each protein is a polymer of amino acids. As there
 are 20 types of amino acids (e.g., alanine, cysteine,
@@ -689,7 +677,7 @@ transport
 
 into cells
 
-Reprint 2025-26
+
 
 
 ---
@@ -719,7 +707,15 @@ present as a store house of energy in plant tissues. Animals have another
 variant called glycogen. Inulin is a polymer of fructose. In a
 polysaccharide chain (say glycogen), the right end is called the reducing
 end and the left end is called the non-reducing end. It has branches as
-shown in the form of a cartoon (Figure 9.2). Starch forms helical
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch09_biomolecules_fig_9_2.png" alt="Fig. 9.2" onclick="openImageModal(this.src, 'Fig. 9.2: Figure 9.2 Diagrammatic representation of a portion of glycogen...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.2</strong> Figure 9.2 Diagrammatic representation of a portion of glycogen</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 secondary structures. In fact, starch can hold I₂ molecules in the helical
 portion. The starch-I₂ is blue in colour. Cellulose does not contain
 complex helices and hence cannot hold I₂.
@@ -750,7 +746,7 @@ OH
 
 Figure 9.2 Diagrammatic representation of a portion of glycogen
 
-Reprint 2025-26
+
 
 
 ---
@@ -813,7 +809,7 @@ second, and so on – is called the primary structure (Figure 9.3 a) of
 a protein. A protein is imagined as a line, the left end represented by
 the first amino acid and the right end represented by the last amino
 
-Reprint 2025-26
+
 
 
 ---
@@ -901,7 +897,7 @@ line diagram. An enzyme like any protein has a primary structure, i.e.,
 amino acid sequence of the protein. An enzyme like any protein has the
 secondary and the tertiary structure. When you look at a tertiary structure
 
-Reprint 2025-26
+
 
 
 ---
@@ -971,7 +967,7 @@ H2CO3
 
 carbonic acid
 
-Reprint 2025-26
+
 
 113
 
@@ -1038,7 +1034,7 @@ completed, the product is released from the active site. In other words,
 the structure of substrate gets transformed into the structure of product(s).
 The pathway of this transformation must go through the so-called
 
-Reprint 2025-26
+
 
 
 ---
@@ -1056,7 +1052,14 @@ structural states are unstable. Stability is
 something related to energy status of the
 molecule or the structure. Hence, when we look
 at this pictorially through a graph it looks like
-something as in Figure 9.4.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch09_biomolecules_fig_9_4.png" alt="Fig. 9.4" onclick="openImageModal(this.src, 'Fig. 9.4: transition state structure. There could be many more ‘altered structural states’...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.4</strong> transition state structure. There could be many more ‘altered structural states’ between the stable substrate and the product. Implicit in this statement is the fact that all other intermediate structural states are unstable. Stability is something related to energy status of the molecule or the structure. Hence, when we look at this pictorially through a graph it looks like something as in Figure 9.4.</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 The y-axis represents the potential energy
 content. The x-axis represents the progression
@@ -1122,18 +1125,19 @@ fitting more tightly around the substrate.
 substrate breaks the chemical bonds of the substrate and the
 new enzyme- product complex is formed.
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 13
 
-Enzyme activity
-
-not
-
-pH
-Figure 9.5
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch09_biomolecules_fig_9_5.png" alt="Fig. 9.5" onclick="openImageModal(this.src, 'Fig. 9.5: Enzymes generally function in a narrow range of temperature and pH (Figure 9.5)....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.5</strong> Enzymes generally function in a narrow range of temperature and pH (Figure 9.5). Each enzyme shows its highest activity at a particular temperature and pH called the optimum temperature and optimum pH. Activity declines both below and above the optimum value. Low temperature preserves the enzyme in a temporarily inactive state whereas high temperature destroys enzymatic activity because proteins are denatured by heat.</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 116
 
@@ -1202,7 +1206,7 @@ Km
 Effect of change in: (a) pH (b) Temperature and (c) Concentration of
 substrate on enzyme activity
 
-Reprint 2025-26
+
 
 
 ---
@@ -1261,7 +1265,7 @@ Enzymes are composed of one or several polypeptide chains. However,
 there are a number of cases in which non-protein constituents called co-
 factors are bound to the the enzyme to make the enzyme catalytically
 
-Reprint 2025-26
+
 
 
 ---
@@ -1323,7 +1327,7 @@ are polymers. They are made of building blocks which are different. Proteins
 are heteropolymers made of amino acids. Nucleic acids (RNA and DNA) are
 composed of nucleotides. Biomacromolecules have a hierarchy of structures
 
-Reprint 2025-26
+
 
 
 ---
@@ -1390,5 +1394,5 @@ the consumption of plant material by man annually. What a loss of vegetation!
 
 no
 
-Reprint 2025-26
+
 

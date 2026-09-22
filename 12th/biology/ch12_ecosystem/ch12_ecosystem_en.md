@@ -9,7 +9,7 @@ CHAPTER 12
 
 ECOSYSTEM
 
-12083CH14
+
 
 blished
 
@@ -49,7 +49,7 @@ relationships – cycles, chains, webs – that are created as
 a result of these energy flows within the system and their
 inter- relationship.
 
-Reprint 2025-26
+
 
 
 ---
@@ -119,7 +119,7 @@ to function and sustain. Primary production is defined as the amount of
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -182,12 +182,20 @@ as unavailable salts. Bacterial and fungal enzymes degrade detritus into
 simpler inorganic substances. This process is called as catabolism.
 
 It is important to note that all the above steps in decomposition operate
-simultaneously on the detritus (Figure 12.1). Humification and
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch12_ecosystem_fig_12_1.png" alt="Fig. 12.1" onclick="openImageModal(this.src, 'Fig. 12.1: It is important to note that all the above steps in decomposition operate simult...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.1</strong> It is important to note that all the above steps in decomposition operate simultaneously on the detritus (Figure 12.1). Humification and mineralisation occur during decomposition in the soil. Humification leads</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 mineralisation occur during decomposition in the soil. Humification leads
 
 207
 
-Reprint 2025-26
+
 
 
 ---
@@ -254,7 +262,7 @@ up of organic materials.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -325,7 +333,7 @@ Goat
 
 (Primary Consumer) (Secondary consumer)
 
-Reprint 2025-26
+
 
 
 ---
@@ -357,7 +365,15 @@ community according to their feeding relationship with other organisms.
 Based on the source of their nutrition or food, organisms occupy a specific
 place in the food chain that is known as their trophic level. Producers
 belong to the first trophic level, herbivores (primary consumer) to the
-second and carnivores (secondary consumer) to the third (Figure 12.2).
+second and carnivores (secondary consumer) to the third (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch12_ecosystem_fig_12_2.png" alt="Fig. 12.2" onclick="openImageModal(this.src, 'Fig. 12.2: Organisms occupy a place in the natural surroundings or in a community according...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.2</strong> Organisms occupy a place in the natural surroundings or in a community according to their feeding relationship with other organisms. Based on the source of their nutrition or food, organisms occupy a specific place in the food chain that is known as their trophic level. Producers belong to the first trophic level, herbivores (primary consumer) to the second and carnivores (secondary consumer) to the third (Figure 12.2).</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 Examples
 
@@ -401,7 +417,7 @@ Phytoplankton, grass, trees
 
 Figure 12.2 Diagrammatic representation of trophic levels in an ecosystem
 
-Reprint 2025-26
+
 
 
 ---
@@ -425,7 +441,16 @@ The number of trophic levels in the grazing food chain is restricted as
 the transfer of energy follows 10 per cent law – only 10 per cent of the
 energy is transferred to each trophic level from the lower trophic level. In
 nature, it is possible to have so many levels – producer, herbivore, primary
-carnivore, secondary carnivore in the grazing food chain (Figure 12.3) .
+carnivore, secondary carnivore in the grazing food chain (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch12_ecosystem_fig_12_3.png" alt="Fig. 12.3" onclick="openImageModal(this.src, 'Fig. 12.3: Figure 12.3 Energy flow through different trophic levels...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.3</strong> Figure 12.3 Energy flow through different trophic levels</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 Do you think there is any such limitation in a detritus food chain?
 
 Sun
@@ -480,7 +505,7 @@ You must be familiar with the shape of a pyramid. The base of a pyramid
 is broad and it narrows towards the apex. One gets a similar shape,
 whether you express the food or energy relationship between organisms
 
-Reprint 2025-26
+
 
 
 ---
@@ -495,7 +520,14 @@ number, biomass or energy. The base of each pyramid represents the
 producers or the first trophic level while the apex represents tertiary or
 top level consumer. The three types of ecological pyramids that are usually
 studied are (a) pyramid of number; (b) pyramid of biomass and (c) pyramid
-of energy. For detail (see Figure 12.4 a, b, c and d).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch12_ecosystem_fig_12_4.png" alt="Fig. 12.4" onclick="openImageModal(this.src, 'Fig. 12.4: at different trophic levels. This, relationship is expressed in terms of number,...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.4</strong> at different trophic levels. This, relationship is expressed in terms of number, biomass or energy. The base of each pyramid represents the producers or the first trophic level while the apex represents tertiary or top level consumer. The three types of ecological pyramids that are usually studied are (a) pyramid of number; (b) pyramid of biomass and (c) pyramid of energy. For detail (see Figure 12.4 a, b, c and d).</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 Number of individuals
 
@@ -548,7 +580,7 @@ P
 Figure 12.4 (c) Inverted pyramid of biomass-small standing crop of phytoplankton supports large
 standing crop of zooplankton
 
-Reprint 2025-26
+
 
 
 ---
@@ -614,7 +646,7 @@ given time or annually per unit area.
 
 213
 
-Reprint 2025-26
+
 
 
 ---
@@ -684,7 +716,7 @@ is
 
 _type.
 
-Reprint 2025-26
+
 
 
 ---
@@ -779,5 +811,5 @@ decomposition.
 
 215
 
-Reprint 2025-26
+
 

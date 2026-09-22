@@ -13,7 +13,7 @@ MATTER
 
 not
 
-12089CH05
+
 
 NCERT
 
@@ -46,7 +46,7 @@ direction. The tip which points to the geographic north is called the
 north pole and the tip which points to the geographic south is called
 the south pole of the magnet.
 
-Reprint 2026-27
+
 
 
 ---
@@ -79,7 +79,14 @@ properties. We describe para-, dia-, and ferromagnetism.
 We begin our study by examining iron
 filings sprinkled on a sheet of glass placed
 over a short bar magnet. The arrangement
-of iron filings is shown in Fig. 5.1.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch05_magnetism_and_matter_fig_5_1.png" alt="Fig. 5.1" onclick="openImageModal(this.src, 'Fig. 5.1: We begin our study by examining iron filings sprinkled on a sheet of glass place...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.1</strong> We begin our study by examining iron filings sprinkled on a sheet of glass placed over a short bar magnet. The arrangement of iron filings is shown in Fig. 5.1.</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 The pattern of iron filings suggests
 that the magnet has two poles similar to
@@ -108,7 +115,15 @@ a magnetic dipole.
 The pattern of iron filings permits us to plot
 the magnetic field lines*. This is shown both
 for the bar-magnet and the current-
-carrying solenoid in Fig. 5.2. For
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch05_magnetism_and_matter_fig_5_2.png" alt="Fig. 5.2" onclick="openImageModal(this.src, 'Fig. 5.2: The pattern of iron filings permits us to plot the magnetic field lines*. This i...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.2</strong> The pattern of iron filings permits us to plot the magnetic field lines*. This is shown both for the bar-magnet and the current- carrying solenoid in Fig. 5.2. For comparison refer to the Chapter 1, Figure 1.14(d). Electric field lines of an electric dipole are also displayed in Fig. 5.2(c). The magnetic field lines are a visual and intuitive realisation of the magnetic field. Their properties are: (i) The magnetic field lines of a magnet (or a solenoid) form continuous closed loops. This is unlike the electric dipole where these field lines begin from a positive charge and end on the negative charge or escape to infinity.</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 comparison refer to the Chapter 1, Figure 1.14(d). Electric field lines of an
 electric dipole are also displayed in Fig. 5.2(c). The magnetic field lines are a
 visual and intuitive realisation of the magnetic field. Their properties are:
@@ -125,7 +140,7 @@ the field lines in magnetism do not indicate the direction of the force on a
 
 137
 
-Reprint 2026-27
+
 
 
 ---
@@ -159,15 +174,14 @@ FIGURE 5.2 The field lines of (a) a bar magnet, (b) a current-carrying finite so
 
 dipole. At large distances, the field lines are ve-carryi
 
-Ο
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch05_magnetism_and_matter_fig_5_3.png" alt="Fig. 5.3" onclick="openImageModal(this.src, 'Fig. 5.3: FIGURE 5.3 Calculation of (a) The axial field of a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.3</strong> FIGURE 5.3 Calculation of (a) The axial field of a</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
-dx
-
-labelled i and ii are
-
-B
-
-FIGURE 5.3 Calculation of (a) The axial field of a
 finite solenoid in order to demonstrate its
 similarity to that of a bar magnet. (b) A magnetic
 needle in a uniform magnetic field B. The
@@ -208,7 +222,7 @@ mentioned Ampere's hypothesis that all
 magnetic phenomena can be explained in
 terms of circulating currents.
 
-Reprint 2026-27
+
 
 E
 
@@ -312,7 +326,7 @@ EXAMPLE 5.1
 
 139
 
-Reprint 2026-27
+
 
 
 ---
@@ -403,7 +417,7 @@ BA =
 
 Likewise, the axial field (B^) of a bar magnet for r>> lis:
 
-Reprint 2026-27
+
 
 (5.4)
 
@@ -424,24 +438,15 @@ Dipole moment
 TABLE 5.1 THE DIPOLE ANALOGY
 
 Equatorial Field for a short dipole
-Axial Field for a short dipole
 
-External Field: torque
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch05_magnetism_and_matter_fig_5_4.png" alt="Fig. 5.4" onclick="openImageModal(this.src, 'Fig. 5.4: Example 5.2 Figure 5.4 shows a small magnetised needle P placed at a point O. Th...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.4</strong> Example 5.2 Figure 5.4 shows a small magnetised needle P placed at a point O. The arrow shows the direction of its magnetic moment. The other arrows show different positions (and orientations of the magnetic moment) of another identical magnetised needle Q. (a) In which configuration the system is not in equilibrium? (b) In which configuration is the system in (i) stable, and (ii) unstable</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
-External Field: Energy
-
-Electrostatics
-
-1/80
-
-P
-
--p/4περί
-2p/4περ³
-pxE
--p-E
-
-Example 5.2 Figure 5.4 shows a small magnetised needle P placed
 at a point O. The arrow shows the direction of its magnetic moment.
 The other arrows show different positions (and orientations of the
 magnetic moment) of another identical magnetised needle Q.
@@ -515,7 +520,7 @@ where mp is the magnetic moment of the dipole P.
 Equilibrium is stable when mo is parallel to Bp, and unstable when it
 is anti-parallel to Bp.
 
-Reprint 2026-27
+
 
 EXAMPLE 5.2
 
@@ -591,9 +596,13 @@ B
 
 KARL FRIEDRICH GAUSS (1777 – 1855)
 
-no
-
-FIGURE 5.5
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch05_magnetism_and_matter_fig_5_5.png" alt="Fig. 5.5" onclick="openImageModal(this.src, 'Fig. 5.5: FIGURE 5.5...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.5</strong> FIGURE 5.5</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
 Consider a small vector area element AS of a closed surface S as in
 
@@ -621,7 +630,7 @@ q
 
 Εο
 
-Reprint 2026-27
+
 
 
 ---
@@ -643,7 +652,16 @@ Thus, Gauss's law for magnetism is:
 
 The net magnetic flux through any closed surface is zero.
 
-Example 5.3 Many of the diagrams given in Fig. 5.6 show magnetic
+Example 5.3 Many of the diagrams given in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch05_magnetism_and_matter_fig_5_6.png" alt="Fig. 5.6" onclick="openImageModal(this.src, 'Fig. 5.6: Example 5.3 Many of the diagrams given in Fig. 5.6 show magnetic field lines (th...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.6</strong> Example 5.3 Many of the diagrams given in Fig. 5.6 show magnetic field lines (thick lines in the figure) wrongly. Point out what is wrong with them. Some of them may describe electrostatic field lines correctly. Point out which ones.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 field lines (thick lines in the figure) wrongly. Point out what is wrong
 with them. Some of them may describe electrostatic field lines correctly.
 Point out which ones.
@@ -671,7 +689,7 @@ NS
 
 FIGURE 5.6
 
-Reprint 2026-27
+
 
 EXAMPLE 5.3
 
@@ -753,7 +771,7 @@ magnetism be modified?
 Does one element of a current-carrying wire exert a force on another
 element of the same wire?
 
-Reprint 2026-27
+
 
 
 ---
@@ -846,7 +864,7 @@ net B field in the interior of the solenoid may be expressed as
 
 B = B + Bm
 
-Reprint 2026-27
+
 
 (5.9)
 
@@ -943,7 +961,7 @@ permeability 400. The windings of the solenoid are insulated from the
 core and carry a current of 2A. If the number of turns is 1000 per
 metre, calculate (a) H, (b) M, (c) B and (d) the magnetising current Im
 
-Reprint 2026-27
+
 
 
 ---
@@ -1029,7 +1047,14 @@ stronger to the weaker part of the external magnetic field. In other words,
 unlike the way a magnet attracts metals like iron, it would repel a
 diamagnetic substance.
 
-Figure 5.7(a) shows a bar of diamagnetic material placed in an external
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch05_magnetism_and_matter_fig_5_7.png" alt="Fig. 5.7" onclick="openImageModal(this.src, 'Fig. 5.7: Figure 5.7(a) shows a bar of diamagnetic material placed in an external magnetic...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.7</strong> Figure 5.7(a) shows a bar of diamagnetic material placed in an external magnetic field. The field lines are repelled or expelled and the field inside the material is reduced. In most cases, this reduction is slight, being one part in 105. When placed in a non-uniform magnetic field, the bar will tend to move from high to low field.</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
 magnetic field. The field lines are repelled or expelled and the field inside
 the material is reduced. In most cases, this reduction is slight, being one
 part in 105. When placed in a non-uniform magnetic field, the bar will tend
@@ -1049,7 +1074,7 @@ substance.
 
 147
 
-Reprint 2026-27
+
 
 
 ---
@@ -1113,7 +1138,7 @@ at which point all the dipoles are perfectly aligned with the field.
 
 148
 
-Reprint 2026-27
+
 
 
 ---
@@ -1138,7 +1163,15 @@ mechanics and is beyond the scope of this textbook. Each domain has a
 net magnetisation. Typical domain size is 1mm and the domain contains
 about 10¹¹ atoms. In the first instant, the magnetisation varies randomly
 from domain to domain and there is no bulk magnetisation. This is shown
-in Fig. 5.8(a). When we apply an external magnetic field Bo, the domains
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch05_magnetism_and_matter_fig_5_8.png" alt="Fig. 5.8" onclick="openImageModal(this.src, 'Fig. 5.8: The individual atoms (or ions or molecules) in a ferromagnetic material possess ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.8</strong> The individual atoms (or ions or molecules) in a ferromagnetic material possess a dipole moment as in a paramagnetic material. However, they interact with one another in such a way that they spontaneously align themselves in a common direction over a macroscopic volume called domain. The explanation of this cooperative effect requires quantum mechanics and is beyond the scope of this textbook. Each domain has a net magnetisation. Typical domain size is 1mm and the domain contains about 1011 atoms. In the first instant, the magnetisation varies randomly from domain to domain and there is no bulk magnetisation. This is shown in Fig. 5.8(a). When we apply an external magnetic field B0, the domains orient themselves in the direction of B0 and simultaneously the domain oriented in the direction of B0 grow in size. This existence of domains and their motion in B0 are not speculations. One may observe this under a microscope after sprinkling a liquid suspension of powdered ferromagnetic substance of samples. This motion of suspension can be observed. Fig. 5.8(b) shows the situation when the domains have aligned and amalgamated to form a single ‘giant’ domain.</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
+
 orient themselves in the direction of B and simultaneously the domain
 oriented in the direction of B grow in size. This existence of domains and
 their motion in Bo are not speculations. One may observe this under a
@@ -1183,7 +1216,7 @@ SUMMARY
 ### 1. The science of magnetism is old. It has been known since ancient times
 that magnetic materials tend to point in the north-south direction; like
 
-Reprint 2026-27
+
 
 149
 
@@ -1281,7 +1314,7 @@ materials have large x.
 8. Substances, which at room temperature, retain their ferromagnetic
 property for a long period of time are called permanent magnets.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1449,7 +1482,7 @@ diamagnetic materials x = −10-5 whereas x = +10¯5 for paramagnetic
 
 materials.
 
-Reprint 2026-27
+
 
 151
 
@@ -1485,9 +1518,7 @@ which are exotic and mysterious.
 
 ### 5.3
 
-### 5.4
-
-EXERCISES she
+### 5.4 EXERCISES she
 
 A short bar magnet placed with its axis at 30° with a uniform external
 magnetic field of 0.25 T experiences a torque of magnitude equal to
@@ -1500,9 +1531,7 @@ magnet in each case?
 
 notot
 
-### 5.6
-
-A closely wound solenoid of 800 turns and area of cross section
+### 5.6 A closely wound solenoid of 800 turns and area of cross section
 2.5 × 10¯² m² carries a current of 3.0 A. Explain the sense in which
 the solenoid acts like a bar magnet. What is its associated magnetic
 moment?
@@ -1524,7 +1553,7 @@ A closely wound solenoid of 2000 turns and area of cross-section
 1.6 × 104m², carrying a current of 4.0 A, is suspended through its
 centre allowing it to turn in a horizontal plane.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1547,9 +1576,9 @@ at a distance of 10 cm from the centre of the magnet on (a) the axis,
 
 © NCERT
 
-not to be republished
 
-Reprint 2026-27
+
+
 
 153
 

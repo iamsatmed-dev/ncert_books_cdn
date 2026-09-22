@@ -9,11 +9,9 @@ CHAPTER THREE
 
 MOTION IN A PLANE
 
-11086CH04
 
-### 3.1
 
-Introduction
+### 3.1 Introduction
 
 ### 3.2 Scalars and vectors
 3.3 Multiplication of vectors by
@@ -80,7 +78,7 @@ time at which a certain event happened. The rules for
 combining scalars are the rules of ordinary algebra.
 Scalars can be added, subtracted, multiplied and divided
 
-Reprint 2026-27
+
 
 
 ---
@@ -135,7 +133,16 @@ Position and Displacement Vectors
 To describe the position of an object moving in
 a plane, we need to choose a convenient point,
 say O as origin. Let P and P' be the positions of
-the object at time tand t, respectively [Fig. 3.1(a)].
+the object at time tand t, respectively [
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_1.png" alt="Fig. 3.1" onclick="openImageModal(this.src, 'Fig. 3.1: To describe the position of an object moving in a plane, we need to choose a con...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.1</strong> To describe the position of an object moving in a plane, we need to choose a convenient point, say O as origin. Let P and P′ be the positions of the object at time t and t′, respectively [Fig. 3.1(a)]. We join O and P by a straight line. Then, OP is the position vector of the object at time t. An arrow is marked at the head of this line. It is represented by a symbol r, i.e. OP = r. Point P′ is</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 We join O and P by a straight line. Then, OP is
 the position vector of the object at time t. An
 arrow is marked at the head of this line. It is
@@ -215,9 +222,15 @@ Equality of Vectors
 
 Two vectors A and B are said to be equal if, and
 only if, they have the same magnitude and the
-same direction.**
 
-Figure 3.2(a) shows two equal vectors A and
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_2.png" alt="Fig. 3.2" onclick="openImageModal(this.src, 'Fig. 3.2: Figure 3.2(a) shows two equal vectors A and B. We can easily check their equalit...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.2</strong> Figure 3.2(a) shows two equal vectors A and B. We can easily check their equality. Shift B parallel to itself until its tail Q coincides with that of A, i.e. Q coincides with O. Then, since their tips S and P also coincide, the two vectors are said to be equal. In general, equality is indicated</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 B. We can easily check their equality. Shift B
 parallel to itself until its tail Q coincides with that
 of A, i.e. Q coincides with O. Then, since their
@@ -231,7 +244,7 @@ and divide scalars of different units.
 unchanged. Such vectors are called free vectors. However, in some physical applications, location or line of
 application of a vector is important. Such vectors are called localised vectors.
 
-Reprint 2026-27
+
 
 
 ---
@@ -291,7 +304,16 @@ of A:
 For example, if A is multiplied by 2, the resultant
 vector 2A is in the same direction as A and has
 
-a magnitude twice of |A| as shown in Fig. 3.3(a).
+a magnitude twice of |A| as shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_3.png" alt="Fig. 3.3" onclick="openImageModal(this.src, 'Fig. 3.3: For example, if A is multiplied by 2, the resultant vector 2A is in the same dir...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.3</strong> For example, if A is multiplied by 2, the resultant vector 2A is in the same direction as A and has a magnitude twice of |A| as shown in Fig. 3.3(a).</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 Multiplying a vector A by a negative number
 - gives another vector whose direction is
 opposite to the direction of A and whose
@@ -319,7 +341,15 @@ definition, obey the triangle law or equivalently,
 the parallelogram law of addition. We shall now
 describe this law of addition using the graphical
 method. Let us consider two vectors A and B that
-lie in a plane as shown in Fig. 3.4(a). The lengths
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_4.png" alt="Fig. 3.4" onclick="openImageModal(this.src, 'Fig. 3.4: As mentioned in section 4.2, vectors, by definition, obey the triangle law or eq...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.4</strong> As mentioned in section 4.2, vectors, by definition, obey the triangle law or equivalently, the parallelogram law of addition. We shall now describe this law of addition using the graphical method. Let us consider two vectors A and B that lie in a plane as shown in Fig. 3.4(a). The lengths of the line segments representing these vectors are proportional to the magnitude of the vectors. To find the sum A + B, we place vector B so that its tail is at the head of the vector A, as in Fig. 3.4(b). Then, we join the tail of A to the head of B. This line OQ represents a vector R, that is, the sum of the vectors A and B. Since, in this procedure of vector addition, vectors are</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 of the line segments representing these vectors
 are proportional to the magnitude of the vectors.
 To find the sum A + B, we place vector B so that
@@ -384,7 +414,7 @@ added graphically. (c) Vectors B and A
 added graphically. (d) Illustrating the
 associative law of vector addition.
 
-Reprint 2026-27
+
 
 
 ---
@@ -466,7 +496,15 @@ We can also use the parallelogram method to
 find the sum of two vectors. Suppose we have
 two vectors A and B. To add these vectors, we
 bring their tails to a common origin O as
-shown in Fig. 3.6(a). Then we draw a line from
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_6.png" alt="Fig. 3.6" onclick="openImageModal(this.src, 'Fig. 3.6: It is shown in Fig 3.5. The vector –B is added to vector A to get R2 = (A – B). ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.6</strong> It is shown in Fig 3.5. The vector –B is added to vector A to get R2 = (A – B). The vector R1 = A + B is also shown in the same figure for comparison. We can also use the parallelogram method to find the sum of two vectors. Suppose we have two vectors A and B. To add these vectors, we bring their tails to a common origin O as shown in Fig. 3.6(a). Then we draw a line from the head of A parallel to B and another line from the head of B parallel to A to complete a parallelogram OQSP. Now we join the point of the intersection of these two lines to the origin O. The resultant vector R is directed from the common origin O along the diagonal (OS) of the parallelogram [Fig. 3.6(b)]. In Fig.3.6(c), the triangle law is used to obtain the resultant of A and B and we see that the two methods yield the same result. Thus, the two methods are equivalent.</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 the head of A parallel to B and another line from
 the head of B parallel to A to complete a
 parallelogram OQSP. Now we join the point of
@@ -479,28 +517,17 @@ and B and we see that the two methods yield the
 same result. Thus, the two methods are
 equivalent.
 
-not to be.r
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_5.png" alt="Fig. 3.5" onclick="openImageModal(this.src, 'Fig. 3.5: Fig. 3.5 (a) Two vectors A and B, – B is also shown. (b) Subtracting vector B fr...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.5</strong> Fig. 3.5 (a) Two vectors A and B, – B is also shown. (b) Subtracting vector B from vector A – the result is R2. For</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
-(a)
-
-B
-
--B
-
-R₂=A-B
-
-A
-
--B
-
-(b)
-
-B
-
-Fig. 3.5 (a) Two vectors A and B, – B is also shown. (b) Subtracting vector B from vector A– the result is R₂. For
 comparison, addition of vectors A and B, i.e. R₁ is also shown.
 
-Reprint 2026-27
+
 
 
 ---
@@ -577,7 +604,16 @@ N
 
 Let a and b be any two non-zero vectors in a
 plane with different directions and let A be
-another vector in the same plane (Fig. 3.8). A
+another vector in the same plane (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_8.png" alt="Fig. 3.8" onclick="openImageModal(this.src, 'Fig. 3.8: Let a and b be any two non-zero vectors in a plane with different directions and...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.8</strong> Let a and b be any two non-zero vectors in a plane with different directions and let A be another vector in the same plane (Fig. 3.8). A can be expressed as a sum of two vectors — one obtained by multiplying a by a real number and the other obtained by multiplying b by another real number. To see this, let O and P be the tail and head of the vector A. Then, through O, draw a straight line parallel to a, and through P, a straight line parallel to b. Let them intersect at Q. Then, we have</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 can be expressed as a sum of two vectors – one
 obtained by multiplying a by a real number and
 the other obtained by multiplying b by another
@@ -585,13 +621,14 @@ real number. To see this, let O and P be the tail
 and head of the vector A. Then, through O, draw
 a straight line parallel to a, and through P, a
 straight line parallel to b. Let them intersect at
-Q. Then, we have
 
-ONCE
-
-S
-
-Fig. 3.7
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_7.png" alt="Fig. 3.7" onclick="openImageModal(this.src, 'Fig. 3.7: Fig. 3.7...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.7</strong> Fig. 3.7</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 vandvin
 
@@ -681,7 +718,7 @@ a andb.
 We say that A has been resolved into two
 component vectors λa and ub along a and b
 
-Reprint 2026-27
+
 
 
 ---
@@ -704,7 +741,14 @@ dimension and unit. It is used to specify a
 direction only. Unit vectors along the x-, y- and
 z-axes of a rectangular coordinate system are
 denoted by i, j and Ŕ, respectively, as shown
-in Fig. 3.9(a).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_9.png" alt="Fig. 3.9" onclick="openImageModal(this.src, 'Fig. 3.9: Fig. 3.9 (a) Unit vectors ɵi , ɵj and ɵk lie along the x-, y-, and z-axes. (b) A...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.9</strong> Fig. 3.9 (a) Unit vectors ɵi , ɵj and ɵk lie along the x-, y-, and z-axes. (b) A vector A is resolved into its</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 Since these are unit vectors, we have
 
@@ -865,7 +909,7 @@ Z
 Fig. 3.9 (a) Unit vectors î, j and ŕ lie along the x-, y-, and z-axes. (b) A vector A is resolved into its
 components A¸and A͵ along x-, and y- axes. (c) A₁ and Ą₂ expressed in terms of î and j.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1039,41 +1083,19 @@ angle between them.
 
 Note that angles α, β, and y are angles in space. They are between pairs of lines, which are not coplanar.
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 8
 
-34
-
-PHYSICS
-
-Q
-
-S
-
-R
-
-β
-
-M
-
-B
-
-θ
-
-α
-
-Ο
-
-A
-
-P
-
-N
-
-Fig. 3.10
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_10.png" alt="Fig. 3.10" onclick="openImageModal(this.src, 'Fig. 3.10: Fig. 3.10...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.10</strong> Fig. 3.10</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 Answer Let OP and OQ represent the two vectors
 A and B making an angle 0 (Fig. 3.10). Then,
@@ -1095,7 +1117,15 @@ resultant velocity of the boat.
 
 Answer The vector v representing the velocity
 of the motorboat and the vector v representing
-the water current are shown in Fig. 3.11 in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_11.png" alt="Fig. 3.11" onclick="openImageModal(this.src, 'Fig. 3.11: Answer The vector vb representing the velocity of the motorboat and the vector v...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.11</strong> Answer The vector vb representing the velocity of the motorboat and the vector vc representing the water current are shown in Fig. 3.11 in directions specified by the problem. Using the parallelogram method of addition, the resultant R is obtained in the direction shown in the figure.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 directions specified by the problem. Using the
 
 figure.
@@ -1193,7 +1223,7 @@ and Eq. (3.24d) as the Law of sines.
 In this section we shall see how to describe
 motion in two dimensions using vectors.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1205,7 +1235,14 @@ MOTION IN A PLANE
 
 The position vector r of a particle P located in a
 plane with reference to the origin of an x-y
-reference frame (Fig. 3.12) is given by
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_12.png" alt="Fig. 3.12" onclick="openImageModal(this.src, 'Fig. 3.12: The position vector r of a particle P located in a plane with reference to the o...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.12</strong> The position vector r of a particle P located in a plane with reference to the origin of an x-y reference frame (Fig. 3.12) is given by</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 r = x i+ y j
 
@@ -1365,41 +1402,17 @@ PP3
 
 Direction of v
 
-P
-
-r
-
-r3
-
-r
-
-Ο
-
-X
-
-X
-
-Ο
-
-(a)
-
-(b)
-
-X
-
-Ο
-
-(c)
-
-X
-
-(d)
-
-Fig. 3.13 As the time interval At approaches zero, the average velocity approaches the velocity v. The direction
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_13.png" alt="Fig. 3.13" onclick="openImageModal(this.src, 'Fig. 3.13: Fig. 3.13 As the time interval ∆t approaches zero, the average velocity approach...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.13</strong> Fig. 3.13 As the time interval ∆t approaches zero, the average velocity approaches the velocity v. The direction</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 of is parallel to the line tangent to the path.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1469,35 +1482,14 @@ dt
 
 = vxi + vyj.
 
-dx
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_14.png" alt="Fig. 3.14" onclick="openImageModal(this.src, 'Fig. 3.14: vx, vy and angle θ are shown in Fig. 3.14 for a velocity vector v at point p....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.14</strong> vx, vy and angle θ are shown in Fig. 3.14 for a velocity vector v at point p.</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
-dy
-
-where ux =
-
-dt'Uy =
-
-(3.30a)
-
-dt
-
-y
-
-Ο
-
-V
-
-Vyj
-
-P
-
-θ
-
-Vx 1
-
-X
-
-Fig. 3.14 The components v and vy of velocity v and
 the angle 0 it makes with x-axis. Note that
 v = v cos 0, v = v sin 0.
 
@@ -1648,7 +1640,16 @@ definition, the direction of average acceleration
 is the same as that of Av. We see that as At
 decreases, the direction of Av changes and
 consequently, the direction of the acceleration
-changes. Finally, in the limit At→0 [Fig. 3.15(d)],
+changes. Finally, in the limit At→0 [
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_15.png" alt="Fig. 3.15" onclick="openImageModal(this.src, 'Fig. 3.15: As in the case of velocity, we can understand graphically the limiting process u...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.15</strong> As in the case of velocity, we can understand graphically the limiting process used in defining acceleration on a graph showing the path of the object’s motion. This is shown in Figs. 3.15(a) to (d). P represents the position of the object at time t and P1, P2, P3 positions after time ∆t1, ∆t2, ∆t3, respectively (∆t 1> ∆t2>∆t3). The velocity vectors at points P, P1, P2, P3 are also shown in Figs. 3.15 (a), (b) and (c). In each case of ∆t, ∆v is obtained using the triangle law of vector addition. By definition, the direction of average acceleration is the same as that of ∆v. We see that as ∆t decreases, the direction of ∆v changes and consequently, the direction of the acceleration changes. Finally, in the limit ∆t g0 [Fig. 3.15(d)], the average acceleration becomes the instantaneous acceleration and has the direction as shown.</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 the average acceleration becomes the
 instantaneous acceleration and has the direction
 as shown.
@@ -1678,7 +1679,7 @@ dt dt
 
 dt2
 
-Reprint 2026-27
+
 
 
 ---
@@ -1860,7 +1861,7 @@ over this time interval t, the average velocity is
 (v + v)/2. The displacement is the average
 velocity multiplied by the time interval :
 
-Reprint 2026-27
+
 
 
 ---
@@ -1996,7 +1997,14 @@ In our discussion, we shall assume that the
 air resistance has negligible effect on the motion
 of the projectile. Suppose that the projectile is
 launched with velocity v that makes an angle
-0 with the x-axis as shown in Fig. 3.16.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_16.png" alt="Fig. 3.16" onclick="openImageModal(this.src, 'Fig. 3.16: In our discussion, we shall assume that the air resistance has negligible effect...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.16</strong> In our discussion, we shall assume that the air resistance has negligible effect on the motion of the projectile. Suppose that the projectile is launched with velocity vo that makes an angle θo with the x-axis as shown in Fig. 3.16.</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 0
 
@@ -2026,7 +2034,7 @@ oy
 
 (3.36)
 
-Reprint 2026-27
+
 
 
 ---
@@ -2046,7 +2054,14 @@ Now, since g, 0 and v are constants, Eq. (3.39)
 is of the form y = a x + b x², in which a and bare
 constants. This is the equation of a parabola,
 i.e. the path of the projectile is a parabola
-(Fig. 3.17).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_17.png" alt="Fig. 3.17" onclick="openImageModal(this.src, 'Fig. 3.17: Equation (3.37) gives the x-, and y-coordinates of the position of a projectile ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.17</strong> Equation (3.37) gives the x-, and y-coordinates of the position of a projectile at time t in terms of two parameters — initial speed vo and projection angle θo. Notice that the choice of mutually perpendicular x-, and y-directions for the analysis of the projectile motion has resulted in a simplification. One of the components of velocity, i.e. x-component remains constant throughout the motion and only the y- component changes, like an object in free fall in vertical direction. This is shown graphically at few instants in Fig. 3.17. Note that at the point of maximum height, vy= 0 and therefore,</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 ok
 
@@ -2232,7 +2247,7 @@ The horizontal distance travelled by a projectile from
 its initial position (x=y=0) to the position where it
 passes y = 0 during its fall is called the horizontal
 
-Reprint 2026-27
+
 
 
 ---
@@ -2439,12 +2454,20 @@ uniform circular motion. The word "uniform"
 refers to the speed, which is uniform (constant)
 throughout the motion. Suppose an object is
 moving with uniform speed vin a circle of radius
-Ras shown in Fig. 3.18. Since the velocity of the
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_18.png" alt="Fig. 3.18" onclick="openImageModal(this.src, 'Fig. 3.18: When an object follows a circular path at a constant speed, the motion of the ob...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.18</strong> When an object follows a circular path at a constant speed, the motion of the object is called uniform circular motion. The word “uniform” refers to the speed, which is uniform (constant) throughout the motion. Suppose an object is moving with uniform speed v in a circle of radius R as shown in Fig. 3.18. Since the velocity of the object is changing continuously in direction, the object undergoes acceleration. Let us find the magnitude and the direction of this acceleration.</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
+
 object is changing continuously in direction, the
 object undergoes acceleration. Let us find the
 magnitude and the direction of this acceleration.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2652,7 +2675,7 @@ Therefore, the centripetal acceleration a is :
 
 to V. Therefore, the acceleration is directed towards the centre, at each point of the circular path.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2786,7 +2809,7 @@ constant:
 a = & R = (0.44 s¯¹)2 (12 cm)
 = 2.3 cm s-2
 
-Reprint 2026-27
+
 
 
 ---
@@ -2924,7 +2947,7 @@ At
 
 as At tends to zero :
 
-Reprint 2026-27
+
 
 
 ---
@@ -3058,7 +3081,7 @@ The maximum height that a projectile attains is :
 
 :
 
-Reprint 2026-27
+
 
 
 ---
@@ -3256,7 +3279,7 @@ acceleration
 
 r
 
-Reprint 2026-27
+
 
 45
 
@@ -3346,7 +3369,7 @@ a+b | < |a| + |b|
 
 ||a|-|b||
 
-Reprint 2026-27
+
 
 
 ---
@@ -3382,7 +3405,15 @@ collinear?
 ### 3.8 Three girls skating on a circular ice ground of radius
 200 m start from a point Pon the edge of the ground
 and reach a point Q diametrically opposite to Pfollowing
-different paths as shown in Fig. 3.19. What is the
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_19.png" alt="Fig. 3.19" onclick="openImageModal(this.src, 'Fig. 3.19: 3.8 Three girls skating on a circular ice ground of radius 200 m start from a po...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.19</strong> 3.8 Three girls skating on a circular ice ground of radius 200 m start from a point P on the edge of the ground and reach a point Q diametrically opposite to P following different paths as shown in Fig. 3.19. What is the magnitude of the displacement vector for each ? For which girl is this equal to the actual length of path skate ?</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
+
 magnitude of the displacement vector for each? For
 which girl is this equal to the actual length of
 path skate?
@@ -3397,7 +3428,15 @@ Fig.
 
 ### 3.9 A cyclist starts from the centre O of of a circular park of radius 1 km, reaches the edge P
 of the park, then cycles along the circumference, and returns to the centre along QO
-as shown in Fig. 3.20. If the round trip takes 10 min, what is the (a) net displacement,
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_20.png" alt="Fig. 3.20" onclick="openImageModal(this.src, 'Fig. 3.20: 3.9 A cyclist starts from the centre O of a circular park of radius 1 km, reache...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.20</strong> 3.9 A cyclist starts from the centre O of a circular park of radius 1 km, reaches the edge P of the park, then cycles along the circumference, and returns to the centre along QO as shown in Fig. 3.20. If the round trip takes 10 min, what is the (a) net displacement, (b) average velocity, and (c) average speed of the cyclist ?</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
+
 (b) average velocity, and (c) average speed of the cyclist?
 
 of the
@@ -3430,7 +3469,7 @@ a ball thrown with a speed of 40 m s¹ can go without hitting the ceiling of the
 ### 3.13 A cricketer can throw a ball to a maximum horizontal distance of 100 m. How much
 high above the ground can the cricketer throw the same ball?
 
-Reprint 2026-27
+
 
 
 ---
@@ -3520,7 +3559,7 @@ A scalar quantity is one that
 a ground observation point by the aircraft positions 10.0 s a part is 30°, wat is the
 speed of the aircraft ?
 
-Reprint 2026-27
+
 
 PHYSICS
 

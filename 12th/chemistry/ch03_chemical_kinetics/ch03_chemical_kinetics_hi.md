@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-12087CH04
+
 
 एकक
 
@@ -94,7 +94,7 @@ not to beco
 व्युत्पत्ति ग्रीक भाषा के शब्द 'Kinesis' से हुई है जिसका अर्थ होता है गति।
 ऊष्मागतिकी केवल अभिक्रिया की संभाव्यता बताती है जबकि रासायनिक
 
-Reprint 2026-27
+
 
 
 ---
@@ -155,7 +155,7 @@ At = t2-t1
 
 Δ[P] = [P]2- [P]₁
 
-Reprint 2026-27
+
 
 
 ---
@@ -195,7 +195,23 @@ At
 अभिक्रिया वेग को धनात्मक मात्रा में प्राप्त करने के लिए इसे -1 से गुणा करते हैं।
 समीकरण 3.1 तथा 3.2 औसत अभिक्रिया वेग, rav को निरूपित करते हैं। औसत
 अभिक्रिया वेग अभिक्रियकों अथवा उत्पादों के सांद्रता परिवर्तन तथा परिवर्तन में प्रत्युक्त समय
-पर निर्भर करता है (चित्र 3.1)।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_1_hi.png" alt="
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_hi.png" alt="चित्र 3" onclick="openImageModal(this.src, 'चित्र 3: fp=k 3-1µ vfHkfØ;k dk rkR{kf.kd ,oa vkSlr osx...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3</strong> fp=k 3-1µ vfHkfØ;k dk rkR{kf.kd ,oa vkSlr osx</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
+<div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.1</strong> D;ksafd vfHkfØ;dksa dh lkanzrk ?kVrh gS vr% D[R] ,d ½.kkRed ek=kk gSA vfHkfØ;k osx dks èkukRed ek=kk esa izkIr djus osQ fy, bls –1 ls xq.kk djrs gSaA lehdj.k 3.1 rFkk 3.2 vkSlr vfHkfØ;k osx] rav dks fu:fir djrs gSaA vkSlr vfHkfØ;k osx vfHkfØ;dksa vFkok mRiknksa osQ lkanzrk ifjorZu rFkk ifjorZu esa izR;qDr le; ij fuHkZj djrk gS (fp=k 3.1)A</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 IPSIA 1946 1967 196ote
 
@@ -301,7 +317,7 @@ t
 
 -4
 
-Reprint 2026-27
+
 
 65
 
@@ -471,10 +487,15 @@ dt dt
 (3.3)
 
 इसे ग्राफ द्वारा, R अथवा P में से किसी के भी सांद्रता-समय वक्र पर स्पर्श रेखा खींच
-कर तथा उसके ढाल की गणना करके ज्ञात किया जा सकता है (चित्र 3.2)। उदाहरण 3.1
+कर तथा उसके ढाल की गणना करके ज्ञात किया जा सकता है (
 
-Reprint 2026-27
-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_2_hi.png" alt="चित्र 3.2" onclick="openImageModal(this.src, 'चित्र 3.2: –d[R] d[P] r d d = = t t bls xzkiQ }kjk] R vFkok P esa ls fdlh osQ Hkh lkanzrk&l...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.2</strong> –d[R] d[P] r d d = = t t bls xzkiQ }kjk] R vFkok P esa ls fdlh osQ Hkh lkanzrk&le; oØ ij Li'kZ js[kk [khap dj rFkk mlosQ <ky dh x.kuk djosQ Kkr fd;k tk ldrk gS (fp=k 3.2)A mnkgj.k 3.1</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 ---
 ## 📄 Page 5
@@ -597,7 +618,7 @@ At
 होते, उनके वेग को व्यक्त करने के लिए किसी भी अभिक्रियक की सांद्रता में कमी की
 67 रासायनिक बलगतिकी
 
-Reprint 2026-27
+
 
 
 ---
@@ -734,7 +755,7 @@ S
 
 रसायन विज्ञान 68
 
-Reprint 2026-27
+
 
 
 ---
@@ -801,7 +822,7 @@ a, b, c तथा d अभिक्रियकों एवं उत्पा�
 
 2 NO (g) + O2 (g) → 2NO2 (g)
 
-Reprint 2026-27
+
 
 69 रासायनिक बलगतिकी
 
@@ -917,7 +938,7 @@ not
 x एवं y इंगित करते हैं कि अभिक्रिया का वेग, A अथवा B के सांद्रता परिवर्तन से
 कैसे प्रभावित होता है। समीकरण 3.4 (क) में इन घातकों का योग x + y अभिक्रिया की
 
-Reprint 2026-27
+
 
 
 ---
@@ -1003,7 +1024,7 @@ X
 सांद्रता एवं समय की SI इकाई mol L¯¹ एवं s लेने पर विभिन्न अभिक्रियाओं के लिए
 k की इकाइयाँ सारणी 3.3 में दर्शायी गई हैं।
 
-Reprint 2026-27
+
 
 71 रासायनिक बलगतिकी
 
@@ -1128,7 +1149,7 @@ not to
 KCIO3 + 6FeSO4 + 3H2SO4 → KCl + 3Fe2(SO4)3 + 3H2O
 यह अभिक्रिया जो ऊपरी तौर से दशम कोटि की आभासित होती है, वास्तव में द्वितीय
 
-Reprint 2026-27
+
 
 
 ---
@@ -1194,7 +1215,7 @@ shed
 ### 3.4 अणु X का Y में रूपांतरण द्वितीय कोटि की बलगतिकी के अनुरूप होता है। यदि X की सांद्रता तीन गुनी कर
 दी जाए तो Y के निर्माण होने के वेग पर क्या प्रभाव पड़ेगा?
 
-Reprint 2026-27
+
 
 73 रासायनिक बलगतिकी
 
@@ -1253,19 +1274,13 @@ dt
 
 किसी मात्रा पर शून्य घातांक का मान इकाई होता है अतः
 
-not to be republished
-
-R की सांद्रता
-
-0
-
-[R]。
-
-k = - ढाल
-
-समय →
-
-चित्र 3.3- शून्य कोटि की अभिक्रिया
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_3_hi.png" alt="चित्र 3.3" onclick="openImageModal(this.src, 'चित्र 3.3: [R] = –k t + [R]0 (3.6) lehdj.k 3.6 ljy js[kk osQ lehdj.k y = mx + c osQ lerqY; ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.3</strong> [R] = –k t + [R]0 (3.6) lehdj.k 3.6 ljy js[kk osQ lehdj.k y = mx + c osQ lerqY; gSA ;fn ge [R] ,oa t osQ chp xzkiQ [khapsa rks ,d lhèkh js[kk izkIr gksrh gS (fp=k 3.3)A bl js[kk dk <ky = – k ,oa var% [kaM [R]0 osQ cjkcj gksrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 के लिए सांद्रता का समय
 
@@ -1307,7 +1322,7 @@ t
 
 रसायन विज्ञान 74
 
-Reprint 2026-27
+
 
 
 ---
@@ -1423,7 +1438,7 @@ ln[R]2 = – kt₂ + In[R]。
 
 रासायनिक बलगतिकी
 
-Reprint 2026-27
+
 
 
 ---
@@ -1455,23 +1470,14 @@ k=btn b
 
 समीकरण 3.9 को निम्न प्रकार से भी लिख सकते हैं-
 
-✓
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_4_hi.png" alt="चित्र 3.4" onclick="openImageModal(this.src, 'चित्र 3.4: – k t (3.14) lehdj.k 3.9 lehdj.k y = mx + c osQ lerqY; gS] ;fn ge ln [R] ,oa t o...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.4</strong> – k t (3.14) lehdj.k 3.9 lehdj.k y = mx + c osQ lerqY; gS] ;fn ge ln [R] ,oa t osQ eè; xzkiQ [khpsa (fp=k 3.4) rks gesa – <ky = – k okyh ljy js[kk izkIr gksrh gS rFkk var% [kaM dk eku ln [R]0 gksrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
-[R]
-
-In
-
-=-kt
-
-[R]。
-
-(3.13)
-
-0
-
-t
-
-चित्र 3.4- प्रथम कोटि की अभिक्रिया
 के लिए ln[R] एवं t के
 
 मध्य आलेख
@@ -1493,23 +1499,14 @@ t
 प्रथम कोटि के वेग समीकरण 3.10 को निम्न प्रकार से भी लिखा जा सकता है-
 
 ### 2.303 [R]。
-k =
-log
-[R]
 
-t
-
-(3.15)
-
-log ([R]/[R])
-
-0
-
-ढाल = k/2.303
-
-समय -
-
-चित्र 3.5- प्रथम कोटि की अभिक्रिया
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_5_hi.png" alt="चित्र 3.5" onclick="openImageModal(this.src, 'चित्र 3.5: 0 [R] log [R] ,oa t osQ eè; xzkiQ [khaps (fp=k 3.5) rks <ky = k/2.303 gksxkA...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.5</strong> 0 [R] log [R] ,oa t osQ eè; xzkiQ [khaps (fp=k 3.5) rks <ky = k/2.303 gksxkA</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
 के लिए log [R]/[R] एवं
 समय के मध्य आलेख
@@ -1558,7 +1555,7 @@ A(g) → B(g) + C(g)
 
 रसायन विज्ञान 76
 
-Reprint 2026-27
+
 
 
 ---
@@ -1600,9 +1597,7 @@ t2-t1
 
 [R]2
 
-### 2.303
-
-या
+### 2.303 या
 
 k =
 
@@ -1693,7 +1688,7 @@ t
 
 -
 
-Reprint 2026-27
+
 
 (3.16)
 
@@ -1737,9 +1732,7 @@ Reprint 2026-27
 वियोजित होकर N₂O₄(g) के दो मोल तथा O₂(g) का एक मोल देते हैं, N₂O₄(g) के दाब में
 2x atm की वृद्धि तथा O2(g) के दाब में xatm की वृद्धि होगी।
 
-### 2.303
-
-k =
+### 2.303 k =
 
 log Pi
 
@@ -1843,7 +1836,7 @@ t1/2
 
 (3.7)
 
-Reprint 2026-27
+
 
 
 ---
@@ -1880,9 +1873,7 @@ t1/2
 
 (3.16)
 
-### 2.303
-
-अथवा t =
+### 2.303 अथवा t =
 
 x log 2
 
@@ -1890,8 +1881,7 @@ x log 2
 
 k
 
-### 2.303
-k
+### 2.303 k
 
 × 0.301
 
@@ -1965,9 +1955,7 @@ t =
 
 t
 
-### 2.303
-
-t
+### 2.303 t
 6.909
 k
 
@@ -1997,7 +1985,7 @@ k
 
 = 10
 
-Reprint 2026-27
+
 
 79
 
@@ -2141,7 +2129,7 @@ C6H12O6 +
 C6H12O6
 फ्रक्टोज़
 
-Reprint 2026-27
+
 
 
 ---
@@ -2184,7 +2172,14 @@ k=Ae-Ea/RT
 (3.18)
 
 यहाँ A आर्रेनिअस गुणक अथवा आवृत्ति गुणक है। इसे पूर्व-चरघातांकी गुणक भी
-चित्र 3.6- मध्यवर्ती के द्वारा HI का कहते हैं। यह किसी विशिष्ट अभिक्रिया के लिए स्थिरांक होता है। R गैस स्थिरांक है तथा
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_6_hi.png" alt="चित्र 3.6" onclick="openImageModal(this.src, 'चित्र 3.6: H2 (g) + I2(g)  2HI (g) vkjsZfuvl osQ vuqlkj ;g vfHkfØ;k rHkh gks ldrh gS tc gk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.6</strong> H2 (g) + I2(g)  2HI (g) vkjsZfuvl osQ vuqlkj ;g vfHkfØ;k rHkh gks ldrh gS tc gkbMªkstu dk ,d v.kq vk;ksMhu osQ ,d v.kq ls la?kV~V dj ,d vLFkkbZ eè;orhZ dk fojpu djs (fp=k 3.6)A ;g eè;orhZ cgqr de le; rd vfLrRo esa jgrk gS rFkk VwVdj gkbMªkstu vk;ksMkbM osQ nks v.kqvksa dk fojpu djrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
 
 स्थितिज ऊर्जा
 
@@ -2238,19 +2233,20 @@ H₂ + L → 2HI
 
 81 रासायनिक बलगतिकी
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 20
 
-अणुओं का अंश →
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_8_hi.png" alt="चित्र 3.8" onclick="openImageModal(this.src, 'चित्र 3.8: tsEl DykoZQ eSDlosy us vfèkd la[;k esa v.kqvksa osQ O;ogkj dks izkxqDr djus osQ ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.8</strong> tsEl DykoZQ eSDlosy us vfèkd la[;k esa v.kqvksa osQ O;ogkj dks izkxqDr djus osQ fy, lkaf[;dh dk iz;ksx fd;kA buosQ vuqlkj xfrt ÅtkZ dk forj.k] (E ) ÅtkZ ls ;qDr v.kqvksa dh la[;k] (NE/NT) ,oa xfrt ÅtkZ osQ eè; oØ [khapdj fd;k tk ldrk gS (fp=k 3.8)A ;gk¡ NE , ÅtkZ E ls ;qDr v.kqvksa dh la[;k gS rFkk NT oqQy v.kqvksa dh la[;k gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
 
-अति संभाव्य गतिज ऊर्जा
-
-गतिज ऊर्जा
-
-चित्र 3.8- विभिन्न गैसीय अणुओं
 में ऊर्जा वितरण को
 प्रदर्शित करता वक्र
 
@@ -2269,7 +2265,15 @@ t
 वक्र का शीर्ष, अतिसंभाव्य गतिज ऊर्जा अर्थात् अणुओं के सर्वाधिक अंश की
 गतिज ऊर्जा के संगत होता है। इस गतिज ऊर्जा से कम अथवा अधिक ऊर्जा वाले अणुओं
 की संख्या कम होती जाती है। जब ताप बढ़ाया जाता है तो आलेख का शीर्ष अधिक
-ऊर्जा मान की ओर विस्थापित हो जाता है (चित्र 3.9) तथा वक्र का फैलाव दाहिनी
+ऊर्जा मान की ओर विस्थापित हो जाता है (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_9_hi.png" alt="चित्र 3.9" onclick="openImageModal(this.src, 'चित्र 3.9: oØ dk &#39;kh&quot;kZ] vfrlaHkkO; xfrt ÅtkZ vFkkZr~ v.kqvksa osQ lokZfèkd va&#39...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.9</strong> oØ dk 'kh"kZ] vfrlaHkkO; xfrt ÅtkZ vFkkZr~ v.kqvksa osQ lokZfèkd va'k dh xfrt ÅtkZ osQ laxr gksrk gSA bl xfrt ÅtkZ ls de vFkok vfèkd ÅtkZ okys v.kqvksa dh la[;k de gksrh tkrh gSA tc rki c<+k;k tkrk gS rks vkys[k dk 'kh"kZ vfèkd ÅtkZ eku dh vksj foLFkkfir gks tkrk gS (fp=k 3.9) rFkk oØ dk iSQyko nkfguh</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
 
 ओर बढ़ जाता है क्योंकि अत्यधिक ऊर्जा प्राप्त अणुओं का अनुपात
 बढ़ जाता है। वक्र के अंर्तगत क्षेत्रफल समान रहता है क्योंकि कुल
@@ -2323,7 +2327,14 @@ RT
 (3.19)
 
 Ink एवं 1/T के मध्य वक्र समीकरण 3.19 के अनुरूप सीधी रेखा होता है
-जिसे चित्र 3.10 में दर्शाया गया है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_10_hi.png" alt="चित्र 3.10" onclick="openImageModal(this.src, 'चित्र 3.10: lnk ,oa 1/T osQ eè; oØ lehdj.k 3.19 osQ vuq:i lhèkh js[kk gksrk gS ftls fp=k 3.1...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.10</strong> lnk ,oa 1/T osQ eè; oØ lehdj.k 3.19 osQ vuq:i lhèkh js[kk gksrk gS ftls fp=k 3.10 esa n'kkZ;k x;k gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
 
 आर्रेनिअस समीकरण 3.18 के अनुसार ताप में वृद्धि अथवा सक्रियण ऊर्जा में कमी
 से अभिक्रिया वेग में वृद्धि होगी तथा वेग स्थिरांक में चरघातांकी वृद्धि होगी।
@@ -2371,7 +2382,7 @@ RT₁
 
 रसायन विज्ञान 82
 
-Reprint 2026-27
+
 
 
 ---
@@ -2494,7 +2505,7 @@ blised
 अभिक्रियाओं को समान रूप से उत्प्रेरित करता है जिससे साम्यावस्था अपरिवर्तित रहती है परंतु
 शीघ्र स्थापित हो जाती हैं।
 
-Reprint 2026-27
+
 
 83 रासायनिक बलगतिकी
 
@@ -2612,7 +2623,7 @@ k₂ =
 
 6.36 × 10³ s
 
-Reprint 2026-27
+
 
 
 ---
@@ -2620,11 +2631,13 @@ Reprint 2026-27
 
 ### 3.5 रासायनिक
 
-अभिक्रिया का
-
-संघट्ट सिद्धांत
-
-चित्र 3.12- अणुओं का उपयुक्त एवं
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_12_hi.png" alt="चित्र 3.12" onclick="openImageModal(this.src, 'चित्र 3.12: mnkgj.kkFkZ] esFksukWy dk czkseks,Fksu ls fojpu vfHkfØ;dksa osQ vfHkfoU;kl ij fu...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.12</strong> mnkgj.kkFkZ] esFksukWy dk czkseks,Fksu ls fojpu vfHkfØ;dksa osQ vfHkfoU;kl ij fuHkZj djrk gSA bls fp=k 3.12 esa izn£'kr fd;k x;k gSA vfHkfØ;dksa osQ v.kqvksa dk mi;qDr vfHkfoU;kl caèk fuekZ.k dj mRikn fufeZr djrk gS rFkk vuqi;qDr vfHkfoU;kl gksus ij os osQoy nksckjk vyx&vyx gks tkrs gSa vkSj mRikn ugha curkA</span>
+    <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
+  </div>
+</div>
 
 यद्यपि आर्रेनियस समीकरण काफी विस्तृत परिस्थितियों में लागू होती है लेकिन संघट्टवाद जिसे
 मेक्स ट्राउट्ज तथा विलियम लुईस ने 1916-18 में प्रतिपादित किया था, अभिक्रिया की और्जिकी
@@ -2712,7 +2725,7 @@ H
 
 * देहली ऊर्जा = सक्रियण ऊर्जा + अभिक्रियक स्पीशीज़ की ऊर्जा
 
-Reprint 2026-27
+
 
 85 रासायनिक बलगतिकी
 
@@ -2766,7 +2779,7 @@ k = PZABE-Ea / RT में हो जाता है।
 
 रसायन विज्ञान 86
 
-Reprint 2026-27
+
 
 
 ---
@@ -2778,9 +2791,7 @@ Reprint 2026-27
 
 ### 3.2
 
-### 3.3
-
-निम्न अभिक्रियाओं के वेग व्यंजकों से इनकी अभिक्रिया कोटि तथा वेग स्थिरांकों की इकाइयाँ ज्ञात कीजिए।
+### 3.3 निम्न अभिक्रियाओं के वेग व्यंजकों से इनकी अभिक्रिया कोटि तथा वेग स्थिरांकों की इकाइयाँ ज्ञात कीजिए।
 (i) 3NO(g) → N₂O (g)
 
 (ii) H2O2 (aq) + 3Г (aq)+ 2H* → 2H2O (l) + I₃
@@ -2865,7 +2876,7 @@ t/s
 
 (iii) A तथा B दोनों की सांद्रता दुगुनी करने से वेग पर क्या प्रभाव पड़ेगा?
 
-Reprint 2026-27
+
 
 60
 
@@ -3038,7 +3049,7 @@ mol L-1
 
 रसायन विज्ञान 88
 
-Reprint 2026-27
+
 
 
 ---
@@ -3159,7 +3170,7 @@ k = (4.5 × 10¹¹ s¯¹) e-28000K/T
 
 S
 
-Reprint 2026-27
+
 
 89 रासायनिक बलगतिकी
 
@@ -3208,9 +3219,9 @@ log k = 14.34 – 1.25 × 10*K/T
 
 © NCERT
 
-not to be republished
+
 
 रसायन विज्ञान 90
 
-Reprint 2026-27
+
 

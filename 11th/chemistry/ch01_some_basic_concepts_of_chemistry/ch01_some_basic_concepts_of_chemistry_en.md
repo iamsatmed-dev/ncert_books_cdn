@@ -7,7 +7,7 @@
 
 UNIT 1
 
-11082CH01
+
 
 SOME BASIC CONCEPTS OF CHEMISTRY
 
@@ -127,7 +127,7 @@ Modern chemistry took shape in the 18th century Europe,
 after a few centuries of alchemical traditions which were
 introduced in Europe by the Arabs.
 
-Reprint 2026-27
+
 
 
 ---
@@ -247,7 +247,7 @@ with various resins. It will be interesting to
 test such materials scientifically and assess
 them for use.
 
-Reprint 2026-27
+
 
 
 ---
@@ -362,7 +362,7 @@ how physical properties of matter can be
 quantitatively described using numerical
 values with suitable units.
 
-Reprint 2026-27
+
 
 
 ---
@@ -453,7 +453,14 @@ You are aware that matter can exist in three
 physical states viz. solid, liquid and gas.
 The constituent particles of matter in these
 three states can be represented as shown in
-Fig. 1.1.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch01_some_basic_concepts_of_chemistry_fig_1_1.png" alt="Fig. 1.1" onclick="openImageModal(this.src, 'Fig. 1.1: 1.2.1 States of Matter You are aware that matter can exist in three physical sta...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.1</strong> 1.2.1 States of Matter You are aware that matter can exist in three physical states viz. solid, liquid and gas. The constituent particles of matter in these three states can be represented as shown in Fig. 1.1.</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 Particles are held very close to each other
 in solids in an orderly fashion and there is not
@@ -484,7 +491,7 @@ not have definite shape. They take the
 shape of the container in which they are
 placed.
 
-Reprint 2026-27
+
 
 
 ---
@@ -544,7 +551,14 @@ In Class IX (Chapter 2), you have learnt that
 at the macroscopic or bulk level, matter can
 be classified as mixture or pure substance.
 These can be further sub-divided as shown
-in Fig. 1.2.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch01_some_basic_concepts_of_chemistry_fig_1_2.png" alt="Fig. 1.2" onclick="openImageModal(this.src, 'Fig. 1.2: In Class IX (Chapter 2), you have learnt that at the macroscopic or bulk level, ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.2</strong> In Class IX (Chapter 2), you have learnt that at the macroscopic or bulk level, matter can be classified as mixture or pure substance. These can be further sub-divided as shown in Fig. 1.2.</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 When all constituent particles of a
 substance are same in chemical nature, it
@@ -611,7 +625,7 @@ of an element consist of only one type of
 atoms. These particles may exist as atoms or
 molecules. You may be familiar with atoms
 
-Reprint 2026-27
+
 
 
 ---
@@ -635,7 +649,15 @@ molecules which are formed by two or more
 atoms. For example, hydrogen, nitrogen and
 oxygen gases consist of molecules, in which
 two atoms combine to give their respective
-molecules. This is illustrated in Fig. 1.3.
+molecules. This is illustrated in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch01_some_basic_concepts_of_chemistry_fig_1_3.png" alt="Fig. 1.3" onclick="openImageModal(this.src, 'Fig. 1.3: and molecules from the previous classes; however, you will be studying about the...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.3</strong> and molecules from the previous classes; however, you will be studying about them in detail in Unit 2. Sodium, copper, silver, hydrogen, oxygen, etc., are some examples of elements. Their all atoms are of one type. However, the atoms of different elements are different in nature. Some elements, such as sodium or copper, contain atoms as their constituent particles, whereas, in some others, the constituent particles are molecules which are formed by two or more atoms. For example, hydrogen, nitrogen and oxygen gases consist of molecules, in which two atoms combine to give their respective molecules. This is illustrated in Fig. 1.3.</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 H
 
@@ -680,7 +702,15 @@ by physical methods. They can be separated
 by chemical methods. Examples of some
 compounds are water, ammonia, carbon
 dioxide, sugar, etc. The molecules of water
-and carbon dioxide are represented in Fig. 1.4.
+and carbon dioxide are represented in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch01_some_basic_concepts_of_chemistry_fig_1_4.png" alt="Fig. 1.4" onclick="openImageModal(this.src, 'Fig. 1.4: When two or more atoms of different elements combine together in a definite rati...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.4</strong> When two or more atoms of different elements combine together in a definite ratio, the molecule of a compound is obtained. Moreover, the constituents of a compound cannot be separated into simpler substances by physical methods. They can be separated by chemical methods. Examples of some compounds are water, ammonia, carbon dioxide, sugar, etc. The molecules of water and carbon dioxide are represented in Fig. 1.4.</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 Note that a water molecule comprises
 two hydrogen atoms and one oxygen atom.
@@ -716,9 +746,7 @@ burns with a pop sound and oxygen is a
 supporter of combustion, but water is used
 as a fire extinguisher.
 
-### 1.3
-
-PROPERTIES OF MATTER AND
+### 1.3 PROPERTIES OF MATTER AND
 THEIR MEASUREMENT
 
 ### 1.3.1 Physical and chemical properties
@@ -747,7 +775,7 @@ physical and chemical properties, which are
 determined by careful measurement and
 experimentation. In the following section, we
 
-Reprint 2026-27
+
 
 
 ---
@@ -909,7 +937,7 @@ Luminous
 
 intensity
 
-Reprint 2026-27
+
 
 
 ---
@@ -1023,7 +1051,7 @@ terms of h, c and AV
 
 Cs
 
-Reprint 2026-27
+
 
 
 ---
@@ -1153,7 +1181,13 @@ M
 
 Fig.
 
-Fig. 1.5
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch01_some_basic_concepts_of_chemistry_fig_1_5.png" alt="Fig. 1.5" onclick="openImageModal(this.src, 'Fig. 1.5: Fig. 1.5 Analytical balance...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.5</strong> Fig. 1.5 Analytical balance</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 Analytical balance
 
@@ -1231,8 +1265,13 @@ A common unit, litre (L) which is not an
 SI unit, is used for measurement of volume
 of liquids.
 
-1 L = 1000 mL, 1000 cm³ = 1 dm³
-Fig. 1.6 helps to visualise these relations.
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch01_some_basic_concepts_of_chemistry_fig_1_6.png" alt="Fig. 1.6" onclick="openImageModal(this.src, 'Fig. 1.6: Fig. 1.6 helps to visualise these relations....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.6</strong> Fig. 1.6 helps to visualise these relations.</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 Fig. 1.6
 
@@ -1255,7 +1294,7 @@ Volume: 1cm3
 Different units used to express
 volume
 
-Reprint 2026-27
+
 
 
 ---
@@ -1270,7 +1309,14 @@ or solutions can be measured by graduated
 cylinder, burette, pipette, etc. A volumetric
 flask is used to prepare a known volume of a
 solution. These measuring devices are shown
-in Fig. 1.7.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch01_some_basic_concepts_of_chemistry_fig_1_7.png" alt="Fig. 1.7" onclick="openImageModal(this.src, 'Fig. 1.7: In the laboratory, the volume of liquids or solutions can be measured by graduat...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.7</strong> In the laboratory, the volume of liquids or solutions can be measured by graduated cylinder, burette, pipette, etc. A volumetric flask is used to prepare a known volume of a solution. These measuring devices are shown in Fig. 1.7.</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
 mL
 
@@ -1327,7 +1373,15 @@ SI unit of density
 
 fahrenheit) and K (kelvin). Here, K is the
 SI unit. The thermometers based on these
-scales are shown in Fig. 1.8. Generally,
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch01_some_basic_concepts_of_chemistry_fig_1_8.png" alt="Fig. 1.8" onclick="openImageModal(this.src, 'Fig. 1.8: fahrenheit) and K (kelvin). Here, K is the SI unit. The thermometers based on th...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.8</strong> fahrenheit) and K (kelvin). Here, K is the SI unit. The thermometers based on these scales are shown in Fig. 1.8. Generally, the thermometer with celsius scale are calibrated from 0° to 100°, where these two temperatures are the freezing point and the boiling point of water, respectively. The fahrenheit scale is represented between 32° to 212°.</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 the thermometer with celsius scale are
 calibrated from 0° to 100°, where these two
 temperatures are the freezing point and
@@ -1431,7 +1485,7 @@ has to deal with experimental data as well as
 theoretical calculations. There are meaningful
 ways to handle the numbers conveniently and
 
-Reprint 2026-27
+
 
 
 ---
@@ -1545,7 +1599,7 @@ While performing mathematical operations
 on numbers expressed in scientific notations,
 the following points are to be kept in mind.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1673,7 +1727,7 @@ notation. We can express the number
 1.0×102 for two significant figures and
 1.00×102 for three significant figures.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1738,25 +1792,19 @@ Student A
 
 ### 1.93
 
-### 1.940
-
-Student B
+### 1.940 Student B
 
 ### 1.94
 
 ### 2.05
 
-### 1.995
-
-Student C
+### 1.995 Student C
 
 ### 2.01
 
 ### 1.99
 
-### 2.000
-
-Addition and Subtraction of
+### 2.000 Addition and Subtraction of
 
 Significant Figures
 
@@ -1836,7 +1884,7 @@ Example
 A piece of metal is 3 inch (represented by in)
 long. What is its length in cm?
 
-Reprint 2026-27
+
 
 
 ---
@@ -2038,7 +2086,7 @@ measurement of masses of reactants and
 products, and carefully planned experiments
 performed by Lavoisier.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2170,7 +2218,14 @@ two volumes of hydrogen combine with one
 volume of oxygen to give two volumes of water
 without leaving any unreacted oxygen.
 
-Note that in the Fig. 1.9 (Page 16) each
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch01_some_basic_concepts_of_chemistry_fig_1_9.png" alt="Fig. 1.9" onclick="openImageModal(this.src, 'Fig. 1.9: Note that in the Fig. 1.9 (Page 16) each box contains equal number of molecules....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.9</strong> Note that in the Fig. 1.9 (Page 16) each box contains equal number of molecules. In fact, Avogadro could explain the above result by considering the molecules to be polyatomic. If hydrogen and oxygen were considered as diatomic as recognised now, then the above results are easily understandable. However, Dalton and others believed at that time that atoms of the same kind</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
+
 box contains equal number of
 molecules. In fact, Avogadro
 could explain the above result
@@ -2191,7 +2246,7 @@ Quareqa edi
 Carreto
 (1776-1856)
 
-Reprint 2026-27
+
 
 
 ---
@@ -2254,9 +2309,7 @@ Cannizaro presented a sketch of a course of
 chemical philosophy, which emphasised on
 the importance of Avogadro's work.
 
-### 1.6
-
-DALTON'S ATOMIC THEORY
+### 1.6 DALTON'S ATOMIC THEORY
 
 Although the origin of the idea that matter is
 composed of small indivisible particles called
@@ -2332,7 +2385,7 @@ mass unit is defined as a mass exactly equal
 to one-twelfth of the mass of one carbon - 12
 atom.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2422,7 +2475,14 @@ do not contain discrete molecules as their
 constituent units. In such compounds,
 positive (sodium ion) and negative (chloride ion)
 entities are arranged in a three-dimensional
-structure, as shown in Fig. 1.10.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch01_some_basic_concepts_of_chemistry_fig_1_10.png" alt="Fig. 1.10" onclick="openImageModal(this.src, 'Fig. 1.10: 1.7.4 Formula Mass Some substances, such as sodium chloride, do not contain disc...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.10</strong> 1.7.4 Formula Mass Some substances, such as sodium chloride, do not contain discrete molecules as their constituent units. In such compounds, positive (sodium ion) and negative (chloride ion) entities are arranged in a three-dimensional structure, as shown in Fig. 1.10.</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
 
 re
 
@@ -2475,7 +2535,7 @@ calculate the formula mass instead of
 molecular mass as in the solid state sodium
 chloride does not exist as a single entity.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2600,10 +2660,13 @@ of a particular element present in a compound
 is required. Suppose, an unknown or new
 compound is given to you, the first question
 
-Fig. 1.11 One mole of various substances
-
-Reprint 2026-27
-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch01_some_basic_concepts_of_chemistry_fig_1_11.png" alt="Fig. 1.11" onclick="openImageModal(this.src, 'Fig. 1.11: Fig. 1.11 One mole of various substances...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.11</strong> Fig. 1.11 One mole of various substances</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
 
 ---
 ## 📄 Page 19
@@ -2781,7 +2844,7 @@ Moles of chlorine =
 
 35.453 g
 
-Reprint 2026-27
+
 
 
 ---
@@ -2927,7 +2990,7 @@ chemical reaction. In such situations, one
 reactant is in more amount than the amount
 required by balanced chemical reaction. The
 
-Reprint 2026-27
+
 
 
 ---
@@ -3029,7 +3092,7 @@ All equations that have correct formulas for all reactants and products can be b
 remember that subscripts in formulas of reactants and products cannot be changed to balance
 an equation.
 
-Reprint 2026-27
+
 
 
 ---
@@ -3212,7 +3275,7 @@ is done as follows :
 17.0g NH3 (g)
 1 mol NH3 (g)
 
-Reprint 2026-27
+
 
 
 ---
@@ -3387,7 +3450,7 @@ of solvent (i.e., water) and have not done
 anything with respect to NaOH. But keep in
 mind the concentration.
 
-Reprint 2026-27
+
 
 
 ---
@@ -3510,7 +3573,7 @@ When the properties of a substance are studied, measurement is inherent. The
 quantification of properties requires a system of measurement and units in which the
 quantities are to be expressed. Many systems of measurement exist, of which the English
 
-Reprint 2026-27
+
 
 
 ---
@@ -3566,19 +3629,13 @@ Calculate the molar mass of the following:
 
 (i) H₂O (ii) CO2 (iii) CH₄
 
-### 1.2
-
-Calculate the mass per cent of different elements present in sodium sulphate
+### 1.2 Calculate the mass per cent of different elements present in sodium sulphate
 (Na2SO4).
 
-### 1.3
-
-Determine the empirical formula of an oxide of iron, which has 69.9% iron and
+### 1.3 Determine the empirical formula of an oxide of iron, which has 69.9% iron and
 30.1% dioxygen by mass.
 
-### 1.4
-
-Calculate the amount of carbon dioxide that could be produced when
+### 1.4 Calculate the amount of carbon dioxide that could be produced when
 
 (i)
 
@@ -3590,12 +3647,10 @@ Calculate the amount of carbon dioxide that could be produced when
 
 (iii) 2 moles of carbon are burnt in 16 g of dioxygen.
 
-### 1.5
-
-Calculate the mass of sodium acetate (CH3COONa) required to make 500 mL of
+### 1.5 Calculate the mass of sodium acetate (CH3COONa) required to make 500 mL of
 0.375 molar aqueous solution. Molar mass of sodium acetate is 82.0245 g mol-1.
 
-Reprint 2026-27
+
 
 25
 
@@ -3607,24 +3662,16 @@ Reprint 2026-27
 
 CHEMISTRY
 
-### 1.6
-
-Calculate the concentration of nitric acid in moles per litre in a sample which has
+### 1.6 Calculate the concentration of nitric acid in moles per litre in a sample which has
 a density, 1.41 g mL¯¹ and the mass per cent of nitric acid in it being 69%.
 
-### 1.7
+### 1.7 How much copper can be obtained from 100 g of copper sulphate (CuSO4)?
 
-How much copper can be obtained from 100 g of copper sulphate (CuSO4)?
-
-### 1.8
-
-Determine the molecular formula of an oxide of iron, in which the mass per cent of
+### 1.8 Determine the molecular formula of an oxide of iron, in which the mass per cent of
 
 iron and oxygen are 69.9 and 30.1, respectively.
 
-### 1.9
-
-Calculate the atomic mass (average) of chlorine using the following data:
+### 1.9 Calculate the atomic mass (average) of chlorine using the following data:
 
 % Natural Abundance
 
@@ -3642,9 +3689,7 @@ Molar Mass
 
 36.9659
 
-### 1.10
-
-In three moles of ethane (C₂H₄), calculate the following:
+### 1.10 In three moles of ethane (C₂H₄), calculate the following:
 
 (i)
 
@@ -3658,19 +3703,13 @@ Number of moles of hydrogen atoms.
 
 Number of molecules of ethane.
 
-### 1.11
-
-What is the concentration of sugar (C12H22O11) in mol L¯¹ if its 20 g are dissolved in
+### 1.11 What is the concentration of sugar (C12H22O11) in mol L¯¹ if its 20 g are dissolved in
 enough water to make a final volume up to 2L?
 
-### 1.12
-
-If the density of methanol is 0.793 kg L¯¹, what is its volume needed for making 2.5
+### 1.12 If the density of methanol is 0.793 kg L¯¹, what is its volume needed for making 2.5
 L of its 0.25 M solution?
 
-### 1.13
-
-Pressure is determined as force per unit area of the surface. The SI unit of pressure,
+### 1.13 Pressure is determined as force per unit area of the surface. The SI unit of pressure,
 
 pascal is as shown below:
 
@@ -3680,9 +3719,7 @@ If mass of air at sea level is 1034 g cm-², calculate the pressure in pascal.
 
 ### 1.14
 
-### 1.15
-
-What is the SI unit of mass? How is it defined?
+### 1.15 What is the SI unit of mass? How is it defined?
 
 Match the following prefixes with their multiples:
 
@@ -3718,13 +3755,9 @@ femto
 
 10
 
-### 1.16
+### 1.16 e republiseromang
 
-e republiseromang
-
-### 1.17
-
-What do you mean by significant figures?
+### 1.17 What do you mean by significant figures?
 
 A sample of drinking water was found to be severely contaminated with chloroform,
 CHCl3, supposed to be carcinogenic in nature. The level of contamination was 15
@@ -3757,9 +3790,7 @@ Express the following in the scientific notation:
 
 6.0012
 
-### 1.19
-
-How many significant figures are present in the following?
+### 1.19 How many significant figures are present in the following?
 
 (i)
 
@@ -3773,7 +3804,7 @@ How many significant figures are present in the following?
 
 5005
 
-Reprint 2026-27
+
 
 
 ---
@@ -3792,9 +3823,7 @@ SOME BASIC CONCEPTS OF CHEMISTRY
 
 ### 2.0034
 
-### 1.20
-
-Round up the following upto three significant figures:
+### 1.20 Round up the following upto three significant figures:
 
 (i)
 
@@ -3810,9 +3839,7 @@ Round up the following upto three significant figures:
 
 2808
 
-### 1.21
-
-The following data are obtained when dinitrogen and dioxygen react together to form
+### 1.21 The following data are obtained when dinitrogen and dioxygen react together to form
 different compounds:
 
 Mass of dinitrogen
@@ -3870,14 +3897,10 @@ kg =
 
 L =
 
-### 1.22
-
-If the speed of light is 3.0 × 108 m s¯¹, calculate the distance covered by light in
+### 1.22 If the speed of light is 3.0 × 108 m s¯¹, calculate the distance covered by light in
 2.00 ns.
 
-### 1.23
-
-In a reaction
+### 1.23 In a reaction
 
 A + B₂ → AB2
 
@@ -3897,9 +3920,7 @@ Identify the limiting reagent, if any,
 
 ### 2.5 mol A + 5 mol B
 
-### 1.24
-
-be republished
+### 1.24 be republished
 
 N₂ (g) + H₂ (g) → 2NH3 (g)
 
@@ -3919,18 +3940,12 @@ Will any of the two reactants remain unreacted?
 
 If yes, which one and what would be its mass?
 
-### 1.25
+### 1.25 How are 0.50 mol Na2CO3 and 0.50 M Na₂CO₃ different?
 
-How are 0.50 mol Na2CO3 and 0.50 M Na₂CO₃ different?
-
-### 1.26
-
-If 10 volumes of dihydrogen gas reacts with five volumes of dioxygen gas, how many
+### 1.26 If 10 volumes of dihydrogen gas reacts with five volumes of dioxygen gas, how many
 volumes of water vapour would be produced?
 
-### 1.27
-
-Convert the following into basic units:
+### 1.27 Convert the following into basic units:
 
 (i)
 
@@ -3942,7 +3957,7 @@ Convert the following into basic units:
 
 (iii) 25365 mg
 
-Reprint 2026-27
+
 
 27
 
@@ -3960,9 +3975,7 @@ CHEMISTRY
 
 ### 1.32
 
-### 1.28
-
-Which one of the following will have the largest number of atoms?
+### 1.28 Which one of the following will have the largest number of atoms?
 
 (i)
 
@@ -3980,9 +3993,7 @@ Which one of the following will have the largest number of atoms?
 
 ### 1.29
 
-### 1.30
-
-What will be the mass of one 12C atom in g?
+### 1.30 What will be the mass of one 12C atom in g?
 
 ### 1.31
 
@@ -4018,14 +4029,10 @@ Isotopic molar mass
 
 39.9624 g mol-¹
 
-### 1.33
-
-Calculate the number of atoms in each of the following (i) 52 moles of Ar (ii) 52 u of He
+### 1.33 Calculate the number of atoms in each of the following (i) 52 moles of Ar (ii) 52 u of He
 (iii) 52 g of He.
 
-### 1.34
-
-A welding fuel gas contains carbon and hydrogen only. Burning a small sample of it in
+### 1.34 A welding fuel gas contains carbon and hydrogen only. Burning a small sample of it in
 oxygen gives 3.38 g carbon dioxide, 0.690 g of water and no other products. A volume
 of 10.0 L (measured at STP) of this welding gas is found to weigh 11.6 g. Calculate
 (i) empirical formula, (ii) molar mass of the gas, and (iii) molecular formula.
@@ -4044,14 +4051,10 @@ Abundance
 
 99.600%
 
-### 1.35
-
-Calcium carbonate reacts with aqueous HCl to give CaCl₂ and CO₂ according to the
+### 1.35 Calcium carbonate reacts with aqueous HCl to give CaCl₂ and CO₂ according to the
 reaction, CaCO3 (s) + 2 HCl (aq) → CaCl₂ (aq) + CO2(g) + H₂O(1)
 
-### 1.36
-
-What mass of CaCO3 is required to react completely with 25 mL of 0.75 M HCl?
+### 1.36 What mass of CaCO3 is required to react completely with 25 mL of 0.75 M HCl?
 Chlorine is prepared in the laboratory by treating manganese dioxide (MnO2) with
 aqueous hydrochloric acid according to the reaction
 
@@ -4061,5 +4064,5 @@ How many grams of HCl react with 5.0 g of manganese dioxide?
 
 not to
 
-Reprint 2026-27
+
 

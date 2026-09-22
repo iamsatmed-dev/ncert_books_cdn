@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11080CH15
+
 
 13.1 Growth
 
@@ -51,7 +51,16 @@ differentiation. To begin with, it is essential and sufficient to know that the
 development of a mature plant from a zygote (fertilised egg) follow a precise
 and highly ordered succession of events. During this process a complex
 body organisation is formed that produces roots, leaves, branches, flowers,
-fruits, and seeds, and eventually they die (Figure 13.1). The first step in the
+fruits, and seeds, and eventually they die (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch13_plant_growth_and_development_fig_13_1.png" alt="Fig. 13.1" onclick="openImageModal(this.src, 'Fig. 13.1: You have already studied the organisation of a flowering plant in Chapter 5. Hav...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.1</strong> You have already studied the organisation of a flowering plant in Chapter 5. Have you ever thought about where and how the structures like roots, stems, leaves, flowers, fruits and seeds arise and that too in an orderly sequence? You are, by now, aware of the terms seed, seedling, plantlet, mature plant. You have also seen that trees continue to increase in height or girth over a period of time. However, the leaves, flowers and fruits of the same tree not only have limited dimensions but also appear and fall periodically and some time repeatedly. Why does vegetative phase precede flowering in a plant? All plant organs are made up of a variety of tissues; is there any relationship between the structure of a cell, a tissue, an organ and the function they perform? Can the structure and the function of these be altered? All cells of a plant are descendents of the zygote. The question is, then, why and how do they have different structural and functional attributes? Development is the sum of two processes: growth and differentiation. To begin with, it is essential and sufficient to know that the development of a mature plant from a zygote (fertilised egg) follow a precise and highly ordered succession of events. During this process a complex body organisation is formed that produces roots, leaves, branches, flowers, fruits, and seeds, and eventually they die (Figure 13.1). The first step in the process of plant growth is seed germination. The seed germinates when favourable conditions for growth exist in the environment. In absence of such favourable conditions the seeds do not germinate and goes into a period of suspended growth or rest. Once favourable conditions return, the seeds resume metabolic activities and growth takes place.</span>
+    <button class="icon-btn" onclick="goToPdfPage(1)">📄 View in PDF (Page 1)</button>
+  </div>
+</div>
+
 process of plant growth is seed germination. The seed germinates when
 favourable conditions for growth exist in the environment. In absence of
 such favourable conditions the seeds do not germinate and goes into a
@@ -64,7 +73,7 @@ In this chapter, you shall also study some of the factors which
 govern and control these developmental processes. These factors are both
 intrinsic (internal) and extrinsic (external) to the plant.
 
-Reprint 2025-26
+
 
 
 ---
@@ -120,7 +129,7 @@ happen?
 In earlier classes, you have studied about the root apical meristem
 and the shoot apical meristem. You know that they are responsible for
 
-Reprint 2025-26
+
 
 167
 
@@ -128,43 +137,27 @@ Reprint 2025-26
 ---
 ## 📄 Page 3
 
-168
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch13_plant_growth_and_development_fig_13_2.png" alt="Fig. 13.2" onclick="openImageModal(this.src, 'Fig. 13.2: the primary growth of the plants and principally contribute to the elongation of...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.2</strong> the primary growth of the plants and principally contribute to the elongation of the plants along their axis. You also know that in dicotyledonous plants and gymnosperms, the lateral meristems, vascular cambium and cork-cambium appear later in life. These are the meristems that cause the increase in the girth of the organs in which they are active. This is known as secondary growth of the plant (see Figure 13.2).</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
-BIOLOGY
-
-Shoot
-
-Root
-
-Shoot apical
-meristem
-
-Vascular
-cambium
-
-Vascular
-cambium
-
--Root apical
-
-meristem
-
-Figure 13.2 Diagrammatic representation of
 locations of root apical meristem,
 shoot aplical meristem and
 vascular cambium. Arrows exhibit
 the direction of growth of cells and
-organ
 
-be
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch13_plant_growth_and_development_fig_13_3.png" alt="Fig. 13.3" onclick="openImageModal(this.src, 'Fig. 13.3: The period of growth is generally divided into three phases, namely, meristemati...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.3</strong> The period of growth is generally divided into three phases, namely, meristematic, elongation and maturation (Figure 13.3). Let us understand this by looking at the root tips. The constantly dividing cells, both at the root apex and the shoot apex, represent the meristematic phase of growth. The cells in this region are rich in protoplasm, possess large conspicuous nuclei. Their cell walls are primary in nature, thin and cellulosic with abundant plasmodesmatal connections. The cells proximal (just next, away from the tip) to the</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
-GFE D C
-
-B
-
-A
-
-Figure 13.3 Detection of zones of elongation by
 the parallel line technique. Zones
 A, B, C, D immediately behind the
 apex have elongated most.
@@ -216,7 +209,7 @@ thin and cellulosic with abundant
 plasmodesmatal connections. The cells
 proximal (just next, away from the tip) to the
 
-Reprint 2025-26
+
 
 
 ---
@@ -253,11 +246,18 @@ all cells divide
 = Cells capable of division
 = Cells that lose capacity to divide
 
-Figure13.4 Diagrammatic representation of : (a) Arithmetic (b) Geometric growth and
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch13_plant_growth_and_development_fig_13_4.png" alt="Fig. 13.4" onclick="openImageModal(this.src, 'Fig. 13.4: Figure13.4 Diagrammatic representation of : (a) Arithmetic (b) Geometric growth ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.4</strong> Figure13.4 Diagrammatic representation of : (a) Arithmetic (b) Geometric growth and</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 (c) Stages during embryo development showing geometric and arithematic
 phases
 
-Reprint 2025-26
+
 
 169
 
@@ -265,15 +265,14 @@ Reprint 2025-26
 ---
 ## 📄 Page 5
 
-170
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch13_plant_growth_and_development_fig_13_5.png" alt="Fig. 13.5" onclick="openImageModal(this.src, 'Fig. 13.5: In arithmetic growth, following mitotic cell division, only one daughter cell co...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.5</strong> In arithmetic growth, following mitotic cell division, only one daughter cell continues to divide while the other differentiates and matures. The simplest expression of arithmetic growth is exemplified by a root elongating at a constant rate. Look at Figure 13.5. On plotting the length of the organ against time, a linear curve is obtained. Mathematically, it is expressed as</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
-BIOLOGY
-
-Height of the plant
-
-Time
-
-Figure 13.5 Constant linear growth, a plot
 of length L against time t
 
 Stationary phase
@@ -318,7 +317,15 @@ retain the ability to divide and continue to do so.
 However, with limited nutrient supply, the growth
 slows down leading to a stationary phase. If we plot
 the parameter of growth against time, we get a typical
-sigmoid or S-curve (Figure 13.6). A sigmoid curve
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch13_plant_growth_and_development_fig_13_6.png" alt="Fig. 13.6" onclick="openImageModal(this.src, 'Fig. 13.6: Let us now see what happens in geometrical growth. In most systems, the initial ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.6</strong> Let us now see what happens in geometrical growth. In most systems, the initial growth is slow (lag phase), and it increases rapidly thereafter – at an exponential rate (log or exponential phase). Here, both the progeny cells following mitotic cell division retain the ability to divide and continue to do so. However, with limited nutrient supply, the growth slows down leading to a stationary phase. If we plot the parameter of growth against time, we get a typical sigmoid or S-curve (Figure 13.6). A sigmoid curve is a characteristic of living organism growing in a natural environment. It is typical for all cells, tissues and organs of a plant. Can you think of more similar examples? What kind of a curve can you expect in a tree showing seasonal activities? The exponential growth can be expressed as</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 is
 is 
 a characteristic of living organism growing in a
@@ -368,7 +375,7 @@ measure of the ability of the plant to produce new
 plant material, referred to as efficiency index. Hence,
 the final size of W₁ depends on the initial size, W.
 
-Reprint 2025-26
+
 
 
 ---
@@ -376,37 +383,13 @@ Reprint 2025-26
 
 PLANT GROWTH AND DEVELOPMENT
 
-1
-
-A
-
-10 cm
-
-2
-
-5 cm
-
-2
-
-A
-
-B
-
-50 cm
-
-2
-
-1
-
-55 cm
-
-2
-
-B
-
-171
-
-Figure13.7 Diagrammatic comparison of absolute and
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch13_plant_growth_and_development_fig_13_7.png" alt="Fig. 13.7" onclick="openImageModal(this.src, 'Fig. 13.7: Quantitative comparisons between the growth of living system can also be made in...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.7</strong> Quantitative comparisons between the growth of living system can also be made in two ways : (i) measurement and the comparison of total growth per unit time is called the absolute growth rate. (ii) The growth of the given system per unit time expressed on a common basis, e.g., per unit initial parameter is called the relative growth rate. In Figure 13.7 two leaves, A and B, are drawn that are of different sizes but shows absolute increase in area in the given time to give leaves, A1 and B1. However, one of them shows much higher relative growth rate. Which one and why?</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 ive growth rates
 
@@ -443,7 +426,7 @@ best suited for its growth. Any deviation from this range could be
 detrimental to its survival. Environmental signals such as light and gravity
 also affect certain phases/stages of growth.
 
-Reprint 2025-26
+
 
 
 ---
@@ -496,12 +479,19 @@ organ?
 Development is a term that includes all changes that an organism goes
 through during its life cycle from germination of the seed to senescence.
 Diagrammatic representation of the sequence of processes which
-constitute the development of a cell of a higher plant is given in Figure
-13.8. It is also applicable to tissues/organs.
+constitute the development of a cell of a higher plant is given in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch13_plant_growth_and_development_fig_13_8.png" alt="Fig. 13.8" onclick="openImageModal(this.src, 'Fig. 13.8: Development is a term that includes all changes that an organism goes through du...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.8</strong> Development is a term that includes all changes that an organism goes through during its life cycle from germination of the seed to senescence. Diagrammatic representation of the sequence of processes which constitute the development of a cell of a higher plant is given in Figure 13.8. It is also applicable to tissues/organs.</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -542,7 +532,16 @@ e.g., heterophylly in cotton, coriander and larkspur. In such plants, the
 leaves of the juvenile plant are different in shape from those in mature
 plants. On the other hand, difference in shapes of leaves produced in air
 and those produced in water in buttercup also represent the
-heterophyllous development due to environment (Figure 13.9). This
+heterophyllous development due to environment (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch13_plant_growth_and_development_fig_13_9.png" alt="Fig. 13.9" onclick="openImageModal(this.src, 'Fig. 13.9: Plants follow different pathways in response to environment or phases of life to...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.9</strong> Plants follow different pathways in response to environment or phases of life to form different kinds of structures. This ability is called plasticity, e.g., heterophylly in cotton, coriander and larkspur. In such plants, the leaves of the juvenile plant are different in shape from those in mature plants. On the other hand, difference in shapes of leaves produced in air and those produced in water in buttercup also represent the heterophyllous development due to environment (Figure 13.9). This phenomenon of heterophylly is an example of plasticity.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 phenomenon of heterophylly is an example of plasticity.
 
 be
@@ -561,7 +560,7 @@ Terrestrial habitat
 
 Figure 13.9 Heterophylly in (a) larkspur and (b) buttercup
 
-Reprint 2025-26
+
 
 
 ---
@@ -611,9 +610,14 @@ of growth activities.
 
 13.4.2 The Discovery of Plant Growth Regulators
 
-d
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch13_plant_growth_and_development_fig_13_10.png" alt="Fig. 13.10" onclick="openImageModal(this.src, 'Fig. 13.10: Interestingly, the discovery of each of the five major groups of PGRs have been ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.10</strong> Interestingly, the discovery of each of the five major groups of PGRs have been accidental. All this started with the observation of Charles Darwin and his son Francis Darwin when they observed that the coleoptiles of canary grass responded to unilateral illumination by growing towards the light source (phototropism). After a series of experiments, it was concluded that the tip of coleoptile was the site of transmittable influence that caused the bending of the entire coleoptile (Figure 13.10). Auxin was isolated by F.W. Went from tips of coleoptiles of oat seedlings.</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
-Figure 13.10 Experiment used to demonstrate
 that tip of the coleoptile is the
 source of auxin. Arrows indicate
 direction of light
@@ -632,7 +636,7 @@ the bending of the entire coleoptile (Figure
 13.10). Auxin was isolated by F.W. Went from
 tips of coleoptiles of oat seedlings.
 
-Reprint 2025-26
+
 
 
 ---
@@ -690,10 +694,18 @@ abscission of older mature leaves and fruits.
 In most higher plants, the growing apical bud inhibits the growth of
 the lateral (axillary) buds, a phenomenon called apical dominance.
 Removal of shoot tips (decapitation) usually results in the growth of lateral
-buds (Figure 13.11). It is widely applied in tea plantations and
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch13_plant_growth_and_development_fig_13_11.png" alt="Fig. 13.11" onclick="openImageModal(this.src, 'Fig. 13.11: In most higher plants, the growing apical bud inhibits the growth of the lateral...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.11</strong> In most higher plants, the growing apical bud inhibits the growth of the lateral (axillary) buds, a phenomenon called apical dominance. Removal of shoot tips (decapitation) usually results in the growth of lateral buds (Figure 13.11). It is widely applied in tea plantations and hedge-making. Can you explain why?</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 hedge-making. Can you explain why?
 
-Reprint 2025-26
+
 
 175
 
@@ -762,7 +774,7 @@ corn-kernels and coconut milk. Since the discovery of zeatin, several
 naturally occurring cytokinins, and some synthetic compounds with cell
 division promoting activity, have been identified. Natural cytokinins are
 
-Reprint 2025-26
+
 
 
 ---
@@ -816,7 +828,7 @@ ABA inhibits seed germination. ABA stimulates the closure of stomata
 and increases the tolerance of plants to various kinds of stresses.
 Therefore, it is also called the stress hormone. ABA plays an important
 
-Reprint 2025-26
+
 
 177
 
@@ -885,7 +897,7 @@ Since differentiation in plants is open, the development could also be
 flexible, i.e., the development is the sum of growth and differentiation.
 Plant exhibit plasticity in development.
 
-Reprint 2025-26
+
 
 
 ---
@@ -960,7 +972,7 @@ asked to:
 
 9. Would a defoliated plant respond to photoperiodic cycle? Why?
 
-Reprint 2025-26
+
 
 
 ---
@@ -980,9 +992,9 @@ Reprint 2025-26
 
 © NCERT
 
-not to be republished
 
-Reprint 2025-26
+
+
 
 BIOLOGY
 

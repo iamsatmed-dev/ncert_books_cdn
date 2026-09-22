@@ -11,7 +11,7 @@ no
 
 नाभिक
 
-12092CH13
+
 
 NOERT
 
@@ -39,7 +39,7 @@ republished
 परमाणु का द्रव्यमान किलोग्राम की तुलना में बहुत कम होता है। उदाहरण के लिए, कार्बन के
 परमाणु 12C का द्रव्यमान 1.992647 × 10-26 kg है। इतनी छोटी राशियों को मापने के लिए
 
-Reprint 2025-26
+
 
 
 ---
@@ -117,7 +117,7 @@ m = 0.00055 u को घटाने से प्राप्त द्रव�
 तर्कों के कारण इस मान्यता को नकार दिया गया। किसी परमाणु के सभी इलेक्ट्रॉन उसके नाभिक
 के बाहर होते हैं। हम जानते हैं कि किसी परमाणु के नाभिक के बाहर इन इलेक्ट्रॉनों की संख्या
 
-Reprint 2025-26
+
 
 307
 
@@ -198,7 +198,7 @@ A - द्रव्यमान संख्या = Z + N
 
 79
 
-Reprint 2025-26
+
 
 
 ---
@@ -270,7 +270,7 @@ R = RA1/3
 
 309
 
-Reprint 2025-26
+
 
 
 ---
@@ -373,7 +373,7 @@ E = 10¯³ × 9 × 1016 J = = 9 × 1013 J
 नाभिक का द्रव्यमान, इसमें विद्यमान न्यूट्रॉनों एवं प्रोटॉनों के द्रव्यमानों के कुल योग 2m के बराबर
 होगा। लेकिन, नाभिकीय द्रव्यमान M, सदैव ∑m से कम पाया जाता है। उदाहरण के लिए, आइए
 
-Reprint 2025-26
+
 
 
 ---
@@ -475,7 +475,7 @@ hed
 
 नाभिक बनाया जाए तो इस प्रक्रिया में ∆E, ऊर्जा मुक्त होगी। यह ऊर्जा ∆E, नाभिक की
 
-Reprint 2025-26
+
 
 उदाहरण 13.3
 
@@ -521,36 +521,22 @@ Reprint 2025-26
 
 197
 
-12C
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch13_nuclei_fig_13_1_hi.png" alt="
 
-An 238
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch13_nuclei_fig_13_hi.png" alt="चित्र 13" onclick="openImageModal(this.src, 'चित्र 13: 26.7 MeV mQtkZ fueqZDr gksrh gSA fdlh rkjs osQ var% iVy esa osQoy ghfy;e dk gh f...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13</strong> 26.7 MeV mQtkZ fueqZDr gksrh gSA fdlh rkjs osQ var% iVy esa osQoy ghfy;e dk gh fuekZ.k ugha gksrkA tSls&tSls ØksM esa gkbMªkstu (ghfy;e esa cny dj) de gksrh gS] ØksM BaMk gksus yxrk gSA blls rkjk vius xq#Ro osQ dkj.k laoqQfpr gksrk gS ftlls ØksM dk rki c<+ tkrk gSA ;fn ØksM dk rki 108K rd c<+ tk;s rks lay;u dh fØ;k iqu% gksus yxsxh] ij bl ckj ghfy;e dkcZu esa ifjofrZr gksxhA bl izdkj dh izfØ;k esa lay;u }kjk cM+s nzO;eku la[;k okys rRoksa dk tuu gks ldrk gSA ijUrq caèku&ÅtkZ oØ (fp=k 13-1) osQ 'kh"kZ ij fLFkr Hkkjh rRoksa dk fuekZ.k bl izfØ;k ls ugha gks ldrkA</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
-He
-
-14N
-
-Li
-
-6
-
-4
-
-2
-
-H
-
-H
-
-0
-
-50
-
-150
-
-100
-द्रव्यमान संख्या (A)
-
-चित्र 13.1 द्रव्यमान संख्या के फलन के रूप में
+<div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13.1</strong> fp=k 13.1 esa cgqr ls ukfHkdksa osQ fy, izfr U;wfDy;kWu caèku mQtkZ Ebn ,oa nzO;eku la[;k A esa xzkiQ fn[kk;k x;k gSA bl xzkiQ esa gesa fuEufyf[kr y{k.k ij fo'ks"k n`f"Vxkspj gksrs gSa µ</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
 प्रति न्यूक्लियॉन बंधन-ऊर्जा।
 
@@ -595,7 +581,7 @@ not to be repub
 न्यूक्लियॉन इसके भीतर रहते हैं तथा पृष्ठ की अपेक्षा, नाभिक की बंधन-ऊर्जा पर A की वृद्धि का
 कुल प्रभाव नगण्य रहता है। अतः प्रति न्यूक्लियॉन बंधन-ऊर्जा नियत रहती है और इसका सन्निकट
 
-Reprint 2025-26
+
 
 
 ---
@@ -646,14 +632,22 @@ A = 120 के दो नाभिकों में टूटता है त
 अथवा बड़े साइज़ के नाभिकों में 'बलों की संतृप्तता' की स्थिति आ जाती है
 जिसके परिणामस्वरूप प्रति न्यूक्लियॉन बंधन-ऊर्जा नियत हो जाती है। दो नाभिकों
 की स्थितिज ऊर्जा और उनके बीच की दूरी में संबंध दर्शाने वाला एक अपरिष्कृत
-आरेख चित्र 13.2 में दर्शाया गया है। लगभग 0.8 fm की दूरी पर स्थितिज
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch13_nuclei_fig_13_2_hi.png" alt="चित्र 13.2" onclick="openImageModal(this.src, 'चित्र 13.2: yxus okyk ukfHkdh; cy rs”kh ls ?kVdj &#39;kwU; gks tkrk gSA bl dkj.k] vkSlr vFko...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13.2</strong> yxus okyk ukfHkdh; cy rs”kh ls ?kVdj 'kwU; gks tkrk gSA bl dkj.k] vkSlr vFkok cM+s lkb”k osQ ukfHkdksa esa ^cyksa dh lar`Irrk* dh fLFkfr vk tkrh gS ftlosQ ifj.kkeLo:i izfr U;wfDy;kWu ca/u&ÅtkZ fu;r gks tkrh gSA nks ukfHkdksa dh fLFkfrt ÅtkZ vkSj muosQ chp dh nwjh esa laca/ n'kkZus okyk ,d vifj"Ñr vkjs[k fp=k 13.2 esa n'kkZ;k x;k gSA yxHkx 0.8 fm dh nwjh r0 ij fLFkfrt ÅtkZ dk eku U;wure gksrk gSA bldk vFkZ ;g gqvk fd ;fn ukfHkdksa osQ chp nwjh 0.8 fm ls vf/d gksrh gS rks ;s cy vkd"kZ.k cy gksrs gSa vkSj 0.8 fm ls de nwfj;ksa osQ fy, ;s izfrd"kZ.k cy gksrs gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 ऊर्जा का मान न्यूनतम होता है। इसका अर्थ यह हुआ कि यदि नाभिकों के बीच
 दूरी 0.8 fm से अधिक होती है तो ये बल आकर्षण बल होते हैं और 0.8 fm
 से कम दूरियों के लिए ये प्रतिकर्षण बल होते हैं।
 
 0
 
-Reprint 2025-26
+
 
 (AƏW) Love kyay
 
@@ -757,7 +751,7 @@ bn
 किसी भारी नाभिक के दो या दो से अधिक माध्यमिक द्रव्यमान खंडों (विखंडन) अथवा हलके
 नाभिकों का किसी भारी नाभिक में संयोजन (संलयन) की प्रक्रिया में ऐसा ही होता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -856,7 +850,7 @@ A = 120 वाले विखंडित नाभिक के लिए Ebm 
 एक अपेक्षाकृत बड़ा नाभिक बनाएँ तो ऊर्जा निर्मुक्त होती है। इस प्रक्रिया को नाभिकीय संलयन
 कहते हैं। इस तरह की ऊर्जा विमोचक अभिक्रियाओं के कुछ उदाहरण आगे दिए गए हैं :
 
-Reprint 2025-26
+
 
 315
 
@@ -934,7 +928,7 @@ H+H →He+ ¦H+¦H+ 12.86 MeV
 
 no
 
-Reprint 2025-26
+
 
 
 ---
@@ -999,7 +993,7 @@ X
 
 उदाहरणस् 13.4
 
-Reprint 2025-26
+
 
 317
 
@@ -1061,7 +1055,7 @@ Reprint 2025-26
 
 lu = 1.660563 × 10-27 kg
 
-Reprint 2025-26
+
 
 उदाहरण 13.4
 
@@ -1153,7 +1147,7 @@ ed
 
 319
 
-Reprint 2025-26
+
 
 
 ---
@@ -1259,7 +1253,7 @@ not t
 7. ध्यान दें कि इलेक्ट्रॉन-पॉजिट्रॉन एक कण-प्रतिकण युग्म है। इनके द्रव्यमान एकसमान हैं।
 इनके आवेशों के परिमाण समान परंतु विपरीत प्रकृति के होते हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1374,7 +1368,7 @@ m (2C) = 12.000000 u
 
 m (20Ne) = 19.992439 u
 
-Reprint 2025-26
+
 
 321
 
@@ -1436,5 +1430,5 @@ not to be republis
 
 322
 
-Reprint 2025-26
+
 

@@ -42,7 +42,7 @@ republished
 अस्तित्व होना है जो अंतरिक्ष में संचरित समय के साथ बदलते (युग्मित) विद्युतीय एवं चुंबकीय
 क्षेत्र हैं। मैक्सवेल के समीकरणों के अनुसार, इन तरंगों की चाल, प्रकाशीय मापन द्वारा प्राप्त प्रकाश
 
-Reprint 2026-27
+
 
 
 ---
@@ -75,13 +75,23 @@ Reprint 2026-27
 की प्रक्रिया पर विचार करें और संधारित्र के बाहर किसी बिंदु पर चुंबकीय
 क्षेत्र ज्ञात करने के लिए ऐम्पियर के परिपथीय नियम (अध्याय 4)
 
-B.dl = μoi (t)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_1_hi.png" alt="
 
-का उपयोग करें।
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_hi.png" alt="चित्र 8" onclick="openImageModal(this.src, 'चित्र 8: fp=k 8-4 oS|qrpaqcdh; LisDVªe ftlosQ fofHkUu Hkkxksa osQ lkekU; uke n&#39;kkZ, x...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8</strong> fp=k 8-4 oS|qrpaqcdh; LisDVªe ftlosQ fofHkUu Hkkxksa osQ lkekU; uke n'kkZ, x, gSaA fofHkUu Hkkxksa</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
-(8.1)
+<div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8.1</strong> dk mi;ksx djsaA ¹fp=k 8.1(a)º esa ,d lekarj IysV laèkkfj=k C n'kkZ;k x;k gS tks ,d ,sls ifjiFk dk Hkkx gS ftlesa le; osQ lkFk ifjorZu'khy èkkjk i (t) izokfgr gks jgh gSA vkb,] lekarj IysV laèkkfj=k osQ cká {ks=k esa fLFkr fdlh ¯cnq tSls fd P ij paqcdh; {ks=k Kkr djsaA blosQ fy,] ge r f=kT;k dk ,d lery o`Ùkkdkj ywi ysrs gSa ftldk ry èkkjkokgh rkj dh fn'kk osQ yacor gS vkSj ftldk osaQnz rkj osQ Åij gS ¹fp=k 8.1(a)ºA lefefr osQ vkèkkj ij ge dg ldrs gSa fd paqcdh; {ks=k dh fn'kk o`Ùkkdkj ywi dh ifjfèk osQ vuqfn'k gS vkSj ywi osQ izR;sd ¯cnq ij bldk ifjek.k leku gSA bl dkj.k] ;fn {ks=k dk ifjek.k B gS rks lehdj.k (8.1) dk oke i{k</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
-[चित्र 8.1(a)] में एक समांतर प्लेट संधारित्र C दर्शाया गया है जो एक
 ऐसे परिपथ का भाग है जिसमें समय के साथ परिवर्तनशील धारा i i (t) प्रवाहित
 हो रही है। आइए, समांतर प्लेट संधारित्र के बाह्य क्षेत्र में स्थित किसी बिंदु
 जैसे कि P पर चुंबकीय क्षेत्र ज्ञात करें। इसके लिए, हम r त्रिज्या का एक
@@ -99,7 +109,7 @@ B(2πr) = μοί (t)
 अब इसी परिसीमा वाली एक अन्य सतह पर विचार कीजिए। यह घड़े के
 आकार की एक सतह है जो धारा को कहीं भी नहीं छूती है [चित्र 8.1(b)] पर
 
-Reprint 2026-27
+
 
 वैद्युतचुंबकीय तरंगें
 
@@ -293,12 +303,19 @@ M पर होना चाहिए [चित्र 8.1(a)]। आवेश�
 है उसे चालन धारा कहा जाता है। समीकरण (8.4) द्वारा व्यक्त धारा एक नवीन पद है। जो
 परिवर्तनशील विद्युत क्षेत्र (या विद्युतीय विस्थापन, जो अभी भी कभी उपयोग में आता है) के कारण
 अस्तित्व में आता है। इसको इसलिए विस्थापन धारा अथवा मैक्सवेल की विस्थापन धारा कहा जाता
-है। चित्र 8.2, आगे वर्णित समांतर प्लेट संधारित्र के अंदर विद्युत एवं चुंबकीय क्षेत्र दर्शाता है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_2_hi.png" alt="चित्र 8.2" onclick="openImageModal(this.src, 'चित्र 8.2: fdlh Hkh n`f&quot;V ls foLFkkiu èkkjk osQ HkkSfrd izHkko pkyu èkkjk osQ leku gSa...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8.2</strong> fdlh Hkh n`f"V ls foLFkkiu èkkjk osQ HkkSfrd izHkko pkyu èkkjk osQ leku gSaA oqQN fLFkfr;ksa esa] mnkgj.kkFkZ] fdlh pkyd rkj esa fu;r fo|qr {ks=k osQ fy, foLFkkiu èkkjk dk eku 'kwU; gks ldrk gS D;ksafd fdlh fo|qr {ks=k E le; osQ lkFk ifjo£rr ugha gksrkA oqQN nwljh fLFkfr;ksa esa] tSls fd Åij crk, x, vkosf'kr gksrs laèkkfj=k esa pkyu ,oa foLFkkiu èkkjk nksuksa gh mifLFkr gks ldrs gSa ij vyx&vyx fno~QLFkkuksa esaA ijarq vfèkdrj fLFkfr;ksa esa nksuksa ,d gh LFkku ij fo|eku gks ldrs gSa D;kasfd dksbZ Hkh ekè;e iw.kZ pkyd ;k iw.kZ fo|qrjksèkh ugha gksrkA lokZfèkd jkspd rF; ;g gS fd fdlh fo'kky {ks=k esa tgk¡ dksbZ Hkh pkyu èkkjk ugha gksrh] le; osQ lkFk ifjorZu'khy fo|qr {ks=k osQ dkj.k osQoy foLFkkiu èkkjk gh gksrh gSA ,sls {ks=k esa] vklikl dksbZ (pkyu) èkkjk lzksr ugha gksus ij Hkh paqcdh; {ks=k fo|eku gksxkA bl foLFkkiu èkkjk osQ vfLrRo dh izkxqfDr iz;ksx }kjk iq"V dh tk ldrh gSA mnkgj.k osQ fy,] fp=k 8.2(a) osQ laèkkfj=k dh IysVksa osQ chp (ekuk ¯cnq M ij) paqcdh; {ks=k ekik tk ldrk gSA ;g Bhd mruk gh ik;k tk,xk ftruk fd ckgj osQ fdlh ¯cnq (ekuk P) ijA</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 मैक्सवेल द्वारा किया गया व्यापकीकरण निम्न है। चुंबकीय क्षेत्र का स्रोत केवल प्रवाहमान
 आवेशों से निर्मित चालन विद्युत धारा ही नहीं होती, अपितु समय के सापेक्ष विद्युत क्षेत्र में परिवर्तन
 
-Reprint 2026-27
+
 
 
 ---
@@ -427,7 +444,7 @@ BX
 * ये अभी भी पूर्णतः सममितीय नहीं हैं। विद्युत क्षेत्र को उत्पन्न करने के लिए विद्युत आवेशों के सादृश्य
 चुंबकीय क्षेत्र के स्रोत (चुंबकीय एकल ध्रुव, magnetic monopole) ज्ञात नहीं हैं।
 
-Reprint 2026-27
+
 
 201
 
@@ -500,7 +517,7 @@ not
 जब वैद्युतचुंबकीय तरंगों का प्रायोगिक प्रदर्शन हुआ तो वह निम्न आवृत्ति की तरंगों (रेडियो तरंगों
 के परिसर में) के लिए ही हुआ, जैसा कि हर्ट्ज़ के प्रयोग (1887) के प्रकरण में देख सकते हैं।
 
-Reprint 2026-27
+
 
 
 ---
@@ -615,9 +632,14 @@ y
 मैक्सवेल के समीकरणों का उपयोग करके
 आप निम्न परिणाम पर पहुँच सकते हैं
 
-B
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_3_hi.png" alt="चित्र 8.3" onclick="openImageModal(this.src, 'चित्र 8.3: fp=k 8.3 ,d js[kh; èkqzfor oS|qrpaqcdh; rjax tks z-fn&#39;kk esa xeu dj jgh gS v...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8.3</strong> fp=k 8.3 ,d js[kh; èkqzfor oS|qrpaqcdh; rjax tks z-fn'kk esa xeu dj jgh gS vkSj</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
-चित्र 8.3 एक रेखीय ध्रुवित वैद्युतचुंबकीय तरंग जो z-दिशा में गमन कर रही है और
 जिसका दोलनकारी विद्युत क्षेत्र E, x- दिशा के अनुदिश एवं दोलनकारी चुंबकीय क्षेत्र
 B, y-दिशा के अनुदिश है।
 
@@ -625,7 +647,7 @@ B, y-दिशा के अनुदिश है।
 
 z
 
-Reprint 2026-27
+
 
 
 ---
@@ -702,7 +724,7 @@ S
 स्टेशनों से यही ऊर्जा अभिग्राहकों तक पहुँच कर उन्हें क्रियाशील बनाती है। प्रकाश के रूप में सूर्य
 से ऊर्जा पृथ्वी तक पहुँचती है जिसके कारण पृथ्वी पर जीवन संभव हुआ है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -795,7 +817,15 @@ E₂ = 60 sin (0.5 × 10³x + 1.5 × 10¹¹ t) V/m
 अभी मुश्किल से साबित हो पाया था। उन्नीसवीं शताब्दी के अंत तक X- किरणें एवं गामा किरणें
 भी खोज ली गई थीं। अब हम जानते हैं कि दृश्य प्रकाश तरंगें, X- किरणें, गामा किरणें, रेडियो तरंगें,
 सूक्ष्म (माइक्रो) तरंगें, पराबैंगनी एवं अवरक्त तरंगें ये सभी em तरंगें हैं। तरंगों का आवृत्ति के क्रम
-में वर्गीकरण (चित्र 8.4) वैद्युतचुंबकीय स्पेक्ट्रम कहलाता है। एक प्रकार की तरंग और उसके
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_4_hi.png" alt="चित्र 8.4" onclick="openImageModal(this.src, 'चित्र 8.4: ftl le; eSDlosy us oS|qrpaqcdh; rjaxksa lacaèkh viuk fl¼kar izLrqr fd;k Fkk rks ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8.4</strong> ftl le; eSDlosy us oS|qrpaqcdh; rjaxksa lacaèkh viuk fl¼kar izLrqr fd;k Fkk rks n`'; izdk'k rjaxsa gh ,d ek=k lqifjfpr oS|qrpqacdh; (em) rjaxas FkhaA ijkcSxuh ,oa vojDr rjaxksa dk vfLrRo vHkh eqf'dy ls lkfcr gks ik;k FkkA mUuhloha 'krkCnh osQ var rd X- fdj.ksa ,oa xkek fdj.ksa Hkh [kkst yh xbZ FkhaA vc ge tkurs gSa fd n`'; izdk'k rjaxsa] X- fdj.ksa] xkek fdj.ksa] jsfM;ks rjaxsa] lw{e (ekbØks) rjaxas] ijkcSaxuh ,oa vojDr rjaxsa ;s lHkh em rjaxsa gSaA rjaxksa dk vko`fÙk osQ Øe esa oxhZdj.k (fp=k 8.4) oS|qrpaqcdh; LisDVªe dgykrk gSA ,d izdkj dh rjax vkSj mlosQ fudVorhZ nwljs izdkj dh rjax osQ chp dksbZ Li"V foHkktu js[kk ugha gSA oxhZdj.k eksVs rkSj ij bl ckr ij vkèkkfjr gS fd rjaxsa fdl izdkj mRiUu ,oa@vFkok lalwfpr dh tkrh gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 निकटवर्ती दूसरे प्रकार की तरंग के बीच कोई स्पष्ट विभाजन रेखा नहीं है। वर्गीकरण मोटे तौर पर
 इस बात पर आधारित है कि तरंगें किस प्रकार उत्पन्न एवं/अथवा संसूचित की जाती हैं।
 
@@ -804,7 +834,7 @@ E₂ = 60 sin (0.5 × 10³x + 1.5 × 10¹¹ t) V/m
 
 उदाहरण 8.2
 
-Reprint 2026-27
+
 
 205
 
@@ -1002,7 +1032,7 @@ not
 प्रणाली के लिए उपयुक्त हैं। रडार, तेज गेदों जैसे कि टेनिस में सर्व की गई गेंदों या वाहनों की गति
 ज्ञात करने के लिए उपयोग में लाए जाने वाले यंत्र, चाल-गनों (speed guns), गनों की कार्य
 
-Reprint 2026-27
+
 
 
 ---
@@ -1067,7 +1097,7 @@ pushed
 
 207
 
-Reprint 2026-27
+
 
 
 ---
@@ -1191,7 +1221,7 @@ X-किरण नलिका अथवा आंतरिक शैलों
 
 208
 
-Reprint 2026-27
+
 
 
 ---
@@ -1287,7 +1317,7 @@ Z
 
 209
 
-Reprint 2026-27
+
 
 
 ---
@@ -1325,9 +1355,13 @@ Reprint 2026-27
 सूर्य 
 के विकिरणों में सर्वाधिक प्रबल हैं।
 
-अभ्यास
-
-8.1 चित्र 8.5 में एक e re
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_5_hi.png" alt="चित्र 8.5" onclick="openImageModal(this.src, 'चित्र 8.5: fp=k 8.5...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8.5</strong> fp=k 8.5</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 not
 
@@ -1346,15 +1380,18 @@ not
 
 क्या किरखोफ का प्रथम नियम संधारित्र की प्रत्येक प्लेट पर लागू होता है? स्पष्ट कीजिए।
 
-00
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_6_hi.png" alt="चित्र 8.6" onclick="openImageModal(this.src, 'चित्र 8.6: 8.2 ,d lekarj IysV laèkkfj=k (fp=k 8.6)] R = 6.0 cm f=kT;k dh nks o`Ùkkdkj IysVk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 8.6</strong> 8.2 ,d lekarj IysV laèkkfj=k (fp=k 8.6)] R = 6.0 cm f=kT;k dh nks o`Ùkkdkj IysVksa ls cuk gS vkSj bldh èkkfjrk C = 100 pF gSA laèkkfj=k dks 230 V, 300 rad s–1 dh (dks.kh;) vko`fÙk osQ fdlh lzksr ls tksM+k x;k gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
-चित्र 8.5
-
-एक समांतर प्लेट संधारित्र (चित्र 8.6), R = 6.0 cm त्रिज्या की दो वृत्ताकार प्लेटों से बना
 है और इसकी धारिता C = 100 pF है। संधारित्र को 230 V, 300 rad s¯¹ की (कोणीय)
 आवृत्ति के किसी स्रोत से जोड़ा गया है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -1427,7 +1464,7 @@ E = hv (विकिरण के एक क्वांटम की ऊर्�
 (c) यह दर्शाइए कि E क्षेत्र का औसत ऊर्जा घनत्व, B क्षेत्र के औसत ऊर्जा घनत्व के
 बराबर है। [c = 3 × 10º m s¯¹]
 
-Reprint 2026-27
+
 
 211
 

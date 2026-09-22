@@ -37,7 +37,7 @@
 
 तरलों के यांत्रिकी गुण
 
-11089CH10
+
 
 9.1 भूमिका
 
@@ -78,7 +78,7 @@ not to
 जब एक नुकीली सुई हमारी त्वचा में दाब लगाकर रखी जाती है, तो वह त्वचा
 को बेध देती है। परन्तु किसी अधिक संपर्क क्षेत्र की वस्तु (जैसे चम्मच का
 
-Reprint 2025-26
+
 
 
 ---
@@ -108,7 +108,23 @@ Reprint 2025-26
 के लिए बाध्य करता है। यह संभव नहीं है, क्योंकि तरल
 विश्रामावस्था में में है। अतः विरामावस्था में तरल द्वारा लगने वाला
 बल पिण्ड के संपर्क पृष्ठ के अभिलंब ही आरोपित हो सकता
-है। इसे चित्र 9.1(a) में दर्शाया गया है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_1_hi.png" alt="
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_hi.png" alt="चित्र 9" onclick="openImageModal(this.src, 'चित्र 9: vkb;s vc ge ns[krs gSa fd ik=k esa j[ks rjy ij tc nkc ifjorZu djrs gSa rks D;k g...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9</strong> vkb;s vc ge ns[krs gSa fd ik=k esa j[ks rjy ij tc nkc ifjorZu djrs gSa rks D;k gksrk gS\ ,d {kSfrt csyu ij fopkj djsa ftlesa fiLVu yxk gS rFkk mlosQ fofHkUu ¯cnqvksa ij rhu ÅèoZ V~;wc yxh gSa [fp=k 9-6(a)] ÅèoZ V~;wc esa nzo LraHk dh Å¡pkbZ {kSfrt csyu esa rjy dk nkc n'kkZrh gSA ;g lHkh ÅèoZ V~;wcksa esa vfuok;Zr% leku gksrh gSA ;fn fiLVu dks / osQyrs gSa rks lHkh V~;wcksa eas rjy dk Lrj mB tkrk gS] rFkk iqu% ;g lHkh esa leku gks tkrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
+<div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.1</strong> tc dksbZ fi.M fdlh 'kkar rjy esa Mwck gqvk gS] rks rjy ml fi.M ij cy vkjksfir djrk gSA ;g cy lnSo fi.M osQ i`"Bksa osQ vfHkyacor~ gksrk gSA ,slk blfy, gS fd] ;fn cy dk vo;o fi.M osQ i`"B osQ lekarj gksrk gS rks U;wVu osQ r`rh; fu;ekuqlkj] fi.M Hkh vius lrg osQ lekarj rjy ij cy vkjksfir djrk gSA ;g cy rjy dks i`"B osQ lekarj cgus osQ fy, ckè; djrk gSA ;g laHko ugha gS] D;ksafd rjy foJkekoLFkk esa gSA vr% fojkekoLFkk esa rjy }kjk yxus okyk cy fi.M osQ laioZQ i`"B osQ vfHkyac gh vkjksfir gks ldrk gSA bls fp=k 9.1(a) esa n'kkZ;k x;k gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 तरल द्वारा किसी बिंदु पर कार्यरत इस अभिलंब बल को
 मापा जा सकता है। ऐसा ही एक दाब मापक युक्ति के आदर्श
@@ -200,7 +216,7 @@ V
 4 °C (277 K) पर जल का घनत्व 1.0 × 103 kg m¯³
 है। किसी पदार्थ का आपेक्षिक घनत्व (विशिष्ट गुरुत्व) उस
 
-Reprint 2025-26
+
 
 
 ---
@@ -256,7 +272,13 @@ Fa
 
 ### 1.03 × 103
 
-चित्र 9.2
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_2_hi.png" alt="चित्र 9.2" onclick="openImageModal(this.src, 'चित्र 9.2: fp=k 9.2 esa fojke fLFkfr osQ fdlh rjy osQ vH;Urj esa dksbZ vo;o n&#39;kkZ;k x;k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.2</strong> fp=k 9.2 esa fojke fLFkfr osQ fdlh rjy osQ vH;Urj esa dksbZ vo;o n'kkZ;k x;k gSA ;g vo;o ABC-DEF ,d ledks.k fiz”e osQ :i esa gSA fiz”eh; vo;o vkdkj esa cgqr NksVk gS blfy, bldk izR;sd ¯cnq rjy osQ i`"B osQ leku xgjkbZ ij ekuk tk ldrk gS vkSj blfy, izR;sd ¯cnq ij xq#Ro dk izHkko leku gksxkA ijUrq bl fl¼kUr dks Li"V djus osQ fy, geus bl vo;o dks cM+k djosQ n'kkZ;k gSA bl vo;o ij vkifrr cy 'ks"k rjy osQ dkj.k gS vkSj tSlk fd Åij n'kkZ;k x;k gS rjy osQ dkj.k vkjksfir cy i`"Bksa osQ vfHkyac dk;Z djrs gSaA vr% fp=k esa n'kkZ;s vuqlkj rjy }kjk bl vo;o ij vkjksfir nkcksa Pa, Pb rFkk Pc osQ rnu:ih cy Fa,</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 पारा
 
@@ -272,13 +294,9 @@ Fa
 
 वायु
 
-### 1.29
+### 1.29 ऑक्सीजन
 
-ऑक्सीजन
-
-### 1.43
-
-हाइड्रोजन
+### 1.43 हाइड्रोजन
 
 9.0 × 10-2
 
@@ -368,7 +386,7 @@ Ab Ac Aa
 तरल के भीतर के किसी क्षेत्रफल (अथवा परिबद्ध तरल) पर
 अभिलंबवत् होता है चाहे क्षेत्रफल किसी भी अवस्थिति में हो।
 
-Reprint 2025-26
+
 
 
 ---
@@ -388,7 +406,16 @@ Reprint 2025-26
 
 9.2.2 गहराई के साथ दाब में परिवर्तन
 
-एक पात्र में द्रव की विरामावस्था पर विचार करें। चित्र 9.3 में
+एक पात्र में द्रव की विरामावस्था पर विचार करें।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_3_hi.png" alt="चित्र 9.3" onclick="openImageModal(this.src, 'चित्र 9.3: ,d ik=k esa nzo dh fojkekoLFkk ij fopkj djsaA fp=k 9.3 esa ¯cnq 1 ¯cnq 2 ls h Å¡...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.3</strong> ,d ik=k esa nzo dh fojkekoLFkk ij fopkj djsaA fp=k 9.3 esa ¯cnq 1 ¯cnq 2 ls h Å¡pkbZ ij gSA ¯cnq 1 o 2 ij nkc Øe'k% P1 rFkk P2 gSaA A vk/kj {ks=kiQy rFkk h Å¡pkbZ osQ rjy osQ ,d csyukdkj vo;o dks ysaA pw¡fd rjy fojkekoLFkk esa gS vr% ifj.kkeh {kSfrt cy 'kwU; gksuk pkfg,A ifj.kkeh ÅèokZ/j fn'kk esa dk;Zjr cy rjy vo;o osQ Hkkj osQ rqY; gksuk pkfg,A uhps dh vksj dk;Z djus okyk Åijh fljs ij rjy osQ nkc }kjk cy (P1A) rFkk iSanh ij Åij dh vksj dk;Z djus okyk cy (P2A) gSA ;fn csyu esa rjy dk Hkkj mg gS rks</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 बिंदु 1 बिंदु 2 से h ऊँचाई पर है। बिंदु 1 व 2 पर दाब क्रमशः
 P₁ तथा P₂ हैं। A आधार क्षेत्रफल तथा h ऊँचाई के तरल के एक
 बेलनाकार अवयव को लें। चूँकि तरल विरामावस्था में है अतः
@@ -442,7 +469,16 @@ a
 या अनुप्रस्थ काट। समान क्षैतिज तल (समान गहराई) के सभी
 बिंदुओं पर द्रव का दाब समान होता है। द्रवस्थैतिक विरोधोक्ति
 के उदाहरण से इस परिणाम को भलीभांति समझा जा सकता है।
-A, B तथा C विभिन्न आकृतियों के पात्र लें (चित्र 9.4)। पैंदी
+A, B तथा C विभिन्न आकृतियों के पात्र लें (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_4_hi.png" alt="चित्र 9.4" onclick="openImageModal(this.src, 'चित्र 9.4: A, B rFkk C fofHkUu vkÑfr;ksa osQ ik=k ysa (fp=k 9.4)A iSanh esa ,d {kSfrt ikbi ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.4</strong> A, B rFkk C fofHkUu vkÑfr;ksa osQ ik=k ysa (fp=k 9.4)A iSanh esa ,d {kSfrt ikbi }kjk budks tksM+k tkrk gSA ikuh Hkjus ij bu rhuksa ik=kksa esa mldk ry leku jgrk gS ;|fi buesa ikuh fHkUu&fHkUu ek=kk esa gksrk gSA ;g blfy, gS fd budh ryh ij nkc leku jgrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 में एक क्षैतिज पाइप द्वारा इनको जोड़ा जाता है। पानी भरने पर
 इन तीनों पात्रों में उसका तल समान रहता है यद्यपि इनमें पानी
 भिन्न-भिन्न मात्रा में होता है। यह इसलिए है कि इनकी तली
@@ -494,7 +530,7 @@ a
 
 ≈ 2 atm
 
-Reprint 2025-26
+
 
 
 ---
@@ -515,7 +551,15 @@ Reprint 2025-26
 1.013 × 105 Pa है (1 atm)। वायुमण्डलीय दाब की यथार्थ
 माप के लिए सर्वप्रथम इटली के वैज्ञानिक इवेंगलिस्टा टॉरिसेली
 (1608-1647) ने एक युक्ति की रचना की तथा वायुमण्डल
-दाब को मापा। जैसा कि चित्र 9.5 (a) में दर्शाया गया है, एक
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_5_hi.png" alt="चित्र 9.5" onclick="openImageModal(this.src, 'चित्र 9.5: (1608-1647) us ,d ;qfDr dh jpuk dh rFkk ok;qe.My nkc dks ekikA tSlk fd fp=k 9.5 ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.5</strong> (1608-1647) us ,d ;qfDr dh jpuk dh rFkk ok;qe.My nkc dks ekikA tSlk fd fp=k 9.5 (a) esa n'kkZ;k x;k gS] ,d fljs ls can yach dk¡p dh uyh ysdj mlesa ikjk Hkjk x;k vkSj fiQj mls ikjs ls vkaf'kd Hkjs ik=k esa ÅèokZèkj myVk [kM+k fd;k x;kA bl ;qfDr dks ikjs dk cSjksehVj dgrs gSaA uyh esa ikjs ls Åij dk LFkku ikjs dh ok"i ftldk nkc P cgqr vYi gksrk gS] Hkjk jgrk gS] ;g nkc bruk de gksrk gS fd bls ux.; eku ldrs gSaA vr% fcUnq A ij nkc 'kwU; gksxkA LraHk osQ vUnj ¯cnq B ij nkc leku ry okys ¯cnq C ij nkc osQ rqY; gksuk</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 सिरे से बंद लंबी काँच की नली लेकर उसमें पारा भरा गया और
 फिर उसे पारे से आंशिक भरे पात्र में ऊर्ध्वाधर उलटा खड़ा
 किया गया। इस युक्ति को पारे का बैरोमीटर कहते हैं। नली में
@@ -602,7 +646,7 @@ C
 बराबर होता है जो समीकरण (9.8) द्वारा दिया जाता है तथा
 मैनोमीटर की ऊँचाई h के अनुपाती होता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -686,7 +730,15 @@ F=PA=103×105Pa×0.04m²=4.12×105N
 आइये अब हम देखते हैं कि पात्र में रखे तरल पर जब दाब
 परिवर्तन करते हैं तो क्या होता है? एक क्षैतिज बेलन पर विचार
 करें जिसमें पिस्टन लगा है तथा उसके विभिन्न बिंदुओं पर तीन
-ऊर्ध्व ट्यूब लगी हैं [चित्र 9.6(a)] ऊर्ध्व ट्यूब में द्रव स्तंभ
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_6_hi.png" alt="चित्र 9.6" onclick="openImageModal(this.src, 'चित्र 9.6: fp=k 9.6 (a) 9.6 (a) 9.6 (a) 9.6 (a) 9.6 (a) ik=k esa j[ks rjy osQ fdlh Hkkx ij ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.6</strong> fp=k 9.6 (a) 9.6 (a) 9.6 (a) 9.6 (a) 9.6 (a) ik=k esa j[ks rjy osQ fdlh Hkkx ij tc ckg; nkc</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 की ऊँचाई क्षैतिज बेलन में तरल का दाब दर्शाती है। यह सभी
 ऊर्ध्व ट्यूबों में अनिवार्यतः समान होती है। यदि पिस्टन को ध
 केलते हैं तो सभी ट्यूबों में तरल का स्तर उठ जाता है, तथा
@@ -716,7 +768,7 @@ B
 के अनुसार द्रव चालित उत्थापक में तरल द्वारा भरे स्थान से
 विलगित दो पिस्टन हैं। अनुप्रस्थ काट A₁ का छोटा पिस्टन द्रव
 
-Reprint 2025-26
+
 
 
 ---
@@ -867,7 +919,7 @@ F 1.5 × 103 N
 में समान रूप से संचरित होता है जिससे ब्रेकों का प्रभाव सभी
 पहियों पर बराबर पड़ता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -905,7 +957,15 @@ P
 यदि हम प्रत्येक प्रभावित कण की धारारेखा को प्रदर्शित करने
 की इच्छा रखते हैं तो हम रेखाओं के सांतत्य में सिमट जाएँगे।
 तरल प्रवाह की दिशा में लंबवत समतलों पर विचार कीजिए
-अर्थात चित्र 9.7 (b) में तीन बिंदु P, R तथा पर। इन समतल
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_7_hi.png" alt="चित्र 9.7" onclick="openImageModal(this.src, 'चित्र 9.7: fp=k 9.7 9.7 9.7 9.7 9.7 /kjkjs[kkvksa dk vFkZ (a) fdlh rjy dk iz:ih iziFk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.7</strong> fp=k 9.7 9.7 9.7 9.7 9.7 /kjkjs[kkvksa dk vFkZ (a) fdlh rjy dk iz:ih iziFk</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 खंडों का चुनाव इस प्रकार किया जाता है कि इनकी सीमाएँ ध
 ारारेखाओं के समान समूह द्वारा निर्धारित हो जाएँ। इसका अर्थ
 है कि P, R तथा Q पर दर्शाये गये लंबवत समतल पृष्ठों से
@@ -969,12 +1029,18 @@ Av आयतन अभिवाह या प्रवाह दर देता
 प्रक्षुद्ध प्रवाह में बदल जाता है। जब एक तेज़ प्रवाही
 धारा चट्टान से टकराती है तो हम देख सकते हैं कि कैसे
 छोटे-छोटे फेन (foam) भँवर जैसे बनते हैं जिन्हें दूध-धारा
-(white water rapids) कहते हैं।
 
-चित्र 9.8 कुछ प्ररूपी प्रवाह की धारारेखाएँ दर्शायी गई हैं।
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_8_hi.png" alt="चित्र 9.8" onclick="openImageModal(this.src, 'चित्र 9.8: fp=k 9.8 oqQN iz:ih izokg dh /kjkjs[kk,¡ n&#39;kkZ;h xbZ gSaA mnkgj.k osQ fy, fp...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.8</strong> fp=k 9.8 oqQN iz:ih izokg dh /kjkjs[kk,¡ n'kkZ;h xbZ gSaA mnkgj.k osQ fy, fp=k 9.8(a) esa LRkjh; izokg n'kkZ;k</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 उदाहरण के लिए चित्र 9.8(a) में स्तरीय प्रवाह दर्शाया
 
-Reprint 2025-26
+
 
 
 ---
@@ -1003,7 +1069,15 @@ Reprint 2025-26
 
 परिवर्ती अनुप्रस्थ काट के पाइप में तरल प्रवाह पर विचार
 कीजिए। माना कि पाइप परिवर्ती ऊँचाइयों पर है जैसा कि
-चित्र 9.9 में दर्शाया गया है। अब माना कि पाइप में एक
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_9_hi.png" alt="चित्र 9.9" onclick="openImageModal(this.src, 'चित्र 9.9: ifjorhZ vuqizLFk dkV osQ ikbi esa rjy izokg ij fopkj dhft,A ekuk fd ikbi ifjorhZ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.9</strong> ifjorhZ vuqizLFk dkV osQ ikbi esa rjy izokg ij fopkj dhft,A ekuk fd ikbi ifjorhZ Å¡pkb;ksa ij gS tSlk fd fp=k 9.9 esa n'kkZ;k x;k gSA vc ekuk fd ikbi esa ,d vlaihM~; rjy vifjorhZ izokg ls izokfgr gSA lkarR; lehdj.k osQ vuqlkj blosQ osx esa ifjorZu gksuk pkfg,A Roj.k mRiUu djus osQ fy, ,d cy dh vko';drk gS tks bls ?ksjs gq, rjy ls mRiUu gksrk gSA fHkUu&fHkUu Hkkxksa esa nkc fHkUu gksuk pkfg,A ikbi osQ nks ¯cnqvksa osQ chp nkckarj dk laca/ osx ifjorZu (xfr ÅtkZ ifjorZu) rFkk mUu;u (Å¡pkbZ) esa ifjorZu (fLFkfr ÅtkZ esa ifjorZu) nksuksa esa izn£'kr djus okyk lkekU; O;atd] cuwZyh dk lehdj.k gSA bl laca/ dks fLol HkkSfrdfon~ Msfu;y cuwZyh us fodflr fd;k FkkA</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 असंपीड्य तरल अपरिवर्ती प्रवाह से प्रवाहित है। सांतत्य समीकरण
 के अनुसार इसके वेग में परिवर्तन होना चाहिए। त्वरण उत्पन्न
 करने के लिए एक बल की आवश्यकता है जो इसे घेरे हुए तरल
@@ -1092,7 +1166,7 @@ P+ (2) pv² + pgh = स्थिरांक
 
 (9.13)
 
-Reprint 2025-26
+
 
 
 ---
@@ -1154,7 +1228,16 @@ P₁ + pgh₁ = P₂ + pgh
 चाल को मुक्त रूप से गिरते पिण्ड की चाल के सूत्र के समरूप
 सूत्र द्वारा प्रदर्शित किया जा सकता है। p घनत्व के द्रव से भरी
 किसी ऐसी टंकी पर विचार कीजिए जिसमें टंकी की तली से
-५₁ ऊँचाई पर एक छोटा छिद्र है (देखिए चित्र 9.10)। द्रव के
+५₁ ऊँचाई पर एक छोटा छिद्र है (देखिए
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_10_hi.png" alt="चित्र 9.10" onclick="openImageModal(this.src, 'चित्र 9.10: fp=k 9.10 9.10 9.10 9.10 9.10 VkWfjlsyh fu;eA ik=k osQ ik&#39;oZ ls cfgokZg dh p...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.10</strong> fp=k 9.10 9.10 9.10 9.10 9.10 VkWfjlsyh fu;eA ik=k osQ ik'oZ ls cfgokZg dh pky</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 ऊपर, जिसका पृष्ठ ५, ऊँचाई पर है, वायु है जिसका दाब P
 है। सांतत्य समीकरण (समीकरण 9.9) से
 
@@ -1234,7 +1317,7 @@ v₁ बर्नूली समीकरण द्वारा प्राप
 
 तब
 
-Reprint 2025-26
+
 
 
 ---
@@ -1285,7 +1368,15 @@ a
 बर्नूली सिद्धांत से समझाया जा सकता है।
 
 (i) बिना घूमे गेंद का चलना : तरल के सापेक्ष बिना घूमती
-गतिमान गेंद के चारों ओर चित्र 9.11(a) में धारारेखाएँ
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_11_hi.png" alt="चित्र 9.11" onclick="openImageModal(this.src, 'चित्र 9.11: xfreku xsan osQ pkjksa vksj fp=k 9.11(a) esa /kjkjs[kk,¡ izn£&#39;kr gSaA /kjkjs...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.11</strong> xfreku xsan osQ pkjksa vksj fp=k 9.11(a) esa /kjkjs[kk,¡ izn£'kr gSaA /kjkjs[kkvksa dh leferh ls ;g Li"V gS fd rjy esa xsan osQ Åij rFkk uhps laxr ¯cnqvksa ij mldk</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 प्रदर्शित हैं। धारारेखाओं की सममिती से यह स्पष्ट है है कि
 तरल में गेंद के ऊपर तथा नीचे संगत बिंदुओं पर उसका
 
@@ -1331,7 +1422,7 @@ a
 चित्र 9.11 (a) अघूर्णी गतिमान गोले के समीप तरल (b) एक घूमते गतिमान गोले के निकट से गुज़रने वाले तरल का धाराप्रवाह
 (c) ऐयरोफॉयल के समीप से गुज़रने वाली वायु में धारारेखाएँ।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1434,7 +1525,16 @@ v = (u + v₁)/2 = 960 km/h = 267 m s¹ लेने
 डालते हैं। तरल गति में इस प्रतिरोध को आंतरिक घर्षण के रूप
 में देखा जा सकता है जो ठोसों में पृष्ठ पर गति से उत्पन्न घर्षण
 जैसा होता है। इसे श्यानता कहते हैं। जब द्रव की सतहों में सापेक्ष
-गति होती है तब यह बल उपस्थित होता है। चित्र 9.12 (a) में
+गति होती है तब यह बल उपस्थित होता है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_12_hi.png" alt="चित्र 9.12" onclick="openImageModal(this.src, 'चित्र 9.12: lHkh rjy vkn&#39;kZ rjy ugha gksrs rFkk og xfr esa oqQN izfrjks/ Mkyrs gSaA rjy ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.12</strong> lHkh rjy vkn'kZ rjy ugha gksrs rFkk og xfr esa oqQN izfrjks/ Mkyrs gSaA rjy xfr esa bl izfrjks/ dks vkarfjd ?k"kZ.k osQ :i esa ns[kk tk ldrk gS tks Bkslksa esa i`"B ij xfr ls mRiUu ?k"kZ.k tSlk gksrk gSA bls ';kurk dgrs gSaA tc nzo dh lrgksa esa lkis{k xfr gksrh gS rc ;g cy mifLFkr gksrk gSA fp=k 9.12 (a) esa n'kkZ;s vuqlkj ;fn dk¡p dh nks IysVksa osQ chp ,d nzo tSls rsy dks ysrs gSa] fupyh IysV dks fLFkj j[kk tk, tcfd Åijh IysV dks leku xfr ls fupyh IysV dh vis{kk pykrs gSaA ;fn</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
 दर्शाये अनुसार यदि काँच की दो प्लेटों के बीच एक द्रव जैसे
 तेल को लेते हैं, निचली प्लेट को स्थिर रखा जाए जबकि ऊपरी
 प्लेट को समान गति से निचली प्लेट की अपेक्षा चलाते हैं। यदि
@@ -1455,7 +1555,7 @@ D
 तथा ऊपरी प्लेट वेग से दाहिनी ओर गतिमान है।
 (b) पाइप में श्यान प्रवाह के लिए वेग वितरण।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1501,20 +1601,28 @@ Nsm² या Pas हैं। श्यानता की विमाएँ [M
 उदाहरण 9.8 0.10m² क्षेत्रफल की कोई धातु की
 प्लेट किसी डोरी की सहायता से जो एक आदर्श घिरनी
 (जिसे संहति रहित, तथा घर्षण रहित माना गया है) के
-ऊपर से होकर जाती है,0.010 kg संहति से चित्र 9.15
+ऊपर से होकर जाती है,0.010 kg संहति से
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_15_hi.png" alt="चित्र 9.15" onclick="openImageModal(this.src, 'चित्र 9.15: mnkgj.k 9. 9. 9. 9. 9.8 0.10 m2 {ks=kiQy dh dksbZ /krq dh IysV fdlh Mksjh dh lgk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.15</strong> mnkgj.k 9. 9. 9. 9. 9.8 0.10 m2 {ks=kiQy dh dksbZ /krq dh IysV fdlh Mksjh dh lgk;rk ls tks ,d vkn'kZ f?kjuh (ftls lagfr jfgr] rFkk ?k"kZ.k jfgr ekuk x;k gS) osQ Åij ls gksdj tkrh gS] 0.010 kg lagfr ls fp=k 9.15 dh Hkkafr tqM+h gSA dksbZ nzo ftldh fiQYe 0.30 mm eksVkbZ dh gS] es”k rFkk IysV osQ chp j[kh gqbZ gSA eqDr fd, tkus ij IysV 0.085 m s-1 dh vpj pky ls nkb± vksj xfr djus yxrh gSA nzo dk ';kurk xq.kkad Kkr dhft,A</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 की भांति जुड़ी है। कोई द्रव जिसकी फिल्म 0.30 mm
 मोटाई की है, मेज़ तथा प्लेट के बीच रखी हुई है। मुक्त
 किए जाने पर प्लेट 0.085 m s-¹ की अचर चाल से दाईं
 ओर गति करने लगती है। द्रव का श्यानता गुणांक ज्ञात
-कीजिए।
 
-फिल्म
-
-///
-
-0.01 kg
-
-चित्र 9.13 द्रव के श्यानता गुणांक का मापन।
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_13_hi.png" alt="चित्र 9.13" onclick="openImageModal(this.src, 'चित्र 9.13: fp=k 9.13 9.13 9.13 9.13 9.13 nzo osQ &#39;;kurk xq.kkad dk ekiuA...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.13</strong> fp=k 9.13 9.13 9.13 9.13 9.13 nzo osQ ';kurk xq.kkad dk ekiuA</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 199
 
@@ -1571,9 +1679,7 @@ T(°C)
 
 37
 
-### 2.7
-
-मशीन का तेल
+### 2.7 मशीन का तेल
 
 16
 
@@ -1604,7 +1710,7 @@ T(°C)
 
 N.m-2
 
-Reprint 2025-26
+
 
 
 ---
@@ -1709,7 +1815,7 @@ kg m
 गैसों के कोई स्वतंत्र पृष्ठ नहीं होते। अब हम इस परिघटना को
 समझने का प्रयत्न करते हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1722,7 +1828,15 @@ Reprint 2025-26
 कोई द्रव अपने अणुओं के बीच आकर्षण के कारण स्थायी है।
 द्रव के भीतर एक अणु लीजिए। अंतरापरमाणुक दूरियाँ इस
 प्रकार की होती हैं कि यह अपने घेरने वाले सभी परमाणुओं की
-ओर आकर्षित होता है [चित्र 9.14 (a)]। इस आकर्षण के
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_14_hi.png" alt="चित्र 9.14" onclick="openImageModal(this.src, 'चित्र 9.14: fp=k 9.14 9.14 9.14 9.14 9.14 fdlh nzo esa i`&quot;B ij v.kqvksa dk O;oLFkk vkjs...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.14</strong> fp=k 9.14 9.14 9.14 9.14 9.14 fdlh nzo esa i`"B ij v.kqvksa dk O;oLFkk vkjs[k rFkk cyksa dk larqyu (a) fdlh nzo osQ Hkhrj v.kqA v.kq ij vU; v.kqvksa osQ dkj.k cyksa dks n'kkZ;k x;k gSA rhjksa dh fn'kk,¡ vkd"kZ.k vFkok izfrd"kZ.k dks n'kkZrh gSaA (b) ;gh ?kVuk,¡ nzo osQ i`"B osQ fy,A</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
+
 परिणामस्वरूप अणुओं के लिए ऋणात्मक स्थितिज ऊर्जा उत्पन्न
 होती है। स्थितिज ऊर्जा का परिमाण इस बात पर निर्भर है कि
 इस चुने हुए अणु के चारों ओर अणु विन्यास किस प्रकार
@@ -1788,7 +1902,7 @@ R
 के कारण बलों को दर्शाया गया है। तीरों की दिशाएँ आकर्षण अथवा प्रतिकर्षण को दर्शाती हैं। (b) यही घटनाएँ द्रव के पृष्ठ के लिए।
 (c) आकर्षी (A) तथा प्रतिकर्षी (R) बलों की संतुलन।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1931,21 +2045,19 @@ N
 
 63.2
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 17
 
-I
-
-W
-
-S
-
-sa
-
-चित्र 9.16 पृष्ठ तनाव मापना।
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_16_hi.png" alt="चित्र 9.16" onclick="openImageModal(this.src, 'चित्र 9.16: ;fn Bksl&ok;q rFkk rjy&ok;q i`&quot;Bh; ÅtkZvksa osQ ;ksx ls rjy rFkk Bksl dh i`...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.16</strong> ;fn Bksl&ok;q rFkk rjy&ok;q i`"Bh; ÅtkZvksa osQ ;ksx ls rjy rFkk Bksl dh i`"Bh; ÅtkZ de gS rks rjy Bksl ls fpiosQxkA Bksl rFkk nzo i`"Bksa esa vkoZQ"k.k cy gksrk gSA fp=k 9.16 esa midj.k osQ vkjs[k osQ vuqlkj ge bls lhèks gh eki ldrs gSaA ,d piVh {kSfrt dk¡p dh IysV ftlosQ uhps fdlh ik=k esa nzo Hkjk gS] rqyk dh ,d Hkqtk dk;Z djrh gSA IysV osQ {kSfrt fupys fdukjs dks ikuh ls FkksM+k Åij j[kdj] rqyk osQ nwljh vksj ckV j[kdj larqfyr dj ysrs gSaA nzo ls Hkjs ik=k dks FkksM+k Åij mBkrs gSa rkfd ;g dk¡p dh IysV osQ {kSfrt fdukjksa dks Nwus Hkj yxs vkSj i`"B ruko osQ dkj.k IysV dks uhps dh vksj [khapus yxsA vc nwljh vksj oqQN ckV j[krs gSa tc rd fd IysV nzo ls oqQN vyx u gks tk,A</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
 
 मान लीजिए आवश्यक अतिरिक्त भार W है। तब समीकरण
 9.20 तथा वहाँ की गई चर्चा से, द्रव-वायु अंतरापृष्ठ का पृष्ठ
@@ -1967,7 +2079,14 @@ S₁₁ = (W/2l) = (mg/21)
 ठोसों के विभिन्न युग्मों के अंतरापृष्ठों पर यह भिन्न-भिन्न होता
 है। संपर्क कोण का मान यह दर्शाता है कि कोई द्रव किसी ठोस
 
-चित्र 9.17
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_17_hi.png" alt="चित्र 9.17" onclick="openImageModal(this.src, 'चित्र 9.17: osQ i`&quot;B ij iSQysxk vFkok bl ij cwansa cuk,xkA mnkgj.kLo:i tSlk fp=k 9.17 (...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.17</strong> osQ i`"B ij iSQysxk vFkok bl ij cwansa cuk,xkA mnkgj.kLo:i tSlk fp=k 9.17 (a) esa n'kkZ;k x;k gS] dey osQ iÙks ij ikuh dh cwansa curh gSa ijUrq LoPN IykfLVd IysV ij ;g iSQy tkrh gS [fp=k 9.17(b)]A</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 अंतरापृष्ठों में तनाव के साथ पानी की बूंदों के विभिन्न
 आकार (a) कमल के एक पत्ते पर (b) एक स्वच्छ प्लास्टिक प्लेट
 
@@ -2039,7 +2158,7 @@ sl
 
 la
 
-Reprint 2025-26
+
 
 
 ---
@@ -2079,7 +2198,15 @@ Reprint 2025-26
 
 पृष्ठ तनाव का एक अन्य रोचक परिणाम यह है कि बूँद
 के भीतर का दाब बूँद के बाहर के दाब से अधिक होता है।
-[चित्र 9.18(a)]। मान लीजिए r त्रिज्या की कोई गोल बूँद
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_18_hi.png" alt="चित्र 9.18" onclick="openImageModal(this.src, 'चित्र 9.18: [fp=k 9.18(a)]A eku yhft, r f=kT;k dh dksbZ xksy cw¡n lkE;koLFkk esa gSA ;fn bl ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.18</strong> [fp=k 9.18(a)]A eku yhft, r f=kT;k dh dksbZ xksy cw¡n lkE;koLFkk esa gSA ;fn bl cw¡n dh f=kT;k esa ∆r dh o`f¼ dh tk,] rks cw¡n esa vfrfjDr ÅtkZ gksxh]</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
+
 साम्यावस्था में है। यदि इस बूँद की त्रिज्या में ∆r की वृद्धि की
 जाए, तो बूँद में अतिरिक्त ऊर्जा होगी,
 
@@ -2155,39 +2282,20 @@ P
 नली केश की भाँति पतली हो तो उस नली में उन्नयन बहुत
 अधिक होगा। इसी तथ्य को देखने के लिए किसी ऐसी वृत्ताकार
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 19
 
-तरलों के यांत्रिकी गुण
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_19_hi.png" alt="चित्र 9.19" onclick="openImageModal(this.src, 'चित्र 9.19: vuqizLFk dkV (f=kT;k a) dh ÅèokZ/j osQ&#39;kuyh ij fopkj djrs gSa ftldk ,d fljk ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.19</strong> vuqizLFk dkV (f=kT;k a) dh ÅèokZ/j osQ'kuyh ij fopkj djrs gSa ftldk ,d fljk ty ls Hkjs fdlh [kqys crZu esa Mwck gS (fp=k 9.19) A ikuh rFkk dk¡p esa laioZQ dks.k U;wu gksrk gSA bl izdkj osQf'kdk esa ikuh dk i`"B vory gksrk gSA bldk vFkZ gS fd 'kh"kZ i`"B osQ nksuksa vksj nkckarj gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
 
-h = 2S/(pga)
-
-205
-
-Pa
-
-P
-
-0
-
-A
-
-B
-
-(a)
-
-r
-
-a
-
-(b)
-
-θ
-
-चित्र 9.19 केशिकीय उन्नयन (a) जल से भरे खुले बर्तन में डूबी
 किसी पतली नली का व्यवस्था आरेख।
 
 (b) अंतरापृष्ठ के निकट का आवर्धित आरेख।
@@ -2284,7 +2392,7 @@ P₁ = P + 2S/r
 सार्थक अंकों तक किया गया है।) बुलबुले के भीतर दाब
 आधिक्य 146 Pa है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -2369,7 +2477,7 @@ P = P + pgh
 उत्पन्न हो जाती है जो समय के बढ़ने के साथ बढ़ती है। अपरूपण प्रतिबल एवं अपरूपण विकृति की समय
 दर के अनुपात को श्यानता गुणांक 7 कहते हैं।
 
-Reprint 2025-26
+
 
 भौतिकी
 
@@ -2455,7 +2563,7 @@ g
 पृष्ठ तनाव होता है। दो पदार्थों जिनमें कम से कम एक तरल है, के अंतरापृष्ठ पर (जो दोनों को पृथक करता
 है) पृष्ठ ऊर्जा होती है। यह केवल एक तरल का ही गुण नहीं है।
 
-Reprint 2025-26
+
 
 207
 
@@ -2605,7 +2713,7 @@ not
 (a) किसी कागज़ की पट्टी को क्षैतिज रखने के लिए आपको उस कागज़ पर ऊपर की ओर हवा फूँकनी
 चाहिए, नीचे की ओर नहीं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -2681,9 +2789,14 @@ Reprint 2025-26
 की गतियाँ क्रमशः 70 m s¯¹ तथा 63 m s¯¹ हैं। यदि पंख का क्षेत्रफल 2.5 m² है, तो उस पर आरोपित
 उत्थापक बल परिकलित कीजिए । वायु का घनत्व 1.3 kg m³ लीजिए ।
 
-9.15
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_20_hi.png" alt="चित्र 9.20" onclick="openImageModal(this.src, 'चित्र 9.20: 9.15 fp=k 9.20(a) rFkk (b) fdlh nzo (&#39;;kurkghu) dk vifjorhZ izokg n&#39;kkZr...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.20</strong> 9.15 fp=k 9.20(a) rFkk (b) fdlh nzo (';kurkghu) dk vifjorhZ izokg n'kkZrs gSa A bu nksuksa fp=kksa esa ls dkSu lgh ugha gS \ dkj.k Li"V dhft, A</span>
+    <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
+  </div>
+</div>
 
-चित्र 9.20(a) तथा (b) किसी द्रव (श्यानताहीन) का अपरिवर्ती प्रवाह दर्शाते हैं । इन दोनों चित्रों में से
 कौन सही नहीं है ? कारण स्पष्ट कीजिए ।
 
 -
@@ -2694,7 +2807,7 @@ Reprint 2025-26
 
 (b)
 
-Reprint 2025-26
+
 
 ←
 
@@ -2720,7 +2833,14 @@ U-आकार के किसी तार को साबुन के व�
 लगा है जो 1.5×10-2N भार (जिसमें इसका अपना भार भी सम्मिलित है) को सँभालता है । फिसलने वाले
 तार की लंबाई 30 cm है । साबुन की फिल्म का पृष्ठ तनाव कितना है ?
 
-निम्नांकित चित्र 9.21(a) में किसी पतली द्रव-फिल्म को 4.5 × 10-2N का छोटा भार सँभाले दर्शाया गया
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_21_hi.png" alt="चित्र 9.21" onclick="openImageModal(this.src, 'चित्र 9.21: 9.18 fuEukafdr fp=k 9.21(a) esa fdlh iryh nzo&fiQYe dks 4.5 × 10–2 N dk NksVk Hk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9.21</strong> 9.18 fuEukafdr fp=k 9.21(a) esa fdlh iryh nzo&fiQYe dks 4.5 × 10–2 N dk NksVk Hkkj l¡Hkkys n'kkZ;k x;k gS A fp=k (b) rFkk (c) esa cuh blh nzo dh fiQYesa blh rki ij fdruk Hkkj l¡Hkky ldrh gSa \ vius mRrj dks izkÑfrd fu;eksa osQ vuqlkj Li"V dhft, A</span>
+    <button class="icon-btn" onclick="goToPdfPage(24)">📄 View in PDF (Page 24)</button>
+  </div>
+</div>
+
 है । चित्र (b) तथा (c) में बनी इसी द्रव की फिल्में इसी ताप पर कितना भार सँभाल सकती हैं ? अपने
 उत्तर को प्राकृतिक नियमों के अनुसार स्पष्ट कीजिए ।
 
@@ -2753,5 +2873,5 @@ not to be published
 आपेक्षिक घनत्व के साबुन के विलयन से भरे किसी पात्र में 40.0 cm गहराई पर बनता, तो इस बुलबुले के
 भीतर क्या दाब होता, ज्ञात कीजिए। (1 वायुमंडलीय दाब = 1.01 × 105 Pa) ।
 
-Reprint 2025-26
+
 

@@ -7,7 +7,7 @@
 
 Objectives
 
-12086CH12
+
 
 After studying this Unit, you will be
 able to
@@ -117,7 +117,7 @@ X
 
 Acyl halide; X = (Halogen)
 
-Reprint 2025-26
+
 
 =
 
@@ -219,7 +219,7 @@ Chemistry 228
 
 Acetaldehyde Benzaldehyde
 
-Reprint 2025-26
+
 
 ẞ-Bromobutyraldehyde
 
@@ -304,7 +304,7 @@ Pent-2-enal
 
 229 Aldehydes, Ketones and Carboxylic Acids
 
-Reprint 2025-26
+
 
 
 ---
@@ -388,7 +388,7 @@ a-Methylcyclohexanone
 
 Mesityl oxide
 
-Reprint 2025-26
+
 
 2-Methylcyclohexanone
 
@@ -410,7 +410,14 @@ In addition, the oxygen atom also has two non bonding electron pairs.
 Thus, the carbonyl carbon and the three atoms attached to it lie in the
 same plane and the π-electron cloud is above and below this plane. The
 bond angles are approximately 120° as expected of a trigonal coplanar
-structure (Figure 8.1).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch08_aldehydes_ketones_and_carboxylic_acids_fig_8_1.png" alt="Fig. 8.1" onclick="openImageModal(this.src, 'Fig. 8.1: 2-hybridised and forms three sigma (s) bonds. The fourth valence electron of car...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.1</strong> 2-hybridised and forms three sigma (s) bonds. The fourth valence electron of carbon remains in its p-orbital and forms a p-bond with oxygen by overlap with p-orbital of an oxygen. In addition, the oxygen atom also has two non bonding electron pairs. Thus, the carbonyl carbon and the three atoms attached to it lie in the same plane and the p-electron cloud is above and below this plane. The bond angles are approximately 120° as expected of a trigonal coplanar structure (Figure 8.1).</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 sp²
 
@@ -509,7 +516,7 @@ followed by reaction with zinc dust and water gives aldehydes,
 
 Aldehydes, Ketones and Carboxylic Acids
 
-Reprint 2025-26
+
 
 
 ---
@@ -615,7 +622,7 @@ gives corresponding benzaldehyde.
 
 Chemistry 232
 
-Reprint 2025-26
+
 
 
 ---
@@ -728,7 +735,7 @@ C=O
 
 233 Aldehydes, Ketones and Carboxylic Acids
 
-Reprint 2025-26
+
 
 
 ---
@@ -854,7 +861,7 @@ NO2
 
 Chemistry 234
 
-Reprint 2025-26
+
 
 
 ---
@@ -968,7 +975,7 @@ Solution
 
 235 Aldehydes, Ketones and Carboxylic Acids
 
-Reprint 2025-26
+
 
 
 ---
@@ -1018,8 +1025,16 @@ aldehydes and ketones undergo nucleophilic addition reactions.
 
 A nucleophile attacks the electrophilic carbon atom of the polar
 carbonyl group from a direction approximately perpendicular
-to the plane of sp² hybridised orbitals of carbonyl carbon (Fig.
-8.2). The hybridisation of carbon changes from sp² to sp³ in
+to the plane of sp² hybridised orbitals of carbonyl carbon (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch08_aldehydes_ketones_and_carboxylic_acids_fig_8_2.png" alt="Fig. 8.2" onclick="openImageModal(this.src, 'Fig. 8.2: 2 hybridised orbitals of carbonyl carbon (Fig. 8.2). The hybridisation of carbon...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.2</strong> 2 hybridised orbitals of carbonyl carbon (Fig. 8.2). The hybridisation of carbon changes from sp 2 to sp 3 in this process, and a tetrahedral alkoxide intermediate is produced. This intermediate captures a proton from the</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 this process, and a tetrahedral alkoxide intermediate is
 produced. This intermediate captures a proton from the
 
@@ -1074,7 +1089,7 @@ hence it is less reactive than propanal.
 
 Chemistry 236
 
-Reprint 2025-26
+
 
 
 ---
@@ -1228,7 +1243,7 @@ carbonyl carbon facilitating
 
 237 Aldehydes, Ketones and Carboxylic Acids
 
-Reprint 2025-26
+
 
 
 ---
@@ -1341,7 +1356,7 @@ well as by catalytic hydrogenation (Unit 7, Class XII).
 and ketones is reduced to CH2 group on treatment with zinc-
 amalgam and concentrated hydrochloric acid [Clemmensen
 
-Reprint 2025-26
+
 
 
 ---
@@ -1448,7 +1463,7 @@ Red-brown ppt
 
 239 Aldehydes, Ketones and Carboxylic Acids
 
-Reprint 2025-26
+
 
 
 ---
@@ -1566,7 +1581,7 @@ CHO
 
 Chemistry 240
 
-Reprint 2025-26
+
 
 
 ---
@@ -1671,7 +1686,7 @@ of ketones due to their similarity with aldehydes.
 
 241 Aldehydes, Ketones and Carboxylic Acids
 
-Reprint 2025-26
+
 
 
 ---
@@ -1783,7 +1798,7 @@ Benzaldehyde
 
 Chemistry 242
 
-Reprint 2025-26
+
 
 Methanol Potassium formate
 
@@ -1871,7 +1886,7 @@ no
 
 243 Aldehydes, Ketones and Carboxylic Acids
 
-Reprint 2025-26
+
 
 
 ---
@@ -1995,7 +2010,7 @@ or carballylic acid
 Propane-1, 2, 3-
 tricarboxylic acid
 
-Reprint 2025-26
+
 
 
 ---
@@ -2112,7 +2127,7 @@ Decanoic acid
 
 245 Aldehydes, Ketones and Carboxylic Acids
 
-Reprint 2025-26
+
 
 
 ---
@@ -2205,7 +2220,7 @@ COOH
 
 Chemistry 246
 
-Reprint 2025-26
+
 
 
 ---
@@ -2293,7 +2308,7 @@ Write chemical reactions to affect the following transformations:
 
 247 Aldehydes, Ketones and Carboxylic Acids
 
-Reprint 2025-26
+
 
 
 ---
@@ -2358,7 +2373,7 @@ Br Mg
 
 ether
 
-not to be republished
+
 
 Intext Question
 
@@ -2417,7 +2432,7 @@ ON
 
 Chemistry 248
 
-Reprint 2025-26
+
 
 
 ---
@@ -2531,7 +2546,7 @@ OH
 
 249 Aldehydes, Ketones and Carboxylic Acids
 
-Reprint 2025-26
+
 
 
 ---
@@ -2610,7 +2625,7 @@ Electron withdrawing group (EWG)
 stabilises the carboxylate anion
 and strengthens the acid
 
-Reprint 2025-26
+
 
 EDG
 
@@ -2732,7 +2747,7 @@ RCOOR' + H₂O
 
 251 Aldehydes, Ketones and Carboxylic Acids
 
-Reprint 2025-26
+
 
 
 ---
@@ -2863,7 +2878,7 @@ Ammonium benzoate
 
 Benzamide
 
-Reprint 2025-26
+
 
 
 ---
@@ -2983,7 +2998,7 @@ a - Halocarboxylic acid
 
 253 Aldehydes, Ketones and Carboxylic Acids
 
-Reprint 2025-26
+
 
 
 ---
@@ -3072,7 +3087,7 @@ group with a number of nucleophiles such as, HCN, NaHSO3, alcohols (or diols),
 
 Chemistry 254
 
-Reprint 2025-26
+
 
 
 ---
@@ -3194,7 +3209,7 @@ CHO
 
 255 Aldehydes, Ketones and Carboxylic Acids
 
-Reprint 2025-26
+
 
 
 ---
@@ -3327,7 +3342,7 @@ one
 
 Chemistry 256
 
-Reprint 2025-26
+
 
 
 ---
@@ -3461,7 +3476,7 @@ CH.CH.CHICH-CH₂CH₂
 
 257 Aldehydes, Ketones and Carboxylic Acids
 
-Reprint 2025-26
+
 
 
 ---
@@ -3589,5 +3604,5 @@ COOH
 
 Chemistry 258
 
-Reprint 2025-26
+
 

@@ -9,7 +9,7 @@ Chapter Twelve
 
 ATOMS
 
-12090CH12
+
 
 no
 
@@ -41,7 +41,7 @@ all temperatures emit electromagnetic radiation in which a continuous
 distribution of several wavelengths is present, though with different
 intensities. This radiation is considered to be due to oscillations of atoms
 
-Reprint 2025-26
+
 
 
 ---
@@ -128,7 +128,7 @@ RUTHERFORD'S NUCLEAR MODEL OF ATOM
 At the suggestion of Ernst Rutherford, in 1911, H. Geiger and E. Marsden
 performed some experiments. In one of their experiments, as shown in
 
-Reprint 2025-26
+
 
 ERNST RUTHERFORD (1871 – 1937)
 
@@ -152,7 +152,14 @@ Screen
 
 ment.
 
-FIGURE 12.1 Geiger-Marsden scattering experiment.
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_1.png" alt="Fig. 12.1" onclick="openImageModal(this.src, 'Fig. 12.1: Fig. 12.1, they directed a beam of 5.5 MeV a-particles emitted from a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.1</strong> Fig. 12.1, they directed a beam of 5.5 MeV a-particles emitted from a</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 The entire apparatus is placed in a vacuum chamber
 (not shown in this figure).
 
@@ -164,7 +171,16 @@ Fig. 12.1, they directed a beam of
 
 83
 
-foil made of gold. Figure 12.2 shows a
+foil made of gold.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_2.png" alt="Fig. 12.2" onclick="openImageModal(this.src, 'Fig. 12.2: 214 83Bi radioactive source at a thin metal foil made of gold. Figure 12.2 shows...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.2</strong> 214 83Bi radioactive source at a thin metal foil made of gold. Figure 12.2 shows a schematic diagram of this experiment. Alpha-particles emitted by a 214</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 schematic diagram of this experiment.
 Alpha-particles emitted by a 214 Bi
 radioactive source were collimated into
@@ -219,7 +235,16 @@ Detector
 FIGURE 12.2 Schematic arrangement of the Geiger-Marsden experiment.
 
 A typical graph of the total number of a-particles scattered at different
-angles, in a given interval of time, is shown in Fig. 12.3. The dots in this
+angles, in a given interval of time, is shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_3.png" alt="Fig. 12.3" onclick="openImageModal(this.src, 'Fig. 12.3: A typical graph of the total number of a-particles scattered at different angles...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.3</strong> A typical graph of the total number of a-particles scattered at different angles, in a given interval of time, is shown in Fig. 12.3. The dots in this figure represent the data points and the solid curve is the theoretical prediction based on the assumption that the target atom has a small, dense, positively charged nucleus. Many of the a-particles pass through the foil. It means that they do not suffer any collisions. Only about 0.14% of the incident a-particles scatter by more than 1°; and about 1 in 8000 deflect by more than 90°. Rutherford argued that, to deflect the a-particle backwards, it must experience a large repulsive force. This force could</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 figure represent the data points and the solid curve is the theoretical
 prediction based on the assumption that the target atom has a small,
 dense, positively charged nucleus. Many of the a-particles pass through
@@ -228,7 +253,7 @@ of the incident a-particles scatter by more than 1°; and about 1 in 8000
 deflect by more than 90°. Rutherford argued that, to deflect the a-particle
 backwards, it must experience a large repulsive force. This force could
 
-Reprint 2025-26
+
 
 
 ---
@@ -318,7 +343,7 @@ charged nucleus.
 
 293
 
-Reprint 2025-26
+
 
 
 ---
@@ -351,8 +376,16 @@ changes as it approaches the nucleus and recedes away from it.
 
 The trajectory traced by an a-particle depends on the impact parameter,
 b of collision. The impact parameter is the perpendicular distance of the
-initial velocity vector of the a-particle from the centre of the nucleus (Fig.
-12.4). A given beam of a-particles has a
+initial velocity vector of the a-particle from the centre of the nucleus (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_4.png" alt="Fig. 12.4" onclick="openImageModal(this.src, 'Fig. 12.4: 12.4). A given beam of a-particles has a distribution of impact parameters b, so...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.4</strong> 12.4). A given beam of a-particles has a distribution of impact parameters b, so that the beam is scattered in various directions with different probabilities (Fig. 12.4). (In a beam, all particles have nearly same kinetic energy.) It is seen that an a-particle close to the nucleus (small impact parameter) suffers large scattering. In case of head-on collision, the impact parameter is minimum and the a-particle rebounds back (q @ p). For a large impact parameter, the a-particle goes nearly undeviated and has a small deflection (q @ 0).</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 distribution of impact parameters b, so that
 the beam is scattered in various directions
 with different probabilities (Fig. 12.4). (In
@@ -413,7 +446,7 @@ from the sun.
 It implies that an atom contains a much greater fraction of empty
 space than our solar system does.
 
-Reprint 2025-26
+
 
 
 ---
@@ -522,7 +555,7 @@ EXAMPLE 12.2
 
 295
 
-Reprint 2025-26
+
 
 
 ---
@@ -638,24 +671,20 @@ low pressure, usually by passing an electric current through it, the emitted
 radiation has a spectrum which contains certain specific wavelengths
 only. A spectrum of this kind is termed as emission line spectrum and it
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 8
 
-Atoms
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_5.png" alt="Fig. 12.5" onclick="openImageModal(this.src, 'Fig. 12.5: consists of bright lines on a dark background. The spectrum emitted by atomic hy...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.5</strong> consists of bright lines on a dark background. The spectrum emitted by atomic hydrogen is shown in Fig. 12.5. Study of emission line spectra of a material can therefore serve as a type of “fingerprint” for identification of the gas. When white light passes through a gas and we analyse the transmitted light using a spectrometer we find some dark lines in the spectrum. These dark lines correspond precisely to those wavelengths which were found in the emission line spectrum of the gas. This is called the absorption spectrum of the material of the gas.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
-Wavelength, λ
-
-91 nm
-122 nm
-
-consists of bright lines on a
-dark background. The
-spectrum emitted by atomic
-hydrogen is shown in
-Fig. 12.5. Study of emission
 line spectra of a material can
 therefore serve as a type of
 "fingerprint" for identification
@@ -710,7 +739,16 @@ electromagnetic theory, an accelerating charged particle
 emits radiation in the form of electromagnetic waves.
 The energy of an accelerating electron should therefore,
 continuously decrease. The electron would spiral
-inward and eventually fall into the nucleus (Fig. 12.6).
+inward and eventually fall into the nucleus (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_6.png" alt="Fig. 12.6" onclick="openImageModal(this.src, 'Fig. 12.6: The model of the atom proposed by Rutherford assumes that the atom, consisting o...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.6</strong> The model of the atom proposed by Rutherford assumes that the atom, consisting of a central nucleus and revolving electron is stable much like sun-planet system which the model imitates. However, there are some fundamental differences between the two situations. While the planetary system is held by gravitational force, the nucleus-electron system being charged objects, interact by Coulomb’s Law of force. We know that an object which moves in a circle is being constantly accelerated – the acceleration being centripetal in nature. According to classical electromagnetic theory, an accelerating charged particle emits radiation in the form of electromagnetic waves. The energy of an accelerating electron should therefore, continuously decrease. The electron would spiral inward and eventually fall into the nucleus (Fig. 12.6). Thus, such an atom can not be stable. Further, according to the classical electromagnetic theory, the frequency of the electromagnetic waves emitted by the revolving electrons is equal to the frequency of revolution. As the electrons spiral inwards, their angular velocities and hence their frequencies would change continuously, and so will the frequency of the light emitted. Thus, they would emit a continuous spectrum, in contradiction to the line spectrum actually observed. Clearly Rutherford model tells only a part of the story implying that the classical ideas are not sufficient to explain the atomic structure.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 Thus, such an atom can not be stable. Further,
 according to the classical electromagnetic theory, the
 frequency of the electromagnetic waves emitted by the
@@ -745,7 +783,7 @@ NIELS HENRIK DAVID BOHR (1885 – 1962)
 
 297
 
-Reprint 2025-26
+
 
 
 ---
@@ -824,7 +862,7 @@ in certain stable orbits without the emission of radiant energy,
 contrary to the predictions of electromagnetic theory. According to
 this postulate, each atom has certain definite stable states in which it
 
-Reprint 2025-26
+
 
 
 ---
@@ -921,7 +959,7 @@ means that the electron is bound with the nucleus. Energy will thus be
 required to remove the electron from the hydrogen atom to a distance
 infinitely far away from its nucleus (or proton in hydrogen atom).
 
-Reprint 2025-26
+
 
 299
 
@@ -933,32 +971,14 @@ Physics
 
 Total energy, E (eV)
 
-Unbound (ionised)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_7.png" alt="Fig. 12.7" onclick="openImageModal(this.src, 'Fig. 12.7: The energy level diagram* for the stationary states of a hydrogen atom, computed...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.7</strong> The energy level diagram* for the stationary states of a hydrogen atom, computed from Eq. (12.10), is given in Fig. 12.7. The principal quantum number n labels the stationary states in the ascending order of energy. In this diagram, the highest energy state corresponds to n =¥ in Eq, (12.10) and has an energy of 0 eV. This is the energy of the atom when the electron is completely removed (r = ¥) from the nucleus and is at rest. Observe how the energies of the excited states come closer and closer together as n increases.</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
 
-atom
-
-0
--0.85
-
--1.51
-
-n = 5
-n = 4
-n = 3
-
--3.40
-
-n = 2
-
--13.6
-
-Excited
-states
-
-Ground state
-n = 1
-
-FIGURE 12.7 The energy level
 diagram for the hydrogen atom.
 The electron in a hydrogen atom
 
@@ -1032,7 +1052,7 @@ An electron can have any total energy above E = 0 eV. In such situations the
 electron is free. Thus there is a continuum of energy states above E = 0 eV, as
 shown in Fig. 12.7.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1079,11 +1099,14 @@ that are integral multiples of h/2π? The French physicist Louis
 de Broglie explained this puzzle in 1923, ten years after Bohr
 proposed his model.
 
-λ
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_8.png" alt="Fig. 12.8" onclick="openImageModal(this.src, 'Fig. 12.8: FIGURE 12.8 A standing wave...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 12.8</strong> FIGURE 12.8 A standing wave</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
-Nucleus
-
-FIGURE 12.8 A standing wave
 is shown on a circular orbit
 where four de Broglie
 wavelengths fit into the
@@ -1111,7 +1134,7 @@ orbit of radius r₁, the total distance is the circumference of the orbit,
 
 301
 
-Reprint 2025-26
+
 
 
 ---
@@ -1197,7 +1220,7 @@ Hydrogenic atoms are the atoms consisting of a nucleus with positive charge
 atom, singly ionised helium, doubly ionised lithium, and so forth. In these
 atoms more complex electron-electron interactions are nonexistent.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1297,7 +1320,7 @@ frequency.
 
 303
 
-Reprint 2025-26
+
 
 
 ---
@@ -1370,7 +1393,7 @@ still useful are:
 
 not t
 
-Reprint 2025-26
+
 
 
 ---
@@ -1464,7 +1487,7 @@ of radius 1.5 × 10¹¹ m with orbital speed 3 × 104 m/s. (Mass of earth
 
 11
 
-Reprint 2025-26
+
 
 305
 

@@ -9,7 +9,7 @@
 
 विद्युत धारा
 
-12091CH03
+
 
 republished
 
@@ -41,7 +41,7 @@ t
 
 (3.1)
 
-Reprint 2026-27
+
 
 
 ---
@@ -105,7 +105,7 @@ no
 अपरिवर्तित रहती है। अतः टकराने के बाद चाल की दिशा पूर्णतया यादृच्छिक होती है। किसी दिए
 हुए समय पर इलेक्ट्रॉनों की चाल की कोई अधिमानिक दिशा नहीं होती है। अतः औसत रूप से
 
-Reprint 2026-27
+
 
 
 ---
@@ -121,16 +121,25 @@ Reprint 2026-27
 आइए अब हम यह देखें कि इस प्रकार के चालक के
 किसी टुकड़े पर कोई विद्युत क्षेत्र अनुप्रयुक्त करने पर क्या होता
 है। अपने विचारों को केंद्रित करने के लिए R त्रिज्या के
-बेलनाकार चालक की कल्पना कीजिए (चित्र 3.1)। मान
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_hi.png" alt="चित्र 3" onclick="openImageModal(this.src, 'चित्र 3: vkb, vc ge ;g ns[ksa fd bl izdkj osQ pkyd osQ fdlh VqdM+s ij dksbZ fo|qr {ks=k v...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3</strong> vkb, vc ge ;g ns[ksa fd bl izdkj osQ pkyd osQ fdlh VqdM+s ij dksbZ fo|qr {ks=k vuqiz;qDr djus ij D;k gksrk gSA vius fopkjksa dks osaQfnzr djus osQ fy, R f=kT;k osQ csyukdkj pkyd dh dYiuk dhft, (fp=k 3-1)A eku yhft, ijkoS|qr inkFkZ dh cuh nks iryh o`Ùkkdkj fMLd ysrs gSa ftudh f=kT;k,¡ pkyd osQ leku gSa vkSj ftuesa ,d ij /ukos'k +Q rFkk nwljs ij ½.kkos'k</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 लीजिए परावैद्युत पदार्थ की बनी दो पतली वृत्ताकार डिस्क लेते
 
-+9
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_1_hi.png" alt="चित्र 3.1" onclick="openImageModal(this.src, 'चित्र 3.1: fp=k 3.1 /kfRod csyu osQ fljksa ij j[ks +Q vkSj –Q vkos&#39;kA...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.1</strong> fp=k 3.1 /kfRod csyu osQ fljksa ij j[ks +Q vkSj –Q vkos'kA</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
-E
-
--9
-
-चित्र 3.1 धात्विक बेलन के सिरों पर रखे + Q और - आवेश।
 आवेशों को उदासीन करने के लिए उत्पन्न विद्युत क्षेत्र के कारण
 इलेक्ट्रॉनों का अपवाह होगा। यदि आवेश +Q और - की पुनः
 पूर्ति सतत न की गई तो कुछ देर में विद्युत धारा प्रवाह समाप्त
@@ -174,11 +183,20 @@ V I
 अनुसार आसानी से ज्ञात की जा सकती है।
 
 लंबाई । तथा अनुप्रस्थ काट क्षेत्रफल A की किसी आयताकार सिल्ली पर विचार कीजिए जो
-समीकरण (3.3) को संतुष्ट करता है [चित्र 3.2 ]। कल्पना कीजिए ऐसी दो सर्वसम सिल्लियाँ सिरे
+समीकरण (3.3) को संतुष्ट करता है [
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_2_hi.png" alt="चित्र 3.2" onclick="openImageModal(this.src, 'चित्र 3.2: yackbZ l rFkk vuqizLFk dkV {ks=kiQy A dh fdlh vk;rkdkj flYyh ij fopkj dhft, tks ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.2</strong> yackbZ l rFkk vuqizLFk dkV {ks=kiQy A dh fdlh vk;rkdkj flYyh ij fopkj dhft, tks lehdj.k (3.3) dks larq"V djrk gS [fp=k 3.2 ]A dYiuk dhft, ,slh nks loZle flfYy;k¡ fljs ls fljs dks feykrs gq, bl izdkj j[kh gqbZ gSa fd la;kstu dh yackbZ 2l gSA bl la;kstu ls mruh gh èkkjk izokfgr gksxh ftruh fd nksuksa esa ls fdlh ,d flYyh ls gksxhA ;fn igyh flYyh osQ</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 से सिरे को मिलाते हुए इस प्रकार रखी हुई हैं कि संयोजन की लंबाई 21 है। इस संयोजन से उतनी
 ही धारा प्रवाहित होगी जितनी कि दोनों में से किसी एक सिल्ली से होगी। यदि पहली सिल्ली के
 
-Reprint 2026-27
+
 
 A
 
@@ -304,7 +322,7 @@ A
 
 विद्युत धारा प्रति एकांक क्षेत्र (धारा के अभिलंबवत ली गई) I/A धारा घनत्व कहलाता है और
 
-Reprint 2026-27
+
 
 
 ---
@@ -349,15 +367,14 @@ t
 समय अंतराल के लिए समीकरण (3.15) द्वारा दिए गए त्वरण के साथ
 त्वरित हुआ था। सभी इलेक्ट्रॉनों का समय 1 पर औसत वेग सभी V, का औसत है।
 
-i
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_3_hi.png" alt="चित्र 3.3" onclick="openImageModal(this.src, 'चित्र 3.3: fp=k 3.3 fdlh ¯cnq A ls nwljs ¯cnq B rd ckjEckj la?kêðksa osQ }kjk bysDVªkWu dh ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.3</strong> fp=k 3.3 fdlh ¯cnq A ls nwljs ¯cnq B rd ckjEckj la?kêðksa osQ }kjk bysDVªkWu dh xfr rFkk la?kêðksa osQ chp jSf[kd xfr dk vkjs[kh; fp=k.k (lrr js[kk,¡)A ;fn n'kkZ, vuqlkj dksbZ fo|qr {ks=k yxk;k tkrk gS rks bysDVªkWu B' ij #d tkrk gS (¯cnqÑr js[kk,¡)A fo|qr {ks=k osQ foijhr fn'kk esa ekewyh viokg fn[kykbZ ns jgk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
-Reprint 2026-27
-
-A
-
-E
-
-चित्र 3.3 किसी बिंदु A से दूसरे बिंदु B तक बारम्बार
 संघट्टों के द्वारा इलेक्ट्रॉन की गति तथा संघट्टों के
 बीच रैखिक गति का आरेखीय चित्रण (सतत रेखाएँ)।
 यदि दर्शाए अनुसार कोई विद्युत क्षेत्र लगाया जाता है
@@ -477,11 +494,15 @@ A
 
 यद्यपि त्वरित है, एक औसत वेग से गतिमान है जो समय पर निर्भर नहीं
 करता है। यह परिघटना अपवाह की है और समीकरण (3.17) का वेग v
-अपवाह वेग कहलाता है।
 
-d
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_4_hi.png" alt="चित्र 3.4" onclick="openImageModal(this.src, 'चित्र 3.4: viokg osQ dkj.k] fo|qr {ks=k E osQ yacor fdlh {ks=k ls gksdj vkos&#39;kksa dk us...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.4</strong> viokg osQ dkj.k] fo|qr {ks=k E osQ yacor fdlh {ks=k ls gksdj vkos'kksa dk usV ifjogu gksxkA pkyd osQ vanj ,d leryh; {ks=k ij fopkj djsa tks fd E osQ lekarj {ks=k ij vfHkyac gS (fp=k 3.4)A rc viokg osQ dkj.k] vR;.kq le; ∆t esa] {ks=k dh ck;ha vksj osQ lHkh bysDVªkWu |vd|∆t nwjh ikj dj fy, gksaxsA ;fn pkyd esa izfr ,dkad vk;ru eqDr bysDVªkWuksa dh la[;k n gS rks</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
-चित्र 3.4 धात्विक चालक में विद्युत धारा। धातु में
 धारा घनत्व का परिमाण एकांक क्षेत्रफल तथा va
 ऊँचाई के बेलन में अंतर्विष्ट आवेश के परिमाण के
 
@@ -558,7 +579,7 @@ ne2
 
 m
 
-Reprint 2026-27
+
 
 
 ---
@@ -623,7 +644,7 @@ n=
 
 भौतिकी पाठ्यपुस्तक, कक्षा 11, अध्याय 12 का समीकरण (12.23) देखिए।
 
-Reprint 2026-27
+
 
 ed
 
@@ -706,7 +727,7 @@ E
 गतिशीलता का SI मात्रक m²/Vs है और इसके प्रायोगिक मात्रक (cm²/Vs) का 10 गुना है।
 गतिशीलता धनात्मक होती है। समीकरण (3.17) में,
 
-Reprint 2026-27
+
 
 
 ---
@@ -736,7 +757,15 @@ E m
 
 I
 
-यद्यपि ओम का नियम पदार्थों के विस्तृत वर्ग के लिए मान्य है, विद्युत परिपथों में चित्र 3.5 बिंदुकित रेखा रैखिक ओम-नियम
+यद्यपि ओम का नियम पदार्थों के विस्तृत वर्ग के लिए मान्य है, विद्युत परिपथों में
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_5_hi.png" alt="चित्र 3.5" onclick="openImageModal(this.src, 'चित्र 3.5: (a) V dh I ls vkuqikfrdrk lekIr gks tkrh gS (fp=k 3.5)...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.5</strong> (a) V dh I ls vkuqikfrdrk lekIr gks tkrh gS (fp=k 3.5)</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 उपयोग होने वाले कुछ ऐसे पदार्थ एवं युक्तियाँ विद्यमान हैं जहाँ V तथा I की
 
@@ -761,13 +790,21 @@ I है, तो V का परिमाण स्थिर रख कर
 
 कुछ
 
-समान परिमाण की धारा उत्पन्न नहीं होती है (चित्र 3.6)। उदाहरण के लिए, डायोड में ऐसा
+समान परिमाण की धारा उत्पन्न नहीं होती है (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_6_hi.png" alt="चित्र 3.6" onclick="openImageModal(this.src, 'चित्र 3.6: /kjk I gS] rks V dk ifjek.k fLFkj j[k dj bldh fn&#39;kk cnyus ij] foijhr fn&#39;...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.6</strong> /kjk I gS] rks V dk ifjek.k fLFkj j[k dj bldh fn'kk cnyus ij] foijhr fn'kk esa I osQ leku ifjek.k dh /kjk mRiUu ugha gksrh gS (fp=k 3.6)A mnkgj.k osQ fy,] Mk;ksM esa ,slk gksrk gS ftldk vè;;u ge vè;k; 14 esa djsaxsA</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 होता है जिसका अध्ययन हम अध्याय 14 में करेंगे।
 
 I
 
-### 1.5
-mA
+### 1.5 mA
 
 ONCE
 
@@ -798,9 +835,14 @@ I
 चित्र 3.6 डायोड के अभिलाक्षणिक वक्र।
 
 वोल्टता तथा धारा के ऋण व धन मानों के लिए
-विभिन्न
 
-चित्र 3.7 GaAs में वोल्टता के सापेक्ष धारा में परिवर्तन।
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_7_hi.png" alt="चित्र 3.7" onclick="openImageModal(this.src, 'चित्र 3.7: vfèkd eku gks ldrs gSa (fp=k 3.7)A inkFkZ rFkk ;qfDr;k¡ tks lehdj.k (3.3) osQ :i...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.7</strong> vfèkd eku gks ldrs gSa (fp=k 3.7)A inkFkZ rFkk ;qfDr;k¡ tks lehdj.k (3.3) osQ :i esa vkse osQ fu;e dk ikyu ugha djrh gSa] ;FkkFkZ esa] bysDVªkWfud ifjiFk esa O;kid :i ls mi;ksx dh tkrh gaSA rFkkfi bl vè;k; rFkk ijorhZ vè;k; esa] ge ml inkFkZ esa fo|qr /kjk dk vè;;u djasxs tks vkse osQ fu;e dk ikyu djrs gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 (c) V तथा I के मध्य संबंध एकमात्र संबंध नहीं है अर्थात उसी धारा I के लिए V के एक से
 अधिक मान हो सकते हैं (चित्र 3.7)।
@@ -810,7 +852,7 @@ I
 परवर्ती अध्याय में, हम उस पदार्थ में विद्युत धारा का अध्ययन करेंगे जो ओम के नियम का पालन
 करते हैं।
 
-Reprint 2026-27
+
 
 87
 
@@ -861,12 +903,27 @@ P₁ = ρο [1 + α (Τ−T)]
 कर सकते हैं, जहाँ ग्राफ करीब-करीब एक सरल रेखा होगी।
 
 कुछ पदार्थ जैसे कि निक्रोम (जो कि निकैल, लोहा तथा क्रोमियम की मिश्रातु है) बहुत दुर्बल
-ताप-निर्भरता प्रदर्शित करता है (चित्र 3.9)। मैंगनीन तथा कांसटेंटन में भी इसी प्रकार के गुण हैं।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_9_hi.png" alt="चित्र 3.9" onclick="openImageModal(this.src, 'चित्र 3.9: oqQN inkFkZ tSls fd fuØkse (tks fd fuoSQy] yksgk rFkk Øksfe;e dh feJkrq gS) cgqr...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.9</strong> oqQN inkFkZ tSls fd fuØkse (tks fd fuoSQy] yksgk rFkk Øksfe;e dh feJkrq gS) cgqr nqcZy rki&fuHkZjrk izn£'kr djrk gS (fp=k 3.9)A eSaxuhu rFkk dkalVsaVu esa Hkh blh izdkj osQ xq.k gaSA pw¡fd buosQ izfrjks/ dh rki&fuHkZjrk cgqr de gS] blfy, ;s inkFkZ rkj vkc¼ ekud izfrjksèkdksa osQ fuekZ.k esa O;kid :i ls mi;ksx fd, tkrs gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 चूँकि इनके प्रतिरोध की ताप-निर्भरता बहुत कम है, इसलिए ये पदार्थ तार आबद्ध मानक प्रतिरोधकों
 के निर्माण में व्यापक रूप से उपयोग किए जाते हैं।
 
 धातुओं के विपरीत, अर्धचालकों की प्रतिरोधकता ताप में वृद्धि होने पर कम हो जाती है। इस
-प्रारूपिक निर्भरता को चित्र 3.10 में दर्शाया गया है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_10_hi.png" alt="चित्र 3.10" onclick="openImageModal(this.src, 'चित्र 3.10: /krqvksa osQ foijhr] v/Zpkydksa dh izfrjks/drk rki esa o`f¼ gksus ij de gks tkrh...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.10</strong> /krqvksa osQ foijhr] v/Zpkydksa dh izfrjks/drk rki esa o`f¼ gksus ij de gks tkrh gSA bl izk:fid fuHkZjrk dks fp=k 3.10 esa n'kkZ;k x;k gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
 not
 
@@ -889,7 +946,7 @@ P=net
 वाले इलेक्ट्रॉनों की औसत चाल बढ़ती जाती है जिसके परिणामस्वरूप संघट्ट की आवृत्ति भी बढ़ती
 जाती है। इसलिए संघट्टों का औसत समय ८, ताप के साथ घटता है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -907,23 +964,13 @@ Reprint 2026-27
 
 ### 1.10
 
-ρ
-
-विद्युत धारा
-
-0
-
-50
-
-100
-
-150
-
-ताप T (K)
-
-→
-
-चित्र 3.8 ताप T के फलन
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_8_hi.png" alt="चित्र 3.8" onclick="openImageModal(this.src, 'चित्र 3.8: fp=k 3.8 rki T osQ iQyu...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.8</strong> fp=k 3.8 rki T osQ iQyu</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
 
 के रूप में ताँबे की
 
@@ -1002,7 +1049,7 @@ T2= (820 + 27.0) °C = 847 °C
 इस प्रकार, तापन अवयव का ताप (जब धारा के कारण तापीय प्रभाव प्रतिवेश में हुए ऊष्मा
 क्षय के बराबर है) 847 °C है।
 
-Reprint 2026-27
+
 
 उदाहरण 3.3
 
@@ -1116,7 +1163,7 @@ AW = I VAt
 
 P=IV
 
-Reprint 2026-27
+
 
 
 ---
@@ -1146,23 +1193,15 @@ P = I2 R = V2/R
 समीकरणों (3.32) तथा (3.33) में शक्ति के लिए दिए गए
 व्यंजक से यह स्पष्ट होता है कि किसी प्रतिरोधक R में क्षयित शक्ति
 उस चालक में प्रवाहित धारा तथा उसके सिरों पर वोल्टता पर किस प्रकार
-निर्भर करती है।
 
-I
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_11_hi.png" alt="चित्र 3.11" onclick="openImageModal(this.src, 'चित्र 3.11: fp=k 3.11 lsy osQ V£euyksa ls la;ksftr izfrjks/d esa...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.11</strong> fp=k 3.11 lsy osQ V£euyksa ls la;ksftr izfrjks/d esa</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
-धनात्मक
-
-इलैक्ट्रोड
-
-R
-
-ऋणात्मक
-
-इलैक्ट्रोड
-
-विद्युत अपघट्य
-
-चित्र 3.11 सेल के टर्मिनलों से संयोजित प्रतिरोधक में
 R ऊष्मा उत्पन्न होती है। प्रतिरोधक R में क्षयित ऊर्जा
 विद्युत अपघट्य की रासायनिक ऊर्जा से आती है।
 
@@ -1210,10 +1249,19 @@ C
 ### 3.10 सेल, विद्युत वाहक बल (emf), आंतरिक प्रतिरोध
 
 हमने पहले ही उल्लेख किया है कि विद्युत अपघटनी सेल विद्युत परिपथ में स्थायी धारा को बनाए
-रखने के लिए एक सरल युक्ति है। जैसा कि चित्र 3.12 में दिखाया गया है, मूल रूप से एक सेल
+रखने के लिए एक सरल युक्ति है। जैसा कि
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_12_hi.png" alt="चित्र 3.12" onclick="openImageModal(this.src, 'चित्र 3.12: geus igys gh mYys[k fd;k gS fd fo|qr vi?kVuh lsy fo|qr ifjiFk esa LFkk;h èkkjk d...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.12</strong> geus igys gh mYys[k fd;k gS fd fo|qr vi?kVuh lsy fo|qr ifjiFk esa LFkk;h èkkjk dks cuk, j[kus osQ fy, ,d ljy ;qfDr gSA tSlk fd fp=k 3.12 esa fn[kk;k x;k gS] ewy :i ls ,d lsy osQ nks bySDVªksM gksrs gSa] tks fd èkukRed (P) rFkk ½.kkRed (N) dgykrs gSaA ;s ,d fo|qr</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 के दो इलैक्ट्रोड होते हैं, जो कि धनात्मक (P) तथा ऋणात्मक (N) कहलाते हैं। ये एक विद्युत
 
-Reprint 2026-27
+
 
 91
 
@@ -1338,7 +1386,7 @@ A तथा B के मध्य विभवांतर के लिए व�
 V=IR
 (3.39)
 
-Reprint 2026-27
+
 
 
 ---
@@ -1380,25 +1428,15 @@ Eeq
 I
 
 <
-AI
 
-=
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_13_hi.png" alt="चित्र 3.13" onclick="openImageModal(this.src, 'चित्र 3.13: fp=k 3.13 fo|qr okgd cy ε1 rFkk ε2 osQ nks lsy Js.khØe esa la;ksftr gSaA r1 rFkk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.13</strong> fp=k 3.13 fo|qr okgd cy ε1 rFkk ε2 osQ nks lsy Js.khØe esa la;ksftr gSaA r1 rFkk r2 muosQ vkarfjd çfrjksèk gSaA A rFkk C osQ eè; lacaèku osQ fy, la;kstu dks fo|qr okgd cy εeq rFkk</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
-B
-
-C
-
-AI
-
-C
-
-r₁
-
-T2
-
-Teq
-
-चित्र 3.13 विद्युत वाहक बल ६₁ तथा ६ के दो सेल श्रेणीक्रम में संयोजित हैं। r₁ तथा उनके
 आंतरिक प्रतिरोध हैं। A तथा C के मध्य संबंधन के लिए संयोजन को विद्युत वाहक बल ६ तथा
 
 आंतरिक प्रतिरोध के एक सेल के जैसा समझा जा सकता है।
@@ -1461,7 +1499,7 @@ req = r
 
 93
 
-Reprint 2026-27
+
 
 
 ---
@@ -1473,37 +1511,13 @@ Reprint 2026-27
 
 I
 
-I
-
-Γι
-
-AI
-
-B
-
-E2
-
-B2
-
-IC
-
-I2
-
-I2
-
-T2
-
-Eeq
-
-=
-
-A I
-
-Teq
-
-IC
-
-चित्र 3.14 दो सेलों का पार्श्व संयोजन
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_14_hi.png" alt="चित्र 3.14" onclick="openImageModal(this.src, 'चित्र 3.14: fp=k 3.14 nks lsyksa dk ik&#39;oZ la;kstu...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.14</strong> fp=k 3.14 nks lsyksa dk ik'oZ la;kstu</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
 A तथा C के बीच इस संयोजन को
 
@@ -1628,7 +1642,7 @@ eq
 
 V = &eq- I req
 
-Reprint 2026-27
+
 
 (3.53)
 
@@ -1754,7 +1768,7 @@ to be
 स्रोत) के लिए धनात्मक तथा ऋणात्मक इलैक्ट्रोड को, सेल में प्रवाह हो रही धारा के संकेत के
 अलावा एक निर्देशित तीर से चिह्नित करते हैं। यह हमें धनात्मक टर्मिनल P तथा ऋणात्मक टर्मिनल
 
-Reprint 2026-27
+
 
 गुस्ताव रॉबर्ट किरखोफ (1824 – 1887)
 
@@ -1778,36 +1792,14 @@ a
 
 30 Ω
 
-h
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_15_hi.png" alt="चित्र 3.15" onclick="openImageModal(this.src, 'चित्र 3.15: èkkjkvksa dk ;ksx bl laf/ ls fudyus okyh fo|qr èkkjkvksa osQ ;ksx osQ cjkcj gksr...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.15</strong> èkkjkvksa dk ;ksx bl laf/ ls fudyus okyh fo|qr èkkjkvksa osQ ;ksx osQ cjkcj gksrk gS (fp=k 3.15)A bl fu;e dk çek.k bl rF; ls le>rs gSa fd tc fo|qr èkkjk LFkk;h gksrh gS] fdlh lafèk ;k pkyd osQ fdlh fcanq ij vkos'k lafpr ugha gksrk gSA vr% ços'k djus okyh oqQy fo|qr èkkjk,¡ (tks fd lafèk esa vkos'k osQ çokg dh nj gS) ckgj fudyus okyh oqQy fo|qr èkkjkvksa osQ cjkcj gksrh gSaA (b) ik'k (ywi) fu;eµçfrjksèkdksa rFkk lsyksa ls lfEefyr fdlh can ik'k osQ pkjksa vksj foHko esa ifjorZuksa dk chtxf.krh; ;ksx 'kwU; gksrk gS (fp=k 3.15)A</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
 
-40 Ω
-
-1Ω
-
-b
-
-مساء
-
-I
-
-1Ω
-
-g
-80 V
-
-f
-
-d
-
-45 V
-
-20 Ω
-
-e
-
-I2
-
-चित्र 3.15 संधि a पर निकलने वाली विद्युत धारा
 I₁ + I₂ तथा प्रवेश करने वाली विद्युत धारा 13 है। संधि के
 नियमानुसार I = I₁ + I₂. बिंदु h पर प्रवेश करने वाली
 धारा I₁ है। h से निकलने वाली भी एक ही धारा है और
@@ -1849,7 +1841,15 @@ V = e + Ir
 
 उदाहरण 3.5 10 V तथा नगण्य आंतरिक प्रतिरोध की बैटरी एक घनीय परिपथ जाल (नेटवर्क)
 के विकर्णतः सम्मुख कोनों से जुड़ी है। परिपथ जाल में 12 प्रतिरोध के 12 प्रतिरोधक हैं
-(चित्र 3.16)। परिपथ जाल का समतुल्य प्रतिरोध तथा घन के प्रत्येक किनारे के अनुदिश विद्युत
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_16_hi.png" alt="चित्र 3.16" onclick="openImageModal(this.src, 'चित्र 3.16: mnkgj.k 3.5 10 V rFkk ux.; vkarfjd çfrjksèk dh cSVjh ,d ?kuh; ifjiFk tky (usVooZ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.16</strong> mnkgj.k 3.5 10 V rFkk ux.; vkarfjd çfrjksèk dh cSVjh ,d ?kuh; ifjiFk tky (usVooZQ) osQ fod.kZr% lEeq[k dksuksa ls tqM+h gSA ifjiFk tky esa 1 Ω çfrjksèk osQ 12 çfrjksèkd gSa (fp=k 3.16)A ifjiFk tky dk lerqY; çfrjksèk rFkk ?ku osQ çR;sd fdukjs osQ vuqfn'k fo|qr èkkjk Kkr dhft,A</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
+
 धारा ज्ञात कीजिए।
 
 काजिए।
@@ -1905,7 +1905,7 @@ E 10 V
 
 चित्र 3.16
 
-Reprint 2026-27
+
 
 
 ---
@@ -1987,11 +1987,13 @@ CERT
 में (इनकी संख्या उतनी होनी चाहिए जितनी कि नेटवर्क में अज्ञात राशियाँ हैं) किरखोफ के नियमों
 के उपयोग द्वारा समस्या को हल कर सकते हैं। यह उदाहरण 3.6 में स्पष्ट किया गया है।
 
-I
-
-not t
-
-उदाहरण 3.6 चित्र 3.17 में दिखलाए गए नेटवर्क
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_17_hi.png" alt="चित्र 3.17" onclick="openImageModal(this.src, 'चित्र 3.17: mnkgj.k 3.6 fp=k 3.17 esa fn[kyk, x, usVooZQ dh çR;sd &#39;kk[kk esa èkkjk Kkr d...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.17</strong> mnkgj.k 3.6 fp=k 3.17 esa fn[kyk, x, usVooZQ dh çR;sd 'kk[kk esa èkkjk Kkr dhft,A</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
 
 नेटवर्क की प्रत्येक शाखा में धारा ज्ञात कीजिए।
 
@@ -2033,7 +2035,7 @@ I3
 
 D
 
-Reprint 2026-27
+
 
 उदाहरण 3.6
 
@@ -2164,7 +2166,16 @@ WAFA SoHHH
 
 ### 3.13 व्हीटस्टोन सेतु
 
-किरखोफ के एक अनुप्रयोग के रूप में चित्र 3.18 में दिखाए परिपथ पर विचार कीजिए,
+किरखोफ के एक अनुप्रयोग के रूप में
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_18_hi.png" alt="चित्र 3.18" onclick="openImageModal(this.src, 'चित्र 3.18: fdj[kksiQ osQ ,d vuqç;ksx osQ :i esa fp=k 3.18 esa fn[kk, ifjiFk ij fopkj dhft,]...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.18</strong> fdj[kksiQ osQ ,d vuqç;ksx osQ :i esa fp=k 3.18 esa fn[kk, ifjiFk ij fopkj dhft,] tks fd OghVLVksu lsrq dgykrk gSA lsrq esa pkj çfrjksèkd R1, R2, R3 rFkk R4 gksrs gSaA fod.kZr% foijhr fcanqvksa (fp=k esa A rFkk C) osQ ,d ;qXe ls dksbZ fo|qr lzksr lac¼ gSA ;g (vFkkZr AC) cSVjh Hkqtk dgykrh gSA nwljs nks 'kh"kZ ¯cnqvksa] B rFkk D osQ eè; ,d xSYosuksehVj (tks fo|qr èkkjk osQ lalwpu dh ,d ;qfDr gS) lac¼ gSA ;g ykbu] ftls fp=k esa BD ls fn[kk;k x;k gS] xSYosuksehVj Hkqtk dgykrh gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
+
 C जो कि व्हीटस्टोन सेतु कहलाता है। सेतु में में चार प्रतिरोधक R1, R2, R3 तथा R₁ R4 होते हैं।
 विकर्णतः विपरीत बिंदुओं (चित्र में A तथा C) के एक युग्म से कोई विद्युत स्रोत संबद्ध
 है। यह (अर्थात AC) बैटरी भुजा कहलाती है। दूसरे दो शीर्ष बिंदुओं, B तथा D के मध्य
@@ -2182,7 +2193,7 @@ g
 
 ε
 
-Reprint 2026-27
+
 
 
 ---
@@ -2252,7 +2263,15 @@ R2
 R
 
 इस सिद्धांत को उपयोग करने वाली प्रायोगिक युक्ति मीटर सेतु कहलाती है।
-उदाहरण 3.7 व्हीटस्टोन सेतु की चार भुजाओं (चित्र 3.19) के प्रतिरोध निम्नवत हैं:
+उदाहरण 3.7 व्हीटस्टोन सेतु की चार भुजाओं (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_19_hi.png" alt="चित्र 3.19" onclick="openImageModal(this.src, 'चित्र 3.19: mnkgj.k 3.7 OghVLVksu lsrq dh pkj Hkqtkvksa (fp=k 3.19) osQ çfrjksèk fuEuor gSa%...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.19</strong> mnkgj.k 3.7 OghVLVksu lsrq dh pkj Hkqtkvksa (fp=k 3.19) osQ çfrjksèk fuEuor gSa%</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
 
 ΑΒ = 100 Ω, BC = 10 Ω, CD = 52 तथा DA = 60 ΩΙ
 
@@ -2304,7 +2323,7 @@ D
 
 चित्र 3.19
 
-Reprint 2026-27
+
 
 उदाहरण 3.7
 
@@ -2394,7 +2413,7 @@ R=P
 
 A
 
-Reprint 2026-27
+
 
 
 ---
@@ -2486,7 +2505,7 @@ R+r
 (a) प्रथम नियम (संधि नियम) – परिपथ के अवयवों की किसी संधि पर आगत धाराओं
 का योग निर्गत धाराओं के योग के तुल्य होना चाहिए।
 
-Reprint 2026-27
+
 
 101
 
@@ -2585,7 +2604,7 @@ ILA
 
 [M¯¹ LOT2A]
 
-not to be republished
+
 
 टिप्पणी
 
@@ -2646,7 +2665,7 @@ I = j. AS
 कि V = IR ओम के नियम का प्रकथन है, सत्य नहीं है। यह समीकरण प्रतिरोध को
 परिभाषित करता है और इसे सभी चालक युक्तियों में प्रयुक्त कर सकते हैं चाहे वह ओम
 
-Reprint 2026-27
+
 
 102
 
@@ -2717,7 +2736,7 @@ repu
 सिल्वर के किसी तार का 27.5 °C पर प्रतिरोध 2.1 2 और 100 °C पर प्रतिरोध 2.7 Ω है।
 सिल्वर की प्रतिरोधकता ताप-गुणांक ज्ञात कीजिए।
 
-Reprint 2026-27
+
 
 103
 
@@ -2735,14 +2754,18 @@ Reprint 2026-27
 
 ### 3.6
 
-### 3.7
-
-निक्रोम का एक तापन-अवयव 230 V की सप्लाई से संयोजित है और 3.2A की प्रारंभिक धारा
+### 3.7 निक्रोम का एक तापन-अवयव 230 V की सप्लाई से संयोजित है और 3.2A की प्रारंभिक धारा
 लेता है जो कुछ सेकंड में 2.8A पर स्थायी हो जाती है। यदि कमरे का ताप 27.0 °C है तो
 तापन-अवयव का स्थायी ताप क्या होगा? दिए गए ताप-परिसर में निक्रोम का औसत प्रतिरोध
 का ताप-गुणांक 1.70 × 10^4 °C¯¹ है।
 
-चित्र 3.20 में दर्शाए नेटवर्क की प्रत्येक शाखा में प्रवाहित धारा ज्ञात कीजिए।
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_20_hi.png" alt="चित्र 3.20" onclick="openImageModal(this.src, 'चित्र 3.20: 3.6 fuØkse dk ,d rkiu&vo;o 230 V dh lIykbZ ls la;ksftr gS vkSj 3.2 A dh çkjafHkd...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.20</strong> 3.6 fuØkse dk ,d rkiu&vo;o 230 V dh lIykbZ ls la;ksftr gS vkSj 3.2 A dh çkjafHkd èkkjk ysrk gS tks oqQN lsoaQM esa 2.8 A ij LFkk;h gks tkrh gSA ;fn dejs dk rki 27.0 °C gS rks rkiu&vo;o dk LFkk;h rki D;k gksxk\ fn, x, rki&ifjlj esa fuØkse dk vkSlr çfrjksèk dk rki&xq.kkad 1.70 × 10-4 °C−1 gSA 3.7 fp=k 3.20 esa n'kkZ, usVooZQ dh çR;sd 'kk[kk esa izokfgr èkkjk Kkr dhft,A</span>
+    <button class="icon-btn" onclick="goToPdfPage(26)">📄 View in PDF (Page 26)</button>
+  </div>
+</div>
 
 A
 
@@ -2780,5 +2803,5 @@ published
 
 not to
 
-Reprint 2026-27
+
 

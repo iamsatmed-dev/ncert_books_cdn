@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11087CH11
+
 
 CHAPTER TEN
 
@@ -82,7 +82,7 @@ medium, until the body and the surrounding medium are at
 the same temperature. We also know that in the case of glass
 tumbler of ice-cold water, heat flows from the environment to
 
-Reprint 2025-26
+
 
 
 ---
@@ -143,29 +143,14 @@ On the Fahrenheit scale, there are 180 equal
 intervals between two reference points, and on
 the Celsius scale, there are 100.
 
-212
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_1.png" alt="Fig. 10.1" onclick="openImageModal(this.src, 'Fig. 10.1: Fig. 10.1 A plot of Fahrenheit temperature (tF) versus...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.1</strong> Fig. 10.1 A plot of Fahrenheit temperature (tF) versus</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
-Temperature (°F)
-
-32
-
-tr
-
-0
-
-Atc = 100°
-
-At = 180°
-
-203
-
-to
-
-Temperature (°C)
-
-100
-
-Fig. 10.1 A plot of Fahrenheit temperature (t) versus
 Celsius temperature (t).
 
 A relationship for converting between the two
@@ -210,7 +195,7 @@ after French scientist Jacques Charles (1747–
 1823). Low-density gases obey these
 laws, which may be combined into a single
 
-Reprint 2025-26
+
 
 
 ---
@@ -222,36 +207,14 @@ Reprint 2025-26
 
 Pressure
 
-PHYSICS
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_2.png" alt="Fig. 10.2" onclick="openImageModal(this.src, 'Fig. 10.2: Fig. 10.2 Pressure versus temperature of a low...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.2</strong> Fig. 10.2 Pressure versus temperature of a low</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
-Pressure
-
-Gas A
-
-Gas B
-
-*
-
-*
-
-Gas C
-
--200 °C-100°C 0°C 100 °C
-
->
-Temperature
-
-X
-
--273.15 °C
-
-0°C
-
-(0 K)
-
-Temperature
-
-Fig. 10.2 Pressure versus temperature of a low
 density gas kept at constant volume.
 
 relationship. Notice that since PV = constant
@@ -261,9 +224,15 @@ relationship is known as ideal gas law. It can be
 written in a more general form that applies not
 just to a given quantity of a single gas but to any
 quantity of any low-density gas and is known as
-ideal-gas equation:
 
-Fig. 10.3 A plot of pressure versus temperature and
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_3.png" alt="Fig. 10.3" onclick="openImageModal(this.src, 'Fig. 10.3: Fig. 10.3 A plot of pressure versus temperature and...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.3</strong> Fig. 10.3 A plot of pressure versus temperature and</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 extrapolation of lines for low density gases
 indicates the same absolute zero
 temperature.
@@ -272,7 +241,14 @@ Kelvin.
 
 named after the British scientist Lord Kelvin. On
 this scale, – 273.15 °C is taken as the zero point,
-that is 0 K (Fig. 10.4).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_4.png" alt="Fig. 10.4" onclick="openImageModal(this.src, 'Fig. 10.4: named after the British scientist Lord Kelvin. On this scale, – 273.15 °C is tak...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.4</strong> named after the British scientist Lord Kelvin. On this scale, – 273.15 °C is taken as the zero point, that is 0 K (Fig. 10.4).</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 Steam
 point
@@ -365,7 +341,7 @@ that mercury in a thermometer rises, when the
 thermometer is put in slightly warm water. If
 we take out the thermometer from the warm
 
-Reprint 2025-26
+
 
 
 ---
@@ -392,7 +368,14 @@ in its temperature is called thermal expansion.
 The expansion in length is called linear
 expansion. The expansion in area is called area
 expansion. The expansion in volume is called
-volume expansion (Fig. 10.5).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_5.png" alt="Fig. 10.5" onclick="openImageModal(this.src, 'Fig. 10.5: It is our common experience that most substances expand on heating and contract ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.5</strong> It is our common experience that most substances expand on heating and contract on cooling. A change in the temperature of a body causes change in its dimensions. The increase in the dimensions of a body due to the increase in its temperature is called thermal expansion. The expansion in length is called linear expansion. The expansion in area is called area expansion. The expansion in volume is called volume expansion (Fig. 10.5).</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 Table 10.1 Values of coefficient of linear
 expansion for some material
@@ -407,25 +390,15 @@ Brass
 
 ### 2.5
 
-### 1.8
+### 1.8 Iron
 
-Iron
+### 1.2 Copper
 
-### 1.2
+### 1.7 Silver
 
-Copper
+### 1.9 Gold
 
-### 1.7
-
-Silver
-
-### 1.9
-
-Gold
-
-### 1.4
-
-Glass (pyrex)
+### 1.4 Glass (pyrex)
 
 0.32
 
@@ -519,12 +492,14 @@ times more than glass for the same rise in
 temperature. Normally, metals expand more and
 have relatively high values of a.
 
-250
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_6.png" alt="Fig. 10.6" onclick="openImageModal(this.src, 'Fig. 10.6: Fig. 10.6 Coefficient of volume expansion of copper...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.6</strong> Fig. 10.6 Coefficient of volume expansion of copper</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
-500
-T (K) →
-
-Fig. 10.6 Coefficient of volume expansion of copper
 as a function of temperature.
 
 Table 10.2 gives the values of coefficient of
@@ -533,7 +508,7 @@ in the temperature range 0–100 °C. You can see
 that thermal expansion of these substances
 (solids and liquids) is rather small, with material,
 
-Reprint 2025-26
+
 
 
 ---
@@ -605,7 +580,15 @@ Water exhibits an anomalous behaviour; it
 contracts on heating between 0 °C and 4 °C. The
 volume of a given amount of water decreases as
 it is cooled from room temperature, until its
-temperature reaches 4 °C, [Fig. 10.7(a)]. Below
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_7.png" alt="Fig. 10.7" onclick="openImageModal(this.src, 'Fig. 10.7: Water exhibits an anomalous behaviour; it contracts on heating between 0 °C and ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.7</strong> Water exhibits an anomalous behaviour; it contracts on heating between 0 °C and 4 °C. The volume of a given amount of water decreases as it is cooled from room temperature, until its temperature reaches 4 °C, [Fig. 10.7(a)]. Below 4 °C, the volume increases, and therefore, the density decreases [Fig. 10.7(b)].</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 4 °C, the volume increases, and therefore, the
 density decreases [Fig. 10.7(b)].
 
@@ -666,9 +649,7 @@ constant pressure, a is about 3300 × 10-6K-1, as
 
 Volume of one kg of water (x101
 
-### 1.04343
-
-V
+### 1.04343 V
 
 t to be
 
@@ -718,7 +699,7 @@ Temperature (°C)
 
 Fig. 10.7 Thermal expansion of water.
 
-Reprint 2025-26
+
 
 
 ---
@@ -823,7 +804,13 @@ two such steel rails, fixed at their outer ends,
 are in contact at their inner ends, a force of this
 magnitude can easily bend the rails.
 
-Fig. 10.8
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_8.png" alt="Fig. 10.8" onclick="openImageModal(this.src, 'Fig. 10.8: Fig. 10.8...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.8</strong> Fig. 10.8</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 ΔΑ₂ = b (Aa)
 
@@ -881,7 +868,7 @@ LT2 =LT1 [1+01 (T2-T₁)]
 ### 5.243 m = 5.231 m [1 + 1.20 10-5 K-1 (T2−27 °C)]
 or T = 218 °C.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1022,7 +1009,7 @@ pressure and ordinary temperature while Table
 10.4 lists molar specific heat capacities of some
 gases. From Table 10.3 you can note that water
 
-Reprint 2025-26
+
 
 
 ---
@@ -1184,7 +1171,16 @@ like glass wool etc. The outer jacket acts as a
 heat shield and reduces the heat loss from the
 inner vessel. There is an opening in the outer
 jacket through which a mercury thermometer
-can be inserted into the calorimeter (Fig. 10.20).
+can be inserted into the calorimeter (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_20.png" alt="Fig. 10.20" onclick="openImageModal(this.src, 'Fig. 10.20: equal to the heat gained by the colder body, provided no heat is allowed to esca...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.20</strong> equal to the heat gained by the colder body, provided no heat is allowed to escape to the surroundings. A device in which heat measurement can be done is called a calorimeter. It consists of a metallic vessel and stirrer of the same material, like copper or aluminium. The vessel is kept inside a wooden jacket, which contains heat insulating material, like glass wool etc. The outer jacket acts as a heat shield and reduces the heat loss from the inner vessel. There is an opening in the outer jacket through which a mercury thermometer can be inserted into the calorimeter (Fig. 10.20). The following example provides a method by which the specific heat capacity of a given solid can be determinated by using the principle, heat gained is equal to the heat lost.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 The following example provides a method by
 which the specific heat capacity of a given solid
 can be determinated by using the principle, heat
@@ -1211,7 +1207,7 @@ Final temperature = 23 °C
 Change in temperature (A7)=(100 °C-23°C)= 77 °C
 Let specific heat capacity of aluminium be sal·
 
-Reprint 2025-26
+
 
 
 ---
@@ -1260,25 +1256,15 @@ calorimeter.
 So, 0.047 kg × SAI × 77 °C
 
 = (0.25 kg × 4.18 × 103 J kg-¹ K-1+ 0.14 kg ×
-0.386 × 103 J kg¯¹ K¯¹)(3 °C)
 
-S = 0.911 kJ kg-1 K-1
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_9.png" alt="Fig. 10.9" onclick="openImageModal(this.src, 'Fig. 10.9: Take some cubes of ice in a beaker. Note the temperature of ice. Start heating i...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.9</strong> Take some cubes of ice in a beaker. Note the temperature of ice. Start heating it slowly on a constant heat source. Note the temperature after every minute. Continuously stir the mixture of water and ice. Draw a graph between temperature and time (Fig. 10.9). You will observe no change in the temperature as long as there is ice in the beaker. In the above process, the temperature of the system does not change even though heat is being continuously supplied. The heat supplied is being utilised in changing the state from solid (ice) to liquid (water).</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
-Al
-
-10.8 CHANGE OF STATE
-
-100
-
-Temperature (°C)
-
-0
-
-tm
-
-Time (min)
-
-Fig. 10.9 A plot of temperature versus time showing
 the changes in the state of ice on heating
 (not to scale).
 
@@ -1329,7 +1315,16 @@ of ice.
 
 Take a slab of ice. Take a metallic wire and
 fix two blocks, say 5 kg each, at its ends. Put
-the wire over the slab as shown in Fig. 10.10.
+the wire over the slab as shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_10.png" alt="Fig. 10.10" onclick="openImageModal(this.src, 'Fig. 10.10: Take a slab of ice. Take a metallic wire and fix two blocks, say 5 kg each, at i...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.10</strong> Take a slab of ice. Take a metallic wire and fix two blocks, say 5 kg each, at its ends. Put the wire over the slab as shown in Fig. 10.10. You will observe that the wire passes through the ice slab. This happens due to the fact that just below the wire, ice melts at lower temperature due to increase in pressure. When the wire has passed, water above the wire freezes again. Thus, the wire passes through the slab and the slab does not split. This phenomenon of refreezing is called regelation. Skating is possible on snow due to the formation of water under the skates. Water is formed due to the increase of pressure and it acts as a lubricant.</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 You will observe that the wire passes through
 the ice slab. This happens due to the fact that
 just below the wire, ice melts at lower
@@ -1343,7 +1338,7 @@ under the skates. Water is formed due to the
 increase of pressure and it acts as a
 lubricant.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1438,13 +1433,9 @@ B
 
 Ο
 
-### 5.11
+### 5.11 B
 
-B
-
-### 1.0
-
-Vapour
+### 1.0 Vapour
 
 B
 
@@ -1460,7 +1451,7 @@ B
 
 Figure: Pressure-temperature phase diagrams for (a) water and (b) CO₂ (not to the scale).
 
-Reprint 2025-26
+
 
 
 ---
@@ -1471,7 +1462,15 @@ Reprint 2025-26
 PHYSICS
 
 thermometer and steam outlet through the cork
-of the flask (Fig. 10.11). As water gets heated in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_11.png" alt="Fig. 10.11" onclick="openImageModal(this.src, 'Fig. 10.11: thermometer and steam outlet through the cork of the flask (Fig. 10.11). As wate...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.11</strong> thermometer and steam outlet through the cork of the flask (Fig. 10.11). As water gets heated in the flask, note first that the air, which was dissolved in the water, will come out as small bubbles. Later, bubbles of steam will form at the bottom but as they rise to the cooler water near the top, they condense and disappear. Finally, as the temperature of the entire mass of the water reaches 100 °C, bubbles of steam reach the surface and boiling is said to occur. The steam in the flask may not be visible but as it comes out of the flask, it condenses as tiny droplets of water, giving a foggy appearance.</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 the flask, note first that the air, which was
 dissolved in the water, will come out as small
 bubbles. Later, bubbles of steam will form at
@@ -1560,7 +1559,7 @@ boiling point. Adding more heat to boiling water
 causes vaporisation, without increase in
 temperature.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1628,9 +1627,7 @@ Mercury
 
 357
 
-### 2.7
-
-Nitrogen
+### 2.7 Nitrogen
 
 -210
 
@@ -1638,9 +1635,7 @@ Nitrogen
 
 -196
 
-### 2.0
-
-Oxygen
+### 2.0 Oxygen
 
 -219
 
@@ -1648,9 +1643,7 @@ Oxygen
 
 -183
 
-### 2.1
-
-Water
+### 2.1 Water
 
 0
 
@@ -1682,7 +1675,15 @@ These are often referred to as the heat of fusion
 
 and the heat of vaporisation. A plot of
 temperature versus heat for a quantity of water
-is shown in Fig. 10.12. The latent heats of some
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_12.png" alt="Fig. 10.12" onclick="openImageModal(this.src, 'Fig. 10.12: Q = m L or L = Q/m (10.13) where L is known as latent heat and is a characterist...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.12</strong> Q = m L or L = Q/m (10.13) where L is known as latent heat and is a characteristic of the substance. Its SI unit is J kg–1. The value of L also depends on the pressure. Its value is usually quoted at standard atmospheric pressure. The latent heat for a solid- liquid state change is called the latent heat of fusion (Lf), and that for a liquid-gas state change is called the latent heat of vaporisation (Lv). These are often referred to as the heat of fusion and the heat of vaporisation. A plot of temperature versus heat for a quantity of water is shown in Fig. 10.12. The latent heats of some substances, their freezing and boiling points, are given in Table 10.5.</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
 substances, their freezing and boiling points, are
 given in Table 10.5.
 
@@ -1767,7 +1768,7 @@ Heat lost = heat gained
 54376.14 J = (0.15 kg) L₄ + 4206.93 J
 L₁ = 3.34 105 J kg-1.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1841,7 +1842,14 @@ temperature difference. What are the different
 ways by which this energy transfer takes
 place? There are three distinct modes of heat
 transfer: conduction, convection and radiation
-(Fig. 10.13).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_13.png" alt="Fig. 10.13" onclick="openImageModal(this.src, 'Fig. 10.13: temperature difference. What are the different ways by which this energy transfe...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.13</strong> temperature difference. What are the different ways by which this energy transfer takes place? There are three distinct modes of heat transfer: conduction, convection and radiation (Fig. 10.13).</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 Convection
 
@@ -1939,7 +1947,15 @@ cross-section A with its two ends maintained at
 different temperatures. This can be done, for
 example, by putting the ends in thermal contact
 with large reservoirs at temperatures, say, Tand
-To, respectively (Fig. 10.14). Let us assume the
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_14.png" alt="Fig. 10.14" onclick="openImageModal(this.src, 'Fig. 10.14: Heat conduction may be described quantitatively as the time rate of heat flow in...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.14</strong> Heat conduction may be described quantitatively as the time rate of heat flow in a material for a given temperature difference. Consider a metallic bar of length L and uniform cross-section A with its two ends maintained at different temperatures. This can be done, for example, by putting the ends in thermal contact with large reservoirs at temperatures, say, TC and TD, respectively (Fig. 10.14). Let us assume the ideal condition that the sides of the bar are fully insulated so that no heat is exchanged between the sides and the surroundings.</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 ideal condition that the sides of the bar are fully
 insulated so that no heat is exchanged between
 the sides and the surroundings.
@@ -1951,7 +1967,7 @@ C supplies heat at a constant rate, which
 transfers through the bar and is given out at
 the same rate to the reservoir at D. It is found
 
-Reprint 2025-26
+
 
 
 ---
@@ -2092,9 +2108,7 @@ Glass
 
 Ice
 
-### 1.6
-
-Glass wool
+### 1.6 Glass wool
 
 0.04
 
@@ -2120,7 +2134,15 @@ Hydrogen
 
 Example 10.6 What is the temperature of
 the steel-copper junction in the steady
-state of the system shown in Fig. 10.15.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_15.png" alt="Fig. 10.15" onclick="openImageModal(this.src, 'Fig. 10.15: Example 10.6 What is the temperature of the steel-copper junction in the steady ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.15</strong> Example 10.6 What is the temperature of the steel-copper junction in the steady state of the system shown in Fig. 10.15. Length of the steel rod = 15.0 cm, length of the copper rod = 10.0 cm, temperature of the furnace = 300 °C, temperature of the other end = 0 °C. The area of cross section of the steel rod is twice that of the copper rod. (Thermal conductivity of steel = 50.2 J s –1 m –1 K –1; and of copper = 385 J s–1m–1 K–1).</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
+
 Length of the steel rod = 15.0 cm, length
 of the copper rod = 10.0 cm, temperature
 of the furnace = 300 °C, temperature of the
@@ -2132,7 +2154,7 @@ rod. (Thermal conductivity of steel
 
 =
 
-Reprint 2025-26
+
 
 
 ---
@@ -2210,7 +2232,15 @@ Example 10.7 An iron bar (L₁ = 0.1 m, A₁ =
 0.02 m², K
 brass bar (L₂ = 0.1 m, A₂ = 0.02 m²,
 K₁ = 109 W m¯¹K-1) are soldered end to end
-as shown in Fig. 10.16. The free ends of
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_16.png" alt="Fig. 10.16" onclick="openImageModal(this.src, 'Fig. 10.16: Example 10.7 An iron bar (L1 = 0.1 m, A1 = 0.02 m 2, K 1 = 79 W m –1 K –1) and a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.16</strong> Example 10.7 An iron bar (L1 = 0.1 m, A1 = 0.02 m 2, K 1 = 79 W m –1 K –1) and a brass bar (L2 = 0.1 m, A2 = 0.02 m2, K2 = 109 W m–1K–1) are soldered end to end as shown in Fig. 10.16. The free ends of the iron bar and brass bar are maintained at 373 K and 273 K respectively. Obtain expressions for and hence compute (i) the temperature of the junction of the two bars, (ii) the equivalent thermal conductivity of the compound bar, and (iii) the heat current through the compound bar.</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
+
 the iron bar and brass bar are maintained
 at 373 K and 273 K respectively. Obtain
 expressions for and hence compute (i) the
@@ -2327,7 +2357,7 @@ Brass
 
 Fig 10.16
 
-Reprint 2025-26
+
 
 =
 
@@ -2416,7 +2446,15 @@ descends, and a thermal convection cycle is set
 up, which transfers heat away from the land.
 At night, the ground loses its heat more quickly,
 and the water surface is warmer than the land.
-As a result, the cycle is reveresed (Fig. 10.17).
+As a result, the cycle is reveresed (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_17.png" alt="Fig. 10.17" onclick="openImageModal(this.src, 'Fig. 10.17: of water do. This occurs both because water has a greater specific heat capacity...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.17</strong> of water do. This occurs both because water has a greater specific heat capacity and because mixing currents disperse the absorbed heat throughout the great volume of water. The air in contact with the warm ground is heated by conduction. It expands, becoming less dense than the surrounding cooler air. As a result, the warm air rises (air currents) and the other air moves (winds) to fill the space-creating a sea breeze near a large body of water. Cooler air descends, and a thermal convection cycle is set up, which transfers heat away from the land. At night, the ground loses its heat more quickly, and the water surface is warmer than the land. As a result, the cycle is reveresed (Fig. 10.17).</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
 The other example of natural convection is
 the steady surface wind on the earth blowing
@@ -2454,7 +2492,7 @@ Water warmer than land
 
 Fig. 10.17 Convection cycles.
 
-Reprint 2025-26
+
 
 
 ---
@@ -2537,7 +2575,16 @@ temperature is that it is not of one (or a few)
 wavelength(s) but has a continuous spectrum
 from the small to the long wavelengths. The
 energy content of radiation, however, varies for
-different wavelengths. Figure 10.18 gives the
+different wavelengths.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_18.png" alt="Fig. 10.18" onclick="openImageModal(this.src, 'Fig. 10.18: We have so far not mentioned the wavelength content of thermal radiation. The im...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.18</strong> We have so far not mentioned the wavelength content of thermal radiation. The important thing about thermal radiation at any temperature is that it is not of one (or a few) wavelength(s) but has a continuous spectrum from the small to the long wavelengths. The energy content of radiation, however, varies for different wavelengths. Figure 10.18 gives the experimental curves for radiation energy per unit area per unit wavelength emitted by a blackbody versus wavelength for different temperatures.</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 experimental curves for radiation energy per unit
 area per unit wavelength emitted by a blackbody
 versus wavelength for different temperatures.
@@ -2594,7 +2641,7 @@ first becomes dull red, then reddish yellow, and
 finally white hot. Wien's law is useful for
 estimating the surface temperatures of celestial
 
-Reprint 2025-26
+
 
 
 ---
@@ -2727,7 +2774,7 @@ the stirrer. Continue to note the temperature
 (T2) of water till it attains a temperature about
 5 °C above that of the surroundings. Then, plot
 
-Reprint 2025-26
+
 
 
 ---
@@ -2739,7 +2786,14 @@ PHYSICS
 
 a graph by taking each value of temperature
 ∆T = T2 – T₁ along y-axis and the coresponding
-value of talong x-axis (Fig. 10.19).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_19.png" alt="Fig. 10.19" onclick="openImageModal(this.src, 'Fig. 10.19: a graph by taking each value of temperature ∆T = T2 – T1 along y-axis and the co...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.19</strong> a graph by taking each value of temperature ∆T = T2 – T1 along y-axis and the coresponding value of t along x-axis (Fig. 10.19).</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
 
 From Eqs. (10.15) and (10.16) we have
 
@@ -2882,7 +2936,7 @@ calorimeter is noted after equal intervals of
 time. A graph is plotted between log (T2-T₁)
 [or In(T2-T₁)] and time (t). The nature of the
 
-Reprint 2025-26
+
 
 
 ---
@@ -3003,7 +3057,7 @@ AV
 
 V
 
-Reprint 2025-26
+
 
 
 ---
@@ -3148,7 +3202,7 @@ JsK¹
 
 H = -KA dx
 
-Reprint 2025-26
+
 
 
 ---
@@ -3237,7 +3291,7 @@ whose unit interval size is equal to that of the Fahrenheit scale ?
 10.5 Two ideal gas thermometers A and B use oxygen and hydrogen respectively. The
 following observations are made :
 
-Reprint 2025-26
+
 
 223
 
@@ -3344,7 +3398,7 @@ greater or smaller than the actual value for specific heat of the metal ?
 10.15 Given below are observations on molar specific heats at room temperature of some
 common gases.
 
-Reprint 2025-26
+
 
 
 ---
@@ -3438,7 +3492,7 @@ from 60 °C to 30 °C. The temperature of the surroundings is 20 °C.
 
 not
 
-Reprint 2025-26
+
 
 225
 

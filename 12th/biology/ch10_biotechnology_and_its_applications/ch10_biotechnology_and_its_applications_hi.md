@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-12084CH12
+
 
 ### अध्याय 10
 
@@ -54,7 +54,7 @@ blished
 खाद्य उत्पादन में वृद्धि हेतु हम तीन संभावनाओं के बारे में सोच सकते
 हैं-- (क) कृषि रसायन आधारित कृषि (ख) कार्बनिक कृषि और
 
-Reprint 2025-26
+
 
 
 ---
@@ -107,7 +107,7 @@ shed
 
 195
 
-Reprint 2025-26
+
 
 
 ---
@@ -163,7 +163,7 @@ Reprint 2025-26
 मारता है? वास्तव में बीटी जीव-विष प्रोटीन, प्राक्जीव विष निष्क्रिय रूप में होता है, ज्योंहि
 कीट इस निष्क्रिय जीव विष को खाता है, इसके रवे आँत में क्षारीय पी एच के कारण
 
-Reprint 2025-26
+
 
 
 ---
@@ -180,18 +180,23 @@ Reprint 2025-26
 करता है, जबकि सर्वाधिक बीटी जीव विष कीट-समूह विशिष्टता पर निर्भर करते हैं।
 जीव विष जिस जीन द्वारा कूटबद्ध होते हैं उसे क्राई कहते हैं। ये कई प्रकार के होते हैं।
 उदाहरणस्वरूप जो प्रोटींस जीन क्राई 1 एसी व क्राई 2 एबी द्वारा कूटबद्ध होते हैं वे
-कपास के मुकुल कृमि को नियंत्रित करते हैं (चित्र 10.1) जबकि क्राई 1 एबी मक्का
-छेदक को नियंत्रित करता है।
+कपास के मुकुल कृमि को नियंत्रित करते हैं (
 
-(अ)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch10_biotechnology_and_its_applications_fig_10_hi.png" alt="चित्र 10" onclick="openImageModal(this.src, 'चित्र 10: fof&#39;k&quot;V chVh tho fo&quot;k thal cSlhyl Fkqjhuft,afll ls i`Fkd dj dbZ iQ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10</strong> fof'k"V chVh tho fo"k thal cSlhyl Fkqjhuft,afll ls i`Fkd dj dbZ iQlyksa tSls dikl esa lekfo"V fd;k tk pqdk gSA thal dk pquko iQly o fu/kZfjr dhV ij fuHkZj djrk gS] tcfd lokZf/d chVh tho fo"k dhV&lewg fof'k"Vrk ij fuHkZj djrs gSaA tho fo"k ftl thu }kjk owQVc¼ gksrs gaS mls ØkbZ dgrs gSaA ;s dbZ izdkj osQ gksrs gSaA mnkgj.kLo:i — tks izksVhal thu ØkbZ 1 ,lh o ØkbZ 2 ,ch }kjk owQVc¼ gksrs gSa os dikl osQ eqoqQy Ñfe dks fu;af=kr djrs gSa (fp=k 10-1) tcfd ØkbZ 1 ,ch eDdk Nsnd dks fu;af=kr djrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
-RT
-
-(ब)
-
-Olished
-
-चित्र 10.1 कपास (अ) गोलक शलभ कृमि द्वारा नष्ट व (ब) पूर्णतया परिपक्व कपास गोलक
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch10_biotechnology_and_its_applications_fig_10_1_hi.png" alt="चित्र 10.1" onclick="openImageModal(this.src, 'चित्र 10.1: fp=k 10.1 dikl (v) xksyd &#39;kyHk Ñfe }kjk u&quot;V o (c) iw.kZr;k ifjiDo dikl ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.1</strong> fp=k 10.1 dikl (v) xksyd 'kyHk Ñfe }kjk u"V o (c) iw.kZr;k ifjiDo dikl xksyd</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 पीड़क प्रतिरोधी पौधा - विभिन्न सूत्रकृमि, मानव सहित जंतुओं व कई किस्म के पौधों
 पर परजीवी होते हैं। सूत्रकृमि मिल्वाडेगाइन इनकोगनीशिया तंबाकू के पौधों की जड़ों को
@@ -205,11 +210,18 @@ Olished
 मध्यवर्ती आरएनए हैं।
 
 एग्रोबैक्टिरियम संवाहकों का उपयोग कर सूत्रकृमि विशिष्ट जीनों को परपोषी पौधों में
-प्रवेश कराया जा चुका है (चित्र 10.2)। डीएनए का प्रवेश इस प्रकार कराया जाता है कि
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch10_biotechnology_and_its_applications_fig_10_2_hi.png" alt="चित्र 10.2" onclick="openImageModal(this.src, 'चित्र 10.2: fp=k 10.2 iks&quot;kh ikni tfur ds vkj,u, }kjk lw=kÑfe xzlu osQ fo:¼ lqj{kk esa ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.2</strong> fp=k 10.2 iks"kh ikni tfur ds vkj,u, }kjk lw=kÑfe xzlu osQ fo:¼ lqj{kk esa o`f¼ (v) izk:ih fu;af=kr ikni ewysa (c) ik¡p fnuksa rd tkucw>dj lw=kÑfe }kjk ikjthoh ikni dh tM+ksa dk laØe.k rFkk lkFk gh uohu fof/ }kjk lqj{kk</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 197
 
-Reprint 2025-26
+
 
 
 ---
@@ -256,7 +268,7 @@ not
 वियुक्त कर उपयोग में लाना होगा। क्या अन्य जंतुओं से वियुक्त इंसुलीन मानव शरीर में
 भी प्रभावी है और उसका मानव शरीर के प्रतिरक्षा अनुक्रिया पर कोई हानिकारक प्रभाव
 
-Reprint 2025-26
+
 
 
 ---
@@ -269,25 +281,14 @@ Reprint 2025-26
 जाएगी। तुम आसानी से ऐसे जीवाणु को अधिक मात्रा में विकसित
 कर जितना चाहे अपनी आवश्यकता के अनुसार इंसुलीन बना
 सकते हो। सोचो क्या इंसुलीन मधुमेही लोगों को मुख से दिया जा
-सकता है कि नहीं। क्यों?
 
-s-s
-
-प्राक्इंसुलिन
-
-A पेप्टाइड
-
-$-8
-
-इंसुलिन
-
-B पेप्टाइड
-
-+
-
-स्वतंत्र सी पेप्टाइड
-
-चित्र 10.3 प्राक-इंसुलिन का सी-पेप्टाइड
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch10_biotechnology_and_its_applications_fig_10_3_hi.png" alt="चित्र 10.3" onclick="openImageModal(this.src, 'चित्र 10.3: fp=k 10.3 izkd&balqfyu dk lh&isIVkbM...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.3</strong> fp=k 10.3 izkd&balqfyu dk lh&isIVkbM</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 के अलग होने के बाद इंसुलिन
 में परिपक्वता
@@ -336,7 +337,7 @@ be
 
 199
 
-Reprint 2025-26
+
 
 
 ---
@@ -394,7 +395,7 @@ not
 
 200
 
-Reprint 2025-26
+
 
 
 ---
@@ -449,7 +450,7 @@ shed
 
 201
 
-Reprint 2025-26
+
 
 
 ---
@@ -508,7 +509,7 @@ not
 वर्ष पहले से उगाया जाता रहा है। वर्ष 1977 में एक अमरीकी कंपनी ने बासमती धान
 पर अमेरिकन एकस्व व ट्रेडमार्क कार्यालय द्वारा एकस्व अधिकार प्राप्त कर लिया था।
 
-Reprint 2025-26
+
 
 
 ---
@@ -565,7 +566,7 @@ paysıra
 
 203
 
-Reprint 2025-26
+
 
 
 ---
@@ -632,7 +633,7 @@ not to
 7. क्राई प्रोटींस क्या है? उस जीव का नाम बताओ जो इसे पैदा करता है। मनुष्य इस प्रोटीन को
 अपने फायदे के लिए कैसे उपयोग में लाता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -658,9 +659,9 @@ Reprint 2025-26
 
 © NCERT
 
-not to be republished
 
-Reprint 2025-26
+
+
 
 205
 

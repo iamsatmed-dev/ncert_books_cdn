@@ -35,7 +35,7 @@
 सामाजिक, राजनैतिक मामलों का अध्ययन कराना है। इस इकाई में उपर्युक्त
 पहलुओं पर विशेष ध्यान देते हुए वर्णन किया गया है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -62,7 +62,7 @@ Reprint 2025-26
 
 not to be
 
-Reprint 2025-26
+
 
 
 ---
@@ -72,7 +72,7 @@ Reprint 2025-26
 
 जीव और समष्टियाँ
 
-12084CH13
+
 
 blished
 
@@ -100,7 +100,7 @@ blished
 
 not to
 
-Reprint 2025-26
+
 
 
 ---
@@ -153,29 +153,19 @@ shed
 
 209
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 5
 
-210
-
-जन्मोत्तर
-
-जननक्षम
-
-जन्मपूर्व
-
-बढ़ती
-
-स्थिर
-
-घटती
-
-जीव विज्ञान
-
-चित्र 11.1 मानव समष्टि के लिए आयु पिरैमिडों का निरूपण
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch11_organisms_and_populations_fig_11_hi.png" alt="चित्र 11" onclick="openImageModal(this.src, 'चित्र 11: fdlh fn, x, le; esa lef&quot;V fHkUu vk;q okys O;f&quot;V;ksa ls feydj curh gSA ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 11</strong> fdlh fn, x, le; esa lef"V fHkUu vk;q okys O;f"V;ksa ls feydj curh gSA vxj lef"V osQ fy, vk;q forj.k (nh xbZ vk;q vFkok vk;q oxZ osQ O;f"V;ksa dk izfr'kr) vkysf[kr (IykWVsM) fd;k tkrk gS rks cuus okyh lajpuk vk;q fijSfeM dgykrh gS (fp=k 11-1)A ekuo lef"V osQ fy, vk;q fijSfeM vkerkSj ij uj vkSj fL=k;ksa dk vk;q forj.k la;qDr vkjs[k dks n'kkZrk gSA fijSfeM dk vkdkj lef"V dh fLFkfr izfrfcafcr djrk gS & (d) D;k ;g c<+ jgk gS] ([k) fLFkj gS ;k (x) ?kV jgk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 किसी दिए गए समय में समष्टि भिन्न आयु वाले व्यष्टियों से मिलकर बनती है।
 अगर समष्टि के लिए आयु वितरण (दी गई आयु अथवा आयु वर्ग के व्यष्टियों का
@@ -210,7 +200,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -275,7 +265,7 @@ ed
 इसलिए अगर समय t पर समष्टि घनत्व N है तो समय t+1 पर इसका घनत्व
 N₁+1 = N₄ + [(B + I) - (D + E)] है
 
-Reprint 2025-26
+
 
 
 ---
@@ -372,7 +362,7 @@ r मूल्यों के परिणाम (मैग्निट्य�
 ऊपर दिया गया समीकरण समष्टि के चरघातांकी अथवा ज्यामितीय वृद्धि बताता है
 (चित्र 11.3) और जब N को समय के संदर्भ में आरेखित करते हैं तो इसका नतीजा
 
-Reprint 2025-26
+
 
 
 ---
@@ -434,7 +424,7 @@ shed
 
 213
 
-Reprint 2025-26
+
 
 
 ---
@@ -494,7 +484,7 @@ K = पोषण क्षमता
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -568,7 +558,7 @@ published
 
 215
 
-Reprint 2025-26
+
 
 
 ---
@@ -623,7 +613,7 @@ not to b
 
 216
 
-Reprint 2025-26
+
 
 
 ---
@@ -673,7 +663,7 @@ shed
 
 217
 
-Reprint 2025-26
+
 
 
 ---
@@ -726,7 +716,7 @@ not to
 किए जैसे कि अनावश्यक संबंधी अंगों का अभाव परपोषी से चिपकने के
 लिए आसंजी अंगों या चूषकों की उपस्थिति पाचन तंत्र का लोप तथा उच्च
 
-Reprint 2025-26
+
 
 
 ---
@@ -780,7 +770,7 @@ shed
 
 219
 
-Reprint 2025-26
+
 
 
 ---
@@ -832,7 +822,7 @@ not to
 
 220
 
-Reprint 2025-26
+
 
 
 ---
@@ -877,7 +867,7 @@ shed
 
 221
 
-Reprint 2025-26
+
 
 
 ---
@@ -926,7 +916,7 @@ Reprint 2025-26
 विकसित कीं, जो उनके सह-अस्तित्व को सुगम बनाती हैं। कुछ प्रकृति में सहोपकारिता
 के कुछ सबसे आकर्षक मामले पादप-परागणकारी पारस्परिक क्रिया में देखे जा सकते हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -971,7 +961,7 @@ NCERT
 
 वृद्धि का वर्णन कीजिए।
 
-not to be republished
+
 
 9. निम्नलिखित कथनों में परजीविता (पैरासिटिज़्म) को कौन
 करता है
@@ -988,7 +978,7 @@ not to be republished
 
 10. समष्टि (पॉपुलेशन) की कोई तीन महत्वपूर्ण विशेषताएँ बताइए और व्याख्या कीजिए।
 
-Reprint 2025-26
+
 
 223
 

@@ -9,7 +9,7 @@ THERMODYNAMICS
 
 UNIT 5
 
-11082CH06
+
 
 Objectives
 
@@ -134,7 +134,7 @@ What drives a chemical reaction/process?
 
 To what extent do the chemical reactions proceed?
 
-Reprint 2026-27
+
 
 
 ---
@@ -174,7 +174,14 @@ reaction between two substances A and B
 kept in a beaker, the beaker containing the
 reaction mixture is the system and the room
 where the beaker is kept is the surroundings
-(Fig. 5.1).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch05_thermodynamics_fig_5_1.png" alt="Fig. 5.1" onclick="openImageModal(this.src, 'Fig. 5.1: For example, if we are studying the reaction between two substances A and B kept...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.1</strong> For example, if we are studying the reaction between two substances A and B kept in a beaker, the beaker containing the reaction mixture is the system and the room where the beaker is kept is the surroundings (Fig. 5.1).</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 Surroundings
 
@@ -195,7 +202,15 @@ out of the system.
 
 In an open system, there is exchange of energy
 and matter between system and surroundings
-[Fig. 5.2 (a)]. The presence of reactants in an
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch05_thermodynamics_fig_5_2.png" alt="Fig. 5.2" onclick="openImageModal(this.src, 'Fig. 5.2: 1. Open System In an open system, there is exchange of energy and matter between...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.2</strong> 1. Open System In an open system, there is exchange of energy and matter between system and surroundings [Fig. 5.2 (a)]. The presence of reactants in an open beaker is an example of an open system*. Here the boundary is an imaginary surface enclosing the beaker and reactants.</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 open beaker is an example of an open system*.
 Here the boundary is an imaginary surface
 enclosing the beaker and reactants.
@@ -263,7 +278,7 @@ We could have chosen only the reactants as system then walls of the beakers will
 
 Fig. 5.2
 
-Reprint 2026-27
+
 
 
 ---
@@ -366,7 +381,15 @@ process. Adiabatic process is a process in
 which there is no transfer of heat between
 the system and surroundings. Here, the wall
 separating the system and the surroundings
-is called the adiabatic wall (Fig. 5.3).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch05_thermodynamics_fig_5_3.png" alt="Fig. 5.3" onclick="openImageModal(this.src, 'Fig. 5.3: (a) Work Let us first examine a change in internal energy by doing work. We take...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.3</strong> (a) Work Let us first examine a change in internal energy by doing work. We take a system containing some quantity of water in a thermos flask or in an insulated beaker. This would not allow exchange of heat between the system and surroundings through its boundary and we call this type of system as adiabatic. The manner in which the state of such a system may be changed will be called adiabatic process. Adiabatic process is a process in which there is no transfer of heat between the system and surroundings. Here, the wall separating the system and the surroundings is called the adiabatic wall (Fig. 5.3).</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 calle
 
 Fig. 5.3
@@ -391,7 +414,7 @@ the internal energy of the system in state A
 be called U. We can change the state of the
 system in two different ways.
 
-Reprint 2026-27
+
 
 
 ---
@@ -448,7 +471,14 @@ bringing about the same change in temperature
 (the same initial and final states as before
 in section 5.1.4 (a) by transfer of heat
 through thermally conducting walls instead
-of adiabatic walls (Fig. 5.4).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch05_thermodynamics_fig_5_4.png" alt="Fig. 5.4" onclick="openImageModal(this.src, 'Fig. 5.4: (b) Heat We can also change the internal energy of a system by transfer of heat ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.4</strong> (b) Heat We can also change the internal energy of a system by transfer of heat from the surroundings to the system or vice-versa without expenditure of work. This exchange of energy, which is a result of temperature difference is called heat, q. Let us consider bringing about the same change in temperature (the same initial and final states as before in section 5.1.4 (a) by transfer of heat through thermally conducting walls instead of adiabatic walls (Fig. 5.4).</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 ERT
 
@@ -525,7 +555,7 @@ the system.
 Earlier negative sign was assigned when the work is done on the system and positive sign when the work is done by the
 system. This is still followed in physics books, although IUPAC has recommended the use of new sign convention.
 
-Reprint 2026-27
+
 
 
 ---
@@ -636,28 +666,21 @@ is V and pressure of the gas inside is p. If
 external pressure is p which is greater than
 p, piston is moved inward till the pressure
 
-Pex
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch05_thermodynamics_fig_5_5.png" alt="Fig. 5.5" onclick="openImageModal(this.src, 'Fig. 5.5: Fig. 5.5 (a) Work done on an ideal gas in a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.5</strong> Fig. 5.5 (a) Work done on an ideal gas in a</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
-Pressure, p
-
-Area=pex AV
-
-V Volume, V
-
-Pex
-
-Pex:
-
-K1
-
-Fig. 5.5 (a) Work done on an ideal gas in a
 cylinder when it is compressed by
 a constant external pressure, Pex
 (in single step) is equal to the shaded
 
 area.
 
-Reprint 2026-27
+
 
 
 ---
@@ -778,7 +801,7 @@ initial volume, V₁ to final volume, V.
 Work done on the gas is represented
 by the shaded area.
 
-Reprint 2026-27
+
 
 
 ---
@@ -965,7 +988,7 @@ Vs
 
 2
 
-Reprint 2026-27
+
 
 
 ---
@@ -1131,7 +1154,7 @@ vapourisation of 1 mol of water at 1bar
 and 100°C is 41kJ mol-¹. Calculate the
 internal energy change, when
 
-Reprint 2026-27
+
 
 
 ---
@@ -1191,7 +1214,15 @@ molar volume, V and molar heat capacity,
 C. Let us understand the distinction
 between extensive and intensive properties by
 considering a gas enclosed in a container of
-volume V and at temperature T [Fig. 5.6(a)].
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch05_thermodynamics_fig_5_6.png" alt="Fig. 5.6" onclick="openImageModal(this.src, 'Fig. 5.6: Fig. 5.6(a) A gas at volume V and temperature T...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.6</strong> Fig. 5.6(a) A gas at volume V and temperature T</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 Let us make a partition such that volume
 is halved, each part [Fig. 5.6 (b)] now has
 
@@ -1256,7 +1287,7 @@ temperature of one mole by one degree
 celsius (or one kelvin). Specific heat, also
 called specific heat capacity is the quantity
 
-Reprint 2026-27
+
 
 
 ---
@@ -1312,7 +1343,15 @@ ii) at constant pressure, qp
 
 For chemical reactions, heat absorbed at
 constant volume, is measured in a bomb
-calorimeter (Fig. 5.7). Here, a steel vessel (the
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch05_thermodynamics_fig_5_7.png" alt="Fig. 5.7" onclick="openImageModal(this.src, 'Fig. 5.7: For chemical reactions, heat absorbed at constant volume, is measured in a bomb ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.7</strong> For chemical reactions, heat absorbed at constant volume, is measured in a bomb calorimeter (Fig. 5.7). Here, a steel vessel (the bomb) is immersed in a water bath. The whole device is called calorimeter. The steel vessel is immersed in water bath to ensure that no heat is lost to the surroundings. A combustible</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 bomb) is immersed in a water bath. The whole
 device is called calorimeter. The steel vessel is
 immersed in water bath to ensure that no heat
@@ -1394,7 +1433,7 @@ reaction is then converted to q₁, by using the
 known heat capacity of the calorimeter with
 the help of equation 5.11.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1408,7 +1447,16 @@ CHEMISTRY
 
 Measurement of heat change at constant
 pressure (generally under atmospheric pressure)
-can be done in a calorimeter shown in Fig. 5.8.
+can be done in a calorimeter shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch05_thermodynamics_fig_5_8.png" alt="Fig. 5.8" onclick="openImageModal(this.src, 'Fig. 5.8: (b) ∆H Measurements Measurement of heat change at constant pressure (generally u...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.8</strong> (b) ∆H Measurements Measurement of heat change at constant pressure (generally under atmospheric pressure) can be done in a calorimeter shown in Fig. 5.8. We know that ∆Η = qp (at constant p) and, therefore, heat absorbed or evolved, qp at constant pressure is also called the heat of reaction or enthalpy of reaction, ∆rH.</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 We know that ∆H = q (at constant p) and,
 therefore, heat absorbed or evolved, q, at
 constant pressure is also called the heat of
@@ -1529,7 +1577,7 @@ reactants
 Here symbol ∑ (sigma) is used for
 summation and a₁ and b₁ are the stoichiometric
 
-Reprint 2026-27
+
 
 
 ---
@@ -1640,9 +1688,7 @@ N
 
 77.35
 
-### 5.59
-
-NH3
+### 5.59 NH3
 
 195.40
 
@@ -1724,7 +1770,7 @@ CH
 
 (Tand T, are melting and boiling points, respectively)
 
-Reprint 2026-27
+
 
 
 ---
@@ -1893,7 +1939,7 @@ Total enthalpy change will be -
 = - 7560 J mol-1 = - 7.56 kJ mol-1
 6.00 kJ mol-1
 
-Reprint 2026-27
+
 
 
 ---
@@ -2147,7 +2193,7 @@ molar enthalpies of formation are as follows.
 
 rhombic
 
-Reprint 2026-27
+
 
 
 ---
@@ -2277,7 +2323,7 @@ number of moles of substances specified
 by an equation. Standard enthalpy change
 ∆H® will have units as kJ mol-1.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2441,7 +2487,7 @@ CO2 (g) → CO (g) + O2 (g);
 
 Δ¸H® = + 91.8 kJ mol-1
 
-Reprint 2026-27
+
 
 
 ---
@@ -2598,7 +2644,7 @@ multiplying eqn. (iii) by 6 and eqn. (iv)
 
 by 3 we get:
 
-Reprint 2026-27
+
 
 
 ---
@@ -2735,7 +2781,7 @@ identical in bond length and energy. However,
 the energies required to break the individual
 C - H bonds in each successive step differ :
 
-Reprint 2026-27
+
 
 
 ---
@@ -3005,7 +3051,7 @@ bond is formed from gaseous atom, then ∆£H® = ∑∆£H® bonds of products 
 
 bonds of reactants
 
-Reprint 2026-27
+
 
 
 ---
@@ -3033,7 +3079,14 @@ Since it is impossible to determine lattice
 enthalpies directly by experiment, we use
 an indirect method where we construct an
 enthalpy diagram called a Born-Haber Cycle
-(Fig. 5.9).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch05_thermodynamics_fig_5_9.png" alt="Fig. 5.9" onclick="openImageModal(this.src, 'Fig. 5.9: Since it is impossible to determine lattice enthalpies directly by experiment, w...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.9</strong> Since it is impossible to determine lattice enthalpies directly by experiment, we use an indirect method where we construct an enthalpy diagram called a Born-Haber Cycle (Fig. 5.9).</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
 
 Let us now calculate the lattice enthalpy
 of NaCl(s) by following steps given below :
@@ -3159,7 +3212,7 @@ AH (ionization enthalpy)
 
 = – A( electron affinity) – 5/2 RT
 
-Reprint 2026-27
+
 
 
 ---
@@ -3306,7 +3359,7 @@ value, i.e, the value in infinitely dilute
 solution. For hydrochloric acid this value of
 ∆Η is given above in equation (S-3).
 
-Reprint 2026-27
+
 
 
 ---
@@ -3333,9 +3386,7 @@ of a solution is dependent on the original
 concentration of the solution and the amount
 of solvent added.
 
-### 5.6
-
-SPOΝΤΑΝΕΙΤY
+### 5.6 SPOΝΤΑΝΕΙΤY
 
 The first law of thermodynamics tells us
 about the relationship between the heat
@@ -3440,7 +3491,14 @@ O2(g) → H2O(l);
 The decrease in enthalpy in passing from
 reactants to products may be shown for any
 exothermic reaction on an enthalpy diagram
-as shown in Fig. 5.10(a).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch05_thermodynamics_fig_5_10.png" alt="Fig. 5.10" onclick="openImageModal(this.src, 'Fig. 5.10: The decrease in enthalpy in passing from reactants to products may be shown for ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.10</strong> The decrease in enthalpy in passing from reactants to products may be shown for any exothermic reaction on an enthalpy diagram as shown in Fig. 5.10(a).</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
 
 Thus, the postulate that driving force for
 a chemical reaction may be due to decrease
@@ -3461,7 +3519,7 @@ C(graphite, s) + 2 S(l) → CS₂(1);
 
 ΔΗ® = +128.5 kJ mol-1
 
-Reprint 2026-27
+
 
 
 ---
@@ -3542,7 +3600,14 @@ enthalpy, but still the process is spontaneous.
 Let us consider diffusion of two gases
 into each other in a closed container which
 is isolated from the surroundings as shown
-in Fig. 5.11.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch05_thermodynamics_fig_5_11.png" alt="Fig. 5.11" onclick="openImageModal(this.src, 'Fig. 5.11: Fig. 5.11 Diffusion of two gases...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.11</strong> Fig. 5.11 Diffusion of two gases</span>
+    <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
+  </div>
+</div>
 
 The two gases, say, gas A and gas B are
 represented by black dots and white dots
@@ -3583,7 +3648,7 @@ thermodynamic function, entropy denoted
 as S. The above mentioned disorder is the
 manifestation of entropy. To form a mental
 
-Reprint 2026-27
+
 
 
 ---
@@ -3727,7 +3792,7 @@ static and entropy is minimum.
 If temperature is raised to 115 K,
 these begin to move and oscillate
 
-Reprint 2026-27
+
 
 
 ---
@@ -3877,7 +3942,7 @@ TAS = (K) (J/K) = J.
 Now let us consider how AG is related to
 reaction spontaneity.
 
-Reprint 2026-27
+
 
 
 ---
@@ -4043,7 +4108,7 @@ it permits the calculation of absolute values
 of entropy of pure substance from thermal
 data alone. For a pure substance, this can
 
-Reprint 2026-27
+
 
 
 ---
@@ -4193,7 +4258,7 @@ Reaction nonspontaneous at all temperatures
 
 * The term low temperature and high temperature are relative. For a particular reaction, high temperature could even mean
 
-Reprint 2026-27
+
 
 
 ---
@@ -4247,9 +4312,7 @@ Therefore, ∆¸G® =
 (-13.6 × 103 J mol-¹)
 2.303(8.314 JK-¹ mol¯¹) (298K)
 
-### 2.38
-
-Hence K = antilog_2.38 = 2.4 × 102.
+### 2.38 Hence K = antilog_2.38 = 2.4 × 102.
 
 Problem 5.14
 
@@ -4277,9 +4340,7 @@ CER
 
 0.5
 
-### 1.5
-
-x 1 atm, p
+### 1.5 x 1 atm, p
 
 PNO2
 
@@ -4350,7 +4411,7 @@ not to
 
 763.8 kJ mol-1
 
-Reprint 2026-27
+
 
 
 ---
@@ -4440,7 +4501,7 @@ K can be calculated from this equation, if we know AG® which can be found from
 are non-spontaneous at low temperature, are made spontaneous at high temperature for systems
 having positive entropy of reaction.
 
-Reprint 2026-27
+
 
 
 ---
@@ -4450,9 +4511,7 @@ THERMODYNAMICS
 
 EXERCISES
 
-### 5.1
-
-Choose the correct answer. A thermodynamic state function is a quantity
+### 5.1 Choose the correct answer. A thermodynamic state function is a quantity
 
 (i)
 
@@ -4482,9 +4541,7 @@ q = 0
 
 w = 0
 
-### 5.3
-
-The enthalpies of all elements in their standard states are:
+### 5.3 The enthalpies of all elements in their standard states are:
 
 (i) unity
 
@@ -4546,14 +4603,10 @@ not possible at any temperature
 
 possible at any temperature
 
-### 5.7
-
-In a process, 701 J of heat is absorbed by a system and 394 J of work is done by
+### 5.7 In a process, 701 J of heat is absorbed by a system and 394 J of work is done by
 the system. What is the change in internal energy for the process?
 
-### 5.8
-
-The reaction of cyanamide, NH₂CN (s), with dioxygen was carried out in a bomb
+### 5.8 The reaction of cyanamide, NH₂CN (s), with dioxygen was carried out in a bomb
 calorimeter, and ∆U was found to be –742.7 kJ mol-¹ at 298 K. Calculate enthalpy
 
 change for the reaction at 298 K.
@@ -4562,7 +4615,7 @@ NH₂CN(g) + O2(g) → N₂(g) + CO2(g) + H₂O(1)
 
 2
 
-Reprint 2026-27
+
 
 165
 
@@ -4576,9 +4629,7 @@ CHEMISTRY
 
 ### 5.9
 
-### 5.10
-
-Calculate the number of kJ of heat necessary to raise the temperature of
+### 5.10 Calculate the number of kJ of heat necessary to raise the temperature of
 60.0 g of aluminium from 35°C to 55°C. Molar heat capacity of Al is 24 J mol-1 K-1.
 Calculate the enthalpy change on freezing of 1.0 mol of water at10.0°C to ice at
 −10.0°C. ∆H = 6.03 kJ mol-¹ at 0°C.
@@ -4589,30 +4640,22 @@ C, [H2O(1)] = 75.3 J mol-1 K-1
 
 C [H₂O(s)] = 36.8 J mol-1 K-1
 
-### 5.11
-
-Enthalpy of combustion of carbon to CO, is –393.5 kJ mol¯¹. Calculate the heat
+### 5.11 Enthalpy of combustion of carbon to CO, is –393.5 kJ mol¯¹. Calculate the heat
 
 2
 
 released upon formation of 35.2 g of CO2 from carbon and dioxygen gas.
 
-### 5.12
-
-Enthalpies of formation of CO(g), CO2(g), N₂O(g) and N₂O₄(g) are −110, – 393, 81
+### 5.12 Enthalpies of formation of CO(g), CO2(g), N₂O(g) and N₂O₄(g) are −110, – 393, 81
 and 9.7 kJ mol-¹ respectively. Find the value of ∆H for the reaction:
 
 N2O4(g) + 3CO(g) → N₂O(g) + 3CO2(g)
 
-### 5.13
-
-Given
+### 5.13 Given
 
 N2(g) + 3H2(g) → 2NH¸(g); ∆¸H® = −92.4 kJ mol-1
 
-### 5.14
-
-What is the standard enthalpy of formation of NH3 gas?
+### 5.14 What is the standard enthalpy of formation of NH3 gas?
 
 Calculate the standard enthalpy of formation of CH3OH(1) from the following data:
 
@@ -4620,9 +4663,7 @@ Calculate the standard enthalpy of formation of CH3OH(1) from the following data
 
 CH3OH (1) + 202(g) → CO2(g) + 2H2O(l) ; A,H® = −726 kJ mol-¹
 
-### 5.15
-
-C(graphite) + O2(g) → CO2(g) ; ∆H® = −393 kJ mol-1
+### 5.15 C(graphite) + O2(g) → CO2(g) ; ∆H® = −393 kJ mol-1
 
 H2(g) + O2(g) → H2O(l); ∆H = −286 kJ mol-1.
 
@@ -4654,9 +4695,7 @@ vap
 
 ### 5.18
 
-### 5.19
-
-For the reaction at 298 Κ,
+### 5.19 For the reaction at 298 Κ,
 
 2A + B C
 
@@ -4681,7 +4720,7 @@ For the reaction
 Calculate AG for the reaction, and predict whether the reaction may occur
 spontaneously.
 
-Reprint 2026-27
+
 
 
 ---
@@ -4689,14 +4728,10 @@ Reprint 2026-27
 
 THERMODYNAMICS
 
-### 5.20
-
-The equilibrium constant for a reaction is 10. What will be the value of AG®?
+### 5.20 The equilibrium constant for a reaction is 10. What will be the value of AG®?
 R = 8.314 JK-1 mol-1, T = 300 Κ.
 
-### 5.21
-
-Comment on the thermodynamic stability of NO(g), given
+### 5.21 Comment on the thermodynamic stability of NO(g), given
 
 1
 
@@ -4712,9 +4747,7 @@ N₂(g) + O2(g) → NO(g); ∆H® = 90 kJ mol-1
 
 2
 
-### 5.22
-
-NO(g) + =O2(g) → NO2(g): 4,H®= −74 kJ mol-1
+### 5.22 NO(g) + =O2(g) → NO2(g): 4,H®= −74 kJ mol-1
 
 Calculate the entropy change in surroundings when 1.00 mol of H₂O(l) is formed
 
@@ -4722,9 +4755,9 @@ under standard conditions. ∆H = −286 kJ mol-1.
 
 © NCERT
 
-not to be republished
 
-Reprint 2026-27
+
+
 
 167
 

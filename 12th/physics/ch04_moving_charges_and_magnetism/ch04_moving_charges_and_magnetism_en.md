@@ -9,7 +9,7 @@ no
 
 Chapter Four
 
-12089CH04
+
 
 MOVING CHARGES
 
@@ -29,7 +29,16 @@ that a current in a straight wire caused a noticeable deflection in a nearby
 magnetic compass needle. He investigated this phenomenon. He found
 that the alignment of the needle is tangential to an imaginary circle which
 has the straight wire as its centre and has its plane perpendicular to the
-wire. This situation is depicted in Fig.4.1(a). It is noticeable when the
+wire. This situation is depicted in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_1.png" alt="Fig. 4.1" onclick="openImageModal(this.src, 'Fig. 4.1: Both Electricity and Magnetism have been known for more than 2000 years. However...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.1</strong> Both Electricity and Magnetism have been known for more than 2000 years. However, it was only about 200 years ago, in 1820, that it was realised that they were intimately related. During a lecture demonstration in the summer of 1820, Danish physicist Hans Christian Oersted noticed that a current in a straight wire caused a noticeable deflection in a nearby magnetic compass needle. He investigated this phenomenon. He found that the alignment of the needle is tangential to an imaginary circle which has the straight wire as its centre and has its plane perpendicular to the wire. This situation is depicted in Fig.4.1(a). It is noticeable when the current is large and the needle sufficiently close to the wire so that the earth’s magnetic field may be ignored. Reversing the direction of the current reverses the orientation of the needle [Fig. 4.1(b)]. The deflection increases on increasing the current or bringing the needle closer to the wire. Iron filings sprinkled around the wire arrange themselves in concentric circles with the wire as the centre [Fig. 4.1(c)]. Oersted concluded that moving charges or currents produced a magnetic field in the surrounding space.</span>
+    <button class="icon-btn" onclick="goToPdfPage(1)">📄 View in PDF (Page 1)</button>
+  </div>
+</div>
+
 current is large and the needle sufficiently close to the wire so that the
 earth's magnetic field may be ignored. Reversing the direction of the
 current reverses the orientation of the needle [Fig. 4.1(b)]. The deflection
@@ -42,7 +51,7 @@ in the surrounding space.
 Following this, there was intense experimentation. In 1864, the laws
 obeyed by electricity and magnetism were unified and formulated by
 
-Reprint 2026-27
+
 
 
 ---
@@ -123,7 +132,7 @@ field E, where
 A dot appears like the tip of an arrow pointed at you, a cross is like the feathered
 tail of an arrow moving away from you.
 
-Reprint 2026-27
+
 
 
 ---
@@ -233,7 +242,7 @@ positive charge.
 (ii) The magnetic force q [ v × B ] includes a vector product of velocity
 and magnetic field. The vector product makes the force due to magnetic
 
-Reprint 2026-27
+
 
 109
 
@@ -254,19 +263,14 @@ F
 field vanish (become zero) if velocity and magnetic field are parallel
 or anti-parallel. The force acts in a (sideways) direction perpendicular
 
-B
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_2.png" alt="Fig. 4.2" onclick="openImageModal(this.src, 'Fig. 4.2: to both the velocity and the magnetic field. Its direction is given by the screw...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.2</strong> to both the velocity and the magnetic field. Its direction is given by the screw rule or right hand rule for vector (or cross) product as illustrated in Fig. 4.2. (iii) The magnetic force is zero if charge is not moving (as then |v|= 0). Only a moving charge feels the magnetic force. The expression for the magnetic force helps us to define the unit of the magnetic field, if one takes q, F and v, all to be unity in the force equation F = q [ v × B] =q v B sin q ˆn , where q is the angle between v and B [see Fig. 4.2 (a)]. The magnitude of magnetic field B is 1 SI unit, when the force acting on a unit charge (1 C), moving perpendicular to B with a speed 1m/s, is one newton. Dimensionally, we have [B] = [F/qv] and the unit of B are Newton second / (coulomb metre). This unit is called tesla (T) named after Nikola Tesla (1856 – 1943). Tesla is a rather large unit. A smaller unit (non-SI) called gauss (=10–4 tesla) is also often used. The earth’s magnetic field is about 3.6 × 10–5 T.</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
-F
-
-(b)
-
-+
-
-F
-
-B
-
-FIGURE 4.2 The direction of the magnetic
 force acting on a charged particle. (a) The
 force on a positively charged particle with
 velocity v and making an angle @ with the
@@ -346,7 +350,7 @@ j
 
 This summation can be converted to an integral in most cases.
 
-Reprint 2026-27
+
 
 
 ---
@@ -357,7 +361,14 @@ Magnetism
 
 Example 4.1 A straight wire of mass 200 g and length 1.5 m carries
 a current of 2 A. It is suspended in mid-air by a uniform horizontal
-magnetic field B (Fig. 4.3). What is the magnitude of the magnetic
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_3.png" alt="Fig. 4.3" onclick="openImageModal(this.src, 'Fig. 4.3: Example 4.1 A straight wire of mass 200 g and length 1.5 m carries a current of ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.3</strong> Example 4.1 A straight wire of mass 200 g and length 1.5 m carries a current of 2 A. It is suspended in mid-air by a uniform horizontal magnetic field B (Fig. 4.3). What is the magnitude of the magnetic field?</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 field?
 
@@ -399,7 +410,16 @@ unit length of the wire. The earth's magnetic field is approximately
 4 × 105 T and we have ignored it.
 
 Example 4.2 If the magnetic field is parallel to the positive y-axis
-and the charged particle is moving along the positive x-axis (Fig. 4.4),
+and the charged particle is moving along the positive x-axis (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_4.png" alt="Fig. 4.4" onclick="openImageModal(this.src, 'Fig. 4.4: Example 4.2 If the magnetic field is parallel to the positive y-axis and the cha...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.4</strong> Example 4.2 If the magnetic field is parallel to the positive y-axis and the charged particle is moving along the positive x-axis (Fig. 4.4), which way would the Lorentz force be for (a) an electron (negative charge), (b) a proton (positive charge).</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 which way would the Lorentz force be for (a) an electron (negative
 charge), (b) a proton (positive charge).
 
@@ -435,7 +455,7 @@ magnetic field is along the y-axis, so v × B is along the z-axis (screw
 rule or right-hand thumb rule). So, (a) for electron it will be along -z
 axis. (b) for a positive charge (proton) the force is along +z axis.
 
-Reprint 2026-27
+
 
 EXAMPLE 4.2
 
@@ -481,7 +501,14 @@ field. First consider the case of v perpendicular to B. The
 perpendicular force, q v × B, acts as a centripetal force and
 produces a circular motion perpendicular to the magnetic field.
 The particle will describe a circle if v and B are perpendicular
-to each other (Fig. 4.5).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_5.png" alt="Fig. 4.5" onclick="openImageModal(this.src, 'Fig. 4.5: field. First consider the case of v perpendicular to B. The perpendicular force,...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.5</strong> field. First consider the case of v perpendicular to B. The perpendicular force, q v × B, acts as a centripetal force and produces a circular motion perpendicular to the magnetic field. The particle will describe a circle if v and B are perpendicular to each other (Fig. 4.5).</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 X
 
@@ -601,7 +628,14 @@ If velocity has a component along B, this component
 remains unchanged as the motion along the magnetic field will
 not be affected by the magnetic field. The motion in a plane
 perpendicular to B is as before a circular one, thereby producing
-a helical motion (Fig. 4.6).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_6.png" alt="Fig. 4.6" onclick="openImageModal(this.src, 'Fig. 4.6: If velocity has a component along B, this component remains unchanged as the mot...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.6</strong> If velocity has a component along B, this component remains unchanged as the motion along the magnetic field will not be affected by the magnetic field. The motion in a plane perpendicular to B is as before a circular one, thereby producing a helical motion (Fig. 4.6).</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 You have already learnt in earlier classes (See Class XI,
 Chapter 3) that if ris the radius of the circular path of a particle,
@@ -648,7 +682,7 @@ it will make the particle move along the field and the path of the
 
 FIGURE 4.6 Helical motion
 
-Reprint 2026-27
+
 
 
 ---
@@ -699,7 +733,15 @@ All magnetic fields that we know are due to currents (or moving
 charges) and due to intrinsic magnetic moments of particles.
 Here, we shall study the relation between current and the
 magnetic field it produces. It is given by the Biot-Savart's law.
-Fig. 4.7 shows a finite conductor XY carrying current I. Consider
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_7.png" alt="Fig. 4.7" onclick="openImageModal(this.src, 'Fig. 4.7: All magnetic fields that we know are due to currents (or moving charges) and due...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.7</strong> All magnetic fields that we know are due to currents (or moving charges) and due to intrinsic magnetic moments of particles. Here, we shall study the relation between current and the magnetic field it produces. It is given by the Biot-Savart’s law. Fig. 4.7 shows a finite conductor XY carrying current I. Consider an infinitesimal element dl of the conductor. The magnetic field dB due to this element is to be determined at a point P which is at a distance r from it. Let q be the angle between dl and the displacement vector r. According to Biot-Savart’s law, the magnitude of the magnetic field dB is proportional to the current I, the element length |dl|, and inversely proportional to the square of the distance r. Its direction* is perpendicular to the plane containing dl and r . Thus, in vector notation,</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 an infinitesimal element dl of the conductor. The magnetic field
 dB due to this element is to be determined at a point P which is at
 a distance r from it. Let 0 be the angle between dl and the
@@ -758,7 +800,7 @@ into it.
 
 113
 
-Reprint 2026-27
+
 
 
 ---
@@ -840,14 +882,22 @@ the product με is fixed in magnitude. Choosing the value of either & or
 4 × 10-7 in magnitude.
 
 Example 4.4 An element_Al = Axi is placed at the origin and carries
-a large current I = 10 A (Fig. 4.8). What is the magnetic field on the y-
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_8.png" alt="Fig. 4.8" onclick="openImageModal(this.src, 'Fig. 4.8: a large current I = 10 A (Fig. 4.8). What is the magnetic field on the y- axis a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.8</strong> a large current I = 10 A (Fig. 4.8). What is the magnetic field on the y- axis at a distance of 0.5 m. ∆x = 1 cm.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 axis at a distance of 0.5 m. Ax = 1 cm.
 
 P
 
 0.5 m
 
-Reprint 2026-27
+
 
 y
 
@@ -922,7 +972,14 @@ summing up the effect of infinitesimal current elements
 the current Iis steady and that the evaluation is carried
 out in free space (i.e., vacuum).
 
-Fig. 4.9 depicts a circular loop carrying a steady
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_9.png" alt="Fig. 4.9" onclick="openImageModal(this.src, 'Fig. 4.9: Fig. 4.9 depicts a circular loop carrying a steady current I. The loop is placed...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.9</strong> Fig. 4.9 depicts a circular loop carrying a steady current I. The loop is placed in the plane with its centre at the origin O and has a radius R. The x-axis is the axis of the loop. We wish to calculate the magnetic field at the point P on this axis. Let x be the distance of P from the centre O of the loop.</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 current I. The loop is placed in the y-z plane with its
 centre at the origin O and has a radius R. The x-axis is
 the axis of the loop. We wish to calculate the magnetic
@@ -994,7 +1051,7 @@ dB =
 
 (4.9)
 
-Reprint 2026-27
+
 
 115
 
@@ -1068,7 +1125,15 @@ Bo
 (4.12)
 
 The magnetic field lines due to a circular wire form closed loops and
-are shown in Fig. 4.10. The direction of the magnetic field is given by
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_10.png" alt="Fig. 4.10" onclick="openImageModal(this.src, 'Fig. 4.10: The magnetic field lines due to a circular wire form closed loops and are shown ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.10</strong> The magnetic field lines due to a circular wire form closed loops and are shown in Fig. 4.10. The direction of the magnetic field is given by (another) right-hand thumb rule stated below:</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 (another) right-hand thumb rule stated below:
 
 Curl the palm of your right hand around the circular wire with the
@@ -1084,7 +1149,7 @@ the field is given by the right-hand thumb rule described in the text. The
 upper side of the loop may be thought of as the north pole and the lower
 side as the south pole of a magnet.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1094,7 +1159,16 @@ Moving Charges and
 Magnetism
 
 Example 4.5 A straight wire carrying a current of 12 A is bent into a
-semi-circular arc of radius 2.0 cm as shown in Fig. 4.11(a). Consider
+semi-circular arc of radius 2.0 cm as shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_11.png" alt="Fig. 4.11" onclick="openImageModal(this.src, 'Fig. 4.11: Example 4.5 A straight wire carrying a current of 12 A is bent into a semi-circu...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.11</strong> Example 4.5 A straight wire carrying a current of 12 A is bent into a semi-circular arc of radius 2.0 cm as shown in Fig. 4.11(a). Consider the magnetic field B at the centre of the arc. (a) What is the magnetic field due to the straight segments? (b) In what way the contribution to B from the semicircle differs from that of a circular loop and in what way does it resemble? (c) Would your answer be different if the wire were bent into a semi-circular arc of the same radius but in the opposite way as shown in Fig. 4.11(b)?</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 the magnetic field B at the centre of the arc. (a) What is the magnetic
 field due to the straight segments? (b) In what way the contribution
 to B from the semicircle differs from that of a circular loop and in
@@ -1152,7 +1226,16 @@ EXAMPLE 4.6
 
 There is an alternative and appealing way in which the
 Biot-Savart law may be expressed. Ampere's circuital law
-considers an open surface with a boundary (Fig. 4.12).
+considers an open surface with a boundary (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_12.png" alt="Fig. 4.12" onclick="openImageModal(this.src, 'Fig. 4.12: There is an alternative and appealing way in which the Biot-Savart law may be ex...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.12</strong> There is an alternative and appealing way in which the Biot-Savart law may be expressed. Ampere’s circuital law considers an open surface with a boundary (Fig. 4.12). The surface has current passing through it. We consider the boundary to be made up of a number of small line elements. Consider one such element of length dl. We take the value of the tangential component of the magnetic field, Bt, at this element and multiply it by the FIGURE 4.12</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 The surface has current passing through it. We consider
 the boundary to be made up of a number of small line
 elements. Consider one such element of length dl. We
@@ -1167,7 +1250,7 @@ Boundary
 
 FIGURE 4.12
 
-Reprint 2026-27
+
 
 I
 
@@ -1263,7 +1346,16 @@ BL=μ°I
 [4.13(b)]
 
 When there is a system with a symmetry such as for
-a straight infinite current-carrying wire in Fig. 4.13, the
+a straight infinite current-carrying wire in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_13.png" alt="Fig. 4.13" onclick="openImageModal(this.src, 'Fig. 4.13: When there is a system with a symmetry such as for a straight infinite current-c...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.13</strong> When there is a system with a symmetry such as for a straight infinite current-carrying wire in Fig. 4.13, the Ampere’s law enables an easy evaluation of the magnetic field, much the same way Gauss’ law helps in determination of the electric field. This is exhibited in the Example 4.8 below. The boundary of the loop chosen is a circle and magnetic field is tangential to the circumference of the circle. The law gives, for the left hand side of Eq. [4.13 (b)], B. 2πr. We find that the magnetic field at a distance r outside the wire is tangential and given by</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
 Ampere's law enables an easy evaluation of the magnetic
 field, much the same way Gauss' law helps in
 determination of the electric field. This is exhibited in the
@@ -1295,7 +1387,7 @@ ANDRE AMPERE (1775 –1836)
 
 118
 
-Reprint 2026-27
+
 
 
 ---
@@ -1373,7 +1465,7 @@ of B on the axis of current-loop and the other which gives direction of B
 for a straight conducting wire. Fingers and thumb play different roles in
 the two.
 
-Reprint 2026-27
+
 
 EXAMPLE 4.7
 
@@ -1435,37 +1527,13 @@ Ir2
 
 2
 
-μοΙ
-
-B =
-
-r
-
-2
-
-Bor
-
-Σπα
-
-(r< a)
-
-ONCERT
-
-[4.15(b)]
-
-be republished
-
-Bx1/r
-
-r
-
-120
-
-EXAMPLE 4.7
-
-a
-
-FIGURE 4.14
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_14.png" alt="Fig. 4.14" onclick="openImageModal(this.src, 'Fig. 4.14: FIGURE 4.14...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.14</strong> FIGURE 4.14</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
 Figure (4.14) shows a plot of the magnitude of B with distance r
 from the centre of the wire. The direction of the field is tangential to
@@ -1483,7 +1551,7 @@ B = μοI/2R [Eq. (4.12)] for the field at the centre of the loop. However,
 there exists a large number of situations of high symmetry where the law
 can be conveniently applied. We shall use it in the next section to calculate
 
-Reprint 2026-27
+
 
 
 ---
@@ -1504,15 +1572,14 @@ spaced. So each turn can be regarded as a circular loop. The net magnetic
 field is the vector sum of the fields due to all the turns. Enamelled wires
 are used for winding so that turns are insulated from each other.
 
-NCERT
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_15.png" alt="Fig. 4.15" onclick="openImageModal(this.src, 'Fig. 4.15: Figure 4.15 displays the magnetic field lines for a finite solenoid. We show a s...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.15</strong> Figure 4.15 displays the magnetic field lines for a finite solenoid. We show a section of this solenoid in an enlarged manner in Fig. 4.15(a). Figure 4.15(b) shows the entire finite solenoid with its magnetic field. In Fig. 4.15(a), it is clear from the circular loops that the field between two neighbouring turns vanishes. In Fig. 4.15(b), we see that the field at the interior mid-point P is uniform, strong and along the axis of the solenoid. The field at the exterior mid-point Q is weak and moreover is along the axis of the solenoid with no perpendicular or normal component. As the</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
-epubbed
-
-(a)
-
-(b)
-
-FIGURE 4.15 (a) The magnetic field due to a section of the solenoid which has been
 stretched out for clarity. Only the exterior semi-circular part is shown. Notice
 how the circular loops between neighbouring turns tend to cancel.
 (b) The magnetic field of a finite solenoid.
@@ -1526,29 +1593,17 @@ interior mid-point P is uniform, strong and along the axis of the solenoid.
 The field at the exterior mid-point Q is weak and moreover is along the
 axis of the solenoid with no perpendicular or normal component. As the
 
-9
-h
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_16.png" alt="Fig. 4.16" onclick="openImageModal(this.src, 'Fig. 4.16: FIGURE 4.16 The magnetic field of a very long solenoid. We consider a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.16</strong> FIGURE 4.16 The magnetic field of a very long solenoid. We consider a</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
-d
-
-C
-
-a
-
-B
-
-XXX
-
-b
-
-P
-
-XXXXX
-
-FIGURE 4.16 The magnetic field of a very long solenoid. We consider a
 rectangular Amperian loop abcd to determine the field.
 
-Reprint 2026-27
+
 
 121
 
@@ -1613,21 +1668,15 @@ n =
 
 The length 1 = 0.5 m and radius r = 0.01 m. Thus, 1/a = 50 i.e., l>> a.
 Hence, we can use the long solenoid formula, namely, Eq. (4.20)
-B = μη Ι
 
-= 4 × 10-7 × 103 × 5
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_17.png" alt="Fig. 4.17" onclick="openImageModal(this.src, 'Fig. 4.17: FIGURE 4.17 Two long straight parallel conductors carrying steady currents Ia an...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.17</strong> FIGURE 4.17 Two long straight parallel conductors carrying steady currents Ia and Ib and separated by a</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
-= 6.28 × 10-3 T
-
-d
-
-++
-
-B
-
-b
-
-FIGURE 4.17 Two long straight
 parallel conductors carrying steady
 currents I and I and separated by a
 distance d. B is the magnetic field
@@ -1656,7 +1705,7 @@ section, we shall take the simple example of two parallel
 current- carrying conductors, which will perhaps help us
 to appreciate Ampere's painstaking work.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1756,7 +1805,7 @@ the momentum carried by fields is also taken into account.
 
 123
 
-Reprint 2026-27
+
 
 
 ---
@@ -1837,7 +1886,7 @@ placed in a uniform magnetic field experiences a torque. It does not
 experience a net force. This behaviour is analogous to that of electric
 dipole in a uniform electric field (Section 1.11).
 
-Reprint 2026-27
+
 
 
 ---
@@ -1849,7 +1898,14 @@ Magnetism
 We first consider the simple case when the
 rectangular loop is placed such that the uniform
 magnetic field B is in the plane of the loop. This is
-illustrated in Fig. 4.18(a).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_18.png" alt="Fig. 4.18" onclick="openImageModal(this.src, 'Fig. 4.18: We first consider the simple case when the rectangular loop is placed such that ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.18</strong> We first consider the simple case when the rectangular loop is placed such that the uniform magnetic field B is in the plane of the loop. This is illustrated in Fig. 4.18(a).</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
 
 The field exerts no force on the two arms AD and BC
 of the loop. It is perpendicular to the arm AB of the loop
@@ -1941,7 +1997,15 @@ We next consider the case when the plane of the loop,
 is not along the magnetic field, but makes an angle with
 it. We take the angle between the field and the normal to
 the coil to be angle 0 (The previous case corresponds to
-0 = π/2). Figure 4.19 illustrates this general case.
+0 = π/2).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_19.png" alt="Fig. 4.19" onclick="openImageModal(this.src, 'Fig. 4.19: We next consider the case when the plane of the loop, is not along the magnetic ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.19</strong> We next consider the case when the plane of the loop, is not along the magnetic field, but makes an angle with it. We take the angle between the field and the normal to the coil to be angle θ (The previous case corresponds to θ = π/2). Figure 4.19 illustrates this general case.</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
 
 (b)
 
@@ -1982,7 +2046,7 @@ constituting a couple. The magnitude of the torque on the loop is,
 
 125
 
-Reprint 2026-27
+
 
 
 ---
@@ -2109,7 +2173,7 @@ magnitudes of the torques on the coil in the initial and final position?
 (d) What is the angular speed acquired by the coil when it has rotated
 by 90°? The moment of inertia of the coil is 0.1 kg m².
 
-Reprint 2026-27
+
 
 
 ---
@@ -2241,7 +2305,7 @@ EXAMPLE 4.11
 
 127
 
-Reprint 2026-27
+
 
 
 ---
@@ -2339,7 +2403,7 @@ substitute,
 
 μο → 1/ εο
 
-Reprint 2026-27
+
 
 
 ---
@@ -2417,7 +2481,15 @@ magnetic moment, not accounted by circulating currents.
 Currents and voltages in circuits have been discussed extensively in
 Chapters 3. But how do we measure them? How do we claim that
 current in a circuit is 1.5 A or the voltage drop across a resistor is 1.2 V?
-Figure 4.20 exhibits a very useful instrument for this purpose: the moving
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_20.png" alt="Fig. 4.20" onclick="openImageModal(this.src, 'Fig. 4.20: Currents and voltages in circuits have been discussed extensively in Chapters 3....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.20</strong> Currents and voltages in circuits have been discussed extensively in Chapters 3. But how do we measure them? How do we claim that current in a circuit is 1.5 A or the voltage drop across a resistor is 1.2 V? Figure 4.20 exhibits a very useful instrument for this purpose: the moving coil galvanometer (MCG). It is a device whose principle can be understood on the basis of our discussion in Section 4.9.</span>
+    <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
+  </div>
+</div>
+
 coil galvanometer (MCG). It is a device whose principle can be understood
 on the basis of our discussion in Section 4.9.
 
@@ -2431,7 +2503,7 @@ the coil, a torque acts on it. This torque is given by Eq. (4.20) to be
 
 129
 
-Reprint 2026-27
+
 
 
 ---
@@ -2475,19 +2547,14 @@ used as a current detector or for
 measuring the value of the current
 (ammeter) or voltage (voltmeter).
 
-RG
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_21.png" alt="Fig. 4.21" onclick="openImageModal(this.src, 'Fig. 4.21: RG rs / (RG + rs) ≃ rs if RG >> rs If rs has small value, in relation to the res...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.21</strong> RG rs / (RG + rs) ≃ rs if RG >> rs If rs has small value, in relation to the resistance of the rest of the circuit Rc, the effect of introducing the measuring instrument is also small and negligible. This arrangement is schematically shown in Fig. 4.21. The scale of this ammeter is calibrated and then graduated to read off the current value with ease. We define the current sensitivity of the galvanometer as the deflection per unit current. From Eq. (4.26) this current sensitivity is,</span>
+    <button class="icon-btn" onclick="goToPdfPage(24)">📄 View in PDF (Page 24)</button>
+  </div>
+</div>
 
-G
-
-RG
-
-G
-
-r
-
-Ammeter
-
-FIGURE 4.21
 Conversion of a
 galvanometer (G) to
 
@@ -2572,7 +2639,7 @@ A convenient way for the manufacturer to increase the sensitivity is
 to increase the number of turns N. We choose galvanometers having
 sensitivities of value, required by our experiment.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2588,7 +2655,16 @@ small current, otherwise the voltage measurement will disturb the original
 set up by an amount which is very large. Usually we like to keep the
 disturbance due to the measuring device below one per cent. To ensure
 this, a large resistance Ris connected in series with the galvanometer.
-This arrangement is schematically depicted in Fig.4.22. Note that the
+This arrangement is schematically depicted in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_22.png" alt="Fig. 4.22" onclick="openImageModal(this.src, 'Fig. 4.22: The galvanometer can also be used as a voltmeter to measure the voltage across a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.22</strong> The galvanometer can also be used as a voltmeter to measure the voltage across a given section of the circuit. For this it must be connected in parallel with that section of the circuit. Further, it must draw a very small current, otherwise the voltage measurement will disturb the original set up by an amount which is very large. Usually we like to keep the disturbance due to the measuring device below one per cent. To ensure this, a large resistance R is connected in series with the galvanometer. This arrangement is schematically depicted in Fig.4.22. Note that the resistance of the voltmeter is now,</span>
+    <button class="icon-btn" onclick="goToPdfPage(25)">📄 View in PDF (Page 25)</button>
+  </div>
+</div>
+
 resistance of the voltmeter is now,
 
 R + R=R: large
@@ -2648,11 +2724,17 @@ not
 
 ### 3.00 V
 
-FIGURE 4.23
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_23.png" alt="Fig. 4.23" onclick="openImageModal(this.src, 'Fig. 4.23: Example 4.12 In the circuit (Fig. 4.23) the current is to be measured. What is t...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.23</strong> Example 4.12 In the circuit (Fig. 4.23) the current is to be measured. What is the value of the current if the ammeter shown (a) is a galvanometer with a resistance RG = 60.00 Ω; (b) is a galvanometer described in (a) but converted to an ammeter by a shunt resistance rs = 0.02 Ω; (c) is an ideal ammeter with zero resistance?</span>
+    <button class="icon-btn" onclick="goToPdfPage(25)">📄 View in PDF (Page 25)</button>
+  </div>
+</div>
 
 60.00 Ω; (b) is a
 
-Reprint 2026-27
+
 
 EXAMPLE 4.12
 
@@ -2752,7 +2834,7 @@ over the entire length of the conductor.
 ### 5. The magnitude of the magnetic field due to a circular coil of radius R
 carrying a current I at an axial distance x from the centre is
 
-Reprint 2026-27
+
 
 
 ---
@@ -2813,7 +2895,7 @@ converted into a voltmeter by introducing a resistance of a large value
 
 in series.
 
-Reprint 2026-27
+
 
 133
 
@@ -2919,24 +3001,18 @@ not t
 
 EXERCISES
 
-### 4.1
-
-A circular coil of wire consisting of 100 turns, each of radius 8.0 cm
+### 4.1 A circular coil of wire consisting of 100 turns, each of radius 8.0 cm
 carries a current of 0.40 A. What is the magnitude of the magnetic
 field B at the centre of the coil?
 
-### 4.2
-
-A long straight wire carries a current of 35 A. What is the magnitude
+### 4.2 A long straight wire carries a current of 35 A. What is the magnitude
 of the field B at a point 20 cm from the wire?
 
-### 4.3
-
-A long straight wire in the horizontal plane carries a current of 50 A
+### 4.3 A long straight wire in the horizontal plane carries a current of 50 A
 in north to south direction. Give the magnitude and direction of B
 at a point 2.5 m east of the wire.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2945,39 +3021,29 @@ Reprint 2026-27
 Moving Charges and
 Magnetism
 
-### 4.4
-
-A horizontal overhead power line carries a current of 90 A in east to
+### 4.4 A horizontal overhead power line carries a current of 90 A in east to
 west direction. What is the magnitude and direction of the magnetic
 field due to the current 1.5 m below the line?
 
-### 4.5
-
-What is the magnitude of magnetic force per unit length on a wire
+### 4.5 What is the magnitude of magnetic force per unit length on a wire
 carrying a current of 8 A and making an angle of 30° with the direction
 of a uniform magnetic field of 0.15 T?
 
 ### 4.6
 
-### 4.7
-
-A 3.0 cm wire carrying a current of 10 A is placed inside a solenoid
+### 4.7 A 3.0 cm wire carrying a current of 10 A is placed inside a solenoid
 perpendicular to its axis. The magnetic field inside the solenoid is
 given to be 0.27 T. What is the magnetic force on the wire?
 Two long and parallel straight wires A and B carrying currents of
 8.0 A and 5.0 A in the same direction are separated by a distance of
 4.0 cm. Estimate the force on a 10 cm section of wire A.
 
-### 4.8
-
-A closely wound solenoid 80 cm long has 5 layers of windings of 400
+### 4.8 A closely wound solenoid 80 cm long has 5 layers of windings of 400
 turns each. The diameter of the solenoid is 1.8 cm. If the current
 carried is 8.0 A, estimate the magnitude of B inside the solenoid
 near its centre.
 
-### 4.9
-
-A square coil of side 10 cm consists of 20 turns and carries a current
+### 4.9 A square coil of side 10 cm consists of 20 turns and carries a current
 of 12 A. The coil is suspended vertically and the normal to the plane
 of the coil makes an angle of 30° with the direction of a uniform
 horizontal magnetic field of magnitude 0.80 T. What is the magnitude
@@ -2990,9 +3056,7 @@ epublished
 ### 4.10 Two moving coil meters, M, and M, have the following particulars:
 R₁ = 10 Ω, Ν₁ = 30,
 
-### 4.11
-
-A₁ = 3.6 × 10¯3 m², B₁ = 0.25 T
+### 4.11 A₁ = 3.6 × 10¯3 m², B₁ = 0.25 T
 
 R₂ = 14 Ω, Ν₂ = 42,
 
@@ -3027,7 +3091,7 @@ turning.
 by a planar coil of some irregular shape that encloses the same
 area? (All other particulars are also unaltered.)
 
-Reprint 2026-27
+
 
 135
 

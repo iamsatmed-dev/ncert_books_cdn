@@ -12,7 +12,7 @@ POTENTIAL AND
 
 CAPACITANCE
 
-12089CH02
+
 
 NCERT
 
@@ -46,21 +46,20 @@ First, for simplicity, consider the field E due to a charge placed at the
 origin. Now, imagine that we bring a test charge q from a point R to a
 point P against the repulsive force on it due to the charge Q. With reference
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 2
 
-Physics
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_1.png" alt="Fig. 2.1" onclick="openImageModal(this.src, 'Fig. 2.1: to Fig. 2.1, this will happen if Q and q are both positive or both negative. For...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.1</strong> to Fig. 2.1, this will happen if Q and q are both positive or both negative. For definiteness, let us take Q, q > 0.</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
-q
-
-P
-
-Ω
-
-FIGURE 2.1 A test charge q (> 0) is
 moved from the point R to the
 point P against the repulsive
 force on it by the charge Q (> 0)
@@ -153,7 +152,7 @@ meaningful if the work depended on the path. The path-independence
 of work done by an electrostatic field can be proved using the
 Coulomb's law. We omit this proof here.
 
-Reprint 2026-27
+
 
 
 ---
@@ -255,29 +254,20 @@ from infinity to a point = electrostatic potential (V) at that point.
 
 47
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 4
 
-9
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_2.png" alt="Fig. 2.2" onclick="openImageModal(this.src, 'Fig. 2.2: FIGURE 2.2 Work done on a test charge q...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.2</strong> FIGURE 2.2 Work done on a test charge q</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
-Physics
-
-93
-
-P
-
-92
-
-q
-
-q
-
-q
-
-FIGURE 2.2 Work done on a test charge q
 by the electrostatic field due to any given
 charge configuration is independent
 of the path, and depends only on
@@ -311,7 +301,16 @@ P
 
 19
 
-Consider a point charge Q at the origin (Fig. 2.3). For definiteness, take Q
+Consider a point charge Q at the origin (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_3.png" alt="Fig. 2.3" onclick="openImageModal(this.src, 'Fig. 2.3: Consider a point charge Q at the origin (Fig. 2.3). For definiteness, take Q to ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.3</strong> Consider a point charge Q at the origin (Fig. 2.3). For definiteness, take Q to be positive. We wish to determine the potential at any point P with</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 to be positive. We wish to determine the potential at any point P with
 position vector r from the origin. For that we must
 calculate the work done in bringing a unit positive
@@ -383,7 +382,7 @@ V(r) =
 
 Απερ
 
-Reprint 2026-27
+
 
 (2.8)
 
@@ -455,11 +454,14 @@ and Capacitance
 
 ### 2.5 3 3.5
 
-4 4.5
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_4.png" alt="Fig. 2.4" onclick="openImageModal(this.src, 'Fig. 2.4: FIGURE 2.4 Variation of potential V with r [in units of...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.4</strong> FIGURE 2.4 Variation of potential V with r [in units of</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
-5
-
-FIGURE 2.4 Variation of potential V with r [in units of
 (G/4πε) m²¹] (blue curve) and field with r [in units
 of (G/4πε) m²] (black curve) for a point charge Q.
 
@@ -515,13 +517,22 @@ EXAMPLE 2.1
 As we learnt in the last chapter, an electric dipole consists of two charges
 qand -q separated by a (small) distance 2a. Its total charge is zero. It is
 characterised by a dipole moment vector p whose magnitude is q × 2a
-and which points in the direction from -q to q (Fig. 2.5). We also saw that
+and which points in the direction from -q to q (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_5.png" alt="Fig. 2.5" onclick="openImageModal(this.src, 'Fig. 2.5: As we learnt in the last chapter, an electric dipole consists of two charges q a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.5</strong> As we learnt in the last chapter, an electric dipole consists of two charges q and –q separated by a (small) distance 2a. Its total charge is zero. It is characterised by a dipole moment vector p whose magnitude is q × 2a and which points in the direction from –q to q (Fig. 2.5). We also saw that the electric field of a dipole at a point with position vector r depends not just on the magnitude r, but also on the angle between r and p. Further,</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 the electric field of a dipole at a point with position vector r depends not
 just on the magnitude r, but also on the angle between r and p. Further,
 
 49
 
-Reprint 2026-27
+
 
 
 ---
@@ -688,7 +699,7 @@ r2
 
 Now, p cos 0 = p.r
 
-Reprint 2026-27
+
 
 (2.14)
 
@@ -751,7 +762,15 @@ drawn there in another context.)
 ### 2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES
 
 Consider a system of charges q1, q2,………, qn with position vectors r₁, r2,...,
-r relative to some origin (Fig. 2.6). The potential V₁ V₁ at P due to the charge
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_6.png" alt="Fig. 2.6" onclick="openImageModal(this.src, 'Fig. 2.6: Consider a system of charges q1, q2,…, qn with position vectors r1, r2,…, rn rel...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.6</strong> Consider a system of charges q1, q2,…, qn with position vectors r1, r2,…, rn relative to some origin (Fig. 2.6). The potential V1 at P due to the charge q1 is</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 q₁ is
 
 n
@@ -826,7 +845,7 @@ due to individual charges.
 
 51
 
-Reprint 2026-27
+
 
 93
 
@@ -898,7 +917,15 @@ Example 2.2 Two charges 3 × 10¯° C and –2 × 10¯° C are located
 electric potential zero? Take the potential at infinity to be zero.
 Solution Let us take the origin O at the location of the positive charge.
 The line joining the two charges is taken to be the x-axis; the negative
-charge is taken to be on the right side of the origin (Fig. 2.7).
+charge is taken to be on the right side of the origin (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_7.png" alt="Fig. 2.7" onclick="openImageModal(this.src, 'Fig. 2.7: Solution Let us take the origin O at the location of the positive charge. The li...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.7</strong> Solution Let us take the origin O at the location of the positive charge. The line joining the two charges is taken to be the x-axis; the negative charge is taken to be on the right side of the origin (Fig. 2.7).</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 P
 X
@@ -955,7 +982,7 @@ X
 
 x-15
 
-Reprint 2026-27
+
 
 
 ---
@@ -976,25 +1003,13 @@ potential to be zero at infinity.
 Example 2.3 Figures 2.8 (a) and (b) show the field lines of a positive
 and negative point charge respectively.
 
-P
-
-+
-
-(a)
-
-Θ
-
-EXAMPLE 2.2
-
-PHYSICS
-
-(b)
-
-ubli
-
-ERT
-
-FIGURE 2.8
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_8.png" alt="Fig. 2.8" onclick="openImageModal(this.src, 'Fig. 2.8: FIGURE 2.8...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.8</strong> FIGURE 2.8</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 Electric potential, equipotential surfaces:
 
@@ -1044,7 +1059,7 @@ done by the external agency. It is positive.
 (e) Due to force of repulsion on the negative charge, velocity decreases
 and hence the kinetic energy decreases in going from B to A.
 
-Reprint 2026-27
+
 
 EXAMPLE 2.3
 
@@ -1054,15 +1069,14 @@ EXAMPLE 2.3
 ---
 ## 📄 Page 10
 
-Physics
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_9.png" alt="Fig. 2.9" onclick="openImageModal(this.src, 'Fig. 2.9: FIGURE 2.9 For a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.9</strong> FIGURE 2.9 For a</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
-(a)
-
-+9
-
-(b)
-
-FIGURE 2.9 For a
 single charge q
 (a) equipotential
 surfaces are
@@ -1110,14 +1124,26 @@ at every point. Equipotential surfaces offer an alternative visual picture
 in addition to the picture of electric field lines around a charge
 configuration.
 
-E
-
-FIGURE 2.10 Equipotential surfaces for a uniform electric field.
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_10.png" alt="Fig. 2.10" onclick="openImageModal(this.src, 'Fig. 2.10: FIGURE 2.10 Equipotential surfaces for a uniform electric field....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.10</strong> FIGURE 2.10 Equipotential surfaces for a uniform electric field.</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
 For a uniform electric field E, say, along the x-axis, the equipotential
 surfaces are planes normal to the x-axis, i.e., planes parallel to the y-z
 plane (Fig. 2.10). Equipotential surfaces for (a) a dipole and (b) two
-identical positive charges are shown in Fig. 2.11.
+identical positive charges are shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_11.png" alt="Fig. 2.11" onclick="openImageModal(this.src, 'Fig. 2.11: FIGURE 2.11 Some equipotential surfaces for (a) a dipole,...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.11</strong> FIGURE 2.11 Some equipotential surfaces for (a) a dipole,</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
 not
 
@@ -1132,7 +1158,7 @@ not
 FIGURE 2.11 Some equipotential surfaces for (a) a dipole,
 (b) two identical positive charges.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1143,7 +1169,16 @@ and Capacitance
 
 ### 2.6.1 Relation between field and potential
 
-Consider two closely spaced equipotential surfaces A and B (Fig. 2.12)
+Consider two closely spaced equipotential surfaces A and B (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_12.png" alt="Fig. 2.12" onclick="openImageModal(this.src, 'Fig. 2.12: Consider two closely spaced equipotential surfaces A and B (Fig. 2.12) with pote...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.12</strong> Consider two closely spaced equipotential surfaces A and B (Fig. 2.12) with potential values V and V + d V, where d V is the change in V in the direction of the electric field E. Let P be a point on the surface B. d l is the perpendicular distance of the surface A from P. Imagine that a unit positive charge is moved along this perpendicular from the surface B to surface A against the electric field. The work done in this process is |E|d l.</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 with potential values V and V + 8V, where dV is the change in V in the
 direction of the electric field E. Let P be a point on the
 surface B. dl is the perpendicular distance of the
@@ -1250,7 +1285,7 @@ work done on q2 =
 
 4πεο Γ12
 
-Reprint 2026-27
+
 
 55
 
@@ -1258,15 +1293,14 @@ Reprint 2026-27
 ---
 ## 📄 Page 12
 
-Physics
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_13.png" alt="Fig. 2.13" onclick="openImageModal(this.src, 'Fig. 2.13: FIGURE 2.13 Potential energy of a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.13</strong> FIGURE 2.13 Potential energy of a</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
-91
-
-Γ12
-
-92
-
-FIGURE 2.13 Potential energy of a
 system of charges q₁ and q₂ is
 directly proportional to the product
 of charges and inversely to the
@@ -1340,17 +1374,15 @@ V1,2 =
 4πεο ΓιΡ 12P
 
 Work done next in bringing q from infinity to the point ris q3 times
-V₁₂ at r₂
 
-hot
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_14.png" alt="Fig. 2.14" onclick="openImageModal(this.src, 'Fig. 2.14: FIGURE 2.14 Potential energy of a system of three charges is given by...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.14</strong> FIGURE 2.14 Potential energy of a system of three charges is given by</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
-113
-
-91
-
-12
-
-FIGURE 2.14 Potential energy of a
 system of three charges is given by
 Eq. (2.26), with the notation given
 in the figure.
@@ -1395,7 +1427,7 @@ independence of work done), the final expression for
 U, Eq. (2.26), is independent of the manner in which
 the configuration is assembled. The potential energy
 
-Reprint 2026-27
+
 
 
 ---
@@ -1408,7 +1440,15 @@ is characteristic of the present state of configuration, and not the way
 the state is achieved.
 
 Example 2.4 Four charges are arranged at the corners of a square
-ABCD of side d, as shown in Fig. 2.15.(a) Find the work required to
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_15.png" alt="Fig. 2.15" onclick="openImageModal(this.src, 'Fig. 2.15: Example 2.4 Four charges are arranged at the corners of a square ABCD of side d,...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.15</strong> Example 2.4 Four charges are arranged at the corners of a square ABCD of side d, as shown in Fig. 2.15.(a) Find the work required to put together this arrangement. (b) A charge q0 is brought to the centre E of the square, the four charges being held fixed at its corners. How much extra work is needed to do this?</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 put together this arrangement. (b) A charge qq is brought to the centre
 E of the square, the four charges being held fixed at its corners. How
 much extra work is needed to do this?
@@ -1518,7 +1558,7 @@ q
 1
 √2
 
-Reprint 2026-27
+
 
 EXAMPLE 2.4
 
@@ -1594,7 +1634,7 @@ The external electric field E and the corresponding external potential
 V may vary from point to point. By definition, Vat a point P is the work
 done in bringing a unit positive charge from infinity to the point P.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1697,7 +1737,7 @@ at (-9 cm, 0, 0) and (9 cm, 0, 0) respectively.
 (b) How much work is required to separate the two charges infinitely
 away from each other?
 
-Reprint 2026-27
+
 
 EXAMPLE 2.5
 
@@ -1770,7 +1810,14 @@ P
 
 ### 2.8.3 Potential energy of a dipole in an external field
 Consider a dipole with charges q₁ = +q and q₂ = −q placed in a uniform
-electric field E, as shown in Fig. 2.16.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_16.png" alt="Fig. 2.16" onclick="openImageModal(this.src, 'Fig. 2.16: Consider a dipole with charges q1 = +q and q2 = –q placed in a uniform electric ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.16</strong> Consider a dipole with charges q1 = +q and q2 = –q placed in a uniform electric field E, as shown in Fig. 2.16.</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
 E
 
@@ -1838,7 +1885,7 @@ pE cos = -p.E
 
 (2.32)
 
-Reprint 2026-27
+
 
 
 ---
@@ -1927,7 +1974,7 @@ EXAMPLE 2.6
 
 61
 
-Reprint 2026-27
+
 
 
 ---
@@ -1992,7 +2039,7 @@ moving a small test charge within the conductor and on its surface. That
 is, there is no potential difference between any two points inside or on
 the surface of the conductor. Hence, the result. If the conductor is charged,
 
-Reprint 2026-27
+
 
 
 ---
@@ -2019,7 +2066,16 @@ where o is the surface charge density and n is a unit vector normal
 to the surface in the outward direction.
 
 To derive the result, choose a pill box (a short cylinder) as the Gaussian
-surface about any point P on the surface, as shown in Fig. 2.17. The pill
+surface about any point P on the surface, as shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_17.png" alt="Fig. 2.17" onclick="openImageModal(this.src, 'Fig. 2.17: To derive the result, choose a pill box (a short cylinder) as the Gaussian surfa...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.17</strong> To derive the result, choose a pill box (a short cylinder) as the Gaussian surface about any point P on the surface, as shown in Fig. 2.17. The pill box is partly inside and partly outside the surface of the conductor. It has a small area of cross section d S and negligible height.</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
+
 box is partly inside and partly outside the surface of the conductor. It
 has a small area of cross section 6S and negligible height.
 
@@ -2091,7 +2147,7 @@ above, a very general result. A related result is that even if the conductor
 
 63
 
-Reprint 2026-27
+
 
 
 ---
@@ -2104,34 +2160,14 @@ Physics
 E-
 σ < 0
 
-Conducting
-body
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_18.png" alt="Fig. 2.18" onclick="openImageModal(this.src, 'Fig. 2.18: FIGURE 2.18 The electric field inside a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.18</strong> FIGURE 2.18 The electric field inside a</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
 
-E = 0
-σ = 0, V = V
-
-σ < 0
-
-E
-
-σ> 0
-
-E
-
-↑
-
-+++++
-
-V = V:
-Constant
-
-x x x x x
-
-σ> 0
-
-E
-
-FIGURE 2.18 The electric field inside a
 cavity of any conductor is zero. All
 charges reside only on the outer surface
 of a conductor with cavity. (There are no
@@ -2149,7 +2185,16 @@ remains shielded from outside electric influence: the
 field inside the cavity is always zero. This is known
 as electrostatic shielding. The effect can be made
 use of in protecting sensitive instruments from
-outside electrical influence. Figure 2.19 gives a
+outside electrical influence.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_19.png" alt="Fig. 2.19" onclick="openImageModal(this.src, 'Fig. 2.19: FIGURE 2.19 Some important electrostatic properties of a conductor....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.19</strong> FIGURE 2.19 Some important electrostatic properties of a conductor.</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
+
 summary of the important electrostatic properties
 of a conductor.
 
@@ -2224,7 +2269,7 @@ net force of attraction. If the hair is wet, or if it is rainy day, friction
 between hair and the comb reduces. The comb does not get
 charged and thus it will not attract small bits of paper.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2303,37 +2348,14 @@ molecule such as HCl or a molecule of water
 
 E
 
-+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_20.png" alt="Fig. 2.20" onclick="openImageModal(this.src, 'Fig. 2.20: FIGURE 2.20 Difference in behaviour...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.20</strong> FIGURE 2.20 Difference in behaviour</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
 
-+
-
-+
-
-Ofree +
-
-++
-
-+
-
-Ein Op
-
-Eo + Ein ≠ 0
-
-Dielectric
-
-++
-
-xx
-
-+
-
-+
-
-E。
-
-E。
-
-FIGURE 2.20 Difference in behaviour
 of a conductor and a dielectric
 in an external electric field.
 
@@ -2341,42 +2363,19 @@ e
 
 H
 
-H
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_21.png" alt="Fig. 2.21" onclick="openImageModal(this.src, 'Fig. 2.21: FIGURE 2.21 Some examples of polar...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.21</strong> FIGURE 2.21 Some examples of polar</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
 
-C
-
-H₂
-
-CO2
-
-H
-
-Ο
-
-Polar
-
-!
-
-C1
-
-P
-
-H
-
-H
-
-P
-
-HC1
-
-H₂O
-
-FIGURE 2.21 Some examples of polar
 and non-polar molecules.
 
 65
 
-Reprint 2026-27
+
 
 
 ---
@@ -2426,37 +2425,14 @@ E≠0
 
 +
 
-+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_22.png" alt="Fig. 2.22" onclick="openImageModal(this.src, 'Fig. 2.22: FIGURE 2.22 A dielectric develops a net dipole moment in an external electric fi...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.22</strong> FIGURE 2.22 A dielectric develops a net dipole moment in an external electric field. (a) Non-polar</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
 
-+
-
-+
-
--+
-
-+
-
-+
-
-+
-
-+
-
-(b) Polar molecules
-
-+
-
--
-
-+
-
-+-
-
-+-
-
-+
-
-FIGURE 2.22 A dielectric develops a net dipole
 moment in an external electric field. (a) Non-polar
 molecules, (b) Polar molecules.
 
@@ -2525,7 +2501,7 @@ external field inside it? Let us consider, for simplicity, a rectangular
 dielectric slab placed in a uniform external field E parallel to two of its
 faces. The field causes a uniform polarisation P of the dielectric. Thus
 
-Reprint 2026-27
+
 
 
 ---
@@ -2592,38 +2568,29 @@ p
 
 ### 2.11 CAPACITORS AND CAPACITANCE
 
-+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_23.png" alt="Fig. 2.23" onclick="openImageModal(this.src, 'Fig. 2.23: FIGURE 2.23 A uniformly polarised dielectric amounts...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.23</strong> FIGURE 2.23 A uniformly polarised dielectric amounts</span>
+    <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
+  </div>
+</div>
 
-+
-
-+
-
-+
-
-+- +-
-
-+
-
-+
-
-+-
-
-+-
-
-+-
-
-+
-
-→P
-
-FIGURE 2.23 A uniformly
 polarised dielectric amounts
 to induced surface charge
 density, but no volume
 charge density.
 
 A capacitor is a system of two conductors separated by an insulator
-(Fig. 2.24). The conductors have charges, say Q₁ and Q2, and potentials
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_24.png" alt="Fig. 2.24" onclick="openImageModal(this.src, 'Fig. 2.24: A capacitor is a system of two conductors separated by an insulator (Fig. 2.24)....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.24</strong> A capacitor is a system of two conductors separated by an insulator (Fig. 2.24). The conductors have charges, say Q1 and Q2, and potentials V1 and V2. Usually, in practice, the two conductors have charges Q and – Q, with potential difference V = V1 – V2 between them. We shall consider only this kind of charge configuration of the capacitor. (Even a single conductor can be used as a capacitor by assuming the other at infinity.) The conductors may be so charged by connecting them to the two terminals of a battery. Q is called the charge of the capacitor, though this, in fact, is the charge on one of the conductors – the total charge of the capacitor is zero.</span>
+    <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
+  </div>
+</div>
+
 V₁ and V2. Usually, in practice, the two conductors have charges Q
 and – Q, with potential difference V = V₁ – V₂ between them. We shall
 consider only this kind of charge configuration of the capacitor. (Even a
@@ -2672,7 +2639,7 @@ V
 The constant C is called the capacitance of the capacitor. C is independent
 of or V, as stated above. The capacitance C depends only on the
 
-Reprint 2026-27
+
 
 67
 
@@ -2739,7 +2706,16 @@ II
 charge density – σ
 
 A parallel plate capacitor consists of two large plane parallel conducting
-plates separated by a small distance (Fig. 2.25). We first take the
+plates separated by a small distance (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_25.png" alt="Fig. 2.25" onclick="openImageModal(this.src, 'Fig. 2.25: A parallel plate capacitor consists of two large plane parallel conducting plate...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.25</strong> A parallel plate capacitor consists of two large plane parallel conducting plates separated by a small distance (Fig. 2.25). We first take the</span>
+    <button class="icon-btn" onclick="goToPdfPage(24)">📄 View in PDF (Page 24)</button>
+  </div>
+</div>
+
 intervening medium between the plates to be
 vacuum. The effect of a dielectric medium between
 the plates is discussed in the next section. Let A be
@@ -2772,7 +2748,7 @@ E =
 
 (2.39)
 
-Reprint 2026-27
+
 
 
 ---
@@ -2901,7 +2877,7 @@ Eo
 
 Εο
 
-Reprint 2026-27
+
 
 69
 
@@ -3044,7 +3020,7 @@ Thus, the dielectric constant of a substance is the factor (>1) by which
 the capacitance increases from its vacuum value, when the dielectric is
 inserted fully between the plates of a capacitor. Though we arrived at
 
-Reprint 2026-27
+
 
 
 ---
@@ -3116,7 +3092,14 @@ possibilities are discussed below.
 
 ### 2.14.1 Capacitors in series
 
-Figure 2.26 shows capacitors C₁ and C2
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_26.png" alt="Fig. 2.26" onclick="openImageModal(this.src, 'Fig. 2.26: Figure 2.26 shows capacitors C1 and C2 combined in series....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.26</strong> Figure 2.26 shows capacitors C1 and C2 combined in series.</span>
+    <button class="icon-btn" onclick="goToPdfPage(27)">📄 View in PDF (Page 27)</button>
+  </div>
+</div>
+
 combined in series.
 
 و
@@ -3219,43 +3202,19 @@ capacitors in series.
 
 +
 
-+
-
-+
-
-+
-
-+
-
-+
-
-C
-
-C2
-
-C3
-
-C
-
-++
-
-+
-
----
-
-+
-
-+
-
-+
-
-FIGURE 2.27 Combination of n
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_27.png" alt="Fig. 2.27" onclick="openImageModal(this.src, 'Fig. 2.27: FIGURE 2.27 Combination of n...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.27</strong> FIGURE 2.27 Combination of n</span>
+    <button class="icon-btn" onclick="goToPdfPage(27)">📄 View in PDF (Page 27)</button>
+  </div>
+</div>
 
 capacitors in series.
 
 71
 
-Reprint 2026-27
+
 
 
 ---
@@ -3385,7 +3344,14 @@ Cn
 
 ### 2.14.2 Capacitors in parallel
 
-Figure 2.28 (a) shows two capacitors arranged in
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_28.png" alt="Fig. 2.28" onclick="openImageModal(this.src, 'Fig. 2.28: Figure 2.28 (a) shows two capacitors arranged in parallel. In this case, the sam...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.28</strong> Figure 2.28 (a) shows two capacitors arranged in parallel. In this case, the same potential difference is applied across both the capacitors. But the plate charges (±Q1) on capacitor 1 and the plate charges (±Q2) on the capacitor 2 are not necessarily the same:</span>
+    <button class="icon-btn" onclick="goToPdfPage(28)">📄 View in PDF (Page 28)</button>
+  </div>
+</div>
+
 parallel. In this case, the same potential difference is
 applied across both the capacitors. But the plate charges
 (±Q₁) on capacitor 1 and the plate charges (±Q2) on the
@@ -3453,7 +3419,7 @@ which gives
 
 C = C₁ + C₂ + ... Cn
 
-Reprint 2026-27
+
 
 (2.67)
 
@@ -3465,7 +3431,15 @@ Electrostatic Potential
 and Capacitance
 
 Example 2.9 A network of four 10 µF capacitors is connected to a 500 V
-supply, as shown in Fig. 2.29. Determine (a) the equivalent capacitance
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_29.png" alt="Fig. 2.29" onclick="openImageModal(this.src, 'Fig. 2.29: FIGURE 2.29...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.29</strong> FIGURE 2.29</span>
+    <button class="icon-btn" onclick="goToPdfPage(29)">📄 View in PDF (Page 29)</button>
+  </div>
+</div>
+
 of the network and (b) the charge on each capacitor. (Note, the charge on
 a capacitor is the charge on the plate with higher potential, equal and
 opposite to the charge on the plate with lower potential.)
@@ -3567,7 +3541,7 @@ EXAMPLE 2.9
 
 73
 
-Reprint 2026-27
+
 
 
 ---
@@ -3625,7 +3599,14 @@ E
 charge conservation, conductor 2 has charge - at
 the end (Fig 2.30).
 
-FIGURE 2.30 (a) Work done in a small
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_30.png" alt="Fig. 2.30" onclick="openImageModal(this.src, 'Fig. 2.30: FIGURE 2.30 (a) Work done in a small step of building charge on conductor 1 from...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.30</strong> FIGURE 2.30 (a) Work done in a small step of building charge on conductor 1 from Q¢ to Q¢ + d Q¢. (b) Total work done</span>
+    <button class="icon-btn" onclick="goToPdfPage(30)">📄 View in PDF (Page 30)</button>
+  </div>
+</div>
+
 step of building charge on conductor 1
 from Q' to Q' + & Q'. (b) Total work done
 in charging the capacitor may be
@@ -3737,7 +3718,7 @@ U= (1/2)ε¸E² × Ad
 
 (2.72)
 
-Reprint 2026-27
+
 
 
 ---
@@ -3762,7 +3743,15 @@ very general and holds true for electric field due to any configuration
 of charges.
 
 Example 2.10 (a) A 900 pF capacitor is charged by 100 V battery
-[Fig. 2.31(a)]. How much electrostatic energy is stored by the capacitor?
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_31.png" alt="Fig. 2.31" onclick="openImageModal(this.src, 'Fig. 2.31: Example 2.10 (a) A 900 pF capacitor is charged by 100 V battery [Fig. 2.31(a)]. ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.31</strong> Example 2.10 (a) A 900 pF capacitor is charged by 100 V battery [Fig. 2.31(a)]. How much electrostatic energy is stored by the capacitor? (b) The capacitor is disconnected from the battery and connected to another 900 pF capacitor [Fig. 2.31(b)]. What is the electrostatic energy stored by the system?</span>
+    <button class="icon-btn" onclick="goToPdfPage(31)">📄 View in PDF (Page 31)</button>
+  </div>
+</div>
+
 (b) The capacitor is disconnected from the battery and connected to
 another 900 pF capacitor [Fig. 2.31(b)]. What is the electrostatic
 energy stored by the system?
@@ -3836,7 +3825,7 @@ same potential. Let the common potential difference be V'. The
 
 EXAMPLE 2.10
 
-Reprint 2026-27
+
 
 75
 
@@ -3927,7 +3916,7 @@ charge are equipotential surfaces. The electric field E at a point is
 perpendicular to the equipotential surface through the point. E is in the
 direction of the steepest decrease of potential.
 
-Reprint 2026-27
+
 
 
 ---
@@ -4014,7 +4003,7 @@ C1 + C2 + C3 + ...
 
 where C1, C2, C3... are individual capacitances.
 
-Reprint 2026-27
+
 
 77
 
@@ -4129,7 +4118,7 @@ potential due to external charges and not the potential due to q. As seen
 in point 5, this expression will be ill-defined if V(r) includes potential
 due to a charge q itself.
 
-Reprint 2026-27
+
 
 
 ---
@@ -4145,27 +4134,19 @@ the conductor is not shielded from the fields by the inside charges.
 
 EXERCISES
 
-### 2.1
-
-Two charges 5 × 10¯° C and −3 × 10¯° C are located 16 cm apart. At
+### 2.1 Two charges 5 × 10¯° C and −3 × 10¯° C are located 16 cm apart. At
 what point(s) on the line joining the two charges is the electric
 potential zero? Take the potential at infinity to be zero.
 
-### 2.2
-
-A regular hexagon of side 10 cm has a charge 5 µC at each of its
+### 2.2 A regular hexagon of side 10 cm has a charge 5 µC at each of its
 vertices. Calculate the potential at the centre of the hexagon.
 
-### 2.3
-
-Two charges 2 µC and -2 µC are placed at points A and B 6 cm
+### 2.3 Two charges 2 µC and -2 µC are placed at points A and B 6 cm
 apart.
 
 (a) Identify an equipotential surface of the system.
 
-### 2.4
-
-rep
+### 2.4 rep
 
 blished
 
@@ -4184,17 +4165,13 @@ inside the sphere
 
 (c)
 
-### 2.5
-
-at a point 18 cm from the centre of the sphere?
+### 2.5 at a point 18 cm from the centre of the sphere?
 A parallel plate capacitor with air between the plates has a
 capacitance of 8 pF (1pF = 10-12 F). What will be the capacitance if
 the distance between the plates is reduced by half, and the space
 between them is filled with a substance of dielectric constant 6?
 
-### 2.6
-
-Three capacitors each of capacitance 9 pF are connected in series.
+### 2.6 Three capacitors each of capacitance 9 pF are connected in series.
 (a) What is the total capacitance of the combination?
 
 (b) What is the potential difference across each capacitor if the
@@ -4202,9 +4179,7 @@ combination is connected to a 120 V supply?
 
 ### 2.7
 
-### 2.8
-
-Three capacitors of capacitances 2 pF, 3 pF and 4 pF are connected
+### 2.8 Three capacitors of capacitances 2 pF, 3 pF and 4 pF are connected
 in parallel.
 
 (a) What is the total capacitance of the combination?
@@ -4222,7 +4197,7 @@ capacitor?
 
 79
 
-Reprint 2026-27
+
 
 
 ---
@@ -4232,9 +4207,7 @@ Reprint 2026-27
 
 Physics
 
-### 2.9
-
-Explain what would happen if in the capacitor given in Exercise
+### 2.9 Explain what would happen if in the capacitor given in Exercise
 2.8, a 3 mm thick mica sheet (of dielectric constant = 6) were inserted
 between the plates,
 
@@ -4251,7 +4224,7 @@ in the process?
 
 © NCERT
 
-not to be republished
 
-Reprint 2026-27
+
+
 

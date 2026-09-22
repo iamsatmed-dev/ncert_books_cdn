@@ -32,7 +32,7 @@ Agricultural practices, food processing and diagnostics have
 brought socio-cultural changes in human communities. These
 are briefly described in the following three chapters of this unit.
 
-Reprint 2025-26
+
 
 
 ---
@@ -65,7 +65,7 @@ estigious
 
 hot to be
 
-Reprint 2025-26
+
 
 
 ---
@@ -80,7 +80,7 @@ N
 
 CHAPTER 7
 
-12083CH08
+
 
 Light
 chain
@@ -132,7 +132,7 @@ from parents from birth;
 exercise we give to our bodies, habits that we have or
 lack etc.
 
-Reprint 2025-26
+
 
 
 ---
@@ -194,7 +194,7 @@ may occur in severe cases. Typhoid fever could be confirmed by
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -238,7 +238,16 @@ species of Plasmodium (P. vivax, P. malaria and P. falciparum) are
 responsible for different types of malaria. Of these, malignant malaria caused
 by Plasmodium falciparum is the most serious one and can even be fatal.
 
-Let us take a glance at the life cycle of Plasmodium (Figure 7.1).
+Let us take a glance at the life cycle of Plasmodium (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_1.png" alt="Fig. 7.1" onclick="openImageModal(this.src, 'Fig. 7.1: Let us take a glance at the life cycle of Plasmodium (Figure 7.1). Plasmodium en...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.1</strong> Let us take a glance at the life cycle of Plasmodium (Figure 7.1). Plasmodium enters the human body as sporozoites (infectious form) through the bite of infected female Anopheles mosquito. The parasites initially multiply within the liver cells and then attack the red blood cells (RBCs) resulting in their rupture. The rupture of RBCs is associated with release of a toxic substance, haemozoin, which is responsible for the chill and high fever recurring every three to four days. When a female Anopheles mosquito bites an infected person, these parasites enter the mosquito’s body and undergo further development. The parasites multiply within them to form sporozoites that are stored in their salivary glands. When these mosquitoes bite a human, the sporozoites are introduced into his/ her body, thereby initiating the events mentioned above. It is interesting to note that the malarial parasite requires two hosts – human and mosquitoes – to complete its life cycle (Figure 7.1); the female Anopheles mosquito is the vector (transmitting agent) too.</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 Plasmodium enters the human body as sporozoites (infectious form)
 through the bite of infected female Anopheles mosquito. The parasites
 initially multiply within the liver cells and then attack the red blood cells
@@ -256,7 +265,7 @@ mosquito is the vector (transmitting agent) too.
 
 131
 
-Reprint 2025-26
+
 
 
 ---
@@ -302,7 +311,7 @@ bursting the cell and
 releasing into the
 blood.
 
-not to be republished
+
 
 Female mosquito
 takes up gametocytes
@@ -330,7 +339,7 @@ this disease include constipation, abdominal pain and cramps, stools
 with excess mucous and blood clots. Houseflies act as mechanical carriers
 and serve to transmit the parasite from faeces of infected person to food
 
-Reprint 2025-26
+
 
 132
 
@@ -359,7 +368,16 @@ Wuchereria (W. bancrofti and W. malayi), the filarial
 worms cause a slowly developing chronic inflammation
 of the organs in which they live for many years, usually
 the lymphatic vessels of the lower limbs and the disease
-is called elephantiasis or filariasis (Figure 7.2). The
+is called elephantiasis or filariasis (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_2.png" alt="Fig. 7.2" onclick="openImageModal(this.src, 'Fig. 7.2: Wuchereria (W. bancrofti and W. malayi), the filarial worms cause a slowly devel...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.2</strong> Wuchereria (W. bancrofti and W. malayi), the filarial worms cause a slowly developing chronic inflammation of the organs in which they live for many years, usually the lymphatic vessels of the lower limbs and the disease is called elephantiasis or filariasis (Figure 7.2). The genital organs are also often affected, resulting in gross deformities. The pathogens are transmitted to a healthy person through the bite by the female mosquito vectors.</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 genital organs are also often affected, resulting in gross
 deformities. The pathogens are transmitted to a healthy
 person through the bite by the female mosquito vectors.
@@ -370,7 +388,15 @@ responsible for ringworms which is one of
 the most common infectious diseases in man.
 Appearance of dry, scaly lesions on various
 parts of the body such as skin, nails and
-scalp (Figure 7.3) are the main symptoms of
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_3.png" alt="Fig. 7.3" onclick="openImageModal(this.src, 'Fig. 7.3: Many fungi belonging to the genera Microsporum, Trichophyton and Epidermophyton ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.3</strong> Many fungi belonging to the genera Microsporum, Trichophyton and Epidermophyton are responsible for ringworms which is one of the most common infectious diseases in man. Appearance of dry, scaly lesions on various parts of the body such as skin, nails and scalp (Figure 7.3) are the main symptoms of the disease. These lesions are accompanied by intense itching. Heat and moisture help these fungi to grow, which makes them thrive in skin folds such as those in the groin or between the toes. Ringworms are generally acquired from soil or by using towels, clothes or even the comb of infected individuals.</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 the disease. These lesions are accompanied
 by intense itching. Heat and moisture help
 these fungi to grow, which makes them thrive
@@ -404,7 +430,7 @@ pneumonia and common cold, in addition to the above measures, close
 
 133
 
-Reprint 2025-26
+
 
 
 ---
@@ -470,7 +496,7 @@ like polymorpho-nuclear leukocytes (PMNL-neutrophils) and
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -527,21 +553,13 @@ two small called light chains and
 two longer called heavy chains.
 Hence, an antibody is represented
 
-Light
-
-chain
-
-chain
-
--S-S-
-
--S-S-
-
-C
-
-C
-
-Figure 7.4 Structure of an antibody molecule
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_4.png" alt="Fig. 7.4" onclick="openImageModal(this.src, 'Fig. 7.4: The B-lymphocytes produce an army of proteins in response to pathogens into our ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.4</strong> The B-lymphocytes produce an army of proteins in response to pathogens into our blood to fight with them. These proteins are called antibodies. The T-cells themselves do not secrete antibodies but help B cells to produce them. Each antibody molecule has four peptide chains, two small called light chains and two longer called heavy chains. Hence, an antibody is represented as H2L2. Different types of antibodies are produced in our body. IgA, IgM, IgE, IgG are some of them. A cartoon of an antibody is given in Figure 7.4. Because these antibodies are found in the blood, the response is also called as humoral immune response. This is one of the two types of our acquired immune response – antibody mediated. The second type is called cell-mediated immune response or cell-mediated immunity (CMI). The T-lymphocytes mediate CMI. Very often, when some human organs like heart, eye, liver, kidney fail to function satisfactorily, transplantation is the only remedy to enable the patient to live a normal life. Then a search begins – to find a suitable donor. Why is it that the organs cannot be taken from just anybody? What is it that the doctors check? Grafts from</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 as H2L2. Different types of antibodies are produced in our body. IgA, IgM,
 IgE, IgG are some of them. A cartoon of an antibody is given in Figure
@@ -557,7 +575,7 @@ taken from just anybody? What is it that the doctors check? Grafts from
 
 135
 
-Reprint 2025-26
+
 
 
 ---
@@ -616,7 +634,7 @@ for immunisation, e.g., hepatitis B vaccine produced from yeast.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -678,13 +696,19 @@ are bone marrow and thymus where immature lymphocytes differentiate
 
 137
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 12
 
-Figure 7.5
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_5.png" alt="Fig. 7.5" onclick="openImageModal(this.src, 'Fig. 7.5: into antigen-sensitive lymphocytes. After maturation the lymphocytes migrate to ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.5</strong> into antigen-sensitive lymphocytes. After maturation the lymphocytes migrate to secondary lymphoid organs like spleen, lymph nodes, tonsils, Peyer’s patches of small intestine and appendix. The secondary lymphoid organs provide the sites for interaction of lymphocytes with the antigen, which then proliferate to become effector cells. The location of various lymphoid organs in the human body is shown in Figure 7.5.</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 138
 
@@ -747,14 +771,22 @@ not
 
 AIDS is caused by the Human Immuno deficiency Virus (HIV), a
 member of a group of viruses called retrovirus, which have an envelope
-enclosing the RNA genome (Figure 7.6). Transmission of HIV-infection
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_6.png" alt="Fig. 7.6" onclick="openImageModal(this.src, 'Fig. 7.6: AIDS is caused by the Human Immuno deficiency Virus (HIV), a member of a group o...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.6</strong> AIDS is caused by the Human Immuno deficiency Virus (HIV), a member of a group of viruses called retrovirus, which have an envelope enclosing the RNA genome (Figure 7.6). Transmission of HIV-infection generally occurs by (a) sexual contact with infected person, (b) by transfusion of contaminated blood and blood products, (c) by sharing infected needles as in the case of intravenous drug abusers and (d) from infected mother to her child through placenta. So, people who are at high risk of getting this infection includes - individuals who have multiple</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
 generally occurs by (a) sexual contact with infected person, (b) by
 transfusion of contaminated blood and blood products, (c) by sharing
 infected needles as in the case of intravenous drug abusers and (d) from
 infected mother to her child through placenta. So, people who are at high
 risk of getting this infection includes - individuals who have multiple
 
-Reprint 2025-26
+
 
 
 ---
@@ -822,7 +854,7 @@ from a few months to many years (usually 5-10 years).
 
 139
 
-Reprint 2025-26
+
 
 
 ---
@@ -886,7 +918,7 @@ cause of death all over the globe. More than a million Indians suffer from
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -948,7 +980,7 @@ shed
 
 141
 
-Reprint 2025-26
+
 
 
 ---
@@ -996,7 +1028,24 @@ Some are obtained from fungi.
 
 Opioids are the drugs, which bind to specific opioid receptors present
 in our central nervous system and gastrointestinal tract. Heroin
-(Figure 7.7), commonly called smack is chemically diacetylmorphine which
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_7.png" alt="Fig. 7.7" onclick="openImageModal(this.src, 'Fig. 7.7: Figure 7.7 Chemical structure of Morphine
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_8.png" alt="Fig. 7.8" onclick="openImageModal(this.src, 'Fig. 7.8: poppy plant Papaver somniferum (Figure 7.8). Generally taken by snorting and inj...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.8</strong> poppy plant Papaver somniferum (Figure 7.8). Generally taken by snorting and injection, heroin is a depressant and slows down body functions.</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
+<div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.7</strong> Figure 7.7 Chemical structure of Morphine Figure 7.8 Opium poppy</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
+
 is a white, odourless, bitter crystalline compound. This is obtained by
 acetylation of morphine (Figure 7.7), which is extracted from the latex of
 
@@ -1012,7 +1061,7 @@ Figure 7.7 Chemical structure of Morphine
 
 Figure 7.8 Opium poppy
 
-Reprint 2025-26
+
 
 
 ---
@@ -1023,7 +1072,25 @@ HUMAN HEALTH AND DISEASE
 poppy plant Papaver somniferum (Figure 7.8). Generally taken by snorting
 and injection, heroin is a depressant and slows down body functions.
 
-Cannabinoids are a group of chemicals (Figure 7.9), which interact
+Cannabinoids are a group of chemicals (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_9.png" alt="Fig. 7.9" onclick="openImageModal(this.src, 'Fig. 7.9: Cannabinoids are a group of chemicals (Figure 7.9), which interact with cannabin...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.9</strong> Cannabinoids are a group of chemicals (Figure 7.9), which interact with cannabinoid receptors present principally in the brain. Natural cannabinoids are obtained from the inflorescences of the plant Cannabis sativa (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_10.png" alt="Fig. 7.10" onclick="openImageModal(this.src, 'Fig. 7.10: Figure 7.10 Leaves of Cannabis sativa...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.10</strong> Figure 7.10 Leaves of Cannabis sativa</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
+<button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 with cannabinoid receptors present principally in the brain. Natural
 cannabinoids are obtained from the inflorescences of the plant Cannabis
 sativa (Figure 7.10). The flower tops, leaves and the resin of cannabis
@@ -1054,7 +1121,15 @@ central nervous system, producing a sense of euphoria
 and increased energy. Excessive dosage of cocaine
 causes hallucinations. Other well-known plants with
 hallucinogenic properties are Atropa belladona and
-Datura (Figure 7.11). These days cannabinoids are also
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_11.png" alt="Fig. 7.11" onclick="openImageModal(this.src, 'Fig. 7.11: Coca alkaloid or cocaine is obtained from coca plant Erythroxylum coca, native t...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.11</strong> Coca alkaloid or cocaine is obtained from coca plant Erythroxylum coca, native to South America. It interferes with the transport of the neuro-transmitter dopamine. Cocaine, commonly called coke or crack is usually snorted. It has a potent stimulating action on central nervous system, producing a sense of euphoria and increased energy. Excessive dosage of cocaine causes hallucinations. Other well-known plants with hallucinogenic properties are Atropa belladona and Datura (Figure 7.11). These days cannabinoids are also being abused by some sportspersons.</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 being abused by some sportspersons.
 
 Figure 7.10 Leaves of Cannabis sativa
@@ -1075,7 +1150,7 @@ constitutes drug abuse.
 
 143
 
-Reprint 2025-26
+
 
 
 ---
@@ -1137,7 +1212,7 @@ family structures and peer pressure.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -1202,7 +1277,7 @@ and friends.
 
 145
 
-Reprint 2025-26
+
 
 
 ---
@@ -1262,7 +1337,7 @@ limits; be it studies, sports or other activities.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -1325,7 +1400,7 @@ response is rapid and more intense. This forms the basis of protection
 
 147
 
-Reprint 2025-26
+
 
 
 ---
@@ -1416,5 +1491,5 @@ to get rid of this habit? Discuss it with your teacher.
 17. In your view what motivates youngsters to take to alcohol or drugs and
 how can this be avoided?
 
-Reprint 2025-26
+
 

@@ -36,9 +36,9 @@ X-किरणों की खोज तथा जे. जे. टॉमसन 
 प्रायोगिक तौर पर कैथोड-किरण कणों के वेग तथा आपेक्षिक आवेश [अर्थात आवेश और द्रव्यमान
 का अनुपात (e/m)] ज्ञात किया। यह पाया गया कि ये कण प्रकाश के वेग (3×10m/s) के
 
-Reprint 2025-26
 
-12092CH11
+
+
 
 
 ---
@@ -102,7 +102,7 @@ Reprint 2025-26
 
 275
 
-Reprint 2025-26
+
 
 
 ---
@@ -141,7 +141,24 @@ blish
 
 दो इलेक्ट्रोडों (धातु पट्टिकाओं) वाली किसी निर्वातित काँच की नली में उत्सर्जक पट्टिका पर
 पराबैंगनी विकिरणों को आपतित करने पर लीनार्ड (1862-1947) ने पाया कि परिपथ में धारा
-प्रवाह होता है (चित्र 11.1)। जैसे ही पराबैंगनी विकिरणों को रोका गया, वैसे ही धारा प्रवाह भी
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch11_dual_nature_of_radiation_and_matter_fig_11_1_hi.png" alt="
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch11_dual_nature_of_radiation_and_matter_fig_11_hi.png" alt="चित्र 11" onclick="openImageModal(this.src, 'चित्र 11: ;g ,d egRoiw.kZ ifj.kke gSA blls ;g izkxqfDr gksrh gS fd V0 osQ fo#¼ ν dk oØ ,d ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 11</strong> ;g ,d egRoiw.kZ ifj.kke gSA blls ;g izkxqfDr gksrh gS fd V0 osQ fo#¼ ν dk oØ ,d ljy js[kk gS] ftldk <yku = (h/e), tks fd inkFkZ dh izo`Qfr ij fuHkZj ugha djrkA 1906&1916 osQ eè;] fefydu us vkbaLVkbu osQ izdk'k&fo|qr lehdj.k dks vlR;kfir djus osQ fy, izdk'k&oS|qr izHkko ij iz;ksxksa dh Ük`a[kyk dhA fp=k 11-5 esa n'kkZ, vuqlkj]</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
+<div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 11.1</strong> nks bysDVªksMksa (/krq ifêðdkvksa) okyh fdlh fuokZfrr dk¡p dh uyh esa mRltZd ifêðdk ij ijkcSaxuh fofdj.kksa dks vkifrr djus ij yhukMZ (1862-1947) us ik;k fd ifjiFk esa /kjk izokg gksrk gS (fp=k 11.1)A tSls gh ijkcSaxuh fofdj.kksa dks jksdk x;k] oSls gh /kjk izokg Hkh #d x;kA bu ijh{k.kksa ls Kkr gksrk gS fd tc ijkcSaxuh fofdj.k mRltZd ifêðdk C ij vkifrr gksrs gSa] bysDVªkWu ifêðdk ls ckgj vk tkrs gSa rFkk fo|qr {ks=k }kjk /ukRed laxzkgd ifêðdk A dh vksj vkd£"kr gks tkrs gSaA fuokZfrr dk¡p dh uyh esa bysDVªkWuksa osQ izokg osQ dkj.k /kjkizokg gksrh gSA bl izdkj ls] mRltZd osQ i`"B ij izdk'k iM+us osQ dkj.k cká ifjiFk esa èkkjkizokg gksrh gSA gkyokWDl rFkk yhukMZ us laxzkgd ifêðdk osQ foHko] vkifrr izdk'k dh vko`fÙk rFkk rhozrk osQ lkFk izdk'k /kjk esa ifjorZu dk vè;;u fd;kA</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 रुक गया। इन परीक्षणों से ज्ञात होता है कि जब पराबैंगनी विकिरण उत्सर्जक पट्टिका C पर आपतित
 होते हैं, इलेक्ट्रॉन पट्टिका से बाहर आ जाते हैं तथा विद्युत क्षेत्र द्वारा धनात्मक संग्राहक पट्टिका A
 की ओर आकर्षित हो जाते हैं। निर्वातित काँच की नली में इलेक्ट्रॉनों के प्रवाह के कारण धाराप्रवाह
@@ -167,7 +184,7 @@ not
 (threshold frequency) कहते हैं तथा इसका मान उत्सर्जक पट्टिका के पदार्थ की प्रकृति पर
 निर्भर करता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -246,7 +263,7 @@ A
 संग्राहक A को उत्सर्जक C की तुलना में एक धन विभव पर रखा जाता है जिससे C से उत्सर्जित
 इलेक्ट्रॉन संग्राहक A की ओर आकर्षित होते हैं। आपतित विकिरण की आवृत्ति तथा विभव को स्थिर
 
-Reprint 2025-26
+
 
 277
 
@@ -254,13 +271,14 @@ Reprint 2025-26
 ---
 ## 📄 Page 5
 
-Ilk baby-lalek
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch11_dual_nature_of_radiation_and_matter_fig_11_2_hi.png" alt="चित्र 11.2" onclick="openImageModal(this.src, 'चित्र 11.2: j[krs gq,] izdk&#39;k dh rhozrk dks ifjofrZr fd;k tkrk gS vkSj ifj.kkeh izdk&#39...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 11.2</strong> j[krs gq,] izdk'k dh rhozrk dks ifjofrZr fd;k tkrk gS vkSj ifj.kkeh izdk'k&fo|qr èkkjk dks izR;sd ckj ekik tkrk gSA ;g ik;k tkrk gS fd izdkf'kd èkkjk vkifrr izdk'k dh rhozrk osQ lkFk jSf[kdr% c<+rh gS tSlk fd fp=k 11.2 esa xzkiQh; :i esa n'kkZ;k x;k gSA izdkf'kd èkkjk mRlftZr gksus okys izfr lsoaQM bysDVªkWuksa dh la[;k osQ vuqØekuqikrh gS] vr% mRlftZr gksus okys izfr lsoaQM izdkf'kd bysDVªkWuksa dh la[;k vkifrr fofdj.k dh rhozrk osQ lekuqikrh gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
-■ भौतिकी
-
-प्रकाश की तीव्रता
-
-चित्र 11.2 प्रकाश-विद्युत धारा और प्रकाश
 की तीव्रता के बीच ग्राफ।
 
 Link-18145k
@@ -290,27 +308,14 @@ A पर पहुँच जाते हैं।
 
 द्वारा उत्सर्जित सभी प्रकाशिक इलेक्ट्रॉन संग्राहक पट्टिका
 
-ot to be rep
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch11_dual_nature_of_radiation_and_matter_fig_11_3_hi.png" alt="चित्र 11.3" onclick="openImageModal(this.src, 'चित्र 11.3: fp=k 11.3 vkifrr fofdj.k dh fofHkUu rhozrkvksa osQ fy,...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 11.3</strong> fp=k 11.3 vkifrr fofdj.k dh fofHkUu rhozrkvksa osQ fy,</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
-निरोधी विभव
-
--मंदक विभव
-
-13 > 12 > 11
-
-13
-
-12
-
-I
-
--V
-
-0
-
-संग्राही पट्टिका विभव
-
-चित्र 11.3 आपतित विकिरण की विभिन्न तीव्रताओं के लिए
 प्रकाशिक-धारा तथा पट्टिका विभव के बीच आलेख।
 
 अब हम पट्टिका A पर पट्टिका C की तुलना में एक
@@ -341,7 +346,7 @@ K = e Vo
 
 उच्च
 
-Reprint 2025-26
+
 
 (11.1)
 
@@ -373,7 +378,24 @@ Vo के मध्य संबंध का अध्ययन करेंग
 की विभिन्न आवृत्तियों पर उपयुक्त प्रकार से एक ही तीव्रता
 को समायोजित करते हैं और संग्राही पट्टिका विभव के
 साथ प्रकाश-विद्युत धारा के परिवर्तन का अध्ययन करते
-हैं। परिणामी परिवर्तन को चित्र 11.4 में दर्शाया गया है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch11_dual_nature_of_radiation_and_matter_fig_11_4_hi.png" alt="चित्र 11.4" onclick="openImageModal(this.src, 'चित्र 11.4: V0 osQ eè; lacaèk dk vè;;u djsaxsA ge izdk&#39;k fofdj.k dh fofHkUu vko`fÙk;ksa ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 11.4</strong> V0 osQ eè; lacaèk dk vè;;u djsaxsA ge izdk'k fofdj.k dh fofHkUu vko`fÙk;ksa ij mi;qDr izdkj ls ,d gh rhozrk dks lek;ksftr djrs gSa vkSj laxzkgh ifêðdk foHko osQ lkFk izdk'k&fo|qr èkkjk osQ ifjorZu dk vè;;u djrs gSaA ifj.kkeh ifjorZu dks fp=k 11.4 esa n'kkZ;k x;k gSA gesa vkifrr fofdj.k dh fHkUu vko`fÙk;ksa osQ fy, fujksèkh foHko osQ fHkUu eku ijarq lar`Ir èkkjk dk ,d gh eku izkIr gksrk gSA mRl£tr bysDVªkWuksa dh ÅtkZ vkifrr fofdj.kksa dh vko`fÙk ij fuHkZj gSA vkifrr fofdj.k dh mPprj vko`fÙk osQ fy, fujksèkh foHko dk eku vfèkd ½.kkRed gksrk gSA fp=k 11.4 ls ;g Kkr gksrk gS fd ;fn vko`fÙk;k¡ ν3 > ν2 > ν1 osQ Øe esa gksa rks fujksèkh foHkoksa dk Øe V03 > V02 > V01 gksrk gSA blesa ;g var£ufgr gS fd vkifrr izdk'k dh vko`fÙk ftruh vfèkd gksxh] izdkf'kd bysDVªkWuksa dh mPpre xfrt ÅtkZ mruh gh vfèkd gksxhA iQyLo:i] bUgsa iw.kZ :i ls jksdus osQ fy, vfèkd fujksèkh foHko dh vko';drk gksxhA ;fn ge fHkUu èkkrqvksa osQ fy, vkifrr fofdj.k dh vko`fÙk vkSj lacafèkr fujksèkh foHko osQ chp xzki+Q [khpsa rks gesa ,d lhèkh js[kk izkIr gksrh gS tSlk fd
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch11_dual_nature_of_radiation_and_matter_fig_11_5_hi.png" alt="चित्र 11.5" onclick="openImageModal(this.src, 'चित्र 11.5: fp=k 11.5 ,d fn, gq, izdk&#39;k laosnh inkFkZ osQ fy, vkifrr...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 11.5</strong> fp=k 11.5 ,d fn, gq, izdk'k laosnh inkFkZ osQ fy, vkifrr</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
+<button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 हमें आपतित विकिरण की भिन्न आवृत्तियों के लिए निरोधी
 विभव के भिन्न मान परंतु संतृप्त धारा का एक ही मान
 प्राप्त होता है। उत्सर्जित इलेक्ट्रॉनों की ऊर्जा आपतित
@@ -438,7 +460,7 @@ Vó
 
 279
 
-Reprint 2025-26
+
 
 
 ---
@@ -501,7 +523,7 @@ not
 ऊर्जा तीव्रता में वृद्धि के साथ बढ़नी चाहिए। साथ ही, चाहे प्रकाश की आवृत्ति कुछ भी हो,
 एक पर्याप्त तीव्र विकिरण किरण-पुंज (पर्याप्त समय में) इलेक्ट्रॉनों को इतनी पर्याप्त ऊर्जा देने
 
-Reprint 2025-26
+
 
 
 ---
@@ -561,7 +583,7 @@ K = hv - Φο
 अवशोषण से उत्पन्न होता है। विकिरण की तीव्रता (जो ऊर्जा क्वांटमों की संख्या प्रति इकाई
 क्षेत्रफल प्रति इकाई समय के अनुक्रमानुपाती है) इस मूल प्रक्रिया के लिए असंगत है।
 
-Reprint 2025-26
+
 
 281
 
@@ -670,7 +692,7 @@ e
 आइंस्टाइन के प्रकाश-विद्युत समीकरण को असत्यापित करने के लिए
 प्रकाश-वैद्युत प्रभाव पर प्रयोगों की श्रृंखला की। चित्र 11.5 में दर्शाए अनुसार,
 
-Reprint 2025-26
+
 
 
 ---
@@ -726,7 +748,7 @@ wished
 रहते हैं। तथापि, किसी संघट्ट में फ़ोटॉनों की संख्या भी संरक्षित नहीं रह सकती है। फ़ोटॉन
 अवशोषित हो सकता है अथवा एक नया फ़ोटॉन सृजित हो सकता है।
 
-Reprint 2025-26
+
 
 283
 
@@ -824,7 +846,7 @@ hc
 अध्यायों में किए गए अध्ययन द्वारा, स्पष्ट रूप से प्रकट होती है। प्रकाश की तरंग प्रकृति
 व्यतिकरण, विवर्तन तथा ध्रुवण की परिघटनाओं में दृष्टिगोचर होती है। दूसरी ओर, प्रकाश-विद्युत
 
-Reprint 2025-26
+
 
 
 ---
@@ -924,7 +946,7 @@ pv
 
 लुईस विक्टर दे ब्रॉग्ली (1892 – 1987)
 
-Reprint 2025-26
+
 
 
 ---
@@ -1033,7 +1055,7 @@ p' = 4.50 kg m/s
 रूपांतरण होता है। यह ऊर्जा के संरक्षण के नियम का पालन करता है। प्रकाश-विद्युत उत्सर्जन
 एक तात्क्षणिक प्रक्रिया है और इसके कुछ विशिष्ट लक्षण होते हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1124,7 +1146,7 @@ x= h/p । पदार्थ का द्वैत दे ब्रॉग्�
 
 बिलकुल बाहर है, बहुत छोटा है।
 
-Reprint 2025-26
+
 
 287
 
@@ -1249,7 +1271,7 @@ p
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -1322,5 +1344,5 @@ shed
 
 289
 
-Reprint 2025-26
+
 

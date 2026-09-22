@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11088CH08
+
 
 ### अध्याय 7
 
@@ -75,7 +75,7 @@ not t
 शताब्दी में) ने पहले से ही अपने शोध प्रबन्ध में एक अधिक परिष्कृत मॉडल का
 वर्णन किया था, जिसे सूर्य केन्द्री मॉडल कहते हैं जिसके अनुसार सूर्य को सभी
 
-Reprint 2026-27
+
 
 
 ---
@@ -113,19 +113,15 @@ Reprint 2026-27
 अनुसार ग्रह केवल वृत्तीय कक्षाओं में ही गति कर सकते हैं।
 दीर्घवृत्त, जिसका वृत्त एक विशिष्ट प्रकरण होता है, एक बन्द
 वक्र होता है, जिसे बहुत सरलता से इस प्रकार खींचा जा
-सकता है :
 
-P F
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_hi.png" alt="चित्र 7" onclick="openImageModal(this.src, 'चित्र 7: 1. d{kkvksa dk fu;e % lHkh xzg nh?kZo`Ùkh; d{kkvksa esa xfr djrs gSa rFkk lw;Z b...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7</strong> 1. d{kkvksa dk fu;e % lHkh xzg nh?kZo`Ùkh; d{kkvksa esa xfr djrs gSa rFkk lw;Z bldh] ,d ukfHk ij fLFkr gksrk gS (fp=k 7-1a)A</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
-T
-
-F2
-
-A
-
-hed
-
-चित्र 7.1(b) एक दीर्घवृत खींचना। एक डोरी के दो सिरे F₁ तथा F₂
 स्थिर हैं। पेंसिल की नोंक डोरी को तनी रखते हुए इन
 सिरों के परितः चलायी जाती है।
 
@@ -135,24 +131,15 @@ NCERT
 
 ### 1. कक्षाओं का नियम : सभी ग्रह दीर्घवृत्तीय कक्षाओं में गति
 करते हैं तथा सूर्य इसकी, एक नाभि पर स्थित होता है
-(चित्र 7.1a)।
 
-B
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_1_hi.png" alt="चित्र 7.1" onclick="openImageModal(this.src, 'चित्र 7.1: fp=k 7.1(a) lw;Z osQ ifjr% fdlh xzg }kjk vuqjsf[kr nh?kZo`ÙkA lw;Z...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.1</strong> fp=k 7.1(a) lw;Z osQ ifjr% fdlh xzg }kjk vuqjsf[kr nh?kZo`ÙkA lw;Z</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
-2b
-
-P
-
-S
-
-S'
-
-A
-
-C
-2a-
-
-चित्र 7.1(a) सूर्य के परितः किसी ग्रह द्वारा अनुरेखित दीर्घवृत्त। सूर्य
 का निकटतम बिन्दु P तथा दूरस्थ बिन्दु A है। P को
 उपसौर तथा A को अपसौर कहते हैं। अर्ध दीर्घ अक्ष
 दूरी AP का आधा है।
@@ -178,12 +165,20 @@ C
 
 ### 2. क्षेत्रफलों का नियम : सूर्य से किसी ग्रह को मिलाने वाली
 रेखा समान समय अंतरालों में समान क्षेत्रफल प्रसर्प करती है
-(चित्र 7.2)। यह नियम इस प्रेक्षण से प्रकट होता है कि ग्रह
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_2_hi.png" alt="चित्र 7.2" onclick="openImageModal(this.src, 'चित्र 7.2: fp=k 7.2 xzg P lw;Z osQ ifjr% nh?kZo`Ùkh; d{kk esa xfr djrk gSA...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.2</strong> fp=k 7.2 xzg P lw;Z osQ ifjr% nh?kZo`Ùkh; d{kk esa xfr djrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 उस समय धीमी गति करते प्रतीत होते हैं जब वे सूर्य से अधिक
 दूरी पर होते हैं। सूर्य के निकट होने पर ग्रहों की गति अपेक्षाकृत
 तीव्र होती है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -303,33 +298,25 @@ T
 
 0.24
 
-### 2.95
-
-शुक्र
+### 2.95 शुक्र
 
 10.8
 
 0.615
 
-### 3.00
-
-पृथ्वी
+### 3.00 पृथ्वी
 
 15.0
 
 1
 
-### 2.96
-
-मंगल
+### 2.96 मंगल
 
 22.8
 
 ### 1.88
 
-### 2.98
-
-अथवा
+### 2.98 अथवा
 
 बृहस्पति
 
@@ -337,41 +324,31 @@ T
 
 11.9
 
-### 3.01
-
-शनि
+### 3.01 शनि
 
 143
 
 29.5
 
-### 2.98
-
-यूरेनस
+### 2.98 यूरेनस
 
 287
 
 84
 
-### 2.98
-
-नेप्ट्यून
+### 2.98 नेप्ट्यून
 
 450
 
 165
 
-### 2.99
-
-प्लूटो *
+### 2.99 प्लूटो *
 
 590
 
 248
 
-### 2.99
-
-क्षेत्रफलों के नियम को कोणीय संवेग संरक्षण का निष्कर्ष
+### 2.99 क्षेत्रफलों के नियम को कोणीय संवेग संरक्षण का निष्कर्ष
 माना जा सकता है जो सभी केन्द्रीय बलों के लिए मान्य है।
 किसी ग्रह पर लगने वाला केन्द्रीय बल, केन्द्रीय सूर्य तथा ग्रह
 
@@ -392,7 +369,7 @@ UA p
 करने की अपेक्षा पथ BAC को तय करने में अधिक
 समय लेगा।
 
-Reprint 2026-27
+
 
 
 ---
@@ -462,7 +439,16 @@ r2
 r³
 
 यहाँ G सार्वत्रिक गुरुत्वीय नियतांक, ŕ m₁ से 11 तक
-एकांक सदिश तथा r = r₂ - r₁ है जैसा कि चित्र 7.3 में दर्शाया
+एकांक सदिश तथा r = r₂ - r₁ है जैसा कि
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_3_hi.png" alt="चित्र 7.3" onclick="openImageModal(this.src, 'चित्र 7.3: ;gk¡ G lkoZf=kd xq#Roh; fu;rkad] ɵr m1 ls m2 rd ,dkad lfn&#39;k rFkk r = r2 – r1...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.3</strong> ;gk¡ G lkoZf=kd xq#Roh; fu;rkad] ɵr m1 ls m2 rd ,dkad lfn'k rFkk r = r2 – r1 gS tSlk fd fp=k 7.3 esa n'kkZ;k x;k gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 गया है।
 
 m2
@@ -538,10 +524,14 @@ F12 = -F21
 यदि हमारे पास बिन्दु द्रव्यमानों का कोई संचयन है, तो उनमें
 से किसी एक पर बल अन्य बिन्दु द्रव्यमानों के कारण
 गुरुत्वाकर्षण बलों के सदिश योग के बराबर होता है जैसा कि
-चित्र 7.4 में दर्शाया गया है।
 
-Reprint 2026-27
-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_4_hi.png" alt="चित्र 7.4" onclick="openImageModal(this.src, 'चित्र 7.4: F12 = –F21 lehdj.k (7.5) dk vuqiz;ksx] vius ikl miyC/ fi.Mksa ij dj ldus ls iwoZ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.4</strong> F12 = –F21 lehdj.k (7.5) dk vuqiz;ksx] vius ikl miyC/ fi.Mksa ij dj ldus ls iwoZ gesa lko/ku jguk gksxk] D;ksafd ;g fu;e fcUnq nzO;ekuksa ls lacaf/r gS] tcfd gesa foLrkfjr fi.Mksa] ftudk ifjfer vkeki gksrk gS] ij fopkj djuk gSA ;fn gekjs ikl fcUnq nzO;ekuksa dk dksbZ lap;u gS] rks muesa ls fdlh ,d ij cy vU; fcUnq nzO;ekuksa osQ dkj.k xq#Rokd"kZ.k cyksa osQ lfn'k ;ksx osQ cjkcj gksrk gS tSlk fd fp=k 7.4 esa n'kkZ;k x;k gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 ---
 ## 📄 Page 5
@@ -617,11 +607,15 @@ T31
 द्रव्यमान पर कितना बल आरोपित हो रहा है?
 
 (b) यदि शीर्ष A पर रखे द्रव्यमान को दो गुना कर दिया
-जाए, तो कितना बल आरोपित होगा?
 
-41
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_5_hi.png" alt="चित्र 7.5" onclick="openImageModal(this.src, 'चित्र 7.5: AG = BG = CG = 1m yhft, (nsf[k, fp=k 7.5)...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.5</strong> AG = BG = CG = 1m yhft, (nsf[k, fp=k 7.5)</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
-AG = BG = CG = 1m लीजिए (देखिए चित्र 7.5)
 हल (a) धनात्मक x-अक्ष तथा GC के बीच का कोण 30° है
 और इतना ही कोण ऋणात्मक x-अक्ष तथा GB के बीच बनता
 है। सदिश संकेत पद्धति में व्यष्टिगत बल इस प्रकार हैं
@@ -700,7 +694,7 @@ GC
 जैसा कि खोल के समस्त द्रव्यमान को उसके केन्द्र
 पर संकेन्द्रित मान कर ज्ञात किया जाता है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -734,7 +728,14 @@ Reprint 2026-27
 के मान को प्रायोगिक आधार पर ज्ञात किया जा सकता है तथा
 इस प्रकार के प्रयोग को सर्वप्रथम अंग्रेज वैज्ञानिक हेनरी
 कैवेन्डिश ने 1797 में किया था। उनके द्वारा उपयोग किए गए
-उपकरण को व्यवस्था चित्र 7.6 में दर्शाया गया है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_6_hi.png" alt="चित्र 7.6" onclick="openImageModal(this.src, 'चित्र 7.6: 7.4 xq#Roh; fu;rkad xq#Rokd&quot;kZ.k osQ lkoZf=kd fu;e esa iz;qDr xq#Roh; fLFkj...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.6</strong> 7.4 xq#Roh; fu;rkad xq#Rokd"kZ.k osQ lkoZf=kd fu;e esa iz;qDr xq#Roh; fLFkjkad G osQ eku dks izk;ksfxd vk/kj ij Kkr fd;k tk ldrk gS rFkk bl izdkj osQ iz;ksx dks loZizFke vaxzst oSKkfud gsujh oSQosfUM'k us 1797 esa fd;k FkkA muosQ }kjk mi;ksx fd, x, midj.k dks O;oLFkk fp=k 7.6 esa n'kkZ;k x;k gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 S
 
@@ -826,7 +827,7 @@ G = 6.67x10-11 N m²/kg2
 बाहर का कोई भी बिन्दु स्पष्ट रूप से इन सभी खोलों के बाहर
 हुआ। इस प्रकार सभी खोल पृथ्वी के बाहर किसी बिन्दु पर इस
 
-Reprint 2026-27
+
 
 
 ---
@@ -845,7 +846,14 @@ Reprint 2026-27
 उसके केन्द्र पर संकेन्द्रित है।
 
 पृथ्वी के भीतर स्थित बिन्दुओं के लिए स्थिति भिन्न होती
-है। इसे चित्र 7.7 में स्पष्ट किया गया है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_7_hi.png" alt="चित्र 7.7" onclick="openImageModal(this.src, 'चित्र 7.7: i`Foh osQ Hkhrj fLFkr fcUnqvksa osQ fy, fLFkfr fHkUu gksrh gSA bls fp=k 7.7 esa ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.7</strong> i`Foh osQ Hkhrj fLFkr fcUnqvksa osQ fy, fLFkfr fHkUu gksrh gSA bls fp=k 7.7 esa Li"V fd;k x;k gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
 M
 
@@ -939,7 +947,15 @@ g तथा R के ज्ञान को सम्मिलित करन�
 
 7.6 पृथ्वी के पृष्ठ के नीचे तथा ऊपर गुरुत्वीय त्वरण
 चित्र में दर्शाए अनुसार पृथ्वी के पृष्ठ से ऊँचाई h पर स्थित
-किसी बिन्दु द्रव्यमान m पर विचार कीजिए (चित्र 7.8(a))।
+किसी बिन्दु द्रव्यमान m पर विचार कीजिए (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_8_hi.png" alt="चित्र 7.8" onclick="openImageModal(this.src, 'चित्र 7.8: fp=k esa n&#39;kkZ, vuqlkj i`Foh osQ i`&quot;B ls Å¡pkbZ h ij fLFkr fdlh fcUnq n...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.8</strong> fp=k esa n'kkZ, vuqlkj i`Foh osQ i`"B ls Å¡pkbZ h ij fLFkr fdlh fcUnq nzO;eku m ij fopkj dhft, (fp=k 7.8(a))A</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
 h
 
@@ -960,7 +976,7 @@ r2
 है अतः इसका द्रव्यमान ME = REP है। यहाँ R पृथ्वी
 की त्रिज्या तथा p इसका घनत्व है। इसके विपरीत r त्रिज्या
 
-Reprint 2026-27
+
 
 (a)
 
@@ -1131,7 +1147,7 @@ RE
 तथा चाहे हम पृष्ठ से ऊपर जाएँ अथवा नीचे यह मान सदैव
 घटता है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -1281,7 +1297,7 @@ r
 विभव की परिभाषा “उस बिन्दु पर किसी कण के एकांक
 द्रव्यमान की स्थितिज ऊर्जा” के रूप में की जाती है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -1446,7 +1462,7 @@ V का न्यूनतम मान उस प्रकरण के तद
 
 i
 
-Reprint 2026-27
+
 
 
 ---
@@ -1504,7 +1520,15 @@ RE
 
 उदाहरण 7.4 समान त्रिज्या R परन्तु M तथा 4 M
 द्रव्यमान के दो एकसमान ठोस गोले इस प्रकार रखे हैं कि
-इनके केन्द्रों के बीच पृथकन (चित्र 7.10 में दर्शाए
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_10_hi.png" alt="चित्र 7.10" onclick="openImageModal(this.src, 'चित्र 7.10: fp=k 7.10...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.10</strong> fp=k 7.10</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 अनुसार) 6 R है। दोनों गोले स्थिर रखे गए हैं।
 m द्रव्यमान के किसी प्रक्षेप्य को M द्रव्यमान के गोले
 के पृष्ठ से 4M द्रव्यमान के गोले के केन्द्र की ओर
@@ -1610,7 +1634,7 @@ R 52
 भू उपग्रह वह पिण्ड है जो पृथ्वी के परितः परिक्रमण करते हैं।
 इनकी गतियां, ग्रहों की सूर्य के परितः गतियों के बहुत समान
 
-Reprint 2026-27
+
 
 
 ---
@@ -1798,7 +1822,7 @@ GT2
 TM RMS
 TRES
 
-Reprint 2026-27
+
 
 
 ---
@@ -1970,7 +1994,7 @@ K.E तथा P.E दोनों ही पथ के हर बिन्दु
 वृत्तीय कक्षा के प्रकरण की भांति ही उपग्रह की कुल ऊर्जा
 नियत रहती है तथा यह ऋणात्मक होती है और यही हम अपेक्षा
 
-Reprint 2026-27
+
 
 
 ---
@@ -2077,7 +2101,7 @@ GM
 
 JR³
 
-Reprint 2026-27
+
 
 
 ---
@@ -2187,7 +2211,7 @@ E=-
 अर्थात्, ऐसा निकाय जिसमें कक्षा बन्द हो जैसे दीर्घवृत्तीय कक्षा, की कुल ऊर्जा ऋणात्मक होती है। गतिज तथा स्थितिज
 ऊर्जाएँ हैं
 
-not to be republished
+
 
 इसका मान 11.2 km s-¹ है।
 
@@ -2202,7 +2226,7 @@ R
 
 2
 
-Reprint 2026-27
+
 
 भौतिकी
 
@@ -2328,7 +2352,7 @@ r
 है। अनन्त के सापेक्ष (अर्थात्, यदि हम मान लें कि पिण्ड की अनन्त पर स्थितिज ऊर्जा शून्य है), किसी पिण्ड की गुरुत्वीय
 स्थितिज ऊर्जा ऋणात्मक होती है। किसी उपग्रह की कुल ऊर्जा ऋणात्मक होती है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -2406,7 +2430,7 @@ Reprint 2026-27
 अन्त तक (a) रैखिक चाल, (b) कोणीय चाल, (c) कोणीय संवेग, (d) गतिज ऊर्जा, (e) स्थितिज ऊर्जा (f) कुल ऊर्जा
 नियत रहती है। सूर्य के अति निकट आने पर धूमकेतु के द्रव्यमान में ह्रास को नगण्य मानिये।
 
-Reprint 2026-27
+
 
 भौतिकी
 
@@ -2420,7 +2444,14 @@ Reprint 2026-27
 (b) चेहरे पर सूजन, (c) सिरदर्द, (d) दिक्विन्यास समस्या।
 
 7.10 एकसमान द्रव्यमान घनत्व की अर्धगोलीय खोलों द्वारा परिभाषित ढोल के पृष्ठ के केन्द्र पर गुरुत्वीय तीव्रता की दिशा
-[देखिए चित्र 7.11] (i) a, (ii) b, (iii) c, (iv) 0 में किस तीर द्वारा दर्शायी जाएगी?
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_11_hi.png" alt="चित्र 7.11" onclick="openImageModal(this.src, 'चित्र 7.11: 7.9 fuEufyf[kr esa ls dkSu ls y{k.k vUrfj{k esa vUrfj{k ;k=kh osQ fy, nq[k%nk;h ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 7.11</strong> 7.9 fuEufyf[kr esa ls dkSu ls y{k.k vUrfj{k esa vUrfj{k ;k=kh osQ fy, nq[k%nk;h gks ldrs gSa\ (a) iSjksa esa lwtu] (b) psgjs ij lwtu] (c) fljnnZ] (d) fno~QfoU;kl leL;kA 7.10 ,dleku nzO;eku ?kuRo dh v/Zxksyh; [kksyksa }kjk ifjHkkf"kr <ksy osQ i`"B osQ osQUnz ij xq#Roh; rhozrk dh fn'kk [nsf[k, fp=k 7.11] (i) a, (ii) b, (iii) c, (iv) 0 esa fdl rhj }kjk n'kkZ;h tk,xh\</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
 
 g
 
@@ -2482,7 +2513,7 @@ kg; पृथ्वी की त्रिज्या = 6.4 × 10º m तथा
 पर स्थित हैं। दोनों गोलों के केन्द्रों को मिलाने वाली रेखा के मध्य बिन्दु पर गुरुत्वीय बल तथा विभव क्या है? क्या
 इस बिन्दु पर रखा कोई पिण्ड संतुलन में होगा? यदि हां, तो यह संतुलन स्थायी होगा अथवा अस्थायी?
 
-Reprint 2026-27
+
 
 147
 

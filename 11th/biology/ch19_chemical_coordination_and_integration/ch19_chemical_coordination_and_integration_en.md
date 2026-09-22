@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11080CH22
+
 
 19.1 Endocrine
 Glands and
@@ -63,33 +63,19 @@ possess very simple endocrine systems with few hormones whereas a large
 number of chemicals act as hormones and provide coordination in the
 vertebrates. The human endocrine system is described here.
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 2
 
-240
-
-BIOLOGY
-
-Hypothalamus
-
-Pituitary
-
-Ovary
-(in female)
-
-Pineal
-
-Thyroid and
-Parathyroid
-
-Thymus
-
-Pancreas
-
-Figure 19.1 Location of endocrine glands
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch19_chemical_coordination_and_integration_fig_19_1.png" alt="Fig. 19.1" onclick="openImageModal(this.src, 'Fig. 19.1: The endocrine glands and hormone producing diffused tissues/cells located in dif...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 19.1</strong> The endocrine glands and hormone producing diffused tissues/cells located in different parts of our body constitute the endocrine system. Pituitary, pineal, thyroid, adrenal, pancreas, parathyroid, thymus and gonads (testis in males and ovary in females) are the organised endocrine bodies in our body (Figure 19.1). In addition to these, some other organs, e.g., gastrointestinal tract, liver, kidney, heart also produce hormones. A brief account of the structure and functions of all major endocrine glands and hypothalamus of the human body is given in the following sections.</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 Adrenal
 
@@ -140,10 +126,14 @@ originating in the hypothalamic neurons, pass through axons and are
 released from their nerve endings. These hormones reach the pituitary
 gland through a portal circulatory system and regulate the functions of
 the anterior pituitary. The posterior pituitary is under the direct neural
-regulation of the hypothalamus (Figure 19.2).
 
-Reprint 2025-26
-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch19_chemical_coordination_and_integration_fig_19_2.png" alt="Fig. 19.2" onclick="openImageModal(this.src, 'Fig. 19.2: The pituitary gland is located in a bony cavity called sella tursica and is atta...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 19.2</strong> The pituitary gland is located in a bony cavity called sella tursica and is attached to hypothalamus by a stalk (Figure 19.2). It is divided anatomically into an adenohypophysis and a neurohypophysis. Adenohypophysis consists of two portions, pars distalis and pars intermedia. The pars distalis region of pituitary, commonly called anterior pituitary, produces growth hormone (GH), prolactin (PRL), thyroid stimulating hormone (TSH), adrenocorticotrophic hormone (ACTH), luteinizing hormone (LH) and follicle stimulating hormone (FSH). Pars intermedia secretes only one hormone called melanocyte stimulating hormone (MSH). However, in humans, the pars intermedia is almost merged with pars distalis. Neurohypophysis (pars nervosa) also known as posterior pituitary, stores and releases two hormones called oxytocin and vasopressin, which are actually synthesised by the hypothalamus and are transported axonally to neurohypophysis.</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 ---
 ## 📄 Page 3
@@ -217,31 +207,20 @@ induces ovulation of fully mature follicles (graafian follicles) and maintains
 the corpus luteum, formed from the remnants of the graafian follicles
 after ovulation. FSH stimulates growth and development of the ovarian
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 4
 
-242
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch19_chemical_coordination_and_integration_fig_19_3.png" alt="Fig. 19.3" onclick="openImageModal(this.src, 'Fig. 19.3: The thyroid gland is composed of two lobes which are located on either side of t...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 19.3</strong> The thyroid gland is composed of two lobes which are located on either side of the trachea (Figure 19.3 a). Both the lobes are interconnected with a thin flap of connective tissue called isthmus. The thyroid gland is composed of follicles and stromal tissues. Each thyroid follicle is composed of follicular cells, enclosing a cavity. These follicular cells synthesise two hormones, tetraiodothyronine or thyroxine (T4) and triiodothyronine (T3). Iodine is essential for the normal rate of hormone synthesis in the thyroid. Deficiency of iodine in our diet results in hypothyroidism and enlargement of the thyroid gland, commonly called goitre. Hypothyroidism during pregnancy causes defective development and maturation of the growing baby leading to stunted growth (cretinism), mental</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
-BIOLOGY
-
-Thyroid
-
-Trachea
-
-Parathyroid
-glands
-
-(a)
-
-(b)
-
-Vocal
-cord
-
-Figure 19.3 Diagrammatic view of the
 position of Thyroid and
 Parathyroid
 (a) Ventral side
@@ -298,7 +277,7 @@ goitre. Hypothyroidism during pregnancy causes
 defective development and maturation of the growing
 baby leading to stunted growth (cretinism), mental
 
-Reprint 2025-26
+
 
 
 ---
@@ -360,7 +339,7 @@ to provide humoral immunity. Thymus is degenerated in old individuals
 resulting in a decreased production of thymosins. As a result, the immune
 responses of old persons become weak.
 
-Reprint 2025-26
+
 
 
 ---
@@ -372,8 +351,16 @@ BIOLOGY
 
 19.2.7 Adrenal Gland
 
-Our body has one pair of adrenal glands, one above of each kidney (Figure
-19.4 a). The gland is composed of two types of tissues. The centrally located
+Our body has one pair of adrenal glands, one above of each kidney (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch19_chemical_coordination_and_integration_fig_19_4.png" alt="Fig. 19.4" onclick="openImageModal(this.src, 'Fig. 19.4: Our body has one pair of adrenal glands, one above of each kidney (Figure 19.4 a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 19.4</strong> Our body has one pair of adrenal glands, one above of each kidney (Figure 19.4 a). The gland is composed of two types of tissues. The centrally located tissue is called the adrenal medulla, and outside this lies the adrenal cortex (Figure 19.4 b).</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 tissue is called the adrenal medulla, and outside this lies the adrenal
 cortex (Figure 19.4 b).
 
@@ -409,7 +396,7 @@ Catecholamines also stimulate the breakdown of glycogen resulting in
 
 Adrenal medulla
 
-Reprint 2025-26
+
 
 
 ---
@@ -470,7 +457,7 @@ Insulin is a peptide hormone, which plays a major role in the
 regulation of glucose homeostasis. Insulin acts mainly on hepatocytes
 and adipocytes (cells of adipose tissue), and enhances cellular glucose
 
-Reprint 2025-26
+
 
 
 ---
@@ -536,7 +523,7 @@ secretes mainly progesterone.
 Estrogens produce wide ranging actions such as stimulation of growth
 and activities of female secondary sex organs, development of growing
 
-Reprint 2025-26
+
 
 
 ---
@@ -587,12 +574,21 @@ Hormone receptors present on the cell membrane of the target cells are
 called membrane-bound receptors and the receptors present inside the
 target cell are called intracellular receptors, mostly nuclear receptors
 (present in the nucleus). Binding of a hormone to its receptor leads to the
-formation of a hormone-receptor complex (Figure 19.5 a, b). Each
+formation of a hormone-receptor complex (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch19_chemical_coordination_and_integration_fig_19_5.png" alt="Fig. 19.5" onclick="openImageModal(this.src, 'Fig. 19.5: Hormones produce their effects on target tissues by binding to specific proteins...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 19.5</strong> Hormones produce their effects on target tissues by binding to specific proteins called hormone receptors located in the target tissues only. Hormone receptors present on the cell membrane of the target cells are called membrane-bound receptors and the receptors present inside the target cell are called intracellular receptors, mostly nuclear receptors (present in the nucleus). Binding of a hormone to its receptor leads to the formation of a hormone-receptor complex (Figure 19.5 a, b). Each receptor is specific to one hormone only and hence receptors are specific. Hormone-Receptor complex formation leads to certain biochemical changes in the target tissue. Target tissue metabolism and hence</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 receptor is specific to one hormone only and hence receptors are specific.
 Hormone-Receptor complex formation leads to certain biochemical
 changes in the target tissue. Target tissue metabolism and hence
 
-Reprint 2025-26
+
 
 247
 
@@ -656,7 +652,7 @@ Physiological responses
 Ovarian
 cell membrane
 
-Reprint 2025-26
+
 
 
 ---
@@ -709,7 +705,7 @@ kidney, heart etc., also produce hormones. The pituitary gland is divided into
 three major parts, which are called as pars distalis, pars intermedia and pars
 nervosa. Pars distalis produces six trophic hormones. Pars intermedia secretes
 
-Reprint 2025-26
+
 
 
 ---
@@ -759,7 +755,7 @@ produces erythropoietin which stimulates erythropoiesis. The gastrointestinal tr
 secretes gastrin, secretin, cholecystokinin and gastric inhibitory peptide. These
 hormones regulate the secretion of digestive juices and help in digestion.
 
-Reprint 2025-26
+
 
 
 ---
@@ -875,7 +871,7 @@ Column II
 
 (iv) Parathyroid
 
-Reprint 2025-26
+
 
 251
 
@@ -887,7 +883,7 @@ NOTE
 
 © NCERT
 
-not to be republished
 
-Reprint 2025-26
+
+
 

@@ -9,7 +9,7 @@
 
 विकास
 
-12084CH07
+
 
 6.1 जीवन की उत्पत्ति
 
@@ -64,7 +64,7 @@ blished
 की हैं। इसी तरह से जब हम सितारों को देखते हैं तो हम स्पष्ट रूप
 से भूतकाल में ताक-झाँक कर रहे होते हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -118,7 +118,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -132,41 +132,26 @@ CH
 
 NH3
 
-H₂O
-H₂
-
-गैसें
-
-उबलता जल
-
-पाश में द्रव जल
-
-इलैक्ट्रोड
-
--स्पार्क डिसचार्ज
-
-जल बाहर
-
--संघनित्र
-
-जल अंदर
-
-जल बिंदु
-
--कार्बनिक यौगिकों
-
-वाला जल
-
-RT
-
-blished
-
-चित्र 6.1 मिलर के प्रयोग का आरेखीय निरूपण
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_hi.png" alt="चित्र 6" onclick="openImageModal(this.src, 'चित्र 6: xBu gks ldkA ml le; i`Foh dh voLFkk mPp rki ;qDr] Tokykeq[kh; rwiQku okyh rFkk o...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6</strong> xBu gks ldkA ml le; i`Foh dh voLFkk mPp rki ;qDr] Tokykeq[kh; rwiQku okyh rFkk ok;qeaMy esa feFksu] veksfu;k vkfn dh deh okyh FkhA ,d vesfjdh oSKkfud ,l-,y- feyj us 1953 esa viuh iz;ksx'kkyk esa blh iSekus fd fLFkfr;k¡ iSnk dh (fp=k 6-1)A blus ,d can ÝykLd esa fufgr feFksu] gkbMªkstu] veksfu;k rFkk 8000C lsfYl;l ij rki osQ lkFk ,d fo|qr&fMLpktZ dj ns[kk fd vehuks ,flM curk gSA vU; yksxksa us Hkh Bhd blh izdkj osQ iz;ksx }kjk 'kdZjkvksa] ukbVªkstsu {kkjdksa] o.kZdksa rFkk olk vkfn izkIr fd, mYdkvksa dh varoZLrqvksa osQ fo'ys"k.k ls izdV gqvk fd Bhd ,slh gh izfØ;k varfj{k osQ fdlh vU; LFkku ij (,slh ?kVuk) ?kfVr gksrh jgh gksxhA lhfer lk{;ksa osQ vk/kj ij fujk/kj dYiuk okyh dgkfu;ksa osQ igys Hkkx vFkkZr~ jklk;fud fodkl dks Hkh FkksM+h cgqr ek=kk osQ :i esa Loho`Qr fd;k tk ldrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 गठन हो सका। उस समय पृथ्वी की अवस्था उच्च ताप युक्त, ज्वालामुखीय तूफान वाली
 तथा वायुमंडल में मिथेन, अमोनिया आदि की कमी वाली थी। एक अमेरिकी वैज्ञानिक
 एस.एल. मिलर ने 1953 में अपनी प्रयोगशाला में इसी पैमाने कि स्थितियाँ पैदा की
-(चित्र 6.1)। इसने एक बंद फ्लास्क में निहित मिथेन, हाइड्रोजन, अमोनिया तथा 800°C
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_1_hi.png" alt="चित्र 6.1" onclick="openImageModal(this.src, 'चित्र 6.1: fp=k 6.1 feyj osQ iz;ksx dk vkjs[kh; fu:i.k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.1</strong> fp=k 6.1 feyj osQ iz;ksx dk vkjs[kh; fu:i.k</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 सेल्सियस पर ताप के साथ एक विद्युत-डिस्चार्ज कर देखा कि अमीनो एसिड बनता है।
 अन्य लोगों ने भी ठीक इसी प्रकार के प्रयोग द्वारा शर्कराओं, नाइट्रोजेन क्षारकों, वर्णकों तथा
 वसा आदि प्राप्त किए उल्काओं की अंतर्वस्तुओं के विश्लेषण से प्रकट हुआ कि ठीक
@@ -186,7 +171,7 @@ blished
 
 123
 
-Reprint 2025-26
+
 
 
 ---
@@ -233,10 +218,14 @@ Reprint 2025-26
 है कि एक तलछट पर दूसरे तलछट की परत पृथ्वी के लंबे इतिहास की गवाह है। भिन्न
 आयु की चट्टानों की तलछट में भिन्न जीव रूप पाए गए हैं जो कि संभवतः उस विशेष
 तलछट के निर्माण के दौरान मरे थे। उनमें से कुछ आधुनिक जीवों से मिलते-जुलते हैं
-(चित्र 6.2)। वे विलुप्त जीवों (जैसे डायनासोर) का प्रतिनिधित्व करते हैं। उपर्युक्त
 
-Reprint 2025-26
-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_2_hi.png" alt="चित्र 6.2" onclick="openImageModal(this.src, 'चित्र 6.2: fp=k 6.2 Mkbukslksjksa dk oa&#39;k&o`{k vkSj muosQ vkt osQ feyrs&tqyrs tho tSls ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.2</strong> fp=k 6.2 Mkbukslksjksa dk oa'k&o`{k vkSj muosQ vkt osQ feyrs&tqyrs tho tSls exjePN] i{kh vkfn</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 ---
 ## 📄 Page 5
@@ -272,7 +261,7 @@ republished
 वयस्क जंतुओं में अनुपस्थित होते हैं। उदाहरणतः मनुष्य सहित सभी कशेरुकी जंतुओं के
 भ्रूण में सिर के ठीक पीछे अवशेषी गलफड़ों की श्रृंखला विकसित होती है। गलफड़े
 
-Reprint 2025-26
+
 
 125
 
@@ -339,7 +328,15 @@ Reprint 2025-26
 के समूहों ने समान अनुकूली विशिष्टताओं को चयनित किया; क्योंकि उनके कार्यकलाप
 समान थे फिर भी उनकी अनुरूपता का आधार अभिसारी विकास है। ठीक इसी प्रकार
 से समजातता भी अपसारी विकास पर आधारित है। तुल्यरूपता के अन्य उदाहरण
-शकरकंदी (जड़/मूल – रूपांतर) तथा आलू (तना-रूपांतर) (चित्र 6.3) है।
+शकरकंदी (जड़/मूल – रूपांतर) तथा आलू (तना-रूपांतर) (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_3_hi.png" alt="चित्र 6.3" onclick="openImageModal(this.src, 'चित्र 6.3: fp=k 6.3 letkr vaxksa osQ mnkgj.k (v) ikS/s vkSj (c) tkuoj...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.3</strong> fp=k 6.3 letkr vaxksa osQ mnkgj.k (v) ikS/s vkSj (c) tkuoj</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 not to br
 
@@ -349,19 +346,19 @@ CERT
 
 126
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 7
 
-विकास
-
-(अ)
-
-(ब)
-
-चित्र 6.4 श्वेत पंखों और काले पंखों वाले शलभों के वृक्ष के तने पर, के चित्र (अ) प्रदूषण रहित और (ब) प्रदूषित क्षेत्रों में
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_4_hi.png" alt="चित्र 6.4" onclick="openImageModal(this.src, 'चित्र 6.4: fp=k 6.4 &#39;osr ia[kksa vkSj dkys ia[kksa okys &#39;kyHkksa osQ o`{k osQ rus i...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.4</strong> fp=k 6.4 'osr ia[kksa vkSj dkys ia[kksa okys 'kyHkksa osQ o`{k osQ rus ij] osQ fp=k (v) iznw"k.k jfgr vkSj (c) iznwf"kr {ks=kksa esa</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
 तर्क के ठीक इसी बिंदु पर, प्रोटीनों एवं जीनों की कार्यदक्षता की समानताएँ विविध
 जीवों की निश्चित क्रियाशीलता; एक सामान्य पूर्वज परंपरा का संकेत देती हैं। जैव
@@ -400,7 +397,7 @@ ished
 
 127
 
-Reprint 2025-26
+
 
 
 ---
@@ -422,13 +419,13 @@ Reprint 2025-26
 में विकास एक प्रत्यक्ष प्रक्रिया नहीं है। यह एक प्रसंभाव्य प्रक्रम है, जो प्रकृति के संयोग,
 अवसरधारी घटना और जीवों में संयोग जन्य उत्परिवर्तन (म्यूटेशन) पर आधारित है।
 
-3
-
-4
-
-2
-
-चित्र 6.5 फिंच पक्षियों की चोंचों की विविधता जो डारविन ने गैलपैगोस द्वीप में देखीं
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_5_hi.png" alt="चित्र 6.5" onclick="openImageModal(this.src, 'चित्र 6.5: fp=k 6.5 fiaQp if{k;ksa dh pksapksa dh fofo/rk tks Mkjfou us xSyiSxksl }hi esa n...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.5</strong> fp=k 6.5 fiaQp if{k;ksa dh pksapksa dh fofo/rk tks Mkjfou us xSyiSxksl }hi esa ns[kha</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 6.4 अनुकूली विकिरण क्या है?
 
@@ -444,7 +441,15 @@ Reprint 2025-26
 को अनुकूली विकिरण (ऐडेप्टिव रेडिऐशन) कहा गया। डार्विन की फिंच इस प्रकार की
 घटना का एक सर्वोत्तम उदाहरण प्रस्तुत करती है। एक अन्य उदाहरण आस्ट्रेलियाई
 मार्सुपियल (शिशुधानी प्राणियों) का है। अधिकांश मासुपियल जो एक दूसरे से बिल्कुल
-भिन्न (चित्र 6.6) थे; एक पूर्वज प्रभाव से विकसित हुए, और वे सभी आस्ट्रेलियाई
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_6_hi.png" alt="चित्र 6.6" onclick="openImageModal(this.src, 'चित्र 6.6: fp=k 6.6 vkLVªsfy;k osQ f&#39;k&#39;kq/kuh izkf.k;ksa osQ vuqowQyh fopj.k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.6</strong> fp=k 6.6 vkLVªsfy;k osQ f'k'kq/kuh izkf.k;ksa osQ vuqowQyh fopj.k</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 महाद्वीप के अंतर्गत हुए हैं। जब एक से अधिक अनुकूली विकिरण एक अलग-थलग
 भौगोलिक क्षेत्र में (भिन्न आवासों का प्रतिनिधित्व करते हुए) प्रकट होते हैं तो इसे
 अभिसारी विकास कहा जा सकता है। आस्ट्रेलिया के अपरास्तनी जंतु भी इस प्रकार के
@@ -454,7 +459,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -510,7 +515,7 @@ berepushshed
 
 129
 
-Reprint 2025-26
+
 
 
 ---
@@ -520,37 +525,14 @@ Reprint 2025-26
 
 अपरा स्तनी
 
-आस्ट्रेलियाई शिशुधानी
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_7_hi.png" alt="चित्र 6.7" onclick="openImageModal(this.src, 'चित्र 6.7: fp=k 6.7 vkLVªsfy;kbZ f&#39;k&#39;kq/kuh vkSj vijk Lruèkkfj;ksa dk vilkjh fodkl ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.7</strong> fp=k 6.7 vkLVªsfy;kbZ f'k'kq/kuh vkSj vijk Lruèkkfj;ksa dk vilkjh fodkl n'kkZus okyk fp=k</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
-छछूदर
-
-शिशुधानी स्तनी छछूदर
-
-चींटीखोर
-
-चूहा
-
-लेमर
-
-उड़न गिलहरी
-
-बौबकैट
-
-नम्बैट (चींटीखोर)
-
-शिशुधानी चूहा
-
-धब्बेदार कस्कस
-
-उड़न-फैलेन्जर
-
-तस्मानियाई टाइगर कैट
-
-भेड़िया
-
-तस्मानियाई भेड़िया
-
-चित्र 6.7 आस्ट्रेलियाई शिशुधानी और अपरा स्तनधारियों का
 अपसारी विकास दर्शाने वाला चित्र
 
 130
@@ -599,7 +581,7 @@ not
 छोड़कर जीव संख्या स्थिर रहती है। एक जीव संख्या के सदस्य विशिष्टताओं में भिन्न
 होते हैं (वस्तुतः दो समष्टियाँ एक जैसी नहीं होती हैं।), यद्यपि ऊपरी तौर पर वे एक
 
-Reprint 2025-26
+
 
 
 ---
@@ -652,7 +634,7 @@ p तथा q अलील A तथा अलील a की आवृत्त�
 
 131
 
-Reprint 2025-26
+
 
 
 ---
@@ -679,35 +661,13 @@ ple helple-ch
 शिखर ऊँचा और
 सँकरा होता जाता है
 
-CERT
-
-be republished
-
-प्राकृतिक वरण
-
-द्वारा पसन्द
-फीनोटाइप
-
-C
-
-मध्यम साइज के
-व्यष्टि पसंद किए
-जाते हैं
-
-शिखर एक दिशा
-को सरकता है
-
-(अ)
-
-not to
-
-दो शिखर रूप
-
-(स)
-
-चित्र 6.8 (अ) स्थायीकारक (ब) दिशात्मक और विदारक लक्षणों पर प्राकृतिक वरण की संक्रिया का आरेखी प्रतिरूपण
-
-Reprint 2025-26
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_8_hi.png" alt="चित्र 6.8" onclick="openImageModal(this.src, 'चित्र 6.8: fp=k 6.8 (v) LFkk;hdkjd (c) fn&#39;kkRed vkSj fonkjd y{k.kksa ij izkÑfrd oj.k dh...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.8</strong> fp=k 6.8 (v) LFkk;hdkjd (c) fn'kkRed vkSj fonkjd y{k.kksa ij izkÑfrd oj.k dh LakfØ;k dk vkjs[kh izfr:i.k</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 (ब)
 
@@ -763,11 +723,19 @@ lished
 
 133
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 14
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_9_hi.png" alt="चित्र 6.9" onclick="openImageModal(this.src, 'चित्र 6.9: fp=k 6.9 HkwoSKkfud dkyksa esa gksdj ikniksa osQ fodkl dk fp=k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.9</strong> fp=k 6.9 HkwoSKkfud dkyksa esa gksdj ikniksa osQ fodkl dk fp=k</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
 BELLA-HA
 
@@ -848,7 +816,7 @@ ot to behed
 
 एकबीजपत्री
 
-Reprint 2025-26
+
 
 
 ---
@@ -890,36 +858,14 @@ Reprint 2025-26
 
 मगरमच्छ
 
-पक्षी
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_10_hi.png" alt="चित्र 6.10" onclick="openImageModal(this.src, 'चित्र 6.10: fp=k 6.10 HkwoSKkfud dkyksa esa gksdj d&#39;ks:fd;ksa dk fodklh; bfrgkl dk fp=k....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.10</strong> fp=k 6.10 HkwoSKkfud dkyksa esa gksdj d'ks:fd;ksa dk fodklh; bfrgkl dk fp=k.k</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
-डाइनोसौर
-(विलुप्त)
-
-थेरौप्सिड
-
-(विलुप्त)
-
-थेकोडॉन्ट
-
-(विलुप्त)
-
-पेलिकोसौर
-
-सौरोप्सिड
-
-(विलुप्त)
-
-300
-
-साइनैप्सिड
-
-कार्बोनीफरस
-
-350
-
-आरंभिक सरीसृप (विलुप्त)
-
-चित्र 6.10 भूवैज्ञानिक कालों में होकर कशेरूकियों का विकासीय इतिहास का चित्रण
 - 6.10
 
 में विकसित हो गए। सत्य शायद इन्हीं दोनों के बीच निहित हैं। उस युग के छोटे सरीसृप
@@ -929,7 +875,7 @@ Reprint 2025-26
 स्तनधारी प्राणी जरायुज होते हैं तथा उनके अजन्मे शिशु माँ के शरीर के अंदर
 (गर्भ में) सुरक्षित रहते हैं। स्तनधारी प्राणी छोटे से छोटे खतरों के प्रति सतर्क रहने एवं
 
-Reprint 2025-26
+
 
 स्तनधारी
 
@@ -966,7 +912,15 @@ Reprint 2025-26
 लगभग 15 मिलियन वर्ष पूर्व ड्रायोपिथिकस तथा रामापिथिकस नामक नरवानर विद्यमान
 थे। इन लोगों के शरीर बालों से भरपूर थे तथा गोरिल्ला एवं चिपैंजी जैसे चलते थे।
 रामापिथिकस अधिक मनुष्यों जैसे थे जबकि ड्रायोपिथिकस वनमानुष (ऐप) जैसे थे।
-इथोपिया तथा तंजानिया (चित्र 6.11) में कुछ जीवाश्म (फासिल) अस्थियाँ मानवों जैसी
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_11_hi.png" alt="चित्र 6.11" onclick="openImageModal(this.src, 'चित्र 6.11: fp=k 6.11 vk/qfud o;Ld ekuo] f&#39;k&#39;kq fpaiSath vkSj o;Ld fpaiSath dh [kksi...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.11</strong> fp=k 6.11 vk/qfud o;Ld ekuo] f'k'kq fpaiSath vkSj o;Ld fpaiSath dh [kksifM+;ksa dh rqyukA f'k'kq fpaiSath dh [kksiM+h vfèkd ekuo</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 प्राप्त हुई हैं। ये जीवाश्म मानवी विशिष्टताएँ दर्शाते हैं जो इस विश्वास को आगे बढ़ाती
 हैं कि 3-4 मिलियन वर्ष पूर्व मानव जैसे नर वानर गण (प्राइमेट्स) पूर्वी-अफ्रीका में
 विचरण करते रहे थे। ये लोग संभवतः ऊँचाई में 4 फुट से बड़े नहीं थे; किंतु वे खड़े
@@ -986,7 +940,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -1011,7 +965,7 @@ blished
 
 137
 
-Reprint 2025-26
+
 
 
 ---
@@ -1072,5 +1026,5 @@ not f
 10. विभिन्न संसाधनों जैसे कि विद्यालय का पुस्तकालय या इंटरनेट (अंतरजाल-तंत्र) तथा
 अध्यापक से चर्चा के बाद किसी जानवर जैसे कि घोड़े के विकासीय चरणों को खोजें।
 
-Reprint 2025-26
+
 

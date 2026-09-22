@@ -9,7 +9,7 @@
 
 चुंबकत्व एवं द्रव्य
 
-12091CH05
+
 
 NOERT
 
@@ -41,7 +41,7 @@ republished
 है, उत्तरी ध्रुव और जो भौगोलिक दक्षिण की ओर संकेत करता है, चुंबक का दक्षिणी ध्रुव
 कहलाता है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -70,7 +70,16 @@ Reprint 2026-27
 she
 
 हम अपने अध्ययन की शुरुआत लौह रेतन से करते हैं जो एक छोटे छड़ चुंबक के ऊपर रखी
-गई काँच की शीट पर छिड़का गया है। लौह रेतन की यह व्यवस्था चित्र 5.1 में दर्शायी गई है।
+गई काँच की शीट पर छिड़का गया है। लौह रेतन की यह व्यवस्था
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch05_magnetism_and_matter_fig_5_1_hi.png" alt="चित्र 5.1" onclick="openImageModal(this.src, 'चित्र 5.1: ge vius vè;;u dh &#39;kq#vkr ykSg jsru ls djrs gSa tks ,d NksVs NM+ pqacd osQ Åi...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.1</strong> ge vius vè;;u dh 'kq#vkr ykSg jsru ls djrs gSa tks ,d NksVs NM+ pqacd osQ Åij j[kh xbZ dk¡p dh 'khV ij fNM+dk x;k gSA ykSg jsru dh ;g O;oLFkk fp=k 5.1 esa n'kkZ;h xbZ gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 लौह रेतन के पैटर्न यह इंगित करते हैं कि चुंबक के दो ध्रुव होते हैं, वैसे ही जैसे वैद्युत द्विध्रुव
 के धनात्मक एवं ऋणात्मक आवेश। जैसा कि पहले भूमिका में बताया जा चुका है, एक ध्रुव को
 उत्तर और दूसरे को दक्षिण ध्रुव कहते हैं। जब छड़ चुंबक को स्वतंत्रतापूर्वक लटकाया जाता है तो
@@ -79,7 +88,16 @@ she
 
 ### 5.2.1 चुंबकीय क्षेत्र रेखाएँ
 
-लौह रेतन के बने पैटर्नी के आधार पर हम चुंबकीय क्षेत्र रेखाएँ* खींच सकते हैं। चित्र 5.2 में यह
+लौह रेतन के बने पैटर्नी के आधार पर हम चुंबकीय क्षेत्र रेखाएँ* खींच सकते हैं।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch05_magnetism_and_matter_fig_5_2_hi.png" alt="चित्र 5.2" onclick="openImageModal(this.src, 'चित्र 5.2: ykSg jsru osQ cus iSVuks± osQ vkèkkj ij ge pqacdh; {ks=k js[kk,¡* [khap ldrs gSa...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.2</strong> ykSg jsru osQ cus iSVuks± osQ vkèkkj ij ge pqacdh; {ks=k js[kk,¡* [khap ldrs gSaA fp=k 5.2 esa ;g NM+ pqacd vkSj èkkjkokgh ifjukfydk] nksuksa osQ fy, n'kkZ;k x;k gSA rqyuk osQ fy, vè;k; ,d fp=k 1.14(d) nsf[k,A fo|qr f}/qzo dh oS|qr cy js[kk,¡ fp=k 5.2(c) esa Hkh n'kkZ;h xbZ gSaA pqacdh; {ks=k js[kk,¡] pqacdh; {ks=k dk n`'; vkSj varnZ`f"Vijd çLrqrhdj.k gaSA buosQ xq.k gSa%</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 चित्र 5.1 एक छड़ चुंबक के छड़ चुंबक और धारावाही परिनालिका, दोनों के लिए दर्शाया गया है। तुलना के लिए अध्याय एक
 इर्द-गिर्द लौह रेतन की
 चित्र 1.14(d) देखिए। विद्युत द्विध्रुव की वैद्युत बल रेखाएँ चित्र 5.2 (c) में भी दर्शायी गई हैं।
@@ -112,7 +130,7 @@ gu
 उचित होगा क्योंकि यह भ्रामक है। स्थिरवैद्युत के विपरीत चुंबकत्व में क्षेत्र रेखाएँ (गतिमान) आवेश पर
 बल की दिशा की सूचक नहीं हैं।
 
-Reprint 2026-27
+
 
 
 ---
@@ -177,10 +195,19 @@ lis
 यह देखा जा सकता है कि दोनों के लिए चुंबकीय सुई में विक्षेपण एक जैसा है और इस तरह इस
 साम्यता का परीक्षण आसानी से किया जा सकता है।
 
-इस साम्यता को और अधिक सुदृढ़ करने के लिए हम चित्र 5.3 (a) में दर्शायी गई सीमित
+इस साम्यता को और अधिक सुदृढ़ करने के लिए हम
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch05_magnetism_and_matter_fig_5_3_hi.png" alt="चित्र 5.3" onclick="openImageModal(this.src, 'चित्र 5.3: bl lkE;rk dks vkSj vfèkd lqn`<+ djus osQ fy, ge fp=k 5.3 (a) esa n&#39;kkZ;h xbZ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.3</strong> bl lkE;rk dks vkSj vfèkd lqn`<+ djus osQ fy, ge fp=k 5.3 (a) esa n'kkZ;h xbZ lhfer ifjukfydk osQ v{kh; {ks=k dh x.kuk dj ldrs gSaA ge ;g çn£'kr dj ldrs gSa fd cgqr</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 परिनालिका के अक्षीय क्षेत्र की गणना कर सकते हैं। हम यह प्रदर्शित कर सकते हैं कि बहुत
 
-Reprint 2026-27
+
 
 137
 
@@ -303,7 +330,7 @@ m
 पर इस पर कोई परिणामी बल नहीं लगता। तथापि, एक छड़ चुंबक के पास रखी लोहे की
 कील पर बल आघूर्ण के साथ-साथ परिणामी बल भी लगता है। क्यों?
 
-Reprint 2026-27
+
 
 
 ---
@@ -383,7 +410,7 @@ BA =
 समीकरण (5.5), समीकरण (5.1) का सदिश रूप है। सारणी 5.1 विद्युत एवं चुंबकीय द्विध्रुवों
 के मध्य समानता दर्शाती है।
 
-Reprint 2026-27
+
 
 139
 
@@ -405,31 +432,13 @@ Reprint 2026-27
 
 सारणी 5.1 द्विध्रुवों की सादृश्यता
 
-स्थिर वैद्युत
-1/εο
-
-P
-
--p/4περ³
-
-2p/4περ³
-
-pxE
-
--P-E
-
-चुंबकीय
-μο
-
-m
-
-– μο m / 4π r³
-μο 2m / 4π γ³
-
-mx B
--m.B
-
-उदाहरण 5.2 चित्र 5.4 में O बिंदु पर रखी गई एक छोटी चुंबकीय सुई P दिखाई गई
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch05_magnetism_and_matter_fig_5_4_hi.png" alt="चित्र 5.4" onclick="openImageModal(this.src, 'चित्र 5.4: mnkgj.k 5.2 fp=k 5.4 esa O ¯cnq ij j[kh xbZ ,d NksVh pqacdh; lqbZ P fn[kkbZ xbZ ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.4</strong> mnkgj.k 5.2 fp=k 5.4 esa O ¯cnq ij j[kh xbZ ,d NksVh pqacdh; lqbZ P fn[kkbZ xbZ gSA rhj blosQ pqacdh; vk?kw.kZ dh fn'kk n'kkZrk gSA vU; rhj] nwljh le:i pqacdh; lqbZ Q dh fofHkUu fLFkfr;ksa (,oa pqacdh; vk?kw.kZ osQ fno~QfoU;klksa) dks çn£'kr djrs gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 है। तीर इसके चुंबकीय आघूर्ण की दिशा दर्शाता है। अन्य तीर, दूसरी समरूप चुंबकीय सुई
 Q की विभिन्न स्थितियों (एवं चुंबकीय आघूर्ण के दिक्विन्यासों) को प्रदर्शित करते हैं।
@@ -499,7 +508,7 @@ P
 
 (c) PQ6
 
-Reprint 2026-27
+
 
 
 ---
@@ -524,9 +533,13 @@ Reprint 2026-27
 
 कार्ल फ्रेड्रिक गाउस (1777 – 1855)
 
-AS
-
-चित्र 5.5
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch05_magnetism_and_matter_fig_5_5_hi.png" alt="चित्र 5.5" onclick="openImageModal(this.src, 'चित्र 5.5: fp=k 5.5 fdlh can lrg S dk ,d NksVk lfn&#39;k {ks=kiQy vo;o ∆S yhft,A tSlk fd fp...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.5</strong> fp=k 5.5 fdlh can lrg S dk ,d NksVk lfn'k {ks=kiQy vo;o ∆S yhft,A tSlk fd fp=k 5-5 esa n'kkZ;k x;k gSA ∆S ls xqtjus okyk pqacdh; ÝyDl ∆φ B = B .∆S gS] tgk¡ B, ∆S ij pqacdh; {ks=k gSA ge S dks dbZ NksVs&NksVs vo;oksa esa ck¡V ysrs gSa vkSj muesa ls çR;sd ls xqtjus okys ÝyDlksa osQ eku vyx&vyx fudkyrs gSaA rc] oqQy ÝyDl φB dk eku gS]</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
 θ
 
@@ -594,7 +607,7 @@ E.AS = 9
 उद्गम या अभिगम नहीं होता है। सरलतम चुंबकीय अवयव एक द्विध्रुव या धारा लूप है। सभी
 चुंबकीय परिघटनाएँ एक धारा लूप एवं/या द्विध्रुव व्यवस्था के रूप में समझायी जा सकती हैं।
 
-Reprint 2026-27
+
 
 141
 
@@ -620,29 +633,13 @@ C
 में मोटी रेखाएँ]। पहचानिए कि उनमें गलती क्या है? इनमें से कुछ में वैद्युत क्षेत्र रेखाएँ ठीक-ठीक
 दर्शायी गई हैं। बताइए, वे कौन से चित्र हैं?
 
-(a)
-
-CERT
-
-republished
-
-मुक्त आकाश
-(b)
-
-(f)
-
-N
-
-S
-
-(c)
-
-(g)
-
-चित्र 5.6
-
-Reprint 2026-27
-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch05_magnetism_and_matter_fig_5_6_hi.png" alt="चित्र 5.6" onclick="openImageModal(this.src, 'चित्र 5.6: fp=k 5.6...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.6</strong> fp=k 5.6</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 ---
 ## 📄 Page 9
@@ -705,7 +702,7 @@ Shed
 (b) यदि चुंबकीय एकल ध्रुवों का अस्तित्व होता तो चुंबकत्व संबंधी गाउस का नियम क्या रूप
 ग्रहण करता?
 
-Reprint 2026-27
+
 
 उदाहरण 5.3
 
@@ -782,7 +779,7 @@ M एक सदिश राशि है जिसका विमीय सू
 
 Βο = μο ηΙ
 
-Reprint 2026-27
+
 
 (5.8)
 
@@ -859,7 +856,7 @@ blished
 χ, μ, एवं μ में तीन राशियाँ परस्पर संबंधित हैं। यदि इनमें से किसी एक का मान ज्ञात हो
 तो बाकी दोनों के मान ज्ञात किए जा सकते हैं।
 
-Reprint 2026-27
+
 
 145
 
@@ -952,15 +949,20 @@ x >> 1
 तीव्रता वाले भाग की ओर जाने की प्रवृत्ति होती है। दूसरे शब्दों में कहें तो चुंबक लोहे जैसी धातुओं
 को तो अपनी ओर आकर्षित करता है, परंतु यह प्रतिचुंबकीय पदार्थों को विकर्षित करेगा।
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 13
 
-चुंबकत्व एवं द्रव्य
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch05_magnetism_and_matter_fig_5_7_hi.png" alt="चित्र 5.7" onclick="openImageModal(this.src, 'चित्र 5.7: fp=k 5.7 (a), cká pqacdh; {ks=k esa j[kh izfrpqacdh; inkFkZ dh ,d NM+ n&#39;kkZr...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.7</strong> fp=k 5.7 (a), cká pqacdh; {ks=k esa j[kh izfrpqacdh; inkFkZ dh ,d NM+ n'kkZrk gSA {ks=k js[kk,¡ fodf"kZr gksrh gSa ;k nwj gVrh gSa blfy, inkFkZ ds vUnj {ks=k de gks tkrk gS vf/dka'k ekeyksa esa {ks=k dh rhozrk esa ;g deh vR;Yi gksrh gS (105 Hkkxksa esa ,d Hkkx)A NM+ dks fdlh vleku pqacdh; {ks=k esa j[kus ij bldh izo`fÙk vf/d {ks=k ls de {ks=k dh vksj tkus dh gksrh gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
-चित्र 5.7 (a), बाह्य चुंबकीय क्षेत्र में रखी प्रतिचुंबकीय पदार्थ की एक छड़ दर्शाता है। क्षेत्र
 रेखाएँ विकर्षित होती हैं या दूर हटती हैं इसलिए पदार्थ के अन्दर क्षेत्र कम हो जाता है अधिकांश
 मामलों में क्षेत्र की तीव्रता में यह कमी अत्यल्प होती है (105 भागों में एक भाग)। छड़ को किसी
 असमान चुंबकीय क्षेत्र में रखने पर इसकी प्रवृत्ति अधिक क्षेत्र से कम क्षेत्र की ओर जाने की होती है।
@@ -1016,7 +1018,7 @@ USI
 कॉपर क्लोराइड। किसी अनुचुंबकीय पदार्थ के लिए x एवं दोनों का मान न केवल पदार्थ पर निर्भर
 करता है, वरन् (एक सरल रूप में) इसके ताप पर भी निर्भर करता है। बहुत उच्च चुंबकीय क्षेत्रों
 
-Reprint 2026-27
+
 
 रेखाओं का व्यवहार।
 
@@ -1032,16 +1034,13 @@ http://www.nde-ed.org/EducationResources/CommunityCollege/
 
 MagParticle/Physics/MagneticMatls.htm
 
-भौतिकी
-
-(a)
-
-Bo
-
-भौतिकी
-
-(b)
-चित्र 5.8
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch05_magnetism_and_matter_fig_5_8_hi.png" alt="चित्र 5.8" onclick="openImageModal(this.src, 'चित्र 5.8: ykSg pqacdh; inkFkZ ,sls inkFkZ gksrs gSa tks cká pqacdh; {ks=k esa j[ks tkus ij...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.8</strong> ykSg pqacdh; inkFkZ ,sls inkFkZ gksrs gSa tks cká pqacdh; {ks=k esa j[ks tkus ij 'kfDr'kkyh pqacd cu tkrs gSaA muesa pqacdh; {ks=k osQ {kh.k Hkkx 'kfDr'kkyh Hkkx dh vksj pyus dh rhoz izo`fÙk gksrh gS vFkkZr os pqacd dh vksj Hkkjh vkd"kZ.k cy dk vuqHko djrs gSaA fdlh ykSg pqacdh; inkFkZ osQ ,dy ijek.kqvksa (;k vk;uksa ;k v.kqvksa) dk Hkh vuqpqacdh; inkFkks± dh rjg gh pqacdh; f}/zqo vk?kw.kZ gksrk gSA ijarq] os ,d&nwljs osQ lkFk bl çdkj vU;ksU; fØ;k djrs gSa fd ,d LFkwy vk;ru esa (ftls Mksesu dgrs gSa) lc ,d lkFk ,d fn'kk esa lajsf[kr gks tkrs gSaA bl lgdkjh çHkko dh O;k[;k osQ fy, DokaVe ;kaf=kdh dh vko';drk gksrh gS] tks bl ikB~;iqLrd osQ {ks=k ls ckgj gSA çR;sd Mksesu dk viuk ifj.kkeh pqacdu gksrk gSA çk:ih Mksesu dk vkdkj 1 mm gS] vkSj ,d Mksesu esa yxHkx 1011 ijek.kq gksrs gSaA çFken`"V;k pqacdu ,d Mksesu ls nwljs Mksesu rd tkus ij ;kn`fPNd :i ls cnyrk gS rFkk oqQy inkFkZ esa dksbZ pqacdu ugha gksrkA ;g fp=k 5.8 (a) esa fn[kk;k x;k gSA tc ge cká pqacdh; {ks=k B0 yxkrs gSa] rks Mksesu B0 osQ vuqfn'k mUeq[k gksus yxrs gSa vkSj lkFk gh os Mksesu tks B0 dh fn'kk esa gSa] lkb”k esa c<+us yxrs gSaA Mksesuksa dk vfLrRo vkSj B0 osQ vuqfn'k muosQ gksus okyh xfr osQoy vuqeku ugha gSA ykSg pqacdh; inkFkZ osQ ikmMj dks fdlh nzo esa fNM+d dj mlosQ fuyacu dks lw{en'khZ osQ }kjk mldh ;kn`fPNd xfr dks ns[kk tk ldrk gSA fp=k 5.7 (b) og fLFkfr n'kkZrk gS tc lHkh Mksesu iafDrc¼ gks x, gSa vkSj mUgksaus ?kqy&feydj ,d vosQyk fo'kky Mksesu cuk fy;k gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
 (a) यादृच्छिक अभिविन्यासित
 डोमेन, (b) संरेखित डोमेन।
@@ -1089,7 +1088,7 @@ Bo
 
 148
 
-Reprint 2026-27
+
 
 
 ---
@@ -1179,7 +1178,7 @@ M = XH जिससे कि B = μΗ
 8. वे पदार्थ जो सामान्य ताप पर लंबे समय के लिए लौह चुंबकीय गुण दर्शाते हैं, स्थायी चुंबक
 कहलाते हैं।
 
-Reprint 2026-27
+
 
 149
 
@@ -1348,7 +1347,7 @@ not
 ### 5. अतिचालक, परिपूर्ण प्रतिचुंबक (perfect diamagnetic) भी होते हैं। इसके लिए x = −1,
 μ₁ = 0, μ = 0। बाह्य चुंबकीय क्षेत्र पूर्णतः इसके बाहर ही रहता है। एक मनोरंजक तथ्य यह
 
-Reprint 2026-27
+
 
 
 ---
@@ -1374,9 +1373,7 @@ Reprint 2026-27
 
 shed
 
-### 5.1
-
-एक छोटा छड़ चुंबक जो एकसमान बाह्य चुंबकीय क्षेत्र 0.25T के साथ 30° का कोण बनाता
+### 5.1 एक छोटा छड़ चुंबक जो एकसमान बाह्य चुंबकीय क्षेत्र 0.25T के साथ 30° का कोण बनाता
 है, पर 4.5 × 10-2 J का बल आघूर्ण लगता है। चुंबक के चुंबकीय आघूर्ण का परिमाण
 क्या है?
 
@@ -1388,9 +1385,7 @@ shed
 
 ### 5.5
 
-### 5.6
-
-चुंबकीय आघूर्ण m = 0.32 JT-1 वाला एक छोटा छड़ चुंबक, 0.15T के एकसमान बाह्य
+### 5.6 चुंबकीय आघूर्ण m = 0.32 JT-1 वाला एक छोटा छड़ चुंबक, 0.15T के एकसमान बाह्य
 चुंबकीय क्षेत्र में रखा है। यदि यह छड़ क्षेत्र के तल में घूमने के लिए स्वतंत्र हो, तो क्षेत्र के किस
 विन्यास में यह (i) स्थायी संतुलन और (ii) अस्थायी संतुलन में होगा? प्रत्येक स्थिति में चुंबक
 की स्थितिज ऊर्जा का मान बताइए।
@@ -1429,5 +1424,5 @@ shed
 
 151
 
-Reprint 2026-27
+
 

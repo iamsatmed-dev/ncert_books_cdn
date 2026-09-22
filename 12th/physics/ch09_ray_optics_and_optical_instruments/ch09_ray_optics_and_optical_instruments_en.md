@@ -44,7 +44,7 @@ that we encounter commonly (generally of the order of a few cm or larger).
 In this situation, as you will learn in Chapter 10, a light wave can be
 considered to travel from one point to another, along a straight line joining
 
-Reprint 2025-26
+
 
 
 ---
@@ -81,7 +81,15 @@ the mirror) equals the angle of incidence (angle
 between incident ray and the normal). Also that
 the incident ray, reflected ray and the normal to
 the reflecting surface at the point of incidence lie
-in the same plane (Fig. 9.1). These laws are valid
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_1.png" alt="Fig. 9.1" onclick="openImageModal(this.src, 'Fig. 9.1: FIGURE 9.1 The incident ray, reflected ray and the normal to the reflecting surf...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.1</strong> FIGURE 9.1 The incident ray, reflected ray and the normal to the reflecting surface lie</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 at each point on any reflecting surface whether
 plane or curved. However, we shall restrict our
 discussion to the special case of curved surfaces,
@@ -104,31 +112,13 @@ mirror is known as the principal axis. In the case of spherical lenses, the
 principal axis is the line joining the optical centre with its principal focus
 as you will see later.
 
-Object on left
-
-Mirror
-
-Incident light
-
-Heights
-upwards
-
-positive
-
-Distances against
-incident light
-negative
-
-Heights
-downwards
-
-negative
-
-Distances along
-incident light
-positive
-
-FIGURE 9.2 The Cartesian Sign Convention.
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_2.png" alt="Fig. 9.2" onclick="openImageModal(this.src, 'Fig. 9.2: FIGURE 9.2 The Cartesian Sign Convention....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.2</strong> FIGURE 9.2 The Cartesian Sign Convention.</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 222
 
@@ -153,7 +143,7 @@ those measured in the direction
 opposite to the direction of incident light are taken as negative (Fig. 9.2).
 The heights measured upwards with respect to x-axis and normal to the
 
-Reprint 2025-26
+
 
 
 ---
@@ -171,7 +161,14 @@ all different cases.
 
 9.2.2 Focal length of spherical mirrors
 
-Figure 9.3 shows what happens when a parallel beam of light is incident
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_3.png" alt="Fig. 9.3" onclick="openImageModal(this.src, 'Fig. 9.3: Figure 9.3 shows what happens when a parallel beam of light is incident on (a) a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.3</strong> Figure 9.3 shows what happens when a parallel beam of light is incident on (a) a concave mirror, and (b) a convex mirror. We assume that the rays are paraxial, i.e., they are incident at points close to the pole P of the mirror and make small angles with the principal axis. The reflected rays converge at a point F on the principal axis of a concave mirror [Fig. 9.3(a)]. For a convex mirror, the reflected rays appear to diverge from a point F on its principal axis [Fig. 9.3(b)]. The point F is called the principal focus of the mirror. If the parallel paraxial beam of light were incident, making some angle with the principal axis, the reflected rays would converge (or appear to diverge) from a point in a plane through F normal to the principal axis. This is called the focal plane of the mirror [Fig. 9.3(c)].</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 on (a) a concave mirror, and (b) a convex mirror. We assume that the rays
 are paraxial, i.e., they are incident at points close to the pole P of the mirror
 and make small angles with the principal axis. The reflected rays converge
@@ -188,7 +185,7 @@ C
 F
 
 NCER
-not to be republished
+
 
 (a)
 
@@ -212,13 +209,20 @@ FIGURE 9.3 Focus of a concave and convex mirror.
 The distance between the focus F and the pole P of the mirror is called
 the focal length of the mirror, denoted by f. We now show that f = R/2,
 where Ris the radius of curvature of the mirror. The geometry of reflection
-of an incident ray is shown in Fig. 9.4.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_4.png" alt="Fig. 9.4" onclick="openImageModal(this.src, 'Fig. 9.4: The distance between the focus F and the pole P of the mirror is called the foca...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.4</strong> The distance between the focus F and the pole P of the mirror is called the focal length of the mirror, denoted by f. We now show that f = R/2, where R is the radius of curvature of the mirror. The geometry of reflection of an incident ray is shown in Fig. 9.4.</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 Let C be the centre of curvature of the mirror. Consider a ray parallel
 to the principal axis striking the mirror at M. Then CM will be
 perpendicular to the mirror at M. Let @ be the angle of incidence, and MD
 
-Reprint 2025-26
+
 
 223
 
@@ -355,11 +359,14 @@ The ray from the point which is parallel to the
 principal axis. The reflected ray goes through
 the focus of the mirror.
 
-D
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_5.png" alt="Fig. 9.5" onclick="openImageModal(this.src, 'Fig. 9.5: laws of reflection. Figure 9.5 shows the ray diagram considering three rays. It ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.5</strong> laws of reflection. Figure 9.5 shows the ray diagram considering three rays. It shows the image A¢B¢ (in this case, real) of an object AB formed by a concave mirror. It does not mean that only three rays emanate from the point A. An infinite number of rays emanate from any source, in all directions. Thus, point A¢ is image point of A if every ray originating at point A and falling on the concave mirror after reflection passes through the point A¢.</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
-(ii)
-
-FIGURE 9.5 Ray diagram for image
 formation by a concave mirror.
 
 224
@@ -382,7 +389,7 @@ An infinite number of rays emanate from any source, in all directions.
 Thus, point A' is image point of A if every ray originating at point A and
 falling on the concave mirror after reflection passes through the point A'.
 
-Reprint 2025-26
+
 
 
 ---
@@ -515,7 +522,7 @@ BP
 
 With the sign convention, this becomes
 
-Reprint 2025-26
+
 
 225
 
@@ -550,7 +557,16 @@ We have derived here the mirror equation, Eq. (9.7), and the
 magnification formula, Eq. (9.9), for the case of real, inverted image formed
 by a concave mirror. With the proper use of sign convention, these are,
 in fact, valid for all the cases of reflection by a spherical mirror (concave
-or convex) whether the image formed is real or virtual. Figure 9.6 shows
+or convex) whether the image formed is real or virtual.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_6.png" alt="Fig. 9.6" onclick="openImageModal(this.src, 'Fig. 9.6: We have derived here the mirror equation, Eq. (9.7), and the magnification formu...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.6</strong> We have derived here the mirror equation, Eq. (9.7), and the magnification formula, Eq. (9.9), for the case of real, inverted image formed by a concave mirror. With the proper use of sign convention, these are, in fact, valid for all the cases of reflection by a spherical mirror (concave or convex) whether the image formed is real or virtual. Figure 9.6 shows the ray diagrams for virtual image formed by a concave and convex mirror. You should verify that Eqs. (9.7) and (9.9) are valid for these cases as well.</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 the ray diagrams for virtual image formed by a concave and convex mirror.
 You should verify that Eqs. (9.7) and (9.9) are valid for these cases as
 well.
@@ -607,7 +623,15 @@ However, as the area of the reflecting surface has been reduced, the
 intensity of the image will be low (in this case, half).
 
 Example 9.2 A mobile phone lies along the principal axis of a concave
-mirror, as shown in Fig. 9.7. Show by suitable diagram, the formation
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_7.png" alt="Fig. 9.7" onclick="openImageModal(this.src, 'Fig. 9.7: Example 9.2 A mobile phone lies along the principal axis of a concave mirror, as...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.7</strong> Example 9.2 A mobile phone lies along the principal axis of a concave mirror, as shown in Fig. 9.7. Show by suitable diagram, the formation of its image. Explain why the magnification is not uniform. Will the distortion of image depend on the location of the phone with respect to the mirror?</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 of its image. Explain why the magnification is not uniform. Will the
 distortion of image depend on the location of the phone with respect
 to the mirror?
@@ -628,7 +652,7 @@ F
 
 FIGURE 9.7
 
-Reprint 2025-26
+
 
 ←
 
@@ -767,7 +791,7 @@ m
 Since the jogger moves at a constant speed of 5 m s¯¹, after 1 s the
 position of the image v (for u = −39 + 5 = −34) is (34/35 )m.
 
-Reprint 2025-26
+
 
 EXAMPLE 9.4
 
@@ -891,7 +915,14 @@ sinr
 
 where n21 is a constant, called the refractive
 index of the second medium with respect to the
-FIGURE 9.8 Refraction and reflection of light. first medium. Equation (9.10) is the well-known
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_8.png" alt="Fig. 9.8" onclick="openImageModal(this.src, 'Fig. 9.8: FIGURE 9.8 Refraction and reflection of light....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.8</strong> FIGURE 9.8 Refraction and reflection of light.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 Snell's law of refraction. We note that n21 is a
 characteristic of the pair of media (and also depends on the wavelength
@@ -903,7 +934,7 @@ From Eq. (9.10), if n21 > 1, r < i, i.e., the refracted ray bends towards
 the normal. In such a case medium 2 is said to be optically denser (or
 denser, in short) than medium 1. On the other hand, if n21 <1, r> i, the
 
-Reprint 2025-26
+
 
 
 ---
@@ -927,27 +958,23 @@ turpentine and water. Mass density of
 turpentine is less than that of water but
 its optical density is higher.
 
-(1)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_9.png" alt="Fig. 9.9" onclick="openImageModal(this.src, 'Fig. 9.9: Some elementary results based on the laws of refraction follow immediately. For ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.9</strong> Some elementary results based on the laws of refraction follow immediately. For a rectangular slab, refraction takes place at two interfaces (air- glass and glass-air). It is easily seen from Fig. 9.9 that r2 = i1, i.e., the emergent ray is parallel to the incident ray—there is no deviation, but it does suffer lateral displacement/shift with respect to the incident ray. Another familiar observation is that the bottom of a tank filled with water appears to be raised (
 
-Medium
-(Glass)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_10.png" alt="Fig. 9.10" onclick="openImageModal(this.src, 'Fig. 9.10: FIGURE 9.10 Apparent depth for (a) normal, and (b) oblique viewing....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.10</strong> FIGURE 9.10 Apparent depth for (a) normal, and (b) oblique viewing.</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
-г
+<button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
-Lateral shift
-
-Medium
-(Air)
-
-i
-
-Medium
-
-(Air) (1)
-
-(2)
-
-FIGURE 9.9 Lateral shift of a ray refracted
 through a parallel-sided slab.
 
 Observer
@@ -1016,12 +1043,21 @@ partly refracted to the second medium. This reflection is called the internal
 reflection.
 
 When a ray of light enters from a denser medium to a rarer medium,
-it bends away from the normal, for example, the ray AO₁ B in Fig. 9.11.
+it bends away from the normal, for example, the ray AO₁ B in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_11.png" alt="Fig. 9.11" onclick="openImageModal(this.src, 'Fig. 9.11: When a ray of light enters from a denser medium to a rarer medium, it bends away...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.11</strong> When a ray of light enters from a denser medium to a rarer medium, it bends away from the normal, for example, the ray AO1 B in Fig. 9.11. The incident ray AO1 is partially reflected (O1C) and partially transmitted (O1B) or refracted, the angle of refraction (r) being larger than the angle of incidence (i). As the angle of incidence increases, so does the angle of</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 The incident ray AO₁ is partially reflected (O₁C) and partially transmitted
 (O₁B) or refracted, the angle of refraction (r) being larger than the angle of
 incidence (i). As the angle of incidence increases, so does the angle of
 
-Reprint 2025-26
+
 
 h
 
@@ -1145,9 +1181,7 @@ Refractive index
 
 ### 1.62
 
-### 2.42
-
-Critical angle
+### 2.42 Critical angle
 
 48.75
 
@@ -1168,7 +1202,7 @@ suspension to water and stir so that water becomes a little turbid. Take
 a laser pointer and shine its beam through the turbid water. You will
 find that the path of the beam inside the water shines brightly.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1180,7 +1214,16 @@ Optical Instruments
 Shine the beam from below the beaker such that it strikes at the
 upper water surface at the other end. Do you find that it undergoes partial
 reflection (which is seen as a spot on the table below) and partial refraction
-[which comes out in the air and is seen as a spot on the roof; Fig. 9.12(a)]?
+[which comes out in the air and is seen as a spot on the roof;
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_12.png" alt="Fig. 9.12" onclick="openImageModal(this.src, 'Fig. 9.12: Shine the beam from below the beaker such that it strikes at the upper water sur...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.12</strong> Shine the beam from below the beaker such that it strikes at the upper water surface at the other end. Do you find that it undergoes partial reflection (which is seen as a spot on the table below) and partial refraction [which comes out in the air and is seen as a spot on the roof; Fig. 9.12(a)]? Now direct the laser beam from one side of the beaker such that it strikes the upper surface of water more obliquely [Fig. 9.12(b)]. Adjust the direction of laser beam until you find the angle for which the refraction above the water surface is totally absent and the beam is totally reflected back to water. This is total internal reflection at its simplest.</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 Now direct the laser beam from one side of the beaker such that it strikes
 the upper surface of water more obliquely [Fig. 9.12(b)]. Adjust the
 direction of laser beam until you find the angle for which the refraction
@@ -1206,7 +1249,15 @@ ished
 (c)
 
 (i) Prism: Prisms designed to bend light by 90 or by 180 make use of
-total internal reflection [Fig. 9.13(a) and (b)]. Such a prism is also
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_13.png" alt="Fig. 9.13" onclick="openImageModal(this.src, 'Fig. 9.13: (i) Prism: Prisms designed to bend light by 90° or by 180° make use of total int...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.13</strong> (i) Prism: Prisms designed to bend light by 90° or by 180° make use of total internal reflection [Fig. 9.13(a) and (b)]. Such a prism is also used to invert images without changing their size [Fig. 9.13(c)]. In the first two cases, the critical angle ic for the material of the prism must be less than 45°. We see from Table 9.1 that this is true for both crown glass and dense flint glass. (ii) Optical fibres: Nowadays optical fibres are extensively used for</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 used to invert images without changing their size [Fig. 9.13(c)].
 In the first two cases, the critical angle i for the material of the prism
 must be less than 45 . We see from Table 9.1 that this is true for both Observing total internal
@@ -1226,8 +1277,16 @@ When a signal in the form of light is
 directed at one end of the fibre at a suitable
 angle, it undergoes repeated total internal
 reflections along the length of the fibre and
-finally comes out at the other end (Fig.
-9.14). Since light undergoes total internal
+finally comes out at the other end (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_14.png" alt="Fig. 9.14" onclick="openImageModal(this.src, 'Fig. 9.14: transmitting audio and video signals through long distances. Optical fibres too ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.14</strong> transmitting audio and video signals through long distances. Optical fibres too make use of the phenomenon of total internal reflection. Optical fibres are fabricated with high quality composite glass/quartz fibres. Each fibre consists of a core and cladding. The refractive index of the material of the core is higher than that of the cladding. When a signal in the form of light is directed at one end of the fibre at a suitable angle, it undergoes repeated total internal reflections along the length of the fibre and finally comes out at the other end (Fig. 9.14). Since light undergoes total internal reflection at each stage, there is no appreciable loss in the intensity of the light signal. Optical fibres are fabricated such that light reflected at one side of inner surface strikes the other at an angle larger than the critical angle. Even if the fibre is bent, light can easily travel along its length. Thus, an optical fibre can be used to act as an optical pipe.</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 reflection at each stage, there is no
 appreciable loss in the intensity of the light
 signal. Optical fibres are fabricated such
@@ -1299,7 +1358,7 @@ FIGURE 9.13 Prisms designed to bend rays by
 90 and 180 or to invert image without changing
 its size make use of total internal reflection.
 
-Reprint 2025-26
+
 
 231
 
@@ -1365,7 +1424,14 @@ no
 
 9.5.1 Refraction at a spherical surface
 
-Figure 9.15 shows the geometry of formation of image I of an object O on
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_15.png" alt="Fig. 9.15" onclick="openImageModal(this.src, 'Fig. 9.15: Figure 9.15 shows the geometry of formation of image I of an object O on the pri...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.15</strong> Figure 9.15 shows the geometry of formation of image I of an object O on the principal axis of a spherical surface with centre of curvature C, and radius of curvature R. The rays are incident from a medium of refractive index n1, to another of refractive index n 2. As before, we take the aperture (or the lateral size) of the surface to be small compared to other distances involved, so that small angle approximation can be made. In particular, NM will be taken to be nearly equal to the length of the perpendicular from the point N on the principal axis. We have, for small angles,</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
 the principal axis of a spherical surface with centre of curvature C, and
 radius of curvature R. The rays are incident from a medium of refractive
 index n₁, to another of refractive index n₂. As before, we take the aperture
@@ -1380,7 +1446,7 @@ tan /NOM =
 
 OM
 
-Reprint 2025-26
+
 
 
 ---
@@ -1518,7 +1584,7 @@ The image is formed at a distance of 100 cm from the glass surface,
 
 in the direction of incident light.
 
-Reprint 2025-26
+
 
 EXAMPLE 9.5
 
@@ -1528,11 +1594,14 @@ EXAMPLE 9.5
 ---
 ## 📄 Page 14
 
-■ Physics
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_16.png" alt="Fig. 9.16" onclick="openImageModal(this.src, 'Fig. 9.16: Figure 9.16(a) shows the geometry of image formation by a double convex lens. Th...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.16</strong> Figure 9.16(a) shows the geometry of image formation by a double convex lens. The image formation can be seen in terms of two steps: (i) The first refracting surface forms the image I1 of the object O [Fig. 9.16(b)]. The image I1 acts as a virtual object for the second surface that forms the image at I [Fig. 9.16(c)]. Applying Eq. (9.15) to the first interface ABC, we get</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
-9.5.2 Refraction by a lens
-
-Figure 9.16(a) shows the geometry of image formation by a double convex
 lens. The image formation can be seen in terms of two steps:
 (i) The first refracting surface forms the image I₁ of the object O
 [Fig. 9.16(b)]. The image I₁ acts as a virtual object for the second surface
@@ -1669,7 +1738,13 @@ placed at infinity is formed is called the
 focus F, of the lens and the distance f gives
 its focal length. A lens has two foci, F and
 
-F', on either side of it (Fig. 9.17). By the
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_17.png" alt="Fig. 9.17" onclick="openImageModal(this.src, 'Fig. 9.17: The point where image of an object placed at infinity is formed is called the fo...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.17</strong> The point where image of an object placed at infinity is formed is called the focus F, of the lens and the distance f gives its focal length. A lens has two foci, F and F¢, on either side of it (Fig. 9.17). By the sign convention,</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
 sign convention,
 
@@ -1709,7 +1784,7 @@ Note that now the refractive index of the medium on the right side of ADC is n�
 while on its left it is n₂. Further DI₁ is negative as the distance is measured
 against the direction of incident light.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1805,7 +1880,7 @@ Object
 
 2F
 
-Reprint 2025-26
+
 
 υ
 
@@ -1892,7 +1967,14 @@ and diverging it in case of a concave lens. The power P of
 a lens is defined as the tangent of the angle by which it
 converges or diverges a beam of light parallel to the
 principal axis falling at unit distance from the optical
-centre (Fig. 9.18).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_18.png" alt="Fig. 9.18" onclick="openImageModal(this.src, 'Fig. 9.18: FIGURE 9.18 Power of a lens....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.18</strong> FIGURE 9.18 Power of a lens.</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
 FIGURE 9.18 Power of a lens.
 
@@ -1936,7 +2018,7 @@ index of glass? (iii) A convex lens has 20 cm focal length in air. What
 is focal length in water? (Refractive index of air-water = 1.33, refractive
 index for air-glass = 1.5.)
 
-Reprint 2025-26
+
 
 
 ---
@@ -1998,7 +2080,15 @@ epub
 Consider two lenses A and B of focal length f₁ and
 f₂ placed in contact with each other. Let the object
 be placed at a point O beyond the focus of the first
-lens A (Fig. 9.19). The first lens produces an image
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_19.png" alt="Fig. 9.19" onclick="openImageModal(this.src, 'Fig. 9.19: Consider two lenses A and B of focal length f1 and f2 placed in contact with eac...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.19</strong> Consider two lenses A and B of focal length f1 and f2 placed in contact with each other. Let the object be placed at a point O beyond the focus of the first lens A (Fig. 9.19). The first lens produces an image at I1. Since image I1 is real, it serves as a virtual object for the second lens B, producing the final image at I. It must, however, be borne in mind that formation of image by the first lens is presumed only to facilitate determination of the position of the final image. In fact, the direction of rays emerging from the first lens gets modified in accordance with the angle at which they strike the second lens. Since the lenses are thin, we assume the optical centres of the lenses to be coincident. Let this central point be denoted by P.</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 at I₁. Since image I₁ is real, it serves as a virtual
 object for the second lens B, producing the final
 image at I. It must, however, be borne in mind that
@@ -2070,7 +2160,7 @@ If the two lens-system is regarded as equivalent to a single lens of
 
 focal length f, we have
 
-Reprint 2025-26
+
 
 237
 
@@ -2143,7 +2233,14 @@ Find
 given
 
 Example 9.8 Find the position of the image formed by the lens
-combination given in the Fig. 9.20.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_20.png" alt="Fig. 9.20" onclick="openImageModal(this.src, 'Fig. 9.20: Example 9.8 Find the position of the image formed by the lens combination given ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.20</strong> Example 9.8 Find the position of the image formed by the lens combination given in the Fig. 9.20.</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
 
 octob
 
@@ -2181,7 +2278,7 @@ U1
 
 = 15 cm
 
-Reprint 2025-26
+
 
 cm
 
@@ -2231,9 +2328,14 @@ or v = 30 cm
 
 The final image is formed 30 cm to the right of the third lens.
 
-9.6 REFRACTION THROUGH A PRISM
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_21.png" alt="Fig. 9.21" onclick="openImageModal(this.src, 'Fig. 9.21: FIGURE 9.21 A ray of light passing through...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.21</strong> FIGURE 9.21 A ray of light passing through</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
 
-Figure 9.21 shows the passage of light through
 a triangular prism ABC. The angles of incidence
 and refraction at the first face AB are i and r₁,
 while the angle of incidence (from glass to air) at
@@ -2305,11 +2407,19 @@ that is,
 
 Thus, the angle of deviation depends on the angle of incidence. A plot
 between the angle of deviation and angle of incidence is shown in
-Fig. 9.22. You can see that, in general, any given value of d, except for
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_22.png" alt="Fig. 9.22" onclick="openImageModal(this.src, 'Fig. 9.22: Thus, the angle of deviation depends on the angle of incidence. A plot between t...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.22</strong> Thus, the angle of deviation depends on the angle of incidence. A plot between the angle of deviation and angle of incidence is shown in Fig. 9.22. You can see that, in general, any given value of d, except for i = e, corresponds to two values i and hence of e. This, in fact, is expected from the symmetry of i and e in Eq. (9.35), i.e., d remains the same if i</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
+
 i = e, corresponds to two values i and hence of e. This, in fact, is expected
 from the symmetry of i and e in Eq. (9.35), i.e., d remains the same if i
 
-Reprint 2025-26
+
 
 239
 
@@ -2443,14 +2553,22 @@ not
 9.7.1 The microscope
 
 A simple magnifier or microscope is a converging lens of small focal length
-(Fig. 9.23). In order to use such a lens as a microscope, the lens is held
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_23.png" alt="Fig. 9.23" onclick="openImageModal(this.src, 'Fig. 9.23: A simple magnifier or microscope is a converging lens of small focal length (Fig...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.23</strong> A simple magnifier or microscope is a converging lens of small focal length (Fig. 9.23). In order to use such a lens as a microscope, the lens is held near the object, one focal length away or less, and the eye is positioned close to the lens on the other side. The idea is to get an erect, magnified and virtual image of the object at a distance so that it can be viewed comfortably, i.e., at 25 cm or more. If the object is at a distance f, the image is at infinity. However, if the object is at a distance slightly less</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
+
 near the object, one focal length away or less, and the eye is positioned
 close to the lens on the other side. The idea is to get an erect, magnified
 and virtual image of the object at a distance so that it can be viewed
 comfortably, i.e., at 25 cm or more. If the object is at a distance f, the
 image is at infinity. However, if the object is at a distance slightly less
 
-Reprint 2025-26
+
 
 
 ---
@@ -2506,7 +2624,7 @@ first in Fig. 9.23(a), and the second in Fig. 9.23(b) and (c).
 The linear magnification m, for the image formed at the near point D,
 by a simple microscope can be obtained by using the relation
 
-Reprint 2025-26
+
 
 241
 
@@ -2623,7 +2741,7 @@ in magnification is usually small. In subsequent discussions of optical
 instruments (microscope and telescope) we shall assume the image to be
 at infinity.
 
-Reprint 2025-26
+
 
 
 ---
@@ -2637,36 +2755,13 @@ f
 
 A
 
-Β'
-
-Eyepiece
-
-h
-
-β
-
-β
-
-B
-
-B
-
-h
-
-E
-
-Objective
-
-Ray Optics and
-Optical Instruments
-
-A
-
-D
-
-lished
-
-FIGURE 9.24 Ray diagram for the by a
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_24.png" alt="Fig. 9.24" onclick="openImageModal(this.src, 'Fig. 9.24: A simple microscope has a limited maximum magnification (£ 9) for realistic foca...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.24</strong> A simple microscope has a limited maximum magnification (£ 9) for realistic focal lengths. For much larger magnifications, one uses two lenses, one compounding the effect of the other. This is known as a compound microscope. A schematic diagram of a compound microscope is shown in Fig. 9.24. The lens nearest the object, called the objective, forms a real, inverted, magnified image of the object. This serves as the object for the second lens, the eyepiece, which functions essentially like a simple microscope or magnifier, produces the final image, which is enlarged and virtual. The first inverted image is thus near (at or within) the focal plane of the eyepiece, at a distance appropriate for final image formation at infinity, or a little closer for image formation at the near point. Clearly, the final image is inverted with respect to the original object.</span>
+    <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
+  </div>
+</div>
 
 compound microscope.
 
@@ -2728,7 +2823,7 @@ second focal point of the objective and the first focal point of the eyepiece
 
 243
 
-Reprint 2025-26
+
 
 
 ---
@@ -2804,7 +2899,15 @@ in lenses.
 not
 
 The telescope is used to provide angular magnification of distant objects
-(Fig. 9.25). It also has an objective and an eyepiece. But here, the objective
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_25.png" alt="Fig. 9.25" onclick="openImageModal(this.src, 'Fig. 9.25: The telescope is used to provide angular magnification of distant objects (Fig. ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.25</strong> The telescope is used to provide angular magnification of distant objects (Fig. 9.25). It also has an objective and an eyepiece. But here, the objective has a large focal length and a much larger aperture than the eyepiece. Light from a distant object enters the objective and a real image is formed in the tube at its second focal point. The eyepiece magnifies this image producing a final inverted image. The magnifying power m is the ratio of the angle b subtended at the eye by the final image to the angle a which the object subtends at the lens or the eye. Hence</span>
+    <button class="icon-btn" onclick="goToPdfPage(24)">📄 View in PDF (Page 24)</button>
+  </div>
+</div>
+
 has a large focal length and a much larger aperture than the eyepiece.
 Light from a distant object enters the objective and a real image is formed
 in the tube at its second focal point. The eyepiece magnifies this image
@@ -2826,7 +2929,7 @@ feh fe
 
 (9.46)
 
-Reprint 2025-26
+
 
 
 ---
@@ -2896,7 +2999,7 @@ much less than a lens of equivalent optical quality, and can be supported
 over its entire back surface, not just over its rim. One obvious problem
 with a reflecting telescope is that the objective mirror focusses light inside
 
-Reprint 2025-26
+
 
 245
 
@@ -2904,21 +3007,13 @@ Reprint 2025-26
 ---
 ## 📄 Page 26
 
-■ Physics
-
-Secondary
-
-mirror
-
-Objective
-
-mirror
-
-Eyepiece
-
-p
-
-FIGURE 9.26 Schematic diagram of a reflecting telescope (Cassegrain).
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_26.png" alt="Fig. 9.26" onclick="openImageModal(this.src, 'Fig. 9.26: FIGURE 9.26 Schematic diagram of a reflecting telescope (Cassegrain)....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.26</strong> FIGURE 9.26 Schematic diagram of a reflecting telescope (Cassegrain).</span>
+    <button class="icon-btn" onclick="goToPdfPage(26)">📄 View in PDF (Page 26)</button>
+  </div>
+</div>
 
 the telescope tube. One must have an eyepiece and the observer right
 there, obstructing some light (depending on the size of the observer cage).
@@ -2958,7 +3053,7 @@ fibres coated with a thin layer of material of lower refractive index.
 Light incident at an angle at one end comes out at the other, after
 multiple internal reflections, even if the fibre is bent.
 
-Reprint 2025-26
+
 
 
 ---
@@ -3065,7 +3160,7 @@ P = P₁ + P2 + P3 +
 
 247
 
-Reprint 2025-26
+
 
 
 ---
@@ -3151,7 +3246,7 @@ have it subtend a large angle. The image is at 25 cm which we can see.
 Without the microscope, you would need to keep the small object at
 25 cm which would subtend a very small angle.
 
-Reprint 2025-26
+
 
 
 ---
@@ -3193,7 +3288,15 @@ focus on the needle again?
 Figures 9.27(a) and (b) show refraction of a ray in air incident at 60°
 with the normal to a glass-air and water-air interface, respectively.
 Predict the angle of refraction in glass when the angle of incidence
-in water is 45° with the normal to a water-glass interface [Fig. 9.27(c)].
+in water is 45° with the normal to a water-glass interface [
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_27.png" alt="Fig. 9.27" onclick="openImageModal(this.src, 'Fig. 9.27: 9.1 A small candle, 2.5 cm in size is placed at 27 cm in front of a concave mirr...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.27</strong> 9.1 A small candle, 2.5 cm in size is placed at 27 cm in front of a concave mirror of radius of curvature 36 cm. At what distance from the mirror should a screen be placed in order to obtain a sharp image? Describe the nature and size of the image. If the candle is moved closer to the mirror, how would the screen have to be moved? 9.2 A 4.5 cm needle is placed 12 cm away from a convex mirror of focal length 15 cm. Give the location of the image and the magnification. Describe what happens as the needle is moved farther from the mirror. 9.3 A tank is filled with water to a height of 12.5 cm. The apparent depth of a needle lying at the bottom of the tank is measured by a microscope to be 9.4 cm. What is the refractive index of water? If water is replaced by a liquid of refractive index 1.63 up to the same height, by what distance would the microscope have to be moved to focus on the needle again? 9.4 Figures 9.27(a) and (b) show refraction of a ray in air incident at 60° with the normal to a glass-air and water-air interface, respectively. Predict the angle of refraction in glass when the angle of incidence in water is 45° with the normal to a water-glass interface [Fig. 9.27(c)].</span>
+    <button class="icon-btn" onclick="goToPdfPage(29)">📄 View in PDF (Page 29)</button>
+  </div>
+</div>
 
 Glass 35
 
@@ -3243,7 +3346,7 @@ An object of size 3.0cm is placed 14cm in front of a concave lens of
 focal length 21cm. Describe the image produced by the lens. What
 happens if the object is moved further away from the lens?
 
-Reprint 2025-26
+
 
 249
 
@@ -3310,9 +3413,14 @@ viewed from the same point through a 15cm thick glass slab held
 parallel to the table? Refractive index of glass = 1.5. Does the answer
 depend on the location of the slab?
 
-not
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_28.png" alt="Fig. 9.28" onclick="openImageModal(this.src, 'Fig. 9.28: produces a virtual and enlarged image. [Note: This exercise helps you deduce alg...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.28</strong> produces a virtual and enlarged image. [Note: This exercise helps you deduce algebraically properties of images that one obtains from explicit ray diagrams.] 9.16 A small pin fixed on a table top is viewed from above from a distance of 50cm. By what distance would the pin appear to be raised if it is viewed from the same point through a 15cm thick glass slab held parallel to the table? Refractive index of glass = 1.5. Does the answer depend on the location of the slab? 9.17 (a) Figure 9.28 shows a cross-section of a ‘light pipe’ made of a</span>
+    <button class="icon-btn" onclick="goToPdfPage(30)">📄 View in PDF (Page 30)</button>
+  </div>
+</div>
 
-9.17 (a) Figure 9.28 shows a cross-section of a 'light pipe' made of a
 glass fibre of refractive index 1.68. The outer covering of the
 pipe is made of a material of refractive index 1.44. What is the
 range of the angles of the incident rays with the axis of the pipe
@@ -3325,7 +3433,7 @@ ii
 
 FIGURE 9.28
 
-Reprint 2025-26
+
 
 
 ---
@@ -3396,7 +3504,7 @@ magnifier?
 difference between magnification in absolute size and the angular
 magnification (or magnifying power) of an instrument.]
 
-Reprint 2025-26
+
 
 251
 
@@ -3466,11 +3574,20 @@ curvature of the large mirror is 220mm and the small mirror is
 140mm, where will the final image of an object at infinity be?
 
 9.30 Light incident normally on a plane mirror attached to a galvanometer
-coil retraces backwards as shown in Fig. 9.29. A current in the coil
+coil retraces backwards as shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_29.png" alt="Fig. 9.29" onclick="openImageModal(this.src, 'Fig. 9.29: 9.30 Light incident normally on a plane mirror attached to a galvanometer coil r...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.29</strong> 9.30 Light incident normally on a plane mirror attached to a galvanometer coil retraces backwards as shown in Fig. 9.29. A current in the coil produces a deflection of 3.5o of the mirror. What is the displacement of the reflected spot of light on a screen placed 1.5 m away?</span>
+    <button class="icon-btn" onclick="goToPdfPage(32)">📄 View in PDF (Page 32)</button>
+  </div>
+</div>
+
 produces a deflection of 3.5° of the mirror. What is the displacement
 of the reflected spot of light on a screen placed 1.5 m away?
 
-Reprint 2025-26
+
 
 
 ---
@@ -3480,18 +3597,14 @@ d
 
 ### 1.5 m
 
-S
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch09_ray_optics_and_optical_instruments_fig_9_30.png" alt="Fig. 9.30" onclick="openImageModal(this.src, 'Fig. 9.30: 9.31 Figure 9.30 shows an equiconvex lens (of refractive index 1.50) in contact ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.30</strong> 9.31 Figure 9.30 shows an equiconvex lens (of refractive index 1.50) in contact with a liquid layer on top of a plane mirror. A small needle with its tip on the principal axis is moved along the axis until its inverted image is found at the position of the needle. The distance of the needle from the lens is measured to be 45.0cm. The liquid is removed and the experiment is repeated. The new distance is measured to be 30.0cm. What is the refractive index of the liquid?</span>
+    <button class="icon-btn" onclick="goToPdfPage(33)">📄 View in PDF (Page 33)</button>
+  </div>
+</div>
 
-M
-
-Ray Optics and
-Optical Instruments
-
-FIGURE 9.29
-
-9.31
-
-Figure 9.30 shows an equiconvex lens (of refractive index 1.50) in
 contact with a liquid layer on top of a plane mirror. A small needle
 with its tip on the principal axis is moved along the axis until its
 inverted image is found at the position of the needle. The distance of
@@ -3511,7 +3624,7 @@ FIGURE 9.30
 
 253
 
-Reprint 2025-26
+
 
 
 ---
@@ -3521,9 +3634,9 @@ Notes
 
 © NCERT
 
-not to be republished
+
 
 254
 
-Reprint 2025-26
+
 

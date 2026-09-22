@@ -7,7 +7,7 @@
 
 CHAPTER 3
 
-12083CH04
+
 
 Fallopian tubes
 cut 
@@ -64,7 +64,7 @@ These programmes called 'family planning' were
 initiated in 1951 and were periodically assessed over
 the past decades. Improved programmes covering wider
 
-Reprint 2025-26
+
 
 
 ---
@@ -126,7 +126,7 @@ that ‘Saheli'-a new oral contraceptive for the females-was developed
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -188,7 +188,7 @@ Implants and Surgical methods.
 
 43
 
-Reprint 2025-26
+
 
 
 ---
@@ -216,7 +216,13 @@ months following parturition. As no medicines or devices
 are used in these methods, side effects are almost nil.
 Chances of failure, though, of this method are also high.
 
-Figure 3.1(a) Condom for male
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch03_reproductive_health_fig_3_1.png" alt="Fig. 3.1" onclick="openImageModal(this.src, 'Fig. 3.1: In barrier methods, ovum and sperms are prevented from physically meeting with t...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.1</strong> In barrier methods, ovum and sperms are prevented from physically meeting with the help of barriers. Such methods are available for both males and females. Condoms (Figure 3.1 a, b) are barriers made of thin rubber/ latex sheath that are used to cover the penis in the male or vagina and cervix in the female, just before coitus so that the ejaculated semen would not enter into the female reproductive tract. This can prevent conception. ‘Nirodh’ is a popular brand of condom for the male. Use of condoms has increased in recent years due to its additional benefit of protecting the user from contracting STIs and AIDS. Both the male and the female condoms are disposable, can be self-inserted and thereby gives privacy to the user. Diaphragms, cervical caps and vaults are also barriers made of rubber that are inserted into the female reproductive tract to cover the cervix during coitus. They prevent conception by blocking the entry of sperms through the cervix. They are reusable. Spermicidal creams, jellies and foams are usually used alongwith these barriers to increase their contraceptive efficiency. Another effective and popular method is the use of Intra Uterine Devices (IUDs). These devices are inserted by doctors or expert nurses in the uterus through vagina. These Intra Uterine Devices are presently available as the non-medicated IUDs (e.g., Lippes loop), copper releasing IUDs (CuT, Cu7, Multiload 375) and the hormone releasing IUDs (Progestasert, LNG-20) (Figure 3.2). IUDs increase phagocytosis of sperms within the uterus and the Cu ions released suppress sperm motility and the fertilising capacity of sperms. The hormone releasing IUDs, in addition,</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 Figure 3.1(b) Condom for female
 
@@ -241,11 +247,13 @@ cervix. They are reusable. Spermicidal creams, jellies and
 foams are usually used alongwith these barriers to increase
 their contraceptive efficiency.
 
-44
-
-n
-
-Figure 3.2. Copper T (CuT)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch03_reproductive_health_fig_3_2.png" alt="Fig. 3.2" onclick="openImageModal(this.src, 'Fig. 3.2: Figure 3.2. Copper T (CuT)...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.2</strong> Figure 3.2. Copper T (CuT)</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 Another effective and popular method is the use of Intra Uterine
 Devices (IUDs). These devices are inserted by doctors or expert nurses
@@ -256,7 +264,7 @@ IUDs (CuT, Cu7, Multiload 375) and the hormone releasing IUDs
 within the uterus and the Cu ions released suppress sperm motility and
 the fertilising capacity of sperms. The hormone releasing IUDs, in addition,
 
-Reprint 2025-26
+
 
 
 ---
@@ -285,7 +293,13 @@ Saheli-the new oral contraceptive for the females contains a non-steroidal
 preparation. It is a ‘once a week' pill with very few side effects and high
 contraceptive value.
 
-Figure 3.3 Implants
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch03_reproductive_health_fig_3_3.png" alt="Fig. 3.3" onclick="openImageModal(this.src, 'Fig. 3.3: Progestogens alone or in combination with estrogen can also be used by females a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.3</strong> Progestogens alone or in combination with estrogen can also be used by females as injections or implants under the skin (Figure 3.3). Their mode of action is similar to that of pills and their effective periods are much longer. Administration of progestogens or progestogen-estrogen combinations or IUDs within 72 hours of coitus have been found to be very effective as emergency contraceptives as they could be used to avoid possible pregnancy due to rape or casual unprotected intercourse.</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 ished
 
@@ -300,14 +314,13 @@ possible pregnancy due to rape or casual unprotected intercourse.
 Surgical methods, also called sterilisation, are generally advised for
 the male/female partner as a terminal method to prevent any more
 
-hod
-
-Vas deferens
-tied and cut
-
-Figure 3.4 (a) Vasectomy
-
-Reprint 2025-26
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch03_reproductive_health_fig_3_4.png" alt="Fig. 3.4" onclick="openImageModal(this.src, 'Fig. 3.4: Figure 3.4 (a) Vasectomy Figure 3.4 (b) Tubectomy...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.4</strong> Figure 3.4 (a) Vasectomy Figure 3.4 (b) Tubectomy</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 Fallopian tubes
 tied and cut
@@ -428,7 +441,7 @@ fatal too. Another dangerous trend is the misuse of amniocentesis to
 determine the sex of the unborn child. Frequently, if the foetus is found
 to be female, it is followed by MTP- this is totally against what is legal.
 
-Reprint 2025-26
+
 
 
 ---
@@ -490,7 +503,7 @@ are infertile, i.e., they are unable to produce children inspite of unprotected
 
 47
 
-Reprint 2025-26
+
 
 
 ---
@@ -549,7 +562,7 @@ as yet, one of the best methods for couples looking for parenthood.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -608,7 +621,7 @@ is commonly known as the Test Tube Baby' Programme.
 
 49
 
-Reprint 2025-26
+
 
 
 ---
@@ -674,5 +687,5 @@ method to improve reproductive health of the people. (True/False)
 
 not to
 
-Reprint 2025-26
+
 

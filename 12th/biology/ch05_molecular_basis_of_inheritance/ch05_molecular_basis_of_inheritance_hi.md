@@ -10,7 +10,7 @@ Semiconservative
 DNA 
 replication
 
-12084CH06
+
 
 ### अध्याय 5
 
@@ -65,7 +65,7 @@ blished
 (अनुलेखन), आनुवंशिक कूट (कोड) जो प्रोटीन्स में अमीनो अम्लों
 के क्रम को निर्धारित करते हैं प्रोटीन संश्लेषण (स्थानांतरण) प्रक्रिया
 
-Reprint 2025-26
+
 
 
 ---
@@ -119,35 +119,19 @@ Reprint 2025-26
 
 89
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 3
 
-5' फॉस्फेट
-
-P
-
-H-C-H
-
-A
-
-P
-
-90
-
-H-C-H
-
-T
-
-P
-
-H-C-H
-
-G
-
-चित्र 5.1 एक पालीन्यूक्लियोटाइड शृंखला
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_hi.png" alt="चित्र 5" onclick="openImageModal(this.src, 'चित्र 5: Ük`a[kyk dk 3^ fdukjk dgrs gSaA ikWyhU;wfDy;ksVkbM Ük`a[kyk osQ vkèkkj dk fuekZ....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5</strong> Ük`a[kyk dk 3^ fdukjk dgrs gSaA ikWyhU;wfDy;ksVkbM Ük`a[kyk osQ vkèkkj dk fuekZ.k 'koZQjk o iQkWLisQV~l ls gksrk gSA ukbVªkstuh {kkj 'koZQjk va'k ls tqM+k gksrk gS tks vkèkkj ls iz{ksfir gksrk gS (fp=k 5-1)A</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 P
 
@@ -163,7 +147,14 @@ C
 
 श्रृंखला का 3' किनारा कहते हैं। पॉलीन्यूक्लियोटाइड शृंखला के आधार का निर्माण शर्करा
 व फॉस्फेट्स से होता है। नाइट्रोजनी क्षार शर्करा अंश से जुड़ा होता है है जो जो आधार अ से
-प्रक्षेपित होता है (चित्र 5.1)।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_1_hi.png" alt="चित्र 5.1" onclick="openImageModal(this.src, 'चित्र 5.1: fp=k 5.1 ,d ikyhU;wfDy;ksVkbM Ük`a[kyk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.1</strong> fp=k 5.1 ,d ikyhU;wfDy;ksVkbM Ük`a[kyk</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 आरएनए में प्रत्येक न्यूक्लियोटाइड अवशेष के राइबोज की 2' जगह पर एक
 अतिरिक्त हाइड्रॉक्सील समूह स्थित होता है। आरएनए में थाइमीन (5'-मथिल यूरेसील
@@ -198,7 +189,7 @@ C
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -228,37 +219,13 @@ A
 
 T
 
-G
-
-C
-
--OH
-
-3'
-
-3'
-
-HO
-
-H-C-H
-
-T
-
-A
-
-P
-
-H-C-H
-
-P
-
-H-C-H
-
-C
-
-P
-
-चित्र 5.2 द्विरज्जुकीय पॉलीन्युक्लियोटाइड शृंखला
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_2_hi.png" alt="चित्र 5.2" onclick="openImageModal(this.src, 'चित्र 5.2: fp=k 5.2 f}jTtqdh; ikWyhU;qfDy;ksVkbM Ük`a[kyk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.2</strong> fp=k 5.2 f}jTtqdh; ikWyhU;qfDy;ksVkbM Ük`a[kyk</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 हाइड्रोजन बंध बनाते हैं। ठीक इसी
 तरह से ग्वानीन साइटोसलीन से
@@ -286,30 +253,13 @@ be
 (ङ) द्विकुंडली में एक क्षार युग्म की सतह
 के ऊपर दूसरे स्थित होते हैं। इसके
 
-H-C-H
-
-हाइड्रोजन बंध
-
-G
-
-P
-
-ublished
-
-बेस जोड़ा
-
-एडेनीन
-
-थाइमीन
-
-शर्करा फॉस्फेट
-आधार (बैक बोन)
-
-ग्वानीन
-
-साइटोसीन
-
-चित्र 5.3 द्विकुंडली डीएनए
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_3_hi.png" alt="चित्र 5.3" onclick="openImageModal(this.src, 'चित्र 5.3: osQ mQij nwljs fLFkr gksrs gSaA blosQ vfrfjDr gkbMªkstu caèk oqaQMfyuh lajpuk dk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.3</strong> osQ mQij nwljs fLFkr gksrs gSaA blosQ vfrfjDr gkbMªkstu caèk oqaQMfyuh lajpuk dks LFkkf;Ro iznku djrs gSaA I;wjhu o ihfjehMhu dh lajpukRed rqyuk djksA D;k vki crk ldrs gSa fd Mh,u, esa nks ikWyhU;wfDy;ksVkbM Ük`a[kykvksa osQ chp dh nwjh ges'kk yxHkx leku D;ksa jgrh gS\ (fp=k 5.3)A</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 91
 
@@ -319,11 +269,19 @@ ublished
 डीएनए में दो पॉलीन्यूक्लियोटाइड श्रृंखलाओं के बीच की दूरी हमेशा लगभग समान क्यों
 रहती है? (चित्र 5.3)।
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 5
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_4_hi.png" alt="चित्र 5.4" onclick="openImageModal(this.src, 'चित्र 5.4: fp=k 5.4v U;wfDy;kslkse...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.4</strong> fp=k 5.4v U;wfDy;kslkse</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 जीव विज्ञान
 
@@ -399,7 +357,7 @@ nott
 होकर आठ हिस्टोन अणुओं की एक ईकाई बनाता है जिसे हिस्टोन अष्टक कहते हैं।
 धनात्मक आवेशित हिस्टोन अष्टक चारो तरफ से ऋणात्मक आवेशित डीएनए से सटा
 
-Reprint 2025-26
+
 
 
 ---
@@ -431,9 +389,7 @@ Reprint 2025-26
 कहते हैं। क्रोमेटीन जो काफी अच्छे ढंग से बँधे होते हैं व गाढ़े रंग के दिखायी पड़ते
 हैं उसे 'हेटोरोक्रोमेटीन' कहते हैं।
 
-### 5.2
-
-आनुवंशिक पदार्थ की खोज
+### 5.2 आनुवंशिक पदार्थ की खोज
 
 republished
 
@@ -459,7 +415,7 @@ republished
 
 93
 
-Reprint 2025-26
+
 
 
 ---
@@ -541,7 +497,7 @@ shed
 
 nota
 
-Reprint 2025-26
+
 
 
 ---
@@ -604,9 +560,13 @@ torb
 
 ### 3. अपकेंद्रण
 
-चित्र 5.5 हर्षे-चेस का प्रयोग
-
-Reprint 2025-26
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_5_hi.png" alt="चित्र 5.5" onclick="openImageModal(this.src, 'चित्र 5.5: fp=k 5.5 g&quot;ksZ&psl dk iz;ksx...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.5</strong> fp=k 5.5 g"ksZ&psl dk iz;ksx</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 95
 
@@ -667,7 +627,7 @@ not t
 आनुवंशिक पदार्थ इतना स्थायी होना चाहिए कि जीवन चक्र की विभिन्न अवस्थाओं,
 उम्र या जीव की शरीरक्रिया में परिवर्तन से इसमें परिवर्तन नहीं होना चाहिए। आनुवंशिक
 
-Reprint 2025-26
+
 
 
 ---
@@ -702,9 +662,7 @@ shed
 स्थायी होने से वह आनुवंशिक सूचनाओं के संचय हेतु सबसे उपयोगी है, आनुवंशिक
 सूचनाओं के स्थानांतरण हेतु आरएनए उपयुक्त है।
 
-### 5.3
-
-आरएनए संसार
+### 5.3 आरएनए संसार
 
 ere
 
@@ -726,7 +684,7 @@ ere
 
 97
 
-Reprint 2025-26
+
 
 
 ---
@@ -778,45 +736,19 @@ G
 
 GC
 
-GC
-
-TA
-
-TA
-
-AT
-
-AT
-
-CG
-
-CG
-
-AT
-
-AT
-
-GC
-
-GC
-
-TA
-
-TA
-
-GC
-
-GC
-
-चित्र 5.6 डी एन ए के अर्धसंरक्षी प्रकृतियन का
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_6_hi.png" alt="चित्र 5.6" onclick="openImageModal(this.src, 'चित्र 5.6: fp=k 5.6 Mh ,u , osQ vèkZlaj{kh izo`Qfr;u dk okVlu&fØd izfr:i...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.6</strong> fp=k 5.6 Mh ,u , osQ vèkZlaj{kh izo`Qfr;u dk okVlu&fØd izfr:i</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
 
 98
 
 वाटसन-क्रिक प्रतिरूप
 
-### 5.4
-
-प्रतिकृति
+### 5.4 प्रतिकृति
 
 डीएनए के द्विकुंडली रचना के प्रतिवादन के साथ ही वॉटसन
 व क्रिक ने तत्काल डीएनए की प्रतिकृति की योजना प्रस्तुत
@@ -859,10 +791,14 @@ not to
 लेने पर व इससे डीएनए निष्कर्षण करने पर पाया कि यह हमेशा द्विरज्जुक
 कुंडलियों के रूप में मिलता है। डीएनए के घनत्वों के बारे में जानकारी प्राप्त
 करने हेतु विभिन्न नमूनों को स्वतंत्र रूप से सीजिएम CSCI ग्रेडिएंट की
-प्रवणता पर अलग किया गया (चित्र 5.7)।
 
-Reprint 2025-26
-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_7_hi.png" alt="चित्र 5.7" onclick="openImageModal(this.src, 'चित्र 5.7: fp=k 5.7 eslsYlu ,oa LVky dk iz;ksx...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.7</strong> fp=k 5.7 eslsYlu ,oa LVky dk iz;ksx</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 ---
 ## 📄 Page 12
@@ -944,35 +880,19 @@ ublished
 
 99
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 13
 
-3'
-
-5΄
-
-3'
-
-सतत् संश्लेषण
-
-5'
-3'
-
-टेम्पलेट डी एन ए
-(रज्जु)
-
-नव संश्लेषित रज्जु
-
-असतत् संश्लेषण
-
-5'
-
-3'
-
-चित्र 5.8 प्रतिकृत द्विशाख
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_8_hi.png" alt="चित्र 5.8" onclick="openImageModal(this.src, 'चित्र 5.8: fp=k 5.8 izfro`Qr f}&#39;kk[k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.8</strong> fp=k 5.8 izfro`Qr f}'kk[k</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 100
 
@@ -1023,7 +943,7 @@ not
 (गुणसूत्री समानता) उत्पन्न होती है। इनमें से कुछ प्रक्रमों के बारे में विस्तृत रूप से आप
 उच्च कक्षाओं में पढ़ेंगे।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1031,9 +951,7 @@ Reprint 2025-26
 
 वंशागति के आणविक आधार
 
-### 5.5
-
-अनुलेखन (ट्रांसक्रिप्शन)
+### 5.5 अनुलेखन (ट्रांसक्रिप्शन)
 
 डीएनए की एक रज्जुक से आनुवंशिक सूचनाओं का आरएनए में प्रतिलिपीकरण करने की
 प्रक्रिया को अनुलेखन कहते हैं। यहाँ भी पूरकता का सिद्धांत अनुलेखन प्रक्रम को
@@ -1084,7 +1002,7 @@ NCER
 
 101
 
-Reprint 2025-26
+
 
 
 ---
@@ -1102,7 +1020,15 @@ Reprint 2025-26
 यह डीएनए अनुक्रम है जिससे आरएनए पॉलीमरेज जुड़ता है और अनुलेखन ईकाई
 में स्थित उन्नायक टेम्प्लेट व कूटलेखन रज्जुक का निर्धारण करता है। समापक कूटलेखन
 रज्जुक के 3' किनारे (अनुप्रवाह) पर स्थित होता है और इससे अनुलेखन प्रक्रम की
-समाप्ति का निर्धारण होता है (चित्र 5.9)। इसके अतिरिक्त उन्नायक के प्रतिप्रवाह व
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_9_hi.png" alt="चित्र 5.9" onclick="openImageModal(this.src, 'चित्र 5.9: fp=k 5.9 vuqys[ku ,dy dh vkjsf[k; lajpuk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.9</strong> fp=k 5.9 vuqys[ku ,dy dh vkjsf[k; lajpuk</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
+
 अनुप्रवाह की तरफ नियामक अनुक्रम होते हैं। इन अनुक्रमों की कुछ विशेषताओं के बारे
 में जब जीन अभिव्यक्ति नियमन के बारे में वर्णन होगा, तब जानकारी दी जाएगी।
 
@@ -1150,7 +1076,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -1179,7 +1105,14 @@ Reprint 2025-26
 दीर्धीकरण प्रक्रिया को उत्प्रेरित करने में सक्षम है। यह अस्थायी रूप से प्रारंभन कारक
 व समापन कारक से जुड़ जाता है। अनुलेखन की शुरुआत पॉलीमरेज के साथ जुड़ने
 से उसकी विशिष्टता में परिवर्तन के साथ होती है जिससे या तो प्रारंभन या
-होता है (चित्र 5.10)।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_10_hi.png" alt="चित्र 5.10" onclick="openImageModal(this.src, 'चित्र 5.10: fp=k 5.10 cSDVhfj;k esa vuqys[ku izfØ;k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.10</strong> fp=k 5.10 cSDVhfj;k esa vuqys[ku izfØ;k</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
 प्रारंभन
 
@@ -1243,7 +1176,7 @@ RHO फैक्टर
 
 चित्र 5.10 बैक्टीरिया में अनुलेखन प्रक्रिया
 
-Reprint 2025-26
+
 
 
 ---
@@ -1317,13 +1250,13 @@ m
 ### 5. Gppp
 MG.
 
-XIXIX
-
-संवाहक आरएनए (एमआरएनए)
-
-चित्र 5.11 सुकेंद्रकियों में अनुलेखन प्रक्रिया
-
-Reprint 2025-26
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_11_hi.png" alt="चित्र 5.11" onclick="openImageModal(this.src, 'चित्र 5.11: fp=k 5.11 lqosaQnzfd;ksa eas vuqys[ku izfØ;k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.11</strong> fp=k 5.11 lqosaQnzfd;ksa eas vuqys[ku izfØ;k</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
 
 5'
 
@@ -1389,7 +1322,7 @@ shed
 
 105
 
-Reprint 2025-26
+
 
 
 ---
@@ -1586,7 +1519,7 @@ GAG Glu
 
 GGG Gly G
 
-Reprint 2025-26
+
 
 
 ---
@@ -1654,7 +1587,7 @@ RAM HAS CAP
 
 107
 
-Reprint 2025-26
+
 
 
 ---
@@ -1668,36 +1601,13 @@ tRNA
 
 कूट परिकल्पना के बहुत समय पहले से फ्रेनसिस क्रिक के अनुसार कूट के पढ़ने व
 
-5'
-
-Ser
-3'
-
-tRNA
-
-UCA Anticodon
-
-AGU
-
-Codon
-
-5'
-
-5'
-
-Tyr
-
-3'
-
-AUG
-
-UAC
-
-mRNA
-
-3'
-
-चित्र 5.12 tआरएनए-अनुकूलक अणु
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_12_hi.png" alt="चित्र 5.12" onclick="openImageModal(this.src, 'चित्र 5.12: fp=k 5.12 tvkj,u,&vuqowQyd v.kq...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.12</strong> fp=k 5.12 tvkj,u,&vuqowQyd v.kq</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
 
 Gly Leu Tyr
 
@@ -1725,33 +1635,13 @@ A
 
 भूमिका के बारे में बाद में जानकारी मिल पायी।
 
-Ser
-
-Leu
-
-Gly
-
-Ser
-
-Ala Val
-
-tRNA URNA
-
-tRNA
-
-TTA
-
-Asn
-
-notNCE
-
-CUCUUGGGUCCGCAGUUAAUUUCUAUC
-
-5'
-
-m आरएनए
-
-चित्र 5.13 स्थानांतरण
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_13_hi.png" alt="चित्र 5.13" onclick="openImageModal(this.src, 'चित्र 5.13: fp=k 5.13 LFkkukarj.k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.13</strong> fp=k 5.13 LFkkukarj.k</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
 
 108
 
@@ -1781,7 +1671,7 @@ m आरएनए
 पॉलीपेप्टाइड का निर्माण होता है (चित्र 5.13)। अमीनो अम्लों के क्रम व अनुक्रम दूत
 आरएनए में पाए जाने वाले क्षारो के अनुक्रम पर निर्भर करता है। अमीनो अम्ल पेप्टाइड
 
-Reprint 2025-26
+
 
 
 ---
@@ -1838,7 +1728,7 @@ shed
 
 109
 
-Reprint 2025-26
+
 
 
 ---
@@ -1891,7 +1781,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -1926,37 +1816,13 @@ P
 
 i
 
-P
-
-0
-
-Z
-
-y
-
-a
-
-प्रेरक की उपस्थिति में
-
-दमनकारी m आरएनए
-
-अनुलेखन
-
-लैक m आरएनए
-
-ẞ-गैलेक्टोसाईडेज
-
-स्थानांतरण
-
-एज टांसएसीटाईलेज
-
-ERT
-
-published
-
-निष्क्रिय दमनकारी
-
-चित्र 5.14 लैक ओपेरान
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_14_hi.png" alt="चित्र 5.14" onclick="openImageModal(this.src, 'चित्र 5.14: fp=k 5.14 ySd vksisjku...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.14</strong> fp=k 5.14 ySd vksisjku</span>
+    <button class="icon-btn" onclick="goToPdfPage(24)">📄 View in PDF (Page 24)</button>
+  </div>
+</div>
 
 प्रेरक
 
@@ -1982,7 +1848,7 @@ published
 
 111
 
-Reprint 2025-26
+
 
 
 ---
@@ -2005,9 +1871,7 @@ Reprint 2025-26
 कहते है। लैक प्रचालेक धनात्मक नियमन (पाजीटीव रेग्यूलेशन) के नियंत्रण में भी होता
 है, लेकिन इस स्तर पर इसके बारे में चर्चा नहीं कि जाएगी।
 
-### 5.9
-
-मानव जीनोम परियोजना (ह्यूमन जीनोम प्रोजेक्ट)
+### 5.9 मानव जीनोम परियोजना (ह्यूमन जीनोम प्रोजेक्ट)
 पिछले खंडों में तुम पढ़ चुके हो कि डीएनए में मिलने वाले क्षारों का अनुक्रम किसी
 भी जीव का आनुवंशिक सूचना का निर्धारण करता है। दूसरे शब्दों में किसी भी जीव की
 आनुवंशिक व्यवस्था उसके डीएनए में मिलने वाले अनुक्रम से निर्धारित होती है। दो
@@ -2041,7 +1905,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -2098,27 +1962,19 @@ shed
 
 113
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 27
 
-2-0-8
-
-008
-
-TGTAC
-
-GTACA
-
-0
-
-CG
-
-T
-
-चित्र 5.15 मानव जीनोम परियोजना का निरूपक आरेख
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_15_hi.png" alt="चित्र 5.15" onclick="openImageModal(this.src, 'चित्र 5.15: fp=k 5.15 ekuo thukse ifj;kstuk dk fu:id vkjs[k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 5.15</strong> fp=k 5.15 ekuo thukse ifj;kstuk dk fu:id vkjs[k</span>
+    <button class="icon-btn" onclick="goToPdfPage(27)">📄 View in PDF (Page 27)</button>
+  </div>
+</div>
 
 114
 
@@ -2181,7 +2037,7 @@ not
 (SNPs एकल न्यूक्लियोटाइड बहुरूपता; सिंगल न्यूक्लियोटाइड
 पॉलीमारफीज़्म; जिसे 'स्निप्स' कहा जाता है) का पता लगाया। उपरोक्त
 
-Reprint 2025-26
+
 
 
 ---
@@ -2233,7 +2089,7 @@ Published
 
 115
 
-Reprint 2025-26
+
 
 
 ---
@@ -2284,7 +2140,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -2383,7 +2239,7 @@ thatt 146 opolith softa 18
 
 117
 
-Reprint 2025-26
+
 
 
 ---
@@ -2430,7 +2286,7 @@ Reprint 2025-26
 जिसका विकास आरएनए के इर्दगिर्द हुआ है जो इस बात का सूचक है कि जीवन का विकास
 आरएनए से हुआ है। चूँकि अनुलेखन व स्थानांतरण उर्जात्मक एक बहुत मँहगी प्रक्रिया है,
 
-Reprint 2025-26
+
 
 
 ---
@@ -2487,7 +2343,7 @@ epublicmed
 
 119
 
-Reprint 2025-26
+
 
 
 ---
@@ -2533,11 +2389,11 @@ Reprint 2025-26
 
 (क) अनुलेखन
 
-not to be republished
+
 
 (ख) बहुरूपता
 
 (ग) स्थानांतरण
 
-Reprint 2025-26
+
 

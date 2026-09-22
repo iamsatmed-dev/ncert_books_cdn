@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11088CH04
+
 
 ### अध्याय 3
 
@@ -84,7 +84,7 @@ ed
 सामान्यतया बीजगणित में । अदिशों को हम ठीक वैसे ही जोड़ सकते हैं, घटा
 सकते हैं, गुणा या भाग कर सकते हैं जैसा कि हम सामान्य संख्याओं के साथ
 
-Reprint 2026-27
+
 
 
 ---
@@ -132,7 +132,16 @@ be
 किसी समतल में गतिमान वस्तु की स्थिति व्यक्त करने के लिए
 हम सुविधानुसार किसी बिंदु O को मूल बिंदु के रूप में चुनते
 हैं । कल्पना कीजिए कि दो भिन्न-भिन्न समयों t और t' पर
-वस्तु की स्थिति क्रमशः P और P' है (चित्र 3.1a) । हम P
+वस्तु की स्थिति क्रमशः P और P' है (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_hi.png" alt="चित्र 3" onclick="openImageModal(this.src, 'चित्र 3: fp=k 3-3 (a) lfn&#39;k A rFkk mls èkukRed la[;k nks ls xq.kk djus ij izkIr ifj.k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3</strong> fp=k 3-3 (a) lfn'k A rFkk mls èkukRed la[;k nks ls xq.kk djus ij izkIr ifj.kkeh lfn'k] (b) lfn'k A rFkk mls Í.kkRed la[;kvksa &1 rFkk &1-5 ls xq.kk djus ij izkIr ifj.kkeh lfn'k A</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 को O से एक सरल रेखा से जोड़ देते हैं । इस प्रकार OP समय
 t पर वस्तु की स्थिति सदिश होगी । इस रेखा के सिरे पर एक
 तीर का निशान लगा देते हैं । इसे किसी चिह्न (मान लीजिए)
@@ -157,37 +166,14 @@ P'
 У个
 D
 
-Q
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_1_hi.png" alt="चित्र 3.1" onclick="openImageModal(this.src, 'चित्र 3.1: 3-2-1 fLFkfr ,oa foLFkkiu lfn&#39;k fdlh lery esa xfreku oLrq dh fLFkfr O;Dr dju...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.1</strong> 3-2-1 fLFkfr ,oa foLFkkiu lfn'k fdlh lery esa xfreku oLrq dh fLFkfr O;Dr djus osQ fy, ge lqfoèkkuqlkj fdlh fcanq O dks ewy fcanq osQ :i esa pqurs gSa A dYiuk dhft, fd nks fHkUu&fHkUu le;ksa t vkSj t' ij oLrq dh fLFkfr Øe'k% P vkSj P' gS (fp=k 3.1a) A ge P dks O ls ,d ljy js[kk ls tksM+ nsrs gSa A bl izdkj OP le; t ij oLrq dh fLFkfr lfn'k gksxh A bl js[kk osQ fljs ij ,d rhj dk fu'kku yxk nsrs gSa A bls fdlh fpÉ (eku yhft,) r ls fu:fir djrs gSa] vFkkZr~ OP = r A blh izdkj fcanq P' dks ,d nwljs fLFkfr lfn'k OP' ;kuh r' ls fu:fir djrs gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
-P
-
-C
-
-E
-
-r'
-
-B
-
-r
-
-P
-
-A
-
-Ο
-
-Ο
-
-X
-
-X
-
-(a)
-
-(b)
-
-चित्र 3.1 (a) स्थिति तथा विस्थापन सदिश, (b) विस्थापन सदिश
 PQ तथा गति के भिन्न-भिन्न मार्ग ।
 
 यहाँ यह बात महत्वपूर्ण है कि 'विस्थापन सदिश' को एक
@@ -209,7 +195,14 @@ PQ तथा गति के भिन्न-भिन्न मार्ग �
 दो सदिशों A तथा B को केवल तभी बराबर कहा जा सकता
 है जब उनके परिमाण बराबर हों तथा उनकी दिशा समान हो** ।
 
-चित्र 3.2(a) में दो समान सदिशों A तथा B को दर्शाया
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_2_hi.png" alt="चित्र 3.2" onclick="openImageModal(this.src, 'चित्र 3.2: fp=k 3.2(a) esa nks leku lfn&#39;kksa A rFkk B dks n&#39;kkZ;k x;k gS A ge budh ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.2</strong> fp=k 3.2(a) esa nks leku lfn'kksa A rFkk B dks n'kkZ;k x;k gS A ge budh lekurk dh ij[k vklkuh ls dj ldrs gSa A B dks Lo;a osQ lekarj f[kldkb;s rkfd mldh iqPN Q lfn'k A dh iqPN O osQ laikrh gks tk, A fiQj D;ksafd muosQ 'kh"kZ S ,oa P Hkh laikrh gSa vr% nksuksa lfn'k cjkcj dgyk,axs A lkekU;r;k bl lekurk dks A = B osQ :i esa fy[krs gSa A bl</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 गया है। हम इनकी समानता की परख आसानी से कर सकते
 हैं । B को स्वयं के समांतर खिसकाइये ताकि उसकी पुच्छ
 सदिश A की पुच्छ O के संपाती हो जाए । फिर क्योंकि उनके
@@ -221,7 +214,7 @@ PQ तथा गति के भिन्न-भिन्न मार्ग �
 रहता है । इस प्रकार के सदिशों को हम ‘मुक्त सदिश' कहते हैं । हालांकि कुछ भौतिक उपयोगों में सदिश की स्थिति या उसकी क्रिया रेखा
 महत्त्वपूर्ण होती है । ऐसे सदिशों को हम ‘स्थानगत सदिश' कहते हैं।
 
-Reprint 2026-27
+
 
 
 ---
@@ -294,7 +287,16 @@ A की है । इस गुणनफल को हम A से लिख�
 परिमाण | A | का ? गुना होता है ।
 
 यदि किसी सदिश A को ऋणात्मक संख्याओं -1
-व -1.5 से गुणा करें तो परिणामी सदिश चित्र 3.3 (b) जैसे
+व -1.5 से गुणा करें तो परिणामी सदिश
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_3_hi.png" alt="चित्र 3.3" onclick="openImageModal(this.src, 'चित्र 3.3: | | | | C C λ = λ ;fn 0 > λ mnkgj.kLo:i] ;fn A dks 2 ls xq.kk fd;k tk,] rks ifj....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.3</strong> | | | | C C λ = λ ;fn 0 > λ mnkgj.kLo:i] ;fn A dks 2 ls xq.kk fd;k tk,] rks ifj.kkeh lfn'k 2A gksxk (fp=k 3.3a) ftldh fn'kk A dh fn'kk gksxh rFkk ifjek.k | | C dk nksxquk gksxk A lfn'k A dks ;fn ,d Í.kkRed la[;k –λ ls xq.kk djsa rks ,d vU; lfn'k izkIr gksrk gS ftldh fn'kk A dh fn'kk osQ foijhr gS vkSj ftldk ifjek.k | | C dk λ xquk gksrk gS A ;fn fdlh lfn'k A dks Í.kkRed la[;kvksa &1 o &1-5 ls xq.kk djsa rks ifj.kkeh lfn'k fp=k 3-3(b) tSls gksaxs A</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 3.3(b
 होंगे ।
 
@@ -321,7 +323,15 @@ A की है । इस गुणनफल को हम A से लिख�
 जैसा कि खण्ड 3.2 में बतलाया जा चुका है कि सदिश योग के
 त्रिभुज नियम या समान्तर चतुर्भुज के योग के नियम का पालन
 करते हैं । अब हम ग्राफी विधि द्वारा योग के इस नियम को
-समझाएंगे । हम चित्र 3.4 (a) में दर्शाए अनुसार किसी समतल
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_4_hi.png" alt="चित्र 3.4" onclick="openImageModal(this.src, 'चित्र 3.4: 3-4 lfn&#39;kksa dk ladyu o O;odyu % xzkIkQh fofèk tSlk fd [k.M 3-2 esa cryk;k t...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.4</strong> 3-4 lfn'kksa dk ladyu o O;odyu % xzkIkQh fofèk tSlk fd [k.M 3-2 esa cryk;k tk pqdk gS fd lfn'k ;ksx osQ f=kHkqt fu;e ;k lekUrj prqHkqZt osQ ;ksx osQ fu;e dk ikyu djrs gSa A vc ge xzkiQh fofèk }kjk ;ksx osQ bl fu;e dks le>k,axs A ge fp=k 3.4 (a) esa n'kkZ, vuqlkj fdlh lery esa fLFkr nks lfn'kksa A rFkk B ij fopkj djrs gSa A bu lfn'kksa dks O;Dr djus okyh js[kk&[k.Mksa dh yackb;k¡ lfn'kksa osQ ifjek.k osQ lekuqikrh gSa A ;ksx A + B izkIr djus osQ fy, fp=k 3-4(b) osQ vuqlkj ge lfn'k B bl izdkj j[krs gSa fd mldh iqPN lfn'k A osQ 'kh"kZ ij gks A fiQj ge A dh iqPN</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 में स्थित दो सदिशों A तथा B पर विचार करते हैं । इन सदिशों
 को व्यक्त करने वाली रेखा-खण्डों की लंबाइयाँ सदिशों के
 परिमाण के समानुपाती हैं। योग A + B प्राप्त करने के लिए चित्र
@@ -367,7 +377,7 @@ B
 चित्र 3.4 (a) सदिश A तथा B, (b) सदिशों A व B का ग्राफी विधि द्वारा जोड़ना, (c) सदिशों B व A का ग्राफी विधि द्वारा जोड़ना,
 (d) सदिशों के जोड़ से संबंधित साहचर्य नियम का प्रदर्शन ।
 
-Reprint 2026-27
+
 
 
 ---
@@ -437,18 +447,29 @@ A + 0 = A
 सदिशों का व्यवकलन सदिशों के योग के रूप में भी
 परिभाषित किया जा सकता है । दो सदिशों A व B के अंतर
 को हम दो सदिशों A व B के योग के रूप में निम्न प्रकार
-से व्यक्त करते हैं :
 
-(3.5)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_5_hi.png" alt="चित्र 3.5" onclick="openImageModal(this.src, 'चित्र 3.5: fp=k 3.5 (a) nks lfn&#39;k A o B, –B dks Hkh fn[kk;k x;k gS A (b) lfn&#39;k A ls...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.5</strong> fp=k 3.5 (a) nks lfn'k A o B, –B dks Hkh fn[kk;k x;k gS A (b) lfn'k A ls lfn'k B dk ?kVkuk&ifj.kke R2 gS A rqyuk osQ fy, lfn'kksa A o B dk ;ksx R1 Hkh fn[kyk;k x;k gS A</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
-A – B = A + (-B)
-इसे चित्र 3.5 में दर्शाया गया है । सदिश –B को सदिश A में
 जोड़कर R₂ = (A - B) प्राप्त होता है । तुलना के लिए इसी चित्र
 में सदिश R₁ = A + B को भी दिखाया गया है । समान्तर
 चतुर्भुज विधि को प्रयुक्त करके भी हम दो सदिशों का योग ज्ञात
 कर सकते हैं । मान लीजिए हमारे पास दो सदिश A व B हैं।
 इन सदिशों को जोड़ने के लिए उनकी पुच्छ को एक उभयनिष्ठ
-मूल बिंदु O पर लाते हैं जैसा चित्र 3.6(a) में दिखाया गया है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_6_hi.png" alt="चित्र 3.6" onclick="openImageModal(this.src, 'चित्र 3.6: fp=k 3.6 (a) ,d gh mHk;fu&quot;B fcanq okys nks lfn&#39;k A o B ij, (b) lekUrj p...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.6</strong> fp=k 3.6 (a) ,d gh mHk;fu"B fcanq okys nks lfn'k A o B ij, (b) lekUrj prqHkqZt fofèk }kjk A+B ;ksx izkIr djuk] (c) nks lfn'kksa dks tksM+us dh lekUrj prqHkqZt fofèk f=kHkqt fofèk osQ lerqY; gS A</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 फिर हम A के शीर्ष से B के समांतर एक रेखा खींचते हैं और
 B के शीर्ष से A के समांतर एक दूसरी रेखा खींचकर समांतर
 चतुर्भुज OQSP पूरा करते हैं । जिस बिंदु पर यह दोनों रेखाएं
@@ -483,7 +504,7 @@ B
 चित्र 3.5 (a) दो सदिश A व B,–B को भी दिखाया गया है । (b) सदिश A से सदिश B का घटाना-परिणाम R₂ है । तुलना के लिए सदिशों
 A व B का योग R भी दिखलाया गया है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -593,15 +614,14 @@ P
 
 चित्र 3.
 
-हल :
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_7_hi.png" alt="चित्र 3.7" onclick="openImageModal(this.src, 'चित्र 3.7: fp=k 3.7...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.7</strong> fp=k 3.7</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
-वर्षा एवं हवा के वेगों को से
-
-W
-
-W
-
-चित्र 3.7 में दर्शाया गया है। इनकी दिशाएं प्रश्न के अनुसार
 प्रदर्शित की गई हैं । सदिशों के योग के नियम के अनुसार v
 तथा v का परिणामी R चित्र में खींचा गया है । R का
 परिमाण होगा-
@@ -663,7 +683,7 @@ a b के पदों में वियोजन ।
 
 हम कह सकते हैं कि A को a a b के अनुदिश दो
 
-Reprint 2026-27
+
 
 
 ---
@@ -709,7 +729,16 @@ A = |A|n
 
 हम किसी सदिश A को एकांक सदिशों तथा के पदों
 में वियोजित कर सकते हैं । मान लीजिए कि चित्र (3.9b) के
-अनुसार सदिश A समतल x-y में स्थित है । चित्र 3.9(b) के
+अनुसार सदिश A समतल x-y में स्थित है ।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_9_hi.png" alt="चित्र 3.9" onclick="openImageModal(this.src, 'चित्र 3.9: lfn&#39;k&?kVdksa Øe&#39;k% λa rFkk µb esa fo;ksftr dj fn;k x;k gS A bl fofèk dk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.9</strong> lfn'k&?kVdksa Øe'k% λa rFkk µb esa fo;ksftr dj fn;k x;k gS A bl fofèk dk mi;ksx djosQ ge fdlh lfn'k dks mlh lery osQ nks lfn'k&?kVdksa esa fo;ksftr dj ldrs gSa A ,dkad ifjek.k osQ lfn'kksa dh lgk;rk ls ledksf.kd funsZ'kkad fudk; osQ vuqfn'k fdlh lfn'k dk fo;kstu lqfoèkktud gksrk gS A ,sls lfn'kksa dks ,dkad lfn'k dgrs gSa ftl ij vc ge ifjppkZ djsaxs A ,dkad lfn'k % ,dkad lfn'k og lfn'k gksrk gS ftldk ifjek.k ,d gks rFkk tks fdlh fo'ks"k fn'kk osQ vuqfn'k gks A u rks bldh dksbZ foek gksrh gS vkSj u gh dksbZ ek=kd A ek=k fn'kk O;Dr djus osQ fy, bldk mi;ksx gksrk gS A fp=k 3.9a esa iznf'Zkr ,d ^vk;rh; funsZ'kkad fudk;* dh x, y rFkk z v{kksa osQ vuqfn'k ,dkad lfn'kksa dks ge Øe'k% l.k ˆ ˆ rFkk mˆ }kjk O;Dr djrs gSa A D;ksafd ;s lHkh ,dkad lfn'k gSa] blfy,</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 अनुसार A के शीर्ष से हम निर्देशांक अक्षों पर लंब खींचते हैं ।
 इससे हमें दो सदिश A₁ व A₂ इस प्रकार प्राप्त हैं कि
 A₁ + A₂ = A । क्योंकि A, एकांक सदिश के समान्तर है
@@ -835,7 +864,7 @@ X
 चित्र 3.9 (a) एकांक सदिश i, j, k अक्षों x, y, z के अनुदिश है, (b) किसी सदिश A को x एवं y अक्षों के अनुदिश घटकों A, तथा A,
 में वियोजित किया है, (c) A₁ तथा A, को तथा  ं के पदों में व्यक्त किया है ।
 
-Reprint 2026-27
+
 
 
 ---
@@ -990,23 +1019,21 @@ c = cxi + Cyj + czk
 
 तो सदिश T = a + b − c के घटक निम्नलिखित होंगे:
 
-Tx = ax + bx-c
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_10_hi.png" alt="चित्र 3.10" onclick="openImageModal(this.src, 'चित्र 3.10: fp=k 3.10...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.10</strong> fp=k 3.10</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
-T = a + by - Cy
-T₂ = a + b₂-c₂
-
-Z
-
-(3.23b)
-
-उदाहरण 3.2 चित्र 3.10 में दिखाए गए दो सदिशों A तथा
 B के बीच का कोण 0 है । इनके परिणामी सदिश का
 परिमाण तथा दिशा उनके परिमाणों तथा • के पद में
 निकालिए ।
 
 * इस बात पर ध्यान दीजिए कि α, β, व ४ कोण दिक्स्थान में हैं । ये ऐसी दो रेखाओं के बीच के कोण हैं जो एक समतल में नहीं हैं ।
 
-Reprint 2026-27
+
 
 
 ---
@@ -1033,21 +1060,14 @@ B
 वेग 10 km/h है । जल-धारा की दिशा दक्षिण से पूर्व की
 ओर 60° पर है । मोटरबोट का परिणामी वेग निकालिए ।
 
-θ
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_11_hi.png" alt="चित्र 3.11" onclick="openImageModal(this.src, 'चित्र 3.11: fp=k 3.11...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.11</strong> fp=k 3.11</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
-α
-
-Ο
-
-A
-
-P
-
-N
-
-चित्र 3.10
-
-हल चित्र 3.11 में सदिश v₁, मोटरबोट के वेग को तथा जल
 धारा के वेग को व्यक्त करते हैं । प्रश्न के अनुसार चित्र में इनकी
 दिशायें दर्शाई गई हैं । सदिश योग के समांतर चतुर्भुज नियम के
 अनुसार प्राप्त परिणामी R की दिशा चित्र में दर्शाई
@@ -1195,7 +1215,7 @@ R
 इस खण्ड में हम सदिशों का उपयोग कर दो या तीन विमाओं
 में गति का वर्णन करेंगे ।
 
-Reprint 2026-27
+
 
 
 ---
@@ -1310,27 +1330,13 @@ P से चलना प्रारम्भ करती है । वस्
 समयों में कण का विस्थापन क्रमश: Ar₁, Ar₂, Ar₂, है । चित्रों
 (a), (b) तथा (c) में क्रमशः घटते हुए △t के मानों अर्थात् At₁,
 
-ONCERT
-
-t to be
-
-not
-
-Ο
-
-r
-
-की दिशा
-
-Ar
-
-←AX
-
-X
-
-(b)
-
-चित्र 3.12 (a) स्थिति सदिश r, (b) विस्थापन △r तथा कण का
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_12_hi.png" alt="चित्र 3.12" onclick="openImageModal(this.src, 'चित्र 3.12: fp=k 3.12 (a) fLFkfr lfn&#39;k r, (b) foLFkkiu ∆r rFkk d.k dk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.12</strong> fp=k 3.12 (a) fLFkfr lfn'k r, (b) foLFkkiu ∆r rFkk d.k dk</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 औसत वेग
 
@@ -1386,7 +1392,7 @@ At 0 At
 
 At 0 At
 
-Reprint 2026-27
+
 
 
 ---
@@ -1521,9 +1527,13 @@ At
 
 a = axi+ayj.
 
-x
-
-चित्र 3.13 जैसे ही समय अंतराल ∆t शून्य की सीमा को स्पर्श कर
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_13_hi.png" alt="चित्र 3.13" onclick="openImageModal(this.src, 'चित्र 3.13: ∆r iFk dh Li&#39;kZ js[kk osQ vuqfn&#39;k gks tkrk gS (fp=k 3.13d)A bl izdkj iFk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.13</strong> ∆r iFk dh Li'kZ js[kk osQ vuqfn'k gks tkrk gS (fp=k 3.13d)A bl izdkj iFk osQ fdlh fcanq ij osx ml fcanq ij [khaph xbZ Li'kZ js[kk }kjk O;Dr gksrk gS ftldh fn'kk oLrq dh xfr osQ vuqfn'k gksrh gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 लेता है, औसत वेग वस्तु के वेग v के बराबर हो
 जाता है । v की दिशा किसी क्षण पथ पर स्पर्श रेखा के
@@ -1686,7 +1696,7 @@ dtdt
 dyd² y
 dt²
 
-Reprint 2026-27
+
 
 
 ---
@@ -1877,7 +1887,7 @@ Uy = Voy + aut
 में कण का औसत वेग (vo + v)/2 तथा विस्थापन r-r होगा ।
 क्योंकि विस्थापन औसत तथा समय अंतराल का गुणनफल होता है,
 
-Reprint 2026-27
+
 
 
 ---
@@ -2040,7 +2050,7 @@ X
 
 (3.35)
 
-Reprint 2026-27
+
 
 
 ---
@@ -2230,7 +2240,7 @@ T₁ को प्रक्षेप्य का उड्डयन काल �
 बात है कि T₁ = 2t । पथ की सममिति से हम ऐसे ही परिणाम
 की आशा करते हैं ।
 
-Reprint 2026-27
+
 
 
 ---
@@ -2431,7 +2441,7 @@ m
 T₁= (2 v sin 0)/g = (2 × 28 × sin 30°)/9.8
 = 28/9.8 s = 2.9s होगा ।
 
-Reprint 2026-27
+
 
 
 ---
@@ -2461,8 +2471,16 @@ g
 जब कोई वस्तु एकसमान चाल से एक वृत्ताकार पथ पर चलती
 है, तो वस्तु की गति को एकसमान वृत्तीय गति कहते हैं । शब्द
 “एकसमान” उस चाल के संदर्भ में प्रयुक्त हुआ है जो वस्तु की
-गति की अवधि में एकसमान (नियत) रहती है । माना कि चित्र
-3.18 के अनुसार कोई वस्तु एकसमान चाल v से R त्रिज्या वाले
+गति की अवधि में एकसमान (नियत) रहती है । माना कि
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_18_hi.png" alt="चित्र 3.18" onclick="openImageModal(this.src, 'चित्र 3.18: ∆t osQ vuqfn&#39;k gS] blfy, c Hkh ∆r osQ yacor~ gksxk A vc ;fn ge ∆v dks ml js[...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.18</strong> ∆t osQ vuqfn'k gS] blfy, c Hkh ∆r osQ yacor~ gksxk A vc ;fn ge ∆v dks ml js[kk ij j[ksa tks r o r' osQ chp osQ dks.k dks f}Hkkftr djrh gS rks ge ns[ksaxs fd bldh fn'kk o`Ùk osQ osaQnz dh vksj gksxh A bUghs jkf'k;ksa dks fp=k 3.18(b) esa NksVs le; varjky osQ fy, fn[kk;k x;k gS A ∆v, vr% c dh fn'kk iqu% osaQnz dh vksj gksxh A fp=k (3-18c) esa ∆t→0 gS] blfy, vkSlr Roj.k] rkR{kf.kd Roj.k osQ cjkcj gks tkrk gS A bldh fn'kk osaQnz dh vksj gksrh gS* A bl izdkj] ;g fu"d"kZ fudyrk gS fd ,dleku o`Ùkh; xfr osQ fy, oLrq osQ Roj.k dh fn'kk o`Ùk osQ osaQnz dh vksj gksrh gS A vc ge bl Roj.k dk ifjek.k fudkysaxsA ifjHkk"kk osQ vuqlkj] a dk ifjek.k fuEufyf[kr lw=k ls O;Dr gksrk gS]</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
+
 वृत्त के अनुदिश गतिमान है । क्योंकि वस्तु के वेग की दिशा में
 निरन्तर परिवर्तन हो रहा है, अतः उसमें त्वरण उत्पन्न हो रहा है।
 हमें त्वरण का परिमाण तथा उसकी दिशा ज्ञात करनी है ।
@@ -2582,7 +2600,7 @@ P
 *∆t→0 सीमा में ∆r, r के लंबवत् हो जाता है । इस सीमा में क्योंकि △v → 0 होता है, फलस्वरूप यह भी v के लंबवत् होगा । अतः वृत्तीय
 पथ के प्रत्येक बिंदु पर त्वरण की दिशा केंद्र की ओर होती है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -2781,7 +2799,7 @@ v = ω R = 0.44 x 12 cm = 5.3 cm s¯¹
 
 a = &R = (0.44 s¯¹)2 (12 cm) = 2.3 cm s-2 होगा।
 
-Reprint 2026-27
+
 
 
 ---
@@ -2893,7 +2911,7 @@ Ar = r'-r
 = (x' – x)î + (y' – y) j
 =Ax i +Ay j
 
-Reprint 2026-27
+
 
 
 ---
@@ -3040,7 +3058,7 @@ y
 
 प्रक्षेप्य का पथ परवलयिक होता है जिसका समीकरण
 
-Reprint 2026-27
+
 
 
 ---
@@ -3195,7 +3213,7 @@ ms-2
 
 त्वरण
 
-Reprint 2026-27
+
 
 भौतिकी
 
@@ -3272,7 +3290,7 @@ Reprint 2026-27
 
 (b) a+b | ≥ ||a| - |b||
 
-Reprint 2026-27
+
 
 47
 
@@ -3320,7 +3338,16 @@ P
 गए पथ की लंबाई के बराबर है ।
 
 ### 3.9 कोई साइकिल सवार किसी वृत्तीय पार्क के केंद्र O से चलना शुरू करता है तथा पार्क के किनारे P पर पहुँचता है। पुनः
-वह पार्क की परिधि के अनुदिश साइकिल चलाता हुआ GO के रास्ते (जैसा चित्र 3.20 में दिखाया गया है) केंद्र पर
+वह पार्क की परिधि के अनुदिश साइकिल चलाता हुआ GO के रास्ते (जैसा
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_20_hi.png" alt="चित्र 3.20" onclick="openImageModal(this.src, 'चित्र 3.20: 3-9 dksbZ lkbfdy lokj fdlh o`Ùkh; ikoaZQ osQ osaQnz O ls pyuk &#39;kq: djrk gS r...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.20</strong> 3-9 dksbZ lkbfdy lokj fdlh o`Ùkh; ikoaZQ osQ osaQnz O ls pyuk 'kq: djrk gS rFkk ikoZQ osQ fdukjs P ij igq¡prk gSA iqu% og ikoZQ dh ifjf/ osQ vuqfn'k lkbfdy pykrk gqvk QO osQ jkLrs (tSlk fp=k 3.20 esa fn[kk;k x;k gS) osaQnz ij okil vk tkrk gS A ikoZQ dh f=kT;k 1 km gS A ;fn iwjs pDdj esa 10 feuV yxrs gksa rks lkbfdy lokj dk (a) oqQy foLFkkiu] (b) vkSlr osx] rFkk (c) vkSlr pky D;k gksxh\</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
+
 वापस आ जाता है । पार्क की त्रिज्या 1 km है । यदि पूरे चक्कर में 10 मिनट लगते हों तो साइकिल सवार का (a)
 कुल विस्थापन, (b) औसत वेग, तथा (c) औसत चाल क्या होगी?
 
@@ -3346,7 +3373,7 @@ P
 ### 3.12 किसी लंबे हाल की छत 25 m ऊंची है । वह अधिकतम क्षैतिज दूरी कितनी होगी जिसमें 40 m s¯¹ की चाल से
 फेंकी गई कोई गेंद छत से टकराए बिना गुजर जाए ?
 
-Reprint 2026-27
+
 
 
 ---
@@ -3434,7 +3461,7 @@ j) ms-2 से गति करता है ।
 ### 3.22 कोई वायुयान पृथ्वी से 3400 m की ऊंचाई पर उड़ रहा है । यदि पृथ्वी पर किसी अवलोकन बिंदु पर वायुयान की
 10.0 s की दूरी की स्थितियां 30° का कोण बनाती हैं तो वायुमान की चाल क्या होगी ?
 
-Reprint 2026-27
+
 
 49
 

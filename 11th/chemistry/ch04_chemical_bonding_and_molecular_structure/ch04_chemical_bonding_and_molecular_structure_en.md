@@ -10,7 +10,7 @@ MOLECULAR STRUCTURE
 
 UNIT 4
 
-11082CH04
+
 
 Objectives
 
@@ -112,7 +112,7 @@ periodic table. Every system tends to be more stable and
 bonding is nature's way of lowering the energy of the system
 to attain stability.
 
-Reprint 2026-27
+
 
 
 ---
@@ -274,7 +274,7 @@ The bond formed, as a result of the
 electrostatic attraction between the
 positive and negative ions was termed as
 
-Reprint 2026-27
+
 
 
 ---
@@ -435,7 +435,7 @@ C
 
 8e-
 
-Reprint 2026-27
+
 
 or O=C=0
 
@@ -659,7 +659,7 @@ O=N-O-H
 * Each H atom attains the configuration of helium
 (a duplet of electrons)
 
-Reprint 2026-27
+
 
 
 ---
@@ -793,7 +793,7 @@ total number of
 -(1/2) bonding (shared) d)
 electrons
 
-Reprint 2026-27
+
 
 
 ---
@@ -989,7 +989,7 @@ H₂SO₄
 
 the S atom
 
-Reprint 2026-27
+
 
 
 ---
@@ -1128,7 +1128,7 @@ for by the enthalpy of lattice formation of
 NaCl(s) (-788 kJ mol¯¹). Therefore, the energy
 released in the processes is more than the
 
-Reprint 2026-27
+
 
 
 ---
@@ -1173,23 +1173,14 @@ have to be included.
 
 ### 4.3.1 Bond Length
 
-e
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_1.png" alt="Fig. 4.1" onclick="openImageModal(this.src, 'Fig. 4.1: Fig. 4.1 The bond length in a covalent...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.1</strong> Fig. 4.1 The bond length in a covalent</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
-ra
-
-rB
-
-A
-
-B
-
-A
-
-107
-
-B
-
-Fig. 4.1 The bond length in a covalent
 in a
 molecule АВ.
 R = r + r (R is the bond length and r₁ and re are
@@ -1216,7 +1207,14 @@ nonbonded situation. Further, the van der
 Waals radius is half of the distance between
 two similar atoms in separate molecules in
 a solid. Covalent and van der Waals radii of
-chlorine are depicted in Fig. 4.2.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_2.png" alt="Fig. 4.2" onclick="openImageModal(this.src, 'Fig. 4.2: Fig. 4.2 Covalent and van der Waals radii in a chlorine molecule. The inner circ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.2</strong> Fig. 4.2 Covalent and van der Waals radii in a chlorine molecule. The inner circles correspond to the size of the chlorine atom (rvdw and rc are van der Waals and covalent radii respectively).</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 The covalent radius is measured
 approximately as the radius of an atom's
@@ -1241,7 +1239,7 @@ correspond to the size of the chlorine
 atom (rudw and rare van der Waals and
 covalent radii respectively).
 
-Reprint 2026-27
+
 
 
 ---
@@ -1495,7 +1493,7 @@ The values cited are for single bonds, except where
 otherwise indicated in parenthesis. (See also Unit 3 for
 periodic trends).
 
-Reprint 2026-27
+
 
 
 ---
@@ -1575,13 +1573,13 @@ determined parameters. For example, the
 ozone, O, molecule can be equally represented
 by the structures I and II shown below:
 
-148 pm
-
-ة
-
-I
-
-Fig. 4.3
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_3.png" alt="Fig. 4.3" onclick="openImageModal(this.src, 'Fig. 4.3: Fig. 4.3 Resonance in the O3 molecule...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.3</strong> Fig. 4.3 Resonance in the O3 molecule</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
 121 pm
 
@@ -1643,7 +1641,7 @@ represented by a double headed arrow.
 
 3
 
-Reprint 2026-27
+
 
 
 ---
@@ -1678,26 +1676,13 @@ Therefore the carbonate ion is best
 described as a resonance hybrid of the
 canonical forms I, II, and III shown below.
 
-:0:
-
-:0:
-
-:0::0:
-I
-
-:0::0:
-
-II
-
-:0:
-
-:0:
-
-III
-
-I
-
-Fig. 4.5
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_5.png" alt="Fig. 4.5" onclick="openImageModal(this.src, 'Fig. 4.5: Fig. 4.5 Resonance in CO2 molecule, I, II and III represent the three canonical ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.5</strong> Fig. 4.5 Resonance in CO2 molecule, I, II and III represent the three canonical forms.</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
 
 II
 
@@ -1745,7 +1730,14 @@ fraction of time in one cannonical form
 and for other fractions of time in other
 cannonical forms.
 
-Fig. 4.4 Resonance in CO3-, I, II and III
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_4.png" alt="Fig. 4.4" onclick="openImageModal(this.src, 'Fig. 4.4: Fig. 4.4 Resonance in CO3...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.4</strong> Fig. 4.4 Resonance in CO3</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 represent the three canonical
 forms.
 
@@ -1805,7 +1797,7 @@ two similar atoms, for example in H2, O2,
 Cl2, N2 or F2, the shared pair of electrons is
 equally attracted by the two atoms. As a result
 
-Reprint 2026-27
+
 
 
 ---
@@ -1953,7 +1945,7 @@ pyramidal shape with a lone pair of electrons
 on nitrogen atom. Although fluorine is more
 electronegative than nitrogen, the resultant
 
-Reprint 2026-27
+
 
 
 ---
@@ -2064,15 +2056,11 @@ Geometry
 
 HF
 
-### 1.78
-
-linear
+### 1.78 linear
 
 HC1
 
-### 1.07
-
-linear
+### 1.07 linear
 
 HBr
 
@@ -2098,9 +2086,7 @@ Molecule (AB₂)
 
 HO
 
-### 1.85
-
-bent
+### 1.85 bent
 
 2
 
@@ -2124,9 +2110,7 @@ Molecule (AB)
 
 NH
 
-### 1.47
-
-trigonal-pyramidal
+### 1.47 trigonal-pyramidal
 
 3
 
@@ -2157,9 +2141,7 @@ tetrahedral
 CHCI
 CC14
 
-### 1.04
-
-tetrahedral
+### 1.04 tetrahedral
 
 3
 
@@ -2167,7 +2149,7 @@ tetrahedral
 
 tetrahedral
 
-Reprint 2026-27
+
 
 
 ---
@@ -2278,11 +2260,13 @@ in the molecules like BF3 (AB₃), CH₄ (AB₄) and
 PC15 (AB5) as depicted below by their ball and
 stick models.
 
-180°
-
-BeCl2
-
-Fig. 4.6
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_6.png" alt="Fig. 4.6" onclick="openImageModal(this.src, 'Fig. 4.6: Fig. 4.6 The shapes of molecules in which central atom has no lone pair...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.6</strong> Fig. 4.6 The shapes of molecules in which central atom has no lone pair</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
 BF3
 
@@ -2313,7 +2297,7 @@ the effects of electron pair repulsions on
 molecular shapes is not clear and continues
 to be a subject of doubt and discussion.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2401,7 +2385,7 @@ B
 B
 Octahedral
 
-Reprint 2026-27
+
 
 
 ---
@@ -2530,7 +2514,7 @@ BrF5
 
 Octahedral
 
-Reprint 2026-27
+
 
 Square planer
 
@@ -2696,7 +2680,7 @@ F
 
 (More stable)
 
-Reprint 2026-27
+
 
 In (a) the lp is present at axial
 position so there are three
@@ -2869,7 +2853,7 @@ that is N-e and NB- ев.
 
 A
 
-Reprint 2026-27
+
 
 
 ---
@@ -2895,7 +2879,14 @@ A
 
 Attractive forces tend to bring the two
 atoms close to each other whereas repulsive
-forces tend to push them apart (Fig. 4.7).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_7.png" alt="Fig. 4.7" onclick="openImageModal(this.src, 'Fig. 4.7: Fig. 4.7 Forces of attraction and repulsion during the formation of H2 molecule...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.7</strong> Fig. 4.7 Forces of attraction and repulsion during the formation of H2 molecule</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
 
 eA
 
@@ -2908,7 +2899,15 @@ the hydrogen molecule is more stable than
 that of isolated hydrogen atoms. The energy
 so released is called as bond enthalpy, which
 is corresponding to minimum in the curve
-depicted in Fig. 4.8. Conversely, 435.8 kJ of
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_8.png" alt="Fig. 4.8" onclick="openImageModal(this.src, 'Fig. 4.8: Fig. 4.8 The potential energy curve for the formation of H2 molecule as a functi...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.8</strong> Fig. 4.8 The potential energy curve for the formation of H2 molecule as a function of internuclear distance of the H atoms. The minimum in the curve corresponds to the most stable state of H2.</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
+
 energy is required to dissociate one mole of
 H₂ molecule.
 
@@ -2992,7 +2991,7 @@ formation of a covalent bond between two
 atoms results by pairing of electrons present
 in the valence shell having opposite spins.
 
-Reprint 2026-27
+
 
 
 ---
@@ -3090,7 +3089,15 @@ When orbitals of two atoms come close to form
 bond, their overlap may be positive, negative
 or zero depending upon the sign (phase) and
 direction of orientation of amplitude of orbital
-wave function in space (Fig. 4.9). Positive and
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_9.png" alt="Fig. 4.9" onclick="openImageModal(this.src, 'Fig. 4.9: Fig.4.9 Positive, negative and zero overlaps of s and p atomic orbitals hydrogen...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.9</strong> Fig.4.9 Positive, negative and zero overlaps of s and p atomic orbitals hydrogen 7he four atomiF orbitals of Farbon eaFh with an unSaired eleFtron Fan oYerlaS with the 1s orbitals of the four + atoms whiFh are also singly oFFuSied 7his will result in the formation of four &+ bonds It will howeYer be obserYed that while the three S orbitals of carbon are at 90° to one another the +&+ angle for these will also be 90° 7hat is three &+ bonds will be oriented at ° to one another 7he s orbital of carbon and the 1s orbital of + are sSheriFally symmetriFal and they Fan oYerlaS in any direFtion 7herefore the direFtion of the fourth &+ bond Fannot be asFertained 7his desFriStion does not fit in with the tetrahedral +&+ angles of  °. Clearly, it follows that simple atomic orbital oYerlaS does not aFFount for the direFtional FharaFteristiFs of bonds in &+. Using similar procedure and arguments, it can be seen that in the Fase of 1+ and +22 moleFules the +1+</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
+
 negative sign on boundary surface diagrams
 in the Fig. 4.9 show the sign (phase) of orbital
 wave function and are not related to charge.
@@ -3193,7 +3200,7 @@ the case of NH3 and H₂O molecules, the ΗΝΗ
 
 2
 
-Reprint 2026-27
+
 
 
 ---
@@ -3301,9 +3308,7 @@ internuclear axis. The orbitals formed
 due to sidewise overlapping consists
 of two saucer type charged clouds
 
-### 4.6
-
-HYBRIDISATION
+### 4.6 HYBRIDISATION
 
 In order to explain the characteristic
 geometrical shapes of polyatomic molecules
@@ -3331,7 +3336,7 @@ hybridised.
 ### 2. The hybridised orbitals are always
 equivalent in energy and shape.
 
-Reprint 2026-27
+
 
 
 ---
@@ -3414,7 +3419,14 @@ sp hybrid orbitals are oriented in opposite
 direction forming an angle of 180°. Each of
 the sp hybridised orbital overlaps with the
 2p-orbital of chlorine axially and form two Be-
-Cl sigma bonds. This is shown in Fig. 4.10.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_10.png" alt="Fig. 4.10" onclick="openImageModal(this.src, 'Fig. 4.10: Fig.4.10 (a) Formation of sp hybrids from s and p orbitals; (b) Formation of the...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.10</strong> Fig.4.10 (a) Formation of sp hybrids from s and p orbitals; (b) Formation of the linear BeCl2 molecule</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
 
 (a)
 
@@ -3483,41 +3495,17 @@ X
 
 Planar
 
-2
-
-σ
-
-+
-
-→Z
-
-+
-
-+
-
-σ
-
-++
-
-+
-
-+
-
-+
-
-σ
-
-BC1
-
-+
-
-sp² hybrids
-
-Fig.4.11 Formation of sp² hybrids and the BCl
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_11.png" alt="Fig. 4.11" onclick="openImageModal(this.src, 'Fig. 4.11: Fig.4.11 Formation of sp2 hybrids and the BCl3 molecule...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.11</strong> Fig.4.11 Formation of sp2 hybrids and the BCl3 molecule</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
 
 molecule
 
-Reprint 2026-27
+
 
 
 ---
@@ -3548,7 +3536,14 @@ each sp³ hybrid orbital. The four sp³ hybrid
 orbitals so formed are directed towards the
 four corners of the tetrahedron. The angle
 between sp³ hybrid orbital is 109.5° as shown
-in Fig. 4.12.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_12.png" alt="Fig. 4.12" onclick="openImageModal(this.src, 'Fig. 4.12: Fig.4.12 Formation of sp3 hybrids by the combination of s, px , py and pz atomic...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.12</strong> Fig.4.12 Formation of sp3 hybrids by the combination of s, px , py and pz atomic orbitals of carbon and the formation of CH4 molecule</span>
+    <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
+  </div>
+</div>
 
 ground state is 2S²2p2p2p having three
 unpaired electrons in the sp³ hybrid orbitals
@@ -3562,7 +3557,13 @@ between two bond pairs of electrons. The
 molecule thus gets distorted and the bond
 angle is reduced to 107° from 109.5°. The
 
-as shown in Fig. 4.13.
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_13.png" alt="Fig. 4.13" onclick="openImageModal(this.src, 'Fig. 4.13: Fig.4.13 Formation of NH3 molecule...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.13</strong> Fig.4.13 Formation of NH3 molecule</span>
+    <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
+  </div>
+</div>
 
 +
 
@@ -3587,7 +3588,15 @@ four sp³ hybrid orbitals acquire a tetrahedral
 geometry, with two corners occupied by
 hydrogen atoms while the other two by the
 lone pairs. The bond angle in this case is
-reduced to 104.5° from 109.5° (Fig. 4.14)
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_14.png" alt="Fig. 4.14" onclick="openImageModal(this.src, 'Fig. 4.14: Fig.4.14 Formation of H2O molecule...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.14</strong> Fig.4.14 Formation of H2O molecule</span>
+    <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
+  </div>
+</div>
+
 and the molecule thus acquires a V-shape or
 angular geometry.
 
@@ -3617,7 +3626,7 @@ H
 
 Fig.4.14 Formation of H₂O molecule
 
-Reprint 2026-27
+
 
 
 ---
@@ -3729,39 +3738,13 @@ H
 
 σ
 
-H
-
-H
-
-C
-
-H
-
-σ
-
-π
-
-(d)
-
-π
-
--H
-
-C
-
-C
-
-H
-
-σ
-
-(e)
-
-π
-
-Fig. 4.15 Formation of sigma and pi bonds in ethene
-
-Reprint 2026-27
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_15.png" alt="Fig. 4.15" onclick="openImageModal(this.src, 'Fig. 4.15: Fig. 4.15 Formation of sigma and pi bonds in ethene...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.15</strong> Fig. 4.15 Formation of sigma and pi bonds in ethene</span>
+    <button class="icon-btn" onclick="goToPdfPage(24)">📄 View in PDF (Page 24)</button>
+  </div>
+</div>
 
 H
 
@@ -3789,7 +3772,14 @@ orbitals of both the carbon atoms overlaps
 sidewise to form two π bonds between the
 carbon atoms. So the triple bond between the
 two carbon atoms is made up of one sigma
-and two pi bonds as shown in Fig. 4.16.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_16.png" alt="Fig. 4.16" onclick="openImageModal(this.src, 'Fig. 4.16: Fig.4.16 Formation of sigma and pi bonds in ethyne...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.16</strong> Fig.4.16 Formation of sigma and pi bonds in ethyne</span>
+    <button class="icon-btn" onclick="goToPdfPage(25)">📄 View in PDF (Page 25)</button>
+  </div>
+</div>
 
 ### 4.6.3 Hybridisation of Elements
 
@@ -3958,7 +3948,7 @@ sp³d hybrid orbitals filled by electron pairs
 
 donated by five Cl atoms.
 
-Reprint 2026-27
+
 
 
 ---
@@ -3971,7 +3961,14 @@ p and one d orbitals) are available for
 hybridisation to yield a set of five sp³d hybrid
 orbitals which are directed towards the five
 corners of a trigonal bipyramidal as depicted
-in the Fig. 4.17.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_17.png" alt="Fig. 4.17" onclick="openImageModal(this.src, 'Fig. 4.17: Fig. 4.17 Trigonal bipyramidal geometry of PCl5 molecule...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.17</strong> Fig. 4.17 Trigonal bipyramidal geometry of PCl5 molecule</span>
+    <button class="icon-btn" onclick="goToPdfPage(26)">📄 View in PDF (Page 26)</button>
+  </div>
+</div>
 
 125
 
@@ -3979,7 +3976,14 @@ six sp³d² hybrid orbitals overlap with singly
 occupied orbitals of fluorine atoms to form
 six S-F sigma bonds. Thus SF molecule has
 a regular octahedral geometry as shown in
-Fig. 4.18.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_18.png" alt="Fig. 4.18" onclick="openImageModal(this.src, 'Fig. 4.18: Fig. 4.18 Octahedral geometry of SF6 molecule...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.18</strong> Fig. 4.18 Octahedral geometry of SF6 molecule</span>
+    <button class="icon-btn" onclick="goToPdfPage(26)">📄 View in PDF (Page 26)</button>
+  </div>
+</div>
 
 S (ground state) ↑↓↑↓↑↑
 
@@ -4096,7 +4100,7 @@ molecular orbital it is influenced by
 two or more nuclei depending upon the
 number of atoms in the molecule. Thus,
 
-Reprint 2026-27
+
 
 
 ---
@@ -4169,7 +4173,14 @@ addition of atomic orbitals is called the bonding
 molecular orbital while the molecular orbital
 σ* formed by the subtraction of atomic orbital
 is called antibonding molecular orbital as
-depicted in Fig. 4.19.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_19.png" alt="Fig. 4.19" onclick="openImageModal(this.src, 'Fig. 4.19: Fig.4.19 Formation of bonding (σ) and antibonding (σ*) molecular orbitals by the...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.19</strong> Fig.4.19 Formation of bonding (σ) and antibonding (σ*) molecular orbitals by the linear combination of atomic orbitals ψA and ψB centered on two atoms A and B respectively.</span>
+    <button class="icon-btn" onclick="goToPdfPage(27)">📄 View in PDF (Page 27)</button>
+  </div>
+</div>
 
 MCERT
 
@@ -4242,7 +4253,7 @@ two electron waves of the bonding atoms
 reinforce each other due to constructive
 interference while in the formation of
 
-Reprint 2026-27
+
 
 
 ---
@@ -4333,7 +4344,15 @@ combination of 1s orbitals centered on two
 nuclei produces two molecular orbitals which
 are symmetrical around the bond-axis. Such
 molecular orbitals are of the o type and are
-designated as ols and o* 1s [Fig. 4.20(a), page
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_20.png" alt="Fig. 4.20" onclick="openImageModal(this.src, 'Fig. 4.20: Fig. 4.20 Contours and energies of bonding and antibonding molecular orbitals fo...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.20</strong> Fig. 4.20 Contours and energies of bonding and antibonding molecular orbitals formed through combinations of (a) 1s atomic orbitals; (b) 2pz atomic orbitals and (c) 2px atomic orbitals.</span>
+    <button class="icon-btn" onclick="goToPdfPage(29)">📄 View in PDF (Page 29)</button>
+  </div>
+</div>
+
 124]. If internuclear axis is taken to be in
 the z-direction, it can be seen that a linear
 combination of 2p- orbitals of two atoms
@@ -4361,7 +4380,7 @@ atoms form two molecular orbitals designated
 as ols and g*1s. In the same manner, the 2s
 and 2p atomic orbitals (eight atomic orbitals
 
-Reprint 2026-27
+
 
 
 ---
@@ -4529,7 +4548,7 @@ diatomic molecules of second row elements
 
 of the periodic table. The increasing order of
 
-Reprint 2026-27
+
 
 CHEMISTRY
 
@@ -4681,7 +4700,7 @@ The bond dissociation energy of hydrogen
 molecule has been found to be 438 kJ mol-1
 and bond length equal to 74 pm. Since no
 
-Reprint 2026-27
+
 
 
 ---
@@ -4805,7 +4824,15 @@ nature of oxygen.
 Similarly, the electronic configurations
 of other homonuclear diatomic molecules of
 the second row of the periodic table can be
-written. In Fig. 4.21 are given the molecular
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_21.png" alt="Fig. 4.21" onclick="openImageModal(this.src, 'Fig. 4.21: Fig.4.21 MO occupancy and molecular properties for B2 through Ne2....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.21</strong> Fig.4.21 MO occupancy and molecular properties for B2 through Ne2.</span>
+    <button class="icon-btn" onclick="goToPdfPage(32)">📄 View in PDF (Page 32)</button>
+  </div>
+</div>
+
 orbital occupancy and molecular properties
 for B₂ through Ne₂. The sequence of MOs and
 their electron population are shown. The bond
@@ -4817,7 +4844,7 @@ appear below the orbital diagrams.
 
 []
 
-Reprint 2026-27
+
 
 
 ---
@@ -5036,7 +5063,7 @@ there is displacement of electrons towards
 X, the hydrogen acquires fractional positive
 charge (8+) while 'X' attain fractional negative
 
-Reprint 2026-27
+
 
 
 ---
@@ -5085,13 +5112,14 @@ atoms present within the same molecule. For
 example, in o-nitrophenol the hydrogen is in
 between the two oxygen atoms.
 
-N
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_22.png" alt="Fig. 4.22" onclick="openImageModal(this.src, 'Fig. 4.22: Fig. 4.22 Intramolecular hydrogen bonding in o-nitrophenol molecule...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.22</strong> Fig. 4.22 Intramolecular hydrogen bonding in o-nitrophenol molecule</span>
+    <button class="icon-btn" onclick="goToPdfPage(33)">📄 View in PDF (Page 33)</button>
+  </div>
+</div>
 
-----
-
-Η
-
-Fig. 4.22 Intramolecular hydrogen bonding in
 o-nitrophenol molecule
 
 SUMMARY
@@ -5127,7 +5155,7 @@ important and extremely useful concept called resonance. The contributing struct
 or canonical forms taken together constitute the resonance hybrid which represents the
 molecule or ion.
 
-Reprint 2026-27
+
 
 
 ---
@@ -5186,31 +5214,21 @@ otto
 
 EXERCISES
 
-### 4.1
+### 4.1 Explain the formation of a chemical bond.
 
-Explain the formation of a chemical bond.
+### 4.2 Write Lewis dot symbols for atoms of the following elements: Mg, Na, B, O, N, Br.
 
-### 4.2
-
-Write Lewis dot symbols for atoms of the following elements: Mg, Na, B, O, N, Br.
-
-### 4.3
-
-Write Lewis symbols for the following atoms and ions:
+### 4.3 Write Lewis symbols for the following atoms and ions:
 
 S and S²; Al and Al3+; H and H
 
-### 4.4
-
-Draw the Lewis structures for the following molecules and ions :
+### 4.4 Draw the Lewis structures for the following molecules and ions :
 
 H₂S, SiCl4, BeF, CO3, HCOOH
 
-### 4.5
+### 4.5 Define octet rule. Write its significance and limitations.
 
-Define octet rule. Write its significance and limitations.
 
-Reprint 2026-27
 
 
 ---
@@ -5220,32 +5238,22 @@ Reprint 2026-27
 
 CHEMISTRY
 
-### 4.6
+### 4.6 Write the favourable factors for the formation of ionic bond.
 
-Write the favourable factors for the formation of ionic bond.
-
-### 4.7
-
-Discuss the shape of the following molecules using the VSEPR model:
+### 4.7 Discuss the shape of the following molecules using the VSEPR model:
 
 BeCl2, BC13, SiCl4, AsF5, H₂S, PH3
 
-### 4.8
-
-Although geometries of NH3 and H₂O molecules are distorted tetrahedral, bond angle
+### 4.8 Although geometries of NH3 and H₂O molecules are distorted tetrahedral, bond angle
 
 in water is less than that of ammonia. Discuss.
 
 ### 4.9
 
-### 4.10
-
-How do you express the bond strength in terms of bond order ?
+### 4.10 How do you express the bond strength in terms of bond order ?
 Define the bond length.
 
-### 4.11
-
-Explain the important aspects of resonance with reference to the CO ion.
+### 4.11 Explain the important aspects of resonance with reference to the CO ion.
 
 ### 4.12
 
@@ -5269,15 +5277,11 @@ H
 
 (2)
 
-### 4.13
-
-Write the resonance structures for SO3, NO, and NO.
+### 4.13 Write the resonance structures for SO3, NO, and NO.
 
 2
 
-### 4.14
-
-Use Lewis symbols to show electron transfer between the following atoms to form
+### 4.14 Use Lewis symbols to show electron transfer between the following atoms to form
 
 cations and anions: (a) K and S (b) Ca and O (c) Al and N.
 
@@ -5296,25 +5300,17 @@ bent while that of CO₂ is linear. Explain this on the basis of dipole moment.
 
 lished
 
-### 4.16
-
-Write the significance/applications of dipole moment.
+### 4.16 Write the significance/applications of dipole moment.
 
 ### 4.17
 
-### 4.18
-
-Define electronegativity. How does it differ from electron gain enthalpy?
+### 4.18 Define electronegativity. How does it differ from electron gain enthalpy?
 Explain with the help of suitable example polar covalent bond.
 
-### 4.19
-
-Arrange the bonds in order of increasing ionic character in the molecules: LiF, K₂O,
+### 4.19 Arrange the bonds in order of increasing ionic character in the molecules: LiF, K₂O,
 N2, SO2 and ClF3.
 
-### 4.20
-
-The skeletal structure of CH3COOH as shown below is correct, but some of the bonds
+### 4.20 The skeletal structure of CH3COOH as shown below is correct, but some of the bonds
 are shown incorrectly. Write the correct Lewis structure for acetic acid.
 
 Η :ο:
@@ -5325,15 +5321,11 @@ H=C-C-O-H
 
 H
 
-### 4.21
-
-Apart from tetrahedral geometry, another possible geometry for CH is square planar
+### 4.21 Apart from tetrahedral geometry, another possible geometry for CH is square planar
 with the four H atoms at the corners of the square and the C atom at its centre.
 Explain why CH₁ is not square planar ?
 
-### 4.22
-
-Explain why BeH, molecule has a zero dipole moment although the Be-H bonds are
+### 4.22 Explain why BeH, molecule has a zero dipole moment although the Be-H bonds are
 polar.
 
 ### 4.23
@@ -5342,17 +5334,13 @@ polar.
 
 Which out of NH₃ and NF, has higher dipole moment and why ?
 
-### 4.24
-
-What is meant by hybridisation of atomic orbitals? Describe the shapes of sp, sp²,
+### 4.24 What is meant by hybridisation of atomic orbitals? Describe the shapes of sp, sp²,
 sp³ hybrid orbitals.
 
-### 4.25
-
-Describe the change in hybridisation (if any) of the Al atom in the following reaction.
+### 4.25 Describe the change in hybridisation (if any) of the Al atom in the following reaction.
 AlCl3 + Cl → AICI
 
-Reprint 2026-27
+
 
 
 ---
@@ -5360,9 +5348,7 @@ Reprint 2026-27
 
 CHEMICAL BONDING AND MOLECULAR STRUCTURE
 
-### 4.26
-
-Is there any change in the hybridisation of B and N atoms as a result of the following
+### 4.26 Is there any change in the hybridisation of B and N atoms as a result of the following
 reaction?
 
 BF3 + NH3 → FB.NH3
@@ -5387,9 +5373,7 @@ not form a sigma bond and why? (a) 1s and 1s (b) 1s and 2px; (c) 2p and 2p
 
 ### 4.30
 
-### 4.31
-
-CH3-CH3; (b) CH3–CH=CH2; (c) CH3-CH2-OH; (d) CH3-CHO (e) CH3COOH
+### 4.31 CH3-CH3; (b) CH3–CH=CH2; (c) CH3-CH2-OH; (d) CH3-CHO (e) CH3COOH
 
 Which hybrid orbitals are used by carbon atoms in the following molecules?
 
@@ -5397,15 +5381,11 @@ giving one exmaple of each type.
 
 What do you understand by bond pairs and lone pairs of electrons? Illustrate by
 
-### 4.32
-
-Distinguish between a sigma and a pi bond.
+### 4.32 Distinguish between a sigma and a pi bond.
 
 ### 4.33
 
-### 4.34
-
-to form molecular orbitals.
+### 4.34 to form molecular orbitals.
 
 Explain the formation of H₂ molecule on the basis of valence bond theory.
 Write the important conditions required for the linear combination of atomic orbitals
@@ -5416,9 +5396,7 @@ fatom
 
 ### 4.35
 
-### 4.36
-
-Use molecular orbital theory to explain why the Be₂ molecule does not exist.
+### 4.36 Use molecular orbital theory to explain why the Be₂ molecule does not exist.
 Compare the relative stability of the following species and indicate their magnetic
 properties;
 
@@ -5426,26 +5404,20 @@ properties;
 
 ### 4.37
 
-### 4.38
-
-Write the significance of a plus and a minus sign shown in representing the orbitals.
+### 4.38 Write the significance of a plus and a minus sign shown in representing the orbitals.
 Describe the hybridisation in case of PCl5. Why are the axial bonds longer as compared
 to equatorial bonds?
 
-### 4.39
-
-Define hydrogen bond. Is it weaker of or stronger
+### 4.39 Define hydrogen bond. Is it weaker of or stronger
 
 than the van der Waals forces?
 
-### 4.40
-
-What is meant by the term bond order? Calculate the bond order of : N2, O2, O
+### 4.40 What is meant by the term bond order? Calculate the bond order of : N2, O2, O
 and O2.
 
 not to be
 
-Reprint 2026-27
+
 
 135
 

@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11080CH10
+
 
 CHAPTER 10
 
@@ -57,7 +57,7 @@ stage in the cell cycle. The replicated chromosomes (DNA) are then
 distributed to daughter nuclei by a complex series of events during cell
 division. These events are themselves under genetic control.
 
-Reprint 2025-26
+
 
 
 ---
@@ -71,7 +71,16 @@ CELL CYCLE AND CELL DIVISION
 
 A typical eukaryotic cell cycle is illustrated by
 human cells in culture. These cells divide once
-in approximately every 24 hours (Figure 10.1).
+in approximately every 24 hours (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch10_cell_cycle_and_cell_division_fig_10_1.png" alt="Fig. 10.1" onclick="openImageModal(this.src, 'Fig. 10.1: A typical eukaryotic cell cycle is illustrated by human cells in culture. These ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.1</strong> A typical eukaryotic cell cycle is illustrated by human cells in culture. These cells divide once in approximately every 24 hours (Figure 10.1). However, this duration of cell cycle can vary from organism to organism and also from cell type to cell type. Yeast for example, can progress through the cell cycle in only about 90 minutes.</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 However, this duration of cell cycle can vary from
 organism to organism and also from cell type
 to cell type. Yeast for example, can progress
@@ -184,7 +193,7 @@ meristematic
 
 tissues?
 
-Reprint 2025-26
+
 
 
 ---
@@ -267,7 +276,15 @@ S and G₂ phases of interphase. In the S and G₂ phases, the new DNA
 molecules formed are not distinct but intertwined. Prophase is marked
 by the initiation of condensation of chromosomal material. The
 chromosomal material becomes untangled during the process of
-chromatin condensation (Figure 10.2 a). The centrosome, which had
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch10_cell_cycle_and_cell_division_fig_10_2.png" alt="Fig. 10.2" onclick="openImageModal(this.src, 'Fig. 10.2: Prophase which is the first stage of karyokinesis of mitosis follows the S and G...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.2</strong> Prophase which is the first stage of karyokinesis of mitosis follows the S and G2 phases of interphase. In the S and G2 phases, the new DNA molecules formed are not distinct but intertwined. Prophase is marked by the initiation of condensation of chromosomal material. The chromosomal material becomes untangled during the process of chromatin condensation (Figure 10.2 a). The centrosome, which had undergone duplication during S phase of interphase, now begins to move towards opposite poles of the cell. The completion of prophase can thus be marked by the following characteristic events:</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 undergone duplication during S phase of interphase, now begins to move
 towards opposite poles of the cell. The completion of prophase can thus
 be marked by the following characteristic events:
@@ -283,7 +300,7 @@ begins to move towards opposite poles of the cell. Each centrosome
 radiates out microtubules called asters. The two asters together
 with spindle fibres forms mitotic apparatus.
 
-Reprint 2025-26
+
 
 
 ---
@@ -362,7 +379,7 @@ d
 Figure 10.2 a and b : A diagrammatic
 view of stages in mitosis
 
-Reprint 2025-26
+
 
 
 ---
@@ -440,7 +457,7 @@ followed by cytokinesis as a result of which multinucleate
 condition arises leading to the formation of syncytium (e.g.,
 liquid endosperm in coconut).
 
-Reprint 2025-26
+
 
 
 ---
@@ -526,7 +543,7 @@ Telophase I
 
 Telophase II
 
-Reprint 2025-26
+
 
 
 ---
@@ -582,12 +599,20 @@ nucleolus disappears and the nuclear envelope also breaks down.
 Diakinesis represents transition to metaphase.
 
 Metaphase I: The bivalent chromosomes align on the equatorial plate
-(Figure 10.3). The microtubules from the opposite poles of the spindle
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch10_cell_cycle_and_cell_division_fig_10_3.png" alt="Fig. 10.3" onclick="openImageModal(this.src, 'Fig. 10.3: The final stage of meiotic prophase I is diakinesis. diakinesis. diakinesis. dia...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.3</strong> The final stage of meiotic prophase I is diakinesis. diakinesis. diakinesis. diakinesis. diakinesis. This is marked by terminalisation of chiasmata. During this phase the chromosomes are fully condensed and the meiotic spindle is assembled to prepare the homologous chromosomes for separation. By the end of diakinesis, the nucleolus disappears and the nuclear envelope also breaks down. Diakinesis represents transition to metaphase. Metaphase I: Metaphase I: Metaphase I: Metaphase I: Metaphase I: The bivalent chromosomes align on the equatorial plate (Figure 10.3). The microtubules from the opposite poles of the spindle attach to the kinetochore of homologous chromosomes.</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 attach to the kinetochore of homologous chromosomes.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -630,7 +655,15 @@ ted imm
 Prophase II: Meiosis II is initiated immediately after cytokinesis, usually
 before the chromosomes have fully elongated. In contrast to meiosis I,
 meiosis II resembles a normal mitosis. The nuclear membrane disappears
-by the end of prophase II (Figure 10.4). The chromosomes again become
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch10_cell_cycle_and_cell_division_fig_10_4.png" alt="Fig. 10.4" onclick="openImageModal(this.src, 'Fig. 10.4: Prophase II: Meiosis II is initiated immediately after cytokinesis, usually befo...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.4</strong> Prophase II: Meiosis II is initiated immediately after cytokinesis, usually before the chromosomes have fully elongated. In contrast to meiosis I, meiosis II resembles a normal mitosis. The nuclear membrane disappears by the end of prophase II (Figure 10.4). The chromosomes again become compact.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 compact.
 
 Metaphase II: At this stage, the chromosomes align at the equator and
@@ -642,7 +675,7 @@ of each chromosome (which was holding the sister chromatids together),
 allowing them to move toward opposite poles of the cell (Figure 10.4) by
 shortening of microtubules attached to kinetochores.
 
-Reprint 2025-26
+
 
 127
 
@@ -694,7 +727,7 @@ which this occurs is called cell division. Any sexually reproducing organism
 starts its life cycle from a single-celled zygote. Cell division does not stop with
 the formation of the mature organism but continues throughout its life cycle.
 
-Reprint 2025-26
+
 
 
 ---
@@ -751,7 +784,7 @@ EXERCISES
 
 ### 4. What is Go (quiescent phase) of cell cycle?
 
-Reprint 2025-26
+
 
 129
 
@@ -813,5 +846,5 @@ not to 6 percer content shed
 
 (ii) amount of DNA content (C) per
 
-Reprint 2025-26
+
 

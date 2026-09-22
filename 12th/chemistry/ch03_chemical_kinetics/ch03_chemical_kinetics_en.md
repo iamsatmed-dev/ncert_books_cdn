@@ -117,7 +117,7 @@ indicate that diamond shall convert to graphite but
 in reality the conversion rate is so slow that the change
 is not perceptible at all. Therefore, most people think
 
-Reprint 2026-27
+
 
 
 ---
@@ -209,7 +209,7 @@ Time taken
 
 Chemistry 62
 
-Reprint 2026-27
+
 
 
 ---
@@ -236,7 +236,15 @@ Equations (3.1) and (3.2) given above represent the average rate of
 a reaction, rav
 
 Average rate depends upon the change in concentration of reactants
-or products and the time taken for that change to occur (Fig. 3.1).
+or products and the time taken for that change to occur (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_1.png" alt="Fig. 3.1" onclick="openImageModal(this.src, 'Fig. 3.1: Average rate depends upon the change in concentration of reactants or products a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.1</strong> Average rate depends upon the change in concentration of reactants or products and the time taken for that change to occur (Fig. 3.1).</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 [R]。
 
@@ -357,7 +365,7 @@ We can determine the difference in concentration over different intervals
 of time and thus determine the average rate by dividing A[R] by At
 (Table 3.1).
 
-Reprint 2026-27
+
 
 63 Chemical Kinetics
 
@@ -546,7 +554,7 @@ at t = 600 sec
 
 Time (s)
 
-Reprint 2026-27
+
 
 (3.3)
 
@@ -663,7 +671,7 @@ directly proportional to the partial pressure of a species and hence, rate
 can also be expressed as rate of change in partial pressure of the reactant
 or the product.
 
-Reprint 2026-27
+
 
 65 Chemical Kinetics
 
@@ -776,7 +784,7 @@ the passage of time as the concentration of reactants decrease. Conversely,
 rates generally increase when reactant concentrations increase. So, rate of
 a reaction depends upon the concentration of reactants.
 
-Reprint 2026-27
+
 
 
 ---
@@ -889,7 +897,7 @@ this reaction will be
 
 Rate = k [NO]²[O2]
 
-Reprint 2026-27
+
 
 67 Chemical Kinetics
 
@@ -981,7 +989,7 @@ step. The reactions taking place in one step are called elementary
 reactions. When a sequence of elementary reactions (called mechanism)
 gives us the products, the reactions are called complex reactions.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1122,7 +1130,7 @@ about a chemical reaction is called molecularity of a reaction.
 The reaction can be unimolecular when one reacting species is involved,
 for example, decomposition of ammonium nitrite.
 
-Reprint 2026-27
+
 
 69 Chemical Kinetics
 
@@ -1207,7 +1215,7 @@ even a fraction but molecularity cannot be zero or a non integer.
 whereas molecularity is applicable only for elementary reactions.
 For complex reaction molecularity has no meaning.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1310,21 +1318,20 @@ Substituting the value of I in the equation (3.5)
 
 71 Chemical Kinetics
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 12
 
-Concentration of R
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_3.png" alt="Fig. 3.3" onclick="openImageModal(this.src, 'Fig. 3.3: Fig. 3.3: Variation in the concentration...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.3</strong> Fig. 3.3: Variation in the concentration</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
-[R]
-
-Time
-
-k = -slope
-
-Fig. 3.3: Variation in the concentration
 vs time plot for a zero order
 reaction
 
@@ -1416,7 +1423,7 @@ ln[R] = −kt + ln[R]。
 
 (3.9)
 
-Reprint 2026-27
+
 
 
 ---
@@ -1497,14 +1504,22 @@ Taking antilog of both sides
 
 (3.13)
 
-not to be republished
+
 
 a
 
 (3.14)
 
 Comparing equation (3.9) with y = mx + c, if we plot In [R] against
-t (Fig. 3.4) we get a straight aight line with slope = –k and intercept equal to
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_4.png" alt="Fig. 3.4" onclick="openImageModal(this.src, 'Fig. 3.4: Comparing equation (3.9) with y = mx + c, if we plot ln [R] against t (Fig. 3.4)...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.4</strong> Comparing equation (3.9) with y = mx + c, if we plot ln [R] against t (Fig. 3.4) we get a straight line with slope = –k and intercept equal to ln [R]0</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 In [R]。
 
 The first order rate equation (3.10) can also be written in the form
@@ -1526,7 +1541,16 @@ kt
 
 If
 
-If we plot a graph between log [R]/[R] vs t, (Fig. 3.5),
+If we plot a graph between log [R]/[R] vs t, (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_5.png" alt="Fig. 3.5" onclick="openImageModal(this.src, 'Fig. 3.5: If we plot a graph between log [R]0/[R] vs t, (Fig. 3.5), the slope = k/2.303...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.5</strong> If we plot a graph between log [R]0/[R] vs t, (Fig. 3.5), the slope = k/2.303</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 slope = k/2.303
 
 Hydrogenation of ethene is an example of first order reaction.
@@ -1542,7 +1566,7 @@ Refer to Appendix-IV for In and log (logarithms).
 
 *
 
-Reprint 2026-27
+
 
 73 Chemical Kinetics
 
@@ -1662,7 +1686,7 @@ Total pressure p₁ = PA + PB + pc (pressure units)
 
 Chemistry 74
 
-Reprint 2026-27
+
 
 
 ---
@@ -1709,9 +1733,7 @@ Pi
 
 k = (2.303) (10g)
 
-### 2.303
-
-log
+### 2.303 log
 
 PA
 
@@ -1764,7 +1786,7 @@ At
 
 t = 100 s; pt = 0.512 atm
 
-Reprint 2026-27
+
 
 2
 
@@ -1790,8 +1812,7 @@ Using equation (3.16)
 
 k =
 
-### 2.303
-t
+### 2.303 t
 
 Pi
 -log
@@ -1893,8 +1914,7 @@ t1/2 =
 
 t1/2
 
-### 2.303
-k
+### 2.303 k
 2.303
 k
 0.693
@@ -1910,7 +1930,7 @@ k
 
 Chemistry 76
 
-Reprint 2026-27
+
 
 (3.17)
 
@@ -2063,7 +2083,7 @@ time¯¹ or s¯¹
 or kt =
 ln{[R]/[R]}
 
-Reprint 2026-27
+
 
 77 Chemical Kinetics
 
@@ -2174,7 +2194,7 @@ be accurately explained by Arrhenius equation (3.18). It was first
 proposed by Dutch chemist, J.H. van't Hoff but Swedish chemist,
 Arrhenius provided its physical justification and interpretation.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2207,14 +2227,31 @@ take place →→
 
 According to Arrhenius, this reaction can take place
 only when a molecule of hydrogen and a molecule of iodine
-collide to form an unstable intermediate (Fig. 3.6). It exists
+collide to form an unstable intermediate (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_6.png" alt="Fig. 3.6" onclick="openImageModal(this.src, 'Fig. 3.6: According to Arrhenius, this reaction can take place only when a molecule of hyd...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.6</strong> According to Arrhenius, this reaction can take place only when a molecule of hydrogen and a molecule of iodine collide to form an unstable intermediate (Fig. 3.6). It exists for a very short time and then breaks up to form two molecules of hydrogen iodide.</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
+
 for a very short time and then breaks up to form two
 molecules of hydrogen iodide.
 
 The energy required to form this
 intermediate, called activated complex
 (C), is known as activation energy (E).
-Fig. 3.7 is obtained by plotting potential
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_7.png" alt="Fig. 3.7" onclick="openImageModal(this.src, 'Fig. 3.7: Fig. 3.7: Diagram showing plot of potential...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.7</strong> Fig. 3.7: Diagram showing plot of potential</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
+
 energy vs reaction coordinate. Reaction
 coordinate represents the profile of energy
 change when reactants change into
@@ -2266,7 +2303,15 @@ molecules. According to them, the
 distribution of kinetic energy may be
 described by plotting the fraction of
 molecules (N/N₁) with a given kinetic
-energy (E) vs kinetic energy (Fig. 3.8).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_8.png" alt="Fig. 3.8" onclick="openImageModal(this.src, 'Fig. 3.8: Fig. 3.8: Distribution curve showing energies...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.8</strong> Fig. 3.8: Distribution curve showing energies</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
+
 Here, N is the number of molecules with
 energy E and is total number
 of molecules.
@@ -2303,36 +2348,20 @@ among gaseous molecules
 
 79 Chemical Kinetics
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 20
 
-Fraction of molecules →
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_9.png" alt="Fig. 3.9" onclick="openImageModal(this.src, 'Fig. 3.9: Fig. 3.9: Distribution curve showing temperature...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.9</strong> Fig. 3.9: Distribution curve showing temperature</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
 
-t
-
-(t+10)
-
-This area
-
-Energy of
-activation
-
-shows fraction
-
-of molecules
-reacting at t
-
-Kinetic energy -
-
-This area shows
-fraction of additional
-molecules which
-react at (t+10)
-
-Fig. 3.9: Distribution curve showing temperature
 dependence of rate of a reaction
 
 ↑
@@ -2376,7 +2405,14 @@ straight
 (3.19)
 
 The plot of Ink vs 1/T gives a straight line according to the equation
-(3.19) as shown in Fig. 3.10.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_10.png" alt="Fig. 3.10" onclick="openImageModal(this.src, 'Fig. 3.10: Fig. 3.10: A plot between ln k and 1/T...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.10</strong> Fig. 3.10: A plot between ln k and 1/T</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
 
 Thus, it has been found from Arrhenius equation (3.18) that
 increasing the temperature or decreasing the activation energy will
@@ -2432,7 +2468,7 @@ temperatures T₁ and T₂ respectively.
 
 Chemistry 80
 
-Reprint 2026-27
+
 
 
 ---
@@ -2549,7 +2585,7 @@ log k₂ - log k₁ =
 Ea 1 1
 2.303R TT2
 
-Reprint 2026-27
+
 
 81 Chemical Kinetics
 
@@ -2617,27 +2653,13 @@ forming temporary bonds with the reactants resulting in an intermediate
 complex. This has a transitory existence and decomposes to yield products
 and the catalyst.
 
-Reaction path
-without catalyst
-
-Energy of
-
-activation
-with
-catalyst
-
-Reaction coordinate
-
-Energy of
-
-activation
-
-without
-catalyst
-
-Products
-
-Fig. 3.11: Effect of catalyst on activation
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_11.png" alt="Fig. 3.11" onclick="openImageModal(this.src, 'Fig. 3.11: It is believed that the catalyst provides an alternate pathway or reaction mecha...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.11</strong> It is believed that the catalyst provides an alternate pathway or reaction mechanism by reducing the activation energy between reactants and products and hence lowering the potential energy barrier as shown in Fig. 3.11.</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
 
 energy
 
@@ -2677,7 +2699,7 @@ and William Lewis in 1916 -18, provides a greater insight into the
 energetic and mechanistic aspects of reactions. It is based on kinetic
 theory of gases. According to this theory, the reactant molecules are
 
-Reprint 2026-27
+
 
 
 ---
@@ -2724,20 +2746,15 @@ be republished
 
 For example, formation of
 methanol from bromoethane depends
-upon the orientation of reactant
-molecules
 
-as
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_12.png" alt="Fig. 3.12" onclick="openImageModal(this.src, 'Fig. 3.12: For example, formation of methanol from bromoethane depends upon the orientation...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.12</strong> For example, formation of methanol from bromoethane depends upon the orientation of reactant molecules as shown in Fig. 3.12. The proper orientation of reactant molecules lead to bond formation whereas improper orientation makes them simply bounce back and no products are formed.</span>
+    <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
+  </div>
+</div>
 
-shown
-
-in
-
-H
-
-+8-8
-
-Fig. 3.12. The proper orientation of
 reactant molecules lead to bond
 formation whereas
 
@@ -2806,7 +2823,7 @@ higher classes.
 
 Threshold energy = Activation Energy + energy possessed by reacting species.
 
-Reprint 2026-27
+
 
 83 Chemical Kinetics
 
@@ -2865,7 +2882,7 @@ PZABE-Ea/RT .
 
 Chemistry84
 
-Reprint 2026-27
+
 
 
 ---
@@ -2909,9 +2926,7 @@ H
 ### 3.4 The decomposition of dimethyl ether leads to the formation of CH4, H₂
 and CO and the reaction rate is given by
 
-### 3.5
-
-Rate = k [CH3OCH3]3/2
+### 3.5 Rate = k [CH3OCH3]3/2
 
 n terms
 
@@ -2946,9 +2961,7 @@ quantitatively?
 ### 3.8 In a pseudo first order reaction in water, the following results were
 obtained:
 
-### 3.9
-
-t/s
+### 3.9 t/s
 
 [A]/ mol L¯¹
 
@@ -2979,7 +2992,7 @@ times?
 (iii) How is the rate affected when the concentrations of both A and B
 are doubled?
 
-Reprint 2026-27
+
 
 85 Chemical Kinetics
 
@@ -3152,7 +3165,7 @@ mol L-1
 
 Chemistry 86
 
-Reprint 2026-27
+
 
 
 ---
@@ -3274,7 +3287,7 @@ k = (4.5 × 1011s-1) e-28000K/T
 
 Calculate E.
 
-Reprint 2026-27
+
 
 87 Chemical Kinetics
 
@@ -3307,9 +3320,7 @@ that it does not change with temperature.
 
 ### 3.1
 
-### 3.2
-
-Answers to Some Intext Questions
+### 3.2 Answers to Some Intext Questions
 
 r = 6.66 × 10-6 Ms-1
 
@@ -3319,29 +3330,21 @@ Rate of reaction = rate of diappearance of A
 
 = 0.005 mol litre min-1
 
-### 3.3
+### 3.3 Order of the reaction is 2.5
 
-Order of the reaction is 2.5
-
-### 3.4
-
-X → Y
+### 3.4 X → Y
 
 Rate = k[X]2
 
 The rate will increase 9 times
 
-### 3.5
-
-t = 444 s
+### 3.5 t = 444 s
 
 ### 3.6
 
 ### 1.925 × 10-4 S-1
 
-### 3.8
-
-Ea = 52.897 kJ mol-¹
+### 3.8 Ea = 52.897 kJ mol-¹
 
 ### 3.9
 
@@ -3349,9 +3352,9 @@ Ea = 52.897 kJ mol-¹
 
 © NCERT
 
-not to be republished
+
 
 Chemistry 88
 
-Reprint 2026-27
+
 

@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11088CH05
+
 
 ### अध्याय 4
 
@@ -79,7 +79,7 @@ d
 यहाँ तक तो सब सही है। परंतु तब क्या होता है जब कोई पिण्ड एकसमान
 गति से चलता है (उदाहरण के लिए, बर्फ के क्षैतिज फर्श पर एकसमान चाल
 
-Reprint 2026-27
+
 
 
 ---
@@ -156,7 +156,23 @@ Reprint 2026-27
 (iii) इन दोनों के बीच की स्थिति है। गैलीलियो ने यह निष्कर्ष
 निकाला कि किसी घर्षण रहित क्षैतिज समतल पर गतिशील किसी
 वस्तु में न तो त्वरण होना चाहिए और न ही मंदन, अर्थात् इसे
-एकसमान वेग से गति करनी चाहिए (चित्र 4.1 (a))।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_1_hi.png" alt="
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_hi.png" alt="चित्र 4" onclick="openImageModal(this.src, 'चित्र 4: fp=k 4-1 (a)...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4</strong> fp=k 4-1 (a)</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
+<div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.1</strong> 4-3 tM+Ro dk fu;e xSyhfy;ks us oLrqvksa dh xfr dk vè;;u ,d vkur lery ij fd;k FkkA fdlh (i) vkur lery ij uhps dh vksj xfreku oLrq,a Rofjr gksrh gSa tcfd (ii) ry ij mQij dh vksj tkus okyh oLrqvksa esa eanu gksrk gSA {kSfrt lery ij xfr (iii) bu nksuksa osQ chp dh fLFkfr gSA xSyhfy;ks us ;g fu"d"kZ fudkyk fd fdlh ?k"kZ.k jfgr {kSfrt lery ij xfr'khy fdlh oLrq esa u rks Roj.k gksuk pkfg, vkSj u gh eanu] vFkkZr~ bls ,dleku osx ls xfr djuh pkfg, (fp=k 4.1 (a))A</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 गैलीलियो के एक अन्य प्रयोग जिसमें उन्होंने द्विआनत समतल
 का उपयोग किया, से भी यही निष्कर्ष निकलता है। एक आनत
@@ -188,7 +204,7 @@ Reprint 2026-27
 है : यदि घर्षण न होता तो गेंद क्षैतिज समतल पर एकसमान वेग
 से निरंतर चलती रहती।
 
-Reprint 2026-27
+
 
 
 ---
@@ -268,7 +284,7 @@ Reprint 2026-27
 से सामना करना होता है। कुछ उदाहरणों में तो हम यह जानते
 हैं कि वस्तु पर नेट बाह्य बल शून्य होता है। उसमें हम यह निष्कर्ष
 
-Reprint 2026-27
+
 
 
 ---
@@ -298,7 +314,15 @@ Reprint 2026-27
 को 'शून्य नेट बाह्य बल' बनाते हैं।
 
 अब मेज पर विराम अवस्था में रखी एक पुस्तक पर विचार
-करते हैं (चित्र 4.2(a))। इस पुस्तक पर दो बाह्य बल कार्यरत
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_2_hi.png" alt="चित्र 4.2" onclick="openImageModal(this.src, 'चित्र 4.2: fp=k 4.2 (a) est ij fojke esa j[kh iqLrd rFkk (b) ,dleku...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.2</strong> fp=k 4.2 (a) est ij fojke esa j[kh iqLrd rFkk (b) ,dleku</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 हैं : गुरुत्वीय बल (अर्थात् पुस्तक का भार W) नीचे की दिशा
 में कार्यरत है तथा मेज द्वारा पुस्तक पर ऊपर की दिशा में अभिलंब
 बल R कार्यरत है। R स्वयं समायोजित होने वाला बल है । यह
@@ -374,7 +398,7 @@ W के समान तथा विपरीत होना चाहिए�
 लीजिए कि यात्री पर गुरुत्वाकर्षण बल आरोपित करने के
 लिए उसके निकट कोई तारा नहीं है)।
 
-Reprint 2026-27
+
 
 
 ---
@@ -489,7 +513,7 @@ rep
 बल के प्रभाव का मूल है। मान लीजिए, विभिन्न संहतियों के
 दो पिण्डों, जो आरंभ में विराम में हैं, पर कोई निश्चित बल
 
-Reprint 2026-27
+
 
 
 ---
@@ -633,7 +657,7 @@ dt
 
 = ma x
 
-Reprint 2026-27
+
 
 
 ---
@@ -661,7 +685,14 @@ dt
 है। बल के अभिलंबवत् वेग का घटक अपरिवर्तित रहता है।
 उदाहरण के लिए, ऊर्ध्वाधर गुरुत्वाकर्षण बल के अधीन
 किसी प्रक्षेप्य की गति में वेग का क्षैतिज घटक अपरिवर्तित
-रहता है (चित्र 4.5)।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_5_hi.png" alt="चित्र 4.5" onclick="openImageModal(this.src, 'चित्र 4.5: 4- xfr dk f}rh; fu;e ,d LFkkuh; laca/ gSA bldk ;g vFkZ gS fd le; osQ fdlh fuf&#3...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.5</strong> 4- xfr dk f}rh; fu;e ,d LFkkuh; laca/ gSA bldk ;g vFkZ gS fd le; osQ fdlh fuf'pr {k.k ij lef"V esa fdlh fcanq (d.k dh vofLFkfr) ij yxk cy F mlh {k.k mlh fcanq ij Roj.k a ls lacaf/r gSA vFkkZr~ ^fdlh d.k osQ Roj.k dk fu/kZj.k mlh le; ml ij yxs cy }kjk fd;k tkrk gS] d.k dh xfr osQ fdlh Hkh bfrgkl }kjk ugha (fp=k 4.5 ns[ksa)A</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
 ### 3. समीकरण (4.5) से प्राप्त गति का द्वितीय नियम वस्तुतः,
 एकल बिंदु कण पर लागू होता है। नियम में F कण पर
@@ -780,7 +811,7 @@ F = ma = mg
 है तो भी यह बल गेंद के संवेग को उत्क्रमित करने के लिए
 पर्याप्त होता है। प्रायः इन स्थितियों में, बल तथा समयावधि को
 
-Reprint 2026-27
+
 
 
 ---
@@ -899,7 +930,7 @@ BA
 
 (4.8)
 
-Reprint 2026-27
+
 
 
 ---
@@ -1059,7 +1090,7 @@ u
 छोड़ी जाती है। यदि बंदूक द्वारा गोली पर लगा बल F है, तो
 न्यूटन के तृतीय नियम के अनुसार गोली द्वारा बंदूक पर लगने वाला
 
-Reprint 2026-27
+
 
 
 ---
@@ -1213,7 +1244,7 @@ F12+F22+F3 F3z = 0
 * किसी पिण्ड की साम्यावस्था के लिए केवल स्थानान्तरीय साम्यावस्था (शून्य नेट बाह्य बल) ही आवश्यक नहीं है वरन् घूर्णी साम्यावस्था (शून्य
 नेट बाह्य बल आघूर्ण) भी आवश्यक है, यह हम अध्याय 6 में देखेंगे ।
 
-Reprint 2026-27
+
 
 
 ---
@@ -1345,7 +1376,7 @@ mg
 * सुगमता के लिए यहाँ हम आवेशित तथा चुंबकीय पिण्डों पर विचार नहीं कर रहे हैं । इनके लिए, गुरुत्वाकर्षण के अतिरिक्त, यहाँ वैद्युत तथा
 चुंबकीय असंपर्क बल हैं ।
 
-Reprint 2026-27
+
 
 
 ---
@@ -1398,7 +1429,15 @@ m
 है, जो अरोपित बल F' का विरोध करता है, फलस्वरूप पिण्ड
 पर नेट बल शून्य हो जाता है। यह विरोधी बल f., जो मेज के
 संपर्क में पिण्ड के पृष्ठ के समान्तर लगता है, घषर्ण बल अथवा
-केवल घर्षण कहलाता है (चित्र 4.10(a))। यहाँ पादाक्षर s को
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_10_hi.png" alt="चित्र 4.10" onclick="openImageModal(this.src, 'चित्र 4.10: 4-9-1 ?k&quot;kZ.k vkb,] fiQj ls {kSfrt est ij j[ks m lagfr osQ fi.M okys mnkgj....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.10</strong> 4-9-1 ?k"kZ.k vkb,] fiQj ls {kSfrt est ij j[ks m lagfr osQ fi.M okys mnkgj.k ij fopkj djsaA xq#Ro cy (mg) dks est dk vfHkyac cy (N) fujLr dj nsrk gSA vc ekfu, fd fi.M ij dksbZ ckÞ; cy F {kSfrtr% vkjksfir fd;k tkrk gS A vuqHko ls geas ;g Kkr gS fd ifjek.k eas NksVk cy vkjksfir djus ij fi.M dks xfr'khy djus esa vi;kZIr gks ldrk gSA ijarq ;fn vkjksfir cy gh fi.M ij yxk ,d ek=k ckÞ; cy gS] rks ;g cy ifjek.k eas pkgs fdruk Hkh NksVk D;ksa u gks] fi.M dks F/m Roj.k ls xfr'khy gksuk pkfg,A Li"V gS] fd vxj fi.M fojke eas gS rks fi.M ij dksbZ vU; ckÞ; cy {kSfrt fn'kk eas dk;Z djus yxk gS] tks vjksfir cy F dk fojks/ djrk gS] iQyLo:i fi.M ij usV cy 'kwU; gks tkrk gSA ;g fojks/h cy fs, tks est osQ laioZQ eas fi.M osQ i`"B osQ lekUrj yxrk gS] ?k"k.kZ cy vFkok osQoy ?k"kZ.k dgykrk gS (fp=k 4.10(a))A ;gk¡ iknk{kj s dks LFkSfrd ?k"kZ.k osQ fy, iz;ksx fd;k x;k gS] rkfd ge bldh xfrt ?k"kZ.k fk ftlosQ fo"k; eas ckn eas fopkj djsaxs (fp=k 4.10(b))]</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
 स्थैतिक घर्षण के लिए प्रयोग किया गया है, ताकि हम इसकी गतिज
 घर्षण । जिसके विषय में बाद में विचार करेंगे (चित्र 4.10(b)),
 
@@ -1474,7 +1513,7 @@ fk
 बल, अधिकतम स्थैतिक घर्षण बल (fs) अधिकतम से कम हो जाता
 है। वह घर्षण बल, जो दो संपर्क पृष्ठों के बीच आपेक्ष गति
 
-Reprint 2026-27
+
 
 
 ---
@@ -1519,7 +1558,15 @@ ma = f≤μ¸N = μ｡ mg
 .:. aअधिकतम = µg = 0.15 × 10 m s-² = 1.5 m s-2
 
 उदाहरण 4.8 4kg का कोई गुटका एक क्षैतिज समतल
-पर रखा है (चित्र 4.11)। समतल को धीरे-धीरे तब तक
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_11_hi.png" alt="चित्र 4.11" onclick="openImageModal(this.src, 'चित्र 4.11: • mnkgj.k 4.8 4 kg dk dksbZ xqVdk ,d {kSfrt lery ij j[kk gS (fp=k 4.11)A lery dk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.11</strong> • mnkgj.k 4.8 4 kg dk dksbZ xqVdk ,d {kSfrt lery ij j[kk gS (fp=k 4.11)A lery dks /hjs&/hjs rc rd vkur fd;k tkrk gS tc rd {kSfrt ls fdlh dks.k</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 आनत किया जाता है जब तक क्षैतिज से किसी कोण
 0=15° पर वह गुटका सरकना आरंभ नहीं कर देता । पृष्ठ
 और गुटके के बीच स्थैतिक घर्षण गुणांक क्या है ?
@@ -1620,15 +1667,20 @@ tan 0
 
 = 0.27
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 14
 
-गति के नियम
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_12_hi.png" alt="चित्र 4.12" onclick="openImageModal(this.src, 'चित्र 4.12: • mnkgj.k 4-9 fp=k 4.12(a) esa n&#39;kkZ, CykWd&Vªkyh fudk; dk Roj.k D;k gS] ;fn...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.12</strong> • mnkgj.k 4-9 fp=k 4.12(a) esa n'kkZ, CykWd&Vªkyh fudk; dk Roj.k D;k gS] ;fn Vªkyh vkSj i`"B osQ chp xfrt ?k"kZ.k xq.kkad 0-04 gS\ Mksjh eas ruko D;k gS \ (g = 10 m s-2 yhft,)] Mksjh dh lagfr ux.; ekfu, A</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
-उदाहरण 4.9 चित्र 4.12 (a) में दर्शाए ब्लॉक-ट्राली
 निकाय का त्वरण क्या है, यदि ट्राली और पृष्ठ के बीच
 गतिज घर्षण गुणांक 0.04 है? डोरी में तनाव क्या है ?
 (g=10ms-² लीजिए), डोरी की संहति नगण्य मानिए ।
@@ -1731,20 +1783,17 @@ a = 2m s2 = 0.96 m s-2
 लोटनिक घर्षण का उद्गम जटिल है यद्यपि यह स्थैतिक तथा
 सर्पी घर्षण के उद्गम से कुछ भिन्न है। लोटनिक गति के समय
 
-फूला हुआ गुब्बारा
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_13_hi.png" alt="चित्र 4.13" onclick="openImageModal(this.src, 'चित्र 4.13: ge izk;% ?k&quot;kZ.k dks ,d vokaNuh; cy ekurs gSaA cgqr lh fLFkfr;ksa esa] tSls...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.13</strong> ge izk;% ?k"kZ.k dks ,d vokaNuh; cy ekurs gSaA cgqr lh fLFkfr;ksa esa] tSls fdlh e'khu] ftleas fofHkUu oQy iqtZs xfr djrs gksa] eas ?k"kZ.k dh Í.kkRed Hkwfedk gksrh gSA ;g vkis{k xfr;ksa dk fojks/ djrk gS ftlosQ iQyLo:i Å"ek] vkfn osQ :i eas ÅtkZ&{k; gksrk gSA e'khuksa eas Lusgd xfrt ?k"kZ.k dks de djus dk ,d lk/u gksrk gSA ?k"kZ.k dks de djus dk ,d vU; mik; e'khu osQ nks xfr'khy Hkkxksa osQ chp] ckWy&cs;fjax yxkuk gS fp=k 4.13(a)A (D;ksafd nks laioZQ i`"Bksa rFkk cky cs;fjxksa osQ chp yksVfud ?k"kZ.k cgqr de gksrk gS] vr% ÅtkZ&{k; ?kV tkrk gS A lkis{k xfr djrs nks Bksl i`"Bksa osQ chp ok;q dh iryh ijr cuk, j[kdj Hkh izHkkoh <ax ls ?k"kZ.k dks ?kVk;k tk ldrk gS (fp=k 4.13(b))A</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
-छिद्र वाला प्लास्टिक डिस्क
-
-वायु का गद्दा
-
-(a)
-
-(b)
-
-चित्र 4.13 घर्षण को घटाने के कुछ उपाय । (a) मशीन के गतिशील भागों के बीच बॉल-बेयरिंग लगाकर, (b) आपेक्षिक गति करने वाले
 पृष्ठों के बीच वायु का संपीडित गद्दा ।
 
-Reprint 2026-27
+
 
 
 ---
@@ -1810,7 +1859,16 @@ R
 किसी सपाट सड़क तथा किसी ढालू सड़क पर कार की वर्तुल
 गति, गति के नियमों के रोचक उदाहरण हैं।
 समतल सड़क पर कार की गति-
-कार पर तीन बल आरोपित हैं हैं [चित्र [चित्र 4.14(
+कार पर तीन बल आरोपित हैं हैं [चित्र [
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_14_hi.png" alt="चित्र 4.14" onclick="openImageModal(this.src, 'चित्र 4.14: dkj ij rhu cy vkjksfir gSa [fp=k 4.14(a)] (i) dkj dk Hkkj] mg...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.14</strong> dkj ij rhu cy vkjksfir gSa [fp=k 4.14(a)] (i) dkj dk Hkkj] mg</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
+
 (i) कार का भार, mg
 (ii) अभिलम्ब प्रतिक्रिया, N
 
@@ -1885,7 +1943,7 @@ mg
 
 चित्र 4.14 कार की (a) समतल सड़क, तथा (b) ढालू सड़क पर वर्तुल गति ।
 
-Reprint 2026-27
+
 
 
 ---
@@ -2044,7 +2102,7 @@ v = (Rg tan 0)1/2
 (4.22) द्वारा रेसकार की अनुकूलतम चाल v को इस प्रकार
 व्यक्त करते हैं :
 
-Reprint 2026-27
+
 
 
 ---
@@ -2169,7 +2227,7 @@ R
 आरेख गुटके पर दो बलों को दर्शाता है, पृथ्वी द्वारा आरोपित
 गुरुत्वाकर्षण बल = 2 × 10 = 20 N; तथा गुटके पर फर्श
 
-Reprint 2026-27
+
 
 
 ---
@@ -2264,7 +2322,7 @@ p = m v
 किसी पिण्ड के संवेग परिवर्तन की दर आरोपित बल के अनुक्रमानुपाती होती है तथा संवेग परिवर्तन आरोपित बल की दिशा
 में होता है। इस प्रकार :
 
-Reprint 2026-27
+
 
 
 ---
@@ -2406,7 +2464,7 @@ N
 
 f = με Ν
 
-Reprint 2026-27
+
 
 भौतिकी
 
@@ -2479,7 +2537,7 @@ not
 
 (e) सभी गुरुत्वीय पिण्डों से दूर तथा वैद्युत और चुंबकीय क्षेत्रों से मुक्त, अंतरिक्ष में तीव्र चाल वाला इलेक्ट्रॉन।
 
-Reprint 2026-27
+
 
 69
 
@@ -2562,7 +2620,7 @@ t = 0, तथा उस समय पिण्ड की स्थिति x = 
 
 (d) यदि लिफ्ट की मशीन में खराबी आ जाए और वह गुरुत्वीय प्रभाव में मुक्त रूप से नीचे गिरे तो पाठ्यांक क्या होगा?
 
-Reprint 2026-27
+
 
 
 ---
@@ -2635,7 +2693,7 @@ min की चाल से चक्कर लगाता है? डोरी
 
 (d) क्रिकेट का खिलाड़ी गेंद को लपकते समय अपने हाथ गेंद के साथ पीछे को खींचता है।
 
-Reprint 2026-27
+
 
 71
 

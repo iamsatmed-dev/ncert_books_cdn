@@ -9,7 +9,7 @@
 
 HYDROCARBON
 
-11085CH13
+
 
 एकक 9
 
@@ -78,7 +78,7 @@ distiliation) से प्राप्त होती है। प्रा�
 अब आप दैनिक जीवन में हाइड्रोकार्बन के महत्त्वपूर्ण उपयोग को अच्छी
 तरह समझ गए हैं। इस एकक में हाइड्रोकार्बनों के बारे में और अधिक जानेंगे।
 
-Reprint 2025-26
+
 
 
 ---
@@ -124,7 +124,15 @@ Affinis=क्रियाशील) कहते थे। क्या आप 
 प्रतिनिधित्व करता है। क्या आप मेथेन की संरचना का स्मरण
 कर सकते हैं? संयोजकता कोश इलेक्ट्रॉन युग्म प्रतिकर्षण
 सिद्धांत (VSEPR) के अनुसार (एकक- 4 देखिए) मेथेन
-की संरचना चतुष्फलीय होती है (चित्र 9.1) जो बहुसमतलीय
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch09_hydrocarbons_fig_9_hi.png" alt="चित्र 9" onclick="openImageModal(this.src, 'चित्र 9: ;s gkbMªksdkcZu lkekU; voLFkkvksa esa fuf&quot;Ø; gksrs gSa D;ksafd ;s vEyksa vk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 9</strong> ;s gkbMªksdkcZu lkekU; voLFkkvksa esa fuf"Ø; gksrs gSa D;ksafd ;s vEyksa vkSj vU; vfHkdeZdksa ls vfHkfØ;k ugha djrsA vr% izkjaHk esa bUgsa iSjkfiQu (Parum=de Affinis=fØ;k'khy) dgrs FksA D;k vki ,sYosQu ifjokj ;k ltkrh; Js.kh (homologous series) osQ lkekU; lw=k osQ ckjs esa oqQN vuqeku yxk ldrs gSaA ;fn ge fofHkUu ,sYosQuksa osQ lw=kksa dk vè;;u djrs gSa rks gesa Kkr gksrk gS fd ,sYosQu dk lkekU; lw=k CnH2n+2 gSA tc n dks dksbZ mi;qZDr eku fn;k tkrk gS rks ;g fo'ks"k ltkrh; (homologoue) dk izfrfuf/Ro djrk gSA D;k vki esFksu dh lajpuk dk Lej.k dj ldrs gSa\ la;kstdrk dks'k bysDVªkWu ;qXe izfrd"kZ.k fl¼kar (VSEPR) osQ vuqlkj (,dd& 4 nsf[k,) esFksu dh lajpuk prq"iQyh; gksrh gS (fp=k 9-1) tks cgqleryh; gS ftlesa dkcZu ijek.kq osaQæ esa rFkk pkj gkbMªkstu ijek.kq leprq"iQyd osQ pkjksa dksuksa ij fLFkr gSaA bl izdkj izR;sd</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 है जिसमें कार्बन परमाणु केंद्र में तथा चार हाइड्रोजन परमाणु
 समचतुष्फलक के चारों कोनों पर स्थित हैं। इस प्रकार प्रत्येक
 H-C का बंध कोण 109.5° होता है।
@@ -197,7 +205,7 @@ C-C तथा C-Ho (सिग्मा) आबंध का निर्मा�
 परमाणु आपस में सतत् श्रृंखला अथवा शाखित श्रृंखला के
 द्वारा जुड़े रहते हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -376,7 +384,7 @@ H
 जैसे- एथेन में उसे 'प्राथमिक कार्बन' कहते हैं। अंतिम सिरे
 वाले परमाणु सदैव प्राथमिक होते हैं। कार्बन परमाणु, जो दो
 
-Reprint 2025-26
+
 
 
 ---
@@ -514,7 +522,7 @@ CH3OH
 
 CH3 – CH – CH – CH3
 
-Reprint 2025-26
+
 
 2,2-डाइमेथिलप्रोपेन-1-ऑल
 
@@ -627,7 +635,7 @@ not be republished
 न्यूनतम योग तथा वर्णमाला के क्रम
 में व्यवस्था
 
-Reprint 2025-26
+
 
 
 ---
@@ -808,7 +816,7 @@ CH2 = CH2 + H2
 →CH3-CH3 (9.1)
 एथेन
 
-Reprint 2025-26
+
 
 
 ---
@@ -973,7 +981,7 @@ H2O+e¯¯OH+H+
 
 मेथेन इस विधि द्वारा नहीं बनाई जा सकती, क्यों?
 
-Reprint 2025-26
+
 
 
 ---
@@ -1104,7 +1112,7 @@ HIO3+5HI→ 3I2+3H2O
 प्रारंभ होती है। CI-CI आबंध, C-C तथा C-H आबंध
 की तुलना में दुर्बल है अतः यह आसानी से टूट जाता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1337,7 +1345,7 @@ C20H42
 
 236.2
 
-Reprint 2025-26
+
 
 
 ---
@@ -1502,7 +1510,7 @@ C4H8 + C2H6
 एल्केनों का भंजन एक मुक्त-मूलक अभिक्रिया मानी जाती
 है। किरोसिन तेल या पेट्रोल से प्राप्त तेल गैस या पेट्रोल
 
-Reprint 2025-26
+
 
 
 ---
@@ -1633,7 +1641,7 @@ H
 
 चित्र 9.3 एथेन के न्यूमैन प्रक्षेप
 
-Reprint 2025-26
+
 
 
 ---
@@ -1749,7 +1757,7 @@ H
 
 चित्र 9.4 एथीन का कक्षीय आरेख केवल 6 बंधों को चित्रित करते हुए
 
-Reprint 2025-26
+
 
 
 ---
@@ -1946,7 +1954,7 @@ CH=CH-CH-CH
 
 I. ब्यूट-1-ईन
 
-Reprint 2025-26
+
 
 
 ---
@@ -2103,7 +2111,7 @@ CH3
 समपक्ष-ब्यूट-2-ईन
 (क्वथनांक 277 K)
 
-Reprint 2025-26
+
 
 
 ---
@@ -2313,7 +2321,7 @@ CH3
 
 (9.33)
 
-Reprint 2025-26
+
 
 
 ---
@@ -2450,7 +2458,7 @@ CH2 = CH2 + H2O
 डाइहाइड्रोजन का संयोजन - एल्कीन सूक्ष्म पिसे हुए
 निकैल, पैलेडियम अथवा प्लैटिनम की उपस्थिति में
 
-Reprint 2025-26
+
 
 
 ---
@@ -2582,7 +2590,7 @@ Br
 (ii) कार्बधनायन (ख) में Br- के आक्रमण से उत्पाद इस
 प्रकार बनता है-
 
-Reprint 2025-26
+
 
 
 ---
@@ -2732,7 +2740,7 @@ Br
 
 (iv) CH3–CH-CH2Br + H− Br
 
-Reprint 2025-26
+
 
 
 ---
@@ -2899,7 +2907,7 @@ CH3CH(OH)CH2OH
 कहते हैं। सरल यौगिक, जिनसे बहुलक प्राप्त होते हैं, एकलक
 कहलाते हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -3065,7 +3073,7 @@ CH3-C = C-CH3
 
 ब्यूट-2-आइन
 
-Reprint 2025-26
+
 
 
 ---
@@ -3267,7 +3275,7 @@ CaC2+2H2O → Ca(OH)2+C₂H₂
 
 ### 2. सन्निध डाइहैलाइडों से-
 
-Reprint 2025-26
+
 
 
 ---
@@ -3395,7 +3403,7 @@ Br Br
 
 (9.64)
 
-Reprint 2025-26
+
 
 
 ---
@@ -3557,7 +3565,7 @@ CH3-C-CH3
 
 (9.68)
 
-Reprint 2025-26
+
 
 लाल तप्त लोह नलिका
 
@@ -3688,7 +3696,7 @@ H
 
 C
 
-Reprint 2025-26
+
 
 
 ---
@@ -3783,7 +3791,7 @@ s-कक्षक से अतिव्यापन करके छः C-H स
 जाता है, जो वलय के तल के लंबवत् होता है, जैसा नीचे
 दर्शाया गया है-
 
-Reprint 2025-26
+
 
 
 ---
@@ -3907,7 +3915,7 @@ C-C एकल आबंध (154pm) तथा C-C द्विआबंध (134pm
 
 6
 
-Reprint 2025-26
+
 
 
 ---
@@ -4004,7 +4012,7 @@ toolished
 किया जाता है तो बेन्जीन वलय में नाइट्रो समूह प्रविष्ट हो
 जाता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -4164,7 +4172,7 @@ E = इलेक्ट्रॉनस्नेही ) अभिक्रिय�
 
 (ग) मध्यवर्ती कार्बधनायन से प्रोटॉन का विलोपन
 
-Reprint 2025-26
+
 
 
 ---
@@ -4343,7 +4351,7 @@ H
 वलय पर संयोजित होकर बेन्जीनहैक्साक्लोराइड CHCI
 बनाते हैं, जिसे गैमेक्सीन भी कहते हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -4499,7 +4507,7 @@ II
 
 III
 
-Reprint 2025-26
+
 
 
 ---
@@ -4591,7 +4599,7 @@ to be rep
 होते हुए भी इलेक्ट्रॉनस्नेही प्रतिस्थापन अभिक्रियाएं प्रदर्शित करते हैं। ये यौगिक विशेष परिस्थितियों में संकलन-अभिक्रियाएं प्रदर्शित
 करते हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -4703,7 +4711,7 @@ CH2-CH(CH3)2
 
 (iv) टॉलूइन
 
-Reprint 2025-26
+
 
 
 ---
@@ -4816,7 +4824,7 @@ m-नाइट्रोक्लोरोबेन्जीन
 क्या कारण है कि वुर्ट्ज़ अभिक्रिया से विषम संख्या कार्बन परमाणु वाले विशुद्ध ऐल्केन बनाने के लिए
 प्रयुक्त नहीं की जाती। एक उदाहरण देकर स्पष्ट कीजिए।
 
-Reprint 2025-26
+
 
 रसायन विज्ञान
 

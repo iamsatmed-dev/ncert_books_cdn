@@ -9,7 +9,7 @@
 
 जनन स्वास्थ्य
 
-12084CH04
+
 
 Fallopian tubes
 cut 
@@ -54,7 +54,7 @@ not to b
 विश्व में भारत ही पहला ऐसा देश था जिसने राष्ट्रीय स्तर पर संपूर्ण
 जनन-स्वास्थ्य को एक लक्ष्य के रूप में प्राप्त करने के लिए राष्ट्रीय
 
-Reprint 2025-26
+
 
 
 ---
@@ -107,7 +107,7 @@ shed
 
 47
 
-Reprint 2025-26
+
 
 
 ---
@@ -164,7 +164,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -182,13 +182,14 @@ Reprint 2025-26
 आजकल व्यापक परिधि के गर्भ निरोधक साधन जैसे कि आसानी से उपलब्ध हैं; उन्हें
 मोटे तौर पर निम्न श्रेणियों में वर्गीकृत किया जा सकता है, जैसे प्राकृतिक/परंपरागत, रोध
 (बैरियर), आईयूडीज (कापर टी) मुँह से लेने योग्य गर्भ निरोधक, टीका रूप में, अंतर्रोप
-तथा शल्य क्रियात्मक विधियाँ।
 
-น
-
-shed
-
-चित्र 3.1 (अ) पुरूष के लिए कंडोम
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch03_reproductive_health_fig_3_hi.png" alt="चित्र 3" onclick="openImageModal(this.src, 'चित्र 3: jks/ (cSfj;j) fof/;ksa osQ varxZr jks/d lk/uksa osQ ekè;e ls vaMk.kq vkSj &#39;k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3</strong> jks/ (cSfj;j) fof/;ksa osQ varxZr jks/d lk/uksa osQ ekè;e ls vaMk.kq vkSj 'kqØk.kq dks HkkSfrd :i ls feyus ls jksdk tkrk gSA bl izdkj osQ mik; iq#"k ,oa L=kh] nksuksa osQ fy, miyC/ gSaA daMkse (fujks/) (fp=k 3-1 v vkSj c) vkfn jks/d mik; gSa ftUgsa iryh jcj ;k ysVsDl ls cuk;k tkrk gS rkfd bl osQ mi;ksx ls iq#"k osQ fyax ;k L=kh dh ;ksfu ,oa xHkkZ'k; xzhok dks laHkksx ls Bhd igys] <d fn;k tk, vkSj L[kfyr 'kqØk.kq L=kh osQ tuuekxZ esa ugha ?kql losQA ;g xHkkZèkku dks cpk ldrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 प्राकृतिक विधियाँ – ये विधियाँ अंडाणु (ओवम) एवं शुक्राणु के संगम को रोकने के
 सिद्धांत पर कार्य करती हैं। इनमें से एक उपाय आवधिक संयम है जिसमें एक दंपति
@@ -209,9 +210,14 @@ shed
 बाद ज्यादा से ज्यादा 6 माह की अवधि तक ही कारगर मानी गई है।
 चूँकि उपर्युक्त विधियों में किसी दवा या साधन का उपयोग नहीं होता, अतः इसके
 दुष्प्रभाव लगभग शून्य के बराबर हैं। हालाँकि, इसके असफल रहने की दर काफी
-अधिक है।
 
-चित्र 3.1 (ब) स्त्री के लिए कंडोम
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch03_reproductive_health_fig_3_1_hi.png" alt="चित्र 3.1" onclick="openImageModal(this.src, 'चित्र 3.1: fp=k 3.1 (c) L=kh osQ fy, oaQMkse...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.1</strong> fp=k 3.1 (c) L=kh osQ fy, oaQMkse</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 रोध (बैरियर) विधियों के अंतर्गत रोधक साधनों के माध्यम से अंडाणु और शुक्राणु
 को भौतिक रूप से मिलने से रोका जाता है। इस प्रकार के उपाय पुरुष एवं स्त्री, दोनों
@@ -220,7 +226,7 @@ shed
 या स्त्री की योनि एवं गर्भाशय ग्रीवा को संभोग से ठीक पहले, ढक दिया जाए और
 स्खलित शुक्राणु स्त्री के जननमार्ग में नहीं घुस सके। यह गर्भाधान को बचा सकता है।
 
-Reprint 2025-26
+
 
 49
 
@@ -228,9 +234,13 @@ Reprint 2025-26
 ---
 ## 📄 Page 5
 
-50
-
-चित्र 3.2 कॉपर टी
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch03_reproductive_health_fig_3_2_hi.png" alt="चित्र 3.2" onclick="openImageModal(this.src, 'चित्र 3.2: fp=k 3.2 dkWij Vh...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.2</strong> fp=k 3.2 dkWij Vh</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 जीव विज्ञान
 
@@ -278,7 +288,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -292,7 +302,15 @@ Reprint 2025-26
 
 स्त्रियों द्वारा प्रोजेस्टोजन अकेले या फिर एस्ट्रोजन के साथ इसका
 संयोजन भी टीके या त्वचा के नीचे अंतर्रोप (इंप्लांट) के रूप में किया
-जा सकता है (चित्र 3.3)। इसके कार्य की विधि ठीक गर्भनिरोधक
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch03_reproductive_health_fig_3_3_hi.png" alt="चित्र 3.3" onclick="openImageModal(this.src, 'चित्र 3.3: fp=k 3.3 varjksZi...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.3</strong> fp=k 3.3 varjksZi</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 गोलियों की भाँति होती है तथा काफी लंबी अवधि के लिए प्रभावशाली
 होते हैं। मैथुन के 72 घंटे के भीतर ही प्रोजेस्टोजन या प्रोजेस्टोजन-एस्ट्रोजन
 संयोजनों का प्रयोग या आई यू डी के उपयोग को आपातकालिक
@@ -317,21 +335,17 @@ shed
 डिंबवाहिनी नली का छोटा सा भाग निकाल या बाँध दिया जाता है। यह तकनीकें बहुत
 ही प्रभावशाली होती हैं पर इनमें पूर्वस्थित लाने की गुंजाइश बहुत ही कम होती है।
 
-be
-
-शुक्रवाहक
-बाँधा और
-
-कटा हुआ
-
-फैलोपी नलिकाएँ बाँधी
-और काटी हुई
-
-चित्र 3.4 (अ) शुक्रवाहिका-उच्छेदन
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch03_reproductive_health_fig_3_4_hi.png" alt="चित्र 3.4" onclick="openImageModal(this.src, 'चित्र 3.4: fp=k 3.4 (v) &#39;kqØokfgdk&mPNsnu fp=k 3.4 (c) Mac okfguh uyh (iSQyksihufydk)&m...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 3.4</strong> fp=k 3.4 (v) 'kqØokfgdk&mPNsnu fp=k 3.4 (c) Mac okfguh uyh (iSQyksihufydk)&mPNsnu</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 चित्र 3.4 (ब) डंब वाहिनी नली (फैलोपीनलिका)-उच्छेदन
 
-Reprint 2025-26
+
 
 51
 
@@ -438,7 +452,7 @@ not
 में एक सबसे अधिक परेशान करने वाली यह बात देखने में आई है कि अधिकतर
 एम टी पी गैर कानूनी रूप से, अकुशल नीम-हकीमों से कराए जाते हैं जो कि न केवल
 
-Reprint 2025-26
+
 
 
 ---
@@ -491,7 +505,7 @@ blished
 
 53
 
-Reprint 2025-26
+
 
 
 ---
@@ -550,7 +564,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -604,7 +618,7 @@ published
 
 55
 
-Reprint 2025-26
+
 
 
 ---
@@ -664,7 +678,7 @@ not to be
 
 7. जनन ग्रंथि को हटाना गर्भ निरोधकों का विकल्प नहीं माना जा सकता है? क्यों?
 
-Reprint 2025-26
+
 
 
 ---
@@ -712,7 +726,7 @@ to be republished
 
 (घ) ई टी तकनीकों में भ्रूण को सदैव गर्भाशय में स्थानांतरित किया जाता है?
 
-Reprint 2025-26
+
 
 57
 

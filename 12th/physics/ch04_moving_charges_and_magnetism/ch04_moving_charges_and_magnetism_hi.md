@@ -25,7 +25,24 @@ ONCERT
 प्रदर्शित करते हुए देखा कि एक सीधे तार में विद्युत धारा प्रवाहित करने पर पास रखी हुई चुंबकीय
 सुई में सुस्पष्ट विक्षेप प्राप्त होता है। उन्होंने इस परिघटना पर शोध आरंभ किया। उन्होंने पाया कि
 चुंबकीय सुई तार के अभिलंबवत तल में तार की स्थिति के केंद्रतः वृत्त की स्पर्श रेखा के समांतर
-संरेखित होती है। इस स्थिति को चित्र 4.1(a) में दर्शाया गया है। पर यह देखने के लिए तार में
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_1_hi.png" alt="
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_hi.png" alt="चित्र 4" onclick="openImageModal(this.src, 'चित्र 4: mnkgj.k 4.4 dksbZ fo|qr /kjk vo;o ˆ x ∆= ∆ l i ftlls ,d mPp /kjk I = 10A izokfgr...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4</strong> mnkgj.k 4.4 dksbZ fo|qr /kjk vo;o ˆ x ∆= ∆ l i ftlls ,d mPp /kjk I = 10A izokfgr gks jgh gS] ewy ¯cnq ij fLFkr gS (fp=k 4-8)] y-v{k ij 0.5 m nwjh ij fLFkr fdlh ¯cnq ij blosQ dkj.k pqacdh; {ks=k dk D;k eku gSA ∆x = 1 cm</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
+<div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.1</strong> 2000 o"kZ ls Hkh igys fo|qr rFkk pqacdRo nksuksa gh osQ ckjs esa yksxksa dks Kku FkkA fiQj Hkh yxHkx 200 o"kZ iwoZ] 1820 esa ;g Li"V vuqHko fd;k x;k fd bu nksuksa esa vVwV laca/ gSA 1820 dh xzh"e ½rq esa] Mp HkkSfrdfoKkuh gSal fØf'p;u vkWLVsZM us] vius ,d Hkk"k.k osQ nkSjku iz;ksx izn£'kr djrs gq, ns[kk fd ,d lh/s rkj esa fo|qr /kjk izokfgr djus ij ikl j[kh gqbZ pqacdh; lqbZ esa lqLi"V fo{ksi izkIr gksrk gSA mUgksaus bl ifj?kVuk ij 'kks/ vkjaHk fd;kA mUgksaus ik;k fd pqacdh; lqbZ rkj osQ vfHkyacor ry esa rkj dh fLFkfr osQ osaQnzr% o`Ùk dh Li'kZ js[kk osQ lekarj lajsf[kr gksrh gSA bl fLFkfr dks fp=k 4.1(a) esa n'kkZ;k x;k gSA ij ;g ns[kus osQ fy, rkj esa i;kZIr /kjk izokfgr gksuh pkfg, vkSj pqacdh; lqbZ rkj osQ dkiQh fudV j[kh gksuh pkfg, rkfd i`Foh osQ pqacdh; {ks=k dh mis{kk dh tk losQA ;fn rkj esa /kjk dh fn'kk foijhr dj nh tk, rks pqacdh; lqbZ Hkh ?kwe dj foijhr fn'kk esa lajsf[kr gks tkrh gS ¹fp=k 4.1(b) nsf[k,ºA rkj esa /kjk dk ifjek.k c<+kus ;k lqbZ dks rkj osQ fudV ykus ls pqacdh; lqbZ dk fo{ksi c<+ tkrk gSA rkj osQ pkjksa vksj ;fn ykSg pw.kZ fNM+osaQ rks blosQ d.k rkj osQ pkjksa vksj laosaQnzh o`Ùkksa esa O;ofLFkr gks tkrs gSa ¹fp=k 4.1(c) nsf[k,ºA bl ifj?kVuk ls vkWLVsZM us fu"d"kZ fudkyk fd xfreku vkos'k (/kjk) vius pkjksa vksj ,d pqacdh; {ks=k mRiUu djrs gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(1)">📄 View in PDF (Page 1)</button>
+  </div>
+</div>
+
 पर्याप्त धारा प्रवाहित होनी चाहिए और चुंबकीय सुई तार के काफी निकट रखी होनी चाहिए ताकि
 पृथ्वी के चुंबकीय क्षेत्र की उपेक्षा की जा सके। यदि तार में धारा की दिशा विपरीत कर दी जाए
 तो चुंबकीय सुई भी घूम कर विपरीत दिशा में संरेखित हो जाती है [चित्र 4.1(b) देखिए]। तार में
@@ -38,7 +55,7 @@ ONCERT
 नियमों को जेम्स मैक्सवेल ने एकीकृत करके नए नियम बनाए और यह स्पष्ट अनुभव किया कि
 प्रकाश वास्तव में विद्युत चुंबकीय तरंगें हैं। हर्ट्ज़ ने रेडियो तरंगों की खोज की तथा 19वीं शताब्दी
 
-Reprint 2026-27
+
 
 
 ---
@@ -110,7 +127,7 @@ E = Q ŕ / (4πε)²
 
 106
 
-Reprint 2026-27
+
 
 
 ---
@@ -202,7 +219,7 @@ F = q [ E (r) + v × B (r)] = F +F
 
 107
 
-Reprint 2026-27
+
 
 
 ---
@@ -221,8 +238,16 @@ F
 गुणनफल चुंबकीय क्षेत्र के कारण बल को समाप्त (शून्य) कर देता है। यह तब होता है जब
 बल, वेग तथा चुंबकीय क्षेत्र दोनों के लंबवत होता है (किसी दिशा में)। जब वेग तथा चुंबकीय
 क्षेत्र की दिशा एक दूसरे के समांतर या प्रतिसमांतर होती है।
-इसकी दिशा सदिश गुणनफल (क्रास गुणनफल) के लिए चित्र
-4.2 में दर्शाए अनुसार पेंच नियम अथवा दक्षिण हस्त नियम द्वारा
+इसकी दिशा सदिश गुणनफल (क्रास गुणनफल) के लिए
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_2_hi.png" alt="चित्र 4.2" onclick="openImageModal(this.src, 'चित्र 4.2: B osQ chp dk dks.k gS ¹fp=k 4.2 (a) nsf[k,ºA pqacdh; {ks=k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.2</strong> B osQ chp dk dks.k gS ¹fp=k 4.2 (a) nsf[k,ºA pqacdh; {ks=k</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 प्राप्त होती है।
 
 4
@@ -301,7 +326,7 @@ F = [(nq v₁)LA × B = [ jIA ] × B
 I के सर्वसम है। ध्यान दीजिए विद्युत धारा सदिश नहीं है। समीकरण (4.4) के अंतिम चरण में हमने
 सदिश चिह्न को j से 1 पर स्थानांतरित कर दिया है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -320,7 +345,14 @@ j
 
 उदाहरण 4.1 200 g द्रव्यमान तथा 1.5 m लंबाई के किसी सीधे तार से 2A विद्युत धारा
 प्रवाहित हो रही है। यह किसी एकसमान क्षैतिज B चुंबकीय क्षेत्र द्वारा वायु के बीच में निलंबित
-है (चित्र 4.3)। चुंबकीय क्षेत्र का परिमाण ज्ञात कीजिए।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_3_hi.png" alt="चित्र 4.3" onclick="openImageModal(this.src, 'चित्र 4.3: mnkgj.k 4.1 200 g nzO;eku rFkk 1.5 m yackbZ osQ fdlh lhèks rkj ls 2 A fo|qr èkkj...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.3</strong> mnkgj.k 4.1 200 g nzO;eku rFkk 1.5 m yackbZ osQ fdlh lhèks rkj ls 2 A fo|qr èkkjk çokfgr gks jgh gSA ;g fdlh ,dleku {kSfrt B pqacdh; {ks=k }kjk ok;q osQ chp esa fuyafcr gS (fp=k 4.3)A pqacdh; {ks=k dk ifjek.k Kkr dhft,A</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 I
 
@@ -366,7 +398,15 @@ repu
 के चुंबकीय क्षेत्र का मान लगभग 4 × 105 T है जिसकी हमने यहाँ उपेक्षा की है।
 
 उदाहरण 4.2 यदि चुंबकीय क्षेत्र धनात्मक y-अक्ष के समान्तर है तथा आवेशित कण धनात्मक
-x-अक्ष के अनुदिश गतिमान है (चित्र 4.4 देखिए), तो लोरेंज बल किस ओर लगेगा जबकि गतिमान
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_4_hi.png" alt="चित्र 4.4" onclick="openImageModal(this.src, 'चित्र 4.4: x-v{k osQ vuqfn&#39;k xfreku gS (fp=k 4.4 nsf[k, ), rks yksjsat cy fdl vksj yxsx...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.4</strong> x-v{k osQ vuqfn'k xfreku gS (fp=k 4.4 nsf[k, ), rks yksjsat cy fdl vksj yxsxk tcfd xfreku d.k (a) bysDVªkWu (½.k vkos'k) (b) çksVkWu (èku vkos'k) gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 कण (a) इलेक्ट्रॉन (ऋण आवेश) (b) प्रोटॉन (धन आवेश) है।
 
 not
@@ -457,7 +497,7 @@ V
 
 चित्र 4.4
 
-Reprint 2026-27
+
 
 उदाहरण 4.2
 
@@ -600,47 +640,21 @@ X
 
 लंबवत बल qv × B अभिकेंद्र बल की भाँति कार्य करता है तथा चुंबकीय क्षेत्र के
 
-+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_5_hi.png" alt="चित्र 4.5" onclick="openImageModal(this.src, 'चित्र 4.5: fp=k 4.5 orqZy xfr...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.5</strong> fp=k 4.5 orqZy xfr</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
-q
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-चित्र 4.5 वर्तुल गति
-
-110
-
-y
-
-q
-
-V
-
-V
-
-चूड़ी अंतराल (पिच)
-
-C
-
-त्रिज्या
-
-चित्र 4.6 कुंडलिनी गति
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_6_hi.png" alt="चित्र 4.6" onclick="openImageModal(this.src, 'चित्र 4.6: fp=k 4.6 oqaQMfyuh xfr...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.6</strong> fp=k 4.6 oqaQMfyuh xfr</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 लंबवत वर्तुल गति उत्पन्न करता है। यदि v तथा B एक दूसरे के लंबवत हैं, तो कण
 (अर्थात किसी वृत्त के अनुदिश) वर्तुल गति करेगा (चित्र 4.5)।
@@ -679,7 +693,7 @@ r = mv/qB
 
 +
 
-Reprint 2026-27
+
 
 
 ---
@@ -727,7 +741,16 @@ E = (2 )mv2 = (½ ) 9 × 10-31 kg × 9 × 1014 m²/s²
 जितने चुंबकीय क्षेत्र हमें ज्ञात हैं वे सभी विद्युत धाराओं (अथवा गतिशील आवेशों) तथा
 कणों के नैज चुंबकीय आघूर्णों के कारण उत्पन्न हुए हैं। यहाँ अब हम विद्युत धारा तथा
 उसके द्वारा उत्पन्न चुंबकीय क्षेत्र के बीच संबंध के बारे में अध्ययन करेंगे। यह संबंध
-बायो सावर्ट नियम द्वारा प्राप्त होता है। चित्र 4.7 में एक परिमित विद्युत धारा चालक
+बायो सावर्ट नियम द्वारा प्राप्त होता है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_7_hi.png" alt="चित्र 4.7" onclick="openImageModal(this.src, 'चित्र 4.7: ftrus pqacdh; {ks=k gesa Kkr gSa os lHkh fo|qr /kjkvksa (vFkok xfr&#39;khy vkos&...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.7</strong> ftrus pqacdh; {ks=k gesa Kkr gSa os lHkh fo|qr /kjkvksa (vFkok xfr'khy vkos'kksa) rFkk d.kksa osQ uSt pqacdh; vk?kw.kks± osQ dkj.k mRiUu gq, gSaA ;gk¡ vc ge fo|qr /kjk rFkk mlosQ }kjk mRiUu pqacdh; {ks=k osQ chp laca/ osQ ckjs esa vè;;u djsaxsA ;g laca/ ck;ks lkoVZ fu;e }kjk izkIr gksrk gSA fp=k 4.7 esa ,d ifjfer fo|qr /kjk pkyd</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 XY दर्शाया गया है, जिसमें विद्युत धारा 1 प्रवाहित हो रही है। चालक के अतिअल्प
 अवयव dl पर विचार कीजिए। मान लीजिए हमें इस अवयव द्वारा इससे r दूरी पर स्थित
 किसी बिंदु P पर चुंबकीय क्षेत्र dB का मान निर्धारित करना है। मान लीजिए विस्थापन
@@ -781,7 +804,7 @@ dlxr की दिशा दक्षिण हस्त पेंच निय�
 
 111
 
-Reprint 2026-27
+
 
 
 ---
@@ -860,10 +883,19 @@ not
 परिमाण 4 10-7 है।
 
 उदाहरण 4.4 कोई विद्युत धारा अवयव △l = ∆xi जिससे एक उच्च धारा I = 10A प्रवाहित
-हो रही है, मूल बिंदु पर स्थित है (चित्र 4.8), y-अक्ष पर 0.5m दूरी पर स्थित किसी बिंदु पर
+हो रही है, मूल बिंदु पर स्थित है (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_8_hi.png" alt="चित्र 4.8" onclick="openImageModal(this.src, 'चित्र 4.8: fp=k 4.8 gy...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.8</strong> fp=k 4.8 gy</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 इसके कारण चुंबकीय क्षेत्र का क्या मान है। ∆x = 1 cm
 
-Reprint 2026-27
+
 
 
 ---
@@ -942,7 +974,14 @@ ix j = k; jx k = i; kx i = j
 जाएगा। हम यह मानते हैं कि प्रवाहित विद्युत धारा अपरिवर्ती है तथा
 मूल्यांकन मुक्त दिक्स्थान (निर्वात) में किया गया है।
 
-चित्र 4.9 में वृत्ताकार पाश में स्थायी विद्युत धारा 1 प्रवाहित होते हुए
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_9_hi.png" alt="चित्र 4.9" onclick="openImageModal(this.src, 'चित्र 4.9: fp=k 4.9 esa o`Ùkkdkj ik&#39;k esa LFkk;h fo|qr /kjk I izokfgr gksrs gq, n&#39;k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.9</strong> fp=k 4.9 esa o`Ùkkdkj ik'k esa LFkk;h fo|qr /kjk I izokfgr gksrs gq, n'kkZbZ xbZ gSA ik'k dks ewy ¯cnq ij x y ry esa fLFkr n'kkZ;k x;k gS rFkk ik'k dk f=kT;k R gSA x-v{k gh ywi dk v{k gSA gesa blh v{k osQ ¯cnq P ij pqacdh; {ks=k ifjdfyr djuk gS] eku yhft, ¯cnq P ik'k osQ osaQnz ls x nwjh ij fLFkr gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 दर्शाई गई है। पाश को मूल बिंदु पर xy तल में स्थित दर्शाया गया है तथा
 पाश का त्रिज्या R है। x-अक्ष ही लूप का अक्ष है। हमें इसी अक्ष के बिंदु
 P पर चुंबकीय क्षेत्र परिकलित करना है, मान लीजिए बिंदु P पाश के केंद्र
@@ -993,7 +1032,7 @@ dl के कारण चुंबकीय क्षेत्र dB तथा 
 
 (4.8)
 
-Reprint 2026-27
+
 
 113
 
@@ -1061,7 +1100,16 @@ not
 
 (4.12)
 
-वृत्ताकार तार के कारण चुंबकीय क्षेत्र रेखाएँ बंद वृत्ताकार पाश बनाती हैं जिन्हें चित्र 4.10 में
+वृत्ताकार तार के कारण चुंबकीय क्षेत्र रेखाएँ बंद वृत्ताकार पाश बनाती हैं जिन्हें
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_10_hi.png" alt="चित्र 4.10" onclick="openImageModal(this.src, 'चित्र 4.10: o`Ùkkdkj rkj osQ dkj.k pqacdh; {ks=k js[kk,¡ can o`Ùkkdkj ik&#39;k cukrh gaS ftU...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.10</strong> o`Ùkkdkj rkj osQ dkj.k pqacdh; {ks=k js[kk,¡ can o`Ùkkdkj ik'k cukrh gaS ftUgsa fp=k 4.10 esa n'kkZ;k x;k gSA pqacdh; {ks=k dh fn'kk (,d vU;) nf{k.k gLr vaxq"B fu;e }kjk gksrh gSA ;g fu;e uhps fn;k x;k gS]</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 दर्शाया गया है। चुंबकीय क्षेत्र की दिशा (एक अन्य) दक्षिण हस्त अंगुष्ठ नियम द्वारा होती है। यह
 नियम नीचे दिया गया है,
 
@@ -1069,7 +1117,7 @@ not
 धारा की दिशा की ओर संकेत करें, तब इस हाथ का फैला हुआ अँगूठा चुंबकीय क्षेत्र की दिशा
 बताता है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -1082,7 +1130,14 @@ Reprint 2026-27
 
 तथा निचले पार्श्व को दक्षिण ध्रुव माना जा सकता है।
 
-उदाहरण 4.5 चित्र 4.11 में दर्शाए अनुसार किसी सीधे तार जिसमें 12 A विद्युत धारा प्रवाहित
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_11_hi.png" alt="चित्र 4.11" onclick="openImageModal(this.src, 'चित्र 4.11: mnkgj.k 4.5 fp=k 4.11 esa n&#39;kkZ, vuqlkj fdlh lh/s rkj ftlesa 12 A fo|qr /kjk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.11</strong> mnkgj.k 4.5 fp=k 4.11 esa n'kkZ, vuqlkj fdlh lh/s rkj ftlesa 12 A fo|qr /kjk izokfgr gks jgh gS] dks 2.0 cm f=kT;k osQ v/Zo`Ùkkdkj pki esa eksM+k x;k gSA bl pki osQ osaQnz ij pqacdh; {ks=k B dks ekusaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 हो रही है, को 2.0 cm त्रिज्या के अर्धवृत्ताकार चाप में मोड़ा गया है। इस चाप के केंद्र पर चुंबकीय
 क्षेत्र B को मानें।
 
@@ -1136,7 +1191,7 @@ B =
 
 = 2π×10^4 T= 6.28×104־ Τ.
 
-Reprint 2026-27
+
 
 उदाहरण 4.5
 
@@ -1154,13 +1209,13 @@ I
 
 ### 4.6 ऐम्पियर का परिपथीय नियम
 
-C
-
-सीमा
-
-सतह
-
-चित्र 4.12
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_12_hi.png" alt="चित्र 4.12" onclick="openImageModal(this.src, 'चित्र 4.12: fp=k 4.12...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.12</strong> fp=k 4.12</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 बायो-सावर्ट नियम को अभिव्यक्त करने का एक अन्य वैकल्पिक तथा रुचिकर उपाय भी है।
 ऐम्पियर के परिपथीय नियम में किसी खुले पृष्ठ जिसकी कोई सीमा हो, पर विचार किया
@@ -1206,7 +1261,16 @@ BL=μοζ
 
 not
 
-जब किसी निकाय में इस प्रकार की सममिति हो जैसे कि चित्र 4.13 में सीधे विद्युत धारावाही
+जब किसी निकाय में इस प्रकार की सममिति हो जैसे कि
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_13_hi.png" alt="चित्र 4.13" onclick="openImageModal(this.src, 'चित्र 4.13: tc fdlh fudk; esa bl izdkj dh lefefr gks tSls fd fp=k 4.13 esa lh/s fo|qr /kjkok...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.13</strong> tc fdlh fudk; esa bl izdkj dh lefefr gks tSls fd fp=k 4.13 esa lh/s fo|qr /kjkokgh vuar rkj osQ fy, gS] rc ,sfEi;j dk fu;e gesa pqacdh; {ks=k dk ,d ljy ewY;kadu djus ;ksX; cukrk gS tks Bhd mlh izdkj gS tSls fd xkml fu;e fo|qr {ks=k dks fu/kZfjr djus esa gekjh lgk;rk djrk gSA bls uhps fn, x, mnkgj.k 4.8 esa n'kkZ;k x;k gSA ik'k dh lhek js[kk dk p;u ,d o`Ùk gS rFkk pqacdh; {ks=k o`Ùk dh ifjf/ osQ Li'kZjs[kh; gSA lehdj.k [4.13 (b)] osQ oke i{k osQ fy, bl fu;e ls izkIr eku B. 2πr gSA ge ;g ikrs gSa fd rkj osQ ckgj r nwjh ij pqacdh; {ks=k Li'kZjs[kh; gS rFkk bls bl izdkj O;Dr fd;k tk ldrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
 अनंत तार के लिए है, तब ऐम्पियर का नियम हमें चुंबकीय क्षेत्र का एक सरल मूल्यांकन करने योग्य
 बनाता है जो ठीक उसी प्रकार है जैसे कि गाउस नियम विद्युत क्षेत्र को निर्धारित करने में हमारी
 सहायता करता है। इसे नीचे दिए गए उदाहरण 4.8 में दर्शाया गया है। पाश की सीमा रेखा का चयन
@@ -1220,7 +1284,7 @@ B×2πr = μο Ι,
 
 (4.14)
 
-Reprint 2026-27
+
 
 
 ---
@@ -1317,7 +1381,7 @@ Experiments नामक पुस्तक के
 उत्कीर्णित है – Tandem felix (अंत
 में प्रसन्न)।
 
-Reprint 2026-27
+
 
 आंद्रे ऐम्पियर (1775–1836)
 
@@ -1402,28 +1466,13 @@ a2
 
 ऐम्पियर के नियम का उपयोग करने पर B (2nr) = Mo
 
-B =
-
-μοΙ
-2πα2
-
-r
-
-Bxr
-
-(r < a)
-
-B
-
-Bar
-
-Reprint 2026-27
-
-Bx1/r
-
-a
-
-चित्र 4.14
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_14_hi.png" alt="चित्र 4.14" onclick="openImageModal(this.src, 'चित्र 4.14: fp=k 4.14...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.14</strong> fp=k 4.14</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
 Ir2
 
@@ -1467,19 +1516,15 @@ lished
 होता है। इस प्रकार फेरे को एक वृत्ताकार पाश माना जा सकता है। किसी परिनालिका के सभी फेरों
 के कारण उत्पन्न कुल चुंबकीय क्षेत्र प्रत्येक फेरे के चुंबकीय क्षेत्रों का सदिश योग होता है।
 परिनालिका पर लपेटने के लिए इनैमलित तारों का उपयोग किया जाता है ताकि फेरे एक दूसरे से
-विद्युतरोधी रहें।
 
-P
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_15_hi.png" alt="चित्र 4.15" onclick="openImageModal(this.src, 'चित्र 4.15: fp=k 4.15 esa fdlh ifjfer ifjukfydk dk pqacdh; {ks=k n&#39;kkZ;k x;k gSA fp=k 4....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.15</strong> fp=k 4.15 esa fdlh ifjfer ifjukfydk dk pqacdh; {ks=k n'kkZ;k x;k gSA fp=k 4.15 (a) esa geus bl ifjukfydk osQ ,d [kaM dks foLrkfjr djosQ fn[kk;k gSA fp=k 4.15 (b) esa o`Ùkkdkj ik'k ls ;g Li"V gS fd nks ikl&ikl osQ isQjksa osQ chp pqacdh; {ks=k u"V gks tkrk gSA fp=k 4.15 (b)</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
-9
-
-P
-
-(a)
-
-(b)
-
-चित्र 4.15 (a) परिनालिका के किसी भाग जिसे स्पष्टता की दृष्टि से बाहर खींचा दर्शाया गया है, के कारण चुंबकीय क्षेत्र।
 केवल बाह्य अर्धवृत्ताकार भाग दर्शाया गया है। ध्यान से देखिए, किस प्रकार पास-पास स्थित फेरों के बीच चुंबकीय क्षेत्र एक
 दूसरे को निरसित कर देते हैं। (b) किसी परिमित परिनालिका का चुंबकीय क्षेत्र।
 
@@ -1487,7 +1532,7 @@ P
 में हमने इस परिनालिका के एक खंड को विस्तारित करके दिखाया है। चित्र 4.15 (b) में वृत्ताकार
 पाश से यह स्पष्ट है कि दो पास-पास के फेरों के बीच चुंबकीय क्षेत्र नष्ट हो जाता है। चित्र 4.15 (b)
 
-Reprint 2026-27
+
 
 119
 
@@ -1505,7 +1550,14 @@ Reprint 2026-27
 परिनालिका के अक्ष के अनुदिश है। बाह्य भाग के मध्य बिंदु पर चुंबकीय क्षेत्र दुर्बल है और साथ
 ही यह परिनालिका के अक्ष के अनुदिश है तथा इसका लंबवत अथवा अभिलंबवत कोई घटक भी
 नहीं है। जैसे-जैसे परिनालिका की लंबाई में वृद्धि होती है वह लंबी बेलनाकार धातु के पटल जैसी
-दिखाई देने लगती है। चित्र 4.16 में यह आदर्शीकृत चित्रण निरूपित किया गया है। परिनालिका के
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_16_hi.png" alt="चित्र 4.16" onclick="openImageModal(this.src, 'चित्र 4.16: esa ge ;g ns[krs gSa fd vUr%Hkkx osQ eè; ¯cnq P ij pqacdh; {ks=k ,dleku] izcy rF...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.16</strong> esa ge ;g ns[krs gSa fd vUr%Hkkx osQ eè; ¯cnq P ij pqacdh; {ks=k ,dleku] izcy rFkk ifjukfydk osQ v{k osQ vuqfn'k gSA cká Hkkx osQ eè; ¯cnq Q ij paqcdh; {ks=k nqcZy gS vkSj lkFk gh ;g ifjukfydk osQ v{k osQ vuqfn'k gS rFkk bldk yacor vFkok vfHkyacor dksbZ ?kVd Hkh ugha gSA tSls&tSls ifjukfydk dh yackbZ esa o`f¼ gksrh gS og yach csyukdkj /krq osQ iVy tSlh fn[kkbZ nsus yxrh gSA fp=k 4.16 esa ;g vkn'khZo`Qr fp=k.k fu:fir fd;k x;k gSA ifjukfydk osQ ckgj pqacdh; {ks=k 'kwU; gksus yxrk gSA ifjukfydk osQ Hkhrj gj ¯cnq ij pqacdh; {ks=k v{k osQ lekarj gksrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
 बाहर चुंबकीय क्षेत्र शून्य होने लगता है। परिनालिका के भीतर हर बिंदु पर चुंबकीय क्षेत्र अक्ष के
 
@@ -1581,7 +1633,7 @@ I
 
 = 6.28 × 10-3 T
 
-Reprint 2026-27
+
 
 
 ---
@@ -1603,7 +1655,14 @@ Reprint 2026-27
 ही चर्चा करेंगे जो कदाचित ऐम्पियर के श्रम साध्य कार्यों के प्रति आभार
 प्रकट करने में हमारी सहायता करेंगे।
 
-चित्र 4.17 में दो लंबे समांतर चालक a तथा b दर्शाए गए हैं जिनके
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_17_hi.png" alt="चित्र 4.17" onclick="openImageModal(this.src, 'चित्र 4.17: fp=k 4.17 esa nks yacs lekarj pkyd a rFkk b n&#39;kkZ, x, gSa ftuosQ chp i`Fkdu ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.17</strong> fp=k 4.17 esa nks yacs lekarj pkyd a rFkk b n'kkZ, x, gSa ftuosQ chp i`Fkdu d gS rFkk ftuls (lekarj) Øe'k% Ia rFkk Ib fo|qr /kjk,¡ izokfgr gks jgh gSaA pkyd ‘a’ pkyd ‘b’ osQ vuqfn'k izR;sd ¯cnq ij leku pqacdh; {ks=k Ba yxk jgk gSA rc nf{k.k gLr fu;e osQ vuqlkj bl pqacdh; {ks=k dh fn'kk v/kseq[kh (tc pkyd {kSfrtr% j[ks gksrs gSa) gSA ,sfEi;j osQ ifjiFkh; fu;e vFkok ¹lehdj.k [4.15 (a)º osQ vuqlkj bl pqacdh; {ks=k dk ifjek.k</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 बीच पृथकन d है तथा जिनसे (समांतर) क्रमशः 1 तथा I विद्युत धाराएँ
 प्रवाहित हो रही हैं। चालक 'a' चालक 'b' के अनुदिश प्रत्येक बिंदु पर
 समान चुंबकीय क्षेत्र B लगा रहा है। तब दक्षिण हस्त नियम के अनुसार इस
@@ -1679,7 +1738,7 @@ Fba = -Fab
 
 121
 
-Reprint 2026-27
+
 
 
 ---
@@ -1756,7 +1815,7 @@ f = F/l = I B sine
 क्षेत्रों के साथ समय निर्भर स्थितियों के प्रकरण पर लागू होती है, परंतु इस शर्त के साथ कि क्षेत्रों द्वारा वहन
 संवेग को भी सम्मिलित किया जाए।
 
-Reprint 2026-27
+
 
 
 ---
@@ -1808,7 +1867,14 @@ Sublisted
 
 पहले हम उस सरल प्रकरण पर विचार करते हैं जिसमें आयताकार पाश
 इस प्रकार स्थित है कि एकसमान चुंबकीय क्षेत्र B पाश के तल में है। इसे
-चित्र 4.18 (a) में दर्शाया गया है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_18_hi.png" alt="चित्र 4.18" onclick="openImageModal(this.src, 'चित्र 4.18: igys ge ml ljy izdj.k ij fopkj djrs gSa ftlesa vk;rkdkj ik&#39;k bl izdkj fLFkr ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.18</strong> igys ge ml ljy izdj.k ij fopkj djrs gSa ftlesa vk;rkdkj ik'k bl izdkj fLFkr gS fd ,dleku pqacdh; {ks=k B ik'k osQ ry esa gSA bls fp=k 4.18 (a) esa n'kkZ;k x;k gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
 
 चुंबकीय क्षेत्र पाश की दो भुजाओं AD तथा BC पर कोई बल आरोपित
 नहीं करता। यह पाश की भुजा AB के लंबवत है तथा इस पर बल F
@@ -1892,7 +1958,7 @@ T=F+F2
 
 123
 
-Reprint 2026-27
+
 
 
 ---
@@ -1920,8 +1986,15 @@ a
 
 अब हम आगे उस प्रकरण पर विचार करेंगे जिसमें पाश का तल चुंबकीय क्षेत्र के अनुदिश नहीं
 है, परंतु इनके बीच कोई कोण बनता है। हम चुंबकीय क्षेत्र B तथा कुंडली पर अभिलंब के बीच
-का कोण लेते हैं (पहला प्रकरण 0 = n/2 के तदनुरूपी है)। चित्र
-4.19 में यह व्यापक प्रकरण दर्शाया गया है।
+का कोण लेते हैं (पहला प्रकरण 0 = n/2 के तदनुरूपी है)।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_19_hi.png" alt="चित्र 4.19" onclick="openImageModal(this.src, 'चित्र 4.19: dk dks.k θ ysrs gSa (igyk izdj.k θ = π/2 osQ rnuq:ih gS)A fp=k 4.19 esa ;g O;kid...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.19</strong> dk dks.k θ ysrs gSa (igyk izdj.k θ = π/2 osQ rnuq:ih gS)A fp=k 4.19 esa ;g O;kid izdj.k n'kkZ;k x;k gSA Hkqtkvksa BC rFkk DA ij dk;Zjr cy ifjek.k esa leku fn'kk esa foijhr rFkk oqaQMyh osQ v{k osQ vuqfn'k dk;Z djrs gSaA ;s cy BC rFkk DA osQ lagfr osaQnzksa dks la;ksftr djrs gSaA v{k osQ vuqfn'k lajsf[kr gksus osQ dkj.k ;s ,d nwljs dks fujLr djrs gSa] ifj.kkeLo:i dksbZ usV cy vFkok cy vk?kw.kZ ugha gSA Hkqtkvksa AB rFkk CD ij dk;Zjr cy F1 rFkk F2 gSaA ;s Hkh ifjek.k lfgr leku ,oa foijhr gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
 
 C
 
@@ -2049,7 +2122,7 @@ t = mx B
 
 t = P XE
 
-Reprint 2026-27
+
 
 
 ---
@@ -2139,7 +2212,7 @@ hed
 
 125
 
-Reprint 2026-27
+
 
 
 ---
@@ -2256,7 +2329,7 @@ t = IA×B, और चूँकि क्षैतिज पाश का क्�
 इस अनुभाग में हम मौलिक चुंबकीय तत्व के रूप में किसी विद्युत धारा पाश के विषय में विचार
 करेंगे। हम यह दर्शाएँगे कि वृत्ताकार विद्युत धारा पाश के कारण चुंबकीय क्षेत्र (अधिक दूरियों पर)
 
-Reprint 2026-27
+
 
 
 ---
@@ -2377,7 +2450,7 @@ x >> R
 
 127
 
-Reprint 2026-27
+
 
 
 ---
@@ -2411,7 +2484,15 @@ Jis
 ### अध्याय 3 के अंतर्गत विद्युत परिपथों में प्रवाहित धाराओं तथा वोल्टताओं वोल्टताओं के विषय में विस्तार से चर्चा
 की जा चुकी है। परंतु हम इन्हें किस प्रकार मापते हैं। हम यह कैसे कहते हैं कि किसी परिपथ में
 1.5 A विद्युत धारा प्रवाहित हो रही है अथवा किसी प्रतिरोधक के सिरों
-के बीच 1.2 V विभवांतर है। चित्र 4.20 में इसी उद्देश्य के उपयोग से किया
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_20_hi.png" alt="चित्र 4.20" onclick="openImageModal(this.src, 'चित्र 4.20: 1.5 A fo|qr /kjk izokfgr gks jgh gS vFkok fdlh izfrjks/d osQ fljksa osQ chp 1.2 ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.20</strong> 1.5 A fo|qr /kjk izokfgr gks jgh gS vFkok fdlh izfrjks/d osQ fljksa osQ chp 1.2 V foHkokarj gSA fp=k 4.20 esa blh mís'; osQ mi;ksx ls fd;k tkus okyk mi;ksxh midj.k n'kkZ;k x;k gS ftls py oqaQMyh xSYosuksehVj (moving coil galvanometer — MCG) dgrs gSaA ;g ,d ,slh ;qfDr gS ftlosQ fl¼kar dks gekjs }kjk vuqHkkx esa 4.9 esa dh xbZ ppkZ osQ vk/kj ij le>k tk ldrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(24)">📄 View in PDF (Page 24)</button>
+  </div>
+</div>
+
 जाने वाला उपयोगी उपकरण दर्शाया गया है जिसे चल कुंडली गैल्वेनोमीटर
 (moving coil galvanometer – MCG) कहते हैं। यह एक ऐसी युक्ति
 है जिसके सिद्धांत को हमारे द्वारा अनुभाग में 4.9 में की गई चर्चा के आधार पर
@@ -2470,7 +2551,7 @@ S
 
 ko = NI AB
 
-Reprint 2026-27
+
 
 P
 
@@ -2520,7 +2601,15 @@ S
 
 तो मापक यंत्र को परिपथ में जोड़ने
 का प्रभाव भी कम होगा जिसकी उपेक्षा की जा सकती है। इस व्यवस्था का एक योजना आरेख
-चित्र 4.21 में दिखाया गया है। इस प्रकार बने ऐमीटर के पैमाने का अंशांकन कर दिया जाता है
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_21_hi.png" alt="चित्र 4.21" onclick="openImageModal(this.src, 'चित्र 4.21: RG rs / (RG + rs) ~ rs ;fn RG >> rs ;fn ifjiFk osQ izfrjks/ Re dh rqyuk esa rs d...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.21</strong> RG rs / (RG + rs) ~ rs ;fn RG >> rs ;fn ifjiFk osQ izfrjks/ Re dh rqyuk esa rs dk eku de gS rks ekid ;a=k dks ifjiFk esa tksM+us dk izHkko Hkh de gksxk ftldh mis{kk dh tk ldrh gSA bl O;oLFkk dk ,d ;kstuk vkjs[k fp=k 4.21 esa fn[kk;k x;k gSA bl izdkj cus ,sehVj osQ iSekus dk va'kkadu dj fn;k tkrk gS rkfd vklkuh ls èkkjk dk eku i<+k tk losQA ,sehVj dh lqxzkfgrk dh ifjHkk"kk ge fo{ksi izfr bdkbZ èkkjk osQ :i esa djrs gSaA lehdj.k (4.26) osQ vuqlkj èkkjk lqxzkfgrk gS]</span>
+    <button class="icon-btn" onclick="goToPdfPage(25)">📄 View in PDF (Page 25)</button>
+  </div>
+</div>
+
 ताकि आसानी से धारा का मान पढ़ा जा सके। ऐमीटर की सुग्राहिता की परिभाषा हम विक्षेप प्रति
 इकाई धारा के रूप में करते हैं। समीकरण (4.26) के अनुसार धारा सुग्राहिता है,
 
@@ -2545,7 +2634,16 @@ k
 पार्श्वक्रम में लगाना होगा। और फिर, इसमें से अत्यल्प धारा प्रवाहित होनी चाहिए, अन्यथा, वोल्टता
 की माप मूल व्यवस्था को अत्यधिक विक्षुब्ध कर देगी। प्रायः हम मापक यंत्रों द्वारा उत्पन्न विक्षोभ
 को एक प्रतिशत से कम रखते हैं। माप की परिशुद्धता बनाए रखने के लिए, गैल्वेनोमीटर के
-श्रेणीक्रम में एक बड़ा प्रतिरोध R जोड़ा जाता है। इस व्यवस्था का योजना आरेख चित्र 4.22 में
+श्रेणीक्रम में एक बड़ा प्रतिरोध R जोड़ा जाता है। इस व्यवस्था का योजना आरेख
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_22_hi.png" alt="चित्र 4.22" onclick="openImageModal(this.src, 'चित्र 4.22: /kjkekih dk mi;ksx ifjiFk osQ fdlh va&#39;k osQ fljksa osQ chp foHkokarj Kkr dju...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.22</strong> /kjkekih dk mi;ksx ifjiFk osQ fdlh va'k osQ fljksa osQ chp foHkokarj Kkr djus osQ fy, oksYVrkekih osQ :i esa Hkh gks ldrk gSA bl mís'; osQ fy, bldks ifjiFk osQ ml va'k osQ ik'oZØe esa yxkuk gksxkA vkSj fiQj] blesa ls vR;Yi /kjk izokfgr gksuh pkfg,] vU;Fkk] oksYVrk dh eki ewy O;oLFkk dks vR;f/d fo{kqC/ dj nsxhA izk;% ge ekid ;a=kksa }kjk mRiUu fo{kksHk dks ,d izfr'kr ls de j[krs gSaA eki dh ifj'kq¼rk cuk, j[kus osQ fy,] xSYosuksehVj osQ Js.khØe esa ,d cM+k izfrjksèk R tksM+k tkrk gSA bl O;oLFkk dk ;kstuk vkjs[k fp=k 4.22 esa n'kkZ;k x;k gSA è;ku nhft, fd vc oksYVehVj dk oqQy izfrjksèk]</span>
+    <button class="icon-btn" onclick="goToPdfPage(25)">📄 View in PDF (Page 25)</button>
+  </div>
+</div>
+
 दर्शाया गया है। ध्यान दीजिए कि अब वोल्टमीटर का कुल प्रतिरोध,
 
 RG + R R : अर्थात प्रतिरोध बहुत अधिक है।
@@ -2583,7 +2681,7 @@ G
 
 129
 
-Reprint 2026-27
+
 
 
 ---
@@ -2664,7 +2762,13 @@ berer
 
 ### 3.00 V
 
-चित्र 4.23
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_23_hi.png" alt="चित्र 4.23" onclick="openImageModal(this.src, 'चित्र 4.23: fp=k 4.23...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 4.23</strong> fp=k 4.23</span>
+    <button class="icon-btn" onclick="goToPdfPage(26)">📄 View in PDF (Page 26)</button>
+  </div>
+</div>
 
 (a) परिपथ में कुल प्रतिरोध है
 
@@ -2692,7 +2796,7 @@ RG + rs
 
 I = 3/3 = 1.00 A
 
-Reprint 2026-27
+
 
 
 ---
@@ -2763,7 +2867,7 @@ BL = μο Ι
 7. किसी लंबे सीधे तार जिससे 1 विद्युत धारा प्रवाहित हो रही है, से R दूरी पर स्थित किसी बिंदु
 पर चुंबकीय क्षेत्र का परिमाण
 
-Reprint 2026-27
+
 
 131
 
@@ -2886,7 +2990,7 @@ Nm rad¯¹ गैल्वेनोमीटर में दृष्टिग�
 ### 2. इस अध्याय में वर्णित विचार केवल अपरिवर्ती विद्युत धाराओं (जो समय के साथ परिवर्तित
 नहीं होती) के लिए ही लागू है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -2915,15 +3019,11 @@ F = q (v × B + E)
 
 अभ्यास
 
-### 4.1
-
-तार की एक वृत्ताकार कुंडली में 100 फेरे हैं,
+### 4.1 तार की एक वृत्ताकार कुंडली में 100 फेरे हैं,
 
 ### 4.2
 
-### 4.3
-
-ERT
+### 4.3 ERT
 
 ublished
 
@@ -2935,9 +3035,7 @@ ublished
 
 ### 4.7
 
-### 4.8
-
-हैं, प्रत्येक की त्रिज्या 8.0 cm है और इनमें 0.40 A
+### 4.8 हैं, प्रत्येक की त्रिज्या 8.0 cm है और इनमें 0.40 A
 
 विद्युत धारा प्रवाहित हो रही है। कुंडली के केंद्र पर चुंबकीय क्षेत्र का परिमाण क्या है?
 
@@ -2970,7 +3068,7 @@ ublished
 में 400 फेरे हैं। परिनालिका का व्यास 1.8 cm है। यदि इसमें 8.0A विद्युत धारा प्रवाहित हो
 रही है तो परिनालिका के भीतर केंद्र के पास चुंबकीय क्षेत्र B के परिमाण परिकलित कीजिए।
 
-Reprint 2026-27
+
 
 133
 
@@ -2982,9 +3080,7 @@ Reprint 2026-27
 
 भौतिकी
 
-### 4.9
-
-एक वर्गाकार कुंडली जिसकी प्रत्येक भुजा 10 cm है, में 20 फेरे हैं और उसमें 12A विद्युत
+### 4.9 एक वर्गाकार कुंडली जिसकी प्रत्येक भुजा 10 cm है, में 20 फेरे हैं और उसमें 12A विद्युत
 धारा प्रवाहित हो रही है। कुंडली ऊर्ध्वाधरतः लटकी हुई है और इसके तल पर खींचा गया अभिलंब
 0.80T के एकसमान चुंबकीय क्षेत्र की दिशा से 30° का एक कोण बनाता है। कुंडली पर लगने
 वाले बलयुग्म आघूर्ण का परिमाण क्या है?
@@ -2995,9 +3091,7 @@ Reprint 2026-27
 
 ### 4.12
 
-### 4.13
-
-R₁ = 10 Ω, Ν₁ = 30,
+### 4.13 R₁ = 10 Ω, Ν₁ = 30,
 
 1
 
@@ -3032,5 +3126,5 @@ A₂ = 1.8 × 10¯³ m², B₂ = 0.50 T (दोनों मीटरों क�
 
 not to be
 
-Reprint 2026-27
+
 

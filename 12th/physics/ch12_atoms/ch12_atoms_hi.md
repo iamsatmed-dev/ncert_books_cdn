@@ -39,9 +39,9 @@ republished
 तीव्रताएँ भिन्न होती हैं। यह समझा गया कि यह विकिरण परमाणुओं तथा अणुओं के दोलनों के कारण
 होता है, जो प्रत्येक परमाणु अथवा अणु का अपने समीप के परमाणुओं या अणुओं के साथ होने वाली
 
-Reprint 2025-26
 
-12092CH12
+
+
 
 
 ---
@@ -112,7 +112,7 @@ Reprint 2025-26
 12.2 ऐल्फ़ा कण प्रकीर्णन तथा परमाणु का रदरफोर्ड नाभिकीय मॉडल
 सन् 1911 में रदरफोर्ड के सुझाव पर एच. गाइगर तथा ई. मार्सडन ने कुछ प्रयोग किए। उनके द्वारा
 
-Reprint 2025-26
+
 
 291
 
@@ -120,18 +120,32 @@ Reprint 2025-26
 ---
 ## 📄 Page 3
 
-- भौतिकी
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_1_hi.png" alt="
 
-निर्वात
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_hi.png" alt="चित्र 12" onclick="openImageModal(this.src, 'चित्र 12: * fdlh bysDVªkWu dh E = 0 eV ls vf/d oqQN Hkh oqQy ÅtkZ gks ldrh gSA ,slh n&#39;...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 12</strong> * fdlh bysDVªkWu dh E = 0 eV ls vf/d oqQN Hkh oqQy ÅtkZ gks ldrh gSA ,slh n'kkvksa esa bysDVªkWu Lora=k gksrk gSA bl izdkj E = 0 eV ls Åij fp=k 12-7 esa n'kkZ, vuqlkj ÅtkZ voLFkkvksa dk ,d lkarR; gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
 
-a-कणों का
-स्रोत
+<div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 12.1</strong> 83Bi ls mRlftZr 5.5 MeV ÅtkZ okys α−d.kksa osQ ,d iqat dks irys Lo.kZ iUuh ij fn"V djk;k x;k] tSlk fd fp=k 12.1 esa n'kkZ;k x;k gSA
 
-स्वर्ण पन्नी
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_2_hi.png" alt="चित्र 12.2" onclick="openImageModal(this.src, 'चित्र 12.2: fp=k 12.2 xkbxj&eklZMu iz;ksx dk O;oLFkkRed fu:i.kA...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 12.2</strong> fp=k 12.2 xkbxj&eklZMu iz;ksx dk O;oLFkkRed fu:i.kA</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
-परदा
+<button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
-चित्र 12.1 गाइगर-मार्सडन प्रकीर्णन प्रयोग। संपूर्ण उपकरण एक निर्वात
 कक्ष में रखा गया है। (इस चित्र में यह कक्ष नहीं दर्शाया गया है।)
 
 83
@@ -189,7 +203,14 @@ ZnS परदा
 
 चित्र 12.2 गाइगर-मार्सडन प्रयोग का व्यवस्थात्मक निरूपण।
 
-चित्र 12.3 में किसी दिए समयांतराल में विभिन्न कोणों पर प्रकीर्णित कुल ऐल्फ़ा-कणों की
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_3_hi.png" alt="चित्र 12.3" onclick="openImageModal(this.src, 'चित्र 12.3: fp=k 12.3 esa fdlh fn, le;karjky esa fofHkUu dks.kksa ij izdhf.kZr oqQy ,sYI+kQk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 12.3</strong> fp=k 12.3 esa fdlh fn, le;karjky esa fofHkUu dks.kksa ij izdhf.kZr oqQy ,sYI+kQk&d.kksa dh la[;k dk izk:fid vkys[k n'kkZ;k x;k gSA bl fp=k esa fn[kk, x, ¯cnq iz;ksx esa izkIr vk¡dM+ksa dks fu:fir djrs gSa vkSj larr oØ lS¼kafrd iwokZuqeku gS tks bl dYiuk ij vk/kfjr gS fd ijek.kq esa ,d lw{e l?ku rFkk /ukosf'kr ukfHkd gSA cgqr ls ,sYI+kQk&d.k Lo.kZ iUuh dks ikj dj tkrs gSaA bldk vFkZ gS muesa la?kêðu ugha gksrkA vkifrr ,sYI+kQk&d.kksa esa ls osQoy 0.14% (yxHkx) dk 1</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 संख्या का प्रारूपिक आलेख दर्शाया गया है। इस चित्र में दिखाए गए बिंदु प्रयोग में प्राप्त आँकड़ों
 को निरूपित करते हैं और संतत वक्र सैद्धांतिक पूर्वानुमान है जो इस कल्पना पर आधारित है कि
 परमाणु में एक सूक्ष्म सघन तथा धनावेशित नाभिक है। बहुत से ऐल्फ़ा-कण स्वर्ण पन्नी को पार कर
@@ -197,7 +218,7 @@ ZnS परदा
 (लगभग) का 1° के कोण से अधिक प्रकीर्णन होता है तथा 8000 ऐल्फ़ा-कणों में से लगभग 1
 कण 90° से अधिक विक्षेपित होता है। रदरफोर्ड ने तर्क किया कि ऐल्फ़ा-कणों को विपरीत दिशा
 
-Reprint 2025-26
+
 
 
 ---
@@ -276,7 +297,7 @@ that the link Ploftyak ne aaj prajat
 
 293
 
-Reprint 2025-26
+
 
 
 ---
@@ -301,7 +322,16 @@ F=
 12.2.1 ऐल्फ़ा-कण प्रक्षेप-पथ
 
 ऐल्फ़ा-कण द्वारा अनुरेखित प्रक्षेप पथ, संघट्ट के संघट्ट प्राचल, b पर निर्भर करता है। संघट्ट प्राचल
-ऐल्फ़ा-कण के प्रारंभिक वेग सदिश की नाभिक के केंद्र से अभिलंबीय दूरी है (चित्र 12.4)। दिए
+ऐल्फ़ा-कण के प्रारंभिक वेग सदिश की नाभिक के केंद्र से अभिलंबीय दूरी है (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_4_hi.png" alt="चित्र 12.4" onclick="openImageModal(this.src, 'चित्र 12.4: ,sYI+kQk&d.k }kjk vuqjsf[kr iz{ksi iFk] la?kêð osQ la?kêð izkpy] b ij fuHkZj djr...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 12.4</strong> ,sYI+kQk&d.k }kjk vuqjsf[kr iz{ksi iFk] la?kêð osQ la?kêð izkpy] b ij fuHkZj djrk gSA la?kêð izkpy ,sYI+kQk&d.k osQ izkjafHkd osx lfn'k dh ukfHkd osQ osaQæ ls vfHkyach; nwjh gS (fp=k 12.4)A fn, x, ,sYI+kQk&d.kksa osQ iqat ds la?kêð izkpy b dk forj.k bl izdkj gS fd iqat fofHkUu fn'kkvksa</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 गए ऐल्फ़ा-कणों के पुंज के संघट्ट प्राचल b का वितरण इस प्रकार है कि पुंज विभिन्न दिशाओं
 में भिन्न-भिन्न प्रायिकताओं से प्रकीर्णित होता है (चित्र
 12.4)। (किसी पुंज में सभी कणों की लगभग समान
@@ -354,7 +384,7 @@ m) = 105, अर्थात इलेक्ट्रॉन के कक्ष 
 इससे यह भी ज्ञात होता है कि परमाणु में हमारे सौर परिवार की अपेक्षा बहुत अधिक भाग खाली
 स्थान है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -455,7 +485,7 @@ r
 
 295
 
-Reprint 2025-26
+
 
 
 ---
@@ -568,7 +598,7 @@ e
 करके, उत्सर्जित की जाती है तो उत्सर्जित विकिरण से स्पेक्ट्रम प्राप्त होता है जिसमें कुछ विशिष्ट
 तरंगदैर्ध्य ही होती हैं। इस प्रकार के स्पेक्ट्रम को उत्सर्जन रैखिक स्पेक्ट्रम कहते हैं तथा इसमें काली
 
-Reprint 2025-26
+
 
 
 ---
@@ -579,7 +609,16 @@ Reprint 2025-26
 91 nm
 122 nm
 
-पृष्ठभूमि पर दीप्त रेखाएँ होती हैं। चित्र 12.5
+पृष्ठभूमि पर दीप्त रेखाएँ होती हैं।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_5_hi.png" alt="चित्र 12.5" onclick="openImageModal(this.src, 'चित्र 12.5: i`&quot;BHkwfe ij nhIr js[kk,¡ gksrh gSaA fp=k 12.5 esa ijek.oh; gkbMªkstu }kjk ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 12.5</strong> i`"BHkwfe ij nhIr js[kk,¡ gksrh gSaA fp=k 12.5 esa ijek.oh; gkbMªkstu }kjk mRl£tr LisDVªe n'kkZ;k x;k gSA vr% fdlh inkFkZ osQ mRltZu jSf[kd LisDVªe dk vè;;u] xSl dh igpku djus osQ fy, ¯iQxj¯izV osQ :i esa dk;Z dj ldrk gSA tc 'osr izdk'k fdlh xSl ls gksdj xq”kjrk gS rFkk ge LisDVªksehVj }kjk ikjxr izdk'k dk fo'ys"k.k djrs gSa rks LisDVªe esa oqQN vnhIr js[kk,¡ fn[kkbZ nsrh gSaA ;s vnhIr js[kk,¡ ifj'kq¼r% :i ls mu rjaxnS?;ks± osQ rnuq:ih gksrh gSa tks ml xSl osQ mRltZu jSf[kd LisDVªe esa ikbZ tkrh gSaA ;g ml xSl osQ inkFkZ dk vo'kks"k.k LisDVªe dgykrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 में परमाण्वीय हाइड्रोजन द्वारा उत्सर्जित
 स्पेक्ट्रम दर्शाया गया है। अतः किसी पदार्थ
 के उत्सर्जन रैखिक स्पेक्ट्रम का अध्ययन,
@@ -630,7 +669,15 @@ Pablished
 अनुसार कोई त्वरित आवेशित कण वैद्युतचुंबकीय तरंगों के रूप में विकिरण
 उत्सर्जित करता है। अतः त्वरित इलेक्ट्रॉन की ऊर्जा निरंतर घटनी चाहिए।
 इलेक्ट्रॉन अंदर की ओर सर्पिल पथ पर चलेगा तथा अंततः नाभिक में गिर
-जाएगा (चित्र 12.6)। अतः ऐसा परमाणु स्थायी नहीं हो सकता। इसके
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_6_hi.png" alt="चित्र 12.6" onclick="openImageModal(this.src, 'चित्र 12.6: ijek.kq osQ jnjiQksMZ }kjk izLrkfor ekWMy esa ;g eku fy;k x;k gS fd ijek.kq osQ ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 12.6</strong> ijek.kq osQ jnjiQksMZ }kjk izLrkfor ekWMy esa ;g eku fy;k x;k gS fd ijek.kq osQ osaQnz esa ukfHkd gksrk gS rFkk ifjØek djrs bysDVªkWu fLFkj gSa Bhd oSls gh tSlk lkSj ifjokj esa gksrk gS ftldk vuqdj.k djosQ bl ekWMy dks fodflr fd;k x;kA rFkkfi] nksuksa fLFkfr;ksa esa oqQN ewyHkwr varj gSA xzgh; ra=k xq#Roh; cy osQ dkj.k c¡/k gS] tcfd ukfHkd&bysDVªkWu ra=k esa vkosf'kr d.k gksus osQ dkj.k] cy osQ owQykWe&fu;e }kjk vU;ksU; fØ;k gksrh gSA ge tkurs gSa fd o`Ùkkdkj iFk esa ?kwerh dksbZ oLrq yxkrkj Roj.k esa gksrh gS] vkSj bl Roj.k dh izo`Qfr vfHkosaQnzh gSA Dykfldh oS|qrpqacdh; fl¼kar osQ vuqlkj dksbZ Rofjr vkosf'kr d.k oS|qrpqacdh; rjaxksa osQ :i esa fofdj.k mRl£tr djrk gSA vr% Rofjr bysDVªkWu dh ÅtkZ fujarj ?kVuh pkfg,A bysDVªkWu vanj dh vksj l£iy iFk ij pysxk rFkk varr% ukfHkd esa fxj tk,xk (fp=k 12.6)A vr% ,slk ijek.kq LFkk;h ugha gks ldrkA blosQ vfrfjDr] Dykfldh oS|qrpqacdh; fl¼kar osQ vuqlkj ifjØeh bysDVªkWuksa }kjk mRl£tr oS|qrpqacdh; rjaxksa dh vko`fÙk ifjØe.k&vko`fÙk osQ cjkcj gksrh gSA tc bysDVªkWu l£iy iFk ij vanj ukfHkd dh vksj vkrs gSa rks muosQ dks.kh; osx vkSj bl izdkj mudh vko`fÙk;k¡ fujarj ifjo£rr gksaxhA iQyLo:i mRl£tr izdk'k dh vko`fÙk Hkh fujarj ifjo£rr gksuh pkfg,A vr% bUgsa ,d larr LisDVªe mRlftZr djuk pkfg, tks okLro esa izsf{kr jSf[kd LisDVªe osQ foijhr gSA Li"Vr;k jnjiQksMZ dk ekWMy osQoy rLohj dk ,d igyw fn[kykrk gS ftldk vFkZ gS fd Dykfldh fopkj ijek.kq lajpuk dh O;k[;k djus osQ fy, i;kZIr ugha gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 अतिरिक्त, क्लासिकी वैद्युतचुंबकीय सिद्धांत के अनुसार परिक्रमी इलेक्ट्रॉनों
 द्वारा उत्सर्जित वैद्युतचुंबकीय तरंगों की आवृत्ति परिक्रमण-आवृत्ति के बराबर
 होती है। जब इलेक्ट्रॉन सर्पिल पथ पर अंदर नाभिक की ओर आते हैं तो उनके
@@ -641,7 +688,7 @@ Pablished
 का एक पहलू दिखलाता है जिसका अर्थ है कि क्लासिकी विचार परमाणु
 संरचना की व्याख्या करने के लिए पर्याप्त नहीं है।
 
-Reprint 2025-26
+
 
 नील्स हेनरिक डेविड बोर
 (1885 – 1962)
@@ -729,7 +776,7 @@ not
 अवस्थाएँ हैं जिसमें यह रह सकता है और प्रत्येक संभव अवस्था में निहित कुल ऊर्जा निश्चित
 होती है। इन संभावित अवस्थाओं को परमाणु की स्थिर अवस्थाएँ कहते हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -810,7 +857,7 @@ n2
 है कि इलेक्ट्रॉन, परमाणु के नाभिक से आबद्ध है। अतः, हाइड्रोजन परमाणु से इलेक्ट्रॉन को नाभिक से
 (या हाइड्रोजन परमाणु में प्रोटॉन से) अनंत दूरी तक विलग करने के लिए ऊर्जा की आवश्यकता होगी।
 
-Reprint 2025-26
+
 
 299
 
@@ -822,35 +869,14 @@ Reprint 2025-26
 
 कुल ऊर्जा E (eV)
 
-0
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_7_hi.png" alt="चित्र 12.7" onclick="openImageModal(this.src, 'चित्र 12.7: fp=k 12.7 gkbMªkstu ijek.kq osQ fy, ÅtkZ&Lrj vkjs[kA dejs osQ rki ij gkbMªkstu...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 12.7</strong> fp=k 12.7 gkbMªkstu ijek.kq osQ fy, ÅtkZ&Lrj vkjs[kA dejs osQ rki ij gkbMªkstu</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
 
--0.85
-
--1.51
-
-अबद्ध (आयनित)
-
-परमाणु
-
-n = 5
-n = 4
-
-n = 3
-
--3.40
-
-n = 2
-
--13.6
-
-उत्तेजित
-
-अवस्थाएँ
-
-निम्नतम अवस्था
-n = 1
-
-चित्र 12.7 हाइड्रोजन परमाणु के लिए
 ऊर्जा-स्तर आरेख। कमरे के ताप पर हाइड्रोजन
 परमाणु में इलेक्ट्रॉन अपना अधिकांश समय
 निम्नतम अवस्था में व्यतीत करता है। हाइड्रोजन
@@ -917,7 +943,7 @@ hvif= Enf-Eni
 स्वतंत्र होता है। इस प्रकार E = 0 eV से ऊपर चित्र 12.7 में दर्शाए अनुसार ऊर्जा अवस्थाओं का एक
 सांतत्य है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -980,18 +1006,19 @@ n
 
 2π r = ηλ, n = 1, 2, 3...
 
-n
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_8_hi.png" alt="चित्र 12.8" onclick="openImageModal(this.src, 'चित्र 12.8: fp=k 12.8 o`Ùkkdkj d{kk esa ,d vizxkeh...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 12.8</strong> fp=k 12.8 o`Ùkkdkj d{kk esa ,d vizxkeh</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
-λ
-
-नाभिक
-
-चित्र 12.8 वृत्ताकार कक्षा में एक अप्रगामी
 तरंग दर्शाई गई है जहाँ पर कक्षा की परिधि
 
 (12.12)
 
-Reprint 2025-26
+
 
 में चार दे ब्रॉग्ली तरंगदैर्ध्य
 आती हैं।
@@ -1056,7 +1083,7 @@ n
 हाइड्रोजनसम परमाणुओं के उदाहरण हैं। इन परमाणुओं में अधिक जटिल इलेक्ट्रॉन-इलेक्ट्रॉन अन्योन्य
 क्रियाएँ नहीं पाई जातीं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1140,7 +1167,7 @@ En =
 इन उत्तेजित अवस्थाओं में, दूसरे परमाणुओं या इलेक्ट्रॉनों से संघट्ट द्वारा अथवा उचित आवृत्ति
 के फोटॉन को अवशोषित करके, पहुँचते हैं।
 
-Reprint 2025-26
+
 
 303
 
@@ -1205,7 +1232,7 @@ not t
 इसके बारे में चिंतित क्यों होते हैं? तथापि बोर मॉडल को उपयोगी बनाने वाले कुछ
 कारण हैं :
 
-Reprint 2025-26
+
 
 
 ---
@@ -1290,7 +1317,7 @@ n = 2 और n = 3 की त्रिज्याएँ क्या हैं?
 3× 10 m/s के कक्षीय वेग से परिक्रमा करती पृथ्वी की अभिलाक्षणिक क्वांटम संख्या ज्ञात
 कीजिए (पृथ्वी का द्रव्यमान = 6.0 × 1024 kg)।
 
-Reprint 2025-26
+
 
 305
 

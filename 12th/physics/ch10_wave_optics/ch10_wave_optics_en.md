@@ -9,7 +9,7 @@ Chapter Ten
 
 WAVE OPTICS
 
-12090CH10
+
 
 republished
 
@@ -42,7 +42,7 @@ wave model; Foucault carried out this experiment in 1850.
 The wave theory was not readily accepted primarily because of
 Newton's authority and also because light could travel through vacuum
 
-Reprint 2025-26
+
 
 
 ---
@@ -109,7 +109,7 @@ waves
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -134,7 +134,15 @@ in a direction perpendicular to the wavefront.
 If we have a point source emitting waves uniformly in all directions,
 then the locus of points which have the same amplitude and vibrate in
 the same phase are spheres and we have what is known as a spherical
-wave as shown in Fig. 10.1(a). At a large distance from the source, a
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_1.png" alt="Fig. 10.1" onclick="openImageModal(this.src, 'Fig. 10.1: If we have a point source emitting waves uniformly in all directions, then the l...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.1</strong> If we have a point source emitting waves uniformly in all directions, then the locus of points which have the same amplitude and vibrate in the same phase are spheres and we have what is known as a spherical wave as shown in Fig. 10.1(a). At a large distance from the source, a small portion of the sphere can be considered as a plane and we have what is known as a plane wave [Fig. 10.1(b)].</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 small portion of the sphere can be considered as a plane and we have
 what is known as a plane wave [Fig. 10.1(b)].
 
@@ -154,7 +162,15 @@ time τ. Thus, Huygens principle is essentially a geometrical construction,
 which given the shape of the wafefront at any time allows us to determine
 the shape of the wavefront at a later time. Let us consider a diverging FIGURE 10.1 (b) At a
 wave and let F₁F₂ represent a portion of the spherical wavefront at t = 0
-(Fig. 10.2). Now, according to Huygens principle, each point of the
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_2.png" alt="Fig. 10.2" onclick="openImageModal(this.src, 'Fig. 10.2: Now, if we know the shape of the wavefront at t = 0, then Huygens principle allo...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.2</strong> Now, if we know the shape of the wavefront at t = 0, then Huygens principle allows us to determine the shape of the wavefront at a later time t. Thus, Huygens principle is essentially a geometrical construction, which given the shape of the wafefront at any time allows us to determine the shape of the wavefront at a later time. Let us consider a diverging wave and let F1F2 represent a portion of the spherical wavefront at t = 0 (Fig. 10.2). Now, according to Huygens principle, each point of the wavefront is the source of a secondary disturbance and the wavelets emanating from these points spread out in all directions with the speed of the wave. These wavelets emanating from the wavefront are usually referred to as secondary wavelets and if we draw a common tangent to all these spheres, we obtain the new position of the wavefront at a later time.</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 wavefront is the source of a secondary disturbance and the wavelets
 emanating from these points spread out in all directions with the speed
 of the wave. These wavelets emanating from the wavefront are usually
@@ -200,7 +216,7 @@ The backwave D₁D₂ does not exist.
 
 2
 
-Reprint 2025-26
+
 
 257
 
@@ -208,29 +224,14 @@ Reprint 2025-26
 ---
 ## 📄 Page 4
 
-Physics
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_3.png" alt="Fig. 10.3" onclick="openImageModal(this.src, 'Fig. 10.3: In a similar manner, we can use Huygens principle to determine the shape of the ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.3</strong> In a similar manner, we can use Huygens principle to determine the shape of the wavefront for a plane wave propagating through a medium (Fig. 10.3).</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
-F
-
-G1
-
-A1
-
-A2
-
-B1 B2
-
-C1 C2
-
-D1 D2
-
-F2
-
-G2
-
-t = 0 t = τ
-
-FIGURE 10.3
 Huygens geometrical
 construction for a
 plane wave
@@ -287,7 +288,15 @@ wave
 
 We will now use Huygens principle to derive the laws of refraction. Let PP'
 represent the surface separating medium 1 and medium 2, as shown in
-Fig. 10.4. Let v₁ and v₂ represent the speed of light in medium 1 and
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_4.png" alt="Fig. 10.4" onclick="openImageModal(this.src, 'Fig. 10.4: We will now use Huygens principle to derive the laws of refraction. Let PP¢ repr...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.4</strong> We will now use Huygens principle to derive the laws of refraction. Let PP¢ represent the surface separating medium 1 and medium 2, as shown in Fig. 10.4. Let v1 and v2 represent the speed of light in medium 1 and medium 2, respectively. We assume a plane wavefront AB propagating in the direction A¢A incident on the interface at an angle i as shown in the figure. Let t be the time taken by the wavefront to travel the distance BC. Thus,</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 medium 2, respectively. We assume a plane wavefront AB propagating in
 the direction A'A incident on the interface at an angle i as shown in the
 figure. Let tbe the time taken by the wavefront to travel the distance BC.
@@ -341,7 +350,7 @@ corresponds to v₂ < v₁ so that the refracted waves bends towards the
 
 normal.
 
-Reprint 2025-26
+
 
 
 ---
@@ -491,7 +500,7 @@ U2
 
 259
 
-Reprint 2025-26
+
 
 
 ---
@@ -499,13 +508,14 @@ Reprint 2025-26
 
 Demonstration of interference, diffraction, refraction, resonance and Doppler effect
 
-not to beremybli
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_5.png" alt="Fig. 10.5" onclick="openImageModal(this.src, 'Fig. 10.5: We now consider refraction of a plane wave at a rarer medium, i.e., v2 > v1. Pro...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.5</strong> We now consider refraction of a plane wave at a rarer medium, i.e., v2 > v1. Proceeding in an exactly similar manner we can construct a refracted wavefront as shown in Fig. 10.5. The angle of refraction will now be greater than angle of incidence; however, we will still have n1 sin i = n2 sin r . We define an angle ic by the following equation</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
-260
-
-PHYSICS
-
-FIGURE 10.5 Refraction of a plane wave incident on a
 rarer medium for which v₂ > v₁. The plane wave bends
 away from the normal.
 
@@ -519,7 +529,16 @@ to C then the distance
 BC = υτ
 
 In order to construct the reflected wavefront we draw a sphere of
-radius ut from the point A as shown in Fig. 10.6. Let CE represent the
+radius ut from the point A as shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_6.png" alt="Fig. 10.6" onclick="openImageModal(this.src, 'Fig. 10.6: In order to construct the reflected wavefront we draw a sphere of radius vt from...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.6</strong> In order to construct the reflected wavefront we draw a sphere of radius vt from the point A as shown in Fig. 10.6. Let CE represent the tangent plane drawn from the point C to this sphere. Obviously</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 tangent plane drawn from the point C to this sphere. Obviously
 
 AE = BC = υτ
@@ -568,7 +587,7 @@ any refracted wave and the wave will undergo what is known as total
 internal reflection. The phenomenon of total internal reflection and its
 applications was discussed in Section 9.4.
 
-Reprint 2025-26
+
 
 
 ---
@@ -612,7 +631,16 @@ Once we have the laws of reflection and refraction, the behaviour of
 prisms, lenses, and mirrors can be understood. These phenomena were
 discussed in detail in Chapter 9 on the basis of rectilinear propagation of
 light. Here we just describe the behaviour of the wavefronts as they
-undergo reflection or refraction. In Fig. 10.7(a) we consider a plane wave
+undergo reflection or refraction. In
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_7.png" alt="Fig. 10.7" onclick="openImageModal(this.src, 'Fig. 10.7: FIGURE 10.7 Refraction of a plane wave by (a) a thin prism, (b) a convex lens....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.7</strong> FIGURE 10.7 Refraction of a plane wave by (a) a thin prism, (b) a convex lens.</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 passing through a thin prism. Clearly, since the speed of light waves is
 less in glass, the lower portion of the incoming wavefront (which travels
 through the greatest thickness of glass) will get delayed resulting in a tilt
@@ -664,7 +692,7 @@ of radius R/2
 FIGURE 10.7 Refraction of a plane wave by (a) a thin prism, (b) a convex lens.
 (c) Reflection of a plane wave by a concave mirror.
 
-Reprint 2025-26
+
 
 261
 
@@ -706,37 +734,14 @@ wave, not on the speed of wave propagation.
 determined by the number of photons crossing an unit area per
 unit time.
 
-S
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_8.png" alt="Fig. 10.8" onclick="openImageModal(this.src, 'Fig. 10.8: Consider two needles S1 and S2 moving periodically up and down in an identical f...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.8</strong> Consider two needles S1 and S2 moving periodically up and down in an identical fashion in a trough of water [Fig. 10.8(a)]. They produce two water waves, and at a particular point, the phase difference between the displacements produced by each of the waves does not change with time; when this happens the two sources are said to be coherent. Figure 10.8(b) shows the position of crests (solid circles) and troughs (dashed circles) at a given instant of time. Consider a point P for which</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
-S
-
-P
-
-(a)
-
-NAGAN
-
-A
-
-N
-
-A
-
-N
-
-A
-
-N
-
-A
-
-A
-
-N
-
-(b)
-
-FIGURE 10.8 (a) Two needles oscillating in
 phase in water represent two coherent sources.
 (b) The pattern of displacement of water
 molecules at an instant on the surface of water
@@ -775,7 +780,7 @@ S₁ P = S₂ P
 
 1
 
-Reprint 2025-26
+
 
 
 ---
@@ -818,7 +823,15 @@ where I represents the intensity produced by each one of the individual
 sources; I is proportional to a². In fact at any point on the perpendicular
 bisector of S₁S2, the intensity will be 41. The two sources are said to
 interfere constructively and we have what is referred to as constructive
-interference. We next consider a point Q [Fig. 10.9(a)]
+interference. We next consider a point Q [
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_9.png" alt="Fig. 10.9" onclick="openImageModal(this.src, 'Fig. 10.9: I = 4 I0 where I0 represents the intensity produced by each one of the individua...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.9</strong> I = 4 I0 where I0 represents the intensity produced by each one of the individual sources; I0 is proportional to a2. In fact at any point on the perpendicular bisector of S1S2, the intensity will be 4I0. The two sources are said to interfere constructively and we have what is referred to as constructive interference. We next consider a point Q [Fig. 10.9(a)] for which</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 for which
 
@@ -851,7 +864,15 @@ We next consider a point R [Fig. 10.9(b)] for which
 S₂R – S₁R = −2.5λ
 
 The waves emanating from S₁ will arrive exactly two and a half cycles
-later than the waves from S₂ [Fig. 10.10(b)]. Thus if the displacement
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_10.png" alt="Fig. 10.10" onclick="openImageModal(this.src, 'Fig. 10.10: The waves emanating from S1 will arrive exactly two and a half cycles later than...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.10</strong> The waves emanating from S1 will arrive exactly two and a half cycles later than the waves from S2 [Fig. 10.10(b)]. Thus if the displacement produced by S1 is given by</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 produced by S₁ is given by
 
 У1 = a cos ot
@@ -928,7 +949,7 @@ zero, ±1, ± 2λ, ± 3λ.
 
 263
 
-Reprint 2025-26
+
 
 
 ---
@@ -1032,7 +1053,7 @@ at all points.
 
 (10.12)
 
-Reprint 2025-26
+
 
 
 ---
@@ -1051,7 +1072,15 @@ EXPERIMENT
 
 We will now discuss interference using light waves. If
 we use two sodium lamps illuminating two pinholes
-(Fig. 10.11) we will not observe any interference fringes.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_11.png" alt="Fig. 10.11" onclick="openImageModal(this.src, 'Fig. 10.11: We will now discuss interference using light waves. If we use two sodium lamps i...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.11</strong> We will now discuss interference using light waves. If we use two sodium lamps illuminating two pinholes (Fig. 10.11) we will not observe any interference fringes. This is because of the fact that the light wave emitted from an ordinary source (like a sodium lamp) undergoes abrupt phase changes in times of the order of 10–10</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 This is because of the fact that the light wave emitted
 from an ordinary source (like a sodium lamp) undergoes
 abrupt phase changes in times of the order of 10-10
@@ -1082,7 +1111,16 @@ be observed on the screen.
 The British physicist Thomas Young used an
 ingenious technique to “lock” the phases of the waves
 emanating from S₁ and S2. He made two pinholes S₁
-and S₂ (very close to each other) on an opaque screen [Fig. 10.12(a)].
+and S₂ (very close to each other) on an opaque screen [
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_12.png" alt="Fig. 10.12" onclick="openImageModal(this.src, 'Fig. 10.12: The British physicist Thomas Young used an ingenious technique to “lock” the pha...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.12</strong> The British physicist Thomas Young used an ingenious technique to “lock” the phases of the waves emanating from S1 and S2. He made two pinholes S1 and S2 (very close to each other) on an opaque screen [Fig. 10.12(a)]. These were illuminated by another pinholes that was in turn, lit by a bright source. Light waves spread out from S and fall on both S1 and S2. S1 and S2 then behave like two coherent sources because light waves coming out from S1 and S2 are derived from the same original source and any abrupt phase change in S will manifest in exactly similar phase changes in the light coming out from S1 and S2. Thus, the two sources S1 and S2 will be locked in phase; i.e., they will be coherent like the two vibrating needle in our water wave example [Fig. 10.8(a)].</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 These were illuminated by another pinholes that was in turn, lit by a
 bright source. Light waves spread out from S and fall on both S₁ and S2.
 S₁ and S₂ then behave like two coherent sources because light waves
@@ -1138,7 +1176,7 @@ y
 
 FIGURE 10.12 Young's arrangement to produce interference pattern.
 
-Reprint 2025-26
+
 
 265
 
@@ -1208,7 +1246,14 @@ D
 
 Thus dark and bright bands appear on the screen,
 
-as shown in Fig. 10.13. Such bands are called
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_13.png" alt="Fig. 10.13" onclick="openImageModal(this.src, 'Fig. 10.13: FIGURE 10.13 Computer generated fringe pattern produced by two point...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.13</strong> FIGURE 10.13 Computer generated fringe pattern produced by two point</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
 alled 
 fringes.
 Equations (10.13) and (10.14) show that dark and
@@ -1253,7 +1298,7 @@ waves, be it sound waves, light waves, water waves or matter waves. Since
 the wavelength of light is much smaller than the dimensions of most
 obstacles; we do not encounter diffraction effects of light in everyday
 
-Reprint 2025-26
+
 
 
 ---
@@ -1292,7 +1337,24 @@ source), a broad pattern with a central bright
 region is seen. On both sides, there are From S
 alternate dark and bright regions, the
 intensity becoming weaker away from the
-centre (Fig. 10.15). To understand this, go
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_15.png" alt="Fig. 10.15" onclick="openImageModal(this.src, 'Fig. 10.15: When the double slit in Young’s experiment is replaced by a single narrow slit (...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.15</strong> When the double slit in Young’s experiment is replaced by a single narrow slit (illuminated by a monochromatic source), a broad pattern with a central bright region is seen. On both sides, there are alternate dark and bright regions, the intensity becoming weaker away from the centre (Fig. 10.15). To understand this, go to
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_14.png" alt="Fig. 10.14" onclick="openImageModal(this.src, 'Fig. 10.14: FIGURE 10.14 The geometry of path differences for diffraction by a single slit....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.14</strong> FIGURE 10.14 The geometry of path differences for diffraction by a single slit.</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
+<button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 to Fig. 10.14, which shows a parallel beam
 of light falling normally on a single slit LN of
 width a. The diffracted light goes on to meet
@@ -1337,7 +1399,7 @@ to it is shown in Fig. 10.15.
 There has been prolonged discussion about
 difference between intereference and diffraction among
 
-Reprint 2025-26
+
 
 Slit
 
@@ -1389,7 +1451,14 @@ two razor blades
 and one clear glass electric bulb preferably with a straight filament. One
 has to hold the two blades so that the edges are parallel and have a
 narrow slit in between. This is easily done with the thumb and forefingers
-(Fig. 10.16).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_16.png" alt="Fig. 10.16" onclick="openImageModal(this.src, 'Fig. 10.16: FIGURE FIGURE FIGURE FIGURE FIGURE 10.16 10.16 10.16 10.16 10.16 Holding two bla...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.16</strong> FIGURE FIGURE FIGURE FIGURE FIGURE 10.16 10.16 10.16 10.16 10.16 Holding two blades to</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
 Keep the slit parallel to the filament, right in front of the eye. Use
 spectacles if you normally do. With slight adjustment of the width of
@@ -1437,7 +1506,7 @@ which is consistent with the principle of conservation of energy.
 Richard Feynman was one of the recipients of the 1965 Nobel Prize in Physics
 for his fundamental work in quantum electrodynamics.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1450,7 +1519,15 @@ Wave Optics
 Consider holding a long string that is held horizontally, the other end of
 which is assumed to be fixed. If we move the end of the string up and
 down in a periodic manner, we will generate a wave propagating in the
-+x direction (Fig. 10.17). Such a wave could be described by the following
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_17.png" alt="Fig. 10.17" onclick="openImageModal(this.src, 'Fig. 10.17: Consider holding a long string that is held horizontally, the other end of which...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.17</strong> Consider holding a long string that is held horizontally, the other end of which is assumed to be fixed. If we move the end of the string up and down in a periodic manner, we will generate a wave propagating in the +x direction (Fig. 10.17). Such a wave could be described by the following equation</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
+
 equation
 
 λ
@@ -1510,7 +1587,7 @@ transverse wave. Also, since the displacement is in the y direction, it is
 often referred to as a y-polarised wave. Since each point on the string
 moves on a straight line, the wave is also referred to as a linearly polarised
 
-Reprint 2025-26
+
 
 269
 
@@ -1563,7 +1640,15 @@ placed before P₁. As expected, the light from the lamp is reduced in
 intensity on passing through P₂ alone. But now rotating P₁ has a dramatic
 effect on the light coming from P2. In one position, the intensity transmitted
 by P₂ followed by P₁ is nearly zero. When turned by 90° from this position,
-transmits nearly the full intensity emerging from P, P₂ (Fig. 10.18).
+transmits nearly the full intensity emerging from P, P₂ (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch10_wave_optics_fig_10_18.png" alt="Fig. 10.18" onclick="openImageModal(this.src, 'Fig. 10.18: Thus, if the light from an ordinary source (like a sodium lamp) passes through a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 10.18</strong> Thus, if the light from an ordinary source (like a sodium lamp) passes through a polaroid sheet P1, it is observed that its intensity is reduced by half. Rotating P1 has no effect on the transmitted beam and transmitted intensity remains constant. Now, let an identical piece of polaroid P2 be placed before P1. As expected, the light from the lamp is reduced in intensity on passing through P2 alone. But now rotating P1 has a dramatic effect on the light coming from P2. In one position, the intensity transmitted by P2 followed by P1 is nearly zero. When turned by 90° from this position, P1 transmits nearly the full intensity emerging from P2 (Fig. 10.18).</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
 not
 
@@ -1583,7 +1668,7 @@ I = I cos20
 where I is the intensity of the polarized light after passing through
 P₁. This is known as Malus' law. The above discussion shows that the
 
-Reprint 2025-26
+
 
 
 ---
@@ -1653,7 +1738,7 @@ I = Icos20 cos²
 
 Therefore, the transmitted intensity will be maximum when 0 = π/4.
 
-Reprint 2025-26
+
 
 EXAMPLE 10.2
 
@@ -1734,7 +1819,7 @@ set by the wavelength of light.
 like sound in air. But polarisation phenomena are special to transverse
 waves like light waves.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1792,7 +1877,7 @@ not
 
 ished
 
-Reprint 2025-26
+
 
 273
 

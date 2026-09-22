@@ -64,7 +64,7 @@ at the organismic level.
 
 at pro
 
-Reprint 2025-26
+
 
 
 ---
@@ -93,13 +93,13 @@ not to ber
 
 of Corti. He died in the year 1888.
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 3
 
-11080CH17
+
 
 14.1 Respiratory
 Organs
@@ -163,7 +163,7 @@ of gases. Among vertebrates, fishes use gills whereas amphibians, reptiles,
 birds and mammals respire through lungs. Amphibians like frogs can
 respire through their moist skin (cutaneous respiration) also.
 
-Reprint 2025-26
+
 
 
 ---
@@ -191,8 +191,16 @@ tracheae, primary, secondary and tertiary bronchi, and initial
 bronchioles are supported by incomplete cartilaginous rings. Each
 terminal bronchiole gives rise to a number of very thin, irregular-walled
 and vascularised bag-like structures called alveoli. The branching
-network of bronchi, bronchioles and alveoli comprise the lungs (Figure
-14.1). We have two lungs which are covered by a double layered pleura,
+network of bronchi, bronchioles and alveoli comprise the lungs (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch14_breathing_and_exchange_of_gases_fig_14_1.png" alt="Fig. 14.1" onclick="openImageModal(this.src, 'Fig. 14.1: We have a pair of external nostrils opening out above the upper lips. It leads t...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.1</strong> We have a pair of external nostrils opening out above the upper lips. It leads to a nasal chamber through the nasal passage. The nasal chamber opens into the pharynx, a portion of which is the common passage for food and air. The pharynx opens through the larynx region into the trachea. Larynx is a cartilaginous box which helps in sound production and hence called the sound box. During swallowing glottis can be covered by a thin elastic cartilaginous flap called epiglottis to prevent the entry of food into the larynx. Trachea is a straight tube extending up to the mid-thoracic cavity, which divides at the level of 5th thoracic vertebra into a right and left primary bronchi. Each bronchi undergoes repeated divisions to form the secondary and tertiary bronchi and bronchioles ending up in very thin terminal bronchioles. The tracheae, primary, secondary and tertiary bronchi, and initial bronchioles are supported by incomplete cartilaginous rings. Each terminal bronchiole gives rise to a number of very thin, irregular-walled and vascularised bag-like structures called alveoli. The branching network of bronchi, bronchioles and alveoli comprise the lungs (Figure 14.1). We have two lungs which are covered by a double layered pleura, with pleural fluid between them. It reduces friction on the lung-surface. The outer pleural membrane is in close contact with the thoracic</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 with pleural fluid between them. It reduces friction on the lung-surface.
 The outer pleural membrane is in close contact with the thoracic
 
@@ -225,7 +233,7 @@ Bronchiole
 Diagrammatic view of human respiratory system (sectional view of
 the left lung is also shown)
 
-Reprint 2025-26
+
 
 
 ---
@@ -281,7 +289,7 @@ Inspiration is initiated by the contraction of diaphragm which increases
 the volume of thoracic chamber in the antero-posterior axis. The
 contraction of external inter-costal muscles lifts up the ribs and the
 
-Reprint 2025-26
+
 
 185
 
@@ -345,28 +353,14 @@ breathing movements can be estimated by
 using a spirometer which helps in clinical
 assessment of pulmonary functions.
 
-Air expelled from lungs
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch14_breathing_and_exchange_of_gases_fig_14_2.png" alt="Fig. 14.2" onclick="openImageModal(this.src, 'Fig. 14.2: sternum causing an increase in the volume of the thoracic chamber in the dorso-v...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.2</strong> sternum causing an increase in the volume of the thoracic chamber in the dorso-ventral axis. The overall increase in the thoracic volume causes a similar increase in pulmonary volume. A n increase in pulmonary volume decreases the intra- pulmonary pressure to less than the atmospheric pressure which forces the air from outside to move into the lungs, i.e., inspiration (Figure 14.2a). Relaxation of the diaphragm and the inter-costal muscles returns the diaphragm and sternum to their normal positions and reduce the thoracic volume and thereby the pulmonary volume. This leads to an increase in intra-pulmonary pressure to slightly above the atmospheric pressure causing the expulsion of air from the lungs, i.e., expiration (Figure 14.2b). We have the ability to increase the strength of inspiration and expiration with the help of additional muscles in the abdomen. On an average, a healthy human breathes 12-16 times/minute. The volume of air involved in breathing movements can be estimated by using a spirometer which helps in clinical assessment of pulmonary functions.</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
-↓
-
-Volume of
-
-thorax
-decreased
-
-not to be
-
-CE
-
-Diaphragm
-relaxed
-
-and arched
-upwards
-
-(b)
-
-Figure 14.2 Mechanism of breathing showing :
 (a) inspiration (b) expiration
 
 14.2.1 Respiratory Volumes and
@@ -386,7 +380,7 @@ Expiratory Reserve Volume (ERV):
 A person can expire by a forcible expiration.
 This averages 1000 mL to 1100 mL.
 
-Reprint 2025-26
+
 
 
 ---
@@ -446,7 +440,15 @@ Pressure contributed by an individual gas in a mixture of gases is
 called partial pressure and is represented as pO2 for oxygen and pCO2 for
 carbon dioxide. Partial pressures of these two gases in the atmospheric
 air and the two sites of diffusion are given in Table 14.1 and in
-Figure 14.3. The data given in the table clearly indicates a concentration
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch14_breathing_and_exchange_of_gases_fig_14_3.png" alt="Fig. 14.3" onclick="openImageModal(this.src, 'Fig. 14.3: Pressure contributed by an individual gas in a mixture of gases is called partia...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.3</strong> Pressure contributed by an individual gas in a mixture of gases is called partial pressure and is represented as pO2 for oxygen and pCO2 for carbon dioxide. Partial pressures of these two gases in the atmospheric air and the two sites of diffusion are given in Table 14.1 and in Figure 14.3. The data given in the table clearly indicates a concentration gradient for oxygen from alveoli to blood and blood to tissues. Similarly,</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 gradient for oxygen from alveoli to blood and blood to tissues. Similarly,
 
 TABLE 14.1 Partial Pressures (in mm Hg) of Oxygen and Carbon dioxide at Different
@@ -495,7 +497,7 @@ CO2
 
 45
 
-Reprint 2025-26
+
 
 
 ---
@@ -562,8 +564,15 @@ blood and blood to alveoli. As the solubility of CO₂ is 20-25 times higher
 than that of O₂, the amount of CO₂ that can diffuse through the diffusion
 membrane per unit difference in partial pressure is much higher compared
 to that of O2. The diffusion membrane
-is made up of three major layers
-(Figure 14.4) namely, the thin squamous
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch14_breathing_and_exchange_of_gases_fig_14_4.png" alt="Fig. 14.4" onclick="openImageModal(this.src, 'Fig. 14.4: to that of O2. The diffusion membrane is made up of three major layers (Figure 1...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.4</strong> to that of O2. The diffusion membrane is made up of three major layers (Figure 14.4) namely, the thin squamous epithelium of alveoli, the endothelium of alveolar capillaries and the basement substance (composed of a thin basement membrane supporting the squamous epithelium and the basement membrane surrounding the single layer endothelial cells of capillaries) in between them. However, its total thickness is much less than a millimetre. Therefore, all the factors in our body are favourable for diffusion of O2 from alveoli to tissues and that of CO2 from tissues to alveoli.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 epithelium of alveoli, the endothelium of
 alveolar capillaries and the basement
 substance (composed of a thin basement
@@ -594,7 +603,7 @@ from tissues to alveoli.
 
 2
 
-Reprint 2025-26
+
 
 
 ---
@@ -632,7 +641,15 @@ of haemoglobin with O₂ is plotted against the
 2
 
 pO2. This curve is called the Oxygen
-dissociation curve (Figure 14.5) and is highly
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch14_breathing_and_exchange_of_gases_fig_14_5.png" alt="Fig. 14.5" onclick="openImageModal(this.src, 'Fig. 14.5: Haemoglobin is a red coloured iron containing pigment present in the RBCs. O2 ca...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.5</strong> Haemoglobin is a red coloured iron containing pigment present in the RBCs. O2 can bind with haemoglobin in a reversible manner to form oxyhaemoglobin. Each haemoglobin molecule can carry a maximum of four molecules of O2. Binding of oxygen with haemoglobin is primarily related to partial pressure of O2. Partial pressure of CO2, hydrogen ion concentration and temperature are the other factors which can interfere with this binding. A sigmoid curve is obtained when percentage saturation of haemoglobin with O2 is plotted against the pO 2. This curve is called the Oxygen dissociation curve (Figure 14.5) and is highly useful in studying the effect of factors like pCO2, H+ concentration, etc., on binding of O2 with haemoglobin. In the alveoli, where there is high pO2, low pCO2, lesser H+ concentration and lower temperature, the factors are all favourable for the formation of oxyhaemoglobin, whereas in the tissues, where low pO2, high pCO2, high H +</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 useful in studying the effect of factors like
 pCO2, H+ concentration, etc., on binding of O₂
 with haemoglobin. In the alveoli, where there
@@ -700,7 +717,7 @@ whereas, when the pCO₂ is low and pO2 is high as in the alveoli, dissociation
 
 2
 
-Reprint 2025-26
+
 
 
 ---
@@ -775,7 +792,7 @@ this is cigarette smoking.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -838,7 +855,7 @@ Respiratory rhythm is maintained by the respiratory centre in the medulla
 region of brain. A pneumotaxic centre in the pons region of the brain and a
 chemosensitive area in the medulla can alter respiratory mechanism.
 
-Reprint 2025-26
+
 
 191
 
@@ -917,5 +934,5 @@ not to republished
 14. What is Tidal volume? Find out the Tidal volume (approximate value) for a healthy
 human in an hour.
 
-Reprint 2025-26
+
 

@@ -9,7 +9,7 @@ REDOX REACTIONS
 
 UNIT 7
 
-11083CH08
+
 
 Objectives
 
@@ -116,7 +116,7 @@ S (s) + O2 (g) → SO2 (g)
 
 (7.2)
 
-Reprint 2025-26
+
 
 
 ---
@@ -261,7 +261,7 @@ addition of hydrogen to it.
 (ii) Aluminium is oxidised because
 oxygen is added to it. Ferrous ferric oxide
 
-Reprint 2025-26
+
 
 
 ---
@@ -396,7 +396,7 @@ process is :
 
 → 2 Na+(g) + 2e-
 
-Reprint 2025-26
+
 
 
 ---
@@ -421,8 +421,16 @@ redox change.
 Reactions
 
 Place a strip of metallic zinc in an aqueous
-solution of copper nitrate as shown in Fig.
-7.1, for about one hour. You may notice
+solution of copper nitrate as shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch07_redox_reactions_fig_7_1.png" alt="Fig. 7.1" onclick="openImageModal(this.src, 'Fig. 7.1: 7.2.1 Competitive Electron Transfer Reactions Place a strip of metallic zinc in ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.1</strong> 7.2.1 Competitive Electron Transfer Reactions Place a strip of metallic zinc in an aqueous solution of copper nitrate as shown in Fig. 7.1, for about one hour. You may notice that the strip becomes coated with reddish metallic copper and the blue colour of the solution disappears. Formation of Zn2+ ions among the products can easily be judged when the blue colour of the solution due to Cu2+ has disappeared. If hydrogen sulphide gas is passed through the colourless solution containing Zn2+ ions, appearance of white zinc sulphide, ZnS can be seen on making the solution alkaline with ammonia.</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 that the strip becomes coated with reddish
 metallic copper and the blue colour of the
 solution disappears. Formation of Zn2+ ions
@@ -473,7 +481,15 @@ greatly favours the products over the reactants.
 Let us extend electron transfer reaction
 now to copper metal and silver nitrate solution
 in water and arrange a set-up as shown in
-Fig. 7.2. The solution develops blue colour
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch07_redox_reactions_fig_7_2.png" alt="Fig. 7.2" onclick="openImageModal(this.src, 'Fig. 7.2: Let us extend electron transfer reaction now to copper metal and silver nitrate ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.2</strong> Let us extend electron transfer reaction now to copper metal and silver nitrate solution in water and arrange a set-up as shown in Fig. 7.2. The solution develops blue colour due to the formation of Cu2+ ions on account of the reaction:</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 due to the formation of Cu2+ ions on account
 of the reaction:
 
@@ -534,7 +550,7 @@ Final stage
 
 Fig. 7.1 Redox reaction between zinc and aqueous solution of copper nitrate occurring in a beaker.
 
-Reprint 2025-26
+
 
 
 ---
@@ -700,7 +716,7 @@ state of an element in a compound
 ascertained according to a set of rules
 formulated on the basis that electron pair
 
-Reprint 2025-26
+
 
 
 ---
@@ -823,7 +839,7 @@ as oxidation number of oxygen is 2. This
 implies that the oxidation number denotes the
 oxidation state of an element in a compound.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1046,7 +1062,7 @@ to zero oxidation state and sulphur is
 oxidised from -2 state to +4 state. The
 above reaction is thus a redox reaction.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1267,7 +1283,7 @@ metal displacement redox reactions include
 hydrogen displacement and a rarely occurring
 reaction involving oxygen displacement.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1506,7 +1522,7 @@ Brand I, as fluorine is the strongest oxidising
 
 2X-
 
-Reprint 2025-26
+
 
 
 ---
@@ -1695,7 +1711,7 @@ O2 (g)
 
 NO3 (aq)+H₂O(1)
 
-Reprint 2025-26
+
 
 
 ---
@@ -1836,7 +1852,7 @@ Pb3O4 are some of the other examples of the compounds, which are mixed oxides, w
 across with fractional oxidation states of the metal atom. However, the oxidation states may be in
 fraction as in † and O₂ where it is +½ and –½ respectively.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1964,7 +1980,7 @@ K2Cr2O, with sodium sulphite, Na2SO3,
 in an acid solution to give chromium(III)
 ion and the sulphate ion.
 
-Reprint 2025-26
+
 
 
 ---
@@ -2118,7 +2134,7 @@ Fe2+(aq) + Cr2O2- (aq) → Fe3+ (aq) + Cr³+(aq)
 
 (7.50)
 
-Reprint 2025-26
+
 
 
 ---
@@ -2272,7 +2288,7 @@ MnO4 (aq) + 4H+ (aq) + 4OH-(aq) →
 MnO2 (s) + 2 H2O(l) + 4OH-(aq)
 Replacing the H+ and OH- ions with water,
 
-Reprint 2025-26
+
 
 
 ---
@@ -2407,7 +2423,7 @@ The experiment corresponding to reaction
 dipped in copper sulphate solution. The
 redox reaction takes place and during the
 
-Reprint 2025-26
+
 
 
 ---
@@ -2446,14 +2462,13 @@ a vertical line or a slash representing an
 interface (e.g. solid/solution). For example
 in this experiment the two redox couples
 
-Anode
-
-Current flow
-Electron flow
-
-Oxidation
-Zn→Zn2+ + 2e
-Fig.7.3 The set
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch07_redox_reactions_fig_7_3.png" alt="Fig. 7.3" onclick="openImageModal(this.src, 'Fig. 7.3: are represented as Zn2+/Zn and Cu2+/Cu. In both cases, oxidised form is put befo...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.3</strong> are represented as Zn2+/Zn and Cu2+/Cu. In both cases, oxidised form is put before the reduced form. Now we put the beaker containing copper sulphate solution and the beaker containing zinc sulphate solution side by side (Fig. 7.3). We connect solutions in two beakers by a salt bridge (a U-tube containing a solution of potassium chloride or ammonium nitrate usually solidified by boiling with agar agar and later cooling to a jelly like substance). This provides an electric contact between the two solutions without allowing them to mix with each other. The zinc and copper rods are connected by a metallic wire with a provision for an ammeter and a switch. The set-up as shown in Fig.7.3 is known as Daniell cell. When the switch is in the off position, no reaction takes place in either of the beakers and no current flows through the metallic wire. As soon as the switch is in the on position, we make the following observations: 1. The transfer of electrons now does not take place directly from Zn to Cu2+ but through the metallic wire connecting the two rods as is apparent from the arrow which indicates the flow of current. 2. The electricity from solution in one beaker to solution in the other beaker flows by the migration of ions through the salt bridge. We know that the flow of current is possible only if there is a potential difference between the copper and zinc rods known as electrodes here. The potential associated with each electrode is known as electrode potential. If the concentration of each species taking part in the electrode reaction is unity (if any gas appears in the electrode reaction, it is confined to 1 atmospheric pressure) and further the reaction is carried out at 298K, then the potential of each electrode is said to be the Standard Electrode Potential. By convention, the standard electrode potential (E) of hydrogen electrode is 0.00 volts. The electrode potential value for each electrode process is a measure of the relative tendency of the active species in the process to remain in the oxidised/reduced form. A negative E means that the redox couple is a stronger</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
 Salt
 bridge
@@ -2533,7 +2548,7 @@ of the active species in the process to remain
 in the oxidised/reduced form. A negative E
 means that the redox couple is a stronger
 
-Reprint 2025-26
+
 
 
 ---
@@ -2571,21 +2586,15 @@ F₂(g) + 2e-
 
 → 2F
 
-### 2.87
-
-Co3+ + e-
+### 2.87 Co3+ + e-
 
 → Co2+
 
-### 1.81
-
-H2O2 + 2H+ + 2e¯
+### 1.81 H2O2 + 2H+ + 2e¯
 
 → 2H₂O
 
-### 1.78
-
-MnO4 + 8H+ + 5e¯
+### 1.78 MnO4 + 8H+ + 5e¯
 
 → Mn2+ + 4H2O
 
@@ -2603,9 +2612,7 @@ Cr2O72- + 14H+ + 6e¯
 
 ### 1.36
 
-### 1.33
-
-Increasing strength of oxidising agent
+### 1.33 Increasing strength of oxidising agent
 
 O2(g) + 4H+ + 4e¯
 
@@ -2771,7 +2778,7 @@ A negative E means that the redox couple is a stronger reducing agent than the H
 
 A positive E means that the redox couple is a weaker reducing agent than the H+/H₂ couple.
 
-Reprint 2025-26
+
 
 to be published
 
@@ -2887,7 +2894,7 @@ Consider the reactions:
 
 (a)
 
-Reprint 2025-26
+
 
 
 ---
@@ -2988,7 +2995,7 @@ Consider the reactions:
 
 4NH3 (aq) + 2 H2O(l)
 
-Reprint 2025-26
+
 
 253
 
@@ -3089,7 +3096,7 @@ between the following is feasible:
 
 (e) Br₂(aq) and Fe2+(aq).
 
-Reprint 2025-26
+
 
 
 ---
@@ -3155,7 +3162,7 @@ individual reaction at each electrode.
 
 © NCERT
 
-not to be republished
 
-Reprint 2025-26
+
+
 

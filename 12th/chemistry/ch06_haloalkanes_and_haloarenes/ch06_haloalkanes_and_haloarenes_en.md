@@ -7,7 +7,7 @@
 
 Objectives
 
-12086CH10
+
 
 After studying this Unit, you will be
 able to
@@ -90,7 +90,7 @@ In this Unit, you will study the important methods
 of preparation, physical and chemical properties and
 uses of organohalogen compounds.
 
-Reprint 2025-26
+
 
 
 ---
@@ -227,7 +227,7 @@ Chemistry 160
 These are the compounds in which the halogen atom is bonded to an
 sp³-hybridised carbon atom attached to an aromatic ring.
 
-Reprint 2025-26
+
 
 
 ---
@@ -338,7 +338,7 @@ when both the halogen atoms are present on the same carbon atom of the
 
 IUPAC name:
 
-Reprint 2025-26
+
 
 
 ---
@@ -471,7 +471,7 @@ Chemistry 162
 
 1-Bromo-3-methylbutane (1°)
 
-Reprint 2025-26
+
 
 
 ---
@@ -624,7 +624,7 @@ dipole moments are given in Table 6.2.
 
 Alkyl halides are best prepared from alcohols, which are easily accessible.
 
-Reprint 2025-26
+
 
 163 Haloalkanes and Haloarenes
 
@@ -756,7 +756,7 @@ mixture of isomeric mono- and polyhaloalkanes, which is difficult to
 
 Chemistry 164
 
-Reprint 2025-26
+
 
 
 ---
@@ -847,7 +847,7 @@ alkyl chloride/bromide in the presence of a metallic fluoride such as
 
 165 Haloalkanes and Haloarenes
 
-Reprint 2025-26
+
 
 
 ---
@@ -952,7 +952,7 @@ KI
 
 N2
 
-Reprint 2025-26
+
 
 
 ---
@@ -1032,7 +1032,7 @@ Alkyl halides are colourless when pure. However, bromides and iodides
 develop colour when exposed to light. Many volatile halogen compounds
 have sweet smell.
 
-Reprint 2025-26
+
 
 167 Haloalkanes and Haloarenes
 
@@ -1054,7 +1054,15 @@ of the hydrocarbons of comparable molecular mass.
 
 The attractions get stronger as the molecules get bigger in size and
 have more electrons. The pattern of variation of boiling points of different
-halides is depicted in Fig. 6.1. For the same alkyl group, the boiling
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch06_haloalkanes_and_haloarenes_fig_6_1.png" alt="Fig. 6.1" onclick="openImageModal(this.src, 'Fig. 6.1: The attractions get stronger as the molecules get bigger in size and have more e...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.1</strong> The attractions get stronger as the molecules get bigger in size and have more electrons. The pattern of variation of boiling points of different halides is depicted in Fig. 6.1. For the same alkyl group, the boiling points of alkyl halides decrease in the order: RI> RBr> RCl> RF. This is because with the increase in size and mass of halogen atom, the magnitude of van der Waal forces increases.</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 points of alkyl halides decrease in the order: RI> RBr> RCl> RF. This
 is because with the increase in size and mass of halogen atom, the
 magnitude of van der Waal forces increases.
@@ -1131,7 +1139,7 @@ However, the para-isomers are high melting as compared to their ortho-
 and meta-isomers. It is due to symmetry of para-isomers that fits in
 crystal lattice better as compared to ortho- and meta-isomers.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1192,9 +1200,7 @@ n-C3H7I
 
 ### 1.335
 
-### 1.747
-
-CHCl3
+### 1.747 CHCl3
 
 CCl4
 
@@ -1204,9 +1210,7 @@ Density (g/mL)
 
 ### 1.489
 
-### 1.595
-
-Solubility
+### 1.595 Solubility
 
 The haloalkanes are very slightly soluble in water. In order to dissolve
 haloalkane in water, energy is required to overcome the attractions between
@@ -1246,7 +1250,7 @@ You have learnt in Class XI that nucleophiles are electron rich species.
 Therefore, they attack at that part of the substrate molecule which
 is electron deficient. The reaction in which a nucleophile replaces
 
-Reprint 2025-26
+
 
 169 Haloalkanes and Haloarenes
 
@@ -1402,7 +1406,7 @@ and are called ambident nucleophiles. Actually cyanide group is a
 hybrid of two contributing structures and therefore can act as a
 nucleophile in two different ways [°C=N ↔ :C=N®], i.e., linking through
 
-Reprint 2025-26
+
 
 
 ---
@@ -1463,7 +1467,13 @@ paper and a straight line representing bond in the plane of the paper.
 
 The above reaction can be represented diagrammatically as shown in
 
-Fig. 6.2:
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch06_haloalkanes_and_haloarenes_fig_6_2.png" alt="Fig. 6.2" onclick="openImageModal(this.src, 'Fig. 6.2: The above reaction can be represented diagrammatically as shown in Fig. 6.2....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.2</strong> The above reaction can be represented diagrammatically as shown in Fig. 6.2.</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 In the year 1937,
 Edward Davies Hughes
@@ -1484,7 +1494,7 @@ C and -OH. These two processes take place simultaneously in a
 
 171 Haloalkanes and Haloarenes
 
-Reprint 2025-26
+
 
 
 ---
@@ -1549,7 +1559,7 @@ simple alkyl halides, methyl halides react most rapidly in S2 reactions
 because there are only three small hydrogen atoms. Tertiary halides
 are the least reactive because bulky groups hinder the approaching
 
-Reprint 2025-26
+
 
 
 ---
@@ -1620,33 +1630,13 @@ H
 
 H
 
-C
-
-H
-
-C
-
-H
-
-H
-
-H H
-
-Methyl
-(30)
-
-Ethyl 1°
-(1)
-
-H
-
-Isopropyl 2°
-(0.02)
-
-tert-butyl 3°
-(0)
-
-Fig.6.3: Steric effects in S₁2 reaction. The relative rate of SN2 reaction is given in parenthesis
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch06_haloalkanes_and_haloarenes_fig_6_3.png" alt="Fig. 6.3" onclick="openImageModal(this.src, 'Fig. 6.3: Fig.6.3: Steric effects in SN2 reaction. The relative rate of SN2 reaction is gi...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.3</strong> Fig.6.3: Steric effects in SN2 reaction. The relative rate of SN2 reaction is given in parenthesis</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
 e
 
@@ -1701,7 +1691,7 @@ CH3
 (CH3)3COH + Br
 2-Methylpropan-2-ol
 
-Reprint 2025-26
+
 
 173 Haloalkanes and Haloarenes
 
@@ -1772,7 +1762,7 @@ Chemistry 174
 
 Example 6.7
 
-Reprint 2025-26
+
 
 
 ---
@@ -1842,7 +1832,7 @@ arrangements of atoms in the molecules (configurations) of
 
 175 Haloalkanes and Haloarenes
 
-Reprint 2025-26
+
 
 
 ---
@@ -1915,7 +1905,16 @@ aids, however, that can assist us in recognising
 chiral molecules. One such aid is the presence of
 
 a single asymmetric carbon atom. Let us consider
-two simple molecules propan-2-ol (Fig.6.5) and butan-2-ol (Fig.6.6)
+two simple molecules propan-2-ol (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch06_haloalkanes_and_haloarenes_fig_6_5.png" alt="Fig. 6.5" onclick="openImageModal(this.src, 'Fig. 6.5: Fig 6.4: Some common examples of chiral and achiral objects a single asymmetric ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.5</strong> Fig 6.4: Some common examples of chiral and achiral objects a single asymmetric carbon atom. Let us consider two simple molecules propan-2-ol (Fig.6.5) and butan-2-ol (Fig.6.6) and their mirror images.</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
+
 and their mirror images.
 
 Mirror
@@ -1964,7 +1963,7 @@ different. We rotate the mirror image (B) of the molecule by 180° (structure
 C) and try to overlap the structure (C) with the structure (A), these structures
 completely overlap. Thus propan-2-ol is an achiral molecule.
 
-Reprint 2025-26
+
 
 
 ---
@@ -2000,13 +1999,15 @@ HCOH
 H
 
 Mirror image of Rotated mirror image
-butan-2-ol
 
-F
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch06_haloalkanes_and_haloarenes_fig_6_7.png" alt="Fig. 6.7" onclick="openImageModal(this.src, 'Fig. 6.7: Fig. 6.7: A chiral molecule and its mirror image...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.7</strong> Fig. 6.7: A chiral molecule and its mirror image</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
 
-180°
-
-Fig. 6.7: A chiral molecule
 and its mirror image
 
 Fig 6.6: E is mirror image of D; E is rotated by 180° to get F and Fis
@@ -2112,7 +2113,7 @@ Br
 
 177 Haloalkanes and Haloarenes
 
-Reprint 2025-26
+
 
 
 ---
@@ -2224,7 +2225,7 @@ of configuration. Note that configuration has been rotated in A.
 If (B) is the only compound obtained, the process is called inversion
 of configuration. Configuration has been inverted in B.
 
-Reprint 2025-26
+
 
 
 ---
@@ -2344,7 +2345,7 @@ C=C
 
 B=Base; X=Leaving group
 
-Reprint 2025-26
+
 
 179 Haloalkanes and Haloarenes
 
@@ -2436,7 +2437,7 @@ CH₂CH₂Br + Mg dry ether
 CH3CH2MgBr
 Grignard reagent
 
-Reprint 2025-26
+
 
 
 ---
@@ -2516,7 +2517,7 @@ resonance. As a result, the bond cleavage in haloarene is difficult
 than haloalkane and therefore, they are less reactive towards
 nucleophilic substitution reaction.
 
-Reprint 2025-26
+
 
 181 Haloalkanes and Haloarenes
 
@@ -2607,7 +2608,7 @@ Chemistry 182
 
 NO2
 
-Reprint 2025-26
+
 
 NO
 
@@ -2772,7 +2773,7 @@ structures bear the negative charge on carbon atom bearing the -NO2 group. There
 the presence of nitro group at meta- position does not stabilise the negative charge and
 no effect on reactivity is observed by the presence of -NO₂ group at meta-position.
 
-Reprint 2025-26
+
 
 183 Haloalkanes and Haloarenes
 
@@ -2886,7 +2887,7 @@ SOH
 4-Chlorobenzenesulfonic acid
 (Major)
 
-Reprint 2025-26
+
 
 
 ---
@@ -2992,7 +2993,7 @@ positions and hence makes the deactivation less for ortho- and para-
 attack. Reactivity is thus controlled by the stronger inductive effect
 and orientation is controlled by resonance effect.
 
-Reprint 2025-26
+
 
 185 Haloalkanes and Haloarenes
 
@@ -3121,7 +3122,7 @@ CH3
 
 Chemistry 186
 
-Reprint 2025-26
+
 
 
 ---
@@ -3210,7 +3211,7 @@ it rises to the atmosphere and depletes the ozone layer. Depletion of the
 
 no
 
-Reprint 2025-26
+
 
 
 ---
@@ -3277,7 +3278,7 @@ of halogen acids to alkenes, replacement of –OH group of alcohols with halogen
 
 Chemistry 188
 
-Reprint 2025-26
+
 
 
 ---
@@ -3386,7 +3387,7 @@ What are ambident nucleophiles? Explain with an example.
 
 189 Haloalkanes and Haloarenes
 
-Reprint 2025-26
+
 
 
 ---
@@ -3472,7 +3473,7 @@ KOH.
 
 Chemistry 190
 
-Reprint 2025-26
+
 
 
 ---
@@ -3576,7 +3577,7 @@ oxidised by it to I.
 
 3
 
-Reprint 2025-26
+
 
 191 Haloalkanes and Haloarenes
 
@@ -3703,7 +3704,7 @@ D = HC-C-MgX E = HC-C-H
 |
 CH3
 
-Reprint 2025-26
+
 
 |
 CH3

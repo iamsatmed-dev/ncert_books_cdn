@@ -53,7 +53,7 @@ plants and animals.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -64,7 +64,7 @@ Katherine Esau
 
 not to
 
-Reprint 2025-26
+
 
 d
 
@@ -93,7 +93,7 @@ of plant biology even at the age of 99.
 ---
 ## 📄 Page 3
 
-11080CH05
+
 
 ### 5.1 The Root
 
@@ -147,7 +147,14 @@ climbing, storage, etc.
 If you pull out any weed you will see that all of them have roots, stems
 and leaves. They may be bearing flowers and fruits. The underground
 part of the flowering plant is the root system while the portion above the
-ground forms the shoot system (Figure 5.1).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch05_morphology_of_flowering_plants_fig_5_1.png" alt="Fig. 5.1" onclick="openImageModal(this.src, 'Fig. 5.1: If you pull out any weed you will see that all of them have roots, stems and lea...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.1</strong> If you pull out any weed you will see that all of them have roots, stems and leaves. They may be bearing flowers and fruits. The underground part of the flowering plant is the root system while the portion above the ground forms the shoot system (Figure 5.1).</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 no
 
@@ -158,7 +165,7 @@ leads to the formation of primary root which grows inside the soil.
 It bears lateral roots of several orders that are referred to as secondary,
 tertiary, etc. roots. The primary roots and its branches constitute the
 
-Reprint 2025-26
+
 
 
 ---
@@ -217,26 +224,13 @@ Laterals
 
 Figure 5.1 Parts of a flowering plant
 
-ONCE
-
-Main root
-
-to be repu
-
-not
-
-Fibrous roots
-
-(b)
-
-(c)
-
-Adventitious roots
-
-Figure 5.2 Different types of roots: (a) Tap (b) Fibrous (c) Adventitious
-
-Reprint 2025-26
-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch05_morphology_of_flowering_plants_fig_5_2.png" alt="Fig. 5.2" onclick="openImageModal(this.src, 'Fig. 5.2: Figure 5.2 Different types of roots : (a) Tap (b) Fibrous (c) Adventitious...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.2</strong> Figure 5.2 Different types of roots : (a) Tap (b) Fibrous (c) Adventitious</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 ---
 ## 📄 Page 5
@@ -248,7 +242,15 @@ MORPHOLOGY OF FLOWERING PLANTS
 ### 5.1.1 Regions of the Root
 
 The root is covered at the apex by a thimble-like
-structure called the root cap (Figure 5.3). It
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch05_morphology_of_flowering_plants_fig_5_3.png" alt="Fig. 5.3" onclick="openImageModal(this.src, 'Fig. 5.3: The root is covered at the apex by a thimble-like structure called the root cap ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.3</strong> The root is covered at the apex by a thimble-like structure called the root cap (Figure 5.3). . . . . It protects the tender apex of the root as it makes its way through the soil. A few millimetres above the root cap is the region of meristematic activity. The cells of this region are very small, thin-walled and with dense protoplasm. They divide repeatedly. The cells proximal to this region undergo rapid elongation and enlargement and are responsible for the growth of the root in length. This region is called the region of elongation. The cells of the elongation zone gradually differentiate and mature. Hence, this zone, proximal to region of elongation, is called the region of maturation. From this region some of the epidermal cells form very fine and delicate, thread-like structures called root hairs. These root hairs absorb water and minerals from the soil.</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 protects the tender apex of the root as it makes
 its way through the soil. A few millimetres above
 the root cap is the region of meristematic
@@ -311,33 +313,19 @@ develops into a branch. Leaves originate from shoot apical meristems and
 are arranged in an acropetal order. They are the most important vegetative
 organs for photosynthesis.
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 6
 
-60
-
-Lamina
-
-Stipule
-
-(b)
-
-Petiole
-
-(a)
-
-Leaf
-base
-
-Axillary
-bud
-
-(c)
-
-Figure 5.4 Structure of a leaf :
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch05_morphology_of_flowering_plants_fig_5_4.png" alt="Fig. 5.4" onclick="openImageModal(this.src, 'Fig. 5.4: A typical leaf consists of three main parts: leaf base, petiole and lamina (Figu...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.4</strong> A typical leaf consists of three main parts: leaf base, petiole and lamina (Figure 5.4 a). The leaf is attached to the stem by the leaf base and may bear two lateral small leaf like structures called stipules. In monocotyledons, the leaf base expands into a sheath covering the stem partially or wholly. In some leguminous plants the leafbase may become swollen, which is called the pulvinus. The petiole help hold the blade to light. Long thin flexible petioles allow leaf blades to flutter in wind, thereby cooling the leaf and bringing fresh air to leaf surface. The lamina or the leaf blade is the green expanded part of the leaf with veins and veinlets. There is, usually, a middle prominent vein, which is known as the midrib. Veins provide rigidity to the leaf blade and act as channels of transport for water, minerals and food materials. The shape, margin, apex, surface and extent of incision of lamina varies in different leaves.</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 (a) Parts of a leaf
 
@@ -383,12 +371,13 @@ of most monocotyledons.
 
 ### 5.3.2 Types of Leaves
 
-be
-
-t
-
-(a) Neem
-Figure 5.5 Compound leaves :
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch05_morphology_of_flowering_plants_fig_5_5.png" alt="Fig. 5.5" onclick="openImageModal(this.src, 'Fig. 5.5: The compound leaves may be of two types (Figure 5.5). In a pinnately compound le...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.5</strong> The compound leaves may be of two types (Figure 5.5). In a pinnately compound leaf a</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 (a) pinnately compound leaf
 (b) palmately compound leaf
@@ -407,7 +396,7 @@ in the axil of petiole in both simple and compound
 leaves, but not in the axil of leaflets of the compound
 leaf.
 
-Reprint 2025-26
+
 
 
 ---
@@ -430,7 +419,15 @@ at the tip of petiole, as in silk cotton.
 Phyllotaxy is the pattern of arrangement of
 leaves on the stem or branch. This is usually
 of three types – alternate, opposite and
-whorled (Figure 5.6). In alternate type of
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch05_morphology_of_flowering_plants_fig_5_6.png" alt="Fig. 5.6" onclick="openImageModal(this.src, 'Fig. 5.6: Phyllotaxy is the pattern of arrangement of leaves on the stem or branch. This i...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.6</strong> Phyllotaxy is the pattern of arrangement of leaves on the stem or branch. This is usually of three types – alternate, opposite and whorled (Figure 5.6). In alternate type of phyllotaxy, a single leaf arises at each node in alternate manner, as in china rose, mustard and sun flower plants. In opposite type, a pair of leaves arise at each node and lie opposite to each other as in Calotropis and guava plants. If more than two leaves arise at a node and form a whorl, it is called whorled, as in Alstonia.</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 phyllotaxy, a single leaf arises at each node
 in alternate manner, as in china rose,
 mustard and sun flower plants. In opposite
@@ -473,16 +470,30 @@ two major types of inflorescences are defined
 racemose and cymose. In racemose type
 of inflorescences the main axis continues to
 grow, the flowers are borne laterally in an
-acropetal succession (Figure 5.7).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch05_morphology_of_flowering_plants_fig_5_7.png" alt="Fig. 5.7" onclick="openImageModal(this.src, 'Fig. 5.7: A flower is a modified shoot wherein the shoot apical meristem changes to floral...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.7</strong> A flower is a modified shoot wherein the shoot apical meristem changes to floral meristem. Internodes do not elongate and the axis gets condensed. The apex produces different kinds of floral appendages laterally at successive nodes instead of leaves. When a shoot tip transforms into a flower, it is always solitary. The arrangement of flowers on the floral axis is termed as inflorescence. Depending on whether the apex gets developed into a flower or continues to grow, two major types of inflorescences are defined – racemose and cymose. In racemose type of inflorescences the main axis continues to grow, the flowers are borne laterally in an acropetal succession (Figure 5.7).</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
 In cymose type of inflorescence the main
 axis terminates in a flower, hence is limited
 in growth. The flowers are borne in a basipetal
-order (Figure 5.8).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch05_morphology_of_flowering_plants_fig_5_8.png" alt="Fig. 5.8" onclick="openImageModal(this.src, 'Fig. 5.8: In cymose type of inflorescence the main axis terminates in a flower, hence is l...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.8</strong> In cymose type of inflorescence the main axis terminates in a flower, hence is limited in growth.The flowers are borne in a basipetal order (Figure 5.8).</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
 Figure 5.7 Racemose inflorescence
 
-Reprint 2025-26
+
 
 
 ---
@@ -525,21 +536,17 @@ the floral appendages are in multiple of 3, 4 or 5, respectively. Flowers
 with bracts-reduced leaf found at the base of the pedicel-are called
 bracteate and those without bracts, ebracteate.
 
-wow*
-
-(a)
-
-(b)
-
-(c)
-
-(d)
-
-Figure 5.9 Position of floral parts on thalamus : (a) Hypogynous (b) and (c)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch05_morphology_of_flowering_plants_fig_5_9.png" alt="Fig. 5.9" onclick="openImageModal(this.src, 'Fig. 5.9: Figure 5.9 Position of floral parts on thalamus : (a) Hypogynous (b) and (c) Per...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.9</strong> Figure 5.9 Position of floral parts on thalamus : (a) Hypogynous (b) and (c) Perigynous (d) Epigynous</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 Perigynous (d) Epigynous
 
-Reprint 2025-26
+
 
 
 ---
@@ -566,7 +573,14 @@ florets of sunflower.
 lyx, corolla,
 
 Each flower normally has four floral whorls, viz., calyx,
-androecium and gynoecium (Figure 5.10).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch05_morphology_of_flowering_plants_fig_5_10.png" alt="Fig. 5.10" onclick="openImageModal(this.src, 'Fig. 5.10: Each flower normally has four floral whorls, viz., calyx, corolla, androecium an...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.10</strong> Each flower normally has four floral whorls, viz., calyx, corolla, androecium and gynoecium (Figure 5.10).</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 ### 5.5.1.1 Calyx
 
@@ -606,7 +620,7 @@ Corolla
 
 Figure 5.10 Parts of a flower
 
-Reprint 2025-26
+
 
 Androecium
 
@@ -618,19 +632,13 @@ Gynoecium
 ---
 ## 📄 Page 10
 
-64
-
-(c)
-
-(d)
-
-BIOLOGY
-
-(a)
-
-(b)
-
-Figure 5.11 Types of aestivation in corolla : (a) Valvate (b) Twisted (c) Imbricate (d) Vexillary
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch05_morphology_of_flowering_plants_fig_5_11.png" alt="Fig. 5.11" onclick="openImageModal(this.src, 'Fig. 5.11: and vexillary (Figure 5.11). When sepals or petals in a whorl just touch one ano...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.11</strong> and vexillary (Figure 5.11). When sepals or petals in a whorl just touch one another at the margin, without overlapping, as in Calotropis, it is said to be valvate. If one margin of the appendage overlaps that of the next one and so on as in china rose, lady’s finger and cotton, it is called twisted. If the margins of sepals or petals overlap one another but not in any particular direction as in Cassia and gulmohur, the aestivation is called imbricate. In pea and bean flowers, there are five petals, the largest (standard) overlaps the two lateral petals (wings) which in turn overlap the two smallest anterior petals (keel); this type of aestivation is known as vexillary or papilionaceous.</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
 etals in
 
@@ -665,7 +673,7 @@ or two bundles (diadelphous) as in pea, or into more than two bundles
 (polyadelphous) as in citrus. There may be a variation in the length of
 filaments within a flower, as in Salvia and mustard.
 
-Reprint 2025-26
+
 
 
 ---
@@ -691,7 +699,16 @@ ovules develop into seeds and the ovary matures into a fruit.
 
 Placentation: The arrangement of ovules within the ovary is known
 as placentation. The placentation are of different types namely,
-marginal, axile, parietal, basal, central and free central (Figure 5.12).
+marginal, axile, parietal, basal, central and free central (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch05_morphology_of_flowering_plants_fig_5_12.png" alt="Fig. 5.12" onclick="openImageModal(this.src, 'Fig. 5.12: Placentation: The arrangement of ovules within the ovary is known as placentatio...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.12</strong> Placentation: The arrangement of ovules within the ovary is known as placentation. The placentation are of different types namely, marginal, axile, parietal, basal, central and free central (Figure 5.12). In marginal placentation the placenta forms a ridge along the ventral suture of the ovary and the ovules are borne on this ridge forming two rows, as in pea. When the placenta is axial and the ovules are attached to it in a multilocular ovary, the placentaion is said to be axile, as in china rose, tomato and lemon. In parietal placentation, the ovules develop on the inner wall of the ovary or on peripheral part. Ovary is one-chambered but it becomes two- chambered due to the formation of the false septum, e.g., mustard and Argemone. When the ovules are borne on central axis and septa are absent, as in Dianthus and Primrose the placentation is called free central. In basal placentation, the placenta develops at the base of ovary and a single ovule is attached to it, as in sunflower, marigold.</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 In marginal placentation the placenta forms a ridge along the
 ventral suture of the ovary and the ovules are borne on this ridge
 forming two rows, as in pea. When the placenta is axial and the
@@ -732,8 +749,16 @@ The pericarp may be dry or fleshy. When pericarp is thick and
 fleshy, it is differentiated into the outer epicarp, the middle Figure 5.12 Types of
 mesocarp and the inner endocarp.
 
-In mango and coconut, the fruit is known as a drupe (Figure
-5.13). They develop from monocarpellary superior ovaries and are
+In mango and coconut, the fruit is known as a drupe (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch05_morphology_of_flowering_plants_fig_5_13.png" alt="Fig. 5.13" onclick="openImageModal(this.src, 'Fig. 5.13: In mango and coconut, the fruit is known as a drupe (Figure 5.13). They develop ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.13</strong> In mango and coconut, the fruit is known as a drupe (Figure 5.13). They develop from monocarpellary superior ovaries and are one seeded. In mango the pericarp is well differentiated into an</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 one seeded. In mango the pericarp is well differentiated into an
 
 placentation :
@@ -745,7 +770,7 @@ placentation :
 (d) Free central
 (e) Basal
 
-Reprint 2025-26
+
 
 
 ---
@@ -788,21 +813,13 @@ The outermost covering of a seed is the seed coat. The seed coat has two
 layers, the outer testa and the inner tegmen. The hilum is a scar on the
 seed coat through which the developing seeds were attached to the fruit.
 
-Seed coat
-
-Cotyledon
-
-Plumule
-
-Hilum
-
-Micropyle
-
-1 Struc
-
-Radicle
-
-Figure 5.14 Structure of dicotyledonous seed
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch05_morphology_of_flowering_plants_fig_5_14.png" alt="Fig. 5.14" onclick="openImageModal(this.src, 'Fig. 5.14: Figure 5.14 Structure of dicotyledonous seed...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.14</strong> Figure 5.14 Structure of dicotyledonous seed</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 Above the hilum is a small pore called the
 micropyle. Within the seed coat is the embryo,
@@ -823,39 +840,19 @@ called non-endospermous.
 Generally, monocotyledonous seeds are endospermic but some as in
 orchids are non-endospermic. In the seeds of cereals such as maize the
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 13
 
-MORPHOLOGY OF FLOWERING PLANTS
-
-Seed coat & fruit-wall
-
-Endosperm
-
-Aleurone layer
-
-Scutellum
-
-Endosperm
-
-Coleoptile
-
-Plumule
-
-67
-
-Embryo
-
-Radicle
-
-Coleorhiza
-
-ished
-
-Figure 5.15 Structure of a monocotyledonous seed
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch05_morphology_of_flowering_plants_fig_5_15.png" alt="Fig. 5.15" onclick="openImageModal(this.src, 'Fig. 5.15: Figure 5.15 Structure of a monocotyledonous seed...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.15</strong> Figure 5.15 Structure of a monocotyledonous seed</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 seed coat is membranous and generally fused with the fruit wall. The
 endosperm is bulky and stores food. The outer covering of endosperm
@@ -885,16 +882,17 @@ for perianth, A for androecium and G for Gynoecium, G
 for superior ovary and Ĝ for inferior ovary, o for male,
 for female, for bisexual plants, ⊕ for actinomorphic
 
-7
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch05_morphology_of_flowering_plants_fig_5_16.png" alt="Fig. 5.16" onclick="openImageModal(this.src, 'Fig. 5.16: for female, for bisexual plants, ⊕ for actinomorphic Figure 5.16 Floral diagram ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.16</strong> for female, for bisexual plants, ⊕ for actinomorphic Figure 5.16 Floral diagram with</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
-7
-
-K2+2 C4 A2+4 (2)
-
-Figure 5.16 Floral diagram with
 floral formula
 
-Reprint 2025-26
+
 
 
 ---
@@ -920,7 +918,15 @@ the mustard plant (Family: Brassicaceae).
 
 It is a large family, commonly called as the 'potato family'. It is widely
 
-distributed in tropics, subtropics and even temperate zones (Figure 5.17).
+distributed in tropics, subtropics and even temperate zones (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch05_morphology_of_flowering_plants_fig_5_17.png" alt="Fig. 5.17" onclick="openImageModal(this.src, 'Fig. 5.17: It is a large family, commonly called as the ‘potato family’. It is widely distr...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.17</strong> It is a large family, commonly called as the ‘potato family’. It is widely distributed in tropics, subtropics and even temperate zones (Figure 5.17).</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
 Vegetative Characters
 
@@ -950,7 +956,7 @@ re
 Figure 5.17 Solanum nigrum (makoi) plant: (a) Flowering twig (b) Flower
 (c) L.S. of flower (d) Stamens (e) Carpel (f) Floral diagram
 
-Reprint 2025-26
+
 
 
 ---
@@ -1025,7 +1031,7 @@ the ovary is modified into fruits and ovules into seeds. Seeds either may
 be monocotyledonous or dicotyledonous. They vary in shape, size and
 period of viability. The floral characteristics form the basis of classification
 
-Reprint 2025-26
+
 
 
 ---
@@ -1089,5 +1095,5 @@ insertion on thalamus.
 
 not
 
-Reprint 2025-26
+
 

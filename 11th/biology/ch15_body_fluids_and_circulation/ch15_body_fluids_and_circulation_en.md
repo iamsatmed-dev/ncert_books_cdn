@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11080CH18
+
 
 15.1 Blood
 
@@ -68,7 +68,7 @@ Plasma is a straw coloured, viscous fluid constituting nearly 55 per cent of
 the blood. 90-92 per cent of plasma is water and proteins contribute 6-8
 per cent of it. Fibrinogen, globulins and albumins are the major proteins.
 
-Reprint 2025-26
+
 
 
 ---
@@ -89,7 +89,15 @@ inactive form. Plasma without the clotting factors is called serum.
 15.1.2 Formed Elements
 
 Erythrocytes, leucocytes and platelets are collectively called formed
-elements (Figure 15.1) and they constitute nearly 45 per cent of the blood.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch15_body_fluids_and_circulation_fig_15_1.png" alt="Fig. 15.1" onclick="openImageModal(this.src, 'Fig. 15.1: Erythrocytes, leucocytes and platelets are collectively called formed elements (...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 15.1</strong> Erythrocytes, leucocytes and platelets are collectively called formed elements (Figure 15.1) and they constitute nearly 45 per cent of the blood.</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 Erythrocytes or red blood cells (RBC) are the most abundant of all
 the cells in blood. A healthy adult man has, on an average, 5 millions to
 5.5 millions of RBCs mm³ of blood. RBCs are formed in the red bone
@@ -134,7 +142,7 @@ B lymphocyte
 
 Figure 15.1 Diagrammatic representation of formed elements in blood
 
-Reprint 2025-26
+
 
 
 ---
@@ -230,7 +238,7 @@ individuals are called 'universal donors'. Persons with 'AB' group can
 accept blood from persons with AB as well as the other groups of blood.
 Therefore, such persons are called ‘universal recipients'.
 
-Reprint 2025-26
+
 
 
 ---
@@ -288,7 +296,7 @@ coagulation. Calcium ions play a very important role in clotting.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -349,7 +357,7 @@ separate circulatory pathways are present in these organisms, hence, these
 animals have double circulation. Let us study the human circulatory
 system.
 
-Reprint 2025-26
+
 
 
 ---
@@ -373,7 +381,15 @@ chambers, two relatively small upper chambers called atria and two larger
 lower chambers called ventricles. A thin, muscular wall called the inter-
 atrial septum separates the right and the left atria, whereas a thick-walled,
 the inter-ventricular septum, separates the left and the right ventricles
-(Figure 15.2). The atrium and the ventricle of the same side are also
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch15_body_fluids_and_circulation_fig_15_2.png" alt="Fig. 15.2" onclick="openImageModal(this.src, 'Fig. 15.2: Heart, the mesodermally derived organ, is situated in the thoracic cavity, in be...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 15.2</strong> Heart, the mesodermally derived organ, is situated in the thoracic cavity, in between the two lungs, slightly tilted to the left. It has the size of a clenched fist. It is protected by a double walled membranous bag, pericardium, enclosing the pericardial fluid. Our heart has four chambers, two relatively small upper chambers called atria and two larger lower chambers called ventricles. A thin, muscular wall called the inter- atrial septum separates the right and the left atria, whereas a thick-walled, the inter-ventricular septum, separates the left and the right ventricles (Figure 15.2). The atrium and the ventricle of the same side are also separated by a thick fibrous tissue called the atrio-ventricular septum. However, each of these septa are provided with an opening through which the two chambers of the same side are connected. The opening between the right atrium and the right ventricle is guarded by a valve formed of three muscular flaps or cusps, the tricuspid valve, whereas a bicuspid or mitral valve guards the opening between the left atrium and the left ventricle. The openings of the right and the left ventricles into the</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 separated by a thick fibrous tissue called the atrio-ventricular septum.
 However, each of these septa are provided with an opening through which
 the two chambers of the same side are connected. The opening between
@@ -417,7 +433,7 @@ septum
 
 Apex
 
-Reprint 2025-26
+
 
 
 ---
@@ -473,7 +489,7 @@ to contract, (ventricular systole), the atria undergoes relaxation
 (diastole), coinciding with the ventricular systole. Ventricular systole
 increases the ventricular pressure causing the closure of tricuspid and
 
-Reprint 2025-26
+
 
 199
 
@@ -532,15 +548,20 @@ heart during a cardiac cycle. To obtain a standard ECG (as shown in the
 
 not
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 9
 
-BODY FLUIDS AND CIRCULATION
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch15_body_fluids_and_circulation_fig_15_3.png" alt="Fig. 15.3" onclick="openImageModal(this.src, 'Fig. 15.3: Figure 15.3), a patient is connected to the machine with three electrical leads ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 15.3</strong> Figure 15.3), a patient is connected to the machine with three electrical leads (one to each wrist and to the left ankle) that continuously monitor the heart activity. For a detailed evaluation of the heart’s function, multiple leads are attached to the chest region. Here, we will talk only about a standard ECG.</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
-Figure 15.3), a patient is connected to the
 machine with three electrical leads (one to each
 wrist and to the left ankle) that continuously
 monitor the heart activity. For a detailed
@@ -597,8 +618,15 @@ arteries and veins. Basically, each artery and vein consists of three layers:
 an inner lining of squamous endothelium, the tunica intima, a middle
 layer of smooth muscle and elastic fibres, the tunica media, and an
 external layer of fibrous connective tissue with collagen fibres, the tunica
-externa. The tunica media is comparatively thin in the veins (Figure
-15.4).
+externa. The tunica media is comparatively thin in the veins (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch15_body_fluids_and_circulation_fig_15_4.png" alt="Fig. 15.4" onclick="openImageModal(this.src, 'Fig. 15.4: The blood flows strictly by a fixed route through Blood Vessels—the arteries and...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 15.4</strong> The blood flows strictly by a fixed route through Blood Vessels—the arteries and veins. Basically, each artery and vein consists of three layers: an inner lining of squamous endothelium, the tunica intima, a middle layer of smooth muscle and elastic fibres, the tunica media, and an external layer of fibrous connective tissue with collagen fibres, the tunica externa. The tunica media is comparatively thin in the veins (Figure 15.4). As mentioned earlier, the blood pumped by the right ventricle enters the pulmonary artery, whereas the left ventricle pumps blood into the aorta. The deoxygenated blood pumped into the pulmonary artery is passed on to the lungs from where the oxygenated blood is carried by the pulmonary veins into the left atrium. This pathway constitutes the pulmonary circulation. The oxygenated blood entering the aorta is carried by a network of arteries, arterioles and capillaries to the tissues from where the deoxygenated blood is collected by a system of venules, veins and vena cava and emptied into the right atrium. This is the systemic circulation (Figure 15.4). The systemic circulation provides nutrients, O2 and other essential substances to the tissues and takes CO2 and other harmful substances away for elimination. A unique vascular connection exists between the digestive tract and liver called</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 As mentioned earlier, the blood pumped by the right ventricle enters
 the pulmonary artery, whereas the left ventricle pumps blood into the
@@ -616,7 +644,7 @@ vascular connection exists between the digestive tract and liver called
 
 2
 
-Reprint 2025-26
+
 
 
 ---
@@ -694,7 +722,7 @@ blood pressure that is higher than normal (120/80). In this measurement
 pressure and 80 mm Hg is the diastolic, or resting, pressure. If repeated
 checks of blood pressure of an individual is 140/90 (140 over 90) or
 
-Reprint 2025-26
+
 
 
 ---
@@ -752,7 +780,7 @@ cardiac cycle and it is called the stroke or beat volume. Volume of blood pumped
 ventricle of heart per minute is called the cardiac output and it is equal to the product of stroke
 volume and heart rate (approx 5 litres). The electrical activity of the heart can be recorded from
 
-Reprint 2025-26
+
 
 203
 
@@ -845,5 +873,5 @@ in the functioning of heart?
 
 14. Draw a standard ECG and explain the different segments in it.
 
-Reprint 2025-26
+
 

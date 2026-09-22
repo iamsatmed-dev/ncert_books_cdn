@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11080CH19
+
 
 CHAPTER 16
 
@@ -68,7 +68,7 @@ Reptiles, birds, land snails and insects excrete nitrogenous wastes as uric
 acid in the form of pellet or paste with a minimum loss of water and are
 called uricotelic animals.
 
-Reprint 2025-26
+
 
 
 ---
@@ -106,28 +106,13 @@ wastes and osmoregulation. Antennal glands or green glands perform
 perf
 the excretory function in crustaceans like prawns.
 
-mars ishlan
-
-16.1 HUMAN EXCRETORY SYSTEM
-
-Adrenal gland
-
-Renal artery
-
-Renal vein
-
--Kidney
-
-Dorsal aorta
-
-Ureter
-
-Urinary
-bladder
-
-Urethra
-
-Figure 16.1 Human Urinary system
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch16_excretory_products_and_their_elimination_fig_16_1.png" alt="Fig. 16.1" onclick="openImageModal(this.src, 'Fig. 16.1: In humans, the excretory system consists of a pair of kidneys, one pair of urete...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 16.1</strong> In humans, the excretory system consists of a pair of kidneys, one pair of ureters, a urinary bladder and a urethra (Figure 16.1). Kidneys are reddish brown, bean shaped structures situated between the levels of last thoracic and third lumbar vertebra close to the dorsal inner wall of the abdominal cavity. Each kidney of an adult human measures 10-12 cm in length, 5-7 cm in width, 2-3 cm in thickness with an average weight of 120- 170 g. Towards the centre of the inner concave surface of the kidney is a notch called hilum through which ureter, blood vessels and nerves enter. Inner to the hilum is a broad funnel shaped space called the renal pelvis with projections called calyces. The outer layer of kidney is a tough capsule. Inside the kidney, there are two zones, an outer cortex and an inner medulla. The medulla is divided into a few conical masses (medullary pyramids) projecting into the calyces (sing.: calyx). The cortex extends in between the</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 e
 
@@ -157,7 +142,7 @@ conical masses (medullary pyramids)
 projecting into the calyces (sing.: calyx).
 The cortex extends in between the
 
-Reprint 2025-26
+
 
 
 ---
@@ -168,11 +153,26 @@ EXCRETORY PRODUCTS AND THEIR ELIMINATION
 207
 
 medullary pyramids as renal columns called
-Columns of Bertini (Figure 16.2).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch16_excretory_products_and_their_elimination_fig_16_2.png" alt="Fig. 16.2" onclick="openImageModal(this.src, 'Fig. 16.2: medullary pyramids as renal columns called Columns of Bertini (Figure 16.2)....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 16.2</strong> medullary pyramids as renal columns called Columns of Bertini (Figure 16.2).</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 Each kidney has nearly one million
 complex tubular structures called nephrons
-(Figure 16.3), which are the functional units.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch16_excretory_products_and_their_elimination_fig_16_3.png" alt="Fig. 16.3" onclick="openImageModal(this.src, 'Fig. 16.3: Figure 16.3 A diagrammatic representation of a nephron showing blood vessels, du...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 16.3</strong> Figure 16.3 A diagrammatic representation of a nephron showing blood vessels, duct and tubule</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 Each nephron has two parts
 the
 glomerulus and the renal tubule.
@@ -186,7 +186,15 @@ walled cup-like structure called Bowman's
 capsule, which encloses the glomerulus.
 Glomerulus alongwith Bowman's capsule, is
 called the malpighian body or renal
-corpuscle (Figure 16.4). The tubule
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch16_excretory_products_and_their_elimination_fig_16_4.png" alt="Fig. 16.4" onclick="openImageModal(this.src, 'Fig. 16.4: The renal tubule begins with a double walled cup-like structure called Bowman’s ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 16.4</strong> The renal tubule begins with a double walled cup-like structure called Bowman’s capsule, which encloses the glomerulus. Glomerulus alongwith Bowman’s capsule, is called the malpighian body or renal corpuscle (Figure 16.4). The tubule continues further to form a highly coiled network – proximal convoluted tubule</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 continues further to form a highly coiled
 network proximal convoluted tubule
 
@@ -251,7 +259,7 @@ Figure 16.3 A diagrammatic representation of a nephron showing blood vessels,
 
 duct and tubule
 
-Reprint 2025-26
+
 
 
 ---
@@ -324,7 +332,7 @@ membranes, that almost all the constituents of the plasma except the
 proteins pass onto the lumen of the Bowman's capsule. Therefore, it is
 considered as a process of ultra filtration.
 
-Reprint 2025-26
+
 
 
 ---
@@ -354,7 +362,14 @@ segments of nephron perform this either by active or passive mechanisms.
 For example, substances like glucose, amino acids, Na⁺, etc., in the filtrate
 are reabsorbed actively whereas the nitrogenous wastes are absorbed by
 passive transport. Reabsorption of water also occurs passively in the initial
-segments of the nephron (Figure 16.5).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch16_excretory_products_and_their_elimination_fig_16_5.png" alt="Fig. 16.5" onclick="openImageModal(this.src, 'Fig. 16.5: A comparison of the volume of the filtrate formed per day (180 litres per day) w...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 16.5</strong> A comparison of the volume of the filtrate formed per day (180 litres per day) with that of the urine released (1.5 litres), suggest that nearly 99 per cent of the filtrate has to be reabsorbed by the renal tubules. This process is called reabsorption. The tubular epithelial cells in different segments of nephron perform this either by active or passive mechanisms. For example, substances like glucose, amino acids, Na+, etc., in the filtrate are reabsorbed actively whereas the nitrogenous wastes are absorbed by passive transport. Reabsorption of water also occurs passively in the initial segments of the nephron (Figure 16.5).</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 replished
 
@@ -391,7 +406,7 @@ NH3 to maintain the pH and sodium-potassium balance in blood.
 
 3
 
-Reprint 2025-26
+
 
 
 ---
@@ -487,7 +502,7 @@ loop and vasa recta play a significant role in this. The flow of filtrate in
 the two limbs of Henle's loop is in opposite directions and thus forms a
 counter current. The flow of blood through the two limbs of vasa recta is
 
-Reprint 2025-26
+
 
 
 ---
@@ -597,41 +612,17 @@ NaCl
 
 600
 
-H2O+
-
-Inner medulla
-
-800
-
-H₂O
-
-1200 mOsmolL¯¹
-
-1000
-
-1200
-
-Vasa recta
-
-1000
-
-1000
-
-Urea
-
-900
-
-1200
-
-H₂O
-
-Nephron
-
-Figure 16.6 Diagrammatic representation of a nephron and vasa recta showing
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch16_excretory_products_and_their_elimination_fig_16_6.png" alt="Fig. 16.6" onclick="openImageModal(this.src, 'Fig. 16.6: Figure 16.6 Diagrammatic representation of a nephron and vasa recta showing...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 16.6</strong> Figure 16.6 Diagrammatic representation of a nephron and vasa recta showing</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
 counter current mechanisms
 
-Reprint 2025-26
+
 
 
 ---
@@ -690,7 +681,7 @@ of the bladder send signals to the CNS. The CNS passes on motor messages
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -744,7 +735,7 @@ kidney. Blood drained from a convenient artery is pumped into a dialysing
 unit after adding an anticoagulant like heparin. The unit contains a coiled
 cellophane tube surrounded by a fluid (dialysing fluid) having the same
 
-Reprint 2025-26
+
 
 ished
 
@@ -810,7 +801,7 @@ secretion. Filtration is a non-selective process performed by the glomerulus usi
 the glomerular capillary blood pressure. About 1200 ml of blood is filtered by the
 glomerulus per minute to form 125 ml of filtrate in the Bowman's capsule per
 
-Reprint 2025-26
+
 
 
 ---
@@ -891,7 +882,7 @@ Column II
 
 (v) Renal tubule
 
-Reprint 2025-26
+
 
 215
 
@@ -932,7 +923,7 @@ n ave
 
 not to be republich
 
-Reprint 2025-26
+
 
 BIOLOGY
 

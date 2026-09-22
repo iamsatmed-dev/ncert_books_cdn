@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-12084CH03
+
 
 ### अध्याय 2
 
@@ -47,10 +47,14 @@ not to
 ### 2.1 पुरुष जनन तंत्र
 
 पुरुष जनन तंत्र शरीर के श्रोणि क्षेत्र (पेल्विस रीजन) में अवस्थित
-होता है (चित्र 2.1 अ)। इसके अंतर्गत एक जोड़ा वृषण, सहायक
 
-Reprint 2025-26
-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_hi.png" alt="चित्र 2" onclick="openImageModal(this.src, 'चित्र 2: iq#&quot;k tuu ra=k &#39;kjhj osQ Jksf.k {ks=k (isfYol jhtu) esa vofLFkr gksrk g...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2</strong> iq#"k tuu ra=k 'kjhj osQ Jksf.k {ks=k (isfYol jhtu) esa vofLFkr gksrk gS (fp=k 2-1 v)A blosQ varxZr ,d tksM+k o`"k.k] lgk;d</span>
+    <button class="icon-btn" onclick="goToPdfPage(1)">📄 View in PDF (Page 1)</button>
+  </div>
+</div>
 
 ---
 ## 📄 Page 2
@@ -71,8 +75,14 @@ Reprint 2025-26
 और चौड़ाई लगभग 2 से 3 सेमी. होती है।
 वृषण सघन आवरण से ढका रहता है।
 प्रत्येक वृषण में लगभग 250 कक्ष होते हैं
-जिन्हें वृषण पालिका (टेस्टिकुलर
-लोब्युल्स) कहते हैं (चित्र 2.1 ब)।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_1_hi.png" alt="चित्र 2.1" onclick="openImageModal(this.src, 'चित्र 2.1: fp=k 2.1 (c) iq#&quot;k tuu ra=k dk vkjs[kh; n`&#39;; (vkarfjd lajpukvksa dks n&...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.1</strong> fp=k 2.1 (c) iq#"k tuu ra=k dk vkjs[kh; n`'; (vkarfjd lajpukvksa dks n'kkZus osQ fy, o`"k.k dk vuqnSè;Z dkV</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 मूत्रवाहिनी
 
@@ -121,7 +131,15 @@ lished
 प्रकार की कोशिकाओं से स्तरित होती हैं,
 जिन्हें नर जर्म कोशिकाएँ (शुक्राणुजन
 / स्पर्मेटोगोनिया) और सर्टोली कोशिकाएँ
-कहते हैं (चित्र 2.2)। नर जर्म कोशिकाएँ
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_2_hi.png" alt="चित्र 2.2" onclick="openImageModal(this.src, 'चित्र 2.2: fp=k 2.2 &#39;kqØtud ufydkvksa osQ vkjs[kh; dkV dk ,d n`&#39;;...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.2</strong> fp=k 2.2 'kqØtud ufydkvksa osQ vkjs[kh; dkV dk ,d n`';</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 अर्धसूत्री विभाजन (या अर्धसूत्रण) के
 फूलस्वरूप शुक्राणुओं का निर्माण करती
 हैं जबकि सर्टोली कोशिकाएँ जर्म चित्र 2.1
@@ -161,7 +179,7 @@ lished
 
 29
 
-Reprint 2025-26
+
 
 
 ---
@@ -205,7 +223,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -239,9 +257,13 @@ Reprint 2025-26
 
 स्त्री जनन तंत्र के अन्तर्गत एक जोड़ा अंडाशय (ओवरी) के
 
-श्रोणि प्रदेश का
-
-चित्र 2.3 (अ) स्त्री श्रोणि प्रदेश का जनन तंत्र दर्शाने वाला
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_3_hi.png" alt="चित्र 2.3" onclick="openImageModal(this.src, 'चित्र 2.3: fp=k 2.3 (c) L=kh tuu ra=k dk vkjs[kh;&dkV n`&#39;;...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.3</strong> fp=k 2.3 (c) L=kh tuu ra=k dk vkjs[kh;&dkV n`';</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 वाला आरेखीय काट
 
@@ -289,7 +311,7 @@ be
 
 चित्र 2.3 (ब) स्त्री जनन तंत्र का आरेखीय-काट दृश्य
 
-Reprint 2025-26
+
 
 31
 
@@ -345,7 +367,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -353,35 +375,13 @@ Reprint 2025-26
 
 मानव जनन
 
-वसा
-
-स्तन पाली
-
-स्तन कूपिका
-
-स्तन नलिका (एंपुला)
-
-तुंबिका
-
-दुग्ध वाहिनी
-
-चूचुक / स्तनाग्र
-
-(निपल)
-
-एरियोला
-
-(चुचुक पृष्ठ)
-
--पर्शका (पसली)
-
-पर्शुकाओं के बीच
-की पेशियाँ
-
-वृत अंश पेशी
-(पेक्टोरेलिस मेजर)
-
-चित्र 2.4 स्तन ग्रंथि का आरेखीय-काट दृश्य
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_4_hi.png" alt="चित्र 2.4" onclick="openImageModal(this.src, 'चित्र 2.4: fp=k 2.4 Lru xzafFk dk vkjs[kh;&dkV n`&#39;;...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.4</strong> fp=k 2.4 Lru xzafFk dk vkjs[kh;&dkV n`';</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 कहते हैं, से आंशिक रूप से ढका होता है। भगशेफ एक छोटी सी अंगुलि जैसी संरचना
 होती है जो मूत्र द्वार के ऊपर दो वृहद भगोष्ठ के ऊपरी मिलन बिन्दु के पास स्थित होती
@@ -402,16 +402,14 @@ Reprint 2025-26
 एक वृहद स्तन तुंबिका बनाती है जो दुग्ध वाहिनी (लैक्टिफेरस डक्ट) से जुड़ी होती
 हैं जिससे की दूध स्तन से बाहर निकलता है।
 
-### 2.3
-
-युग्मकजनन
+### 2.3 युग्मकजनन
 
 प्राथमिक लैंगिक अंग – पुरुषों में वृषण और स्त्रियों में अंडाशय युग्मकजनन (गैमीटोजेनेसिस)
 विधि द्वारा क्रमशः नर युग्मक यानी शुक्राणु और मादा युग्मक यानी अंडाणु उत्पन्न करते
 
 33
 
-Reprint 2025-26
+
 
 
 ---
@@ -430,7 +428,16 @@ Reprint 2025-26
 को पूरा करते हुए दो समान अगुणित कोशिकाओं की रचना करते हैं, जिन्हें द्वितीयक
 शुक्राणु कोशिकाएँ (सेकेंडरी स्पर्मेटोसाइट्स) कहते हैं। इस प्रकार उत्पन्न प्रत्येक
 कोशिका में 23 गुणसूत्र होते हैं। द्वितीयक शुक्राणु कोशिकाएँ, दूसरे अर्धसूत्री विभाजन से
-गुजरते हुए चार बराबर अगुणित शुक्राणुप्रसू (स्पर्मेटिड्स) पैदा करते हैं (चित्र 2.5)।
+गुजरते हुए चार बराबर अगुणित शुक्राणुप्रसू (स्पर्मेटिड्स) पैदा करते हैं (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_5_hi.png" alt="चित्र 2.5" onclick="openImageModal(this.src, 'चित्र 2.5: fp=k 2.5 &#39;kqØtud ufydkvksa (ofèkZr) osQ vkjs[kh; dkV dk ,d n`&#39;;...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.5</strong> fp=k 2.5 'kqØtud ufydkvksa (ofèkZr) osQ vkjs[kh; dkV dk ,d n`';</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 शुक्राणुप्रसुओं में गुणसूत्रों की संख्या कितनी होनी चाहिए? शुक्राणुप्रसू रूपांतरित होकर
 शुक्राणु (स्पर्मेटोजोआ/स्पर्म) बनाते हैं और इस प्रक्रिया को शुक्राणुजनन (स्पर्मिओजेनेसिस)
 कहा जाता है। शुक्राणुजनन के पश्चात् शुक्राणु शीर्ष सर्टोली कोशिकाओं में अंतःस्थापित
@@ -493,15 +500,20 @@ no
 आइए! हम एक शुक्राणु की संरचना की जाँच करें। यह एक सूक्ष्मदर्शीय संरचना है
 जो एक शीर्ष (हेड), ग्रीवा (नेक), एक मध्य खंड (मिड्ल पीस) और एक पूँछ
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 8
 
-मानव जनन
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_6_hi.png" alt="चित्र 2.6" onclick="openImageModal(this.src, 'चित्र 2.6: fp=k 2.6 &#39;kqØk.kq dh lajpuk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.6</strong> fp=k 2.6 'kqØk.kq dh lajpuk</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
-(टेल) की बनी होती है (चित्र 2.6)। एक प्लाज्मा झिल्ली
 शुक्राणु की पूरी काया (बॉडी) को आवृत्त किए रहती है।
 शुक्राणु के शीर्ष में एक दीर्घकृत (इलांगेटेड) अगुणित शीर्ष
 केंद्रक (हेप्लॉयड न्यूक्लियस) होता है तथा इसका अग्रभाग
@@ -565,15 +577,13 @@ CERT
 
 ### 2.6 शुक्राणु की संरचना
 
-तृतीयक पुटक (गह्वर
-दर्शाता हुआ)
-
-ग्राफी पुटक
-
-द्वितीयक
-अंडक
-
-चित्र 2.7 अंडाशय के आरेखीय काट का एक दृश्य
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_7_hi.png" alt="चित्र 2.7" onclick="openImageModal(this.src, 'चित्र 2.7: fp=k 2.7 vaMk&#39;k; osQ vkjs[kh; dkV dk ,d n`&#39;;...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.7</strong> fp=k 2.7 vaMk'k; osQ vkjs[kh; dkV dk ,d n`';</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 की शुरूआत भ्रूणीय परिवर्धन चरण के दौरान होती है जब कई मिलियन मातृ युग्मक
 कोशिकाएँ यानि अंडजननी (ऊगोनिया) प्रत्येक भ्रूणीय अंडाशय के अंदर विनिर्मित होती
@@ -586,7 +596,7 @@ CERT
 
 35
 
-Reprint 2025-26
+
 
 
 ---
@@ -647,32 +657,14 @@ Reprint 2025-26
 ↓
 
 प्रथम ध्रुवीय
-पिंड
 
-द्वितीय ध्रुवीय
-पिंड
-
-पहला अंडक
-
-अर्धसूत्री विभाजन
-(अंडोत्सर्ग के पूर्व
-समाप्त)
-
-द्वितीय अंडक
-↓
-अंडाणु
-
-36
-
-शुक्राणु
-
-(अ)
-
-(ब)
-
-she
-
-चित्र 2.8 शुक्रजनन एवं अंडजनन का आरेखीय निरूपण
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_8_hi.png" alt="चित्र 2.8" onclick="openImageModal(this.src, 'चित्र 2.8: fp=k 2.8 &#39;kqØtuu ,oa vaMtuu dk vkjs[kh; fu:i.k (v) (c)...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.8</strong> fp=k 2.8 'kqØtuu ,oa vaMtuu dk vkjs[kh; fu:i.k (v) (c)</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 (प्राइमरी फॉलिकिल ) कहा जाता है (चित्र 2.7)। एक प्रक्रिया द्वारा इन पुटकों की भारी
 मात्रा में जन्म से यौवनारम्भ तक ह्रास होता रहता है; इसलिए यौवनारम्भ के समय प्रत्येक
@@ -702,7 +694,7 @@ she
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -758,19 +750,13 @@ paus!
 
 ### 2.4 आर्तव चक्र
 
-C
-
-३३३६
-
-3
-
-15 17 19 21 23 25 27 29/1
-
-स्रावी प्रावस्था
-
-अगले चक्र का आरंभ
-
-चित्र 2.9 आर्तव चक्र के दौरान विभिन्न घटनाओं का आरेखीय निरूपण
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_9_hi.png" alt="चित्र 2.9" onclick="openImageModal(this.src, 'चित्र 2.9: fp=k 2.9 vkrZo pØ osQ nkSjku fofHkUu ?kVukvksa dk vkjs[kh; fu:i.k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.9</strong> fp=k 2.9 vkrZo pØ osQ nkSjku fofHkUu ?kVukvksa dk vkjs[kh; fu:i.k</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
 वि एवं मनुष्य अ
 
@@ -787,7 +773,7 @@ C
 
 37
 
-Reprint 2025-26
+
 
 
 ---
@@ -867,13 +853,22 @@ not
 स्त्री एवं पुरुष के संभोग (मैथुन) के दौरान शिश्न द्वारा शुक्र (वीर्य) स्त्री की योनि
 में छोड़ा जाता है यानी वीर्यसेचन होता है। गतिशील शुक्राणु तेजी से तैरते हुए गर्भाशय
 ग्रीवा से होकर गर्भाशय में प्रवेश करते हैं और अंततः अंडवाहिनी नली के तुंबिका
-(एंपुला) क्षेत्र तक पहुँचते हैं (चित्र 2.11 ब)। इसी बीच अंडाशय द्वारा मोचित अंडाणु
+(एंपुला) क्षेत्र तक पहुँचते हैं (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_11_hi.png" alt="चित्र 2.11" onclick="openImageModal(this.src, 'चित्र 2.11: fp=k 2.11 vaMk.kq dk vfHkxeu] fu&quot;kspu ,oa fMEcokfguh uyh ls gksdj o/Zu&#39;...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.11</strong> fp=k 2.11 vaMk.kq dk vfHkxeu] fu"kspu ,oa fMEcokfguh uyh ls gksdj o/Zu'khy Hkwz.k dk xqtjuk</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 भी तुंबिका क्षेत्र तक पहुँच जाता है, जहाँ निषेचन की क्रिया संपन्न होती है। निषेचन
 तभी हो सकता है यदि अंडाणु तथा शुक्राणु दोनों एक ही समय में तुंबिका क्षेत्र पर
 पहुँच जाएँ। यही कारण है जिससे कि सभी संभोग क्रियाएँ निषेचन व सगर्भता की
 स्थिति में नहीं पहुँच पाती हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -886,7 +881,15 @@ Reprint 2025-26
 कहते हैं। निषेचन के दौरान एक शुक्राणु
 अंडाणु के पारदर्शी अंडावरण (जोना
 पेल्युसिडा) स्तर के संपर्क में आता है
-(चित्र 2.10) और अतिरिक्त शुक्राणुओं के
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_10_hi.png" alt="चित्र 2.10" onclick="openImageModal(this.src, 'चित्र 2.10: fp=k 2.10 oqQN &#39;kqØk.kqvksa }kjk f?kjk gqvk vaMk.kq...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.10</strong> fp=k 2.10 oqQN 'kqØk.kqvksa }kjk f?kjk gqvk vaMk.kq</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
 प्रवेश को रोकने हेतु उसके उक्त स्तर में
 बदलाव प्रेरित करता है। इस प्रकार यह
 सुनिश्चित हो जाता है कि एक अंडाणु को
@@ -947,7 +950,7 @@ X या Y लिंग गुणसूत्र वाले शुक्रा
 
 39
 
-Reprint 2025-26
+
 
 
 ---
@@ -1035,7 +1038,7 @@ not
 भ्रूण के अंतर्रोपण के पश्चात् पोषकोरक पर अंगुली-जैसी संरचनाएँ उभरती हैं, जिन्हें
 जरायु अंकुरक (कोरिऑनिक विलाई) कहते हैं। ये जरायु अंकुरक गर्भाशयी ऊतक और
 
-Reprint 2025-26
+
 
 
 ---
@@ -1050,7 +1053,14 @@ Reprint 2025-26
 भ्रूण (गर्भ) और मातृ शरीर के साथ एक
 संरचनात्मक एवं क्रियात्मक इकाई को गठित
 करते हैं, जिन्हें अपरा (प्लैसेंटा) कहा
-जाता है (चित्र 2.12)।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_12_hi.png" alt="चित्र 2.12" onclick="openImageModal(this.src, 'चित्र 2.12: fp=k 2.12 xHkkZ&#39;k; esa vijk n&#39;kkZrk gqvk ekuo Hkwz.k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 2.12</strong> fp=k 2.12 xHkkZ'k; esa vijk n'kkZrk gqvk ekuo Hkwz.k</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
 अपरा, भ्रूण को ऑक्सीजन तथा पोषण
 की आपूर्ति एवं कार्बन डाइऑक्साइड तथा
@@ -1105,7 +1115,7 @@ Reprint 2025-26
 
 41
 
-Reprint 2025-26
+
 
 
 ---
@@ -1158,7 +1168,7 @@ ed
 
 not t
 
-Reprint 2025-26
+
 
 
 ---
@@ -1210,7 +1220,7 @@ published
 
 43
 
-Reprint 2025-26
+
 
 
 ---
@@ -1301,7 +1311,7 @@ not to
 
 13. अंडाशय के अनुप्रस्थ काट (ट्रांसवर्स सेक्शन) का एक नामांकित आरेख बनाएँ।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1360,7 +1370,7 @@ republished
 21. आप क्या सोचते हैं कि कुतिया, जिसने 6 बच्चों को जन्म दिया है, के अंडाशय से कितने
 अंडे मोचित हुए थे?
 
-Reprint 2025-26
+
 
 45
 

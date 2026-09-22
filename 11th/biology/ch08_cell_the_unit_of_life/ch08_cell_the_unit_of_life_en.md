@@ -74,7 +74,7 @@ biomolecules is provided.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -110,13 +110,13 @@ the age of 78, on April 7, 2001.
 
 not to
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 3
 
-11080CH08
+
 
 8.1 What is a Cell?
 
@@ -171,7 +171,7 @@ In 1838, Matthias Schleiden, a German botanist, examined a large number
 of plants and observed that all plants are composed of different kinds of
 cells which form the tissues of the plant. At about the same time, Theodore
 
-Reprint 2025-26
+
 
 
 ---
@@ -230,12 +230,21 @@ chloroplasts (in plants) and mitochondria and on rough ER.
 Animal cells contain another non-membrane bound organelle called
 centrosome which helps in cell division.
 
-Cells differ greatly in size, shape and activities (Figure 8.1). For example,
+Cells differ greatly in size, shape and activities (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch08_cell_the_unit_of_life_fig_8_1.png" alt="Fig. 8.1" onclick="openImageModal(this.src, 'Fig. 8.1: Cells differ greatly in size, shape and activities (Figure 8.1). For example, My...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.1</strong> Cells differ greatly in size, shape and activities (Figure 8.1). For example, Mycoplasmas, the smallest cells, are only 0.3 mm in length while bacteria</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 Mycoplasmas, the smallest cells, are only 0.3 µm in length while bacteria
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -291,14 +300,22 @@ function they perform.
 The prokaryotic cells are represented by bacteria, blue-green algae,
 mycoplasma and PPLO (Pleuro Pneumonia Like Organisms). They are
 generally smaller and multiply more rapidly than the eukaryotic cells
-(Figure 8.2). They may vary greatly in shape and size. The four basic
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch08_cell_the_unit_of_life_fig_8_2.png" alt="Fig. 8.2" onclick="openImageModal(this.src, 'Fig. 8.2: The prokaryotic cells are represented by bacteria, blue-green algae, mycoplasma ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.2</strong> The prokaryotic cells are represented by bacteria, blue-green algae, mycoplasma and PPLO (Pleuro Pneumonia Like Organisms). They are generally smaller and multiply more rapidly than the eukaryotic cells (Figure 8.2). They may vary greatly in shape and size. The four basic shapes of bacteria are bacillus (rod like), coccus (spherical), vibrio (comma shaped) and spirillum (spiral).</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 shapes of bacteria are bacillus (rod like), coccus (spherical), vibrio (comma
 shaped) and spirillum (spiral).
 
 The organisation of the prokaryotic cell is fundamentally similar even
 though prokaryotes exhibit a wide variety of shapes and functions. All
 
-Reprint 2025-26
+
 
 
 ---
@@ -375,7 +392,7 @@ A special membranous structure is the mesosome which is formed
 by the extensions of plasma membrane into the cell. These extensions
 are in the form of vesicles, tubules and lamellae. They help in cell wall
 
-Reprint 2025-26
+
 
 
 ---
@@ -431,9 +448,15 @@ structures. Their genetic material is organised into chromosomes.
 All eukaryotic cells are not identical. Plant and animal cells are different
 as the former possess cell walls, plastids and a large central vacuole which
 are absent in animal cells. On the other hand, animal cells have centrioles
-which are absent in almost all plant cells (Figure 8.3).
+which are absent in almost all plant cells (
 
-Reprint 2025-26
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch08_cell_the_unit_of_life_fig_8_3.png" alt="Fig. 8.3" onclick="openImageModal(this.src, 'Fig. 8.3: All eukaryotic cells are not identical. Plant and animal cells are different as ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.3</strong> All eukaryotic cells are not identical. Plant and animal cells are different as the former possess cell walls, plastids and a large central vacuole which are absent in animal cells. On the other hand, animal cells have centrioles which are absent in almost all plant cells (Figure 8.3).</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
 91
 
@@ -539,7 +562,7 @@ Cytoplasm
 
 Figure 8.3 Diagram showing : (a) Plant cell (b) Animal cell
 
-Reprint 2025-26
+
 
 
 ---
@@ -562,7 +585,16 @@ lipids and proteins. The major lipids are phospholipids that are arranged
 in a bilayer. Also, the lipids are arranged within the membrane with the
 polar head towards the outer sides and the hydrophobic tails towards
 the inner part. This ensures that the nonpolar tail of saturated
-hydrocarbons is protected from the aqueous environment (Figure 8.4).
+hydrocarbons is protected from the aqueous environment (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch08_cell_the_unit_of_life_fig_8_4.png" alt="Fig. 8.4" onclick="openImageModal(this.src, 'Fig. 8.4: These studies showed that the cell membrane is mainly composed of lipids and pro...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.4</strong> These studies showed that the cell membrane is mainly composed of lipids and proteins. The major lipids are phospholipids that are arranged in a bilayer. Also, the lipids are arranged within the membrane with the polar head towards the outer sides and the hydrophobic tails towards the inner part.This ensures that the nonpolar tail of saturated hydrocarbons is protected from the aqueous environment (Figure 8.4). In addition to phospholipids, membrane also contains cholesterol.</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 In addition to phospholipids, membrane also contains cholesterol.
 
 Later, biochemical investigation clearly revealed that the cell membranes
@@ -598,7 +630,7 @@ protein
 
 Figure 8.4 Fluid mosaic model of plasma membrane
 
-Reprint 2025-26
+
 
 
 ---
@@ -658,7 +690,7 @@ While each of the membranous organelles is distinct in terms of its
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -684,7 +716,15 @@ Electron microscopic studies of eukaryotic cells
 reveal the presence of a network or reticulum of
 tiny tubular structures scattered in the cytoplasm
 that is called the endoplasmic reticulum (ER)
-(Figure 8.5). Hence, ER divides the intracellular
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch08_cell_the_unit_of_life_fig_8_5.png" alt="Fig. 8.5" onclick="openImageModal(this.src, 'Fig. 8.5: Electron microscopic studies of eukaryotic cells reveal the presence of a networ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.5</strong> Electron microscopic studies of eukaryotic cells reveal the presence of a network or reticulum of tiny tubular structures scattered in the cytoplasm that is called the endoplasmic reticulum (ER) (Figure 8.5). Hence, ER divides the intracellular space into two distinct compartments, i.e., luminal (inside ER) and extra luminal (cytoplasm) compartments.</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 space into two distinct compartments, i.e., luminal
 (inside ER) and extra luminal (cytoplasm)
 compartments.
@@ -711,7 +751,15 @@ Camillo Golgi (1898) first observed densely stained
 reticular structures near the nucleus. These were
 later named Golgi bodies after him. They consist
 of many flat, disc-shaped sacs or cisternae of
-0.5µm to 1.0µm diameter (Figure 8.6). These are
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch08_cell_the_unit_of_life_fig_8_6.png" alt="Fig. 8.6" onclick="openImageModal(this.src, 'Fig. 8.6: Camillo Golgi (1898) first observed densely stained reticular structures near th...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.6</strong> Camillo Golgi (1898) first observed densely stained reticular structures near the nucleus. These were later named Golgi bodies after him. They consist of many flat, disc-shaped sacs or cisternae of 0.5µm to 1.0µm diameter (Figure 8.6). These are stacked parallel to each other. Varied number of cisternae are present in a Golgi complex. The Golgi cisternae are concentrically arranged near the nucleus with distinct convex cis or the forming</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 stacked parallel to each other. Varied number of
 cisternae are present in a Golgi complex. The Golgi
 cisternae are concentrically arranged near the
@@ -736,7 +784,7 @@ Cisternae
 
 Figure 8.6 Golgi apparatus
 
-Reprint 2025-26
+
 
 
 ---
@@ -802,30 +850,19 @@ it is sausage-shaped or cylindrical having a diameter of 0.2-1.0µm (average
 
 not
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 13
 
-CELL: THE UNIT OF LIFE
-
-Outer
-membrane
-
-Inter-membrane
-space
-
-Inner
-membrane
-
-Matrix
-
-Crista
-
-shed
-
-Figure 8.7 Structure of mitochondrion (Longitudinal section)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch08_cell_the_unit_of_life_fig_8_7.png" alt="Fig. 8.7" onclick="openImageModal(this.src, 'Fig. 8.7: membrane-bound structure with the outer membrane and the inner membrane dividing...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.7</strong> membrane-bound structure with the outer membrane and the inner membrane dividing its lumen distinctly into two aqueous compartments, i.e., the outer compartment and the inner compartment. The inner compartment is filled with a dense homogeneous substance called the matrix. The outer membrane forms the continuous limiting boundary of the organelle. The inner membrane forms a number of infoldings called the cristae (sing.: crista) towards the matrix (Figure 8.7). The cristae increase the surface area. The two membranes have their own specific enzymes associated with the mitochondrial function. Mitochondria are the sites of aerobic respiration. They produce cellular energy in the form of ATP, hence they are called ‘power houses’ of the cell. The matrix also possesses single circular DNA molecule, a few RNA molecules, ribosomes (70S) and the components required for the synthesis of proteins. The mitochondria divide by fission.</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 membrane-bound structure with the outer membrane and the inner
 membrane dividing its lumen distinctly into two aqueous compartments,
@@ -858,7 +895,7 @@ yellow, orange or red colour. The leucoplasts are the colourless plastids
 of varied shapes and sizes with stored nutrients: Amyloplasts store
 carbohydrates (starch), e.g., potato; elaioplasts store oils and fats whereas
 
-Reprint 2025-26
+
 
 97
 
@@ -866,22 +903,13 @@ Reprint 2025-26
 ---
 ## 📄 Page 14
 
-98
-
-BIOLOGY
-
-Stroma
-
-Outer membrane
-
-Inner membrane
-
-Granum
-
-Thylakoid
-Stroma
-
-Figure 8.8 Sectional view of chloroplast
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch08_cell_the_unit_of_life_fig_8_8.png" alt="Fig. 8.8" onclick="openImageModal(this.src, 'Fig. 8.8: Like mitochondria, the chloroplasts are also double membrane bound. Of the two, ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.8</strong> Like mitochondria, the chloroplasts are also double membrane bound. Of the two, the inner chloroplast membrane is relatively less permeable. The space limited by the inner membrane of the chloroplast is called the stroma. A number of organised flattened membranous sacs called the thylakoids, are present in the stroma (Figure 8.8). Thylakoids are arranged in stacks like the piles of coins called grana (singular: granum) or the intergranal thylakoids. In addition, there are flat membranous tubules called the stroma lamellae connecting the thylakoids of the different grana. The membrane of the thylakoids enclose a space called a lumen. The stroma of the chloroplast contains enzymes required for the synthesis of carbohydrates and proteins. It also contains small, double- stranded circular DNA molecules and ribosomes. Chlorophyll pigments are present in the thylakoids. The ribosomes of the chloroplasts are smaller (70S) than the cytoplasmic ribosomes (80S).</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
 lamella
 
@@ -920,10 +948,13 @@ microscope as dense particles by George Palade (1953). They are
 composed of ribonucleic acid (RNA) and proteins and
 are not surrounded by any membrane.
 
-Large
-subunit
-
-Figure 8.9 Ribosome
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch08_cell_the_unit_of_life_fig_8_9.png" alt="Fig. 8.9" onclick="openImageModal(this.src, 'Fig. 8.9: Figure 8.9 Ribosome...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.9</strong> Figure 8.9 Ribosome</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
 The eukaryotic ribosomes are 80S while the
 prokaryotic ribosomes are 70S. Each ribosome has two
@@ -945,7 +976,7 @@ support, motility, maintenance of the shape of the cell.
 Small
 subunit
 
-Reprint 2025-26
+
 
 
 ---
@@ -955,31 +986,13 @@ CELL: THE UNIT OF LIFE
 
 Central
 
-sheath
-
-Plasma
-membrane
-
-Peripheral
-microtubules
-(doublets)
-
-Interdoublet
-bridge
-
-99
-
-(a)
-
-Radial
-spoke
-
-(b)
-
-Central
-microtuble
-
-Figure 8.10 Section of cilia/flagella showing different parts: (a) Electron
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch08_cell_the_unit_of_life_fig_8_10.png" alt="Fig. 8.10" onclick="openImageModal(this.src, 'Fig. 8.10: The electron microscopic study of a cilium or the flagellum show that they are c...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.10</strong> The electron microscopic study of a cilium or the flagellum show that they are covered with plasma membrane. Their core called the axoneme, possesses a number of microtubules running parallel to the long axis. The axoneme usually has nine doublets of radially arranged peripheral microtubules, and a pair of centrally located microtubules. Such an arrangement of axonemal microtubules is referred to as the 9+2 array (Figure 8.10). The central tubules are connected by bridges and is also enclosed by a central sheath, which is connected to one of the tubules of each peripheral doublets by a radial spoke. Thus, there are nine radial spokes. The peripheral doublets are also interconnected by linkers. Both the cilium and flagellum emerge from centriole-like structure called the basal bodies.</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
 (b) Diagrammatic representation of internal structure
 
@@ -1018,7 +1031,7 @@ called centrioles. They are surrounded by amorphous pericentriolar
 materials. Both the centrioles in a centrosome lie perpendicular to each
 other in which each has an organisation like the cartwheel. They are
 
-Reprint 2025-26
+
 
 
 ---
@@ -1042,7 +1055,13 @@ Nucleus as a cell organelle was first described by Robert Brown as early
 as 1831. Later the material of the nucleus stained by the basic dyes was
 given the name chromatin by Flemming.
 
-Figure 8.11 Structure of nucleus
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch08_cell_the_unit_of_life_fig_8_11.png" alt="Fig. 8.11" onclick="openImageModal(this.src, 'Fig. 8.11: The interphase nucleus (nucleus of a cell when it is not dividing) has highly ex...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.11</strong> The interphase nucleus (nucleus of a cell when it is not dividing) has highly extended and elaborate nucleoprotein fibres called chromatin, nuclear matrix and one or more spherical bodies called nucleoli (sing.: nucleolus) (Figure 8.11). Electron microscopy has revealed that the nuclear envelope, which consists of two parallel membranes with a space between (10 to 50 nm) called the perinuclear space, forms a barrier between the materials present inside the nucleus and that of the cytoplasm. The outer membrane usually remains continuous with the endoplasmic reticulum and also bears ribosomes on it. At a number of places the nuclear envelope is interrupted by minute pores, which are formed by the fusion of its two membranes. These nuclear pores are the passages through which movement of RNA and protein molecules takes place in both directions between the nucleus and the cytoplasm. Normally, there is only one nucleus per cell, variations in the number of nuclei are also frequently observed. Can you recollect names of organisms that have more than one nucleus per cell? Some mature cells even lack nucleus, e.g., erythrocytes of many mammals and sieve tube cells of vascular plants. Would you consider these cells as ‘living’?</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
 Nucleoplasm
 
@@ -1089,7 +1108,7 @@ nucleoplasm as it is not a membrane bound structure. It is a site for
 active ribosomal RNA synthesis. Larger and more numerous nucleoli are
 present in cells actively carrying out protein synthesis.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1113,10 +1132,26 @@ packaging in the form of a chromosome in class XII.
 Every chromosome (visible only in dividing cells)
 essentially has a primary constriction or the centromere
 on the sides of which disc shaped structures called
-kinetochores are present (Figure 8.12). Centromere holds
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch08_cell_the_unit_of_life_fig_8_12.png" alt="Fig. 8.12" onclick="openImageModal(this.src, 'Fig. 8.12: Figure 8.12 Chromosome with...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.12</strong> Figure 8.12 Chromosome with</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 two chromatids of a chromosome. Based on the position
 of the centromere, the chromosomes can be classified into
-four types (Figure 8.13). The metacentric chromosome
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch08_cell_the_unit_of_life_fig_8_13.png" alt="Fig. 8.13" onclick="openImageModal(this.src, 'Fig. 8.13: Figure 8.13 Types of chromosomes based on the position of centromere...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 8.13</strong> Figure 8.13 Types of chromosomes based on the position of centromere</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 has middle centromere forming two equal arms of the
 chromosome. The sub-metacentric chromosome has
 
@@ -1150,7 +1185,7 @@ Long arm
 
 Figure 8.13 Types of chromosomes based on the position of centromere
 
-Reprint 2025-26
+
 
 
 ---
@@ -1206,7 +1241,7 @@ enclosed by nuclear envelope, a double membrane structure with nuclear pores.
 The inner membrane encloses the nucleoplasm and the chromatin material.
 Thus, cell is the structural and functional unit of life.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1298,5 +1333,5 @@ terms of their functions. Comment.
 classification of chromosomes. Support your answer with a diagram showing
 the position of centromere on different types of chromosomes.
 
-Reprint 2025-26
+
 

@@ -12,7 +12,7 @@ CONSERVATION
 
 13.1 Biodiversity
 
-12083CH15
+
 
 Invertebrates
 
@@ -52,7 +52,7 @@ biological organisation ranging from macromolecules
 within cells to biomes. Biodiversity is the term popularised
 by the sociobiologist Edward Wilson to describe the
 
-Reprint 2025-26
+
 
 
 ---
@@ -113,7 +113,7 @@ at about 7 million.
 
 217
 
-Reprint 2025-26
+
 
 
 ---
@@ -130,7 +130,16 @@ taxonomic group, making up more than 70 per cent of the total. That
 means, out of every 10 animals on this planet, 7 are insects. Again, how
 do we explain this enormous diversification of insects? The number of
 fungi species in the world is more than the combined total of the species
-of fishes, amphibians, reptiles and mammals. In Figure 13.1, biodiversity
+of fishes, amphibians, reptiles and mammals. In
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch13_biodiversity_and_conservation_fig_13_1.png" alt="Fig. 13.1" onclick="openImageModal(this.src, 'Fig. 13.1: Let us look at some interesting aspects about earth’s biodiversity based on the ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.1</strong> Let us look at some interesting aspects about earth’s biodiversity based on the currently available species inventories. More than 70 per cent of all the species recorded are animals, while plants (including algae, fungi, bryophytes, gymnosperms and angiosperms) comprise no more than 22 per cent of the total. Among animals, insects are the most species-rich taxonomic group, making up more than 70 per cent of the total. That means, out of every 10 animals on this planet, 7 are insects. Again, how do we explain this enormous diversification of insects? The number of fungi species in the world is more than the combined total of the species of fishes, amphibians, reptiles and mammals. In Figure 13.1, biodiversity is depicted showing species number of major taxa.</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 is depicted showing species number of major taxa.
 
 Invertebrates
@@ -184,7 +193,7 @@ not culturable under laboratory conditions. If we accept biochemical or
 molecular criteria for delineating species for this group, then their diversity
 alone might run into millions.
 
-Reprint 2025-26
+
 
 
 ---
@@ -244,7 +253,7 @@ relatively undisturbed for millions of years and thus, had a long
 
 219
 
-Reprint 2025-26
+
 
 
 ---
@@ -283,7 +292,15 @@ fact, the relation between species richness
 and area for a wide variety of taxa
 (angiosperm plants, birds, bats,
 freshwater fishes) turns out to be a
-rectangular hyperbola (Figure13.2). On
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch13_biodiversity_and_conservation_fig_13_2.png" alt="Fig. 13.2" onclick="openImageModal(this.src, 'Fig. 13.2: observed that within a region species richness increased with increasing explore...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.2</strong> observed that within a region species richness increased with increasing explored area, but only up to a limit. In fact, the relation between species richness and area for a wide variety of taxa (angiosperm plants, birds, bats, freshwater fishes) turns out to be a rectangular hyperbola (Figure13.2). On a logarithmic scale, the relationship is a straight line described by the equation</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 a logarithmic scale, the relationship is a
 straight line described by the equation
 
@@ -328,7 +345,7 @@ able to give a definitive answer. For many decades, ecologists believed
 that communities with more species, generally, tend to be more stable
 than those with less species. What exactly is stability for a biological
 
-Reprint 2025-26
+
 
 
 ---
@@ -388,7 +405,7 @@ have witnessed the disappearance of 27 species. Careful analysis of records
 
 221
 
-Reprint 2025-26
+
 
 
 ---
@@ -450,7 +467,7 @@ not t
 (ii) Over-exploitation: Humans have always depended on nature for
 food and shelter, but when ‘need' turns to 'greed', it leads to
 
-Reprint 2025-26
+
 
 
 ---
@@ -513,7 +530,7 @@ major role in many ecosystem services that nature provides. The fast-
 
 223
 
-Reprint 2025-26
+
 
 
 ---
@@ -574,7 +591,7 @@ Although all the biodiversity hotspots put together cover less than
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -636,7 +653,7 @@ there might still be nearly 6 million species on earth waiting to be
 
 225
 
-Reprint 2025-26
+
 
 
 ---
@@ -704,7 +721,7 @@ EXERCISES
 ### 2. How do ecologists estimate the total number of species present in the
 world?
 
-Reprint 2025-26
+
 
 
 ---
@@ -737,9 +754,9 @@ species extinct? How would you justify it?
 
 © NCERT
 
-not to be republished
 
-Reprint 2025-26
+
+
 
 227
 
@@ -751,7 +768,7 @@ NOTES
 
 © NCERT
 
-not to be republished
 
-Reprint 2025-26
+
+
 

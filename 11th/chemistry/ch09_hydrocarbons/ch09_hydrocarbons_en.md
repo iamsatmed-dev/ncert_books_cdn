@@ -9,7 +9,7 @@ HYDROCARBONS
 
 UNIT 9
 
-11083CH13
+
 
 Objectives
 
@@ -109,7 +109,7 @@ Hydrocarbons are of different types. Depending upon
 the types of carbon-carbon bonds present, they can
 be classified into three main categories – (i) saturated
 
-Reprint 2025-26
+
 
 
 ---
@@ -190,7 +190,15 @@ represents any particular homologue when n
 is given appropriate value. Can you recall the
 structure of methane? According to VSEPR
 theory (Unit 4), methane has a tetrahedral
-structure (Fig. 9.1), in which carbon atom lies
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch09_hydrocarbons_fig_9_1.png" alt="Fig. 9.1" onclick="openImageModal(this.src, 'Fig. 9.1: of the general formula for alkane family or homologous series? If we examine the...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.1</strong> of the general formula for alkane family or homologous series? If we examine the formula of different alkanes we find that the general formula for alkanes is CnH2n+2. It represents any particular homologue when n is given appropriate value. Can you recall the structure of methane? According to VSEPR theory (Unit 4), methane has a tetrahedral structure (Fig. 9.1), in which carbon atom lies at the centre and the four hydrogen atoms lie at the four corners of a regular tetrahedron. All H-C-H bond angles are of 109.5°.</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 at the centre and the four hydrogen atoms lie
 at the four corners of a regular tetrahedron.
 All H-C-H bond angles are of 109.5 .
@@ -245,7 +253,7 @@ H-C-C-C-C-H
 
 Butane (n- butane), (b.p. 273 K)
 
-Reprint 2025-26
+
 
 
 ---
@@ -439,7 +447,7 @@ three carbon atoms and neo or quaternary
 carbon is attached to four carbon atoms. Can
 you identify 1,2,3 and 4 carbon atoms in
 
-Reprint 2025-26
+
 
 
 ---
@@ -583,7 +591,7 @@ CH3 – CH – CH –CH3
 
 butan-2-ol
 
-Reprint 2025-26
+
 
 
 ---
@@ -708,7 +716,7 @@ C-C-C-C-C
 ii) Give number to carbon atoms:
 C¹- C²- C³- C²- C5
 
-Reprint 2025-26
+
 
 
 ---
@@ -884,7 +892,7 @@ Chloromethane
 
 Methane
 
-Reprint 2025-26
+
 
 
 ---
@@ -1056,7 +1064,7 @@ you think about the nature of the greasy
 substance? You are correct if you say that
 grease (mixture of higher alkanes) is non-
 
-Reprint 2025-26
+
 
 
 ---
@@ -1324,7 +1332,7 @@ Eicosane
 
 309.7
 
-Reprint 2025-26
+
 
 
 ---
@@ -1485,7 +1493,7 @@ carbon black is formed which is used in
 the manufacture of ink, printer ink, black
 pigments and as filters.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1674,7 +1682,7 @@ Heptane Pentene
 
 (9.29)
 
-Reprint 2025-26
+
 
 
 ---
@@ -1752,7 +1760,14 @@ corresponding to three hydrogen atoms.
 The lines are inclined at an angle of 120 to
 each other. Sawhorse projections of eclipsed
 and staggered conformations of ethane are
-depicted in Fig. 9.2.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch09_hydrocarbons_fig_9_2.png" alt="Fig. 9.2" onclick="openImageModal(this.src, 'Fig. 9.2: 1. Sawhorse projections In this projection, the molecule is viewed along the mol...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.2</strong> 1. Sawhorse projections In this projection, the molecule is viewed along the molecular axis. It is then projected on paper by drawing the central C–C bond as a somewhat longer straight line. Upper end of the line is slightly tilted towards right or left hand side. The front carbon is shown at the lower end of the line, whereas the rear carbon is shown at the upper end. Each carbon has three lines attached to it corresponding to three hydrogen atoms. The lines are inclined at an angle of 120° to each other. Sawhorse projections of eclipsed and staggered conformations of ethane are depicted in Fig. 9.2.</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
 
 H
 
@@ -1793,7 +1808,14 @@ represented by a circle and the three hydrogen
 atoms are shown attached to it by the shorter
 lines drawn at an angle of 120 to each other.
 The Newman's projections are depicted in
-Fig. 9.3.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch09_hydrocarbons_fig_9_3.png" alt="Fig. 9.3" onclick="openImageModal(this.src, 'Fig. 9.3: 2. Newman projections In this projection, the molecule is viewed at the C–C bond...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.3</strong> 2. Newman projections In this projection, the molecule is viewed at the C–C bond head on. The carbon atom nearer to the eye is represented by a point. Three hydrogen atoms attached to the front carbon atom are shown by three lines drawn at an angle of 120° to each other. The rear carbon atom (the carbon atom away from the eye) is represented by a circle and the three hydrogen atoms are shown attached to it by the shorter lines drawn at an angle of 120° to each other. The Newman’s projections are depicted in Fig. 9.3.</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
 
 H
 
@@ -1826,7 +1848,7 @@ H
 
 Fig. 9.3 Newman's projections of ethane
 
-Reprint 2025-26
+
 
 
 ---
@@ -1928,11 +1950,13 @@ ethane (bond enthalpy, 348 kJ mol¯¹). Orbital
 diagrams of ethene molecule are shown in
 Figs. 9.4 and 9.5.
 
-Η σ
-
-Η σ
-
-Fig. 9.4
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch09_hydrocarbons_fig_9_4.png" alt="Fig. 9.4" onclick="openImageModal(this.src, 'Fig. 9.4: Fig. 9.4 Orbital picture of ethene depicting σ bonds only...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.4</strong> Fig. 9.4 Orbital picture of ethene depicting σ bonds only</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 9.3.2
 
@@ -1970,7 +1994,7 @@ the longest chain of carbon atoms containing
 the double bond is selected. Numbering of the
 chain is done from the end which is nearer to
 
-Reprint 2025-26
+
 
 
 ---
@@ -1994,36 +2018,13 @@ H
 
 121.7°
 
-H
-
-C
-
-C
-
-116.6°
-
-H
-
-H
-
-(a)
-
-H
-
-H
-
-H
-
-H
-
-(b)
-
-134 pm 110 pm
-(c)
-
-307
-
-Fig. 9.5
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch09_hydrocarbons_fig_9_5.png" alt="Fig. 9.5" onclick="openImageModal(this.src, 'Fig. 9.5: Fig. 9.5 Orbital picture of ethene showing formation of (a) π-bond, (b) π-cloud ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.5</strong> Fig. 9.5 Orbital picture of ethene showing formation of (a) π-bond, (b) π-cloud and (c) bond angles and bond lengths</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 Orbital picture of ethene showing formation of (a) π-bond, (b) π-cloud and (c) bond angles and
 bond lengths
@@ -2164,7 +2165,7 @@ CH3
 
 (C4H8)
 
-Reprint 2025-26
+
 
 
 ---
@@ -2351,7 +2352,7 @@ dipole moment of cis-but-2-ene is 0.33 Debye,
 whereas, dipole moment of the trans form
 is almost zero or it can be said that
 
-Reprint 2025-26
+
 
 
 ---
@@ -2567,7 +2568,7 @@ R
 
 (9.31)
 
-Reprint 2025-26
+
 
 
 ---
@@ -2722,7 +2723,7 @@ bromine or chlorine add up to alkene to
 form vicinal dihalides. However, iodine
 does not show addition reaction under
 
-Reprint 2025-26
+
 
 
 ---
@@ -2881,7 +2882,7 @@ possible products are I and II.
 2-Bromopropane
 (major product)
 
-Reprint 2025-26
+
 
 
 ---
@@ -3027,7 +3028,7 @@ alkenes in accordance with Markovnikov
 rule to form alkyl hydrogen sulphate by
 the electrophilic addition reaction.
 
-Reprint 2025-26
+
 
 
 ---
@@ -3202,7 +3203,7 @@ polymers. This reaction is known as
 polymerisation. The simple compounds
 from which polymers are made are called
 
-Reprint 2025-26
+
 
 
 ---
@@ -3388,7 +3389,7 @@ Dimethylacetylene
 
 But-2-yne
 
-Reprint 2025-26
+
 
 
 ---
@@ -3494,7 +3495,14 @@ different pairs.
 
 Ethyne is the simplest molecule of alkyne
 series. Structure of ethyne is shown in
-Fig. 9.6.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch09_hydrocarbons_fig_9_6.png" alt="Fig. 9.6" onclick="openImageModal(this.src, 'Fig. 9.6: Ethyne is the simplest molecule of alkyne series. Structure of ethyne is shown i...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.6</strong> Ethyne is the simplest molecule of alkyne series. Structure of ethyne is shown in Fig. 9.6.</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
 
 Each carbon atom of ethyne has two sp
 hybridised orbitals. Carbon-carbon sigma (σ)
@@ -3564,7 +3572,7 @@ CaO
 
 (9.55)
 
-Reprint 2025-26
+
 
 
 ---
@@ -3724,7 +3732,7 @@ dihydrogen, halogen, hydrogen halides etc.
 Formation of the addition product takes place
 according to the following steps.
 
-Reprint 2025-26
+
 
 
 ---
@@ -3888,7 +3896,7 @@ weight polyene containing repeating units of
 as (CH = CH – CH = CH)— Under special
 conditions, this polymer conducts electricity.
 
-Reprint 2025-26
+
 
 
 ---
@@ -4026,7 +4034,7 @@ Methylbenzene
 
 (o-Xylene)
 
-Reprint 2025-26
+
 
 
 ---
@@ -4140,7 +4148,7 @@ doubly bonded carbon atoms whereas in the
 other, they are attached to the singly bonded
 carbons.
 
-Reprint 2025-26
+
 
 
 ---
@@ -4220,23 +4228,13 @@ C6 - C₁ respectively as shown in the following
 own
 figures.
 
-6
-
-1
-
-1
-
------
-
-5
-
-4
-
--
-
-2
-
-Fig. 9.7 (a)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch09_hydrocarbons_fig_9_7.png" alt="Fig. 9.7" onclick="openImageModal(this.src, 'Fig. 9.7: Fig. 9.7 (a)...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.7</strong> Fig. 9.7 (a)</span>
+    <button class="icon-btn" onclick="goToPdfPage(26)">📄 View in PDF (Page 26)</button>
+  </div>
+</div>
 
 3
 
@@ -4286,7 +4284,7 @@ Structures shown in Fig. 9.7(a) and (b)
 correspond to two Kekulé's structure with
 localised a bonds. The internuclear distance
 
-Reprint 2025-26
+
 
 
 ---
@@ -4398,7 +4396,7 @@ CaO
 
 (9.70)
 
-Reprint 2025-26
+
 
 
 ---
@@ -4550,7 +4548,7 @@ reaction of benzene with an acyl halide or
 acid anhydride in the presence of Lewis acids
 (AlCl3) yields acyl benzene.
 
-Reprint 2025-26
+
 
 
 ---
@@ -4760,7 +4758,7 @@ H
 
 4
 
-Reprint 2025-26
+
 
 
 ---
@@ -4938,7 +4936,7 @@ density increases at these positions of the
 ring due to resonance. Therefore, –OH group
 activates the benzene ring for the attack by
 
-Reprint 2025-26
+
 
 
 ---
@@ -5055,7 +5053,7 @@ III
 
 V
 
-Reprint 2025-26
+
 
 1,2-Benzpyrene
 
@@ -5174,7 +5172,7 @@ compounds :
 
 (iv) 1-Phenylbut-1-ene
 
-Reprint 2025-26
+
 
 
 ---
@@ -5297,7 +5295,7 @@ which can be used during ethylation of benzene.
 containing odd number of carbon atoms? Illustrate your answer by taking
 one example.
 
-Reprint 2025-26
+
 
 327
 

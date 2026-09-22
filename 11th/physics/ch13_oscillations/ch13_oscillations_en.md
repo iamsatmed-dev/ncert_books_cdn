@@ -9,7 +9,7 @@ CHAPTER THIRTEEN
 
 OSCILLATIONS
 
-11087CH14
+
 
 13.1
 
@@ -83,21 +83,20 @@ oscillatory motion, in particular, requires some fundamental
 concepts, like period, frequency, displacement, amplitude
 and phase. These concepts are developed in the next section.
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 2
 
-260
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_1.png" alt="Fig. 13.1" onclick="openImageModal(this.src, 'Fig. 13.1: Fig. 13.1 shows some periodic motions. Suppose an insect climbs up a ramp and fa...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.1</strong> Fig. 13.1 shows some periodic motions. Suppose an insect climbs up a ramp and falls down, it comes back to the initial point and repeats the process identically. If you draw a graph of its height above the ground versus time, it would look something like Fig. 13.1 (a). If a child climbs up a step, comes down, and repeats the process identically, its height above the ground would look like that in Fig. 13.1 (b). When you play the game of bouncing a ball off the ground, between your palm and the ground, its height versus time graph would look like the one in Fig. 13.1 (c). Note that both the curved parts in Fig. 13.1 (c) are sections of a parabola given by the Newton’s equation of motion (see section 2.6),</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
-PHYSICS
-
-13.2
-
-PERIODIC AND OSCILLATORY MOTIONS
-
-Fig. 13.1 shows some periodic motions. Suppose
 an insect climbs up a ramp and falls down, it
 comes back to the initial point and repeats the
 process identically. If you draw a graph of its
@@ -220,7 +219,7 @@ which the motion is repeated is called its
 period. Let us denote the period by the symbol
 T. Its SI unit is second. For periodic motions,
 
-Reprint 2025-26
+
 
 
 ---
@@ -258,9 +257,14 @@ Thus,
 Note, that the frequency, v, is not necessarily
 an integer.
 
-261
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_2.png" alt="Fig. 13.2" onclick="openImageModal(this.src, 'Fig. 13.2: 13.2.2 Displacement In section 3.2, we defined displacement of a particle as the...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.2</strong> 13.2.2 Displacement In section 3.2, we defined displacement of a particle as the change in its position vector. In this chapter, we use the term displacement in a more general sense. It refers to change with time of any physical property under consideration. For example, in case of rectilinear motion of a steel ball on a surface, the distance from the starting point as a function of time is its position displacement. The choice of origin is a matter of convenience. Consider a block attached to a spring, the other end of the spring is fixed to a rigid wall [see Fig.13.2(a)]. Generally, it is convenient to measure displacement of the body from its equilibrium position. For an oscillating simple pendulum, the angle from the vertical as a function of time may be regarded</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
-as a displacement variable [see Fig. 13.2(b)]. The
 term displacement is not always to be referred
 
 0000000000000000000000
@@ -345,7 +349,7 @@ If the argument of this function, wt, is
 increased by an integral multiple of 2n radians,
 the value of the function remains the same. The
 
-Reprint 2025-26
+
 
 
 ---
@@ -472,7 +476,15 @@ The periodic time of the function is 2π/ω.
 
 Consider a particle oscillating back and forth
 about the origin of an x-axis between the limits
-+Aand-A as shown in Fig. 13.3. This oscillatory
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_3.png" alt="Fig. 13.3" onclick="openImageModal(this.src, 'Fig. 13.3: Consider a particle oscillating back and forth about the origin of an x-axis bet...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.3</strong> Consider a particle oscillating back and forth about the origin of an x-axis between the limits +A and –A as shown in Fig. 13.3. This oscillatory motion is said to be simple harmonic if the displacement x of the particle from the origin varies with time as :</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 motion is said to be simple harmonic if the
 displacement x of the particle from the origin
 varies with time as:
@@ -494,14 +506,31 @@ where A, and 4 are constants.
 Thus, simple harmonic motion (SHM) is not
 any periodic motion but one in which
 displacement is a sinusoidal function of time.
-Fig. 13.4 shows the positions of a particle
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_4.png" alt="Fig. 13.4" onclick="openImageModal(this.src, 'Fig. 13.4: Thus, simple harmonic motion (SHM) is not any periodic motion but one in which d...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.4</strong> Thus, simple harmonic motion (SHM) is not any periodic motion but one in which displacement is a sinusoidal function of time. Fig. 13.4 shows the positions of a particle executing SHM at discrete value of time, each interval of time being T/4, where T is the period of motion.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_5.png" alt="Fig. 13.5" onclick="openImageModal(this.src, 'Fig. 13.5: Fig. 13.5 Displacement as a continuous function of time for simple harmonic moti...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.5</strong> Fig. 13.5 Displacement as a continuous function of time for simple harmonic motion.</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
+<button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 executing SHM at discrete value of time, each
 interval of time being T/4, where Tis the period
 of motion. Fig. 13.5 plots the graph of xversus t,
 which gives the values of displacement as a
 continuous function of time. The quantities A,
 
-Reprint 2025-26
+
 
 
 ---
@@ -548,7 +577,14 @@ of time varies from +1 to −1, the displacement
 varies between the extremes A and A. Two
 simple harmonic motions may have same @
 and & but different amplitudes A and B, as
-shown in Fig. 13.7 (a).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_7.png" alt="Fig. 13.7" onclick="openImageModal(this.src, 'Fig. 13.7: any loss of generality]. As the cosine function of time varies from +1 to –1, th...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.7</strong> any loss of generality]. As the cosine function of time varies from +1 to –1, the displacement varies between the extremes A and – A. Two simple harmonic motions may have same ω and φ but different amplitudes A and B, as shown in Fig. 13.7 (a).</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 While the amplitude A is fixed for a given
 SHM, the state of motion (position and velocity)
@@ -597,7 +633,15 @@ displacement (at x = 0) and zero at the
 extremes of motion.
 
 @ and which characterize a given SHM have
-standard names, as summarised in Fig. 13.6.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_6.png" alt="Fig. 13.6" onclick="openImageModal(this.src, 'Fig. 13.6: ω and φ which characterize a given SHM have standard names, as summarised in Fig...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.6</strong> ω and φ which characterize a given SHM have standard names, as summarised in Fig. 13.6. Let us understand these quantities.</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 Let us understand these quantities.
 
 The amplitutde A of SHM is the magnitude
@@ -694,7 +738,7 @@ curves 3 and 4 are for $ = 0 and -π/4
 respectively. The amplitude A is same for
 both the plots.
 
-Reprint 2025-26
+
 
 
 ---
@@ -730,7 +774,15 @@ S.I. unit is radians per second. Since the
 frequency of oscillations is simply 1/T, ω is 2π
 times the frequency of oscillation. Two simple
 harmonic motions may have the same A and $,
-but different w, as seen in Fig. 13.8. In this plot
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_8.png" alt="Fig. 13.8" onclick="openImageModal(this.src, 'Fig. 13.8: ω is called the angular frequency of SHM. Its S.I. unit is radians per second. S...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.8</strong> ω is called the angular frequency of SHM. Its S.I. unit is radians per second. Since the frequency of oscillations is simply 1/T, ω is 2π times the frequency of oscillation. Two simple harmonic motions may have the same A and φ, but different ω, as seen in Fig. 13.8. In this plot the curve (b) has half the period and twice the frequency of the curve (a).</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 the curve (b) has half the period and twice the
 frequency of the curve (a).
 
@@ -769,7 +821,15 @@ UNIFORM CIRCULAR MOTION
 In this section, we show that the projection of
 uniform circular motion on a diameter of the
 circle follows simple harmonic motion. A
-simple experiment (Fig. 13.9) helps us visualise
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_9.png" alt="Fig. 13.9" onclick="openImageModal(this.src, 'Fig. 13.9: In this section, we show that the projection of uniform circular motion on a dia...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.9</strong> In this section, we show that the projection of uniform circular motion on a diameter of the circle follows simple harmonic motion. A simple experiment (Fig. 13.9) helps us visualise this connection. Tie a ball to the end of a string and make it move in a horizontal plane about a fixed point with a constant angular speed. The ball would then perform a uniform circular motion in the horizontal plane. Observe the ball sideways or from the front, fixing your attention in the plane of motion. The ball will appear to execute to and fro motion along a horizontal line with the point of rotation as the midpoint. You could alternatively observe the shadow of the ball on a wall which is perpendicular to the plane of the circle. In this process what we are observing is the motion of the ball on a diameter of the circle normal to the direction of viewing.</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 this connection. Tie a ball to the end of a string
 and make it move in a horizontal plane about
 a fixed point with a constant angular speed.
@@ -817,7 +877,14 @@ Answer
 Fig. 13.9 Circular motion of a ball in a plane viewed
 edge-on is SHM.
 
-Fig. 13.10 describes the same situation
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_10.png" alt="Fig. 13.10" onclick="openImageModal(this.src, 'Fig. 13.10: Fig. 13.10 describes the same situation mathematically. Suppose a particle P is ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.10</strong> Fig. 13.10 describes the same situation mathematically. Suppose a particle P is moving uniformly on a circle of radius A with angular speed ω. The sense of rotation is anticlockwise. The initial position vector of the particle, i.e., the vector OP at t = 0 makes an angle of φ with the positive direction of x-axis. In time t, it will cover a further angle ωt and its position vector</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 mathematically. Suppose a particle P is moving
 uniformly on a circle of radius A with angular
 speed w. The sense of rotation is anticlockwise.
@@ -826,7 +893,7 @@ the vector OP at t = 0 makes an angle of $ with
 the positive direction of x-axis. In time t, it will
 cover a further angle ot and its position vector
 
-Reprint 2025-26
+
 
 
 ---
@@ -978,7 +1045,7 @@ shown explicitly. For example, sin(15°) means sine of 15 degree, but sin(15) me
 Hereafter, we will often drop 'rad' as the unit, and it should be understood that whenever angle is
 mentioned as a numerical value, without units, it is to be taken as radians.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1074,7 +1141,14 @@ circular motion has a magnitude ²/A or w²A,
 and it is directed towards the centre i.e., the
 direction is along PO. The instantaneous
 acceleration of the projection particle P' is then
-(See Fig. 13.12)
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_12.png" alt="Fig. 13.12" onclick="openImageModal(this.src, 'Fig. 13.12: The method of reference circle can be similarly used for obtaining instantaneous...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.12</strong> The method of reference circle can be similarly used for obtaining instantaneous acceleration of a particle undergoing SHM. We know that the centripetal acceleration of a particle P in uniform circular motion has a magnitude v2/A or ω2A, and it is directed towards the centre i.e., the direction is along PO. The instantaneous acceleration of the projection particle P′ is then (See Fig. 13.12)</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 a (t) = -w²A cos (ωt + φ)
 
@@ -1102,7 +1176,15 @@ v = A
 The direction of velocity ▾ at a time t is along
 the tangent to the circle at the point where the
 particle is located at that instant. From the
-geometry of Fig. 13.11, it is clear that the velocity
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_11.png" alt="Fig. 13.11" onclick="openImageModal(this.src, 'Fig. 13.11: The direction of velocity v at a time t is along the tangent to the circle at th...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.11</strong> The direction of velocity v at a time t is along the tangent to the circle at the point where the particle is located at that instant. From the geometry of Fig. 13.11, it is clear that the velocity of the projection particle P′ at time t is</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 of the projection particle P' at time tis
 
 v(t) = -A sin (ot + 6)
@@ -1164,7 +1246,7 @@ property that acceleration of a particle in SHM
 is proportional to displacement. For x(t) > 0,
 a(t) <0 and for x(t) < 0, a(t) > 0. Thus, whatever
 
-Reprint 2025-26
+
 
 
 ---
@@ -1180,7 +1262,16 @@ For simplicity, let us put ¢ = 0 and write the
 expression for x (t), v (t) and a(t)
 
 x(t) = A cos wt, v(t) = – @Asin wt, a(t)=−² A cos ot
-The corresponding plots are shown in Fig. 13.13.
+The corresponding plots are shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_13.png" alt="Fig. 13.13" onclick="openImageModal(this.src, 'Fig. 13.13: the value of x between –A and A, the acceleration a(t) is always directed toward...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.13</strong> the value of x between –A and A, the acceleration a(t) is always directed towards the centre. For simplicity, let us put φ = 0 and write the expression for x (t), v (t) and a(t) x(t) = A cos ωt, v(t) = – ω Asin ωt, a(t)=–ω2 A cos ωt The corresponding plots are shown in Fig. 13.13. All quantities vary sinusoidally with time; only their maxima differ and the different plots differ in phase. x varies between –A to A; v(t) varies from –ωA to ωA and a(t) from –ω2A to ω2A. With respect to displacement plot, velocity plot has a phase difference of π/2 and acceleration plot has a phase difference of π.</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 All quantities vary sinusoidally with time; only
 their maxima differ and the different plots differ
 in phase. x varies between –A to A; v(t) varies
@@ -1328,12 +1419,20 @@ oscillators.
 Example 13.6 Two identical springs of
 spring constant k are attached to a block
 of mass m and to fixed supports as shown
-in Fig. 13.14. Show that when the mass is
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_14.png" alt="Fig. 13.14" onclick="openImageModal(this.src, 'Fig. 13.14: spring constant k are attached to a block of mass m and to fixed supports as sho...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.14</strong> spring constant k are attached to a block of mass m and to fixed supports as shown in Fig. 13.14. Show that when the mass is displaced from its equilibrium position on either side, it executes a simple harmonic motion. Find the period of oscillations.</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 displaced from its equilibrium position on
 either side, it executes a simple harmonic
 motion. Find the period of oscillations.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1353,7 +1452,15 @@ k
 
 Answer Let the mass be displaced by a small
 distance x to the right side of the equilibrium
-position, as shown in Fig. 13.15. Under this
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_15.png" alt="Fig. 13.15" onclick="openImageModal(this.src, 'Fig. 13.15: Answer Let the mass be displaced by a small distance x to the right side of the ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.15</strong> Answer Let the mass be displaced by a small distance x to the right side of the equilibrium position, as shown in Fig. 13.15. Under this situation the spring on the left side gets</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 situation the spring on the left side gets
 
 F1
@@ -1487,7 +1594,7 @@ periodic, with period T/2, being zero at the mean
 position and maximum at the extreme
 displacements.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1522,7 +1629,15 @@ Thus,
 
 Observe that both kinetic energy and
 potential energy in SHM are seen to be always
-positive in Fig. 13.16. Kinetic energy can, of
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_16.png" alt="Fig. 13.16" onclick="openImageModal(this.src, 'Fig. 13.16: The total mechanical energy of a harmonic oscillator is thus independent of time...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.16</strong> The total mechanical energy of a harmonic oscillator is thus independent of time as expected for motion under any conservative force. The time and displacement dependence of the potential and kinetic energies of a linear simple harmonic oscillator are shown in Fig. 13.16.</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 course, be never negative, since it is
 proportional to the square of speed. Potential
 energy is positive by choice of the undermined
@@ -1627,7 +1742,7 @@ the mean position, we have
 
 0.05 = 0.1 cos (7.07t)
 
-Reprint 2025-26
+
 
 
 ---
@@ -1723,7 +1838,16 @@ mg
 
 (b)
 
-system is equal to the P.E. Therefore, the total Fig. 13.17 (a) A bob oscillating about its mean
+system is equal to the P.E. Therefore, the total
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_17.png" alt="Fig. 13.17" onclick="openImageModal(this.src, 'Fig. 13.17: Fig. 13.17 (a) A bob oscillating about its mean position. (b) The radial force T...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.17</strong> Fig. 13.17 (a) A bob oscillating about its mean position. (b) The radial force T-mg cosθ provides centripetal force but no torque about the support. The tangential force mg sinθ provides the restoring torque.</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
 energy of the system,
 
 C
@@ -1771,7 +1895,7 @@ position, 0 = 0
 There are only two forces acting on the bob;
 the tension T along the string and the vertical
 
-Reprint 2025-26
+
 
 
 ---
@@ -1939,7 +2063,7 @@ and T = 2 s, Lis
 
 1 m
 
-Reprint 2025-26
+
 
 
 ---
@@ -2032,7 +2156,7 @@ L
 
 g
 
-Reprint 2025-26
+
 
 PHYSICS
 
@@ -2168,7 +2292,7 @@ Thus, damped simple harmonic motion is not strictly simple harmonic. It is
 approximately so only for time intervals much less than 2m/b where b is the damping
 constant.
 
-Reprint 2025-26
+
 
 273
 
@@ -2220,9 +2344,14 @@ point slightly above the lower most point.
 
 general vibrations of a polyatomic molecule about its equilibrium position.
 
-13.3
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_18.png" alt="Fig. 13.18" onclick="openImageModal(this.src, 'Fig. 13.18: 13.3 Fig. 13.18 depicts four x-t plots for linear motion of a particle. Which of...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.18</strong> 13.3 Fig. 13.18 depicts four x-t plots for linear motion of a particle. Which of the plots represent periodic motion? What is the period of motion (in case of periodic motion) ?</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
-Fig. 13.18 depicts four x-t plots for linear motion of a particle. Which of the plots
 represent periodic motion? What is the period of motion (in case of periodic motion) ?
 
 (a)
@@ -2237,38 +2366,13 @@ to be republishe
 
 3
 
-t(s)
-
-1
-
-4
-
-7
-
-10
-
-13 t(s)
-
-X
-
-(d)
--3
-
--2
-
--1
-
-0 1
-
-2
-
-3
-
-t(s)
-
-Fig. 18.18
-
-Reprint 2025-26
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_18_18.png" alt="Fig. 18.18" onclick="openImageModal(this.src, 'Fig. 18.18: Fig. 18.18...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 18.18</strong> Fig. 18.18</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
 PHYSICS
 
@@ -2376,7 +2480,15 @@ with a period of 0.6 s. What is the weight of the body?
 to a
 
 A spring having with a spring constant 1200 N m¯¹ is mounted on a horizontal table
-as shown in Fig. 13.19. A mass of 3 kg is attached to the free end of the spring. The
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_19.png" alt="Fig. 13.19" onclick="openImageModal(this.src, 'Fig. 13.19: 13.9 A spring having with a spring constant 1200 N m–1 is mounted on a horizonta...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.19</strong> 13.9 A spring having with a spring constant 1200 N m–1 is mounted on a horizontal table as shown in Fig. 13.19. A mass of 3 kg is attached to the free end of the spring. The mass is then pulled sideways to a distance of 2.0 cm and released.</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 mass is then pulled sideways to a distance of 2.0 cm and released.
 
 not to
@@ -2401,7 +2513,7 @@ Fig. 13.19
 Determine (i) the frequency of oscillations, (ii) maximum acceleration of the mass,
 and (iii) the maximum speed of the mass.
 
-Reprint 2025-26
+
 
 
 ---
@@ -2434,33 +2546,13 @@ amplitude or the initial phase?
 period of revolution, the initial position, and the sense of revolution (i.e. clockwise
 or anti-clockwise) are indicated on each figure.
 
-PHYSICS
-
-y
-
-T=2s
-
-P2m
-
-→X +
-
-3 cm
-
-(t=0)
-
-P(t=0)
-
-y
-
-T= 4s
-
-X
-
-(a)
-
-(b)
-
-Fig. 13.20
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_20.png" alt="Fig. 13.20" onclick="openImageModal(this.src, 'Fig. 13.20: Fig. 13.20...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.20</strong> Fig. 13.20</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
 
 e republished
 
@@ -2472,19 +2564,14 @@ motions. Indicate the initial (t =0) position of the particle, the radius of the
 and the angular speed of the rotating particle. For simplicity, the sense of rotation
 may be fixed to be anticlockwise in every case: (x is in cm and t is in s).
 
-(a) x = −2 sin (3t+ π/3)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_21.png" alt="Fig. 13.21" onclick="openImageModal(this.src, 'Fig. 13.21: 13.13 Figure 13.21(a) shows a spring of force constant k clamped rigidly at one ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 13.21</strong> 13.13 Figure 13.21(a) shows a spring of force constant k clamped rigidly at one end and a mass m attached to its free end. A force F applied at the free end stretches the spring. Figure 13.21 (b) shows the same spring with both ends free and attached to a mass m at either end. Each end of the spring in Fig. 13.21(b) is stretched by the same force F.</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
 
-(b)
-
-x = cos (π/6 - t)
-
-(c)
-
-x = 3 sin (2πt + π/4)
-
-(d) x = 2 cos πι
-
-13.13 Figure 13.21(a) shows a spring of force constant k clamped rigidly at one end and a
 mass m attached to its free end. A force F applied at the free end stretches the
 spring. Figure 13.21 (b) 1 (b) shows the same spring with both ends free and attached to
 a mass m at either end. Each end of the spring in Fig. 13.21(b) is stretched by the
@@ -2524,7 +2611,7 @@ What is the maximum extension of the spring in the two cases ?
 If the mass in Fig. (a) and the two masses in Fig. (b) are released, what is the
 period of oscillation in each case ?
 
-Reprint 2025-26
+
 
 
 ---
@@ -2572,5 +2659,5 @@ remove
 
 not to be republised
 
-Reprint 2025-26
+
 

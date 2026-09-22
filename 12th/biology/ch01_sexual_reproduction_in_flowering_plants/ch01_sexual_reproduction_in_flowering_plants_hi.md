@@ -34,7 +34,7 @@
 जीव विज्ञान को समझने तथा जनन संबंधी बीमारियों से किस प्रकार बचा जा
 सकता है, पर सापेक्ष महत्त्व प्रस्तुत किया गया है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -67,7 +67,7 @@ Reprint 2025-26
 
 not to be
 
-Reprint 2025-26
+
 
 
 ---
@@ -77,7 +77,7 @@ Reprint 2025-26
 
 पुष्पी पादपों में लैंगिक प्रजनन
 
-12084CH02
+
 
 ERT
 
@@ -121,33 +121,19 @@ published
 
 ### 1.5 असंगजनन एवं बहुभ्रूणता
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 4
 
-4
-
-वर्तिका
-
-वर्तिकाग्र
-
-पंखुड़ी
-
-परागकोश
-
-तंतु
-
-जीव विज्ञान
-
-published
-
-NCER
-
-पुष्प
-
-चित्र 1.1 पुष्प के एल.एस. का आरेखीय निरूपण
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_hi.png" alt="चित्र 1" onclick="openImageModal(this.src, 'चित्र 1: ,d tho oSKkfud osQ fy, iq&quot;i] vkdkfjdh; ,oa HkzkSf.kdh; (Hkzw.kh;) vk&#39;p;...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1</strong> ,d tho oSKkfud osQ fy, iq"i] vkdkfjdh; ,oa HkzkSf.kdh; (Hkzw.kh;) vk'p;Z rFkk ySafxd tuu LFky gSA vkius d{kk 11 esa ,d iq"i osQ fofHkUUk vaxksa osQ ckjs esa vè;;u fd;k gSA fp=k 1-1 vkidks ,d iz:ih iq"i osQ fof'k"V vaxksa dks iqu% Lej.k djus esa lgk;d gksxkA D;k vki ,d iq"Ik osQ nks vaxksa osQ uke crk ldrs gks ftuesa ySafxd tuu fodkl osQ fy, lokZf/d egÙoiw.kZ okyh nks bdkbZ;k¡ gksrh gSa\</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 बगीचों में उगाया जाता हो। आप पाँच उन पुष्पों का भी पता करें, जिन्हें आपके परिवार
 द्वारा सामाजिक एवं सांस्कृतिक उत्सवों के दौरान उपयोग किया जाता हो। क्या आपने
@@ -156,7 +142,15 @@ NCER
 
 एक जीव वैज्ञानिक के लिए पुष्प, आकारिकीय एवं भ्रौणिकीय (भ्रूणीय) आश्चर्य
 तथा लैंगिक जनन स्थल है। आपने कक्षा 11 में एक पुष्प के विभिन्न अंगों के बारे में
-अध्ययन किया है। चित्र 1.1 आपको एक प्ररूपी पुष्प के विशिष्ट अंगों को पुनः स्मरण
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_1_hi.png" alt="चित्र 1.1" onclick="openImageModal(this.src, 'चित्र 1.1: fp=k 1.1 iq&quot;i osQ ,y-,l- dk vkjs[kh; fu:i.k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.1</strong> fp=k 1.1 iq"i osQ ,y-,l- dk vkjs[kh; fu:i.k</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 करने में सहायक होगा। क्या आप एक पुष्प के दो अंगों के नाम बता सकते हो जिनमें
 लैंगिक जनन विकास के लिए सर्वाधिक महत्त्वपूर्ण वाली दो इकाईयाँ होती हैं?
 
@@ -168,7 +162,7 @@ NCER
 अग्रिम विकास प्रारम्भ होते हैं। पुष्पक्रम की रचना होती है, जो पुष्पी कलिकाएँ और बाद
 में पुष्प को धारण करती हैं। पुष्प में नर एवं मादा जनन संरचनाएँ-पुमंग तथा जायांग
 
-Reprint 2025-26
+
 
 
 ---
@@ -181,7 +175,15 @@ Reprint 2025-26
 जायांग स्त्री (मादा) जनन अंग का प्रतिनिधित्व करता है।
 
 ### 1.2.1 पुंकेसर, लघुबीजाणुधानी तथा परागकण
-चित्र 1.2 (अ) एक विशिष्ट (प्रारूपी) पुंकेसर दो भागों में
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_2_hi.png" alt="चित्र 1.2" onclick="openImageModal(this.src, 'चित्र 1.2: fp=k 1.2 (v) ,d izk#fid iqaosQlj (c) ,d ijkx dks&#39;k rhu vk;keh; vuqHkkx...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.2</strong> fp=k 1.2 (v) ,d izk#fid iqaosQlj (c) ,d ijkx dks'k rhu vk;keh; vuqHkkx</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 विभक्त रहता है-इसमें लंबा एवं पतला डंठल तंतु (फिलामेंट)
 कहलाता है तथा अंतिम सिरा सामान्यतः द्विपालिक संरचना
 परागकोश कहलाता है। तंतु का समीपस्थ छोर पुष्प के
@@ -211,7 +213,14 @@ epubli
 तथा प्रत्येक पाली में दो कोष्ठ होते हैं, अर्थात् ये द्विकोष्ठी
 होते हैं (चित्र 1.2 ब)। प्रायः एक अनुलंब खांच प्रवारक
 (कोष्ठ) को अलग करते हुए लंबवत् गुजरता है। आइए
-परागकोश (चित्र 1.3 ब) के एक अनुप्रस्थ काट में विभिन्न चि
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_3_hi.png" alt="चित्र 1.3" onclick="openImageModal(this.src, 'चित्र 1.3: fp=k 1.3 (v) ,d vko&#39;;d ijkxdks&#39;k dk vuqizLFkdkV_ (c) fHkfÙkirks± dks izn...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.3</strong> fp=k 1.3 (v) ,d vko';d ijkxdks'k dk vuqizLFkdkV_ (c) fHkfÙkirks± dks iznf'kZr djrs gq, ,d y?kqchtk.kq/kuh dk foLrfjr</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 प्रकार के ऊत्तकों तथा अनेक संयोजन को समझें। एक
 परागकोश की द्विपालित प्रकृति, परागकोश के अनुप्रस्थ काट
@@ -243,7 +252,7 @@ epubli
 
 5
 
-Reprint 2025-26
+
 
 
 ---
@@ -309,17 +318,19 @@ nott
 समूह में व्यवस्थित होते हैं उन्हें लघुबीजाणु चतुष्टय/चतुष्क कहते हैं
 (चित्र 1.3 अ)। जैसे ही परागकोश परिपक्व एवं स्फुरित होता है तब लघुबीजाणु
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 7
 
-पुष्पी पादपों में लैंगिक प्रजनन
-
-(अ)
-
-चित्र 1.4 कुछ परागकणों का इलेक्ट्रॉन सूक्ष्मदर्शीय परदृश्य परागकण
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_4_hi.png" alt="चित्र 1.4" onclick="openImageModal(this.src, 'चित्र 1.4: fp=k 1.4 oqQN ijkxd.kksa dk bysDVªkWu lw{en&#39;khZ; ijn`&#39;; ijkxd.k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.4</strong> fp=k 1.4 oqQN ijkxd.kksa dk bysDVªkWu lw{en'khZ; ijn`'; ijkxd.k</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
 एक-दूसरे से विलग हो जाते हैं और परागकणों (चित्र 1.3 ब) के
 रूप में विकसित हो जाते हैं। प्रत्येक लघुबीजाणुधानी के अंदर कई
@@ -352,16 +363,14 @@ publ
 (चित्र 1.4)। आप का क्या विचार है? बाह्यचोल सख्त (कठोर) होना
 चाहिए? जनन छिद्र के क्या कार्य हैं?
 
-ऐसीमेट्रीक तंतु
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_5_hi.png" alt="चित्र 1.5" onclick="openImageModal(this.src, 'चित्र 1.5: fp=k 1.5 (v) ,d ijkxd.k pqrq&quot;d dk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.5</strong> fp=k 1.5 (v) ,d ijkxd.k pqrq"d dk</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
-कायिक कोशिका
-
-प्रजननी कोशिका
-(जनन कोशिका)
-
-(ब)
-
-चित्र 1.5 (अ) एक परागकण चुतुष्क का
 परिर्वाधित दृश्य (ब) एक लघुबीजाणु
 का एक परागकण के रूप में परिपक्व
 होने के विभिन्न चरण
@@ -375,7 +384,7 @@ publ
 
 7
 
-Reprint 2025-26
+
 
 
 ---
@@ -409,7 +418,15 @@ Extract
 परागकण पोषणों से भरपूर होते हैं। हाल के वर्षों में आहार संपूरकों के रूप में पराग
 गोलियों (टैबलेट्स) के लेने का प्रचलन बढ़ा है। पश्चिमी देशों में; भारी मात्रा में पराग उत्पाद
 गोलियों एवं सीरप के रूप में बाजारों में उपलब्ध हैं। पराग खपत का यह दावा है कि यह
-खिलाड़ियों एवं धावक अश्वों (घोड़ों) की कार्यदक्षता में वृद्धि करता है (चित्र 1.6)।
+खिलाड़ियों एवं धावक अश्वों (घोड़ों) की कार्यदक्षता में वृद्धि करता है (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_6_hi.png" alt="चित्र 1.6" onclick="openImageModal(this.src, 'चित्र 1.6: fp=k 1.6 iksyu mRikn...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.6</strong> fp=k 1.6 iksyu mRikn</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 Pollen Products
 
@@ -456,7 +473,7 @@ DAYS
 इस प्रकार से भंडारित पराग का प्रयोग बीज भंडार (बैंक) की भाँति पराग भंडारों (बैंकों)
 के रूप में फसल प्रजनन कार्यक्रम में किया जा सकता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -476,35 +493,14 @@ Reprint 2025-26
 
 पुष्पासन
 
-(अ)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_7_hi.png" alt="चित्र 1.7" onclick="openImageModal(this.src, 'चित्र 1.7: fp=k 1.7 (v) xqM+gy osQ ,d foPNsfnr iq&quot;i esa L=khosQlj dk izn&#39;kZu (vU;i...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.7</strong> fp=k 1.7 (v) xqM+gy osQ ,d foPNsfnr iq"i esa L=khosQlj dk izn'kZu (vU;iq"ih; vax fudkys x,) n'kkZ;k x;k gS (c) iSikoj osQ cgqvaMih] ;qDrkaMih L=khosQlj] (l) ekbpsfy;k osQ cgqvaMih] fo;qDrkaMih L=khosQlj (n) ,d iz:ih izrh; chtkaM dk fp=kkRed n`';</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
-(ब)
-
-(स)
-
-अंडप
-
-हाइलम
-
-फनीकल
-बीजांड द्वार
-
-बीजांडद्वारी सिरा
-
-बाह्य आवरण
-
-अन्तः आवरण
-
-बीजांडकाय
-
-भ्रूण-कोष
-
-कैलेजल सीरा या
-निभागीय सिरा
-
-(द)
-
-चित्र 1.7 (अ) गुड़हल के एक विच्छेदित पुष्प में स्त्रीकेसर का प्रदर्शन (अन्यपुष्पीय अंग निकाले गए) दर्शाया गया है (ब) पैपावर
 के बहुअंडपी, युक्तांडपी स्त्रीकेसर, (स) माइचेलिया के बहुअंडपी, वियुक्तांडपी स्त्रीकेसर (द) एक प्ररूपी प्रतीय बीजांड
 का चित्रात्मक दृश्य
 
@@ -528,7 +524,7 @@ Reprint 2025-26
 
 9
 
-Reprint 2025-26
+
 
 
 ---
@@ -556,7 +552,14 @@ Reprint 2025-26
 जीवद्रव्य से समाहित एवं एक सुस्पष्ट केंद्रक युक्त होती है। गुरूबीजाणुमातृकोशिका
 अर्धसूत्री विभाजन से गुजरती है। गुरूबीजाणु मातृकोशिका का अर्धसूत्रीविभाजन से गुजरने
 का क्या महत्त्व है? अर्धसूत्रीविभाजन के परिणाम स्वरूप चार गुरूबीजाणुओं का उत्पादन
-होता है (चित्र 1.8 अ)
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_8_hi.png" alt="चित्र 1.8" onclick="openImageModal(this.src, 'चित्र 1.8: fp=k 1.8 (v) chtakM osQ vax — ,d O;kid xq:chtk.kq ekr` dksf&#39;kdk] ,d Mh;kM rF...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.8</strong> fp=k 1.8 (v) chtakM osQ vax — ,d O;kid xq:chtk.kq ekr` dksf'kdk] ,d Mh;kM rFkk ,d xq:chtk.kq dk VªsVkM (prq"Vd) iznf'kZr gS_ (c) Hkzw.kdks"k osQ 1, 2, 4 rFkk 8 U;qfDy;sV pj.k rFkk ,d ifjiDo Hkzw.kdks"k_ (l) ifjiDo Hkwz.kdks"k dk ,d vkjs[kh; izLrqrhdj.k ( chtkaM dk chtkaM}kj 'kh"kZ fn[kkrk gS)A</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
 
 स्त्री (मादा) युग्मकोद्भिद् अधिकांश पुष्पी पादपों में गुरूबीजाणुओं में से एक
 कार्यशील होता है जबकि अन्य तीन अपविकसित (अपभ्रष्ट) हो जाते हैं। (चित्र 1.8 ब)
@@ -581,7 +584,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -651,7 +654,7 @@ e rep
 
 11
 
-Reprint 2025-26
+
 
 
 ---
@@ -727,7 +730,7 @@ to
 हैं क्योंकि यहाँ पर वर्तिकाग्र पट क्रास या पर-परागण अवतरण
 के अवसर नहीं होते हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -762,7 +765,14 @@ Reprint 2025-26
 करते हैं। वायु तथा जल दोनों ही कारकों में परागकण
 का वर्तिकाग्र के संपर्क में आना महज संयोगात्मक
 
-चित्र 1.10 वायु परागित पादप संघनित पुष्पक्रम तथा स्पष्ट
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_10_hi.png" alt="चित्र 1.10" onclick="openImageModal(this.src, 'चित्र 1.10: fp=k 1.10 ok;q ijkfxr ikni la?kfur iq&quot;iØe rFkk Li&quot;V...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.10</strong> fp=k 1.10 ok;q ijkfxr ikni la?kfur iq"iØe rFkk Li"V</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 अनावृत पुंकेसर को दर्शाते हुए।
 
 घटना है। इस प्रकार की अनिश्चितता तथा परागकणों के ह्रास से जुड़े 'तथ्यों' की क्षतिपूर्ति
@@ -785,25 +795,19 @@ Reprint 2025-26
 
 13
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 14
 
-14
-
-मादा पुष्प
-
-(अ)
-
-वर्तिकाग्र
-
-नर पुष्प
-
-(ब)
-
-चित्र 1.11 (अ) वैलिसनेरिया में जल द्वारा परागण
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_11_hi.png" alt="चित्र 1.11" onclick="openImageModal(this.src, 'चित्र 1.11: fp=k 1.11 (v) oSfylusfj;k esa ty }kjk ijkx.k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.11</strong> fp=k 1.11 (v) oSfylusfj;k esa ty }kjk ijkx.k</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
 no
 
@@ -866,7 +870,7 @@ no
 अधिकतर पुष्पीय पादप परागण के लिए प्राणियों को परागण कर्मक/कारक के रूप
 में उपयोग करते हैं। मधुमक्खियाँ, भौरे, तितलियाँ, बर्र, चीटियाँ, शलभ या कीट, पक्षी
 
-Reprint 2025-26
+
 
 
 ---
@@ -920,7 +924,7 @@ lished
 
 15
 
-Reprint 2025-26
+
 
 
 ---
@@ -966,14 +970,22 @@ Reprint 2025-26
 
 जैसा कि पहले बताया जा चुका है; सुयोग्य परागण के अनुपालन में; परागकण
 वर्तिकाग्र पर जनित होते हैं ताकि एक जनन छिद्र के माध्यम से एक परागनलिका उत्पन्न
-हो (चित्र 1.12 अ)। पराग नलिका वर्तिकाग्र तथा वर्तिका के ऊतकों के माध्यम से वृद्धि
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_12_hi.png" alt="चित्र 1.12" onclick="openImageModal(this.src, 'चित्र 1.12: fp=k 1.12 (v) ijkxd.kksa dk ofrZdkxz ij vaoqQj.k (c) ofrZdk esa ijkx ufydkvksa d...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.12</strong> fp=k 1.12 (v) ijkxd.kksa dk ofrZdkxz ij vaoqQj.k (c) ofrZdk esa ijkx ufydkvksa dh o`f¼ (l) L=khosQlj osQ vuqizLFk (yac) dkV esa ijkx ufydk dh o`f¼ fn[k jgh gS] (n) ,d vaM lEeqp; osQ o`gn~ n`'; iVy ij ,d lgk; dksf'kdk osQ rarqe; lEeqp; esa ijkx ufydk dk izos'k fn[krk gSA (b) ,d lgk; dksf'kdk esa uj ;qXed dk L[kyu ,oa 'kqØk.kq dh xfr'khyrk — tks ,d vaMs esa rFkk nwljh osaQnzh; dksf'kdk esa gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 करती है और अंडाशय तक पहुँचती है (चित्र 1.12 ब, स)। आप याद करें कि कुछ
 पादपों में परागकण दो कोशीय स्थिति में (एक कायिक कोशिका तथा दूसरी जनन
 कोशिका) झड़ते हैं।
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -1041,7 +1053,7 @@ reished
 
 17
 
-Reprint 2025-26
+
 
 
 ---
@@ -1096,7 +1108,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -1107,7 +1119,16 @@ Reprint 2025-26
 होती है। दूसरा नर युग्मक केंद्रीय कोशिका में स्थित दो ध्रुवीय न्युक्ली (केंद्रिकी) की
 ओर गति करता है और उनसे संगलित होकर त्रिगुणित (प्राइमरी इंडोस्पर्म न्युकिलयस
 (प्राथमिक भ्रूणपोष केंद्रक) बनाता है। जैसा कि इसके अन्तर्गत तीन अगुणितक
-न्युक्ली (केंद्रिकी) सम्मिलित होते हैं। अतः इसे त्रिसंलयन कहते हैं (चित्र 1.13 अ)।
+न्युक्ली (केंद्रिकी) सम्मिलित होते हैं। अतः इसे त्रिसंलयन कहते हैं (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_13_hi.png" alt="चित्र 1.13" onclick="openImageModal(this.src, 'चित्र 1.13: gksrh gSA nwljk uj ;qXed osaQnzh; dksf&#39;kdk esa fLFkr nks /zqoh; U;qDyh (osaQ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.13</strong> gksrh gSA nwljk uj ;qXed osaQnzh; dksf'kdk esa fLFkr nks /zqoh; U;qDyh (osaQfnzdh) dh vksj xfr djrk gS vkSj muls laxfyr gksdj f=kxqf.kr (izkbejh baMksLieZ U;qfdy;l (izkFkfed Hkzw.kiks"k osaQnzd) cukrk gSA tSlk fd blosQ vUrxZr rhu vxqf.krd U;qDyh (osaQfnzdh) lfEefyr gksrs gSaA vr% bls f=klay;u dgrs gSa (fp=k 1.13 v)A pw¡fd ,d Hkzw.k iqVh (Hkzw.kdks'k) esa nks izdkj osQ lay;u (laxyu)] ;qXedlay;u rFkk f=klay;u LFkku ysrs gSa vr% bl ifj?kVuk dks nksgjk fu"kspu dgk tkrk gSA tks fd iq"ih ikniksa osQ fy, ,d vuwBh ?kVuk gSA f=klay;u osQ i'pkr~ osaQnzh; dksf'kdk izkFkfed Hkzw.kiks"k dksf'kdk cu tkrh gS rFkk Hkzw.kiks"k osQ :i esa fodflr gksus yxrh gS tcfd ;qXeut ,d Hkwz.k osQ :i esa fodflr gksrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
+
 चूँकि एक भ्रूण पुटी (भ्रूणकोश) में दो प्रकार के संलयन (संगलन), युग्मकसंलयन तथा
 त्रिसंलयन स्थान लेते हैं अतः इस परिघटना को दोहरा निषेचन कहा जाता है। जो कि
 पुष्पी पादपों के लिए एक अनूठी घटना है। त्रिसंलयन के पश्चात् केंद्रीय कोशिका
@@ -1157,7 +1178,7 @@ blished
 अंडाशय को फल के रूप में विकसित होने की सभी घटनाओं को सामूहिक रूप में
 निषेचन-पश्च घटना के नाम से जाना जाता है।
 
-Reprint 2025-26
+
 
 19
 
@@ -1220,9 +1241,14 @@ Reprint 2025-26
 
 ### 1.4.2 भ्रूण
 
-to
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_14_hi.png" alt="चित्र 1.14" onclick="openImageModal(this.src, 'चित्र 1.14: fp=k 1.14 (v) ,d iz:ih f}chti=kh Hkzw.k (c) ,d ?kkl osQ Hkzw.k dk vuqizLFk dkV...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.14</strong> fp=k 1.14 (v) ,d iz:ih f}chti=kh Hkzw.k (c) ,d ?kkl osQ Hkzw.k dk vuqizLFk dkV</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
 
-चित्र 1.14 (अ) एक प्ररूपी द्विबीजपत्री
 भ्रूण (ब) एक घास के भ्रूण
 
 20
@@ -1243,7 +1269,7 @@ to
 अक्ष की प्रोटीन (एपीकाटील) बीजपत्रोपरिक होती है जो प्रांकुर या स्तंभ
 सिरे पर प्रायः समाप्त होती है। बीजपत्राधार में बीजपत्रों के स्तर से नीचे
 
-Reprint 2025-26
+
 
 
 ---
@@ -1273,7 +1299,15 @@ shed
 आवृतबीजियों में, लैंगिक जनन का अंतिम परिणाम बीज होता है। इसको प्रायः एक
 निषेचित बीजांड के रूप में वर्णित किया जाता है। बीज फलों के अंदर पैदा होते हैं। एक
 बीज में विशिष्ट रूप से बीज आवरण, बीजपत्र तथा एक भ्रूण अक्ष (अँखुआ) समाहित
-होता है। भ्रूण का बीजपत्र (चित्र 1.15 अ) एक सरल संरचना होती है। प्रायः आरक्षित
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_15_hi.png" alt="चित्र 1.15" onclick="openImageModal(this.src, 'चित्र 1.15: fp=k 1.15 (v) oqQN chtksa dh lajpuk (c) lsc ,oa LVªkcsjh osQ vkHkklh iQy...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1.15</strong> fp=k 1.15 (v) oqQN chtksa dh lajpuk (c) lsc ,oa LVªkcsjh osQ vkHkklh iQy</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
+
 आहार भंडारण के कारण फूली हुई एवं स्थूल होती है (जैसा कि लेग्युमस में)। परिपक्व
 बीज गैर-एल्बुमिनस अथवा एल्बुमिनस रहित हो सकता है। गैर-एल्बुमिनस बीज में
 अवशिष्ट भ्रूणपोष नहीं होता है; क्योंकि भ्रूण विकास के दौरान यह पूर्णतः उपभुक्त कर
@@ -1298,7 +1332,7 @@ shed
 
 21
 
-Reprint 2025-26
+
 
 
 ---
@@ -1373,7 +1407,7 @@ not to be epub
 
 22
 
-Reprint 2025-26
+
 
 
 ---
@@ -1428,7 +1462,7 @@ shed
 
 23
 
-Reprint 2025-26
+
 
 
 ---
@@ -1483,7 +1517,7 @@ ed
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -1539,7 +1573,7 @@ blis
 
 25
 
-Reprint 2025-26
+
 
 
 ---
@@ -1601,7 +1635,7 @@ not to
 
 8. पुष्पों द्वारा स्व-परागण रोकने के लिए विकसित की गई दो कार्यनीति का विवरण दें।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1640,11 +1674,11 @@ Reprint 2025-26
 
 17. परागकण भित्ति रचना में टेपीटम की भूमिका की व्याख्या करें।
 
-not to be republished
+
 
 18. असंगजनन क्या है और इसका क्या महत्त्व है?
 
 27
 
-Reprint 2025-26
+
 

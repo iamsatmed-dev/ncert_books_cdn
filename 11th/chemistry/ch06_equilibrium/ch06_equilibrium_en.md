@@ -9,7 +9,7 @@ EQUILIBRIUM
 
 UNIT 6
 
-11082CH07
+
 
 Objectives
 
@@ -132,7 +132,7 @@ of either of the reactants or products. This stage of the
 system is the dynamic equilibrium and the rates of the
 forward and reverse reactions become equal. It is due to
 
-Reprint 2026-27
+
 
 
 ---
@@ -258,14 +258,22 @@ limb of the manometer slowly increases and
 finally attains a constant value, that is, the
 pressure inside the box increases and reaches
 a constant value. Also the volume of water in
-the watch glass decreases (Fig. 6.1). Initially
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch06_equilibrium_fig_6_1.png" alt="Fig. 6.1" onclick="openImageModal(this.src, 'Fig. 6.1: 6.1.2 Liquid-Vapour Equilibrium This equilibrium can be better understood if we ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.1</strong> 6.1.2 Liquid-Vapour Equilibrium This equilibrium can be better understood if we consider the example of a transparent box carrying a U-tube with mercury (manometer). Drying agent like anhydrous calcium chloride (or phosphorus penta-oxide) is placed for a few hours in the box. After removing the drying agent by tilting the box on one side, a watch glass (or petri dish) containing water is quickly placed inside the box. It will be observed that the mercury level in the right limb of the manometer slowly increases and finally attains a constant value, that is, the pressure inside the box increases and reaches a constant value. Also the volume of water in the watch glass decreases (Fig. 6.1). Initially there was no water vapour (or very less) inside the box. As water evaporated the pressure in the box increased due to addition of water molecules into the gaseous phase inside the box. The rate of evaporation is constant.</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 there was no water vapour (or very less) inside
 the box. As water evaporated the pressure in
 the box increased due to addition of water
 molecules into the gaseous phase inside
 the box. The rate of evaporation is constant.
 
-Reprint 2026-27
+
 
 
 ---
@@ -364,7 +372,7 @@ equilibrium are,
 Camphor (solid) ⇌ Camphor (vapour)
 NH4Cl (solid) ⇌ NH4Cl (vapour)
 
-Reprint 2026-27
+
 
 
 ---
@@ -524,7 +532,7 @@ temperature
 constant at a given
 temperature
 
-Reprint 2026-27
+
 
 
 ---
@@ -590,7 +598,16 @@ A + B = C + D
 
 With passage of time, there is
 accumulation of the products C and D and
-depletion of the reactants A and B (Fig. 6.2).
+depletion of the reactants A and B (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch06_equilibrium_fig_6_2.png" alt="Fig. 6.2" onclick="openImageModal(this.src, 'Fig. 6.2: With passage of time, there is accumulation of the products C and D and depletio...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.2</strong> With passage of time, there is accumulation of the products C and D and depletion of the reactants A and B (Fig. 6.2). This leads to a decrease in the rate of forward reaction and an increase in the rate of the reverse reaction,</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 This leads to a decrease in the rate of
 forward reaction and an increase in the rate
 of the reverse reaction,
@@ -633,7 +650,16 @@ and pressure and at regular intervals
 determined the amount of ammonia present.
 He was successful in determining also the
 concentration of unreacted dihydrogen and
-dinitrogen. Fig. 6.4 (page 174) shows that after
+dinitrogen.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch06_equilibrium_fig_6_4.png" alt="Fig. 6.4" onclick="openImageModal(this.src, 'Fig. 6.4: The dynamic nature of chemical equilibrium can be demonstrated in the synthesis ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.4</strong> The dynamic nature of chemical equilibrium can be demonstrated in the synthesis of ammonia by Haber’s process. In a series of experiments, Haber started with known amounts of dinitrogen and dihydrogen maintained at high temperature and pressure and at regular intervals determined the amount of ammonia present. He was successful in determining also the concentration of unreacted dihydrogen and dinitrogen. Fig. 6.4 (page 174) shows that after a certain time the composition of the mixture remains the same even though some of the reactants are still present. This constancy in composition indicates that the reaction has reached equilibrium. In order to understand the dynamic nature of the reaction, synthesis of ammonia is carried out with exactly the same starting conditions (of partial pressure and temperature) but using D2 (deuterium) in place of H2. The reaction mixtures starting either with H2 or D2 reach equilibrium with the same composition, except that D2 and ND3 are present instead of H2 and NH3. After</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 a certain time the composition of the mixture
 remains the same even though some of the
 reactants are still present. This constancy in
@@ -652,7 +678,7 @@ ND, are present instead of H₂ and NH3. After
 
 2
 
-Reprint 2026-27
+
 
 
 ---
@@ -702,15 +728,13 @@ be rep
 
 equilibrium is attained.
 
-1
-
-2
-
-(b)
-
-Fig.6.3 Demonstrating dynamic nature of equilibrium. (a) initial stage (b) final stage after the
-
-Reprint 2026-27
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch06_equilibrium_fig_6_3.png" alt="Fig. 6.3" onclick="openImageModal(this.src, 'Fig. 6.3: Fig.6.3 Demonstrating dynamic nature of equilibrium. (a) initial stage (b) final...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.3</strong> Fig.6.3 Demonstrating dynamic nature of equilibrium. (a) initial stage (b) final stage after the equilibrium is attained.</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 173
 
@@ -745,7 +769,15 @@ equal initial concentration of H₂ and I₂, the
 reaction proceeds in the forward direction
 and the concentration of H₂ and I₂ decreases
 while that of HI increases, until all of these
-become constant at equilibrium (Fig. 6.5). We
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch06_equilibrium_fig_6_5.png" alt="Fig. 6.5" onclick="openImageModal(this.src, 'Fig. 6.5: Similarly let us consider the reaction, H2(g) + I2(g) 2HI(g). If we start with e...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.5</strong> Similarly let us consider the reaction, H2(g) + I2(g) 2HI(g). If we start with equal initial concentration of H2 and I2, the reaction proceeds in the forward direction and the concentration of H2 and I2 decreases while that of HI increases, until all of these become constant at equilibrium (Fig. 6.5). We can also start with HI alone and make the reaction to proceed in the reverse direction; the concentration of HI will decrease and concentration of H2 and I2 will increase until they all become constant when equilibrium is reached (Fig. 6.5). If total number of H and I atoms are same in a given volume, the same equilibrium mixture is obtained whether we start it from pure reactants or pure product.</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
 can also start with HI alone and make the
 reaction to proceed in the reverse direction;
 the concentration of HI will decrease and
@@ -823,7 +855,7 @@ mixture? How can we determine equilibrium
 concentrations from initial concentrations?
 What factors can be exploited to alter the
 
-Reprint 2026-27
+
 
 
 ---
@@ -1046,7 +1078,7 @@ Initial concentration/mol L-¹
 
 ### 5.86 x 102
 
-Reprint 2026-27
+
 
 
 ---
@@ -1232,7 +1264,7 @@ K" = [HI] / [H2]1/2[I2]1/2 = {[HI]2 / [H2][I2]}1/2
 
 On multiplying the equation (6.5) by n, we get
 
-Reprint 2026-27
+
 
 
 ---
@@ -1392,7 +1424,7 @@ Here, p is the pressure in Pa, n is the number
 of moles of the gas, Vis the volume in m³ and
 Tis the temperature in Kelvin
 
-Reprint 2026-27
+
 
 
 ---
@@ -1616,7 +1648,7 @@ PC15, PC1, and Cl₂ are at equilibrium at 500
 K and having concentration 1.59M PC13,
 1.59M Cl₂ and 1.41 M PCl5.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1802,7 +1834,7 @@ substance 'X' is involved, then [X(s)] and [X(1)]
 are constant, whatever the amount of 'X' is
 taken. Contrary to this, [X(g)] and [X(aq)] will
 
-Reprint 2026-27
+
 
 
 ---
@@ -1959,7 +1991,7 @@ pressure: 0.48 bar
 
 0
 
-Reprint 2026-27
+
 
 
 ---
@@ -2120,7 +2152,7 @@ products, i.e., if K is very small, the
 reaction proceeds rarely. Consider the
 following examples:
 
-Reprint 2026-27
+
 
 
 ---
@@ -2166,7 +2198,14 @@ neither too small nor too large. Hence,
 equilibrium mixtures contain appreciable
 concentrations of both N2O4 and NO2.
 These generarlisations are illustrated in
-Fig. 6.6
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch06_equilibrium_fig_6_6.png" alt="Fig. 6.6" onclick="openImageModal(this.src, 'Fig. 6.6: to NO2 is another reaction with a value of Kc = 4.64 × 10 –3 at 25°C which is ne...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.6</strong> to NO2 is another reaction with a value of Kc = 4.64 × 10 –3 at 25°C which is neither too small nor too large. Hence, equilibrium mixtures contain appreciable concentrations of both N2O4 and NO2. These generarlisations are illustrated in Fig. 6.6</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
 Extremely
 large
@@ -2238,7 +2277,14 @@ comparing the values of Q and K.
 
 Thus, we can make the following
 generalisations concerning the direction of
-the reaction (Fig. 6.7) :
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch06_equilibrium_fig_6_7.png" alt="Fig. 6.7" onclick="openImageModal(this.src, 'Fig. 6.7: Thus, we can make the following generalisations concerning the direction of the ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.7</strong> Thus, we can make the following generalisations concerning the direction of the reaction (Fig. 6.7) : Fig.6.6 Dependence of extent of reaction on Kc</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
 9c
 
@@ -2317,7 +2363,7 @@ the composition of reaction mixture is
 [A] = [B] = [C] = 3 × 10-4 M. In which direction
 the reaction will proceed?
 
-Reprint 2026-27
+
 
 
 ---
@@ -2501,7 +2547,7 @@ C12
 
 0
 
-Reprint 2026-27
+
 
 183
 
@@ -2687,7 +2733,7 @@ FACTORS AFFECTING EQUILIBRIA
 One of the principal goals of chemical
 synthesis is to maximise the conversion of the
 
-Reprint 2026-27
+
 
 
 ---
@@ -2770,7 +2816,15 @@ reaction is disturbed. In order to restore it,
 the reaction proceeds in a direction wherein
 H₂ is consumed, i.e., more of H₂ and I, react
 to form HI and finally the equilibrium shifts
-in right (forward) direction (Fig.6.8). This is in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch06_equilibrium_fig_6_8.png" alt="Fig. 6.8" onclick="openImageModal(this.src, 'Fig. 6.8: Fig. 6.8 Effect of addition of H2 on change of concentration for the reactants a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.8</strong> Fig. 6.8 Effect of addition of H2 on change of concentration for the reactants and products in the reaction, H2(g) + I2 (g) 2HI(g)</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
+
 accordance with the Le Chatelier's principle
 which implies that in case of addition of a
 reactant/product, a new equilibrium will
@@ -2811,7 +2865,7 @@ of the reaction quotient, Q
 
 Q = [HI]2/ [H2][I2]
 
-Reprint 2026-27
+
 
 
 ---
@@ -2941,7 +2995,7 @@ and [H₂O] be the molar concentrations at
 equilibrium for methanation reaction. When
 volume of the reaction mixture is halved, the
 
-Reprint 2026-27
+
 
 
 ---
@@ -3043,7 +3097,15 @@ of colour of gas in each tube) and stopper
 sealed with araldite. Three 250 mL beakers
 1, 2 and 3 containing freesing mixture, water
 at room temperature and hot water (363K),
-respectively, are taken (Fig. 6.9). Both the test
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch06_equilibrium_fig_6_9.png" alt="Fig. 6.9" onclick="openImageModal(this.src, 'Fig. 6.9: Fig. 6.9 Effect of temperature on equilibrium for...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.9</strong> Fig. 6.9 Effect of temperature on equilibrium for</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
+
 tubes are placed in beaker 2 for 8-10 minutes.
 After this one is placed in beaker 1 and the
 other in beaker 3. The effect of temperature
@@ -3075,7 +3137,7 @@ Water at
 Fig. 6.9 Effect of temperature on equilibrium for
 the reaction, 2NO2 (g) ⇌ N2O4 (g)
 
-Reprint 2026-27
+
 
 
 ---
@@ -3202,7 +3264,7 @@ of sodium chloride as compared to less
 than 5% ionization of acetic acid which is
 a weak electrolyte. It should be noted
 
-Reprint 2026-27
+
 
 
 ---
@@ -3252,7 +3314,15 @@ exists in solid state as a cluster of positively
 charged sodium ions and negatively charged
 chloride ions which are held together due to
 electrostatic interactions between oppositely
-charged species (Fig.6.10). The electrostatic
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch06_equilibrium_fig_6_10.png" alt="Fig. 6.10" onclick="openImageModal(this.src, 'Fig. 6.10: Fig.6.10 Dissolution of sodium chloride in water....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.10</strong> Fig.6.10 Dissolution of sodium chloride in water.</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
+
 forces between two charges are inversely
 proportional to dielectric constant of the
 medium. Water, a universal solvent, possesses
@@ -3311,7 +3381,7 @@ lecture on the ‘Chemical History of a Candle'. He published nearly 450 scienti
 Michael Faraday
 (1791-1867)
 
-Reprint 2026-27
+
 
 
 ---
@@ -3451,7 +3521,7 @@ and are thus, called Lowry-Brönsted acid and
 
 3
 
-Reprint 2026-27
+
 
 
 ---
@@ -3617,7 +3687,7 @@ NH
 
 3
 
-Reprint 2026-27
+
 
 
 ---
@@ -3753,7 +3823,7 @@ not H3O+, and the solution will mainly contain
 A and H₂O+ ions. The equilibrium moves in
 the direction of formation of weaker acid
 
-Reprint 2026-27
+
 
 
 ---
@@ -3899,7 +3969,7 @@ solution is defined as the negative logarithm
 
 to base 10 of the activity (as) of hydrogen
 
-Reprint 2026-27
+
 
 
 ---
@@ -3986,7 +4056,15 @@ found roughly with the help of pH paper that
 has different colour in solutions of different
 pH. Now-a-days pH paper is available with
 four strips on it. The different strips have
-different colours (Fig. 6.11) at the same pH.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_chemistry_ch06_equilibrium_fig_6_11.png" alt="Fig. 6.11" onclick="openImageModal(this.src, 'Fig. 6.11: Measurement of pH of a solution is very essential as its value should be known w...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.11</strong> Measurement of pH of a solution is very essential as its value should be known when dealing with biological and cosmetic applications. The pH of a solution can be found roughly with the help of pH paper that has different colour in solutions of different pH. Now-a-days pH paper is available with four strips on it. The different strips have different colours (Fig. 6.11) at the same pH. The pH in the range of 1-14 can be determined with an accuracy of ~0.5 using pH paper.</span>
+    <button class="icon-btn" onclick="goToPdfPage(27)">📄 View in PDF (Page 27)</button>
+  </div>
+</div>
+
 The pH in the range of 1-14 can be determined
 with an accuracy of ~0.5 using pH paper.
 
@@ -4026,7 +4104,7 @@ Problem 6.17
 Calculate pH of a 1.0 × 10-8 M solution of
 HCl.
 
-Reprint 2026-27
+
 
 
 ---
@@ -4257,7 +4335,7 @@ Phenol (CHOH)
 The pH scale for the hydrogen ion
 concentration has been so useful that besides
 
-Reprint 2026-27
+
 
 
 ---
@@ -4425,7 +4503,7 @@ Problem 6.19
 The pH of 0.1M monobasic acid is 4.50.
 Calculate the concentration of species H⁺, A¯
 
-Reprint 2026-27
+
 
 
 ---
@@ -4602,7 +4680,7 @@ Urea, CO (NH2)2
 
 ### 1.3 × 10-14
 
-Reprint 2026-27
+
 
 
 ---
@@ -4779,7 +4857,7 @@ a
 
 = (5.6 ×10-10) × (1.8 × 10-5) = 1.0 × 10-14 М
 
-Reprint 2026-27
+
 
 
 ---
@@ -4942,7 +5020,7 @@ K = {[H+][HX-]} / [H₂X] and
 
 α1
 
-Reprint 2026-27
+
 
 
 ---
@@ -5127,7 +5205,7 @@ of undissociated acetic acid i.e., in a direction
 of reducing the concentration of hydrogen
 ions, [H+]. This phenomenon is an example
 
-Reprint 2026-27
+
 
 
 ---
@@ -5201,9 +5279,7 @@ NH3 + HC1
 
 ### 2.5
 
-### 2.5
-
-At equilibrium
+### 2.5 At equilibrium
 
 0
 
@@ -5218,9 +5294,7 @@ NH+ + Cl-
 
 0
 
-### 2.5
-
-The resulting 75 mL of solution contains
+### 2.5 The resulting 75 mL of solution contains
 
 ### 2.5 mmol of NH ions (i.e., 0.033 M) and
 
@@ -5319,7 +5393,7 @@ Salts formed by the reactions between acids
 and bases in definite proportions, undergo
 ionization in water. The cations/anions
 
-Reprint 2026-27
+
 
 
 ---
@@ -5468,7 +5542,7 @@ resist change in pH on dilution or with
 the addition of small amounts of acid or
 alkali are called Buffer Solutions. Buffer
 
-Reprint 2026-27
+
 
 
 ---
@@ -5596,7 +5670,7 @@ base. pK value for ammonia is s9.25; therefore
 a buffer of pH close to 9.25 can be obtained
 by taking ammonia solution and ammonium
 
-Reprint 2026-27
+
 
 
 ---
@@ -5744,7 +5818,7 @@ sp
 
 sp
 
-Reprint 2026-27
+
 
 
 ---
@@ -6216,7 +6290,7 @@ Zinc Hydroxide
 
 Zinc Sulphide
 
-Reprint 2026-27
+
 
 
 ---
@@ -6381,7 +6455,7 @@ Thus solubility S increases with increase
 
 in [H+] or decrease in pH.
 
-Reprint 2026-27
+
 
 
 ---
@@ -6440,7 +6514,7 @@ of the salt is established. The conditions of precipitation of the salt from the
 or their dissolution in water are worked out. The role of common ion and the solubility of
 sparingly soluble salts is also discussed.
 
-Reprint 2026-27
+
 
 207
 
@@ -6544,7 +6618,7 @@ P
 
 K₁= 167 at 1073 K
 
-Reprint 2026-27
+
 
 
 ---
@@ -6639,7 +6713,7 @@ is 54.8. If 0.5 mol L¯¹ of HI(g) is present at equilibrium at 700 K, what are 
 concentration of H2(g) and I₂(g) assuming that we initially started with HI(g) and
 allowed it to reach equilibrium at 700K?
 
-Reprint 2026-27
+
 
 209
 
@@ -6716,7 +6790,7 @@ C (s) + CO2 (g) 2CO (g)
 
 Calculate K for this reaction at the above temperature.
 
-Reprint 2026-27
+
 
 
 ---
@@ -6848,7 +6922,7 @@ CH3OH (g)
 At 473 K, equilibrium constant K for decomposition of phosphorus pentachloride,
 PCl is 8.3 ×10-3. If decomposition is depicted as,
 
-Reprint 2026-27
+
 
 
 ---
@@ -6983,7 +7057,7 @@ The ionization constant of HF, HCOOH and HCN at 298K are 6.8 × 10-4,
 1.8 × 104 and 4.8 × 10-9 respectively. Calculate the ionization constants of the
 corresponding conjugate base.
 
-Reprint 2026-27
+
 
 
 ---
@@ -7105,7 +7179,7 @@ the concentrations of potassium, hydrogen and hydroxyl ions. What is its pH?
 The solubility of Sr(OH)2 at 298 Kis 19.23 g/L of solution. Calculate the concentrations
 of strontium and hydroxyl ions and the pH of the solution.
 
-Reprint 2026-27
+
 
 
 ---
@@ -7216,7 +7290,7 @@ The concentration of sulphide ion in 0.1M HCl solution saturated with hydrogen
 sulphide is 1.0 × 10-19 M. If 10 mL of this is added to 5 mL of 0.04 M solution of the
 following: FeSO4, MnCl2, ZnCl2 and CdCl2. in which of these solutions precipitation
 
-Reprint 2026-27
+
 
 
 ---
@@ -8177,7 +8251,7 @@ N
 
 7 8
 
-Reprint 2026-27
+
 
 
 ---
@@ -9238,7 +9312,7 @@ N
 
 4
 
-Reprint 2026-27
+
 
 
 ---
@@ -10240,7 +10314,7 @@ N
 
 6 6
 
-Reprint 2026-27
+
 
 
 ---
@@ -11114,7 +11188,7 @@ N
 
 16 18 20
 
-Reprint 2026-27
+
 
 
 ---
@@ -11124,9 +11198,9 @@ NOTES
 
 © NCERT
 
-not to be republished
 
-Reprint 2026-27
+
+
 
 
 ---
@@ -11136,7 +11210,7 @@ NOTES
 
 © NCERT
 
-not to be republished
 
-Reprint 2026-27
+
+
 

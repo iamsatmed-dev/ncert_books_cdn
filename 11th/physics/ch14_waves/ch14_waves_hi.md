@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11089CH15
+
 
 ### अध्याय 14
 
@@ -65,7 +65,7 @@ C
 का संचरण होता है। हमारा समस्त संचार-तंत्र तरंगों द्वारा संकेतों के संचरण पर निर्भर
 करता है। वाक् (बातचीत) का अर्थ है वायु में ध्वनि तरंगें उत्पन्न करना तथा श्रवण
 
-Reprint 2025-26
+
 
 
 ---
@@ -130,7 +130,23 @@ c = 29,97,92,458 m s¯¹
 कमानियाँ, वायु आदि प्रत्यास्थ माध्यमों के उदाहरण हैं ।) इस
 संबंध की व्याख्या हम सरल उदाहरणों द्वारा करेंगे ।
 
-चित्र 14.1 में दर्शाए अनुसार एक दूसरे से संबद्ध कमानियों
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_1_hi.png" alt="
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_hi.png" alt="चित्र 14" onclick="openImageModal(this.src, 'चित्र 14: fp=k 14-4 esa vuqnS?;Z rjaxksa osQ lcls lkekU; mnkgj.k èofu rjaxksa dh fLFkfr iz...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14</strong> fp=k 14-4 esa vuqnS?;Z rjaxksa osQ lcls lkekU; mnkgj.k èofu rjaxksa dh fLFkfr iznf'kZr dh xbZ gSA ok;q ls Hkjs fdlh yacs ikbi osQ ,d fljs ij ,d fiLVu yxk gSA fiLVu dks ,d ckj vanj dh vksj èkosQyrs vkSj fiQj ckgj dh vksj [khapus ls laihMu</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
+<div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.1</strong> fp=k 14.1 esa n'kkZ, vuqlkj ,d nwljs ls lac¼ dekfu;ksa dh O;oLFkk ij fopkj dhft, A ;fn blosQ ,d fljs dh dekuh dks ;dk;d [khapdj NksM+ nsa] rks mRiUu fo{kksHk nwljs fljs rd xeu djrk gS A bl izfØ;k esa D;k gksrk gS \ ;dk;d [khapus ij igyh dekuh viuh lkE;koLFkk dh yackbZ ls fo{kksfHkr gksrh gS A pw¡fd nwljh dekuh igyh dekuh ls lac¼ gS] vr% mlesa ruko vFkok laihMu gksrk gS vkSj bl izdkj ;g izfØ;k vkxs c<+rh tkrh gS A ;gk¡ fo{kksHk rks ,d fljs ls nwljs rd lapfjr gks tkrk gS] ijarq izR;sd dekuh viuh lkE;koLFkk dh fLFkfr osQ b/j&m/j gh y?kq nksyu djrh jgrh gS A ,sls gh ,d O;kogkfjd mnkgj.k osQ :i esa jsyos LVs'ku ij fojke dh fLFkfr esa [kM+h fdlh jsyxkM+h ij fopkj dhft, A jsyxkM+h osQ fofHkUu</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 की व्यवस्था पर विचार कीजिए । यदि इसके एक सिरे की कमानी
 को यकायक खींचकर छोड़ दें, तो उत्पन्न विक्षोभ दूसरे सिरे तक
 गमन करता है । इस प्रक्रिया में क्या होता है ? यकायक खींचने
@@ -163,7 +179,7 @@ A
 घनत्व में, मान लीजिए (8p), परिवर्तन होता है । दाब, प्रति एकांक
 क्षेत्रफल पर आरोपित बल होता है, अतः कमानी की ही भाँति
 
-Reprint 2025-26
+
 
 
 ---
@@ -185,15 +201,24 @@ Reprint 2025-26
 उस क्षेत्र में प्रवेश करके विरलन को समीपवर्ती क्षेत्र की ओर
 धकेल देती है । इस प्रकार, संपीडन अथवा विरलन एक क्षेत्र
 से दूसरे क्षेत्र की ओर गति करते हैं, जिसके कारण वायु में विक्षोभ
-का संचरण संभव हो पाता है ।
 
-स्पंद
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_2_hi.png" alt="चित्र 14.2" onclick="openImageModal(this.src, 'चित्र 14.2: fp=k 14.2 esa fdlh Mksjh osQ vuqfn&#39;k ,d ,sls Lian dks xfr djrs fn[kk;k x;k g...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.2</strong> fp=k 14.2 esa fdlh Mksjh osQ vuqfn'k ,d ,sls Lian dks xfr djrs fn[kk;k x;k gS ftls Mksjh dks ,d ckj Åij&uhps >Vdus osQ ckn mRiUu fd;k x;k gSA ;fn Lian osQ vkeki dh rqyuk esa Mksjh dh yackbZ vR;fèkd gks rks mlosQ nwljs fljs rd igq¡pus ls igys gh Lian dk voeanu gks tk,xkA vr% nwljs fljs ij Lian osQ ijkorZu dks vuns[kk fd;k tk ldrk gSA
 
-y
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_3_hi.png" alt="चित्र 14.3" onclick="openImageModal(this.src, 'चित्र 14.3: fp=k 14.3 14.3 14.3 14.3 14.3 fdlh Mksjh osQ vuqfn&#39;k izsf&quot;kr dksbZ vkor...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.3</strong> fp=k 14.3 14.3 14.3 14.3 14.3 fdlh Mksjh osQ vuqfn'k izsf"kr dksbZ vkorZ (T;koØh;) rjax vuqizLFk rjax dk ,d mnkgj.k gSA rjax osQ {ks=k esa Mksjh dk dksbZ izfr:ih vo;o rjax dh xeu fn'kk osQ yacor~ viuh lkE;koLFkk osQ lkis{k nksyu djrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
-X
+<button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
-चित्र 14.2 जब किसी तानित डोरी के अनुदिश (x-अक्ष) कोई एकल
 स्पंद गतिशील होता है तो डोरी का कोई प्रतिरूपी
 अवयव ऊपर-नीचे (y-अक्ष) दोलन करता है ।
 
@@ -258,7 +283,7 @@ X
 सकते हैं। इससे हमें किसी काल-क्षण पर तरंग की आकृति मिल
 जाएगी। एक अन्य विधि तरंग की किसी स्थान विशेष पर विचार
 
-Reprint 2025-26
+
 
 
 ---
@@ -271,7 +296,14 @@ Reprint 2025-26
 करना है अर्थात् हम अपना ध्यान डोरी के किसी निश्चित अवयव
 पर केंद्रित करें तथा समय के साथ इसके दोलनों को देखें।
 
-चित्र 14.4 में अनुदैर्ध्य तरंगों के सबसे सामान्य उदाहरण ध्वनि
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_4_hi.png" alt="चित्र 14.4" onclick="openImageModal(this.src, 'चित्र 14.4: fp=k 14.4 14.4 14.4 14.4 14.4 fiLVu dks vkxs&ihNs xfr djkdj ok;q ls Hkjh uyh esa...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.4</strong> fp=k 14.4 14.4 14.4 14.4 14.4 fiLVu dks vkxs&ihNs xfr djkdj ok;q ls Hkjh uyh esa èofu rjax mRiUu dh tkrh gS A pw¡fd ok;q&vo;o osQ nksyu rjax xfr dh fn'kk osQ lekarj gSa] vr% ;g vuqnS?;Z rjax gS A</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 तरंगों की स्थिति प्रदर्शित की गई है। वायु से भरे किसी लंबे पाइप
 के एक सिरे पर एक पिस्टन लगा है। पिस्टन को एक बार अंदर
 की ओर धकेलते और फिर बाहर की ओर खींचने से संपीडन
@@ -358,7 +390,7 @@ Reprint 2025-26
 किसी प्रगामी तरंग के गणितीय विवरण के लिए, हमें स्थिति x
 तथा समय दोनों के किसी फलन की आवश्यकता होती है। प्रत्येक
 
-Reprint 2025-26
+
 
 
 ---
@@ -376,14 +408,24 @@ Reprint 2025-26
 माध्य स्थिति से विस्थापन को y से निरूपित करना होगा। किसी
 ज्यावक्रीय प्रगामी तरंग को तब निम्न रूप से वर्णित करते हैं
 
-y (x, t) = a sin (k x – wt + $)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_5_hi.png" alt="चित्र 14.5" onclick="openImageModal(this.src, 'चित्र 14.5: fp=k 14.5 14.5 14.5 14.5 14.5 lehdj.k (14.2) osQ ekud fpÉksa dh ifjHkk&quot;kkA...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.5</strong> fp=k 14.5 14.5 14.5 14.5 14.5 lehdj.k (14.2) osQ ekud fpÉksa dh ifjHkk"kkA</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
-भौतिकी
-
-करता है। चित्र 14.5 समीकरण (14.2) के विभिन्न भौतिक
 राशियों के नाम दर्शाता है जिसको हम अब परिभाषित करेंगे।
 
-चित्र 14.6 समान अंतराल पर पाँच भिन्न मानों के लिए
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_6_hi.png" alt="चित्र 14.6" onclick="openImageModal(this.src, 'चित्र 14.6: fp=k 14.6 14.6 14.6 14.6 14.6 fHkUu le;ksa ij x-v{k dh èkukRed fn&#39;kk osQ vuq...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.6</strong> fp=k 14.6 14.6 14.6 14.6 14.6 fHkUu le;ksa ij x-v{k dh èkukRed fn'kk osQ vuqfn'k xfr'khy dksbZ vkorhZ rjax</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 समीकरण (14.2) के आलेख दर्शाता है। किसी तरंग में अधिकतम
 धनात्मक विस्थापन वाले बिंदु को शीर्ष कहते हैं तथा अधिकतम
 ऋणात्मक विस्थापन वाले बिंदु को गर्त कहते हैं। यह देखने के लिए
@@ -509,7 +551,7 @@ X
 हम यह भी देखते हैं कि जितने समय में ठोस बिंदु (•) एक पूर्ण
 दोलन करता है उतने में शीर्ष एक निश्चित दूरी चल लेता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -582,7 +624,15 @@ kको संचरण स्थिरांक अथवा कोणीय �
 इसका SI मात्रक रेडियन प्रति मीटर अथवा rad m¹ है।*
 
 14.3.3 आवर्तकाल, कोणीय आवृत्ति तथा आवृत्ति
-चित्र 14.7 में एक ज्यावक्रीय आलेख दिखाया गया है। यह
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_7_hi.png" alt="चित्र 14.7" onclick="openImageModal(this.src, 'चित्र 14.7: fp=k 14.7 esa ,d T;koØh; vkys[k fn[kk;k x;k gSA ;g fdlh fuf&#39;pr {k.k ij rjax ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.7</strong> fp=k 14.7 esa ,d T;koØh; vkys[k fn[kk;k x;k gSA ;g fdlh fuf'pr {k.k ij rjax dk vkdkj ugha n'kkZrk gS cfYd ekè;e osQ ,d vo;o (fdlh fuf'pr fLFkfr ij) dk le; osQ lkFk foLFkkiu n'kkZrk gSA lqfoèkk osQ fy, ge lehdj.k</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 किसी निश्चित क्षण पर तरंग का आकार नहीं दर्शाता है बल्कि
 माध्यम के एक अवयव (किसी निश्चित स्थिति पर) का समय
 के साथ विस्थापन दर्शाता है। सुविधा के लिए हम समीकरण
@@ -644,7 +694,7 @@ T 2π
 *यहाँ भी rad को छोड़ सकते हैं और मात्रक को केवल m¯¹ से व्यक्त कर सकते हैं। अतः, k, इकाई लंबाई में समा सकने वाली तरंगों की संख्या
 का 27 से गुणा करने पर प्राप्त होने वाली m¯¹ SI मात्रक में मापी जाने वाली राशि है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -741,7 +791,15 @@ y
 के किसी बिन्दु (किसी कला कोण द्वारा अभिलक्षित) पर ध्यान
 केंद्रित कर सकते हैं और देखते हैं कि यह बिंदु समय के साथ
 किस तरह गमन करता है। तरंग के शीर्ष की गति पर ध्यान देना
-सुविधाजनक होता है। चित्र 14.8 में दो विभिन्न समयों, जिनके
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_8_hi.png" alt="चित्र 14.8" onclick="openImageModal(this.src, 'चित्र 14.8: fp=k 14.8 14.8 14.8 14.8 14.8 le; t ls t+∆t rd fdlh vko`fÙk rjax dk xeu] tgk¡ ∆t...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.8</strong> fp=k 14.8 14.8 14.8 14.8 14.8 le; t ls t+∆t rd fdlh vko`fÙk rjax dk xeu] tgk¡ ∆t y?kq le; varjky gSA rjax iSVuZ leLr :i ls nkb± vksj LFkkukarfjr gks tkrk gSA rjax dk 'kh"kZ (;k fuf'pr dyk okyk dksbZ vkSj fcanq) le; ∆t esa nwjh ∆x xeu djrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 बीच △t का लघु समय अंतराल है, पर तरंग का आकार दर्शाया
 गया है। समस्त तरंग पैटर्न दाईं ओर (x-अक्ष की धनात्मक
 दिशा) ∆x दूरी चलता है। वास्तव में, बिन्दु (•) द्वारा दर्शाया
@@ -807,7 +865,7 @@ T
 समीकरण (14.12) सभी प्रगामी तरंगों के लिए एक व्यापक
 संबंध है। यह बताती है कि माध्यम के किसी अवयव के एक
 
-Reprint 2025-26
+
 
 
 ---
@@ -944,7 +1002,7 @@ T
 
 = 93 m s-1
 
-Reprint 2025-26
+
 
 
 ---
@@ -1117,7 +1175,7 @@ VAP + PAV = 0
 
 AV/V
 
-Reprint 2025-26
+
 
 
 ---
@@ -1244,7 +1302,15 @@ s-1
 फलस्वरूप यह परिवर्तन समतापी नहीं होते वरन् रुद्धोष्म
 
 जब विपरीत दिशाओं में गमन करती दो तरंग स्पंद एक दूसरे को
-पार करते हैं तो क्या होता है (चित्र 14.9)? यह देखा जाता है
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_9_hi.png" alt="चित्र 14.9" onclick="openImageModal(this.src, 'चित्र 14.9: 14.5 rjaxksa osQ vè;kjksi.k dk fl¼kar tc foijhr fn&#39;kkvksa esa xeu djrh nks r...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.9</strong> 14.5 rjaxksa osQ vè;kjksi.k dk fl¼kar tc foijhr fn'kkvksa esa xeu djrh nks rjax Lian ,d nwljs dks ikj djrs gSa rks D;k gksrk gS (fp=k 14.9)\ ;g ns[kk tkrk gS fd ikj djus osQ ckn Hkh rjax Lian viuk O;f"VRo cuk, j[krh gSA ijarq] vfrO;kiu osQ nkSjku] rjax iSVuZ nksuksa rjax Lianksa ls fHkUu gksrk gSA fp=k 14.9 cjkcj ,oa foijhr vkdkjksa okys nks rjax Lianksa osQ ,d nwljs dh vksj xeu dh fLFkfr n'kkZrk gSA tc Lian vfrO;kfIr gksrs gSa rks ifj.kkeh foLFkkiu i`Fkd&i`Fkd Lianksa osQ dkj.k foLFkkiuksa dk chtxf.krh; ;ksx gksrk gSA bl izdkj tksM+uk rjaxksa dk vè;kjksi.k dk fl¼kar dgykrk gSA bl fl¼kar osQ vuqlkj] izR;sd Lian bl izdkj xeu djrk gS ekuks nwljs Lian fo|eku ugha gSaA vr% ekè;e osQ vo;o nksuksa osQ dkj.k foLFkkfir gksrs gSa vkSj pwafd foLFkkiu èkukRed ;k ½.kkRed gks ldrs gSa] usV foLFkkiu nksuksa foLFkkiuks dk chtxf.krh; ;ksx gksrk gSA fp=k 14.9 fofHkUu le;ksa ij rjax vkdkj dk vkys[k n'kkZrk gSA vkys[k (c) esa fo'ks"k izHkko ij è;ku nsa % nksuksa Lianksa osQ dkj.k i`Fkd&i`Fkd mRiUu foLFkkiu ,d nwljs dks Bhd ls fujLr dj nsrs gSa rFkk izR;sd fcanq ij oqQy foLFkkiu 'kwU; gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 कि पार करने के बाद भी तरंग स्पंद अपना व्यष्टित्व बनाए
 रखती है। परंतु, अतिव्यापन के दौरान, तरंग पैटर्न दोनों तरंग स्पंदों
 से भिन्न होता है। चित्र 14.9 बराबर एवं विपरीत आकारों वाले
@@ -1265,7 +1331,7 @@ s-1
 अध्यारोपण के सिद्धांत को गणितीय रूप में व्यक्त करने के
 लिए, मान लीजिए y₁(x, t) तथा y₂ (x, t) माध्यम के किसी
 
-Reprint 2025-26
+
 
 
 ---
@@ -1405,7 +1471,7 @@ A(p) = 2a cos
 
 y (x,t) = 2 a sin (kx – wt)
 
-Reprint 2025-26
+
 
 
 ---
@@ -1476,9 +1542,24 @@ y
 तरंग को अपवर्तित तरंग कहते हैं। आपतित एवं अपवर्तित तरंगें
 स्नेल के अपवर्तन के नियमों का पालन करती हैं, तथा
 आपतित एवं परावर्तित तरंगें परावर्तन के सामान्य नियमों का
-पालन करती हैं।
 
-चित्र 14.11 किसी तानित डोरी के अनुदिश गमन करती
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_11_hi.png" alt="चित्र 14.11" onclick="openImageModal(this.src, 'चित्र 14.11: fp=k 14.11 fdlh rkfur Mksjh osQ vuqfn&#39;k xeu djrh rFkk ifjlhek ls ijkofrZr gk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.11</strong> fp=k 14.11 fdlh rkfur Mksjh osQ vuqfn'k xeu djrh rFkk ifjlhek ls ijkofrZr gksrh rjax n'kkZrk gSA ;fn eku ysa fd ifjlhek }kjk ÅtkZ dk dksbZ vo'kks"k.k ugha gksrk gS rks ijkofrZr rjax dk vkdkj ogh gksrk gS tks vkifrr Lian dk gS ijarq ijkorZu ls blosQ dyk esa π ;k 180º dk dykarj mRiUu gks tkrk gSA bldk dkj.k ;g gS fd ifjlhek n`<+ gS rFkk ifjlhek ij lHkh {k.kksa ij fo{kksHk dk foLFkkiu 'kwU; gksuk pkfg,A vè;kjksi.k osQ fl¼kar osQ vuqlkj] ;g rHkh laHko gS tc vkifrr ,oa ijkofrZr rjaxksa esa π dykarj gks rkfd ifj.kkeh foLFkkiu 'kwU; gksA ;g roZQ n`<+ nhokj esa ifjlhek izfrcaèk ij vkèkkfjr gSA bl ifj.kke dks ge xfrdh; n`f"V ls Hkh izkIr dj ldrs gSaA tc Lian nhokj ij igq¡prk gS rks og nhokj ij cy vkjksfir djrk gSA U;wVu osQ rhljs fu;e osQ vuqlkj nhokj Mksjh ij ifj.kke esa leku rFkk fn'kk esa foijhr cy vkjksfir
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_10_hi.png" alt="चित्र 14.10" onclick="openImageModal(this.src, 'चित्र 14.10: (14.34) nks rjaxksa dk fouk&#39;kh O;frdj.k n&#39;kkZrk gS ftlesa ifj.kkeh rjax ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.10</strong> (14.34) nks rjaxksa dk fouk'kh O;frdj.k n'kkZrk gS ftlesa ifj.kkeh rjax esa nksuksa vk;ke dk varj gksrk gSA fp=k 14.10 O;frdj.k osQ bu nksuksa izdj.kksa dks n'kkZrk gS tks vè;kjksi.k osQ fl¼kar dk ifj.kke gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
+<button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
 तथा परिसीमा से परावर्तित होती तरंग दर्शाता है। यदि मान लें कि
 परिसीमा द्वारा ऊर्जा का कोई अवशोषण नहीं होता है तो परावर्तित
 तरंग का आकार वही होता है जो आपतित स्पंद का है परंतु
@@ -1518,7 +1599,7 @@ NCER
 
 चित्र 14.11 किसी दृढ़ परिसीमा से स्पंद का परावर्तन।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1620,7 +1701,15 @@ wt अलग-अलग विद्यमान हैं, न कि (kx – wt
 है परंतु जैसा पहले बताया गया है विभिन्न स्थितियों पर आयाम
 भिन्न होता है। जिन बिंदुओं पर आयाम शून्य होता है उन्हें निस्पंद
 कहते हैं तथा जिन बिंदुओं पर अधिकतम होता है उन्हें प्रस्पंद
-कहते हैं। चित्र 14.12 विपरीत दिशाओं में गमन करती दो तरंगों
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_12_hi.png" alt="चित्र 14.12" onclick="openImageModal(this.src, 'चित्र 14.12: fp=k 14.12 14.12 14.12 14.12 14.12 foijhr fn&#39;kkvksa esa xeu djrh nks vkorhZ ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.12</strong> fp=k 14.12 14.12 14.12 14.12 14.12 foijhr fn'kkvksa esa xeu djrh nks vkorhZ rjaxksa osQ vè;kjksi.k ls mRiUu vizxkeh rjaxsaA è;ku nsa fd fuLianksa ('kwU; foLFkkiu okys fcanq) dh fLFkfr lHkh le;ksa ij vifjofrZr jgrh gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
+
 के अध्यारोपण के फलस्वरूप परिणामी अप्रगामी तरंग दर्शाता है।
 
 अप्रगामी तरंगों का सबसे महत्वपूर्ण लक्षण यह है कि
@@ -1633,7 +1722,7 @@ wt अलग-अलग विद्यमान हैं, न कि (kx – wt
 परिबद्ध किसी तानित डोरी के लिए प्रसामान्य विधा का निर्धारण
 करेंगे।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1754,7 +1843,7 @@ n = 1, 2, 3...
 υ
 2L
 
-Reprint 2025-26
+
 
 
 ---
@@ -1793,11 +1882,14 @@ A
 
 .......
 
-N
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_13_hi.png" alt="चित्र 14.13" onclick="openImageModal(this.src, 'चित्र 14.13: fp=k 14.13 eas nksuksa fljksa ij ifjc¼ rkfur Mksjh eas izFke N% xq.kko`fÙk;k¡ n&...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.13</strong> fp=k 14.13 eas nksuksa fljksa ij ifjc¼ rkfur Mksjh eas izFke N% xq.kko`fÙk;k¡ n'kkZ;h xbZ gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
-द्वितीय गुणावृत्ति
-
-चित्र 14.13 में दोनों सिरों पर परिबद्ध
 तानित डोरी में प्रथम छः गुणावृत्तियाँ दर्शायी गई हैं।
 यह आवश्यक नहीं है कि कोई तानित डोरी
 इन विधाओं में से किसी विधा में कंपन करे।
@@ -1996,22 +2088,36 @@ n = 0, 1, 2, 3...
 
 (n+1/2), n = 0, 1, 2, 3...
 
-34,54 आदि होती हैं ।
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_14_hi.png" alt="चित्र 14.14" onclick="openImageModal(this.src, 'चित्र 14.14: fp=k 14.14 14.14 14.14 14.14 14.14 ,d fljs ls [kqys rFkk nwljs fljs ij can fdlh ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.14</strong> fp=k 14.14 14.14 14.14 14.14 14.14 ,d fljs ls [kqys rFkk nwljs fljs ij can fdlh ok;q&dkWye dh oqQN izlkekU; foèkk,¡A osQoy fo"ke foèkk,¡ laHko gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
-चित्र 14.14 एक सिरे पर खुले तथा दूसरे सिरे पर बंद
 वायु कॉलम के प्रथम छः विषम गुणावृत्तियाँ दर्शाता है। दोनों सिरों
 पर खुले पाइप के लिए प्रत्येक सिरे पर प्रस्पंद होता है। इस प्रकार
 
 (14.43)
 
 यह स्पष्ट है कि दोनों सिरों पर खुले वायु कॉलम में सभी
-गुणावृत्तियाँ उत्पन्न होती हैं (देखें चित्र 14.15)। उपरोक्त वर्णित
+गुणावृत्तियाँ उत्पन्न होती हैं (देखें
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_15_hi.png" alt="चित्र 14.15" onclick="openImageModal(this.src, 'चित्र 14.15: fp=k 14.15 14.15 14.15 14.15 14.15 fdlh [kqys ikbi eas vizxkeh rjaxsa A igyh pkj...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.15</strong> fp=k 14.15 14.15 14.15 14.15 14.15 fdlh [kqys ikbi eas vizxkeh rjaxsa A igyh pkj xq.kko`fÙk;k¡ n'kkZ;h xbZ gSa A</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
+
 निकायों, डोरी एवं वायु कॉलम में प्रणोदित दोलन (अध्याय 13)
 
 निकाय की सामान्य विधाएँ स्वाभाविक आवृत्तियाँ इस प्रकार
 व्यक्त की जाती हैं :
 
-Reprint 2025-26
+
 
 
 ---
@@ -2150,7 +2256,7 @@ V5 =
 L = 30 cm तथा v = 300 m_s¯¹ के लिए, एक सिरे
 से बंद पाइप की मूल आवृत्ति 275 Hz है तथा स्रोत की आवृत्ति
 
-Reprint 2025-26
+
 
 
 ---
@@ -2287,10 +2393,18 @@ Ubeat = V1-V2
 (14.48)
 
 11 Hz तथा 9 Hz के दो आवृत्ति तरंगों से उत्पन्न विस्पंद
-की परिघटना चित्र 14.16 दर्शाता है। परिणामी तरंग का आयाम
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_16_hi.png" alt="चित्र 14.16" onclick="openImageModal(this.src, 'चित्र 14.16: 11 Hz rFkk 9 Hz osQ nks vko`fÙk rjaxksa ls mRiUu foLian dh ifj?kVuk fp=k 14.16 n...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14.16</strong> 11 Hz rFkk 9 Hz osQ nks vko`fÙk rjaxksa ls mRiUu foLian dh ifj?kVuk fp=k 14.16 n'kkZrk gSA ifj.kkeh rjax dk vk;ke</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 2Hz की आवृत्ति पर विस्पंद दर्शाता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -2418,7 +2532,7 @@ v =
 
 2π
 
-Reprint 2025-26
+
 
 
 ---
@@ -2487,7 +2601,7 @@ y (x, t) = a sin (kx – wt)
 
 y, (x, t) = – a sin (kx + wt)
 
-Reprint 2025-26
+
 
 भौतिकी
 
@@ -2608,7 +2722,7 @@ S-1
 दो निकट आवृत्तियों की अध्यारोपित तरंगों
 की आवृत्तियों का अंतर
 
-Reprint 2025-26
+
 
 
 ---
@@ -2669,7 +2783,7 @@ y = f (x + vt) संयोजन में प्रकट होना चा�
 
 y (x, t) = 3.0 sin (36 t + 0.018 x + π/4)
 
-Reprint 2025-26
+
 
 भौतिकी
 
@@ -2756,7 +2870,7 @@ Perepublished
 3.5 × 10-2 kg तथा रैखिक द्रव्यमान घनत्व 4.0 × 10-2 kg m¯¹ है । (a) तार पर अनुप्रस्थ तरंग की चाल क्या है, तथा
 (b) तार में तनाव कितना है ?
 
-Reprint 2025-26
+
 
 311
 
@@ -2799,7 +2913,7 @@ Hz आवृत्ति का स्वरित्र द्विभुज) 
 
 ONCER
 
-not to be republished
 
-Reprint 2025-26
+
+
 

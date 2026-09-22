@@ -41,7 +41,7 @@ takes a critical view of the above aspects.
 
 not to
 
-Reprint 2025-26
+
 
 
 ---
@@ -73,7 +73,7 @@ not
 
 to b
 
-Reprint 2025-26
+
 
 
 ---
@@ -81,7 +81,7 @@ Reprint 2025-26
 
 CHAPTER 11
 
-12083CH13
+
 
 ORGANISMS AND POPULATIONS
 
@@ -118,7 +118,7 @@ How does the bee know which flower has nectar? Why
 does cactus have so many thorns? How does the chick
 spures recognise her own mother?, and so on.
 
-Reprint 2025-26
+
 
 
 ---
@@ -174,14 +174,22 @@ individual is either a male or a female but a population has a sex ratio
 A population at any given time is composed of individuals of
 different ages. If the age distribution (per cent individuals of a given
 age or age group) is plotted for the population, the resulting structure
-is called an age pyramid (Figure 11.1). For human population, the
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch11_organisms_and_populations_fig_11_1.png" alt="Fig. 11.1" onclick="openImageModal(this.src, 'Fig. 11.1: A population at any given time is composed of individuals of different ages. If ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.1</strong> A population at any given time is composed of individuals of different ages. If the age distribution (per cent individuals of a given age or age group) is plotted for the population, the resulting structure is called an age pyramid (Figure 11.1). For human population, the age pyramids generally show age distribution of males and females in a diagram. The shape of the pyramids reflects the growth status of the population - (a) whether it is growing, (b) stable or (c) declining.</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 age pyramids generally show age distribution of males and females in
 a diagram. The shape of the pyramids reflects the growth status of
 the population - (a) whether it is growing, (b) stable or (c) declining.
 
 191
 
-Reprint 2025-26
+
 
 
 ---
@@ -247,7 +255,7 @@ to the population – whether it is flourishing or declining. Whatever might
 be the ultimate reasons, the density of a population in a given habitat
 during a given period, fluctuates due to changes in four basic processes,
 
-Reprint 2025-26
+
 
 
 ---
@@ -272,17 +280,13 @@ under consideration.
 left the habitat and gone elsewhere during the time period under
 consideration.
 
-Natality
-(B)
-
-+
-
-Immigration
-(1)
-
-+
-
-Figure 11.2
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch11_organisms_and_populations_fig_11_2.png" alt="Fig. 11.2" onclick="openImageModal(this.src, 'Fig. 11.2: Figure 11.2...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.2</strong> Figure 11.2</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 So, if N is the population density at time t, then its density at time t +1 is
 
@@ -297,7 +301,7 @@ assuming importance only under special conditions. For instance, if a
 new habitat is just being colonised, immigration may contribute more
 significantly to population growth than birth rates.
 
-Reprint 2025-26
+
 
 Mortality
 (D)
@@ -339,17 +343,13 @@ If in a population of size N, the birth rates (not total number but per
 capita births) are represented as band death rates (again, per capita
 death rates) as d, then the increase or decrease in N du
 
-time period t (dN/dt) will be
-
-dN =rN(K-N
-
-dt
-
-b
-
-Time (t)
-
-Figure 11.3 Population growth curve
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch11_organisms_and_populations_fig_11_3.png" alt="Fig. 11.3" onclick="openImageModal(this.src, 'Fig. 11.3: Figure 11.3 Population growth curve...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.3</strong> Figure 11.3 Population growth curve</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
 194
 
@@ -405,7 +405,7 @@ e = the base of natural logarithms (2.71828)
 Any species growing exponentially under unlimited resource
 conditions can reach enormous population densities in a short time.
 
-Reprint 2025-26
+
 
 
 ---
@@ -465,7 +465,7 @@ dN/dt = N(KN)
 
 195
 
-Reprint 2025-26
+
 
 
 ---
@@ -527,7 +527,7 @@ interactions (Table11.1).
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -607,7 +607,7 @@ in agricultural pest control are based on the ability of the predator
 
 197
 
-Reprint 2025-26
+
 
 
 ---
@@ -670,7 +670,7 @@ for the same resource. For instance, in some shallow South
 American lakes, visiting flamingoes and resident fishes compete for
 their common food, the zooplankton in the lake. Secondly,
 
-Reprint 2025-26
+
 
 
 ---
@@ -730,7 +730,7 @@ free lodging and meals, it is not surprising that parasitism has
 
 199
 
-Reprint 2025-26
+
 
 
 ---
@@ -789,7 +789,7 @@ the host's egg in size and colour to reduce the chances of the host
 
 not to
 
-Reprint 2025-26
+
 
 
 ---
@@ -818,13 +818,14 @@ fish that lives among them. The fish gets protection from predators
 which stay away from the stinging tentacles. The anemone does not
 appear to derive any benefit by hosting the clown fish.
 
-(a)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch11_organisms_and_populations_fig_11_4.png" alt="Fig. 11.4" onclick="openImageModal(this.src, 'Fig. 11.4: Figure 11.4 Mutual relationship between fig tree and wasp: (a) Fig flower is pol...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.4</strong> Figure 11.4 Mutual relationship between fig tree and wasp: (a) Fig flower is pollinated by wasp; (b) Wasp laying eggs in a fig fruit</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
-(b)
-
-plished
-
-Figure 11.4 Mutual relationship between fig tree and wasp: (a) Fig flower is pollinated
 by wasp; (b) Wasp laying eggs in a fig fruit
 
 (v) Mutualism: This interaction confers benefits on both the interacting
@@ -835,7 +836,7 @@ roots of higher plants. The fungi help the plant in the absorption of
 essential nutrients from the soil while the plant in turn provides the
 fungi with energy-yielding carbohydrates.
 
-Reprint 2025-26
+
 
 201
 
@@ -871,7 +872,15 @@ developing seeds, as food for the developing wasp larvae.
 Orchids show a bewildering diversity of floral
 patterns many of which have evolved to attract the right
 pollinator insect (bees and bumblebees) and ensure
-guaranteed pollination by it (Figure 11.5). Not all
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch11_organisms_and_populations_fig_11_5.png" alt="Fig. 11.5" onclick="openImageModal(this.src, 'Fig. 11.5: Orchids show a bewildering diversity of floral patterns many of which have evolv...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 11.5</strong> Orchids show a bewildering diversity of floral patterns many of which have evolved to attract the right pollinator insect (bees and bumblebees) and ensure guaranteed pollination by it (Figure 11.5). Not all orchids offer rewards. The Mediterranean orchid Ophrys employs ‘sexual deceit’ to get pollination done by a species of bee. One petal of its flower bears an uncanny resemblance to the female of the bee in size, colour and markings. The male bee is attracted to what it perceives as a female, ‘pseudocopulates’ with the flower, and during that process is dusted with pollen from the flower. When this same bee ‘pseudocopulates’ with another flower, it transfers pollen to it and thus, pollinates the flower. Here you can see how co-evolution operates. If the female bee’s colour patterns change even slightly for any reason during evolution, pollination success will be reduced unless the orchid flower co-evolves to maintain the resemblance of its petal to the female bee.</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
+
 orchids offer rewards. The Mediterranean orchid Ophrys
 employs 'sexual deceit' to get pollination done by a
 species of bee. One petal of its flower bears an uncanny
@@ -897,7 +906,7 @@ no
 
 flower
 
-Reprint 2025-26
+
 
 
 ---
@@ -958,7 +967,7 @@ interactions.
 
 203
 
-Reprint 2025-26
+
 
 
 ---
@@ -1030,5 +1039,5 @@ describ
 
 not to be
 
-Reprint 2025-26
+
 

@@ -36,7 +36,7 @@ NGERT
 तथा दंड चुंबक के बीच सापेक्ष गति कराने पर लूप में क्षीण धारा उत्पन्न होती है', तब उनसे पूछा
 गया कि 'इसका क्या उपयोग है'? फैराडे का उत्तर था, 'नवजात शिशु का क्या उपयोग होता है?'
 
-Reprint 2026-27
+
 
 
 ---
@@ -55,11 +55,24 @@ Reprint 2026-27
 
 वैद्युतचुंबकीय प्रेरण की खोज तथा उसकी समझ फैराडे एवं हेनरी द्वारा किए
 गए अनेक प्रयोगों पर आधारित है। हम उनमें से कुछ प्रयोगों का वर्णन यहाँ
-करेंगे।
 
-प्रयोग 6.1
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_1_hi.png" alt="
 
-चित्र 6.1 में धारामापी G से जुड़ी हुई एक कुंडली C₁* दर्शायी गई है। जब
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_hi.png" alt="चित्र 6" onclick="openImageModal(this.src, 'चित्र 6: ;fn {ks=kiQy A okys lery dks ,dleku pqacdh; {ks=k B (fp=k 6-4) esa j[kk tkrk gS ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6</strong> ;fn {ks=kiQy A okys lery dks ,dleku pqacdh; {ks=k B (fp=k 6-4) esa j[kk tkrk gS rks pqacdh; ÝyDl dks O;Dr fd;k tk ldrk gS µ</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
+<div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.1</strong> fp=k 6.1 esa èkkjkekih G ls tqM+h gqbZ ,d oaqQMyh C1* n'kkZ;h xbZ gSA tc ,d naM pqacd osQ mÙkjh èkzqo dks bl oqaQMyh dh vksj èkosQyk tkrk gS rks èkkjkekih dk laosQrd fo{ksfir gksrk gS tks oqaQMyh esa fo|qr èkkjk dh mifLFkfr dks n'kkZrk gSA ;g fo{ksi rHkh rd jgrk gS tc rd naM pqacd xfr esa jgrk gSA tc pqacd fLFkj gksrk gS rks èkkjkekih dksbZ fo{ksi ugha n'kkZrkA tc pqacd dks oqaQMyh ls nwj ys tkrs gSa rks èkkjkekih foijhr fn'kk esa fo{ksi n'kkZrk gS] tks èkkjk izokg dh fn'kk osQ foijhr gksus dks n'kkZrk gSA blosQ vfrfjDr] tc naM pqacd osQ nf{k.kh èkqzo dks oqaQMyh dh vksj ;k blls nwj ys tkrs gSa rks èkkjkekih esa fo{ksi dh fn'kk,a¡ mÙkjh èkqzo dh blh izdkj dh xfr dh vis{kk foijhr gks tkrh gSaA blosQ vfrfjDr] tc pqacd dks oqaQMyh dh vksj ;k blls nwj rsth ls xfreku fd;k tkrk gS rks fo{ksi vkSj blfy, èkkjk vfèkd izkIr gksrk gSA ;g Hkh ns[kk x;k gS fd ;fn naM pqacd dks fLFkj j[kk tk, rFkk blosQ ctk; oqaQMyh C1 dks pqacd dh vksj ;k blls nwj xfreku fd;k tk, rks Hkh blh izdkj dk izHkko mRiUu gksrk gSA ;g n'kkZrk gS fd oqaQMyh esa fo|qr èkkjk dh mRifÙk (izsj.k) pqacd rFkk oqaQMyh osQ eè; lkis{k xfr dk izfriQy gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 एक दंड चुंबक के उत्तरी ध्रुव को इस कुंडली की ओर धकेला जाता है तो
 धारामापी का संकेतक विक्षेपित होता है जो कुंडली में विद्युत धारा की
 उपस्थिति को दर्शाता है। यह विक्षेप तभी तक रहता है जब तक दंड चुंबक
@@ -76,13 +89,14 @@ C₁ को चुंबक की ओर या इससे दूर गत�
 प्रकार का प्रभाव उत्पन्न होता है। यह दर्शाता है कि कुंडली में विद्युत धारा की
 उत्पत्ति (प्रेरण) चुंबक तथा कुंडली के मध्य सापेक्ष गति का प्रतिफल है।
 
-प्रयोग 6.2
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_2_hi.png" alt="चित्र 6.2" onclick="openImageModal(this.src, 'चित्र 6.2: fp=k 6.2 esa naM pqacd dks cSVjh ls tqM+h gqbZ ,d nwljh oaqQMyh C2 ls izfrLFkkfi...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.2</strong> fp=k 6.2 esa naM pqacd dks cSVjh ls tqM+h gqbZ ,d nwljh oaqQMyh C2 ls izfrLFkkfir fd;k x;k gSA oqaQMyh C2 esa vifjorhZ èkkjk vifjorhZ paqcdh; {ks=k mRiUu djrh gSA tSls gh oqaQMyh C2 dks oqaQMyh C1 dh vksj ykrs gSa] èkkjkekih ,d fo{ksi n'kkZrk gSA ;g oqaQMyh C1 esa izsfjr fo|qr èkkjk dks fun£'kr djrk gSA tc C2 dks nwj ys tkrs gSa rks èkkjkekih fiQj ls fo{ksi n'kkZrk gS] ysfdu bl ckj ;g fo{ksi foijhr fn'kk esa gksrk gSA ;g fo{ksi rHkh rd jgrk gS tc rd oqaQMyh C2 xfr esa jgrh gSA tc oqaQMyh C2 dks</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
-ली वं
-
-ot
-
-चित्र 6.2 में दंड चुंबक को बैटरी से जुड़ी हुई एक दूसरी कुंडली C₂ से
 प्रतिस्थापित किया गया है। कुंडली C₂ में अपरिवर्ती धारा अपरिवर्ती
 चुंबकीय क्षेत्र उत्पन्न करती है। जैसे ही कुंडली C₂ को कुंडली C₁ की
 ओर लाते हैं, धारामापी एक विक्षेप दर्शाता है। यह कुंडली C₁ में प्रेरित
@@ -127,7 +141,7 @@ S
 जब भी कुंडली या 'लूप' शब्द का उपयोग किया जाता है तो यह मान लिया जाता है कि वे चालक
 पदार्थों से बने हैं तथा इन्हें जिन तारों से बनाया गया है उन पर अवरोधक पदार्थों की परत चढ़ी है।
 
-Reprint 2026-27
+
 
 153
 
@@ -157,7 +171,16 @@ C
 
 उपरोक्त दोनों प्रयोगों में चुंबक तथा कुंडली के बीच तथा दो कुंडलियों के बीच
 सापेक्ष गति शामिल है। एक अन्य प्रयोग द्वारा फैराडे ने दर्शाया कि यह सापेक्ष गति
-कोई अति आवश्यक अनिवार्यता नहीं है। चित्र 6.3 में दो कुंडलियाँ C₁ तथा C₂
+कोई अति आवश्यक अनिवार्यता नहीं है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_3_hi.png" alt="चित्र 6.3" onclick="openImageModal(this.src, 'चित्र 6.3: mijksDr nksuksa iz;ksxksa esa pqacd rFkk oaqQMyh osQ chp rFkk nks oqaQMfy;ksa os...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.3</strong> mijksDr nksuksa iz;ksxksa esa pqacd rFkk oaqQMyh osQ chp rFkk nks oqaQMfy;ksa osQ chp lkis{k xfr 'kkfey gSA ,d vU; iz;ksx }kjk iSQjkMs us n'kkZ;k fd ;g lkis{k xfr dksbZ vfr vko';d vfuok;Zrk ugha gSA fp=k 6.3 esa nks oqaQMfy;k¡ C1 rFkk C2 n'kkZ;h xbZ gSa tks fLFkj j[kh xbZ gSaA oqaQMyh C1 dks ,d èkkjkekih G ls tksM+k x;k gS tcfd nwljh oaqQMyh C2 dks ,d nkc&oaqQth K ls gksdj ,d cSVjh ls tksM+k tkrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 दर्शायी गई हैं जो स्थिर रखी गई हैं। कुंडली C₁ को एक धारामापी G से जोड़ा गया
 है जबकि दूसरी कुंडली C₂ को एक दाब-कुंजी K से होकर एक बैटरी से जोड़ा
 जाता है।
@@ -190,7 +213,7 @@ K
 की अवधारणा से परिचित हो जाना आवश्यक है। चुंबकीय फ्लक्स को भी ठीक उसी प्रकार
 परिभाषित किया जाता है जिस प्रकार विद्युतीय फ्लक्स को अध्याय 1 में परिभाषित किया गया है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -198,7 +221,16 @@ Reprint 2026-27
 
 वैद्युतचुंबकीय प्रेरण
 
-यदि क्षेत्रफल A वाले समतल को एकसमान चुंबकीय क्षेत्र B (चित्र 6.4) में रखा जाता है
+यदि क्षेत्रफल A वाले समतल को एकसमान चुंबकीय क्षेत्र B (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_4_hi.png" alt="चित्र 6.4" onclick="openImageModal(this.src, 'चित्र 6.4: fp=k 6.4 ,dleku paqcdh; {ks=k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.4</strong> fp=k 6.4 ,dleku paqcdh; {ks=k</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 तो चुंबकीय फ्लक्स को व्यक्त किया जा सकता है –
 
 B
@@ -211,7 +243,14 @@ B
 अवधारणा का विवेचन पहले ही अध्याय 1 में किया जा चुका है। समीकरण (6.1) को वक्र
 पृष्ठों एवं असमान क्षेत्रों के लिए विस्तारित किया जा सकता है।
 
-यदि चित्र 6.5 में दर्शाए अनुसार किसी सतह के विभिन्न भागों पर चुंबकीय क्षेत्र के
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_5_hi.png" alt="चित्र 6.5" onclick="openImageModal(this.src, 'चित्र 6.5: ;fn fp=k 6.5 esa n&#39;kkZ, vuqlkj fdlh lrg osQ fofHkUu Hkkxksa ij pqacdh; {ks=k...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.5</strong> ;fn fp=k 6.5 esa n'kkZ, vuqlkj fdlh lrg osQ fofHkUu Hkkxksa ij pqacdh; {ks=k osQ ifjek.k rFkk fn'kk,¡ fHkUu&fHkUu gksa] rks lrg ls gksdj xqtjus okyk pqacdh; ÝyDl gksxk</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 परिमाण तथा दिशाएँ भिन्न-भिन्न हों, तो सतह से होकर गुजरने वाला चुंबकीय फ्लक्स होगा
 
 P = B₁ dA₁ + B, dA₂ +... = B da
@@ -286,7 +325,7 @@ C₁ में पुनः प्रेरित विद्युत धा�
 
 A
 
-Reprint 2026-27
+
 
 
 ---
@@ -382,7 +421,7 @@ B, A तथा 0 में से किसी एक या अधिक पद
 से 0.70 s में घटाकर शून्य तक लाया जाता है। इस समय अंतराल में प्रेरित विद्युत वाहक बल तथा
 धारा का मान ज्ञात कीजिए।
 
-Reprint 2026-27
+
 
 
 ---
@@ -506,7 +545,7 @@ I = ε/R = 1.9 × 10¯³ A
 
 वे किसी विशेष समय पर घूर्णन गति पर निर्भर करते हैं।
 
-Reprint 2026-27
+
 
 ed
 
@@ -518,17 +557,13 @@ ed
 ---
 ## 📄 Page 7
 
-भौतिकी
-
-N
-
-N
-
-(b)
-
-(a)
-
-चित्र 6.6
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_6_hi.png" alt="चित्र 6.6" onclick="openImageModal(this.src, 'चित्र 6.6: izsfjr fo|qr okgd cy dh fn&#39;kk ysat osQ fu;e dk mi;ksx djosQ Kkr dh tk ldrh g...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.6</strong> izsfjr fo|qr okgd cy dh fn'kk ysat osQ fu;e dk mi;ksx djosQ Kkr dh tk ldrh gSA fp=k 6.6 (a) rFkk (b) ij fopkj djsaA ;s izsfjr èkkjkvksa dh fn'kk dks le>us osQ fy, ,d ljy fofèk lq>krs gSaA è;ku nhft, fd rFkk }kjk n'kkZ;h xbZ fn'kk,¡ izsfjr èkkjk dh fn'kk,¡ fu:fir djrh gSaA</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
 लेंज के नियम का चित्रण
 
@@ -577,17 +612,20 @@ N
 देने के लिए हमें कार्य करना पड़ेगा। हमारे द्वारा खर्च की गई ऊर्जा कहाँ गई? वह ऊर्जा प्रेरित
 धारा द्वारा उत्पन्न जूल ऊष्मन के रूप में क्षयित होती है।
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 8
 
-वैद्युतचुंबकीय प्रेरण
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_7_hi.png" alt="चित्र 6.7" onclick="openImageModal(this.src, 'चित्र 6.7: mnkgj.k 6.4 fp=k 6.7 esa fofHkUu vkdkj osQ lery ywi tks pqacdh; {ks=k esa izos&#...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.7</strong> mnkgj.k 6.4 fp=k 6.7 esa fofHkUu vkdkj osQ lery ywi tks pqacdh; {ks=k esa izos'k dj jgs gSa vFkok {ks=k ls ckgj fudy jgs gSa] fn[kk, x, gSaA pqacdh; {ks=k ywi osQ ry osQ vfHkyacor ¯drq izs{kd ls nwj tkrs gq, gSaA ysat osQ fu;e dk mi;ksx djrs gq, izR;sd ywi esa izsfjr fo|qr èkkjk dh fn'kk Kkr dhft,A</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
-उदाहरण 6.4
-
-चित्र 6.7 में विभिन्न आकार के समतल लूप जो चुंबकीय क्षेत्र में प्रवेश कर रहे हैं अथवा क्षेत्र से
 बाहर निकल रहे हैं, दिखाए गए हैं। चुंबकीय क्षेत्र लूप के तल के अभिलंबवत किंतु प्रेक्षक से दूर
 जाते हुए हैं। लेंज के नियम का उपयोग करते हुए प्रत्येक लूप में प्रेरित विद्युत धारा की दिशा ज्ञात
 
@@ -728,10 +766,19 @@ X
 (b) एक बंद लूप विशाल संधारित्र की प्लेटों के बीच स्थिर विद्युत क्षेत्र के अभिलंबवत गति करता
 है। क्या लूप में प्रेरित धारा उत्पन्न होगी (i) जब लूप संधारित्र की प्लेटों के पूर्णतः अंदर हो
 (ii) जब लूप आंशिक रूप से प्लेटों के बाहर हो? विद्युत क्षेत्र लूप के तल के अभिलंबवत है।
-(c) एक आयताकार लूप एवं एक वृत्ताकार लूप एकसमान चुंबकीय क्षेत्र में से (चित्र 6.8) क्षेत्र
+(c) एक आयताकार लूप एवं एक वृत्ताकार लूप एकसमान चुंबकीय क्षेत्र में से (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_8_hi.png" alt="चित्र 6.8" onclick="openImageModal(this.src, 'चित्र 6.8: (c) ,d vk;rkdkj ywi ,oa ,d o`Ùkkdkj ywi ,dleku pqacdh; {ks=k esa ls (fp=k 6.8) {...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.8</strong> (c) ,d vk;rkdkj ywi ,oa ,d o`Ùkkdkj ywi ,dleku pqacdh; {ks=k esa ls (fp=k 6.8) {ks=k</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 विहीन भाग में एकसमान वेग v से निकल रहे हैं। चुंबकीय क्षेत्र से बाहर निकलते समय, आप
 
-Reprint 2026-27
+
 
 उदाहरण 6.4
 
@@ -805,35 +852,13 @@ X
 
 X
 
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-चित्र 6.8
-
-(d) चित्र 6.9 में वर्णित स्थिति के लिए संधारित्र की ध्रुवता की प्रागुक्ति (Predict) कीजिए।
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_9_hi.png" alt="चित्र 6.9" onclick="openImageModal(this.src, 'चित्र 6.9: (d) fp=k 6.9 esa o£.kr fLFkfr osQ fy, laèkkfj=k dh èkzqork dh izkxqfDr (Predict)...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.9</strong> (d) fp=k 6.9 esa o£.kr fLFkfr osQ fy, laèkkfj=k dh èkzqork dh izkxqfDr (Predict) dhft,A</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 A
 
@@ -870,7 +895,15 @@ N
 6.6 गतिक विद्युत वाहक बल
 
 किसी एकसमान, काल स्वतंत्र (time independent) चुंबकीय क्षेत्र में एक गतिमान ऋजु चालक
-पर विचार कीजिए। चित्र 6.10 में एक आयताकार चालक PQRS दर्शाया गया है जिसमें चालक
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_10_hi.png" alt="चित्र 6.10" onclick="openImageModal(this.src, 'चित्र 6.10: fdlh ,dleku] dky Lora=k (time independent) pqacdh; {ks=k esa ,d xfreku ½tq pkyd ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.10</strong> fdlh ,dleku] dky Lora=k (time independent) pqacdh; {ks=k esa ,d xfreku ½tq pkyd ij fopkj dhft,A fp=k 6.10 esa ,d vk;rkdkj pkyd PQRS n'kkZ;k x;k gS ftlesa pkyd</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 PQ स्वतंत्र रूप से गति कर सकता है। छड़ PQ को स्थिर वेग
 v से बाईं ओर, चित्र में दर्शाए अनुसार, चलाया जाता है। मान
 लीजिए कि घर्षण के कारण किसी प्रकार का ऊर्जा का क्षय नहीं
@@ -994,7 +1027,7 @@ RQ = x तथा RS = 1, तो लूप PQRS से घिरा चुंब�
 परिवर्तन की दर के कारण एक प्रेरित विद्युत वाहक बल उत्पन्न
 होगा जिसका मान होगा
 
-Reprint 2026-27
+
 
 
 ---
@@ -1089,11 +1122,20 @@ F = q (E + v × B) = qE
 उदाहरण 6.6 एक मीटर लंबी धातु की एक छड़ को 50 चक्कर/सेंकड की आवृत्ति से घुमाया
 गया है। छड़ का एक सिरा वृत्ताकार धात्विक वलय जिसकी त्रिज्या 1 मीटर है, के केन्द्र पर तथा
 दूसरा सिरा वलय की परिधि पर कब्ज़े से इस प्रकार जुड़ा है कि छड़ की गति वलय के केन्द्र से
-जाने वाले तथा वलय के तल में अभिलंबवत अक्ष के परित: है (चित्र 6.11)। अक्ष के अनुदिश
+जाने वाले तथा वलय के तल में अभिलंबवत अक्ष के परित: है (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_11_hi.png" alt="चित्र 6.11" onclick="openImageModal(this.src, 'चित्र 6.11: fp=k 6.11 gy izFke fofèk % tc NM+ ?kw.kZu djrh gS rks NM+ esa eqDr bysDVªkWu yks...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.11</strong> fp=k 6.11 gy izFke fofèk % tc NM+ ?kw.kZu djrh gS rks NM+ esa eqDr bysDVªkWu yksjsat cy osQ dkj.k ckgjh fljs dh vksj xfr djrs gSa rFkk oy; osQ Åij forfjr gks tkrs gSaA bl izdkj] vkos'kksa osQ ifj.kkeh i`FkDdj.k osQ dkj.k NM+ osQ fljksa osQ chp ,d fo|qr okgd cy mRiUu gksrk gSA fo|qr okgd cy osQ ,d fuf'pr eku osQ fy, bysDVªkWuksa dk vkSj vfèkd izokg ugha gksrk rFkk ,d LFkk;h n'kk igq¡p tkrh gSA lehdj.k (6-5) dk mi;ksx djus ij] tc NM+ pqacdh; {ks=k osQ yacor xfreku gS rks bldh yackbZ dr osQ vkj&ikj mRiUu fo|qr okgd cy dk ifjek.k izkIr gksxk</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 एक स्थिर तथा एकसमान चुंबकीय क्षेत्र 1T सर्वत्र उपस्थित है। केन्द्र तथा धात्विक वलय के बीच
 विद्युत वाहक बल क्या होगा?
 
-Reprint 2026-27
+
 
 उदाहरण 6.6
 
@@ -1336,7 +1378,7 @@ dt
 
 यह व्यंजक प्रथम विधि द्वारा प्राप्त व्यंजक के अनुरूप ही है और हम ६ का समान मान पाते हैं।
 
-Reprint 2026-27
+
 
 
 ---
@@ -1403,13 +1445,18 @@ B
 इसे H द्वारा व्यक्त किया जाता है। यह नाम जोसेफ हेनरी के सम्मान में रखा गया है जिन्होंने इंग्लैंड
 के वैज्ञानिक फैराडे से अलग अमेरिका में वैद्युत चुंबकीय प्रेरण की खोज की।
 
-6.7.1 अन्योन्य प्रेरकत्व
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_12_hi.png" alt="चित्र 6.12" onclick="openImageModal(this.src, 'चित्र 6.12: 6.7.1 vU;ksU; izsjdRo fp=k 6.12 esa n&#39;kkZ;h xbZ nks yach lek{kh (co-axial) i...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.12</strong> 6.7.1 vU;ksU; izsjdRo fp=k 6.12 esa n'kkZ;h xbZ nks yach lek{kh (co-axial) ifjukfydkvksa (solenoids) ftudh izR;sd dh yackbZ l gS] ij fopkj dhft,A ge var% ifjukfydk S1</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
-चित्र 6.12 में दर्शायी गई दो लंबी समाक्षी (co-axial) परिनालिकाओं (solenoids) जिनकी
 प्रत्येक की लंबाई 1है, पर विचार कीजिए। हम अंतः परिनालिका S₁ की त्रिज्या r₁ तथा उसकी इकाई
 लंबाई में फेरों की संख्या को n₁ द्वारा व्यक्त करते हैं। बाह्य परिनालिका S₂ के लिए संगत राशियाँ
 
-Reprint 2026-27
+
 
 163
 
@@ -1519,7 +1566,7 @@ M12 = M21= M (माना)
 से आबद्ध फ्लक्स की गणना करना अत्यंत कठिन होगा क्योंकि अंतःपरिनालिका के कारण चुंबकीय
 क्षेत्र बाह्य परिनालिका की लंबाई तथा साथ-ही-साथ अनुप्रस्थ काट के आर-पार परिवर्तित होगा।
 
-Reprint 2026-27
+
 
 12
 
@@ -1631,7 +1678,7 @@ dt
 
 165
 
-Reprint 2026-27
+
 
 
 ---
@@ -1721,7 +1768,7 @@ L = μ, μ₁ n² Al
 (6.16)
 कुंडली का स्वप्रेरकत्व उसकी ज्यामितीय संरचना तथा माध्यम की चुंबकशीलता पर निर्भर है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -1845,7 +1892,7 @@ UB = LI²
 
 167
 
-Reprint 2026-27
+
 
 
 ---
@@ -1937,32 +1984,13 @@ E
 लेकिन वे व्यापक हैं तथा विश्व के किसी भी ऐसे स्थान के लिए सत्य है जिसमें कोई चुंबकीय क्षेत्र
 अथवा/और विद्युतीय क्षेत्र विद्यमान है।
 
-कुंडली
-
-धुरी
-
-6.8 प्रत्यावर्ती धारा जनित्र
-
-सर्पी
-वलय
-
-168
-
-N
-
-Leeeee
-
-elele
-
-कार्बन
-
-ब्रश
-
-S
-
-प्रत्यावर्ती emf
-
-चित्र 6.13 प्रत्यावर्ती धारा जनित्र।
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_13_hi.png" alt="चित्र 6.13" onclick="openImageModal(this.src, 'चित्र 6.13: izR;korhZ èkkjk tfu=k osQ ewy vo;o fp=k 6.13 esa n&#39;kkZ, x, gSaA blesa ,d oqa...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.13</strong> izR;korhZ èkkjk tfu=k osQ ewy vo;o fp=k 6.13 esa n'kkZ, x, gSaA blesa ,d oqaQMyh gksrh gS tks jksVj 'kSÝV (roter shaft) ij</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
 
 विद्युत चुंबकीय प्रेरण परिघटना का प्रौद्योगिक रूप से कई प्रकार
 से उपयोग किया गया है। एक असाधारण तथा महत्वपूर्ण उपयोग
@@ -1983,7 +2011,7 @@ S
 प्रत्यावर्ती धारा जनित्र के मूल अवयव चित्र 6.13 में दर्शाए गए
 हैं। इसमें एक कुंडली होती है जो रोटर शैफ्ट (roter shaft) पर
 
-Reprint 2026-27
+
 
 
 ---
@@ -2033,7 +2061,15 @@ Published
 
 क्योंकि ज्या फलन (sine function) का मान +1 से−1 के बीच बदलता है,
 
-बल का चिह्न या ध्रुवता समय के साथ परिवर्तित होता है। चित्र 6.14 से नोट कीजिए कि जब
+बल का चिह्न या ध्रुवता समय के साथ परिवर्तित होता है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_14_hi.png" alt="चित्र 6.14" onclick="openImageModal(this.src, 'चित्र 6.14: ε = ε0 sin ωt (6.20) D;ksafd T;k iQyu (sine function) dk eku +1 ls –1 osQ chp cn...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.14</strong> ε = ε0 sin ωt (6.20) D;ksafd T;k iQyu (sine function) dk eku +1 ls –1 osQ chp cnyrk gS] fo|qr okgd cy dk fpÉ ;k èkzqork le; osQ lkFk ifjo£rr gksrk gSA fp=k 6.14 ls uksV dhft, fd tc θ = 90° ;k θ = 270° gksrk gS rks fo|qr okgd cy vius pje eku ij gksrk gS D;ksafd bu ¯cnqvksa ij ÝyDl esa ifjorZu vfèkdre gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
 
 0 = 90° या 0 = 270° होता है तो विद्युत वाहक बल अपने चरम मान पर होता है क्योंकि इन बिंदुओं
 
@@ -2162,7 +2198,7 @@ T
 
 चित्र 6.14 एक चुंबकीय क्षेत्र में घूर्णन करते तार के लूप में एक प्रत्यावर्ती विद्युत वाहक बल उत्पन्न होता है।
 
-Reprint 2026-27
+
 
 169
 
@@ -2241,7 +2277,7 @@ dt
 उस दिशा में धारा प्रवाहित करे, जो उसी परिवर्तन का विरोध करे जिसके कारण उसकी
 उत्पत्ति हुई है। फैराडे द्वारा निष्पादित व्यंजक में ऋण चिह्न इसी बात का द्योतक है।
 
-Reprint 2026-27
+
 
 
 ---
@@ -2365,7 +2401,7 @@ H (हेनरी)
 आस्टेंड, ऐम्पियर एवं अन्य द्वारा किए गए प्रयोगों ने सिद्ध कर दिया कि गतिमान आवेश (धारा)
 चुंबकीय क्षेत्र की उत्पत्ति करते हैं। कुछ समय पश्चात सन 1830 के आसपास फैराडे तथा हेनरी
 
-Reprint 2026-27
+
 
 171
 
@@ -2393,13 +2429,15 @@ q (v × B) पद क्रियात्मक नहीं है] तब भ
 प्रेरित विद्युत वाहक बल उत्पन्न होता है। अतः स्थिर चुंबकीय क्षेत्र में गतिमान आवेश एवं समय
 के साथ परिवर्ती चुंबकीय क्षेत्र में स्थिर आवेश फैराडे के नियम के लिए सममित स्थिति में प्रतीत
 होते हैं। यह फैराडे के नियम के लिए सापेक्षता के सिद्धांत की प्रासंगिकता पर पर ललचाने वाला
-संकेत देता है।
 
-अभ्यास
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_15_hi.png" alt="चित्र 6.15" onclick="openImageModal(this.src, 'चित्र 6.15: 6.1 fp=k 6.15 (a) ls (f) esa o£.kr fLFkfr;ksa osQ fy, izsfjr /kjk dh fn&#39;kk d...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.15</strong> 6.1 fp=k 6.15 (a) ls (f) esa o£.kr fLFkfr;ksa osQ fy, izsfjr /kjk dh fn'kk dh izkxqfDr (predict) dhft,A</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
 
-6.1
-
-चित्र 6.15 (a) से (f)
 कीजिए।
 
 से (1) में वर्णित सि
@@ -2469,17 +2507,20 @@ Z
 
 चित्र 6.15
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 22
 
-6.2
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_16_hi.png" alt="चित्र 6.16" onclick="openImageModal(this.src, 'चित्र 6.16: 6.2 fp=k 6.16 esa o£.kr fLFkfr;ksa osQ fy, ysat osQ fu;e dk mi;ksx djrs gq, izsf...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 6.16</strong> 6.2 fp=k 6.16 esa o£.kr fLFkfr;ksa osQ fy, ysat osQ fu;e dk mi;ksx djrs gq, izsfjr fo|qr /kjk dh fn'kk Kkr dhft,A (a) tc vfu;fer vkdkj dk rkj o`Ùkkdkj ywi esa cny jgk gks_ (b) tc ,d o`Ùkkdkj ywi ,d lh/s ckjhd rkj esa fo:fir fd;k tk jgk gksA</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
 
-वैद्युतचुंबकीय प्रेरण
-
-चित्र 6.16 में वर्णित स्थितियों के लिए लेंज के नियम का उपयोग करते हुए प्रेरित विद्युत धारा
 की दिशा ज्ञात कीजिए।
 
 (a) जब अनियमित आकार का तार वृत्ताकार लूप में बदल रहा हो;
@@ -2565,5 +2606,5 @@ a
 
 173
 
-Reprint 2026-27
+
 

@@ -9,7 +9,7 @@ CHAPTER FOURTEEN
 
 WAVES
 
-11087CH15
+
 
 14.1
 
@@ -83,7 +83,7 @@ ple, sound waves may be first converted into an electric cur-
 rent signal which in turn may generate an electromagnetic
 wave that may be transmitted by an optical cable or via a
 
-Reprint 2025-26
+
 
 
 ---
@@ -156,7 +156,15 @@ We shall illustrate this connection through
 simple examples.
 
 Consider a collection of springs connected to
-one another as shown in Fig. 14.1. If the spring
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_1.png" alt="Fig. 14.1" onclick="openImageModal(this.src, 'Fig. 14.1: Consider a collection of springs connected to one another as shown in Fig. 14.1....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.1</strong> Consider a collection of springs connected to one another as shown in Fig. 14.1. If the spring at one end is pulled suddenly and released, the disturbance travels to the other end. What has</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 at one end is pulled suddenly and released, the
 disturbance travels to the other end. What has
 
@@ -205,7 +213,7 @@ rarefaction moves from one region to another,
 making the propagation of a disturbance
 possible in air.
 
-Reprint 2025-26
+
 
 
 ---
@@ -243,7 +251,14 @@ propagation, we call the wave a longitudinal
 
 wave.
 
-Fig.14.2 shows the propagation of a single
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_2.png" alt="Fig. 14.2" onclick="openImageModal(this.src, 'Fig. 14.2: Fig.14.2 shows the propagation of a single pulse along a string, resulting from ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.2</strong> Fig.14.2 shows the propagation of a single pulse along a string, resulting from a single up and down jerk. If the string is very long compared</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 pulse along a string, resulting from a single up
 and down jerk. If the string is very long compared
 
@@ -260,7 +275,16 @@ direction)
 
 to the size of the pulse, the pulse will damp out
 before it reaches the other end and reflection
-from that end may be ignored. Fig. 14.3 shows a
+from that end may be ignored.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_3.png" alt="Fig. 14.3" onclick="openImageModal(this.src, 'Fig. 14.3: Fig. 14.3 A harmonic (sinusoidal) wave travelling...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.3</strong> Fig. 14.3 A harmonic (sinusoidal) wave travelling</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 similar situation, but this time the external
 agent gives a continuous periodic sinusoidal up
 and down jerk to one end of the string. The
@@ -297,7 +321,14 @@ is to fix a location i.e. fix our attention on a
 particular element of string and see its
 oscillatory motion in time.
 
-Fig. 14.4 describes the situation for
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_4.png" alt="Fig. 14.4" onclick="openImageModal(this.src, 'Fig. 14.4: Fig. 14.4 describes the situation for longitudinal waves in the most familiar ex...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.4</strong> Fig. 14.4 describes the situation for longitudinal waves in the most familiar example of the propagation of sound waves. A long pipe filled with air has a piston at one end. A single sudden push forward and pull back of the piston will generate a pulse of condensations (higher density) and rarefactions (lower density) in the medium (air). If the push-pull of the piston is continuous and periodic (sinusoidal), a</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 longitudinal waves in the most familiar example
 of the propagation of sound waves. A long pipe
 filled with air has a piston at one end. A single
@@ -315,7 +346,7 @@ and down. A volume element of air oscillates
 in the direction parallel to the direction of
 wave propagation.
 
-Reprint 2025-26
+
 
 
 ---
@@ -463,7 +494,7 @@ represents a sinusoidal travelling wave, take a
 fixed instant, say t = to. Then, the argument of
 the sine function in Equation (14.2) is simply
 
-Reprint 2025-26
+
 
 
 ---
@@ -562,14 +593,22 @@ kx-wt+
 
 : initial phase angle (a+x= 0, t = 0)
 
-= 0, t= 0)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_5.png" alt="Fig. 14.5" onclick="openImageModal(this.src, 'Fig. 14.5: Fig. 14.5 The meaning of standard symbols in...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.5</strong> Fig. 14.5 The meaning of standard symbols in</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
-Fig. 14.5 The meaning of standard symbols in
-Eq. (14.2)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_6.png" alt="Fig. 14.6" onclick="openImageModal(this.src, 'Fig. 14.6: Fig. 14.6 shows the plots of Eq. (14.2) for different values of time differing b...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.6</strong> Fig. 14.6 shows the plots of Eq. (14.2) for different values of time differing by equal intervals of time. In a wave, the crest is the point of maximum positive displacement, the trough is the point of maximum negative displacement. To see how a wave travels, we can fix attention on a crest and see how it progresses with time. In the figure, this is shown by a cross (×) on the crest. In the same manner, we can see the motion of a particular constituent of the medium at a fixed location, say at the origin of the x-axis. This is shown by a solid dot (•). The plots of Fig. 14.6 show that with time, the solid dot (•) at the origin moves periodically, i.e., the particle at the origin oscillates about its mean position as the wave progresses. This is true for any other location also. We also see that during the time the solid dot (•) has completed one full oscillation, the crest has moved further by a certain distance.</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
-(e)
-
-Fig. 14.6 A harmonic wave progressing along the
 positive direction of x-axis at different times.
 
 Using the plots of Fig. 14.6, we now define
@@ -623,7 +662,7 @@ and the intial time, it is possible to have ¢ = 0.
 Thus there is no loss of generality in dropping
 4, i.e., in taking Eq. (14.2) with ф = 0.
 
-Reprint 2025-26
+
 
 
 ---
@@ -659,20 +698,14 @@ k
 
 That is the displacements at points x and at
 
-x+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_7.png" alt="Fig. 14.7" onclick="openImageModal(this.src, 'Fig. 14.7: Fig. 14.7 shows again a sinusoidal plot. It describes not the shape of the wave ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.7</strong> Fig. 14.7 shows again a sinusoidal plot. It describes not the shape of the wave at a certain instant but the displacement of an element (at any fixed location) of the medium as a function of time. We may for, simplicity, take Eq. (14.2) with φ = 0 and monitor the motion of the element say at 0 x = . We then get</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
-2ηπ
-k
-
-y
-
-a
-
-T
-
-t
-
-Fig. 14.7 An element of a string at a fixed location
 oscillates in time with amplitude a and
 period T, as the wave passes over it.
 
@@ -777,7 +810,7 @@ Here again, 'radian' could be dropped and the units could be written merely as m
 times the number of waves (or the total phase difference) that can be accommodated per unit length, with SI
 units m¹.
 
-Reprint 2025-26
+
 
 
 ---
@@ -838,17 +871,15 @@ which differ by a small time internal At. The
 entire wave pattern is seen to shift to the right
 (positive direction of x-axis) by a distance Ax. In
 particular, the crest shown by a dot (•) moves a
-y
 
-t
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_8.png" alt="Fig. 14.8" onclick="openImageModal(this.src, 'Fig. 14.8: To determine the speed of propagation of a travelling wave, we can fix our atten...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.8</strong> To determine the speed of propagation of a travelling wave, we can fix our attention on any particular point on the wave (characterised by some value of the phase) and see how that point moves in time. It is convenient to look at the motion of the crest of the wave. Fig. 14.8 gives</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
-AX
-
-t+At
-
-x+
-
-Fig. 14.8 Progression of a harmonic wave from time
 t to t + At. where At is a small interval.
 The wave pattern as a whole shifts to the
 right. The crest of the wave (or a point with
@@ -942,7 +973,7 @@ density in general) and elastic properties (Young's
 modulus for linear media/ shear modulus, bulk
 modulus) of the medium. The medium determines
 
-Reprint 2025-26
+
 
 
 ---
@@ -1111,7 +1142,7 @@ propagation of wave is the mass density p, with
 dimensions [ML-³]. Simple inspection reveals
 that quantity B/p has the relevant dimension:
 
-Reprint 2025-26
+
 
 
 ---
@@ -1313,7 +1344,7 @@ mole of air at STP)
 
 = 1.29 kg m³
 
-Reprint 2025-26
+
 
 
 ---
@@ -1401,7 +1432,15 @@ OF WAVES
 
 What happens when two wave pulses travelling
 in opposite directions cross each other
-(Fig. 14.9)? It turns out that wave pulses
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_9.png" alt="Fig. 14.9" onclick="openImageModal(this.src, 'Fig. 14.9: What happens when two wave pulses travelling in opposite directions cross each o...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.9</strong> What happens when two wave pulses travelling in opposite directions cross each other (Fig. 14.9)? It turns out that wave pulses continue to retain their identities after they have crossed. However, during the time they overlap, the wave pattern is different from either of the</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 continue to retain their identities after they have
 crossed. However, during the time they overlap,
 the wave pattern is different from either of the
@@ -1467,7 +1506,7 @@ medium the resultant waveform is the sum of
 wave functions of individual waves. That is, if
 the wave functions of the moving waves are
 
-Reprint 2025-26
+
 
 
 ---
@@ -1531,37 +1570,14 @@ X
 
 Ø=0
 
--a
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_10.png" alt="Fig. 14.10" onclick="openImageModal(this.src, 'Fig. 14.10: y (x, t) = 0 (14.34) Eq. (14.33) refers to the so-called constructive interferen...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.10</strong> y (x, t) = 0 (14.34) Eq. (14.33) refers to the so-called constructive interference of the two waves where the amplitudes add up in the resultant wave. Eq. (14.34) is the case of destructive intereference where the amplitudes subtract out in the resultant wave. Fig. 14.10 shows these two cases of interference of waves arising from the principle of superposition.</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
 
--2a
-
-0
-
-a
-
-0
-
-y
-
--a
-
-=πrad
-
-(a)
-
-y
-
-←
-
-X
-
-X
-
-(b)
-
-X
-
-Fig. 14.10 The resultant of two harmonic waves of
 equal amplitude and wavelength
 according to the principle of superposition.
 The amplitude of the resultant wave
@@ -1642,7 +1658,7 @@ unbounded medium. What happens if a pulse
 or a wave meets a boundary? If the boundary is
 rigid, the pulse or wave gets reflected. The
 
-Reprint 2025-26
+
 
 
 ---
@@ -1665,7 +1681,14 @@ reflected waves obey the usual laws of
 
 reflection.
 
-Fig. 14.11 shows a pulse travelling along a
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_11.png" alt="Fig. 14.11" onclick="openImageModal(this.src, 'Fig. 14.11: Fig. 14.11 shows a pulse travelling along a stretched string and being reflected...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.11</strong> Fig. 14.11 shows a pulse travelling along a stretched string and being reflected by the boundary. Assuming there is no absorption of energy by the boundary, the reflected wave has the same shape as the incident pulse but it suffers a phase change of π or 1800 on reflection. This is because the boundary is rigid and the disturbance must have zero displacement at all times at the boundary. By the principle of superposition, this is possible only if the reflected and incident waves differ by a phase of π, so that the resultant displacement is zero. This reasoning is based on boundary condition on a rigid wall. We can arrive at the same conclusion dynamically also. As the pulse arrives at the wall, it exerts a force on the wall. By Newton’s Third Law, the wall exerts an equal and opposite force on the string generating a reflected pulse that differs by a phase of π.</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
 stretched string and being reflected by the
 boundary. Assuming there is no absorption of
 energy by the boundary, the reflected wave has
@@ -1771,7 +1794,7 @@ to the principle of superposition:
 
 y(x, t) = y₁(x, t) + y₂(x, t)
 
-Reprint 2025-26
+
 
 
 ---
@@ -1811,7 +1834,16 @@ locations. The points at which the amplitude is
 zero (i.e., where there is no motion at all) are
 
 nodes; the points at which the amplitude is the
-largest are called antinodes. Fig. 14.12 shows
+largest are called antinodes.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_12.png" alt="Fig. 14.12" onclick="openImageModal(this.src, 'Fig. 14.12: nodes; the points at which the amplitude is the largest are called antinodes. Fi...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.12</strong> nodes; the points at which the amplitude is the largest are called antinodes. Fig. 14.12 shows a stationary wave pattern resulting from superposition of two travelling waves in opposite directions.</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 a stationary wave pattern resulting from
 superposition of two travelling waves in
 opposite directions.
@@ -1869,7 +1901,7 @@ N
 Fig. 14.12 Stationary waves arising from superposition of two harmonic waves travelling in opposite directions.
 Note that the positions of zero displacement (nodes) remain fixed at all times.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1910,7 +1942,14 @@ second harmonic; n = 3 is the third harmonic
 and so on. We can label the various harmonics by
 the symbol v (n = 1, 2, ...).
 
-Fig. 14.13 shows the first six harmonics of a
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_13.png" alt="Fig. 14.13" onclick="openImageModal(this.src, 'Fig. 14.13: Fig. 14.13 shows the first six harmonics of a stretched string fixed at either e...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.13</strong> Fig. 14.13 shows the first six harmonics of a stretched string fixed at either end. A string need not vibrate in one of these modes only. Generally, the vibration of a string will be a superposition of different modes; some modes may be more strongly excited and some less. Musical instruments like sitar or violin are based on this principle. Where the string is plucked or bowed, determines which modes are more prominent than others.</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
+
 stretched string fixed at either end. A string
 need not vibrate in one of these modes only.
 Generally, the vibration of a string will be a
@@ -2123,7 +2162,7 @@ Fig. 14.13 The first six harmonics of vibrations of a stretched
 
 string fixed at both ends.
 
-Reprint 2025-26
+
 
 
 ---
@@ -2202,7 +2241,24 @@ are odd harmonics, i.e., odd multiples of the
 4L
 
 fundamental frequency : 3,5, etc.
-Fig. 14.14 shows the first six odd harmonics of
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_14.png" alt="Fig. 14.14" onclick="openImageModal(this.src, 'Fig. 14.14: Fig. 14.14 shows the first six odd harmonics of air column with one end closed a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.14</strong> Fig. 14.14 shows the first six odd harmonics of air column with one end closed and the other open. For a pipe open at both ends, each end is an antinode. It is then easily seen that an open air column at both ends generates all harmonics (See
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_15.png" alt="Fig. 14.15" onclick="openImageModal(this.src, 'Fig. 14.15: First few modes of an open pipe are shown in Fig. 14.15. For L = 30.0 cm, v = 33...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.15</strong> First few modes of an open pipe are shown in Fig. 14.15. For L = 30.0 cm, v = 330 m s–1,</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
+
+<button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
+
 air column with one end closed and the other
 open. For a pipe open at both ends, each end is
 an antinode. It is then easily seen that an open
@@ -2292,7 +2348,7 @@ third
 fifth
 first harmonic harmonic harmonic
 
-Reprint 2025-26
+
 
 
 ---
@@ -2461,7 +2517,7 @@ term cos ot takes its limit +1 or −1. In other
 words, the intensity of the resultant wave waxes
 and wanes with a frequency which is 2‰ = ω₁
 
-Reprint 2025-26
+
 
 
 ---
@@ -2472,13 +2528,15 @@ Reprint 2025-26
 PHYSICS
 
 @2. Since @ = 2πν, the beat frequency vbeat is
-given by
 
-Vbeat = V1-V2
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_16.png" alt="Fig. 14.16" onclick="openImageModal(this.src, 'Fig. 14.16: νbeat = ν1 – ν2 (14.48) Fig. 14.16 illustrates the phenomenon of beats for two h...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 14.16</strong> νbeat = ν1 – ν2 (14.48) Fig. 14.16 illustrates the phenomenon of beats for two harmonic waves of frequencies 11 Hz and 9 Hz. The amplitude of the resultant wave shows beats at a frequency of 2 Hz.</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
 
-(14.48)
-
-Fig. 14.16 illustrates the phenomenon of
 beats for two harmonic waves of frequencies 11
 Hz and 9 Hz. The amplitude of the resultant wave
 shows beats at a frequency of 2 Hz.
@@ -2592,7 +2650,7 @@ B
 
 A
 
-Reprint 2025-26
+
 
 
 ---
@@ -2665,7 +2723,7 @@ or gases. The speed v of sound wave in a fluid having bulk modulus B and density
 
 For gases, since B = yP, the speed of sound is
 
-Reprint 2025-26
+
 
 295
 
@@ -2776,7 +2834,7 @@ Vbeat =
 
 V1 V2
 
-Reprint 2025-26
+
 
 
 ---
@@ -2909,7 +2967,7 @@ increases with temperature,
 
 (c) increases with humidity.
 
-Reprint 2025-26
+
 
 297
 
@@ -2996,7 +3054,7 @@ Does the function represent a travelling wave or a stationary wave?
 (b) Interpret the wave as a superposition of two waves travelling in opposite
 directions. What is the wavelength, frequency, and speed of each wave?
 
-Reprint 2025-26
+
 
 PHYSICS
 
@@ -3094,5 +3152,5 @@ the shape of a pulse gets distorted during propagation in a dispersive medium.
 
 no
 
-Reprint 2025-26
+
 

@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11087CH10
+
 
 CHAPTER NINE
 
@@ -89,7 +89,7 @@ wider contact area (say the back of a spoon) is pressed against
 it with the same force. If an elephant were to step on a man's
 chest, his ribs would crack. A circus performer across whose
 
-Reprint 2025-26
+
 
 
 ---
@@ -117,7 +117,14 @@ will cause the fluid to flow parallel to the surface.
 Since the fluid is at rest, this cannot happen.
 Hence, the force exerted by the fluid at rest has
 to be perpendicular to the surface in contact
-with it. This is shown in Fig.9.1(a).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_1.png" alt="Fig. 9.1" onclick="openImageModal(this.src, 'Fig. 9.1: When an object is submerged in a fluid at rest, the fluid exerts a force on its ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.1</strong> When an object is submerged in a fluid at rest, the fluid exerts a force on its surface. This force is always normal to the object’s surface. This is so because if there were a component of force parallel to the surface, the object will also exert a force on the fluid parallel to it; as a consequence of Newton’s third law. This force will cause the fluid to flow parallel to the surface. Since the fluid is at rest, this cannot happen. Hence, the force exerted by the fluid at rest has to be perpendicular to the surface in contact with it. This is shown in Fig.9.1(a).</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 The normal force exerted by the fluid at a point
 may be measured. An idealised form of one such
@@ -267,7 +274,7 @@ p (kg m³)
 
 ≈ 10-20
 
-Reprint 2025-26
+
 
 
 ---
@@ -303,7 +310,13 @@ the pressure in a fluid at rest is the same at all
 points if they are at the same height. This fact
 may be demonstrated in a simple way.
 
-Fig. 9.2
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_2.png" alt="Fig. 9.2" onclick="openImageModal(this.src, 'Fig. 9.2: Fig. 9.2 shows an element in the interior of a fluid at rest. This element ABC-D...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.2</strong> Fig. 9.2 shows an element in the interior of a fluid at rest. This element ABC-DEF is in the form of a right-angled prism. In principle, this prismatic element is very small so that every part of it can be considered at the same depth from the liquid surface and therefore, the effect of the gravity is the same at all these points. But for clarity we have enlarged this element. The forces on this element are those exerted by the rest of the fluid and they must be normal to the surfaces of the element as discussed above. Thus, the fluid exerts pressures Pa, Pb and Pc on</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 D
 
@@ -402,7 +415,15 @@ Thus, the fluid exerts pressures P, Pand Pon
 2
 
 Consider a fluid at rest in a container. In
-Fig. 9.3 point 1 is at height h above a point 2.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_3.png" alt="Fig. 9.3" onclick="openImageModal(this.src, 'Fig. 9.3: Consider a fluid at rest in a container. In Fig. 9.3 point 1 is at height h abov...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.3</strong> Consider a fluid at rest in a container. In Fig. 9.3 point 1 is at height h above a point 2. The pressures at points 1 and 2 are P1 and P2 respectively. Consider a cylindrical element of fluid having area of base A and height h. As the fluid is at rest the resultant horizontal forces should be zero and the resultant vertical forces should balance the weight of the element. The forces acting in the vertical direction are due to the fluid pressure at the top (P1A) acting downward, at the bottom (P2A) acting upward. If mg is weight of the fluid in the cylinder we have</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 The pressures at points 1 and 2 are P and P₂
 respectively. Consider a cylindrical element of
 fluid having area of base A and height h. As the
@@ -426,7 +447,7 @@ P2-P₁= pgh
 
 (9.6)
 
-Reprint 2025-26
+
 
 
 ---
@@ -483,7 +504,15 @@ of the container. The liquid pressure is the same
 at all points at the same horizontal level (same
 depth). The result is appreciated through the
 example of hydrostatic paradox. Consider three
-vessels A, B and C [Fig.9.4] of different shapes.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_4.png" alt="Fig. 9.4" onclick="openImageModal(this.src, 'Fig. 9.4: The area of the cylinder is not appearing in the expression of absolute pressure...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.4</strong> The area of the cylinder is not appearing in the expression of absolute pressure in Eq. (9.7). Thus, the height of the fluid column is important and not cross-sectional or base area or the shape of the container. The liquid pressure is the same at all points at the same horizontal level (same depth). The result is appreciated through the example of hydrostatic paradox. Consider three vessels A, B and C [Fig.9.4] of different shapes. They are connected at the bottom by a horizontal pipe. On filling with water, the level in the three vessels is the same, though they hold different amounts of water. This is so because water at the bottom has the same pressure below each section of the vessel.</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 They are connected at the bottom by a horizontal
 pipe. On filling with water, the level in the three
 vessels is the same, though they hold different
@@ -541,7 +570,16 @@ Evangelista Torricelli (1608–1647) devised for
 the first time a method for measuring
 atmospheric pressure. A long glass tube closed
 at one end and filled with mercury is inverted
-into a trough of mercury as shown in Fig.9.5 (a).
+into a trough of mercury as shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_5.png" alt="Fig. 9.5" onclick="openImageModal(this.src, 'Fig. 9.5: The pressure of the atmosphere at any point is equal to the weight of a column o...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.5</strong> The pressure of the atmosphere at any point is equal to the weight of a column of air of unit cross-sectional area extending from that point to the top of the atmosphere. At sea level, it is 1.013 × 105 Pa (1 atm). Italian scientist Evangelista Torricelli (1608–1647) devised for the first time a method for measuring atmospheric pressure. A long glass tube closed at one end and filled with mercury is inverted into a trough of mercury as shown in Fig.9.5 (a). This device is known as ‘mercury barometer’. The space above the mercury column in the tube contains only mercury vapour whose pressure P is so small that it may be neglected. Thus, the pressure at Point A=0. The pressure inside the coloumn at Point B must be the same as the pressure at Point C, which is atmospheric pressure, Pa.</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 This device is known as 'mercury barometer'.
 The space above the mercury column in the tube
 contains only mercury vapour whose pressure
@@ -556,7 +594,7 @@ P = pgh
 where p is the density of mercury and h is the
 height of the mercury column in the tube.
 
-Reprint 2025-26
+
 
 
 ---
@@ -673,7 +711,7 @@ g = 10 m s¯².)
 
 X
 
-Reprint 2025-26
+
 
 
 ---
@@ -732,7 +770,15 @@ Let us now consider what happens when we
 change the pressure on a fluid contained in a
 vessel. Consider a horizontal cylinder with a
 piston and three vertical tubes at different points
-[Fig. 9.6 (a)]. The pressure in the horizontal
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_6.png" alt="Fig. 9.6" onclick="openImageModal(this.src, 'Fig. 9.6: Let us now consider what happens when we change the pressure on a fluid containe...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.6</strong> Let us now consider what happens when we change the pressure on a fluid contained in a vessel. Consider a horizontal cylinder with a piston and three vertical tubes at different points [Fig. 9.6 (a)]. The pressure in the horizontal cylinder is indicated by the height of liquid column in the vertical tubes. It is necessarily the same in all. If we push the piston, the fluid level rises in all the tubes, again reaching the same level in each one of them.</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 cylinder is indicated by the height of liquid
 column in the vertical tubes. It is necessarily
 the same in all. If we push the piston, the fluid
@@ -823,7 +869,7 @@ larger piston move out?
 Answer (a) Since pressure is transmitted
 undiminished throughout the fluid,
 
-Reprint 2025-26
+
 
 
 ---
@@ -964,19 +1010,14 @@ expanding the brake shoes against brake lining.
 In this way, a small force on the pedal produces
 a large retarding force on the wheel. An
 
-P
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_7.png" alt="Fig. 9.7" onclick="openImageModal(this.src, 'Fig. 9.7: Fig. 9.7 The meaning of streamlines. (a) A typical trajectory of a fluid particl...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.7</strong> Fig. 9.7 The meaning of streamlines. (a) A typical trajectory of a fluid particle. (b) A region of streamline flow.</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
-P
-
-(a)
-
-R
-
-(b)
-
-Q
-
-Fig. 9.7 The meaning of streamlines. (a) A typical
 trajectory of a fluid particle.
 (b) A region of streamline flow.
 
@@ -988,7 +1029,7 @@ Consider the path of a particle as shown in
 Fig.9.7 (a), the curve describes how a fluid
 particle moves with time. The curve PQ is like a
 
-Reprint 2025-26
+
 
 
 ---
@@ -1068,7 +1109,14 @@ stream encounters rocks, small foamy
 whirlpool-like regions called 'white water
 rapids are formed.
 
-Figure 9.8 displays streamlines for some
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_8.png" alt="Fig. 9.8" onclick="openImageModal(this.src, 'Fig. 9.8: Figure 9.8 displays streamlines for some typical flows. For example, Fig. 9.8(a)...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.8</strong> Figure 9.8 displays streamlines for some typical flows. For example, Fig. 9.8(a) describes a laminar flow where the velocities at different points in the fluid may have different magnitudes</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 typical flows. For example, Fig. 9.8(a) describes
 a laminar flow where the velocities at different
 points in the fluid may have different magnitudes
@@ -1098,7 +1146,15 @@ of energy.
 
 Consider a fluid moving in a pipe of varying
 cross-sectional area. Let the pipe be at varying
-heights as shown in Fig. 9.9. We now suppose
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_9.png" alt="Fig. 9.9" onclick="openImageModal(this.src, 'Fig. 9.9: Consider a fluid moving in a pipe of varying cross-sectional area. Let the pipe ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.9</strong> Consider a fluid moving in a pipe of varying cross-sectional area. Let the pipe be at varying heights as shown in Fig. 9.9. We now suppose that an incompressible fluid is flowing through the pipe in a steady flow. Its velocity must change as a consequence of equation of continuity. A force is required to produce this acceleration, which is caused by the fluid surrounding it, the pressure must be different in different regions. Bernoulli’s equation is a general expression that relates the pressure difference between two points in a pipe to both velocity changes (kinetic energy change) and elevation (height) changes (potential energy change). The Swiss Physicist Daniel Bernoulli developed this relationship in 1738.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 that an incompressible fluid is flowing through
 the pipe in a steady flow. Its velocity must
 change as a consequence of equation of
@@ -1132,7 +1188,7 @@ at the other end (DE) is W₂ = P2A₂(v2∆t) = P2∆Vor,
 
 1
 
-Reprint 2025-26
+
 
 
 ---
@@ -1291,7 +1347,16 @@ discovered that the speed of efflux from an open
 tank is given by a formula identical to that of a
 freely falling body. Consider a tank containing
 a liquid of density p with a small hole in its side
-at a height y, from the bottom (see Fig. 9.10).
+at a height y, from the bottom (see
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_10.png" alt="Fig. 9.10" onclick="openImageModal(this.src, 'Fig. 9.10: The word efflux means fluid outflow. Torricelli discovered that the speed of eff...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.10</strong> The word efflux means fluid outflow. Torricelli discovered that the speed of efflux from an open tank is given by a formula identical to that of a freely falling body. Consider a tank containing a liquid of density ρ with a small hole in its side at a height y1 from the bottom (see Fig. 9.10). The air above the liquid, whose surface is at height y2, is at pressure P. From the equation of continuity [Eq. (9.10)] we have</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 The air above the liquid, whose surface is at
 height y₂, is at pressure P. From the equation of
 continuity [Eq. (9.10)] we have
@@ -1303,7 +1368,7 @@ A1
 U2 = U1
 A2
 
-Reprint 2025-26
+
 
 
 ---
@@ -1400,9 +1465,14 @@ from its parabolic trajectory as it moves through
 air. This deviation can be partly explained on
 the basis of Bernoulli's principle.
 
-a
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_11.png" alt="Fig. 9.11" onclick="openImageModal(this.src, 'Fig. 9.11: from its parabolic trajectory as it moves through air. This deviation can be par...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.11</strong> from its parabolic trajectory as it moves through air. This deviation can be partly explained on the basis of Bernoulli’s principle. (i) Ball moving without spin: Fig. 9.11(a) shows the streamlines around a non-spinning ball moving relative to a fluid. From the symmetry of streamlines it is clear that the velocity of fluid (air) above and below the ball at corresponding points is the same resulting in zero pressure difference. The air therefore, exerts no upward or downward force on the ball. (ii) Ball moving with spin: A ball which is</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
-(i) Ball moving without spin: Fig. 9.11(a)
 shows the streamlines around
 non-spinning ball moving relative to a
 fluid. From the symmetry of streamlines
@@ -1449,7 +1519,7 @@ dynamic lift of the wings and this balances
 the weight of the plane. The following example
 illustrates this.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1558,7 +1628,15 @@ a solid moves on a surface. It is called viscosity.
 This force exists when there is relative motion
 between layers of the liquid. Suppose we consider
 a fluid like oil enclosed between two glass plates
-as shown in Fig. 9.12 (a). The bottom plate is fixed
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_12.png" alt="Fig. 9.12" onclick="openImageModal(this.src, 'Fig. 9.12: Most of the fluids are not ideal ones and offer some resistance to motion. This ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.12</strong> Most of the fluids are not ideal ones and offer some resistance to motion. This resistance to fluid motion is like an internal friction analogous to friction when a solid moves on a surface. It is called viscosity. This force exists when there is relative motion between layers of the liquid. Suppose we consider a fluid like oil enclosed between two glass plates as shown in Fig. 9.12 (a). The bottom plate is fixed while the top plate is moved with a constant velocity v relative to the fixed plate. If oil is replaced by honey, a greater force is required to move the plate with the same velocity. Hence we say that honey is more viscous than oil. The fluid in contact with a surface has the same velocity as that of the surfaces. Hence, the layer of the liquid in contact with top surface moves with a velocity v and the layer of the liquid in contact with the fixed surface is stationary. The velocities of layers increase uniformly from bottom (zero velocity) to the top layer (velocity v). For any layer of liquid, its upper layer pulls it forward while lower layer pulls it backward. This results in force between the layers. This</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 while the top plate is moved with a constant
 velocity v relative to the fixed plate. If oil is
 replaced by honey, a greater force is required to
@@ -1575,7 +1653,7 @@ v). For any layer of liquid, its upper layer pulls
 it forward while lower layer pulls it backward.
 This results in force between the layers. This
 
-Reprint 2025-26
+
 
 
 ---
@@ -1631,23 +1709,13 @@ interesting. As Table 9.2 indicates, blood is
 relative viscosity (η/ηwater) of blood remains
 constant between 0 °C and 37 °C.
 
-A
-
-D
-
-(a)
-
-υ
-
-Film
-
-CERT
-
-be republish
-
-0.01 kg
-
-Fig. 9.13 Measurement of the coefficient of viscosity
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_13.png" alt="Fig. 9.13" onclick="openImageModal(this.src, 'Fig. 9.13: Fig. 9.13 Measurement of the coefficient of viscosity of a liquid....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.13</strong> Fig. 9.13 Measurement of the coefficient of viscosity of a liquid.</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 of a liquid.
 
@@ -1682,7 +1750,7 @@ When released the block moves to the right
 with a constant speed of 0.085 m s¯¹. Find
 the coefficient of viscosity of the liquid.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1788,9 +1856,7 @@ Blood
 
 37
 
-### 2.7
-
-Machine Oil
+### 2.7 Machine Oil
 
 16
 
@@ -1878,7 +1944,7 @@ not mix; water wets you and me but not ducks;
 mercury does not wet glass but water sticks to
 it, oil rises up a cotton wick, inspite of gravity,
 
-Reprint 2025-26
+
 
 
 ---
@@ -1909,7 +1975,15 @@ A liquid stays together because of attraction
 between molecules. Consider a molecule well
 inside a liquid. The intermolecular distances are
 such that it is attracted to all the surrounding
-molecules [Fig. 9.14(a)]. This attraction results
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_14.png" alt="Fig. 9.14" onclick="openImageModal(this.src, 'Fig. 9.14: Fig. 9.14 Schematic picture of molecules in a liquid, at the surface and balance...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.14</strong> Fig. 9.14 Schematic picture of molecules in a liquid, at the surface and balance of forces. (a) Molecule inside a liquid. Forces on a molecule due to others are shown. Direction of arrows indicates attraction of repulsion. (b) Same, for a molecule at a surface. (c) Balance of attractive (AI and repulsive (R) forces.</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
+
 in a negative potential energy for the molecule,
 which depends on the number and distribution
 of molecules around the chosen one. But the
@@ -1973,7 +2047,7 @@ Fig. 9.14 Schematic picture of molecules in a liquid, at the surface and balance
 a liquid. Forces on a molecule due to others are shown. Direction of arrows indicates attraction of
 repulsion. (b) Same, for a molecule at a surface. (c) Balance of attractive (AI and repulsive (R) forces.
 
-Reprint 2025-26
+
 
 
 ---
@@ -1986,17 +2060,14 @@ PHYSICS
 horizontal liquid film ending in bar free to slide
 over parallel guides Fig (9.15).
 
-F
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_15.png" alt="Fig. 9.15" onclick="openImageModal(this.src, 'Fig. 9.15: Fig. 9.15 Stretching a film. (a) A film in equilibrium;...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.15</strong> Fig. 9.15 Stretching a film. (a) A film in equilibrium;</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
-F
-
-(a)
-
-(b)
-
-d
-
-Fig. 9.15 Stretching a film. (a) A film in equilibrium;
 (b) The film stretched an extra distance.
 
 Suppose that we move the bar by a small
@@ -2134,7 +2205,7 @@ Mercury
 
 63.2
 
-Reprint 2025-26
+
 
 
 ---
@@ -2150,8 +2221,16 @@ smaller than the sum of surface energies
 between solid-air, and fluid-air. Now there is
 attraction between the solid surface and the
 liquid. It can be directly measured
-experimentaly as schematically shown in Fig.
-9.16. A flat vertical glass plate, below which a
+experimentaly as schematically shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_16.png" alt="Fig. 9.16" onclick="openImageModal(this.src, 'Fig. 9.16: A fluid will stick to a solid surface if the surface energy between fluid and th...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.16</strong> A fluid will stick to a solid surface if the surface energy between fluid and the solid is smaller than the sum of surface energies between solid-air, and fluid-air. Now there is attraction between the solid surface and the liquid. It can be directly measured experimentaly as schematically shown in Fig. 9.16. A flat vertical glass plate, below which a vessel of some liquid is kept, forms one arm of the balance. The plate is balanced by weights on the other side, with its horizontal edge just over water. The vessel is raised slightly till the liquid just touches the glass plate and pulls it down a little because of surface tension. Weights are added till the plate just clears water.</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
+
 vessel of some liquid is kept, forms one arm of
 the balance. The plate is balanced by weights
 on the other side, with its horizontal edge just
@@ -2165,7 +2244,15 @@ of liquids and solids. The value of 0 determines
 whether a liquid will spread on the surface of a
 solid or it will form droplets on it. For example,
 water forms droplets on lotus leaf as shown in
-Fig. 9.17 (a) while spreads over a clean plastic
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_17.png" alt="Fig. 9.17" onclick="openImageModal(this.src, 'Fig. 9.17: by θ. It is different at interfaces of different pairs of liquids and solids. Th...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.17</strong> by θ. It is different at interfaces of different pairs of liquids and solids. The value of θ determines whether a liquid will spread on the surface of a solid or it will form droplets on it. For example, water forms droplets on lotus leaf as shown in Fig. 9.17 (a) while spreads over a clean plastic plate as shown in Fig. 9.17(b).</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
+
 plate as shown in Fig. 9.17(b).
 
 Sla
@@ -2253,7 +2340,7 @@ liquid-solid surface, and liquid then does not
 wet the solid. This is what happens with water
 on a waxy or oily surface, and with mercury on
 
-Reprint 2025-26
+
 
 
 ---
@@ -2301,7 +2388,15 @@ liquid drops would be spherical.
 
 Another interesting consequence of surface
 tension is that the pressure inside a spherical
-drop Fig. 9.18(a) is more than the pressure
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_18.png" alt="Fig. 9.18" onclick="openImageModal(this.src, 'Fig. 9.18: Another interesting consequence of surface tension is that the pressure inside a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.18</strong> Another interesting consequence of surface tension is that the pressure inside a spherical drop Fig. 9.18(a) is more than the pressure outside. Suppose a spherical drop of radius r is in equilibrium. If its radius increase by ∆r. The extra surface energy is</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 outside. Suppose a spherical drop of radius r is
 in equilibrium. If its radius increase by Ar. The
 extra surface energy is
@@ -2379,7 +2474,14 @@ hair in Latin; if the tube were hair thin, the rise
 would be very large. To see this, consider a
 vertical capillary tube of circular cross section
 (radius a) inserted into an open vessel of water
-(Fig. 9.19). The contact angle between water and
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_19.png" alt="Fig. 9.19" onclick="openImageModal(this.src, 'Fig. 9.19: One consequence of the pressure difference across a curved liquid-air interface ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.19</strong> One consequence of the pressure difference across a curved liquid-air interface is the well- known effect that water rises up in a narrow tube in spite of gravity. The word capilla means hair in Latin; if the tube were hair thin, the rise would be very large. To see this, consider a vertical capillary tube of circular cross section (radius a) inserted into an open vessel of water (Fig. 9.19). The contact angle between water and</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
 
 Pa
 
@@ -2409,7 +2511,7 @@ Fig. 9.19 Capillary rise, (a) Schematic picture of a
 narrow tube immersed water.
 (b) Enlarged picture near interface.
 
-Reprint 2025-26
+
 
 
 ---
@@ -2553,7 +2655,7 @@ Pay =
 
 A
 
-Reprint 2025-26
+
 
 
 ---
@@ -2644,7 +2746,7 @@ walls of a container or a piece of solid matter immersed in the fluid. Pressure 
 all points in a fluid. An element of a fluid (such as the one shown in Fig. 9.4) is in
 equilibrium because the pressures exerted on the various faces are equal.
 
-Reprint 2025-26
+
 
 PHYSICS
 
@@ -2785,7 +2887,7 @@ with glass is acute.
 same surface tends to form drops. (Put differently, water wets glass while
 mercury does not.)
 
-Reprint 2025-26
+
 
 199
 
@@ -2910,7 +3012,7 @@ the lift on the wing if its area is 2.5 m² ? Take the density of air to be 1.3 
 Figures 9.20(a) and (b) refer to the steady flow of a (non-viscous) liquid. Which of
 the two figures is incorrect? Why?
 
-Reprint 2025-26
+
 
 PHYSICS
 
@@ -2918,25 +3020,22 @@ PHYSICS
 ---
 ## 📄 Page 22
 
-MECHANICAL PROPERTIES OF FLUIDS
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_20.png" alt="Fig. 9.20" onclick="openImageModal(this.src, 'Fig. 9.20: Fig. 9.20...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.20</strong> Fig. 9.20</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
 
-(a)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch09_mechanical_properties_of_fluids_fig_9_21.png" alt="Fig. 9.21" onclick="openImageModal(this.src, 'Fig. 9.21: 9.18 Figure 9.21 (a) shows a thin liquid film supporting a small weight = 4.5 × ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 9.21</strong> 9.18 Figure 9.21 (a) shows a thin liquid film supporting a small weight = 4.5 × 10–2 N. What is the weight supported by a film of the same liquid at the same temperature in Fig. (b) and (c) ? Explain your answer physically.</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
 
-←
-
-(b)
-
-←
-
-Fig. 9.20
-
-9.16
-
-9.17
-
-9.18
-
-Figure 9.21 (a) shows a thin liquid film supporting a small weight = 4.5 4.5 × 10¯2 N.
 What is the weight supported by a film of the same liquid at the same temperature
 in Fig. (b) and (c) ? Explain your answer physically.
 
@@ -2985,7 +3084,7 @@ be the pressure inside the bubble? (1 atmospheric pressure is 1.01 × 105 Pa).
 
 not
 
-Reprint 2025-26
+
 
 201
 

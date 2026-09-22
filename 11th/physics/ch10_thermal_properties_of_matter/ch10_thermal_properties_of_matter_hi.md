@@ -9,7 +9,7 @@
 
 द्रव्य के तापीय गुण
 
-11089CH11
+
 
 10.1 भूमिका
 
@@ -73,7 +73,7 @@ not t
 तप्त चाय से भरा प्याला उसी मेज पर ठंडा हो जाता है। इसका अर्थ यह हुआ
 कि जब भी किसी वस्तु (निकाय), इस प्रकरण में बर्फ का शीतल जल अथवा
 
-Reprint 2025-26
+
 
 
 ---
@@ -137,29 +137,22 @@ SI मात्रक को जूल (J) में व्यक्त कि�
 मापक्रम पर दो संदर्भ बिंदुओं के बीच 180 समान अंतराल हैं
 तथा सेल्सियस मापक्रम पर ये अंतराल 100 हैं।
 
-212
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_1_hi.png" alt="
 
-ताप (°F)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_hi.png" alt="चित्र 10" onclick="openImageModal(this.src, 'चित्र 10: nks ekiØeksa esa :ikarj.k osQ fy, vko&#39;;d laca/ dks iQkjsugkbV rki (tF) rFkk ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10</strong> nks ekiØeksa esa :ikarj.k osQ fy, vko';d laca/ dks iQkjsugkbV rki (tF) rFkk lsfYl;l rki (tC) osQ chp xzkiQ ls izkIr fd;k tk ldrk gSA ;g ,d ljy js[kk (fp=k 10-1) gS ftldk lehdj.k bl izdkj gS %</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
-32
-
-tr
-
-0
-
-Atc = 100°
-
-ताप (°C)
-
-At = 180°
-
-ed
-
-tc
-
-100
-
-चित्र 10.1 फारेनहाइट ताप (t) प्रति सेल्सियस ताप (t) का आलेखन।
+<div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.1</strong> fp=k 10.1 10.1 10.1 10.1 10.1 iQkjsugkbV rki (tF) izfr lsfYl;l rki (tc) dk vkys[kuA</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 दो मापक्रमों में रूपांतरण के लिए आवश्यक संबंध को
 फारेनहाइट ताप (t) तथा सेल्सियस ताप (t) के बीच ग्राफ से
@@ -190,7 +183,7 @@ PV = नियतांक के रूप में संबंधित ह�
 को नियत रखते हैं, तो किसी निश्चित परिमाण की गैस
 का आयतन उसके ताप से इस प्रकार संबंधित है :
 
-Reprint 2025-26
+
 
 
 ---
@@ -231,20 +224,29 @@ R = 8.31 J mol-1 K-1
 नियत रखने पर, PaT प्राप्त होता है। इस प्रकार, किसी नियत
 आयतन गैस तापमापी में ताप को दाब के पदों में मापा जाता है।
 
--273.15°C
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_2_hi.png" alt="चित्र 10.2" onclick="openImageModal(this.src, 'चित्र 10.2: fp=k 10.2 esa n&#39;kkZ, vuqlkj] bl izdj.k esa] nkc rFkk rki osQ chp xzkiQ ,d lj...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.2</strong> fp=k 10.2 esa n'kkZ, vuqlkj] bl izdj.k esa] nkc rFkk rki osQ chp xzkiQ ,d ljy js[kk gksrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
-दाब
-
-213
-
-चित्र 10.2 में दर्शाए अनुसार, इस प्रकरण में, दाब तथा ताप के बीच
 ग्राफ एक सरल रेखा होता है।
 
 तथापि, निम्न ताप पर वास्तविक गैसों पर ली गई मापों
 तथा आदर्श गैस नियम द्वारा प्रागुक्त मानों में अंतर पाया गया है।
 परन्तु एक विस्तृत ताप परिसर में यह संबंध रैखिक है तथा ऐसा
 प्रतीत होता है कि यदि गैस गैसीय अवस्था में ही बनी रहे तो
-ताप घटाने पर दाब शून्य हो जाएगा। चित्र 10.3 में दर्शाए
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_3_hi.png" alt="चित्र 10.3" onclick="openImageModal(this.src, 'चित्र 10.3: rFkkfi] fuEu rki ij okLrfod xSlksa ij yh xbZ ekiksa rFkk vkn&#39;kZ xSl fu;e }kj...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.3</strong> rFkkfi] fuEu rki ij okLrfod xSlksa ij yh xbZ ekiksa rFkk vkn'kZ xSl fu;e }kjk izkxqDr ekuksa esa varj ik;k x;k gSA ijUrq ,d foLr`r rki ifjlj esa ;g laca/ jSf[kd gS rFkk ,slk izrhr gksrk gS fd ;fn xSl xSlh; voLFkk esa gh cuh jgs rks rki ?kVkus ij nkc 'kwU; gks tk,xkA fp=k 10.3 esa n'kkZ, vuqlkj] ljy js[kk dks cfgosZf'kr djosQ fdlh vkn'kZ xSl osQ fy, ije fufEu"B rki izkIr fd;k tk ldrk gSA bl rki dk eku – 273.150C ik;k x;k rFkk bls ije 'kwU; dgk tkrk gSA ije 'kwU; fczfV'k oSKkfud ykWMZ osQfYou osQ uke ij osQfYou rki ekiØe vFkok ije rki ekiØe dk vk/kj gSA bl ekiØe ij – 273.15°C dks 'kwU; fcanq osQ :i esa] vFkkZr~</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 अनुसार, सरल रेखा को बहिर्वेशित करके किसी आदर्श गैस के
 लिए परम निम्निष्ठ ताप प्राप्त किया जा सकता है। इस ताप का
 मान – 273.15°C पाया गया तथा इसे परम शून्य कहा जाता
@@ -263,9 +265,14 @@ ndaa
 
 चित्र 10.3 दाब तथा ताप के बीच ग्राफ का आलेखन तथा कम
 घनत्व की गैसों के लिए रेखाओं का बहिर्वेशन समान
-परम शून्य ताप को संकेत करता है।
 
-चित्र 10.4 केल्विन, सेल्सियस तथा फारेनहाइट ताप मापक्रमों में
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_4_hi.png" alt="चित्र 10.4" onclick="openImageModal(this.src, 'चित्र 10.4: 0 K fy;k tkrk gS (fp=k 10.4)A...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.4</strong> 0 K fy;k tkrk gS (fp=k 10.4)A</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 तुलना।
 
@@ -286,7 +293,7 @@ T = t + 273.15
 ढीला हो जाता है और उसकी चूड़ियाँ आसानी से खुल जाती हैं।
 द्रवों के प्रकरण में आपने यह देखा होगा कि जब किसी तापमापी
 
-Reprint 2025-26
+
 
 
 ---
@@ -311,7 +318,15 @@ Reprint 2025-26
 जाता है। किसी वस्तु के ताप में वृद्धि होने पर उसकी विमाओं
 में वृद्धि होने को तापीय प्रसार कहते हैं। लंबाई में प्रसार को रैखिक
 प्रसार कहते हैं। क्षेत्रफल में प्रसार को क्षेत्र प्रसार कहते हैं।
-आयतन में प्रसार को आयतन प्रसार कहते हैं (चित्र 10.5)।
+आयतन में प्रसार को आयतन प्रसार कहते हैं (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_5_hi.png" alt="चित्र 10.5" onclick="openImageModal(this.src, 'चित्र 10.5: ;g gekjk lkekU; vuqHko gS fd vf/dka&#39;k inkFkZ rIr gksus ij izlkfjr gksrs gSa ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.5</strong> ;g gekjk lkekU; vuqHko gS fd vf/dka'k inkFkZ rIr gksus ij izlkfjr gksrs gSa rFkk 'khryu ij floqQM+rs gSaA fdlh oLrq osQ rki esa ifjorZu gksus ij mldh foekvksa esa varj gks tkrk gSA fdlh oLrq osQ rki esa o`f¼ gksus ij mldh foekvksa esa o`f¼ gksus dks rkih; izlkj dgrs gSaA yackbZ esa izlkj dks jSf[kd izlkj dgrs gSaA {ks=kiQy esa izlkj dks {ks=k izlkj dgrs gSaA vk;ru esa izlkj dks vk;ru izlkj dgrs gSa (fp=k 10.5)A</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
 पदार्थ
 
@@ -319,29 +334,17 @@ Reprint 2025-26
 
 एलुमिनियम
 
-### 2.5
+### 2.5 पीतल
 
-पीतल
+### 1.8 लोहा
 
-### 1.8
+### 1.2 ताँबा
 
-लोहा
+### 1.7 चाँदी
 
-### 1.2
+### 1.9 सोना
 
-ताँबा
-
-### 1.7
-
-चाँदी
-
-### 1.9
-
-सोना
-
-### 1.4
-
-काँच (पायरेक्स)
+### 1.4 काँच (पायरेक्स)
 लैड
 
 0.32
@@ -403,7 +406,15 @@ VAT
 
 यहाँ भी a पदार्थ का अभिलक्षण है, परन्तु सही अर्थ में यह
 नियतांक नहीं है। व्यापक रूप में यह ताप पर निर्भर करता है
-(चित्र 10.6)। यह पाया गया है कि केवल उच्च ताप पर a
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_6_hi.png" alt="चित्र 10.6" onclick="openImageModal(this.src, 'चित्र 10.6: ;gk¡ Hkh αV inkFkZ dk vfHky{k.k gS] ijUrq lgh vFkZ esa ;g fu;rkad ugha gSA O;kid...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.6</strong> ;gk¡ Hkh αV inkFkZ dk vfHky{k.k gS] ijUrq lgh vFkZ esa ;g fu;rkad ugha gSA O;kid :i esa ;g rki ij fuHkZj djrk gS (fp=k 10.6)A ;g ik;k x;k gS fd osQoy mPp rki ij αV fu;rkad cu tkrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 नियतांक बन जाता है।
 
 ↑
@@ -444,7 +455,7 @@ T (K) →
 देख सकते हैं कि इन पदार्थों (ठोस तथा द्रव) के तापीय प्रसार
 कम हैं, तथा पायरेक्स काँच तथा इनवार (लोहे तथा निकेल की
 
-Reprint 2025-26
+
 
 
 ---
@@ -509,7 +520,15 @@ Reprint 2025-26
 जल असंगत व्यवहार प्रदर्शित करता है; यह 0°C से 4°C
 के बीच गर्म किए जाने पर सिकुड़ता है। किसी दिए गए
 परिमाण के जल का आयतन, कक्ष ताप से 4°C तक ठंडा किए
-जाने पर, घटता है [चित्र 10.7(a)]। 4°C से कम ताप पर
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_7_hi.png" alt="चित्र 10.7" onclick="openImageModal(this.src, 'चित्र 10.7: ty vlaxr O;ogkj izn£&#39;kr djrk gS_ ;g 0°C ls 4°C osQ chp xeZ fd, tkus ij floqQ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.7</strong> ty vlaxr O;ogkj izn£'kr djrk gS_ ;g 0°C ls 4°C osQ chp xeZ fd, tkus ij floqQM+rk gSA fdlh fn, x, ifjek.k osQ ty dk vk;ru] d{k rki ls 4°C rd BaMk fd, tkus ij] ?kVrk gS [fp=k 10.7(a)]A 4°C ls de rki ij vk;ru c<+rk gS vr% ?kuRo ?kVrk gS [fp=k 10.7(b)]A</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 आयतन बढ़ता है अतः घनत्व घटता है [चित्र 10.7(b)]।
 
 215
@@ -553,9 +572,7 @@ ot to be publishe
 अधिकतम होता है। है। जल के इस गुण का एक महत्त्वपूर्ण
 पर्यावरणीय प्रभाव है : तालाबों तथा झीलों जैसे जलाशयों का
 
-### 1.04343
-
-V
+### 1.04343 V
 
 0°C, α = 3.7 × 10-3 K-¹, जो ठोसों तथा द्रवों की
 अपेक्षा अत्यधिक बड़ा है। समीकरण (10.6) की ताप पर
@@ -580,9 +597,7 @@ a का मान लगभग 3300×10-6K-1 है, जो कि प्रत
 
 0.99975
 
-### 1.00000
-
-T
+### 1.00000 T
 
 0.99970,
 
@@ -610,7 +625,7 @@ T
 
 चित्र 10.7 जल का तापीय प्रसार।
 
-Reprint 2025-26
+
 
 
 ---
@@ -718,7 +733,13 @@ AF = AY
 आयताकार शीट का क्षेत्र प्रसार गुणांक, (ΔΑ/Α)/ΔΤ,
 इसके रैखिक प्रसार गुणांक a₁ का दो गुना होता है।
 
-चित्र 10.8
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_8_hi.png" alt="चित्र 10.8" onclick="openImageModal(this.src, 'चित्र 10.8: fp=k 10.8 10.8 10.8 10.8 10.8...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.8</strong> fp=k 10.8 10.8 10.8 10.8 10.8</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 ΔΑ₂ = b (Δα)
 
@@ -773,7 +794,7 @@ LT2 =LT1 [1+0₁ (T2-T₁)]
 
 2
 
-Reprint 2025-26
+
 
 
 ---
@@ -891,7 +912,7 @@ S 1 AQ
 आयतन पर मोलर विशिष्ट ऊष्मा धारिता कहते हैं और इसे
 C. द्वारा निर्दिष्ट करते हैं। इसके विस्तृत वर्णन के लिए
 
-Reprint 2025-26
+
 
 
 ---
@@ -1037,7 +1058,15 @@ CO2
 द्वारा ऊष्मा लब्धि के बराबर होती है, बशर्ते कि निकाय से
 ऊष्मा का कोई भाग भी परिवेश में पलायन न करे। ऐसी युक्ति
 जिसमें ऊष्मा मापन किया जा सके उसे ऊष्मामापी कहते हैं
-(चित्र 10.20)। यह धातु के एक बर्तन तथा उसी पदार्थ जैसे
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_20_hi.png" alt="चित्र 10.20" onclick="openImageModal(this.src, 'चित्र 10.20: Å&quot;ekfefr dk vFkZ Å&quot;ek ekiu gSA tc dksbZ mPp rki dh oLrq fdlh fuEu rki ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.20</strong> Å"ekfefr dk vFkZ Å"ek ekiu gSA tc dksbZ mPp rki dh oLrq fdlh fuEu rki dh oLrq osQ laioZQ esa ykbZ tkrh gS] rks mPp rki dh oLrq }kjk yqIr Å"ek fuEu rki dh oLrq }kjk Å"ek yfC/ osQ cjkcj gksrh gS] c'krsZ fd fudk; ls Å"ek dk dksbZ Hkkx Hkh ifjos'k esa iyk;u u djsA ,slh ;qfDr ftlesa Å"ek ekiu fd;k tk losQ mls Å"ekekih dgrs gSa (fp=k 10.20)A ;g /krq osQ ,d crZu rFkk mlh inkFkZ tSls rk¡ck vFkok ,Y;qfefu;e osQ foMksyd ls feydj cuk gksrk gSA bl crZu dks ,d ydM+h osQ vkoj.k osQ Hkhrj] ftlesa Å"ekjks/h inkFkZ tSls dk¡p rarq Hkjk gksrk gS] j[kk tkrk gSA ckgjh vkoj.k Å"ek dop dh Hkkafr dk;Z djrk gS rFkk ;g Hkhrjh crZu ls Å"ek&gkfu dks de dj nsrk gSA ckgjh vkoj.k esa ,d fNnz cuk;k tkrk gS ftlls gksrs gq, ikjs dk rkiekih crZu osQ Hkhrj igq¡prk gSA fuEufyf[kr mnkgj.k }kjk vkidks fdlh fn, x, Bksl inkFkZ dh fof'k"V Å"ek /kfjrk Kkr djus dh ,slh fof/ fey tk,xh ftlesa yqIr Å"ek = Å"ek yfC/ osQ fl¼kar dk mi;ksx fd;k tkrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 ताँबा अथवा एल्युमिनियम के विडोलक से मिलकर बना होता
 है। इस बर्तन को एक लकड़ी के आवरण के भीतर, जिसमें
 ऊष्मारोधी पदार्थ जैसे काँच तंतु भरा होता है, रखा जाता है।
@@ -1059,7 +1088,7 @@ kg जल भरा है, में स्थानांतरित कि�
 ग्रहण कर लेता है। ऐलुमिनियम की विशिष्ट ऊष्मा
 धारिता परिकलित कीजिए।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1114,7 +1143,15 @@ m₁SALAT=0.047kg × SAL × 77°C
 आरंभ कीजिए। हर एक मिनट के पश्चात् ताप नोट कीजिए।
 जल तथा हिम के मिश्रण को निरंतर विडोलित करते
 रहिए। समय और ताप के बीच ग्राफ आलेखित कीजिए
-(चित्र 10.9)। आप यह पाएँगे कि जब तक बीकर में हिम
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_9_hi.png" alt="चित्र 10.9" onclick="openImageModal(this.src, 'चित्र 10.9: ,d chdj esa oqQN fge D;wc yhft,A fge dk rki uksV dhft,A bls /hjs&/hjs fdlh vpy Å...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.9</strong> ,d chdj esa oqQN fge D;wc yhft,A fge dk rki uksV dhft,A bls /hjs&/hjs fdlh vpy Å"ek lzksr ij xeZ djuk vkjaHk dhft,A gj ,d feuV osQ i'pkr~ rki uksV dhft,A ty rFkk fge osQ feJ.k dks fujarj foMksfyr djrs jfg,A le; vkSj rki osQ chp xzkiQ vkysf[kr dhft, (fp=k 10.9)A vki ;g ik,¡xs fd tc rd chdj esa fge mifLFkr gS rc rd rki esa dksbZ ifjorZu ugha gksrkA mijksDr izfØ;k esa] fudk; dks Å"ek dh lrr vkiw£r gksus ij Hkh mlosQ rki esa dksbZ ifjorZu ugha gksrkA ;gk¡ laHkj.k dh tk jgh Å"ek dk mi;ksx Bksl (fge) ls nzo (ty) esa voLFkk ifjorZu fd, tkus esa gks jgk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 उपस्थित है तब तक ताप में कोई परिवर्तन नहीं होता। उपरोक्त
 प्रक्रिया में, निकाय को ऊष्मा की सतत आपूर्ति होने पर भी
 उसके ताप में कोई परिवर्तन नहीं होता। यहाँ संभरण की जा रही
@@ -1186,7 +1223,7 @@ tm
 प्रसामान्य गलनांक कहते हैं। हिम के गलने की प्रक्रिया को
 समझने के लिए आइए निम्नलिखित क्रियाकलाप करें।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1199,7 +1236,16 @@ Reprint 2025-26
 क्रियाकलाप 10.2
 
 एक हिम शिला लीजिए। एक धातु का तार लेकर उसके दोनों
-सिरों से समान भार जैसे 5kg के बाट बाँधिए। चित्र 10.10
+सिरों से समान भार जैसे 5kg के बाट बाँधिए।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_10_hi.png" alt="चित्र 10.10" onclick="openImageModal(this.src, 'चित्र 10.10: ,d fge f&#39;kyk yhft,A ,d /krq dk rkj ysdj mlosQ nksuksa fljksa ls leku Hkkj tS...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.10</strong> ,d fge f'kyk yhft,A ,d /krq dk rkj ysdj mlosQ nksuksa fljksa ls leku Hkkj tSls 5 kg osQ ckV ck¡f/,A fp=k 10.10 esa n'kkZ, vuqlkj bl rkj dks fge f'kyk osQ Åij jf[k,A vki ;g ns[ksaxs fd rkj fgef'kyk esa ls ikj gks tkrk gSA ,slk gksus dk dkj.k ;g gS fd rkj osQ Bhd uhps nkc esa o`f¼ osQ dkj.k fge fuEu rki ij fi?ky tkrk gSA tc rkj ogk¡ ls xqtj tkrk gS] rks rkj osQ Åij dk ty iqu% fgehHkwr gks tkrk gSA bl izdkj rkj fge f'kyk ls ikj gks tkrk gS rFkk f'kyk foHkDr ugha gksrhA iqu£gehHkou dh bl ifj?kVuk dks iqu£gek;u dgrs gSaA fge ij ^LosQV* osQ uhps ty cuus osQ dkj.k gh ^LosQ¯Vx* djuk laHko gks ikrk gSA nkc esa o`f¼ osQ dkj.k ty curk gS tks Lusgd dh Hkkafr dk;Z djrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 में दर्शाए अनुसार इस तार को हिम शिला के ऊपर रखिए। आप
 यह देखेंगे कि तार हिमशिला में से पार हो जाता है। ऐसा होने
 का कारण यह है कि तार के ठीक नीचे दाब में वृद्धि के कारण
@@ -1214,7 +1260,15 @@ Reprint 2025-26
 क्रियाकलाप 10.3
 
 आधे से अधिक जल से भरा एक गोल पेंदी का फ्लास्क
-लीजिए। चित्र 10.11 में दर्शाए अनुसार फ्लास्क के मुख पर
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_11_hi.png" alt="चित्र 10.11" onclick="openImageModal(this.src, 'चित्र 10.11: vk/s ls vf/d ty ls Hkjk ,d xksy isanh dk ÝykLd yhft,A fp=k 10.11 esa n&#39;kkZ, ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.11</strong> vk/s ls vf/d ty ls Hkjk ,d xksy isanh dk ÝykLd yhft,A fp=k 10.11 esa n'kkZ, vuqlkj ÝykLd osQ eq[k ij yxh dkoZQ osQ os/ksa ls gksdj Hkhrj tkrs gq, ,d rkiekih rFkk ,d Hkki fudkl dkoZQ esa yxkb, vkSj ÝykLd dks cuZj osQ Åij jf[k,A tSls gh ty xeZ gksrk gS] rks igys ;g nsf[k, fd og ok;q] tks ty esa foyhu Fkh] NksVs&NksVs cqycqyksa osQ :i esa ckgj vk,xhA rRi'pkr~ Hkki osQ cqycqys ÝykLd dh ryh esa cusaxs] ijUrq tSls gh os 'kh"kZHkkx osQ ikl osQ 'khry ty dh vksj Åij mBrs gSa] la?kfur gksdj vn`'; gks tkrs gSaA varr% tSls gh leLr ty dk rki 100°C ij igq¡prk gS] Hkki osQ cqycqys i`"B ij igq¡prs gSa vkSj DoFku gksus yxrk gSA ÝykLd osQ Hkhrj Hkki fn[kkbZ ugha nsrh] ijUrq tSls gh ÝykLd ls ckgj fudyrh gS] ;g ty dh vR;ar NksVh cw¡nksa osQ :i esa la?kfur gksdj /qa/ osQ :i esa izdV gksrh gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 लगी कार्क के वेधों से होकर भीतर जाते हुए एक तापमापी तथा
 एक भाप निकास कार्क में लगाइए और फ्लास्क को बर्नर के
 ऊपर रखिए। जैसे ही जल गर्म होता है, तो पहले यह देखिए कि
@@ -1267,7 +1321,7 @@ republishe
 80°C तक ठंडा होने देते हैं। फ्लास्क से तापमापी तथा भाप
 निकास हटाकर फ्लास्क के मुँह को वायुरुद्ध कर्क से कस कर
 
-Reprint 2025-26
+
 
 
 ---
@@ -1387,7 +1441,7 @@ B
 है। किसी पदार्थ की अवस्था परिवर्तन की अवधि में, ऊष्मा की
 मात्रा का प्रति एकांक द्रव्यमान स्थानांतरण, उस पदार्थ की इस
 
-Reprint 2025-26
+
 
 
 ---
@@ -1449,9 +1503,7 @@ L
 
 357
 
-### 2.7
-
-नाइट्रोजन
+### 2.7 नाइट्रोजन
 
 -210
 
@@ -1459,9 +1511,7 @@ L
 
 -196
 
-### 2.0
-
-ऑक्सीजन
+### 2.0 ऑक्सीजन
 
 -219
 
@@ -1469,9 +1519,7 @@ L
 
 -183
 
-### 2.1
-
-जल
+### 2.1 जल
 
 0
 
@@ -1541,7 +1589,14 @@ to b
 गुप्त ऊष्मा को संगलन की गुप्त ऊष्मा (L,) कहते हैं, तथा
 द्रव-गैस अवस्था परिवर्तन के लिए गुप्त ऊष्मा को वाष्पन की
 गुप्त ऊष्मा (L.) कहते हैं। इसे हम प्रायः संगलन ऊष्मा तथा
-वाष्पन ऊष्मा कहते हैं। चित्र 10.12 में जल के किसी परिमाण
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_12_hi.png" alt="चित्र 10.12" onclick="openImageModal(this.src, 'चित्र 10.12: ;gk¡ L dks xqIr Å&quot;ek dgrs gSa rFkk ;g inkFkZ dk vfHky{k.k gSA bldk SI ek=kd...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.12</strong> ;gk¡ L dks xqIr Å"ek dgrs gSa rFkk ;g inkFkZ dk vfHky{k.k gSA bldk SI ek=kd J kg–1 gSA L dk eku nkc ij Hkh fuHkZj djrk gSA izk;% blosQ eku dk m¼j.k ekud ok;qe.Myh; nkc ij fd;k tkrk gSA Bksl&nzo voLFkk ifjorZu osQ fy, xqIr Å"ek dks laxyu dh xqIr Å"ek (Lf) dgrs gSa] rFkk nzo&xSl voLFkk ifjorZu osQ fy, xqIr Å"ek dks ok"iu dh xqIr Å"ek (Lv) dgrs gSaA bls ge izk;% laxyu Å"ek rFkk ok"iu Å"ek dgrs gSaA fp=k 10.12 esa ty osQ fdlh ifjek.k</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 0
 
@@ -1578,7 +1633,7 @@ L₁ = 22.6×105 J kg-¹ हैं। अर्थात् 1 kg हिम क�
 कि उबलते जल की तुलना में उसी ताप की भाप प्रायः
 अधिक गंभीर जलन देती है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1745,10 +1800,14 @@ Q = Q1+2+3+94
 भाग में ऊर्जा के स्थानांतरण को ऊष्मा कहते हैं। इस ऊर्जा
 स्थानांतर के विविध साधन क्या हैं? ऊष्मा स्थानांतरण
 की सुस्पष्ट तीन विधियाँ हैं: चालन, संवहन तथा विकिरण
-(चित्र 10.13)।
 
-Reprint 2025-26
-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_13_hi.png" alt="चित्र 10.13" onclick="openImageModal(this.src, 'चित्र 10.13: geus ns[kk gS fd rki esa varj osQ dkj.k ,d fudk; ls nwljs fudk; esa vFkok fdlh f...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.13</strong> geus ns[kk gS fd rki esa varj osQ dkj.k ,d fudk; ls nwljs fudk; esa vFkok fdlh fudk; osQ ,d Hkkx ls mlosQ nwljs Hkkx esa ÅtkZ osQ LFkkukarj.k dks Å"ek dgrs gSaA bl ÅtkZ LFkkukarj osQ fofo/ lk/u D;k gSa\ Å"ek LFkkukarj.k dh lqLi"V rhu fof/;k¡ gSa% pkyu] laogu rFkk fofdj.k (fp=k 10.13)A</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 ---
 ## 📄 Page 14
@@ -1782,7 +1841,15 @@ Reprint 2025-26
 जिसके दोनों सिरों के बीच तापांतर स्थापित किया गया है।
 उदाहरण के लिए, ऐसा छड़ के सिरों को क्रमशः T तथा T ताप
 के ऊष्मा भंडारों के संपर्क में रखकर किया जा सकता है
-(चित्र 10.14)। अब हम एक ऐसी आदर्श स्थिति की कल्पना
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_14_hi.png" alt="चित्र 10.14" onclick="openImageModal(this.src, 'चित्र 10.14: ek=kkRed :i esa] Å&quot;ek pkyu dk o.kZu ¶fdlh inkFkZ esa fdlh fn, x, rkikarj os...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.14</strong> ek=kkRed :i esa] Å"ek pkyu dk o.kZu ¶fdlh inkFkZ esa fdlh fn, x, rkikarj osQ fy, Å"ek izokg dh nj¸ }kjk fd;k tkrk gSA L yackbZ rFkk A ,dleku vuqizLFk dkV {ks=kiQy dh /krq dh fdlh ,slh NM+ ij fopkj dhft, ftlosQ nksuksa fljksa osQ chp rkikarj LFkkfir fd;k x;k gSA mnkgj.k osQ fy,] ,slk NM+ osQ fljksa dks Øe'k% TC rFkk TD rki osQ Å"ek HkaMkjksa osQ laioZQ esa j[kdj fd;k tk ldrk gS (fp=k 10.14)A vc ge ,d ,slh vkn'kZ fLFkfr dh dYiuk djrs gSa ftlesa NM+ osQ ik'oZ iw.kZr% Å"ekjks/h gSa rkfd ik'oks± rFkk ifjos'k osQ chp Å"ek dk fofue; ugha gksrkA</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
+
 करते हैं जिसमें छड़ के पार्श्व पूर्णतः ऊष्मारोधी हैं ताकि पार्श्वों
 तथा परिवेश के बीच ऊष्मा का विनिमय नहीं होता।
 
@@ -1854,7 +1921,7 @@ L
 ऊर्जा का काफी तेज़ी से बाहर पारगमन किया जा सके तथा
 क्रोड अतितप्त होने से बचा रहे।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1924,33 +1991,15 @@ Reprint 2025-26
 
 हिम
 
-### 1.6
+### 1.6 काँच तंतु
 
-काँच तंतु
-
-0.04
-
-लकड़ी
-
-0.12
-
-जल
-
-0.8
-
-गैसें
-
-भट्ठी
-300 °C
-
-स्टील
-↑
-ऊष्मारोधी
-पदार्थ
-
-ताँबा
-
-चित्र 10.15
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_15_hi.png" alt="चित्र 10.15" onclick="openImageModal(this.src, 'चित्र 10.15: mnkgj.k 10.6 10.6 10.6 10.6 10.6 fp=k 10.15 esa n&#39;kkZ, x, fudk; dh LFkk;h vo...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.15</strong> mnkgj.k 10.6 10.6 10.6 10.6 10.6 fp=k 10.15 esa n'kkZ, x, fudk; dh LFkk;h voLFkk esa LVhy&rk¡ck laf/ dk rki D;k gS\ LVhy NM+ dh yackbZ = 15.0 cm, rk¡cs dh NM+ dh yackbZ = 10.0 cm, Hk_h dk rki = 300°C, nwljs fljs dk rki = 0°C_ LVhy dh NM+ dh vuqizLFk dkV dk {ks=kiQy rk¡cs dh NM+ dh vuqizLFk dkV osQ {ks=kiQy dk nks xquk gSA (LVhy dh Å"ek pkydrk = 50.2 J</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
 225
 
@@ -2012,17 +2061,15 @@ m-1 K-1, K₁ = 385 J s-¹ m-¹ K-1, के लिए
 क्षेत्रफल ताँबे की छड़ की अनुप्रस्थ काट के क्षेत्रफल
 का दो गुना है। (स्टील की ऊष्मा चालकता = 50.2 J
 s-1 m-1 K-1; ताँबे की ऊष्मा चालकता =
-385 J s¯¹m-1 K-1)
 
-=
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_16_hi.png" alt="चित्र 10.16" onclick="openImageModal(this.src, 'चित्र 10.16: mnkgj.k 10.7 10.7 10.7 10.7 10.7 fp=k 10.16 esa n&#39;kkZ, vuqlkj yksgs dh fdlh ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.16</strong> mnkgj.k 10.7 10.7 10.7 10.7 10.7 fp=k 10.16 esa n'kkZ, vuqlkj yksgs dh fdlh NM+ (L1 = 0.1m, A1 = 0.02 m2, K1 = 79</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
-15
-
-10
-
-T = 44.4 °C
-
-उदाहरण 10.7 चित्र 10.16 में दर्शाए अनुसार लोहे की
 किसी छड़ (L₁ = 0.1m, A₁ = 0.02 m², K₁ = 79
 W m¯¹ K-¹) को किसी पीतल की छड़ (L₂ = 0.1m,
 A₂ = 0.02 m², K₁₂ = 109 W m¯¹ K¯¹) के साथ सिरे
@@ -2033,7 +2080,7 @@ A₂ = 0.02 m², K₁₂ = 109 W m¯¹ K¯¹) के साथ सिरे
 तथा (iii) संयुक्त छड़ में ऊष्मा प्रवाह की दर के लिए
 व्यंजक निकालिए तथा परिकलित कीजिए।
 
-Reprint 2025-26
+
 
 
 ---
@@ -2231,31 +2278,19 @@ X
 अवशोषित ऊष्मा को विशाल आयतन के जल के सब भागों में
 विसारित कर देती हैं। तप्त थल के संपर्क वाली वायु चालन
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 17
 
-द्रव्य के तापीय गुण
-
-दिन
-
-रात्रि
-
-वायु प्रवाह
-(समुद्र समीर)
-
-555
-
-वायु प्रवाह
-(थल समीर)
-
-227
-
-थल जल की अपेक्षा उष्ण
-
-चित्र 10.17 संवहन चक्र।
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_17_hi.png" alt="चित्र 10.17" onclick="openImageModal(this.src, 'चित्र 10.17: }kjk xeZ gksrh gS rFkk rIr gksdj ok;q iSQyrh gS] ftlls ifjos&#39;k dh &#39;khry ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.17</strong> }kjk xeZ gksrh gS rFkk rIr gksdj ok;q iSQyrh gS] ftlls ifjos'k dh 'khry ok;q dh rqyuk esa bldk ?kuRo de gks tkrk gSA iQyLo:i m".k ok;q Åij mBrh gS (ok;q /kjk,¡)] rFkk fjDr LFkku dks Hkjus osQ fy, vU; ok;q xfr djrh gSa (iousa) & ftlls cM+s tyk'k;ksa osQ fudV leqnz lehj mRiUu gks tkrh gSaA BaMh ok;q uhps vkrh gSa rFkk ,d rkih; laogu pØ cu tkrk gS] tks Å"ek dks Fky ls nwj LFkkukarfjr dj nsrk gSA jkf=k esa Fky dh Å"ek dk ßkl vf/d 'kh?kzrk ls gksrk gS rFkk tyh; i`"B Fky dh rqyuk esa m".k gksrh gSA ifj.kkeLo:i pØ mRØfer gks tkrk gS (fp=k 10.17)A</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
 
 द्वारा गर्म होती है तथा तप्त होकर वायु फैलती है, जिससे परिवेश
 की शीतल वायु की तुलना में इसका घनत्व कम हो जाता है।
@@ -2318,7 +2353,7 @@ hed
 विद्युत चुंबकीय विकिरणों जैसे लाल तप्त लोहा से विकिरण
 अथवा तंतु लैम्प से प्रकाश को ऊष्मा विकिरण कहते हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -2369,7 +2404,16 @@ be
 (या कतिपय) तरंगदैर्ध्य नहीं होते हैं, बल्कि इसमें कम
 तरंगदैर्ध्य से लेकर अधिक तरंगदैर्ध्य के बीच उसका सतत्
 स्पैक्ट्रम होता है। तथापि विभिन्न तरंगदैर्यों के लिए विकिरित
-उष्मा की ऊर्जा की मात्रा भिन्न-भिन्न होती है। चित्र 10.18
+उष्मा की ऊर्जा की मात्रा भिन्न-भिन्न होती है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_18_hi.png" alt="चित्र 10.18" onclick="openImageModal(this.src, 'चित्र 10.18: vc rd geus m&quot;ek fofdj.k osQ rjaxnS?;Z osQ i{k dk mYys[k ugha fd;k gSA fdlh ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.18</strong> vc rd geus m"ek fofdj.k osQ rjaxnS?;Z osQ i{k dk mYys[k ugha fd;k gSA fdlh rki ij m"ek fofdj.k osQ fo"k; esa egÙoiw.kZ ckr ;g gS fd fofdj.k esa ek=k ,d gh (;k dfri;) rjaxnS?;Z ugha gksrs gSa] cfYd blesa de rjaxnS?;Z ls ysdj vf/d rjaxnS?;Z osQ chp mldk lrr~ LiSDVªe gksrk gSA rFkkfi fofHkUu rjaxnS?;k±s osQ fy, fofdfjr m"ek dh mQtkZ dh ek=kk fHkUu&fHkUu gksrh gSA fp=k 10.18 fofHkUu rkiksa ij fdlh o`Qf".kdk osQ ,dkad {ks=k }kjk ,dkad rjaxnS?;Z ij mRlftZr fofdfjr mQtkZ rFkk rjaxnS?;Z osQ eè; izk;ksfxd oozQ n'kkZrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
+
 विभिन्न तापों पर किसी कृष्णिका के एकांक क्षेत्र द्वारा एकांक
 तरंगदैर्ध्य पर उत्सर्जित विकिरित ऊर्जा तथा तरंगदैर्ध्य के मध्य
 प्रायोगिक वक्र दर्शाता है।
@@ -2438,7 +2482,7 @@ m
 विकिरण द्वारा ऊर्जा बिना माध्यम के (अर्थात् निर्वात में)
 बहुत दूरियों तक स्थानान्तरित की जा सकती है। परम ताप T' पर
 
-Reprint 2025-26
+
 
 
 ---
@@ -2543,10 +2587,14 @@ d
 यह पाठ्यांक (T₂) है। तत्पश्चात् ताप △T = T₂ - T₁ को ५-अक्ष
 के अनुदिश लेकर इसके प्रत्येक मान के लिए तदनुरूपी t के
 मान को x-अक्ष के अनुदिश लेकर ग्राफ आलेखित करिए
-(चित्र 10.19)।
 
-Reprint 2025-26
-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch10_thermal_properties_of_matter_fig_10_19_hi.png" alt="चित्र 10.19" onclick="openImageModal(this.src, 'चित्र 10.19: ,d foMksyd lfgr Å&quot;ekekih esa oqQN ty] eku ysa 300 mL yhft, vkSj bls nks fNn...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 10.19</strong> ,d foMksyd lfgr Å"ekekih esa oqQN ty] eku ysa 300 mL yhft, vkSj bls nks fNnz okys <Ddu ls <d nhft,A <Ddu osQ ,d fNnz esa foMksyd rFkk nwljs fNnz esa rkiekih yxkb, rFkk ;g lqfuf'pr dhft, fd rkiekih dk cYc ty esa Mwc tk,A rkiekih dk ikB~;kad uksV dhft,A ;g ikB~;kad T1 ifjos'k dk rki gSA Å"ekekih osQ ty dks bruk xeZ dhft, fd bldk rki d{k rki (vFkkZr~ ifjos'k osQ rki) ls yxHkx 40 °C vfèkd rd igq¡p tk,A rRi'pkr~ Å"ek lzksr dks gVkdj ty dks xeZ djuk can dhft,A fojke ?kM+h pykb, rFkk izR;sd fu;r le; varjky tSls 1 feuV osQ i'pkr~ foMksyd ls èkhjs&/hjs foMksfyr djrs gq, rkiekih osQ ikB~;kad uksV dhft,A ty dk rki ifjos'k osQ rki ls yxHkx 5 °C vfèkd jgus rd ikB~;kad uksV djrs jfg,A eku yhft, ;g ikB~;kad (T2) gSA rRi'pkr~ rki ∆T = T2 – T1 dks y–v{k osQ vuqfn'k ysdj blosQ izR;sd eku osQ fy, rnuq:ih t osQ eku dks x-v{k osQ vuqfn'k ysdj xzkiQ vkysf[kr dfj, (fp=k 10.19)A</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
 
 ---
 ## 📄 Page 20
@@ -2690,7 +2738,7 @@ t
 
 2
 
-Reprint 2025-26
+
 
 
 ---
@@ -2781,7 +2829,7 @@ V
 αν
 = 3 α
 
-Reprint 2025-26
+
 
 
 ---
@@ -2924,7 +2972,7 @@ H = -KA
 
 dx
 
-Reprint 2025-26
+
 
 
 ---
@@ -2990,7 +3038,7 @@ R = R [1 + α (Τ – Το )]
 का त्रिक बिंदु लिया गया है जिसे केल्विन परम ताप मापक्रम पर संख्या 273.16 K निर्धारित की गई
 है। इस मापक्रम (केल्विन परम ताप) पर अन्य नियत बिंदु क्या है?
 
-Reprint 2025-26
+
 
 
 ---
@@ -3084,7 +3132,7 @@ t=T-273.15
 10.11 ग्लिसरीन का आयतन प्रसार गुणांक 49 × 10-5 K¯¹ है। ताप में 30 °C की वृद्धि होने पर इसके घनत्व में क्या
 आंशिक परिवर्तन होगा?
 
-Reprint 2025-26
+
 
 भौतिकी
 
@@ -3157,7 +3205,7 @@ e
 पर इसमें 6.0 kg/min की दर से जल उबलता है। बॉयलर के संपर्क की ज्वाला के भाग का ताप आकलित
 कीजिए। पीतल की ऊष्मा चालकता = 109 J s¯¹ m¯¹ K¹; जल की वाष्पन ऊष्मा = 2256 ×10° Jkg¹ है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -3185,9 +3233,9 @@ Reprint 2025-26
 
 © NCERT
 
-not to be republished
 
-Reprint 2025-26
+
+
 
 भौतिकी
 

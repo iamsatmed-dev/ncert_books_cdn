@@ -9,15 +9,13 @@ CHAPTER Two
 
 MOTION IN A STRAIGHT LINE
 
-11086CH03
+
 
 ### 2.1 Introduction
 
 ### 2.2 Instantaneous velocity and
 
-### 2.3
-
-speed
+### 2.3 speed
 
 Acceleration
 
@@ -71,7 +69,7 @@ going into the causes of motion. What causes motion
 described in this chapter and the next chapter forms the
 subject matter of Chapter 4.
 
-Reprint 2026-27
+
 
 
 ---
@@ -145,7 +143,15 @@ t(s)
 
 (2.1b)
 
-Fig. 2.1 Determining velocity from position-time
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_1.png" alt="Fig. 2.1" onclick="openImageModal(this.src, 'Fig. 2.1: We can use Eq. (2.1a) for obtaining the value of velocity at an instant either g...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.1</strong> We can use Eq. (2.1a) for obtaining the value of velocity at an instant either graphically or numerically. Suppose that we want to obtain graphically the value of velocity at time t = 4 s (point P) for the motion of the car represented in Fig.2.1 calculation. Let us take Dt = 2 s centred at t = 4 s. Then, by the definition of the average velocity, the slope of line P1P2 ( Fig. 2.1) gives the value of average velocity over the interval 3 s to 5 s.</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
+
 graph. Velocity at t = 4 s is the slope of the
 tangent to the graph at that instant.
 
@@ -308,7 +314,7 @@ Ax / At
 
 ### 3.8400
 
-Reprint 2026-27
+
 
 
 ---
@@ -470,7 +476,7 @@ acceleration is the slope of the straight line
 connecting the points corresponding to (v₂, t₂)
 and (v₁, t₁).
 
-Reprint 2026-27
+
 
 
 ---
@@ -532,7 +538,15 @@ general proof of this statement requires use of
 calculus. We can, however, see that it is true
 for the simple case of an object moving with
 constant velocity u. Its velocity-time graph is
-as shown in Fig. 2.4.
+as shown in <div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_4.png" alt="Fig. 2.4" onclick="openImageModal(this.src, 'Fig. 2.4: An interesting feature of a velocity-time graph for any moving object is that th...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.4</strong> An interesting feature of a velocity-time graph for any moving object is that the area under the curve represents the displacement over a given time interval. A general proof of this statement requires use of calculus. We can, however, see that it is true for the simple case of an object moving with constant velocity u. Its velocity-time graph is as shown in Fig. 2.4.</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
+
 
 υ
 
@@ -591,7 +605,15 @@ t
 
 (c)
 
-Fig. 2.2 Position-time graph for motion with
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_2.png" alt="Fig. 2.2" onclick="openImageModal(this.src, 'Fig. 2.2: Fig. 2.2 Position-time graph for motion with (a) positive acceleration; (b) nega...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.2</strong> Fig. 2.2 Position-time graph for motion with (a) positive acceleration; (b) negative acceleration, and (c) zero acceleration.</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
+
 
 (a) positive acceleration; (b) negative
 acceleration, and (c) zero acceleration.
@@ -600,7 +622,15 @@ Let us see how velocity-time graph looks like
 
 velocity-
 
-for some simple cases. Fig. 2.3 shows
+for some simple cases. <div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_3.png" alt="Fig. 2.3" onclick="openImageModal(this.src, 'Fig. 2.3: Fig. 2.3 Velocity–time graph for motions with constant acceleration. (a) Motion ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.3</strong> Fig. 2.3 Velocity–time graph for motions with constant acceleration. (a) Motion in positive direction with positive acceleration, (b) Motion in positive direction with negative acceleration, (c) Motion in negative direction with negative acceleration, (d) Motion of an object with negative acceleration that changes direction at time t1. Between times 0 to t1, it moves in positive x - direction and between t1 and t2 it moves in the opposite direction.</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
+
 time graph for motion with constant acceleration
 for the following cases :
 
@@ -636,7 +666,7 @@ t₁, it moves in positive x direction
 and between t, and t, it moves in the
 opposite direction.
 
-Reprint 2026-27
+
 
 
 ---
@@ -705,7 +735,15 @@ This relation is graphically
 
 (2.4)
 
-graphically represented in Fig. 2.5.
+graphically represented in <div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_5.png" alt="Fig. 2.5" onclick="openImageModal(this.src, 'Fig. 2.5: This relation is graphically represented in Fig. 2.5. The area under this curve ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.5</strong> This relation is graphically represented in Fig. 2.5. The area under this curve is : Area between instants 0 and t = Area of triangle ABC + Area of rectangle OACD</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
+
 
 The area under this curve is :
 
@@ -819,7 +857,7 @@ v² = v² + 2ax
 
 (2.8)
 
-Reprint 2026-27
+
 
 
 ---
@@ -952,7 +990,15 @@ Take g = 10 m s-2.
 
 Answer (a) Let us take the y-axis in the
 vertically upward direction with zero at the
-ground, as shown in Fig. 2.6.
+ground, as shown in <div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_6.png" alt="Fig. 2.6" onclick="openImageModal(this.src, 'Fig. 2.6: Answer (a) Let us take the y-axis in the vertically upward direction with zero a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.6</strong> Answer (a) Let us take the y-axis in the vertically upward direction with zero at the ground, as shown in Fig. 2.6.</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
+
 
 nox be
 
@@ -1017,7 +1063,7 @@ Solving, we get, (y – y) = 20 m.
 (b) We can solve this part of the problem in two
 ways. Note carefully the methods used.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1150,7 +1196,15 @@ These equations give the velocity and the
 distance travelled as a function of time and also
 the variation of velocity with distance. The
 variation of acceleration, velocity, and distance,
-with time have been plotted in Fig. 2.7(a), (b)
+with time have been plotted in <div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_7.png" alt="Fig. 2.7" onclick="openImageModal(this.src, 'Fig. 2.7: These equations give the velocity and the distance travelled as a function of ti...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.7</strong> These equations give the velocity and the distance travelled as a function of time and also the variation of velocity with distance. The variation of acceleration, velocity, and distance, with time have been plotted in Fig. 2.7(a), (b) and (c).</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
+
+
 and (c).
 
 1
@@ -1186,7 +1240,7 @@ a = -10m s-2, t = ?
 
 0
 
-Reprint 2026-27
+
 
 
 ---
@@ -1399,7 +1453,7 @@ traversed
 
 11
 
-Reprint 2026-27
+
 
 
 ---
@@ -1439,7 +1493,15 @@ You can measure your reaction
 time by a simple experiment. Take a
 ruler and ask your friend to drop it
 vertically through the gap between
-your thumb and forefinger (Fig. 2.8).
+your thumb and forefinger (<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_8.png" alt="Fig. 2.8" onclick="openImageModal(this.src, 'Fig. 2.8: You can measure your reaction time by a simple experiment. Take a ruler and ask ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.8</strong> You can measure your reaction time by a simple experiment. Take a ruler and ask your friend to drop it vertically through the gap between your thumb and forefinger (Fig. 2.8). After you catch it, find the distance d travelled by the ruler. In a particular case, d was found to be 21.0 cm. Estimate reaction time.</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
+
 After you catch it, find the distance d
 travelled by the ruler. In a particular
 case, d was found to be 21.0 cm.
@@ -1515,7 +1577,7 @@ dt
 The velocity at a particular instant is equal to the slope of the tangent drawn on
 position-time graph at that instant.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1627,7 +1689,7 @@ In one dimension, its sign
 
 indicates the direction.
 
-Reprint 2026-27
+
 
 PHYSICS
 
@@ -1724,7 +1786,7 @@ exact and are always correct while the kinematic equations (Eq. (2.9)) are true 
 motion in which the magnitude and the direction of acceleration are constant during
 the course of motion.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1732,9 +1794,7 @@ Reprint 2026-27
 
 24
 
-### 2.1
-
-EXERCISES
+### 2.1 EXERCISES
 
 In which of the following examples of motion, can the body be considered
 approximately a point object:
@@ -1747,10 +1807,16 @@ approximately a point object:
 
 (d) a tumbling beaker that has slipped off the edge of a table.
 
-### 2.2
+### 2.2 The position-time (x-t) graphs for two children A and B returning from their school
+O to their homes P and Q respectively are shown in <div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_9.png" alt="Fig. 2.9" onclick="openImageModal(this.src, 'Fig. 2.9: 2.1 In which of the following examples of motion, can the body be considered app...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.9</strong> 2.1 In which of the following examples of motion, can the body be considered approximately a point object: (a) a railway carriage moving without jerks between two stations. (b) a monkey sitting on top of a man cycling smoothly on a circular track. (c) a spinning cricket ball that turns sharply on hitting the ground. (d) a tumbling beaker that has slipped off the edge of a table. 2.2 The position-time (x-t) graphs for two children A and B returning from their school O to their homes P and Q respectively are shown in Fig. 2.9. Choose the correct entries in the brackets below ; (a) (A/B) lives closer to the school than (B/A) (b) (A/B) starts from the school earlier than (B/A) (c) (A/B) walks faster than (B/A) (d) A and B reach home at the (same/different) time (e) (A/B) overtakes (B/A) on the road (once/twice).</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
-The position-time (x-t) graphs for two children A and B returning from their school
-O to their homes P and Q respectively are shown in Fig. 2.9. Choose the correct
+
 entries in the brackets below;
 
 (a) (A/B) lives closer to the school than (B/A)
@@ -1783,9 +1849,7 @@ blished
 
 ### 2.5
 
-### 2.6
-
-Fig. 2.9
+### 2.6 Fig. 2.9
 
 A woman starts from her home at 9.00 am, walks with a speed of 5 km h−1 on a
 straight road up to her office 2.5 km away, stays at the office up to 5.00 pm, and
@@ -1814,9 +1878,7 @@ player's hands? (Take g = 9.8 m s¯² and neglect air resistance).
 
 า
 
-### 2.7
-
-Read each statement below carefully and state with reasons and examples, if it is
+### 2.7 Read each statement below carefully and state with reasons and examples, if it is
 true or false;
 
 A particle in one-dimensional motion
@@ -1829,7 +1891,7 @@ A particle in one-dimensional motion
 
 (d) with positive value of acceleration must be speeding up.
 
-Reprint 2026-27
+
 
 PHYSICS
 
@@ -1849,9 +1911,7 @@ MOTION IN A STRAIGHT LINE
 
 ### 2.11
 
-### 2.12
-
-A ball is dropped from a height of 90 m on a floor. At each collision with the floor,
+### 2.12 A ball is dropped from a height of 90 m on a floor. At each collision with the floor,
 the ball loses one tenth of its speed. Plot the speed-time graph of its motion
 between t = 0 to 12 s.
 
@@ -1911,7 +1971,15 @@ magnitude of velocity. The instantaneous speed
 is always equal to the magnitude of
 instantaneous velocity. Why?
 
-Look at the graphs (a) to (d) (Fig. 2.10) carefully
+Look at the graphs (a) to (d) (<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_10.png" alt="Fig. 2.10" onclick="openImageModal(this.src, 'Fig. 2.10: interval of time (i) 0 to 30 min, (ii) 0 to 50 min, (iii) 0 to 40 min ? [Note: Y...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.10</strong> interval of time (i) 0 to 30 min, (ii) 0 to 50 min, (iii) 0 to 40 min ? [Note: You will appreciate from this exercise why it is better to define average speed as total path length divided by time, and not as magnitude of average velocity. You would not like to tell the tired man on his return home that his average speed was zero !] 2.11 In Exercises 2.9 and 2.10, we have carefully distinguished between average speed and magnitude of average velocity. No such distinction is necessary when we consider instantaneous speed and magnitude of velocity. The instantaneous speed is always equal to the magnitude of instantaneous velocity. Why? 2.12 Look at the graphs (a) to (d) (Fig. 2.10) carefully and state, with reasons, which of these cannot possibly represent one-dimensional motion of a particle. 2.13 Figure 2.11shows the x-t plot of one- dimensional motion of a particle. Is it correct to say from the graph that the particle moves in a straight line for t < 0 and on a parabolic path for t >0 ? If not, suggest a suitable physical context for this graph. 2.14 A police van moving on a highway with a speed of 30 km h–1 fires a bullet at a thief’s car speeding away in the same direction with a speed of 192 km h–1. If the muzzle speed of the bullet is 150 m s–1, with what speed does the bullet hit the thief’s car ? (Note: Obtain that speed which is relevant for damaging the thief’s car).</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
+
 and state, with reasons, which of these cannot
 possibly represent one-dimensional motion of
 a particle.
@@ -1922,29 +1990,33 @@ t
 
 Fig. 2.10
 
-### 2.13
-
-Figure 2.1lshows the x-t plot of one-
+### 2.13 Figure 2.1lshows the x-t plot of one-
 dimensional motion of a particle. Is it correct
 to say from the graph that the particle moves
 in a straight line for t < 0 and on a parabolic
 path for t>0? If not, suggest a suitable physical
 context for this graph.
 
-### 2.14
-
-A police van moving on a highway with a speed of
+### 2.14 A police van moving on a highway with a speed of
 30 km h¯¹ fires a bullet at a thief's car speeding away in
 the same direction with a speed of 192 km h¯¹. If the muzzle
 speed of the bullet is 150 m s¯¹, with what speed does the
 bullet hit the thief's car? (Note: Obtain that speed which
 is relevant for damaging the thief's car).
 
-Reprint 2026-27
+
 
 0
 
-Fig. 2.11
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_11.png" alt="Fig. 2.11" onclick="openImageModal(this.src, 'Fig. 2.11: Fig. 2.11...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.11</strong> Fig. 2.11</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
+
 
 
 ---
@@ -1954,9 +2026,7 @@ Fig. 2.11
 
 ### 2.15
 
-### 2.16
-
-Suggest a suitable physical situation for each of the following graphs (Fig 2.12):
+### 2.16 Suggest a suitable physical situation for each of the following graphs (Fig 2.12):
 
 X
 
@@ -1986,9 +2056,25 @@ NCERT
 
 (b)
 
-Fig. 2.12
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_12.png" alt="Fig. 2.12" onclick="openImageModal(this.src, 'Fig. 2.12: Fig. 2.12...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.12</strong> Fig. 2.12</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
-Figure 2.13 gives the x-t plot of a particle executing one-dimensional simple
+
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_13.png" alt="Fig. 2.13" onclick="openImageModal(this.src, 'Fig. 2.13: 2.16 Figure 2.13 gives the x-t plot of a particle executing one-dimensional simp...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.13</strong> 2.16 Figure 2.13 gives the x-t plot of a particle executing one-dimensional simple harmonic motion. (You will learn about this motion in more detail in Chapter13). Give the signs of position, velocity and acceleration variables of the particle at t = 0.3 s, 1.2 s, – 1.2 s.</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
+
+
 harmonic motion. (You will learn about this motion in more detail in Chapter13).
 Give the signs of position, velocity and acceleration variables of the particle at
 t = 0.3 s, 1.2s, 1.2 s.
@@ -2001,7 +2087,15 @@ epublishe
 
 つ
 
-Figure 2.14 gives the x-t plot of a
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_14.png" alt="Fig. 2.14" onclick="openImageModal(this.src, 'Fig. 2.14: 2.17 Figure 2.14 gives the x-t plot of a particle in one-dimensional motion. Thr...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.14</strong> 2.17 Figure 2.14 gives the x-t plot of a particle in one-dimensional motion. Three different equal intervals of time are shown. In which interval is the average speed greatest, and in which is it the least ? Give the sign of average velocity for each interval.</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
+
+
 particle in one-dimensional motion.
 Three different equal intervals of time
 are shown. In which interval is the
@@ -2009,7 +2103,15 @@ average speed greatest, and in which
 is it the least? Give the sign of average
 velocity for each interval.
 
-Figure 2.15 gives a speed-time graph of
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_15.png" alt="Fig. 2.15" onclick="openImageModal(this.src, 'Fig. 2.15: 2.18 Figure 2.15 gives a speed-time graph of a particle in motion along a consta...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.15</strong> 2.18 Figure 2.15 gives a speed-time graph of a particle in motion along a constant direction. Three equal intervals of time are shown. In which interval is the average acceleration greatest in magnitude? In which interval is the average speed greatest ? Choosing the positive direction as the constant direction of motion, give the signs of v and a in the three intervals. What are the accelerations at the points A, B, C and D ?</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
+
+
 a particle in motion along a constant
 direction. Three equal intervals of time
 are shown. In which interval is the
@@ -2052,7 +2154,7 @@ Fig. 2.15
 
 t
 
-Reprint 2026-27
+
 
 PHYSICS
 

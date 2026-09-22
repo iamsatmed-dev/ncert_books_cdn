@@ -12,7 +12,7 @@ Chapter Three
 CURRENT
 ELECTRICITY
 
-12089CH03
+
 
 republished
 
@@ -41,7 +41,7 @@ charge flowing across the area in the forward direction. The net amount
 of charge flowing across the area in the forward direction in the time
 interval t, then, is q = q₁– q_. This is proportional to t for steady current
 
-Reprint 2026-27
+
 
 
 ---
@@ -122,7 +122,7 @@ as before the collision. However, the direction of its velocity after the
 collision is completely random. At a given time, there is no preferential
 direction for the velocities of the electrons. Thus on the average, the
 
-Reprint 2026-27
+
 
 
 ---
@@ -144,7 +144,16 @@ E
 Let us now see what happens to such a
 piece of conductor if an electric field is applied.
 To focus our thoughts, imagine the conductor
-in the shape of a cylinder of radius R (Fig. 3.1).
+in the shape of a cylinder of radius R (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_1.png" alt="Fig. 3.1" onclick="openImageModal(this.src, 'Fig. 3.1: Let us now see what happens to such a piece of conductor if an electric field is...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.1</strong> Let us now see what happens to such a piece of conductor if an electric field is applied. To focus our thoughts, imagine the conductor in the shape of a cylinder of radius R (Fig. 3.1). Suppose we now take two thin circular discs of a dielectric of the same radius and put positive charge +Q distributed over one disc and similarly –Q at the other disc. We attach the two discs on the two flat surfaces of the cylinder. An electric field will be created and is directed from the positive towards the negative charge. The electrons will be accelerated due to this field towards +Q. They will thus move to neutralise the charges. The electrons, as long as they are moving, will constitute an electric current. Hence in the situation considered, there will be a current for a very short while and no current thereafter.</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 Suppose we now take two thin circular discs
 of a dielectric of the same radius and put
 positive charge +Q distributed over one disc
@@ -199,7 +208,16 @@ but also on the dimensions of the conductor. The dependence of R on the
 dimensions of the conductor can easily be determined as follows.
 
 Consider a conductor satisfying Eq. (3.3) to be in the form of a slab of
-length land cross sectional area A [Fig. 3.2(a)]. Imagine placing two such
+length land cross sectional area A [
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_2.png" alt="Fig. 3.2" onclick="openImageModal(this.src, 'Fig. 3.2: Consider a conductor satisfying Eq. (3.3) to be in the form of a slab of length ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.2</strong> Consider a conductor satisfying Eq. (3.3) to be in the form of a slab of length l and cross sectional area A [Fig. 3.2(a)]. Imagine placing two such identical slabs side by side [Fig. 3.2(b)], so that the length of the combination is 2l. The current flowing through the combination is the same as that flowing through either of the slabs. If V is the potential difference across the ends of the first slab, then V is also the potential difference across the ends of the second slab since the second slab is</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 identical slabs side by side [Fig. 3.2(b)], so that the length of the
 combination is 21. The current flowing through the combination is the
 same as that flowing through either of the slabs. If V is the potential
@@ -228,7 +246,7 @@ of cross-section A.
 
 83
 
-Reprint 2026-27
+
 
 
 ---
@@ -343,7 +361,7 @@ are A/m². Further, if E is the magnitude of uniform electric field in the
 conductor whose length is l, then the potential difference V across its
 ends is El. Using these, the last equation reads
 
-Reprint 2026-27
+
 
 
 ---
@@ -416,9 +434,14 @@ regular intervals but at random times. Let us denote by
 τ, the average time between successive collisions. Then
 at a given time, some of the electrons would have spent
 
-Reprint 2026-27
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_3.png" alt="Fig. 3.3" onclick="openImageModal(this.src, 'Fig. 3.3: since starting with its last collision it was accelerated (Fig. 3.3) with an acc...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.3</strong> since starting with its last collision it was accelerated (Fig. 3.3) with an acceleration given by Eq. (3.15) for a time interval ti. The average velocity of the electrons at time t is the average of all the Vi’s. The average of vi’s is zero [Eq. (3.14)] since immediately after any collision, the direction of the velocity of an electron is completely random. The collisions of the electrons do not occur at regular intervals but at random times. Let us denote by t, the average time between successive collisions. Then at a given time, some of the electrons would have spent</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
-FIGURE 3.3 A schematic picture of
 an electron moving from a point A to
 another point B through repeated
 collisions, and straight line travel
@@ -479,9 +502,14 @@ independent of time, although electrons are
 accelerated. This is the phenomenon of drift and the
 velocity v in Eq. (3.17) is called the drift velocity.
 
-A
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_4.png" alt="Fig. 3.4" onclick="openImageModal(this.src, 'Fig. 3.4: Because of the drift, there will be net transport of charges across any area per...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.4</strong> Because of the drift, there will be net transport of charges across any area perpendicular to E. Consider a planar area A, located inside the conductor such that the normal to the area is parallel to E (Fig. 3.4). Then because of the drift, in an infinitesimal amount of time Dt, all electrons to the left of the area at distances upto |vd|Dt would have crossed the area. If n is the number of free electrons per unit volume in the metal, then there are n Dt |vd|A such electrons. Since each electron carries a charge –e, the total charge transported across this area A to the right in time Dt is –ne A|vd|Dt. E is directed towards the left and hence the total charge transported along E across the area is negative of this. The amount of charge crossing the area A in time Dt is by definition [Eq. (3.2)] I Dt, where I is the magnitude of the current. Hence,</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
-FIGURE 3.4 Current in a metallic
 conductor. The magnitude of current
 density in a metal is the magnitude of
 charge contained in a cylinder of unit
@@ -552,7 +580,7 @@ m
 Comparison with Eq. (3.13) shows that Eq. (3.22) is exactly the Ohm's
 law, if we identify the conductivity σ as
 
-Reprint 2026-27
+
 
 
 ---
@@ -646,7 +674,7 @@ EXAMPLE 3.1
 
 See Eq. (12.23) of Chapter 12 from Class XI book.
 
-Reprint 2026-27
+
 
 87
 
@@ -736,7 +764,7 @@ Ud=
 
 m
 
-Reprint 2026-27
+
 
 
 ---
@@ -767,7 +795,15 @@ electric circuits where the proportionality of V and I does not
 hold. The deviations broadly are one or more of the following
 types:
 
-(a) V ceases to be proportional to I (Fig. 3.5).
+(a) V ceases to be proportional to I (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_5.png" alt="Fig. 3.5" onclick="openImageModal(this.src, 'Fig. 3.5: Although Ohm’s law has been found valid over a large class of materials, there d...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.5</strong> Although Ohm’s law has been found valid over a large class of materials, there do exist materials and devices used in electric circuits where the proportionality of V and I does not hold. The deviations broadly are one or more of the following types: (a) V ceases to be proportional to I (Fig. 3.5). (b) The relation between V and I depends on the sign of V. In</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 V
 
@@ -782,15 +818,22 @@ V versus current I for a good
 other words, if I is the current for a certain V, then reversing
 the direction of V keeping its magnitude fixed, does not
 produce a current of the same magnitude as I in the opposite direction
-(Fig. 3.6). This happens, for example, in a diode which we will study
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_6.png" alt="Fig. 3.6" onclick="openImageModal(this.src, 'Fig. 3.6: other words, if I is the current for a certain V, then reversing the direction o...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.6</strong> other words, if I is the current for a certain V, then reversing the direction of V keeping its magnitude fixed, does not produce a current of the same magnitude as I in the opposite direction (Fig. 3.6). This happens, for example, in a diode which we will study in Chapter 14.</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 in Chapter 14.
 
 -2
 
 I
 
-### 1.5
-mA
+### 1.5 mA
 
 0.2
 
@@ -812,11 +855,14 @@ of a diode. Note the different
 scales for negative and positive
 values of the voltage and current.
 
-age and current
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_7.png" alt="Fig. 3.7" onclick="openImageModal(this.src, 'Fig. 3.7: one value of V for the same current I (Fig. 3.7). A material exhibiting such beh...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.7</strong> one value of V for the same current I (Fig. 3.7). A material exhibiting such behaviour is GaAs. Materials and devices not obeying Ohm’s law in the form of Eq. (3.3) are actually widely used in electronic circuits. In this and a few subsequent chapters, however, we will study the electrical currents in materials that obey Ohm’s law.</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
-Voltage V (V) →
-
-FIGURE 3.7 Variation of current
 versus voltage for GaAs.
 
 (c) The relation between Vand I is not unique, i.e., there is more than
@@ -835,7 +881,7 @@ depending on their resistivities, in an increasing order of their values.
 
 89
 
-Reprint 2026-27
+
 
 
 ---
@@ -881,7 +927,15 @@ For metals, a is positive.
 
 The relation of Eq. (3.26) implies that a graph of p₁ plotted against T
 would be a straight line. At temperatures much lower than 0°C, the graph,
-however, deviates considerably from a straight line (Fig. 3.8).
+however, deviates considerably from a straight line (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_8.png" alt="Fig. 3.8" onclick="openImageModal(this.src, 'Fig. 3.8: The relation of Eq. (3.26) implies that a graph of rT plotted against T would be...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.8</strong> The relation of Eq. (3.26) implies that a graph of rT plotted against T would be a straight line. At temperatures much lower than 0°C, the graph, however, deviates considerably from a straight line (Fig. 3.8).</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
 Equation (3.26) thus, can be used approximately over a limited range
 of T around any reference temperature To, where the graph can be
@@ -907,17 +961,25 @@ Resistivity pr of
 copper as a function
 of temperature T.
 
-90
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_9.png" alt="Fig. 3.9" onclick="openImageModal(this.src, 'Fig. 3.9: FIGURE 3.9 Resistivity...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.9</strong> FIGURE 3.9 Resistivity</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
-200 400 600 800
-Temperature T (K) →
-
-FIGURE 3.9 Resistivity
 p of nichrome as a
 function of absolute
 temperature T.
 
-FIGURE 3.10
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_10.png" alt="Fig. 3.10" onclick="openImageModal(this.src, 'Fig. 3.10: FIGURE 3.10 Temperature dependence...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.10</strong> FIGURE 3.10 Temperature dependence</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
 T
 
@@ -931,7 +993,7 @@ chromium) exhibit a very weak dependence of resistivity with temperature
 materials are thus widely used in wire bound standard resistors since
 their resistance values would change very little with temperatures.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1020,7 +1082,7 @@ effect due to the current equals heat loss to the surroundings) is
 
 EXAMPLE 3.3
 
-Reprint 2026-27
+
 
 91
 
@@ -1125,7 +1187,7 @@ P=IV
 
 (3.32)
 
-Reprint 2026-27
+
 
 
 ---
@@ -1148,7 +1210,16 @@ Where does the power come from? As we have
 reasoned before, we need an external source to keep
 a steady current through the conductor. It is clearly
 this source which must supply this power. In the
-simple circuit shown with a cell (Fig.3.11), it is the
+simple circuit shown with a cell (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_11.png" alt="Fig. 3.11" onclick="openImageModal(this.src, 'Fig. 3.11: Where does the power come from? As we have reasoned before, we need an external ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.11</strong> Where does the power come from? As we have reasoned before, we need an external source to keep a steady current through the conductor. It is clearly this source which must supply this power. In the simple circuit shown with a cell (Fig.3.11), it is the chemical energy of the cell which supplies this power for as long as it can.</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 chemical energy of the cell which supplies this power
 for as long as it can.
 
@@ -1225,7 +1296,7 @@ We have already mentioned that a simple device to maintain a steady
 current in an electric circuit is the electrolytic cell. Basically a cell has
 two electrodes, called the positive (P) and the negative (N), as shown in
 
-Reprint 2026-27
+
 
 93
 
@@ -1233,29 +1304,14 @@ Reprint 2026-27
 ---
 ## 📄 Page 14
 
-Physics
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_12.png" alt="Fig. 3.12" onclick="openImageModal(this.src, 'Fig. 3.12: Fig. 3.12. They are immersed in an electrolytic solution. Dipped in the solution...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.12</strong> Fig. 3.12. They are immersed in an electrolytic solution. Dipped in the solution, the electrodes exchange charges with the electrolyte. The positive electrode has a potential difference V+ (V+ > 0) between itself and the electrolyte solution immediately adjacent to it marked A in the figure. Similarly, the negative electrode develops a negative potential – (V– ) (V– ≥ 0) relative to the electrolyte adjacent to it, marked as B in the figure. When there is no current, the electrolyte has the same potential throughout, so that the potential difference between P and N is V+ – (–V–) = V+ + V– . This difference is called the electromotive force (emf) of the cell and is denoted by e. Thus</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
-R
-
-CI
-
-I D
-
-IP
-
-NI
-
-A
-
-B
-
-Electrolyte
-
-+
-
-(a)
-
-Fig. 3.12. They are immersed in an electrolytic solution. Dipped in
 the solution, the electrodes exchange charges with the electrolyte.
 The positive electrode has a potential difference V₁ (V₁ > 0) between
 itself and the electrolyte solution immediately adjacent to it marked
@@ -1356,7 +1412,7 @@ Combining Eqs. (3.38) and (3.39), we get
 
 (3.39)
 
-Reprint 2026-27
+
 
 
 ---
@@ -1384,35 +1440,14 @@ Like resistors, cells can be combined together in an electric circuit. And
 like resistors, one can, for calculating currents and voltages in a circuit,
 replace a combination of cells by an equivalent cell.
 
-E1
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_13.png" alt="Fig. 3.13" onclick="openImageModal(this.src, 'Fig. 3.13: FIGURE FIGURE FIGURE FIGURE FIGURE 3.13 3.13 3.13 3.13 3.13 Two cells of emf’s e...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.13</strong> FIGURE FIGURE FIGURE FIGURE FIGURE 3.13 3.13 3.13 3.13 3.13 Two cells of emf’s e1 and e2 in the series. r1, r2 are their internal resistances. For connections across A and C, the combination</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
-E2
-
-Eeq
-
-I
-
-=
-
-AI
-
-B
-
-C
-
-AI
-
-C
-
-Γι
-
-T2
-
-Teq
-
-blished
-
-FIGURE 3.13 Two cells of emf's &₁ and &₂ in the series. r₁, r₂ are their
 internal resistances. For connections across A and C, the combination
 can be considered as one cell of emf &eq
 
@@ -1477,7 +1512,7 @@ and_req = 11 + 12
 In Fig.3.13, we had connected the negative electrode of the first to the
 positive electrode of the second. If instead we connect the two negatives,
 
-Reprint 2026-27
+
 
 95
 
@@ -1536,9 +1571,14 @@ their individual emf's, and
 (ii) The equivalent internal resistance of a series combination of n cells is
 just the sum of their internal resistances.
 
-IC
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_14.png" alt="Fig. 3.14" onclick="openImageModal(this.src, 'Fig. 3.14: Next, consider a parallel combination of the cells (Fig. 3.14). I1 and I2 are th...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.14</strong> Next, consider a parallel combination of the cells (Fig. 3.14). I1 and I2 are the currents leaving the positive electrodes of the cells. At the point B1, I1 and I2 flow in whereas the current I flows out. Since as much charge flows in as out, we have</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
-FIGURE 3.14 Two cells in
 parallel. For connections
 across A and C, the
 combination can be
@@ -1652,7 +1692,7 @@ We can put these equations in a simpler way,
 
 96
 
-Reprint 2026-27
+
 
 
 ---
@@ -1786,9 +1826,14 @@ V = 8 + Ir
 Having clarified labelling, we now state the rules and the proof:
 (a) Junction rule: At any junction, the sum of the currents entering
 the junction is equal to the sum of currents leaving the junction
-(Fig. 3.15).
 
-Reprint 2026-27
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_15.png" alt="Fig. 3.15" onclick="openImageModal(this.src, 'Fig. 3.15: Having clarified labelling, we now state the rules and the proof: (a) Junction r...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.15</strong> Having clarified labelling, we now state the rules and the proof: (a) Junction rule: At any junction, the sum of the currents entering the junction is equal to the sum of currents leaving the junction (Fig. 3.15).</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
 
 97
 
@@ -1870,7 +1915,16 @@ and
 
 Example 3.5 A battery of 10 V and negligible internal resistance is
 connected across the diagonally opposite corners of a cubical network
-consisting of 12 resistors each of resistance 1 Ω (Fig. 3.16). Determine
+consisting of 12 resistors each of resistance 1 Ω (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_16.png" alt="Fig. 3.16" onclick="openImageModal(this.src, 'Fig. 3.16: Example 3.5 A battery of 10 V and negligible internal resistance is connected ac...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.16</strong> Example 3.5 A battery of 10 V and negligible internal resistance is connected across the diagonally opposite corners of a cubical network consisting of 12 resistors each of resistance 1 W (Fig. 3.16). Determine the equivalent resistance of the network and the current along each edge of the cube.</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
+
 the equivalent resistance of the network and the current along each
 edge of the cube.
 
@@ -1926,7 +1980,7 @@ C
 
 98
 
-Reprint 2026-27
+
 
 FIGURE 3.16
 
@@ -1994,7 +2048,14 @@ and only by application of Kirchhoff's rules to junctions and closed loops
 handle the problem. This will be illustrated in Example 3.6.
 
 Example 3.6 Determine the current in each branch of the network
-shown in Fig. 3.17.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_17.png" alt="Fig. 3.17" onclick="openImageModal(this.src, 'Fig. 3.17: Example 3.6 Determine the current in each branch of the network shown in Fig. 3....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.17</strong> Example 3.6 Determine the current in each branch of the network shown in Fig. 3.17.</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
 
 not to
 
@@ -2037,7 +2098,7 @@ D
 
 5V
 
-Reprint 2026-27
+
 
 PHYSICS
 
@@ -2158,7 +2219,15 @@ As
 not
 
 As an application of Kirchhoff's rules consider the circuit shown in
-Fig. 3.18, which is called the Wheatstone bridge. The bridge has
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_18.png" alt="Fig. 3.18" onclick="openImageModal(this.src, 'Fig. 3.18: As an application of Kirchhoff’s rules consider the circuit shown in Fig. 3.18, ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.18</strong> As an application of Kirchhoff’s rules consider the circuit shown in Fig. 3.18, which is called the Wheatstone bridge. The bridge has four resistors R1, R2, R3 and R4. Across one pair of diagonally opposite points (A and C in the figure) a source is connected. This (i.e., AC) is called the battery arm. Between the other two vertices, B and D, a galvanometer G (which is a device to detect currents) is connected. This line, shown as BD in the figure, is called the galvanometer arm.</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
+
 four resistors R1, R2, R3 and R₁. Across one pair of diagonally opposite
 points (A and C in the figure) a source is connected. This (i.e., AC) is
 called the battery arm. Between the other two vertices, B and D, a
@@ -2173,7 +2242,7 @@ where the resistors are such that I
 condition, such that there is no current through G. In this case, the
 Kirchhoff's junction rule applied to junctions D and B (see the figure)
 
-Reprint 2026-27
+
 
 =
 
@@ -2275,7 +2344,16 @@ given by
 
 A practical device using this this principle principle is is called the meter bridge.
 
-Example 3.7 The four arms of a Wheatstone bridge (Fig. 3.19) have
+Example 3.7 The four arms of a Wheatstone bridge (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_19.png" alt="Fig. 3.19" onclick="openImageModal(this.src, 'Fig. 3.19: Example 3.7 The four arms of a Wheatstone bridge (Fig. 3.19) have the following ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.19</strong> Example 3.7 The four arms of a Wheatstone bridge (Fig. 3.19) have the following resistances:</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
+
 the following resistances:
 
 ΑΒ = 100Ω, BC = 10Ω, CD = 5Ω, and DA = 602.
@@ -2324,7 +2402,7 @@ I
 
 FIGURE 3.19
 
-Reprint 2026-27
+
 
 EXAMPLE 3.7
 
@@ -2433,7 +2511,7 @@ proportional to the voltage V across its ends, i.e., V∝ Ior V = RI,
 where Ris called the resistance of the substance. The unit of resistance
 is ohm: 10 = 1 VA¯¹.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2522,7 +2600,7 @@ R+r
 
 where r is the internal resistance of the source.
 
-Reprint 2026-27
+
 
 103
 
@@ -2692,7 +2770,7 @@ I = j AS
 
 where j and AS are vectors.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2760,27 +2838,21 @@ of Kirchhoff's junction rule.
 
 EXERCISES
 
-### 3.1
-
-The storage battery of a car has an emf of 12 V. If the internal
+### 3.1 The storage battery of a car has an emf of 12 V. If the internal
 resistance of the battery is 0.4 Ω, what is the maximum current
 that can be drawn from the battery?
 
-### 3.2
-
-A battery of emf 10 V and internal resistance 3 Ω is connected to a
+### 3.2 A battery of emf 10 V and internal resistance 3 Ω is connected to a
 resistor. If the current in the circuit is 0.5 A, what is the resistance
 of the resistor? What is the terminal voltage of the battery when the
 circuit is closed?
 
-### 3.3
-
-At room temperature (27.0 °C) the resistance of a heating element
+### 3.3 At room temperature (27.0 °C) the resistance of a heating element
 is 100 Ω. What is the temperature of the element if the resistance is
 found to be 117 Ω, given that the temperature coefficient of the
 material of the resistor is 1.70 × 10-4 °C-1.
 
-Reprint 2026-27
+
 
 105
 
@@ -2798,9 +2870,7 @@ Physics
 
 ### 3.6
 
-### 3.7
-
-A negligibly small current is passed through a wire of length 15 m
+### 3.7 A negligibly small current is passed through a wire of length 15 m
 and uniform cross-section 6.0 × 10-7 m², and its resistance is
 measured to be 5.0 Ω. What is the resistivity of the material at the
 temperature of the experiment?
@@ -2817,13 +2887,18 @@ of resistance of nichrome averaged over the temperature range
 involved is 1.70 × 10~4 °C-1.
 
 Determine the current in each branch of the network shown in
-Fig. 3.20:
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_20.png" alt="Fig. 3.20" onclick="openImageModal(this.src, 'Fig. 3.20: 3.4 A negligibly small current is passed through a wire of length 15 m and unifo...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.20</strong> 3.4 A negligibly small current is passed through a wire of length 15 m and uniform cross-section 6.0 × 10–7 m2, and its resistance is measured to be 5.0 W. What is the resistivity of the material at the temperature of the experiment? 3.5 A silver wire has a resistance of 2.1 W at 27.5 °C, and a resistance of 2.7 W at 100 °C. Determine the temperature coefficient of resistivity of silver. 3.6 A heating element using nichrome connected to a 230 V supply draws an initial current of 3.2 A which settles after a few seconds to a steady value of 2.8 A. What is the steady temperature of the heating element if the room temperature is 27.0 °C? Temperature coefficient of resistance of nichrome averaged over the temperature range involved is 1.70 × 10–4 °C–1. 3.7 Determine the current in each branch of the network shown in Fig. 3.20:</span>
+    <button class="icon-btn" onclick="goToPdfPage(26)">📄 View in PDF (Page 26)</button>
+  </div>
+</div>
 
 B
 
-### 3.8
-
-A
+### 3.8 A
 
 10 Ω
 
@@ -2853,9 +2928,7 @@ current of 3.0 A.
 
 not
 
-### 3.9
+### 3.9 to
 
-to
 
-Reprint 2026-27
 

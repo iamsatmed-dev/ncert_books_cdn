@@ -5,15 +5,13 @@
 ---
 ## 📄 Page 1
 
-11086CH06
+
 
 CHAPTER FIVE
 
 WORK, ENERGY AND POWER
 
-### 5.1
-
-Introduction
+### 5.1 Introduction
 
 ### 5.2 Notions of work and kinetic
 
@@ -93,7 +91,7 @@ shall look at the vector product in Chapter 6. Here we take
 up the scalar product of two vectors. The scalar product or
 dot product of any two vectors A and B, denoted as A·B (read
 
-Reprint 2026-27
+
 
 
 ---
@@ -110,7 +108,15 @@ AB = A B cos 0
 (5.1a)
 
 where is the angle between the two vectors as
-shown in Fig. 5.1(a). Since A, B and cos e are
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_1.png" alt="Fig. 5.1" onclick="openImageModal(this.src, 'Fig. 5.1: where θ is the angle between the two vectors as shown in Fig. 5.1(a). Since A, B...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.1</strong> where θ is the angle between the two vectors as shown in Fig. 5.1(a). Since A, B and cos θ are scalars, the dot product of A and B is a scalar quantity. Each vector, A and B, has a direction but their scalar product does not have a direction.</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 scalars, the dot product of A and B is a scalar
 quantity. Each vector, A and B, has a direction
 but their scalar product does not have a
@@ -265,7 +271,7 @@ A
 Fig. 5.1 (a) The scalar product of two vectors A and B is a scalar : A·B = A B cos θ. (b) B cos is the projection
 of B onto A. (c) A cos e is the projection of A onto B.
 
-Reprint 2026-27
+
 
 
 ---
@@ -422,7 +428,14 @@ As seen earlier, work is related to force and the
 displacement over which it acts. Consider a
 constant force F acting on an object of mass m.
 The object undergoes a displacement d in the
-positive x-direction as shown in Fig. 5.2.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_2.png" alt="Fig. 5.2" onclick="openImageModal(this.src, 'Fig. 5.2: As seen earlier, work is related to force and the displacement over which it act...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.2</strong> As seen earlier, work is related to force and the displacement over which it acts. Consider a constant force F acting on an object of mass m. The object undergoes a displacement d in the positive x-direction as shown in Fig. 5.2.</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 d
 
@@ -431,7 +444,7 @@ X
 Fig. 5.2 An object undergoes a displacement d
 under the influence of the force F.
 
-Reprint 2026-27
+
 
 
 ---
@@ -570,7 +583,7 @@ K = -m v.v = -1 mv²
 Kinetic energy is a scalar quantity. The kinetic
 energy of an object is a measure of the work an
 
-Reprint 2026-27
+
 
 
 ---
@@ -660,11 +673,15 @@ f
 102
 
 ### 1.4×10-3
-~ 10-21
 
-75
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_3.png" alt="Fig. 5.3" onclick="openImageModal(this.src, 'Fig. 5.3: A constant force is rare. It is the variable force, which is more commonly encou...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.3</strong> A constant force is rare. It is the variable force, which is more commonly encountered. Fig. 5.3 is a plot of a varying force in one dimension.</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
-This is illustrated in Fig. 5.3(a). Adding
 successive rectangular areas in Fig. 5.3(a) we
 get the total work done as
 
@@ -751,7 +768,7 @@ X
 
 Fig. 5.3(a)
 
-Reprint 2026-27
+
 
 
 ---
@@ -843,37 +860,14 @@ dx
 
 υ
 
-Newton's Second Law)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_4.png" alt="Fig. 5.4" onclick="openImageModal(this.src, 'Fig. 5.4: Fig. 5.4 Plot of the force F applied by the woman and the opposing frictional fo...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.4</strong> Fig. 5.4 Plot of the force F applied by the woman and the opposing frictional force f versus displacement.</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
-rebilshed
-
-B F
-
-C
-
-100
-
-50-
-
-E
-
-OA
-
-D
-
-I
-
-10 m
-
-20 m x
-
-f = -50-
-
-G
-
-H
-
-Fig. 5.4 Plot of the force F applied by the woman and
 the opposing frictional force f versus
 
 displacement.
@@ -961,7 +955,7 @@ over an interval of time. In this sense, the temporal
 (time) information contained in the statement of
 Newton's second law is 'integrated over' and is
 
-Reprint 2026-27
+
 
 
 ---
@@ -1117,7 +1111,7 @@ manifests itself as kinetic energy. Mathematically,
 
 The variation of g with height is discussed in Chapter 7 on Gravitation.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1260,7 +1254,16 @@ conservative.
 The above discussion can be made more
 concrete by considering the example of the
 gravitational force once again and that of the
-spring force in the next section. Fig. 5.5 depicts
+spring force in the next section.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_5.png" alt="Fig. 5.5" onclick="openImageModal(this.src, 'Fig. 5.5: The above discussion can be made more concrete by considering the example of the...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.5</strong> The above discussion can be made more concrete by considering the example of the gravitational force once again and that of the spring force in the next section. Fig. 5.5 depicts a ball of mass m being dropped from a cliff of height H.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 a ball of mass m being dropped from a cliff of
 height H.
 
@@ -1280,7 +1283,7 @@ Fig. 5.5 The conversion of potential energy to kinetic
 energy for a ball of mass m dropped from a
 height H.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1406,7 +1409,15 @@ horizontal velocity v at the lowest point A
 such that it completes a semi-circular
 trajectory in the vertical plane with the string
 becoming slack only on reaching the topmost
-point, C. This is shown in Fig. 5.6. Obtain an
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_6.png" alt="Fig. 5.6" onclick="openImageModal(this.src, 'Fig. 5.6: Example 5.7 A bob of mass m is suspended by a light string of length L . It is i...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.6</strong> Example 5.7 A bob of mass m is suspended by a light string of length L . It is imparted a horizontal velocity vo at the lowest point A such that it completes a semi-circular trajectory in the vertical plane with the string becoming slack only on reaching the topmost point, C. This is shown in Fig. 5.6. Obtain an expression for (i) vo; (ii) the speeds at points B and C; (iii) the ratio of the kinetic energies (KB/KC) at B and C. Comment on the nature of the trajectory of the bob after it reaches the point C.</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 expression for (i) v; (ii) the speeds at points
 Band C; (iii) the ratio of the kinetic energies
 (K/K) at B and C. Comment on the nature
@@ -1490,7 +1501,7 @@ Img
 
 Fig. 5.6
 
-Reprint 2026-27
+
 
 ==mgL
 2
@@ -1532,7 +1543,16 @@ complete the revolution.
 
 ### 5.9 THE POTENTIAL ENERGY OF A SPRING
 The spring force is an example of a variable force
-which is conservative. Fig. 5.7 shows a block
+which is conservative.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_7.png" alt="Fig. 5.7" onclick="openImageModal(this.src, 'Fig. 5.7: The spring force is an example of a variable force which is conservative. Fig. 5...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.7</strong> The spring force is an example of a variable force which is conservative. Fig. 5.7 shows a block attached to a spring and resting on a smooth horizontal surface. The other end of the spring is attached to a rigid wall. The spring is light and may be treated as massless. In an ideal spring, the spring force Fs is proportional to x where x is the displacement of the block from the equilibrium position. The displacement could be either positive [Fig. 5.7(b)] or negative [Fig. 5.7(c)]. This force law for the spring is called Hooke’s law and is mathematically stated as</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 attached to a spring and resting on a smooth
 horizontal surface. The other end of the spring
 is attached to a rigid wall. The spring is light
@@ -1677,7 +1697,7 @@ The same is true when the spring is
 compressed with a displacement x (< 0). The
 spring force does work_W = - kx²/2 while the
 
-Reprint 2026-27
+
 
 
 ---
@@ -1744,7 +1764,14 @@ Xi
 
 and vice versa, however, the total mechanical
 energy remains constant. This is graphically
-depicted in Fig. 5.8.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_8.png" alt="Fig. 5.8" onclick="openImageModal(this.src, 'Fig. 5.8: Fig. 5.8 Parabolic plots of the potential energy V and kinetic energy K of a blo...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.8</strong> Fig. 5.8 Parabolic plots of the potential energy V and kinetic energy K of a block attached to a spring obeying Hooke’s law. The two plots are complementary, one decreasing as the other increases. The total mechanical energy E = K + V remains constant.</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
 
 -Xm
 
@@ -1814,8 +1841,7 @@ equilibrium position, x = 0, i.e.,
 
 2
 
-### 1. 2
-mum = kxm
+### 1.2 mum = kxm
 
 2
 
@@ -1890,7 +1916,7 @@ conservation of mechanical energy.
 V ==kxm
 2
 
-Reprint 2026-27
+
 
 
 ---
@@ -1953,7 +1979,14 @@ spring.
 Answer In presence of friction, both the spring
 force and the frictional force act so as to oppose
 the compression of the spring as shown in
-Fig. 5.9.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_9.png" alt="Fig. 5.9" onclick="openImageModal(this.src, 'Fig. 5.9: Answer In presence of friction, both the spring force and the frictional force a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.9</strong> Answer In presence of friction, both the spring force and the frictional force act so as to oppose the compression of the spring as shown in Fig. 5.9.</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 We invoke the work-energy theorem, rather
 than the conservation of mechanical energy.
@@ -2074,7 +2107,7 @@ nc
 where W is the total work done by the
 non-conservative forces over the path. Note that
 
-Reprint 2026-27
+
 
 
 ---
@@ -2205,7 +2238,14 @@ implying initial. We can cosider m₂ to be at rest.
 No loss of generality is involved in making such
 a selection. In this situation the mass m₁
 collides with the stationary mass m₂ and this
-is depicted in Fig. 5.10.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_10.png" alt="Fig. 5.10" onclick="openImageModal(this.src, 'Fig. 5.10: Consider two masses m1 and m2. The particle m1 is moving with speed v1i , the su...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.10</strong> Consider two masses m1 and m2. The particle m1 is moving with speed v1i , the subscript ‘i’ implying initial. We can cosider m2 to be at rest. No loss of generality is involved in making such a selection. In this situation the mass m1 collides with the stationary mass m2 and this is depicted in Fig. 5.10.</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
 y
 
@@ -2234,7 +2274,7 @@ directions. We shall see that there are
 relationships, which connect the masses, the
 velocities and the angles.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2432,7 +2472,7 @@ Vaf0
 The heavier mass is undisturbed while the
 lighter mass reverses its velocity.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2642,7 +2682,7 @@ U11²= (V1+V2f) (V1+V2f)
 
 = U1 + U2f + 2V1f.V2 f
 
-Reprint 2026-27
+
 
 
 ---
@@ -2766,7 +2806,7 @@ ii = j j = k + k = 1 and i j = j k = k • i = 0
 
 Scalar products obey the commutative and the distributive laws.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2917,7 +2957,7 @@ applies after the collision is over and does not hold at every instant of the co
 In fact the two colliding objects are deformed and may be momentarily at rest
 with respect to each other.
 
-Reprint 2026-27
+
 
 87
 
@@ -2986,7 +3026,16 @@ epublish
 
 and interpret your results.
 
-### 5.3 Given in Fig. 5.11 are examples of some
+### 5.3 Given in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_11.png" alt="Fig. 5.11" onclick="openImageModal(this.src, 'Fig. 5.11: body in 10 s, and interpret your results. 5.3 Given in Fig. 5.11 are examples of...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.11</strong> body in 10 s, and interpret your results. 5.3 Given in Fig. 5.11 are examples of some potential energy functions in one dimension. The total energy of the particle is indicated by a cross on the ordinate axis. In each case, specify the regions, if any, in which the particle cannot be found for the given energy. Also, indicate the minimum total energy the particle must have in each case. Think of simple physical contexts for which these potential energy shapes are relevant.</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
+
 potential energy functions in one
 dimension. The total energy of the
 particle is indicated by a cross on the
@@ -3020,7 +3069,7 @@ X
 
 hot to
 
-Reprint 2026-27
+
 
 V(x)
 
@@ -3066,7 +3115,15 @@ harmonic motion is given by V(x) =
 kx²/2, where k is the force constant
 of the oscillator. Fork = 0.5 N m²¹,
 the graph of V(x) versus x is shown
-in Fig. 5.12. Show that a particle of
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_12.png" alt="Fig. 5.12" onclick="openImageModal(this.src, 'Fig. 5.12: 5.4 The potential energy function for a particle executing linear simple harmoni...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.12</strong> 5.4 The potential energy function for a particle executing linear simple harmonic motion is given by V(x) = kx2/2, where k is the force constant of the oscillator. For k = 0.5 N m-1, the graph of V(x) versus x is shown in Fig. 5.12. Show that a particle of total energy 1 J moving under this potential must ‘turn back’ when it reaches x = ± 2 m.</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
+
 total energy 1 J moving under this
 potential must 'turn back' when it
 reaches x = ± 2 m.
@@ -3075,30 +3132,14 @@ reaches x = ± 2 m.
 
 (a) The casing of a rocket in flight
 burns up due to friction. At
-whose expense is the heat
-energy required for burning
-obtained? The rocket or the
-atmosphere?
 
-(b) Comets move around the sun
-in highly elliptical orbits. The
-gravitational force on the
-comet due to the sun is not
-normal to the comet's velocity
-
-15 kg
-
-V(x)
-
-Fig. 5.12
-
-X
-
-15 kg
-
-(i)
-
-Fig. 5.13
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_13.png" alt="Fig. 5.13" onclick="openImageModal(this.src, 'Fig. 5.13: in highly elliptical orbits. The gravitational force on the comet due to the sun...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.13</strong> in highly elliptical orbits. The gravitational force on the comet due to the sun is not normal to the comet’s velocity in general. Yet the work done by the gravitational force over every complete orbit of the comet is zero. Why ? (c) An artificial satellite orbiting the earth in very thin atmosphere loses its energy gradually due to dissipation against atmospheric resistance, however small. Why then does its speed increase progressively as it comes closer and closer to the earth ? (d) In Fig. 5.13(i) the man walks 2 m carrying a mass of 15 kg on his hands. In Fig.</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
 
 (ii)
 
@@ -3151,7 +3192,7 @@ during the short time of collision of the balls (i.e. when they are in contact) 
 (b) Is the total linear momentum conserved during the short time of an elastic collision
 of two balls ?
 
-Reprint 2026-27
+
 
 89
 
@@ -3219,7 +3260,15 @@ how much electric power is consumed by the pump?
 
 ### 5.16 Two identical ball bearings in contact with each other and resting on a frictionless
 table are hit head-on by another ball bearing of the same mass moving initially with a
-speed V. If the collision is elastic, which of the following (Fig. 5.14) is a possible result
+speed V. If the collision is elastic, which of the following (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_14.png" alt="Fig. 5.14" onclick="openImageModal(this.src, 'Fig. 5.14: in 15 min. If the tank is 40 m above the ground, and the efficiency of the pump ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.14</strong> in 15 min. If the tank is 40 m above the ground, and the efficiency of the pump is 30%, how much electric power is consumed by the pump ? 5.16 Two identical ball bearings in contact with each other and resting on a frictionless table are hit head-on by another ball bearing of the same mass moving initially with a speed V. If the collision is elastic, which of the following (Fig. 5.14) is a possible result after collision ?</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
 
 after collision ?
 
@@ -3260,7 +3309,7 @@ V
 
 Fig. 5.14
 
-Reprint 2026-27
+
 
 
 ---
@@ -3270,7 +3319,15 @@ WORK, ENERGY AND POWER
 
 ### 5.17 The bob A of a pendulum released from 30° to the
 vertical hits another bob B of the same mass at rest
-on a table as shown in Fig. 5.15. How high does
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_15.png" alt="Fig. 5.15" onclick="openImageModal(this.src, 'Fig. 5.15: 5.17 The bob A of a pendulum released from 30o to the vertical hits another bob ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 5.15</strong> 5.17 The bob A of a pendulum released from 30o to the vertical hits another bob B of the same mass at rest on a table as shown in Fig. 5.15. How high does the bob A rise after the collision ? Neglect the size of the bobs and assume the collision to be elastic.</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
+
 the bob A rise after the collision? Neglect the size of
 the bobs and assume the collision to be elastic.
 
@@ -3321,7 +3378,7 @@ converted to useful electrical energy, how large an area is needed to supply 8 k
 
 not to be
 
-Reprint 2026-27
+
 
 ed
 

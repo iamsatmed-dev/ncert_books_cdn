@@ -109,7 +109,7 @@ along with the chemistry of the transition metals.
 The presence of partly filled d or f orbitals in their
 atoms makes transition elements different from that of
 
-Reprint 2026-27
+
 
 
 ---
@@ -262,7 +262,7 @@ Z
 
 Chemistry 90
 
-Reprint 2026-27
+
 
 
 ---
@@ -564,7 +564,7 @@ other hand, zinc atom has completely filled d orbitals (3d¹º) in its
 ground state as well as in its oxidised state, hence it is not regarded
 as a transition element.
 
-Reprint 2026-27
+
 
 91 The d- and f- Block Elements
 
@@ -758,37 +758,14 @@ Nb
 
 Ru
 
-Hf
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_1.png" alt="Fig. 4.1" onclick="openImageModal(this.src, 'Fig. 4.1: Fig. 4.1: Trends in melting points of...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.1</strong> Fig. 4.1: Trends in melting points of</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
 
-Tc
-
-Rh
-
-Pt
-
-Fe Co Pd
-
-Ni
-
-Mn
-
-Cu
-
-Au
-
-Zr
-
-2-
-
-Ti-_-
-
-1
-
-Atomic number
-
-Ag
-
-Fig. 4.1: Trends in melting points of
 transition elements
 
 The transition metals (with the exception
@@ -805,13 +782,21 @@ metals rise to a maximum at d except for
 anomalous values of Mn and Te and fall
 regularly as the atomic number increases.
 They have high enthalpies of atomisation which
-are shown in Fig. 4.2. The maxima at about
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_2.png" alt="Fig. 4.2" onclick="openImageModal(this.src, 'Fig. 4.2: 5 except for anomalous values of Mn and Tc and fall regularly as the atomic numb...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.2</strong> 5 except for anomalous values of Mn and Tc and fall regularly as the atomic number increases. They have high enthalpies of atomisation which are shown in Fig. 4.2. The maxima at about the middle of each series indicate that one unpaired electron per d orbital is particularly</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 the middle of each series indicate that one
 unpaired electron per d orbital is particularly
 
 Chemistry 92
 
-Reprint 2026-27
+
 
 
 ---
@@ -889,7 +874,15 @@ radius decreases. The same trend is observed in the atomic radii of a
 given series. However, the variation within a series is quite small. An
 interesting point emerges when atomic sizes of one series are compared
 with those of the corresponding elements in the other series. The curves
-in Fig. 4.3 show an increase from the first (3d) to the second (4d) series
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_3.png" alt="Fig. 4.3" onclick="openImageModal(this.src, 'Fig. 4.3: In general, ions of the same charge in a given series show progressive decrease ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.3</strong> In general, ions of the same charge in a given series show progressive decrease in radius with increasing atomic number. This is because the new electron enters a d orbital each time the nuclear charge increases by unity. It may be recalled that the shielding effect of a d electron is not that effective, hence the net electrostatic attraction between the nuclear charge and the outermost electron increases and the ionic radius decreases. The same trend is observed in the atomic radii of a given series. However, the variation within a series is quite small. An interesting point emerges when atomic sizes of one series are compared with those of the corresponding elements in the other series. The curves in Fig. 4.3 show an increase from the first (3d) to the second (4d) series of the elements but the radii of the third (5d) series are virtually the same as those of the corresponding members of the second series. This phenomenon is associated with the intervention of the 4f orbitals which must be filled before the 5d series of elements begin. The filling of 4f before 5d orbital results in a regular decrease in atomic radii called Lanthanoid contraction which essentially compensates for the expected</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 of the elements but the radii of the third (5d) series are virtually the
 same as those of the corresponding members of the second series. This
 phenomenon is associated with the intervention of the 4f orbitals which
@@ -899,7 +892,7 @@ Lanthanoid contraction which essentially compensates for the expected
 
 93 The d- and f- Block Elements
 
-Reprint 2026-27
+
 
 
 ---
@@ -1247,7 +1240,7 @@ Density/gcm³
 
 Chemistry 94
 
-Reprint 2026-27
+
 
 
 ---
@@ -1311,7 +1304,7 @@ The three terms responsible for the value of ionisation enthalpy are
 attraction of each electron towards nucleus, repulsion between the
 95 The d- and f- Block Elements
 
-Reprint 2026-27
+
 
 
 ---
@@ -1449,7 +1442,7 @@ Zn
 
 Chemistry 96
 
-Reprint 2026-27
+
 
 
 ---
@@ -1508,7 +1501,7 @@ Intext Question
 ### 4.3 Which of the 3d series of the transition metals exhibits the
 largest number of oxidation states and why?
 
-Reprint 2026-27
+
 
 97 The d- and f- Block Elements
 
@@ -1522,7 +1515,15 @@ Standard
 ### 4.3.5 Trends in the Table 4.4 contains the thermochemical parameters related to the
 transformation of the solid metal atoms to M2+ ions in solution and their
 standard electrode potentials. The observed values of E and those
-calculated using the data of Table 4.4 are compared in Fig. 4.4.
+calculated using the data of Table 4.4 are compared in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_4.png" alt="Fig. 4.4" onclick="openImageModal(this.src, 'Fig. 4.4: V and those calculated using the data of Table 4.4 are compared in Fig. 4.4....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.4</strong> V and those calculated using the data of Table 4.4 are compared in Fig. 4.4.</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
 Electrode
 Potentials
@@ -1593,7 +1594,7 @@ reason for this? (Hint: consider its high ∆H° and low ∆hydH°)
 
 Chemistry 98
 
-Reprint 2026-27
+
 
 
 ---
@@ -1828,7 +1829,7 @@ CuXI
 
 Key: X = F → I; X = F → Br; X = F, CI; XII = CI → I
 
-Reprint 2026-27
+
 
 99 The d- and f- Block Elements
 
@@ -1966,7 +1967,7 @@ enthalpies (first and second) in the first series of the transition elements?
 
 Chemistry 100
 
-Reprint 2026-27
+
 
 
 ---
@@ -2067,7 +2068,7 @@ magnetic behaviour are observed: diamagnetism and paramagnetism.
 Diamagnetic substances are repelled by the applied field while the
 paramagnetic substances are attracted. Substances which are
 
-Reprint 2026-27
+
 
 101 The d- and f- Block Elements
 
@@ -2131,41 +2132,31 @@ Ti3+
 
 ### 1.73
 
-### 1.75
-
-T12+
+### 1.75 T12+
 
 2
 
 ### 2.84
 
-### 2.76
-
-V2+
+### 2.76 V2+
 
 3
 
 ### 3.87
 
-### 3.86
-
-Cr2+
+### 3.86 Cr2+
 
 4
 
 ### 4.90
 
-### 4.80
-
-Mn2+
+### 4.80 Mn2+
 
 5
 
 ### 5.92
 
-### 5.96
-
-Fe2+
+### 5.96 Fe2+
 
 4
 
@@ -2218,7 +2209,7 @@ With atomic number 25, the divalent ion in aqueous solution will have Solution
 
 Chemistry 102
 
-Reprint 2026-27
+
 
 
 ---
@@ -2248,14 +2239,14 @@ of the light absorbed. The
 frequency of the light
 absorbed is determined by
 the nature of the ligand.
-In aqueous solutions
-where water molecules are
-the ligands, the colours
-of the ions observed are
-listed in Table 4.8. A few
-coloured solutions of
-d-block elements are
-illustrated in Fig. 4.5.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_5.png" alt="Fig. 4.5" onclick="openImageModal(this.src, 'Fig. 4.5: When an electron from a lower energy d orbital is excited to a higher energy d o...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.5</strong> When an electron from a lower energy d orbital is excited to a higher energy d orbital, the energy of excitation corresponds to the frequency of light absorbed (Unit 5). This frequency generally lies in the visible region. The colour observed corresponds to the complementary colour of the light absorbed. The frequency of the light absorbed is determined by the nature of the ligand. In aqueous solutions where water molecules are the ligands, the colours of the ions observed are listed in Table 4.8. A few coloured solutions of d–block elements are illustrated in Fig. 4.5.</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
 Fig. 4.5: Colours of some of the first row
 transition metal ions in aqueous solutions. From
@@ -2366,7 +2357,7 @@ of Complex of anions or neutral molecules giving complex species with
 Compounds characteristic properties. A few examples are: [Fe(CN)6]³¯, [Fe(CN)6]^¯,
 [Cu(NH3)4]2+ and [PtCl4]2. (The chemistry of complex compounds is
 
-Reprint 2026-27
+
 
 103 The d- and f- Block Elements
 
@@ -2460,7 +2451,7 @@ considerable industrial importance.
 
 Chemistry 104
 
-Reprint 2026-27
+
 
 
 ---
@@ -2542,7 +2533,7 @@ dichromate, Na2Cr2O7. 2H2O can be crystallised.
 
 105 The d- and f- Block Elements
 
-Reprint 2026-27
+
 
 
 ---
@@ -2688,7 +2679,7 @@ alkaline solution
 → MnO4
 permanganate ion
 
-Reprint 2026-27
+
 
 
 ---
@@ -2795,7 +2786,7 @@ A few important oxidising reactions of KMnO4 are given below:
 
 107 The d- and f- Block Elements
 
-Reprint 2026-27
+
 
 
 ---
@@ -2879,7 +2870,7 @@ The names, symbols, electronic configurations of atomic and some
 ionic states and atomic and ionic radii of lanthanum and lanthanoids
 (for which the general symbol Ln is used) are given in Table 4.9.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2934,36 +2925,13 @@ chemistry of the lanthanoids. It has far reaching
 consequences in the chemistry of the third
 transition series of the elements. The decrease
 
-Sm³+
-
-Tm²+
-
-Yb2+
-
-Eu3+
-
-Gd³+
-
-Tb3+
-
-Dy3+
-
-Ho3+
-
-Er3+
-
-Tm3+
-
-Yb3+
-
-Lu³+
-
-Tb+
-
-57 59 61 63 65 67 69 71
-Atomic number
-
-Fig. 4.6: Trends in ionic radii of lanthanoids
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_6.png" alt="Fig. 4.6" onclick="openImageModal(this.src, 'Fig. 4.6: 3+ ions (Fig. 4.6). This contraction is, of course, similar to that observed in ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.6</strong> 3+ ions (Fig. 4.6). This contraction is, of course, similar to that observed in an ordinary transition series and is attributed to the same cause, the imperfect shielding of one electron by another in the same sub-shell. However, the shielding of one 4 f electron by another is less than one d electron by another with the increase in nuclear charge along the series. There is fairly regular decrease in the sizes with increasing atomic number.</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
 
 ### 4.5.3 Oxidation
 States
@@ -3023,7 +2991,7 @@ IV
 
 2+
 
-Reprint 2026-27
+
 
 109 The d- and f- Block Elements
 
@@ -3347,7 +3315,7 @@ Ln³+(aq) + 3e¯ → Ln(s)
 
 Chemistry 110
 
-Reprint 2026-27
+
 
 
 ---
@@ -3401,7 +3369,14 @@ hydroxides are definite compounds, not
 just hydrated oxides. They are basic
 like alkaline earth metal oxides and
 hydroxides. Their general reactions are
-depicted in Fig. 4.7.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_7.png" alt="Fig. 4.7" onclick="openImageModal(this.src, 'Fig. 4.7: are in the range of –2.2 to –2.4 V except for Eu for which the value is – 2.0 V....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 4.7</strong> are in the range of –2.2 to –2.4 V except for Eu for which the value is – 2.0 V. This is, of course, a small variation. The metals combine with hydrogen when gently heated in the gas. The carbides, Ln3C, Ln2C3 and LnC2 are formed when the metals are heated with carbon. They liberate hydrogen from dilute acids and burn in halogens to form halides. They form oxides M2O3 and hydroxides M(OH)3. The hydroxides are definite compounds, not just hydrated oxides. They are basic like alkaline earth metal oxides and hydroxides. Their general reactions are depicted in Fig. 4.7.</span>
+    <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
+  </div>
+</div>
 
 The best single use of the
 lanthanoids is for the production of alloy steels for plates and pipes. A
@@ -3657,7 +3632,7 @@ Lr
 
 5f 13
 
-Reprint 2026-27
+
 
 111 The d- and f- Block Elements
 
@@ -3801,7 +3776,7 @@ than in lanthanoids.
 
 Chemistry 112
 
-Reprint 2026-27
+
 
 
 ---
@@ -3870,7 +3845,7 @@ TiO for the pigment industry and MnO2 for use in dry battery cells. The
 battery industry also requires Zn and Ni/Cd. The elements of Group 11
 are still worthy of being called the coinage metals, although Ag and Au
 
-Reprint 2026-27
+
 
 113 The d- and f- Block Elements
 
@@ -3938,7 +3913,7 @@ oxidation state is +3, although +4 and +2 oxidation states are also exhibited by
 
 Chemistry 114
 
-Reprint 2026-27
+
 
 
 ---
@@ -4029,7 +4004,7 @@ equations for its reaction with:
 
 (ii) iron(II) solution and
 
-Reprint 2026-27
+
 
 (iii) H2S
 
@@ -4155,7 +4130,7 @@ this element.
 
 Chemistry 116
 
-Reprint 2026-27
+
 
 
 ---
@@ -4206,9 +4181,7 @@ K2[MnCl4]
 
 ### 5.3
 
-### 5.9
-
-Publis
+### 5.9 Publis
 
 Answers to Some Intext Questions
 
@@ -4247,7 +4220,7 @@ The Eº value for this is favourable.
 words the 5f electrons themselves provide poor shielding from element to
 element in the series.
 
-Reprint 2026-27
+
 
 117 The d- and f- Block Elements
 

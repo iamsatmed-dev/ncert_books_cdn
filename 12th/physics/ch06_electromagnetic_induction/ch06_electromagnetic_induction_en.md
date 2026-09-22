@@ -7,7 +7,7 @@
 
 Chapter Six
 
-12089CH06
+
 
 ELECTROMAGNETIC
 
@@ -44,7 +44,7 @@ between a bar magnet and a wire loop produced a small current in the
 latter, he was asked, "What is the use of it?" His reply was: "What is the
 use of a new born baby?" The phenomenon of electromagnetic induction
 
-Reprint 2026-27
+
 
 
 ---
@@ -67,9 +67,14 @@ induction are based on a long series of experiments carried
 out by Faraday and Henry. We shall now describe some
 of these experiments.
 
-Experiment 6.1
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_1.png" alt="Fig. 6.1" onclick="openImageModal(this.src, 'Fig. 6.1: Figure 6.1 shows a coil C1* connected to a galvanometer G. When the North-pole o...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.1</strong> Figure 6.1 shows a coil C1* connected to a galvanometer G. When the North-pole of a bar magnet is pushed towards the coil, the pointer in the galvanometer deflects, indicating the presence of electric current in the coil. The deflection lasts as long as the bar magnet is in motion. The galvanometer does not show any deflection when the magnet is held stationary. When the magnet is pulled away from the coil, the galvanometer shows deflection in the opposite direction, which indicates reversal of the current’s direction. Moreover, when the South-pole of the bar magnet is moved towards or away from the coil, the deflections in the galvanometer are opposite to that observed with the North-pole for similar movements. Further, the deflection (and hence current) is found to be larger when the magnet is pushed towards or pulled away from the coil faster. Instead, when the bar magnet is held fixed and the coil C1 is moved towards or away from the magnet, the same effects are observed. It shows that it is the relative motion between the magnet and the coil that is responsible for generation (induction) of electric current in the coil.</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
-Figure 6.1 shows a coil C₁* connected to a galvanometer
 G. When the North-pole of a bar magnet is pushed
 towards the coil, the pointer in the galvanometer deflects,
 indicating the presence of electric current in the coil. The
@@ -94,7 +99,14 @@ current in the coil.
 
 Experiment 6.2 ation (induction) of electric
 
-In Fig. 6.2 the bar magnet is replaced by a second coil
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_2.png" alt="Fig. 6.2" onclick="openImageModal(this.src, 'Fig. 6.2: In Fig. 6.2 the bar magnet is replaced by a second coil C2 connected to a batter...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.2</strong> In Fig. 6.2 the bar magnet is replaced by a second coil C2 connected to a battery. The steady current in the coil C2 produces a steady magnetic field. As coil C2 is</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 C₂ connected to a battery. The steady current in the
 coil C2 produces a steady magnetic field. As coil C2 is
 
@@ -145,7 +157,7 @@ material.
 
 155
 
-Reprint 2026-27
+
 
 
 ---
@@ -181,7 +193,16 @@ Experiment 6.3
 The above two experiments involved relative motion between
 a magnet and a coil and between two coils, respectively.
 Through another experiment, Faraday showed that this
-relative motion is not an absolute requirement. Figure 6.3
+relative motion is not an absolute requirement.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_3.png" alt="Fig. 6.3" onclick="openImageModal(this.src, 'Fig. 6.3: The above two experiments involved relative motion between a magnet and a coil a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.3</strong> The above two experiments involved relative motion between a magnet and a coil and between two coils, respectively. Through another experiment, Faraday showed that this relative motion is not an absolute requirement. Figure 6.3 shows two coils C1 and C2 held stationary. Coil C1 is connected to galvanometer G while the second coil C2 is connected to a battery through a tapping key K.</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 shows two coils C₁ and C₂ held stationary. Coil C₁ is connected
 to galvanometer G while the second coil C₂ is connected to a
 battery through a tapping key K.
@@ -224,7 +245,7 @@ induction. However, before we state and appreciate his laws, we must get
 familiar with the notion of magnetic flux, ФB. Magnetic flux is defined in
 the same way as electric flux is defined in Chapter 1. Magnetic flux through
 
-Reprint 2026-27
+
 
 
 ---
@@ -233,7 +254,16 @@ Reprint 2026-27
 Electromagnetic
 Induction
 
-a plane of area A placed in a uniform magnetic field B (Fig. 6.4) can
+a plane of area A placed in a uniform magnetic field B (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_4.png" alt="Fig. 6.4" onclick="openImageModal(this.src, 'Fig. 6.4: a plane of area A placed in a uniform magnetic field B (Fig. 6.4) can be written...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.4</strong> a plane of area A placed in a uniform magnetic field B (Fig. 6.4) can be written as</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 be written as
 
 ΦΒ = B • A = BA cos 0
@@ -247,7 +277,16 @@ has been discussed earlier in Chapter 1. Equation (6.1) can be
 extended to curved surfaces and nonuniform fields.
 
 If the magnetic field has different magnitudes and directions at
-various parts of a surface as shown in Fig. 6.5, then the magnetic
+various parts of a surface as shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_5.png" alt="Fig. 6.5" onclick="openImageModal(this.src, 'Fig. 6.5: If the magnetic field has different magnitudes and directions at various parts o...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.5</strong> If the magnetic field has different magnitudes and directions at various parts of a surface as shown in Fig. 6.5, then the magnetic flux through the surface is given by</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 flux through the surface is given by
 
 10
@@ -322,7 +361,7 @@ electromagnet is turned on or off.
 
 157
 
-Reprint 2026-27
+
 
 
 ---
@@ -429,7 +468,7 @@ placed vertically in the east-west plane. A uniform magnetic field of
 magnetic field is decreased to zero in 0.70 s at a steady rate. Determine
 the magnitudes of induced emf and current during this time-interval.
 
-Reprint 2026-27
+
 
 
 ---
@@ -537,7 +576,7 @@ rotation at the particular instant.
 
 EXAMPLE 6.3
 
-Reprint 2026-27
+
 
 159
 
@@ -545,15 +584,14 @@ Reprint 2026-27
 ---
 ## 📄 Page 7
 
-N
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_6.png" alt="Fig. 6.6" onclick="openImageModal(this.src, 'Fig. 6.6: A little reflection on this matter should convince us on the correctness of Lenz...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.6</strong> A little reflection on this matter should convince us on the correctness of Lenz’s law. Suppose that the induced current was in the direction opposite to the one depicted in Fig. 6.6(a). In that case, the South-pole due to the induced current will face the approaching North-pole of the magnet. The bar magnet will then be attracted towards the coil at an ever increasing acceleration. A gentle push on the magnet will initiate the process and its velocity and kinetic energy will continuously increase without expending any energy. If this can happen, one could construct a perpetual-motion machine by a suitable arrangement. This violates the law of conservation of energy and hence can not happen.</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
-N
-
-(a)
-
-(b)
-
-FIGURE 6.6
 Illustration of
 Lenz's law.
 
@@ -616,18 +654,20 @@ Where does the energy spent by the person go? This energy is
 
 dissipated by Joule heating produced by the induced current.
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 8
 
-Electromagnetic
-Induction
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_7.png" alt="Fig. 6.7" onclick="openImageModal(this.src, 'Fig. 6.7: Example 6.4 Figure 6.7 shows planar loops of different shapes moving out of or i...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.7</strong> Example 6.4 Figure 6.7 shows planar loops of different shapes moving out of or into a region of a magnetic field which is directed normal to the plane of the loop away from the reader. Determine the direction of induced current in each loop using Lenz’s law.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
-Example 6.4
-
-Figure 6.7 shows planar loops of different shapes moving out of or
 into a region of a magnetic field which is directed normal to the plane
 of the loop away from the reader. Determine the direction of induced
 current in each loop using Lenz's law.
@@ -773,12 +813,20 @@ the plates of a large capacitor. Is a current induced in the loop
 electric field is normal to the plane of the loop.
 
 (c) A rectangular loop and a circular loop are moving out of a uniform
-magnetic field region (Fig. 6.8) to a field-free region with a constant
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_8.png" alt="Fig. 6.8" onclick="openImageModal(this.src, 'Fig. 6.8: magnetic field region (Fig. 6.8) to a field-free region with a constant velocity...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.8</strong> magnetic field region (Fig. 6.8) to a field-free region with a constant velocity v. In which loop do you expect the induced emf to be constant during the passage out of the field region? The field is normal to the loops.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 velocity v. In which loop do you expect the induced emf to be
 constant during the passage out of the field region? The field is
 normal to the loops.
 
-Reprint 2026-27
+
 
 EXAMPLE 6.4
 
@@ -876,7 +924,13 @@ FIGURE 6.8
 
 (d) Predict the polarity of the capacitor in the situation described by
 
-Fig. 6.9.
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_9.png" alt="Fig. 6.9" onclick="openImageModal(this.src, 'Fig. 6.9: Fig. 6.9....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.9</strong> Fig. 6.9.</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
 EXAMPLE 6.5
 
@@ -914,7 +968,16 @@ the capacitor.
 6.6 ΜΟΤΙONAL ELECTROMOTIVE FORCE
 
 Let us consider a straight conductor moving in a uniform and time-
-independent magnetic field. Figure 6.10 shows a rectangular conductor
+independent magnetic field.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_10.png" alt="Fig. 6.10" onclick="openImageModal(this.src, 'Fig. 6.10: Let us consider a straight conductor moving in a uniform and time- independent m...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.10</strong> Let us consider a straight conductor moving in a uniform and time- independent magnetic field. Figure 6.10 shows a rectangular conductor PQRS in which the conductor PQ is free to move. The rod PQ is moved</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 PQRS in which the conductor PQ is free to move. The rod PQ is moved
 towards the left with a constant velocity v as
 shown in the figure. Assume that there is no
@@ -1055,7 +1118,7 @@ dt
 
 (6.5)
 
-Reprint 2026-27
+
 
 
 ---
@@ -1129,13 +1192,21 @@ Example 6.6 A metallic rod of 1 m length is rotated with a frequency
 of 50 rev/s, with one end hinged at the centre and the other end at the
 circumference of a circular metallic ring of radius 1 m, about an axis
 passing through the centre and perpendicular to the plane of the ring
-(Fig. 6.11). A constant and uniform magnetic field of 1 T parallel to the
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_11.png" alt="Fig. 6.11" onclick="openImageModal(this.src, 'Fig. 6.11: Example 6.6 A metallic rod of 1 m length is rotated with a frequency of 50 rev/s...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.11</strong> Example 6.6 A metallic rod of 1 m length is rotated with a frequency of 50 rev/s, with one end hinged at the centre and the other end at the circumference of a circular metallic ring of radius 1 m, about an axis passing through the centre and perpendicular to the plane of the ring (Fig. 6.11). A constant and uniform magnetic field of 1 T parallel to the axis is present everywhere. What is the emf between the centre and the metallic ring?</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 axis is present everywhere. What is the emf between the centre and
 the metallic ring?
 
 EXAMPLE 6.6
 
-Reprint 2026-27
+
 
 163
 
@@ -1374,7 +1445,7 @@ dt
 This expression is identical to the expression obtained by Method I
 and we get the same value of ɛ.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1449,9 +1520,14 @@ SI unit of inductance is henry and is denoted by H. It is named in honour
 of Joseph Henry who discovered electromagnetic induction in USA,
 independently of Faraday in England.
 
-6.7.1 Mutual inductance
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_12.png" alt="Fig. 6.12" onclick="openImageModal(this.src, 'Fig. 6.12: Consider Fig. 6.12 which shows two long co-axial solenoids each of length l. We ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.12</strong> Consider Fig. 6.12 which shows two long co-axial solenoids each of length l. We denote the radius of the inner solenoid S1</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
-Consider Fig. 6.12 which shows two long co-axial solenoids each of length
 1. We denote the radius of the inner solenoid S₁ by r₁ and the number of
 turns per unit length by n₁. The corresponding quantities for the outer
 solenoid S₂ are r₂ and n₂, respectively. Let N₁ and N₂ be the total number
@@ -1459,7 +1535,7 @@ of turns of coils S₁ and S₂, respectively.
 
 165
 
-Reprint 2026-27
+
 
 
 ---
@@ -1560,7 +1636,7 @@ the length as well as cross section of the outer solenoid. Therefore, the
 calculation of M21 would also be extremely difficult in this case. The
 equality M12=M21 is very useful in such situations.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1673,7 +1749,7 @@ dI2
 
 dt
 
-Reprint 2026-27
+
 
 167
 
@@ -1771,7 +1847,7 @@ permeability of the medium.
 The self-induced emf is also called the back emf as it opposes any
 change in the current in a circuit. Physically, the self-inductance plays
 
-Reprint 2026-27
+
 
 
 ---
@@ -1889,7 +1965,7 @@ L
 
 (since B = µnl, for a solenoid)
 
-Reprint 2026-27
+
 
 EXAMPLE 6.9
 
@@ -1969,33 +2045,13 @@ are general and valid for any region of space in which a magnetic field
 
 or/and an electric field exist.
 
-be repush
-
-2,
-
-Axle
-
-Coil
-
-6.8 AC GENERATOR
-
-N
-
-S
-
-Slip
-rings
-
-Lelele
-
-efele
-
-Alternating emf
-
-Carbon
-brushes
-
-FIGURE 6.13 AC Generator
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_13.png" alt="Fig. 6.13" onclick="openImageModal(this.src, 'Fig. 6.13: FIGURE 6.13 AC Generator...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.13</strong> FIGURE 6.13 AC Generator</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
 
 The phenomenon of electromagnetic induction
 has been technologically exploited in many ways.
@@ -2018,7 +2074,7 @@ flux change is the principle of operation of a
 
 170
 
-Reprint 2026-27
+
 
 
 ---
@@ -2083,7 +2139,16 @@ sin wt = ±1. If we denote NBAω as ɛ, then
 (6.20)
 
 Since the value of the sine fuction varies between +1 and −1, the sign, or
-polarity of the emf changes with time. Note from Fig. 6.14 that the emf
+polarity of the emf changes with time. Note from
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_14.png" alt="Fig. 6.14" onclick="openImageModal(this.src, 'Fig. 6.14: Since the value of the sine fuction varies between +1 and –1, the sign, or polar...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.14</strong> Since the value of the sine fuction varies between +1 and –1, the sign, or polarity of the emf changes with time. Note from Fig. 6.14 that the emf has its extremum value when q = 90° or q = 270°, as the change of flux is greatest at these points.</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
+
 has its extremum value when 0 = 90° or 0 = 270°, as the change of flux is
 greatest at these points.
 
@@ -2111,7 +2176,7 @@ generators produce electric power as high as 500 MW, i.e., one can light
 
 171
 
-Reprint 2026-27
+
 
 
 ---
@@ -2268,7 +2333,7 @@ The maximum voltage is 0.314 V.
 We urge you to explore such alternative possibilities for power
 generation.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2363,7 +2428,7 @@ the motional emf produced is
 where we have assumed that at time t = 0 s, the coil is perpendicular to
 the field.
 
-Reprint 2026-27
+
 
 173
 
@@ -2460,7 +2525,7 @@ EXERCISES
 Predict the direction of induced current in the situations described
 by the following Figs. 6.15(a) to (f).
 
-Reprint 2026-27
+
 
 
 ---
@@ -2492,16 +2557,24 @@ N
 6.2
 
 Use Lenz's law to determine the direction of induced current in the
-situations described by Fig. 6.16:
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_16.png" alt="Fig. 6.16" onclick="openImageModal(this.src, 'Fig. 6.16: 6.2 Use Lenz’s law to determine the direction of induced current in the situatio...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.16</strong> 6.2 Use Lenz’s law to determine the direction of induced current in the situations described by Fig. 6.16: (a) A wire of irregular shape turning into a circular shape;</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
 
 (a) A wire of irregular shape turning into a circular shape;
 
-(Tapping key just released)
-(e)
-
-(f)
-
-FIGURE 6.15
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_15.png" alt="Fig. 6.15" onclick="openImageModal(this.src, 'Fig. 6.15: FIGURE 6.15...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 6.15</strong> FIGURE 6.15</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
 
 r
 
@@ -2535,7 +2608,7 @@ a steady rate
 Rheostat setting
 being changed
 
-Reprint 2026-27
+
 
 175
 
@@ -2631,5 +2704,5 @@ change of flux linkage with the other coil?
 
 not
 
-Reprint 2026-27
+
 

@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11080CH02
+
 
 CHAPTER 2
 
@@ -62,7 +62,7 @@ different scientists over the time.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -214,7 +214,7 @@ under algae. The classification did not differentiate between the heterotrophic
 group - fungi, and the autotrophic green plants, though they also showed
 a characteristic difference in their walls composition – the fungi had chitin
 
-Reprint 2025-26
+
 
 
 ---
@@ -257,7 +257,14 @@ parasites.
 Bacteria are grouped under four categories based on their shape: the
 spherical Coccus (pl.: cocci), the rod-shaped Bacillus (pl.: bacilli), the
 comma-shaped Vibrium (pl.: vibrio) and the spiral Spirillum (pl.: spirilla)
-(Figure 2.1).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch02_biological_classification_fig_2_1.png" alt="Fig. 2.1" onclick="openImageModal(this.src, 'Fig. 2.1: Figure 2.1 Bacteria of different shapes...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.1</strong> Figure 2.1 Bacteria of different shapes</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 not t
 
@@ -275,7 +282,7 @@ Vibrio
 
 Figure 2.1 Bacteria of different shapes
 
-Reprint 2025-26
+
 
 
 ---
@@ -317,7 +324,15 @@ bacteria'. They are characterised by the presence of a
 rigid cell wall, and if motile, a flagellum. The
 cyanobacteria (also referred to as blue-green algae)
 have chlorophyll a similar to green plants and are
-photosynthetic autotrophs (Figure 2.2). The
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch02_biological_classification_fig_2_2.png" alt="Fig. 2.2" onclick="openImageModal(this.src, 'Fig. 2.2: Figure 2.2 A filamentous blue-green...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.2</strong> Figure 2.2 A filamentous blue-green</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 cyanobacteria are unicellular, colonial or filamentous,
 freshwater/marine or terrestrial algae. The colonies
 are generally surrounded by gelatinous sheath. They
@@ -347,24 +362,19 @@ sheath
 Figure 2.2 A filamentous blue-green
 algae - Nostoc
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 5
 
-14
-
-BIOLOGY
-
-Cell wall
-
-Cell
-membrane
-
-DNA
-
-Figure 2.3 A dividing bacterium
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch02_biological_classification_fig_2_3.png" alt="Fig. 2.3" onclick="openImageModal(this.src, 'Fig. 2.3: Bacteria reproduce mainly by fission (Figure 2.3). Sometimes, under unfavourable...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.3</strong> Bacteria reproduce mainly by fission (Figure 2.3). Sometimes, under unfavourable conditions, they produce spores. They also reproduce by a sort of sexual reproduction by adopting a primitive type of DNA transfer from one bacterium to the other.</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 roots, etc. Some are pathogens causing damage
 to human beings, crops, farm animals and pets.
@@ -414,7 +424,7 @@ billions of years is referred to as ‘diatomaceous earth'. Being gritty this
 soil is used in polishing, filtration of oils and syrups. Diatoms are the
 chief 'producers' in the oceans.
 
-Reprint 2025-26
+
 
 
 ---
@@ -476,19 +486,19 @@ animals. There are four major groups of protozoans.
 Amoeboid protozoans: These organisms live in fresh
 water, sea water or moist soil. They move and capture
 
-2
-
-(d)
-
-(c)
-
-Figure 2.4 (a) Dinoflagellates
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch02_biological_classification_fig_2_4.png" alt="Fig. 2.4" onclick="openImageModal(this.src, 'Fig. 2.4: Majority of them are fresh water organisms found in stagnant water. Instead of a...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.4</strong> Majority of them are fresh water organisms found in stagnant water. Instead of a cell wall, they have a protein rich layer called pellicle which makes their body flexible. They have two flagella, a short and a long one. Though they are photosynthetic in the presence of sunlight, when deprived of sunlight they behave like heterotrophs by predating on other smaller organisms. Interestingly, the pigments of euglenoids are identical to those present in higher plants. Example: Euglena (Figure 2.4b).</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 (b) Euglena
 (c) Slime mould
 (d) Paramoecium
 
-Reprint 2025-26
+
 
 
 ---
@@ -553,7 +563,7 @@ fragmentation, fission and budding. Asexual reproduction is by spores
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -620,13 +630,21 @@ multicellular, e.g., Penicillium, or rarely unicellular, e.g., yeast
 
 (c)
 
-(Saccharomyces). They are saprophytic, decomposers, Figure 2.5 Fungi: (a) Mucor
+(Saccharomyces). They are saprophytic, decomposers,
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch02_biological_classification_fig_2_5.png" alt="Fig. 2.5" onclick="openImageModal(this.src, 'Fig. 2.5: Members of phycomycetes are found in aquatic habitats and on decaying wood in mo...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.5</strong> Members of phycomycetes are found in aquatic habitats and on decaying wood in moist and damp places or as obligate parasites on plants. The mycelium is aseptate and coenocytic. Asexual reproduction takes place by zoospores (motile) or by aplanospores (non-motile). These spores are endogenously produced in sporangium. A zygospore is formed by fusion of two gametes. These gametes are similar in morphology (isogamous) or dissimilar (anisogamous or oogamous). Some common examples are Mucor (Figure 2.5a), Rhizopus (the bread mould mentioned earlier) and Albugo (the parasitic fungi on mustard).</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
 parasitic or coprophilous (growing on dung). Mycelium
 
 (b) Aspergillus (c) Agaricus
 
-Reprint 2025-26
+
 
 
 ---
@@ -680,7 +698,7 @@ Alternaria, Colletotrichum and Trichoderma.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -737,33 +755,19 @@ considered truly 'living', if we understand living as those organisms that
 have a cell structure. The viruses are non-cellular organisms that are
 characterised by having an inert crystalline structure outside the living cell.
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 11
 
-20
-
-RNA
-
-Capsid
-
-(a)
-
-BIOLOGY
-
-Head
-
-Collar
-
-Sheath
-
-Tail fibres
-
-(b)
-
-Figure 2.6 (a) Tobacco Mosaic Virus (TMV) (b) Bacteriophage
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch02_biological_classification_fig_2_6.png" alt="Fig. 2.6" onclick="openImageModal(this.src, 'Fig. 2.6: Virus means venom or poisonous fluid. Dmitri Ivanowsky (1892) recognised certain...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 2.6</strong> Virus means venom or poisonous fluid. Dmitri Ivanowsky (1892) recognised certain microbes as causal organism of the mosaic disease of tobacco (Figure 2.6a). These were found to be smaller than bacteria because they passed through bacteria-proof filters. M.W. Beijerinck (1898) demonstrated that the extract of the infected plants of tobacco could cause infection in healthy plants and named the new pathogen “virus” and called the fluid as Contagium vivum fluidum (infectious living fluid). W.M. Stanley (1935) showed that viruses could be crystallised and crystals consist largely of proteins. They are inert outside their specific host cell. Viruses are obligate parasites.</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
 
 Bacte
 
@@ -797,7 +801,7 @@ symptoms can be mosaic formation, leaf rolling and curling, yellowing
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -856,7 +860,7 @@ group. The life cycle of plants exhibit alternation of generations – gametophy
 and sporophytic generations. The heterotrophic eukaryotic, multicellular
 organisms lacking a cell wall are included in the Kingdom Animalia. The mode of
 
-Reprint 2025-26
+
 
 
 ---
@@ -911,5 +915,5 @@ not to be published
 12. Organise a discussion in your class on the topic – Are viruses living or non-
 living?
 
-Reprint 2025-26
+
 

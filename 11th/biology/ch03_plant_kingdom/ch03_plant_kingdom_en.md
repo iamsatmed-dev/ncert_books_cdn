@@ -9,7 +9,7 @@ CHAPTER 3
 
 PLANT KINGDOM
 
-11080CH03
+
 
 Jished
 
@@ -53,7 +53,7 @@ that often the vegetative characters are more easily affected by
 environment. As against this, natural classification systems developed,
 which were based on natural affinities among the organisms and consider,
 
-Reprint 2025-26
+
 
 
 ---
@@ -95,7 +95,15 @@ Algae are chlorophyll-bearing, si
 
 The form and size of algae is highly variable, ranging from colonial
 forms like Volvox and the filamentous forms like Ulothrixand Spirogyra
-(Figure 3.1). A few of the marine forms such as kelps, form massive plant
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch03_plant_kingdom_fig_3_1.png" alt="Fig. 3.1" onclick="openImageModal(this.src, 'Fig. 3.1: The form and size of algae is highly variable, ranging from colonial forms like ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.1</strong> The form and size of algae is highly variable, ranging from colonial forms like Volvox and the filamentous forms like Ulothrix and Spirogyra (Figure 3.1). A few of the marine forms such as kelps, form massive plant bodies.</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 bodies.
 
 The algae reproduce by vegetative, asexual and sexual methods.
@@ -113,7 +121,7 @@ oogamous, e.g., Volvox, Fucus.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -184,7 +192,7 @@ Figure 3.1 Algae :
 
 (i) Porphyra (ii) Polysiphonia
 
-Reprint 2025-26
+
 
 
 ---
@@ -245,7 +253,7 @@ upon the amount of the xanthophyll pigment, fucoxanthin present in
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -384,7 +392,7 @@ water, salt
 
 water (most)
 
-Reprint 2025-26
+
 
 
 ---
@@ -401,7 +409,15 @@ Porphyra (Figure 3.1c), Gracilaria and Gelidium.
 ### 3.2 BRYOPHYTES
 
 Bryophytes include the various mosses and liverworts that are found
-commonly growing in moist shaded areas in the hills (Figure 3.2).
+commonly growing in moist shaded areas in the hills (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch03_plant_kingdom_fig_3_2.png" alt="Fig. 3.2" onclick="openImageModal(this.src, 'Fig. 3.2: Bryophytes include the various mosses and liverworts that are found commonly gro...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.2</strong> Bryophytes include the various mosses and liverworts that are found commonly growing in moist shaded areas in the hills (Figure 3.2).</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
 
 Gametophyte
 
@@ -454,7 +470,7 @@ Figure 3.2 Bryophytes: A liverwort – Marchantia (a) Female thallus (b) Male th
 Mosses (c) Funaria, gametophyte and sporophyte (d) Sphagnum
 gametophyte
 
-Reprint 2025-26
+
 
 
 ---
@@ -518,7 +534,7 @@ develop in small receptacles called gemma cups located on the thalli.
 The gemmae become detached from the parent body and germinate to
 form new individuals. During sexual reproduction, male and female sex
 
-Reprint 2025-26
+
 
 
 ---
@@ -554,9 +570,7 @@ meiosis. The mosses have an elaborate mechanism of spore dispersal.
 Common examples of mosses are Funaria, Polytrichum and Sphagnum
 (Figure 3.2).
 
-### 3.3
-
-PTERIDOPHYTES Ce
+### 3.3 PTERIDOPHYTES Ce
 
 The Pteridophytes include horsetails and ferns. Pteridophytes are used
 for medicinal purposes and as soil-binders. They are also frequently grown
@@ -570,7 +584,15 @@ You may recall that in bryophytes the dominant phase in the life
 cycle is the gametophytic plant body. However, interidophy the life
 
 main plant body is a sporophyte which is differentiated into true root,
-stem and leaves (Figure 3.3). These organs possess well-differentiated
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch03_plant_kingdom_fig_3_3.png" alt="Fig. 3.3" onclick="openImageModal(this.src, 'Fig. 3.3: You may recall that in bryophytes the dominant phase in the life cycle is the ga...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.3</strong> You may recall that in bryophytes the dominant phase in the life cycle is the gametophytic plant body. However, in pteridophytes, the main plant body is a sporophyte which is differentiated into true root, stem and leaves (Figure 3.3). These organs possess well-differentiated vascular tissues. The leaves in pteridophyta are small (microphylls) as in Selaginella or large (macrophylls) as in ferns. The sporophytes bear sporangia that are subtended by leaf-like appendages called sporophylls. In some cases sporophylls may form distinct compact structures called strobili or cones (Selaginella, Equisetum). The sporangia produce spores by meiosis in spore mother cells. The spores germinate to give rise to inconspicuous, small but multicellular,</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 vascular tissues. The leaves in pteridophyta are small (microphylls) as
 in Selaginella or large (macrophylls) as in ferns. The sporophytes bear
 sporangia that are subtended by leaf-like appendages called
@@ -581,7 +603,7 @@ germinate to give rise to inconspicuous, small but multicellular,
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -621,7 +643,7 @@ be regbied
 
 Figure 3.3 Pteridophytes: (a) Selaginella (b) Equisetum (c) Fern (d) Salvinia
 
-Reprint 2025-26
+
 
 
 ---
@@ -664,7 +686,15 @@ The gymnosperms (gymnos : naked, sperma : seeds) are plants in which
 the ovules are not enclosed by any ovary wall and remain exposed, both
 before and after fertilisation. The seeds that develop post-fertilisation, are
 not covered, i.e., are naked. Gymnosperms include medium-sized trees
-or tall trees and shrubs (Figure 3.4). One of the gymnosperms, the giant
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch03_plant_kingdom_fig_3_4.png" alt="Fig. 3.4" onclick="openImageModal(this.src, 'Fig. 3.4: The gymnosperms (gymnos : naked, sperma : seeds) are plants in which the ovules ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.4</strong> The gymnosperms (gymnos : naked, sperma : seeds) are plants in which the ovules are not enclosed by any ovary wall and remain exposed, both before and after fertilisation. The seeds that develop post-fertilisation, are not covered, i.e., are naked. Gymnosperms include medium-sized trees or tall trees and shrubs (Figure 3.4). One of the gymnosperms, the giant redwood tree Sequoia is one of the tallest tree species. The roots are generally tap roots. Roots in some genera have fungal association in the form of mycorrhiza (Pinus), while in some others (Cycas) small specialised roots called coralloid roots are associated with N2- fixing cyanobacteria. The stems are unbranched (Cycas) or branched (Pinus, Cedrus). The leaves may be simple or compound. In Cycas the pinnate leaves persist for a few years. The leaves in gymnosperms are well-adapted to withstand extremes of temperature, humidity and wind. In conifers, the needle-like leaves reduce the surface area. Their thick cuticle and sunken stomata also help to reduce water loss.</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 redwood tree Sequoia is one of the tallest tree species. The roots are
 generally tap roots. Roots in some genera have fungal association in the
 form
@@ -680,7 +710,7 @@ help to reduce water loss.
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -748,7 +778,7 @@ Seeds
 Figure 3.4 Gymnosperms: (a) Cycas
 (b) Pinus (c) Ginkgo
 
-Reprint 2025-26
+
 
 
 ---
@@ -768,7 +798,14 @@ plants occurring in wide range of habitats. They range in size from the
 smallest Wolffia to tall trees of Eucalyptus (over 100 metres). They provide
 us with food, fodder, fuel, medicines and several other commercially
 important products. They are divided into two classes : the dicotyledons
-and the monocotyledons (Figure 3.5).
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch03_plant_kingdom_fig_3_5.png" alt="Fig. 3.5" onclick="openImageModal(this.src, 'Fig. 3.5: Unlike the gymnosperms where the ovules are naked, in the angiosperms or floweri...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 3.5</strong> Unlike the gymnosperms where the ovules are naked, in the angiosperms or flowering plants, the pollen grains and ovules are developed in specialised structures called flowers. In angiosperms, the seeds are enclosed in fruits. The angiosperms are an exceptionally large group of plants occurring in wide range of habitats. They range in size from the smallest Wolffia to tall trees of Eucalyptus (over 100 metres). They provide us with food, fodder, fuel, medicines and several other commercially important products. They are divided into two classes : the dicotyledons and the monocotyledons (Figure 3.5).</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 Figure 3.5 Angiosperm
 
@@ -794,7 +831,7 @@ water for sexual reproduction. Their plant body is more differentiated
 than that of algae. It is thallus-like and prostrate or erect and attached to
 the substratum by rhizoids. They possess root-like, leaf-like and stem-
 
-Reprint 2025-26
+
 
 
 ---
@@ -852,7 +889,7 @@ endosperm nucleus in dicot, leaf cell of a moss; prothallus cell of a ferm;
 gemma cell in Marchantia; meristem cell of monocot, ovum of a liverwort,
 and zygote of a fern.
 
-Reprint 2025-26
+
 
 ished
 
@@ -922,5 +959,5 @@ Column II
 
 not to beren
 
-Reprint 2025-26
+
 

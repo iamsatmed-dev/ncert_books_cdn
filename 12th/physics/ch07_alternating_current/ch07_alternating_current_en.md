@@ -9,7 +9,7 @@ Chapter Seven
 ALTERNATING
 CURRENT
 
-12089CH07
+
 
 no
 
@@ -47,7 +47,7 @@ displaying simple harmonic time dependance has become so universally accepted
 that we follow others in its use. Further, voltage – another phrase commonly
 used means potential difference between two points.
 
-Reprint 2026-27
+
 
 
 ---
@@ -57,7 +57,14 @@ Physics
 
 7.2 AC VOLTAGE APPLIED TO A RESISTOR
 
-Figure 7.1 shows a resistor connected to a source ɛ of
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_1.png" alt="Fig. 7.1" onclick="openImageModal(this.src, 'Fig. 7.1: Figure 7.1 shows a resistor connected to a source ε of ac voltage. The symbol fo...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.1</strong> Figure 7.1 shows a resistor connected to a source ε of ac voltage. The symbol for an ac source in a circuit diagram is . We consider a source which produces sinusoidally varying potential difference across its terminals. Let this potential difference, also called ac voltage, be given by</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 ac voltage. The symbol for an ac source in a circuit
 diagram is. We consider a source which produces
 sinusoidally varying potential difference across its
@@ -124,29 +131,14 @@ i = im sin ot
 
 where the current amplitude i is given by
 
-υ
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_2.png" alt="Fig. 7.2" onclick="openImageModal(this.src, 'Fig. 7.2: Equation (7.3) is Ohm’s law, which for resistors, works equally well for both ac...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.2</strong> Equation (7.3) is Ohm’s law, which for resistors, works equally well for both ac and dc voltages. The voltage across a pure resistor and the current through it, given by Eqs. (7.1) and (7.2) are plotted as a function of time in Fig. 7.2. Note, in particular that both v and i reach zero, minimum and maximum values at the same time. Clearly, the voltage and current are in phase with each other.</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
-bot to be
-
-Um
-
-im
-
-R
-
-m
-
-(7.2)
-
-(7.3)
-
-0
-
-π
-
-wt
-
-FIGURE 7.2 In a pure
 resistor, the voltage and
 current are in phase. The
 minima, zero and maxima
@@ -169,7 +161,7 @@ during each cycle. Thus, the sum of the instantaneous current
 values over one complete cycle is zero, and the average current
 is zero. The fact that the average current is zero, however, does
 
-Reprint 2026-27
+
 
 
 ---
@@ -231,7 +223,14 @@ as dc power
 
 (P = ÎR), a special value of current is defined and used.
 It is called, root mean square (rms) or effective current
-(Fig. 7.3) and is denoted by Ims or I.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_3.png" alt="Fig. 7.3" onclick="openImageModal(this.src, 'Fig. 7.3: To express ac power in the same form as dc power (P = I2R), a special value of c...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.3</strong> To express ac power in the same form as dc power (P = I2R), a special value of current is defined and used. It is called, root mean square (rms) or effective current (Fig. 7.3) and is denoted by Irms or I.</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 14
 
@@ -310,7 +309,7 @@ sin 2wt
 
 0
 
-Reprint 2026-27
+
 
 GEORGE WESTINGHOUSE (1846 – 1914)
 
@@ -451,7 +450,7 @@ V
 
 220 V
 
-Reprint 2026-27
+
 
 
 ---
@@ -472,7 +471,15 @@ in an ac circuit, we use the notion of phasors.
 The analysis of an ac circuit is facilitated by the
 use of a phasor diagram. A phasor* is a vector
 which rotates about the origin with angular
-speed w, as shown in Fig. 7.4. The vertical
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_4.png" alt="Fig. 7.4" onclick="openImageModal(this.src, 'Fig. 7.4: In the previous section, we learnt that the current through a resistor is in pha...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.4</strong> In the previous section, we learnt that the current through a resistor is in phase with the ac voltage. But this is not so in the case of an inductor, a capacitor or a combination of these circuit elements. In order to show phase relationship between voltage and current in an ac circuit, we use the notion of phasors. The analysis of an ac circuit is facilitated by the use of a phasor diagram. A phasor* is a vector which rotates about the origin with angular speed w, as shown in Fig. 7.4. The vertical components of phasors V and I represent the sinusoidally varying quantities v and i. The magnitudes of phasors V and I represent the amplitudes or the peak values vm and im of these oscillating quantities. Figure 7.4(a) shows the voltage and current phasors and their relationship at time t1 for the case of an ac source connected to a resistor i.e., corresponding to the circuit shown in Fig. 7.1. The projection of voltage and current phasors on vertical axis, i.e., vm sinw t and im sinw t, respectively represent the value of voltage and current at that instant. As they rotate with frequency w, curves in Fig. 7.4(b) are generated. From Fig. 7.4(a) we see that phasors V and I for the case of a resistor are in the same direction. This is so for all times. This means that the phase angle between the voltage and the current is zero.</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 components of phasors V and I represent the
 sinusoidally varying quantities v and i. The
 magnitudes of phasors V and I represent the
@@ -529,7 +536,14 @@ angle between the voltage and the current is zero.
 
 7.4 AC VOLTAGE APPLIED TO AN INDUCTOR
 
-Figure 7.5 shows an ac source connected to an inductor. Usually,
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_5.png" alt="Fig. 7.5" onclick="openImageModal(this.src, 'Fig. 7.5: Figure 7.5 shows an ac source connected to an inductor. Usually, inductors have ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.5</strong> Figure 7.5 shows an ac source connected to an inductor. Usually, inductors have appreciable resistance in their windings, but we shall assume that this inductor has negligible resistance. Thus, the circuit is a purely inductive ac circuit. Let the voltage across the source be v = vm sinw t. Using</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 inductors have appreciable resistance in their windings, but we shall
 assume that this inductor has negligible resistance.
 Thus, the circuit is a purely inductive ac circuit. Let
@@ -568,7 +582,7 @@ simple way of adding these quantities using a rule that we already know.
 
 L
 
-Reprint 2026-27
+
 
 
 ---
@@ -600,7 +614,16 @@ proportional to the inductance and to the frequency of the current.
 
 A comparison of Eqs. (7.1) and (7.12) for the source voltage and the
 current in an inductor shows that the current lags the voltage by π/2 or
-one-quarter (1/4) cycle. Figure 7.6 (a) shows the voltage and the current
+one-quarter (1/4) cycle.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_6.png" alt="Fig. 7.6" onclick="openImageModal(this.src, 'Fig. 7.6: A comparison of Eqs. (7.1) and (7.12) for the source voltage and the current in ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.6</strong> A comparison of Eqs. (7.1) and (7.12) for the source voltage and the current in an inductor shows that the current lags the voltage by p/2 or one-quarter (1/4) cycle. Figure 7.6 (a) shows the voltage and the current phasors in the present case at instant t1. The current phasor I is p/2 behind the voltage phasor V. When rotated with frequency w counter- clockwise, they generate the voltage and current given by Eqs. (7.1) and (7.12), respectively and as shown in Fig. 7.6(b).</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 phasors in the present case at instant t₁. The current phasor I is π/2
 behind the voltage phasor V. When rotated with frequency @ counter-
 clockwise, they generate the voltage and current given by Eqs. (7.1) and
@@ -666,7 +689,7 @@ Using
 
 (7.11)
 
-Reprint 2026-27
+
 
 
 ---
@@ -797,7 +820,7 @@ EXAMPLE 7.2
 
 183
 
-Reprint 2026-27
+
 
 
 ---
@@ -812,7 +835,15 @@ A
 Physics
 
 7.5 AC VOLTAGE APPLIED TO A CAPACITOR
-Figure 7.7 shows an ac source & generating ac voltage v = v sin ot
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_7.png" alt="Fig. 7.7" onclick="openImageModal(this.src, 'Fig. 7.7: Figure 7.7 shows an ac source e generating ac voltage v = vm sin wt connected to...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.7</strong> Figure 7.7 shows an ac source e generating ac voltage v = vm sin wt connected to a capacitor only, a purely capacitive ac circuit.</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 connected to a capacitor only, a purely capacitive ac circuit.
 
 FIGURE 7.7 An ac source
@@ -888,7 +919,7 @@ im =
 
 Xc
 
-Reprint 2026-27
+
 
 (7.18)
 
@@ -911,28 +942,14 @@ A comparison of Eq. (7.16) with the
 equation of source voltage, Eq. (7.1) shows that
 the current is π/2 ahead of voltage.
 
-V
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_8.png" alt="Fig. 7.8" onclick="openImageModal(this.src, 'Fig. 7.8: FIGURE 7.8 (a) A Phasor diagram for the circuit...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.8</strong> FIGURE 7.8 (a) A Phasor diagram for the circuit</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
 
-Tusin wt
-I
-
-wt
-
-0 wt
-
-π
-
-2π
-
-wt
-
-isin(ωt+π/2)
-
-(a)
-
-(b)
-
-FIGURE 7.8 (a) A Phasor diagram for the circuit
 in Fig. 7.7. (b) Graph of vand i versus wt.
 
 Figure 7.8(a) shows the phasor diagram at an instant t₁. Here the current
@@ -1013,7 +1030,7 @@ Xc =
 
 The rms current is
 
-Reprint 2026-27
+
 
 EXAMPLE 7.4
 
@@ -1053,7 +1070,15 @@ If the frequency is doubled, the capacitive reactance is halved and
 consequently, the current is doubled.
 
 Example 7.5 A light bulb and an open coil inductor are connected to
-an ac source through a key as shown in Fig. 7.9.
+an ac source through a key as shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_9.png" alt="Fig. 7.9" onclick="openImageModal(this.src, 'Fig. 7.9: Example 7.5 A light bulb and an open coil inductor are connected to an ac source...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.9</strong> Example 7.5 A light bulb and an open coil inductor are connected to an ac source through a key as shown in Fig. 7.9.</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
 ERT
 
@@ -1077,7 +1102,14 @@ across the bulb. Therefore, the glow of the light bulb decreases.
 
 7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT
 
-Figure 7.10 shows a series LCR circuit connected to an ac source ɛ. As
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_10.png" alt="Fig. 7.10" onclick="openImageModal(this.src, 'Fig. 7.10: Figure 7.10 shows a series LCR circuit connected to an ac source e. As usual, we...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.10</strong> Figure 7.10 shows a series LCR circuit connected to an ac source e. As usual, we take the voltage of the source to be v = vm sin wt.</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 usual, we take the voltage of the source to be v = v sin ot.
 
 m
@@ -1111,7 +1143,7 @@ phasors and in the second method, we solve
 Eq. (7.20) analytically to obtain the time-
 dependence of i.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1138,7 +1170,14 @@ Eq. (7.21). Further, let V₁, VR, Vc, and V represent the voltage across the
 inductor, resistor, capacitor and the source, respectively. From previous
 section, we know that V₨ is parallel to I, Vc is π/2
 behind I and V₁ is π/2 ahead of I. V₁, VR, Vc and I
-are shown in Fig. 7.11(a) with apppropriate phase-
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_11.png" alt="Fig. 7.11" onclick="openImageModal(this.src, 'Fig. 7.11: Let I be the phasor representing the current in the circuit as given by Eq. (7.2...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.11</strong> Let I be the phasor representing the current in the circuit as given by Eq. (7.21). Further, let VL, VR, VC, and V represent the voltage across the inductor, resistor, capacitor and the source, respectively. From previous section, we know that VR is parallel to I, VC is p/2 behind I and VL is p/2 ahead of I. VL, VR, VC and I are shown in Fig. 7.11(a) with apppropriate phase- relations.</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
 
 relations.
 
@@ -1250,7 +1289,7 @@ Z
 
 where Z = √√R² + (X – X₁)²
 
-Reprint 2026-27
+
 
 [7.25(b)]
 
@@ -1270,7 +1309,14 @@ X-X-
 
 Since phasor I is always parallel to phasor VR, the phase angle φ
 is the angle between VR and V and can be determined from
-Fig. 7.12:
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_12.png" alt="Fig. 7.12" onclick="openImageModal(this.src, 'Fig. 7.12: Since phasor I is always parallel to phasor VR, the phase angle f is the angle b...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.12</strong> Since phasor I is always parallel to phasor VR, the phase angle f is the angle between VR and V and can be determined from Fig. 7.12:</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 tan o =
 
@@ -1312,7 +1358,14 @@ Consequently, the current in the circuit leads the source voltage. If
 X < X₁, is negative and the circuit is predominantly inductive.
 Consequently, the current in the circuit lags the source voltage.
 
-Figure 7.13 shows the phasor diagram and variation of vand i with ot
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_13.png" alt="Fig. 7.13" onclick="openImageModal(this.src, 'Fig. 7.13: Figure 7.13 shows the phasor diagram and variation of v and i with w t for the c...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.13</strong> Figure 7.13 shows the phasor diagram and variation of v and i with w t for the case XC > XL.</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
+
 for the case X > XL.
 
 Φ
@@ -1374,7 +1427,7 @@ amplitude of oscillation is found to be large. A familiar example of this
 phenomenon is a child on a swing. The swing has a natural frequency
 for swinging back and forth like a pendulum. If the child pulls on the
 
-Reprint 2026-27
+
 
 
 ---
@@ -1426,14 +1479,17 @@ LC
 
 (7.28)
 
-### 1.0
-
-At resonant frequency, the current amplitude
+### 1.0 At resonant frequency, the current amplitude
 is maximum; im = vm/R.
 
-m
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_16.png" alt="Fig. 7.16" onclick="openImageModal(this.src, 'Fig. 7.16: Figure 7.16 shows the variation of im with w in a RLC series circuit with L = 1....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.16</strong> Figure 7.16 shows the variation of im with w in a RLC series circuit with L = 1.00 mH, C = 1.00 nF for two values of R: (i) R = 100 W and (ii) R = 200 W. For the source applied vm =</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
-Figure 7.16 shows the variation of i with @
 in a RLC series circuit with L = 1.00 mH, C =
 1.00 nF for two values of R: (i) R = 100 Ω
 and (ii) R = 200 Ω. For the source applied vm =
@@ -1468,9 +1524,14 @@ Wo
 
 ### 2.0
 
-ω, Mrad/s
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_14.png" alt="Fig. 7.14" onclick="openImageModal(this.src, 'Fig. 7.14: FIGURE 7.14 Variation of im with w for two...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.14</strong> FIGURE 7.14 Variation of im with w for two</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
 
-FIGURE 7.14 Variation of im with @ for two
 cases: (i) R = 100 Ω, (ii) R = 200 Ω,
 L = 1.00 mH.
 
@@ -1494,7 +1555,7 @@ RC circuit.
 
 189
 
-Reprint 2026-27
+
 
 
 ---
@@ -1587,7 +1648,7 @@ R
 
 Therefore, the instantaneous power p supplied by the source is
 
-Reprint 2026-27
+
 
 
 ---
@@ -1675,11 +1736,19 @@ increase current accordingly. But this will lead to large power loss
 power factor cos¢ =R/Z.
 
 We can improve the power factor (tending to 1) by making Z tend to
-R. Let us understand, with the help of a phasor diagram (Fig. 7.15)
+R. Let us understand, with the help of a phasor diagram (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_15.png" alt="Fig. 7.15" onclick="openImageModal(this.src, 'Fig. 7.15: We can improve the power factor (tending to 1) by making Z tend to R. Let us und...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.15</strong> We can improve the power factor (tending to 1) by making Z tend to R. Let us understand, with the help of a phasor diagram (Fig. 7.15)</span>
+    <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
+  </div>
+</div>
 
 EXAMPLE 7.7
 
-Reprint 2026-27
+
 
 191
 
@@ -1778,7 +1847,7 @@ R
 
 3
 
-Reprint 2026-27
+
 
 
 ---
@@ -1894,7 +1963,7 @@ EXAMPLE 7.10
 
 193
 
-Reprint 2026-27
+
 
 
 ---
@@ -1978,7 +2047,7 @@ s
 
 S
 
-Reprint 2026-27
+
 
 
 ---
@@ -2110,7 +2179,7 @@ S
 
 195
 
-Reprint 2026-27
+
 
 
 ---
@@ -2194,7 +2263,7 @@ inductive reactance. The current in the inductor lags the voltage by
 π/2. The average power supplied to an inductor over one complete cycle
 is zero.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2309,7 +2378,7 @@ voltage is stepped-up (V > V₁). This type of arrangement is called a step-
 up transformer. If the secondary coil has turns less than the primary, we
 have a step-down transformer.
 
-Reprint 2026-27
+
 
 ned
 
@@ -2468,7 +2537,7 @@ the
 
 m
 
-Reprint 2026-27
+
 
 
 ---
@@ -2538,7 +2607,7 @@ transform energy from one form to another.
 This does not violate the law of conservation of energy. The
 current is reduced by the same proportion.
 
-Reprint 2026-27
+
 
 199
 
@@ -2596,7 +2665,15 @@ A series LCR circuit with R = 20 Ω, L = 1.5 Hand C = 35 µF is connected
 to a variable-frequency 200 V ac supply. When the frequency of the
 supply equals the natural frequency of the circuit, what is the average
 power transferred to the circuit in one complete cycle?
-Figure 7.17 shows a series LCR circuit connected to a variable
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_17.png" alt="Fig. 7.17" onclick="openImageModal(this.src, 'Fig. 7.17: peak current? 7.3 A 44 mH inductor is connected to 220 V, 50 Hz ac supply. Deter...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.17</strong> peak current? 7.3 A 44 mH inductor is connected to 220 V, 50 Hz ac supply. Determine the rms value of the current in the circuit. 7.4 A 60 mF capacitor is connected to a 110 V, 60 Hz ac supply. Determine the rms value of the current in the circuit. 7.5 In Exercises 7.3 and 7.4, what is the net power absorbed by each circuit over a complete cycle. Explain your answer. 7.6 A charged 30 mF capacitor is connected to a 27 mH inductor. What is the angular frequency of free oscillations of the circuit? 7.7 A series LCR circuit with R = 20 W, L = 1.5 H and C = 35 mF is connected to a variable-frequency 200 V ac supply. When the frequency of the supply equals the natural frequency of the circuit, what is the average power transferred to the circuit in one complete cycle? 7.8 Figure 7.17 shows a series LCR circuit connected to a variable frequency 230 V source. L = 5.0 H, C = 80mF, R = 40 W.</span>
+    <button class="icon-btn" onclick="goToPdfPage(24)">📄 View in PDF (Page 24)</button>
+  </div>
+</div>
+
 frequency 230 V source. L = 5.0 H, C = 80μF, R = 40 Ω.
 
 230 V sour
@@ -2629,5 +2706,5 @@ combination is zero at the resonating frequency.
 
 200
 
-Reprint 2026-27
+
 

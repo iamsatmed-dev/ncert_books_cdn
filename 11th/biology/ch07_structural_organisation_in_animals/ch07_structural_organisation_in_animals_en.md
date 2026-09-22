@@ -5,7 +5,7 @@
 ---
 ## 📄 Page 1
 
-11080CH07
+
 
 7.1 Organ and Organ
 
@@ -53,7 +53,7 @@ organs which in turn associate to form organ systems in the multicellular
 organisms. Such an organisation is essential for more efficient and better
 coordinated activities of millions of cells constituting an organism. Each
 
-Reprint 2025-26
+
 
 
 ---
@@ -112,13 +112,13 @@ the ventral side the skin is uniformly pale yellow.
 The frog never drinks water but absorb it through
 the skin.
 
-Eye
-
--Fore limb
-
-Hind limb
-
-Figure 7.1 External features of frog
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch07_structural_organisation_in_animals_fig_7_1.png" alt="Fig. 7.1" onclick="openImageModal(this.src, 'Fig. 7.1: Body of a frog is divisible into head and trunk (Figure 7.1). A neck and tail ar...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.1</strong> Body of a frog is divisible into head and trunk (Figure 7.1). A neck and tail are absent. Above the mouth, a pair of nostrils is present. Eyes are bulged and covered by a nictitating membrane that protects them while in water. On either side of eyes a membranous tympanum (ear) receives sound signals. The forelimbs and hind limbs help in Figure 7.1 External features of frog</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 Body of a frog is divisible into head and trunk
 (Figure 7.1). A neck and tail are absent. Above the
@@ -128,7 +128,7 @@ protects them while in water. On either side of eyes
 a membranous tympanum (ear) receives sound
 signals. The forelimbs and hind limbs help in
 
-Reprint 2025-26
+
 
 
 ---
@@ -147,7 +147,15 @@ fore limbs which are absent in female frogs.
 
 The body cavity of frogs accommodate different organ systems such as
 digestive, circulatory, respiratory, nervous, excretory and reproductive
-systems with well developed structures and functions (Figure 7.2).
+systems with well developed structures and functions (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch07_structural_organisation_in_animals_fig_7_2.png" alt="Fig. 7.2" onclick="openImageModal(this.src, 'Fig. 7.2: The body cavity of frogs accommodate different organ systems such as digestive, ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.2</strong> The body cavity of frogs accommodate different organ systems such as digestive, circulatory, respiratory, nervous, excretory and reproductive systems with well developed structures and functions (Figure 7.2).</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 The digestive system consists of alimentary canal and digestive glands.
 The alimentary canal is short because frogs are carnivores and hence the
@@ -192,7 +200,7 @@ Cloacal Aperture
 Figure 7.2 Diagrammatic representation of internal organs of frog showing
 complete digestive system
 
-Reprint 2025-26
+
 
 
 ---
@@ -256,7 +264,7 @@ urinogenital duct which opens into the cloaca. In females the ureters and
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -315,8 +323,16 @@ hearing as well as balancing (equilibrium).
 
 Frogs have well organised male and female
 reproductive systems. Male reproductive organs
-consist of a pair of yellowish ovoid testes (Figure
-7.3), which are found adhered to the upper part
+consist of a pair of yellowish ovoid testes (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch07_structural_organisation_in_animals_fig_7_3.png" alt="Fig. 7.3" onclick="openImageModal(this.src, 'Fig. 7.3: Frogs have well organised male and female reproductive systems. Male reproductiv...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.3</strong> Frogs have well organised male and female reproductive systems. Male reproductive organs consist of a pair of yellowish ovoid testes (Figure 7.3), which are found adhered to the upper part of kidneys by a double fold of peritoneum called mesorchium. Vasa efferentia are 10-12 in number that arise from testes. They enter the kidneys on their side and open into Bidder’s</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 of kidneys by a double fold of peritoneum called
 mesorchium. Vasa efferentia are 10-12 in
 number that arise from testes. They enter the
@@ -351,25 +367,13 @@ aperture
 
 Figure 7.3 Male reproductive system
 
-Cloaca
-
-Oviduct
-
-Ovary
-Ova
-
-Ureter
-
-Cloacal aperture
-
-Urinary
-
-bladder
-
-Figure 7.4 Female reproductive system
-
-Reprint 2025-26
-
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch07_structural_organisation_in_animals_fig_7_4.png" alt="Fig. 7.4" onclick="openImageModal(this.src, 'Fig. 7.4: Figure 7.4 Female reproductive system...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 7.4</strong> Figure 7.4 Female reproductive system</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 ---
 ## 📄 Page 6
@@ -439,5 +443,5 @@ EXERCISES
 
 ### 2. Mention the function of the Ureters in frog.
 
-Reprint 2025-26
+
 

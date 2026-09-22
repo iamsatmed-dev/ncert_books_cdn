@@ -9,7 +9,7 @@
 
 जैव-विविधता एवं संरक्षण
 
-12084CH15
+
 
 Invertebrates
 
@@ -48,7 +48,7 @@ not to
 हमारे जैवमंडल में न केवल जाति (स्पीशीज़) स्तर पर वरन् जैवीय
 संगठन के सभी स्तर पर कोशिकाओं के वृहत् अणु से लेकर जीवोम
 
-Reprint 2025-26
+
 
 
 ---
@@ -108,7 +108,7 @@ ished
 
 237
 
-Reprint 2025-26
+
 
 
 ---
@@ -123,7 +123,16 @@ Reprint 2025-26
 वर्ग समूह है, जो संपूर्ण जातियों के 70 प्रतिशत से अधिक है। इसका अर्थ यह है कि
 इस ग्रह में प्रत्येक 10 जंतुओं में 7 कीट हैं। पुनः कीटों की इस अत्यधिक विविधता को
 हम कैसे समझाएँ? संसार में कवक जातियों की कुल संख्या, मछली, उभयचर
-(एम्फीबिया), सरीसृप (रेप्टाइल) तथा स्तनधारियों (मैमल्स) से अधिक है। चित्र 13.1 में कुछ
+(एम्फीबिया), सरीसृप (रेप्टाइल) तथा स्तनधारियों (मैमल्स) से अधिक है।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_biology_ch13_biodiversity_and_conservation_fig_13_hi.png" alt="चित्र 13" onclick="openImageModal(this.src, 'चित्र 13: vkb,! i`Foh dh tSofofoèkrk osQ oqQN jkspd igyqvksa dks orZeku esa miyCèk tkrh; l...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13</strong> vkb,! i`Foh dh tSofofoèkrk osQ oqQN jkspd igyqvksa dks orZeku esa miyCèk tkrh; lwfp;ksa osQ vkèkkj ij ns[ksaA lHkh vkdfyr tkfr;ksa esa ls 70 izfr'kr ls vfèkd tarq gSa] tcfd 'kSoky] dod] czk;ksiQkbV] vko`Ùkchth rFkk vuko`Ùkchft;ksa tSls ikniksa dks feykdj 22 izfr'kr ls vfèkd ugha gSaA tarqvksa esa dhV lcls vfèkd le`¼ tkrh; oxZ lewg gS] tks laiw.kZ tkfr;ksa osQ 70 izfr'kr ls vfèkd gSA bldk vFkZ ;g gS fd bl xzg esa izR;sd 10 tarqvksa esa 7 dhV gSaA iqu% dhVksa dh bl vR;fèkd fofoèkrk dks ge oSQls le>k,¡\ lalkj esa dod tkfr;ksa dh oqQy la[;k] eNyh] mHk;pj (,EiQhfc;k)] ljhl`i (jsIVkby) rFkk Lruèkkfj;ksa (eSeYl) ls vfèkd gSA fp=k 13-1 esa oqQN eq[; oxZd (VSDlk) dh tkfr;ksa dh tSo&fofoèkrk dks n'kkZ;k x;k gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 मुख्य वर्गक (टैक्सा) की जातियों की जैव-विविधता को दर्शाया गया है।
 
 अन्य प्राणि समूह
@@ -168,7 +177,7 @@ not to be re
 जीववैज्ञानिकों को यह पक्का विश्वास नहीं है कि प्रोकैरियोटिक जातियों की संख्या
 कितनी हो सकती है। समस्या यह है कि पारंपरिक वर्गीकरण के तरीके सूक्ष्मजीवों को
 
-Reprint 2025-26
+
 
 
 ---
@@ -221,7 +230,7 @@ ublished
 
 239
 
-Reprint 2025-26
+
 
 
 ---
@@ -306,7 +315,7 @@ C= Y - अंतः खंड (इंटरसेप्ट)
 
 240
 
-Reprint 2025-26
+
 
 
 ---
@@ -359,7 +368,7 @@ shed
 
 241
 
-Reprint 2025-26
+
 
 
 ---
@@ -411,7 +420,7 @@ Reprint 2025-26
 कारण है। उष्ण कटिबंधीय वर्षा-वनों से होने वाली आवासीय क्षति का सबसे
 अच्छा उदाहरण है। एक समय वर्षा वन पृथ्वी के 14 प्रतिशत क्षेत्र में फैले
 
-Reprint 2025-26
+
 
 
 ---
@@ -464,7 +473,7 @@ shed
 
 243
 
-Reprint 2025-26
+
 
 
 ---
@@ -518,7 +527,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -569,7 +578,7 @@ shed
 
 245
 
-Reprint 2025-26
+
 
 
 ---
@@ -623,7 +632,7 @@ hed
 की देन है। वर्तमान समय में लगभग 700 जातियाँ विलुप्त हो चुकी हैं और 15,500 से
 अधिक (जिसमें 650 से अधिक भारत से हैं) जातियाँ वर्तमान समय में विलोपन के संकट
 
-Reprint 2025-26
+
 
 
 ---
@@ -682,7 +691,7 @@ republished
 
 247
 
-Reprint 2025-26
+
 
 
 ---
@@ -692,7 +701,7 @@ Reprint 2025-26
 
 © NCERT
 
-not to be republished
 
-Reprint 2025-26
+
+
 

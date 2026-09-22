@@ -49,7 +49,7 @@ published
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -61,7 +61,7 @@ Reprint 2025-26
 
 not to
 
-Reprint 2025-26
+
 
 ed
 
@@ -84,7 +84,7 @@ ed
 ---
 ## 📄 Page 3
 
-11081CH01
+
 
 ### 1.1 जीव जगत में
 विविधता
@@ -122,7 +122,7 @@ not
 विविधता की एक बहुत बड़ी श्रृंखला दिखाई पड़ेगी। स्पष्टतः यदि आप किसी सघन वन
 में जाएं तो आपको जीवों की बहुत बड़ी संख्या तथा उनकी कई किस्में दिखाई पड़ेंगी।
 
-Reprint 2025-26
+
 
 
 ---
@@ -179,7 +179,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -233,7 +233,7 @@ shed
 कपड़े तथा आश्रय के लिए नए-नए स्रोत खोजने पड़ते थे। इसलिए विभिन्न जीवों के
 वर्गीकरण का आधार 'उपयोग' पर आधारित था।
 
-Reprint 2025-26
+
 
 5
 
@@ -290,7 +290,7 @@ Reprint 2025-26
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -346,7 +346,7 @@ re
 वर्ग जिसमें जंतु जैसे मछली, उभयचर, सरीसृप, पक्षी तथा स्तनधारी आते हैं, अगले
 उच्चतर संवर्ग, जिसे संघ कहते हैं, का निर्माण करते हैं। इन सभी को एक समान गुणों
 
-Reprint 2025-26
+
 
 7
 
@@ -354,29 +354,14 @@ Reprint 2025-26
 ---
 ## 📄 Page 8
 
-8
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch01_the_living_world_fig_1_hi.png" alt="चित्र 1" onclick="openImageModal(this.src, 'चित्र 1: fp=k 1-1 esa inkuqØe dks ns[kksA D;k vki bl O;oLFkk osQ vk/kj dk Lej.k dj ldrs g...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 1</strong> fp=k 1-1 esa inkuqØe dks ns[kksA D;k vki bl O;oLFkk osQ vk/kj dk Lej.k dj ldrs gks \ mnkgj.k osQ fy, tSls&tSls ge Lih'kht ls txr dh vksj Åij tkrs gSa_ oSls gh leku xq.kksa esa deh vkrh tkrh gSA lcls uhps tks VSDlk gksxk mlosQ lnL;ksa esa lcls vf/d leku xq.k gksaxsA tSls&tSls mPprj laoxZ dh vksj tkrs gSa] mlh Lrj ij vU; VSDlk osQ laca/ fu/kZfjr djus vf/d dfBu gks tkrs gSaA blfy, oxhZdj.k dh leL;k vkSj Hkh tfVy gks tkrh gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
-जगत (किंगडम)
-
-संघ (फाइलम) या भाग (डिविजन)
-
-वर्ग (क्लास)
-
-गण (आर्डर)
-
-↑
-
-कुल (फैमिली)
-
-↑
-
-वंश
-
-↑
-
-जाति
-
-चित्र 1.1 आरोही क्रम में
 पदानुक्रम वर्गिकी
 संवर्ग
 
@@ -485,7 +470,7 @@ Reprint 2025-26
 
 एंजियोस्पर्मी
 
-Reprint 2025-26
+
 
 
 ---
@@ -576,5 +561,5 @@ berepublished
 
 10. पौधों तथा प्राणियों के उचित उदाहरण देते हुए वर्गिकी पदानुक्रम का चित्रण कीजिए।
 
-Reprint 2025-26
+
 

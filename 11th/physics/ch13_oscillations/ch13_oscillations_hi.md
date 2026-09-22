@@ -9,7 +9,7 @@
 
 दोलन
 
-11069CH14
+
 
 13.1 भूमिका
 
@@ -76,21 +76,32 @@ not to
 की आवश्यकता होती है । अगले अनुभाग में इन संकल्पनाओं को विकसित किया
 गया है ।
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 2
 
-272
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_hi.png" alt="चित्र 13" onclick="openImageModal(this.src, 'चित्र 13: 13.2 nksyu vkSj vkorhZ xfr fp=k 13-1 esa oqQN vkorhZ xfr;k¡ n&#39;kkZbZ xbZ gSaA...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13</strong> 13.2 nksyu vkSj vkorhZ xfr fp=k 13-1 esa oqQN vkorhZ xfr;k¡ n'kkZbZ xbZ gSaA eku yhft, dksbZ dhV fdlh jSEi ij p<+rk gS vkSj fxj tkrk gSA og vius izkjafHkd LFkku ij vk tkrk gS vkSj bl izfØ;k dks ckj&ckj nksgjkrk gSA ;fn vki tehu ls Åij bldh Å¡pkbZ rFkk le; osQ chp xzkiQ [khapsa rks ;g fp=k 13-1(a) dh rjg fn[ksxkA ;fn dksbZ ckyd fdlh lh<+h ij p<+s vkSj mrjs rFkk bl izfØ;k dks leku :i ls ckj&ckj nksgjk;s rks mldh Å¡pkbZ rFkk le; osQ chp xzkiQ fp=k 13-1(b) osQ tSlk fn[ksxkA tc vki fdlh xsan dks viuh gFksyh ls tehu dh rjiQ ckj&ckj ekjrs gSa rks bldh Å¡pkbZ vkSj le; osQ chp xzkiQ 13-1(c) osQ tSlk fn[ksxkA è;ku nhft, fd fp=k 13-1(c) esa nksuksa oØh; Hkkx U;wVu dh xfr lehdj.k osQ vuqlkj ijoy; osQ va'k gSa] vuqHkkx (2-6) nsf[k,A</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
-13.2 दोलन और आवर्ती गति
-
-चित्र 13.1 में कुछ आवर्ती गतियाँ दर्शाई गई हैं। मान लीजिए
 कोई कीट किसी रैम्प पर चढ़ता है और गिर जाता है। वह अपने
 प्रारंभिक स्थान पर आ जाता है और इस प्रक्रिया को बार-बार
 दोहराता है। यदि आप जमीन से ऊपर इसकी ऊँचाई तथा समय
-के बीच ग्राफ खींचें तो यह चित्र 13.1(a) की तरह दिखेगा। यदि
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_1_hi.png" alt="चित्र 13.1" onclick="openImageModal(this.src, 'चित्र 13.1: fp=k 13.1 13.1 13.1 13.1 13.1 vko`fÙk xfr osQ mnkgj.kA izR;sd voLFkk esa vkorZdk...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13.1</strong> fp=k 13.1 13.1 13.1 13.1 13.1 vko`fÙk xfr osQ mnkgj.kA izR;sd voLFkk esa vkorZdky</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
+
 कोई बालक किसी सीढ़ी पर चढ़े और उतरे तथा इस प्रक्रिया को
 समान रूप से बार-बार दोहराये तो उसकी ऊँचाई तथा समय के
 बीच ग्राफ चित्र 13.1(b) के जैसा दिखेगा। जब आप किसी गेंद
@@ -192,7 +203,7 @@ t
 
 T दर्शाया गया है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -237,11 +248,13 @@ T
 
 ध्यान दीजिए, आवृत्ति का सदैव ही पूर्णांक होना आवश्यक
 
-X
-
-273
-
-चित्र 13.2(a) कोई गुटका किसी कमानी से संलग्न, जिसका दूसरा
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_2_hi.png" alt="चित्र 13.2" onclick="openImageModal(this.src, 'चित्र 13.2: 13.2.2 foLFkkiu vuqHkkx 3.2 esa geus fdlh d.k osQ foLFkkiu dks mlosQ fLFkfr lfn&...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13.2</strong> 13.2.2 foLFkkiu vuqHkkx 3.2 esa geus fdlh d.k osQ foLFkkiu dks mlosQ fLFkfr lfn'k eas ifjorZu osQ :i eas ifjHkkf"kr fd;k Fkk A bl vè;k; eas ge foLFkkiu uked bl in dk mi;ksx vf/d O;kid vFkks± eas djsaxs A ;g fdlh Hkh fopkj.kh; HkkSfrd xq.k eas le; osQ LkkFk ifjorZu dks fu:fir djsxk A mnkgj.k osQ fy,] ,d i`"B ij fdlh LVhy ckWy dh ljy js[kh; xfr osQ fy,] le; osQ iQyu osQ :i eas vkjaHk fcanq ls ckWy dh nwjh bldk fLFkfr&foLFkkiu gS A ewy fcanq dk pquko lqfo/kuqlkj fd;k tk ldrk gS A eku yhft, dksbZ xqVdk fdlh dekuh ls tqM+k gS ftldk nwljk fljk fdlh n`<+ nhokj ls lac¼ gS ¹nsf[k, fp=k 13.2 (a)º lk/kj.kr% fdlh fi.M dk foLFkkiu bldh larqyu voLFkk ls ekiuk ljy gksxkA fdlh nksyk;eku</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
 
 ERT
 
@@ -289,7 +302,7 @@ a.c. परिपथ में संयोजित संधारित्र
 समय का आवर्ती होता है । आवर्ती फलनों में से एक सरलतम
 आवर्ती फलन को निम्न प्रकार से व्यक्त कर सकते हैं,
 
-Reprint 2025-26
+
 
 
 ---
@@ -415,9 +428,15 @@ T होता है जिसका आवर्त काल 2π/ω है।
 अनावर्ती फलन है । ध्यान दीजिए, t→∞ होने पर log at
 अपसारित होकर ∞ तक पहुँच जाता है। अतः यह किसी भी
 प्रकार के भौतिक विस्थापन को निरूपित नहीं कर सकता ।
-13.3 सरल आवर्त गति
 
-हम चित्र 13.3 के अनुसार x-अक्ष के मूल बिंदु पर +A और
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_3_hi.png" alt="चित्र 13.3" onclick="openImageModal(this.src, 'चित्र 13.3: 13.3 ljy vkorZ xfr ge fp=k 13.3 osQ vuqlkj x-v{k osQ ewy fcanq ij +A vkSj –A pje...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13.3</strong> 13.3 ljy vkorZ xfr ge fp=k 13.3 osQ vuqlkj x-v{k osQ ewy fcanq ij +A vkSj –A pje lhekvksa osQ eè; vxz vkSj i'p oaQiu djus okys fdlh d.k ij fopkj djsa A bl nksyk;eku xfr dks ljy</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 -A चरम सीमाओं के मध्य अग्र और पश्च कंपन करने वाले
 किसी कण पर विचार करें । इस दोलायमान गति को सरल
 
@@ -435,7 +454,7 @@ x (t) = A cos (wt + $)
 
 (13.4)
 
-Reprint 2025-26
+
 
 
 ---
@@ -448,7 +467,14 @@ Reprint 2025-26
 यहाँ A, a तथा स्थिरांक हैं। अतः प्रत्येक आवर्त गति सरल
 आवर्त गति (SHM) नहीं है; केवल ऐसी आवर्त गति जिसमें
 विस्थापन-समय का फलन ज्यावक्रीय है, सरल आवर्त गति होती
-है। चित्र 13.4 में सरल आवर्त गति करते हुए एक कण की
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_4_hi.png" alt="चित्र 13.4" onclick="openImageModal(this.src, 'चित्र 13.4: fp=k 13.4 13.4 13.4 13.4 13.4 ljy vkorZ xfr djrs gq, le; osQ vlrr eku t = 0. T/4...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13.4</strong> fp=k 13.4 13.4 13.4 13.4 13.4 ljy vkorZ xfr djrs gq, le; osQ vlrr eku t = 0. T/4, T/2, 3T/4, T, 5T/4 ij d.k dh fLFkfrA og le; ftlosQ i'pkr xfr dh iqujko`fÙk gksrh gS] T dgykrh gSA izkjafHkd fLFkfr (t = 0) vki oqQN Hkh pqusa] T dk eku fLFkj jgsxkA d.k dh pky 'kwU; foLFkkiu (x = 0 ij) ij vfèkdre rFkk xfr dh pje fLFkfr;ksa ij 'kwU; gksrh gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
 x (t)
 A
@@ -499,13 +525,14 @@ Umax
 
 : विस्थापन x, समय के फलन के रूप में
 
-: कोणीय आवृत्ति
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_6_hi.png" alt="चित्र 13.6" onclick="openImageModal(this.src, 'चित्र 13.6: fp=k 13.6 13.6 13.6 13.6 13.6 lehdj.k (13.4) esa fn, ekud laosQrksa dk vFkZ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13.6</strong> fp=k 13.6 13.6 13.6 13.6 13.6 lehdj.k (13.4) esa fn, ekud laosQrksa dk vFkZ</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
-at + 4 : कला (समय पर आश्रित)
-
-: कला स्थिरांक
-
-चित्र 13.6 समीकरण (13.4) में दिए मानक संकेतों का अर्थ
 हैं, के मानक नाम हैं, जैसा कि चित्र 13.6 में संक्षिप्त किया गया
 है। आइए, इन राशियों को हम समझें।
 
@@ -542,28 +569,28 @@ t = 5T/4
 शून्य विस्थापन (x = 0 पर) पर अधिकतम तथा गति
 की चरम स्थितियों पर शून्य होती है।
 
-विस्थापन
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_5_hi.png" alt="चित्र 13.5" onclick="openImageModal(this.src, 'चित्र 13.5: fp=k 13.5 13.5 13.5 13.5 13.5 ljy vkorZ xfr djrs gq, d.k dk foLFkkiu le; osQ lrr...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13.5</strong> fp=k 13.5 13.5 13.5 13.5 13.5 ljy vkorZ xfr djrs gq, d.k dk foLFkkiu le; osQ lrr iQyu osQ :i esa</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
 
-A
-
-X
-
-2
-
-1
-
-t
-
-not to be republis
-
-चित्र 13.5 सरल आवर्त गति करते हुए कण का विस्थापन समय
 के सतत फलन के रूप में
 
 चित्र 13.5 में x के साथ t का ग्राफ आलेखित है जो समय के
 सतत फलन के रूप में कण के विस्थापन का मान देती है।
 राशियाँ A, तथा जो दी गई आवर्त गति की विशेषता बताती
 
-चित्र 13.7 (a) समीकरण (13.4) से प्राप्त ∮ = 0 पर समय के
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_7_hi.png" alt="चित्र 13.7" onclick="openImageModal(this.src, 'चित्र 13.7: fp=k 13.7 (a) 13.7 (a) 13.7 (a) 13.7 (a) 13.7 (a) lehdj.k (13.4) ls izkIr φ = 0 ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13.7</strong> fp=k 13.7 (a) 13.7 (a) 13.7 (a) 13.7 (a) 13.7 (a) lehdj.k (13.4) ls izkIr φ = 0 ij le; osQ iQyu osQ :i esa foLFkkiu dk vkys[k A oØ 1 vkSj 2 nks fHkUu vk;keksa A rFkk A osQ fy, gSa A</span>
+    <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
+  </div>
+</div>
+
 फलन के रूप में विस्थापन का आलेख । वक्र 1 और
 2 दो भिन्न आयामों A तथा A के लिए हैं ।
 
@@ -578,7 +605,7 @@ not to be republis
 कला-कोण विभिन्न हो सकते हैं, जैसा कि चित्र 13.7 (b)
 में दर्शाया गया है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -645,7 +672,15 @@ w(t+T) = wt + 2π
 मात्रक रेडियन प्रति सेकेंड है। चूंकि दोलन की आवृत्ति मात्र 1/
 Tहै, दोलन की आवृत्ति का 2 गुणा होता है। दो सरल आवर्त
 गति के A तथा समान, किन्तु विभिन्न हो सकते हैं, जैसा
-कि चित्र 13.8 में देखा जा सकता है। इस आलेख में वक्र b
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_8_hi.png" alt="चित्र 13.8" onclick="openImageModal(this.src, 'चित्र 13.8: fp=k 13.8 13.8 13.8 13.8 13.8 lehdj.k (14.4) osQ φ = 0 rad ij nks fHkUu vkorZdky...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13.8</strong> fp=k 13.8 13.8 13.8 13.8 13.8 lehdj.k (14.4) osQ φ = 0 rad ij nks fHkUu vkorZdkyksa osQ fy, vkys[kA</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 का आवर्त काल वक्र a के आवर्त काल का आधा है जबकि
 इसकी आवृत्ति वक्र a की आवृत्ति की दुगुनी है। री दुगुनी
 
@@ -693,8 +728,16 @@ t
 13.4 सरल आवर्त गति तथा एकसमान वर्तुल गति
 इ
 इस अनुभाग में हम देखेंगे कि वृत्त के व्यास पर एकसमान वर्तुल
-गति का प्रक्षेप सरल आवर्त गति करता है। एक सरल प्रयोग (चित्र
-13.9) इस संबंध की सजीव कल्पना करने में हमारी मदद करता
+गति का प्रक्षेप सरल आवर्त गति करता है। एक सरल प्रयोग (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_9_hi.png" alt="चित्र 13.9" onclick="openImageModal(this.src, 'चित्र 13.9: fp=k 13.9 13.9 13.9 13.9 13.9 fdukjs ls ns[ks x, ,d lery esa ckWy dh o`Ùkh; xfr ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13.9</strong> fp=k 13.9 13.9 13.9 13.9 13.9 fdukjs ls ns[ks x, ,d lery esa ckWy dh o`Ùkh; xfr ljy vkorZ xfr gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
+  </div>
+</div>
+
 है। एक गेंद को किसी डोरी के सिरे से बाँधकर क्षैतिज तल में
 उसे किसी निश्चित बिंदु के परितः अचर कोणीय चाल से गति
 कराइये। तब गेंद क्षैतिज तल में एकसमान वर्तुल गति करेगी। अपनी
@@ -711,15 +754,20 @@ t
 
 सरल आवर्त गति है।
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 7
 
-दोलन
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_10_hi.png" alt="चित्र 13.10" onclick="openImageModal(this.src, 'चित्र 13.10: fp=k 13.10 13.10 13.10 13.10 13.10...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13.10</strong> fp=k 13.10 13.10 13.10 13.10 13.10</span>
+    <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
+  </div>
+</div>
 
-चित्र 13.10 इसी स्थिति को गणितीय रूप में वर्णन करता
 है। मान लीजिए कोई कण P, त्रिज्या A के एक वृत्त पर कोणीय
 चाल ● से एकसमानीय गति कर रहा है। घूमने की दिशा वामावर्त
 है। कण की प्रारंभिक 'स्थिति सदिश' अर्थात् t = 0 पर सदिश
@@ -871,7 +919,7 @@ T
 sin। परन्तु sin (15) का तात्पर्य 15 रेडियन का sin है। आगे से 'rad' इकाई नहीं दर्शाया जाएगा। जब भी कोण का अंकिक मान बिना
 इकाई के दिया हुआ है तो इकाई वास्तव में रेडियन है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -959,7 +1007,16 @@ dt
 हमें ज्ञात है कि एकसमानीय वर्तुल गति में कण के
 अभिकेन्द्रीय त्वरण का परिमाण &/A अथवा ²A है तथा यह
 केन्द्र की ओर निर्दिष्ट है, अर्थात इसकी दिशा PO की ओर है।
-प्रक्षेप `कण P' का तात्क्षणिक त्वरण तब होगा (चित्र 13.12 देखें)
+प्रक्षेप `कण P' का तात्क्षणिक त्वरण तब होगा (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_12_hi.png" alt="चित्र 13.12" onclick="openImageModal(this.src, 'चित्र 13.12: fp=k 13.12 13.12 13.12 13.12 13.12 fcanq P&#39; dk Roj.k a(t), lanHkZ fcanq P os...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13.12</strong> fp=k 13.12 13.12 13.12 13.12 13.12 fcanq P' dk Roj.k a(t), lanHkZ fcanq P osQ Roj.k a dk iz{ksi gksrk gS A lehdj.k (13-11) ljy vkorZ xfr djrs gq, d.k dk Roj.k O;Dr djrk gSA blh lehdj.k dks] lehdj.k (13-9) ls iznÙk osx v(t) dks le; osQ lkis{k vodfyr djosQ lhèks izkIr fd;k tk ldrk gS%</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 a(t) = − &Acos (wt + φ)
 
 प्रारंभिक कला - rad की सरल आवर्त गति को
@@ -977,7 +1034,15 @@ a(t) = − &Acos (wt + φ)
 
 किसी समय t पर, वेग v की दिशा वृत्त के उस बिन्दु पर स्पर्शज्या
 के अनुदिश होती है जहाँ कण उस क्षण पर अवस्थित रहता है।
-चित्र 13.11 की ज्यामिति से यह स्पष्ट है कि समय t पर प्रक्षेप
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_11_hi.png" alt="चित्र 13.11" onclick="openImageModal(this.src, 'चित्र 13.11: lehdj.k (13-11) ls ge ,d egÙoiw.kZ ifj.kke ij è;ku nsrs gSa fd ljy vkorZ xfr esa...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13.11</strong> lehdj.k (13-11) ls ge ,d egÙoiw.kZ ifj.kke ij è;ku nsrs gSa fd ljy vkorZ xfr esa d.k dk Roj.k blosQ foLFkkiu osQ vuqØekuqikrh gksrk gSA x(t) > 0 osQ fy, a(t) < 0 rFkk x(t) < 0 osQ fy, a(t) > 0 gksrk gSA vr% –A rFkk A osQ fp=k 13.11 13.11 13.11 13.11 13.11 d.k P′ dk osx v(t) lanHkZ d.k P osQ osx v dk iz{ksi gS A</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
+
 कण P' का वेग है
 
 v(t) = -w A sin (wt + $)
@@ -1046,7 +1111,7 @@ dt
 के अनुक्रमानुपाती होता है। x(t) > 0 के लिए a(t) < 0 तथा
 x(t) < 0 के लिए a(t) > 0 होता है। अतः –A तथा A के
 
-Reprint 2025-26
+
 
 
 ---
@@ -1062,7 +1127,15 @@ Reprint 2025-26
 सरलता के लिए हम ¢ = 0 रख कर x(t), v(t) और
 a(t) के व्यंजक को लिखते हैं
 x(t)=A cos wt, v(t)=-wA sin wt, a(t)=−&A cos wt
-संगत आलेख को चित्र 13.13 में दर्शाया गया है। सभी राशियाँ
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_13_hi.png" alt="चित्र 13.13" onclick="openImageModal(this.src, 'चित्र 13.13: fp=k 13.13 13.13 13.13 13.13 13.13 ljy vkorZ xfr esa fdlh d.k dk foLFkkiu] osx r...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13.13</strong> fp=k 13.13 13.13 13.13 13.13 13.13 ljy vkorZ xfr esa fdlh d.k dk foLFkkiu] osx rFkk Roj.k dk vkorZdky T leku gksrk gS] ysfdu mudh dykvksa esa fHkUurk gksrh gSA • mnkgj.k 13.5 13.5 13.5 13.5 13.5 : dksbZ ¯iM fuEufyf[kr lehdj.k osQ vuqlkj ljy vkorZ xfr ls nksyu djrk gS]</span>
+    <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
+  </div>
+</div>
+
 समय के साथ ज्यावक्रीय विचरण करती हैं; केवल उनकी उच्चिष्ठ
 (maxima) में अन्तर होता है तथा उनके आलेखों में कलाओं
 की भिन्नता होती है। x, -A तथा A के मध्य विचरण करता
@@ -1234,7 +1307,7 @@ T=1s
 में, बल के व्यंजक में x2, x3 आदि के समानुपाती कुछ पद हो
 सकते हैं। अतः इन्हें अरैखिक दोलक कहते हैं।
 
-Reprint 2025-26
+
 
 
 ---
@@ -1246,7 +1319,14 @@ Reprint 2025-26
 
 उदाहरण 13.6 कमानी स्थिरांक k की दो सर्वसम
 कमानियाँ M संहति के किसी गुटके तथा स्थिर आधारों
-से चित्र 13.14 में दर्शाए गए अनुसार जुड़ी हुई हैं ।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_14_hi.png" alt="चित्र 13.14" onclick="openImageModal(this.src, 'चित्र 13.14: fp=k 13.14 13.14 13.14 13.14 13.14 ;g n&#39;kkZb, fd tc xqVosQ dks viuh lkE;koLF...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13.14</strong> fp=k 13.14 13.14 13.14 13.14 13.14 ;g n'kkZb, fd tc xqVosQ dks viuh lkE;koLFkk dh fLFkfr ls fdlh vksj foLFkkfir fd;k tkrk gS] rc ;g ljy vkorZ xfr djrk gS A nksyu dk vkorZdky Kkr dhft, A gy eku yhft, xqVosQ dks viuh lkE;koLFkk dh fLFkfr ls nkb± vksj x nwjh rd foLFkkfir fd;k tkrk gS A bls fp=k 13-15 esa fn[kk;k x;k gSA bl fLFkfr esa ckb± vksj dh dekuh</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
 m
 
@@ -1260,8 +1340,16 @@ k
 से किसी ओर विस्थापित किया जाता है, तब यह सरल
 आवर्त गति करता है । दोलन का आवर्तकाल ज्ञात कीजिए ।
 हल मान लीजिए गुटके को अपनी साम्यावस्था की स्थिति से
-दाईं ओर x दूरी तक विस्थापित किया जाता है। इसे चित्र
-13.15 में दिखाया गया है। इस स्थिति में बाईं ओर की कमानी
+दाईं ओर x दूरी तक विस्थापित किया जाता है। इसे
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_15_hi.png" alt="चित्र 13.15" onclick="openImageModal(this.src, 'चित्र 13.15: fp=k 13.15 13.15 13.15 13.15 13.15 rc xqVosQ ij vkjksfir usV cy]...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13.15</strong> fp=k 13.15 13.15 13.15 13.15 13.15 rc xqVosQ ij vkjksfir usV cy]</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 x लंबाई द्वारा दीर्घित हो जाती है तथा दाईं ओर की कमानी भी
 उतनी ही लंबाई द्वारा संपीडित हो जाती है । तब गुटके पर कार्यरत
 
@@ -1383,7 +1471,7 @@ m
 
 E = U+K
 
-Reprint 2025-26
+
 
 
 ---
@@ -1424,7 +1512,14 @@ E=kA
 है किसी भी सरल आवर्ती दोलक की कुल यांत्रिक ऊर्जा
 कालाश्रित नहीं होती । किसी रैखिक सरल आवर्ती दोलक की
 गतिज तथा स्थितिज ऊर्जाओं की समय और विस्थापन पर
-निर्भरता चित्र 13.16 में दर्शायी गई है ।
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_16_hi.png" alt="चित्र 13.16" onclick="openImageModal(this.src, 'चित्र 13.16: tSlk fd laj{kh cyksa osQ v/hu xfr;ksa osQ fy, vk&#39;kk dh tkrh gS fdlh Hkh ljy ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13.16</strong> tSlk fd laj{kh cyksa osQ v/hu xfr;ksa osQ fy, vk'kk dh tkrh gS fdlh Hkh ljy vkorhZ nksyd dh oqQy ;kaf=kd ÅtkZ dkykfJr ugha gksrh A fdlh jSf[kd ljy vkorhZ nksyd dh xfrt rFkk fLFkfrt ÅtkZvksa dh le; vkSj foLFkkiu ij fuHkZjrk fp=k 13.16 eas n'kkZ;h xbZ gS A</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
 
 E
 
@@ -1542,7 +1637,7 @@ x(t) = 0.1 cos (7.07t) होगा ।
 
 = 0.19 J
 
-Reprint 2025-26
+
 
 
 ---
@@ -1565,9 +1660,14 @@ Reprint 2025-26
 
 .. x = 5 cm पर गुटके की कुल ऊर्जा
 
-भौतिकी
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_17_hi.png" alt="चित्र 13.17" onclick="openImageModal(this.src, 'चित्र 13.17: (b) fp=k 13.17 13.17 13.17 13.17 13.17 (a) ekè; fLFkfr osQ lkis{k nksyu djrk dks...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13.17</strong> (b) fp=k 13.17 13.17 13.17 13.17 13.17 (a) ekè; fLFkfr osQ lkis{k nksyu djrk dksbZ ljy yksyd] (b) f=kT; cy T–mg cosθ vfHkosQUnz cy iznku djrk gS ijarq /qjkxz osQ lkis{k bldk dksbZ cy&vk?kw.kZ ugha gksrkA Li'kZ js[kh; cy mg sinθ izR;ku;u cy iznku djrk gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
-दोलन करता है। यह व्यवस्था चित्र 13.17(a) द्वारा दर्शाई गई है।
 चित्र 13.17(b) में दोलक पर कार्यरत बल प्रदर्शित किए गए हैं
 जो एक प्रकार का बल-निर्देशक आरेख है।
 
@@ -1668,7 +1768,7 @@ mgcos 0 तथा उसके लंबवत् mg sin 0 के रूप म�
 τ = -L (mg sin 0)
 (13.19)
 
-Reprint 2025-26
+
 
 
 ---
@@ -1856,7 +1956,7 @@ T = 1
 
 V
 
-Reprint 2025-26
+
 
 
 ---
@@ -2003,7 +2103,7 @@ N m-1
 
 सरल आवर्त गति में
 
-Reprint 2025-26
+
 
 F=-kx
 
@@ -2069,7 +2169,7 @@ x = A cos wt + B sin wt;
 
 (iv) किसी बहुपरमाणुक अणु की अपनी साम्यावस्था की स्थिति के परितः व्यापक कंपन ।
 
-Reprint 2025-26
+
 
 285
 
@@ -2077,9 +2177,14 @@ Reprint 2025-26
 ---
 ## 📄 Page 16
 
-286
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_18_hi.png" alt="चित्र 13.18" onclick="openImageModal(this.src, 'चित्र 13.18: fp=k 13.18 13.18 13.18 13.18 13.18...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13.18</strong> fp=k 13.18 13.18 13.18 13.18 13.18</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
-13.3 चित्र 13.18 में किसी कण की रैखिक गति के लिए चार x-t आरेख दिए गए हैं। इनमें से कौन-सा आरेख आवर्ती गति
 का निरूपण करता है ? उस गति का आवर्तकाल क्या है (आवर्ती गति वाली गति का) ।
 
 X
@@ -2161,7 +2266,7 @@ published
 
 (d) A की ओर जाते हुए B से 2cm दूर है,
 
-Reprint 2025-26
+
 
 भौतिकी
 
@@ -2195,7 +2300,15 @@ x(t) = A cos (wt + $)
 
 13.8 किसी कमानीदार तुला का पैमाना 0 से 50 kg तक अंकित है और पैमाने की लंबाई 20 cm है । इस तुला से लटकाया
 गया कोई पिण्ड, जब विस्थापित करके मुक्त किया जाता है, 0.6s के आवर्तकाल से दोलन करता है । पिंड का भार कितना है ?
-13.9 1200 N m¯¹ कमानी-स्थिरांक की कोई कमानी चित्र 13.19 में दर्शाए अनुसार किसी क्षैतिज मेज से जड़ी है। कमानी
+13.9 1200 N m¯¹ कमानी-स्थिरांक की कोई कमानी
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_19_hi.png" alt="चित्र 13.19" onclick="openImageModal(this.src, 'चित्र 13.19: 13.9 1200 N m–1 dekuh&fLFkjkad dh dksbZ dekuh fp=k 13.19 esa n&#39;kkZ, vuqlkj f...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13.19</strong> 13.9 1200 N m–1 dekuh&fLFkjkad dh dksbZ dekuh fp=k 13.19 esa n'kkZ, vuqlkj fdlh {kSfrt est ls tM+h gS A dekuh osQ eqDr fljs ls 3 kg nzO;eku dk dksbZ fi.M tqM+k gS A bl fi.M dks ,d vksj 2.0 cm nwjh rd [khap dj eqDr fd;k tkrk gS]</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
 
 के मुक्त सिरे से 3 kg द्रव्यमान का कोई पिण्ड जुड़ा है । इस पिण्ड को
 जाता है,
@@ -2229,11 +2342,19 @@ beepub
 (c) अधिकतम संपीडन की स्थिति पर है।
 
 सरल आवर्त गति के लिए ये फलन एक दूसरे से आवृत्ति में, आयाम में अथवा आरंभिक कला में किस रूप में भिन्न हैं ?
-13.11 चित्र 13.20 में दिए गए दो आरेख दो वर्तुल गतियों के तदनुरूपी हैं । प्रत्येक आरेख पर वृत्त की त्रिज्य, परिक्रमण-काल,
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_20_hi.png" alt="चित्र 13.20" onclick="openImageModal(this.src, 'चित्र 13.20: 13.11 fp=k 13.20 esa fn, x, nks vkjs[k nks orqZy xfr;ksa osQ rnuq:ih gSa A izR;s...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13.20</strong> 13.11 fp=k 13.20 esa fn, x, nks vkjs[k nks orqZy xfr;ksa osQ rnuq:ih gSa A izR;sd vkjs[k ij o`Ùk dh f=kT;] ifjØe.k&dky] vkjafHkd fLFkfr vkSj ifjØe.k dh fn'kk n'kkZ;h xbZ gS A izR;sd izdj.k esa] ifjØe.k djrs d.k osQ f=kT;&lfn'k osQ</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 आरंभिक स्थिति और परिक्रमण की दिशा दर्शायी गई है । प्रत्येक प्रकरण में, परिक्रमण करते कण के त्रिज्य-सदिश के
 x-अक्ष पर प्रक्षेप की तदनुरूपी सरल आवर्त गति ज्ञात कीजिए ।
 
-Reprint 2025-26
+
 
 287
 
@@ -2271,15 +2392,14 @@ X
 (t = 0) स्थिति, वृत्त की त्रिज्या तथा कोणीय चाल दर्शाइए । सुगमता के लिए प्रत्येक प्रकरण में परिक्रमण की दिशा
 वामावर्त लीजिए । (x को cm में तथा t को s में लीजिए ।)
 
-(a) x=-2 sin (3t + π/3)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_physics_ch13_oscillations_fig_13_21_hi.png" alt="चित्र 13.21" onclick="openImageModal(this.src, 'चित्र 13.21: fp=k 13.21 13.21 13.21 13.21 13.21...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 13.21</strong> fp=k 13.21 13.21 13.21 13.21 13.21</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
 
-(b) x = cos (π/6 – t)
-
-(c) x = 3 sin (2πt + π/4)
-
-(d) x = 2 cos πt
-
-13.13 चित्र 13.21(a) में k बल-स्थिरांक की किसी कमानी के एक सिरे को किसी दृढ़ आधार से जकड़ा तथा दूसरे मुक्त
 सिरे से एक द्रव्यमान m जुड़ा दर्शाया गया है। । कमानी के मुक्त सिरे पर बल F आरोपित करने से कमानी तन जाती
 है । चित्र 13.21(b) में उसी कमानी के दोनों मुक्त सिरों से द्रव्यमान m जुड़ा
 शाया गया है। कमानी के दोनों सिरो
@@ -2314,7 +2434,7 @@ F
 (b) यदि (a) का द्रव्यमान तथा (b) के दोनों द्रव्यमानों को मुक्त छोड़ दिया जाए, तो प्रत्येक प्रकरण में दोलन का
 आवर्तकाल ज्ञात कीजिए ।
 
-Reprint 2025-26
+
 
 भौतिकी
 
@@ -2354,9 +2474,9 @@ P18
 
 © NCERT
 
-not to be republished
 
-Reprint 2025-26
+
+
 
 289
 

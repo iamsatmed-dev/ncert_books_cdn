@@ -55,7 +55,7 @@
 आण्विक भाषा में वर्णन किया गया है। अंतिम दो अध्यायों के अंतर्गत जैविक समन्वय के
 बिंदुओं पर चर्चा की गई है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -81,13 +81,13 @@ ished
 
 not to be
 
-Reprint 2025-26
+
 
 
 ---
 ## 📄 Page 3
 
-11081CH17
+
 
 14.1 श्वसन के अंग
 
@@ -133,7 +133,7 @@ CO₂ का आदान-प्रदान अपने सारे शरी
 अपनी आर्द्र क्यूटिकल को श्वसन के लिए उपयोग करते हैं। कीटों के शरीर में नलिकाओं
 का एक जाल (श्वसन नलिकाएं) होता है; जिनसे वातावरण की वायु का उनके शरीर
 
-Reprint 2025-26
+
 
 
 ---
@@ -167,7 +167,16 @@ Reprint 2025-26
 अपूर्ण उपास्थिल वलयों से आलंबित होती हैं। प्रत्येक अंतस्थ श्वसनिका बहुत सारी
 पतली अनियमित भित्ति युक्त वाहिकायित थैली जैसी संरचना कूपिकाओं में खुलती है,
 जिसे वायु कूपिका कहते हैं। श्वसनी, श्वसनिकाओं और कूपिकाओं का शाखित जाल
-फेफड़ों (lungs) की रचना करते हैं (चित्र 14.1)। हमारे दो फेफड़े हैं जो एक
+फेफड़ों (lungs) की रचना करते हैं (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch14_breathing_and_exchange_of_gases_fig_14_hi.png" alt="चित्र 14" onclick="openImageModal(this.src, 'चित्र 14: gekjs ,d tksM+h cká uklk}kj gksrs gSa] tks gksBksa osQ Åij ckgj dh rjiQ [kqyrs g...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 14</strong> gekjs ,d tksM+h cká uklk}kj gksrs gSa] tks gksBksa osQ Åij ckgj dh rjiQ [kqyrs gSaA ;s uklk ekxZ }kjk uklk d{k rd igq¡prs gSaA uklk d{k xzluh esa [kqyrs gSaA xzluh vkgkj vkSj ok;q nksuksa osQ fy, mHk;fu"B ekxZ gSA xzluh oaQB }kjk 'okluyh esa [kqyrh gSA oaQB ,d mikfLFke; isfVdk gS tks èofu mRiknu esa lgk;rk djrh gS blhfy, bls èofu isfVdk Hkh dgk tkrk gSA Hkkstu fuxyrs le; ?kk¡Vh ,d iryh ykspnkj mikfLFky iYys@ÝySi oaQBPNn(epiglottis) ls <d tkrh gS] ftlls vkgkj xzluh ls daB esa izos'k u dj losQA 'okluyh ,d lhèkh ufydk gS tks o{k xqgk osQ eè; rd 5oha o{kh; d'ks#dh rd tkdj nkbZa vkSj ckbZa nks izkFkfed 'olfu;ksa esa foHkkftr gks tkrh gSA izR;sd 'oluh dbZ ckj foHkkftr gksrs gq, f}rh;d ,oa r`rh;d Lrj dh 'oluh] 'olfudk vkSj cgqr iryh varLFk 'olfudkvksa esa lekIr gksrh gSaA 'okluyh] izkFkfed] f}rh;d ,oa r`rh;d 'oluh rFkk izkjafHkd 'olfudk,a viw.kZ mikfLFky oy;ksa ls vkyafcr gksrh gSaA izR;sd varLFk 'olfudk cgqr lkjh iryh vfu;fer fHkfÙk ;qDr okfgdkf;r FkSyh tSlh lajpuk owQfidkvksa esa [kqyrh gS] ftls ok;q owQfidk dgrs gSaA 'oluh] 'olfudkvksa vkSj owQfidkvksa dk 'kkf[kr tky isQiQM+ksa (lungs) dh jpuk djrs gSa (fp=k 14-1)A gekjs nks isQiQM+s gSa tks ,d f}Lrjh; iqQIiqQlkoj.k (pleura) ls <osQ jgrs gSa vkSj ftuosQ chp iqQÝiQqlkoj.kh nzo Hkjk gksrk gSA ;g isQiQM+s dh lrg ij ?k"kZ.k de djrk gSA ckgjh iqQIiqQlkoj.kh f>Yyh o{kh; irZ osQ fudV laidZ esa jgrh gS_ tcfd vkarfjd iqQIiqQlkoj.kh f>Yyh isQiQM+s dh lrg osQ laidZ esa gksrh gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
+  </div>
+</div>
+
 द्विस्तरीय फुप्फुसावरण (pleura) से ढके रहते हैं और जिनके बीच फुफ्फुसावरणी
 द्रव भरा होता है। यह फेफड़े की सतह पर घर्षण कम करता है। बाहरी फुप्फुसावरणी
 झिल्ली वक्षीय पर्त के निकट संपर्क में रहती है; जबकि आंतरिक फुप्फुसावरणी
@@ -187,7 +196,7 @@ Reprint 2025-26
 (फुप्फुसी) की गुहा में प्रतिबिंबित हो जाएगा। श्वसन के लिए ऐसी व्यवस्था
 आवश्यक है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -265,7 +274,7 @@ to
 (आंतर फुप्फुसी दाब) कम हो अर्थात् फेफड़ों का दाब वायुमंडलीय दाब के सापेक्ष कम
 होता है। इस तरह निःश्वसन तब होता है, जब आंतर फुप्फुसी दाब वायुमंडलीय दाब से
 
-Reprint 2025-26
+
 
 
 ---
@@ -364,7 +373,7 @@ NCER
 मिली. वायु प्रति मिनट की दर से अंतः श्वासित/निःश्वासित
 कर सकता है।
 
-Reprint 2025-26
+
 
 
 ---
@@ -418,7 +427,7 @@ IRV सम्मिलित है। यानि जैव क्षमता
 विसरण में सम्मिलित झिल्लियों की मोटाई भी विसरण की दर को प्रभावित करने वाले
 कुछ महत्वपूर्ण घटक हैं।
 
-Reprint 2025-26
+
 
 187
 
@@ -521,7 +530,7 @@ CO2
 
 45
 
-Reprint 2025-26
+
 
 
 ---
@@ -630,7 +639,7 @@ Oxygen)
 
 चित्र 14.5 ऑक्सीजन वियोजन वक्र
 
-Reprint 2025-26
+
 
 
 ---
@@ -677,7 +686,16 @@ H₂CO₃
 में विसरित होती है और HCO और H⁺ बनाती है। कूपिका में pCO₂ कम होने से
 प्रतिक्रिया की दिशा विपरीत हो जाती है जिससे CO₂ और H₂O बनते हैं। इस तरह
 बाईकार्बोनेट के रूप में ऊतक स्तर पर ग्रहित (Trapped) और कूपिका तक परिवहित
-कार्बनडाइऑक्साइड बाहर की तरफ पुनः CO₂ के रूप में मुक्त हो जाती है (चित्र 17.4)।
+कार्बनडाइऑक्साइड बाहर की तरफ पुनः CO₂ के रूप में मुक्त हो जाती है (
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/11th_biology_ch14_breathing_and_exchange_of_gases_fig_17_hi.png" alt="चित्र 17" onclick="openImageModal(this.src, 'चित्र 17: Årdksa esa vip; osQ dkj.k pCO2 vf/d gksus ls CO2 jDr (RBCsvkSj IykTek) esa folfj...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>चित्र 17</strong> Årdksa esa vip; osQ dkj.k pCO2 vf/d gksus ls CO2 jDr (RBCsvkSj IykTek) esa folfjr gksrh gS vkSj HCO3 vkSj H+ cukrh gSA owQfidk esa pCO2 de gksus ls izfrfØ;k dh fn'kk foijhr gks tkrh gS ftlls CO2 vkSj H2o curs gSaA bl rjg ckbZdkcksZusV osQ :i esa Ård Lrj ij xzfgr (Trapped) vkSj owQfidk rd ifjofgr dkcZuMkbvkWDlkbM ckgj dh rjiQ iqu% CO2 osQ :i eas eqDr gks tkrh gS (fp=k 17-4)A izfr 100 feyhyhVj fovkWDlhtfur jDr }kjk owQfidk esa yxHkx CO2 dh 4 feyh- ek=kk eqDr gksrh gSA</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
+
 प्रति 100 मिलीलीटर विऑक्सीजनित रक्त द्वारा कूपिका में लगभग CO₂ की 4 मिली. मात्रा
 मुक्त होती है।
 
@@ -695,7 +713,7 @@ H₂CO₃
 
 not
 
-Reprint 2025-26
+
 
 
 ---
@@ -761,7 +779,7 @@ O₂ और CO₂ का विनिमय और कोशिकाओं द�
 
 2
 
-Reprint 2025-26
+
 
 
 ---
@@ -842,5 +860,5 @@ e
 14. ज्वारीय आयतन क्या है? एक स्वस्थ मनुष्य के लिए एक घंटे के ज्वारीय आयतन (लगभग मात्रा) को
 आंकलित करें?
 
-Reprint 2025-26
+
 

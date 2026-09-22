@@ -7,7 +7,7 @@
 
 Chapter One
 
-12089CH01
+
 
 ELECTRIC CHARGES
 
@@ -44,7 +44,7 @@ Historically the credit of discovery of the fact that amber rubbed with
 wool or silk cloth attracts light objects goes to Thales of Miletus, Greece,
 around 600 BC. The name electricity is coined from the Greek word
 
-Reprint 2026-27
+
 
 
 ---
@@ -54,37 +54,13 @@ Physics
 
 2
 
-Silk thread
-
-Glass rod
-
-+++++
-
-Glass rod
-
-++++++
-
-(a)
-
-Silk thread
-
-Plastic rod
-
-Plastic rod
-
-(b)
-
-Silk thread
-
-Glass rod
-
-+++++
-
-Plastic rod
-
-(c)
-
-FIGURE 1.1 Rods: like charges repel and unlike charges attract each other.
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_1.png" alt="Fig. 1.1" onclick="openImageModal(this.src, 'Fig. 1.1: It was observed that if two glass rods rubbed with wool or silk cloth are brough...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.1</strong> It was observed that if two glass rods rubbed with wool or silk cloth are brought close to each other, they repel each other [Fig. 1.1(a)]. The two strands of wool or two pieces of silk cloth, with which the rods were rubbed, also repel each other. However, the glass rod and wool attracted each other. Similarly, two plastic rods rubbed with cat’s fur repelled each other [Fig. 1.1(b)] but attracted the fur. On the other hand, the plastic rod attracts the glass rod [Fig. 1.1(c)] and repel the silk or wool with which the glass rod is rubbed. The glass rod repels the fur.</span>
+    <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
+  </div>
+</div>
 
 elektron meaning amber. Many such pairs of materials were known which
 on rubbing could attract light objects like straw, pith balls and bits of
@@ -128,7 +104,7 @@ that on plastic rod or silk is termed negative. If an object possesses an
 electric charge, it is said to be electrified or charged. When it has no charge
 it is said to be electrically neutral.
 
-Reprint 2026-27
+
 
 
 ---
@@ -138,7 +114,15 @@ Electric Charges
 and Fields
 
 A simple apparatus to detect charge on a body is the gold-leaf
-electroscope [Fig. 1.2(a)]. It consists of a vertical metal rod housed in a
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_2.png" alt="Fig. 1.2" onclick="openImageModal(this.src, 'Fig. 1.2: A simple apparatus to detect charge on a body is the gold-leaf electroscope [Fig...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.2</strong> A simple apparatus to detect charge on a body is the gold-leaf electroscope [Fig. 1.2(a)]. It consists of a vertical metal rod housed in a box, with two thin gold leaves attached to its bottom end. When a charged object touches the metal knob at the top of the rod, charge flows on to the leaves and they diverge. The degree of divergance is an indicator of the amount of charge.</span>
+    <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
+  </div>
+</div>
+
 box, with two thin gold leaves attached to its bottom end. When a charged
 object touches the metal knob at the top of the rod, charge flows on to
 the leaves and they diverge. The degree of divergance is an indicator of
@@ -196,7 +180,7 @@ insulators.
 
 3
 
-Reprint 2026-27
+
 
 
 ---
@@ -233,9 +217,7 @@ electricity. However, if a metal rod with a wooden or plastic
 handle is rubbed without touching its metal part, it shows
 signs of charging.
 
-### 1.4
-
-BASIC PROPERTIES OF ELECTRIC
+### 1.4 BASIC PROPERTIES OF ELECTRIC
 
 CHARGE
 
@@ -284,7 +266,7 @@ Conservation of charge has been established experimentally.
 It is not possible to create or destroy net charge carried by any isolated
 system although the charge carrying particles may be created or destroyed
 
-Reprint 2026-27
+
 
 
 ---
@@ -355,7 +337,7 @@ us but is not continuous in reality. As many points very close to
 
 5
 
-Reprint 2026-27
+
 
 
 ---
@@ -426,7 +408,7 @@ force between two point charges and found that it varied inversely as
 the square of the distance between the charges and was directly
 proportional to the product of the magnitude of the two charges and
 
-Reprint 2026-27
+
 
 
 ---
@@ -540,7 +522,7 @@ to verify Newton's Law of Gravitation.
 Implicit in this is the assumption of additivity of charges and conservation:
 two charges (q/2 each) add up to make a total charge q.
 
-Reprint 2026-27
+
 
 CHARLES AUGUSTIN DE COULOMB (1736-1806)
 
@@ -583,36 +565,15 @@ law is written as
 F =
 
 1
-4 περ
 
-9192
-r2
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_3.png" alt="Fig. 1.3" onclick="openImageModal(this.src, 'Fig. 1.3: Since force is a vector, it is better to write Coulomb’s law in the vector notat...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.3</strong> Since force is a vector, it is better to write Coulomb’s law in the vector notation. Let the position vectors of charges q1 and q2 be r1 and r2 respectively [see Fig.1.3(a)]. We denote force on q1 due to q2 by F12 and force on q2 due to q1 by F21. The two point charges q1 and q2 have been numbered 1 and 2 for convenience and the vector leading from 1 to 2 is denoted by r21:</span>
+    <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
+  </div>
+</div>
 
-(1.2)
-
-F1
-
-12
-
-91
-
-9192 > 0
-
-92
-
-T21
-
-F21
-
-q192< 0
-
-91
-
-F12
-
-(b)
-
-FIGURE 1.3 (a) Geometry and
 (b) Forces between charges.
 
 & is called the permittivity of free space . The value
@@ -671,7 +632,7 @@ which denotes attraction, as expected for unlike charges. Thus, we do
 not have to write separate equations for the cases of like and unlike
 charges. Equation (1.3) takes care of both cases correctly [Fig. 1.3(b)].
 
-Reprint 2026-27
+
 
 
 ---
@@ -783,7 +744,7 @@ forces are enormously stronger than the gravitational forces.
 
 EXAMPLE 1.3
 
-Reprint 2026-27
+
 
 9
 
@@ -830,16 +791,13 @@ The value for acceleration of the proton is
 Example 1.4 A charged metallic sphere A is suspended by a nylon
 thread. Another charged metallic sphere B held by an insulating
 
-to be republishe
-
-A
-
-5 cm
-(c)
-
-FIGURE 1.4
-
-Reprint 2026-27
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_4.png" alt="Fig. 1.4" onclick="openImageModal(this.src, 'Fig. 1.4: FIGURE 1.4...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.4</strong> FIGURE 1.4</span>
+    <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
+  </div>
+</div>
 
 (b)
 
@@ -921,7 +879,16 @@ The individual forces are unaffected due to the presence of
 other charges. This is termed as the principle of superposition.
 
 To better understand the concept, consider a system of
-three charges q1, q2 and q3, as shown in Fig. 1.5(a). The force
+three charges q1, q2 and q3, as shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_5.png" alt="Fig. 1.5" onclick="openImageModal(this.src, 'Fig. 1.5: To better understand the concept, consider a system of three charges q1, q2 and ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.5</strong> To better understand the concept, consider a system of three charges q1, q2 and q3, as shown in Fig. 1.5(a). The force on one charge, say q1, due to two other charges q2, q3 can therefore be obtained by performing a vector addition of the forces due to each one of these charges. Thus, if the force on q1 due to q2 is denoted by F12, F12 is given by Eq. (1.3) even though other charges are present.</span>
+    <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
+  </div>
+</div>
+
 on one charge, say q₁, due to two other charges q2, q3 can
 therefore be obtained by performing a vector addition of the
 forces due to each one of these charges. Thus, if the force on q₁
@@ -999,7 +966,7 @@ FIGURE 1.5 A system of
 
 F12
 
-Reprint 2026-27
+
 
 
 ---
@@ -1121,7 +1088,14 @@ Example 1.5 Consider three charges q1, q2, q3 each equal to q at the
 vertices of an equilateral triangle of side l. What is the force on a
 charge
 (with the same sign as q) placed at the centroid of the
-triangle, as shown in Fig. 1.6?
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_6.png" alt="Fig. 1.6" onclick="openImageModal(this.src, 'Fig. 1.6: Example 1.5 Consider three charges q1, q2, q3 each equal to q at the vertices of...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.6</strong> Example 1.5 Consider three charges q1, q2, q3 each equal to q at the vertices of an equilateral triangle of side l. What is the force on a charge Q (with the same sign as q) placed at the centroid of the triangle, as shown in Fig. 1.6?</span>
+    <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
+  </div>
+</div>
 
 not to
 
@@ -1155,7 +1129,7 @@ we draw a perpendicular AD to the side BC,
 AD = AC cos 30° = (√3/2)l and the distance AO of the centroid O
 from A is (2/3) AD = (1/√3) l. By symmatry AO = BO = CO.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1212,7 +1186,16 @@ Consider what would happen if the system was rotated through 60°
 about O.
 
 Example 1.6 Consider the charges q, q, and –q placed at the vertices
-of an equilateral triangle, as shown in Fig. 1.7. What is the force on
+of an equilateral triangle, as shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_7.png" alt="Fig. 1.7" onclick="openImageModal(this.src, 'Fig. 1.7: Example 1.6 Consider the charges q, q, and –q placed at the vertices of an equil...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.7</strong> Example 1.6 Consider the charges q, q, and –q placed at the vertices of an equilateral triangle, as shown in Fig. 1.7. What is the force on each charge?</span>
+    <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
+  </div>
+</div>
+
 each charge?
 
 F31
@@ -1264,7 +1247,7 @@ q²
 The total force F₂ on charge q at B is thus F₂ = Fŕ 2, where ŕ₂ is a
 unit vector along AC.
 
-Reprint 2026-27
+
 
 EXAMPLE 1.6
 
@@ -1332,13 +1315,15 @@ force F exerted by a charge Q on a charge q, as
 F =
 
 199.
-4πεο r2
 
-(1.7)
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_8.png" alt="Fig. 1.8" onclick="openImageModal(this.src, 'Fig. 1.8: FIGURE 1.8 Electric...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.8</strong> FIGURE 1.8 Electric</span>
+    <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
+  </div>
+</div>
 
-(b)
-
-FIGURE 1.8 Electric
 field (a) due to a
 
 charge Q, (b) due to a
@@ -1369,7 +1354,7 @@ as the force that a unit positive charge would experience if placed
 
 An alternate unit V/m will be introduced in the next chapter.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1442,40 +1427,20 @@ position vector r.
 
 15
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 16
 
-Physics
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_9.png" alt="Fig. 1.9" onclick="openImageModal(this.src, 'Fig. 1.9: where 2P ˆr is a unit vector in the direction from q2 to P and r2P is the distan...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.9</strong> where 2P ˆr is a unit vector in the direction from q2 to P and r2P is the distance between q2 and P. Similar expressions hold good for fields E3, E4, ..., En due to charges q3, q4, ..., qn. By the superposition principle, the electric field E at r due to the system of charges is (as shown in Fig. 1.9)</span>
+    <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
+  </div>
+</div>
 
-91
-
-92
-
-ra
-2P
-
-E4
-
-E3
-
-P
-
-13P
-
-93
-
-E1
-
-E2
-
-TAP
-
-94
-
-FIGURE 1.9 Electric field at a point
 due to a system of charges is the
 vector sum of the electric fields at
 the point due to individual charges.
@@ -1588,7 +1553,7 @@ between two distant charges q1, q₂ in accelerated motion. Now the greatest
 speed with which a signal or information can go from one point to another
 is c, the speed of light. Thus, the effect of any motion of q₁ on q₂ cannot
 
-Reprint 2026-27
+
 
 
 ---
@@ -1614,7 +1579,16 @@ transporting energy. The concept of field was first introduced by Faraday
 and is now among the central concepts in physics.
 
 Example 1.7 An electron falls through a distance of 1.5 cm in a
-uniform electric field of magnitude 2.0 × 104 N C-1 [Fig. 1.10(a)]. The
+uniform electric field of magnitude 2.0 × 104 N C-1 [
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_10.png" alt="Fig. 1.10" onclick="openImageModal(this.src, 'Fig. 1.10: Example 1.7 An electron falls through a distance of 1.5 cm in a uniform electric...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.10</strong> Example 1.7 An electron falls through a distance of 1.5 cm in a uniform electric field of magnitude 2.0 × 104 N C–1 [Fig. 1.10(a)]. The direction of the field is reversed keeping its magnitude unchanged and a proton falls through the same distance [Fig. 1.10(b)]. Compute the time of fall in each case. Contrast the situation with that of ‘free fall under gravity’.</span>
+    <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
+  </div>
+</div>
+
 direction of the field is reversed keeping its magnitude unchanged
 and a proton falls through the same distance [Fig. 1.10(b)]. Compute
 the time of fall in each case. Contrast the situation with that of 'free
@@ -1688,7 +1662,7 @@ p
 where m is the mass of the proton; m = 1.67 × 10-27 kg. The time of
 fall for the proton is
 
-Reprint 2026-27
+
 
 EXAMPLE 1.7
 
@@ -1750,7 +1724,15 @@ repobed
 Example 1.8 Two point charges q₁ and q2, of magnitude +10¯° C and
 −10¯º C, respectively, are placed 0.1
 
-fields at points A, B and C shown in in Fig. 1.11.
+fields at points A, B and C shown in in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_11.png" alt="Fig. 1.11" onclick="openImageModal(this.src, 'Fig. 1.11: Example 1.8 Two point charges q1 and q2, of magnitude +10–8 C and –10–8 C, respe...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.11</strong> Example 1.8 Two point charges q1 and q2, of magnitude +10–8 C and –10–8 C, respectively, are placed 0.1 m apart. Calculate the electric fields at points A, B and C shown in Fig. 1.11.</span>
+    <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
+  </div>
+</div>
 
 ON
 
@@ -1804,7 +1786,7 @@ EA = ELA + E2A = 7.2 × 104 N C¯¹
 
 E is directed toward the right.
 
-Reprint 2026-27
+
 
 
 ---
@@ -1885,7 +1867,16 @@ of the field at each point. Since the magnitude of electric
 field at a point decreases inversely as the square of the
 distance of that point from the charge, the vector gets
 shorter as one goes away from the origin, always pointing
-radially outward. Figure 1.12 shows such a picture. In
+radially outward.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_12.png" alt="Fig. 1.12" onclick="openImageModal(this.src, 'Fig. 1.12: We have studied electric field in the last section. It is a vector quantity and ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.12</strong> We have studied electric field in the last section. It is a vector quantity and can be represented as we represent vectors. Let us try to represent E due to a point charge pictorially. Let the point charge be placed at the origin. Draw vectors pointing along the direction of the electric field with their lengths proportional to the strength of the field at each point. Since the magnitude of electric field at a point decreases inversely as the square of the distance of that point from the charge, the vector gets shorter as one goes away from the origin, always pointing radially outward. Figure 1.12 shows such a picture. In this figure, each arrow indicates the electric field, i.e., the force acting on a unit positive charge, placed at the tail of that arrow. Connect the arrows pointing in one direction and the resulting figure represents a field line. We thus get many field lines, all pointing outwards from the point charge. Have we lost the information about the strength or magnitude of the field now, because it was contained in the length of the arrow? No. Now the magnitude of the field is represented by the density of field lines. E is strong near the charge, so the density of field lines is more near the charge and the lines are closer. Away from the charge, the field gets weaker and the density of field lines is less, resulting in well-separated lines.</span>
+    <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
+  </div>
+</div>
+
 this figure, each arrow indicates the electric field, i.e., the
 force acting on a unit positive charge, placed at the tail of
 that arrow. Connect the arrows pointing in one direction
@@ -1910,43 +1901,22 @@ important. In fact, an infinite number of lines can be drawn in any region.
 
 19
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 20
 
 Region of
-strong field,
 
-r₁ = OP
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_13.png" alt="Fig. 1.13" onclick="openImageModal(this.src, 'Fig. 1.13: We started by saying that the field lines carry information about the direction ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.13</strong> We started by saying that the field lines carry information about the direction of electric field at different points in space. Having drawn a certain set of field lines, the relative density (i.e., closeness) of the field lines at different points indicates the relative strength of electric field at those points. The field lines crowd where the field is strong and are spaced apart where it is weak. Figure 1.13 shows a set of field lines. We can imagine two equal and small elements of area placed at points R and S normal to the field lines there. The number of field lines in our picture cutting the area elements is proportional to the magnitude of field at these points. The picture shows that the field at R is stronger than at S.</span>
+    <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
+  </div>
+</div>
 
-Ο
-
-q
-
-P
-
-R
-
-Physics
-
-P
-
-ΔΩ
-
-r₂ = OP2
-
-S
-
-2
-
-Region of
-weak field
-
-ΓΔΩ
-
-FIGURE 1.13 Dependence of
 electric field strength on the
 distance and its relation to the
 
@@ -2022,7 +1992,7 @@ to AS/R², where AS is the area on the sphere cut out by the cone.
 
 2
 
-Reprint 2026-27
+
 
 
 ---
@@ -2035,7 +2005,14 @@ direction of electric field from the two possible directions
 indicated by a tangent to the curve. A field line is a space
 curve, i.e., a curve in three dimensions.
 
-Figure 1.14 shows the field lines around some simple
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_14.png" alt="Fig. 1.14" onclick="openImageModal(this.src, 'Fig. 1.14: Figure 1.14 shows the field lines around some simple charge configurations. As m...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.14</strong> Figure 1.14 shows the field lines around some simple charge configurations. As mentioned earlier, the field lines are in 3-dimensional space, though the figure shows them only in a plane. The field lines of a single positive charge are radially outward while those of a single negative charge are radially inward. The field lines around a system of two positive charges (q, q) give a vivid pictorial description of their mutual repulsion, while those around the configuration of two equal and opposite charges (q, –q), a dipole, show clearly the mutual attraction between the charges. The field lines follow some important general properties: (i) Field lines start from positive charges and end at negative charges. If there is a single charge, they may start or end at infinity. (ii) In a charge-free region, electric field lines can be taken</span>
+    <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
+  </div>
+</div>
+
 charge configurations. As mentioned earlier, the field lines
 are in 3-dimensional space, though the figure shows them
 only in a plane. The field lines of a single positive charge
@@ -2121,46 +2098,29 @@ some simple charge configurations.
 
 21
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 22
 
-Physics
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_15.png" alt="Fig. 1.15" onclick="openImageModal(this.src, 'Fig. 1.15: we place a small planar element of area DS normal to E at a point, the number of...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.15</strong> we place a small planar element of area DS normal to E at a point, the number of field lines crossing it is proportional* to E DS. Now suppose we tilt the area element by angle q. Clearly, the number of field lines crossing the area element will be smaller. The projection of the area element normal to E is DS cosq. Thus, the number of field lines crossing DS is proportional to E DS cosq. When q = 90°, field lines will be parallel to DS and will not cross it at all (Fig. 1.15).</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
 
-E
-
-AS
-
-AS
-
-AS
-
-AS
-
-E
-
-E
-
-θ
-
-E
-
-FIGURE 1.15 Dependence of flux on the
 inclination between E and ń.
 
-AS
-
-n
-
-AS = AS
-
-n
-
-AS
-
-FIGURE 1.16
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_16.png" alt="Fig. 1.16" onclick="openImageModal(this.src, 'Fig. 1.16: Notice one ambiguity here. The direction of an area element is along its normal....')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.16</strong> Notice one ambiguity here. The direction of an area element is along its normal. But a normal can point in two directions. Which direction do we choose as the direction of the vector associated with the area element? This problem is resolved by some convention appropriate to the given context. For the case of a closed surface, this convention is very simple. The vector associated with every area element of a closed surface is taken to be in the direction of the outward normal. This is the convention used in Fig. 1.16. Thus, the area element vector DS at a point on a closed</span>
+    <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
+  </div>
+</div>
 
 Convention for
 
@@ -2230,7 +2190,7 @@ number of field lines is after all, a matter of how many field lines we choose t
 draw. What is physically significant is the relative number of field lines crossing
 a given area at different points.
 
-Reprint 2026-27
+
 
 
 ---
@@ -2294,7 +2254,14 @@ parallelogram law of vectors.
 (i) For points on the axis
 
 Let the point P be at distance r from the centre of the dipole on the side of
-the charge q, as shown in Fig. 1.17(a). Then
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_17.png" alt="Fig. 1.17" onclick="openImageModal(this.src, 'Fig. 1.17: Let the point P be at distance r from the centre of the dipole on the side of th...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.17</strong> Let the point P be at distance r from the centre of the dipole on the side of the charge q, as shown in Fig. 1.17(a). Then</span>
+    <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
+  </div>
+</div>
 
 E-g
 
@@ -2318,7 +2285,7 @@ P
 
 4πε, (r−a)2
 
-Reprint 2026-27
+
 
 [1.13(b)]
 
@@ -2533,7 +2500,7 @@ E =
 
 (r>> a)
 
-Reprint 2026-27
+
 
 (1.20)
 
@@ -2573,8 +2540,16 @@ esting
 
 Example 1.9 Two charges ±10 µC are placed 5.0 mm apart. Determine
 the electric field at (a) a point P on the axis of the dipole 15 cm away
-from its centre O on the side of the positive charge, as shown in Fig.
-1.18(a), and (b) a point Q, 15 cm away from O on a line passing through
+from its centre O on the side of the positive charge, as shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_18.png" alt="Fig. 1.18" onclick="openImageModal(this.src, 'Fig. 1.18: Example 1.9 Two charges ±10 mC are placed 5.0 mm apart. Determine the electric f...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.18</strong> Example 1.9 Two charges ±10 mC are placed 5.0 mm apart. Determine the electric field at (a) a point P on the axis of the dipole 15 cm away from its centre O on the side of the positive charge, as shown in Fig. 1.18(a), and (b) a point Q, 15 cm away from O on a line passing through O and normal to the axis of the dipole, as shown in Fig. 1.18(b).</span>
+    <button class="icon-btn" onclick="goToPdfPage(25)">📄 View in PDF (Page 25)</button>
+  </div>
+</div>
+
 O and normal to the axis of the dipole, as shown in Fig. 1.18(b).
 
 not to be reblished
@@ -2615,7 +2590,7 @@ as the centre of mass: rom =
 
 cm Σα
 
-Reprint 2026-27
+
 
 EXAMPLE 1.9
 
@@ -2766,7 +2741,7 @@ As in (a), we can expect to get approximately the same result by
 directly using the formula for dipole field at a point on the normal to
 the axis of the dipole:
 
-Reprint 2026-27
+
 
 
 ---
@@ -2805,7 +2780,15 @@ EXAMPLE 1.9
 
 ### 1.11 DIPOLE IN A UNIFORM EXTERNAL FIELD
 Consider a permanent dipole of dipole moment p in a uniform
-external field E, as shown in Fig. 1.19. (By permanent dipole, we
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_19.png" alt="Fig. 1.19" onclick="openImageModal(this.src, 'Fig. 1.19: Consider a permanent dipole of dipole moment p in a uniform external field E, as...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.19</strong> Consider a permanent dipole of dipole moment p in a uniform external field E, as shown in Fig. 1.19. (By permanent dipole, we mean that p exists irrespective of E; it has not been induced by E.)</span>
+    <button class="icon-btn" onclick="goToPdfPage(27)">📄 View in PDF (Page 27)</button>
+  </div>
+</div>
+
 mean that p exists irrespective of E; it has not been induced by E.)
 There is a force qe on q and a force -qE on –q. The net force on
 the dipole is zero, since E is uniform. However, the charges are
@@ -2842,7 +2825,14 @@ situations when p is parallel to E or antiparallel to E. In
 either case, the net torque is zero, but there is a net force
 on the dipole if E is not uniform.
 
-Figure 1.20 is self-explanatory. It is easily seen that
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_20.png" alt="Fig. 1.20" onclick="openImageModal(this.src, 'Fig. 1.20: Figure 1.20 is self-explanatory. It is easily seen that when p is parallel to E,...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.20</strong> Figure 1.20 is self-explanatory. It is easily seen that when p is parallel to E, the dipole has a net force in the direction of increasing field. When p is antiparallel to E, the net force on the dipole is in the direction of decreasing field. In general, the force depends on the orientation of p with respect to E.</span>
+    <button class="icon-btn" onclick="goToPdfPage(27)">📄 View in PDF (Page 27)</button>
+  </div>
+</div>
+
 when p is parallel to E, the dipole has a net force in the
 direction of increasing field. When p is antiparallel to E,
 the net force on the dipole is in the direction of decreasing
@@ -2904,7 +2894,7 @@ antiparallel to p.
 
 q
 
-Reprint 2026-27
+
 
 
 ---
@@ -2920,36 +2910,13 @@ r'
 
 R
 
-r
-
-Ο
-
-Line charge AQ = λ ΔΙ
-
-P
-
-AS
-
-Ο
-
-r'
-R
-
-Surface charge AQ = GAS
-
-Ο
-
-AV
-
-r
-
-P
-
-R r
-
-Volume charge AQ=PAV
-
-FIGURE 1.21
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_21.png" alt="Fig. 1.21" onclick="openImageModal(this.src, 'Fig. 1.21: We have so far dealt with charge configurations involving discrete charges q1, q...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.21</strong> We have so far dealt with charge configurations involving discrete charges q1, q2, ..., qn. One reason why we restricted to discrete charges is that the mathematical treatment is simpler and does not involve calculus. For many purposes, however, it is impractical to work in terms of discrete charges and we need to work with continuous charge distributions. For example, on the surface of a charged conductor, it is impractical to specify the charge distribution in terms of the locations of the microscopic charged constituents. It is more feasible to consider an area element DS (Fig. 1.21) on the surface of the conductor (which is very small on the macroscopic scale but big enough to include a very large number of electrons) and specify the charge DQ on that element. We then define a surface charge density s at the area element by</span>
+    <button class="icon-btn" onclick="goToPdfPage(28)">📄 View in PDF (Page 28)</button>
+  </div>
+</div>
 
 Definition of linear,
 surface and volume
@@ -3039,7 +3006,7 @@ adopt for continuous mass distribution in mechanics. When we refer to
 At the microscopic level, charge distribution is discontinuous, because they are
 discrete charges separated by intervening space where there is no charge.
 
-Reprint 2026-27
+
 
 
 ---
@@ -3106,7 +3073,14 @@ discrete and part continuous.
 ### 1.13 GAUSS'S LAW
 
 at its centre. Divide the sphere into small area elements, as shown in
-Fig. 1.22.
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_22.png" alt="Fig. 1.22" onclick="openImageModal(this.src, 'Fig. 1.22: As a simple application of the notion of electric flux, let us consider the tota...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.22</strong> As a simple application of the notion of electric flux, let us consider the total flux through a sphere of radius r, which encloses a point charge q at its centre. Divide the sphere into small area elements, as shown in Fig. 1.22.</span>
+    <button class="icon-btn" onclick="goToPdfPage(29)">📄 View in PDF (Page 29)</button>
+  </div>
+</div>
 
 The flux through an area element AS is
 
@@ -3158,29 +3132,20 @@ charge q at its centre.
 
 29
 
-Reprint 2026-27
+
 
 
 ---
 ## 📄 Page 30
 
-Physics
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_23.png" alt="Fig. 1.23" onclick="openImageModal(this.src, 'Fig. 1.23: q = total charge enclosed by S. The law implies that the total electric flux thr...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.23</strong> q = total charge enclosed by S. The law implies that the total electric flux through a closed surface is zero if no charge is enclosed by the surface. We can see that explicitly in the simple situation of Fig. 1.23.</span>
+    <button class="icon-btn" onclick="goToPdfPage(30)">📄 View in PDF (Page 30)</button>
+  </div>
+</div>
 
-3
-
-E
-
-Σ
-
-q
-
-AS
-
-1
-
-2
-
-FIGURE 1.23 Calculation of the
 flux of uniform electric field
 through the surface of a cylinder.
 
@@ -3287,7 +3252,7 @@ on the left side of Eq. (1.31)] is due to all the charges, both inside and
 outside S. The term q on the right side of Gauss's law, however,
 represents only the total charge inside S.
 
-Reprint 2026-27
+
 
 
 ---
@@ -3313,7 +3278,16 @@ facilitated by the choice of a suitable Gaussian surface.
 distance contained in the Coulomb's law. Any violation of Gauss's
 law will indicate departure from the inverse square law.
 
-Example 1.10 The electric field components in Fig. 1.24 are
+Example 1.10 The electric field components in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_24.png" alt="Fig. 1.24" onclick="openImageModal(this.src, 'Fig. 1.24: Example 1.10 The electric field components in Fig. 1.24 are Ex = ax1/2, Ey = Ez ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.24</strong> Example 1.10 The electric field components in Fig. 1.24 are Ex = ax1/2, Ey = Ez = 0, in which a = 800 N/C m1/2. Calculate (a) the flux through the cube, and (b) the charge within the cube. Assume that a = 0.1 m.</span>
+    <button class="icon-btn" onclick="goToPdfPage(31)">📄 View in PDF (Page 31)</button>
+  </div>
+</div>
+
 Ex = ax¹/2, E = E₂ = 0, in which a = 800 N/C m¹/2. Calculate (a) the
 flux through the cube, and (b) the charge within the cube. Assume
 that a = 0.1 m.
@@ -3362,7 +3336,7 @@ R= ERAS = ER AS cose = ER AS, since 0 = 0°
 
 Net flux through the cube
 
-Reprint 2026-27
+
 
 EXAMPLE 1.10
 
@@ -3403,7 +3377,15 @@ the negative x direction for negative x. It is given that E = 200 í N/C
 for x > 0 and E = −200 i N/C for x < 0. A right circular cylinder of
 length 20 cm and radius 5 cm has its centre at the origin and its axis
 along the x-axis so that one face is at x = +10 cm and the other is at
-x = −10 cm (Fig. 1.25). (a) What is the net outward flux through each
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_25.png" alt="Fig. 1.25" onclick="openImageModal(this.src, 'Fig. 1.25: Example 1.11 An electric field is uniform, and in the positive x direction for p...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.25</strong> Example 1.11 An electric field is uniform, and in the positive x direction for positive x, and uniform with the same magnitude but in the negative x direction for negative x. It is given that E = 200 ˆi N/C for x > 0 and E = –200 ˆi N/C for x < 0. A right circular cylinder of length 20 cm and radius 5 cm has its centre at the origin and its axis along the x-axis so that one face is at x = +10 cm and the other is at x = –10 cm (Fig. 1.25). (a) What is the net outward flux through each flat face? (b) What is the flux through the side of the cylinder? (c) What is the net outward flux through the cylinder? (d) What is the net charge inside the cylinder?</span>
+    <button class="icon-btn" onclick="goToPdfPage(32)">📄 View in PDF (Page 32)</button>
+  </div>
+</div>
+
 flat face? (b) What is the flux through the side of the cylinder?
 (c) What is the net outward flux through the cylinder? (d) What is the
 net charge inside the cylinder?
@@ -3483,7 +3465,7 @@ q
 
 = 2.78 × 10-11 С
 
-Reprint 2026-27
+
 
 
 ---
@@ -3518,7 +3500,15 @@ respect to the charged wire. This implies that
 the electric field must have the same magnitude
 at these points. The direction of electric field at
 every point must be radial (outward if λ > 0,
-inward if ^ < 0). This is clear from Fig. 1.26.
+inward if ^ < 0). This is clear from
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_26.png" alt="Fig. 1.26" onclick="openImageModal(this.src, 'Fig. 1.26: Consider an infinitely long thin straight wire with uniform linear charge densit...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.26</strong> Consider an infinitely long thin straight wire with uniform linear charge density l. The wire is obviously an axis of symmetry. Suppose we take the radial vector from O to P and rotate it around the wire. The points P, P¢, P¢¢ so obtained are completely equivalent with respect to the charged wire. This implies that the electric field must have the same magnitude at these points. The direction of electric field at every point must be radial (outward if l > 0, inward if l < 0). This is clear from Fig. 1.26.</span>
+    <button class="icon-btn" onclick="goToPdfPage(33)">📄 View in PDF (Page 33)</button>
+  </div>
+</div>
 
 2
 
@@ -3586,7 +3576,7 @@ wire of uniform linear charge density.
 
 33
 
-Reprint 2026-27
+
 
 
 ---
@@ -3652,7 +3642,15 @@ wire, where the end effects may be ignored.
 
 ### 1.14.2 Field due to a uniformly charged infinite plane sheet
 Let o be the uniform surface charge density of an infinite plane sheet
-(Fig. 1.27). We take the x-axis normal to the given plane. By symmetry,
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_27.png" alt="Fig. 1.27" onclick="openImageModal(this.src, 'Fig. 1.27: Let s be the uniform surface charge density of an infinite plane sheet (Fig. 1.2...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.27</strong> Let s be the uniform surface charge density of an infinite plane sheet (Fig. 1.27). We take the x-axis normal to the given plane. By symmetry, the electric field will not depend on y and z coordinates and its direction</span>
+    <button class="icon-btn" onclick="goToPdfPage(34)">📄 View in PDF (Page 34)</button>
+  </div>
+</div>
+
 the electric field will not depend on y and z coordinates and its direction
 at every point must be parallel to the x-direction.
 
@@ -3690,7 +3688,7 @@ the net flux through the Gaussian surface is 2 EA.
 The charge enclosed by the closed surface is σΑ.
 Therefore by Gauss's law,
 
-Reprint 2026-27
+
 
 
 ---
@@ -3719,7 +3717,15 @@ middle regions of the planar sheet, away from the ends.
 
 ### 1.14.3 Field due to a uniformly charged thin spherical shell
 Let o be the uniform surface charge density of a thin spherical shell of
-radius R (Fig. 1.28). The situation has obvious spherical symmetry. The
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_28.png" alt="Fig. 1.28" onclick="openImageModal(this.src, 'Fig. 1.28: Let s be the uniform surface charge density of a thin spherical shell of radius ...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.28</strong> Let s be the uniform surface charge density of a thin spherical shell of radius R (Fig. 1.28). The situation has obvious spherical symmetry. The field at any point P, outside or inside, can depend only on r (the radial distance from the centre of the shell to the point) and must be radial (i.e., along the radius vector).</span>
+    <button class="icon-btn" onclick="goToPdfPage(35)">📄 View in PDF (Page 35)</button>
+  </div>
+</div>
+
 field at any point P, outside or inside, can depend only on r (the radial
 distance from the centre of the shell to the point) and must be radial (i.e.,
 along the radius vector).
@@ -3783,7 +3789,7 @@ shell. The Gaussian surface is again a sphere through P centred at O.
 
 35
 
-Reprint 2026-27
+
 
 
 ---
@@ -3817,19 +3823,14 @@ Example 1.12 An early model for an atom considered it to have a
 positively charged point nucleus of charge Ze, surrounded by a
 uniform density of negative charge up to a radius R. The atom as a
 whole is neutral. For this model, what is the electric field at a distance
-r from the nucleus?
 
-NCE
-
-P
-
-R
-
-+
-
-pishe
-
-FIGURE 1.29
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_29.png" alt="Fig. 1.29" onclick="openImageModal(this.src, 'Fig. 1.29: FIGURE 1.29...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.29</strong> FIGURE 1.29</span>
+    <button class="icon-btn" onclick="goToPdfPage(36)">📄 View in PDF (Page 36)</button>
+  </div>
+</div>
 
 Solution The charge distribution for this model of the atom is as
 shown in Fig. 1.29. The total negative charge in the uniform spherical
@@ -3863,7 +3864,7 @@ namely, r < R and r > R.
 Compare this with a uniform mass shell discussed in Section 7.5 of Class XI
 Textbook of Physics.
 
-Reprint 2026-27
+
 
 
 ---
@@ -3962,7 +3963,7 @@ isolated system remains unchanged with time. This means that when
 
 37
 
-Reprint 2026-27
+
 
 
 ---
@@ -4061,7 +4062,7 @@ end at negative charges-they cannot form closed loops.
 separated by some distance 2a. Its dipole moment vector p has
 magnitude 2qa and is in the direction of the dipole axis from -q to q.
 
-Reprint 2026-27
+
 
 
 ---
@@ -4164,7 +4165,7 @@ n
 
 where ń is a unit vector normal to the plane, outward on either side.
 
-Reprint 2026-27
+
 
 39
 
@@ -4299,7 +4300,7 @@ structure as they exist in nature.
 ### 2. Coulomb force and gravitational force follow the same inverse-square
 law. But gravitational force has only one sign (always attractive), while
 
-Reprint 2026-27
+
 
 
 ---
@@ -4370,7 +4371,7 @@ the configuration, its field falls off faster than 1/r², typical of field
 due to a single charge. An electric dipole is the simplest example of
 this fact.
 
-Reprint 2026-27
+
 
 41
 
@@ -4382,22 +4383,16 @@ Physics
 
 EXERCISES
 
-### 1.1
-
-What is the force between two small charged spheres having
+### 1.1 What is the force between two small charged spheres having
 charges of 2 × 10¯°C and 3 × 10-7C placed 30 cm apart in air?
 
-### 1.2
-
-The electrostatic force on a small sphere of charge 0.4 µC due to
+### 1.2 The electrostatic force on a small sphere of charge 0.4 µC due to
 another small sphere of charge -0.8 µC in air is 0.2 N. (a) What is
 the distance between the two spheres? (b) What is the force on the
 
 second sphere due to the first?
 
-### 1.3
-
-Check that the ratio ke²/G mm, is dimensionless. Look up a Table
+### 1.3 Check that the ratio ke²/G mm, is dimensionless. Look up a Table
 of Physical Constants and determine the value of this ratio. What
 does the ratio signify?
 
@@ -4410,17 +4405,13 @@ is quantised'.
 
 with macroscopic i.e., large scale charges?
 
-### 1.5
-
-When a glass rod is rubbed with a silk cloth, charges appear on
+### 1.5 When a glass rod is rubbed with a silk cloth, charges appear on
 both. A similar phenomenon is observed with many other pairs of
 bodies. Explain how this observation is consistent with the law of
 
 conservation of charge.
 
-### 1.6
-
-Four point charges q₁ = 2 µC, qp = −5 μC, qc = 2 µC, and q₁ = −5 µC are
+### 1.6 Four point charges q₁ = 2 µC, qp = −5 μC, qc = 2 µC, and q₁ = −5 µC are
 located at the corners of a square ABCD of side 10 cm. What is the
 force on a charge of 1 µC placed at the centre of the square?
 
@@ -4475,11 +4466,19 @@ separation.
 
 (b) What is the force of repulsion if each sphere is charged double
 the above amount, and the distance between them is halved?
-1.13 Figure 1.30 shows tracks of three charged particles in a uniform
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_30.png" alt="Fig. 1.30" onclick="openImageModal(this.src, 'Fig. 1.30: the above amount, and the distance between them is halved? 1.13 Figure 1.30 show...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.30</strong> the above amount, and the distance between them is halved? 1.13 Figure 1.30 shows tracks of three charged particles in a uniform electrostatic field. Give the signs of the three charges. Which particle has the highest charge to mass ratio?</span>
+    <button class="icon-btn" onclick="goToPdfPage(42)">📄 View in PDF (Page 42)</button>
+  </div>
+</div>
+
 electrostatic field. Give the signs of the three charges. Which particle
 has the highest charge to mass ratio?
 
-Reprint 2026-27
+
 
 
 ---
@@ -4521,7 +4520,16 @@ or Why not?
 beepolished
 
 ### 1.17 A point charge +10 µC is a distance 5 cm directly above the centre
-of a square of side 10 cm, as shown in Fig. 1.31. What is the
+of a square of side 10 cm, as shown in
+
+<div class="ncert-diagram-card">
+  <img src="data/diagrams/12th_physics_ch01_electric_charges_and_fields_fig_1_31.png" alt="Fig. 1.31" onclick="openImageModal(this.src, 'Fig. 1.31: 1.14 Consider a uniform electric field E = 3 × 103 î N/C. (a) What is the flux o...')">
+  <div class="diagram-caption-box">
+    <span class="diagram-caption-text"><strong>Fig. 1.31</strong> 1.14 Consider a uniform electric field E = 3 × 103 î N/C. (a) What is the flux of this field through a square of 10 cm on a side whose plane is parallel to the yz plane? (b) What is the flux through the same square if the normal to its plane makes a 60° angle with the x-axis? 1.15 What is the net flux of the uniform electric field of Exercise 1.14 through a cube of side 20 cm oriented so that its faces are parallel to the coordinate planes? 1.16 Careful measurement of the electric field at the surface of a black box indicates that the net outward flux through the surface of the box is 8.0 × 103 Nm2/C. (a) What is the net charge inside the box? (b) If the net outward flux through the surface of the box were zero, could you conclude that there were no charges inside the box? Why or Why not? 1.17 A point charge +10 mC is a distance 5 cm directly above the centre of a square of side 10 cm, as shown in Fig. 1.31. What is the magnitude of the electric flux through the square? (Hint: Think of the square as one face of a cube with edge 10 cm.)</span>
+    <button class="icon-btn" onclick="goToPdfPage(43)">📄 View in PDF (Page 43)</button>
+  </div>
+</div>
+
 magnitude of the electric flux through the square? (Hint: Think of
 the square as one face of a cube with edge 10 cm.)
 
@@ -4547,7 +4555,7 @@ and points radially inward, what is the net charge on the sphere?
 
 43
 
-Reprint 2026-27
+
 
 
 ---
@@ -4573,7 +4581,7 @@ and (c) between the plates?
 
 © NCERT
 
-not to be republished
 
-Reprint 2026-27
+
+
 
