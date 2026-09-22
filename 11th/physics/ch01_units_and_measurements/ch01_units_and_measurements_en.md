@@ -1,1507 +1,311 @@
-# NCERT: 11TH_PHYSICS_CH01_UNITS_AND_MEASUREMENTS_CH01_UNITS_AND_MEASUREMENTS_EN
-> **Total Pages**: 12 | **Digitized via**: Google Document AI OCR
+# NCERT: Class 11 Physics — Chapter 1
+# Units and Measurement (मात्रक एवं मापन)
 
+> **NCERT Class 11 Physics** | **Digital Study Edition** | With Vector Diagrams & LaTeX Math
 
 ---
+
+## 📑 Chapter Contents
+1. [1.1 Introduction](#11-introduction)
+2. [1.2 The International System of Units](#12-the-international-system-of-units)
+   - [Table 1.1: SI Base Quantities and Units](#table-11-si-base-quantities-and-units)
+   - [Fig 1.1: Plane Angle & Solid Angle](#fig-11-plane-angle-and-solid-angle)
+   - [Table 1.2: General Use Non-SI Units](#table-12-some-units-retained-for-general-use)
+3. [1.3 Significant Figures](#13-significant-figures)
+   - [1.3.1 Rules for Significant Figures](#131-rules-for-determining-significant-figures)
+   - [1.3.2 Rounding off Uncertain Digits](#132-rounding-off-the-uncertain-digits)
+   - [1.3.3 Rules for Arithmetic Calculations](#133-rules-for-determining-uncertainty-in-arithmetic-calculations)
+4. [1.4 Dimensions of Physical Quantities](#14-dimensions-of-physical-quantities)
+5. [1.5 Dimensional Formulae and Dimensional Equations](#15-dimensional-formulae-and-dimensional-equations)
+6. [1.6 Dimensional Analysis and its Applications](#16-dimensional-analysis-and-its-applications)
+   - [1.6.1 Checking Dimensional Consistency of Equations](#161-checking-dimensional-consistency-of-equations)
+   - [1.6.2 Deducing Relation among Physical Quantities](#162-deducing-relation-among-physical-quantities)
+7. [Chapter Summary](#summary)
+8. [Exercises & Solved Numericals](#exercises)
+
+---
+
 ## 📄 Page 1
 
-CHAPTER ONE
+### 1.1 Introduction
 
-UNITS AND MEASUREMENT
+Measurement of any physical quantity involves comparison with a certain basic, arbitrarily chosen, internationally accepted reference standard called **unit**. 
 
-11086CH02
+The result of a measurement of a physical quantity is expressed by a number (or numerical measure) accompanied by a unit:
 
-### 1.1
+$$\text{Physical Quantity} = n \times u$$
 
-Introduction
+where $n$ is numerical value and $u$ is the unit.
 
-### 1.2 The international system of
+Although the number of physical quantities appears to be very large, we need only a limited number of units for expressing all the physical quantities, since they are inter-related with one another. 
 
-units
-
-### 1.3 Significant figures
-
-### 1.4 Dimensions of physical
-
-quantities
-
-### 1.5 Dimensional formulae and
-dimensional equations
-
-### 1.6 Dimensional analysis and its
-applications
-
-Summary
-
-Exercises
-
-### 1.1 INTRODUCTION
-
-Measurement of any physical quantity involves comparison
-with a certain basic, arbitrarily chosen, internationally
-accepted reference standard called unit. The result of a
-measurement of a physical quantity is expressed by a
-number (or numerical measure) accompanied by a unit.
-Although the number of physical quantities appears to be
-very large, we need only a limited number of units for
-expressing all the physical quantities, since they are inter-
-related with one another. The units for the fundamental or
-base quantities are called fundamental or base units. The
-units of all other physical quantities can be expressed as
-combinations of the base units. Such units obtained for the
-derived quantities are called derived units. A complete set
-of these units, both the base units and derived units, is
-known as the system of units.
-
-### 1.2 THE INTERNATIONAL SYSTEM OF UNITS
-
-In earlier time scientists of different countries were using
-different systems of units for measurement. Three such
-systems, the CGS, the FPS (or British) system and the MKS
-system were in use extensively till recently.
-
-The base units for length, mass and time in these systems
-were as follows :
-
-•
-
-not to
-
-•
-
-In CGS system they were centimetre, gram and second
-respectively.
-
-In FPS system they were foot, pound and second
-respectively.
-
-In MKS system they were metre, kilogram and second
-respectively.
-
-The system of units which is at present internationally
-accepted for measurement is the Système International
-d' Unités (French for International System of Units),
-abbreviated as SI. The SI, with standard scheme of symbols,
-units and abbreviations, developed by the Bureau
-International des poids et mesures (The International Bureau
-of Weights and Measures, BIPM) in 1971 were recently
-revised by the General Conference on Weights and Measures
-in November 2018. The scheme is now for international usage
-
-Reprint 2026-27
-
+* **Fundamental or Base Units:** The units for the fundamental or base quantities are called fundamental or base units.
+* **Derived Units:** The units of all other physical quantities can be expressed as combinations of the base units. Such units obtained for the derived quantities are called derived units.
+* **System of Units:** A complete set of these units, both the base units and derived units, is known as the system of units.
 
 ---
+
+### 1.2 The International System of Units
+
+In earlier times scientists of different countries were using different systems of units for measurement. Three such systems, the **CGS**, the **FPS** (British system) and the **MKS** system were in use extensively:
+
+* **CGS system:** centimetre, gram, second
+* **FPS system:** foot, pound, second
+* **MKS system:** metre, kilogram, second
+
+The system of units which is at present internationally accepted for measurement is the **Système International d'Unités** (French for International System of Units), abbreviated as **SI**. 
+
+The SI was developed by the *Bureau International des Poids et Mesures* (BIPM) in 1971 and recently revised by the General Conference on Weights and Measures in November 2018. The SI units use a decimal system, making conversions within the system simple and convenient.
+
+---
+
 ## 📄 Page 2
 
-2
+In SI, there are **seven base units** as given in Table 1.1. Besides the seven base units, there are two supplementary dimensionless units defined for:
 
-PHYSICS
+1. **Plane Angle ($d\theta$):** Ratio of length of arc $ds$ to radius $r$.
+   $$d\theta = \frac{ds}{r} \text{ radian (rad)}$$
 
-in scientific, technical, industrial and commercial work.
-Because SI units used decimal system, conversions
-within the system are quite simple and convenient. We
-shall
-follow
-the
-SI
+2. **Solid Angle ($d\Omega$):** Ratio of intercepted area $dA$ of spherical surface about apex $O$ to square of radius $r^2$.
+   $$d\Omega = \frac{dA}{r^2} \text{ steradian (sr)}$$
 
-this book.
+Both plane angle and solid angle are dimensionless physical quantities ($[M^0 L^0 T^0]$).
 
-units
+<div class="ncert-diagram-card" data-page="2">
+  <div class="diagram-preview-box" onclick="window.openImageModal && window.openImageModal('data/diagrams/11th_physics_ch01_units_and_measurements_fig_1_1.png', 'Fig. 1.1: Plane Angle and Solid Angle')">
+    <img src="data/diagrams/11th_physics_ch01_units_and_measurements_fig_1_1.png" alt="Fig. 1.1 Description of (a) plane angle dθ and (b) solid angle dΩ" />
+  </div>
+  <div class="diagram-caption-box">
+    <div class="diagram-caption-text">
+      <strong>Fig. 1.1:</strong> Description of (a) plane angle $d\theta = \frac{ds}{r}\text{ rad}$ and (b) solid angle $d\Omega = \frac{dA}{r^2}\text{ sr}$.
+    </div>
+    <button class="diagram-btn-pdf" onclick="window.goToPdfPage && window.goToPdfPage(2);">
+      📄 View in PDF (Page 2)
+    </button>
+  </div>
+</div>
 
-in
+#### Table 1.1: SI Base Quantities and Units
 
-Ο
-
-In SI, there are seven base units as given in
-Table 1.1. Besides the seven base units, there are two
-more units that are defined for (a) plane angle de as the
-ratio of length of arc ds to the radius rand (b) solid
-angle do as the ratio of the intercepted area dA of the
-spherical surface, described about the apex O as the
-centre, to the square of its radius r, as shown in
-Fig. 1.1(a) and (b) respectively. The unit for plane angle
-is radian with the symbol rad and the unit for the solid
-angle is steradian with the symbol sr. Both these are
-dimensionless quantities.
-
-r
-
-ds
-
-de
-
-de = ds/r radian
-(a)
-
-r
-
-do
-
-dA
-
-do = dA/r² steradian
-(b)
-
-Fig. 1.1 Description of (a) plane angle de and
-(b) solid angle dΩ.
-
-Table 1.1 SI Base Quantities and Units*
-
-Base
-quantity
-Length
-
-Name
-
-Symbol
-
-metre
-
-m
-
-Mass
-
-kilogram
-
-kg
-
-SI Units
-
-Definition
-
-The metre is the SI unit of length. It is defined by taking the fixed numerical
-value of the speed of light in vacuum c to be 299792458 when expressed
-in the unit m s¯¹, where the second is defined in terms of the caesium
-frequency Avcs.
-
-The kilogram is the SI unit of mass. It is defined by taking the fixed numerical
-value of the Planck constant h to be 6.62607015×10-34 when expressed in
-the unit J s, which is equal to kg m² s¯¹, where the metre and the second are
-defined in terms of c and Aves.
-
-Time
-
-second
-
-S
-
-The second is the SI unit of time. It is defined by taking the fixed numerical
-value of the caesium frequency Avcs, the unperturbed ground-state hyperfine
-transition frequency of the caesium-133 atom, to be 9192631770 when
-expressed in the unit Hz, which is equal to s¯¹.
-
-*
-
-Electric
-
-ampere
-
-A
-
-current
-
-Thermo
-
-kelvin
-
-K
-
-dynamic
-
-Temperature
-
-Amount of
-
-mole
-
-mol
-
-substance
-
-Luminous
-
-us
-
-intensity
-
-ot to
-
-candela
-
-cd
-
-The ampere is the SI unit of electric current. It is defined by taking the
-fixed numerical value of the elementary charge e to be 1.602176634×1019
-when expressed in the unit C, which is equal to A s, where the second is
-defined in terms of Aves.
-
-The kelvin, symbol K, is the SI unit of thermodynamic temperature.
-It is defined by taking the fixed numerical value of the Boltzmann constant
-k to be 1.380649×10-23 when expressed in the unit J K-¹, which is equal to
-kg m² s-2k-¹, where the kilogram, metre and second are defined in terms of
-h, c and Aves.
-
-The mole is the SI unit of amount of substance. One mole contains exactly
-6.02214076×1023 elementary entities. This number is the fixed numerical
-value of the Avogadro constant, N₁, when expressed in the unit mol-¹ and is
-called the Avogadro number. The amount of substance, symbol n, of a system
-is a measure of the number of specified elementary entities. An elementary
-entity may be an atom, a molecule, an ion, an electron, any other particle or
-specified group of particles.
-
-The candela is the SI unit of luminous intensity in given direction. It is defined
-by taking the fixed numerical value of the luminous efficacy of monochromatic
-radiation of frequency 540×1012 Hz, Ka, to be 683 when expressed in the unit
-lm W-¹, which is equal to cd sr W-¹, or cd sr kg-¹m-2s³, where the kilogram,
-metre and second are defined in terms of h, c and Aves.
-
-The values mentioned here need not be remembered or asked in a test. They are given here only to indicate the
-extent of accuracy to which they are measured. With progress in technology, the measuring techniques get
-improved leading to measurements with greater precision. The definitions of base units are revised to keep up
-with this progress.
-
-Reprint 2026-27
-
+| Base Quantity | Name | Symbol | Definition & BIPM Standard |
+| :--- | :--- | :--- | :--- |
+| **Length** | metre | $\text{m}$ | Defined by taking the fixed numerical value of the speed of light in vacuum $c$ to be $299\,792\,458$ when expressed in the unit $\text{m}\cdot\text{s}^{-1}$, where the second is defined in terms of $\Delta\nu_{\text{Cs}}$. |
+| **Mass** | kilogram | $\text{kg}$ | Defined by taking the fixed numerical value of the Planck constant $h$ to be $6.62607015 \times 10^{-34}$ when expressed in the unit $\text{J}\cdot\text{s} = \text{kg}\cdot\text{m}^2\cdot\text{s}^{-1}$. |
+| **Time** | second | $\text{s}$ | Defined by taking the fixed numerical value of caesium frequency $\Delta\nu_{\text{Cs}}$, the unperturbed ground-state hyperfine transition frequency of caesium-133 atom, to be $9\,192\,631\,770$ when expressed in $\text{Hz}$ ($\text{s}^{-1}$). |
+| **Electric Current** | ampere | $\text{A}$ | Defined by taking the fixed numerical value of elementary charge $e$ to be $1.602176634 \times 10^{-19}$ when expressed in $\text{C} = \text{A}\cdot\text{s}$. |
+| **Thermodynamic Temperature** | kelvin | $\text{K}$ | Defined by taking the fixed numerical value of the Boltzmann constant $k$ to be $1.380649 \times 10^{-23}$ when expressed in $\text{J}\cdot\text{K}^{-1} = \text{kg}\cdot\text{m}^2\cdot\text{s}^{-2}\cdot\text{K}^{-1}$. |
+| **Amount of Substance** | mole | $\text{mol}$ | One mole contains exactly $6.02214076 \times 10^{23}$ elementary entities (Avogadro constant $N_A$ expressed in $\text{mol}^{-1}$). |
+| **Luminous Intensity** | candela | $\text{cd}$ | Defined by taking fixed numerical value of luminous efficacy of monochromatic radiation of frequency $540 \times 10^{12}\text{ Hz}$, $K_{\text{cd}}$, to be $683$ when expressed in $\text{lm}\cdot\text{W}^{-1} = \text{cd}\cdot\text{sr}\cdot\text{W}^{-1}$. |
 
 ---
+
 ## 📄 Page 3
 
-UNITS AND MEASUREMENT
-
-Table 1.2 Some units retained for general use (Though outside SI)
-
-Name
-
-minute
-
-hour
-
-Value in SI Unit
-
-60 s
-
-60 min = 3600 s
-
-Symbol
-
-min
-
-h
-
-day
-
-d
-
-24 h = 86400 s
-
-year
-
-y
-
-365.25 d = 3.156 × 107 s
-
-degree
-
-1° = (π/ 180) rad
-
-litre
-
-L
-
-I dm³ = 10³ m³
-
-tonne
-
-t
-
-103 kg
-
-carat
-
-C
-
-200 mg
-
-bar
-
-bar
-
-0.1 MPa = 105 Pa
-
-curie
-
-Ci
-
-### 3.7 x 1010 s¹
-
-roentgen
-
-R
-
-### 2.58 × 10 C/kg
-
-quintal
-
-barn
-
-are
-
-hectare
-
-q
-
-100 kg
-
-b
-
-100 fm² = 10-28 m²
-
-a
-
-1 dam² = 102 m²
-
-ha
-
-atm
-
-3
-
-standard atmospheric pressure
-
-Note that when mole is used, the elementary
-entities must be specified. These entities
-may be atoms, molecules, ions, electrons,
-other particles or specified groups of such
-particles.
-
-We employ units for some physical
-quantities that can be derived from the seven
-base units (Appendix A 6). Some derived
-units in terms of the SI base units are given
-in (Appendix A 6.1). Some SI derived units
-are given special names (Appendix А 6.2 )
-and some derived SI units make use of these
-units with special names and the seven base
-units (Appendix A 6.3). These are given in
-Appendix A 6.2 and A 6.3 for your ready
-reference. Other units retained for general
-use are given in Table 1.2.
-
-Common SI prefixes and symbols for multiples
-and sub-multiples are given in Appendix A2.
-General guidelines for using symbols for physical
-quantities, chemical elements and nuclides are
-given in Appendix A7 and those for SI units and
-some other units are given in Appendix A8 for
-your guidance and ready reference.
-
-### 1.3
-
-SIGNIFICANT FIGURES
-
-Every measurement involves errors. Thus, the
-result of measurement should be reported in a
-way that indicates the precision of
-measurement. Normally, the reported result of
-measurement is a number that includes all
-digits in the number that are known reliably
-plus the first digit that is uncertain. The reliable
-
-1 hm² = 10 m²
-
-101325 Pa = 1.013 × 105 Pa
-
-digits plus the first uncertain digit are known
-as significant digits or significant figures. If
-we say the period of oscillation of a simple
-pendulum is 1.62 s, the digits 1 and 6 are
-reliable and certain, while the digit 2 is
-uncertain. Thus, the measured value has three
-significant figures. The length of an object
-reported after measurement to be 287.5 cm has
-four significant figures, the digits 2, 8, 7 are
-certain while the digit 5 is uncertain. Clearly,
-reporting the result of measurement that
-includes more digits than the significant digits
-is superfluous and also misleading since it
-would give a wrong idea about the precision of
-measurement.
-
-The rules for determining the number of
-significant figures can be understood from the
-following examples. Significant figures
-indicate, as already mentioned, the precision
-of measurement which depends on the least
-count of the measuring instrument. A choice
-of change of different units does not
-change the number of significant digits or
-figures in a measurement. This important
-remark makes most of the following
-observations clear:
-
-(1) For example, the length 2.308 cm has four
-significant figures. But in different units, the
-same value can be written as 0.02308 m or 23.08
-mm or 23080 μm.
-
-All these numbers have the same number of
-significant figures (digits 2, 3, 0, 8), namely four.
-
-Reprint 2026-27
-
+#### Table 1.2: Some units retained for general use (Though outside SI)
+
+| Name | Symbol | Value in SI Unit |
+| :--- | :--- | :--- |
+| **minute** | $\text{min}$ | $60\text{ s}$ |
+| **hour** | $\text{h}$ | $60\text{ min} = 3600\text{ s}$ |
+| **day** | $\text{d}$ | $24\text{ h} = 86400\text{ s}$ |
+| **year** | $\text{y}$ | $365.25\text{ d} = 3.156 \times 10^7\text{ s}$ |
+| **degree** | $^\circ$ | $1^\circ = (\pi / 180)\text{ rad}$ |
+| **litre** | $\text{L}$ | $1\text{ dm}^3 = 10^{-3}\text{ m}^3$ |
+| **tonne** | $\text{t}$ | $10^3\text{ kg} = 1\text{ Mg}$ |
+| **carat** | $\text{c}$ | $200\text{ mg}$ |
+| **bar** | $\text{bar}$ | $0.1\text{ MPa} = 10^5\text{ Pa}$ |
+| **curie** | $\text{Ci}$ | $3.7 \times 10^{10}\text{ s}^{-1}$ |
+| **roentgen** | $\text{R}$ | $2.58 \times 10^{-4}\text{ C/kg}$ |
+| **quintal** | $\text{q}$ | $100\text{ kg}$ |
+| **barn** | $\text{b}$ | $100\text{ fm}^2 = 10^{-28}\text{ m}^2$ |
+| **are** | $\text{a}$ | $1\text{ dam}^2 = 10^2\text{ m}^2$ |
+| **hectare** | $\text{ha}$ | $1\text{ hm}^2 = 10^4\text{ m}^2$ |
+| **standard atmosphere** | $\text{atm}$ | $101325\text{ Pa} = 1.013 \times 10^5\text{ Pa}$ |
 
 ---
+
+### 1.3 Significant Figures
+
+Every measurement involves errors. The reported result of measurement should indicate the precision of measurement. Normally, the reported result contains all the digits that are known reliably plus one uncertain digit:
+
+> **Definition:** The reliable digits plus the first uncertain digit are known as **significant digits** or **significant figures**.
+
+* Example: In pendulum oscillation period $1.62\text{ s}$, digits $1$ and $6$ are reliable/certain, while digit $2$ is uncertain. Measured value has **$3$ significant figures**.
+* Example: Length $287.5\text{ cm}$ has **$4$ significant figures** ($2, 8, 7$ are certain, $5$ is uncertain).
+
+---
+
 ## 📄 Page 4
 
-4
+### 1.3.1 Rules for Determining Significant Figures
 
-PHYSICS
-
-This shows that the location of decimal point is
-of no consequence in determining the number
-of significant figures.
-
-The example gives the following rules :
-
-•
-
-•
-
-•
-
-•
-
-•
-
-All the non-zero digits are significant.
-All the zeros between two non-zero digits
-are significant, no matter where the
-decimal point is, if at all.
-
-If the number is less than 1, the zero(s)
-on the right of decimal point but to the
-left of the first non-zero digit are not
-significant. [In 0.00 2308, the underlined
-zeroes are not significant].
-
-The terminal or trailing zero(s) in a
-number without a decimal point are not
-significant.
-
-[Thus 123 m = 12300 cm = 123000 mm has
-three significant figures, the trailing zero(s)
-being not significant.] However, you can also
-see the next observation.
-
-The trailing zero(s) in a number with a
-decimal point are significant.
-[The numbers 3.500 or 0.06900 have four
-significant figures each.]
-
-(2) There can be some confusion regarding the
-trailing zero(s). Suppose a length is reported to
-be 4.700 m. It is evident that the zeroes here
-are meant to convey the precision of
-measurement and are, therefore, significant. [If
-these were not, it would be superfluous to write
-them explicitly, the reported measurement
-would have been simply 4.7 m]. Now suppose
-we change units, then
-
-### 4.700 m = 470.0 cm = 4700 mm = 0.004700 km
-Since the last number has trailing zero(s) in a
-number with no decimal, we would conclude
-erroneously from observation (1) above that the
-number has two significant figures, while in
-fact, it has four significant figures and a mere
-change of units cannot change the number of
-significant figures.
-
-(3) To remove such ambiguities in
-determining the number of significant
-figures, the best way is to report every
-measurement in scientific notation (in the
-power of 10). In this notation, every number is
-expressed as a × 10b, where a is a number
-between 1 and 10, and bis any positive or
-
-negative exponent (or power) of 10. In order to
-get an approximate idea of the number, we may
-round off the number a to 1 (for a ≤ 5) and to 10
-(for 5<a<10). Then the number can be
-expressed approximately as 10b in which the
-exponent (or power) b of 10 is called order of
-magnitude of the physical quantity. When only
-an estimate is required, the quantity is of the
-order of 10b. For example, the diameter of the
-earth (1.28×107m) is of the order of 107m with
-the order of magnitude 7. The diameter of
-hydrogen atom (1.06 ×10-10m) is of the order of
-10-10m, with the order of magnitude
--10. Thus, the diameter of the earth is 17 orders
-of magnitude larger than the hydrogen atom.
-
-It is often customary to write the decimal after
-the first digit. Now the confusion mentioned in
-(a) above disappears :
-
-### 4.700 m = 4.700 × 102 cm
-
-= 4.700 × 103 mm = 4.700 × 10-3 km
-The power of 10 is irrelevant to the
-determination of significant figures. However, all
-zeroes appearing in the base number in the
-scientific notation are significant. Each number
-in this case has four significant figures.
-
-Thus, in the scientific notation, no confusion
-arises about the trailing zero(s) in the base
-number a. They are always significant.
-
-(4) The scientific notation is ideal for reporting
-measurement. But if this is not adopted, we use
-the rules adopted in the preceding example :
-
-•
-
-•
-
-For a number greater than 1, without any
-decimal, the trailing zero(s) are not
-significant.
-
-For a number with a decimal, the trailing
-zero(s) are significant.
-
-(5) The digit 0 conventionally put on the left of a
-decimal for a number less than 1 (like 0.1250)
-is never significant. However, the zeroes at the
-end of such number are significant in a
-measurement.
-
-(6) The multiplying or dividing factors which are
-neither rounded numbers nor numbers
-representing measured values are exact and
-have infinite number of significant digits. For
-
-r=
-
-example in r=
-
-2
-
-or s = 2nr, the factor 2 is an
-
-exact number and it can be written as 2.0, 2.00
-
-Reprint 2026-27
-
+1. **All non-zero digits are significant.** Example: $2308$ has 4 significant figures.
+2. **All zeros between two non-zero digits are significant**, no matter where the decimal point is. Example: $2.005$ has 4 significant figures.
+3. **If the number is less than 1, the zero(s) on the right of decimal point but to the left of the first non-zero digit are not significant.** In $\underline{0}.\underline{00}2308$, the underlined zeros are not significant. It has 4 significant figures.
+4. **The terminal or trailing zero(s) in a number without a decimal point are not significant.** Thus $123\text{ m} = 12300\text{ cm} = 123000\text{ mm}$ all have only 3 significant figures.
+5. **The trailing zeros in a number with a decimal point are significant.** $3.500\text{ g}$ has 4 significant figures, and $0.06900\text{ m}$ has 4 significant figures.
+6. **Change of units does not change the number of significant figures.** To remove ambiguities, scientific notation ($a \times 10^b$) is best used:
+   $$4.700\text{ m} = 4.700 \times 10^2\text{ cm} = 4.700 \times 10^3\text{ mm}$$
+   Here each expression clearly has 4 significant figures.
 
 ---
+
 ## 📄 Page 5
 
-UNITS AND MEASUREMENT
-
-5
-
-t
-
-or 2.0000 as required. Similarly, in T=-, n is
-
-an exact number.
-
-n'
-
-### 1.3.1 Rules for Arithmetic Operations with
-Significant Figures
-
-The result of a calculation involving approximate
-measured values of quantities (i.e. values with
-limited number of significant figures) must
-reflect the uncertainties in the original
-measured values. It cannot be more accurate
-than the original measured values themselves
-on which the result is based. In general, the
-final result should not have more significant
-figures than the original data from which it was
-obtained. Thus, if mass of an object is measured
-to be, say, 4.237 g (four significant figures) and
-its volume is measured to be 2.51 cm³, then its
-density, by mere arithmetic division, is
-1.68804780876 g/cm³ upto 11 decimal places.
-It would be clearly absurd and irrelevant to
-record the calculated value of density to such a
-precision when the measurements on which the
-value is based, have much less precision. The
-following rules for arithmetic operations with
-significant figures ensure that the final result
-of a calculation is shown with the precision that
-is consistent with the precision of the input
-measured values :
-
-(1) In multiplication or division, the final
-result should retain as many significant
-figures as are there in the original number
-with the least significant figures.
-
-Thus, in the example above, density should
-be reported to three significant figures.
-
-Density =
-
-### 4.237g
-3
-2.51 cm
-
-= 1.69 g cm
-
--3
-
-Similarly, if the speed of light is given as
-3.00
-108 m s¯¹ (three significant figure) and
-one year (ly = 365.25 d) has 3.1557 107 s (five
-significant figures), the light year is 9.47 1015 m
-(three significant figures).
-
-(2) In addition or subtraction, the final result
-should retain as many decimal places as are
-there in the number with the least
-decimal places.
-
-For example, the sum of the numbers
-436.32 g, 227.2 g and 0.301 g by mere arithmetic
-addition, is 663.821 g. But the least precise
-measurement (227.2 g) is correct to only one
-
-decimal place. The final result should, therefore,
-be rounded off to 663.8 g.
-
-Similarly, the difference in length can be
-expressed as :
-
-0.307 m-0.304 m = 0.003 m = 3 ×10-3 m.
-
-Note that we should not use the rule (1) applicable
-for multiplication and division and write 664 gas
-the result in the example of addition and
-3.00 103 m in the example of subtraction. They
-do not convey the precision of measurement
-properly. For addition and subtraction, the rule
-is in terms of decimal places.
-
 ### 1.3.2 Rounding off the Uncertain Digits
-The result of computation with approximate
-numbers, which contain more than one
-uncertain digit, should be rounded off. The rules
-for rounding off numbers to the appropriate
-significant figures are obvious in most cases. A
-number 2.746 rounded off to three significant
-figures is 2.75, while the number 1.743 would
-be 1.74. The rule by convention is that the
-preceding digit is raised by 1 if the
-insignificant digit to be dropped (the
-underlined digit in this case) is more than
-5, and is left unchanged if the latter is less
-than 5. But what if the number is 2.745 in
-which the insignificant digit is 5. Here, the
-convention is that if the preceding digit is
-even, the insignificant digit is simply
-dropped and, if it is odd, the preceding digit
-is raised by 1. Then, the number 2.745 rounded
-off to three significant figures becomes 2.74.
-On the other hand, the number 2.735 rounded
-off to three significant figures becomes 2.74
-since the preceding digit is odd.
 
-In any involved or complex multi-step
-calculation, you should retain, in intermediate
-steps, one digit more than the significant digits
-and round off to proper significant figures at the
-end of the calculation. Similarly, a number
-known to be within many significant figures,
-such as in 2.99792458 × 108 m/s for the speed
-of light in vacuum, is rounded off to an
-approximate value 3 × 108 m/s, which is often
-employed in computations. Finally, remember
-that exact numbers that appear in formulae like
-L
+1. If the insignificant digit to be dropped is **greater than 5**, the preceding digit is raised by 1.
+   * $2.746 \to 2.75$ (for 3 significant figures)
+2. If the insignificant digit to be dropped is **less than 5**, the preceding digit is left unchanged.
+   * $1.743 \to 1.74$ (for 3 significant figures)
+3. If the insignificant digit to be dropped is **5**:
+   * If preceding digit is **even**, drop 5 without change: $2.745 \to 2.74$
+   * If preceding digit is **odd**, raise preceding digit by 1: $2.735 \to 2.74$
 
-2 πin T = 2π, -, have a large (infinite) number
-
-g
-
-و
-
-Reprint 2026-27
-
+In intermediate steps of multi-step calculations, retain **one extra digit** beyond significant figures to avoid round-off accumulation.
 
 ---
+
 ## 📄 Page 6
 
-6
+### 1.3.3 Rules for Arithmetic Calculations
 
-PHYSICS
+#### 1. Multiplication and Division:
+The final result should retain as many significant figures as are there in the original number with the least significant figures.
 
-=
+$$\text{Density} = \frac{\text{Mass}}{\text{Volume}} = \frac{4.237\text{ g}}{2.51\text{ cm}^3} = 1.688047\dots \to 1.69\text{ g}\cdot\text{cm}^{-3}$$
 
-of significant figures. The value of π
-3.1415926.... is known to a large number of
-significant figures. You may take the value as
-3.142 or 3.14 for π, with limited number of
-significant figures as required in specific
+Since volume ($2.51$) has only 3 significant figures, density is rounded to **3 significant figures**.
 
-cases.
+#### 2. Addition and Subtraction:
+The final result should retain as many decimal places as are there in the number with the least decimal places.
 
-Example 1.1 Each side of a cube is
-measured to be 7.203 m. What are the
-total surface area and the volume of the
-cube to appropriate significant figures?
-
-Answer The number of significant figures in
-the measured length is 4. The calculated area
-and the volume should therefore be rounded off
-to 4 significant figures.
-
-Surface area of the cube = 6(7.203)2 m²
-
-Volume of the cube
-
-= 311.299254 m²
-= 311.3 m²
-
-= (7.203)³ m³
-
-= 373.714754 m³
-
-= 373.7 m³
-
-Example 1.2 5.74 g of a substance
-occupies 1.2 cm³. Express its density by
-keeping the significant figures in view.
-
-Answer There are 3 significant figures in the
-measured mass whereas there are only 2
-significant figures in the measured volume.
-Hence the density should be expressed to only
-2 significant figures.
-
-Density =
-
-### 5.74
-1.2
-
-gcm
-
--3
-
--3
-
-= 4.8 g cm³.
-
-only
-
-be
-
-### 1.3.3 Rules for Determining the Uncertainty
-in the Results of Arithmetic
-Calculations
-
-The rules for determining the uncertainty or
-error in the number/measured quantity in
-arithmetic operations can be understood from
-the following examples.
-
-(1) If the length and breadth of a thin
-rectangular sheet are measured, using a metre
-scale as 16.2 cm and, 10.1 cm respectively, there
-three significant figures in each
-measurement. It means that the length 1 may
-be written as
-
-are
-
-1= 16.2 ± 0.1 cm
-
-= 16.2 cm ± 0.6%.
-Similarly, the breadth b may be written as
-b = 10.1 ± 0.1 cm
-
-= 10.1 cm ± 1%
-
-Then, the error of the product of two (or more)
-experimental values, using the combination of
-errors rule, will be
-
-lb = 163.62 cm² + 1.6%
-
-= 163.62 + 2.6 cm²
-
-This leads us to quote the final result as
-lb = 164 + 3 cm²
-
-Here 3 cm² is the uncertainty or error in the
-estimation of area of rectangular sheet.
-
-(2) If a set of experimental data is specified
-to n significant figures, a result obtained by
-combining the data will also be valid to n
-significant figures.
-
-However, if data are subtracted, the number of
-significant figures can be reduced.
-
-For example, 12.9 g – 7.06 g, both specified to
-three significant figures, cannot properly be
-evaluated as 5.84 g but only as 5.8 g, as
-uncertainties in subtraction or addition combine
-in a different fashion (smallest number of
-decimal places rather than the number of
-significant figures in any of the number added
-or subtracted).
-
-(3) The relative error of a value of number
-specified to significant figures depends not
-only on n but also on the number itself.
-
-For example, the accuracy in measurement of
-mass 1.02 g is ± 0.01 g whereas another
-measurement 9.89 g is also accurate to ± 0.01 g.
-The relative error in 1.02 g is
-
-= (± 0.01/1.02) × 100%
-= ± 1%
-
-Similarly, the relative error in 9.89 g is
-= (± 0.01/9.89) × 100%
-= ± 0.1%
-
-Finally, remember that intermediate results in
-a multi-step computation should be
-calculated to one more significant figure in
-every measurement than the number of
-digits in the least precise measurement.
-These should be justified by the data and then
-the arithmetic operations may be carried out;
-
-Reprint 2026-27
-
+$$\begin{aligned}
+& 436.32\text{ g} \\
++ & 227.2\text{ g} \quad (\text{least decimal places: 1}) \\
++ & 0.301\text{ g} \\
+\hline
+= & 663.821\text{ g} \to \mathbf{663.8\text{ g}}
+\end{aligned}$$
 
 ---
+
 ## 📄 Page 7
 
-UNITS AND MEASUREMENT
+### 1.4 Dimensions of Physical Quantities
 
-7
+The nature of a physical quantity is described by its **dimensions**. All physical quantities can be expressed in terms of combinations of the seven base quantities denoted with square brackets $[\ ]$:
 
-otherwise rounding errors can build up. For
-example, the reciprocal of 9.58, calculated (after
-rounding off) to the same number of significant
-figures (three) is 0.104, but the reciprocal of
-0.104 calculated to three significant figures is
-9.62. However, if we had written 1/9.58 = 0.1044
-and then taken the reciprocal to three significant
-figures, we would have retrieved the original
-value of 9.58.
+* Length: $[L]$
+* Mass: $[M]$
+* Time: $[T]$
+* Electric current: $[A]$
+* Thermodynamic temperature: $[K]$
+* Luminous intensity: $[cd]$
+* Amount of substance: $[mol]$
 
-This example justifies the idea to retain one
-more extra digit (than the number of digits in
-the least precise measurement) in intermediate
-steps of the complex multi-step calculations in
-order to avoid additional errors in the process
-of rounding off the numbers.
+> **Definition:** The **dimensions** of a physical quantity are the powers (or exponents) to which the base quantities are raised to represent that quantity.
 
-### 1.4 DIMENSIONS OF PHYSICAL QUANTITIES
-The nature of a physical quantity is described
-by its dimensions. All the physical quantities
-represented by derived units can be expressed
-in terms of some combination of seven
-fundamental or base quantities. We shall call
-these base quantities as the seven dimensions
-of the physical world, which are denoted with
-square brackets [ ]. Thus, length has the
-dimension [L], mass [M], time [T], electric current
-[A], thermodynamic temperature [K], luminous
-intensity [cd], and amount of substance [mol].
-The dimensions of a physical quantity are the
-powers (or exponents) to which the base
-quantities are raised to represent that
-quantity. Note that using the square brackets
-[] round a quantity means that we are dealing
-with 'the dimensions of the quantity.
-
-In mechanics, all the physical quantities can
-be written in terms of the dimensions [L], [M]
-and [T]. For example, the volume occupied by
-an object is expressed as the product of length,
-breadth and height, or three lengths. Hence the
-dimensions of volume are [L] × [L] × [L] = [L]³ = [L³].
-As the volume is independent of mass and time,
-it is said to possess zero dimension in mass [M°],
-zero dimension in time [T°] and three
-dimensions in length.
-
-Similarly, force, as the product of mass and
-acceleration, can be expressed as
-
-Force
-
-= mass × acceleration
-= mass × (length)/(time)²
-
-The dimensions of force are [M] [L]/[T]² =
-[MLT-2]. Thus, the force has one dimension in
-
-mass, one dimension in length, and -2
-dimensions in time. The dimensions in all other
-base quantities are zero.
-
-Note that in this type of representation, the
-magnitudes are not considered. It is the quality
-of the type of the physical quantity that enters.
-Thus, a change in velocity, initial velocity,
-average velocity, final velocity, and speed are
-all equivalent in this context. Since all these
-quantities can be expressed as length/time,
-their dimensions are [L]/[T] or [LT].
-
-### 1.5 DIMENSIONAL FORMULAE AND
-DIMENSIONAL EQUATIONS
-
-The expression which shows how and which of
-the base quantities represent the dimensions
-of a physical quantity is called the dimensional
-formula of the given physical quantity. For
-example, the dimensional formula of the volume
-is [M° L³ T°], and that of speed or velocity is
-[M° LT¹]. Similarly, [M° LT²] is the dimensional
-formula of acceleration and [M L-3 T°] that of
-mass density.
-
-An equation obtained by equating a physical
-quantity with its dimensional formula is called
-the dimensional equation of the physical
-quantity. Thus, the dimensional equations are
-the equations, which represent the dimensions
-of a physical quantity in terms of the base
-quantities. For example, the dimensional
-equations of volume [V], speed [u], force [F] and
-mass density [p] may be expressed as
-
-[V] = [M° L³ T°]
-[v] = [M° LT]
-[F] = [MLT-2]
-[p] = [M L-3 T°]
-
-The dimensional equation can be obtained
-from the equation representing the relations
-between the physical quantities. The
-dimensional formulae of a large number and
-wide variety of physical quantities, derived from
-the equations representing the relationships
-among other physical quantities and expressed
-in terms of base quantities are given in
-Appendix 9 for your guidance and ready
-
-reference.
-
-### 1.6 DIMENSIONAL ANALYSIS AND ITS
-APPLICATIONS
-
-The recognition of concepts of dimensions, which
-guide the description of physical behaviour is
-of basic importance as only those physical
-
-Reprint 2026-27
-
+* **Volume:** $[L] \times [L] \times [L] = [L^3] = [M^0 L^3 T^0]$
+* **Velocity:** $\frac{[L]}{[T]} = [M^0 L T^{-1}]$
+* **Acceleration:** $\frac{[L]}{[T]^2} = [M^0 L T^{-2}]$
+* **Force:** $[M] \times \frac{[L]}{[T]^2} = [M L T^{-2}]$
 
 ---
+
 ## 📄 Page 8
 
-8
+### 1.5 Dimensional Formulae and Dimensional Equations
 
-PHYSICS
+The expression which shows how and which of the base quantities represent the dimensions of a physical quantity is called the **dimensional formula**.
 
-quantities can be added or subtracted which
-have the same dimensions. A thorough
-understanding of dimensional analysis helps us
-in deducing certain relations among different
-physical quantities and checking the derivation,
-accuracy and dimensional consistency or
-homogeneity of various mathematical
-expressions. When magnitudes of two or more
-physical quantities are multiplied, their units
-should be treated in the same manner as
-ordinary algebraic symbols. We can cancel
-identical units in the numerator and
-denominator. The same is true for dimensions
-of a physical quantity. Similarly, physical
-quantities represented by symbols on both sides
-of a mathematical equation must have the same
-dimensions.
+* Volume: $[V] = [M^0 L^3 T^0]$
+* Speed: $[v] = [M^0 L T^{-1}]$
+* Force: $[F] = [M L T^{-2}]$
+* Mass density: $[\rho] = [M L^{-3} T^0]$
 
-### 1.6.1
-
-Checking
-
-the
-
-Dimensional
-
-Consistency of Equations
-
-The magnitudes of physical quantities may be
-added together or subtracted from one another
-only if they have the same dimensions. In other
-words, we can add or subtract similar physical
-quantities. Thus, velocity cannot be added to
-force, or an electric current cannot be subtracted
-from the thermodynamic temperature. This
-simple principle called the principle of
-homogeneity of dimensions in an equation is
-extremely useful in checking the correctness of
-an equation. If the dimensions of all the terms
-are not same, the equation is wrong. Hence, if
-we derive an expression for the length (or
-distance) of an object, regardless of the symbols
-appearing in the original mathematical relation,
-when all the individual dimensions are
-simplified, the remaining dimension must be
-that of length. Similarly, if we derive an equation
-of speed, the dimensions on both the sides of
-equation, when simplified, must be of length/
-time, or [LT].
-
-Dimensions are customarily used as a
-preliminary test of the consistency of an
-equation, when there is some doubt about the
-correctness of the equation. However, the
-dimensional consistency does not guarantee
-correct equations. It is uncertain to the extent
-of dimensionless quantities or functions. The
-arguments of special functions, such as the
-trigonometric, logarithmic and exponential
-functions must be dimensionless. A pure
-number, ratio of similar physical quantities,
-
-such as angle as the ratio (length/length),
-refractive index as the ratio (speed of light in
-vacuum/speed of light in medium) etc., has no
-dimensions.
-
-Now we can test the dimensional consistency
-or homogeneity of the equation
-
-x = xo + vo t + (1/2) a t²
-
-for the distance x travelled by a particle or body
-in time t which starts from the position x with
-an initial velocity v at time t = 0 and has uniform
-acceleration a along the direction of motion.
-
-The dimensions of each term may be written as
-
-[x] = [L]
-[x] = [L]
-
-[vt] = [LT¹] [T]
-= [L]
-
-ed
-
-[(1/2) a t²] = [L T2] [T²]
-= [L]
-
-As each term on the right hand side of this
-equation has the same dimension, namely that
-of length, which is same as the dimension of
-left hand side of the equation, hence this
-equation is a dimensionally correct equation.
-
-It may be noted that a test of consistency of
-dimensions tells us no more and no less than a
-test of consistency of units, but has the
-advantage that we need not commit ourselves
-to a particular choice of units, and we need not
-worry about conversions among multiples and
-sub-multiples of the units. It may be borne in
-mind that if an equation fails this consistency
-test, it is proved wrong, but if it passes, it is
-not proved right. Thus, a dimensionally correct
-equation need not be actually an exact
-(correct) equation, but a dimensionally wrong
-(incorrect) or inconsistent equation must be
-wrong.
-
-Example 1.3 Let us consider an equation
-
-1
-mv² = m gh
-2 2
-
-where m is the mass of the body, vits
-velocity, g is the acceleration due to
-gravity and his the height. Check
-whether this equation is dimensionally
-correct.
-
-Answer The dimensions of LHS are
-[M] [L T-1 ]2 = [M] [L2T-2]
-= [M L2 T-2]
-
-Reprint 2026-27
-
+An equation obtained by equating a physical quantity with its dimensional formula is called a **dimensional equation**.
 
 ---
+
+### 1.6 Dimensional Analysis and its Applications
+
+#### 1.6.1 Checking Dimensional Consistency of Equations
+> **Principle of Homogeneity of Dimensions:** The magnitudes of physical quantities may be added or subtracted only if they have the same dimensions.
+
+In an equation $A + B = C$, $[A] = [B] = [C]$.
+
+**Test of Equation of Motion:**
+$$x = x_0 + v_0 t + \frac{1}{2} a t^2$$
+
+Dimensions of each term:
+* $[x] = [L]$
+* $[x_0] = [L]$
+* $[v_0 t] = [L T^{-1}][T] = [L]$
+* $\left[\frac{1}{2} a t^2\right] = [L T^{-2}][T^2] = [L]$
+
+As every term on both sides has dimension $[L]$, the equation is **dimensionally consistent**.
+
+---
+
 ## 📄 Page 9
 
-UNITS AND MEASUREMENT
+#### 1.6.2 Deducing Relation among Physical Quantities
 
-9
+Consider a simple pendulum. Its time period $T$ may depend on:
+1. Mass of bob $m$ ($[M]$)
+2. Length of pendulum $L$ ($[L]$)
+3. Acceleration due to gravity $g$ ($[L T^{-2}]$)
 
-The dimensions of RHS are
+Let $T = k \cdot m^x \cdot L^y \cdot g^z$, where $k$ is a dimensionless constant.
 
-[M][L T2] [L] = [M][L2 T2]
-= [ML2T-2]
+Equating dimensions on both sides:
+$$[M^0 L^0 T^1] = [M]^x \cdot [L]^y \cdot [L T^{-2}]^z = [M^x L^{y+z} T^{-2z}]$$
 
-The dimensions of LHS and RHS are the same and
-hence the equation is dimensionally correct.
+Equating powers of $M$, $L$, $T$:
+* $x = 0$
+* $y + z = 0 \implies y = -z$
+* $-2z = 1 \implies z = -1/2, \quad y = 1/2$
 
-Example 1.4 The SI unit of energy is
-J = kg m² s¯²; that of speed vis ms¯¹ and
-of acceleration a is ms-2. Which of the
-formulae for kinetic energy (K) given below
-can you rule out on the basis of
-dimensional arguments (m stands for the
-mass of the body) :
+Substituting values:
+$$T = k \cdot m^0 \cdot L^{1/2} \cdot g^{-1/2} = k \sqrt{\frac{L}{g}}$$
 
-(a) K = m² v
-
-(b) K = (1/2)mv²
-
-(c) K = ma
-
-(d) K = (3/16)mv²
-
-(e) K = (1/2)mv² + ma
-
-Answer Every correct formula or equation must
-have the same dimensions on both sides of the
-equation. Also, only quantities with the same
-physical dimensions can be added or
-subtracted. The dimensions of the quantity on
-the right side are [M² L³ T-3] for (a); [ML2 T-2] for
-(b) and (d); [MLT-2] for (c). The quantity on the
-right side of (e) has no proper dimensions since
-two quantities of different dimensions have been
-added. Since the kinetic energy K has the
-dimensions of [ML2T-2], formulas (a), (c) and (e)
-are ruled out. Note that dimensional arguments
-cannot tell which of the two, (b) or (d), is the
-correct formula. For this, one must turn to the
-actual definition of kinetic energy (see
-Chapter 5). The correct formula for kinetic
-energy is given by (b).
-
-### 1.6.2 Deducing Relation among the
-Physical Quantities
-
-The method of dimensions can sometimes be
-used to deduce relation among the physical
-quantities. For this we should know the
-dependence of the physical quantity on other
-quantities (upto three physical quantities or
-linearly independent variables) and consider it
-as a product type of the dependence. Let us take
-an example.
-
-Example 1.5 Consider a simple
-pendulum, having a bob attached to a
-
-string, that oscillates under the action of
-the force of gravity. Suppose that the period
-of oscillation of the simple pendulum
-depends on its length (1), mass of the bob
-(m) and acceleration due to gravity (g).
-Derive the expression for its time period
-using method of dimensions.
-
-Answer The dependence of time period Ton
-the quantities 1, gand m as a product may be
-written as:
-
-T = k*g m²
-
-where k is dimensionless constant and x, y
-and z are the exponents.
-
-By considering dimensions on both sides, we
-have
-
-[L°M°T¹] = [L¹ ]* [L¹ T¯² ] [M¹ ]²
-
-= Lx+y T-2y Mz
-
-we have
-
-x + y = 0
-
-Note that value of constant k can not be obtained
-by the method of dimensions. Here it does not
-matter if some number multiplies the right side
-of this formula, because that does not affect its
-dimensions.
-
-Actually, k = 2n so that T= 2π
-
-g
-
-Dimensional analysis is very useful in deducing
-relations among the interdependent physical
-quantities. However, dimensionless constants
-cannot be obtained by this method. The method
-of dimensions can only test the dimensional
-validity, but not the exact relationship between
-physical quantities in any equation. It does not
-distinguish between the physical quantities
-having same dimensions.
-
-A number of exercises at the end of this
-chapter will help you develop skill in
-dimensional analysis.
-
-Reprint 2026-27
-
+Experimentally, $k = 2\pi$, hence:
+$$T = 2\pi \sqrt{\frac{L}{g}}$$
 
 ---
+
 ## 📄 Page 10
 
-10
+### 📝 Summary
 
-SUMMARY
-
-### 1. Physics is a quantitative science, based on measurement of physical quantities. Certain
-physical quantities have been chosen as fundamental or base quantities (such as
-length, mass, time, electric current, thermodynamic temperature, amount of substance,
-and luminous intensity).
-
-### 2. Each base quantity is defined in terms of a certain basic, arbitrarily chosen but properly
-standardised reference standard called unit (such as metre, kilogram, second, ampere,
-kelvin, mole and candela). The units for the fundamental or base quantities are called
-fundamental or base units.
-
-### 3. Other physical quantities, derived from the base quantities, can be expressed as a
-combination of the base units and are called derived units. A complete set of units,
-both fundamental and derived, is called a system of units.
-
-### 4. The International System of Units (SI) based on seven base units is at present
-internationally accepted unit system and is widely used throughout the world.
-
-### 5. The SI units are used in all physical measurements, for both the base quantities and
-the derived quantities obtained from them. Certain derived units are expressed by
-means of SI units with special names (such as joule, newton, watt, etc).
-
-6. The SI units have well defined and internationally accepted unit symbols (such as m
-for metre, kg for kilogram, s for second, A for ampere, N for newton etc.).
-
-7. Physical measurements are usually expressed for small and large quantities in scientific
-notation, with powers of 10. Scientific notation and the prefixes are used to simplify
-measurement notation and numerical computation, giving indication to the precision
-of the numbers.
-
-8. Certain general rules and guidelines must be followed for using notations for physical
-quantities and standard symbols for SI units, some other units and SI prefixes for
-expressing properly the physical quantities and measurements.
-
-9. In computing any physical quantity, the units for derived quantities involved in the
-relationship(s) are treated as though they were algebraic quantities till the desired
-units are obtained.
-
-10. In measured and computed quantities proper significant figures only should be retained.
-Rules for determining the number of significant figures, carrying out arithmetic
-operations with them, and 'rounding off 'the uncertain digits must be followed.
-
-11. The dimensions of base quantities and combination of these dimensions describe
-the nature of physical quantities. Dimensional analysis can be used to check the
-dimensional consistency of equations, deducing relations among the physical
-quantities, etc. A dimensionally consistent equation need not be actually an
-exact (correct) equation, but a dimensionally wrong or inconsistent equation
-must be wrong.
-
-to b
-
-EXERCISES
-
-Note: In stating numerical answers, take care of significant figures.
-1.1 Fill in the blanks
-
-(a) The volume of a cube of side 1 cm is equal to .....m³
-
-(b) The surface area of a solid cylinder of radius 2.0 cm and height 10.0 cm is equal to
-...(mm)2
-
-(c) A vehicle moving with a speed of 18 km h¯¹ covers....m in 1 s
-
-(d) The relative density of lead is 11.3. Its density is ....g cm³ or ....kg m³.
-
-### 1.2 Fill in the blanks by suitable conversion of units
-
-(a) 1 kg m² s2 = ....g cm² s-2
-
-(b) 1 m =
-
-ly
-
-(c) 3.0 m s² = km h-2
-
-(d) G = 6.67 × 10-11 N m² (kg)-2 =
-
-(cm)³ s-2 g-1.
-
-Reprint 2026-27
-
-PHYSICS
-
+1. **Fundamental Quantities:** Physics is a quantitative science based on 7 base quantities ($L, M, T, A, K, \text{mol}, \text{cd}$) and 2 supplementary angles (radian, steradian).
+2. **SI System:** Globally standard decimal unit system revised in 2018 based on fundamental invariants of nature ($c, h, e, k, N_A, \Delta\nu_{\text{Cs}}, K_{\text{cd}}$).
+3. **Significant Figures:** Reliable digits + one uncertain digit indicate precision of measurement.
+4. **Dimensional Consistency:** Terms added or subtracted must have identical dimensions.
+5. **Limitations of Dimensional Analysis:** Cannot determine dimensionless proportionality constants ($k = 2\pi$), trigonometric, logarithmic or exponential terms.
 
 ---
-## 📄 Page 11
 
-UNITS AND MEASUREMENT
+## 📄 Page 11 & 12
 
-### 1.3 A calorie is a unit of heat (energy in transit) and it equals about 4.2 J where 1J =
-1 kg m² s-2. Suppose we employ a system of units in which the unit of mass equals a
-kg, the unit of length equals ẞm, the unit of time is ys. Show that a calorie has a
-magnitude 4.2 α¯¹ β-2 y2 in terms of the new units.
+### 🎯 Exercises & NCERT Numericals
 
-### 1.4 Explain this statement clearly :
+#### Exercise 1.1: Fill in the Blanks
+* **(a)** The volume of a cube of side $1\text{ cm}$ is equal to $\mathbf{10^{-6}\text{ m}^3}$.
+  * *Reason:* $V = (1\text{ cm})^3 = (10^{-2}\text{ m})^3 = 10^{-6}\text{ m}^3$.
+* **(b)** The surface area of a solid cylinder of radius $2.0\text{ cm}$ and height $10.0\text{ cm}$ is equal to $\mathbf{1.5 \times 10^4\text{ mm}^2}$.
+  * *Reason:* $A = 2\pi r (r + h) = 2 \times 3.14 \times 20\text{ mm} \times (20 + 100)\text{ mm} \approx 1.5 \times 10^4\text{ mm}^2$.
+* **(c)** A vehicle moving with a speed of $18\text{ km}\cdot\text{h}^{-1}$ covers $\mathbf{5\text{ m}}$ in $1\text{ s}$.
+  * *Reason:* $18 \times \frac{5}{18}\text{ m/s} = 5\text{ m/s}$.
+* **(d)** The relative density of lead is $11.3$. Its density is $\mathbf{11.3\text{ g}\cdot\text{cm}^{-3}}$ or $\mathbf{11.3 \times 10^3\text{ kg}\cdot\text{m}^{-3}}$.
 
-"To call a dimensional quantity 'large' or 'small' is meaningless without specifying a
-standard for comparison". In view of this, reframe the following statements wherever
-necessary:
+#### Exercise 1.2: Unit Conversions
+* **(a)** $1\text{ kg}\cdot\text{m}^2\cdot\text{s}^{-2} = \mathbf{10^7\text{ g}\cdot\text{cm}^2\cdot\text{s}^{-2}}$
+* **(b)** $1\text{ m} = \mathbf{1.057 \times 10^{-16}\text{ ly}}$
+* **(c)** $3.0\text{ m}\cdot\text{s}^{-2} = \mathbf{3.888 \times 10^4\text{ km}\cdot\text{h}^{-2}}$
+* **(d)** $G = 6.67 \times 10^{-11}\text{ N}\cdot\text{m}^2\cdot\text{kg}^{-2} = \mathbf{6.67 \times 10^{-8}\text{ cm}^3\cdot\text{s}^{-2}\cdot\text{g}^{-1}}$
 
-(a) atoms are very small objects
-
-(b) a jet plane moves with great speed
-
-(c) the mass of Jupiter is very large
-
-(d) the air inside this room contains a large number of molecules
-
-(e) a proton is much more massive than an electron
-
-(f) the speed of sound is much smaller than the speed of light.
-
-### 1.5 A new unit of length is chosen such that the speed of light in vacuum is unity. What
-
-is the distance between the Sun and the Earth in terms of the new unit if light takes
-8 min and 20 s to cover this distance?
-
-### 1.6 Which of the following is the most precise device for measuring length :
-
-(a) a vernier callipers with 20 divisions on the sliding scale
-
-(b) a screw gauge of pitch 1 mm and 100 divisions on the circular scale
-
-(c) an optical instrument that can measure length to within a wavelength of light ?
-
-11
-
-### 1.7 A student measures the thickness of a human hair by looking at it through a
-microscope of magnification 100. He makes 20 observations and finds that the average
-width of the hair in the field of view of the microscope is 3.5 mm. What is the
-estimate on the thickness of hair ?
-
-scale. How will you estan Warsawered
-
-### 1.8 Answer the following:
-
-(a)You are given a thread and a metre scale. How will you estimate the diameter of
-the thread?
-1.0 mm and 200
-
-(b)A screw gauge has a pitch of 1.0 mm m and 200 divisions on the circular scale. Do
-you think it is possible to increase the accuracy of the screw gauge arbitrarily by
-increasing the number of divisions on the circular scale ?
-
-(c) The mean diameter of a thin brass rod is to be measured by vernier callipers. Why
-is a set of 100 measurements of the diameter expected to yield a more reliable
-estimate than a set of 5 measurements only ?
-
-### 1.9 The photograph of a house occupies an area of 1.75 cm² on a 35 mm slide. The slide
-is projected on to a screen, and the area of the house on the screen is 1.55 m². What
-is the linear magnification of the projector-screen arrangement.
-
-### 1.10 State the number of significant figures in the following:
-
-(a) 0.007 m²
-
-(b) 2.64 x 1024 kg
-
-(c) 0.2370 g cm-3
-
-(d) 6.320 J
-
-(e) 6.032 N m-2
-
-(f) 0.0006032 m²
-
-### 1.11 The length, breadth and thickness of a rectangular sheet of metal are 4.234 m, 1.005 m, and
-2.01 cm respectively. Give the area and volume of the sheet to correct significant figures.
-
-### 1.12 The mass of a box measured by a grocer's balance is 2.30 kg. Two gold pieces of
-masses 20.15 g and 20.17 g are added to the box. What is (a) the total mass of the
-box, (b) the difference in the masses of the pieces to correct significant figures ?
-
-### 1.13 A famous relation in physics relates 'moving mass'm to the 'rest mass' m of a
-particle in terms of its speed v and the speed of light, c. (This relation first arose as
-a consequence of special relativity due to Albert Einstein). A boy recalls the relation
-almost correctly but forgets where to put the constant c. He writes :
-
-m =
-
-mo
-
-(1-02)1/2
-
-Guess where to put the missing c.
-
-Reprint 2026-27
-
-
----
-## 📄 Page 12
-
-12
-
-### 1.14 The unit of length convenient on the atomic scale is known as an angstrom and is
-denoted by Å: 1 Å = 10-10 m. The size of a hydrogen atom is about 0.5 Å. What is the
-total atomic volume in m³ of a mole of hydrogen atoms ?
-
-### 1.15 One mole of an ideal gas at standard temperature and pressure occupies 22.4 L
-(molar volume). What is the ratio of molar volume to the atomic volume of a mole of
-hydrogen? (Take the size of hydrogen molecule to be about 1 Å). Why is this ratio
-so large ?
-
-### 1.16 Explain this common observation clearly: If you look out of the window of a fast
-moving train, the nearby trees, houses etc. seem to move rapidly in a direction opposite
-to the train's motion, but the distant objects (hill tops, the Moon, the stars etc.)
-seem to be stationary. (In fact, since you are aware that you are moving, these
-distant objects seem to move with you).
-
-### 1.17 The Sun is a hot plasma (ionized matter) with its inner core at a temperature exceeding
-107 K, and its outer surface at a temperature of about 6000 K. At these high
-temperatures, no substance remains in a solid or liquid phase. In what range do you
-expect the mass density of the Sun to be, in the range of densities of solids and
-liquids or gases? Check if your guess is correct from the following data : mas
-Sun = 2.0 ×1030 kg, radius of the Sun = 7.0 × 108 m.
-
-© NCERT
-
-not to be republishe
-
-Reprint 2026-27
-
-PHYSICS
-
+#### Exercise 1.3: New System of Units
+A calorie equals $4.2\text{ J} = 4.2\text{ kg}\cdot\text{m}^2\cdot\text{s}^{-2}$. In a new system where unit of mass is $\alpha\text{ kg}$, unit of length is $\beta\text{ m}$, and unit of time is $\gamma\text{ s}$:
+$$1\text{ cal} = 4.2 \times [\alpha\text{ kg}]^{-1} [\beta\text{ m}]^{-2} [\gamma\text{ s}]^2 = \mathbf{4.2\, \alpha^{-1} \beta^{-2} \gamma^2 \text{ new units}}.$$
