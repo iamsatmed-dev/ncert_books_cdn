@@ -1,0 +1,3594 @@
+{
+  "chapter_id": "11th_biology_ch16_excretory_products_and_their_elimination_ch16_excretory_products_and_their_elimination_en",
+  "total_pages": 12,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "11080CH19",
+          "bbox": {
+            "x_min": 0.7992,
+            "y_min": 0.2121,
+            "x_max": 0.8441,
+            "y_max": 0.2172,
+            "width": 0.045,
+            "height": 0.0051
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "CHAPTER 16",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.3226,
+            "x_max": 0.5178,
+            "y_max": 0.3496,
+            "width": 0.2137,
+            "height": 0.027
+          },
+          "confidence": 0.9588
+        },
+        {
+          "text": "EXCRETORY PRODUCTS AND",
+          "bbox": {
+            "x_min": 0.3071,
+            "y_min": 0.3719,
+            "x_max": 0.7624,
+            "y_max": 0.4079,
+            "width": 0.4553,
+            "height": 0.036
+          },
+          "confidence": 0.9227
+        },
+        {
+          "text": "THEIR ELIMINATION",
+          "bbox": {
+            "x_min": 0.3088,
+            "y_min": 0.4143,
+            "x_max": 0.6194,
+            "y_max": 0.4387,
+            "width": 0.3106,
+            "height": 0.0244
+          },
+          "confidence": 0.9707
+        },
+        {
+          "text": "blished",
+          "bbox": {
+            "x_min": 0.6048,
+            "y_min": 0.3059,
+            "x_max": 0.878,
+            "y_max": 0.5,
+            "width": 0.2732,
+            "height": 0.1941
+          },
+          "confidence": 0.9158
+        },
+        {
+          "text": "16.1 Human",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.4743,
+            "x_max": 0.181,
+            "y_max": 0.4833,
+            "width": 0.1068,
+            "height": 0.009
+          },
+          "confidence": 0.9374
+        },
+        {
+          "text": "Excretory\nSystem",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.4927,
+            "x_max": 0.1973,
+            "y_max": 0.5214,
+            "width": 0.0835,
+            "height": 0.0287
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "16.2 Urine Formation",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.5356,
+            "x_max": 0.2563,
+            "y_max": 0.5446,
+            "width": 0.1827,
+            "height": 0.009
+          },
+          "confidence": 0.9802
+        },
+        {
+          "text": "16.3 Function of the\nTubules",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.5604,
+            "x_max": 0.2464,
+            "y_max": 0.5878,
+            "width": 0.1716,
+            "height": 0.0274
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "16.4 Mechanism of\nConcentration\nof the Filtrate\n16.5 Regulation of\nKidney Function",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.6037,
+            "x_max": 0.2563,
+            "y_max": 0.6967,
+            "width": 0.1827,
+            "height": 0.093
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "16.6 Micturition",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.7091,
+            "x_max": 0.2119,
+            "y_max": 0.7172,
+            "width": 0.1378,
+            "height": 0.0081
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "16.7 Role of other\nOrgans in\nExcretion",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.7335,
+            "x_max": 0.2224,
+            "y_max": 0.7785,
+            "width": 0.1483,
+            "height": 0.045
+          },
+          "confidence": 0.984
+        },
+        {
+          "text": "16.8 Disorders of the\nExcretory\nSystem",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.7948,
+            "x_max": 0.2516,
+            "y_max": 0.8428,
+            "width": 0.1775,
+            "height": 0.048
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "Animals accumulate ammonia, urea, uric acid, carbon dioxide, water\nand ions like Na+, K+, Cl-, phosphate, sulphate, etc., either by metabolic\nactivities or by other means like excess ingestion. These substances have\nto be removed totally or partially. In this chapter, you will learn the\nmechanisms of elimination of these substances with special emphasis on\ncommon nitrogenous wastes. Ammonia, urea and uric acid are the major\nforms of nitrogenous wastes excreted by the animals. Ammonia is the\nmost toxic form and requires large amount of water for its elimination,\nwhereas uric acid, being the least toxic, can be removed with a minimum\nloss of water.",
+          "bbox": {
+            "x_min": 0.2697,
+            "y_min": 0.4743,
+            "x_max": 0.8949,
+            "y_max": 0.6414,
+            "width": 0.6252,
+            "height": 0.1671
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "The process of excreting ammonia is Ammonotelism. Many bony fishes,\naquatic amphibians and aquatic insects are ammonotelic in nature.\nAmmonia, as it is readily soluble, is generally excreted by diffusion across\nbody surfaces or through gill surfaces (in fish) as ammonium ions. Kidneys\ndo not play any significant role in its removal. Terrestrial adaptation\nnecessitated the production of lesser toxic nitrogenous wastes like urea\nand uric acid for conservation of water. Mammals, many terrestrial\namphibians and marine fishes mainly excrete urea and are called ureotelic\nanimals. Ammonia produced by metabolism is converted into urea in the\nliver of these animals and released into the blood which is filtered and\nexcreted out by the kidneys. Some amount of urea may be retained in the\nkidney matrix of some of these animals to maintain a desired osmolarity.\nReptiles, birds, land snails and insects excrete nitrogenous wastes as uric\nacid in the form of pellet or paste with a minimum loss of water and are\ncalled uricotelic animals.",
+          "bbox": {
+            "x_min": 0.268,
+            "y_min": 0.6478,
+            "x_max": 0.8961,
+            "y_max": 0.9036,
+            "width": 0.6281,
+            "height": 0.2558
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "206",
+          "bbox": {
+            "x_min": 0.1173,
+            "y_min": 0.084,
+            "x_max": 0.1576,
+            "y_max": 0.0925,
+            "width": 0.0403,
+            "height": 0.0086
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0683,
+            "height": 0.009
+          },
+          "confidence": 0.9811
+        },
+        {
+          "text": "Inferior",
+          "bbox": {
+            "x_min": 0.1605,
+            "y_min": 0.5437,
+            "x_max": 0.2207,
+            "y_max": 0.5518,
+            "width": 0.0601,
+            "height": 0.0081
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "vena cava",
+          "bbox": {
+            "x_min": 0.1459,
+            "y_min": 0.5557,
+            "x_max": 0.2253,
+            "y_max": 0.5626,
+            "width": 0.0794,
+            "height": 0.0069
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "Pelvis",
+          "bbox": {
+            "x_min": 0.1576,
+            "y_min": 0.5805,
+            "x_max": 0.2043,
+            "y_max": 0.5895,
+            "width": 0.0467,
+            "height": 0.009
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "Medulla",
+          "bbox": {
+            "x_min": 0.1133,
+            "y_min": 0.6118,
+            "x_max": 0.1792,
+            "y_max": 0.62,
+            "width": 0.066,
+            "height": 0.0081
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "Cortex",
+          "bbox": {
+            "x_min": 0.1664,
+            "y_min": 0.6495,
+            "x_max": 0.2218,
+            "y_max": 0.6572,
+            "width": 0.0555,
+            "height": 0.0077
+          },
+          "confidence": 0.9832
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.188,
+            "y_min": 0.7027,
+            "x_max": 0.3386,
+            "y_max": 0.8128,
+            "width": 0.1506,
+            "height": 0.1101
+          },
+          "confidence": 0.9764
+        },
+        {
+          "text": "A survey of animal kingdom presents a variety of excretory structures.\nIn most of the invertebrates, these structures are simple tubular forms\nwhereas vertebrates have complex tubular organs called kidneys. Some\nof these structures are mentioned here. Protonephridia or flame cells are\nthe excretory structures in Platyhelminthes (Flatworms, e.g., Planaria),\nrotifers, some annelids and the cephalochordate – Amphioxus.\nProtonephridia are primarily concerned with ionic and fluid volume\nregulation, i.e., osmoregulation. Nephridia are the tubular excretory\nstructures of earthworms and other annelids. Nephridia help to remove\nnitrogenous wastes and maintain a fluid and ionic balance. Malpighian\ntubules are the excretory structures of most of the insects including\ncockroaches. Malpighian tubules help in the removal of nitrogenous\nwastes and osmoregulation. Antennal glands or green glands perform\nperf\nthe excretory function in crustaceans like prawns.",
+          "bbox": {
+            "x_min": 0.3001,
+            "y_min": 0.1315,
+            "x_max": 0.9288,
+            "y_max": 0.3925,
+            "width": 0.6287,
+            "height": 0.2609
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "mars ishlan",
+          "bbox": {
+            "x_min": 0.5832,
+            "y_min": 0.3398,
+            "x_max": 0.8611,
+            "y_max": 0.4781,
+            "width": 0.2779,
+            "height": 0.1384
+          },
+          "confidence": 0.7679
+        },
+        {
+          "text": "16.1 HUMAN EXCRETORY SYSTEM",
+          "bbox": {
+            "x_min": 0.3071,
+            "y_min": 0.4165,
+            "x_max": 0.6316,
+            "y_max": 0.4297,
+            "width": 0.3246,
+            "height": 0.0133
+          },
+          "confidence": 0.9238
+        },
+        {
+          "text": "Adrenal gland",
+          "bbox": {
+            "x_min": 0.3847,
+            "y_min": 0.518,
+            "x_max": 0.498,
+            "y_max": 0.5291,
+            "width": 0.1133,
+            "height": 0.0111
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "Renal artery",
+          "bbox": {
+            "x_min": 0.4092,
+            "y_min": 0.5467,
+            "x_max": 0.5096,
+            "y_max": 0.5578,
+            "width": 0.1004,
+            "height": 0.0111
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "Renal vein",
+          "bbox": {
+            "x_min": 0.4355,
+            "y_min": 0.5733,
+            "x_max": 0.5219,
+            "y_max": 0.5814,
+            "width": 0.0864,
+            "height": 0.0081
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "-Kidney",
+          "bbox": {
+            "x_min": 0.4145,
+            "y_min": 0.6088,
+            "x_max": 0.4746,
+            "y_max": 0.6208,
+            "width": 0.0601,
+            "height": 0.012
+          },
+          "confidence": 0.9339
+        },
+        {
+          "text": "Dorsal aorta",
+          "bbox": {
+            "x_min": 0.404,
+            "y_min": 0.6637,
+            "x_max": 0.5055,
+            "y_max": 0.6722,
+            "width": 0.1016,
+            "height": 0.0086
+          },
+          "confidence": 0.985
+        },
+        {
+          "text": "Ureter",
+          "bbox": {
+            "x_min": 0.4104,
+            "y_min": 0.6872,
+            "x_max": 0.4635,
+            "y_max": 0.6958,
+            "width": 0.0531,
+            "height": 0.0086
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "Urinary\nbladder",
+          "bbox": {
+            "x_min": 0.3981,
+            "y_min": 0.7468,
+            "x_max": 0.4658,
+            "y_max": 0.7695,
+            "width": 0.0677,
+            "height": 0.0227
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "Urethra",
+          "bbox": {
+            "x_min": 0.397,
+            "y_min": 0.7832,
+            "x_max": 0.4623,
+            "y_max": 0.7913,
+            "width": 0.0654,
+            "height": 0.0081
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "Figure 16.1 Human Urinary system",
+          "bbox": {
+            "x_min": 0.1664,
+            "y_min": 0.8166,
+            "x_max": 0.4717,
+            "y_max": 0.8299,
+            "width": 0.3053,
+            "height": 0.0133
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "e",
+          "bbox": {
+            "x_min": 0.5137,
+            "y_min": 0.5364,
+            "x_max": 0.5744,
+            "y_max": 0.5771,
+            "width": 0.0607,
+            "height": 0.0407
+          },
+          "confidence": 0.8639
+        },
+        {
+          "text": "In humans, the excretory system consists\nof a pair of kidneys, one pair of ureters, a\nurinary bladder and a urethra (Figure\n16.1). Kidneys are reddish brown, bean\nshaped structures situated between the\nlevels of last thoracic and third lumbar\nvertebra close to the dorsal inner wall of\nthe abdominal cavity. Each kidney of an\nadult human measures 10-12 cm in\nlength, 5-7 cm in width, 2-3 cm in\nthickness with an average weight of 120-\n170 g. Towards the centre of the inner\nconcave surface of the kidney is a notch\ncalled hilum through which ureter, blood\nvessels and nerves enter. Inner to the hilum",
+          "bbox": {
+            "x_min": 0.5686,
+            "y_min": 0.4533,
+            "x_max": 0.9276,
+            "y_max": 0.7219,
+            "width": 0.359,
+            "height": 0.2686
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "is a broad funnel shaped space called the\nrenal pelvis with projections called calyces.\nThe outer layer of kidney is a tough\ncapsule. Inside the kidney, there are two\nzones, an outer cortex and an inner\nmedulla. The medulla is divided into a few\nconical masses (medullary pyramids)\nprojecting into the calyces (sing.: calyx).\nThe cortex extends in between the",
+          "bbox": {
+            "x_min": 0.5686,
+            "y_min": 0.7301,
+            "x_max": 0.927,
+            "y_max": 0.8882,
+            "width": 0.3584,
+            "height": 0.1581
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "EXCRETORY PRODUCTS AND THEIR ELIMINATION",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.0827,
+            "x_max": 0.4641,
+            "y_max": 0.093,
+            "width": 0.3497,
+            "height": 0.0103
+          },
+          "confidence": 0.9848
+        },
+        {
+          "text": "207",
+          "bbox": {
+            "x_min": 0.8441,
+            "y_min": 0.0831,
+            "x_max": 0.8844,
+            "y_max": 0.0925,
+            "width": 0.0403,
+            "height": 0.0094
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "medullary pyramids as renal columns called\nColumns of Bertini (Figure 16.2).",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.1358,
+            "x_max": 0.4518,
+            "y_max": 0.1671,
+            "width": 0.3795,
+            "height": 0.0313
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "Each kidney has nearly one million\ncomplex tubular structures called nephrons\n(Figure 16.3), which are the functional units.\nEach nephron has two parts\nthe\nglomerulus and the renal tubule.\nGlomerulus is a tuft of capillaries formed by\nthe afferent arteriole – a fine branch of renal\nartery. Blood from the glomerulus is carried\naway by an efferent arteriole.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1722,
+            "x_max": 0.4536,
+            "y_max": 0.3282,
+            "width": 0.3818,
+            "height": 0.156
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "The renal tubule begins with a double\nwalled cup-like structure called Bowman's\ncapsule, which encloses the glomerulus.\nGlomerulus alongwith Bowman's capsule, is\ncalled the malpighian body or renal\ncorpuscle (Figure 16.4). The tubule\ncontinues further to form a highly coiled\nnetwork proximal convoluted tubule",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.3329,
+            "x_max": 0.4524,
+            "y_max": 0.4709,
+            "width": 0.3818,
+            "height": 0.138
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "Afferent\narteriole",
+          "bbox": {
+            "x_min": 0.3106,
+            "y_min": 0.5223,
+            "x_max": 0.3789,
+            "y_max": 0.5437,
+            "width": 0.0683,
+            "height": 0.0214
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "Glomerulus",
+          "bbox": {
+            "x_min": 0.2796,
+            "y_min": 0.5608,
+            "x_max": 0.3754,
+            "y_max": 0.5698,
+            "width": 0.0957,
+            "height": 0.009
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "Bowman's\ncapsule",
+          "bbox": {
+            "x_min": 0.258,
+            "y_min": 0.5853,
+            "x_max": 0.3403,
+            "y_max": 0.6105,
+            "width": 0.0823,
+            "height": 0.0253
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "Medullary\npyramid",
+          "bbox": {
+            "x_min": 0.7093,
+            "y_min": 0.1341,
+            "x_max": 0.7945,
+            "y_max": 0.1594,
+            "width": 0.0852,
+            "height": 0.0253
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "Renal\ncolumn",
+          "bbox": {
+            "x_min": 0.5184,
+            "y_min": 0.1701,
+            "x_max": 0.5791,
+            "y_max": 0.1919,
+            "width": 0.0607,
+            "height": 0.0219
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "Cortex-\nRenal\ncapsule",
+          "bbox": {
+            "x_min": 0.4781,
+            "y_min": 0.2845,
+            "x_max": 0.5417,
+            "y_max": 0.3295,
+            "width": 0.0636,
+            "height": 0.045
+          },
+          "confidence": 0.9801
+        },
+        {
+          "text": "Calyx",
+          "bbox": {
+            "x_min": 0.7951,
+            "y_min": 0.2219,
+            "x_max": 0.8406,
+            "y_max": 0.2331,
+            "width": 0.0455,
+            "height": 0.0111
+          },
+          "confidence": 0.9854
+        },
+        {
+          "text": "-Renal artery",
+          "bbox": {
+            "x_min": 0.7922,
+            "y_min": 0.2562,
+            "x_max": 0.8949,
+            "y_max": 0.2669,
+            "width": 0.1027,
+            "height": 0.0107
+          },
+          "confidence": 0.9839
+        },
+        {
+          "text": "-Renal vein\n-Renal pelvis",
+          "bbox": {
+            "x_min": 0.7922,
+            "y_min": 0.2815,
+            "x_max": 0.8932,
+            "y_max": 0.3149,
+            "width": 0.101,
+            "height": 0.0334
+          },
+          "confidence": 0.9772
+        },
+        {
+          "text": "Figure 16.2 Longitudinal se section (Diagrammatic)",
+          "bbox": {
+            "x_min": 0.4787,
+            "y_min": 0.404,
+            "x_max": 0.8926,
+            "y_max": 0.4207,
+            "width": 0.4139,
+            "height": 0.0167
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "of Kidney",
+          "bbox": {
+            "x_min": 0.5925,
+            "y_min": 0.4225,
+            "x_max": 0.6696,
+            "y_max": 0.4323,
+            "width": 0.0771,
+            "height": 0.0099
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "CERT",
+          "bbox": {
+            "x_min": 0.4075,
+            "y_min": 0.4079,
+            "x_max": 0.613,
+            "y_max": 0.5373,
+            "width": 0.2055,
+            "height": 0.1294
+          },
+          "confidence": 0.9789
+        },
+        {
+          "text": "published",
+          "bbox": {
+            "x_min": 0.5365,
+            "y_min": 0.3089,
+            "x_max": 0.8792,
+            "y_max": 0.5553,
+            "width": 0.3427,
+            "height": 0.2464
+          },
+          "confidence": 0.9362
+        },
+        {
+          "text": "Efferent arteriole",
+          "bbox": {
+            "x_min": 0.6159,
+            "y_min": 0.5206,
+            "x_max": 0.7525,
+            "y_max": 0.5291,
+            "width": 0.1366,
+            "height": 0.0086
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "Descending limb\nof loop of Henle",
+          "bbox": {
+            "x_min": 0.2318,
+            "y_min": 0.6954,
+            "x_max": 0.3672,
+            "y_max": 0.7207,
+            "width": 0.1354,
+            "height": 0.0253
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "Henle's loop",
+          "bbox": {
+            "x_min": 0.1027,
+            "y_min": 0.7326,
+            "x_max": 0.2014,
+            "y_max": 0.7434,
+            "width": 0.0987,
+            "height": 0.0107
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "Ascending limb",
+          "bbox": {
+            "x_min": 0.2318,
+            "y_min": 0.7566,
+            "x_max": 0.3543,
+            "y_max": 0.7691,
+            "width": 0.1226,
+            "height": 0.0124
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "of loop of Henle",
+          "bbox": {
+            "x_min": 0.2323,
+            "y_min": 0.7716,
+            "x_max": 0.3561,
+            "y_max": 0.7828,
+            "width": 0.1238,
+            "height": 0.0111
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "Vasa recta",
+          "bbox": {
+            "x_min": 0.3076,
+            "y_min": 0.8179,
+            "x_max": 0.3935,
+            "y_max": 0.8265,
+            "width": 0.0858,
+            "height": 0.0086
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "Proximal\nconvoluted",
+          "bbox": {
+            "x_min": 0.6223,
+            "y_min": 0.602,
+            "x_max": 0.7087,
+            "y_max": 0.6243,
+            "width": 0.0864,
+            "height": 0.0223
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "tubule",
+          "bbox": {
+            "x_min": 0.6416,
+            "y_min": 0.629,
+            "x_max": 0.6941,
+            "y_max": 0.6384,
+            "width": 0.0525,
+            "height": 0.0094
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "Distal\nconvoluted\ntubule",
+          "bbox": {
+            "x_min": 0.6083,
+            "y_min": 0.6637,
+            "x_max": 0.6953,
+            "y_max": 0.7005,
+            "width": 0.087,
+            "height": 0.0368
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "Collecting duct",
+          "bbox": {
+            "x_min": 0.5867,
+            "y_min": 0.8111,
+            "x_max": 0.7075,
+            "y_max": 0.8218,
+            "width": 0.1208,
+            "height": 0.0107
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "Figure 16.3 A diagrammatic representation of a nephron showing blood vessels,",
+          "bbox": {
+            "x_min": 0.0952,
+            "y_min": 0.8762,
+            "x_max": 0.7858,
+            "y_max": 0.8886,
+            "width": 0.6906,
+            "height": 0.0124
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "duct and tubule",
+          "bbox": {
+            "x_min": 0.2189,
+            "y_min": 0.8916,
+            "x_max": 0.3549,
+            "y_max": 0.901,
+            "width": 0.136,
+            "height": 0.0094
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4501,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "208",
+          "bbox": {
+            "x_min": 0.1168,
+            "y_min": 0.0835,
+            "x_max": 0.1582,
+            "y_max": 0.0925,
+            "width": 0.0414,
+            "height": 0.009
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0683,
+            "height": 0.009
+          },
+          "confidence": 0.9804
+        },
+        {
+          "text": "Afferent arteriole",
+          "bbox": {
+            "x_min": 0.2271,
+            "y_min": 0.1345,
+            "x_max": 0.3643,
+            "y_max": 0.1431,
+            "width": 0.1372,
+            "height": 0.0086
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "Efferent\narteriole",
+          "bbox": {
+            "x_min": 0.4489,
+            "y_min": 0.1718,
+            "x_max": 0.5149,
+            "y_max": 0.1945,
+            "width": 0.066,
+            "height": 0.0227
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "Bowman's\ncapsule",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.2219,
+            "x_max": 0.533,
+            "y_max": 0.2472,
+            "width": 0.0823,
+            "height": 0.0253
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "Proximal",
+          "bbox": {
+            "x_min": 0.4075,
+            "y_min": 0.3826,
+            "x_max": 0.4775,
+            "y_max": 0.392,
+            "width": 0.0701,
+            "height": 0.0094
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "convoluted tubule",
+          "bbox": {
+            "x_min": 0.3707,
+            "y_min": 0.3959,
+            "x_max": 0.5143,
+            "y_max": 0.4062,
+            "width": 0.1436,
+            "height": 0.0103
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "(PCT). A hairpin shaped Henle's loop is\nthe next part of the tubule which has a\ndescending and an ascending limb. The\nascending limb continues as another highly\ncoiled tubular region called distal\nconvoluted tubule (DCT). The DCTs of\nmany nephrons open into a straight tube\ncalled collecting duct, many of which\nconverge and open into the renal pelvis\nthrough medullary pyramids in the\ncalyces.",
+          "bbox": {
+            "x_min": 0.5593,
+            "y_min": 0.1358,
+            "x_max": 0.9282,
+            "y_max": 0.3235,
+            "width": 0.3689,
+            "height": 0.1877
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "The Malpighian corpuscle, PCT and\nDCT of the nephron are situated in the\ncortical region of the kidney whereas the\nloop of Henle dips into the medulla. In\nmajority of nephrons, the loop of Henle is\ntoo short and extends only very little into\nFigure 16.4 Malpighian body (renal corpuscle) the medulla. Such nephrons are called\ncortical nephrons. In some of the nephrons,\nthe loop of Henle is very long and runs deep into the medulla. These\nnephrons are called juxta medullary nephrons.",
+          "bbox": {
+            "x_min": 0.1454,
+            "y_min": 0.3269,
+            "x_max": 0.9264,
+            "y_max": 0.4953,
+            "width": 0.7811,
+            "height": 0.1684
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "The efferent arteriole emerging from the glomerulus forms a fine\ncapillary network around the renal tubule called the peritubular\ncapillaries. A minute vessel of this network runs parallel to the Henle's\nloop forming a ‘U' shaped vasa recta. Vasa recta is absent or highly\nreduced in cortical nephrons.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.4996,
+            "x_max": 0.927,
+            "y_max": 0.5818,
+            "width": 0.6252,
+            "height": 0.0823
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "16.2 URINE FORMATION",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.6058,
+            "x_max": 0.5517,
+            "y_max": 0.6187,
+            "width": 0.2481,
+            "height": 0.0129
+          },
+          "confidence": 0.9555
+        },
+        {
+          "text": "Urine formation involves three main processes namely, glomerular\nfiltration, reabsorption and secretion, that takes place in different parts of\nthe nephron.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.6418,
+            "x_max": 0.9282,
+            "y_max": 0.6885,
+            "width": 0.627,
+            "height": 0.0467
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "nott",
+          "bbox": {
+            "x_min": 0.195,
+            "y_min": 0.671,
+            "x_max": 0.3619,
+            "y_max": 0.8162,
+            "width": 0.167,
+            "height": 0.1452
+          },
+          "confidence": 0.7506
+        },
+        {
+          "text": "The first step in urine formation is the filtration of blood, which is carried\nout by the glomerulus and is called glomerular filtration. On an average,\n1100-1200 ml of blood is filtered by the kidneys per minute which constitute\nroughly 1/5th of the blood pumped out by each ventricle of the heart in a\nminute. The glomerular capillary blood pressure causes filtration of blood\nthrough 3 layers, i.e., the endothelium of glomerular blood vessels, the\nepithelium of Bowman's capsule and a basement membrane between these\ntwo layers. The epithelial cells of Bowman's capsule called podocytes are\narranged in an intricate manner so as to leave some minute spaces called\nfiltration slits or slit pores. Blood is filtered so finely through these\nmembranes, that almost all the constituents of the plasma except the\nproteins pass onto the lumen of the Bowman's capsule. Therefore, it is\nconsidered as a process of ultra filtration.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.6928,
+            "x_max": 0.927,
+            "y_max": 0.9083,
+            "width": 0.6252,
+            "height": 0.2155
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "EXCRETORY PRODUCTS AND THEIR ELIMINATION",
+          "bbox": {
+            "x_min": 0.1127,
+            "y_min": 0.0831,
+            "x_max": 0.4647,
+            "y_max": 0.0925,
+            "width": 0.352,
+            "height": 0.0094
+          },
+          "confidence": 0.9811
+        },
+        {
+          "text": "209",
+          "bbox": {
+            "x_min": 0.8447,
+            "y_min": 0.0835,
+            "x_max": 0.885,
+            "y_max": 0.093,
+            "width": 0.0403,
+            "height": 0.0094
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "The amount of the filtrate formed by the kidneys per minute is called\nglomerular filtration rate (GFR). GFR in a healthy individual is\napproximately 125 ml/minute, i.e., 180 litres per day !",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1332,
+            "x_max": 0.6964,
+            "y_max": 0.1817,
+            "width": 0.6246,
+            "height": 0.0484
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "The kidneys have built-in mechanisms for the regulation of glomerular\nfiltration rate. One such efficient mechanism is carried out by juxta\nglomerular apparatus (JGA). JGA is a special sensitive region formed by\ncellular modifications in the distal convoluted tubule and the afferent\narteriole at the location of their contact. A fall in GFR can activate the JG\ncells to release renin which can stimulate the glomerular blood flow and\nthereby the GFR back to normal.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.1859,
+            "x_max": 0.6976,
+            "y_max": 0.3021,
+            "width": 0.6252,
+            "height": 0.1161
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "A comparison of the volume of the filtrate formed per day (180 litres\nper day) with that of the urine released (1.5 litres), suggest that nearly 99\nper cent of the filtrate has to be reabsorbed by the renal tubules. This\nprocess is called reabsorption. The tubular epithelial cells in different\nsegments of nephron perform this either by active or passive mechanisms.\nFor example, substances like glucose, amino acids, Na⁺, etc., in the filtrate\nare reabsorbed actively whereas the nitrogenous wastes are absorbed by\npassive transport. Reabsorption of water also occurs passively in the initial\nsegments of the nephron (Figure 16.5).",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.3055,
+            "x_max": 0.697,
+            "y_max": 0.4567,
+            "width": 0.6241,
+            "height": 0.1512
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "replished",
+          "bbox": {
+            "x_min": 0.4857,
+            "y_min": 0.3085,
+            "x_max": 0.8797,
+            "y_max": 0.6084,
+            "width": 0.394,
+            "height": 0.2999
+          },
+          "confidence": 0.8462
+        },
+        {
+          "text": "During urine formation, the tubular cells secrete substances like H⁺,\nK+ and ammonia into the filtrate. Tubular secretion is also an important\nstep in urine formation as it helps in the maintenance of ionic and acid\nbase balance of body fluids.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.4597,
+            "x_max": 0.697,
+            "y_max": 0.5261,
+            "width": 0.6252,
+            "height": 0.0664
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "16.3 FUNCTION OF THE TUBULES",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.551,
+            "x_max": 0.4051,
+            "y_max": 0.5626,
+            "width": 0.3304,
+            "height": 0.0116
+          },
+          "confidence": 0.9643
+        },
+        {
+          "text": "aintenanc",
+          "bbox": {
+            "x_min": 0.4524,
+            "y_min": 0.488,
+            "x_max": 0.5377,
+            "y_max": 0.5124,
+            "width": 0.0852,
+            "height": 0.0244
+          },
+          "confidence": 0.9407
+        },
+        {
+          "text": "Proximal Convoluted Tubule (PCT): PCT is lined by simple cuboidal\nbrush border epithelium which increases the surface area for reabsorption.\nNearly all of the essential nutrients, and 70-80 per cent of electrolytes\nand water are reabsorbed by this segment. PCT also helps to maintain\nthe pH and ionic balance of the body fluids by selective secretion of\nhydrogen ions and ammonia into the filtrate and by absorption of\nHCO3 from it.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.5818,
+            "x_max": 0.6988,
+            "y_max": 0.7001,
+            "width": 0.6264,
+            "height": 0.1183
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "Henle's Loop: Reabsorption is minimum in its ascending limb.\nHowever, this region plays a significant role in the maintenance of high\nosmolarity of medullary interstitial fluid. The descending limb of loop of\nHenle is permeable to water but almost impermeable to electrolytes. This\nconcentrates the filtrate as it moves down. The ascending limb is\nimpermeable to water but allows transport of electrolytes actively or\npassively. Therefore, as the concentrated filtrate pass upward, it gets\ndiluted due to the passage of electrolytes to the medullary fluid.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.7027,
+            "x_max": 0.6982,
+            "y_max": 0.8363,
+            "width": 0.6258,
+            "height": 0.1337
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "Distal Convoluted Tubule (DCT): Conditional reabsorption of Na+\nand water takes place in this segment. DCT is also capable of reabsorption\nof HCO and selective secretion of hydrogen and potassium ions and\nNH3 to maintain the pH and sodium-potassium balance in blood.",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.8398,
+            "x_max": 0.697,
+            "y_max": 0.9062,
+            "width": 0.6235,
+            "height": 0.0664
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "3",
+          "bbox": {
+            "x_min": 0.1366,
+            "y_min": 0.8843,
+            "x_max": 0.1459,
+            "y_max": 0.8886,
+            "width": 0.0093,
+            "height": 0.0043
+          },
+          "confidence": 0.972
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "210",
+          "bbox": {
+            "x_min": 0.1185,
+            "y_min": 0.0835,
+            "x_max": 0.1576,
+            "y_max": 0.093,
+            "width": 0.0391,
+            "height": 0.0094
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "Proximal convoluted tubule",
+          "bbox": {
+            "x_min": 0.286,
+            "y_min": 0.1465,
+            "x_max": 0.5015,
+            "y_max": 0.1564,
+            "width": 0.2154,
+            "height": 0.0099
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "Distal convoluted tubule",
+          "bbox": {
+            "x_min": 0.5826,
+            "y_min": 0.1474,
+            "x_max": 0.7776,
+            "y_max": 0.1568,
+            "width": 0.195,
+            "height": 0.0094
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "HCO",
+          "bbox": {
+            "x_min": 0.3158,
+            "y_min": 0.1997,
+            "x_max": 0.3555,
+            "y_max": 0.2087,
+            "width": 0.0397,
+            "height": 0.009
+          },
+          "confidence": 0.8473
+        },
+        {
+          "text": "3",
+          "bbox": {
+            "x_min": 0.3555,
+            "y_min": 0.2069,
+            "x_max": 0.3625,
+            "y_max": 0.2104,
+            "width": 0.007,
+            "height": 0.0034
+          },
+          "confidence": 0.9575
+        },
+        {
+          "text": "NaCl Nutrients",
+          "bbox": {
+            "x_min": 0.3631,
+            "y_min": 0.1851,
+            "x_max": 0.5009,
+            "y_max": 0.1928,
+            "width": 0.1378,
+            "height": 0.0077
+          },
+          "confidence": 0.9801
+        },
+        {
+          "text": "HO",
+          "bbox": {
+            "x_min": 0.4051,
+            "y_min": 0.2069,
+            "x_max": 0.4361,
+            "y_max": 0.2155,
+            "width": 0.0309,
+            "height": 0.0086
+          },
+          "confidence": 0.8351
+        },
+        {
+          "text": "K+",
+          "bbox": {
+            "x_min": 0.4834,
+            "y_min": 0.2074,
+            "x_max": 0.5026,
+            "y_max": 0.2164,
+            "width": 0.0193,
+            "height": 0.009
+          },
+          "confidence": 0.7987
+        },
+        {
+          "text": "NaCl",
+          "bbox": {
+            "x_min": 0.596,
+            "y_min": 0.2039,
+            "x_max": 0.6351,
+            "y_max": 0.2121,
+            "width": 0.0391,
+            "height": 0.0081
+          },
+          "confidence": 0.9678
+        },
+        {
+          "text": "H₂O HCO",
+          "bbox": {
+            "x_min": 0.6608,
+            "y_min": 0.1979,
+            "x_max": 0.7618,
+            "y_max": 0.2104,
+            "width": 0.101,
+            "height": 0.0124
+          },
+          "confidence": 0.7392
+        },
+        {
+          "text": "3",
+          "bbox": {
+            "x_min": 0.7612,
+            "y_min": 0.2087,
+            "x_max": 0.7677,
+            "y_max": 0.2121,
+            "width": 0.0064,
+            "height": 0.0034
+          },
+          "confidence": 0.9669
+        },
+        {
+          "text": "Medulla",
+          "bbox": {
+            "x_min": 0.2335,
+            "y_min": 0.4606,
+            "x_max": 0.2977,
+            "y_max": 0.4687,
+            "width": 0.0642,
+            "height": 0.0081
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "NCERT",
+          "bbox": {
+            "x_min": 0.3707,
+            "y_min": 0.398,
+            "x_max": 0.6118,
+            "y_max": 0.575,
+            "width": 0.2411,
+            "height": 0.1769
+          },
+          "confidence": 0.8942
+        },
+        {
+          "text": "NaCl",
+          "bbox": {
+            "x_min": 0.6042,
+            "y_min": 0.518,
+            "x_max": 0.6445,
+            "y_max": 0.5257,
+            "width": 0.0403,
+            "height": 0.0077
+          },
+          "confidence": 0.9682
+        },
+        {
+          "text": "H₂O",
+          "bbox": {
+            "x_min": 0.4402,
+            "y_min": 0.4117,
+            "x_max": 0.4723,
+            "y_max": 0.4229,
+            "width": 0.0321,
+            "height": 0.0111
+          },
+          "confidence": 0.8159
+        },
+        {
+          "text": "NaCl",
+          "bbox": {
+            "x_min": 0.6124,
+            "y_min": 0.3976,
+            "x_max": 0.6521,
+            "y_max": 0.4053,
+            "width": 0.0397,
+            "height": 0.0077
+          },
+          "confidence": 0.967
+        },
+        {
+          "text": "Henle",
+          "bbox": {
+            "x_min": 0.3888,
+            "y_min": 0.3715,
+            "x_max": 0.4367,
+            "y_max": 0.3792,
+            "width": 0.0479,
+            "height": 0.0077
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "H",
+          "bbox": {
+            "x_min": 0.3824,
+            "y_min": 0.2802,
+            "x_max": 0.3993,
+            "y_max": 0.2879,
+            "width": 0.0169,
+            "height": 0.0077
+          },
+          "confidence": 0.927
+        },
+        {
+          "text": "K+",
+          "bbox": {
+            "x_min": 0.6299,
+            "y_min": 0.2772,
+            "x_max": 0.6527,
+            "y_max": 0.2879,
+            "width": 0.0228,
+            "height": 0.0107
+          },
+          "confidence": 0.8541
+        },
+        {
+          "text": "H+",
+          "bbox": {
+            "x_min": 0.7099,
+            "y_min": 0.2781,
+            "x_max": 0.7332,
+            "y_max": 0.2883,
+            "width": 0.0234,
+            "height": 0.0103
+          },
+          "confidence": 0.7311
+        },
+        {
+          "text": "NH3",
+          "bbox": {
+            "x_min": 0.4559,
+            "y_min": 0.2845,
+            "x_max": 0.4857,
+            "y_max": 0.2961,
+            "width": 0.0298,
+            "height": 0.0116
+          },
+          "confidence": 0.6974
+        },
+        {
+          "text": "Cortex",
+          "bbox": {
+            "x_min": 0.2096,
+            "y_min": 0.2956,
+            "x_max": 0.2639,
+            "y_max": 0.3033,
+            "width": 0.0543,
+            "height": 0.0077
+          },
+          "confidence": 0.9829
+        },
+        {
+          "text": "Descending\nlimb of loop of",
+          "bbox": {
+            "x_min": 0.3602,
+            "y_min": 0.3428,
+            "x_max": 0.474,
+            "y_max": 0.3685,
+            "width": 0.1138,
+            "height": 0.0257
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "-Thick segment of",
+          "bbox": {
+            "x_min": 0.5879,
+            "y_min": 0.3423,
+            "x_max": 0.7215,
+            "y_max": 0.353,
+            "width": 0.1337,
+            "height": 0.0107
+          },
+          "confidence": 0.9703
+        },
+        {
+          "text": "ascending limb",
+          "bbox": {
+            "x_min": 0.5984,
+            "y_min": 0.356,
+            "x_max": 0.7099,
+            "y_max": 0.3672,
+            "width": 0.1115,
+            "height": 0.0111
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "e cublished",
+          "bbox": {
+            "x_min": 0.4203,
+            "y_min": 0.3016,
+            "x_max": 0.8716,
+            "y_max": 0.6397,
+            "width": 0.4513,
+            "height": 0.338
+          },
+          "confidence": 0.7167
+        },
+        {
+          "text": "Urea",
+          "bbox": {
+            "x_min": 0.6083,
+            "y_min": 0.5488,
+            "x_max": 0.6468,
+            "y_max": 0.5561,
+            "width": 0.0385,
+            "height": 0.0073
+          },
+          "confidence": 0.9843
+        },
+        {
+          "text": "H₂O",
+          "bbox": {
+            "x_min": 0.7729,
+            "y_min": 0.5557,
+            "x_max": 0.805,
+            "y_max": 0.566,
+            "width": 0.0321,
+            "height": 0.0103
+          },
+          "confidence": 0.8408
+        },
+        {
+          "text": "segm",
+          "bbox": {
+            "x_min": 0.627,
+            "y_min": 0.4623,
+            "x_max": 0.6655,
+            "y_max": 0.4786,
+            "width": 0.0385,
+            "height": 0.0163
+          },
+          "confidence": 0.9644
+        },
+        {
+          "text": "-Thin segment of\nascending limb",
+          "bbox": {
+            "x_min": 0.582,
+            "y_min": 0.4644,
+            "x_max": 0.714,
+            "y_max": 0.4897,
+            "width": 0.1319,
+            "height": 0.0253
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "Collecting",
+          "bbox": {
+            "x_min": 0.7764,
+            "y_min": 0.4062,
+            "x_max": 0.8587,
+            "y_max": 0.4177,
+            "width": 0.0823,
+            "height": 0.0116
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "duct",
+          "bbox": {
+            "x_min": 0.7957,
+            "y_min": 0.4207,
+            "x_max": 0.8348,
+            "y_max": 0.4289,
+            "width": 0.0391,
+            "height": 0.0081
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0689,
+            "height": 0.0094
+          },
+          "confidence": 0.9796
+        },
+        {
+          "text": "Figure 16.5 Reabsorption and secretion of major substances at different parts of\nthe nephron (Arrows indicate direction of movement of materials.)",
+          "bbox": {
+            "x_min": 0.1675,
+            "y_min": 0.6345,
+            "x_max": 0.8669,
+            "y_max": 0.6607,
+            "width": 0.6994,
+            "height": 0.0261
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "Collecting Duct: This long duct extends from the cortex of the kidney\nto the inner parts of the medulla. Large amounts of water could be\nreabsorbed from this region to produce a concentrated urine. This segment\nallows passage of small amounts of urea into the medullary interstitium\nto keep up the osmolarity. It also plays a role in the maintenance of pH\nand ionic balance of blood by the selective secretion of H⁺ and K+ ions\n(Figure 16.5).",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.6744,
+            "x_max": 0.9264,
+            "y_max": 0.7879,
+            "width": 0.6246,
+            "height": 0.1135
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "allo",
+          "bbox": {
+            "x_min": 0.2925,
+            "y_min": 0.7232,
+            "x_max": 0.3327,
+            "y_max": 0.7404,
+            "width": 0.0403,
+            "height": 0.0171
+          },
+          "confidence": 0.887
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1932,
+            "y_min": 0.7117,
+            "x_max": 0.3246,
+            "y_max": 0.8119,
+            "width": 0.1313,
+            "height": 0.1003
+          },
+          "confidence": 0.9728
+        },
+        {
+          "text": "16.4 MECHANISM OF CONCENTRATION OF THE FILTRATE",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.8123,
+            "x_max": 0.8494,
+            "y_max": 0.8243,
+            "width": 0.5458,
+            "height": 0.012
+          },
+          "confidence": 0.9538
+        },
+        {
+          "text": "Mammals have the ability to produce a concentrated urine. The Henle's\nloop and vasa recta play a significant role in this. The flow of filtrate in\nthe two limbs of Henle's loop is in opposite directions and thus forms a\ncounter current. The flow of blood through the two limbs of vasa recta is",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.8436,
+            "x_max": 0.9259,
+            "y_max": 0.9062,
+            "width": 0.6246,
+            "height": 0.0626
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "EXCRETORY PRODUCTS AND THEIR ELIMINATION",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.0827,
+            "x_max": 0.4641,
+            "y_max": 0.093,
+            "width": 0.3497,
+            "height": 0.0103
+          },
+          "confidence": 0.9848
+        },
+        {
+          "text": "also in a counter current pattern. The proximity between the Henle's loop\nand vasa recta, as well as the counter current in them help in maintaining\nan increasing osmolarity towards the inner medullary interstitium, i.e.,\nfrom 300 mOsmolL¯¹ in the cortex to about 1200 mOsmolL¯¹ in the inner\nmedulla. This gradient is mainly caused by NaCl and urea. NaCl is\ntransported by the ascending limb of Henle's loop which is exchanged\nwith the descending limb of vasa recta. NaCl is returned to the interstitium\nby the ascending portion of vasa recta. Similarly, small amounts of urea\nenter the thin segment of the ascending limb of Henle's loop which is\ntransported back to the interstitium by the collecting tubule. The above\ndescribed transport of substances facilitated by the special arrangement\nof Henle's loop and vasa recta is called the counter current mechanism\n(Figure. 16.6). This mechanism helps to maintain a concentration gradient",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.1337,
+            "x_max": 0.6976,
+            "y_max": 0.3453,
+            "width": 0.6264,
+            "height": 0.2117
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "Afferent\narteriole",
+          "bbox": {
+            "x_min": 0.2253,
+            "y_min": 0.377,
+            "x_max": 0.296,
+            "y_max": 0.3989,
+            "width": 0.0706,
+            "height": 0.0219
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "Bowman's\ncapsule",
+          "bbox": {
+            "x_min": 0.5435,
+            "y_min": 0.3646,
+            "x_max": 0.6276,
+            "y_max": 0.3877,
+            "width": 0.0841,
+            "height": 0.0231
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "Glomerulus",
+          "bbox": {
+            "x_min": 0.5137,
+            "y_min": 0.4002,
+            "x_max": 0.61,
+            "y_max": 0.4092,
+            "width": 0.0963,
+            "height": 0.009
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "Efferent\narteriole",
+          "bbox": {
+            "x_min": 0.2283,
+            "y_min": 0.437,
+            "x_max": 0.296,
+            "y_max": 0.4593,
+            "width": 0.0677,
+            "height": 0.0223
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "H₂O",
+          "bbox": {
+            "x_min": 0.5598,
+            "y_min": 0.4327,
+            "x_max": 0.5908,
+            "y_max": 0.443,
+            "width": 0.0309,
+            "height": 0.0103
+          },
+          "confidence": 0.6929
+        },
+        {
+          "text": "NaCl",
+          "bbox": {
+            "x_min": 0.5184,
+            "y_min": 0.461,
+            "x_max": 0.5528,
+            "y_max": 0.4679,
+            "width": 0.0344,
+            "height": 0.0069
+          },
+          "confidence": 0.9366
+        },
+        {
+          "text": "300",
+          "bbox": {
+            "x_min": 0.4834,
+            "y_min": 0.521,
+            "x_max": 0.5126,
+            "y_max": 0.5274,
+            "width": 0.0292,
+            "height": 0.0064
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "200",
+          "bbox": {
+            "x_min": 0.5943,
+            "y_min": 0.524,
+            "x_max": 0.6223,
+            "y_max": 0.5296,
+            "width": 0.028,
+            "height": 0.0056
+          },
+          "confidence": 0.997
+        },
+        {
+          "text": "211",
+          "bbox": {
+            "x_min": 0.8459,
+            "y_min": 0.0835,
+            "x_max": 0.8838,
+            "y_max": 0.093,
+            "width": 0.0379,
+            "height": 0.0094
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "hed",
+          "bbox": {
+            "x_min": 0.728,
+            "y_min": 0.3089,
+            "x_max": 0.8698,
+            "y_max": 0.4143,
+            "width": 0.1419,
+            "height": 0.1054
+          },
+          "confidence": 0.9625
+        },
+        {
+          "text": "Cortex",
+          "bbox": {
+            "x_min": 0.7659,
+            "y_min": 0.4983,
+            "x_max": 0.8214,
+            "y_max": 0.506,
+            "width": 0.0555,
+            "height": 0.0077
+          },
+          "confidence": 0.9834
+        },
+        {
+          "text": "300 mOsmolL¹",
+          "bbox": {
+            "x_min": 0.0911,
+            "y_min": 0.5497,
+            "x_max": 0.2119,
+            "y_max": 0.56,
+            "width": 0.1208,
+            "height": 0.0103
+          },
+          "confidence": 0.9362
+        },
+        {
+          "text": "300",
+          "bbox": {
+            "x_min": 0.2434,
+            "y_min": 0.557,
+            "x_max": 0.2715,
+            "y_max": 0.5634,
+            "width": 0.028,
+            "height": 0.0064
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "300",
+          "bbox": {
+            "x_min": 0.3532,
+            "y_min": 0.5681,
+            "x_max": 0.3824,
+            "y_max": 0.5741,
+            "width": 0.0292,
+            "height": 0.006
+          },
+          "confidence": 0.9968
+        },
+        {
+          "text": "400",
+          "bbox": {
+            "x_min": 0.2446,
+            "y_min": 0.5793,
+            "x_max": 0.2738,
+            "y_max": 0.5857,
+            "width": 0.0292,
+            "height": 0.0064
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "NaCl+",
+          "bbox": {
+            "x_min": 0.5289,
+            "y_min": 0.5857,
+            "x_max": 0.5791,
+            "y_max": 0.5938,
+            "width": 0.0502,
+            "height": 0.0081
+          },
+          "confidence": 0.8827
+        },
+        {
+          "text": "Outer medulla",
+          "bbox": {
+            "x_min": 0.7671,
+            "y_min": 0.5874,
+            "x_max": 0.8838,
+            "y_max": 0.5964,
+            "width": 0.1168,
+            "height": 0.009
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "300",
+          "bbox": {
+            "x_min": 0.5914,
+            "y_min": 0.596,
+            "x_max": 0.6182,
+            "y_max": 0.6024,
+            "width": 0.0269,
+            "height": 0.0064
+          },
+          "confidence": 0.9976
+        },
+        {
+          "text": "→ NaCl",
+          "bbox": {
+            "x_min": 0.2761,
+            "y_min": 0.6024,
+            "x_max": 0.3292,
+            "y_max": 0.6093,
+            "width": 0.0531,
+            "height": 0.0069
+          },
+          "confidence": 0.8388
+        },
+        {
+          "text": "NaCl",
+          "bbox": {
+            "x_min": 0.418,
+            "y_min": 0.6041,
+            "x_max": 0.4495,
+            "y_max": 0.611,
+            "width": 0.0315,
+            "height": 0.0069
+          },
+          "confidence": 0.966
+        },
+        {
+          "text": "↑",
+          "bbox": {
+            "x_min": 0.258,
+            "y_min": 0.6101,
+            "x_max": 0.268,
+            "y_max": 0.6298,
+            "width": 0.0099,
+            "height": 0.0197
+          },
+          "confidence": 0.9488
+        },
+        {
+          "text": "NaCl+",
+          "bbox": {
+            "x_min": 0.5289,
+            "y_min": 0.6131,
+            "x_max": 0.5779,
+            "y_max": 0.6213,
+            "width": 0.049,
+            "height": 0.0081
+          },
+          "confidence": 0.9031
+        },
+        {
+          "text": "H₂O",
+          "bbox": {
+            "x_min": 0.6556,
+            "y_min": 0.6123,
+            "x_max": 0.6877,
+            "y_max": 0.623,
+            "width": 0.0321,
+            "height": 0.0107
+          },
+          "confidence": 0.8298
+        },
+        {
+          "text": "600 mOsmolL¯¹",
+          "bbox": {
+            "x_min": 0.0928,
+            "y_min": 0.6315,
+            "x_max": 0.216,
+            "y_max": 0.6422,
+            "width": 0.1232,
+            "height": 0.0107
+          },
+          "confidence": 0.9055
+        },
+        {
+          "text": "400",
+          "bbox": {
+            "x_min": 0.352,
+            "y_min": 0.6302,
+            "x_max": 0.3812,
+            "y_max": 0.6384,
+            "width": 0.0292,
+            "height": 0.0081
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "400",
+          "bbox": {
+            "x_min": 0.495,
+            "y_min": 0.6298,
+            "x_max": 0.5231,
+            "y_max": 0.6367,
+            "width": 0.028,
+            "height": 0.0069
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "NaCl-",
+          "bbox": {
+            "x_min": 0.2843,
+            "y_min": 0.635,
+            "x_max": 0.3339,
+            "y_max": 0.6427,
+            "width": 0.0496,
+            "height": 0.0077
+          },
+          "confidence": 0.9352
+        },
+        {
+          "text": "NaCl+",
+          "bbox": {
+            "x_min": 0.5289,
+            "y_min": 0.6405,
+            "x_max": 0.5779,
+            "y_max": 0.6478,
+            "width": 0.049,
+            "height": 0.0073
+          },
+          "confidence": 0.9181
+        },
+        {
+          "text": "H₂O",
+          "bbox": {
+            "x_min": 0.4349,
+            "y_min": 0.6508,
+            "x_max": 0.4676,
+            "y_max": 0.6611,
+            "width": 0.0327,
+            "height": 0.0103
+          },
+          "confidence": 0.832
+        },
+        {
+          "text": "400",
+          "bbox": {
+            "x_min": 0.5914,
+            "y_min": 0.6491,
+            "x_max": 0.6194,
+            "y_max": 0.6551,
+            "width": 0.028,
+            "height": 0.006
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "600",
+          "bbox": {
+            "x_min": 0.2475,
+            "y_min": 0.659,
+            "x_max": 0.2744,
+            "y_max": 0.6658,
+            "width": 0.0269,
+            "height": 0.0069
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "NaCl+",
+          "bbox": {
+            "x_min": 0.5295,
+            "y_min": 0.668,
+            "x_max": 0.5791,
+            "y_max": 0.6761,
+            "width": 0.0496,
+            "height": 0.0081
+          },
+          "confidence": 0.9003
+        },
+        {
+          "text": "►H₂O",
+          "bbox": {
+            "x_min": 0.39,
+            "y_min": 0.6808,
+            "x_max": 0.4361,
+            "y_max": 0.6915,
+            "width": 0.0461,
+            "height": 0.0107
+          },
+          "confidence": 0.6916
+        },
+        {
+          "text": "H₂O",
+          "bbox": {
+            "x_min": 0.6579,
+            "y_min": 0.6769,
+            "x_max": 0.6883,
+            "y_max": 0.6864,
+            "width": 0.0304,
+            "height": 0.0094
+          },
+          "confidence": 0.8218
+        },
+        {
+          "text": "800",
+          "bbox": {
+            "x_min": 0.2487,
+            "y_min": 0.7134,
+            "x_max": 0.2755,
+            "y_max": 0.7189,
+            "width": 0.0269,
+            "height": 0.0056
+          },
+          "confidence": 0.9829
+        },
+        {
+          "text": "900 mOsmolL-¹",
+          "bbox": {
+            "x_min": 0.094,
+            "y_min": 0.7207,
+            "x_max": 0.2166,
+            "y_max": 0.7318,
+            "width": 0.1226,
+            "height": 0.0111
+          },
+          "confidence": 0.8888
+        },
+        {
+          "text": "↑",
+          "bbox": {
+            "x_min": 0.2545,
+            "y_min": 0.7224,
+            "x_max": 0.2685,
+            "y_max": 0.7391,
+            "width": 0.014,
+            "height": 0.0167
+          },
+          "confidence": 0.9517
+        },
+        {
+          "text": "X600\n↓",
+          "bbox": {
+            "x_min": 0.3047,
+            "y_min": 0.6889,
+            "x_max": 0.3812,
+            "y_max": 0.7386,
+            "width": 0.0765,
+            "height": 0.0497
+          },
+          "confidence": 0.8482
+        },
+        {
+          "text": "→NaCl 800",
+          "bbox": {
+            "x_min": 0.2831,
+            "y_min": 0.7416,
+            "x_max": 0.3795,
+            "y_max": 0.7502,
+            "width": 0.0963,
+            "height": 0.0086
+          },
+          "confidence": 0.9035
+        },
+        {
+          "text": "NaCl",
+          "bbox": {
+            "x_min": 0.5283,
+            "y_min": 0.6958,
+            "x_max": 0.5616,
+            "y_max": 0.7031,
+            "width": 0.0333,
+            "height": 0.0073
+          },
+          "confidence": 0.959
+        },
+        {
+          "text": "600",
+          "bbox": {
+            "x_min": 0.4939,
+            "y_min": 0.7001,
+            "x_max": 0.5207,
+            "y_max": 0.7078,
+            "width": 0.0269,
+            "height": 0.0077
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "600",
+          "bbox": {
+            "x_min": 0.5954,
+            "y_min": 0.7181,
+            "x_max": 0.6223,
+            "y_max": 0.7249,
+            "width": 0.0269,
+            "height": 0.0069
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "H2O+",
+          "bbox": {
+            "x_min": 0.6462,
+            "y_min": 0.7224,
+            "x_max": 0.6953,
+            "y_max": 0.7326,
+            "width": 0.049,
+            "height": 0.0103
+          },
+          "confidence": 0.66
+        },
+        {
+          "text": "Inner medulla",
+          "bbox": {
+            "x_min": 0.7677,
+            "y_min": 0.7296,
+            "x_max": 0.8809,
+            "y_max": 0.7382,
+            "width": 0.1133,
+            "height": 0.0086
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "800",
+          "bbox": {
+            "x_min": 0.4945,
+            "y_min": 0.7378,
+            "x_max": 0.5219,
+            "y_max": 0.7446,
+            "width": 0.0274,
+            "height": 0.0069
+          },
+          "confidence": 0.9853
+        },
+        {
+          "text": "H₂O",
+          "bbox": {
+            "x_min": 0.4396,
+            "y_min": 0.7468,
+            "x_max": 0.4711,
+            "y_max": 0.7566,
+            "width": 0.0315,
+            "height": 0.0099
+          },
+          "confidence": 0.8326
+        },
+        {
+          "text": "1200 mOsmolL¯¹",
+          "bbox": {
+            "x_min": 0.0922,
+            "y_min": 0.8076,
+            "x_max": 0.223,
+            "y_max": 0.8183,
+            "width": 0.1308,
+            "height": 0.0107
+          },
+          "confidence": 0.9024
+        },
+        {
+          "text": "1000",
+          "bbox": {
+            "x_min": 0.2475,
+            "y_min": 0.7601,
+            "x_max": 0.2779,
+            "y_max": 0.7665,
+            "width": 0.0304,
+            "height": 0.0064
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "1200",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.8068,
+            "x_max": 0.3316,
+            "y_max": 0.8132,
+            "width": 0.0309,
+            "height": 0.0064
+          },
+          "confidence": 0.9968
+        },
+        {
+          "text": "Vasa recta",
+          "bbox": {
+            "x_min": 0.2715,
+            "y_min": 0.8453,
+            "x_max": 0.3573,
+            "y_max": 0.8539,
+            "width": 0.0858,
+            "height": 0.0086
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "1000",
+          "bbox": {
+            "x_min": 0.3497,
+            "y_min": 0.7793,
+            "x_max": 0.3789,
+            "y_max": 0.7858,
+            "width": 0.0292,
+            "height": 0.0064
+          },
+          "confidence": 0.9969
+        },
+        {
+          "text": "1000",
+          "bbox": {
+            "x_min": 0.502,
+            "y_min": 0.7802,
+            "x_max": 0.5324,
+            "y_max": 0.7875,
+            "width": 0.0304,
+            "height": 0.0073
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "Urea",
+          "bbox": {
+            "x_min": 0.6346,
+            "y_min": 0.7596,
+            "x_max": 0.6743,
+            "y_max": 0.7674,
+            "width": 0.0397,
+            "height": 0.0077
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "900",
+          "bbox": {
+            "x_min": 0.5943,
+            "y_min": 0.7691,
+            "x_max": 0.6211,
+            "y_max": 0.7763,
+            "width": 0.0269,
+            "height": 0.0073
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "1200",
+          "bbox": {
+            "x_min": 0.5499,
+            "y_min": 0.8072,
+            "x_max": 0.5809,
+            "y_max": 0.8136,
+            "width": 0.0309,
+            "height": 0.0064
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "H₂O",
+          "bbox": {
+            "x_min": 0.6311,
+            "y_min": 0.8055,
+            "x_max": 0.6626,
+            "y_max": 0.8158,
+            "width": 0.0315,
+            "height": 0.0103
+          },
+          "confidence": 0.8385
+        },
+        {
+          "text": "Nephron",
+          "bbox": {
+            "x_min": 0.554,
+            "y_min": 0.8419,
+            "x_max": 0.6258,
+            "y_max": 0.8526,
+            "width": 0.0718,
+            "height": 0.0107
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "Figure 16.6 Diagrammatic representation of a nephron and vasa recta showing",
+          "bbox": {
+            "x_min": 0.1454,
+            "y_min": 0.8792,
+            "x_max": 0.8325,
+            "y_max": 0.8916,
+            "width": 0.6871,
+            "height": 0.0124
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "counter current mechanisms",
+          "bbox": {
+            "x_min": 0.2609,
+            "y_min": 0.8942,
+            "x_max": 0.5044,
+            "y_max": 0.9036,
+            "width": 0.2434,
+            "height": 0.0094
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "212",
+          "bbox": {
+            "x_min": 0.1185,
+            "y_min": 0.0831,
+            "x_max": 0.157,
+            "y_max": 0.093,
+            "width": 0.0385,
+            "height": 0.0099
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0689,
+            "height": 0.0094
+          },
+          "confidence": 0.9796
+        },
+        {
+          "text": "in the medullary interstitium. Presence of such interstitial gradient helps\nin an easy passage of water from the collecting tubule thereby\nconcentrating the filtrate (urine). Human kidneys can produce urine nearly\nfour times concentrated than the initial filtrate formed.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.1345,
+            "x_max": 0.9264,
+            "y_max": 0.1984,
+            "width": 0.6246,
+            "height": 0.0638
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "16.5 REGULATION OF KIDNEY FUNCTION",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.2275,
+            "x_max": 0.704,
+            "y_max": 0.2404,
+            "width": 0.4011,
+            "height": 0.0129
+          },
+          "confidence": 0.9848
+        },
+        {
+          "text": "The functioning of the kidneys is efficiently monitored and regulated by\nhormonal feedback mechanisms involving the hypothalamus, JGA and\nto a certain extent, the heart.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.2644,
+            "x_max": 0.9264,
+            "y_max": 0.3111,
+            "width": 0.6252,
+            "height": 0.0467
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "Osmoreceptors in the body are activated by changes in blood volume,\nbody fluid volume and ionic concentration. An excessive loss of fluid from\nthe body can activate these receptors which stimulate the hypothalamus\nto release antidiuretic hormone (ADH) or vasopressin from the\nneurohypophysis. ADH facilitates water reabsorption from latter parts of\nthe tubule, thereby preventing diuresis. An increase in body fluid volume\ncan switch off the osmoreceptors and suppress the ADH release to complete\nthe feedback. ADH can also affect the kidney function by its constrictory\neffects on blood vessels. This causes an increase in blood pressure. An\nincrease in blood pressure can increase the glomerular blood flow and\nthereby the GFR.",
+          "bbox": {
+            "x_min": 0.3001,
+            "y_min": 0.3171,
+            "x_max": 0.9276,
+            "y_max": 0.5086,
+            "width": 0.6276,
+            "height": 0.1915
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "The JGA plays a complex regulatory role. A fall in glomerular blood\nflow/glomerular blood pressure/GFR can activate the JG cells to release\nrenin which converts angiotensinogen in blood to angiotensin I and\nfurther to angiotensin II. Angiotensin II, being a powerful\nvasoconstrictor, increases the glomerular blood pressure and thereby\nGFR. Angiotensin II also activates the adrenal cortex to release\nAldosterone. Aldosterone causes reabsorption of Na⁺ and water from\nthe distal parts of the tubule. This also leads to an increase in blood\npressure and GFR. This complex mechanism is generally known as\nthe Renin-Angiotensin mechanism.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.5137,
+            "x_max": 0.9264,
+            "y_max": 0.6868,
+            "width": 0.6252,
+            "height": 0.1731
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "An increase in blood flow to the atria of the heart can cause the release\nof Atrial Natriuretic Factor (ANF). ANF can cause vasodilation (dilation of\nblood vessels) and thereby decrease the blood pressure. ANF mechanism,\ntherefore, acts as a check on the renin-angiotensin mechanism.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.6919,
+            "x_max": 0.9282,
+            "y_max": 0.7588,
+            "width": 0.6264,
+            "height": 0.0668
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "16.6 MICTURITION",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.7853,
+            "x_max": 0.4974,
+            "y_max": 0.7978,
+            "width": 0.1938,
+            "height": 0.0124
+          },
+          "confidence": 0.937
+        },
+        {
+          "text": "Urine formed by the nephrons is ultimately carried to the urinary bladder\nwhere it is stored till a voluntary signal is given by the central nervous\nsystem (CNS). This signal is initiated by the stretching of the urinary bladder\nas it gets filled with urine. In response, the stretch receptors on the walls\nof the bladder send signals to the CNS. The CNS passes on motor messages",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.8213,
+            "x_max": 0.9259,
+            "y_max": 0.9057,
+            "width": 0.6246,
+            "height": 0.0844
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1944,
+            "y_min": 0.7087,
+            "x_max": 0.3257,
+            "y_max": 0.8149,
+            "width": 0.1313,
+            "height": 0.1063
+          },
+          "confidence": 0.9282
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "EXCRETORY PRODUCTS AND THEIR ELIMINATION",
+          "bbox": {
+            "x_min": 0.1121,
+            "y_min": 0.0823,
+            "x_max": 0.4641,
+            "y_max": 0.0925,
+            "width": 0.352,
+            "height": 0.0103
+          },
+          "confidence": 0.9806
+        },
+        {
+          "text": "to initiate the contraction of smooth muscles of the bladder and\nsimultaneous relaxation of the urethral sphincter causing the release of\nurine. The process of release of urine is called micturition and the neural\nmechanisms causing it is called the micturition reflex. An adult human\nexcretes, on an average, 1 to 1.5 litres of urine per day. The urine formed\nis a light yellow coloured watery fluid which is slightly acidic (pH-6.0)\nand has a characterestic odour. On an average, 25-30 gm of urea is\nexcreted out per day. Various conditions can affect the characteristics of\nurine. Analysis of urine helps in clinical diagnosis of many metabolic\ndiscorders as well as malfunctioning of the kidney. For example, presence\nof glucose (Glycosuria) and ketone bodies (Ketonuria) in urine are\nindicative of diabetes mellitus.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1345,
+            "x_max": 0.6982,
+            "y_max": 0.3423,
+            "width": 0.6264,
+            "height": 0.2078
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "16.7 ROLE OF OTHER ORGANS IN EXCRETION",
+          "bbox": {
+            "x_min": 0.0753,
+            "y_min": 0.368,
+            "x_max": 0.5201,
+            "y_max": 0.38,
+            "width": 0.4448,
+            "height": 0.012
+          },
+          "confidence": 0.951
+        },
+        {
+          "text": "Other than the kidneys, lungs, liver and skin also help in the elimination\nof excretory wastes.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.3985,
+            "x_max": 0.697,
+            "y_max": 0.4297,
+            "width": 0.6246,
+            "height": 0.0313
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "Our lungs remove large amounts of CO₂ (approximately 200mL/\nminute) and also significant quantities of water every day. Liver, the largest\ngland in our body, secretes bile-containing substances like bilirubin,\nbiliverdin, cholesterol, degraded steroid hormones, vitamins and drugs.\nMost of these substances ultimately pass out along with digestive wastes.",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.4344,
+            "x_max": 0.697,
+            "y_max": 0.5193,
+            "width": 0.6258,
+            "height": 0.0848
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "The sweat and sebaceous glands in the skin can eliminate certain\nsubstances through their secretions. Sweat produced by the sweat\nglands is a watery fluid containing NaCl, small amounts of urea, lactic\nacid, etc. Though the primary function of sweat is to facilitate a cooling\neffect on the body surface, it also helps in the removal of some of the\nwastes mentioned above. Sebaceous glands eliminate certain\nsubstances like sterols, hydrocarbons and waxes through sebum. This\nsecretion provides a protective oily covering for the skin. Do you know\nthat small amounts of nitrogenous wastes could be eliminated through\nsaliva too?",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.5236,
+            "x_max": 0.6976,
+            "y_max": 0.6941,
+            "width": 0.6258,
+            "height": 0.1705
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "16.8 DISORDERS OF THE EXCRETORY SYSTEM",
+          "bbox": {
+            "x_min": 0.0753,
+            "y_min": 0.7279,
+            "x_max": 0.5254,
+            "y_max": 0.7395,
+            "width": 0.4501,
+            "height": 0.0116
+          },
+          "confidence": 0.9847
+        },
+        {
+          "text": "Malfunctioning of kidneys can lead to accumulation of urea in blood, a\ncondition called uremia, which is highly harmful and may lead to kidney\nfailure. In such patients, urea can be removed by a process called\nhemodialysis. During the process of haemodialysis, the blood drained\nfrom a convenient artery is pumped into a dialysing unit called artificial\nkidney. Blood drained from a convenient artery is pumped into a dialysing\nunit after adding an anticoagulant like heparin. The unit contains a coiled\ncellophane tube surrounded by a fluid (dialysing fluid) having the same",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.7631,
+            "x_max": 0.6982,
+            "y_max": 0.8993,
+            "width": 0.6264,
+            "height": 0.1362
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "ished",
+          "bbox": {
+            "x_min": 0.6637,
+            "y_min": 0.3063,
+            "x_max": 0.8733,
+            "y_max": 0.4623,
+            "width": 0.2096,
+            "height": 0.156
+          },
+          "confidence": 0.9548
+        },
+        {
+          "text": "213",
+          "bbox": {
+            "x_min": 0.8459,
+            "y_min": 0.0835,
+            "x_max": 0.8838,
+            "y_max": 0.0934,
+            "width": 0.0379,
+            "height": 0.0099
+          },
+          "confidence": 0.994
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "214",
+          "bbox": {
+            "x_min": 0.1185,
+            "y_min": 0.0835,
+            "x_max": 0.1582,
+            "y_max": 0.093,
+            "width": 0.0397,
+            "height": 0.0094
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "composition as that of plasma except the nitrogenous wastes. The porous\ncellophane membrance of the tube allows the passage of molecules based\non concentration gradient. As nitrogenous wastes are absent in the\ndialysing fluid, these substances freely move out, thereby clearing the\nblood. The cleared blood is pumped back to the body through a vein\nafter adding anti-heparin to it. This method is a boon for thousands of\nuremic patients all over the world.",
+          "bbox": {
+            "x_min": 0.1039,
+            "y_min": 0.1358,
+            "x_max": 0.7297,
+            "y_max": 0.2554,
+            "width": 0.6258,
+            "height": 0.1195
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "Kidney transplantation is the ultimate method in the correction of\nacute renal failures (kidney failure). A functioning kidney is used in\ntransplantation from a donor, preferably a close relative, to minimise its\nchances of rejection by the immune system of the host. Modern clinical\nprocedures have increased the success rate of such a complicated\ntechnique.",
+          "bbox": {
+            "x_min": 0.1039,
+            "y_min": 0.2605,
+            "x_max": 0.7297,
+            "y_max": 0.362,
+            "width": 0.6258,
+            "height": 0.1015
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "Renal calculi: Stone or insoluble mass of crystallised salts (oxalates,\netc.) formed within the kidney.",
+          "bbox": {
+            "x_min": 0.1039,
+            "y_min": 0.3749,
+            "x_max": 0.7274,
+            "y_max": 0.4062,
+            "width": 0.6235,
+            "height": 0.0313
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "Glomerulonephritis: Inflammation of glomeruli of kidney.",
+          "bbox": {
+            "x_min": 0.1033,
+            "y_min": 0.4212,
+            "x_max": 0.6176,
+            "y_max": 0.4357,
+            "width": 0.5143,
+            "height": 0.0146
+          },
+          "confidence": 0.9976
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8576,
+            "y_min": 0.0835,
+            "x_max": 0.9247,
+            "y_max": 0.0938,
+            "width": 0.0671,
+            "height": 0.0103
+          },
+          "confidence": 0.9788
+        },
+        {
+          "text": "CERT",
+          "bbox": {
+            "x_min": 0.4145,
+            "y_min": 0.3946,
+            "x_max": 0.6182,
+            "y_max": 0.5381,
+            "width": 0.2037,
+            "height": 0.1435
+          },
+          "confidence": 0.9658
+        },
+        {
+          "text": "SUMMARY",
+          "bbox": {
+            "x_min": 0.4822,
+            "y_min": 0.4816,
+            "x_max": 0.5768,
+            "y_max": 0.494,
+            "width": 0.0946,
+            "height": 0.0124
+          },
+          "confidence": 0.9535
+        },
+        {
+          "text": "published",
+          "bbox": {
+            "x_min": 0.5201,
+            "y_min": 0.3046,
+            "x_max": 0.8739,
+            "y_max": 0.5647,
+            "width": 0.3538,
+            "height": 0.2601
+          },
+          "confidence": 0.911
+        },
+        {
+          "text": "gsubst",
+          "bbox": {
+            "x_min": 0.3818,
+            "y_min": 0.5283,
+            "x_max": 0.4413,
+            "y_max": 0.5454,
+            "width": 0.0595,
+            "height": 0.0171
+          },
+          "confidence": 0.8641
+        },
+        {
+          "text": "Many nitrogen containing substances, ions, CO₂, water, etc., that accumulate in\nthe body have to be eliminated. Nature of nitrogenous wastes formed and their\nexcretion vary among animals, mainly depending on the habitat (availability of\nwater). Ammonia, urea and uric acid are the major nitrogenous wastes excreted.\nProtonephridia, nephridia, malpighian tubules, green glands and the kidneys are\nthe common excretory organs in animals. They not only eliminate nitrogenous wastes\nbut also help in the maintenance of ionic and acid-base balance of body fluids.",
+          "bbox": {
+            "x_min": 0.16,
+            "y_min": 0.5326,
+            "x_max": 0.8681,
+            "y_max": 0.653,
+            "width": 0.7081,
+            "height": 0.1204
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "In humans, the excretory system consists of one pair of kidneys, a pair of ureters,\na urinary bladder and a urethra. Each kidney has over a million tubular structures\ncalled nephrons. Nephron is the functional unit of kidney and has two portions\nglomerulus and renal tubule. Glomerulus is a tuft of capillaries formed from afferent\narterioles, fine branches of renal artery. The renal tubule starts with a double walled\nBowman's capsule and is further differentiated into a proximal convoluted tubule\n(PCT), Henle's loop (HL) and distal convoluted tubule (DCT). The DCTs of many\nnephrons join to a common collecting duct many of which ultimately open into the\nrenal pelvis through the medullary pyramids. The Bowman's capsule encloses the\nglomerulus to form Malpighian or renal corpuscle.",
+          "bbox": {
+            "x_min": 0.1611,
+            "y_min": 0.6572,
+            "x_max": 0.8669,
+            "y_max": 0.8312,
+            "width": 0.7058,
+            "height": 0.174
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "Urine formation involves three main processes, i.e., filtration, reabsorption and\nsecretion. Filtration is a non-selective process performed by the glomerulus using\nthe glomerular capillary blood pressure. About 1200 ml of blood is filtered by the\nglomerulus per minute to form 125 ml of filtrate in the Bowman's capsule per",
+          "bbox": {
+            "x_min": 0.1611,
+            "y_min": 0.8355,
+            "x_max": 0.8669,
+            "y_max": 0.9023,
+            "width": 0.7058,
+            "height": 0.0668
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "EXCRETORY PRODUCTS AND THEIR ELIMINATION",
+          "bbox": {
+            "x_min": 0.1127,
+            "y_min": 0.0831,
+            "x_max": 0.4647,
+            "y_max": 0.0925,
+            "width": 0.352,
+            "height": 0.0094
+          },
+          "confidence": 0.9811
+        },
+        {
+          "text": "minute (GFR). JGA, a specialised portion of the nephrons, plays a significant role\nin the regulation of GFR. Nearly 99 per cent reabsorption of the filtrate takes place\nthrough different parts of the nephrons. PCT is the major site of reabsorption and\nselective secretion. HL primarily helps to maintain osmolar gradient\n(300 mOsmolL-1 -1200 mOsmolL¯¹) within the kidney interstitium. DCT and\ncollecting duct allow extensive reabsorption of water and certain electrolytes, which\nhelp in osmoregulation: H+, K+ and NH3 could be secreted into the filtrate by the\ntubules to maintain the ionic balance and pH of body fluids.",
+          "bbox": {
+            "x_min": 0.1354,
+            "y_min": 0.1358,
+            "x_max": 0.833,
+            "y_max": 0.2742,
+            "width": 0.6976,
+            "height": 0.1384
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "A counter current mechanism operates between the two limbs of the loop of\nHenle and those of vasa recta (capillary parallel to Henle's loop). The filtrate gets\nconcentrated as it moves down the descending limb but is diluted by the ascending\nlimb. Electrolytes and urea are retained in the interstitium by this arrangement.\nDCT and collecting duct concentrate the filtrate about four times, i.e., from 300\nmOsmolL-¹ to 1200 mOsmolL¯¹, an excellent mechanism of conservation of water.\nUrine is stored in the urinary bladder till a voluntary signal from CNS carries out\nits release through urethra, i.e., micturition. Skin, lungs and liver also assist in\nexcretion.",
+          "bbox": {
+            "x_min": 0.1349,
+            "y_min": 0.2781,
+            "x_max": 0.8342,
+            "y_max": 0.431,
+            "width": 0.6994,
+            "height": 0.153
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "CERT",
+          "bbox": {
+            "x_min": 0.4098,
+            "y_min": 0.404,
+            "x_max": 0.6165,
+            "y_max": 0.542,
+            "width": 0.2067,
+            "height": 0.138
+          },
+          "confidence": 0.9644
+        },
+        {
+          "text": "EXERCISES",
+          "bbox": {
+            "x_min": 0.4489,
+            "y_min": 0.4846,
+            "x_max": 0.5505,
+            "y_max": 0.497,
+            "width": 0.1016,
+            "height": 0.0124
+          },
+          "confidence": 0.9703
+        },
+        {
+          "text": "publis",
+          "bbox": {
+            "x_min": 0.5365,
+            "y_min": 0.3869,
+            "x_max": 0.7665,
+            "y_max": 0.563,
+            "width": 0.23,
+            "height": 0.1761
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "1. Define Glomerular Filtration Rate (GFR)",
+          "bbox": {
+            "x_min": 0.1529,
+            "y_min": 0.5356,
+            "x_max": 0.5055,
+            "y_max": 0.5471,
+            "width": 0.3526,
+            "height": 0.0116
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "2. Explain the autoregulatory mechanism of GFR.",
+          "bbox": {
+            "x_min": 0.1512,
+            "y_min": 0.557,
+            "x_max": 0.5668,
+            "y_max": 0.5694,
+            "width": 0.4156,
+            "height": 0.0124
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "3. Indicate whether the following statements are true or false :",
+          "bbox": {
+            "x_min": 0.1512,
+            "y_min": 0.575,
+            "x_max": 0.6754,
+            "y_max": 0.5874,
+            "width": 0.5242,
+            "height": 0.0124
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "(a) Micturition is carried out by a reflex.",
+          "bbox": {
+            "x_min": 0.1769,
+            "y_min": 0.593,
+            "x_max": 0.5085,
+            "y_max": 0.6054,
+            "width": 0.3316,
+            "height": 0.0124
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "(b) ADH helps in water elimination, making the urine hypotonic.",
+          "bbox": {
+            "x_min": 0.1769,
+            "y_min": 0.6105,
+            "x_max": 0.7134,
+            "y_max": 0.6238,
+            "width": 0.5365,
+            "height": 0.0133
+          },
+          "confidence": 0.9969
+        },
+        {
+          "text": "(c) Protein-free fluid is filtered from blood plasma into the Bowman's capsule.",
+          "bbox": {
+            "x_min": 0.1763,
+            "y_min": 0.629,
+            "x_max": 0.8196,
+            "y_max": 0.641,
+            "width": 0.6433,
+            "height": 0.012
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "(d) Henle's loop plays an important role in concentrating the urine.",
+          "bbox": {
+            "x_min": 0.1775,
+            "y_min": 0.6461,
+            "x_max": 0.7361,
+            "y_max": 0.6594,
+            "width": 0.5587,
+            "height": 0.0133
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "(e) Glucose is actively reabsorbed in the proximal convoluted tubule.",
+          "bbox": {
+            "x_min": 0.1763,
+            "y_min": 0.6637,
+            "x_max": 0.7472,
+            "y_max": 0.6769,
+            "width": 0.5709,
+            "height": 0.0133
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "4. Give a brief account of the counter current mechanism.",
+          "bbox": {
+            "x_min": 0.1494,
+            "y_min": 0.6907,
+            "x_max": 0.6416,
+            "y_max": 0.7005,
+            "width": 0.4921,
+            "height": 0.0099
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "5. Describe the role of liver, lungs and skin in excretion.",
+          "bbox": {
+            "x_min": 0.1512,
+            "y_min": 0.7129,
+            "x_max": 0.6235,
+            "y_max": 0.7254,
+            "width": 0.4723,
+            "height": 0.0124
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "6. Explain micturition.",
+          "bbox": {
+            "x_min": 0.1506,
+            "y_min": 0.7344,
+            "x_max": 0.3427,
+            "y_max": 0.7468,
+            "width": 0.1921,
+            "height": 0.0124
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "7. Match the items of column I with those of column II :",
+          "bbox": {
+            "x_min": 0.1512,
+            "y_min": 0.7558,
+            "x_max": 0.6153,
+            "y_max": 0.7661,
+            "width": 0.4641,
+            "height": 0.0103
+          },
+          "confidence": 0.9836
+        },
+        {
+          "text": "Column I",
+          "bbox": {
+            "x_min": 0.1763,
+            "y_min": 0.7763,
+            "x_max": 0.2574,
+            "y_max": 0.7862,
+            "width": 0.0811,
+            "height": 0.0099
+          },
+          "confidence": 0.9845
+        },
+        {
+          "text": "(a) Ammonotelism",
+          "bbox": {
+            "x_min": 0.1769,
+            "y_min": 0.7961,
+            "x_max": 0.331,
+            "y_max": 0.8081,
+            "width": 0.1541,
+            "height": 0.012
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "(b) Bowman's capsule",
+          "bbox": {
+            "x_min": 0.1775,
+            "y_min": 0.8171,
+            "x_max": 0.3637,
+            "y_max": 0.8295,
+            "width": 0.1862,
+            "height": 0.0124
+          },
+          "confidence": 0.9824
+        },
+        {
+          "text": "(c) Micturition",
+          "bbox": {
+            "x_min": 0.1775,
+            "y_min": 0.8376,
+            "x_max": 0.3018,
+            "y_max": 0.8492,
+            "width": 0.1243,
+            "height": 0.0116
+          },
+          "confidence": 0.9797
+        },
+        {
+          "text": "(d) Uricotelism",
+          "bbox": {
+            "x_min": 0.1775,
+            "y_min": 0.8573,
+            "x_max": 0.3018,
+            "y_max": 0.8693,
+            "width": 0.1243,
+            "height": 0.012
+          },
+          "confidence": 0.9809
+        },
+        {
+          "text": "(d) ADH",
+          "bbox": {
+            "x_min": 0.1763,
+            "y_min": 0.8779,
+            "x_max": 0.2452,
+            "y_max": 0.8899,
+            "width": 0.0689,
+            "height": 0.012
+          },
+          "confidence": 0.984
+        },
+        {
+          "text": "Column II",
+          "bbox": {
+            "x_min": 0.4209,
+            "y_min": 0.7763,
+            "x_max": 0.5079,
+            "y_max": 0.7862,
+            "width": 0.087,
+            "height": 0.0099
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "(i) Birds",
+          "bbox": {
+            "x_min": 0.4267,
+            "y_min": 0.7961,
+            "x_max": 0.4968,
+            "y_max": 0.8081,
+            "width": 0.0701,
+            "height": 0.012
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "(ii) Water reabsorption",
+          "bbox": {
+            "x_min": 0.4221,
+            "y_min": 0.8171,
+            "x_max": 0.6124,
+            "y_max": 0.8295,
+            "width": 0.1903,
+            "height": 0.0124
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "(iii) Bony fish",
+          "bbox": {
+            "x_min": 0.4174,
+            "y_min": 0.8376,
+            "x_max": 0.5318,
+            "y_max": 0.8505,
+            "width": 0.1144,
+            "height": 0.0129
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "(iv) Urinary bladder",
+          "bbox": {
+            "x_min": 0.418,
+            "y_min": 0.8573,
+            "x_max": 0.5861,
+            "y_max": 0.871,
+            "width": 0.1681,
+            "height": 0.0137
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "(v) Renal tubule",
+          "bbox": {
+            "x_min": 0.4238,
+            "y_min": 0.8779,
+            "x_max": 0.5598,
+            "y_max": 0.8903,
+            "width": 0.136,
+            "height": 0.0124
+          },
+          "confidence": 0.9847
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "215",
+          "bbox": {
+            "x_min": 0.8465,
+            "y_min": 0.0823,
+            "x_max": 0.8832,
+            "y_max": 0.0938,
+            "width": 0.0368,
+            "height": 0.0116
+          },
+          "confidence": 0.9958
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "216",
+          "bbox": {
+            "x_min": 0.1179,
+            "y_min": 0.0835,
+            "x_max": 0.157,
+            "y_max": 0.093,
+            "width": 0.0391,
+            "height": 0.0094
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "8. What is meant by the term osmoregulation?",
+          "bbox": {
+            "x_min": 0.1769,
+            "y_min": 0.1362,
+            "x_max": 0.5698,
+            "y_max": 0.1482,
+            "width": 0.3929,
+            "height": 0.012
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "9. Terrestrial animals are generally either ureotelic or uricotelic, not ammonotelic,\nwhy?",
+          "bbox": {
+            "x_min": 0.1775,
+            "y_min": 0.1577,
+            "x_max": 0.8628,
+            "y_max": 0.1881,
+            "width": 0.6853,
+            "height": 0.0304
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "10. What is the significance of juxta glomerular apparatus (JGA) in kidney function?\n11. Name the following:",
+          "bbox": {
+            "x_min": 0.1681,
+            "y_min": 0.1971,
+            "x_max": 0.864,
+            "y_max": 0.2309,
+            "width": 0.6959,
+            "height": 0.0338
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "(a) A chordate animal having flame cells as excretory structures",
+          "bbox": {
+            "x_min": 0.2032,
+            "y_min": 0.2365,
+            "x_max": 0.7455,
+            "y_max": 0.2489,
+            "width": 0.5423,
+            "height": 0.0124
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "(b) Cortical portions projecting between the medullary pyramids in the human\nkidney",
+          "bbox": {
+            "x_min": 0.2032,
+            "y_min": 0.2545,
+            "x_max": 0.864,
+            "y_max": 0.2853,
+            "width": 0.6608,
+            "height": 0.0308
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "(c) A loop of capillary running parallel to the Henle's loop.",
+          "bbox": {
+            "x_min": 0.2026,
+            "y_min": 0.2905,
+            "x_max": 0.6888,
+            "y_max": 0.3029,
+            "width": 0.4863,
+            "height": 0.0124
+          },
+          "confidence": 0.9804
+        },
+        {
+          "text": "12. Fill in the gaps :",
+          "bbox": {
+            "x_min": 0.1675,
+            "y_min": 0.3136,
+            "x_max": 0.3368,
+            "y_max": 0.326,
+            "width": 0.1693,
+            "height": 0.0124
+          },
+          "confidence": 0.9834
+        },
+        {
+          "text": "(a) Ascending limb of Henle's loop is",
+          "bbox": {
+            "x_min": 0.2032,
+            "y_min": 0.3312,
+            "x_max": 0.5131,
+            "y_max": 0.3436,
+            "width": 0.31,
+            "height": 0.0124
+          },
+          "confidence": 0.983
+        },
+        {
+          "text": "limb is",
+          "bbox": {
+            "x_min": 0.2329,
+            "y_min": 0.3488,
+            "x_max": 0.2907,
+            "y_max": 0.3582,
+            "width": 0.0578,
+            "height": 0.0094
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "to it.",
+          "bbox": {
+            "x_min": 0.3678,
+            "y_min": 0.3496,
+            "x_max": 0.4063,
+            "y_max": 0.3586,
+            "width": 0.0385,
+            "height": 0.009
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "(d) A healthy adult human excretes (on an average)",
+          "bbox": {
+            "x_min": 0.2032,
+            "y_min": 0.4319,
+            "x_max": 0.6375,
+            "y_max": 0.4447,
+            "width": 0.4343,
+            "height": 0.0129
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "ONCER",
+          "bbox": {
+            "x_min": 0.2954,
+            "y_min": 0.4237,
+            "x_max": 0.5756,
+            "y_max": 0.623,
+            "width": 0.2802,
+            "height": 0.1992
+          },
+          "confidence": 0.8412
+        },
+        {
+          "text": "n ave",
+          "bbox": {
+            "x_min": 0.5499,
+            "y_min": 0.4254,
+            "x_max": 0.596,
+            "y_max": 0.452,
+            "width": 0.0461,
+            "height": 0.0266
+          },
+          "confidence": 0.837
+        },
+        {
+          "text": "not to be republich",
+          "bbox": {
+            "x_min": 0.1897,
+            "y_min": 0.3573,
+            "x_max": 0.7933,
+            "y_max": 0.8282,
+            "width": 0.6036,
+            "height": 0.4709
+          },
+          "confidence": 0.9246
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8576,
+            "y_min": 0.0835,
+            "x_max": 0.9253,
+            "y_max": 0.0943,
+            "width": 0.0677,
+            "height": 0.0107
+          },
+          "confidence": 0.9763
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

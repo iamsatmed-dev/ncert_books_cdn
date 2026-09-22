@@ -1,0 +1,6356 @@
+{
+  "chapter_id": "11th_biology_ch11_photosynthesis_in_higher_plants_ch11_photosynthesis_in_higher_plants_en",
+  "total_pages": 22,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "ERT",
+          "bbox": {
+            "x_min": 0.4594,
+            "y_min": 0.3937,
+            "x_max": 0.6135,
+            "y_max": 0.5159,
+            "width": 0.1541,
+            "height": 0.1221
+          },
+          "confidence": 0.9759
+        },
+        {
+          "text": "published",
+          "bbox": {
+            "x_min": 0.5394,
+            "y_min": 0.2982,
+            "x_max": 0.8739,
+            "y_max": 0.5638,
+            "width": 0.3345,
+            "height": 0.2656
+          },
+          "confidence": 0.9162
+        },
+        {
+          "text": "UNIT 4",
+          "bbox": {
+            "x_min": 0.3094,
+            "y_min": 0.4456,
+            "x_max": 0.4863,
+            "y_max": 0.485,
+            "width": 0.1769,
+            "height": 0.0394
+          },
+          "confidence": 0.959
+        },
+        {
+          "text": "PLANT PHYSIOLOGY",
+          "bbox": {
+            "x_min": 0.3152,
+            "y_min": 0.5051,
+            "x_max": 0.5785,
+            "y_max": 0.527,
+            "width": 0.2633,
+            "height": 0.0219
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "ture.",
+          "bbox": {
+            "x_min": 0.5143,
+            "y_min": 0.5506,
+            "x_max": 0.5558,
+            "y_max": 0.5681,
+            "width": 0.0414,
+            "height": 0.0176
+          },
+          "confidence": 0.9144
+        },
+        {
+          "text": "Chapter 11\nThe description of structure and variation of living organisms over a\nPhotosynthesis in Higher period of time, ended up as two, apparently irreconcilable perspectives",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.5553,
+            "x_max": 0.8949,
+            "y_max": 0.5857,
+            "width": 0.8237,
+            "height": 0.0304
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "Plants",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.5865,
+            "x_max": 0.1249,
+            "y_max": 0.5947,
+            "width": 0.0543,
+            "height": 0.0081
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "Chapter 12\nRespiration in Plants",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.6161,
+            "x_max": 0.2481,
+            "y_max": 0.6435,
+            "width": 0.1763,
+            "height": 0.0274
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "Chapter 13\nPlant Growth and\nDevelopment",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.662,
+            "x_max": 0.2201,
+            "y_max": 0.7057,
+            "width": 0.1489,
+            "height": 0.0437
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "on biology. The two perspectives essentially rested on two levels of\norganisation of life forms and phenomena. One described at organismic\nand above level of organisation while the second described at cellular\nand molecular level of organisation. The first resulted in ecology and\nrelated disciplines. The second resulted in physiology and biochemistry.\nDescription of physiological processes, in flowering plants as an\nexample, is what is given in the chapters in this unit. The processes of\nphotosynthesis, respiration and ultimately plant growth and\ndevelopment are described in molecular terms but in the context of\ncellular activities and even at organism level. Wherever appropriate,\nthe relation of the physiological processes to environment is also\ndiscussed.",
+          "bbox": {
+            "x_min": 0.3106,
+            "y_min": 0.5891,
+            "x_max": 0.8967,
+            "y_max": 0.7819,
+            "width": 0.5861,
+            "height": 0.1928
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1926,
+            "y_min": 0.7095,
+            "x_max": 0.3275,
+            "y_max": 0.8123,
+            "width": 0.1349,
+            "height": 0.1028
+          },
+          "confidence": 0.9808
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "Melvin Calvin",
+          "bbox": {
+            "x_min": 0.1973,
+            "y_min": 0.6735,
+            "x_max": 0.3147,
+            "y_max": 0.6838,
+            "width": 0.1173,
+            "height": 0.0103
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "Sed",
+          "bbox": {
+            "x_min": 0.6772,
+            "y_min": 0.2995,
+            "x_max": 0.8774,
+            "y_max": 0.4597,
+            "width": 0.2002,
+            "height": 0.1602
+          },
+          "confidence": 0.7384
+        },
+        {
+          "text": "MELVIN CALVIN born in Minnesota in April, 1911, received his\nPh.D. in Chemistry from the University of Minnesota. He served\nas Professor of Chemistry at the University of California,\nBerkeley.",
+          "bbox": {
+            "x_min": 0.4174,
+            "y_min": 0.3779,
+            "x_max": 0.9276,
+            "y_max": 0.4387,
+            "width": 0.5102,
+            "height": 0.0608
+          },
+          "confidence": 0.9825
+        },
+        {
+          "text": "or of Chemistry at the Univer",
+          "bbox": {
+            "x_min": 0.5067,
+            "y_min": 0.4092,
+            "x_max": 0.7752,
+            "y_max": 0.4374,
+            "width": 0.2685,
+            "height": 0.0283
+          },
+          "confidence": 0.7583
+        },
+        {
+          "text": "Il when the",
+          "bbox": {
+            "x_min": 0.6241,
+            "y_min": 0.4349,
+            "x_max": 0.7245,
+            "y_max": 0.4576,
+            "width": 0.1004,
+            "height": 0.0227
+          },
+          "confidence": 0.7192
+        },
+        {
+          "text": "Just after world war II, when the world was under shock\nafter the Hiroshima-Nagasaki bombings, and seeing the ill-\neffects of radio-activity, Calvin and co-workers put radio-\nactivity to beneficial use. He along with J.A. Bassham studied\nreactions in green plants forming sugar and other substances\nfrom raw materials like carbon dioxide, water and minerals\nby labelling the carbon dioxide with C¹4. Calvin proposed that\nplants change light energy to chemical energy by transferring\nan electron in an organised array of pigment molecules and\nother substances. The mapping of the pathway of carbon\nassimilation in photosynthesis earned him Nobel Prize in 1961.",
+          "bbox": {
+            "x_min": 0.4197,
+            "y_min": 0.4443,
+            "x_max": 0.9282,
+            "y_max": 0.6221,
+            "width": 0.5085,
+            "height": 0.1778
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "The principles of photosynthesis as established by Calvin\nare, at present, being used in studies on renewable resource\nfor energy and materials and basic studies in solar energy\nresearch.",
+          "bbox": {
+            "x_min": 0.4197,
+            "y_min": 0.626,
+            "x_max": 0.9282,
+            "y_max": 0.6855,
+            "width": 0.5085,
+            "height": 0.0596
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "not to",
+          "bbox": {
+            "x_min": 0.181,
+            "y_min": 0.6547,
+            "x_max": 0.418,
+            "y_max": 0.8115,
+            "width": 0.237,
+            "height": 0.1568
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0081
+          },
+          "confidence": 0.9824
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "11080CH13",
+          "bbox": {
+            "x_min": 0.798,
+            "y_min": 0.2117,
+            "x_max": 0.8453,
+            "y_max": 0.2177,
+            "width": 0.0473,
+            "height": 0.006
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "11.1 What do we\nKnow?",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.425,
+            "x_max": 0.2212,
+            "y_max": 0.4512,
+            "width": 0.1477,
+            "height": 0.0261
+          },
+          "confidence": 0.9808
+        },
+        {
+          "text": "11.2 Early",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.4662,
+            "x_max": 0.1705,
+            "y_max": 0.4781,
+            "width": 0.0975,
+            "height": 0.012
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "Experiments",
+          "bbox": {
+            "x_min": 0.1185,
+            "y_min": 0.4829,
+            "x_max": 0.2283,
+            "y_max": 0.4944,
+            "width": 0.1097,
+            "height": 0.0116
+          },
+          "confidence": 0.9853
+        },
+        {
+          "text": "11.3 Where does",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.5073,
+            "x_max": 0.2212,
+            "y_max": 0.5163,
+            "width": 0.1471,
+            "height": 0.009
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "Photosynthesis\ntake place?",
+          "bbox": {
+            "x_min": 0.1208,
+            "y_min": 0.524,
+            "x_max": 0.251,
+            "y_max": 0.5514,
+            "width": 0.1302,
+            "height": 0.0274
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "11.4 How many\nPigments are\ninvolved in",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.5647,
+            "x_max": 0.2329,
+            "y_max": 0.6063,
+            "width": 0.1605,
+            "height": 0.0416
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "CHAPTER 11",
+          "bbox": {
+            "x_min": 0.3053,
+            "y_min": 0.3106,
+            "x_max": 0.5137,
+            "y_max": 0.3372,
+            "width": 0.2084,
+            "height": 0.0266
+          },
+          "confidence": 0.9675
+        },
+        {
+          "text": "ed",
+          "bbox": {
+            "x_min": 0.7741,
+            "y_min": 0.3102,
+            "x_max": 0.8739,
+            "y_max": 0.3877,
+            "width": 0.0998,
+            "height": 0.0775
+          },
+          "confidence": 0.8825
+        },
+        {
+          "text": "PHOTOSYNTHESIS in HIGHER PLANTS",
+          "bbox": {
+            "x_min": 0.3117,
+            "y_min": 0.3616,
+            "x_max": 0.8926,
+            "y_max": 0.3882,
+            "width": 0.5809,
+            "height": 0.0266
+          },
+          "confidence": 0.8139
+        },
+        {
+          "text": "All animals including human beings depend on plants for their food. Have\nyou ever wondered from where plants get their food? Green plants, in fact,\nhave to make or rather synthesise the food they need and all other organisms\ndepend on them for their needs. The green plants make or rather synthesise\nthe food they need through photosynthesis and are therefore called autotrophs.\nYou have already learnt that the autotrophic nutrition is found only in plants\nand all other organisms that depend on the green plants for food are\nheterotrophs. Green plants carry out ‘photosynthesis', a physico-chemical\nprocess by which they use light energy to drive the synthesis of organic\ncompounds. Ultimately, all living forms on earth depend on sunlight for\nenergy. The use of energy from sunlight by plants doing photosynthesis is",
+          "bbox": {
+            "x_min": 0.2685,
+            "y_min": 0.4254,
+            "x_max": 0.8955,
+            "y_max": 0.6088,
+            "width": 0.627,
+            "height": 0.1834
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "Photosynthesis? the basis of life on earth. Photosynthesis is important due to two reasons: it",
+          "bbox": {
+            "x_min": 0.1226,
+            "y_min": 0.6114,
+            "x_max": 0.8943,
+            "y_max": 0.6255,
+            "width": 0.7717,
+            "height": 0.0141
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "11.5 What is Light\nReaction?",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.638,
+            "x_max": 0.2388,
+            "y_max": 0.6632,
+            "width": 0.1652,
+            "height": 0.0253
+          },
+          "confidence": 0.9859
+        },
+        {
+          "text": "11.6 The Electron\nTransport",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.6782,
+            "x_max": 0.2312,
+            "y_max": 0.7078,
+            "width": 0.1582,
+            "height": 0.0296
+          },
+          "confidence": 0.9847
+        },
+        {
+          "text": "11.7 Where are the\nATP and NADPH\nUsed?",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.7198,
+            "x_max": 0.2604,
+            "y_max": 0.7618,
+            "width": 0.1862,
+            "height": 0.042
+          },
+          "confidence": 0.9842
+        },
+        {
+          "text": "is the primary source of all food on earth. It is also responsible for the release\nof oxygen into the atmosphere by green plants. Have you ever thought what\nwould happen if there were no oxygen to breath? This chapter focusses on\nthe structure of the photosynthetic machinery and the various reactions\nthat transform light energy into chemical energy.",
+          "bbox": {
+            "x_min": 0.2703,
+            "y_min": 0.6285,
+            "x_max": 0.8978,
+            "y_max": 0.7099,
+            "width": 0.6276,
+            "height": 0.0814
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "11.1 WHAT DO WE KNOW?",
+          "bbox": {
+            "x_min": 0.272,
+            "y_min": 0.7241,
+            "x_max": 0.5482,
+            "y_max": 0.7369,
+            "width": 0.2761,
+            "height": 0.0129
+          },
+          "confidence": 0.9754
+        },
+        {
+          "text": "11.8 The C₁ Pathway",
+          "bbox": {
+            "x_min": 0.0753,
+            "y_min": 0.7734,
+            "x_max": 0.2592,
+            "y_max": 0.7901,
+            "width": 0.1839,
+            "height": 0.0167
+          },
+          "confidence": 0.9288
+        },
+        {
+          "text": "Let us try to find out what we already know about photosynthesis. Some\nsimple experiments you may have done in the earlier classes have shown\nthat chlorophyll (green pigment of the leaf), light and CO₂ are required for",
+          "bbox": {
+            "x_min": 0.2709,
+            "y_min": 0.7562,
+            "x_max": 0.8949,
+            "y_max": 0.8055,
+            "width": 0.6241,
+            "height": 0.0493
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "11.9 Photorespiration photosynthesis to occur.",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.8012,
+            "x_max": 0.4828,
+            "y_max": 0.8209,
+            "width": 0.4081,
+            "height": 0.0197
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "11.10 Factors",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.8265,
+            "x_max": 0.1868,
+            "y_max": 0.8355,
+            "width": 0.1138,
+            "height": 0.009
+          },
+          "confidence": 0.9799
+        },
+        {
+          "text": "affecting",
+          "bbox": {
+            "x_min": 0.1214,
+            "y_min": 0.8423,
+            "x_max": 0.1967,
+            "y_max": 0.8539,
+            "width": 0.0753,
+            "height": 0.0116
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "Photosynthesis",
+          "bbox": {
+            "x_min": 0.1226,
+            "y_min": 0.859,
+            "x_max": 0.2504,
+            "y_max": 0.8732,
+            "width": 0.1278,
+            "height": 0.0141
+          },
+          "confidence": 0.9854
+        },
+        {
+          "text": "You may have carried out the experiment to look for starch formation\nin two leaves – a variegated leaf or a leaf that was partially covered with\nblack paper, and exposed to light. On testing these leaves for the presence\nof starch it was clear that photosynthesis occurred only in the green parts\nof the leaves in the presence of light.",
+          "bbox": {
+            "x_min": 0.2703,
+            "y_min": 0.8248,
+            "x_max": 0.8955,
+            "y_max": 0.9083,
+            "width": 0.6252,
+            "height": 0.0835
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "134",
+          "bbox": {
+            "x_min": 0.1208,
+            "y_min": 0.084,
+            "x_max": 0.1576,
+            "y_max": 0.0934,
+            "width": 0.0368,
+            "height": 0.0094
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.0835,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0683,
+            "height": 0.0094
+          },
+          "confidence": 0.9765
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.1675,
+            "y_min": 0.3385,
+            "x_max": 0.1903,
+            "y_max": 0.35,
+            "width": 0.0228,
+            "height": 0.0116
+          },
+          "confidence": 0.9774
+        },
+        {
+          "text": "(c)",
+          "bbox": {
+            "x_min": 0.1693,
+            "y_min": 0.5664,
+            "x_max": 0.188,
+            "y_max": 0.5775,
+            "width": 0.0187,
+            "height": 0.0111
+          },
+          "confidence": 0.9361
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.383,
+            "y_min": 0.3402,
+            "x_max": 0.4028,
+            "y_max": 0.3509,
+            "width": 0.0198,
+            "height": 0.0107
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "(d)",
+          "bbox": {
+            "x_min": 0.3812,
+            "y_min": 0.5677,
+            "x_max": 0.4051,
+            "y_max": 0.5784,
+            "width": 0.0239,
+            "height": 0.0107
+          },
+          "confidence": 0.9818
+        },
+        {
+          "text": "Figure 11.1 Priestley's experiment",
+          "bbox": {
+            "x_min": 0.1424,
+            "y_min": 0.5853,
+            "x_max": 0.4355,
+            "y_max": 0.5977,
+            "width": 0.2931,
+            "height": 0.0124
+          },
+          "confidence": 0.9812
+        },
+        {
+          "text": "Another experiment you may have carried out\nwhere a part of a leaf is enclosed in a test tube\ncontaining some KOH soaked cotton (which\nabsorbs CO₂), while the other half is exposed to air.\nThe setup is then placed in light for some time. On\ntesting for the presence of starch later in the two\nparts of the leaf, you must have found that the\nexposed part of the leaf tested positive for starch\nwhile the portion that was in the tube, tested\nnegative. This showed that CO₂ was required for\nphotosynthesis. Can you explain how this\nconclusion could be drawn?",
+          "bbox": {
+            "x_min": 0.4933,
+            "y_min": 0.135,
+            "x_max": 0.9282,
+            "y_max": 0.3419,
+            "width": 0.4349,
+            "height": 0.2069
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.7677,
+            "y_min": 0.3046,
+            "x_max": 0.777,
+            "y_max": 0.3102,
+            "width": 0.0093,
+            "height": 0.0056
+          },
+          "confidence": 0.9738
+        },
+        {
+          "text": "he",
+          "bbox": {
+            "x_min": 0.714,
+            "y_min": 0.335,
+            "x_max": 0.8371,
+            "y_max": 0.4225,
+            "width": 0.1232,
+            "height": 0.0874
+          },
+          "confidence": 0.871
+        },
+        {
+          "text": "ed",
+          "bbox": {
+            "x_min": 0.7572,
+            "y_min": 0.3136,
+            "x_max": 0.8809,
+            "y_max": 0.3976,
+            "width": 0.1238,
+            "height": 0.084
+          },
+          "confidence": 0.7844
+        },
+        {
+          "text": "11.2 EARLY EXPERIMENTS",
+          "bbox": {
+            "x_min": 0.4962,
+            "y_min": 0.368,
+            "x_max": 0.7496,
+            "y_max": 0.38,
+            "width": 0.2534,
+            "height": 0.012
+          },
+          "confidence": 0.9809
+        },
+        {
+          "text": "It is interesting to learn about those simple\nexperiments that led to a gradual development in\nour understanding of photosynthesis.",
+          "bbox": {
+            "x_min": 0.495,
+            "y_min": 0.4036,
+            "x_max": 0.9264,
+            "y_max": 0.4516,
+            "width": 0.4314,
+            "height": 0.048
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "Joseph Priestley (1733-1804) in 1770\nperformed a series of experiments that revealed the\nessential role of air in the growth of green plants.\nPriestley, you may recall, discovered oxygen in\n1774. Priestley observed that a candle burning in\na closed space a bell jar, soon gets extinguished\n(Figure 11.1 a, b, c, d). Similarly, a mouse would\nsoon suffocate in a closed space. He concluded that\na burning candle or an animal that breathe the air,",
+          "bbox": {
+            "x_min": 0.495,
+            "y_min": 0.4554,
+            "x_max": 0.9264,
+            "y_max": 0.6054,
+            "width": 0.4314,
+            "height": 0.15
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "both somehow, damage the air. But when he placed a mint plant in the\nsame bell jar, he found that the mouse stayed alive and the candle\ncontinued to burn. Priestley hypothesised as follows: Plants restore to\nthe air whatever breathing animals and burning candles remove.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.6097,
+            "x_max": 0.9264,
+            "y_max": 0.6744,
+            "width": 0.6246,
+            "height": 0.0647
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1932,
+            "y_min": 0.7091,
+            "x_max": 0.3275,
+            "y_max": 0.8136,
+            "width": 0.1343,
+            "height": 0.1045
+          },
+          "confidence": 0.9754
+        },
+        {
+          "text": "Can you imagine how Priestley would have conducted the experiment\nusing a candle and a plant? Remember, he would need to rekindle the\ncandle to test whether it burns after a few days. How many different\nways can you think of to light the candle without disturbing the set-up?\nways\nUsing a similar setup as the one used by Priestley, but by placing it\nonce in the dark and once in the sunlight, Jan Ingenhousz (1730-1799)\nshowed that sunlight is essential for the plant process that somehow\npurifies the air fouled by burning candles or breathing animals.\nIngenhousz in an elegant experiment with an aquatic plant showed that\nin bright sunlight, small bubbles were formed around the green parts\nwhile in the dark they did not. Later he identified these bubbles to be of\noxygen. Hence he showed that it is only the green part of the plants that\ncould release oxygen.",
+          "bbox": {
+            "x_min": 0.2983,
+            "y_min": 0.6727,
+            "x_max": 0.934,
+            "y_max": 0.9002,
+            "width": 0.6357,
+            "height": 0.2275
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "PHOTOSYNTHESIS IN HIGHER PLANTS",
+          "bbox": {
+            "x_min": 0.1156,
+            "y_min": 0.0827,
+            "x_max": 0.3853,
+            "y_max": 0.093,
+            "width": 0.2697,
+            "height": 0.0103
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "It was not until about 1854 that Julius von Sachs provided evidence\nfor production of glucose when plants grow. Glucose is usually stored as\nstarch. His later studies showed that the green substance in plants\n(chlorophyll as we know it now) is located in special bodies (later called\nchloroplasts) within plant cells. He found that the green parts in plants is\nwhere glucose is made, and that the glucose is usually stored as starch.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.135,
+            "x_max": 0.6964,
+            "y_max": 0.2344,
+            "width": 0.6246,
+            "height": 0.0994
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.6894,
+            "y_min": 0.2991,
+            "x_max": 0.6988,
+            "y_max": 0.3046,
+            "width": 0.0093,
+            "height": 0.0056
+          },
+          "confidence": 0.9696
+        },
+        {
+          "text": "Now consider the interesting experiments done by T.W Engelmann\n(1843 – 1909). Using a prism he split light into its spectral components\nand then illuminated a green alga, Cladophora, placed in a suspension\nof aerobic bacteria. The bacteria were used to detect the sites of O₂\nevolution. He observed that the bacteria accumulated mainly in the region\nof blue and red light of the split spectrum. A first action spectrum of\nphotosynthesis was thus described. It resembles roughly the absorption\nspectra of chlorophyll a and b (discussed in section 11.4).",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.2382,
+            "x_max": 0.6982,
+            "y_max": 0.3719,
+            "width": 0.6252,
+            "height": 0.1337
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "By the middle of the nineteenth century the key features of plant\nphotosynthesis were known, namely, that plants could use light energy\nto make carbohydrates from CO₂ and water. The empirical equation\nrepresenting the total process of photosynthesis for oxygen evolving\norganisms was then understood as:",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.3753,
+            "x_max": 0.697,
+            "y_max": 0.458,
+            "width": 0.6241,
+            "height": 0.0827
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.3625,
+            "y_min": 0.4199,
+            "x_max": 0.373,
+            "y_max": 0.425,
+            "width": 0.0105,
+            "height": 0.0051
+          },
+          "confidence": 0.973
+        },
+        {
+          "text": "Light",
+          "bbox": {
+            "x_min": 0.3602,
+            "y_min": 0.4747,
+            "x_max": 0.4046,
+            "y_max": 0.4867,
+            "width": 0.0444,
+            "height": 0.012
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "CO2 + H2O",
+          "bbox": {
+            "x_min": 0.2405,
+            "y_min": 0.482,
+            "x_max": 0.3304,
+            "y_max": 0.4953,
+            "width": 0.0899,
+            "height": 0.0133
+          },
+          "confidence": 0.8689
+        },
+        {
+          "text": "published",
+          "bbox": {
+            "x_min": 0.5423,
+            "y_min": 0.3016,
+            "x_max": 0.8733,
+            "y_max": 0.563,
+            "width": 0.331,
+            "height": 0.2614
+          },
+          "confidence": 0.8598
+        },
+        {
+          "text": "where [CH₂O] represented a\nsugar).",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.509,
+            "x_max": 0.3234,
+            "y_max": 0.5398,
+            "width": 0.2516,
+            "height": 0.0308
+          },
+          "confidence": 0.9688
+        },
+        {
+          "text": "based on his studies of purple and green bacteria, demonstrated that\nphotosynthesis is essentially a light-dependent reaction in which\nhydrogen from a suitable oxidisable compound reduces carbon dioxide\nto carbohydrates. This can be expressed by:",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.5775,
+            "x_max": 0.6964,
+            "y_max": 0.6427,
+            "width": 0.6241,
+            "height": 0.0651
+          },
+          "confidence": 0.9974
+        },
+        {
+          "text": "2H2A+CO2",
+          "bbox": {
+            "x_min": 0.2107,
+            "y_min": 0.6667,
+            "x_max": 0.3088,
+            "y_max": 0.6799,
+            "width": 0.0981,
+            "height": 0.0133
+          },
+          "confidence": 0.8701
+        },
+        {
+          "text": "Light",
+          "bbox": {
+            "x_min": 0.3433,
+            "y_min": 0.6594,
+            "x_max": 0.3859,
+            "y_max": 0.6714,
+            "width": 0.0426,
+            "height": 0.012
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "→2A+CH2O + H2O",
+          "bbox": {
+            "x_min": 0.3964,
+            "y_min": 0.6667,
+            "x_max": 0.5587,
+            "y_max": 0.6799,
+            "width": 0.1623,
+            "height": 0.0133
+          },
+          "confidence": 0.8885
+        },
+        {
+          "text": "In green plants H₂O is the hydrogen donor and is oxidised to O2. Some\norganisms do not release O₂ during photosynthesis. When H₂S, instead\nis the hydrogen donor for purple and green sulphur bacteria, the\n'oxidation' product is sulphur or sulphate depending on the organism\nand not O2. Hence, he inferred that the O₂ evolved by the green plant\ncomes from H₂O, not from carbon dioxide. This was later proved by using\nradioisotopic techniques. The correct equation, that would represent the\noverall process of photosynthesis is therefore:",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.6945,
+            "x_max": 0.6976,
+            "y_max": 0.8278,
+            "width": 0.6246,
+            "height": 0.1332
+          },
+          "confidence": 0.9841
+        },
+        {
+          "text": "Light",
+          "bbox": {
+            "x_min": 0.3333,
+            "y_min": 0.844,
+            "x_max": 0.3765,
+            "y_max": 0.856,
+            "width": 0.0432,
+            "height": 0.012
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "6CO₂ +12H2O",
+          "bbox": {
+            "x_min": 0.1915,
+            "y_min": 0.8509,
+            "x_max": 0.3053,
+            "y_max": 0.8642,
+            "width": 0.1138,
+            "height": 0.0133
+          },
+          "confidence": 0.8647
+        },
+        {
+          "text": "C6H12O6 + 6H2O+602",
+          "bbox": {
+            "x_min": 0.4028,
+            "y_min": 0.8509,
+            "x_max": 0.5773,
+            "y_max": 0.8642,
+            "width": 0.1745,
+            "height": 0.0133
+          },
+          "confidence": 0.868
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.4442,
+            "y_min": 0.8869,
+            "x_max": 0.4536,
+            "y_max": 0.892,
+            "width": 0.0093,
+            "height": 0.0051
+          },
+          "confidence": 0.9725
+        },
+        {
+          "text": "where C6 H12 O6 represents glucose. The O₂ released is from water; this\nwas proved using radio isotope techniques. Note that this is not a single",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.8779,
+            "x_max": 0.6964,
+            "y_max": 0.9083,
+            "width": 0.6241,
+            "height": 0.0304
+          },
+          "confidence": 0.9769
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "135",
+          "bbox": {
+            "x_min": 0.8465,
+            "y_min": 0.0827,
+            "x_max": 0.8844,
+            "y_max": 0.0934,
+            "width": 0.0379,
+            "height": 0.0107
+          },
+          "confidence": 0.9954
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "136",
+          "bbox": {
+            "x_min": 0.1191,
+            "y_min": 0.0844,
+            "x_max": 0.16,
+            "y_max": 0.0925,
+            "width": 0.0409,
+            "height": 0.0081
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9259,
+            "y_max": 0.0934,
+            "width": 0.0695,
+            "height": 0.0094
+          },
+          "confidence": 0.978
+        },
+        {
+          "text": "reaction but description of a multistep process called photosynthesis.\nCan you explain why twelve molecules of water as substrate are used\nin the equation given above?",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.1354,
+            "x_max": 0.927,
+            "y_max": 0.1829,
+            "width": 0.6241,
+            "height": 0.0476
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "11.3 WHERE DOES PHOTOSYNTHESIS TAKE PLACE?",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.2052,
+            "x_max": 0.8033,
+            "y_max": 0.2181,
+            "width": 0.4991,
+            "height": 0.0129
+          },
+          "confidence": 0.9656
+        },
+        {
+          "text": "You would of course answer: in ‘the green leaf or ‘in the chloroplasts',\nbased on what you earlier read in Chapter 8. You are definitely right.\nPhotosynthesis does take place in the green leaves of plants but it does so\nalso in other green parts of the plants. Can you name some other parts\nwhere you think photosynthesis may occur?",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.2326,
+            "x_max": 0.927,
+            "y_max": 0.3128,
+            "width": 0.6264,
+            "height": 0.0801
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "You would recollect from previous unit that the mesophyll cells in the\nleaves, have a large number of chloroplasts. Usually the chloroplasts align\nthemselves along the walls of the mesophyll cells, such that they get the\noptimum quantity of the incident light. When do you think the\nchloroplasts will be aligned with their flat surfaces parallel to the walls?\nWhen would they be perpendicular to the incident light?",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.3153,
+            "x_max": 0.9282,
+            "y_max": 0.4117,
+            "width": 0.6264,
+            "height": 0.0964
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "You have studied the structure of chloroplast in Chapter 8. Within\nthe chloroplast there is membranous system consisting of grana, the\nstroma lamellae, and the matrix stroma (Figure 11.2). There is a clear\ndivision of labour within the chloroplast. The membrane system is\nresponsible for trapping the light energy and also for the synthesis of ATP\nand NADPH. In stroma, enzymatic reactions synthesise sugar, which in\nturn forms starch. The former set of reactions, since they are directly light\ndriven are called light reactions (photochemical reactions). The latter\nare not directly light driven but are dependent on the products of light\nreactions (ATP and NADPH). Hence, to distinguish the latter they are called,\nby convention, as dark reactions (carbon reactions). However, this should\nnot be construed to mean that they occur in darkness or that they are not\nlight-dependent.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.4152,
+            "x_max": 0.927,
+            "y_max": 0.6272,
+            "width": 0.6252,
+            "height": 0.2121
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "Outer membrane",
+          "bbox": {
+            "x_min": 0.7431,
+            "y_min": 0.6315,
+            "x_max": 0.8809,
+            "y_max": 0.6397,
+            "width": 0.1378,
+            "height": 0.0081
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "Inner membrane",
+          "bbox": {
+            "x_min": 0.7461,
+            "y_min": 0.6534,
+            "x_max": 0.8809,
+            "y_max": 0.662,
+            "width": 0.1349,
+            "height": 0.0086
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "-Stromal lamella",
+          "bbox": {
+            "x_min": 0.7373,
+            "y_min": 0.6799,
+            "x_max": 0.8675,
+            "y_max": 0.6889,
+            "width": 0.1302,
+            "height": 0.009
+          },
+          "confidence": 0.9415
+        },
+        {
+          "text": "000",
+          "bbox": {
+            "x_min": 0.3806,
+            "y_min": 0.8106,
+            "x_max": 0.397,
+            "y_max": 0.8171,
+            "width": 0.0163,
+            "height": 0.0064
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "0000000",
+          "bbox": {
+            "x_min": 0.5873,
+            "y_min": 0.7386,
+            "x_max": 0.627,
+            "y_max": 0.7511,
+            "width": 0.0397,
+            "height": 0.0124
+          },
+          "confidence": 0.9768
+        },
+        {
+          "text": "000",
+          "bbox": {
+            "x_min": 0.6544,
+            "y_min": 0.7704,
+            "x_max": 0.6725,
+            "y_max": 0.7768,
+            "width": 0.0181,
+            "height": 0.0064
+          },
+          "confidence": 0.9115
+        },
+        {
+          "text": "•",
+          "bbox": {
+            "x_min": 0.6743,
+            "y_min": 0.7339,
+            "x_max": 0.6865,
+            "y_max": 0.7412,
+            "width": 0.0123,
+            "height": 0.0073
+          },
+          "confidence": 0.8897
+        },
+        {
+          "text": "Grana",
+          "bbox": {
+            "x_min": 0.7426,
+            "y_min": 0.7168,
+            "x_max": 0.7939,
+            "y_max": 0.7249,
+            "width": 0.0514,
+            "height": 0.0081
+          },
+          "confidence": 0.9868
+        },
+        {
+          "text": "Stroma",
+          "bbox": {
+            "x_min": 0.7437,
+            "y_min": 0.7609,
+            "x_max": 0.8015,
+            "y_max": 0.7691,
+            "width": 0.0578,
+            "height": 0.0081
+          },
+          "confidence": 0.985
+        },
+        {
+          "text": "Ribosomes",
+          "bbox": {
+            "x_min": 0.742,
+            "y_min": 0.7815,
+            "x_max": 0.8284,
+            "y_max": 0.7901,
+            "width": 0.0864,
+            "height": 0.0086
+          },
+          "confidence": 0.9776
+        },
+        {
+          "text": "Poo",
+          "bbox": {
+            "x_min": 0.4156,
+            "y_min": 0.8308,
+            "x_max": 0.4273,
+            "y_max": 0.8368,
+            "width": 0.0117,
+            "height": 0.006
+          },
+          "confidence": 0.7481
+        },
+        {
+          "text": "-Starch granule",
+          "bbox": {
+            "x_min": 0.7373,
+            "y_min": 0.8226,
+            "x_max": 0.8616,
+            "y_max": 0.8342,
+            "width": 0.1243,
+            "height": 0.0116
+          },
+          "confidence": 0.9606
+        },
+        {
+          "text": "-Lipid droplet",
+          "bbox": {
+            "x_min": 0.7315,
+            "y_min": 0.8565,
+            "x_max": 0.8447,
+            "y_max": 0.868,
+            "width": 0.1133,
+            "height": 0.0116
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "Figure 11.2 Diagrammatic representation of an electron micrograph of a section of",
+          "bbox": {
+            "x_min": 0.1646,
+            "y_min": 0.8826,
+            "x_max": 0.871,
+            "y_max": 0.895,
+            "width": 0.7064,
+            "height": 0.0124
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "chloroplast",
+          "bbox": {
+            "x_min": 0.2785,
+            "y_min": 0.8976,
+            "x_max": 0.373,
+            "y_max": 0.9087,
+            "width": 0.0946,
+            "height": 0.0111
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "PHOTOSYNTHESIS IN HIGHER PLANTS",
+          "bbox": {
+            "x_min": 0.1156,
+            "y_min": 0.0827,
+            "x_max": 0.3853,
+            "y_max": 0.093,
+            "width": 0.2697,
+            "height": 0.0103
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "137",
+          "bbox": {
+            "x_min": 0.8465,
+            "y_min": 0.0835,
+            "x_max": 0.8844,
+            "y_max": 0.093,
+            "width": 0.0379,
+            "height": 0.0094
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "11.4 HoW MANY TYPES OF PIGMENTS ARE\nINVOLVED IN PHOTOSYNTHESIS?",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.1345,
+            "x_max": 0.4781,
+            "y_max": 0.1675,
+            "width": 0.4046,
+            "height": 0.033
+          },
+          "confidence": 0.9741
+        },
+        {
+          "text": "A",
+          "bbox": {
+            "x_min": 0.4618,
+            "y_min": 0.2768,
+            "x_max": 0.481,
+            "y_max": 0.2858,
+            "width": 0.0193,
+            "height": 0.009
+          },
+          "confidence": 0.9575
+        },
+        {
+          "text": "Looking at plants have you ever wondered why\nand how there are so many shades of green in\ntheir leaves even in the same plant? We can\nlook for an answer to this question by trying to\nseparate the leaf pigments of any green plant\nthrough paper chromatography.\nchromatographic separation of the leaf pigments\nshows that the colour that we see in leaves is\nnot due to a single pigment but due to four\npigments: Chlorophyll a (bright or blue green\nin the chromatogram), chlorophyll b (yellow\ngreen), xanthophylls (yellow) and carotenoids\n(yellow to yellow-orange). Let us now see what\nroles various pigments play in photosynthesis.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.1902,
+            "x_max": 0.4787,
+            "y_max": 0.4272,
+            "width": 0.4063,
+            "height": 0.2369
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "Pigments are substances that have an ability\nto absorb light, at specific wavelengths. Can you\nguess which is the most abundant plant\npigment in the world? Let us study the graph\nshowing the ability of chlorophyll a pigment to\nabsorb lights of different wavelengths (Figure\n11.3 a). Of course, you are familiar with the\nwavelength of the visible spectrum of light as\nwell as the VIBGYOR.",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.4314,
+            "x_max": 0.4804,
+            "y_max": 0.5784,
+            "width": 0.4092,
+            "height": 0.147
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "From Figure 11.3a can you determine the\nwavelength (colour of light) at which chlorophyll\na shows the maximum absorption? Does it\nshow another absorption peak at any other\nwavelengths too? If yes, which one?",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.5861,
+            "x_max": 0.4804,
+            "y_max": 0.668,
+            "width": 0.4069,
+            "height": 0.0818
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "Absorbance of light by\nchloroplast pigments",
+          "bbox": {
+            "x_min": 0.5306,
+            "y_min": 0.1975,
+            "x_max": 0.5668,
+            "y_max": 0.3312,
+            "width": 0.0362,
+            "height": 0.1337
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.533,
+            "y_min": 0.3458,
+            "x_max": 0.5552,
+            "y_max": 0.3573,
+            "width": 0.0222,
+            "height": 0.0116
+          },
+          "confidence": 0.9738
+        },
+        {
+          "text": "Chlorophyll b",
+          "bbox": {
+            "x_min": 0.6667,
+            "y_min": 0.2142,
+            "x_max": 0.7741,
+            "y_max": 0.2254,
+            "width": 0.1074,
+            "height": 0.0111
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "Carotenoids",
+          "bbox": {
+            "x_min": 0.6853,
+            "y_min": 0.2451,
+            "x_max": 0.7823,
+            "y_max": 0.2532,
+            "width": 0.0969,
+            "height": 0.0081
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "Chlorophyll a",
+          "bbox": {
+            "x_min": 0.6918,
+            "y_min": 0.2823,
+            "x_max": 0.8015,
+            "y_max": 0.2943,
+            "width": 0.1097,
+            "height": 0.012
+          },
+          "confidence": 0.9785
+        },
+        {
+          "text": "Published",
+          "bbox": {
+            "x_min": 0.5143,
+            "y_min": 0.3093,
+            "x_max": 0.8716,
+            "y_max": 0.5754,
+            "width": 0.3573,
+            "height": 0.2661
+          },
+          "confidence": 0.8385
+        },
+        {
+          "text": "Light absorbed",
+          "bbox": {
+            "x_min": 0.5423,
+            "y_min": 0.5827,
+            "x_max": 0.5593,
+            "y_max": 0.6714,
+            "width": 0.0169,
+            "height": 0.0887
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "Rate of photosynthesis\n(measured by O₂ release)",
+          "bbox": {
+            "x_min": 0.5295,
+            "y_min": 0.3745,
+            "x_max": 0.5657,
+            "y_max": 0.5197,
+            "width": 0.0362,
+            "height": 0.1452
+          },
+          "confidence": 0.9715
+        },
+        {
+          "text": "400",
+          "bbox": {
+            "x_min": 0.5639,
+            "y_min": 0.7112,
+            "x_max": 0.5972,
+            "y_max": 0.7185,
+            "width": 0.0333,
+            "height": 0.0073
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "-",
+          "bbox": {
+            "x_min": 0.6503,
+            "y_min": 0.56,
+            "x_max": 0.6667,
+            "y_max": 0.5621,
+            "width": 0.0163,
+            "height": 0.0021
+          },
+          "confidence": 0.8469
+        },
+        {
+          "text": "Rate of photosynthesis\nAbsorption",
+          "bbox": {
+            "x_min": 0.6813,
+            "y_min": 0.5561,
+            "x_max": 0.8646,
+            "y_max": 0.5805,
+            "width": 0.1833,
+            "height": 0.0244
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "500",
+          "bbox": {
+            "x_min": 0.6544,
+            "y_min": 0.7099,
+            "x_max": 0.6853,
+            "y_max": 0.7181,
+            "width": 0.0309,
+            "height": 0.0081
+          },
+          "confidence": 0.9973
+        },
+        {
+          "text": "600",
+          "bbox": {
+            "x_min": 0.7455,
+            "y_min": 0.7099,
+            "x_max": 0.777,
+            "y_max": 0.7177,
+            "width": 0.0315,
+            "height": 0.0077
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "700",
+          "bbox": {
+            "x_min": 0.8342,
+            "y_min": 0.7108,
+            "x_max": 0.8657,
+            "y_max": 0.7189,
+            "width": 0.0315,
+            "height": 0.0081
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "(c) Wavelength of light in nanometres (nm)",
+          "bbox": {
+            "x_min": 0.5324,
+            "y_min": 0.7177,
+            "x_max": 0.878,
+            "y_max": 0.7348,
+            "width": 0.3456,
+            "height": 0.0171
+          },
+          "confidence": 0.985
+        },
+        {
+          "text": "Now look at Figure 11.3b showing the\nwavelengths at which maximum photosynthesis\noccurs in a plant. Can you see that the\nwavelengths at which there is maximum\nabsorption by chlorophyll a, i.e., in the blue and\nthe red regions, also shows higher rate of\nphotosynthesis. Hence, we can conclude that\nchlorophyll a is the chief pigment associated\nwith photosynthesis. But by looking at Figure Figure 11.3b Graph showing action",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.6714,
+            "x_max": 0.8903,
+            "y_max": 0.8231,
+            "width": 0.8184,
+            "height": 0.1517
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "11.3c can you say that there is a complete one-\nto-one overlap between the absorption\nspectrum of chlorophyll a and the action\nspectrum of photosynthesis?",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.8265,
+            "x_max": 0.4799,
+            "y_max": 0.8916,
+            "width": 0.4069,
+            "height": 0.0651
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "Figure 11.3a Graph showing the absorption\nspectrum of chlorophyll a, b and\nthe carotenoids",
+          "bbox": {
+            "x_min": 0.5114,
+            "y_min": 0.7648,
+            "x_max": 0.8908,
+            "y_max": 0.8033,
+            "width": 0.3795,
+            "height": 0.0386
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "spectrum of photosynthesis\nFigure 11.3c Graph showing action\nspectrum of photosynthesis\nsuperimposed on absorption\nspectrum of chlorophyll a",
+          "bbox": {
+            "x_min": 0.5114,
+            "y_min": 0.8231,
+            "x_max": 0.8908,
+            "y_max": 0.8933,
+            "width": 0.3795,
+            "height": 0.0703
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "138",
+          "bbox": {
+            "x_min": 0.1185,
+            "y_min": 0.0835,
+            "x_max": 0.16,
+            "y_max": 0.093,
+            "width": 0.0414,
+            "height": 0.0094
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0689,
+            "height": 0.0094
+          },
+          "confidence": 0.9794
+        },
+        {
+          "text": "These graphs, together, show that most of the photosynthesis takes\nplace in the blue and red regions of the spectrum; some photosynthesis\ndoes take place at the other wavelengths of the visible spectrum. Let us\nsee how this happens. Though chlorophyll is the major pigment\nresponsible for trapping light, other thylakoid pigments like chlorophyll\nb, xanthophylls and carotenoids, which are called accessory pigments,\nalso absorb light and transfer the energy to chlorophyll a. Indeed, they\nnot only enable a wider range of wavelength of incoming light to be utilised\nfor photosyntesis but also protect chlorophyll a from photo-oxidation.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.1354,
+            "x_max": 0.927,
+            "y_max": 0.2918,
+            "width": 0.6252,
+            "height": 0.1564
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "11.5 WHAT IS LIGHT REACTION?",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.3179,
+            "x_max": 0.6386,
+            "y_max": 0.3308,
+            "width": 0.3351,
+            "height": 0.0129
+          },
+          "confidence": 0.9745
+        },
+        {
+          "text": "Primary acceptor",
+          "bbox": {
+            "x_min": 0.2201,
+            "y_min": 0.3912,
+            "x_max": 0.3573,
+            "y_max": 0.4023,
+            "width": 0.1372,
+            "height": 0.0111
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "Photon",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.4893,
+            "x_max": 0.1734,
+            "y_max": 0.4974,
+            "width": 0.0584,
+            "height": 0.0081
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "Reaction\ncentre",
+          "bbox": {
+            "x_min": 0.3403,
+            "y_min": 0.4859,
+            "x_max": 0.4116,
+            "y_max": 0.5073,
+            "width": 0.0712,
+            "height": 0.0214
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "Pigment",
+          "bbox": {
+            "x_min": 0.4127,
+            "y_min": 0.5463,
+            "x_max": 0.4781,
+            "y_max": 0.557,
+            "width": 0.0654,
+            "height": 0.0107
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "molecules",
+          "bbox": {
+            "x_min": 0.4127,
+            "y_min": 0.5604,
+            "x_max": 0.4915,
+            "y_max": 0.5686,
+            "width": 0.0788,
+            "height": 0.0081
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "Light reactions or the ‘Photochemical' phase\ninclude light absorption, water splitting, oxygen\nrelease, and the formation of high-energy\nchemical intermediates, ATP and NADPH.\nSeveral protein complexes are involved in the\nprocess. The pigments are organised into two\ndiscrete photochemical light harvesting\ncomplexes (LHC) within the Photosystem I (PS\nI) and Photosystem II (PS II). These are named\nin the sequence of their discovery, and not in the\nsequence in which they function during the light\nreaction. The LHC are made up of hundreds of\npigment molecules bound to proteins. Each\nphotosystem has all the pigments (except one\nmolecule of chlorophyll a) forming a light\nharvesting system also called antennae (Figure\n11.4). These pigments help to make\nphotosynthesis more efficient by absorbing",
+          "bbox": {
+            "x_min": 0.5143,
+            "y_min": 0.3548,
+            "x_max": 0.9276,
+            "y_max": 0.671,
+            "width": 0.4133,
+            "height": 0.3162
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "note",
+          "bbox": {
+            "x_min": 0.1851,
+            "y_min": 0.5771,
+            "x_max": 0.5055,
+            "y_max": 0.8175,
+            "width": 0.3205,
+            "height": 0.2404
+          },
+          "confidence": 0.9431
+        },
+        {
+          "text": "NCE",
+          "bbox": {
+            "x_min": 0.3695,
+            "y_min": 0.4554,
+            "x_max": 0.5347,
+            "y_max": 0.5703,
+            "width": 0.1652,
+            "height": 0.1148
+          },
+          "confidence": 0.7939
+        },
+        {
+          "text": "Figure 11.4 The light harvesting complex",
+          "bbox": {
+            "x_min": 0.122,
+            "y_min": 0.6337,
+            "x_max": 0.4764,
+            "y_max": 0.6457,
+            "width": 0.3543,
+            "height": 0.012
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "different wavelengths of light. The single chlorophyll a molecule forms the\nreaction centre. The reaction centre is different in both the photosystems.\nIn PS I the reaction centre chlorophyll a has an absorption peak at 700\nhence is called P700, while in PS II it has absorption maxima at 680\nnm, and is called P680.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.6757,
+            "x_max": 0.9264,
+            "y_max": 0.7588,
+            "width": 0.6241,
+            "height": 0.0831
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "11.6 THE ELECTRON TRANSPORT",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.7871,
+            "x_max": 0.6322,
+            "y_max": 0.7991,
+            "width": 0.3287,
+            "height": 0.012
+          },
+          "confidence": 0.9615
+        },
+        {
+          "text": "In photosystem II the reaction centre chlorophyll a absorbs 680 nm\nwavelength of red light causing electrons to become excited and jump\ninto an orbit farther from the atomic nucleus. These electrons are picked\nup by an electron acceptor which passes them to an electrons transport",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.8231,
+            "x_max": 0.9264,
+            "y_max": 0.889,
+            "width": 0.6252,
+            "height": 0.066
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "PHOTOSYNTHESIS IN HIGHER PLANTS",
+          "bbox": {
+            "x_min": 0.1156,
+            "y_min": 0.0827,
+            "x_max": 0.3853,
+            "y_max": 0.093,
+            "width": 0.2697,
+            "height": 0.0103
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "139",
+          "bbox": {
+            "x_min": 0.8465,
+            "y_min": 0.0831,
+            "x_max": 0.885,
+            "y_max": 0.093,
+            "width": 0.0385,
+            "height": 0.0099
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "Photosystem II Photosystem I",
+          "bbox": {
+            "x_min": 0.5417,
+            "y_min": 0.1508,
+            "x_max": 0.7951,
+            "y_max": 0.1628,
+            "width": 0.2534,
+            "height": 0.012
+          },
+          "confidence": 0.9846
+        },
+        {
+          "text": "Light (e acceptor",
+          "bbox": {
+            "x_min": 0.4939,
+            "y_min": 0.1979,
+            "x_max": 0.6386,
+            "y_max": 0.2112,
+            "width": 0.1448,
+            "height": 0.0133
+          },
+          "confidence": 0.9153
+        },
+        {
+          "text": "é acceptor",
+          "bbox": {
+            "x_min": 0.697,
+            "y_min": 0.1859,
+            "x_max": 0.7846,
+            "y_max": 0.1979,
+            "width": 0.0876,
+            "height": 0.012
+          },
+          "confidence": 0.9141
+        },
+        {
+          "text": "ADP+iP ATP",
+          "bbox": {
+            "x_min": 0.6421,
+            "y_min": 0.2155,
+            "x_max": 0.7373,
+            "y_max": 0.2224,
+            "width": 0.0952,
+            "height": 0.0069
+          },
+          "confidence": 0.9398
+        },
+        {
+          "text": "Electron\ntransport\nsystem",
+          "bbox": {
+            "x_min": 0.6433,
+            "y_min": 0.2468,
+            "x_max": 0.7145,
+            "y_max": 0.2845,
+            "width": 0.0712,
+            "height": 0.0377
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "system consisting of cytochromes (Figure\n11.5). This movement of electrons is downhill,\nin terms of an oxidation-reduction or redox\npotential scale. The electrons are not used up\nas they pass through the electron transport\nchain, but are passed on to the pigments of\nphotosystem PS I. Simultaneously, electrons\nin the reaction centre of PS I are also excited\nwhen they receive red light of wavelength 700\nnm and are transferred to another accepter\nmolecule that has a greater redox potential.\nThese electrons then are moved downhill again,\nthis time to a molecule of energy-rich NADP+.\nThe addition of these electrons reduces NADP+\nto NADPH + H+. This whole scheme of transfer\nof electrons, starting from the PS II, uphill to\nthe acceptor, down the electron transport chain\nto PS I, excitation of electrons, transfer to\nanother acceptor, and finally down hill to NADP+\nH+ is called the Z scheme, due to its characterstic shape (Figure 11.5).\nThis shape is formed when all the carriers are placed in a sequence on a\nredox potential scale.",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.135,
+            "x_max": 0.6976,
+            "y_max": 0.5231,
+            "width": 0.6264,
+            "height": 0.3882
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "11.6.1 Splitting of Water",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.5424,
+            "x_max": 0.3503,
+            "y_max": 0.557,
+            "width": 0.2755,
+            "height": 0.0146
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "LHC",
+          "bbox": {
+            "x_min": 0.5768,
+            "y_min": 0.3698,
+            "x_max": 0.6095,
+            "y_max": 0.3775,
+            "width": 0.0327,
+            "height": 0.0077
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "H2O",
+          "bbox": {
+            "x_min": 0.6643,
+            "y_min": 0.3869,
+            "x_max": 0.6994,
+            "y_max": 0.395,
+            "width": 0.035,
+            "height": 0.0081
+          },
+          "confidence": 0.9411
+        },
+        {
+          "text": "LHC",
+          "bbox": {
+            "x_min": 0.7262,
+            "y_min": 0.3278,
+            "x_max": 0.7601,
+            "y_max": 0.3355,
+            "width": 0.0339,
+            "height": 0.0077
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "►NADPH\n-NADP+",
+          "bbox": {
+            "x_min": 0.8231,
+            "y_min": 0.1872,
+            "x_max": 0.8943,
+            "y_max": 0.2172,
+            "width": 0.0712,
+            "height": 0.03
+          },
+          "confidence": 0.8875
+        },
+        {
+          "text": "+ [O]",
+          "bbox": {
+            "x_min": 0.812,
+            "y_min": 0.3843,
+            "x_max": 0.8459,
+            "y_max": 0.3959,
+            "width": 0.0339,
+            "height": 0.0116
+          },
+          "confidence": 0.9595
+        },
+        {
+          "text": "reducing it to Nar scheme of tested",
+          "bbox": {
+            "x_min": 0.4688,
+            "y_min": 0.3059,
+            "x_max": 0.899,
+            "y_max": 0.4867,
+            "width": 0.4302,
+            "height": 0.1808
+          },
+          "confidence": 0.6363
+        },
+        {
+          "text": "Figure 11.5 Z reaction",
+          "bbox": {
+            "x_min": 0.5248,
+            "y_min": 0.425,
+            "x_max": 0.8511,
+            "y_max": 0.437,
+            "width": 0.3263,
+            "height": 0.012
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "* reducing it to NADPH +",
+          "bbox": {
+            "x_min": 0.4886,
+            "y_min": 0.4567,
+            "x_max": 0.6976,
+            "y_max": 0.4696,
+            "width": 0.209,
+            "height": 0.0129
+          },
+          "confidence": 0.9607
+        },
+        {
+          "text": "e placed",
+          "bbox": {
+            "x_min": 0.4606,
+            "y_min": 0.4889,
+            "x_max": 0.5353,
+            "y_max": 0.5099,
+            "width": 0.0747,
+            "height": 0.021
+          },
+          "confidence": 0.9466
+        },
+        {
+          "text": "NC",
+          "bbox": {
+            "x_min": 0.3754,
+            "y_min": 0.4846,
+            "x_max": 0.4956,
+            "y_max": 0.5668,
+            "width": 0.1203,
+            "height": 0.0823
+          },
+          "confidence": 0.7221
+        },
+        {
+          "text": "You would then ask, How does PS II supply electrons continuously?The\nelectrons that were moved from photosystem II must be replaced. This is\nachieved by electrons available due to splitting of water. The splitting of\nwater is associated with the PS II; water is split into 2H+, [O] and electrons.\nThis creates oxygen, one of the net products of photosynthesis. The\nelectrons needed to replace those removed from photosystem I are provided\nby photosystem II.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.5694,
+            "x_max": 0.6988,
+            "y_max": 0.6894,
+            "width": 0.6264,
+            "height": 0.12
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "2H2O",
+          "bbox": {
+            "x_min": 0.2715,
+            "y_min": 0.7069,
+            "x_max": 0.317,
+            "y_max": 0.7215,
+            "width": 0.0455,
+            "height": 0.0146
+          },
+          "confidence": 0.7862
+        },
+        {
+          "text": "→4H+ + O2 +4e¯",
+          "bbox": {
+            "x_min": 0.3485,
+            "y_min": 0.7069,
+            "x_max": 0.4985,
+            "y_max": 0.7211,
+            "width": 0.15,
+            "height": 0.0141
+          },
+          "confidence": 0.7918
+        },
+        {
+          "text": "We need to emphasise here that the water splitting complex is associated\nwith the PS II, which itself is physically located on the inner side of the\nmembrane of the thylakoid. Then, where are the protons and O₂formed\nlikely to be released – in the lumen? or on the outer side of the membrane?",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.7356,
+            "x_max": 0.6988,
+            "y_max": 0.8025,
+            "width": 0.6264,
+            "height": 0.0668
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "11.6.2 Cyclic and Non-cyclic Photo-phosphorylation",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.8205,
+            "x_max": 0.648,
+            "y_max": 0.8355,
+            "width": 0.5733,
+            "height": 0.015
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "Living organisms have the capability of extracting energy from oxidisable\nsubstances and store this in the form of bond energy. Special substances like\nATP, carry this energy in their chemical bonds. The process through which",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.8479,
+            "x_max": 0.697,
+            "y_max": 0.8972,
+            "width": 0.6252,
+            "height": 0.0493
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "140",
+          "bbox": {
+            "x_min": 0.1197,
+            "y_min": 0.084,
+            "x_max": 0.1576,
+            "y_max": 0.093,
+            "width": 0.0379,
+            "height": 0.009
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0683,
+            "height": 0.009
+          },
+          "confidence": 0.9811
+        },
+        {
+          "text": "Light",
+          "bbox": {
+            "x_min": 0.1179,
+            "y_min": 0.2215,
+            "x_max": 0.1588,
+            "y_max": 0.2344,
+            "width": 0.0409,
+            "height": 0.0129
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "ADP+iP ATP",
+          "bbox": {
+            "x_min": 0.2259,
+            "y_min": 0.2284,
+            "x_max": 0.2662,
+            "y_max": 0.2875,
+            "width": 0.0403,
+            "height": 0.0591
+          },
+          "confidence": 0.9535
+        },
+        {
+          "text": "Photosystem I",
+          "bbox": {
+            "x_min": 0.3269,
+            "y_min": 0.153,
+            "x_max": 0.439,
+            "y_max": 0.1637,
+            "width": 0.1121,
+            "height": 0.0107
+          },
+          "confidence": 0.986
+        },
+        {
+          "text": "e- acceptor",
+          "bbox": {
+            "x_min": 0.3398,
+            "y_min": 0.1984,
+            "x_max": 0.4262,
+            "y_max": 0.2082,
+            "width": 0.0864,
+            "height": 0.0099
+          },
+          "confidence": 0.9394
+        },
+        {
+          "text": "Electron\ntransport\nsystem",
+          "bbox": {
+            "x_min": 0.2773,
+            "y_min": 0.2691,
+            "x_max": 0.3508,
+            "y_max": 0.3072,
+            "width": 0.0736,
+            "height": 0.0381
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "Chlorophyll",
+          "bbox": {
+            "x_min": 0.338,
+            "y_min": 0.3496,
+            "x_max": 0.4326,
+            "y_max": 0.3616,
+            "width": 0.0946,
+            "height": 0.012
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "P 700",
+          "bbox": {
+            "x_min": 0.3596,
+            "y_min": 0.365,
+            "x_max": 0.4057,
+            "y_max": 0.3723,
+            "width": 0.0461,
+            "height": 0.0073
+          },
+          "confidence": 0.9401
+        },
+        {
+          "text": "Figure 11.6 Cyclic photophosphorylation",
+          "bbox": {
+            "x_min": 0.1267,
+            "y_min": 0.3985,
+            "x_max": 0.4775,
+            "y_max": 0.4105,
+            "width": 0.3508,
+            "height": 0.012
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "ATP is synthesised by cells (in mitochondria and\nchloroplasts) is named phosphorylation. Photo-\nphosphorylation is the synthesis of ATP from\nADP and inorganic phosphate in the presence of\nlight. When the two photosystems work in a\nseries, first PS II and then the PSI, a process called\nnon-cyclic photo-phosphorylation occurs. The\ntwo photosystems are connected through an\nelectron transport chain, as seen earlier-in the\nZ scheme. Both ATP and NADPH + H+ are\nsynthesised by this kind of electron flow (Figure\n11.5).",
+          "bbox": {
+            "x_min": 0.5201,
+            "y_min": 0.1345,
+            "x_max": 0.9282,
+            "y_max": 0.3423,
+            "width": 0.4081,
+            "height": 0.2078
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "When only PS I is functional, the electron is\ncirculated within the photosystem and the\nphosphorylation occurs due to cyclic flow of\nelectrons (Figure 11.6). A possible location\nwhere this could be happening is in the stroma",
+          "bbox": {
+            "x_min": 0.5207,
+            "y_min": 0.3483,
+            "x_max": 0.9288,
+            "y_max": 0.4332,
+            "width": 0.4081,
+            "height": 0.0848
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "lamellae. While the membrane or lamellae of the grana have both PS I\nand PS II the stroma lamellae membranes lack PS II as well as NADP\nreductase enzyme. The excited electron does not pass on to NADP+ but is\ncycled back to the PS I complex through the electron transport chain\n(Figure 11.6). The cyclic flow hence, results only in the synthesis of ATP,\nbut not of NADPH + H+. Cyclic photophosphorylation also occurs when\nonly light of wavelengths beyond 680 nm are available for excitation.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.4374,
+            "x_max": 0.9264,
+            "y_max": 0.5578,
+            "width": 0.6246,
+            "height": 0.1204
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "11.6.3 Chemiosmotic Hypothesis",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.5767,
+            "x_max": 0.6684,
+            "y_max": 0.5913,
+            "width": 0.3643,
+            "height": 0.0146
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "Let us now try and understand how actually ATP is synthesised in the\nchloroplast. The chemiosmotic hypothesis has been put forward to explain\nthe mechanism. Like in respiration, in photosynthesis too, ATP synthesis is\nlinked to development of a proton gradient across a membrane. This time\nthese are the membranes of thylakoid. There is one difference though, here\nthe proton accumulation is towards the inside of the membrane, i.e., in the\nlumen. In respiration, protons accumulate in the intermembrane space of\nthe mitochondria when electrons move through the ETS (Chapter 12).",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.6071,
+            "x_max": 0.9282,
+            "y_max": 0.7494,
+            "width": 0.6264,
+            "height": 0.1422
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1944,
+            "y_min": 0.7082,
+            "x_max": 0.3257,
+            "y_max": 0.8153,
+            "width": 0.1313,
+            "height": 0.1071
+          },
+          "confidence": 0.9727
+        },
+        {
+          "text": "Let us understand what causes the proton gradient across the\nmembrane. We need to consider again the processes that take place during\nthe activation of electrons and their transport to determine the steps that\ncause a proton gradient to develop (Figure 11.7).",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.7545,
+            "x_max": 0.927,
+            "y_max": 0.8231,
+            "width": 0.6246,
+            "height": 0.0686
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "(a) Since splitting of the water molecule takes place on the inner side of\nthe membrane, the protons or hydrogen ions that are produced by\nthe splitting of water accumulate within the lumen of the thylakoids.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.8333,
+            "x_max": 0.9276,
+            "y_max": 0.8839,
+            "width": 0.6252,
+            "height": 0.0506
+          },
+          "confidence": 0.9969
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "PHOTOSYNTHESIS IN HIGHER PLANTS",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.0827,
+            "x_max": 0.3853,
+            "y_max": 0.0925,
+            "width": 0.2709,
+            "height": 0.0099
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "Stroma (low H)",
+          "bbox": {
+            "x_min": 0.1372,
+            "y_min": 0.1332,
+            "x_max": 0.2411,
+            "y_max": 0.144,
+            "width": 0.1039,
+            "height": 0.0107
+          },
+          "confidence": 0.9477
+        },
+        {
+          "text": "Thylakoid\nmembrane",
+          "bbox": {
+            "x_min": 0.1302,
+            "y_min": 0.3852,
+            "x_max": 0.2049,
+            "y_max": 0.4057,
+            "width": 0.0747,
+            "height": 0.0206
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "SI Light",
+          "bbox": {
+            "x_min": 0.2446,
+            "y_min": 0.1534,
+            "x_max": 0.2919,
+            "y_max": 0.1637,
+            "width": 0.0473,
+            "height": 0.0103
+          },
+          "confidence": 0.9643
+        },
+        {
+          "text": "H+",
+          "bbox": {
+            "x_min": 0.3444,
+            "y_min": 0.1478,
+            "x_max": 0.366,
+            "y_max": 0.1581,
+            "width": 0.0216,
+            "height": 0.0103
+          },
+          "confidence": 0.7209
+        },
+        {
+          "text": "Light",
+          "bbox": {
+            "x_min": 0.5972,
+            "y_min": 0.1637,
+            "x_max": 0.6357,
+            "y_max": 0.174,
+            "width": 0.0385,
+            "height": 0.0103
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "P680\nPS II",
+          "bbox": {
+            "x_min": 0.2738,
+            "y_min": 0.1885,
+            "x_max": 0.31,
+            "y_max": 0.2069,
+            "width": 0.0362,
+            "height": 0.0184
+          },
+          "confidence": 0.9794
+        },
+        {
+          "text": "Cytochrome\nB6f",
+          "bbox": {
+            "x_min": 0.4466,
+            "y_min": 0.1735,
+            "x_max": 0.5306,
+            "y_max": 0.1919,
+            "width": 0.0841,
+            "height": 0.0184
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "POH",
+          "bbox": {
+            "x_min": 0.3736,
+            "y_min": 0.2044,
+            "x_max": 0.3964,
+            "y_max": 0.2112,
+            "width": 0.0228,
+            "height": 0.0069
+          },
+          "confidence": 0.7573
+        },
+        {
+          "text": "Plastoquinone",
+          "bbox": {
+            "x_min": 0.3427,
+            "y_min": 0.2117,
+            "x_max": 0.4413,
+            "y_max": 0.2408,
+            "width": 0.0987,
+            "height": 0.0291
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "H",
+          "bbox": {
+            "x_min": 0.4717,
+            "y_min": 0.2314,
+            "x_max": 0.4898,
+            "y_max": 0.2408,
+            "width": 0.0181,
+            "height": 0.0094
+          },
+          "confidence": 0.9299
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.4869,
+            "y_min": 0.2305,
+            "x_max": 0.4945,
+            "y_max": 0.2344,
+            "width": 0.0076,
+            "height": 0.0039
+          },
+          "confidence": 0.9282
+        },
+        {
+          "text": "PC",
+          "bbox": {
+            "x_min": 0.5809,
+            "y_min": 0.2181,
+            "x_max": 0.6036,
+            "y_max": 0.2262,
+            "width": 0.0228,
+            "height": 0.0081
+          },
+          "confidence": 0.9549
+        },
+        {
+          "text": "Plastocyanin",
+          "bbox": {
+            "x_min": 0.5417,
+            "y_min": 0.2284,
+            "x_max": 0.6241,
+            "y_max": 0.2515,
+            "width": 0.0823,
+            "height": 0.0231
+          },
+          "confidence": 0.9803
+        },
+        {
+          "text": "NADP+H NADPH",
+          "bbox": {
+            "x_min": 0.6521,
+            "y_min": 0.141,
+            "x_max": 0.7782,
+            "y_max": 0.1508,
+            "width": 0.1261,
+            "height": 0.0099
+          },
+          "confidence": 0.9477
+        },
+        {
+          "text": "FNR\nFd",
+          "bbox": {
+            "x_min": 0.6853,
+            "y_min": 0.1684,
+            "x_max": 0.7262,
+            "y_max": 0.1872,
+            "width": 0.0409,
+            "height": 0.0189
+          },
+          "confidence": 0.9478
+        },
+        {
+          "text": "P700\nPS I",
+          "bbox": {
+            "x_min": 0.6789,
+            "y_min": 0.1997,
+            "x_max": 0.7192,
+            "y_max": 0.2241,
+            "width": 0.0403,
+            "height": 0.0244
+          },
+          "confidence": 0.9647
+        },
+        {
+          "text": "H₂O\nOxidation\nof water",
+          "bbox": {
+            "x_min": 0.2545,
+            "y_min": 0.2699,
+            "x_max": 0.3222,
+            "y_max": 0.3038,
+            "width": 0.0677,
+            "height": 0.0338
+          },
+          "confidence": 0.9575
+        },
+        {
+          "text": "O+ H",
+          "bbox": {
+            "x_min": 0.3263,
+            "y_min": 0.2716,
+            "x_max": 0.3684,
+            "y_max": 0.2793,
+            "width": 0.042,
+            "height": 0.0077
+          },
+          "confidence": 0.7934
+        },
+        {
+          "text": "H",
+          "bbox": {
+            "x_min": 0.4828,
+            "y_min": 0.3089,
+            "x_max": 0.4974,
+            "y_max": 0.3153,
+            "width": 0.0146,
+            "height": 0.0064
+          },
+          "confidence": 0.7582
+        },
+        {
+          "text": "H",
+          "bbox": {
+            "x_min": 0.5406,
+            "y_min": 0.3286,
+            "x_max": 0.5563,
+            "y_max": 0.3355,
+            "width": 0.0158,
+            "height": 0.0069
+          },
+          "confidence": 0.9182
+        },
+        {
+          "text": "H",
+          "bbox": {
+            "x_min": 0.4238,
+            "y_min": 0.3329,
+            "x_max": 0.4407,
+            "y_max": 0.3398,
+            "width": 0.0169,
+            "height": 0.0069
+          },
+          "confidence": 0.7371
+        },
+        {
+          "text": "H'",
+          "bbox": {
+            "x_min": 0.4816,
+            "y_min": 0.359,
+            "x_max": 0.4997,
+            "y_max": 0.3676,
+            "width": 0.0181,
+            "height": 0.0086
+          },
+          "confidence": 0.6692
+        },
+        {
+          "text": "CR",
+          "bbox": {
+            "x_min": 0.5312,
+            "y_min": 0.3796,
+            "x_max": 0.5528,
+            "y_max": 0.3869,
+            "width": 0.0216,
+            "height": 0.0073
+          },
+          "confidence": 0.9078
+        },
+        {
+          "text": "High\nElectrochemical",
+          "bbox": {
+            "x_min": 0.331,
+            "y_min": 0.3483,
+            "x_max": 0.4425,
+            "y_max": 0.377,
+            "width": 0.1115,
+            "height": 0.0287
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "Potential\nGradient",
+          "bbox": {
+            "x_min": 0.352,
+            "y_min": 0.3723,
+            "x_max": 0.4174,
+            "y_max": 0.3967,
+            "width": 0.0654,
+            "height": 0.0244
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "Stroma",
+          "bbox": {
+            "x_min": 0.2563,
+            "y_min": 0.4362,
+            "x_max": 0.3071,
+            "y_max": 0.4439,
+            "width": 0.0508,
+            "height": 0.0077
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "Low",
+          "bbox": {
+            "x_min": 0.3508,
+            "y_min": 0.4409,
+            "x_max": 0.3824,
+            "y_max": 0.452,
+            "width": 0.0315,
+            "height": 0.0111
+          },
+          "confidence": 0.9557
+        },
+        {
+          "text": "ATP",
+          "bbox": {
+            "x_min": 0.481,
+            "y_min": 0.449,
+            "x_max": 0.4956,
+            "y_max": 0.4542,
+            "width": 0.0146,
+            "height": 0.0051
+          },
+          "confidence": 0.9419
+        },
+        {
+          "text": "synthase",
+          "bbox": {
+            "x_min": 0.4746,
+            "y_min": 0.4559,
+            "x_max": 0.5026,
+            "y_max": 0.4644,
+            "width": 0.028,
+            "height": 0.0086
+          },
+          "confidence": 0.9288
+        },
+        {
+          "text": "ADP + P",
+          "bbox": {
+            "x_min": 0.425,
+            "y_min": 0.4859,
+            "x_max": 0.4834,
+            "y_max": 0.4931,
+            "width": 0.0584,
+            "height": 0.0073
+          },
+          "confidence": 0.9723
+        },
+        {
+          "text": "ATP",
+          "bbox": {
+            "x_min": 0.5178,
+            "y_min": 0.4863,
+            "x_max": 0.5482,
+            "y_max": 0.4931,
+            "width": 0.0304,
+            "height": 0.0069
+          },
+          "confidence": 0.9132
+        },
+        {
+          "text": "H",
+          "bbox": {
+            "x_min": 0.4898,
+            "y_min": 0.497,
+            "x_max": 0.5085,
+            "y_max": 0.5047,
+            "width": 0.0187,
+            "height": 0.0077
+          },
+          "confidence": 0.6539
+        },
+        {
+          "text": "Lumen\n(high H')",
+          "bbox": {
+            "x_min": 0.6445,
+            "y_min": 0.3453,
+            "x_max": 0.7029,
+            "y_max": 0.3685,
+            "width": 0.0584,
+            "height": 0.0231
+          },
+          "confidence": 0.9454
+        },
+        {
+          "text": "141",
+          "bbox": {
+            "x_min": 0.8482,
+            "y_min": 0.084,
+            "x_max": 0.8832,
+            "y_max": 0.093,
+            "width": 0.035,
+            "height": 0.009
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "ublished",
+          "bbox": {
+            "x_min": 0.5744,
+            "y_min": 0.3081,
+            "x_max": 0.8733,
+            "y_max": 0.5257,
+            "width": 0.2989,
+            "height": 0.2177
+          },
+          "confidence": 0.9145
+        },
+        {
+          "text": "CR",
+          "bbox": {
+            "x_min": 0.575,
+            "y_min": 0.4554,
+            "x_max": 0.5954,
+            "y_max": 0.4632,
+            "width": 0.0204,
+            "height": 0.0077
+          },
+          "confidence": 0.8155
+        },
+        {
+          "text": "Figure 11.7 ATP synthesis through chemiosmosis",
+          "bbox": {
+            "x_min": 0.272,
+            "y_min": 0.5141,
+            "x_max": 0.6959,
+            "y_max": 0.5261,
+            "width": 0.4238,
+            "height": 0.012
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "(b) As electrons move through the photosystems, protons are transported\nacross the membrane. This happens because the primary accepter of\nelectron which is located towards the outer side of the membrane\ntransfers its electron not to an electron carrier but to an H carrier.\nHence, this molecule removes a proton from the stroma while\ntransporting an electron. When this molecule passes on its electron\nto the electron carrier on the inner side of the membrane, the proton\nis released into the inner side or the lumen side of the membrane.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.5463,
+            "x_max": 0.6982,
+            "y_max": 0.6812,
+            "width": 0.6252,
+            "height": 0.135
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "(c) The NADP reductase enzyme is located on the stroma side of the\nmembrane. Along with electrons that come from the acceptor of\nelectrons of PS I, protons are necessary for the reduction of NADP+ to\nNADPH+ H+. These protons are also removed from the stroma.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.6967,
+            "x_max": 0.6982,
+            "y_max": 0.7626,
+            "width": 0.6252,
+            "height": 0.066
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "Hence, within the chloroplast, protons in the stroma decrease in\nnumber, while in the lumen there is accumulation of protons. This creates\na proton gradient across the thylakoid membrane as well as a measurable\ndecrease in pH in the lumen.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.7759,
+            "x_max": 0.697,
+            "y_max": 0.8415,
+            "width": 0.6241,
+            "height": 0.0656
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "Why are we so interested in the proton gradient? This gradient is\nimportant because it is the breakdown of this gradient that leads to the\nsynthesis of ATP. The gradient is broken down due to the movement of\nprotons across the membrane to the stroma through the transmembrane",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.8453,
+            "x_max": 0.6976,
+            "y_max": 0.9062,
+            "width": 0.6252,
+            "height": 0.0608
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "142",
+          "bbox": {
+            "x_min": 0.1208,
+            "y_min": 0.084,
+            "x_max": 0.157,
+            "y_max": 0.093,
+            "width": 0.0362,
+            "height": 0.009
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0689,
+            "height": 0.0094
+          },
+          "confidence": 0.9794
+        },
+        {
+          "text": "0",
+          "bbox": {
+            "x_min": 0.5639,
+            "y_min": 0.1628,
+            "x_max": 0.5715,
+            "y_max": 0.1675,
+            "width": 0.0076,
+            "height": 0.0047
+          },
+          "confidence": 0.9566
+        },
+        {
+          "text": "channel of the CF of the ATP synthase. The ATP synthase enzyme consists\nof two parts: one called the CF is embedded in the thylakoid membrane\nand forms a transmembrane channel that carries out facilitated diffusion\nof protons across the membrane. The other portion is called CF₁ and\nprotrudes on the outer surface of the thylakoid membrane on the side\nthat faces the stroma. The break down of the gradient provides enough\nenergy to cause a conformational change in the CF, particle of the ATP\nsynthase, which makes the enzyme synthesise several molecules of energy-\npacked ATP.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.1354,
+            "x_max": 0.9276,
+            "y_max": 0.2909,
+            "width": 0.6258,
+            "height": 0.1555
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "Chemiosmosis requires a membrane, a proton pump, a proton\ngradient and ATP synthase. Energy is used to pump protons across a\nmembrane, to create a gradient or a high concentration of protons within\nthe thylakoid lumen. ATP synthase has a channel that allows diffusion of\nprotons back across the membrane; this releases enough energy to activate\nATP synthase enzyme that catalyses the formation of ATP.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.2961,
+            "x_max": 0.9282,
+            "y_max": 0.3985,
+            "width": 0.627,
+            "height": 0.1024
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "Along with the NADPH produced by the movement of electrons, the\nATP will be used immediately in the biosynthetic reaction taking place in\nthe stroma, responsible for fixing CO₂, and synthesis of sugars.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.4027,
+            "x_max": 0.9264,
+            "y_max": 0.4529,
+            "width": 0.6252,
+            "height": 0.0501
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "11.7 WHERE ARE THE ATP AND NADPH USED?",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.4786,
+            "x_max": 0.7933,
+            "y_max": 0.4914,
+            "width": 0.4898,
+            "height": 0.0129
+          },
+          "confidence": 0.9624
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.3654,
+            "y_min": 0.5407,
+            "x_max": 0.3748,
+            "y_max": 0.5458,
+            "width": 0.0093,
+            "height": 0.0051
+          },
+          "confidence": 0.9725
+        },
+        {
+          "text": "RE THE",
+          "bbox": {
+            "x_min": 0.4635,
+            "y_min": 0.4764,
+            "x_max": 0.5277,
+            "y_max": 0.4944,
+            "width": 0.0642,
+            "height": 0.018
+          },
+          "confidence": 0.958
+        },
+        {
+          "text": "We learnt that the products of light reaction are ATP, NADPH and O2. Of\nthese O, diffuses out of the chloroplast while ATP and NADPH are used to\ndrive the processes leading to the synthesis of food, more accurately, sugars.\nThis is the biosynthetic phase of photosynthesis. This process does not\ndirectly depend on the presence of light but is dependent on the products\nof the light reaction, i.e., ATP and NADPH, besides CO2 and H2O. You may\nwonder how this could be verified; it is simple: immediately after light\nbecomes unavailable, the biosynthetic process continues for some time,\nand then stops. If then, light is made available, the synthesis starts again.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.5146,
+            "x_max": 0.9276,
+            "y_max": 0.6654,
+            "width": 0.6258,
+            "height": 0.1508
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "Can we, hence, say that calling the biosynthetic phase as the dark\nreaction is a misnomer? Discuss this amongst yourselves.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.6697,
+            "x_max": 0.9282,
+            "y_max": 0.7005,
+            "width": 0.6258,
+            "height": 0.0308
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "Let us now see how the ATP and NADPH are used in the biosynthetic\nphase. We saw earlier that CO, is combined with H₂O to produce (CH₂O)円\nor sugars. It was of interest to scientists to find out how this reaction\nproceeded, or rather what was the first product formed when CO₂ is taken\ninto a reaction or fixed. Just after world war II, among the several efforts\nto put radioisotopes to beneficial use, the work of Melvin Calvin is\nexemplary. The use of radioactive 14C by him in algal photosynthesis\nstudies led to the discovery that the first CO₂ fixation product was a\n3-carbon organic acid. He also contributed to working out the complete\nbiosynthetic pathway; hence it was called Calvin cycle after him. The\nfirst product identified was 3-phosphoglyceric acid or in short PGA.\nHow many carbon atoms does it have?",
+          "bbox": {
+            "x_min": 0.2919,
+            "y_min": 0.7035,
+            "x_max": 0.9264,
+            "y_max": 0.907,
+            "width": 0.6346,
+            "height": 0.2035
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.7087,
+            "y_min": 0.8333,
+            "x_max": 0.718,
+            "y_max": 0.8393,
+            "width": 0.0093,
+            "height": 0.006
+          },
+          "confidence": 0.9676
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "PHOTOSYNTHESIS IN HIGHER PLANTS",
+          "bbox": {
+            "x_min": 0.1156,
+            "y_min": 0.0827,
+            "x_max": 0.3853,
+            "y_max": 0.093,
+            "width": 0.2697,
+            "height": 0.0103
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "ished",
+          "bbox": {
+            "x_min": 0.6731,
+            "y_min": 0.3063,
+            "x_max": 0.8722,
+            "y_max": 0.4537,
+            "width": 0.1991,
+            "height": 0.1474
+          },
+          "confidence": 0.9154
+        },
+        {
+          "text": "Scientists also tried to know whether all plants have PGA as the first\nproduct of CO2 fixation, or whether any other product was formed in\nother plants. Experiments conducted over a wide range of plants led to\nthe discovery of another group of plants, where the first stable product of\nCO, fixation was again an organic acid, but one which had 4 carbon\natoms in it. This acid was identified to be oxaloacetic acid or OAA. Since",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.1354,
+            "x_max": 0.6982,
+            "y_max": 0.2352,
+            "width": 0.6252,
+            "height": 0.0998
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "then CO₂ assimilation during photosynthesis was said to be of two main\ntypes: those plants in which the first product of CO2 fixation is a C3 acid\n(PGA), i.e., the C₃ pathway, and those in which the first product was a C₁\nacid (OAA), i.e., the C₁ pathway. These two groups of plants showed\nother associated characteristics that we will discuss later.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.2425,
+            "x_max": 0.697,
+            "y_max": 0.3248,
+            "width": 0.6246,
+            "height": 0.0823
+          },
+          "confidence": 0.9764
+        },
+        {
+          "text": "11.7.1 The Primary Acceptor of CO₂",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.3462,
+            "x_max": 0.4717,
+            "y_max": 0.3629,
+            "width": 0.397,
+            "height": 0.0167
+          },
+          "confidence": 0.9783
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.4641,
+            "y_min": 0.3573,
+            "x_max": 0.4752,
+            "y_max": 0.3625,
+            "width": 0.0111,
+            "height": 0.0051
+          },
+          "confidence": 0.9723
+        },
+        {
+          "text": "Let us now ask ourselves a question that was asked by the scientists who\nwere struggling to understand the ‘dark reaction'. How many carbon atoms\nwould a molecule have which after accepting (fixing) CO₂, would have 3\ncarbons (of PGA)?",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.3728,
+            "x_max": 0.697,
+            "y_max": 0.4392,
+            "width": 0.6246,
+            "height": 0.0664
+          },
+          "confidence": 0.9859
+        },
+        {
+          "text": "The studies very unexpectedly showed that the acceptor molecule\nwas a 5-carbon ketose sugar – ribulose bisphosphate (RuBP). Did any\nof you think of this possibility? Do not worry; the scientists also took\na long time and conducted many experiments to reach this conclusion.\nThey also believed that since the first product was a C₃ acid, the primary\nacceptor would be a 2-carbon compound; they spent many years trying\nto identify a 2-carbon compound before they discovered the 5-carbon\nRuBP.",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.4439,
+            "x_max": 0.6976,
+            "y_max": 0.5797,
+            "width": 0.6264,
+            "height": 0.1358
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "11.7.2 The Calvin Cycle",
+          "bbox": {
+            "x_min": 0.0753,
+            "y_min": 0.6011,
+            "x_max": 0.3368,
+            "y_max": 0.6157,
+            "width": 0.2615,
+            "height": 0.0146
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "e",
+          "bbox": {
+            "x_min": 0.4355,
+            "y_min": 0.5921,
+            "x_max": 0.5061,
+            "y_max": 0.6371,
+            "width": 0.0706,
+            "height": 0.045
+          },
+          "confidence": 0.8473
+        },
+        {
+          "text": "the whole",
+          "bbox": {
+            "x_min": 0.4343,
+            "y_min": 0.6264,
+            "x_max": 0.5143,
+            "y_max": 0.6392,
+            "width": 0.08,
+            "height": 0.0129
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "Calvin and his co-workers then worked out the whole pathway and showed\nthat the pathway operated in a cyclic manner; the RuBP was regenerated.\nLet us now see how the Calvin pathway operates and where the sugar is\nsynthesised. Let us at the outset understand very clearly that the Calvin\npathway occurs in all photosynthetic plants; it does not matter whether\nthey have C, or C4 (or any other) pathways (Figure 11.8).",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.6285,
+            "x_max": 0.697,
+            "y_max": 0.7326,
+            "width": 0.6241,
+            "height": 0.1041
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "For ease of understanding, the Calvin cycle can be described under\nthree stages: carboxylation, reduction and regeneration.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.7352,
+            "x_max": 0.697,
+            "y_max": 0.7669,
+            "width": 0.6241,
+            "height": 0.0317
+          },
+          "confidence": 0.9975
+        },
+        {
+          "text": "1. Carboxylation – Carboxylation is the fixation of CO2 into a stable organic\nintermediate. Carboxylation is the most crucial step of the Calvin cycle\nwhere CO₂ is utilised for the carboxylation of RuBP. This reaction is\ncatalysed by the enzyme RuBP carboxylase which results in the formation\nof two molecules of 3-PGA. Since this enzyme also has an oxygenation\nactivity it would be more correct to call it RuBP carboxylase-oxygenase\nor RuBisCO.",
+          "bbox": {
+            "x_min": 0.0753,
+            "y_min": 0.7793,
+            "x_max": 0.6976,
+            "y_max": 0.8963,
+            "width": 0.6223,
+            "height": 0.117
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "4",
+          "bbox": {
+            "x_min": 0.6888,
+            "y_min": 0.2879,
+            "x_max": 0.6988,
+            "y_max": 0.2931,
+            "width": 0.0099,
+            "height": 0.0051
+          },
+          "confidence": 0.9682
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "143",
+          "bbox": {
+            "x_min": 0.8465,
+            "y_min": 0.0835,
+            "x_max": 0.8844,
+            "y_max": 0.093,
+            "width": 0.0379,
+            "height": 0.0094
+          },
+          "confidence": 0.9919
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "144",
+          "bbox": {
+            "x_min": 0.1203,
+            "y_min": 0.084,
+            "x_max": 0.1582,
+            "y_max": 0.093,
+            "width": 0.0379,
+            "height": 0.009
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "ADP",
+          "bbox": {
+            "x_min": 0.2271,
+            "y_min": 0.2682,
+            "x_max": 0.2627,
+            "y_max": 0.2759,
+            "width": 0.0356,
+            "height": 0.0077
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "Regeneration",
+          "bbox": {
+            "x_min": 0.2288,
+            "y_min": 0.3556,
+            "x_max": 0.3398,
+            "y_max": 0.3655,
+            "width": 0.1109,
+            "height": 0.0099
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "ATP",
+          "bbox": {
+            "x_min": 0.2294,
+            "y_min": 0.4503,
+            "x_max": 0.2639,
+            "y_max": 0.458,
+            "width": 0.0344,
+            "height": 0.0077
+          },
+          "confidence": 0.8393
+        },
+        {
+          "text": "3",
+          "bbox": {
+            "x_min": 0.3637,
+            "y_min": 0.3659,
+            "x_max": 0.3795,
+            "y_max": 0.3736,
+            "width": 0.0158,
+            "height": 0.0077
+          },
+          "confidence": 0.9696
+        },
+        {
+          "text": "Atmosphere",
+          "bbox": {
+            "x_min": 0.6346,
+            "y_min": 0.1375,
+            "x_max": 0.7426,
+            "y_max": 0.1482,
+            "width": 0.108,
+            "height": 0.0107
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "Ribulose-1,5-\nbisphosphate",
+          "bbox": {
+            "x_min": 0.4308,
+            "y_min": 0.1919,
+            "x_max": 0.5447,
+            "y_max": 0.2172,
+            "width": 0.1138,
+            "height": 0.0253
+          },
+          "confidence": 0.9821
+        },
+        {
+          "text": "CO₂ + H₂O",
+          "bbox": {
+            "x_min": 0.627,
+            "y_min": 0.1872,
+            "x_max": 0.7075,
+            "y_max": 0.2001,
+            "width": 0.0806,
+            "height": 0.0129
+          },
+          "confidence": 0.7714
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.648,
+            "y_min": 0.1945,
+            "x_max": 0.6573,
+            "y_max": 0.1992,
+            "width": 0.0093,
+            "height": 0.0047
+          },
+          "confidence": 0.9709
+        },
+        {
+          "text": "1 Carboxylation",
+          "bbox": {
+            "x_min": 0.5598,
+            "y_min": 0.2442,
+            "x_max": 0.7151,
+            "y_max": 0.2601,
+            "width": 0.1553,
+            "height": 0.0159
+          },
+          "confidence": 0.9364
+        },
+        {
+          "text": "© NCERT",
+          "bbox": {
+            "x_min": 0.3001,
+            "y_min": 0.398,
+            "x_max": 0.6118,
+            "y_max": 0.6208,
+            "width": 0.3117,
+            "height": 0.2228
+          },
+          "confidence": 0.8193
+        },
+        {
+          "text": "Triose\nphosphate",
+          "bbox": {
+            "x_min": 0.4478,
+            "y_min": 0.5236,
+            "x_max": 0.5371,
+            "y_max": 0.5506,
+            "width": 0.0893,
+            "height": 0.027
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "ADP",
+          "bbox": {
+            "x_min": 0.6649,
+            "y_min": 0.5566,
+            "x_max": 0.7034,
+            "y_max": 0.5638,
+            "width": 0.0385,
+            "height": 0.0073
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.6801,
+            "y_min": 0.5711,
+            "x_max": 0.6906,
+            "y_max": 0.5767,
+            "width": 0.0105,
+            "height": 0.0056
+          },
+          "confidence": 0.9503
+        },
+        {
+          "text": "P₁ +NADP+",
+          "bbox": {
+            "x_min": 0.6445,
+            "y_min": 0.5848,
+            "x_max": 0.725,
+            "y_max": 0.5964,
+            "width": 0.0806,
+            "height": 0.0116
+          },
+          "confidence": 0.8627
+        },
+        {
+          "text": "i",
+          "bbox": {
+            "x_min": 0.655,
+            "y_min": 0.593,
+            "x_max": 0.6597,
+            "y_max": 0.5968,
+            "width": 0.0047,
+            "height": 0.0039
+          },
+          "confidence": 0.9351
+        },
+        {
+          "text": "ublished",
+          "bbox": {
+            "x_min": 0.5721,
+            "y_min": 0.3072,
+            "x_max": 0.8692,
+            "y_max": 0.5338,
+            "width": 0.2971,
+            "height": 0.2266
+          },
+          "confidence": 0.8562
+        },
+        {
+          "text": "ATP",
+          "bbox": {
+            "x_min": 0.7396,
+            "y_min": 0.4683,
+            "x_max": 0.7747,
+            "y_max": 0.4764,
+            "width": 0.035,
+            "height": 0.0081
+          },
+          "confidence": 0.8581
+        },
+        {
+          "text": "+\nNADPH",
+          "bbox": {
+            "x_min": 0.7268,
+            "y_min": 0.4833,
+            "x_max": 0.7881,
+            "y_max": 0.5047,
+            "width": 0.0613,
+            "height": 0.0214
+          },
+          "confidence": 0.9832
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8576,
+            "y_min": 0.0835,
+            "x_max": 0.9253,
+            "y_max": 0.0943,
+            "width": 0.0677,
+            "height": 0.0107
+          },
+          "confidence": 0.9783
+        },
+        {
+          "text": "Sucrose, starch",
+          "bbox": {
+            "x_min": 0.4297,
+            "y_min": 0.6307,
+            "x_max": 0.5604,
+            "y_max": 0.6401,
+            "width": 0.1308,
+            "height": 0.0094
+          },
+          "confidence": 0.9781
+        },
+        {
+          "text": "Figure 11.8 The Calvin cycle proceeds in three stages : (1) carboxylation, during which\nCO₂ combines with ribulose-1,5-bisphosphate; (2) reduction, during which\ncarbohydrate is formed at the expense of the photochemically made ATP\nand NADPH; and (3) regeneration during which the CO, acceptor ribulose-\n1,5-bisphosphate is formed again so that the cycle continues",
+          "bbox": {
+            "x_min": 0.1506,
+            "y_min": 0.6577,
+            "x_max": 0.8646,
+            "y_max": 0.7284,
+            "width": 0.714,
+            "height": 0.0707
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "nof",
+          "bbox": {
+            "x_min": 0.1798,
+            "y_min": 0.6949,
+            "x_max": 0.3444,
+            "y_max": 0.8218,
+            "width": 0.1646,
+            "height": 0.1268
+          },
+          "confidence": 0.8841
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.8342,
+            "y_min": 0.7973,
+            "x_max": 0.8435,
+            "y_max": 0.8021,
+            "width": 0.0093,
+            "height": 0.0047
+          },
+          "confidence": 0.9741
+        },
+        {
+          "text": "2. Reduction – These are a series of reactions that lead to the formation\nof glucose. The steps involve utilisation of 2 molecules of ATP for\nphosphorylation and two of NADPH for reduction per CO₂ molecule\nfixed. The fixation of six molecules of CO2 and 6 turns of the cycle are\nrequired for the formation of one molecule of glucose from the pathway.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.7515,
+            "x_max": 0.9259,
+            "y_max": 0.8368,
+            "width": 0.6235,
+            "height": 0.0853
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "3. Regeneration – Regeneration of the CO₂ acceptor molecule RuBP is\ncrucial if the cycle is to continue uninterrupted. The regeneration\nsteps require one ATP for phosphorylation to form RuBP.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.8496,
+            "x_max": 0.9264,
+            "y_max": 0.8976,
+            "width": 0.6241,
+            "height": 0.048
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "PHOTOSYNTHESIS IN HIGHER PLANTS",
+          "bbox": {
+            "x_min": 0.1156,
+            "y_min": 0.0827,
+            "x_max": 0.3853,
+            "y_max": 0.093,
+            "width": 0.2697,
+            "height": 0.0103
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "Hence for every CO₂ molecule entering the Calvin cycle, 3 molecules\nof ATP and 2 of NADPH are required. It is probably to meet this difference\nin number of ATP and NADPH used in the dark reaction that the cyclic\nphosphorylation takes place.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.1362,
+            "x_max": 0.6976,
+            "y_max": 0.2022,
+            "width": 0.6246,
+            "height": 0.066
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "To make one molecule of glucose 6 turns of the cycle are required.\nWork out how many ATP and NADPH molecules will be required to make\none molecule of glucose through the Calvin pathway.",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.2074,
+            "x_max": 0.6982,
+            "y_max": 0.2558,
+            "width": 0.6246,
+            "height": 0.0484
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "It might help you to understand all of this if we look at what goes in\nand what comes out of the Calvin cycle.",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.2605,
+            "x_max": 0.697,
+            "y_max": 0.2909,
+            "width": 0.6229,
+            "height": 0.0304
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "145",
+          "bbox": {
+            "x_min": 0.8465,
+            "y_min": 0.0823,
+            "x_max": 0.8838,
+            "y_max": 0.093,
+            "width": 0.0374,
+            "height": 0.0107
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "In",
+          "bbox": {
+            "x_min": 0.2615,
+            "y_min": 0.3149,
+            "x_max": 0.2837,
+            "y_max": 0.3239,
+            "width": 0.0222,
+            "height": 0.009
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "Six CO₂",
+          "bbox": {
+            "x_min": 0.2353,
+            "y_min": 0.3423,
+            "x_max": 0.2995,
+            "y_max": 0.3573,
+            "width": 0.0642,
+            "height": 0.015
+          },
+          "confidence": 0.8685
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.2925,
+            "y_min": 0.3513,
+            "x_max": 0.3012,
+            "y_max": 0.356,
+            "width": 0.0088,
+            "height": 0.0047
+          },
+          "confidence": 0.9724
+        },
+        {
+          "text": "18 ATP",
+          "bbox": {
+            "x_min": 0.2358,
+            "y_min": 0.3625,
+            "x_max": 0.2983,
+            "y_max": 0.3715,
+            "width": 0.0625,
+            "height": 0.009
+          },
+          "confidence": 0.8315
+        },
+        {
+          "text": "12 NADPH",
+          "bbox": {
+            "x_min": 0.2364,
+            "y_min": 0.3822,
+            "x_max": 0.3275,
+            "y_max": 0.3916,
+            "width": 0.0911,
+            "height": 0.0094
+          },
+          "confidence": 0.9219
+        },
+        {
+          "text": "Out",
+          "bbox": {
+            "x_min": 0.3999,
+            "y_min": 0.3145,
+            "x_max": 0.439,
+            "y_max": 0.3243,
+            "width": 0.0391,
+            "height": 0.0099
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "One glucose",
+          "bbox": {
+            "x_min": 0.3812,
+            "y_min": 0.3419,
+            "x_max": 0.488,
+            "y_max": 0.3539,
+            "width": 0.1068,
+            "height": 0.012
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "18 ADP",
+          "bbox": {
+            "x_min": 0.3835,
+            "y_min": 0.3625,
+            "x_max": 0.4495,
+            "y_max": 0.371,
+            "width": 0.066,
+            "height": 0.0086
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "12 NADP",
+          "bbox": {
+            "x_min": 0.3841,
+            "y_min": 0.3826,
+            "x_max": 0.4618,
+            "y_max": 0.3912,
+            "width": 0.0776,
+            "height": 0.0086
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "adapted to dry tropical regions have the C. path ished",
+          "bbox": {
+            "x_min": 0.2061,
+            "y_min": 0.3162,
+            "x_max": 0.8745,
+            "y_max": 0.4991,
+            "width": 0.6684,
+            "height": 0.1829
+          },
+          "confidence": 0.9242
+        },
+        {
+          "text": "11.8 THE C₁ PATHWAY",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.4203,
+            "x_max": 0.3141,
+            "y_max": 0.4374,
+            "width": 0.2393,
+            "height": 0.0171
+          },
+          "confidence": 0.925
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.1705,
+            "y_min": 0.4996,
+            "x_max": 0.1798,
+            "y_max": 0.5047,
+            "width": 0.0093,
+            "height": 0.0051
+          },
+          "confidence": 0.9721
+        },
+        {
+          "text": "4",
+          "bbox": {
+            "x_min": 0.2078,
+            "y_min": 0.4314,
+            "x_max": 0.2212,
+            "y_max": 0.4374,
+            "width": 0.0134,
+            "height": 0.006
+          },
+          "confidence": 0.967
+        },
+        {
+          "text": "T",
+          "bbox": {
+            "x_min": 0.533,
+            "y_min": 0.392,
+            "x_max": 0.6205,
+            "y_max": 0.4554,
+            "width": 0.0876,
+            "height": 0.0634
+          },
+          "confidence": 0.9359
+        },
+        {
+          "text": "Plants that are \nmentioned earlier. Though these plants have the C₁ oxaloacetic acid as\nthe first CO₂ fixation product they use the C3 pathway or the Calvin cycle\nas the main biosynthetic pathway. Then, in what way are they different\nfrom C3 plants? This is a question that you may reasonably ask.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.4554,
+            "x_max": 0.697,
+            "y_max": 0.5394,
+            "width": 0.6241,
+            "height": 0.084
+          },
+          "confidence": 0.9845
+        },
+        {
+          "text": "C₁ plants are special: They have a special type of leaf anatomy, they\ntolerate higher temperatures, they show a response to high light intensities,\nthey lack a process called photorespiration and have greater productivity\nof biomass. Let us understand these one by one.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.542,
+            "x_max": 0.6982,
+            "y_max": 0.6058,
+            "width": 0.6252,
+            "height": 0.0638
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "4",
+          "bbox": {
+            "x_min": 0.6888,
+            "y_min": 0.6195,
+            "x_max": 0.6988,
+            "y_max": 0.6247,
+            "width": 0.0099,
+            "height": 0.0051
+          },
+          "confidence": 0.9629
+        },
+        {
+          "text": "Study vertical sections of leaves, one of a C3 plant and the other of a C₁\nplant. Do you notice the differences? Do both have the same types of\nmesophylls? Do they have similar cells around the vascular bundle sheath?",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.611,
+            "x_max": 0.7005,
+            "y_max": 0.6581,
+            "width": 0.6281,
+            "height": 0.0471
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "4",
+          "bbox": {
+            "x_min": 0.6888,
+            "y_min": 0.6714,
+            "x_max": 0.6988,
+            "y_max": 0.6761,
+            "width": 0.0099,
+            "height": 0.0047
+          },
+          "confidence": 0.9682
+        },
+        {
+          "text": "The particularly large cells around the vascular bundles of the C₁\nplants are called bundle sheath cells, and the leaves which have such\nanatomy are said to have ‘Kranz' anatomy. ‘Kranz' means 'wreath' and\nis a reflection of the arrangement of cells. The bundle sheath cells may\nform several layers around the vascular bundles; they are characterised\nby having a large number of chloroplasts, thick walls impervious to\ngaseous exchange and no intercellular spaces. You may like to cut a\nsection of the leaves of C₁ plants – maize or sorghum – to observe the\nKranz anatomy and the distribution of mesophyll cells.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.662,
+            "x_max": 0.6976,
+            "y_max": 0.8128,
+            "width": 0.6246,
+            "height": 0.1508
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "It would be interesting for you to collect leaves of diverse species of\nplants around you and cut vertical sections of the leaves. Observe under\nthe microscope look for the bundle sheath around the vascular\nbundles. The presence of the bundle sheath would help you identify\nthe C₁ plants.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.8175,
+            "x_max": 0.6988,
+            "y_max": 0.9002,
+            "width": 0.6258,
+            "height": 0.0827
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "146",
+          "bbox": {
+            "x_min": 0.1197,
+            "y_min": 0.084,
+            "x_max": 0.1576,
+            "y_max": 0.093,
+            "width": 0.0379,
+            "height": 0.009
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1897,
+            "y_min": 0.7087,
+            "x_max": 0.3281,
+            "y_max": 0.8136,
+            "width": 0.1384,
+            "height": 0.105
+          },
+          "confidence": 0.9826
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9259,
+            "y_max": 0.0934,
+            "width": 0.0695,
+            "height": 0.0094
+          },
+          "confidence": 0.978
+        },
+        {
+          "text": "Now study the pathway shown in Figure 11.9. This pathway that has\nbeen named the Hatch and Slack Pathway, is again a cyclic process. Let\nus study the pathway by listing the steps.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.1341,
+            "x_max": 0.927,
+            "y_max": 0.1812,
+            "width": 0.6252,
+            "height": 0.0471
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.4804,
+            "y_min": 0.1945,
+            "x_max": 0.491,
+            "y_max": 0.1997,
+            "width": 0.0105,
+            "height": 0.0051
+          },
+          "confidence": 0.9742
+        },
+        {
+          "text": "The primary CO₂ acceptor is a 3-carbon molecule phosphoenol\npyruvate (PEP) and is present in the mesophyll cells. The enzyme\nresponsible for this fixation is PEP carboxylase or PEPcase. It is important\nto register that the mesophyll cells lack RuBisCO enzyme. The C₁ acid\nOAA is formed in the mesophyll cells.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.1855,
+            "x_max": 0.9259,
+            "y_max": 0.2674,
+            "width": 0.6235,
+            "height": 0.0818
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "It then forms other 4-carbon compounds like malic acid or aspartic\nacid in the mesophyll cells itself, which are transported to the bundle\nsheath cells. In the bundle sheath cells these C₁ acids are broken down\nto release CO2 and a 3-carbon molecule.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.2712,
+            "x_max": 0.9259,
+            "y_max": 0.3376,
+            "width": 0.6235,
+            "height": 0.0664
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "4",
+          "bbox": {
+            "x_min": 0.7157,
+            "y_min": 0.3149,
+            "x_max": 0.7256,
+            "y_max": 0.3201,
+            "width": 0.0099,
+            "height": 0.0051
+          },
+          "confidence": 0.9682
+        },
+        {
+          "text": "The 3-carbon molecule is transported back to the mesophyll where it\nis converted to PEP again, thus, completing the cycle.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.3402,
+            "x_max": 0.9259,
+            "y_max": 0.3706,
+            "width": 0.6241,
+            "height": 0.0304
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "The CO₂ released in the bundle sheath cells enters the C or the Calvin\npathway, a pathway common to all plants. The bundle sheath cells are",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.3745,
+            "x_max": 0.927,
+            "y_max": 0.4053,
+            "width": 0.6258,
+            "height": 0.0308
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "Atmospheric CO2",
+          "bbox": {
+            "x_min": 0.4623,
+            "y_min": 0.4229,
+            "x_max": 0.5908,
+            "y_max": 0.4349,
+            "width": 0.1284,
+            "height": 0.012
+          },
+          "confidence": 0.9773
+        },
+        {
+          "text": "Mesophyll",
+          "bbox": {
+            "x_min": 0.3678,
+            "y_min": 0.4494,
+            "x_max": 0.4442,
+            "y_max": 0.461,
+            "width": 0.0765,
+            "height": 0.0116
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "cell",
+          "bbox": {
+            "x_min": 0.3689,
+            "y_min": 0.464,
+            "x_max": 0.397,
+            "y_max": 0.4709,
+            "width": 0.028,
+            "height": 0.0069
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "undle",
+          "bbox": {
+            "x_min": 0.7309,
+            "y_min": 0.3882,
+            "x_max": 0.7793,
+            "y_max": 0.4117,
+            "width": 0.0485,
+            "height": 0.0236
+          },
+          "confidence": 0.9258
+        },
+        {
+          "text": "S",
+          "bbox": {
+            "x_min": 0.6947,
+            "y_min": 0.3963,
+            "x_max": 0.7624,
+            "y_max": 0.4452,
+            "width": 0.0677,
+            "height": 0.0488
+          },
+          "confidence": 0.8934
+        },
+        {
+          "text": "Plasma\nmembrane",
+          "bbox": {
+            "x_min": 0.6953,
+            "y_min": 0.4434,
+            "x_max": 0.7752,
+            "y_max": 0.464,
+            "width": 0.08,
+            "height": 0.0206
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "Cell wall",
+          "bbox": {
+            "x_min": 0.777,
+            "y_min": 0.4816,
+            "x_max": 0.8418,
+            "y_max": 0.4889,
+            "width": 0.0648,
+            "height": 0.0073
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "HCO3- Phosphoenol-",
+          "bbox": {
+            "x_min": 0.491,
+            "y_min": 0.5056,
+            "x_max": 0.6521,
+            "y_max": 0.5227,
+            "width": 0.1611,
+            "height": 0.0171
+          },
+          "confidence": 0.9289
+        },
+        {
+          "text": "pyruvate",
+          "bbox": {
+            "x_min": 0.5517,
+            "y_min": 0.5206,
+            "x_max": 0.617,
+            "y_max": 0.53,
+            "width": 0.0654,
+            "height": 0.0094
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "C",
+          "bbox": {
+            "x_min": 0.3158,
+            "y_min": 0.5767,
+            "x_max": 0.3672,
+            "y_max": 0.6135,
+            "width": 0.0514,
+            "height": 0.0368
+          },
+          "confidence": 0.7215
+        },
+        {
+          "text": "Plasmo-\ndesmata",
+          "bbox": {
+            "x_min": 0.373,
+            "y_min": 0.6302,
+            "x_max": 0.4367,
+            "y_max": 0.6512,
+            "width": 0.0636,
+            "height": 0.021
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "Bundle\nsheath\ncell",
+          "bbox": {
+            "x_min": 0.345,
+            "y_min": 0.6675,
+            "x_max": 0.4011,
+            "y_max": 0.7018,
+            "width": 0.056,
+            "height": 0.0343
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "e",
+          "bbox": {
+            "x_min": 0.4367,
+            "y_min": 0.5904,
+            "x_max": 0.5044,
+            "y_max": 0.6358,
+            "width": 0.0677,
+            "height": 0.0454
+          },
+          "confidence": 0.8439
+        },
+        {
+          "text": "Fixation",
+          "bbox": {
+            "x_min": 0.519,
+            "y_min": 0.569,
+            "x_max": 0.5803,
+            "y_max": 0.5763,
+            "width": 0.0613,
+            "height": 0.0073
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "C4 acid",
+          "bbox": {
+            "x_min": 0.5172,
+            "y_min": 0.6015,
+            "x_max": 0.5744,
+            "y_max": 0.6135,
+            "width": 0.0572,
+            "height": 0.012
+          },
+          "confidence": 0.9791
+        },
+        {
+          "text": "Transport",
+          "bbox": {
+            "x_min": 0.512,
+            "y_min": 0.632,
+            "x_max": 0.5861,
+            "y_max": 0.6427,
+            "width": 0.0741,
+            "height": 0.0107
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "Regeneration",
+          "bbox": {
+            "x_min": 0.6322,
+            "y_min": 0.5711,
+            "x_max": 0.7303,
+            "y_max": 0.5818,
+            "width": 0.0981,
+            "height": 0.0107
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "C3 acid",
+          "bbox": {
+            "x_min": 0.6521,
+            "y_min": 0.602,
+            "x_max": 0.7104,
+            "y_max": 0.6135,
+            "width": 0.0584,
+            "height": 0.0116
+          },
+          "confidence": 0.9728
+        },
+        {
+          "text": "C4 acid",
+          "bbox": {
+            "x_min": 0.5155,
+            "y_min": 0.7172,
+            "x_max": 0.5738,
+            "y_max": 0.7288,
+            "width": 0.0584,
+            "height": 0.0116
+          },
+          "confidence": 0.984
+        },
+        {
+          "text": "Transport",
+          "bbox": {
+            "x_min": 0.6445,
+            "y_min": 0.7155,
+            "x_max": 0.7198,
+            "y_max": 0.7262,
+            "width": 0.0753,
+            "height": 0.0107
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "Fixation by\nCalvin cycle",
+          "bbox": {
+            "x_min": 0.5797,
+            "y_min": 0.7485,
+            "x_max": 0.6702,
+            "y_max": 0.7729,
+            "width": 0.0905,
+            "height": 0.0244
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "Decarboxylation",
+          "bbox": {
+            "x_min": 0.4892,
+            "y_min": 0.8115,
+            "x_max": 0.6071,
+            "y_max": 0.8231,
+            "width": 0.1179,
+            "height": 0.0116
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "CO2",
+          "bbox": {
+            "x_min": 0.6141,
+            "y_min": 0.7965,
+            "x_max": 0.648,
+            "y_max": 0.8081,
+            "width": 0.0339,
+            "height": 0.0116
+          },
+          "confidence": 0.9375
+        },
+        {
+          "text": "C3 acid",
+          "bbox": {
+            "x_min": 0.6562,
+            "y_min": 0.8136,
+            "x_max": 0.7128,
+            "y_max": 0.8248,
+            "width": 0.0566,
+            "height": 0.0111
+          },
+          "confidence": 0.9757
+        },
+        {
+          "text": "Figure 11.9 Diagrammatic representation of the Hatch and Slack Pathway",
+          "bbox": {
+            "x_min": 0.2312,
+            "y_min": 0.8916,
+            "x_max": 0.8628,
+            "y_max": 0.904,
+            "width": 0.6316,
+            "height": 0.0124
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "PHOTOSYNTHESIS IN HIGHER PLANTS",
+          "bbox": {
+            "x_min": 0.1133,
+            "y_min": 0.0823,
+            "x_max": 0.3853,
+            "y_max": 0.0925,
+            "width": 0.272,
+            "height": 0.0103
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6737,
+            "y_min": 0.3051,
+            "x_max": 0.8786,
+            "y_max": 0.4452,
+            "width": 0.2049,
+            "height": 0.1401
+          },
+          "confidence": 0.9315
+        },
+        {
+          "text": "rich in an enzyme Ribulose bisphosphate carboxylase-oxygenase\n(RuBisCO), but lack PEPcase. Thus, the basic pathway that results in\nthe formation of the sugars, the Calvin pathway, is common to the C3 and\nC4 plants.",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.1341,
+            "x_max": 0.6976,
+            "y_max": 0.2014,
+            "width": 0.627,
+            "height": 0.0673
+          },
+          "confidence": 0.9858
+        },
+        {
+          "text": "Did you note that the Calvin pathway occurs in all the mesophyll\ncells of the C3 plants? In the C₁ plants it does not take place in the\nmesophyll cells but does so only in the bundle sheath cells.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.2035,
+            "x_max": 0.6964,
+            "y_max": 0.2515,
+            "width": 0.6241,
+            "height": 0.048
+          },
+          "confidence": 0.9846
+        },
+        {
+          "text": "11.9 PHOTORESPIRATION",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.2746,
+            "x_max": 0.3252,
+            "y_max": 0.2879,
+            "width": 0.2504,
+            "height": 0.0133
+          },
+          "confidence": 0.9193
+        },
+        {
+          "text": "Let us try and understand one more process that creates an important\ndifference between C3 and C₁ plants – Photorespiration. To understand\nphotorespiration we have to know a little bit more about the first step of\nthe Calvin pathway – the first CO₂ fixation step. This is the reaction\nwhere RuBP combines with CO₂ to form 2 molecules of 3PGA, that is\ncatalysed by RuBisCO.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.3042,
+            "x_max": 0.6988,
+            "y_max": 0.4027,
+            "width": 0.6264,
+            "height": 0.0985
+          },
+          "confidence": 0.9827
+        },
+        {
+          "text": "RuBP+CO2",
+          "bbox": {
+            "x_min": 0.2271,
+            "y_min": 0.419,
+            "x_max": 0.3269,
+            "y_max": 0.4314,
+            "width": 0.0998,
+            "height": 0.0124
+          },
+          "confidence": 0.9417
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.3759,
+            "y_min": 0.3646,
+            "x_max": 0.3853,
+            "y_max": 0.3698,
+            "width": 0.0093,
+            "height": 0.0051
+          },
+          "confidence": 0.9729
+        },
+        {
+          "text": "RuBisCo",
+          "bbox": {
+            "x_min": 0.3596,
+            "y_min": 0.4135,
+            "x_max": 0.4337,
+            "y_max": 0.4216,
+            "width": 0.0741,
+            "height": 0.0081
+          },
+          "confidence": 0.9738
+        },
+        {
+          "text": "→2× 3PGA",
+          "bbox": {
+            "x_min": 0.4384,
+            "y_min": 0.4186,
+            "x_max": 0.5406,
+            "y_max": 0.4284,
+            "width": 0.1022,
+            "height": 0.0099
+          },
+          "confidence": 0.8701
+        },
+        {
+          "text": "RuBisCO that is the most abundant enzyme in the world (Do you\nwonder why?) is characterised by the fact that its active site can bind to\nboth CO2 and O₂ – hence the name. Can you think how this could be\npossible?RuBisCO has a much greater affinity for CO₂ when the CO₂: O₂\nis nearly equal. Imagine what would happen if this were not so! This\nbinding is competitive. It is the relative concentration of O₂ and CO2 that\ndetermines which of the two will bind to the enzyme.",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.4404,
+            "x_max": 0.6982,
+            "y_max": 0.5566,
+            "width": 0.627,
+            "height": 0.1161
+          },
+          "confidence": 0.9805
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.2417,
+            "y_min": 0.6045,
+            "x_max": 0.2516,
+            "y_max": 0.6097,
+            "width": 0.0099,
+            "height": 0.0051
+          },
+          "confidence": 0.9705
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.2709,
+            "y_min": 0.5703,
+            "x_max": 0.2808,
+            "y_max": 0.5758,
+            "width": 0.0099,
+            "height": 0.0056
+          },
+          "confidence": 0.9723
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.6888,
+            "y_min": 0.5013,
+            "x_max": 0.6988,
+            "y_max": 0.5064,
+            "width": 0.0099,
+            "height": 0.0051
+          },
+          "confidence": 0.9729
+        },
+        {
+          "text": "In C3 plants some O₂ does bind to RuBisCO, and hence CO₂ fixation is\ndecreased. Here the RuBP instead of being converted to 2 molecules of\nPGA binds with O₂ to form one molecule of phosphoglycerate and\nphosphoglycolate (2 Carbon) in a pathway called photorespiration. In\nthe photorespiratory pathway, there is neither synthesis of sugars, nor of\nATP. Rather it results in the release of CO2 with the utilisation of ATP. In\nthe photorespiratory pathway there is no synthesis of ATP or NADPH.\nThe biological function of photorespiration is not known yet.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.5608,
+            "x_max": 0.6988,
+            "y_max": 0.6954,
+            "width": 0.627,
+            "height": 0.1345
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "In C₁ plants photorespiration does not occur. This is because they\nhave a mechanism that increases the concentration of CO2 at the enzyme\nsite. This takes place when the C₁ acid from the mesophyll is broken\ndown in the bundle sheath cells to release CO2 – this results in increasing\nthe intracellular concentration of CO2. In turn, this ensures that the\nRuBisCO functions as a carboxylase minimising the oxygenase activity.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.6984,
+            "x_max": 0.6976,
+            "y_max": 0.7978,
+            "width": 0.6258,
+            "height": 0.0994
+          },
+          "confidence": 0.9835
+        },
+        {
+          "text": "Now that you know that the C₁ plants lack photorespiration, you\nprobably can understand why productivity and yields are better in these\nplants. In addition, these plants show tolerance to higher temperatures.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.8025,
+            "x_max": 0.697,
+            "y_max": 0.85,
+            "width": 0.6241,
+            "height": 0.0476
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "Based on the above discussion can you compare plants showing the\nC3 and the C₁ pathway? Use the table format given in table 11.1 and fill",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.8535,
+            "x_max": 0.7005,
+            "y_max": 0.8852,
+            "width": 0.6281,
+            "height": 0.0317
+          },
+          "confidence": 0.9836
+        },
+        {
+          "text": "in the information.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.889,
+            "x_max": 0.2347,
+            "y_max": 0.8976,
+            "width": 0.1617,
+            "height": 0.0086
+          },
+          "confidence": 0.9804
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "147",
+          "bbox": {
+            "x_min": 0.8471,
+            "y_min": 0.0831,
+            "x_max": 0.8838,
+            "y_max": 0.093,
+            "width": 0.0368,
+            "height": 0.0099
+          },
+          "confidence": 0.9941
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 18,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "148",
+          "bbox": {
+            "x_min": 0.1203,
+            "y_min": 0.0831,
+            "x_max": 0.157,
+            "y_max": 0.0934,
+            "width": 0.0368,
+            "height": 0.0103
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8581,
+            "y_min": 0.0835,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0671,
+            "height": 0.0099
+          },
+          "confidence": 0.9747
+        },
+        {
+          "text": "TABLE 11.1 Fill in the Columns 2 and 3 in this table to highlight the differences",
+          "bbox": {
+            "x_min": 0.1769,
+            "y_min": 0.135,
+            "x_max": 0.864,
+            "y_max": 0.1474,
+            "width": 0.6871,
+            "height": 0.0124
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "Characteristics",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.1804,
+            "x_max": 0.2428,
+            "y_max": 0.1889,
+            "width": 0.1278,
+            "height": 0.0086
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "between C3 and C4 Plants",
+          "bbox": {
+            "x_min": 0.2919,
+            "y_min": 0.1512,
+            "x_max": 0.5137,
+            "y_max": 0.1645,
+            "width": 0.2218,
+            "height": 0.0133
+          },
+          "confidence": 0.9146
+        },
+        {
+          "text": "C3 Plants C4 Plants",
+          "bbox": {
+            "x_min": 0.4256,
+            "y_min": 0.1799,
+            "x_max": 0.606,
+            "y_max": 0.1937,
+            "width": 0.1804,
+            "height": 0.0137
+          },
+          "confidence": 0.9129
+        },
+        {
+          "text": "Choose from",
+          "bbox": {
+            "x_min": 0.6351,
+            "y_min": 0.1804,
+            "x_max": 0.7472,
+            "y_max": 0.1889,
+            "width": 0.1121,
+            "height": 0.0086
+          },
+          "confidence": 0.9756
+        },
+        {
+          "text": "Mesophyll/Bundle sheath/both",
+          "bbox": {
+            "x_min": 0.6334,
+            "y_min": 0.2022,
+            "x_max": 0.9025,
+            "y_max": 0.2138,
+            "width": 0.2691,
+            "height": 0.0116
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "Cell type in which the Calvin\ncycle takes place",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.2018,
+            "x_max": 0.3561,
+            "y_max": 0.2284,
+            "width": 0.2423,
+            "height": 0.0266
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "Cell type in which the initial",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.2391,
+            "x_max": 0.3526,
+            "y_max": 0.2515,
+            "width": 0.2388,
+            "height": 0.0124
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "carboxylation reaction occurs",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.2536,
+            "x_max": 0.3614,
+            "y_max": 0.2652,
+            "width": 0.2469,
+            "height": 0.0116
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "How many cell types does the",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.2755,
+            "x_max": 0.3602,
+            "y_max": 0.2879,
+            "width": 0.2464,
+            "height": 0.0124
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "leaf have that fix CO₂.",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.2905,
+            "x_max": 0.2948,
+            "y_max": 0.3025,
+            "width": 0.1804,
+            "height": 0.012
+          },
+          "confidence": 0.9494
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.282,
+            "y_min": 0.2973,
+            "x_max": 0.2942,
+            "y_max": 0.3029,
+            "width": 0.0123,
+            "height": 0.0056
+          },
+          "confidence": 0.9592
+        },
+        {
+          "text": "Which is the primary CO₂ acceptor",
+          "bbox": {
+            "x_min": 0.1121,
+            "y_min": 0.3565,
+            "x_max": 0.4057,
+            "y_max": 0.3689,
+            "width": 0.2936,
+            "height": 0.0124
+          },
+          "confidence": 0.9682
+        },
+        {
+          "text": "Number of carbons in the",
+          "bbox": {
+            "x_min": 0.1121,
+            "y_min": 0.3779,
+            "x_max": 0.3345,
+            "y_max": 0.3873,
+            "width": 0.2224,
+            "height": 0.0094
+          },
+          "confidence": 0.9845
+        },
+        {
+          "text": "primary CO₂ acceptor",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.3933,
+            "x_max": 0.2942,
+            "y_max": 0.4057,
+            "width": 0.1792,
+            "height": 0.0124
+          },
+          "confidence": 0.9513
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.3205,
+            "y_min": 0.4233,
+            "x_max": 0.3287,
+            "y_max": 0.4276,
+            "width": 0.0082,
+            "height": 0.0043
+          },
+          "confidence": 0.9702
+        },
+        {
+          "text": "Which is the primary CO₂\nfixation product",
+          "bbox": {
+            "x_min": 0.1127,
+            "y_min": 0.4143,
+            "x_max": 0.3269,
+            "y_max": 0.4422,
+            "width": 0.2142,
+            "height": 0.0278
+          },
+          "confidence": 0.977
+        },
+        {
+          "text": "No. of carbons in the primary\nCO₂ fixation product",
+          "bbox": {
+            "x_min": 0.1127,
+            "y_min": 0.4512,
+            "x_max": 0.3608,
+            "y_max": 0.479,
+            "width": 0.2481,
+            "height": 0.0278
+          },
+          "confidence": 0.9747
+        },
+        {
+          "text": "Does the plant have RuBisCO?",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.4906,
+            "x_max": 0.3736,
+            "y_max": 0.5013,
+            "width": 0.2598,
+            "height": 0.0107
+          },
+          "confidence": 0.9845
+        },
+        {
+          "text": "Does the plant have PEP Case?",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.5133,
+            "x_max": 0.3765,
+            "y_max": 0.5236,
+            "width": 0.2615,
+            "height": 0.0103
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "Which cells in the plant have\nRubisco?",
+          "bbox": {
+            "x_min": 0.1115,
+            "y_min": 0.5347,
+            "x_max": 0.3602,
+            "y_max": 0.5587,
+            "width": 0.2487,
+            "height": 0.024
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "CO, fixation rate under high\nlight conditions",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.5716,
+            "x_max": 0.3508,
+            "y_max": 0.5981,
+            "width": 0.2364,
+            "height": 0.0266
+          },
+          "confidence": 0.9751
+        },
+        {
+          "text": "NCERT",
+          "bbox": {
+            "x_min": 0.3713,
+            "y_min": 0.3976,
+            "x_max": 0.6112,
+            "y_max": 0.5746,
+            "width": 0.2399,
+            "height": 0.1769
+          },
+          "confidence": 0.9821
+        },
+        {
+          "text": "Mesophyll/Bundle sheath /both",
+          "bbox": {
+            "x_min": 0.6334,
+            "y_min": 0.2386,
+            "x_max": 0.9078,
+            "y_max": 0.2506,
+            "width": 0.2744,
+            "height": 0.012
+          },
+          "confidence": 0.9837
+        },
+        {
+          "text": "Two: Bundle sheath and",
+          "bbox": {
+            "x_min": 0.634,
+            "y_min": 0.2759,
+            "x_max": 0.8406,
+            "y_max": 0.2849,
+            "width": 0.2067,
+            "height": 0.009
+          },
+          "confidence": 0.9765
+        },
+        {
+          "text": "mesophyll",
+          "bbox": {
+            "x_min": 0.6334,
+            "y_min": 0.2901,
+            "x_max": 0.7192,
+            "y_max": 0.3025,
+            "width": 0.0858,
+            "height": 0.0124
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "One: Mesophyll",
+          "bbox": {
+            "x_min": 0.6351,
+            "y_min": 0.3051,
+            "x_max": 0.7636,
+            "y_max": 0.3166,
+            "width": 0.1284,
+            "height": 0.0116
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "Three: Bundle sheath, palisade,",
+          "bbox": {
+            "x_min": 0.6346,
+            "y_min": 0.3192,
+            "x_max": 0.9037,
+            "y_max": 0.3312,
+            "width": 0.2691,
+            "height": 0.012
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "spongy mesophyll",
+          "bbox": {
+            "x_min": 0.6357,
+            "y_min": 0.3329,
+            "x_max": 0.7823,
+            "y_max": 0.3462,
+            "width": 0.1465,
+            "height": 0.0133
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "RuBP/PEP/PGA",
+          "bbox": {
+            "x_min": 0.6363,
+            "y_min": 0.3556,
+            "x_max": 0.7712,
+            "y_max": 0.3668,
+            "width": 0.1349,
+            "height": 0.0111
+          },
+          "confidence": 0.9827
+        },
+        {
+          "text": "5/4/3",
+          "bbox": {
+            "x_min": 0.6351,
+            "y_min": 0.3779,
+            "x_max": 0.7075,
+            "y_max": 0.389,
+            "width": 0.0724,
+            "height": 0.0111
+          },
+          "confidence": 0.9713
+        },
+        {
+          "text": "PGA/OAA/RuBP/PEP",
+          "bbox": {
+            "x_min": 0.6363,
+            "y_min": 0.4147,
+            "x_max": 0.8179,
+            "y_max": 0.4263,
+            "width": 0.1816,
+            "height": 0.0116
+          },
+          "confidence": 0.9803
+        },
+        {
+          "text": "3/4/5",
+          "bbox": {
+            "x_min": 0.6357,
+            "y_min": 0.4516,
+            "x_max": 0.7075,
+            "y_max": 0.4627,
+            "width": 0.0718,
+            "height": 0.0111
+          },
+          "confidence": 0.9708
+        },
+        {
+          "text": "Yes/No/Not always\nYes,",
+          "bbox": {
+            "x_min": 0.6316,
+            "y_min": 0.4769,
+            "x_max": 0.7968,
+            "y_max": 0.5137,
+            "width": 0.1652,
+            "height": 0.0368
+          },
+          "confidence": 0.9504
+        },
+        {
+          "text": "Mesophyll/Bundle sheath/none",
+          "bbox": {
+            "x_min": 0.6346,
+            "y_min": 0.5347,
+            "x_max": 0.9066,
+            "y_max": 0.5471,
+            "width": 0.272,
+            "height": 0.0124
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "be rep Yes/No/Not always",
+          "bbox": {
+            "x_min": 0.3573,
+            "y_min": 0.4567,
+            "x_max": 0.8138,
+            "y_max": 0.6671,
+            "width": 0.4565,
+            "height": 0.2104
+          },
+          "confidence": 0.9267
+        },
+        {
+          "text": "Whether photorespiration is\npresent at low light intensities\nWhether photorespiration is\npresent at high light intensities\nWhether photorespiration would be\npresent at low CO, concentrations\nWhether photorespiration would be\npresent at high CO, concentrations",
+          "bbox": {
+            "x_min": 0.1121,
+            "y_min": 0.6063,
+            "x_max": 0.4098,
+            "y_max": 0.7455,
+            "width": 0.2977,
+            "height": 0.1392
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "Temperature optimum",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.7558,
+            "x_max": 0.3006,
+            "y_max": 0.7674,
+            "width": 0.1868,
+            "height": 0.0116
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "Examples",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.7832,
+            "x_max": 0.1956,
+            "y_max": 0.7943,
+            "width": 0.0817,
+            "height": 0.0111
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "Low/high/medium",
+          "bbox": {
+            "x_min": 0.6369,
+            "y_min": 0.5707,
+            "x_max": 0.8033,
+            "y_max": 0.5835,
+            "width": 0.1664,
+            "height": 0.0129
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "High/negligible/sometimes",
+          "bbox": {
+            "x_min": 0.634,
+            "y_min": 0.6075,
+            "x_max": 0.8616,
+            "y_max": 0.6204,
+            "width": 0.2277,
+            "height": 0.0129
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "High/negligible/sometimes",
+          "bbox": {
+            "x_min": 0.634,
+            "y_min": 0.644,
+            "x_max": 0.8616,
+            "y_max": 0.6577,
+            "width": 0.2277,
+            "height": 0.0137
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "High/negligible/sometimes",
+          "bbox": {
+            "x_min": 0.634,
+            "y_min": 0.6812,
+            "x_max": 0.8616,
+            "y_max": 0.6937,
+            "width": 0.2277,
+            "height": 0.0124
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "High/negligible/sometimes",
+          "bbox": {
+            "x_min": 0.634,
+            "y_min": 0.7177,
+            "x_max": 0.8616,
+            "y_max": 0.7305,
+            "width": 0.2277,
+            "height": 0.0129
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "30-40°C/20-25°C/above 40°C",
+          "bbox": {
+            "x_min": 0.6357,
+            "y_min": 0.7549,
+            "x_max": 0.8809,
+            "y_max": 0.7661,
+            "width": 0.2452,
+            "height": 0.0111
+          },
+          "confidence": 0.966
+        },
+        {
+          "text": "Cut vertical sections of leaves of\ndifferent plants and observe under\nthe microscope for Kranz anatomy\nand list them in the appropriate\ncolumns.",
+          "bbox": {
+            "x_min": 0.6334,
+            "y_min": 0.7828,
+            "x_max": 0.9148,
+            "y_max": 0.8496,
+            "width": 0.2814,
+            "height": 0.0668
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 19,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "PHOTOSYNTHESIS IN HIGHER PLANTS",
+          "bbox": {
+            "x_min": 0.1156,
+            "y_min": 0.0827,
+            "x_max": 0.3853,
+            "y_max": 0.093,
+            "width": 0.2697,
+            "height": 0.0103
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "149",
+          "bbox": {
+            "x_min": 0.8465,
+            "y_min": 0.0831,
+            "x_max": 0.8856,
+            "y_max": 0.093,
+            "width": 0.0391,
+            "height": 0.0099
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "11.10 FACTORS AFFECTING PHOTOSYNTHESIS",
+          "bbox": {
+            "x_min": 0.0753,
+            "y_min": 0.1358,
+            "x_max": 0.5131,
+            "y_max": 0.1478,
+            "width": 0.4378,
+            "height": 0.012
+          },
+          "confidence": 0.9763
+        },
+        {
+          "text": "An understanding of the factors that affect photosynthesis is necessary.\nThe rate of photosynthesis is very important in determining the yield of\nplants including crop plants. Photosynthesis is under the influence of\nseveral factors, both internal (plant) and external. The plant factors include\nthe number, size, age and orientation of leaves, mesophyll cells and\nchloroplasts, internal CO₂ concentration and the amount of chlorophyll.\nThe plant or internal factors are dependent on the genetic predisposition\nand the growth of the plant.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.171,
+            "x_max": 0.6988,
+            "y_max": 0.3136,
+            "width": 0.627,
+            "height": 0.1427
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "The external factors would include the availability of sunlight,\ntemperature, CO, concentration and water. As a plant photosynthesises,\nall these factors will simultaneously affect its rate. Hence, though several\nfactors interact and simultaneously affect photosynthesis or CO₂ fixation,\nusually one factor is the major cause or is the one that limits the rate.\nHence, at any point the rate will be determined by the factor available at\nsub-optimal levels.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.3188,
+            "x_max": 0.6964,
+            "y_max": 0.4426,
+            "width": 0.6235,
+            "height": 0.1238
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.6147,
+            "y_min": 0.3839,
+            "x_max": 0.6241,
+            "y_max": 0.3886,
+            "width": 0.0093,
+            "height": 0.0047
+          },
+          "confidence": 0.976
+        },
+        {
+          "text": "lished",
+          "bbox": {
+            "x_min": 0.6532,
+            "y_min": 0.3085,
+            "x_max": 0.8739,
+            "y_max": 0.4662,
+            "width": 0.2207,
+            "height": 0.1577
+          },
+          "confidence": 0.8572
+        },
+        {
+          "text": "When several factors affect any [bio] chemical process, Blackman's\n(1905) Law of Limiting Factors comes into effect. This states the following:\nIf a chemical process is affected by more than one factor, then its\nrate will be determined by the factor which is nearest to its minimal\nvalue: it is the factor which directly affects the process if its quantity is\nchanged.",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.4486,
+            "x_max": 0.6999,
+            "y_max": 0.5536,
+            "width": 0.6264,
+            "height": 0.105
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "For example, despite the presence of a green\nleaf and optimal light and CO₂ conditions, the\nplant may not photosynthesise if the",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.5591,
+            "x_max": 0.4921,
+            "y_max": 0.6093,
+            "width": 0.4197,
+            "height": 0.0501
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "fits qu",
+          "bbox": {
+            "x_min": 0.5657,
+            "y_min": 0.5133,
+            "x_max": 0.6252,
+            "y_max": 0.5433,
+            "width": 0.0595,
+            "height": 0.03
+          },
+          "confidence": 0.9372
+        },
+        {
+          "text": "rature e",
+          "bbox": {
+            "x_min": 0.4262,
+            "y_min": 0.5347,
+            "x_max": 0.5855,
+            "y_max": 0.6221,
+            "width": 0.1594,
+            "height": 0.0874
+          },
+          "confidence": 0.7498
+        },
+        {
+          "text": "is very low. This leaf, if given the optimal\ntemperature, will start photosynthesising.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.614,
+            "x_max": 0.4915,
+            "y_max": 0.6461,
+            "width": 0.4186,
+            "height": 0.0321
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "11.10.1",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.6688,
+            "x_max": 0.1594,
+            "y_max": 0.6795,
+            "width": 0.087,
+            "height": 0.0107
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "Light",
+          "bbox": {
+            "x_min": 0.1967,
+            "y_min": 0.668,
+            "x_max": 0.2522,
+            "y_max": 0.6834,
+            "width": 0.0555,
+            "height": 0.0154
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "between light qu",
+          "bbox": {
+            "x_min": 0.2685,
+            "y_min": 0.6838,
+            "x_max": 0.4057,
+            "y_max": 0.7121,
+            "width": 0.1372,
+            "height": 0.0283
+          },
+          "confidence": 0.9534
+        },
+        {
+          "text": "We need to distinguish between light quality, light\nintensity and the duration of exposure to light,\nwhile discussing light as a factor that affects\nphotosynthesis. There is a linear relationship\nbetween incident light and CO₂ fixation rates at\nlow light intensities. At higher light intensities,\ngradually the rate does not show further increase\nas other factors become limiting (Figure 11.10).\nWhat is interesting to note is that light saturation\noccurs at 10 per cent of the full sunlight. Hence,",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.6954,
+            "x_max": 0.4921,
+            "y_max": 0.8689,
+            "width": 0.4221,
+            "height": 0.1735
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "Rate of photosynthesis",
+          "bbox": {
+            "x_min": 0.5155,
+            "y_min": 0.6658,
+            "x_max": 0.5324,
+            "y_max": 0.7918,
+            "width": 0.0169,
+            "height": 0.126
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "E",
+          "bbox": {
+            "x_min": 0.5371,
+            "y_min": 0.6924,
+            "x_max": 0.547,
+            "y_max": 0.7027,
+            "width": 0.0099,
+            "height": 0.0103
+          },
+          "confidence": 0.5685
+        },
+        {
+          "text": "A",
+          "bbox": {
+            "x_min": 0.6106,
+            "y_min": 0.7326,
+            "x_max": 0.6287,
+            "y_max": 0.7434,
+            "width": 0.0181,
+            "height": 0.0107
+          },
+          "confidence": 0.9316
+        },
+        {
+          "text": "B",
+          "bbox": {
+            "x_min": 0.6906,
+            "y_min": 0.6838,
+            "x_max": 0.7052,
+            "y_max": 0.6911,
+            "width": 0.0146,
+            "height": 0.0073
+          },
+          "confidence": 0.9569
+        },
+        {
+          "text": "C",
+          "bbox": {
+            "x_min": 0.8004,
+            "y_min": 0.6795,
+            "x_max": 0.8155,
+            "y_max": 0.6868,
+            "width": 0.0152,
+            "height": 0.0073
+          },
+          "confidence": 0.9521
+        },
+        {
+          "text": "D",
+          "bbox": {
+            "x_min": 0.7262,
+            "y_min": 0.8235,
+            "x_max": 0.7426,
+            "y_max": 0.8303,
+            "width": 0.0163,
+            "height": 0.0069
+          },
+          "confidence": 0.9711
+        },
+        {
+          "text": "Light intensity",
+          "bbox": {
+            "x_min": 0.6684,
+            "y_min": 0.8363,
+            "x_max": 0.7788,
+            "y_max": 0.847,
+            "width": 0.1103,
+            "height": 0.0107
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "except for plants in shade or in dense forests, light Figure 11.10 Graph of light intensity on the\nis rarely a limiting factor in nature. Increase in\nrate of photosynthesis",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.8723,
+            "x_max": 0.8938,
+            "y_max": 0.904,
+            "width": 0.8208,
+            "height": 0.0317
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 20,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "150",
+          "bbox": {
+            "x_min": 0.1197,
+            "y_min": 0.0827,
+            "x_max": 0.1576,
+            "y_max": 0.093,
+            "width": 0.0379,
+            "height": 0.0103
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9259,
+            "y_max": 0.0934,
+            "width": 0.0695,
+            "height": 0.0094
+          },
+          "confidence": 0.978
+        },
+        {
+          "text": "incident light beyond a point causes the breakdown of chlorophyll and a\ndecrease in photosynthesis.",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.1354,
+            "x_max": 0.927,
+            "y_max": 0.1667,
+            "width": 0.6241,
+            "height": 0.0313
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "11.10.2 Carbon dioxide Concentration",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.1851,
+            "x_max": 0.7221,
+            "y_max": 0.1975,
+            "width": 0.4186,
+            "height": 0.0124
+          },
+          "confidence": 0.9851
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.4793,
+            "y_min": 0.2438,
+            "x_max": 0.4898,
+            "y_max": 0.2489,
+            "width": 0.0105,
+            "height": 0.0051
+          },
+          "confidence": 0.9736
+        },
+        {
+          "text": "Carbon dioxide is the major limiting factor for photosynthesis. The\nconcentration of CO₂ is very low in the atmosphere (between 0.03 and\n0.04 per cent). Increase in concentration upto 0.05 per cent can cause an\nincrease in CO₂ fixation rates; beyond this the levels can become damaging\nover longer periods.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.2155,
+            "x_max": 0.9259,
+            "y_max": 0.3055,
+            "width": 0.6241,
+            "height": 0.09
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.4227,
+            "y_min": 0.2828,
+            "x_max": 0.4337,
+            "y_max": 0.2879,
+            "width": 0.0111,
+            "height": 0.0051
+          },
+          "confidence": 0.9699
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.7449,
+            "y_min": 0.3209,
+            "x_max": 0.7542,
+            "y_max": 0.3256,
+            "width": 0.0093,
+            "height": 0.0047
+          },
+          "confidence": 0.9749
+        },
+        {
+          "text": "The C3 and C₁ plants respond differently to CO₂ concentrations. At\nlow light conditions neither group responds to high CO₂ conditions. At\nhigh light intensities, both C3 and C₄ plants show increase in the rates of\nphotosynthesis. What is important to note is that the C₁ plants show\nsaturation at about 360 µlL-1 while C3 responds to increased CO₂\nconcentration and saturation is seen only beyond 450 µlL-1. Thus, current\navailability of CO2 levels is limiting to the C3 plants.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.3115,
+            "x_max": 0.9276,
+            "y_max": 0.4404,
+            "width": 0.6258,
+            "height": 0.129
+          },
+          "confidence": 0.9675
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.7554,
+            "y_min": 0.4546,
+            "x_max": 0.7659,
+            "y_max": 0.4597,
+            "width": 0.0105,
+            "height": 0.0051
+          },
+          "confidence": 0.9728
+        },
+        {
+          "text": "The fact that C3 plants respond to higher CO₂ concentration by\nshowing increased rates of photosynthesis leading to higher productivity\nhas been used for some greenhouse crops such as tomatoes and bell\npepper. They are allowed to grow in carbon dioxide enriched atmosphere\nthat leads to higher yields.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.4452,
+            "x_max": 0.9264,
+            "y_max": 0.5347,
+            "width": 0.6241,
+            "height": 0.0895
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "11.10.3",
+          "bbox": {
+            "x_min": 0.3047,
+            "y_min": 0.5548,
+            "x_max": 0.4081,
+            "y_max": 0.5681,
+            "width": 0.1033,
+            "height": 0.0133
+          },
+          "confidence": 0.9724
+        },
+        {
+          "text": "Temperature",
+          "bbox": {
+            "x_min": 0.4069,
+            "y_min": 0.5518,
+            "x_max": 0.5511,
+            "y_max": 0.5703,
+            "width": 0.1442,
+            "height": 0.0184
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "The dark reactions being enzymatic are temperature controlled. Though\nthe light reactions are also temperature sensitive they are affected to a\nmuch lesser extent. The C₁ plants respond to higher temperatures and\nshow higher rate of photosynthesis while C3 plants have a much lower\ntemperature optimum.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.5844,
+            "x_max": 0.927,
+            "y_max": 0.674,
+            "width": 0.6246,
+            "height": 0.0895
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "The temperature optimum for photosynthesis of different plants also\ndepends on the habitat that they are adapted to. Tropical plants have a\nhigher temperature optimum than the plants adapted to temperate\nclimates.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.6799,
+            "x_max": 0.927,
+            "y_max": 0.7481,
+            "width": 0.6258,
+            "height": 0.0681
+          },
+          "confidence": 0.9972
+        },
+        {
+          "text": "hig",
+          "bbox": {
+            "x_min": 0.2983,
+            "y_min": 0.7181,
+            "x_max": 0.3298,
+            "y_max": 0.7412,
+            "width": 0.0315,
+            "height": 0.0231
+          },
+          "confidence": 0.8778
+        },
+        {
+          "text": "11.10.4 Water",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.7699,
+            "x_max": 0.4705,
+            "y_max": 0.7823,
+            "width": 0.1664,
+            "height": 0.0124
+          },
+          "confidence": 0.9814
+        },
+        {
+          "text": "Even though water is one of the reactants in the light reaction, the effect of\nwater as a factor is more through its effect on the plant, rather than directly\non photosynthesis. Water stress causes the stomata to close hence reducing\nthe CO2 availability. Besides, water stress also makes leaves wilt, thus,\nreducing the surface area of the leaves and their metabolic activity as well.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.8008,
+            "x_max": 0.9282,
+            "y_max": 0.8907,
+            "width": 0.6264,
+            "height": 0.09
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1921,
+            "y_min": 0.7099,
+            "x_max": 0.3252,
+            "y_max": 0.8119,
+            "width": 0.1331,
+            "height": 0.102
+          },
+          "confidence": 0.9829
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 21,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "PHOTOSYNTHESIS IN HIGHER PLANTS",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.0823,
+            "x_max": 0.3859,
+            "y_max": 0.093,
+            "width": 0.2709,
+            "height": 0.0107
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "SUMMARY",
+          "bbox": {
+            "x_min": 0.4518,
+            "y_min": 0.1354,
+            "x_max": 0.547,
+            "y_max": 0.1461,
+            "width": 0.0952,
+            "height": 0.0107
+          },
+          "confidence": 0.9637
+        },
+        {
+          "text": "151",
+          "bbox": {
+            "x_min": 0.8482,
+            "y_min": 0.0831,
+            "x_max": 0.8832,
+            "y_max": 0.0938,
+            "width": 0.035,
+            "height": 0.0107
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "Green plants make their own food by photosynthesis. During this process carbon\ndioxide from the atmosphere is taken in by leaves through stomata and used for\nmaking carbohydrates, principally glucose and starch. Photosynthesis takes place\nonly in the green parts of the plants, mainly the leaves. Within the leaves, the\nmesophyll cells have a large number of chloroplasts that are responsible for CO₂\nfixation. Within the chloroplasts, the membranes are sites for the light reaction,\nwhile the chemosynthetic pathway occurs in the stroma. Photosynthesis has two\nstages: the light reaction and the carbon fixing reactions. In the light reaction the\nlight energy is absorbed by the pigments present in the antenna, and funnelled to\nspecial chlorophyll a molecules called reaction centre chlorophylls. There are two\nphotosystems, PS I and PS II. PS I has a 700 nm absorbing chlorophyll a P700\nmolecule at its reaction centre, while PS II has a P680 reaction centre that absorbs\nred light at 680 nm. After absorbing light, electrons are excited and transferred\nthrough PS II and PS I and finally to NAD forming NADH. During this process a\nproton gradient is created across the membrane of the thylakoid. The breakdown\nof the protons gradient due to movement through the Fo part of the ATPase enzyme\nreleases enough energy for synthesis of ATP. Splitting of water molecules is\nassociated with PS II resulting in the release of O₂, protons and transfer of electrons\nto PS II.",
+          "bbox": {
+            "x_min": 0.1337,
+            "y_min": 0.1864,
+            "x_max": 0.833,
+            "y_max": 0.5167,
+            "width": 0.6994,
+            "height": 0.3303
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.4483,
+            "y_min": 0.5338,
+            "x_max": 0.4588,
+            "y_max": 0.539,
+            "width": 0.0105,
+            "height": 0.0051
+          },
+          "confidence": 0.974
+        },
+        {
+          "text": "In the carbon fixation cycle, CO₂ is added by the enzyme, RuBisCO, to a 5-\ncarbon compound RuBP that is converted to 2 molecules of 3-carbon PGA. This\nis then converted to sugar by the Calvin cycle, and the RuBP is regenerated. During\nthis process ATP and NADPH synthesised in the light reaction are utilised. RuBisCO\nalso catalyses a wasteful oxygenation reaction in C3 plants: photorespiration.",
+          "bbox": {
+            "x_min": 0.1349,
+            "y_min": 0.5244,
+            "x_max": 0.8325,
+            "y_max": 0.6114,
+            "width": 0.6976,
+            "height": 0.087
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "Some tropical plants show a special type of photosynthesis called C₁ pathway.\nIn these plants the first product of CO2 fixation that takes place in the mesophyll,\nis a 4-carbon compound. In the bundle sheath cells the Calvin pathway is carried\nout for the synthesis of",
+          "bbox": {
+            "x_min": 0.1354,
+            "y_min": 0.614,
+            "x_max": 0.8325,
+            "y_max": 0.6812,
+            "width": 0.697,
+            "height": 0.0673
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "kin Orbohydrates.",
+          "bbox": {
+            "x_min": 0.1629,
+            "y_min": 0.6037,
+            "x_max": 0.5213,
+            "y_max": 0.8389,
+            "width": 0.3584,
+            "height": 0.2352
+          },
+          "confidence": 0.7116
+        },
+        {
+          "text": "EXERCISES",
+          "bbox": {
+            "x_min": 0.4466,
+            "y_min": 0.7318,
+            "x_max": 0.5505,
+            "y_max": 0.7425,
+            "width": 0.1039,
+            "height": 0.0107
+          },
+          "confidence": 0.9808
+        },
+        {
+          "text": "1. By looking at a plant externally, can you tell whether a plant is C₃ or C₄? Why",
+          "bbox": {
+            "x_min": 0.1378,
+            "y_min": 0.7819,
+            "x_max": 0.833,
+            "y_max": 0.7965,
+            "width": 0.6953,
+            "height": 0.0146
+          },
+          "confidence": 0.9671
+        },
+        {
+          "text": "and how?",
+          "bbox": {
+            "x_min": 0.1664,
+            "y_min": 0.8003,
+            "x_max": 0.2469,
+            "y_max": 0.8093,
+            "width": 0.0806,
+            "height": 0.009
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "2. By looking at which internal structure of a plant you can tell whether a plant is\nC3 or C₁? Explain.",
+          "bbox": {
+            "x_min": 0.1354,
+            "y_min": 0.8213,
+            "x_max": 0.8325,
+            "y_max": 0.8535,
+            "width": 0.697,
+            "height": 0.0321
+          },
+          "confidence": 0.9726
+        },
+        {
+          "text": "4",
+          "bbox": {
+            "x_min": 0.4694,
+            "y_min": 0.8702,
+            "x_max": 0.4793,
+            "y_max": 0.8749,
+            "width": 0.0099,
+            "height": 0.0047
+          },
+          "confidence": 0.9659
+        },
+        {
+          "text": "3. Even though a very few cells in a C₁ plant carry out the biosynthetic – Calvin\npathway, yet they are highly productive. Can you discuss why?",
+          "bbox": {
+            "x_min": 0.136,
+            "y_min": 0.8616,
+            "x_max": 0.833,
+            "y_max": 0.892,
+            "width": 0.697,
+            "height": 0.0304
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 22,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "152",
+          "bbox": {
+            "x_min": 0.1208,
+            "y_min": 0.0827,
+            "x_max": 0.157,
+            "y_max": 0.093,
+            "width": 0.0362,
+            "height": 0.0103
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.0835,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0683,
+            "height": 0.0094
+          },
+          "confidence": 0.9771
+        },
+        {
+          "text": "4. RuBisCO is an enzyme that acts both as a carboxylase and oxygenase. Why do\nyou think RuBisCO carries out more carboxylation in C₁ plants?",
+          "bbox": {
+            "x_min": 0.1664,
+            "y_min": 0.1362,
+            "x_max": 0.8634,
+            "y_max": 0.168,
+            "width": 0.697,
+            "height": 0.0317
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "5. Suppose there were plants that had a high concentration of Chlorophyll b, but\nlacked chlorophyll a, would it carry out photosynthesis? Then why do plants\nhave chlorophyll b and other accessory pigments?",
+          "bbox": {
+            "x_min": 0.167,
+            "y_min": 0.1752,
+            "x_max": 0.8634,
+            "y_max": 0.2241,
+            "width": 0.6964,
+            "height": 0.0488
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "6. Why is the colour of a leaf kept in the dark frequently becomes yellow, or pale\ngreen? Which pigment do you think is more stable?",
+          "bbox": {
+            "x_min": 0.1658,
+            "y_min": 0.2326,
+            "x_max": 0.8646,
+            "y_max": 0.2631,
+            "width": 0.6988,
+            "height": 0.0304
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "7. Look at leaves of the same plant on the shady side and compare it with the\nleaves on the sunny side. Or, compare the potted plants kept in the sunlight with\nthose in the shade. Which of them has leaves that are darker green? Why?",
+          "bbox": {
+            "x_min": 0.1664,
+            "y_min": 0.2725,
+            "x_max": 0.864,
+            "y_max": 0.3209,
+            "width": 0.6976,
+            "height": 0.0484
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "8. Figure 11.10 shows the effect of light on the rate of photosynthesis. Based on the\ngraph, answer the following questions:",
+          "bbox": {
+            "x_min": 0.1664,
+            "y_min": 0.3299,
+            "x_max": 0.8634,
+            "y_max": 0.3603,
+            "width": 0.697,
+            "height": 0.0304
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "(a) At which point/s (A, B or C) in the curve light is a limiting factor?",
+          "bbox": {
+            "x_min": 0.1996,
+            "y_min": 0.3668,
+            "x_max": 0.7752,
+            "y_max": 0.3826,
+            "width": 0.5756,
+            "height": 0.0159
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "(b) What could be the limiting factor/s in region A?",
+          "bbox": {
+            "x_min": 0.1996,
+            "y_min": 0.3865,
+            "x_max": 0.6258,
+            "y_max": 0.3997,
+            "width": 0.4262,
+            "height": 0.0133
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "(c) What do C and D represent on the curve?",
+          "bbox": {
+            "x_min": 0.1996,
+            "y_min": 0.4049,
+            "x_max": 0.5779,
+            "y_max": 0.4173,
+            "width": 0.3783,
+            "height": 0.0124
+          },
+          "confidence": 0.985
+        },
+        {
+          "text": "9. Give comparison between the following:",
+          "bbox": {
+            "x_min": 0.1664,
+            "y_min": 0.4263,
+            "x_max": 0.5271,
+            "y_max": 0.4387,
+            "width": 0.3608,
+            "height": 0.0124
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "(a) C3 and C4 pathways",
+          "bbox": {
+            "x_min": 0.1991,
+            "y_min": 0.4477,
+            "x_max": 0.3923,
+            "y_max": 0.4619,
+            "width": 0.1932,
+            "height": 0.0141
+          },
+          "confidence": 0.9077
+        },
+        {
+          "text": "(b) Cyclic and non-cyclic photophosphorylation",
+          "bbox": {
+            "x_min": 0.1996,
+            "y_min": 0.4662,
+            "x_max": 0.5937,
+            "y_max": 0.479,
+            "width": 0.394,
+            "height": 0.0129
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "(c) Anatomy of leaf in C, and C, plants",
+          "bbox": {
+            "x_min": 0.1985,
+            "y_min": 0.4794,
+            "x_max": 0.519,
+            "y_max": 0.5017,
+            "width": 0.3205,
+            "height": 0.0223
+          },
+          "confidence": 0.9239
+        },
+        {
+          "text": "© NCERT",
+          "bbox": {
+            "x_min": 0.2971,
+            "y_min": 0.4023,
+            "x_max": 0.603,
+            "y_max": 0.6277,
+            "width": 0.3059,
+            "height": 0.2254
+          },
+          "confidence": 0.8292
+        },
+        {
+          "text": "not to be republished",
+          "bbox": {
+            "x_min": 0.1775,
+            "y_min": 0.3025,
+            "x_max": 0.8914,
+            "y_max": 0.8179,
+            "width": 0.714,
+            "height": 0.5154
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

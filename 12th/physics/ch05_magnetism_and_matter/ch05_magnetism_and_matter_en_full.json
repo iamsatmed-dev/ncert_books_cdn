@@ -1,0 +1,6336 @@
+{
+  "chapter_id": "12th_physics_ch05_magnetism_and_matter_ch05_magnetism_and_matter_en",
+  "total_pages": 18,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "Chapter Five",
+          "bbox": {
+            "x_min": 0.097,
+            "y_min": 0.1389,
+            "x_max": 0.3991,
+            "y_max": 0.1735,
+            "width": 0.3021,
+            "height": 0.0346
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "MAGNETISM AND",
+          "bbox": {
+            "x_min": 0.0981,
+            "y_min": 0.2063,
+            "x_max": 0.7441,
+            "y_max": 0.2533,
+            "width": 0.646,
+            "height": 0.047
+          },
+          "confidence": 0.9868
+        },
+        {
+          "text": "MATTER",
+          "bbox": {
+            "x_min": 0.0981,
+            "y_min": 0.2831,
+            "x_max": 0.3737,
+            "y_max": 0.3274,
+            "width": 0.2756,
+            "height": 0.0444
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.2165,
+            "y_min": 0.7098,
+            "x_max": 0.3377,
+            "y_max": 0.8119,
+            "width": 0.1212,
+            "height": 0.102
+          },
+          "confidence": 0.9729
+        },
+        {
+          "text": "12089CH05",
+          "bbox": {
+            "x_min": 0.7751,
+            "y_min": 0.1646,
+            "x_max": 0.8196,
+            "y_max": 0.1695,
+            "width": 0.0445,
+            "height": 0.0049
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "NCERT",
+          "bbox": {
+            "x_min": 0.3754,
+            "y_min": 0.3949,
+            "x_max": 0.6054,
+            "y_max": 0.5745,
+            "width": 0.23,
+            "height": 0.1797
+          },
+          "confidence": 0.8699
+        },
+        {
+          "text": "republished",
+          "bbox": {
+            "x_min": 0.4775,
+            "y_min": 0.307,
+            "x_max": 0.8563,
+            "y_max": 0.5994,
+            "width": 0.3788,
+            "height": 0.2924
+          },
+          "confidence": 0.9294
+        },
+        {
+          "text": "5.1 INTRODUCTION",
+          "bbox": {
+            "x_min": 0.3134,
+            "y_min": 0.5834,
+            "x_max": 0.5287,
+            "y_max": 0.6007,
+            "width": 0.2153,
+            "height": 0.0173
+          },
+          "confidence": 0.9739
+        },
+        {
+          "text": "Magnetic phenomena are universal in nature. Vast, distant galaxies, the\ntiny invisible atoms, humans and beasts all are permeated through and\nthrough with a host of magnetic fields from a variety of sources. The earth's\nmagnetism predates human evolution. The word magnet is derived from\nthe name of an island in Greece called magnesia where magnetic ore\ndeposits were found, as early as 600 BC.",
+          "bbox": {
+            "x_min": 0.3129,
+            "y_min": 0.614,
+            "x_max": 0.9008,
+            "y_max": 0.713,
+            "width": 0.5879,
+            "height": 0.0989
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "In the previous chapter we have learned that moving charges or electric\ncurre\ncurrents produce magnetic fields. This discovery, which was made in the\nearly part of the nineteenth century is credited to Oersted, Ampere, Biot\nand Savart, among others.",
+          "bbox": {
+            "x_min": 0.3112,
+            "y_min": 0.7072,
+            "x_max": 0.9036,
+            "y_max": 0.7875,
+            "width": 0.5924,
+            "height": 0.0803
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "In the present chapter, we take a look at magnetism as a subject in its\nown right.",
+          "bbox": {
+            "x_min": 0.3134,
+            "y_min": 0.7875,
+            "x_max": 0.9008,
+            "y_max": 0.8177,
+            "width": 0.5874,
+            "height": 0.0302
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "Some of the commonly known ideas regarding magnetism are:\n(i) The earth behaves as a magnet with the magnetic field pointing\napproximately from the geographic south to the north.",
+          "bbox": {
+            "x_min": 0.3129,
+            "y_min": 0.8212,
+            "x_max": 0.9019,
+            "y_max": 0.8718,
+            "width": 0.5891,
+            "height": 0.0506
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "(ii) When a bar magnet is freely suspended, it points in the north-south\ndirection. The tip which points to the geographic north is called the\nnorth pole and the tip which points to the geographic south is called\nthe south pole of the magnet.",
+          "bbox": {
+            "x_min": 0.3129,
+            "y_min": 0.8758,
+            "x_max": 0.9008,
+            "y_max": 0.9419,
+            "width": 0.5879,
+            "height": 0.0661
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "*",
+          "bbox": {
+            "x_min": 0.097,
+            "y_min": 0.8988,
+            "x_max": 0.1071,
+            "y_max": 0.9037,
+            "width": 0.0101,
+            "height": 0.0049
+          },
+          "confidence": 0.9442
+        },
+        {
+          "text": "Magnetism and\nMatter",
+          "bbox": {
+            "x_min": 0.6178,
+            "y_min": 0.0692,
+            "x_max": 0.8016,
+            "y_max": 0.1078,
+            "width": 0.1838,
+            "height": 0.0386
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "(iii) There is a repulsive force when north poles (or south poles ) of two\nmagnets are brought close together. Conversely, there is an attractive\nforce between the north pole of one magnet and the south pole of\nthe other.",
+          "bbox": {
+            "x_min": 0.0975,
+            "y_min": 0.1309,
+            "x_max": 0.6871,
+            "y_max": 0.1939,
+            "width": 0.5896,
+            "height": 0.063
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "(iv) We cannot isolate the north, or south pole of a magnet. If a bar magnet\nis broken into two halves, we get two similar bar magnets with\nsomewhat weaker properties. Unlike electric charges, isolated magnetic\nnorth and south poles known as magnetic monopoles do not exist.",
+          "bbox": {
+            "x_min": 0.097,
+            "y_min": 0.2014,
+            "x_max": 0.686,
+            "y_max": 0.268,
+            "width": 0.5891,
+            "height": 0.0665
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "(v) It is possible to make magnets out of iron and its alloys.",
+          "bbox": {
+            "x_min": 0.0981,
+            "y_min": 0.2724,
+            "x_max": 0.584,
+            "y_max": 0.2866,
+            "width": 0.4859,
+            "height": 0.0142
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "We begin with a description of a bar magnet and its behaviour in an\nexternal magnetic field. We describe Gauss's law of magnetism. We next\ndescribe how materials can be classified on the basis of their magnetic\nproperties. We describe para-, dia-, and ferromagnetism.",
+          "bbox": {
+            "x_min": 0.0975,
+            "y_min": 0.2919,
+            "x_max": 0.6866,
+            "y_max": 0.3571,
+            "width": 0.5891,
+            "height": 0.0652
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "5.2 THE BAR MAGNET",
+          "bbox": {
+            "x_min": 0.0975,
+            "y_min": 0.3713,
+            "x_max": 0.3737,
+            "y_max": 0.3878,
+            "width": 0.2762,
+            "height": 0.0164
+          },
+          "confidence": 0.986
+        },
+        {
+          "text": "We begin our study by examining iron\nfilings sprinkled on a sheet of glass placed\nover a short bar magnet. The arrangement\nof iron filings is shown in Fig. 5.1.",
+          "bbox": {
+            "x_min": 0.0964,
+            "y_min": 0.4015,
+            "x_max": 0.4273,
+            "y_max": 0.4636,
+            "width": 0.3309,
+            "height": 0.0621
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "The pattern of iron filings suggests\nthat the magnet has two poles similar to\nthe positive and negative charge of an\nelectric dipole. As mentioned in the\nintroductory section, one pole is\ndesignated the North pole and the other,\nthe South pole. When suspended freely,\nthese poles point approximately towards\nthe geographic north and south poles,\nrespectively. A similar pattern of iron\nfilings is observed around a current\ncarrying solenoid.",
+          "bbox": {
+            "x_min": 0.0975,
+            "y_min": 0.4672,
+            "x_max": 0.4273,
+            "y_max": 0.6615,
+            "width": 0.3298,
+            "height": 0.1943
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "Shed",
+          "bbox": {
+            "x_min": 0.6674,
+            "y_min": 0.3048,
+            "x_max": 0.854,
+            "y_max": 0.4472,
+            "width": 0.1866,
+            "height": 0.1424
+          },
+          "confidence": 0.8661
+        },
+        {
+          "text": "FIGURE 5.1 The arrangement\nof iron filings surrounding a bar",
+          "bbox": {
+            "x_min": 0.4464,
+            "y_min": 0.6624,
+            "x_max": 0.7007,
+            "y_max": 0.689,
+            "width": 0.2542,
+            "height": 0.0266
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "magnet. The pattern mimics\nmagnetic field lines. The pattern\nsuggests that the bar magnet is\na magnetic dipole.",
+          "bbox": {
+            "x_min": 0.4453,
+            "y_min": 0.6921,
+            "x_max": 0.7007,
+            "y_max": 0.7489,
+            "width": 0.2554,
+            "height": 0.0568
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "5.2.1 The magnetic field lines\nThe pattern of iron filings permits us to plot\nthe magnetic field lines*. This is shown both\nfor the bar-magnet and the current-\ncarrying solenoid in Fig. 5.2. For\ncomparison refer to the Chapter 1, Figure 1.14(d). Electric field lines of an\nelectric dipole are also displayed in Fig. 5.2(c). The magnetic field lines are a\nvisual and intuitive realisation of the magnetic field. Their properties are:\n(i) The magnetic field lines of a magnet (or a solenoid) form continuous",
+          "bbox": {
+            "x_min": 0.0964,
+            "y_min": 0.6744,
+            "x_max": 0.6855,
+            "y_max": 0.8274,
+            "width": 0.5891,
+            "height": 0.1531
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "closed loops. This is unlike the electric dipole where these field lines\nbegin from a positive charge and end on the negative charge or escape\nto infinity.",
+          "bbox": {
+            "x_min": 0.1257,
+            "y_min": 0.8305,
+            "x_max": 0.686,
+            "y_max": 0.8762,
+            "width": 0.5603,
+            "height": 0.0457
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "In some textbooks the magnetic field lines are called magnetic lines of force.\nThis nomenclature is avoided since it can be confusing. Unlike electrostatics\nthe field lines in magnetism do not indicate the direction of the force on a\n(moving) charge.",
+          "bbox": {
+            "x_min": 0.1178,
+            "y_min": 0.8993,
+            "x_max": 0.6855,
+            "y_max": 0.9539,
+            "width": 0.5676,
+            "height": 0.0546
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "137",
+          "bbox": {
+            "x_min": 0.8275,
+            "y_min": 0.9241,
+            "x_max": 0.8591,
+            "y_max": 0.9339,
+            "width": 0.0316,
+            "height": 0.0098
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "i",
+          "bbox": {
+            "x_min": 0.1736,
+            "y_min": 0.3722,
+            "x_max": 0.1815,
+            "y_max": 0.3789,
+            "width": 0.0079,
+            "height": 0.0067
+          },
+          "confidence": 0.9517
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.243,
+            "y_min": 0.3988,
+            "x_max": 0.261,
+            "y_max": 0.4095,
+            "width": 0.018,
+            "height": 0.0106
+          },
+          "confidence": 0.9759
+        },
+        {
+          "text": "Axis",
+          "bbox": {
+            "x_min": 0.239,
+            "y_min": 0.1455,
+            "x_max": 0.248,
+            "y_max": 0.1699,
+            "width": 0.009,
+            "height": 0.0244
+          },
+          "confidence": 0.973
+        },
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.23,
+            "y_min": 0.0878,
+            "x_max": 0.3388,
+            "y_max": 0.1118,
+            "width": 0.1088,
+            "height": 0.024
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "B",
+          "bbox": {
+            "x_min": 0.2886,
+            "y_min": 0.1739,
+            "x_max": 0.301,
+            "y_max": 0.1797,
+            "width": 0.0124,
+            "height": 0.0058
+          },
+          "confidence": 0.9606
+        },
+        {
+          "text": "(ii)",
+          "bbox": {
+            "x_min": 0.301,
+            "y_min": 0.2329,
+            "x_max": 0.3179,
+            "y_max": 0.2422,
+            "width": 0.0169,
+            "height": 0.0093
+          },
+          "confidence": 0.8941
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.5231,
+            "y_min": 0.3997,
+            "x_max": 0.5406,
+            "y_max": 0.4095,
+            "width": 0.0175,
+            "height": 0.0098
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "Axis",
+          "bbox": {
+            "x_min": 0.5197,
+            "y_min": 0.1406,
+            "x_max": 0.5282,
+            "y_max": 0.1646,
+            "width": 0.0085,
+            "height": 0.024
+          },
+          "confidence": 0.9815
+        },
+        {
+          "text": "(ii",
+          "bbox": {
+            "x_min": 0.5817,
+            "y_min": 0.2289,
+            "x_max": 0.5947,
+            "y_max": 0.2387,
+            "width": 0.013,
+            "height": 0.0098
+          },
+          "confidence": 0.8117
+        },
+        {
+          "text": "B",
+          "bbox": {
+            "x_min": 0.5699,
+            "y_min": 0.1704,
+            "x_max": 0.5834,
+            "y_max": 0.177,
+            "width": 0.0135,
+            "height": 0.0067
+          },
+          "confidence": 0.958
+        },
+        {
+          "text": "Axis",
+          "bbox": {
+            "x_min": 0.7864,
+            "y_min": 0.1398,
+            "x_max": 0.7959,
+            "y_max": 0.1642,
+            "width": 0.0096,
+            "height": 0.0244
+          },
+          "confidence": 0.9744
+        },
+        {
+          "text": "FIGURE 5.2 The field lines of (a) a bar magnet, (b) a current-carrying finite solenoid and",
+          "bbox": {
+            "x_min": 0.164,
+            "y_min": 0.4281,
+            "x_max": 0.8664,
+            "y_max": 0.441,
+            "width": 0.7024,
+            "height": 0.0129
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "(c) electric The curves",
+          "bbox": {
+            "x_min": 0.2018,
+            "y_min": 0.4432,
+            "x_max": 0.8275,
+            "y_max": 0.4561,
+            "width": 0.6257,
+            "height": 0.0129
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "dipole. At large distances, the field lines are ve-carryi",
+          "bbox": {
+            "x_min": 0.2869,
+            "y_min": 0.421,
+            "x_max": 0.7035,
+            "y_max": 0.4694,
+            "width": 0.4166,
+            "height": 0.0484
+          },
+          "confidence": 0.9469
+        },
+        {
+          "text": "Ο",
+          "bbox": {
+            "x_min": 0.2616,
+            "y_min": 0.5768,
+            "x_max": 0.2756,
+            "y_max": 0.5847,
+            "width": 0.0141,
+            "height": 0.008
+          },
+          "confidence": 0.6723
+        },
+        {
+          "text": "dx",
+          "bbox": {
+            "x_min": 0.2993,
+            "y_min": 0.5053,
+            "x_max": 0.323,
+            "y_max": 0.5133,
+            "width": 0.0237,
+            "height": 0.008
+          },
+          "confidence": 0.9733
+        },
+        {
+          "text": "labelled i and ii are",
+          "bbox": {
+            "x_min": 0.3269,
+            "y_min": 0.4583,
+            "x_max": 0.4938,
+            "y_max": 0.4689,
+            "width": 0.1669,
+            "height": 0.0106
+          },
+          "confidence": 0.9402
+        },
+        {
+          "text": "B",
+          "bbox": {
+            "x_min": 0.5118,
+            "y_min": 0.7387,
+            "x_max": 0.5265,
+            "y_max": 0.7458,
+            "width": 0.0147,
+            "height": 0.0071
+          },
+          "confidence": 0.9599
+        },
+        {
+          "text": "FIGURE 5.3 Calculation of (a) The axial field of a\nfinite solenoid in order to demonstrate its\nsimilarity to that of a bar magnet. (b) A magnetic\nneedle in a uniform magnetic field B. The\narrangement may be used to determine either B\nor the magnetic moment m of the needle.",
+          "bbox": {
+            "x_min": 0.1325,
+            "y_min": 0.8159,
+            "x_max": 0.5231,
+            "y_max": 0.9028,
+            "width": 0.3906,
+            "height": 0.087
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "138",
+          "bbox": {
+            "x_min": 0.1409,
+            "y_min": 0.9241,
+            "x_max": 0.1731,
+            "y_max": 0.9335,
+            "width": 0.0321,
+            "height": 0.0093
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "(ii) The tangent to the field line at a given\npoint represents the direction of the net\nmagnetic field B at that point.",
+          "bbox": {
+            "x_min": 0.5654,
+            "y_min": 0.4889,
+            "x_max": 0.9025,
+            "y_max": 0.5364,
+            "width": 0.3371,
+            "height": 0.0475
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "(iii) The larger the number of field lines\ncrossing per unit area, the stronger is\nthe magnitude of the magnetic field B.\nIn Fig. 5.2(a), B is larger around\nregion ii than in regioni.",
+          "bbox": {
+            "x_min": 0.5654,
+            "y_min": 0.539,
+            "x_max": 0.9008,
+            "y_max": 0.6185,
+            "width": 0.3354,
+            "height": 0.0794
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "(iv) The magnetic field lines do not\nintersect, for if they did, the direction\nof the magnetic field would not be\nunique at the point of intersection.",
+          "bbox": {
+            "x_min": 0.5648,
+            "y_min": 0.6202,
+            "x_max": 0.9014,
+            "y_max": 0.6841,
+            "width": 0.3365,
+            "height": 0.0639
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "One can plot the magnetic field lines\nin a variety of ways. One way is to place a\nsmall magnetic compass needle at various\npositions and note its orientation. This\ngives us an idea of the magnetic field\ndirection at various points in space.",
+          "bbox": {
+            "x_min": 0.5643,
+            "y_min": 0.6872,
+            "x_max": 0.9014,
+            "y_max": 0.7822,
+            "width": 0.3371,
+            "height": 0.0949
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "5.2.2 Bar magnet as an\nequivalent solenoid",
+          "bbox": {
+            "x_min": 0.5648,
+            "y_min": 0.7964,
+            "x_max": 0.9025,
+            "y_max": 0.8296,
+            "width": 0.3377,
+            "height": 0.0333
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "In the previous chapter, we have\nexplained how a current loop acts as a\nmagnetic dipole (Section 4.9). We\nmentioned Ampere's hypothesis that all\nmagnetic phenomena can be explained in\nterms of circulating currents.",
+          "bbox": {
+            "x_min": 0.5648,
+            "y_min": 0.8385,
+            "x_max": 0.9019,
+            "y_max": 0.9343,
+            "width": 0.3371,
+            "height": 0.0958
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "E",
+          "bbox": {
+            "x_min": 0.8495,
+            "y_min": 0.1655,
+            "x_max": 0.8625,
+            "y_max": 0.1717,
+            "width": 0.013,
+            "height": 0.0062
+          },
+          "confidence": 0.9346
+        },
+        {
+          "text": "(ii",
+          "bbox": {
+            "x_min": 0.8608,
+            "y_min": 0.2209,
+            "x_max": 0.8743,
+            "y_max": 0.2307,
+            "width": 0.0135,
+            "height": 0.0098
+          },
+          "confidence": 0.9539
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "Magnetism and\nMatter",
+          "bbox": {
+            "x_min": 0.6178,
+            "y_min": 0.0692,
+            "x_max": 0.8016,
+            "y_max": 0.1078,
+            "width": 0.1838,
+            "height": 0.0386
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "The resemblance of magnetic field lines for a bar magnet and a solenoid\nsuggest that a bar magnet may be thought of as a large number of\ncirculating currents in analogy with a solenoid. Cutting a bar magnet in\nhalf is like cutting a solenoid. We get two smaller solenoids with weaker\nmagnetic properties. The field lines remain continuous, emerging from\none face of the solenoid and entering into the other face. One can test this\nanalogy by moving a small compass needle in the neighbourhood of a\nbar magnet and a current-carrying finite solenoid and noting that the\ndeflections of the needle are similar in both cases.",
+          "bbox": {
+            "x_min": 0.097,
+            "y_min": 0.1309,
+            "x_max": 0.6866,
+            "y_max": 0.2733,
+            "width": 0.5896,
+            "height": 0.1424
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "To make this analogy more firm we may calculate the axial field of a\nfinite solenoid depicted in Fig. 5.3 (a). We can demonstrate that at large\ndistances this axial field resembles that of a bar magnet.",
+          "bbox": {
+            "x_min": 0.0975,
+            "y_min": 0.2795,
+            "x_max": 0.6866,
+            "y_max": 0.3256,
+            "width": 0.5891,
+            "height": 0.0461
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "The magnitude of the field at point P due to the solenoid is",
+          "bbox": {
+            "x_min": 0.1263,
+            "y_min": 0.3292,
+            "x_max": 0.6048,
+            "y_max": 0.3421,
+            "width": 0.4786,
+            "height": 0.0129
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "B =",
+          "bbox": {
+            "x_min": 0.1291,
+            "y_min": 0.3594,
+            "x_max": 0.1578,
+            "y_max": 0.3673,
+            "width": 0.0287,
+            "height": 0.008
+          },
+          "confidence": 0.9304
+        },
+        {
+          "text": "μο 2m\n4π r3",
+          "bbox": {
+            "x_min": 0.1612,
+            "y_min": 0.3505,
+            "x_max": 0.2159,
+            "y_max": 0.3762,
+            "width": 0.0547,
+            "height": 0.0257
+          },
+          "confidence": 0.8149
+        },
+        {
+          "text": "(5.1)",
+          "bbox": {
+            "x_min": 0.6466,
+            "y_min": 0.3589,
+            "x_max": 0.6843,
+            "y_max": 0.3718,
+            "width": 0.0378,
+            "height": 0.0129
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "This is also the far axial magnetic field of a bar magnet which one may\nobtain experimentally. Thus, a bar magnet and a solenoid produce similar\nmagnetic fields. The magnetic moment of a bar magnet is thus equal to\nthe magnetic moment of an equivalent solenoid that produces the same\nmagnetic field.",
+          "bbox": {
+            "x_min": 0.0981,
+            "y_min": 0.3833,
+            "x_max": 0.6871,
+            "y_max": 0.4632,
+            "width": 0.5891,
+            "height": 0.0799
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "5.2.3 The dipole in a uniform magnetic field",
+          "bbox": {
+            "x_min": 0.0981,
+            "y_min": 0.4765,
+            "x_max": 0.5637,
+            "y_max": 0.4925,
+            "width": 0.4656,
+            "height": 0.016
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "nd is the angle by restablished",
+          "bbox": {
+            "x_min": 0.2841,
+            "y_min": 0.3039,
+            "x_max": 0.8906,
+            "y_max": 0.6344,
+            "width": 0.6065,
+            "height": 0.3305
+          },
+          "confidence": 0.7199
+        },
+        {
+          "text": "Let's place a small compass needle of known magnetic moment m allowing\nit to oscillate in the magnetic field. This arrangement is shown in\nFig. 5.3(b).",
+          "bbox": {
+            "x_min": 0.0981,
+            "y_min": 0.5009,
+            "x_max": 0.6866,
+            "y_max": 0.547,
+            "width": 0.5885,
+            "height": 0.0461
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "The torque on the needle is [see Eq. (4.23)],\nτ = m × B",
+          "bbox": {
+            "x_min": 0.1263,
+            "y_min": 0.5541,
+            "x_max": 0.4769,
+            "y_max": 0.5847,
+            "width": 0.3506,
+            "height": 0.0306
+          },
+          "confidence": 0.9555
+        },
+        {
+          "text": "In magnitude τ = mB sine",
+          "bbox": {
+            "x_min": 0.0981,
+            "y_min": 0.5905,
+            "x_max": 0.3067,
+            "y_max": 0.6034,
+            "width": 0.2086,
+            "height": 0.0129
+          },
+          "confidence": 0.9391
+        },
+        {
+          "text": "Here",
+          "bbox": {
+            "x_min": 0.0975,
+            "y_min": 0.6069,
+            "x_max": 0.1359,
+            "y_max": 0.6198,
+            "width": 0.0383,
+            "height": 0.0129
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "(5.2)",
+          "bbox": {
+            "x_min": 0.646,
+            "y_min": 0.5741,
+            "x_max": 0.6843,
+            "y_max": 0.5865,
+            "width": 0.0383,
+            "height": 0.0124
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "is restoring torque and @ is the angle between m and B.\nAn expression for magnetic potential energy can be obtained on lines",
+          "bbox": {
+            "x_min": 0.1263,
+            "y_min": 0.6065,
+            "x_max": 0.6849,
+            "y_max": 0.6375,
+            "width": 0.5586,
+            "height": 0.0311
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "similar to electrostatic potential energy.",
+          "bbox": {
+            "x_min": 0.0986,
+            "y_min": 0.6406,
+            "x_max": 0.4228,
+            "y_max": 0.6535,
+            "width": 0.3241,
+            "height": 0.0129
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "The magnetic potential energy U is given by",
+          "bbox": {
+            "x_min": 0.097,
+            "y_min": 0.6571,
+            "x_max": 0.4656,
+            "y_max": 0.6699,
+            "width": 0.3687,
+            "height": 0.0129
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "Um = ∫ τ(0)d0",
+          "bbox": {
+            "x_min": 0.1297,
+            "y_min": 0.6766,
+            "x_max": 0.2322,
+            "y_max": 0.6952,
+            "width": 0.1026,
+            "height": 0.0186
+          },
+          "confidence": 0.713
+        },
+        {
+          "text": "=",
+          "bbox": {
+            "x_min": 0.159,
+            "y_min": 0.7121,
+            "x_max": 0.1691,
+            "y_max": 0.7156,
+            "width": 0.0101,
+            "height": 0.0035
+          },
+          "confidence": 0.9453
+        },
+        {
+          "text": "Bcos",
+          "bbox": {
+            "x_min": 0.3292,
+            "y_min": 0.7054,
+            "x_max": 0.3698,
+            "y_max": 0.7192,
+            "width": 0.0406,
+            "height": 0.0138
+          },
+          "confidence": 0.9216
+        },
+        {
+          "text": "m",
+          "bbox": {
+            "x_min": 0.363,
+            "y_min": 0.6673,
+            "x_max": 0.3754,
+            "y_max": 0.6713,
+            "width": 0.0124,
+            "height": 0.004
+          },
+          "confidence": 0.9417
+        },
+        {
+          "text": "mB sinode = -mBcos θ",
+          "bbox": {
+            "x_min": 0.1849,
+            "y_min": 0.7076,
+            "x_max": 0.3816,
+            "y_max": 0.7183,
+            "width": 0.1967,
+            "height": 0.0106
+          },
+          "confidence": 0.7898
+        },
+        {
+          "text": "= fmB",
+          "bbox": {
+            "x_min": 0.1652,
+            "y_min": 0.7041,
+            "x_max": 0.2108,
+            "y_max": 0.724,
+            "width": 0.0457,
+            "height": 0.02
+          },
+          "confidence": 0.6359
+        },
+        {
+          "text": "= -m.B",
+          "bbox": {
+            "x_min": 0.1567,
+            "y_min": 0.7303,
+            "x_max": 0.2176,
+            "y_max": 0.74,
+            "width": 0.0609,
+            "height": 0.0098
+          },
+          "confidence": 0.9328
+        },
+        {
+          "text": "=-mb",
+          "bbox": {
+            "x_min": 0.2824,
+            "y_min": 0.7054,
+            "x_max": 0.3405,
+            "y_max": 0.7298,
+            "width": 0.0581,
+            "height": 0.0244
+          },
+          "confidence": 0.7525
+        },
+        {
+          "text": "(5.3)",
+          "bbox": {
+            "x_min": 0.6471,
+            "y_min": 0.7294,
+            "x_max": 0.6849,
+            "y_max": 0.7422,
+            "width": 0.0378,
+            "height": 0.0129
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "We have emphasised in Chapter 2 that the zero of potential energy\ncan be fixed at one's convenience. Taking the constant of integration to be\nzero means fixing the zero of potential energy at 0 = 90°, i.e., when the\nneedle is perpendicular to the field. Equation (5.3) shows that potential\nenergy is minimum (= −mB) at 0 = 0° (most stable position) and maximum\n(= +mB) at 0 = 180° (most unstable position).",
+          "bbox": {
+            "x_min": 0.097,
+            "y_min": 0.7458,
+            "x_max": 0.6866,
+            "y_max": 0.8416,
+            "width": 0.5896,
+            "height": 0.0958
+          },
+          "confidence": 0.9842
+        },
+        {
+          "text": "Example 5.1",
+          "bbox": {
+            "x_min": 0.1268,
+            "y_min": 0.8514,
+            "x_max": 0.2351,
+            "y_max": 0.8629,
+            "width": 0.1082,
+            "height": 0.0115
+          },
+          "confidence": 0.9791
+        },
+        {
+          "text": "(a) What happens if a bar magnet is cut into two pieces: (i) transverse\nto its length, (ii) along its length?",
+          "bbox": {
+            "x_min": 0.1274,
+            "y_min": 0.8665,
+            "x_max": 0.6657,
+            "y_max": 0.8935,
+            "width": 0.5383,
+            "height": 0.0271
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "(b) A magnetised needle in a uniform magnetic field experiences a\ntorque but no net force. An iron nail near a bar magnet, however,\nexperiences a force of attraction in addition to a torque. Why?",
+          "bbox": {
+            "x_min": 0.128,
+            "y_min": 0.8957,
+            "x_max": 0.6663,
+            "y_max": 0.9383,
+            "width": 0.5383,
+            "height": 0.0426
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "EXAMPLE 5.1",
+          "bbox": {
+            "x_min": 0.7103,
+            "y_min": 0.8598,
+            "x_max": 0.7227,
+            "y_max": 0.9388,
+            "width": 0.0124,
+            "height": 0.079
+          },
+          "confidence": 0.9551
+        },
+        {
+          "text": "139",
+          "bbox": {
+            "x_min": 0.8269,
+            "y_min": 0.9237,
+            "x_max": 0.8585,
+            "y_max": 0.9335,
+            "width": 0.0316,
+            "height": 0.0098
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4532,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.093,
+            "height": 0.0089
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "EXAMPLE 5.1",
+          "bbox": {
+            "x_min": 0.274,
+            "y_min": 0.539,
+            "x_max": 0.2875,
+            "y_max": 0.6167,
+            "width": 0.0135,
+            "height": 0.0776
+          },
+          "confidence": 0.9353
+        },
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.2317,
+            "y_min": 0.087,
+            "x_max": 0.3382,
+            "y_max": 0.1118,
+            "width": 0.1065,
+            "height": 0.0248
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "(c) Must every magnetic configuration have a north pole and a south\npole? What about the field due to a toroid?",
+          "bbox": {
+            "x_min": 0.3433,
+            "y_min": 0.1553,
+            "x_max": 0.867,
+            "y_max": 0.1823,
+            "width": 0.5237,
+            "height": 0.0271
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "(d) Two identical looking iron bars A and B are given, one of which\nis definitely known to be magnetised. (We do not know which\none.) How would one ascertain whether or not both are\nmagnetised? If only one is magnetised, how does one ascertain\nwhich one? [Use nothing else but the bars A and B.]",
+          "bbox": {
+            "x_min": 0.3439,
+            "y_min": 0.1846,
+            "x_max": 0.8675,
+            "y_max": 0.2582,
+            "width": 0.5237,
+            "height": 0.0736
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "Solution",
+          "bbox": {
+            "x_min": 0.3433,
+            "y_min": 0.2689,
+            "x_max": 0.4143,
+            "y_max": 0.2764,
+            "width": 0.071,
+            "height": 0.0075
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "(a) In either case, one gets two magnets, each with a north and\nsouth pole.",
+          "bbox": {
+            "x_min": 0.3433,
+            "y_min": 0.2822,
+            "x_max": 0.867,
+            "y_max": 0.3092,
+            "width": 0.5237,
+            "height": 0.0271
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "(b) No force if the field is uniform. The iron nail experiences a non-\nuniform field due to the bar magnet. There is induced magnetic\nmoment in the nail, therefore, it experiences both force and\ntorque. The net force is attractive because the induced south\npole (say) in the nail is closer to the north pole of magnet than\ninduced north pole.",
+          "bbox": {
+            "x_min": 0.3427,
+            "y_min": 0.311,
+            "x_max": 0.8687,
+            "y_max": 0.3957,
+            "width": 0.5259,
+            "height": 0.0847
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "(c) Not necessarily. True only if the source of the field has a net\nnon-zero magnetic moment. This is not so for a toroid or even for\na straight infinite conductor.",
+          "bbox": {
+            "x_min": 0.3439,
+            "y_min": 0.398,
+            "x_max": 0.8675,
+            "y_max": 0.4392,
+            "width": 0.5237,
+            "height": 0.0413
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "(d) Try to bring different ends of the bars closer. A repulsive force in\nsome situation establishes that both are magnetised. If it is\nalways attractive, then one of them is not magnetised. In a bar\nmagnet the intensity of the magnetic field is the strongest at the\ntwo ends (poles) and weakest at the central region. This fact\nmay be used to determine whether A or B is the magnet. In this\ncase, to see which one of the two bars is a magnet, pick up one,\n(say, A) and lower one of its ends; first on one of the ends of the\nother (say, B), and then on the middle of B. If you notice that in\nthe middle of B, A experiences no force, then B is magnetised. If\nyou do not notice any change from the end to the middle of B,\nthen A is magnetised.",
+          "bbox": {
+            "x_min": 0.3433,
+            "y_min": 0.441,
+            "x_max": 0.8687,
+            "y_max": 0.6158,
+            "width": 0.5254,
+            "height": 0.1748
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "5.2.4 The electrostatic analog",
+          "bbox": {
+            "x_min": 0.3145,
+            "y_min": 0.6544,
+            "x_max": 0.6313,
+            "y_max": 0.6686,
+            "width": 0.3168,
+            "height": 0.0142
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "Comparison of Eqs. (5.1), (5.2) and (5.3) with the corresponding equations\nfor electric dipole (Chapter 1), suggests that magnetic field at large\ndistances due to a bar magnet of magnetic moment m can be obtained\nfrom the equation for electric field due to an electric dipole of dipole moment\np, by making the following replacements:",
+          "bbox": {
+            "x_min": 0.3117,
+            "y_min": 0.6775,
+            "x_max": 0.9019,
+            "y_max": 0.7578,
+            "width": 0.5902,
+            "height": 0.0803
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "from",
+          "bbox": {
+            "x_min": 0.3106,
+            "y_min": 0.7214,
+            "x_max": 0.3517,
+            "y_max": 0.7422,
+            "width": 0.0411,
+            "height": 0.0209
+          },
+          "confidence": 0.9784
+        },
+        {
+          "text": "μο",
+          "bbox": {
+            "x_min": 0.5485,
+            "y_min": 0.7689,
+            "x_max": 0.571,
+            "y_max": 0.7804,
+            "width": 0.0225,
+            "height": 0.0115
+          },
+          "confidence": 0.9174
+        },
+        {
+          "text": "1",
+          "bbox": {
+            "x_min": 0.4977,
+            "y_min": 0.7675,
+            "x_max": 0.5085,
+            "y_max": 0.7764,
+            "width": 0.0107,
+            "height": 0.0089
+          },
+          "confidence": 0.968
+        },
+        {
+          "text": "E→B, p→ m,",
+          "bbox": {
+            "x_min": 0.345,
+            "y_min": 0.7799,
+            "x_max": 0.4746,
+            "y_max": 0.7915,
+            "width": 0.1297,
+            "height": 0.0115
+          },
+          "confidence": 0.8196
+        },
+        {
+          "text": "→",
+          "bbox": {
+            "x_min": 0.5276,
+            "y_min": 0.7786,
+            "x_max": 0.5457,
+            "y_max": 0.7857,
+            "width": 0.018,
+            "height": 0.0071
+          },
+          "confidence": 0.8834
+        },
+        {
+          "text": "4π",
+          "bbox": {
+            "x_min": 0.5496,
+            "y_min": 0.787,
+            "x_max": 0.5733,
+            "y_max": 0.7959,
+            "width": 0.0237,
+            "height": 0.0089
+          },
+          "confidence": 0.9298
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.2097,
+            "y_min": 0.7192,
+            "x_max": 0.3292,
+            "y_max": 0.8159,
+            "width": 0.1195,
+            "height": 0.0967
+          },
+          "confidence": 0.8197
+        },
+        {
+          "text": "4πεο",
+          "bbox": {
+            "x_min": 0.4825,
+            "y_min": 0.7857,
+            "x_max": 0.5192,
+            "y_max": 0.7999,
+            "width": 0.0366,
+            "height": 0.0142
+          },
+          "confidence": 0.8157
+        },
+        {
+          "text": "In particular, we can write down the equatorial field (B₁) of a bar magnet\nat a distance r, for r>> l, where lis the size of the magnet:",
+          "bbox": {
+            "x_min": 0.314,
+            "y_min": 0.8075,
+            "x_max": 0.9014,
+            "y_max": 0.8367,
+            "width": 0.5874,
+            "height": 0.0293
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "BE =",
+          "bbox": {
+            "x_min": 0.3439,
+            "y_min": 0.8558,
+            "x_max": 0.3822,
+            "y_max": 0.8687,
+            "width": 0.0383,
+            "height": 0.0129
+          },
+          "confidence": 0.9095
+        },
+        {
+          "text": "μοm\n4 πρ³",
+          "bbox": {
+            "x_min": 0.4008,
+            "y_min": 0.8487,
+            "x_max": 0.4425,
+            "y_max": 0.8753,
+            "width": 0.0417,
+            "height": 0.0266
+          },
+          "confidence": 0.6508
+        },
+        {
+          "text": "140",
+          "bbox": {
+            "x_min": 0.1404,
+            "y_min": 0.9241,
+            "x_max": 0.1747,
+            "y_max": 0.9335,
+            "width": 0.0344,
+            "height": 0.0093
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "BA =",
+          "bbox": {
+            "x_min": 0.3444,
+            "y_min": 0.9197,
+            "x_max": 0.3833,
+            "y_max": 0.9335,
+            "width": 0.0389,
+            "height": 0.0138
+          },
+          "confidence": 0.9175
+        },
+        {
+          "text": "μο 2m\n4π γ³",
+          "bbox": {
+            "x_min": 0.3884,
+            "y_min": 0.9099,
+            "x_max": 0.4504,
+            "y_max": 0.9392,
+            "width": 0.062,
+            "height": 0.0293
+          },
+          "confidence": 0.7498
+        },
+        {
+          "text": "3",
+          "bbox": {
+            "x_min": 0.4357,
+            "y_min": 0.9281,
+            "x_max": 0.4448,
+            "y_max": 0.933,
+            "width": 0.009,
+            "height": 0.0049
+          },
+          "confidence": 0.9383
+        },
+        {
+          "text": "Likewise, the axial field (B^) of a bar magnet for r>> lis:",
+          "bbox": {
+            "x_min": 0.3145,
+            "y_min": 0.8869,
+            "x_max": 0.7661,
+            "y_max": 0.902,
+            "width": 0.4515,
+            "height": 0.0151
+          },
+          "confidence": 0.9774
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "(5.4)",
+          "bbox": {
+            "x_min": 0.8619,
+            "y_min": 0.8589,
+            "x_max": 0.9008,
+            "y_max": 0.8713,
+            "width": 0.0389,
+            "height": 0.0124
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "(5.5)",
+          "bbox": {
+            "x_min": 0.8625,
+            "y_min": 0.9215,
+            "x_max": 0.8997,
+            "y_max": 0.9343,
+            "width": 0.0372,
+            "height": 0.0129
+          },
+          "confidence": 0.9931
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "Magnetism and\nMatter",
+          "bbox": {
+            "x_min": 0.6172,
+            "y_min": 0.0688,
+            "x_max": 0.8016,
+            "y_max": 0.1078,
+            "width": 0.1843,
+            "height": 0.039
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "Equation (5.5) is just Eq. (5.1) in the vector form. Table 5.1 summarises\nthe analogy between electric and magnetic dipoles.",
+          "bbox": {
+            "x_min": 0.0975,
+            "y_min": 0.1451,
+            "x_max": 0.6855,
+            "y_max": 0.1752,
+            "width": 0.5879,
+            "height": 0.0302
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "Dipole moment",
+          "bbox": {
+            "x_min": 0.1268,
+            "y_min": 0.2839,
+            "x_max": 0.252,
+            "y_max": 0.2968,
+            "width": 0.1251,
+            "height": 0.0129
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "TABLE 5.1 THE DIPOLE ANALOGY",
+          "bbox": {
+            "x_min": 0.3517,
+            "y_min": 0.2028,
+            "x_max": 0.6189,
+            "y_max": 0.2147,
+            "width": 0.2672,
+            "height": 0.012
+          },
+          "confidence": 0.9818
+        },
+        {
+          "text": "Equatorial Field for a short dipole\nAxial Field for a short dipole",
+          "bbox": {
+            "x_min": 0.1263,
+            "y_min": 0.3026,
+            "x_max": 0.4036,
+            "y_max": 0.3341,
+            "width": 0.2773,
+            "height": 0.0315
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "External Field: torque",
+          "bbox": {
+            "x_min": 0.1268,
+            "y_min": 0.3394,
+            "x_max": 0.3055,
+            "y_max": 0.3518,
+            "width": 0.1787,
+            "height": 0.0124
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "External Field: Energy",
+          "bbox": {
+            "x_min": 0.1268,
+            "y_min": 0.3576,
+            "x_max": 0.3112,
+            "y_max": 0.3713,
+            "width": 0.1843,
+            "height": 0.0138
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "Electrostatics",
+          "bbox": {
+            "x_min": 0.4487,
+            "y_min": 0.2413,
+            "x_max": 0.5693,
+            "y_max": 0.2498,
+            "width": 0.1206,
+            "height": 0.0084
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "1/80",
+          "bbox": {
+            "x_min": 0.4893,
+            "y_min": 0.2662,
+            "x_max": 0.5282,
+            "y_max": 0.2795,
+            "width": 0.0389,
+            "height": 0.0133
+          },
+          "confidence": 0.7375
+        },
+        {
+          "text": "P",
+          "bbox": {
+            "x_min": 0.5,
+            "y_min": 0.2879,
+            "x_max": 0.5175,
+            "y_max": 0.2968,
+            "width": 0.0175,
+            "height": 0.0089
+          },
+          "confidence": 0.8312
+        },
+        {
+          "text": "-p/4περί\n2p/4περ³\npxE\n-p-E",
+          "bbox": {
+            "x_min": 0.4673,
+            "y_min": 0.3026,
+            "x_max": 0.5507,
+            "y_max": 0.3696,
+            "width": 0.0834,
+            "height": 0.067
+          },
+          "confidence": 0.7129
+        },
+        {
+          "text": "Example 5.2 Figure 5.4 shows a small magnetised needle P placed\nat a point O. The arrow shows the direction of its magnetic moment.\nThe other arrows show different positions (and orientations of the\nmagnetic moment) of another identical magnetised needle Q.\n(a) In which configuration the system is not in equilibrium?",
+          "bbox": {
+            "x_min": 0.1263,
+            "y_min": 0.4011,
+            "x_max": 0.6652,
+            "y_max": 0.4747,
+            "width": 0.5389,
+            "height": 0.0736
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "(b) In which configuration is the system in (i) stable, and (ii) unstable",
+          "bbox": {
+            "x_min": 0.1274,
+            "y_min": 0.476,
+            "x_max": 0.6652,
+            "y_max": 0.4885,
+            "width": 0.5378,
+            "height": 0.0124
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "equilibrium?",
+          "bbox": {
+            "x_min": 0.1573,
+            "y_min": 0.4916,
+            "x_max": 0.2565,
+            "y_max": 0.5031,
+            "width": 0.0992,
+            "height": 0.0115
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "(c) Which configuration corresponds to the lowest potential energy\namong all the configurations shown?",
+          "bbox": {
+            "x_min": 0.128,
+            "y_min": 0.5062,
+            "x_max": 0.6663,
+            "y_max": 0.5333,
+            "width": 0.5383,
+            "height": 0.0271
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "94",
+          "bbox": {
+            "x_min": 0.3844,
+            "y_min": 0.5413,
+            "x_max": 0.4076,
+            "y_max": 0.5515,
+            "width": 0.0231,
+            "height": 0.0102
+          },
+          "confidence": 0.843
+        },
+        {
+          "text": "Magnetism",
+          "bbox": {
+            "x_min": 0.6933,
+            "y_min": 0.2409,
+            "x_max": 0.7926,
+            "y_max": 0.2529,
+            "width": 0.0992,
+            "height": 0.012
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "μο",
+          "bbox": {
+            "x_min": 0.7339,
+            "y_min": 0.2689,
+            "x_max": 0.7542,
+            "y_max": 0.2804,
+            "width": 0.0203,
+            "height": 0.0115
+          },
+          "confidence": 0.9369
+        },
+        {
+          "text": "m",
+          "bbox": {
+            "x_min": 0.7345,
+            "y_min": 0.2884,
+            "x_max": 0.7537,
+            "y_max": 0.2937,
+            "width": 0.0192,
+            "height": 0.0053
+          },
+          "confidence": 0.9586
+        },
+        {
+          "text": "·μο m / 4π r³\nμο 2m / 4π r³",
+          "bbox": {
+            "x_min": 0.6894,
+            "y_min": 0.2995,
+            "x_max": 0.801,
+            "y_max": 0.3363,
+            "width": 0.1116,
+            "height": 0.0368
+          },
+          "confidence": 0.7589
+        },
+        {
+          "text": "mx B",
+          "bbox": {
+            "x_min": 0.717,
+            "y_min": 0.3394,
+            "x_max": 0.7711,
+            "y_max": 0.35,
+            "width": 0.0541,
+            "height": 0.0106
+          },
+          "confidence": 0.8061
+        },
+        {
+          "text": "-m-B",
+          "bbox": {
+            "x_min": 0.7198,
+            "y_min": 0.358,
+            "x_max": 0.7672,
+            "y_max": 0.3682,
+            "width": 0.0474,
+            "height": 0.0102
+          },
+          "confidence": 0.8046
+        },
+        {
+          "text": "ot to be repupushed",
+          "bbox": {
+            "x_min": 0.2446,
+            "y_min": 0.3119,
+            "x_max": 0.8574,
+            "y_max": 0.7839,
+            "width": 0.6127,
+            "height": 0.472
+          },
+          "confidence": 0.773
+        },
+        {
+          "text": "↑\n96",
+          "bbox": {
+            "x_min": 0.3878,
+            "y_min": 0.6917,
+            "x_max": 0.4109,
+            "y_max": 0.7223,
+            "width": 0.0231,
+            "height": 0.0306
+          },
+          "confidence": 0.9651
+        },
+        {
+          "text": "FIGURE 5.4",
+          "bbox": {
+            "x_min": 0.3551,
+            "y_min": 0.7316,
+            "x_max": 0.438,
+            "y_max": 0.7396,
+            "width": 0.0829,
+            "height": 0.008
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "95",
+          "bbox": {
+            "x_min": 0.2796,
+            "y_min": 0.6247,
+            "x_max": 0.3044,
+            "y_max": 0.6353,
+            "width": 0.0248,
+            "height": 0.0106
+          },
+          "confidence": 0.9458
+        },
+        {
+          "text": "←",
+          "bbox": {
+            "x_min": 0.3377,
+            "y_min": 0.6287,
+            "x_max": 0.3551,
+            "y_max": 0.6335,
+            "width": 0.0175,
+            "height": 0.0049
+          },
+          "confidence": 0.9017
+        },
+        {
+          "text": "OP",
+          "bbox": {
+            "x_min": 0.3703,
+            "y_min": 0.6278,
+            "x_max": 0.4121,
+            "y_max": 0.6375,
+            "width": 0.0417,
+            "height": 0.0098
+          },
+          "confidence": 0.943
+        },
+        {
+          "text": "91",
+          "bbox": {
+            "x_min": 0.3343,
+            "y_min": 0.6384,
+            "x_max": 0.3574,
+            "y_max": 0.6491,
+            "width": 0.0231,
+            "height": 0.0106
+          },
+          "confidence": 0.8996
+        },
+        {
+          "text": "93",
+          "bbox": {
+            "x_min": 0.4921,
+            "y_min": 0.6242,
+            "x_max": 0.5163,
+            "y_max": 0.6349,
+            "width": 0.0242,
+            "height": 0.0106
+          },
+          "confidence": 0.858
+        },
+        {
+          "text": "Solution",
+          "bbox": {
+            "x_min": 0.1274,
+            "y_min": 0.7498,
+            "x_max": 0.1979,
+            "y_max": 0.7578,
+            "width": 0.0705,
+            "height": 0.008
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "Potential energy of the configuration arises due to the potential energy of\none dipole (say, Q) in the magnetic field due to other (P). Use the result\nthat the field due to P is given by the expression [Eqs. (5.4) and (5.5)]:",
+          "bbox": {
+            "x_min": 0.1268,
+            "y_min": 0.764,
+            "x_max": 0.6674,
+            "y_max": 0.8057,
+            "width": 0.5406,
+            "height": 0.0417
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "μο mp",
+          "bbox": {
+            "x_min": 0.1781,
+            "y_min": 0.8159,
+            "x_max": 0.2255,
+            "y_max": 0.8265,
+            "width": 0.0474,
+            "height": 0.0106
+          },
+          "confidence": 0.7255
+        },
+        {
+          "text": "Bp =",
+          "bbox": {
+            "x_min": 0.1263,
+            "y_min": 0.8225,
+            "x_max": 0.1629,
+            "y_max": 0.8336,
+            "width": 0.0366,
+            "height": 0.0111
+          },
+          "confidence": 0.8098
+        },
+        {
+          "text": "4π 3",
+          "bbox": {
+            "x_min": 0.1798,
+            "y_min": 0.8296,
+            "x_max": 0.221,
+            "y_max": 0.8394,
+            "width": 0.0411,
+            "height": 0.0098
+          },
+          "confidence": 0.8115
+        },
+        {
+          "text": "(on the normal bisector)",
+          "bbox": {
+            "x_min": 0.261,
+            "y_min": 0.8234,
+            "x_max": 0.4431,
+            "y_max": 0.835,
+            "width": 0.1821,
+            "height": 0.0115
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "μο2 mp",
+          "bbox": {
+            "x_min": 0.1646,
+            "y_min": 0.8531,
+            "x_max": 0.2204,
+            "y_max": 0.8656,
+            "width": 0.0558,
+            "height": 0.0124
+          },
+          "confidence": 0.7859
+        },
+        {
+          "text": "P",
+          "bbox": {
+            "x_min": 0.2131,
+            "y_min": 0.8611,
+            "x_max": 0.2238,
+            "y_max": 0.8651,
+            "width": 0.0107,
+            "height": 0.004
+          },
+          "confidence": 0.9404
+        },
+        {
+          "text": "Bp =",
+          "bbox": {
+            "x_min": 0.128,
+            "y_min": 0.862,
+            "x_max": 0.1618,
+            "y_max": 0.8722,
+            "width": 0.0338,
+            "height": 0.0102
+          },
+          "confidence": 0.8195
+        },
+        {
+          "text": "4π 3",
+          "bbox": {
+            "x_min": 0.1702,
+            "y_min": 0.8678,
+            "x_max": 0.2159,
+            "y_max": 0.878,
+            "width": 0.0457,
+            "height": 0.0102
+          },
+          "confidence": 0.7894
+        },
+        {
+          "text": "(on the axis)",
+          "bbox": {
+            "x_min": 0.252,
+            "y_min": 0.8616,
+            "x_max": 0.3461,
+            "y_max": 0.8736,
+            "width": 0.0941,
+            "height": 0.012
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "where mp is the magnetic moment of the dipole P.",
+          "bbox": {
+            "x_min": 0.1257,
+            "y_min": 0.8864,
+            "x_max": 0.5135,
+            "y_max": 0.9002,
+            "width": 0.3878,
+            "height": 0.0138
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "Equilibrium is stable when mo is parallel to Bp, and unstable when it\nis anti-parallel to Bp.",
+          "bbox": {
+            "x_min": 0.1274,
+            "y_min": 0.9015,
+            "x_max": 0.6652,
+            "y_max": 0.9295,
+            "width": 0.5378,
+            "height": 0.028
+          },
+          "confidence": 0.9748
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "EXAMPLE 5.2",
+          "bbox": {
+            "x_min": 0.7086,
+            "y_min": 0.8523,
+            "x_max": 0.7227,
+            "y_max": 0.9312,
+            "width": 0.0141,
+            "height": 0.079
+          },
+          "confidence": 0.963
+        },
+        {
+          "text": "141",
+          "bbox": {
+            "x_min": 0.8253,
+            "y_min": 0.9241,
+            "x_max": 0.8602,
+            "y_max": 0.9335,
+            "width": 0.0349,
+            "height": 0.0093
+          },
+          "confidence": 0.9908
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "142",
+          "bbox": {
+            "x_min": 0.1404,
+            "y_min": 0.9241,
+            "x_max": 0.1753,
+            "y_max": 0.9335,
+            "width": 0.0349,
+            "height": 0.0093
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.2306,
+            "y_min": 0.0878,
+            "x_max": 0.3388,
+            "y_max": 0.1122,
+            "width": 0.1082,
+            "height": 0.0244
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "EXAMPLE 5.2",
+          "bbox": {
+            "x_min": 0.2745,
+            "y_min": 0.1748,
+            "x_max": 0.2869,
+            "y_max": 0.2524,
+            "width": 0.0124,
+            "height": 0.0776
+          },
+          "confidence": 0.9475
+        },
+        {
+          "text": "For instance for the configuration Q3 for which is along the\nperpendicular bisector of the dipole P, the magnetic moment of is\nparallel to the magnetic field at the position 3. Hence Q3 is stable.\nThus,",
+          "bbox": {
+            "x_min": 0.341,
+            "y_min": 0.1402,
+            "x_max": 0.8816,
+            "y_max": 0.1952,
+            "width": 0.5406,
+            "height": 0.055
+          },
+          "confidence": 0.977
+        },
+        {
+          "text": "(a) PQ₁ and PQ2",
+          "bbox": {
+            "x_min": 0.3439,
+            "y_min": 0.2019,
+            "x_max": 0.4713,
+            "y_max": 0.2161,
+            "width": 0.1274,
+            "height": 0.0142
+          },
+          "confidence": 0.8479
+        },
+        {
+          "text": "(b) (i) PQ3, PQ6 (stable); (ii) PQ5, PQ4 (unstable)",
+          "bbox": {
+            "x_min": 0.3439,
+            "y_min": 0.2201,
+            "x_max": 0.7097,
+            "y_max": 0.2338,
+            "width": 0.3658,
+            "height": 0.0138
+          },
+          "confidence": 0.9336
+        },
+        {
+          "text": "(c) PQ6",
+          "bbox": {
+            "x_min": 0.3433,
+            "y_min": 0.2382,
+            "x_max": 0.4014,
+            "y_max": 0.2511,
+            "width": 0.0581,
+            "height": 0.0129
+          },
+          "confidence": 0.8075
+        },
+        {
+          "text": "Karl Friedrich Gauss\n(1777 1855) He was a\nchild prodigy and was gifted\nin mathematics, physics,\nengineering, astronomy\nand even land surveying.\nThe properties of numbers\nfascinated him, and in his\nwork he anticipated major\nmathematical development\nof later times. Along with\nWilhelm Welser, he built the\nfirst electric telegraph in\n1833. His mathematical\ntheory of curved surface\nlaid the foundation for the\nlater work of Riemann.",
+          "bbox": {
+            "x_min": 0.1866,
+            "y_min": 0.4805,
+            "x_max": 0.4025,
+            "y_max": 0.7285,
+            "width": 0.2159,
+            "height": 0.248
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "ann",
+          "bbox": {
+            "x_min": 0.3326,
+            "y_min": 0.7152,
+            "x_max": 0.3647,
+            "y_max": 0.7311,
+            "width": 0.0321,
+            "height": 0.016
+          },
+          "confidence": 0.5702
+        },
+        {
+          "text": "5.3 MAGNETISM AND GAUSS's Law",
+          "bbox": {
+            "x_min": 0.4431,
+            "y_min": 0.2817,
+            "x_max": 0.8636,
+            "y_max": 0.2972,
+            "width": 0.4205,
+            "height": 0.0155
+          },
+          "confidence": 0.8803
+        },
+        {
+          "text": "In Chapter 1, we studied Gauss's law for electrostatics.\nIn Fig 5.2(c), we see that for a closed surface represented\nbyi, the number of lines leaving the surface is equal to\nthe number of lines entering it. This is consistent with the\nfact that no net charge is enclosed by the surface. However,\nin the same figure, for the closed surface(ii), there is a net\noutward flux, since it does include a net (positive) charge.",
+          "bbox": {
+            "x_min": 0.4397,
+            "y_min": 0.311,
+            "x_max": 0.9025,
+            "y_max": 0.4246,
+            "width": 0.4628,
+            "height": 0.1136
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "The situation is radically different for magnetic fields\nwhich are continuous and form closed loops. Examine the\nGaussian surfaces represented byⓘor i in Fig 5.2(a) or\nFig. 5.2(b). Both cases visually demonstrate that the\nnumber of magnetic field lines leaving the surface is\nbalanced by the number of lines entering it. The net\nmagnetic flux is zero for both the surfaces. This is true\nfor any closed surface.",
+          "bbox": {
+            "x_min": 0.4414,
+            "y_min": 0.4281,
+            "x_max": 0.9036,
+            "y_max": 0.5559,
+            "width": 0.4622,
+            "height": 0.1278
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "be",
+          "bbox": {
+            "x_min": 0.3935,
+            "y_min": 0.5732,
+            "x_max": 0.5124,
+            "y_max": 0.6673,
+            "width": 0.1189,
+            "height": 0.0941
+          },
+          "confidence": 0.8844
+        },
+        {
+          "text": "AS",
+          "bbox": {
+            "x_min": 0.6347,
+            "y_min": 0.6491,
+            "x_max": 0.6556,
+            "y_max": 0.6566,
+            "width": 0.0209,
+            "height": 0.0075
+          },
+          "confidence": 0.9639
+        },
+        {
+          "text": "B",
+          "bbox": {
+            "x_min": 0.7148,
+            "y_min": 0.6029,
+            "x_max": 0.7351,
+            "y_max": 0.6145,
+            "width": 0.0203,
+            "height": 0.0115
+          },
+          "confidence": 0.9231
+        },
+        {
+          "text": "θ",
+          "bbox": {
+            "x_min": 0.6697,
+            "y_min": 0.6264,
+            "x_max": 0.6793,
+            "y_max": 0.6331,
+            "width": 0.0096,
+            "height": 0.0067
+          },
+          "confidence": 0.7087
+        },
+        {
+          "text": "KARL FRIEDRICH GAUSS (1777 – 1855)",
+          "bbox": {
+            "x_min": 0.1342,
+            "y_min": 0.3949,
+            "x_max": 0.1545,
+            "y_max": 0.7205,
+            "width": 0.0203,
+            "height": 0.3256
+          },
+          "confidence": 0.9778
+        },
+        {
+          "text": "no",
+          "bbox": {
+            "x_min": 0.2108,
+            "y_min": 0.7338,
+            "x_max": 0.3191,
+            "y_max": 0.8163,
+            "width": 0.1082,
+            "height": 0.0825
+          },
+          "confidence": 0.9739
+        },
+        {
+          "text": "FIGURE 5.5",
+          "bbox": {
+            "x_min": 0.6206,
+            "y_min": 0.7413,
+            "x_max": 0.7227,
+            "y_max": 0.7516,
+            "width": 0.102,
+            "height": 0.0102
+          },
+          "confidence": 0.9833
+        },
+        {
+          "text": "Consider a small vector area element AS of a closed surface S as in",
+          "bbox": {
+            "x_min": 0.3427,
+            "y_min": 0.7653,
+            "x_max": 0.9014,
+            "y_max": 0.776,
+            "width": 0.5586,
+            "height": 0.0106
+          },
+          "confidence": 0.9774
+        },
+        {
+          "text": "Fig. 5.5. The magnetic flux through ÄS is defined as AB = B.AS, where B\nis the field at AS. We divide Sinto many small area elements and calculate\nthe individual flux through each. Then, the net flux op is,",
+          "bbox": {
+            "x_min": 0.314,
+            "y_min": 0.7799,
+            "x_max": 0.9019,
+            "y_max": 0.8292,
+            "width": 0.5879,
+            "height": 0.0492
+          },
+          "confidence": 0.9594
+        },
+        {
+          "text": "ΦΒ = Σ ΔΦΒ = ΣΒ.ΔS = 0",
+          "bbox": {
+            "x_min": 0.3455,
+            "y_min": 0.8372,
+            "x_max": 0.5519,
+            "y_max": 0.854,
+            "width": 0.2063,
+            "height": 0.0169
+          },
+          "confidence": 0.6877
+        },
+        {
+          "text": "'all'",
+          "bbox": {
+            "x_min": 0.3839,
+            "y_min": 0.8558,
+            "x_max": 0.4036,
+            "y_max": 0.862,
+            "width": 0.0197,
+            "height": 0.0062
+          },
+          "confidence": 0.9748
+        },
+        {
+          "text": "B",
+          "bbox": {
+            "x_min": 0.4262,
+            "y_min": 0.8469,
+            "x_max": 0.4369,
+            "y_max": 0.8518,
+            "width": 0.0107,
+            "height": 0.0049
+          },
+          "confidence": 0.9579
+        },
+        {
+          "text": "'all'",
+          "bbox": {
+            "x_min": 0.4572,
+            "y_min": 0.8554,
+            "x_max": 0.4769,
+            "y_max": 0.862,
+            "width": 0.0197,
+            "height": 0.0067
+          },
+          "confidence": 0.9779
+        },
+        {
+          "text": "(5.6)",
+          "bbox": {
+            "x_min": 0.8625,
+            "y_min": 0.8412,
+            "x_max": 0.9002,
+            "y_max": 0.8536,
+            "width": 0.0378,
+            "height": 0.0124
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "where 'all' stands for 'all area elements AS'. Compare this with the Gauss's\nlaw of electrostatics. The flux through a closed surface in that case is\ngiven by",
+          "bbox": {
+            "x_min": 0.3117,
+            "y_min": 0.8696,
+            "x_max": 0.9008,
+            "y_max": 0.9166,
+            "width": 0.5891,
+            "height": 0.047
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "ΣΕ.ΔΣ =",
+          "bbox": {
+            "x_min": 0.3461,
+            "y_min": 0.9303,
+            "x_max": 0.4216,
+            "y_max": 0.9481,
+            "width": 0.0755,
+            "height": 0.0177
+          },
+          "confidence": 0.7304
+        },
+        {
+          "text": "q",
+          "bbox": {
+            "x_min": 0.4301,
+            "y_min": 0.9277,
+            "x_max": 0.4464,
+            "y_max": 0.9379,
+            "width": 0.0163,
+            "height": 0.0102
+          },
+          "confidence": 0.428
+        },
+        {
+          "text": "Εο",
+          "bbox": {
+            "x_min": 0.4295,
+            "y_min": 0.9468,
+            "x_max": 0.4453,
+            "y_max": 0.9556,
+            "width": 0.0158,
+            "height": 0.0089
+          },
+          "confidence": 0.4656
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4532,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.093,
+            "height": 0.0089
+          },
+          "confidence": 0.9783
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "where q is the electric charge enclosed by the surface.",
+          "bbox": {
+            "x_min": 0.097,
+            "y_min": 0.1309,
+            "x_max": 0.5333,
+            "y_max": 0.1446,
+            "width": 0.4363,
+            "height": 0.0138
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "Magnetism and\nMatter",
+          "bbox": {
+            "x_min": 0.6178,
+            "y_min": 0.0692,
+            "x_max": 0.8016,
+            "y_max": 0.1078,
+            "width": 0.1838,
+            "height": 0.0386
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "The difference between the Gauss's law of magnetism and that for\nelectrostatics is a reflection of the fact that isolated magnetic poles (also\ncalled monopoles) are not known to exist. There are no sources or sinks\nof B; the simplest magnetic element is a dipole or a current loop. All\nmagnetic phenomena can be explained in terms of an arrangement of\ndipoles and/or current loops.",
+          "bbox": {
+            "x_min": 0.097,
+            "y_min": 0.1464,
+            "x_max": 0.6871,
+            "y_max": 0.2431,
+            "width": 0.5902,
+            "height": 0.0967
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "Thus, Gauss's law for magnetism is:",
+          "bbox": {
+            "x_min": 0.097,
+            "y_min": 0.2458,
+            "x_max": 0.3918,
+            "y_max": 0.2591,
+            "width": 0.2948,
+            "height": 0.0133
+          },
+          "confidence": 0.9853
+        },
+        {
+          "text": "The net magnetic flux through any closed surface is zero.",
+          "bbox": {
+            "x_min": 0.1274,
+            "y_min": 0.2631,
+            "x_max": 0.6065,
+            "y_max": 0.2768,
+            "width": 0.4791,
+            "height": 0.0138
+          },
+          "confidence": 0.9975
+        },
+        {
+          "text": "Example 5.3 Many of the diagrams given in Fig. 5.6 show magnetic\nfield lines (thick lines in the figure) wrongly. Point out what is wrong\nwith them. Some of them may describe electrostatic field lines correctly.\nPoint out which ones.",
+          "bbox": {
+            "x_min": 0.1263,
+            "y_min": 0.3048,
+            "x_max": 0.6663,
+            "y_max": 0.3594,
+            "width": 0.54,
+            "height": 0.0546
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.2559,
+            "y_min": 0.5067,
+            "x_max": 0.2723,
+            "y_max": 0.5151,
+            "width": 0.0163,
+            "height": 0.0084
+          },
+          "confidence": 0.9772
+        },
+        {
+          "text": "Empty space\n(b)",
+          "bbox": {
+            "x_min": 0.226,
+            "y_min": 0.6083,
+            "x_max": 0.3016,
+            "y_max": 0.6313,
+            "width": 0.0755,
+            "height": 0.0231
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "NC",
+          "bbox": {
+            "x_min": 0.3782,
+            "y_min": 0.48,
+            "x_max": 0.5062,
+            "y_max": 0.5759,
+            "width": 0.128,
+            "height": 0.0958
+          },
+          "confidence": 0.9508
+        },
+        {
+          "text": "(e)",
+          "bbox": {
+            "x_min": 0.4904,
+            "y_min": 0.5044,
+            "x_max": 0.5068,
+            "y_max": 0.5142,
+            "width": 0.0163,
+            "height": 0.0098
+          },
+          "confidence": 0.9674
+        },
+        {
+          "text": "republished",
+          "bbox": {
+            "x_min": 0.4786,
+            "y_min": 0.3066,
+            "x_max": 0.854,
+            "y_max": 0.606,
+            "width": 0.3754,
+            "height": 0.2995
+          },
+          "confidence": 0.8993
+        },
+        {
+          "text": "(f)",
+          "bbox": {
+            "x_min": 0.4944,
+            "y_min": 0.7192,
+            "x_max": 0.5062,
+            "y_max": 0.7272,
+            "width": 0.0118,
+            "height": 0.008
+          },
+          "confidence": 0.9636
+        },
+        {
+          "text": "(c)",
+          "bbox": {
+            "x_min": 0.261,
+            "y_min": 0.8106,
+            "x_max": 0.2768,
+            "y_max": 0.819,
+            "width": 0.0158,
+            "height": 0.0084
+          },
+          "confidence": 0.9525
+        },
+        {
+          "text": "NS",
+          "bbox": {
+            "x_min": 0.4701,
+            "y_min": 0.799,
+            "x_max": 0.522,
+            "y_max": 0.8048,
+            "width": 0.0519,
+            "height": 0.0058
+          },
+          "confidence": 0.9592
+        },
+        {
+          "text": "(d)",
+          "bbox": {
+            "x_min": 0.2593,
+            "y_min": 0.8926,
+            "x_max": 0.2745,
+            "y_max": 0.9006,
+            "width": 0.0152,
+            "height": 0.008
+          },
+          "confidence": 0.9828
+        },
+        {
+          "text": "(g)",
+          "bbox": {
+            "x_min": 0.4921,
+            "y_min": 0.8904,
+            "x_max": 0.5039,
+            "y_max": 0.8993,
+            "width": 0.0118,
+            "height": 0.0089
+          },
+          "confidence": 0.9818
+        },
+        {
+          "text": "FIGURE 5.6",
+          "bbox": {
+            "x_min": 0.3551,
+            "y_min": 0.9206,
+            "x_max": 0.4369,
+            "y_max": 0.9281,
+            "width": 0.0817,
+            "height": 0.0075
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "EXAMPLE 5.3",
+          "bbox": {
+            "x_min": 0.7086,
+            "y_min": 0.8531,
+            "x_max": 0.721,
+            "y_max": 0.9317,
+            "width": 0.0124,
+            "height": 0.0785
+          },
+          "confidence": 0.9607
+        },
+        {
+          "text": "143",
+          "bbox": {
+            "x_min": 0.8247,
+            "y_min": 0.9241,
+            "x_max": 0.8591,
+            "y_max": 0.9335,
+            "width": 0.0344,
+            "height": 0.0093
+          },
+          "confidence": 0.9955
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "144",
+          "bbox": {
+            "x_min": 0.1387,
+            "y_min": 0.9241,
+            "x_max": 0.1753,
+            "y_max": 0.9335,
+            "width": 0.0366,
+            "height": 0.0093
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "EXAMPLE 5.4",
+          "bbox": {
+            "x_min": 0.2745,
+            "y_min": 0.8474,
+            "x_max": 0.2875,
+            "y_max": 0.9272,
+            "width": 0.013,
+            "height": 0.0799
+          },
+          "confidence": 0.9602
+        },
+        {
+          "text": "EXAMPLE 5.3",
+          "bbox": {
+            "x_min": 0.274,
+            "y_min": 0.6655,
+            "x_max": 0.2875,
+            "y_max": 0.744,
+            "width": 0.0135,
+            "height": 0.0785
+          },
+          "confidence": 0.9513
+        },
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.2306,
+            "y_min": 0.0878,
+            "x_max": 0.3388,
+            "y_max": 0.1118,
+            "width": 0.1082,
+            "height": 0.024
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "Solution",
+          "bbox": {
+            "x_min": 0.3433,
+            "y_min": 0.1429,
+            "x_max": 0.4115,
+            "y_max": 0.1508,
+            "width": 0.0682,
+            "height": 0.008
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "(a) Wrong. Magnetic field lines can never emanate from a point, as\nshown in figure. Over any closed surface, the net flux of B must\nalways be zero, i.e., pictorially as many field lines should seem to\nenter the surface as the number of lines leaving it. The field lines\nshown, in fact, represent electric field of a long positively charged\nwire. The correct magnetic field lines are circling the straight\nconductor, as described in Chapter 4.",
+          "bbox": {
+            "x_min": 0.3427,
+            "y_min": 0.1566,
+            "x_max": 0.8816,
+            "y_max": 0.2582,
+            "width": 0.5389,
+            "height": 0.1016
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "(b) Wrong. Magnetic field lines (like electric field lines) can never cross\neach other, because otherwise the direction of field at the point of\nintersection is ambiguous. There is further error in the figure.\nMagnetostatic field lines can never form closed loops around empty\nspace. A closed loop of static magnetic field line must enclose a\nregion across which a current is passing. By contrast, electrostatic\nfield lines can never form closed loops, neither in empty space,\nnor when the loop encloses charges.",
+          "bbox": {
+            "x_min": 0.3427,
+            "y_min": 0.2604,
+            "x_max": 0.8833,
+            "y_max": 0.3736,
+            "width": 0.5406,
+            "height": 0.1131
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "(c) Right. Magnetic lines are completely confined within a toroid.\nNothing wrong here in field lines forming closed loops, since each\nloop encloses a region across which a current passes. Note, for\nclarity of figure, only a few field lines within the toroid have been\nshown. Actually, the entire region enclosed by the windings\ncontains magnetic field.",
+          "bbox": {
+            "x_min": 0.3433,
+            "y_min": 0.3758,
+            "x_max": 0.8816,
+            "y_max": 0.4605,
+            "width": 0.5383,
+            "height": 0.0847
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "(d) Wrong. Field lines due to a solenoid at its ends and outside cannot\nbe so completely straight and confined; such a thing violates\nAmpere's law. The lines should curve out at both ends, and meet\neventually to form closed loops.",
+          "bbox": {
+            "x_min": 0.3433,
+            "y_min": 0.4618,
+            "x_max": 0.8811,
+            "y_max": 0.5182,
+            "width": 0.5378,
+            "height": 0.0563
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "(e) Right. These are field lines outside and inside a bar magnet. Note\ncarefully the direction of field lines inside. Not all field lines emanate\nout of a north pole (or converge into a south pole). Around both\nthe N-pole, and the S-pole, the net flux of the field is zero.",
+          "bbox": {
+            "x_min": 0.3433,
+            "y_min": 0.5204,
+            "x_max": 0.8822,
+            "y_max": 0.5754,
+            "width": 0.5389,
+            "height": 0.055
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "(f) Wrong. These field lines cannot possibly represent a magnetic field.\nLook at the upper region. All the field lines seem to emanate out of\nthe shaded plate. The net flux through a surface surrounding the\nshaded plate is not zero. This is impossible for a magnetic field.\nThe given field lines, in fact, show the electrostatic field lines\naround a positively charged upper plate and a negatively charged\nlower plate. The difference between Fig. [5.6(e) and (f)] should be\ncarefully grasped.",
+          "bbox": {
+            "x_min": 0.3439,
+            "y_min": 0.5776,
+            "x_max": 0.8833,
+            "y_max": 0.6908,
+            "width": 0.5395,
+            "height": 0.1131
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "(g) Wrong. Magnetic field lines between two pole pieces cannot be\nprecisely straight at the ends. Some fringing of lines is inevitable.\nOtherwise, Ampere's law is violated. This is also true for electric\nfield lines.",
+          "bbox": {
+            "x_min": 0.3439,
+            "y_min": 0.6921,
+            "x_max": 0.8816,
+            "y_max": 0.7458,
+            "width": 0.5378,
+            "height": 0.0537
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "Example 5.4",
+          "bbox": {
+            "x_min": 0.3331,
+            "y_min": 0.7804,
+            "x_max": 0.4414,
+            "y_max": 0.7919,
+            "width": 0.1082,
+            "height": 0.0115
+          },
+          "confidence": 0.9786
+        },
+        {
+          "text": "(a) Magnetic field lines show the direction (at every point) along which\na small magnetised needle aligns (at the point). Do the magnetic\nfield lines also represent the lines of force on a moving charged\nparticle at every point?",
+          "bbox": {
+            "x_min": 0.332,
+            "y_min": 0.795,
+            "x_max": 0.8726,
+            "y_max": 0.8527,
+            "width": 0.5406,
+            "height": 0.0577
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "(b) If magnetic monopoles existed, how would the Gauss's law of\nmagnetism be modified?",
+          "bbox": {
+            "x_min": 0.3331,
+            "y_min": 0.854,
+            "x_max": 0.8732,
+            "y_max": 0.8815,
+            "width": 0.54,
+            "height": 0.0275
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "(c) Does a bar magnet exert a torque on itself due to its own field?\nDoes one element of a current-carrying wire exert a force on another\nelement of the same wire?",
+          "bbox": {
+            "x_min": 0.3331,
+            "y_min": 0.8833,
+            "x_max": 0.8726,
+            "y_max": 0.9241,
+            "width": 0.5395,
+            "height": 0.0408
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "Magnetism and\nMatter",
+          "bbox": {
+            "x_min": 0.6178,
+            "y_min": 0.0692,
+            "x_max": 0.8016,
+            "y_max": 0.1074,
+            "width": 0.1838,
+            "height": 0.0382
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "(d) Magnetic field arises due to charges in motion. Can a system\nhave magnetic moments even though its net charge is zero?",
+          "bbox": {
+            "x_min": 0.1291,
+            "y_min": 0.1362,
+            "x_max": 0.6567,
+            "y_max": 0.1637,
+            "width": 0.5276,
+            "height": 0.0275
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "Solution",
+          "bbox": {
+            "x_min": 0.1291,
+            "y_min": 0.1748,
+            "x_max": 0.1995,
+            "y_max": 0.1828,
+            "width": 0.0705,
+            "height": 0.008
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "(a) No. The magnetic force is always normal to B (remember magnetic\nforce = qv B). It is misleading to call magnetic field lines as lines",
+          "bbox": {
+            "x_min": 0.1291,
+            "y_min": 0.1881,
+            "x_max": 0.6573,
+            "y_max": 0.2156,
+            "width": 0.5282,
+            "height": 0.0275
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "of force.",
+          "bbox": {
+            "x_min": 0.1584,
+            "y_min": 0.2196,
+            "x_max": 0.217,
+            "y_max": 0.2276,
+            "width": 0.0586,
+            "height": 0.008
+          },
+          "confidence": 0.9805
+        },
+        {
+          "text": "(b) Gauss's law of magnetism states that the flux of B through any\nB.As = 0.",
+          "bbox": {
+            "x_min": 0.1291,
+            "y_min": 0.2329,
+            "x_max": 0.6567,
+            "y_max": 0.268,
+            "width": 0.5276,
+            "height": 0.035
+          },
+          "confidence": 0.9639
+        },
+        {
+          "text": "closed surface is always zero",
+          "bbox": {
+            "x_min": 0.1584,
+            "y_min": 0.2573,
+            "x_max": 0.3839,
+            "y_max": 0.2689,
+            "width": 0.2255,
+            "height": 0.0115
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "Ss",
+          "bbox": {
+            "x_min": 0.3923,
+            "y_min": 0.2529,
+            "x_max": 0.4081,
+            "y_max": 0.2751,
+            "width": 0.0158,
+            "height": 0.0222
+          },
+          "confidence": 0.4896
+        },
+        {
+          "text": "If monopoles existed, the right hand side would be equal to the\nmonopole (magnetic charge) qm enclosed by S. [Analogous to",
+          "bbox": {
+            "x_min": 0.1584,
+            "y_min": 0.2808,
+            "x_max": 0.6556,
+            "y_max": 0.3097,
+            "width": 0.4972,
+            "height": 0.0288
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "Gauss's law of electrostatics,",
+          "bbox": {
+            "x_min": 0.1573,
+            "y_min": 0.3248,
+            "x_max": 0.3929,
+            "y_max": 0.3345,
+            "width": 0.2356,
+            "height": 0.0098
+          },
+          "confidence": 0.9828
+        },
+        {
+          "text": "S",
+          "bbox": {
+            "x_min": 0.4092,
+            "y_min": 0.3354,
+            "x_max": 0.4183,
+            "y_max": 0.3412,
+            "width": 0.009,
+            "height": 0.0058
+          },
+          "confidence": 0.9578
+        },
+        {
+          "text": "B.As = μoqm where qm is the",
+          "bbox": {
+            "x_min": 0.42,
+            "y_min": 0.3234,
+            "x_max": 0.6561,
+            "y_max": 0.3381,
+            "width": 0.2362,
+            "height": 0.0146
+          },
+          "confidence": 0.797
+        },
+        {
+          "text": "(monopole) magnetic charge enclosed by S.]",
+          "bbox": {
+            "x_min": 0.1578,
+            "y_min": 0.3474,
+            "x_max": 0.5028,
+            "y_max": 0.3602,
+            "width": 0.345,
+            "height": 0.0129
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "(c) No. There is no force or torque on an element due to the field\nproduced by that element itself. But there is a force (or torque)\non an element of the same wire. (For the special case of a straight\nwire, this force is zero.)",
+          "bbox": {
+            "x_min": 0.1291,
+            "y_min": 0.3625,
+            "x_max": 0.6561,
+            "y_max": 0.4179,
+            "width": 0.5271,
+            "height": 0.0555
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "Med",
+          "bbox": {
+            "x_min": 0.3709,
+            "y_min": 0.2782,
+            "x_max": 0.8523,
+            "y_max": 0.5972,
+            "width": 0.4814,
+            "height": 0.319
+          },
+          "confidence": 0.7699
+        },
+        {
+          "text": "(d) Yes. The average of the charge in the system may be zero. Yet,\nthe mean of the magnetic moments due to various current loops\nmay not be zero. We will come across such examples in connection\nwith paramagnetic material where atoms have net dipole moment\nthrough their net charge is zero.",
+          "bbox": {
+            "x_min": 0.1291,
+            "y_min": 0.4224,
+            "x_max": 0.6561,
+            "y_max": 0.4951,
+            "width": 0.5271,
+            "height": 0.0728
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "5.4 MAGNETISATION AND MAGNETIC INTENSITY",
+          "bbox": {
+            "x_min": 0.0992,
+            "y_min": 0.5297,
+            "x_max": 0.6387,
+            "y_max": 0.5466,
+            "width": 0.5395,
+            "height": 0.0169
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "The earth abounds with a bewildering variety of elements and compounds.\nIn addition, we have been synthesising new alloys, compounds and even\nelements. One would like to classify the magnetic properties of these\nsubstances. In the present section, we define and explain certain terms\nwhich will help us to carry out this exercise.",
+          "bbox": {
+            "x_min": 0.0958,
+            "y_min": 0.5594,
+            "x_max": 0.6866,
+            "y_max": 0.6389,
+            "width": 0.5908,
+            "height": 0.0794
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "We have seen that a circulating electron in an atom has a magnetic\nmoment. In a bulk material, these moments add up vectorially and they\ncan give a net magnetic moment which is non-zero. We define\nmagnetisation M of a sample to be equal to its net magnetic moment per\nunit volume:",
+          "bbox": {
+            "x_min": 0.0975,
+            "y_min": 0.6415,
+            "x_max": 0.686,
+            "y_max": 0.7178,
+            "width": 0.5885,
+            "height": 0.0763
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "m",
+          "bbox": {
+            "x_min": 0.1663,
+            "y_min": 0.7382,
+            "x_max": 0.186,
+            "y_max": 0.7436,
+            "width": 0.0197,
+            "height": 0.0053
+          },
+          "confidence": 0.9588
+        },
+        {
+          "text": "M",
+          "bbox": {
+            "x_min": 0.1268,
+            "y_min": 0.744,
+            "x_max": 0.146,
+            "y_max": 0.752,
+            "width": 0.0192,
+            "height": 0.008
+          },
+          "confidence": 0.927
+        },
+        {
+          "text": "net",
+          "bbox": {
+            "x_min": 0.1849,
+            "y_min": 0.7422,
+            "x_max": 0.2024,
+            "y_max": 0.748,
+            "width": 0.0175,
+            "height": 0.0058
+          },
+          "confidence": 0.9767
+        },
+        {
+          "text": "V",
+          "bbox": {
+            "x_min": 0.1781,
+            "y_min": 0.7542,
+            "x_max": 0.1933,
+            "y_max": 0.7626,
+            "width": 0.0152,
+            "height": 0.0084
+          },
+          "confidence": 0.9435
+        },
+        {
+          "text": "ot",
+          "bbox": {
+            "x_min": 0.2401,
+            "y_min": 0.7054,
+            "x_max": 0.3439,
+            "y_max": 0.7862,
+            "width": 0.1037,
+            "height": 0.0807
+          },
+          "confidence": 0.8862
+        },
+        {
+          "text": "(5.7)",
+          "bbox": {
+            "x_min": 0.6466,
+            "y_min": 0.7445,
+            "x_max": 0.6838,
+            "y_max": 0.7569,
+            "width": 0.0372,
+            "height": 0.0124
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "-1",
+          "bbox": {
+            "x_min": 0.3512,
+            "y_min": 0.7737,
+            "x_max": 0.3602,
+            "y_max": 0.7799,
+            "width": 0.009,
+            "height": 0.0062
+          },
+          "confidence": 0.9357
+        },
+        {
+          "text": "M is a vector with dimensions L¯¹ A and is measured in a units of Am¯¹.\nConsider a long solenoid of n turns per unit length and carrying a\ncurrent I. The magnetic field in the interior of the solenoid was shown to\nbe given by",
+          "bbox": {
+            "x_min": 0.0964,
+            "y_min": 0.7728,
+            "x_max": 0.6855,
+            "y_max": 0.8381,
+            "width": 0.5891,
+            "height": 0.0652
+          },
+          "confidence": 0.9837
+        },
+        {
+          "text": "Βο = μο ηΙ",
+          "bbox": {
+            "x_min": 0.1263,
+            "y_min": 0.8416,
+            "x_max": 0.2063,
+            "y_max": 0.8567,
+            "width": 0.08,
+            "height": 0.0151
+          },
+          "confidence": 0.5922
+        },
+        {
+          "text": "(5.8)",
+          "bbox": {
+            "x_min": 0.6466,
+            "y_min": 0.8412,
+            "x_max": 0.6838,
+            "y_max": 0.8527,
+            "width": 0.0372,
+            "height": 0.0115
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "If the interior of the solenoid is filled with a material with non-zero\nmagnetisation, the field inside the solenoid will be greater than B. The\nnet B field in the interior of the solenoid may be expressed as",
+          "bbox": {
+            "x_min": 0.0981,
+            "y_min": 0.8647,
+            "x_max": 0.6849,
+            "y_max": 0.9126,
+            "width": 0.5868,
+            "height": 0.0479
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "B = B + Bm",
+          "bbox": {
+            "x_min": 0.1274,
+            "y_min": 0.9206,
+            "x_max": 0.2193,
+            "y_max": 0.9348,
+            "width": 0.0919,
+            "height": 0.0142
+          },
+          "confidence": 0.9257
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "(5.9)",
+          "bbox": {
+            "x_min": 0.6466,
+            "y_min": 0.9197,
+            "x_max": 0.6843,
+            "y_max": 0.9317,
+            "width": 0.0378,
+            "height": 0.012
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "145",
+          "bbox": {
+            "x_min": 0.8264,
+            "y_min": 0.9237,
+            "x_max": 0.8591,
+            "y_max": 0.9339,
+            "width": 0.0327,
+            "height": 0.0102
+          },
+          "confidence": 0.9962
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "146",
+          "bbox": {
+            "x_min": 0.1404,
+            "y_min": 0.9237,
+            "x_max": 0.1736,
+            "y_max": 0.9339,
+            "width": 0.0333,
+            "height": 0.0102
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.2317,
+            "y_min": 0.0878,
+            "x_max": 0.3382,
+            "y_max": 0.1114,
+            "width": 0.1065,
+            "height": 0.0235
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "m",
+          "bbox": {
+            "x_min": 0.3794,
+            "y_min": 0.142,
+            "x_max": 0.3923,
+            "y_max": 0.1464,
+            "width": 0.013,
+            "height": 0.0044
+          },
+          "confidence": 0.9595
+        },
+        {
+          "text": "where B is the field contributed by the material core. It turns out that\nthis additional field Bm is proportional to the magnetisation M of the\nmaterial and is expressed as",
+          "bbox": {
+            "x_min": 0.3112,
+            "y_min": 0.1318,
+            "x_max": 0.9014,
+            "y_max": 0.1797,
+            "width": 0.5902,
+            "height": 0.0479
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "Β = μοΜ",
+          "bbox": {
+            "x_min": 0.3377,
+            "y_min": 0.1872,
+            "x_max": 0.4183,
+            "y_max": 0.2014,
+            "width": 0.0806,
+            "height": 0.0142
+          },
+          "confidence": 0.6835
+        },
+        {
+          "text": "m",
+          "bbox": {
+            "x_min": 0.354,
+            "y_min": 0.1974,
+            "x_max": 0.3664,
+            "y_max": 0.2014,
+            "width": 0.0124,
+            "height": 0.004
+          },
+          "confidence": 0.9541
+        },
+        {
+          "text": "(5.10)",
+          "bbox": {
+            "x_min": 0.8506,
+            "y_min": 0.1868,
+            "x_max": 0.9014,
+            "y_max": 0.1992,
+            "width": 0.0507,
+            "height": 0.0124
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "where µo is the same constant (permiability of vacuum) that appears in\nBiot-Savart's law.",
+          "bbox": {
+            "x_min": 0.3123,
+            "y_min": 0.2072,
+            "x_max": 0.9019,
+            "y_max": 0.2343,
+            "width": 0.5896,
+            "height": 0.0271
+          },
+          "confidence": 0.9715
+        },
+        {
+          "text": "It is convenient to introduce another vector field H, called the magnetic\nintensity, which is defined by",
+          "bbox": {
+            "x_min": 0.3134,
+            "y_min": 0.2405,
+            "x_max": 0.9042,
+            "y_max": 0.2706,
+            "width": 0.5908,
+            "height": 0.0302
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "B",
+          "bbox": {
+            "x_min": 0.3822,
+            "y_min": 0.2848,
+            "x_max": 0.3991,
+            "y_max": 0.2928,
+            "width": 0.0169,
+            "height": 0.008
+          },
+          "confidence": 0.9586
+        },
+        {
+          "text": "H =",
+          "bbox": {
+            "x_min": 0.345,
+            "y_min": 0.2933,
+            "x_max": 0.376,
+            "y_max": 0.3021,
+            "width": 0.031,
+            "height": 0.0089
+          },
+          "confidence": 0.9124
+        },
+        {
+          "text": "M",
+          "bbox": {
+            "x_min": 0.4171,
+            "y_min": 0.2937,
+            "x_max": 0.4363,
+            "y_max": 0.3021,
+            "width": 0.0192,
+            "height": 0.0084
+          },
+          "confidence": 0.9272
+        },
+        {
+          "text": "μο",
+          "bbox": {
+            "x_min": 0.3788,
+            "y_min": 0.3057,
+            "x_max": 0.4002,
+            "y_max": 0.3163,
+            "width": 0.0214,
+            "height": 0.0106
+          },
+          "confidence": 0.933
+        },
+        {
+          "text": "where H has the same dimensions as M and is measured in",
+          "bbox": {
+            "x_min": 0.3129,
+            "y_min": 0.3256,
+            "x_max": 0.7892,
+            "y_max": 0.3381,
+            "width": 0.4763,
+            "height": 0.0124
+          },
+          "confidence": 0.9825
+        },
+        {
+          "text": "Thus, the total magnetic field B is written as",
+          "bbox": {
+            "x_min": 0.3123,
+            "y_min": 0.3434,
+            "x_max": 0.6731,
+            "y_max": 0.3571,
+            "width": 0.3608,
+            "height": 0.0138
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "Β = μο (Η + M)",
+          "bbox": {
+            "x_min": 0.3422,
+            "y_min": 0.3642,
+            "x_max": 0.4543,
+            "y_max": 0.3802,
+            "width": 0.1122,
+            "height": 0.016
+          },
+          "confidence": 0.7426
+        },
+        {
+          "text": "(5.11)",
+          "bbox": {
+            "x_min": 0.8512,
+            "y_min": 0.2959,
+            "x_max": 0.9014,
+            "y_max": 0.3088,
+            "width": 0.0502,
+            "height": 0.0129
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "nits of Am¯¹.",
+          "bbox": {
+            "x_min": 0.801,
+            "y_min": 0.319,
+            "x_max": 0.9014,
+            "y_max": 0.3492,
+            "width": 0.1003,
+            "height": 0.0302
+          },
+          "confidence": 0.9051
+        },
+        {
+          "text": "(5.12)",
+          "bbox": {
+            "x_min": 0.8517,
+            "y_min": 0.3638,
+            "x_max": 0.9002,
+            "y_max": 0.3771,
+            "width": 0.0485,
+            "height": 0.0133
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "We repeat our defining procedure. We have partitioned the contribution\nto the total magnetic field inside the sample into two parts: one, due to\nexternal factors such as the current in the solenoid. This is represented\nby H. The other is due to the specific nature of the magnetic material,\nnamely M. The latter quantity can be influenced by external factors. This\ninfluence is mathematically expressed as",
+          "bbox": {
+            "x_min": 0.3134,
+            "y_min": 0.3846,
+            "x_max": 0.9025,
+            "y_max": 0.4885,
+            "width": 0.5891,
+            "height": 0.1038
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "M = XH",
+          "bbox": {
+            "x_min": 0.345,
+            "y_min": 0.4978,
+            "x_max": 0.4109,
+            "y_max": 0.5106,
+            "width": 0.066,
+            "height": 0.0129
+          },
+          "confidence": 0.7136
+        },
+        {
+          "text": "(5.13)",
+          "bbox": {
+            "x_min": 0.8523,
+            "y_min": 0.4969,
+            "x_max": 0.9002,
+            "y_max": 0.5098,
+            "width": 0.0479,
+            "height": 0.0129
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "where X, a dimensionless quantity, is appropriately called the magnetic\nsusceptibility. It is a measure of how a magnetic material responds to an\nexternal field. X is small and positive for materials, which are called\nparamagnetic. It is small and negative for materials, which are termed\ndiamagnetic. In the latter case M and H are opposite in direction. From\nEqs. (5.12) and (5.13) we obtain,",
+          "bbox": {
+            "x_min": 0.3129,
+            "y_min": 0.5204,
+            "x_max": 0.9042,
+            "y_max": 0.6207,
+            "width": 0.5913,
+            "height": 0.1003
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "notto",
+          "bbox": {
+            "x_min": 0.2091,
+            "y_min": 0.642,
+            "x_max": 0.4171,
+            "y_max": 0.8199,
+            "width": 0.208,
+            "height": 0.1779
+          },
+          "confidence": 0.7745
+        },
+        {
+          "text": "Β = μ¸(1 + χ)Η",
+          "bbox": {
+            "x_min": 0.3455,
+            "y_min": 0.6322,
+            "x_max": 0.4566,
+            "y_max": 0.6473,
+            "width": 0.111,
+            "height": 0.0151
+          },
+          "confidence": 0.7509
+        },
+        {
+          "text": "= μο μ Η",
+          "bbox": {
+            "x_min": 0.3439,
+            "y_min": 0.661,
+            "x_max": 0.4126,
+            "y_max": 0.6766,
+            "width": 0.0688,
+            "height": 0.0155
+          },
+          "confidence": 0.8253
+        },
+        {
+          "text": "EXAMPLE 5.5",
+          "bbox": {
+            "x_min": 0.2728,
+            "y_min": 0.8607,
+            "x_max": 0.2875,
+            "y_max": 0.9401,
+            "width": 0.0147,
+            "height": 0.0794
+          },
+          "confidence": 0.9439
+        },
+        {
+          "text": "(5.14)",
+          "bbox": {
+            "x_min": 0.8506,
+            "y_min": 0.6322,
+            "x_max": 0.9008,
+            "y_max": 0.6455,
+            "width": 0.0502,
+            "height": 0.0133
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "(5.15)",
+          "bbox": {
+            "x_min": 0.8501,
+            "y_min": 0.6886,
+            "x_max": 0.9014,
+            "y_max": 0.7014,
+            "width": 0.0513,
+            "height": 0.0129
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "where μ = 1 + x, is a dimensionless quantity called the relative magnetic\npermeability of the substance. It is the analog of the dielectric constant in\nelectrostatics. The magnetic permeability of the substance is u and it has\nthe same dimensions and units as μο;",
+          "bbox": {
+            "x_min": 0.3129,
+            "y_min": 0.7107,
+            "x_max": 0.9042,
+            "y_max": 0.7764,
+            "width": 0.5913,
+            "height": 0.0657
+          },
+          "confidence": 0.9826
+        },
+        {
+          "text": "μ = μομ₁ = μο (1+x).",
+          "bbox": {
+            "x_min": 0.3439,
+            "y_min": 0.7866,
+            "x_max": 0.4899,
+            "y_max": 0.8017,
+            "width": 0.146,
+            "height": 0.0151
+          },
+          "confidence": 0.826
+        },
+        {
+          "text": "The three quantities χ, μ₁ and u are interrelated and only one of\nthem is independent. Given one, the other two may be easily determined.",
+          "bbox": {
+            "x_min": 0.3129,
+            "y_min": 0.8114,
+            "x_max": 0.9025,
+            "y_max": 0.8412,
+            "width": 0.5896,
+            "height": 0.0297
+          },
+          "confidence": 0.9786
+        },
+        {
+          "text": "Example 5.5 A solenoid has a core of a material with relative\npermeability 400. The windings of the solenoid are insulated from the\ncore and carry a current of 2A. If the number of turns is 1000 per\nmetre, calculate (a) H, (b) M, (c) B and (d) the magnetising current Im",
+          "bbox": {
+            "x_min": 0.3427,
+            "y_min": 0.8656,
+            "x_max": 0.8822,
+            "y_max": 0.9237,
+            "width": 0.5395,
+            "height": 0.0581
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "Magnetism and\nMatter",
+          "bbox": {
+            "x_min": 0.6178,
+            "y_min": 0.0692,
+            "x_max": 0.8016,
+            "y_max": 0.1074,
+            "width": 0.1838,
+            "height": 0.0382
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "Solution",
+          "bbox": {
+            "x_min": 0.1274,
+            "y_min": 0.142,
+            "x_max": 0.1956,
+            "y_max": 0.1504,
+            "width": 0.0682,
+            "height": 0.0084
+          },
+          "confidence": 0.984
+        },
+        {
+          "text": "(a) The field H is dependent of the material of the core, and is",
+          "bbox": {
+            "x_min": 0.1274,
+            "y_min": 0.1562,
+            "x_max": 0.6133,
+            "y_max": 0.1677,
+            "width": 0.4859,
+            "height": 0.0115
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "H = nl = 1000 × 2.0 = 2 ×10³ A/m.",
+          "bbox": {
+            "x_min": 0.1573,
+            "y_min": 0.1686,
+            "x_max": 0.4149,
+            "y_max": 0.1819,
+            "width": 0.2576,
+            "height": 0.0133
+          },
+          "confidence": 0.9023
+        },
+        {
+          "text": "(b) The magnetic field B is given by",
+          "bbox": {
+            "x_min": 0.1274,
+            "y_min": 0.1859,
+            "x_max": 0.4053,
+            "y_max": 0.1979,
+            "width": 0.2779,
+            "height": 0.012
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "Β = με μο Η",
+          "bbox": {
+            "x_min": 0.1573,
+            "y_min": 0.2014,
+            "x_max": 0.2356,
+            "y_max": 0.2147,
+            "width": 0.0784,
+            "height": 0.0133
+          },
+          "confidence": 0.7737
+        },
+        {
+          "text": "= 400 × 4π × 107־ )N/A²) × 2 × 103 (A/m(",
+          "bbox": {
+            "x_min": 0.1714,
+            "y_min": 0.2125,
+            "x_max": 0.4617,
+            "y_max": 0.2272,
+            "width": 0.2903,
+            "height": 0.0146
+          },
+          "confidence": 0.8666
+        },
+        {
+          "text": "= 1.0 T",
+          "bbox": {
+            "x_min": 0.1719,
+            "y_min": 0.2311,
+            "x_max": 0.2249,
+            "y_max": 0.24,
+            "width": 0.053,
+            "height": 0.0089
+          },
+          "confidence": 0.9719
+        },
+        {
+          "text": "(c) Magnetisation is given by",
+          "bbox": {
+            "x_min": 0.128,
+            "y_min": 0.2458,
+            "x_max": 0.3579,
+            "y_max": 0.2582,
+            "width": 0.23,
+            "height": 0.0124
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "M = (Β- μο Η)/ μο",
+          "bbox": {
+            "x_min": 0.1567,
+            "y_min": 0.2609,
+            "x_max": 0.2864,
+            "y_max": 0.2742,
+            "width": 0.1297,
+            "height": 0.0133
+          },
+          "confidence": 0.7848
+        },
+        {
+          "text": "= (μ, μο Η−μο Η)/μο = (μ, − 1)H = 399 × H\n= 8 × 105 A/m",
+          "bbox": {
+            "x_min": 0.1764,
+            "y_min": 0.2751,
+            "x_max": 0.4808,
+            "y_max": 0.3017,
+            "width": 0.3044,
+            "height": 0.0266
+          },
+          "confidence": 0.776
+        },
+        {
+          "text": "(d) The magnetising current IM is the additional current that needs\nto be passed through the windings of the solenoid in the absence\nof the core which would give a B value as in the presence of the\ncore. Thus B = μ₁n (I + I₁₁). Using I = 2A, B = 1 T, we get IM = 794 A.",
+          "bbox": {
+            "x_min": 0.128,
+            "y_min": 0.3052,
+            "x_max": 0.6669,
+            "y_max": 0.3651,
+            "width": 0.5389,
+            "height": 0.0599
+          },
+          "confidence": 0.97
+        },
+        {
+          "text": "The discussion in the previous section helps us to classify materials asd",
+          "bbox": {
+            "x_min": 0.0924,
+            "y_min": 0.3101,
+            "x_max": 0.867,
+            "y_max": 0.4654,
+            "width": 0.7745,
+            "height": 0.1553
+          },
+          "confidence": 0.9704
+        },
+        {
+          "text": "5.5 MAGNETIC PROPERTIES OF MATERIALS",
+          "bbox": {
+            "x_min": 0.0992,
+            "y_min": 0.4073,
+            "x_max": 0.5913,
+            "y_max": 0.4237,
+            "width": 0.4921,
+            "height": 0.0164
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "ished",
+          "bbox": {
+            "x_min": 0.6561,
+            "y_min": 0.3066,
+            "x_max": 0.8489,
+            "y_max": 0.4556,
+            "width": 0.1928,
+            "height": 0.1491
+          },
+          "confidence": 0.9757
+        },
+        {
+          "text": "diamagnetic, paramagnetic or ferromagnetic. In terms of the susceptibility\nx, a material is diamagnetic if x is negative, para- if x is positive and small,\nand ferro- if x is large and positive.",
+          "bbox": {
+            "x_min": 0.097,
+            "y_min": 0.4552,
+            "x_max": 0.6855,
+            "y_max": 0.5031,
+            "width": 0.5885,
+            "height": 0.0479
+          },
+          "confidence": 0.9841
+        },
+        {
+          "text": "A glance at Table 5.2 gives one a better feeling for these materials.\nHere & is a small positive number introduced to quantify paramagnetic\nmaterials. Next, we describe these materials in some detail.",
+          "bbox": {
+            "x_min": 0.0975,
+            "y_min": 0.5075,
+            "x_max": 0.6855,
+            "y_max": 0.5532,
+            "width": 0.5879,
+            "height": 0.0457
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "TABLE 5.2",
+          "bbox": {
+            "x_min": 0.3433,
+            "y_min": 0.5976,
+            "x_max": 0.4391,
+            "y_max": 0.6091,
+            "width": 0.0958,
+            "height": 0.0115
+          },
+          "confidence": 0.9727
+        },
+        {
+          "text": "Ferromagnetic",
+          "bbox": {
+            "x_min": 0.5254,
+            "y_min": 0.6295,
+            "x_max": 0.6595,
+            "y_max": 0.6415,
+            "width": 0.1342,
+            "height": 0.012
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "Diamagnetic",
+          "bbox": {
+            "x_min": 0.1184,
+            "y_min": 0.63,
+            "x_max": 0.2345,
+            "y_max": 0.6411,
+            "width": 0.1161,
+            "height": 0.0111
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "−1 ≤ x < 0",
+          "bbox": {
+            "x_min": 0.1359,
+            "y_min": 0.661,
+            "x_max": 0.2142,
+            "y_max": 0.6735,
+            "width": 0.0784,
+            "height": 0.0124
+          },
+          "confidence": 0.7516
+        },
+        {
+          "text": "0 ≤ μ < 1",
+          "bbox": {
+            "x_min": 0.1381,
+            "y_min": 0.6841,
+            "x_max": 0.2114,
+            "y_max": 0.6983,
+            "width": 0.0733,
+            "height": 0.0142
+          },
+          "confidence": 0.8627
+        },
+        {
+          "text": "μ < μο",
+          "bbox": {
+            "x_min": 0.1516,
+            "y_min": 0.7116,
+            "x_max": 0.1995,
+            "y_max": 0.7236,
+            "width": 0.0479,
+            "height": 0.012
+          },
+          "confidence": 0.8523
+        },
+        {
+          "text": "Paramagnetic",
+          "bbox": {
+            "x_min": 0.3241,
+            "y_min": 0.6295,
+            "x_max": 0.4504,
+            "y_max": 0.6411,
+            "width": 0.1263,
+            "height": 0.0115
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "0 < x < ε",
+          "bbox": {
+            "x_min": 0.3512,
+            "y_min": 0.6606,
+            "x_max": 0.4233,
+            "y_max": 0.673,
+            "width": 0.0722,
+            "height": 0.0124
+          },
+          "confidence": 0.7379
+        },
+        {
+          "text": "1< μ₁ < 1+ ε",
+          "bbox": {
+            "x_min": 0.3433,
+            "y_min": 0.6846,
+            "x_max": 0.4324,
+            "y_max": 0.7001,
+            "width": 0.0891,
+            "height": 0.0155
+          },
+          "confidence": 0.8435
+        },
+        {
+          "text": "με μο",
+          "bbox": {
+            "x_min": 0.363,
+            "y_min": 0.7116,
+            "x_max": 0.4098,
+            "y_max": 0.7236,
+            "width": 0.0468,
+            "height": 0.012
+          },
+          "confidence": 0.762
+        },
+        {
+          "text": "x >> 1",
+          "bbox": {
+            "x_min": 0.5665,
+            "y_min": 0.6619,
+            "x_max": 0.6161,
+            "y_max": 0.673,
+            "width": 0.0496,
+            "height": 0.0111
+          },
+          "confidence": 0.8476
+        },
+        {
+          "text": "μ>> 1",
+          "bbox": {
+            "x_min": 0.5637,
+            "y_min": 0.6854,
+            "x_max": 0.6184,
+            "y_max": 0.6979,
+            "width": 0.0547,
+            "height": 0.0124
+          },
+          "confidence": 0.9041
+        },
+        {
+          "text": "μ >> μο",
+          "bbox": {
+            "x_min": 0.5631,
+            "y_min": 0.7125,
+            "x_max": 0.6206,
+            "y_max": 0.7236,
+            "width": 0.0575,
+            "height": 0.0111
+          },
+          "confidence": 0.8329
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.7768,
+            "y_min": 0.6863,
+            "x_max": 0.7965,
+            "y_max": 0.697,
+            "width": 0.0197,
+            "height": 0.0106
+          },
+          "confidence": 0.9714
+        },
+        {
+          "text": "gneti",
+          "bbox": {
+            "x_min": 0.2379,
+            "y_min": 0.7728,
+            "x_max": 0.2824,
+            "y_max": 0.7897,
+            "width": 0.0445,
+            "height": 0.0169
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "5.5.1 Diamagnetism",
+          "bbox": {
+            "x_min": 0.0981,
+            "y_min": 0.7746,
+            "x_max": 0.3145,
+            "y_max": 0.7888,
+            "width": 0.2165,
+            "height": 0.0142
+          },
+          "confidence": 0.9868
+        },
+        {
+          "text": "Diamagnetic substances are those which have tendency to move from\nstronger to the weaker part of the external magnetic field. In other words,\nunlike the way a magnet attracts metals like iron, it would repel a\ndiamagnetic substance.",
+          "bbox": {
+            "x_min": 0.0975,
+            "y_min": 0.7972,
+            "x_max": 0.6855,
+            "y_max": 0.8549,
+            "width": 0.5879,
+            "height": 0.0577
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "Figure 5.7(a) shows a bar of diamagnetic material placed in an external\nmagnetic field. The field lines are repelled or expelled and the field inside\nthe material is reduced. In most cases, this reduction is slight, being one\npart in 105. When placed in a non-uniform magnetic field, the bar will tend\nto move from high to low field.",
+          "bbox": {
+            "x_min": 0.0975,
+            "y_min": 0.8558,
+            "x_max": 0.6849,
+            "y_max": 0.9303,
+            "width": 0.5874,
+            "height": 0.0745
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.7773,
+            "y_min": 0.7742,
+            "x_max": 0.7971,
+            "y_max": 0.7844,
+            "width": 0.0197,
+            "height": 0.0102
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "FIGURE 5.7\nBehaviour of\nmagnetic field lines",
+          "bbox": {
+            "x_min": 0.7108,
+            "y_min": 0.8008,
+            "x_max": 0.8641,
+            "y_max": 0.8421,
+            "width": 0.1533,
+            "height": 0.0413
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "near a",
+          "bbox": {
+            "x_min": 0.7616,
+            "y_min": 0.8487,
+            "x_max": 0.814,
+            "y_max": 0.8545,
+            "width": 0.0524,
+            "height": 0.0058
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "(a) diamagnetic,\n(b) paramagnetic\nsubstance.",
+          "bbox": {
+            "x_min": 0.7204,
+            "y_min": 0.8602,
+            "x_max": 0.8551,
+            "y_max": 0.8988,
+            "width": 0.1347,
+            "height": 0.0386
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "147",
+          "bbox": {
+            "x_min": 0.8264,
+            "y_min": 0.9241,
+            "x_max": 0.8602,
+            "y_max": 0.9335,
+            "width": 0.0338,
+            "height": 0.0093
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.2317,
+            "y_min": 0.087,
+            "x_max": 0.3382,
+            "y_max": 0.1118,
+            "width": 0.1065,
+            "height": 0.0248
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "The simplest explanation for diamagnetism is as follows. Electrons in\nan atom orbiting around nucleus possess orbital angular momentum.\nThese orbiting electrons are equivalent to current-carrying loop and thus\npossess orbital magnetic moment. Diamagnetic substances are the ones\nin which resultant magnetic moment in an atom is zero. When magnetic\nfield is applied, those electrons having orbital magnetic moment in the\nsame direction slow down and those in the opposite direction speed up.\nThis happens due to induced current in accordance with Lenz's law which\nyou will study in Chapter 6. Thus, the substance develops a net magnetic\nmoment in direction opposite to that of the applied field and hence repulsion.\nSome diamagnetic materials are bismuth, copper, lead, silicon,\nnitrogen (at STP), water and sodium chloride. Diamagnetism is present\nin all the substances. However, the effect is so weak in most cases that it\ngets shifted by other effects like paramagnetism, ferromagnetism, etc.",
+          "bbox": {
+            "x_min": 0.3123,
+            "y_min": 0.1304,
+            "x_max": 0.9019,
+            "y_max": 0.3456,
+            "width": 0.5896,
+            "height": 0.2152
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "The most exotic diamagnetic materials are superconductors. These\nare metals, cooled to very low temperatures which exhibits both perfect\nconductivity and perfect diamagnetism. Here the field lines are completely\nexpelled! x = −1 and µ₁ = 0. A superconductor repels a magnet and (by\nNewton's third law) is repelled by the magnet. The phenomenon of perfect\ndiamagnetism in superconductors is called the Meissner effect, after the\nname of its discoverer. Superconducting magnets can be gainfully\nexploited in variety of situations, for example, for running magnetically\namp\nlevitated superfast trains.",
+          "bbox": {
+            "x_min": 0.3106,
+            "y_min": 0.3421,
+            "x_max": 0.9059,
+            "y_max": 0.4973,
+            "width": 0.5953,
+            "height": 0.1553
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "5.5.2 Paramagnetism",
+          "bbox": {
+            "x_min": 0.314,
+            "y_min": 0.5093,
+            "x_max": 0.5338,
+            "y_max": 0.524,
+            "width": 0.2198,
+            "height": 0.0146
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "Paramagnetic substances are those which get weakly magnetised when\nplaced in an external magnetic field. They have tendency to move from a\nregion of weak magnetic field to strong magnetic field, i.e., they get weakly\nattracted to a magnet.",
+          "bbox": {
+            "x_min": 0.3134,
+            "y_min": 0.5319,
+            "x_max": 0.9019,
+            "y_max": 0.5949,
+            "width": 0.5885,
+            "height": 0.063
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "The individual atoms (or ions or molecules) of a paramagnetic material\npossess a permanent magnetic dipole moment of their own. On account\nof the ceaseless random thermal motion of the atoms, no net magnetisation\nis seen. In the presence of an external field B, which is strong enough,\nand at low temperatures, the individual atomic dipole moment can be\nmade to align and point in the same direction as B. Figure 5.7(b) shows\na bar of paramagnetic material placed in an external field. The field lines\ngets concentrated inside the material, and the field inside is enhanced. In\nmost cases, this enhancement is slight, being one part in 105. When placed\nin a non-uniform magnetic field, the bar will tend to move from weak field\nto strong.",
+          "bbox": {
+            "x_min": 0.3134,
+            "y_min": 0.5976,
+            "x_max": 0.9019,
+            "y_max": 0.7768,
+            "width": 0.5885,
+            "height": 0.1792
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.2159,
+            "y_min": 0.7103,
+            "x_max": 0.3377,
+            "y_max": 0.8123,
+            "width": 0.1218,
+            "height": 0.102
+          },
+          "confidence": 0.9677
+        },
+        {
+          "text": "Some paramagnetic materials are aluminium, sodium, calcium,\noxygen (at STP) and copper chloride. For a paramagnetic material both x\nand u depend not only on the material, but also (in a simple fashion) on\nthe sample temperature. As the field is increased or the temperature is\nlowered, the magnetisation increases until it reaches the saturation value\nat which point all the dipoles are perfectly aligned with the field.",
+          "bbox": {
+            "x_min": 0.3134,
+            "y_min": 0.7795,
+            "x_max": 0.9014,
+            "y_max": 0.8749,
+            "width": 0.5879,
+            "height": 0.0954
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "148",
+          "bbox": {
+            "x_min": 0.1398,
+            "y_min": 0.9241,
+            "x_max": 0.1736,
+            "y_max": 0.9339,
+            "width": 0.0338,
+            "height": 0.0098
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "Magnetism and\nMatter",
+          "bbox": {
+            "x_min": 0.6178,
+            "y_min": 0.0692,
+            "x_max": 0.8016,
+            "y_max": 0.1074,
+            "width": 0.1838,
+            "height": 0.0382
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "5.5.3 Ferromagnetism",
+          "bbox": {
+            "x_min": 0.0981,
+            "y_min": 0.1313,
+            "x_max": 0.341,
+            "y_max": 0.1455,
+            "width": 0.243,
+            "height": 0.0142
+          },
+          "confidence": 0.9845
+        },
+        {
+          "text": "Ferromagnetic substances are those which gets strongly magnetised when\nplaced in an external magnetic field. They have strong tendency to move\nfrom a region of weak magnetic field to strong magnetic field, i.e., they get\nstrongly attracted to a magnet.",
+          "bbox": {
+            "x_min": 0.097,
+            "y_min": 0.1557,
+            "x_max": 0.686,
+            "y_max": 0.2183,
+            "width": 0.5891,
+            "height": 0.0626
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "The individual atoms (or ions or molecules) in a ferromagnetic material\npossess a dipole moment as in a paramagnetic material. However, they\ninteract with one another in such a way that they spontaneously align\nthemselves in a common direction over a macroscopic volume called\ndomain. The explanation of this cooperative effect requires quantum\nmechanics and is beyond the scope of this textbook. Each domain has a\nnet magnetisation. Typical domain size is 1mm and the domain contains\nabout 10¹¹ atoms. In the first instant, the magnetisation varies randomly\nfrom domain to domain and there is no bulk magnetisation. This is shown\nin Fig. 5.8(a). When we apply an external magnetic field Bo, the domains\norient themselves in the direction of B and simultaneously the domain\noriented in the direction of B grow in size. This existence of domains and\ntheir motion in Bo are not speculations. One may observe this under a\nmicroscope after sprinkling a liquid suspension of powdered\nferromagnetic substance of samples. This motion of suspension can be\nobserved. Fig. 5.8(b) shows the situation when the domains have aligned\nand amalgamated to form a single ‘giant' domain.",
+          "bbox": {
+            "x_min": 0.0975,
+            "y_min": 0.2214,
+            "x_max": 0.686,
+            "y_max": 0.4982,
+            "width": 0.5885,
+            "height": 0.2768
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "Thus, in a ferromagnetic material the field lines are highly\nconcentrated. In non-uniform magnetic field, the sample tends to move\ntowards the region of high field. We may wonder as to what happens\nwhen the external field is removed. In some ferromagnetic materials the\nmagnetisation persists. Such materials are called hard magnetic materials\nor hard ferromagnets. Alnico, an alloy of iron, aluminium, nickel, cobalt\nand copper, is one such material. The naturally occurring lodestone is\nanother. Such materials form permanent magnets to be used among other\nthings as a compass needle. On the other hand, there is a class of\nferromagnetic materials in which the magnetisation disappears on removal\nof the external field. Soft iron is one such material. Appropriately enough,\nsuch materials are called soft ferromagnetic materials. There are a number\nof elements, which are ferromagnetic: iron, cobalt, nickel, gadolinium,\netc. The relative magnetic permeability is >1000!",
+          "bbox": {
+            "x_min": 0.097,
+            "y_min": 0.5013,
+            "x_max": 0.6871,
+            "y_max": 0.7289,
+            "width": 0.5902,
+            "height": 0.2276
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "The ferromagnetic property depends on temperature. At high enough\ntemperature, a ferromagnet becomes a paramagnet. The domain structure\ndisintegrates with temperature. This disappearance of magnetisation with\ntemperature is gradual.",
+          "bbox": {
+            "x_min": 0.0975,
+            "y_min": 0.7311,
+            "x_max": 0.6849,
+            "y_max": 0.7946,
+            "width": 0.5874,
+            "height": 0.0634
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.7745,
+            "y_min": 0.2183,
+            "x_max": 0.7937,
+            "y_max": 0.2289,
+            "width": 0.0192,
+            "height": 0.0106
+          },
+          "confidence": 0.9741
+        },
+        {
+          "text": "Bo",
+          "bbox": {
+            "x_min": 0.77,
+            "y_min": 0.3372,
+            "x_max": 0.7909,
+            "y_max": 0.3478,
+            "width": 0.0209,
+            "height": 0.0106
+          },
+          "confidence": 0.8579
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.7762,
+            "y_min": 0.3594,
+            "x_max": 0.7937,
+            "y_max": 0.3696,
+            "width": 0.0175,
+            "height": 0.0102
+          },
+          "confidence": 0.9868
+        },
+        {
+          "text": "FIGURE 5.8\n(a) Randomly\noriented domains,\n(b) Aligned domains.",
+          "bbox": {
+            "x_min": 0.7035,
+            "y_min": 0.3784,
+            "x_max": 0.8636,
+            "y_max": 0.4348,
+            "width": 0.1601,
+            "height": 0.0563
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "SUMMARY",
+          "bbox": {
+            "x_min": 0.3427,
+            "y_min": 0.8319,
+            "x_max": 0.4414,
+            "y_max": 0.8412,
+            "width": 0.0986,
+            "height": 0.0093
+          },
+          "confidence": 0.9678
+        },
+        {
+          "text": "1. The science of magnetism is old. It has been known since ancient times\nthat magnetic materials tend to point in the north-south direction; like",
+          "bbox": {
+            "x_min": 0.1291,
+            "y_min": 0.8616,
+            "x_max": 0.6567,
+            "y_max": 0.8873,
+            "width": 0.5276,
+            "height": 0.0257
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "149",
+          "bbox": {
+            "x_min": 0.8269,
+            "y_min": 0.9241,
+            "x_max": 0.8591,
+            "y_max": 0.9335,
+            "width": 0.0321,
+            "height": 0.0093
+          },
+          "confidence": 0.9954
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "150",
+          "bbox": {
+            "x_min": 0.1398,
+            "y_min": 0.9232,
+            "x_max": 0.1742,
+            "y_max": 0.9339,
+            "width": 0.0344,
+            "height": 0.0106
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.2317,
+            "y_min": 0.0874,
+            "x_max": 0.3382,
+            "y_max": 0.1118,
+            "width": 0.1065,
+            "height": 0.0244
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "magnetic poles repel and unlike ones attract; and cutting a bar magnet\nin two leads to two smaller magnets. Magnetic poles cannot be isolated.\n2. When a bar magnet of dipole moment m is placed in a uniform magnetic\nfield B,",
+          "bbox": {
+            "x_min": 0.3427,
+            "y_min": 0.1389,
+            "x_max": 0.8715,
+            "y_max": 0.1939,
+            "width": 0.5287,
+            "height": 0.055
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.3653,
+            "y_min": 0.1979,
+            "x_max": 0.3856,
+            "y_max": 0.2085,
+            "width": 0.0203,
+            "height": 0.0106
+          },
+          "confidence": 0.975
+        },
+        {
+          "text": "the force on it is zero,",
+          "bbox": {
+            "x_min": 0.4042,
+            "y_min": 0.1983,
+            "x_max": 0.5609,
+            "y_max": 0.2085,
+            "width": 0.1567,
+            "height": 0.0102
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "(b) the torque on it is m × B,",
+          "bbox": {
+            "x_min": 0.3675,
+            "y_min": 0.213,
+            "x_max": 0.5885,
+            "y_max": 0.224,
+            "width": 0.221,
+            "height": 0.0111
+          },
+          "confidence": 0.9649
+        },
+        {
+          "text": "(c)",
+          "bbox": {
+            "x_min": 0.3675,
+            "y_min": 0.2263,
+            "x_max": 0.3833,
+            "y_max": 0.2382,
+            "width": 0.0158,
+            "height": 0.012
+          },
+          "confidence": 0.9537
+        },
+        {
+          "text": "its potential energy is –m-B, where we choose the zero of energy at\nthe orientation when m is perpendicular to B.",
+          "bbox": {
+            "x_min": 0.4047,
+            "y_min": 0.2263,
+            "x_max": 0.8715,
+            "y_max": 0.2524,
+            "width": 0.4667,
+            "height": 0.0262
+          },
+          "confidence": 0.9754
+        },
+        {
+          "text": "3. Consider a bar magnet of size 1 and magnetic moment m, at a distance\nr from its mid-point, where r>>l, the magnetic field B due to this bar\nis,",
+          "bbox": {
+            "x_min": 0.3433,
+            "y_min": 0.2578,
+            "x_max": 0.872,
+            "y_max": 0.2955,
+            "width": 0.5287,
+            "height": 0.0377
+          },
+          "confidence": 0.9801
+        },
+        {
+          "text": "μm",
+          "bbox": {
+            "x_min": 0.4059,
+            "y_min": 0.3079,
+            "x_max": 0.4397,
+            "y_max": 0.3177,
+            "width": 0.0338,
+            "height": 0.0098
+          },
+          "confidence": 0.9066
+        },
+        {
+          "text": "B",
+          "bbox": {
+            "x_min": 0.3709,
+            "y_min": 0.315,
+            "x_max": 0.3867,
+            "y_max": 0.3225,
+            "width": 0.0158,
+            "height": 0.0075
+          },
+          "confidence": 0.9596
+        },
+        {
+          "text": "2πγ3",
+          "bbox": {
+            "x_min": 0.4047,
+            "y_min": 0.3208,
+            "x_max": 0.4414,
+            "y_max": 0.3327,
+            "width": 0.0366,
+            "height": 0.012
+          },
+          "confidence": 0.6251
+        },
+        {
+          "text": "(along axis)",
+          "bbox": {
+            "x_min": 0.4651,
+            "y_min": 0.3172,
+            "x_max": 0.5479,
+            "y_max": 0.3292,
+            "width": 0.0829,
+            "height": 0.012
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "μm",
+          "bbox": {
+            "x_min": 0.4126,
+            "y_min": 0.35,
+            "x_max": 0.4459,
+            "y_max": 0.3602,
+            "width": 0.0333,
+            "height": 0.0102
+          },
+          "confidence": 0.9191
+        },
+        {
+          "text": "4 πρ³",
+          "bbox": {
+            "x_min": 0.4098,
+            "y_min": 0.3638,
+            "x_max": 0.4459,
+            "y_max": 0.3749,
+            "width": 0.0361,
+            "height": 0.0111
+          },
+          "confidence": 0.6213
+        },
+        {
+          "text": "3",
+          "bbox": {
+            "x_min": 0.4408,
+            "y_min": 0.3651,
+            "x_max": 0.4476,
+            "y_max": 0.3696,
+            "width": 0.0068,
+            "height": 0.0044
+          },
+          "confidence": 0.9599
+        },
+        {
+          "text": "(along equator)",
+          "bbox": {
+            "x_min": 0.4724,
+            "y_min": 0.3563,
+            "x_max": 0.58,
+            "y_max": 0.3682,
+            "width": 0.1077,
+            "height": 0.012
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "4. Gauss's law for magnetism states that the net magnetic flux through",
+          "bbox": {
+            "x_min": 0.3427,
+            "y_min": 0.3878,
+            "x_max": 0.872,
+            "y_max": 0.4002,
+            "width": 0.5293,
+            "height": 0.0124
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "any closed surface is zero",
+          "bbox": {
+            "x_min": 0.3726,
+            "y_min": 0.4024,
+            "x_max": 0.5536,
+            "y_max": 0.4139,
+            "width": 0.1809,
+            "height": 0.0115
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "Σ Β.ΔΣ = Ο",
+          "bbox": {
+            "x_min": 0.4324,
+            "y_min": 0.4246,
+            "x_max": 0.5451,
+            "y_max": 0.4419,
+            "width": 0.1127,
+            "height": 0.0173
+          },
+          "confidence": 0.5474
+        },
+        {
+          "text": "B",
+          "bbox": {
+            "x_min": 0.3822,
+            "y_min": 0.4357,
+            "x_max": 0.3923,
+            "y_max": 0.4406,
+            "width": 0.0101,
+            "height": 0.0049
+          },
+          "confidence": 0.9555
+        },
+        {
+          "text": "Фв =",
+          "bbox": {
+            "x_min": 0.3743,
+            "y_min": 0.4281,
+            "x_max": 0.4087,
+            "y_max": 0.4406,
+            "width": 0.0344,
+            "height": 0.0124
+          },
+          "confidence": 0.6571
+        },
+        {
+          "text": "all area",
+          "bbox": {
+            "x_min": 0.4132,
+            "y_min": 0.4445,
+            "x_max": 0.4532,
+            "y_max": 0.4503,
+            "width": 0.04,
+            "height": 0.0058
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "elements AS",
+          "bbox": {
+            "x_min": 0.4138,
+            "y_min": 0.453,
+            "x_max": 0.4713,
+            "y_max": 0.4587,
+            "width": 0.0575,
+            "height": 0.0058
+          },
+          "confidence": 0.9705
+        },
+        {
+          "text": "alished",
+          "bbox": {
+            "x_min": 0.5834,
+            "y_min": 0.3017,
+            "x_max": 0.8703,
+            "y_max": 0.4991,
+            "width": 0.2869,
+            "height": 0.1974
+          },
+          "confidence": 0.923
+        },
+        {
+          "text": "5. Consider a material placed in an external magnetic field B. The",
+          "bbox": {
+            "x_min": 0.3439,
+            "y_min": 0.4689,
+            "x_max": 0.872,
+            "y_max": 0.4809,
+            "width": 0.5282,
+            "height": 0.012
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "magnetic intensity is defined as,",
+          "bbox": {
+            "x_min": 0.3715,
+            "y_min": 0.4831,
+            "x_max": 0.6037,
+            "y_max": 0.4947,
+            "width": 0.2322,
+            "height": 0.0115
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "H =",
+          "bbox": {
+            "x_min": 0.3737,
+            "y_min": 0.5058,
+            "x_max": 0.4002,
+            "y_max": 0.5142,
+            "width": 0.0265,
+            "height": 0.0084
+          },
+          "confidence": 0.9255
+        },
+        {
+          "text": "Bo",
+          "bbox": {
+            "x_min": 0.4025,
+            "y_min": 0.4978,
+            "x_max": 0.4233,
+            "y_max": 0.5098,
+            "width": 0.0209,
+            "height": 0.012
+          },
+          "confidence": 0.6104
+        },
+        {
+          "text": "μο",
+          "bbox": {
+            "x_min": 0.4064,
+            "y_min": 0.5173,
+            "x_max": 0.4233,
+            "y_max": 0.5271,
+            "width": 0.0169,
+            "height": 0.0098
+          },
+          "confidence": 0.9292
+        },
+        {
+          "text": "The magnetisation M of the material is its dipole moment per unit volume.",
+          "bbox": {
+            "x_min": 0.372,
+            "y_min": 0.5293,
+            "x_max": 0.8715,
+            "y_max": 0.5408,
+            "width": 0.4994,
+            "height": 0.0115
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "B =",
+          "bbox": {
+            "x_min": 0.3692,
+            "y_min": 0.5581,
+            "x_max": 0.3957,
+            "y_max": 0.5661,
+            "width": 0.0265,
+            "height": 0.008
+          },
+          "confidence": 0.9325
+        },
+        {
+          "text": "μο (Η + Μ)",
+          "bbox": {
+            "x_min": 0.3991,
+            "y_min": 0.5577,
+            "x_max": 0.4735,
+            "y_max": 0.5705,
+            "width": 0.0744,
+            "height": 0.0129
+          },
+          "confidence": 0.8718
+        },
+        {
+          "text": "6. For a linear material M = x H. So that B = μ Η and x is called the\nmagnetic susceptibility of the material. The three quantities, x, the\nrelative magnetic permeability µ₁, and the magnetic permeability u are",
+          "bbox": {
+            "x_min": 0.3422,
+            "y_min": 0.5745,
+            "x_max": 0.8715,
+            "y_max": 0.6158,
+            "width": 0.5293,
+            "height": 0.0413
+          },
+          "confidence": 0.963
+        },
+        {
+          "text": "related as follows:",
+          "bbox": {
+            "x_min": 0.3726,
+            "y_min": 0.6185,
+            "x_max": 0.5011,
+            "y_max": 0.626,
+            "width": 0.1285,
+            "height": 0.0075
+          },
+          "confidence": 0.9803
+        },
+        {
+          "text": "μ = μο με",
+          "bbox": {
+            "x_min": 0.3726,
+            "y_min": 0.6371,
+            "x_max": 0.4318,
+            "y_max": 0.6469,
+            "width": 0.0592,
+            "height": 0.0098
+          },
+          "confidence": 0.8364
+        },
+        {
+          "text": "μ₁ = 1+ χ",
+          "bbox": {
+            "x_min": 0.3715,
+            "y_min": 0.6539,
+            "x_max": 0.4329,
+            "y_max": 0.6659,
+            "width": 0.0614,
+            "height": 0.012
+          },
+          "confidence": 0.7677
+        },
+        {
+          "text": "7. Magnetic materials are broadly classified as: diamagnetic, paramagnetic,\nand ferromagnetic. For diamagnetic materials x is negative and small\nand for paramagnetic materials it is positive and small. Ferromagnetic\nmaterials have large x.",
+          "bbox": {
+            "x_min": 0.3422,
+            "y_min": 0.673,
+            "x_max": 0.872,
+            "y_max": 0.7276,
+            "width": 0.5299,
+            "height": 0.0546
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "8. Substances, which at room temperature, retain their ferromagnetic\nproperty for a long period of time are called permanent magnets.",
+          "bbox": {
+            "x_min": 0.3433,
+            "y_min": 0.7329,
+            "x_max": 0.8726,
+            "y_max": 0.76,
+            "width": 0.5293,
+            "height": 0.0271
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "Magnetism and\nMatter",
+          "bbox": {
+            "x_min": 0.6178,
+            "y_min": 0.0692,
+            "x_max": 0.8016,
+            "y_max": 0.1074,
+            "width": 0.1838,
+            "height": 0.0382
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "Physical quantity",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.1451,
+            "x_max": 0.2582,
+            "y_max": 0.1566,
+            "width": 0.1432,
+            "height": 0.0115
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "Symbol Nature",
+          "bbox": {
+            "x_min": 0.3134,
+            "y_min": 0.1446,
+            "x_max": 0.4526,
+            "y_max": 0.1566,
+            "width": 0.1392,
+            "height": 0.012
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "Dimensions",
+          "bbox": {
+            "x_min": 0.4961,
+            "y_min": 0.146,
+            "x_max": 0.5924,
+            "y_max": 0.1539,
+            "width": 0.0964,
+            "height": 0.008
+          },
+          "confidence": 0.9868
+        },
+        {
+          "text": "Units",
+          "bbox": {
+            "x_min": 0.6325,
+            "y_min": 0.1451,
+            "x_max": 0.6764,
+            "y_max": 0.1535,
+            "width": 0.044,
+            "height": 0.0084
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "Remarks",
+          "bbox": {
+            "x_min": 0.726,
+            "y_min": 0.1446,
+            "x_max": 0.7988,
+            "y_max": 0.1535,
+            "width": 0.0727,
+            "height": 0.0089
+          },
+          "confidence": 0.9854
+        },
+        {
+          "text": "Permeability of",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.1832,
+            "x_max": 0.2322,
+            "y_max": 0.1939,
+            "width": 0.1178,
+            "height": 0.0106
+          },
+          "confidence": 0.9859
+        },
+        {
+          "text": "μο",
+          "bbox": {
+            "x_min": 0.3354,
+            "y_min": 0.1854,
+            "x_max": 0.3534,
+            "y_max": 0.1957,
+            "width": 0.018,
+            "height": 0.0102
+          },
+          "confidence": 0.9283
+        },
+        {
+          "text": "Scalar",
+          "bbox": {
+            "x_min": 0.3985,
+            "y_min": 0.1828,
+            "x_max": 0.451,
+            "y_max": 0.1908,
+            "width": 0.0524,
+            "height": 0.008
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "[MLT-2 A-2]",
+          "bbox": {
+            "x_min": 0.4944,
+            "y_min": 0.1792,
+            "x_max": 0.5755,
+            "y_max": 0.1925,
+            "width": 0.0812,
+            "height": 0.0133
+          },
+          "confidence": 0.7748
+        },
+        {
+          "text": "Tm A¯¹",
+          "bbox": {
+            "x_min": 0.6325,
+            "y_min": 0.1797,
+            "x_max": 0.6888,
+            "y_max": 0.1912,
+            "width": 0.0564,
+            "height": 0.0115
+          },
+          "confidence": 0.7847
+        },
+        {
+          "text": "μο/4π = 10-7",
+          "bbox": {
+            "x_min": 0.7283,
+            "y_min": 0.1801,
+            "x_max": 0.8207,
+            "y_max": 0.1965,
+            "width": 0.0924,
+            "height": 0.0164
+          },
+          "confidence": 0.8497
+        },
+        {
+          "text": "free space",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.1983,
+            "x_max": 0.1939,
+            "y_max": 0.2081,
+            "width": 0.0789,
+            "height": 0.0098
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "Magnetic field,",
+          "bbox": {
+            "x_min": 0.1122,
+            "y_min": 0.2192,
+            "x_max": 0.2221,
+            "y_max": 0.2311,
+            "width": 0.1099,
+            "height": 0.012
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "B",
+          "bbox": {
+            "x_min": 0.336,
+            "y_min": 0.2196,
+            "x_max": 0.3506,
+            "y_max": 0.2276,
+            "width": 0.0147,
+            "height": 0.008
+          },
+          "confidence": 0.9431
+        },
+        {
+          "text": "Vector",
+          "bbox": {
+            "x_min": 0.3952,
+            "y_min": 0.2196,
+            "x_max": 0.4464,
+            "y_max": 0.2272,
+            "width": 0.0513,
+            "height": 0.0075
+          },
+          "confidence": 0.9839
+        },
+        {
+          "text": "[MT-2 A-1]",
+          "bbox": {
+            "x_min": 0.4977,
+            "y_min": 0.2165,
+            "x_max": 0.5637,
+            "y_max": 0.2294,
+            "width": 0.066,
+            "height": 0.0129
+          },
+          "confidence": 0.7311
+        },
+        {
+          "text": "T (tesla)",
+          "bbox": {
+            "x_min": 0.6313,
+            "y_min": 0.2183,
+            "x_max": 0.6917,
+            "y_max": 0.2294,
+            "width": 0.0603,
+            "height": 0.0111
+          },
+          "confidence": 0.9672
+        },
+        {
+          "text": "104 G (gauss) = 1 T",
+          "bbox": {
+            "x_min": 0.73,
+            "y_min": 0.2169,
+            "x_max": 0.867,
+            "y_max": 0.2307,
+            "width": 0.137,
+            "height": 0.0138
+          },
+          "confidence": 0.9124
+        },
+        {
+          "text": "Magnetic induction,",
+          "bbox": {
+            "x_min": 0.1133,
+            "y_min": 0.2334,
+            "x_max": 0.27,
+            "y_max": 0.2453,
+            "width": 0.1567,
+            "height": 0.012
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "Magnetic flux density",
+          "bbox": {
+            "x_min": 0.1127,
+            "y_min": 0.2493,
+            "x_max": 0.2835,
+            "y_max": 0.2604,
+            "width": 0.1708,
+            "height": 0.0111
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "Magnetic moment",
+          "bbox": {
+            "x_min": 0.1127,
+            "y_min": 0.2706,
+            "x_max": 0.2542,
+            "y_max": 0.2817,
+            "width": 0.1415,
+            "height": 0.0111
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "m",
+          "bbox": {
+            "x_min": 0.3348,
+            "y_min": 0.2733,
+            "x_max": 0.3534,
+            "y_max": 0.2786,
+            "width": 0.0186,
+            "height": 0.0053
+          },
+          "confidence": 0.9539
+        },
+        {
+          "text": "Vector",
+          "bbox": {
+            "x_min": 0.3952,
+            "y_min": 0.2706,
+            "x_max": 0.4476,
+            "y_max": 0.2782,
+            "width": 0.0524,
+            "height": 0.0075
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "[L-2 A]",
+          "bbox": {
+            "x_min": 0.4977,
+            "y_min": 0.2666,
+            "x_max": 0.5406,
+            "y_max": 0.2799,
+            "width": 0.0428,
+            "height": 0.0133
+          },
+          "confidence": 0.8324
+        },
+        {
+          "text": "A m²",
+          "bbox": {
+            "x_min": 0.6297,
+            "y_min": 0.2671,
+            "x_max": 0.6719,
+            "y_max": 0.2786,
+            "width": 0.0423,
+            "height": 0.0115
+          },
+          "confidence": 0.8254
+        },
+        {
+          "text": "Magnetic flux",
+          "bbox": {
+            "x_min": 0.1127,
+            "y_min": 0.2924,
+            "x_max": 0.2215,
+            "y_max": 0.303,
+            "width": 0.1088,
+            "height": 0.0106
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "Scalar",
+          "bbox": {
+            "x_min": 0.3985,
+            "y_min": 0.2919,
+            "x_max": 0.4504,
+            "y_max": 0.2999,
+            "width": 0.0519,
+            "height": 0.008
+          },
+          "confidence": 0.9853
+        },
+        {
+          "text": "[ML2T-2 A¯¹]",
+          "bbox": {
+            "x_min": 0.4983,
+            "y_min": 0.2884,
+            "x_max": 0.5823,
+            "y_max": 0.3026,
+            "width": 0.084,
+            "height": 0.0142
+          },
+          "confidence": 0.7066
+        },
+        {
+          "text": "W (weber) W=Tm²",
+          "bbox": {
+            "x_min": 0.633,
+            "y_min": 0.2884,
+            "x_max": 0.7954,
+            "y_max": 0.3026,
+            "width": 0.1623,
+            "height": 0.0142
+          },
+          "confidence": 0.9142
+        },
+        {
+          "text": "Magnetisation",
+          "bbox": {
+            "x_min": 0.1139,
+            "y_min": 0.3287,
+            "x_max": 0.2272,
+            "y_max": 0.3398,
+            "width": 0.1133,
+            "height": 0.0111
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "M",
+          "bbox": {
+            "x_min": 0.3348,
+            "y_min": 0.3287,
+            "x_max": 0.3517,
+            "y_max": 0.3363,
+            "width": 0.0169,
+            "height": 0.0075
+          },
+          "confidence": 0.9437
+        },
+        {
+          "text": "Vector",
+          "bbox": {
+            "x_min": 0.3957,
+            "y_min": 0.3287,
+            "x_max": 0.4493,
+            "y_max": 0.3358,
+            "width": 0.0536,
+            "height": 0.0071
+          },
+          "confidence": 0.9852
+        },
+        {
+          "text": "[L-¹ A]",
+          "bbox": {
+            "x_min": 0.4972,
+            "y_min": 0.3248,
+            "x_max": 0.5406,
+            "y_max": 0.3376,
+            "width": 0.0434,
+            "height": 0.0129
+          },
+          "confidence": 0.7837
+        },
+        {
+          "text": "Am¯¹",
+          "bbox": {
+            "x_min": 0.6319,
+            "y_min": 0.3248,
+            "x_max": 0.6747,
+            "y_max": 0.3367,
+            "width": 0.0428,
+            "height": 0.012
+          },
+          "confidence": 0.7439
+        },
+        {
+          "text": "-1",
+          "bbox": {
+            "x_min": 0.6618,
+            "y_min": 0.3256,
+            "x_max": 0.6753,
+            "y_max": 0.331,
+            "width": 0.0135,
+            "height": 0.0053
+          },
+          "confidence": 0.9597
+        },
+        {
+          "text": "Magnetic intensity",
+          "bbox": {
+            "x_min": 0.1133,
+            "y_min": 0.3567,
+            "x_max": 0.2616,
+            "y_max": 0.3669,
+            "width": 0.1483,
+            "height": 0.0102
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "H",
+          "bbox": {
+            "x_min": 0.336,
+            "y_min": 0.3563,
+            "x_max": 0.3523,
+            "y_max": 0.3647,
+            "width": 0.0163,
+            "height": 0.0084
+          },
+          "confidence": 0.7419
+        },
+        {
+          "text": "Vector",
+          "bbox": {
+            "x_min": 0.3952,
+            "y_min": 0.3567,
+            "x_max": 0.4476,
+            "y_max": 0.3638,
+            "width": 0.0524,
+            "height": 0.0071
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "[L-¹ A]",
+          "bbox": {
+            "x_min": 0.4972,
+            "y_min": 0.3531,
+            "x_max": 0.5406,
+            "y_max": 0.366,
+            "width": 0.0434,
+            "height": 0.0129
+          },
+          "confidence": 0.7868
+        },
+        {
+          "text": "Am-1",
+          "bbox": {
+            "x_min": 0.6308,
+            "y_min": 0.3531,
+            "x_max": 0.6747,
+            "y_max": 0.3642,
+            "width": 0.044,
+            "height": 0.0111
+          },
+          "confidence": 0.8321
+        },
+        {
+          "text": "Β = μο",
+          "bbox": {
+            "x_min": 0.726,
+            "y_min": 0.3558,
+            "x_max": 0.7723,
+            "y_max": 0.3682,
+            "width": 0.0462,
+            "height": 0.0124
+          },
+          "confidence": 0.8538
+        },
+        {
+          "text": "Magnetic moment",
+          "bbox": {
+            "x_min": 0.7289,
+            "y_min": 0.3225,
+            "x_max": 0.8602,
+            "y_max": 0.3336,
+            "width": 0.1313,
+            "height": 0.0111
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "Volume",
+          "bbox": {
+            "x_min": 0.7678,
+            "y_min": 0.339,
+            "x_max": 0.8236,
+            "y_max": 0.3492,
+            "width": 0.0558,
+            "height": 0.0102
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "6",
+          "bbox": {
+            "x_min": 0.7616,
+            "y_min": 0.3571,
+            "x_max": 0.7796,
+            "y_max": 0.3705,
+            "width": 0.018,
+            "height": 0.0133
+          },
+          "confidence": 0.2455
+        },
+        {
+          "text": "(H + M)",
+          "bbox": {
+            "x_min": 0.7785,
+            "y_min": 0.3545,
+            "x_max": 0.8337,
+            "y_max": 0.366,
+            "width": 0.0552,
+            "height": 0.0115
+          },
+          "confidence": 0.9216
+        },
+        {
+          "text": "Magnetic field",
+          "bbox": {
+            "x_min": 0.1133,
+            "y_min": 0.3744,
+            "x_max": 0.2232,
+            "y_max": 0.386,
+            "width": 0.1099,
+            "height": 0.0115
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "strength",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.39,
+            "x_max": 0.1809,
+            "y_max": 0.4011,
+            "width": 0.0665,
+            "height": 0.0111
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "Magnetic",
+          "bbox": {
+            "x_min": 0.111,
+            "y_min": 0.4117,
+            "x_max": 0.186,
+            "y_max": 0.4228,
+            "width": 0.075,
+            "height": 0.0111
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "X",
+          "bbox": {
+            "x_min": 0.3371,
+            "y_min": 0.4139,
+            "x_max": 0.3506,
+            "y_max": 0.4224,
+            "width": 0.0135,
+            "height": 0.0084
+          },
+          "confidence": 0.3975
+        },
+        {
+          "text": "Scalar",
+          "bbox": {
+            "x_min": 0.3985,
+            "y_min": 0.4117,
+            "x_max": 0.4504,
+            "y_max": 0.4193,
+            "width": 0.0519,
+            "height": 0.0075
+          },
+          "confidence": 0.9851
+        },
+        {
+          "text": "susceptibility",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.4264,
+            "x_max": 0.2198,
+            "y_max": 0.4374,
+            "width": 0.1048,
+            "height": 0.0111
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "Relative magnetic",
+          "bbox": {
+            "x_min": 0.1139,
+            "y_min": 0.4481,
+            "x_max": 0.2537,
+            "y_max": 0.4587,
+            "width": 0.1398,
+            "height": 0.0106
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "με",
+          "bbox": {
+            "x_min": 0.3371,
+            "y_min": 0.4499,
+            "x_max": 0.3529,
+            "y_max": 0.4605,
+            "width": 0.0158,
+            "height": 0.0106
+          },
+          "confidence": 0.7464
+        },
+        {
+          "text": "Scalar",
+          "bbox": {
+            "x_min": 0.3985,
+            "y_min": 0.4472,
+            "x_max": 0.4493,
+            "y_max": 0.4552,
+            "width": 0.0507,
+            "height": 0.008
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "permeability",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.4623,
+            "x_max": 0.2125,
+            "y_max": 0.4743,
+            "width": 0.0981,
+            "height": 0.012
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "Magnetic permeability",
+          "bbox": {
+            "x_min": 0.1127,
+            "y_min": 0.4836,
+            "x_max": 0.2796,
+            "y_max": 0.4956,
+            "width": 0.1669,
+            "height": 0.012
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "μ",
+          "bbox": {
+            "x_min": 0.3382,
+            "y_min": 0.4867,
+            "x_max": 0.3512,
+            "y_max": 0.4942,
+            "width": 0.013,
+            "height": 0.0075
+          },
+          "confidence": 0.9654
+        },
+        {
+          "text": "Scalar",
+          "bbox": {
+            "x_min": 0.3985,
+            "y_min": 0.4836,
+            "x_max": 0.4498,
+            "y_max": 0.4916,
+            "width": 0.0513,
+            "height": 0.008
+          },
+          "confidence": 0.9854
+        },
+        {
+          "text": "NCERT",
+          "bbox": {
+            "x_min": 0.372,
+            "y_min": 0.3917,
+            "x_max": 0.6032,
+            "y_max": 0.5745,
+            "width": 0.2311,
+            "height": 0.1828
+          },
+          "confidence": 0.8331
+        },
+        {
+          "text": "M = χΗ",
+          "bbox": {
+            "x_min": 0.7266,
+            "y_min": 0.4117,
+            "x_max": 0.7864,
+            "y_max": 0.4224,
+            "width": 0.0598,
+            "height": 0.0106
+          },
+          "confidence": 0.6533
+        },
+        {
+          "text": "[MLT-2 A-2]",
+          "bbox": {
+            "x_min": 0.4977,
+            "y_min": 0.4796,
+            "x_max": 0.5772,
+            "y_max": 0.4942,
+            "width": 0.0795,
+            "height": 0.0146
+          },
+          "confidence": 0.7971
+        },
+        {
+          "text": "Tm A-1\nN A-2",
+          "bbox": {
+            "x_min": 0.6313,
+            "y_min": 0.4823,
+            "x_max": 0.6877,
+            "y_max": 0.5071,
+            "width": 0.0564,
+            "height": 0.0248
+          },
+          "confidence": 0.9001
+        },
+        {
+          "text": "Β = μομ Η",
+          "bbox": {
+            "x_min": 0.7272,
+            "y_min": 0.4468,
+            "x_max": 0.8027,
+            "y_max": 0.461,
+            "width": 0.0755,
+            "height": 0.0142
+          },
+          "confidence": 0.7982
+        },
+        {
+          "text": "μ = μομε\nΒ = μ Η",
+          "bbox": {
+            "x_min": 0.7266,
+            "y_min": 0.4862,
+            "x_max": 0.7852,
+            "y_max": 0.5098,
+            "width": 0.0586,
+            "height": 0.0235
+          },
+          "confidence": 0.8199
+        },
+        {
+          "text": "POINTS TO PONDER",
+          "bbox": {
+            "x_min": 0.2954,
+            "y_min": 0.567,
+            "x_max": 0.4904,
+            "y_max": 0.5776,
+            "width": 0.195,
+            "height": 0.0106
+          },
+          "confidence": 0.983
+        },
+        {
+          "text": "1. A satisfactory understanding of magnetic phenomenon in terms of moving\ncharges/currents was arrived at after 1800 AD. But technological\nexploitation of the directional properties of magnets predates this scientific\nunderstanding by two thousand years. Thus, scientific understanding is\nnot a necessary condition for engineering applications. Ideally, science\nand engineering go hand-in-hand, one leading and assisting the other in\ntandem.",
+          "bbox": {
+            "x_min": 0.1189,
+            "y_min": 0.598,
+            "x_max": 0.6663,
+            "y_max": 0.6912,
+            "width": 0.5474,
+            "height": 0.0932
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "2. Magnetic monopoles do not exist. If you slice a magnet in half, you get\ntwo smaller magnets. On the other hand, isolated positive and negative\ncharges exist. There exists a smallest unit of charge, for example, the\nelectronic charge with value lel = 1.6 ×10-19 C. All other charges are\nintegral multiples of this smallest unit charge. In other words, charge is\nquantised. We do not know why magnetic monopoles do not exist or why\nelectric charge is quantised.",
+          "bbox": {
+            "x_min": 0.1172,
+            "y_min": 0.7001,
+            "x_max": 0.6657,
+            "y_max": 0.7968,
+            "width": 0.5485,
+            "height": 0.0967
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "3. A consequence of the fact that magnetic monopoles do not exist is that\nthe magnetic field lines are continuous and form closed loops. In contrast,\nthe electrostatic lines of force begin on a positive charge and terminate\non the negative charge (or fade out at infinity).",
+          "bbox": {
+            "x_min": 0.1178,
+            "y_min": 0.8039,
+            "x_max": 0.6652,
+            "y_max": 0.8585,
+            "width": 0.5474,
+            "height": 0.0546
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "4. A miniscule difference in the value of x, the magnetic susceptibility, yields\nradically different behaviour: diamagnetic versus paramagnetic. For\ndiamagnetic materials x = −10-5 whereas x = +10¯5 for paramagnetic",
+          "bbox": {
+            "x_min": 0.1161,
+            "y_min": 0.8638,
+            "x_max": 0.6657,
+            "y_max": 0.9042,
+            "width": 0.5496,
+            "height": 0.0404
+          },
+          "confidence": 0.972
+        },
+        {
+          "text": "materials.",
+          "bbox": {
+            "x_min": 0.1466,
+            "y_min": 0.9068,
+            "x_max": 0.2176,
+            "y_max": 0.9153,
+            "width": 0.071,
+            "height": 0.0084
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4532,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.093,
+            "height": 0.0089
+          },
+          "confidence": 0.9842
+        },
+        {
+          "text": "151",
+          "bbox": {
+            "x_min": 0.8281,
+            "y_min": 0.9232,
+            "x_max": 0.8585,
+            "y_max": 0.9339,
+            "width": 0.0304,
+            "height": 0.0106
+          },
+          "confidence": 0.9935
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "152",
+          "bbox": {
+            "x_min": 0.1404,
+            "y_min": 0.9237,
+            "x_max": 0.1747,
+            "y_max": 0.9339,
+            "width": 0.0344,
+            "height": 0.0102
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.2317,
+            "y_min": 0.087,
+            "x_max": 0.3388,
+            "y_max": 0.1118,
+            "width": 0.1071,
+            "height": 0.0248
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "5. There exists a perfect diamagnet, namely, a superconductor. This is a\nmetal at very low temperatures. In this case x = −1, μ₁ = 0, μ = 0. The\nexternal magnetic field is totally expelled. Interestingly, this material is\nalso a perfect conductor. However, there exists no classical theory which\nties these two properties together. A quantum-mechanical theory by\nBardeen, Cooper, and Schrieffer (BCS theory) explains these effects. The\nBCS theory was proposed in 1957 and was eventually recognised by a Nobel\nPrize in physics in 1970.",
+          "bbox": {
+            "x_min": 0.3331,
+            "y_min": 0.1473,
+            "x_max": 0.8816,
+            "y_max": 0.2587,
+            "width": 0.5485,
+            "height": 0.1114
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "6. Diamagnetism is universal. It is present in all materials. But it\nis weak and hard to detect if the substance is para- or ferromagnetic.",
+          "bbox": {
+            "x_min": 0.3331,
+            "y_min": 0.2649,
+            "x_max": 0.8816,
+            "y_max": 0.2902,
+            "width": 0.5485,
+            "height": 0.0253
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "7. We have classified materials as diamagnetic, paramagnetic, and\nferromagnetic. However, there exist additional types of magnetic material\nhaterial\nsuch as ferrimagnetic, anti-ferromagnetic, spin glass, etc. with properties\nwhich are exotic and mysterious.",
+          "bbox": {
+            "x_min": 0.3326,
+            "y_min": 0.2813,
+            "x_max": 0.8833,
+            "y_max": 0.3598,
+            "width": 0.5507,
+            "height": 0.0785
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "5.1",
+          "bbox": {
+            "x_min": 0.3129,
+            "y_min": 0.465,
+            "x_max": 0.341,
+            "y_max": 0.4743,
+            "width": 0.0282,
+            "height": 0.0093
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "5.2",
+          "bbox": {
+            "x_min": 0.3134,
+            "y_min": 0.5129,
+            "x_max": 0.3433,
+            "y_max": 0.5222,
+            "width": 0.0299,
+            "height": 0.0093
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "5.3",
+          "bbox": {
+            "x_min": 0.314,
+            "y_min": 0.5878,
+            "x_max": 0.3399,
+            "y_max": 0.5967,
+            "width": 0.0259,
+            "height": 0.0089
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "5.4",
+          "bbox": {
+            "x_min": 0.3129,
+            "y_min": 0.6508,
+            "x_max": 0.3427,
+            "y_max": 0.6597,
+            "width": 0.0299,
+            "height": 0.0089
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "EXERCISES she",
+          "bbox": {
+            "x_min": 0.513,
+            "y_min": 0.3403,
+            "x_max": 0.8281,
+            "y_max": 0.4787,
+            "width": 0.3151,
+            "height": 0.1384
+          },
+          "confidence": 0.8637
+        },
+        {
+          "text": "A short bar magnet placed with its axis at 30° with a uniform external\nmagnetic field of 0.25 T experiences a torque of magnitude equal to\n4.5 × 10¯² J. What is the magnitude of magnetic moment of the magnet?\nA short bar magnet of magnetic moment m = 0.32 JT¯¹ is placed in a\nuniform magnetic field of 0.15 T. If the bar is free to rotate in the\nplane of the field, which orientation would correspond to its (a) stable,\nand (b) unstable equilibrium? What is the potential energy of the\nmagnet in each case?",
+          "bbox": {
+            "x_min": 0.3715,
+            "y_min": 0.465,
+            "x_max": 0.9019,
+            "y_max": 0.5843,
+            "width": 0.5304,
+            "height": 0.1193
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "notot",
+          "bbox": {
+            "x_min": 0.2142,
+            "y_min": 0.6766,
+            "x_max": 0.376,
+            "y_max": 0.815,
+            "width": 0.1618,
+            "height": 0.1384
+          },
+          "confidence": 0.8394
+        },
+        {
+          "text": "5.6",
+          "bbox": {
+            "x_min": 0.3129,
+            "y_min": 0.8026,
+            "x_max": 0.3422,
+            "y_max": 0.8119,
+            "width": 0.0293,
+            "height": 0.0093
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "A closely wound solenoid of 800 turns and area of cross section\n2.5 × 10¯² m² carries a current of 3.0 A. Explain the sense in which\nthe solenoid acts like a bar magnet. What is its associated magnetic\nmoment?",
+          "bbox": {
+            "x_min": 0.3715,
+            "y_min": 0.587,
+            "x_max": 0.9019,
+            "y_max": 0.6411,
+            "width": 0.5304,
+            "height": 0.0541
+          },
+          "confidence": 0.9799
+        },
+        {
+          "text": "If the solenoid in Exercise 5.5 is free to turn about the vertical\ndirection and a uniform horizontal magnetic field of 0.25 T is applied,\nwhat is the magnitude of torque on the solenoid when its axis makes\nan angle of 30° with the direction of applied field?",
+          "bbox": {
+            "x_min": 0.3715,
+            "y_min": 0.65,
+            "x_max": 0.9014,
+            "y_max": 0.7067,
+            "width": 0.5299,
+            "height": 0.0568
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "A bar magnet of magnetic moment 1.5 J T¯¹ lies aligned with the\ndirection of a uniform magnetic field of 0.22 T.",
+          "bbox": {
+            "x_min": 0.3715,
+            "y_min": 0.7076,
+            "x_max": 0.9008,
+            "y_max": 0.7369,
+            "width": 0.5293,
+            "height": 0.0293
+          },
+          "confidence": 0.9818
+        },
+        {
+          "text": "(a) What is the amount of work required by an external torque to\nturn the magnet so as to align its magnetic moment: (i) normal\nto the field direction, (ii) opposite to the field direction?",
+          "bbox": {
+            "x_min": 0.372,
+            "y_min": 0.7427,
+            "x_max": 0.9014,
+            "y_max": 0.7848,
+            "width": 0.5293,
+            "height": 0.0421
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "(b) What is the torque on the magnet in cases (i) and (ii)?\nA closely wound solenoid of 2000 turns and area of cross-section\n1.6 × 104m², carrying a current of 4.0 A, is suspended through its\ncentre allowing it to turn in a horizontal plane.",
+          "bbox": {
+            "x_min": 0.3709,
+            "y_min": 0.7875,
+            "x_max": 0.9014,
+            "y_max": 0.8443,
+            "width": 0.5304,
+            "height": 0.0568
+          },
+          "confidence": 0.9838
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 18,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "Magnetism and\nMatter",
+          "bbox": {
+            "x_min": 0.6178,
+            "y_min": 0.0692,
+            "x_max": 0.8016,
+            "y_max": 0.1078,
+            "width": 0.1838,
+            "height": 0.0386
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "5.7",
+          "bbox": {
+            "x_min": 0.0975,
+            "y_min": 0.1957,
+            "x_max": 0.1263,
+            "y_max": 0.2045,
+            "width": 0.0287,
+            "height": 0.0089
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "(a) What is the magnetic moment associated with the solenoid?\n(b) What is the force and torque on the solenoid if a uniform\nhorizontal magnetic field of 7.5 × 10-2 T is set up at an angle of\n30° with the axis of the solenoid?",
+          "bbox": {
+            "x_min": 0.1567,
+            "y_min": 0.1327,
+            "x_max": 0.6871,
+            "y_max": 0.1877,
+            "width": 0.5304,
+            "height": 0.055
+          },
+          "confidence": 0.9767
+        },
+        {
+          "text": "A short bar magnet has a magnetic moment of 0.48 J T¯¹. Give the\ndirection and magnitude of the magnetic field produced by the magnet\nat a distance of 10 cm from the centre of the magnet on (a) the axis,\n(b) the equatorial lines (normal bisector) of the magnet.",
+          "bbox": {
+            "x_min": 0.1556,
+            "y_min": 0.1934,
+            "x_max": 0.6855,
+            "y_max": 0.2529,
+            "width": 0.5299,
+            "height": 0.0594
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "© NCERT",
+          "bbox": {
+            "x_min": 0.3067,
+            "y_min": 0.3962,
+            "x_max": 0.6037,
+            "y_max": 0.6282,
+            "width": 0.2971,
+            "height": 0.232
+          },
+          "confidence": 0.8754
+        },
+        {
+          "text": "not to be republished",
+          "bbox": {
+            "x_min": 0.2057,
+            "y_min": 0.3075,
+            "x_max": 0.8563,
+            "y_max": 0.8185,
+            "width": 0.6505,
+            "height": 0.5111
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "153",
+          "bbox": {
+            "x_min": 0.8292,
+            "y_min": 0.9232,
+            "x_max": 0.8585,
+            "y_max": 0.9343,
+            "width": 0.0293,
+            "height": 0.0111
+          },
+          "confidence": 0.9926
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

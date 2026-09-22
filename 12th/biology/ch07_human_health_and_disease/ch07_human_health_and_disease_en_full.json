@@ -1,0 +1,4028 @@
+{
+  "chapter_id": "12th_biology_ch07_human_health_and_disease_ch07_human_health_and_disease_en",
+  "total_pages": 22,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "UNIT VIII",
+          "bbox": {
+            "x_min": 0.0251,
+            "y_min": 0.2536,
+            "x_max": 0.2335,
+            "y_max": 0.2853,
+            "width": 0.2084,
+            "height": 0.0317
+          },
+          "confidence": 0.9818
+        },
+        {
+          "text": "BIOLOGY IN HUMAN WELFARE",
+          "bbox": {
+            "x_min": 0.0286,
+            "y_min": 0.3051,
+            "x_max": 0.9615,
+            "y_max": 0.3402,
+            "width": 0.9329,
+            "height": 0.0351
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "Chapter 7",
+          "bbox": {
+            "x_min": 0.0683,
+            "y_min": 0.3912,
+            "x_max": 0.1541,
+            "y_max": 0.4032,
+            "width": 0.0858,
+            "height": 0.012
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "Human Health and Disease",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.4087,
+            "x_max": 0.2977,
+            "y_max": 0.4195,
+            "width": 0.2283,
+            "height": 0.0107
+          },
+          "confidence": 0.9708
+        },
+        {
+          "text": "Chapter 8",
+          "bbox": {
+            "x_min": 0.0671,
+            "y_min": 0.4422,
+            "x_max": 0.1547,
+            "y_max": 0.4546,
+            "width": 0.0876,
+            "height": 0.0124
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "Microbes in Human Welfare",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.4597,
+            "x_max": 0.2989,
+            "y_max": 0.4709,
+            "width": 0.2288,
+            "height": 0.0111
+          },
+          "confidence": 0.9838
+        },
+        {
+          "text": "Biology is the youngest of the formalised disciplines of natural\nscience. Progress in physics and chemistry proceeded much\nfaster than in Biology. Applications of physics and chemistry in\nour daily life also have a higher visibility than those of biology.\nHowever, twentieth century and certainly twenty-first century\nhas demonstrated the utility of biological knowledge in\nfurthering human welfare, be it in health sector or agriculture.\nThe discovery of antibiotics, and synthetic plant-derived drugs,\nanaesthetics have changed medical practice on one hand\nand human health on the other hand. Life expectancy of\nhuman beings have dramatically changed over the years.\nAgricultural practices, food processing and diagnostics have\nbrought socio-cultural changes in human communities. These\nare briefly described in the following three chapters of this unit.",
+          "bbox": {
+            "x_min": 0.3847,
+            "y_min": 0.3916,
+            "x_max": 0.8938,
+            "y_max": 0.6362,
+            "width": 0.509,
+            "height": 0.2446
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "M.S. SWAMINATHAN",
+          "bbox": {
+            "x_min": 0.1343,
+            "y_min": 0.5167,
+            "x_max": 0.2662,
+            "y_max": 0.5274,
+            "width": 0.1319,
+            "height": 0.0107
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "(1925)",
+          "bbox": {
+            "x_min": 0.1745,
+            "y_min": 0.5313,
+            "x_max": 0.2265,
+            "y_max": 0.5424,
+            "width": 0.052,
+            "height": 0.0111
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "Born in August 1925 in Kumbakonam in Tamil Nadu, Monkambu Sambasivan\nSwaminathan did his graduation and post-graduation in Botany from\nMadras University. He worked in different capacities in large number of\ninstitutions in India and abroad and developed his expertise in genetics\nand plant breeding.",
+          "bbox": {
+            "x_min": 0.3053,
+            "y_min": 0.3076,
+            "x_max": 0.9206,
+            "y_max": 0.3912,
+            "width": 0.6153,
+            "height": 0.0835
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "The School of Cytogenetics and Radiation Research established at the\nIndian Agricultural Research Institute (IARI) enabled Swaminathan and his\nteam to develop short-duration high-yielding varieties of rice including scented\nBasmati. He is also known for the development of the concept of crop\ncafeteria, crop scheduling and genetically improving the yield and quality.\nSwaminathan initiated collaboration with Norman Borlaug, which\nculminated in the `Green Revolution' through introduction of Mexican\nvarieties of wheat in India. This was highly recognised and appreciated. He\nis also the initiator of `Lab-to-Land', food security and several other\nenvironmental programmes. He has been honoured with Padma Bhushan\nand several other prestigious awards, medals and fellowships by institutions\nof excellence.",
+          "bbox": {
+            "x_min": 0.3059,
+            "y_min": 0.3967,
+            "x_max": 0.9212,
+            "y_max": 0.6033,
+            "width": 0.6153,
+            "height": 0.2065
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "estigious",
+          "bbox": {
+            "x_min": 0.4729,
+            "y_min": 0.5698,
+            "x_max": 0.5435,
+            "y_max": 0.5921,
+            "width": 0.0706,
+            "height": 0.0223
+          },
+          "confidence": 0.9783
+        },
+        {
+          "text": "hot to be",
+          "bbox": {
+            "x_min": 0.1886,
+            "y_min": 0.581,
+            "x_max": 0.5085,
+            "y_max": 0.8076,
+            "width": 0.3199,
+            "height": 0.2266
+          },
+          "confidence": 0.8157
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "Antigen binding site",
+          "bbox": {
+            "x_min": 0.6357,
+            "y_min": 0.1311,
+            "x_max": 0.7087,
+            "y_max": 0.1517,
+            "width": 0.073,
+            "height": 0.0206
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "Antigen\nbinding site",
+          "bbox": {
+            "x_min": 0.798,
+            "y_min": 0.102,
+            "x_max": 0.8465,
+            "y_max": 0.1221,
+            "width": 0.0485,
+            "height": 0.0201
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "N",
+          "bbox": {
+            "x_min": 0.6708,
+            "y_min": 0.1461,
+            "x_max": 0.6813,
+            "y_max": 0.1512,
+            "width": 0.0105,
+            "height": 0.0051
+          },
+          "confidence": 0.9519
+        },
+        {
+          "text": "CHAPTER 7",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.2147,
+            "x_max": 0.31,
+            "y_max": 0.2386,
+            "width": 0.2364,
+            "height": 0.024
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "12083CH08",
+          "bbox": {
+            "x_min": 0.4851,
+            "y_min": 0.2374,
+            "x_max": 0.5301,
+            "y_max": 0.2421,
+            "width": 0.045,
+            "height": 0.0047
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "Light\nchain",
+          "bbox": {
+            "x_min": 0.6673,
+            "y_min": 0.1877,
+            "x_max": 0.6918,
+            "y_max": 0.2022,
+            "width": 0.0245,
+            "height": 0.0146
+          },
+          "confidence": 0.9826
+        },
+        {
+          "text": "Heavy chain-",
+          "bbox": {
+            "x_min": 0.6871,
+            "y_min": 0.2134,
+            "x_max": 0.735,
+            "y_max": 0.2284,
+            "width": 0.0479,
+            "height": 0.015
+          },
+          "confidence": 0.9093
+        },
+        {
+          "text": "HUMAN HEALTH AND DISEASE",
+          "bbox": {
+            "x_min": 0.0759,
+            "y_min": 0.2849,
+            "x_max": 0.8044,
+            "y_max": 0.3149,
+            "width": 0.7285,
+            "height": 0.03
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "7.1 Common Diseases in",
+          "bbox": {
+            "x_min": 0.0835,
+            "y_min": 0.4494,
+            "x_max": 0.2995,
+            "y_max": 0.4589,
+            "width": 0.216,
+            "height": 0.0094
+          },
+          "confidence": 0.9807
+        },
+        {
+          "text": "Humans",
+          "bbox": {
+            "x_min": 0.1273,
+            "y_min": 0.4679,
+            "x_max": 0.1979,
+            "y_max": 0.4764,
+            "width": 0.0706,
+            "height": 0.0086
+          },
+          "confidence": 0.9815
+        },
+        {
+          "text": "7.2 Immunity",
+          "bbox": {
+            "x_min": 0.0835,
+            "y_min": 0.4936,
+            "x_max": 0.2055,
+            "y_max": 0.5056,
+            "width": 0.122,
+            "height": 0.012
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "7.3 AIDS",
+          "bbox": {
+            "x_min": 0.0841,
+            "y_min": 0.5184,
+            "x_max": 0.1716,
+            "y_max": 0.5278,
+            "width": 0.0876,
+            "height": 0.0094
+          },
+          "confidence": 0.9859
+        },
+        {
+          "text": "7.4 Cancer",
+          "bbox": {
+            "x_min": 0.0835,
+            "y_min": 0.5446,
+            "x_max": 0.1868,
+            "y_max": 0.5536,
+            "width": 0.1033,
+            "height": 0.009
+          },
+          "confidence": 0.9858
+        },
+        {
+          "text": "7.5 Drugs and Alcohol Abuse",
+          "bbox": {
+            "x_min": 0.0841,
+            "y_min": 0.5698,
+            "x_max": 0.3351,
+            "y_max": 0.5818,
+            "width": 0.251,
+            "height": 0.012
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "blished",
+          "bbox": {
+            "x_min": 0.5949,
+            "y_min": 0.2931,
+            "x_max": 0.8903,
+            "y_max": 0.5013,
+            "width": 0.2954,
+            "height": 0.2082
+          },
+          "confidence": 0.9633
+        },
+        {
+          "text": "Health, for a long time, was considered as a state of body\nand mind where there was a balance of certain 'humors'.\nThis is what early Greeks like Hippocrates as well as\nIndian Ayurveda system of medicine asserted. It was\nthought that persons with ‘blackbile' belonged to hot\npersonality and would have fevers. This idea was arrived\nat by pure reflective thought. The discovery of blood\ncirculation by William Harvey using experimental method\nand the demonstration of normal body temperature in\npersons with blackbile using thermometer disproved the\n'good humor' hypothesis of health. In later years, biology\nstated that mind influences, through neural system and\nendocrine system, our immune system and that our\nimmune system maintains our health. Hence, mind and\nmental state can affect our health. Of course, health is\naffected by -",
+          "bbox": {
+            "x_min": 0.404,
+            "y_min": 0.4859,
+            "x_max": 0.8961,
+            "y_max": 0.7661,
+            "width": 0.4921,
+            "height": 0.2802
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "not to",
+          "bbox": {
+            "x_min": 0.1868,
+            "y_min": 0.6542,
+            "x_max": 0.4046,
+            "y_max": 0.8123,
+            "width": 0.2177,
+            "height": 0.1581
+          },
+          "confidence": 0.9702
+        },
+        {
+          "text": "(i) genetic disorders – deficiencies with which a child is\nborn and deficiencies/defects which the child inherits\nfrom parents from birth;",
+          "bbox": {
+            "x_min": 0.4203,
+            "y_min": 0.7716,
+            "x_max": 0.8949,
+            "y_max": 0.8201,
+            "width": 0.4746,
+            "height": 0.0484
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "(ii) infections and",
+          "bbox": {
+            "x_min": 0.4151,
+            "y_min": 0.8243,
+            "x_max": 0.5709,
+            "y_max": 0.8368,
+            "width": 0.1559,
+            "height": 0.0124
+          },
+          "confidence": 0.9859
+        },
+        {
+          "text": "(iii) life style including food and water we take, rest and\nexercise we give to our bodies, habits that we have or\nlack etc.",
+          "bbox": {
+            "x_min": 0.4098,
+            "y_min": 0.8423,
+            "x_max": 0.8949,
+            "y_max": 0.8886,
+            "width": 0.4851,
+            "height": 0.0463
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "130",
+          "bbox": {
+            "x_min": 0.1004,
+            "y_min": 0.7935,
+            "x_max": 0.1454,
+            "y_max": 0.8068,
+            "width": 0.045,
+            "height": 0.0133
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8616,
+            "y_min": 0.0831,
+            "x_max": 0.9253,
+            "y_max": 0.0904,
+            "width": 0.0636,
+            "height": 0.0073
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "The term health is very frequently used by everybody. How do we\ndefine it? Health does not simply mean 'absence of disease' or ‘physical\nfitness'. It could be defined as a state of complete physical, mental and\nsocial well-being. When people are healthy, they are more efficient at\nwork. This increases productivity and brings economic prosperity. Health\nalso increases longevity of people and reduces infant and maternal\nmortality.",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.1123,
+            "x_max": 0.927,
+            "y_max": 0.2318,
+            "width": 0.6264,
+            "height": 0.1195
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "Balanced diet, personal hygiene and regular exercise are very important\nto maintain good health. Yoga has been practised since time immemorial\nto achieve physical and mental health. Awareness about diseases and\ntheir effect on different bodily functions, vaccination (immunisation)\nagainst infectious diseases, proper disposal of wastes, control of vectors\nand maintenance of hygiene in food and water resources are necessary\nfor achieving good health.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.2365,
+            "x_max": 0.927,
+            "y_max": 0.356,
+            "width": 0.6252,
+            "height": 0.1195
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "When the functioning of one or more organs or systems of the body is\nadversely affected, characterised by appearance of various signs and\nsymptoms, we say that we are not healthy, i.e., we have a disease. Diseases\ncan be broadly grouped into infectious and non-infectious. Diseases\nwhich are easily transmitted from one person to another, are called\ninfectious diseases. Infectious diseases are very common and every\none of us suffers from these at sometime or other. Some of the infectious\ndiseases like AIDS are fatal. Among non-infectious diseases, cancer is the\nmajor cause of death. Drug and alcohol abuse also affect our health adversely.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.3608,
+            "x_max": 0.927,
+            "y_max": 0.5154,
+            "width": 0.6258,
+            "height": 0.1547
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "7.1 СоммON DISEASES IN HUMANS",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.533,
+            "x_max": 0.6649,
+            "y_max": 0.5467,
+            "width": 0.3631,
+            "height": 0.0137
+          },
+          "confidence": 0.9185
+        },
+        {
+          "text": "A wide range of organisms belonging to bacteria, viruses, fungi,\nprotozoans, helminths, etc., could cause diseases in man. Such disease-\ncausing organisms are called pathogens. Most parasites are therefore\npathogens as they cause harm to the host by living in (or on) them. The\npathogens can enter our body by various means, multiply and interfere\nwith normal vital activities, resulting in morphological and functional\ndamage. Pathogens have to adapt to life within the environment of the\nhost. For example, the pathogens that enter the gut must know a way of\nsurviving in the stomach at low pH and resisting the various digestive\nenzymes. A few representative members from different groups of\npathogenic organisms are discussed here alongwith the diseases caused\nby them. Preventive and control measures against these diseases in general,\nare also briefly described.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.5613,
+            "x_max": 0.9282,
+            "y_max": 0.7866,
+            "width": 0.627,
+            "height": 0.2254
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "Salmonella typhi is a pathogenic bacterium which causes typhoid\nfever in human beings. These pathogens generally enter the small intestine\nthrough food and water contaminated with them and migrate to other\norgans through blood. Sustained high fever (39° to 40°C), weakness,\nstomach pain, constipation, headache and loss of appetite are some of\nthe common symptoms of this disease. Intestinal perforation and death\nmay occur in severe cases. Typhoid fever could be confirmed by",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.7918,
+            "x_max": 0.9276,
+            "y_max": 0.9105,
+            "width": 0.6258,
+            "height": 0.1187
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1897,
+            "y_min": 0.7052,
+            "x_max": 0.3292,
+            "y_max": 0.8196,
+            "width": 0.1395,
+            "height": 0.1144
+          },
+          "confidence": 0.9778
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "HUMAN HEALTH AND DISEASE",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.0818,
+            "x_max": 0.275,
+            "y_max": 0.0895,
+            "width": 0.2043,
+            "height": 0.0077
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "Widal test: A classic case in medicine, that of Mary Mallon nicknamed\nTyphoid Mary, is worth mentioning here. She was a cook by profession\nand was a typhoid carrier who continued to spread typhoid for several\nyears through the food she prepared.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1123,
+            "x_max": 0.6976,
+            "y_max": 0.1791,
+            "width": 0.6258,
+            "height": 0.0668
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "Bacteria like Streptococcus pneumoniae and Haemophilus influenzae\nare responsible for the disease pneumonia in humans which infects the\nalveoli (air filled sacs) of the lungs. As a result of the infection, the alveoli\nget filled with fluid leading to severe problems in respiration. The symptoms\nof pneumonia include fever, chills, cough and headache. In severe cases,\nthe lips and finger nails may turn gray to bluish in colour. A healthy\nperson acquires the infection by inhaling the droplets/aerosols released\nby an infected person or even by sharing glasses and utensils with an\ninfected person. Dysentery, plague, diphtheria, etc., are some of the other\nbacterial diseases in man.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1838,
+            "x_max": 0.6976,
+            "y_max": 0.3535,
+            "width": 0.6258,
+            "height": 0.1697
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6883,
+            "y_min": 0.3068,
+            "x_max": 0.8698,
+            "y_max": 0.446,
+            "width": 0.1816,
+            "height": 0.1392
+          },
+          "confidence": 0.9764
+        },
+        {
+          "text": "Many viruses also cause diseases in human beings. Rhino viruses\nrepresent one such group of viruses which cause one of the most infectious\nhuman ailments – the common cold. They infect the nose and respiratory\npassage but not the lungs. The common cold is characterised by nasal\ncongestion and discharge, sore throat, hoarseness, cough, headache,\ntiredness, etc., which usually last for 3-7 days. Droplets resulting from\ncough or sneezes of an infected person are either inhaled directly or\ntransmitted through contaminated objects such as pens, books, cups,\ndoorknobs, computer keyboard or mouse, etc., and cause infection in a\nhealthy person.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.3608,
+            "x_max": 0.6982,
+            "y_max": 0.5334,
+            "width": 0.6252,
+            "height": 0.1727
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "Some of the human diseases are caused by protozoans too. You might\nhave heard about malaria, a disease man has been fighting since many\nyears. Plasmodium, a tiny protozoan is responsible for this disease. Different\nspecies of Plasmodium (P. vivax, P. malaria and P. falciparum) are\nresponsible for different types of malaria. Of these, malignant malaria caused\nby Plasmodium falciparum is the most serious one and can even be fatal.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.5381,
+            "x_max": 0.6976,
+            "y_max": 0.6397,
+            "width": 0.6258,
+            "height": 0.1015
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "Let us take a glance at the life cycle of Plasmodium (Figure 7.1).\nPlasmodium enters the human body as sporozoites (infectious form)\nthrough the bite of infected female Anopheles mosquito. The parasites\ninitially multiply within the liver cells and then attack the red blood cells\n(RBCs) resulting in their rupture. The rupture of RBCs is associated with\nrelease of a toxic substance, haemozoin, which is responsible for the chill\nand high fever recurring every three to four days. When a female Anopheles\nmosquito bites an infected person, these parasites enter the mosquito's\nbody and undergo further development. The parasites multiply within\nthem to form sporozoites that are stored in their salivary glands. When\nthese mosquitoes bite a human, the sporozoites are introduced into his/\nher body, thereby initiating the events mentioned above. It is interesting\nto note that the malarial parasite requires two hosts human and\nmosquitoes – to complete its life cycle (Figure 7.1); the female Anopheles\nmosquito is the vector (transmitting agent) too.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.644,
+            "x_max": 0.6976,
+            "y_max": 0.9057,
+            "width": 0.6258,
+            "height": 0.2618
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "131",
+          "bbox": {
+            "x_min": 0.8529,
+            "y_min": 0.7913,
+            "x_max": 0.892,
+            "y_max": 0.8051,
+            "width": 0.0391,
+            "height": 0.0137
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "When the mosquito\nbites another human,\nsporozoites are\ninjected with bite.",
+          "bbox": {
+            "x_min": 0.289,
+            "y_min": 0.1478,
+            "x_max": 0.4653,
+            "y_max": 0.2009,
+            "width": 0.1763,
+            "height": 0.0531
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "Mature infective stages\n(sporozoites) escape from\ngut and migrate",
+          "bbox": {
+            "x_min": 0.1022,
+            "y_min": 0.2129,
+            "x_max": 0.3041,
+            "y_max": 0.2524,
+            "width": 0.202,
+            "height": 0.0394
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "to the mosquito\nsalivary glands.",
+          "bbox": {
+            "x_min": 0.1033,
+            "y_min": 0.2549,
+            "x_max": 0.2288,
+            "y_max": 0.2802,
+            "width": 0.1255,
+            "height": 0.0253
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "Sporozoites",
+          "bbox": {
+            "x_min": 0.317,
+            "y_min": 0.3209,
+            "x_max": 0.4069,
+            "y_max": 0.332,
+            "width": 0.0899,
+            "height": 0.0111
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8611,
+            "y_min": 0.0831,
+            "x_max": 0.9253,
+            "y_max": 0.09,
+            "width": 0.0642,
+            "height": 0.0069
+          },
+          "confidence": 0.9837
+        },
+        {
+          "text": "-Salivary glands",
+          "bbox": {
+            "x_min": 0.2785,
+            "y_min": 0.3586,
+            "x_max": 0.4051,
+            "y_max": 0.3702,
+            "width": 0.1267,
+            "height": 0.0116
+          },
+          "confidence": 0.9715
+        },
+        {
+          "text": "Fertilization and",
+          "bbox": {
+            "x_min": 0.1897,
+            "y_min": 0.4456,
+            "x_max": 0.3205,
+            "y_max": 0.4546,
+            "width": 0.1308,
+            "height": 0.009
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "development take place",
+          "bbox": {
+            "x_min": 0.1874,
+            "y_min": 0.4602,
+            "x_max": 0.3771,
+            "y_max": 0.4709,
+            "width": 0.1897,
+            "height": 0.0107
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "in the mosquito's\ngut.",
+          "bbox": {
+            "x_min": 0.1851,
+            "y_min": 0.473,
+            "x_max": 0.3269,
+            "y_max": 0.4991,
+            "width": 0.1419,
+            "height": 0.0261
+          },
+          "confidence": 0.9841
+        },
+        {
+          "text": "Mosquito\nHost",
+          "bbox": {
+            "x_min": 0.3759,
+            "y_min": 0.4135,
+            "x_max": 0.4577,
+            "y_max": 0.4362,
+            "width": 0.0817,
+            "height": 0.0227
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "Parasite (sporozoites)\nreach the liver through\nblood",
+          "bbox": {
+            "x_min": 0.5493,
+            "y_min": 0.3385,
+            "x_max": 0.7367,
+            "y_max": 0.3753,
+            "width": 0.1874,
+            "height": 0.0368
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "CERT",
+          "bbox": {
+            "x_min": 0.404,
+            "y_min": 0.3925,
+            "x_max": 0.6229,
+            "y_max": 0.5416,
+            "width": 0.2189,
+            "height": 0.1491
+          },
+          "confidence": 0.9638
+        },
+        {
+          "text": "The parasite reproduces\nasexually in liver cells,\nbursting the cell and\nreleasing into the\nblood.",
+          "bbox": {
+            "x_min": 0.7309,
+            "y_min": 0.488,
+            "x_max": 0.9282,
+            "y_max": 0.5531,
+            "width": 0.1973,
+            "height": 0.0651
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "not to be republished",
+          "bbox": {
+            "x_min": 0.1839,
+            "y_min": 0.2922,
+            "x_max": 0.8745,
+            "y_max": 0.8338,
+            "width": 0.6906,
+            "height": 0.5416
+          },
+          "confidence": 0.8656
+        },
+        {
+          "text": "Female mosquito\ntakes up gametocytes\nwith blood meal.",
+          "bbox": {
+            "x_min": 0.1022,
+            "y_min": 0.5844,
+            "x_max": 0.2761,
+            "y_max": 0.6213,
+            "width": 0.174,
+            "height": 0.0368
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "Gametocytes",
+          "bbox": {
+            "x_min": 0.2995,
+            "y_min": 0.6234,
+            "x_max": 0.4057,
+            "y_max": 0.6345,
+            "width": 0.1062,
+            "height": 0.0111
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "Sexual stages (gametocytes)\ndevelop in red blood cells.",
+          "bbox": {
+            "x_min": 0.3176,
+            "y_min": 0.7399,
+            "x_max": 0.5423,
+            "y_max": 0.7661,
+            "width": 0.2248,
+            "height": 0.0261
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "Parasites reproduce\nasexually in red blood\ncells, bursting the red\nblood cells and causing\ncycles of fever and other\nsymptoms. Released\nparasites infect new\nred blood cells.",
+          "bbox": {
+            "x_min": 0.7291,
+            "y_min": 0.6675,
+            "x_max": 0.9264,
+            "y_max": 0.7759,
+            "width": 0.1973,
+            "height": 0.1084
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "Figure 7.1 Stages in the life cycle of Plasmodium",
+          "bbox": {
+            "x_min": 0.3333,
+            "y_min": 0.7943,
+            "x_max": 0.7431,
+            "y_max": 0.8072,
+            "width": 0.4098,
+            "height": 0.0129
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "Entamoeba histolytica is a protozoan parasite in the large intestine of\nhuman which causes amoebiasis (amoebic dysentery). Symptoms of\nthis disease include constipation, abdominal pain and cramps, stools\nwith excess mucous and blood clots. Houseflies act as mechanical carriers\nand serve to transmit the parasite from faeces of infected person to food",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.8248,
+            "x_max": 0.9282,
+            "y_max": 0.9092,
+            "width": 0.627,
+            "height": 0.0844
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        },
+        {
+          "text": "132",
+          "bbox": {
+            "x_min": 0.1022,
+            "y_min": 0.7939,
+            "x_max": 0.1454,
+            "y_max": 0.8059,
+            "width": 0.0432,
+            "height": 0.012
+          },
+          "confidence": 0.9944
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "HUMAN HEALTH AND DISEASE",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.0818,
+            "x_max": 0.275,
+            "y_max": 0.0895,
+            "width": 0.2043,
+            "height": 0.0077
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "and food products, thereby contaminating them.\nDrinking water and food contaminated by the faecal\nmatter are the main source of infection.",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.1127,
+            "x_max": 0.5423,
+            "y_max": 0.1585,
+            "width": 0.4688,
+            "height": 0.0458
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "Ascaris, the common round worm and Wuchereria,\nthe filarial worm, are some of the helminths which are\nknown to be pathogenic to man. Ascaris, an intestinal\nparasite causes ascariasis. Symptoms of these disease\ninclude internal bleeding, muscular pain, fever, anemia\nand blockage of the intestinal passage. The eggs of the\nparasite are excreted along with the faeces of infected\npersons which contaminate soil, water, plants, etc. A\nhealthy person acquires this infection through\ncontaminated water, vegetables, fruits, etc.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1658,
+            "x_max": 0.5435,
+            "y_max": 0.3398,
+            "width": 0.4717,
+            "height": 0.174
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "Wuchereria (W. bancrofti and W. malayi), the filarial\nworms cause a slowly developing chronic inflammation\nof the organs in which they live for many years, usually\nthe lymphatic vessels of the lower limbs and the disease\nis called elephantiasis or filariasis (Figure 7.2). The\ngenital organs are also often affected, resulting in gross\ndeformities. The pathogens are transmitted to a healthy\nperson through the bite by the female mosquito vectors.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.3445,
+            "x_max": 0.5435,
+            "y_max": 0.4824,
+            "width": 0.4711,
+            "height": 0.138
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "Many fungi belonging to the genera Microsporum,\nTrichophyton and Epidermophyton are\nresponsible for ringworms which is one of\nthe most common infectious diseases in man.\nAppearance of dry, scaly lesions on various\nparts of the body such as skin, nails and\nscalp (Figure 7.3) are the main symptoms of\nthe disease. These lesions are accompanied\nby intense itching. Heat and moisture help\nthese fungi to grow, which makes them thrive\nin skin folds such as those in the groin or\nbetween the toes. Ringworms are generally\nacquired from soil or by using towels, clothes\nor even the comb of infected individuals.",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.4876,
+            "x_max": 0.5429,
+            "y_max": 0.7296,
+            "width": 0.4717,
+            "height": 0.2421
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "Figure 7.2",
+          "bbox": {
+            "x_min": 0.5803,
+            "y_min": 0.4546,
+            "x_max": 0.6725,
+            "y_max": 0.467,
+            "width": 0.0922,
+            "height": 0.0124
+          },
+          "confidence": 0.9868
+        },
+        {
+          "text": "ub",
+          "bbox": {
+            "x_min": 0.5814,
+            "y_min": 0.4452,
+            "x_max": 0.6935,
+            "y_max": 0.5253,
+            "width": 0.1121,
+            "height": 0.0801
+          },
+          "confidence": 0.8039
+        },
+        {
+          "text": "Diagram showing\ninflammation in one\nof the lower limbs due\nto elephantiasis",
+          "bbox": {
+            "x_min": 0.711,
+            "y_min": 0.4554,
+            "x_max": 0.8943,
+            "y_max": 0.5094,
+            "width": 0.1833,
+            "height": 0.054
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "Figure 7.3 Diagram showing ringworm\naffected area of the skin",
+          "bbox": {
+            "x_min": 0.5009,
+            "y_min": 0.6885,
+            "x_max": 0.8687,
+            "y_max": 0.7125,
+            "width": 0.3678,
+            "height": 0.024
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "Maintenance of personal and public hygiene is very important for\nprevention and control of many infectious diseases. Measures for personal\nhygiene include keeping the body clean; consumption of clean drinking\nwater, food, vegetables, fruits, etc. Public hygiene includes proper disposal\nof waste and excreta; periodic cleaning and disinfection of water reservoirs,\npools, cesspools and tanks and observing standard practices of hygiene\nin public catering. These measures are particularly essential where the\ninfectious agents are transmitted through food and water such as typhoid,\namoebiasis and ascariasis. In cases of air-borne diseases such as\npneumonia and common cold, in addition to the above measures, close",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.7361,
+            "x_max": 0.6982,
+            "y_max": 0.9092,
+            "width": 0.6264,
+            "height": 0.1731
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "133",
+          "bbox": {
+            "x_min": 0.8535,
+            "y_min": 0.7922,
+            "x_max": 0.8961,
+            "y_max": 0.8042,
+            "width": 0.0426,
+            "height": 0.012
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.9837
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "134",
+          "bbox": {
+            "x_min": 0.1004,
+            "y_min": 0.7931,
+            "x_max": 0.1436,
+            "y_max": 0.8068,
+            "width": 0.0432,
+            "height": 0.0137
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8616,
+            "y_min": 0.0831,
+            "x_max": 0.9253,
+            "y_max": 0.0904,
+            "width": 0.0636,
+            "height": 0.0073
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "contact with the infected persons or their belongings should be avoided.\nFor diseases such as malaria and filariasis that are transmitted through\ninsect vectors, the most important measure is to control or eliminate the\nvectors and their breeding places. This can be achieved by avoiding\nstagnation of water in and around residential areas, regular cleaning of\nhousehold coolers, use of mosquito nets, introducing fishes like Gambusia\nin ponds that feed on mosquito larvae, spraying of insecticides in ditches,\ndrainage areas and swamps, etc. In addition, doors and windows should\nbe provided with wire mesh to prevent the entry of mosquitoes. Such\nprecautions have become more important especially in the light of recent\nwidespread incidences of the vector-borne (Aedes mosquitoes) diseases\nlike dengue and chikungunya in many parts of India.",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.1123,
+            "x_max": 0.9276,
+            "y_max": 0.3222,
+            "width": 0.627,
+            "height": 0.2099
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "The advancements made in biological science have armed us to\neffectively deal with many infectious diseases. The use of vaccines and\nimmunisation programmes have enabled us to completely eradicate a\ndeadly disease like smallpox. A large number of other infectious diseases\nlike polio, diphtheria, pneumonia and tetanus have been controlled to a\nlarge extent by the use of vaccines. Biotechnology (about which you will\nread more in Chapter 10) is at the verge of making available newer and\nsafer vaccines. Discovery of antibiotics and various other drugs has also\nenabled us to effectively treat infectious diseases.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.3265,
+            "x_max": 0.9264,
+            "y_max": 0.4816,
+            "width": 0.6246,
+            "height": 0.1551
+          },
+          "confidence": 0.9971
+        },
+        {
+          "text": "7.2 IMMUNITY",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.4996,
+            "x_max": 0.4495,
+            "y_max": 0.5129,
+            "width": 0.1477,
+            "height": 0.0133
+          },
+          "confidence": 0.9825
+        },
+        {
+          "text": "large nu",
+          "bbox": {
+            "x_min": 0.5423,
+            "y_min": 0.5176,
+            "x_max": 0.6118,
+            "y_max": 0.5467,
+            "width": 0.0695,
+            "height": 0.0291
+          },
+          "confidence": 0.9636
+        },
+        {
+          "text": "Everyday we are exposed to large number of infectious agents. However,\nonly a few of these exposures result in disease. Why? This is due to the\nfact that the body is able to defend itself from most of these foreign agents.\nThis overall ability of the host to fight the disease-causing organisms,\nconferred by the immune system is called immunity.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.5274,
+            "x_max": 0.9259,
+            "y_max": 0.6127,
+            "width": 0.6241,
+            "height": 0.0853
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "Immunity is of two types: (i) Innate immunity and (ii) Acquired\nimmunity.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.6174,
+            "x_max": 0.9259,
+            "y_max": 0.6482,
+            "width": 0.6241,
+            "height": 0.0308
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "7.2.1 Innate Immunity",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.6671,
+            "x_max": 0.5482,
+            "y_max": 0.6812,
+            "width": 0.2452,
+            "height": 0.0141
+          },
+          "confidence": 0.9976
+        },
+        {
+          "text": "Innate immunity is non-specific type of defence, that is present at the\ntime of birth. This is accomplished by providing different types of barriers\nto the entry of the foreign agents into our body. Innate immunity consist\nof four types of barriers. These are",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.6932,
+            "x_max": 0.9264,
+            "y_max": 0.7609,
+            "width": 0.6246,
+            "height": 0.0677
+          },
+          "confidence": 0.9972
+        },
+        {
+          "text": "(i) Physical barriers : Skin on our body is the main barrier which\nprevents entry of the micro-organisms. Mucus coating of the\nepithelium lining the respiratory, gastrointestinal and urogenital\ntracts also help in trapping microbes entering our body.",
+          "bbox": {
+            "x_min": 0.3187,
+            "y_min": 0.7639,
+            "x_max": 0.9264,
+            "y_max": 0.832,
+            "width": 0.6077,
+            "height": 0.0681
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "(ii) Physiological barriers : Acid in the stomach, saliva in the mouth,\ntears from eyes-all prevent microbial growth.",
+          "bbox": {
+            "x_min": 0.3129,
+            "y_min": 0.8355,
+            "x_max": 0.9247,
+            "y_max": 0.8676,
+            "width": 0.6118,
+            "height": 0.0321
+          },
+          "confidence": 0.9846
+        },
+        {
+          "text": "(iii) Cellular barriers : Certain types of leukocytes (WBC) of our body\nlike polymorpho-nuclear leukocytes (PMNL-neutrophils) and",
+          "bbox": {
+            "x_min": 0.3082,
+            "y_min": 0.8719,
+            "x_max": 0.9264,
+            "y_max": 0.9036,
+            "width": 0.6182,
+            "height": 0.0317
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1921,
+            "y_min": 0.7087,
+            "x_max": 0.3246,
+            "y_max": 0.8136,
+            "width": 0.1325,
+            "height": 0.105
+          },
+          "confidence": 0.9518
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9739,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.009
+          },
+          "confidence": 0.9829
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "HUMAN HEALTH AND DISEASE",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.0818,
+            "x_max": 0.275,
+            "y_max": 0.0895,
+            "width": 0.2043,
+            "height": 0.0077
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "monocytes and natural killer (type of lymphocytes) in the blood as\nwell as macrophages in tissues can phagocytose and destroy\nmicrobes.",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.1123,
+            "x_max": 0.6964,
+            "y_max": 0.1585,
+            "width": 0.5826,
+            "height": 0.0463
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "(iv) Cytokine barriers : Virus-infected cells secrete proteins called\ninterferons which protect non-infected cells from further viral\ninfection.",
+          "bbox": {
+            "x_min": 0.08,
+            "y_min": 0.165,
+            "x_max": 0.6959,
+            "y_max": 0.2117,
+            "width": 0.6159,
+            "height": 0.0467
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "7.2.2 Acquired Immunity",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.2335,
+            "x_max": 0.3468,
+            "y_max": 0.2476,
+            "width": 0.2738,
+            "height": 0.0141
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "Acquired immunity, on the other hand is pathogen specific. It is\ncharacterised by memory. This means when our body encounters a\npathogen for the first time it produces a response called primary\nresponse which is of low intensity. Subsequent encounter with the same\npathogen elicits a highly intensified secondary or anamnestic response.\nThis is ascribed to the fact that our body appears to have memory of the\nfirst encounter.",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.2609,
+            "x_max": 0.6976,
+            "y_max": 0.3775,
+            "width": 0.6264,
+            "height": 0.1165
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "The primary and secondary\nimmune responses are\ncarried out with the help\nof two special types of\nlymphocytes present in our\nblood, i.e., B-lymphocytes and\nT-lymphocytes.",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.386,
+            "x_max": 0.3561,
+            "y_max": 0.506,
+            "width": 0.2849,
+            "height": 0.12
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "Antigen binding site",
+          "bbox": {
+            "x_min": 0.3987,
+            "y_min": 0.4053,
+            "x_max": 0.5622,
+            "y_max": 0.4173,
+            "width": 0.1635,
+            "height": 0.012
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "N",
+          "bbox": {
+            "x_min": 0.4746,
+            "y_min": 0.4233,
+            "x_max": 0.4915,
+            "y_max": 0.4314,
+            "width": 0.0169,
+            "height": 0.0081
+          },
+          "confidence": 0.958
+        },
+        {
+          "text": "S",
+          "bbox": {
+            "x_min": 0.5231,
+            "y_min": 0.4392,
+            "x_max": 0.5324,
+            "y_max": 0.4447,
+            "width": 0.0093,
+            "height": 0.0056
+          },
+          "confidence": 0.8814
+        },
+        {
+          "text": "Antigen binding site",
+          "bbox": {
+            "x_min": 0.7046,
+            "y_min": 0.4023,
+            "x_max": 0.8675,
+            "y_max": 0.4143,
+            "width": 0.1629,
+            "height": 0.012
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "be republished",
+          "bbox": {
+            "x_min": 0.3573,
+            "y_min": 0.3063,
+            "x_max": 0.8832,
+            "y_max": 0.6757,
+            "width": 0.526,
+            "height": 0.3693
+          },
+          "confidence": 0.8954
+        },
+        {
+          "text": "The B-lymphocytes produce an\narmy of proteins in response to\npathogens into our blood to fight\nwith them. These proteins are\ncalled antibodies. The\nT-cells themselves do not secrete\nantibodies but help B cells to\nproduce them. Each antibody\nmolecule has four peptide chains,\ntwo small called light chains and\ntwo longer called heavy chains.\nHence, an antibody is represented",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.5099,
+            "x_max": 0.3549,
+            "y_max": 0.7194,
+            "width": 0.2837,
+            "height": 0.2095
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "Light",
+          "bbox": {
+            "x_min": 0.4343,
+            "y_min": 0.5214,
+            "x_max": 0.4746,
+            "y_max": 0.533,
+            "width": 0.0403,
+            "height": 0.0116
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "chain",
+          "bbox": {
+            "x_min": 0.4308,
+            "y_min": 0.536,
+            "x_max": 0.4769,
+            "y_max": 0.5441,
+            "width": 0.0461,
+            "height": 0.0081
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "chain",
+          "bbox": {
+            "x_min": 0.5085,
+            "y_min": 0.6007,
+            "x_max": 0.5522,
+            "y_max": 0.6135,
+            "width": 0.0438,
+            "height": 0.0129
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "-S-S-",
+          "bbox": {
+            "x_min": 0.6211,
+            "y_min": 0.5454,
+            "x_max": 0.655,
+            "y_max": 0.5506,
+            "width": 0.0339,
+            "height": 0.0051
+          },
+          "confidence": 0.8361
+        },
+        {
+          "text": "-S-S-",
+          "bbox": {
+            "x_min": 0.6217,
+            "y_min": 0.5343,
+            "x_max": 0.6544,
+            "y_max": 0.5394,
+            "width": 0.0327,
+            "height": 0.0051
+          },
+          "confidence": 0.8711
+        },
+        {
+          "text": "C",
+          "bbox": {
+            "x_min": 0.6042,
+            "y_min": 0.6602,
+            "x_max": 0.6194,
+            "y_max": 0.6684,
+            "width": 0.0152,
+            "height": 0.0081
+          },
+          "confidence": 0.951
+        },
+        {
+          "text": "C",
+          "bbox": {
+            "x_min": 0.6544,
+            "y_min": 0.6602,
+            "x_max": 0.6713,
+            "y_max": 0.6684,
+            "width": 0.0169,
+            "height": 0.0081
+          },
+          "confidence": 0.9434
+        },
+        {
+          "text": "Figure 7.4 Structure of an antibody molecule",
+          "bbox": {
+            "x_min": 0.4536,
+            "y_min": 0.6877,
+            "x_max": 0.8377,
+            "y_max": 0.7001,
+            "width": 0.3841,
+            "height": 0.0124
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "as H2L2. Different types of antibodies are produced in our body. IgA, IgM,\nIgE, IgG are some of them. A cartoon of an antibody is given in Figure\n7.4. Because these antibodies are found in the blood, the response is also\ncalled as humoral immune response. This is one of the two types of our\nacquired immune response – antibody mediated. The second type is called\ncell-mediated immune response or cell-mediated immunity (CMI). The\nT-lymphocytes mediate CMI. Very often, when some human organs like\nheart, eye, liver, kidney fail to function satisfactorily, transplantation is\nthe only remedy to enable the patient to live a normal life. Then a search\nbegins - to find a suitable donor. Why is it that the organs cannot be\ntaken from just anybody? What is it that the doctors check? Grafts from",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.7245,
+            "x_max": 0.6976,
+            "y_max": 0.916,
+            "width": 0.6258,
+            "height": 0.1915
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "135",
+          "bbox": {
+            "x_min": 0.8552,
+            "y_min": 0.7909,
+            "x_max": 0.8949,
+            "y_max": 0.8046,
+            "width": 0.0397,
+            "height": 0.0137
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "136",
+          "bbox": {
+            "x_min": 0.0998,
+            "y_min": 0.7931,
+            "x_max": 0.1448,
+            "y_max": 0.8068,
+            "width": 0.045,
+            "height": 0.0137
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8616,
+            "y_min": 0.0831,
+            "x_max": 0.9253,
+            "y_max": 0.0904,
+            "width": 0.0636,
+            "height": 0.0073
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "just any source – an animal, another primate, or any human beings cannot\nbe made since the grafts would be rejected sooner or later. Tissue\nmatching, blood group matching are essential before undertaking any\ngraft/transplant and even after this the patient has to take immuno-\nsuppresants all his/her life. The body is able to differentiate ‘self' and\n'nonself and the cell-mediated immune response is responsible for the\ngraft rejection.",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.1127,
+            "x_max": 0.9264,
+            "y_max": 0.2335,
+            "width": 0.6258,
+            "height": 0.1208
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "7.2.3 Active and Passive Immunity",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.2524,
+            "x_max": 0.6795,
+            "y_max": 0.2661,
+            "width": 0.3777,
+            "height": 0.0137
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "When a host is exposed to antigens, which may be in the form of living\nor dead microbes or other proteins, antibodies are produced in the host\nbody. This type of immunity is called active immunity. Active immunity\nis slow and takes time to give its full effective response. Injecting the\nmicrobes deliberately during immunisation or infectious organisms\ngaining access into body during natural infection induce active\nimmunity. When ready-made antibodies are directly given to protect\nthe body against foreign agents, it is called passive immunity. Do you\nknow why mother's milk is considered very essential for the new-\nborn infant? The yellowish fluid colostrum secreted by mother during\nthe initial days of lactation has abundant antibodies (IgA) to protect the\ninfant. The foetus also receives some antibodies from their mother,\nthrough the placenta during pregnancy. These are some examples of\npassive immunity.",
+          "bbox": {
+            "x_min": 0.2995,
+            "y_min": 0.2789,
+            "x_max": 0.9294,
+            "y_max": 0.5236,
+            "width": 0.6299,
+            "height": 0.2446
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "7.2.4 Vaccination and Immunisation",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.5424,
+            "x_max": 0.6953,
+            "y_max": 0.5553,
+            "width": 0.3929,
+            "height": 0.0129
+          },
+          "confidence": 0.9972
+        },
+        {
+          "text": "The principle of immunisation or vaccination is based on the property of\n‘memory' of the immune system. In vaccination, a preparation of antigenic\nproteins of pathogen or inactivated/weakened pathogen (vaccine) are\nintroduced into the body. The antibodies produced in the body against\nthese antigens would neutralise the pathogenic agents during actual\ninfection. The vaccines also generate memory – Band T-cells that recognise\nthe pathogen quickly on subsequent exposure and overwhelm the\ninvaders with a massive production of antibodies. If a person is infected\nwith some deadly microbes to which quick immune response is required\nas in tetanus, we need to directly inject the preformed antibodies, or\nantitoxin (a preparation containing antibodies to the toxin). Even in cases\nof snakebites, the injection which is given to the patients, contain preformed\nantibodies against the snake venom. This type of immunisation is called\npassive immunisation.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.5698,
+            "x_max": 0.9282,
+            "y_max": 0.8226,
+            "width": 0.627,
+            "height": 0.2528
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "Recombinant DNA technology has allowed the production of antigenic\npolypeptides of pathogen in bacteria or yeast. Vaccines produced using\nthis approach allow large scale production and hence greater availability\nfor immunisation, e.g., hepatitis B vaccine produced from yeast.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.8282,
+            "x_max": 0.927,
+            "y_max": 0.8967,
+            "width": 0.6258,
+            "height": 0.0686
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1903,
+            "y_min": 0.7099,
+            "x_max": 0.3263,
+            "y_max": 0.8153,
+            "width": 0.136,
+            "height": 0.1054
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "HUMAN HEALTH AND DISEASE",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.0818,
+            "x_max": 0.275,
+            "y_max": 0.0895,
+            "width": 0.2043,
+            "height": 0.0077
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "7.2.5 Allergies",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.111,
+            "x_max": 0.2259,
+            "y_max": 0.1255,
+            "width": 0.1524,
+            "height": 0.0146
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "When you have gone to a new place and suddenly you started sneezing,\nwheezing for no explained reason, and when you went away, your\nsymptoms dissappeared. Did this happen to you? Some of us are sensitive\nto some particles in the environment. The above-mentioned reaction could\nbe because of allergy to pollen, mites, etc., which are different in different\nplaces.",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.138,
+            "x_max": 0.697,
+            "y_max": 0.2395,
+            "width": 0.6264,
+            "height": 0.1015
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "The exaggerated response of the immune system to certain antigens\npresent in the environment is called allergy. The substances to which\nsuch an immune response is produced are called allergens. The antibodies\nproduced to these are of IgE type. Common examples of allergens are\nmites in dust, pollens, animal dander, etc. Symptoms of allergic reactions\ninclude sneezing, watery eyes, running nose and difficulty in breathing.\nAllergy is due to the release of chemicals like histamine and serotonin\nfrom the mast cells. For determining the cause of allergy, the patient is\nexposed to or injected with very small doses of possible allergens, and the\nreactions studied. The use of drugs like anti-histamine, adrenalin and\nsteroids quickly reduce the symptoms of allergy. Somehow, modern-day\nlife style has resulted in lowering of immunity and more sensitivity to\nallergens more and more children in metro cities of India suffer from\nallergies and asthma due to sensitivity to the environment. This could be\nbecause of the protected environment provided early in life.",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.2451,
+            "x_max": 0.697,
+            "y_max": 0.5056,
+            "width": 0.6258,
+            "height": 0.2605
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "7.2.6 Auto Immunity",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.5244,
+            "x_max": 0.3024,
+            "y_max": 0.5386,
+            "width": 0.2294,
+            "height": 0.0141
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "puished",
+          "bbox": {
+            "x_min": 0.519,
+            "y_min": 0.3038,
+            "x_max": 0.8885,
+            "y_max": 0.5544,
+            "width": 0.3695,
+            "height": 0.2506
+          },
+          "confidence": 0.8464
+        },
+        {
+          "text": "Memory-based acquired immunity evolved in higher vertebrates based\non the ability to differentiate foreign organisms (e.g., pathogens) from self-\ncells. While we still do not understand the basis of this, two corollaries of\nthis ability have to be understood. One, higher vertebrates can distinguish\nforeign molecules as well as foreign organisms. Most of the experimental\nimmunology deals with this aspect. Two, sometimes, due to genetic and\nother unknown reasons, the body attacks self-cells. This results in damage\nto the body and is called auto-immune disease. Rheumatoid arthritis\nwhich affects many people in our society is an auto-immune disease.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.5506,
+            "x_max": 0.6988,
+            "y_max": 0.7057,
+            "width": 0.627,
+            "height": 0.1551
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "7.2.7 Immune System in the Body",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.7241,
+            "x_max": 0.4419,
+            "y_max": 0.7382,
+            "width": 0.3689,
+            "height": 0.0141
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "The human immune system consists of lymphoid organs, tissues, cells\nand soluble molecules like antibodies. As you have read, immune system\nis unique in the sense that it recognises foreign antigens, responds to\nthese and remembers them. The immune system also plays an important\nrole in allergic reactions, auto-immune diseases and organ\ntransplantation.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.7515,
+            "x_max": 0.6976,
+            "y_max": 0.8522,
+            "width": 0.6258,
+            "height": 0.1007
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "Lymphoid organs: These are the organs where origin and/or maturation\nand proliferation of lymphocytes occur. The primary lymphoid organs\nare bone marrow and thymus where immature lymphocytes differentiate",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.8608,
+            "x_max": 0.6964,
+            "y_max": 0.9096,
+            "width": 0.6229,
+            "height": 0.0488
+          },
+          "confidence": 0.9969
+        },
+        {
+          "text": "137",
+          "bbox": {
+            "x_min": 0.8541,
+            "y_min": 0.7918,
+            "x_max": 0.8938,
+            "y_max": 0.8042,
+            "width": 0.0397,
+            "height": 0.0124
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "Figure 7.5",
+          "bbox": {
+            "x_min": 0.1203,
+            "y_min": 0.3942,
+            "x_max": 0.2125,
+            "y_max": 0.4066,
+            "width": 0.0922,
+            "height": 0.0124
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "138",
+          "bbox": {
+            "x_min": 0.1004,
+            "y_min": 0.7935,
+            "x_max": 0.1448,
+            "y_max": 0.8068,
+            "width": 0.0444,
+            "height": 0.0133
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "Lymph\nnodes",
+          "bbox": {
+            "x_min": 0.2703,
+            "y_min": 0.1877,
+            "x_max": 0.3246,
+            "y_max": 0.2104,
+            "width": 0.0543,
+            "height": 0.0227
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "Thymus",
+          "bbox": {
+            "x_min": 0.2773,
+            "y_min": 0.2652,
+            "x_max": 0.3415,
+            "y_max": 0.2768,
+            "width": 0.0642,
+            "height": 0.0116
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "-Lymphatic\nvessels",
+          "bbox": {
+            "x_min": 0.2609,
+            "y_min": 0.338,
+            "x_max": 0.3555,
+            "y_max": 0.3616,
+            "width": 0.0946,
+            "height": 0.0236
+          },
+          "confidence": 0.9482
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8616,
+            "y_min": 0.0827,
+            "x_max": 0.9253,
+            "y_max": 0.0904,
+            "width": 0.0636,
+            "height": 0.0077
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "into antigen-sensitive lymphocytes. After maturation the\nlymphocytes migrate to secondary lymphoid organs like spleen,\nlymph nodes, tonsils, Peyer's patches of small intestine and\nappendix. The secondary lymphoid organs provide the sites for\ninteraction of lymphocytes with the antigen, which then proliferate\nto become effector cells. The location of various lymphoid organs\nin the human body is shown in Figure 7.5.",
+          "bbox": {
+            "x_min": 0.3958,
+            "y_min": 0.1123,
+            "x_max": 0.9264,
+            "y_max": 0.2331,
+            "width": 0.5306,
+            "height": 0.1208
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "The bone marrow is the main lymphoid organ where all\nblood cells including lymphocytes are produced. The thymus\nis a lobed organ located near the heart and beneath the\nbreastbone. The thymus is quite large at the time of birth but\nkeeps reducing in size with age and by the time puberty is\nattained it reduces to a very small size. Both bone-marrow\nand thymus provide micro-environments for the development\nand maturation of T-lymphocytes. The spleen is a large bean-\nshaped organ. It mainly contains lymphocytes and phagocytes.\nIt acts as a filter of the blood by trapping blood-borne micro-\norganisms. Spleen also has a large reservoir of erythrocytes.\nThe lymph nodes are small solid structures located at different\npoints along the lymphatic system. Lymph nodes serve to trap the\nmicro-organisms or other antigens, which happen to get into the lymph\nand tissue fluid. Antigens trapped in the lymph nodes are responsible for\nthe activation of lymphocytes present there and cause the immune\nresponse.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.2374,
+            "x_max": 0.927,
+            "y_max": 0.536,
+            "width": 0.6252,
+            "height": 0.2986
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "Diagrammatic\nrepresentation\nof Lymph nodes",
+          "bbox": {
+            "x_min": 0.2423,
+            "y_min": 0.395,
+            "x_max": 0.3689,
+            "y_max": 0.4353,
+            "width": 0.1267,
+            "height": 0.0403
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "There is lymphoid tissue also located within the lining of the major\ntracts (respiratory, digestive and urogenital tracts) called mucosa-\nassociated lymphoid tissue (MALT). It constitutes about 50 per cent of\nthe lymphoid tissue in human body.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.5407,
+            "x_max": 0.9276,
+            "y_max": 0.6071,
+            "width": 0.6258,
+            "height": 0.0664
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "7.3 AIDS",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.6268,
+            "x_max": 0.4162,
+            "y_max": 0.6401,
+            "width": 0.1138,
+            "height": 0.0133
+          },
+          "confidence": 0.9853
+        },
+        {
+          "text": "The word AIDS stands for Acquired Immuno Deficiency Syndrome.\nThis means deficiency of immune system, acquired during the lifetime of\nan individual indicating that it is not a congenital disease. ‘Syndrome'\nmeans a group of symptoms. AIDS was first reported in 1981 and in the\nlast twenty-five years or so, it has spread all over the world killing more\nlast twe\nthan 25 million persons.",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.6525,
+            "x_max": 0.9288,
+            "y_max": 0.7605,
+            "width": 0.6281,
+            "height": 0.108
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1921,
+            "y_min": 0.7052,
+            "x_max": 0.3292,
+            "y_max": 0.8145,
+            "width": 0.1372,
+            "height": 0.1093
+          },
+          "confidence": 0.8833
+        },
+        {
+          "text": "AIDS is caused by the Human Immuno deficiency Virus (HIV), a\nmember of a group of viruses called retrovirus, which have an envelope\nenclosing the RNA genome (Figure 7.6). Transmission of HIV-infection\ngenerally occurs by (a) sexual contact with infected person, (b) by\ntransfusion of contaminated blood and blood products, (c) by sharing\ninfected needles as in the case of intravenous drug abusers and (d) from\ninfected mother to her child through placenta. So, people who are at high\nrisk of getting this infection includes - individuals who have multiple",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.7631,
+            "x_max": 0.9264,
+            "y_max": 0.9019,
+            "width": 0.6246,
+            "height": 0.1388
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "HUMAN HEALTH AND DISEASE",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.0818,
+            "x_max": 0.275,
+            "y_max": 0.0895,
+            "width": 0.2043,
+            "height": 0.0077
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "Retrovirus",
+          "bbox": {
+            "x_min": 0.2218,
+            "y_min": 0.1508,
+            "x_max": 0.3088,
+            "y_max": 0.159,
+            "width": 0.087,
+            "height": 0.0081
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "Viral RNA core",
+          "bbox": {
+            "x_min": 0.3053,
+            "y_min": 0.1697,
+            "x_max": 0.4238,
+            "y_max": 0.1787,
+            "width": 0.1185,
+            "height": 0.009
+          },
+          "confidence": 0.9838
+        },
+        {
+          "text": "Viral protein\ncoat",
+          "bbox": {
+            "x_min": 0.2382,
+            "y_min": 0.2151,
+            "x_max": 0.3421,
+            "y_max": 0.2369,
+            "width": 0.1039,
+            "height": 0.0219
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "Virus infects\nnormal cell",
+          "bbox": {
+            "x_min": 0.3777,
+            "y_min": 0.1924,
+            "x_max": 0.4816,
+            "y_max": 0.2151,
+            "width": 0.1039,
+            "height": 0.0227
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "Viral DNA is\nproduced\nby reverse\ntranscriptase",
+          "bbox": {
+            "x_min": 0.2423,
+            "y_min": 0.3325,
+            "x_max": 0.3479,
+            "y_max": 0.386,
+            "width": 0.1057,
+            "height": 0.0536
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "Animal cell",
+          "bbox": {
+            "x_min": 0.4781,
+            "y_min": 0.2721,
+            "x_max": 0.5703,
+            "y_max": 0.2819,
+            "width": 0.0922,
+            "height": 0.0099
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "Plasma\nmembrane",
+          "bbox": {
+            "x_min": 0.6141,
+            "y_min": 0.2468,
+            "x_max": 0.6999,
+            "y_max": 0.2691,
+            "width": 0.0858,
+            "height": 0.0223
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "Viral RNA is introduced into cell",
+          "bbox": {
+            "x_min": 0.3835,
+            "y_min": 0.2956,
+            "x_max": 0.6445,
+            "y_max": 0.3046,
+            "width": 0.2609,
+            "height": 0.009
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "Cytoplasm",
+          "bbox": {
+            "x_min": 0.6124,
+            "y_min": 0.3256,
+            "x_max": 0.6999,
+            "y_max": 0.3363,
+            "width": 0.0876,
+            "height": 0.0107
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "Viral DNA incorporates\ninto host genome",
+          "bbox": {
+            "x_min": 0.4536,
+            "y_min": 0.3556,
+            "x_max": 0.641,
+            "y_max": 0.3817,
+            "width": 0.1874,
+            "height": 0.0261
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "New viral RNA\nis produced by\nthe infected cell",
+          "bbox": {
+            "x_min": 0.4413,
+            "y_min": 0.419,
+            "x_max": 0.5674,
+            "y_max": 0.4559,
+            "width": 0.1261,
+            "height": 0.0368
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "New viruses\nare produced",
+          "bbox": {
+            "x_min": 0.4057,
+            "y_min": 0.4871,
+            "x_max": 0.5114,
+            "y_max": 0.512,
+            "width": 0.1057,
+            "height": 0.0249
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "re",
+          "bbox": {
+            "x_min": 0.4845,
+            "y_min": 0.5287,
+            "x_max": 0.582,
+            "y_max": 0.5985,
+            "width": 0.0975,
+            "height": 0.0698
+          },
+          "confidence": 0.9514
+        },
+        {
+          "text": "New viruses",
+          "bbox": {
+            "x_min": 0.3695,
+            "y_min": 0.5904,
+            "x_max": 0.467,
+            "y_max": 0.5985,
+            "width": 0.0975,
+            "height": 0.0081
+          },
+          "confidence": 0.9787
+        },
+        {
+          "text": "can infect other cells",
+          "bbox": {
+            "x_min": 0.3351,
+            "y_min": 0.6041,
+            "x_max": 0.502,
+            "y_max": 0.6127,
+            "width": 0.167,
+            "height": 0.0086
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "DNA",
+          "bbox": {
+            "x_min": 0.6778,
+            "y_min": 0.5141,
+            "x_max": 0.7163,
+            "y_max": 0.5227,
+            "width": 0.0385,
+            "height": 0.0086
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "NOTE: Infected cell can an survive while viruses are being\nreplicated and released",
+          "bbox": {
+            "x_min": 0.2685,
+            "y_min": 0.647,
+            "x_max": 0.7134,
+            "y_max": 0.6722,
+            "width": 0.4448,
+            "height": 0.0253
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "Figure 7.6 Replication of retrovirus",
+          "bbox": {
+            "x_min": 0.3357,
+            "y_min": 0.6894,
+            "x_max": 0.6346,
+            "y_max": 0.7018,
+            "width": 0.2989,
+            "height": 0.0124
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "sexual partners, drug addicts who take drugs intravenously, individuals\nwho require repeated blood transfusions and children born to an HIV\ninfected mother. Do you know-when do people need repeated blood\ntransfusion? Find out and make a list of such conditions. It is important\nto note that HIV/AIDS is not spread by mere touch or physical contact; it\nspreads only through body fluids. It is, hence, imperative, for the physical\nand psychological well-being, that the HIV/AIDS infected persons are\nnot isolated from family and society. There is always a time-lag between\nthe infection and appearance of AIDS symptoms. This period may vary\nfrom a few months to many years (usually 5-10 years).",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.7344,
+            "x_max": 0.6976,
+            "y_max": 0.9087,
+            "width": 0.6264,
+            "height": 0.1744
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "139",
+          "bbox": {
+            "x_min": 0.8523,
+            "y_min": 0.7909,
+            "x_max": 0.8967,
+            "y_max": 0.8046,
+            "width": 0.0444,
+            "height": 0.0137
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "140",
+          "bbox": {
+            "x_min": 0.1016,
+            "y_min": 0.7935,
+            "x_max": 0.1424,
+            "y_max": 0.8063,
+            "width": 0.0409,
+            "height": 0.0129
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8616,
+            "y_min": 0.0831,
+            "x_max": 0.9253,
+            "y_max": 0.0904,
+            "width": 0.0636,
+            "height": 0.0073
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "After getting into the body of the person, the virus enters into macrophages\nwhere RNA genome of the virus replicates to form viral DNA with the help of\nthe enzyme reverse transcriptase. This viral DNA gets incorporated into host\ncell's DNA and directs the infected cells to produce virus particles (Figure 7.6).\nThe macrophages continue to produce virus and in this way acts like a HIV\nfactory. Simultaneously, HIV enters into helper T-lymphocytes (T₁), replicates\nand produce progeny viruses. The progeny viruses released in the blood attack\nother helper T-lymphocytes. This is repeated leading to a progressive decrease\nin the number of helper T-lymphocytes in the body of the infected person.\nDuring this period, the person suffers from bouts of fever, diarrhoea and weight\nloss. Due to decrease in the number of helper Tlymphocytes, the person starts\nsuffering from infections that could have been otherwise overcome such as\nthose due to bacteria especially Mycobacterium, viruses, fungi and even\nparasites like Toxoplasma. The patient becomes so immuno-deficient that\nhe/she is unable to protect himself/herself against these infections. A widely\nused diagnostic test for AIDS is enzyme linked immuno-sorbent assay\n(ELISA). Treatment of AIDS with anti-retroviral drugs is only partially effective.\nThey can only prolong the life of the patient but cannot prevent death, which is\ninevitable.",
+          "bbox": {
+            "x_min": 0.3001,
+            "y_min": 0.1127,
+            "x_max": 0.9282,
+            "y_max": 0.4439,
+            "width": 0.6281,
+            "height": 0.3312
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "Prevention of AIDS : As AIDS has no cure, prevention is the best option.\nMoreover, HIV infection, more often, spreads due to conscious behaviour\npatterns and is not something that happens inadvertently, like pneumonia\nor typhoid. Of course, infection in blood transfusion patients, new-borns\n(from mother) etc., may take place due to poor monitoring. The only excuse\nmay be ignorance and it has been rightly said – “don't die of ignorance”.\nIn our country the National AIDS Control Organisation (NACO) and other\nnon-governmental organisation (NGOs) are doing a lot to educate people\nabout AIDS. WHO has started a number of programmes to prevent the\nspreading of HIV infection. Making blood (from blood banks) safe from\nHIV, ensuring the use of only disposable needles and syringes in public\nand private hospitals and clinics, free distribution of condoms, controlling\ndrug abuse, advocating safe sex and promoting regular check-ups for\nHIV in susceptible populations, are some such steps taken up.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.4554,
+            "x_max": 0.9264,
+            "y_max": 0.7005,
+            "width": 0.6241,
+            "height": 0.2451
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "hid",
+          "bbox": {
+            "x_min": 0.2948,
+            "y_min": 0.7202,
+            "x_max": 0.3322,
+            "y_max": 0.7395,
+            "width": 0.0374,
+            "height": 0.0193
+          },
+          "confidence": 0.9603
+        },
+        {
+          "text": "hidden",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.7232,
+            "x_max": 0.3631,
+            "y_max": 0.7331,
+            "width": 0.0625,
+            "height": 0.0099
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "Infection with HIV or having AIDS is something that should not be\nsince then, the infection may spread to many more people.\nHIV/AIDS-infected people need help and sympathy instead of being\nshunned by society. Unless society recognises it as a problem to be dealt\nwith in a collective manner – the chances of wider spread of the disease\nincrease manifold. It is a malady that can only be tackled, by the society\nand medical fraternity acting together, to prevent the spread of the disease.",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.7048,
+            "x_max": 0.927,
+            "y_max": 0.8252,
+            "width": 0.6264,
+            "height": 0.1204
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "7.4 CANCER",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.844,
+            "x_max": 0.4326,
+            "y_max": 0.8569,
+            "width": 0.1302,
+            "height": 0.0129
+          },
+          "confidence": 0.9744
+        },
+        {
+          "text": "Cancer is one of the most dreaded diseases of human beings and is a major\ncause of death all over the globe. More than a million Indians suffer from",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.8723,
+            "x_max": 0.9264,
+            "y_max": 0.9032,
+            "width": 0.6241,
+            "height": 0.0308
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1932,
+            "y_min": 0.7108,
+            "x_max": 0.3252,
+            "y_max": 0.8123,
+            "width": 0.1319,
+            "height": 0.1015
+          },
+          "confidence": 0.9683
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "HUMAN HEALTH AND DISEASE",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.0818,
+            "x_max": 0.275,
+            "y_max": 0.0895,
+            "width": 0.2037,
+            "height": 0.0077
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "cancer and a large number of them die from it annually. The mechanisms\nthat underlie development of cancer or oncogenic transformation of cells,\nits treatment and control have been some of the most intense areas of\nresearch in biology and medicine.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.1123,
+            "x_max": 0.6982,
+            "y_max": 0.1782,
+            "width": 0.6258,
+            "height": 0.066
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "In our body, cell growth and differentiation is highly controlled and\nregulated. In cancer cells, there is breakdown of these regulatory\nmechanisms. Normal cells show a property called contact inhibition by\nvirtue of which contact with other cells inhibits their uncontrolled growth.\nCancer cells appears to have lost this property. As a result of this, cancerous\ncells just continue to divide giving rise to masses of cells called tumors.\nTumors are of two types: benign and malignant. Benign tumors normally\nremain confined to their original location and do not spread to other parts\nof the body and cause little damage. The malignant tumors, on the\nother hand are a mass of proliferating cells called neoplastic or tumor\ncells. These cells grow very rapidly, invading and damaging the\nsurrounding normal tissues. As these cells actively divide and grow they\nalso starve the normal cells by competing for vital nutrients. Cells sloughed\nfrom such tumors reach distant sites through blood, and wherever they\nget lodged in the body, they start a new tumor there. This property called\nmetastasis is the most feared property of malignant tumors.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1825,
+            "x_max": 0.6982,
+            "y_max": 0.4597,
+            "width": 0.6264,
+            "height": 0.2772
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "Causes of cancer : Transformation of normal cells into cancerous\nneoplastic cells may be induced by physical, chemical or biological agents.\nThese agents are called carcinogens. Ionising radiations like X-rays and\ngamma rays and non-ionizing radiations like UV cause DNA damage\nleading to neoplastic transformation. The chemical carcinogens present\nin tobacco smoke have been identified as a major cause of lung cancer.\nCancer causing viruses called oncogenic viruses have genes called viral\noncogenes. Furthermore, several genes called cellular oncogenes\n(c-onc) or proto oncogenes have been identified in normal cells which,\nwhen activated under certain conditions, could lead to oncogenic\ntransformation of the cells.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.4679,
+            "x_max": 0.697,
+            "y_max": 0.6542,
+            "width": 0.6246,
+            "height": 0.1864
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "Cancer detection and diagnosis : Early detection of cancers is essential\nas it allows the disease to be treated successfully in many cases. Cancer\ndetection is based on biopsy and histopathological studies of the tissue\nand blood and bone marrow tests for increased cell counts in the case of\nleukemias. In biopsy, a piece of the suspected tissue cut into thin sections\nis stained and examined under microscope (histopathological studies) by\na pathologist. Techniques like radiography (use of X-rays), CT (computed\ntomography) and MRI (magnetic resonance imaging) are very useful to\ndetect cancers of the internal organs. Computed tomography uses X-rays\nto generate a three-dimensional image of the internals of an object. MRI\nuses strong magnetic fields and non-ionising radiations to accurately detect\npathological and physiological changes in the living tissue.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.6658,
+            "x_max": 0.6982,
+            "y_max": 0.8753,
+            "width": 0.6252,
+            "height": 0.2095
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "Antibodies against cancer-specific antigens are also used for\ndetection of certain cancers. Techniques of molecular biology can be",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.8796,
+            "x_max": 0.697,
+            "y_max": 0.9105,
+            "width": 0.6241,
+            "height": 0.0308
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6888,
+            "y_min": 0.3081,
+            "x_max": 0.8716,
+            "y_max": 0.4409,
+            "width": 0.1827,
+            "height": 0.1328
+          },
+          "confidence": 0.9788
+        },
+        {
+          "text": "141",
+          "bbox": {
+            "x_min": 0.8546,
+            "y_min": 0.7913,
+            "x_max": 0.8903,
+            "y_max": 0.8055,
+            "width": 0.0356,
+            "height": 0.0141
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "HO",
+          "bbox": {
+            "x_min": 0.2405,
+            "y_min": 0.7142,
+            "x_max": 0.2639,
+            "y_max": 0.7215,
+            "width": 0.0234,
+            "height": 0.0073
+          },
+          "confidence": 0.9417
+        },
+        {
+          "text": "no",
+          "bbox": {
+            "x_min": 0.1938,
+            "y_min": 0.7451,
+            "x_max": 0.2872,
+            "y_max": 0.8128,
+            "width": 0.0934,
+            "height": 0.0677
+          },
+          "confidence": 0.7434
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8616,
+            "y_min": 0.0827,
+            "x_max": 0.9253,
+            "y_max": 0.0904,
+            "width": 0.0636,
+            "height": 0.0077
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "applied to detect genes in individuals with inherited susceptibility to\ncertain cancers. Identification of such genes, which predispose an\nindividual to certain cancers, may be very helpful in prevention of\ncancers. Such individuals may be advised to avoid exposure to\nparticular carcinogens to which they are susceptible (e.g., tobacco\nsmoke in case of lung cancer).",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.1131,
+            "x_max": 0.9276,
+            "y_max": 0.2142,
+            "width": 0.6258,
+            "height": 0.1011
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "Treatment of cancer : The common approaches for treatment of cancer\nare surgery, radiation therapy and immunotherapy. In radiotherapy,\ntumor cells are irradiated lethally, taking proper care of the normal tissues\nsurrounding the tumor mass. Several chemotherapeutic drugs are used\nto kill cancerous cells. Some of these are specific for particular tumors.\nMajority of drugs have side effects like hair loss, anemia, etc. Most cancers\nare treated by combination of surgery, radiotherapy and chemotherapy.\nTumor cells have been shown to avoid detection and destruction by\nimmune system. Therefore, the patients are given substances called\nbiological response modifiers such as a-interferon which activates their\nwhich\nimmune system and helps in destroying the tumor.",
+          "bbox": {
+            "x_min": 0.2971,
+            "y_min": 0.2159,
+            "x_max": 0.9317,
+            "y_max": 0.4203,
+            "width": 0.6346,
+            "height": 0.2044
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "7.5 DRUGS AND ALCOHOL ABUSE",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.4327,
+            "x_max": 0.6421,
+            "y_max": 0.4464,
+            "width": 0.3392,
+            "height": 0.0137
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "drugs",
+          "bbox": {
+            "x_min": 0.6521,
+            "y_min": 0.449,
+            "x_max": 0.7052,
+            "y_max": 0.4777,
+            "width": 0.0531,
+            "height": 0.0287
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "Surveys and statistics show that use of drugs and alcohol has been on\nthe rise especially among the youth. This is really a cause of concern as it\ncould result in many harmful effects. Proper education and guidance\nwould enable youth to safeguard themselves against these dangerous\nbehaviour patterns and follow healthy lifestyles.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.4606,
+            "x_max": 0.9259,
+            "y_max": 0.5458,
+            "width": 0.6241,
+            "height": 0.0853
+          },
+          "confidence": 0.9974
+        },
+        {
+          "text": "The drugs, which are commonly abused are opioids, cannabinoids\nand coca alkaloids. Majority of these are obtained from flowering plants.\nSome are obtained from fungi.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.5501,
+            "x_max": 0.9259,
+            "y_max": 0.5981,
+            "width": 0.6235,
+            "height": 0.048
+          },
+          "confidence": 0.9973
+        },
+        {
+          "text": "Opioids are the drugs, which bind to specific opioid receptors present\nin our central nervous system and gastrointestinal tract. Heroin\n(Figure 7.7), commonly called smack is chemically diacetylmorphine which\nis a white, odourless, bitter crystalline compound. This is obtained by\nacetylation of morphine (Figure 7.7), which is extracted from the latex of",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.6041,
+            "x_max": 0.9282,
+            "y_max": 0.6881,
+            "width": 0.6264,
+            "height": 0.084
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "Ο",
+          "bbox": {
+            "x_min": 0.265,
+            "y_min": 0.7935,
+            "x_max": 0.2779,
+            "y_max": 0.8003,
+            "width": 0.0128,
+            "height": 0.0069
+          },
+          "confidence": 0.6472
+        },
+        {
+          "text": "142",
+          "bbox": {
+            "x_min": 0.1027,
+            "y_min": 0.7931,
+            "x_max": 0.1454,
+            "y_max": 0.8068,
+            "width": 0.0426,
+            "height": 0.0137
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "H",
+          "bbox": {
+            "x_min": 0.2446,
+            "y_min": 0.8179,
+            "x_max": 0.2574,
+            "y_max": 0.8248,
+            "width": 0.0128,
+            "height": 0.0069
+          },
+          "confidence": 0.917
+        },
+        {
+          "text": "N-CH 3",
+          "bbox": {
+            "x_min": 0.4361,
+            "y_min": 0.8269,
+            "x_max": 0.4991,
+            "y_max": 0.847,
+            "width": 0.063,
+            "height": 0.0201
+          },
+          "confidence": 0.9454
+        },
+        {
+          "text": "Figure 7.7 Chemical structure of Morphine",
+          "bbox": {
+            "x_min": 0.1862,
+            "y_min": 0.8967,
+            "x_max": 0.5528,
+            "y_max": 0.9096,
+            "width": 0.3666,
+            "height": 0.0129
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "Figure 7.8 Opium poppy",
+          "bbox": {
+            "x_min": 0.6538,
+            "y_min": 0.8972,
+            "x_max": 0.8628,
+            "y_max": 0.9105,
+            "width": 0.209,
+            "height": 0.0133
+          },
+          "confidence": 0.9839
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9739,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.009
+          },
+          "confidence": 0.9829
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "HUMAN HEALTH AND DISEASE",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.0818,
+            "x_max": 0.275,
+            "y_max": 0.0895,
+            "width": 0.2043,
+            "height": 0.0077
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "poppy plant Papaver somniferum (Figure 7.8). Generally taken by snorting\nand injection, heroin is a depressant and slows down body functions.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.1118,
+            "x_max": 0.6976,
+            "y_max": 0.1435,
+            "width": 0.6246,
+            "height": 0.0317
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "Cannabinoids are a group of chemicals (Figure 7.9), which interact\nwith cannabinoid receptors present principally in the brain. Natural\ncannabinoids are obtained from the inflorescences of the plant Cannabis\nsativa (Figure 7.10). The flower tops, leaves and the resin of cannabis\nplant are used in various combinations to produce marijuana, hashish,\ncharas and ganja. Generally taken by inhalation and oral ingestion, these\nare known for their effects on cardiovascular system of the body.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1478,
+            "x_max": 0.6976,
+            "y_max": 0.2686,
+            "width": 0.6258,
+            "height": 0.1208
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "Ο\nH",
+          "bbox": {
+            "x_min": 0.202,
+            "y_min": 0.3856,
+            "x_max": 0.2195,
+            "y_max": 0.407,
+            "width": 0.0175,
+            "height": 0.0214
+          },
+          "confidence": 0.8729
+        },
+        {
+          "text": "OH",
+          "bbox": {
+            "x_min": 0.2528,
+            "y_min": 0.3179,
+            "x_max": 0.2779,
+            "y_max": 0.3256,
+            "width": 0.0251,
+            "height": 0.0077
+          },
+          "confidence": 0.8541
+        },
+        {
+          "text": "Figure 7.9 Skeletal structure of\ncannabinoid molecule",
+          "bbox": {
+            "x_min": 0.0963,
+            "y_min": 0.4773,
+            "x_max": 0.38,
+            "y_max": 0.5021,
+            "width": 0.2837,
+            "height": 0.0249
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "CERT",
+          "bbox": {
+            "x_min": 0.4086,
+            "y_min": 0.401,
+            "x_max": 0.6089,
+            "y_max": 0.5403,
+            "width": 0.2002,
+            "height": 0.1392
+          },
+          "confidence": 0.9713
+        },
+        {
+          "text": "10 Leave",
+          "bbox": {
+            "x_min": 0.6281,
+            "y_min": 0.4567,
+            "x_max": 0.6994,
+            "y_max": 0.5056,
+            "width": 0.0712,
+            "height": 0.0488
+          },
+          "confidence": 0.6621
+        },
+        {
+          "text": "lished",
+          "bbox": {
+            "x_min": 0.6468,
+            "y_min": 0.3076,
+            "x_max": 0.8768,
+            "y_max": 0.47,
+            "width": 0.23,
+            "height": 0.1624
+          },
+          "confidence": 0.8083
+        },
+        {
+          "text": "Coca alkaloid or cocaine is obtained from coca\nplant Erythroxylum coca, native to South America. It\ninterferes with the transport of the neuro-transmitter\ndopamine. Cocaine, commonly called coke or crack is\nusually snorted. It has a potent stimulating action on\ncentral nervous system, producing a sense of euphoria\nand increased energy. Excessive dosage of cocaine\ncauses hallucinations. Other well-known plants with\nhallucinogenic properties are Atropa belladona and\nDatura (Figure 7.11). These days cannabinoids are also\nbeing abused by some sportspersons.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.5244,
+            "x_max": 0.5248,
+            "y_max": 0.7177,
+            "width": 0.4524,
+            "height": 0.1932
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "Figure 7.10 Leaves of Cannabis sativa",
+          "bbox": {
+            "x_min": 0.5452,
+            "y_min": 0.4781,
+            "x_max": 0.8681,
+            "y_max": 0.491,
+            "width": 0.3228,
+            "height": 0.0129
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "Figure 7.11 Flowering branch of Datura",
+          "bbox": {
+            "x_min": 0.5528,
+            "y_min": 0.7592,
+            "x_max": 0.8903,
+            "y_max": 0.7716,
+            "width": 0.3374,
+            "height": 0.0124
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "Drugs like barbiturates, amphetamines,\nbenzodiazepines, and other similar drugs, that are\nnormally used as medicines to help patients cope with\nmental illnesses like depression and insomnia, are often\nabused. Morphine is a very effective sedative and painkiller, and is very useful\nin patients who have undergone surgery. Several plants, fruits and seeds\nhaving hallucinogenic properties have been used for hundreds of years in\nfolk-medicine, religious ceremonies and rituals all over the globe. When these\nare taken for a purpose other than medicinal use or in amounts/frequency\nthat impairs one's physical, physiological or psychological functions, it\nconstitutes drug abuse.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.7215,
+            "x_max": 0.6953,
+            "y_max": 0.9126,
+            "width": 0.6235,
+            "height": 0.1911
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "143",
+          "bbox": {
+            "x_min": 0.8552,
+            "y_min": 0.7913,
+            "x_max": 0.8932,
+            "y_max": 0.8046,
+            "width": 0.0379,
+            "height": 0.0133
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 18,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "144",
+          "bbox": {
+            "x_min": 0.1022,
+            "y_min": 0.7935,
+            "x_max": 0.1436,
+            "y_max": 0.8068,
+            "width": 0.0414,
+            "height": 0.0133
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8616,
+            "y_min": 0.0831,
+            "x_max": 0.9253,
+            "y_max": 0.0904,
+            "width": 0.0636,
+            "height": 0.0073
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "Smoking also paves the way to hard drugs. Tobacco has been used\nby human beings for more than 400 years. It is smoked, chewed or used\nas a snuff. Tobacco contains a large number of chemical substances\nincluding nicotine, an alkaloid. Nicotine stimulates adrenal gland to\nrelease adrenaline and nor-adrenaline into blood circulation, both of\nwhich raise blood pressure and increase heart rate. Smoking is associated\nwith increased incidence of cancers of lung, urinary bladder and throat,\nbronchitis, emphysema, coronary heart disease, gastric ulcer, etc. Tobacco\nchewing is associated with increased risk of cancer of the oral cavity.\nSmoking increases carbon monoxide (CO) content in blood and reduces\nthe concentration of haembound oxygen. This causes oxygen deficiency\nin the body.",
+          "bbox": {
+            "x_min": 0.3001,
+            "y_min": 0.1131,
+            "x_max": 0.9288,
+            "y_max": 0.3295,
+            "width": 0.6287,
+            "height": 0.2164
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "When one buys packets of cigarettes one cannot miss the statutory\nwarning that is present on the packing which warns against smoking\nand says how it is injurious to health. Yet, smoking is very prevalent in\nsociety, both among young and old. Knowing the dangers of smoking\nand chewing tobacco, and its addictive nature, the youth and old need to\navoid these habits. Any addict requires counselling and medical help to\nget rid of the habit.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.335,
+            "x_max": 0.927,
+            "y_max": 0.4589,
+            "width": 0.6258,
+            "height": 0.1238
+          },
+          "confidence": 0.9968
+        },
+        {
+          "text": "7.5.1 Adolescence and Drug/Alcohol Abuse",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.4773,
+            "x_max": 0.763,
+            "y_max": 0.4919,
+            "width": 0.46,
+            "height": 0.0146
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "Adolescence means both ‘a period' and 'a process' during which a child\nbecomes mature in terms of his/her attitudes and beliefs for effective\nparticipation in society. The period between 12-18 years of age may\nbe thought of as adolescence period. In other words, adolescence is a\nbridge linking childhood and adulthood. Adolescence is accompanied\nby several biological and behavioural changes. Adolescence, thus is a\nvery vulnerable phase of mental and psychological development of an\nindividual.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.5039,
+            "x_max": 0.9264,
+            "y_max": 0.6371,
+            "width": 0.6252,
+            "height": 0.1332
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "may",
+          "bbox": {
+            "x_min": 0.2942,
+            "y_min": 0.7245,
+            "x_max": 0.3462,
+            "y_max": 0.7519,
+            "width": 0.052,
+            "height": 0.0274
+          },
+          "confidence": 0.9698
+        },
+        {
+          "text": "Curiosity, need for adventure and excitement, and experimentation,\nconstitute common causes, which motivate youngsters towards drug\nand alcohol use. A child's natural curiosity motivates him/her to\nexperiment. This is complicated further by effects that might be perceived\nas benefits, of alcohol or drug use. Thus, the first use of drugs or alcohol\nmay be out of curiosity or experimentation, but later the child starts\nusing these to escape facing problems. Of late, stress, from pressures to\nexcel in academics or examinations, has played a significant role in\npersuading the youngsters to try alcohol and drugs. The perception\namong youth that it is ‘cool' or progressive to smoke, use drugs or\nalcohol, is also in a way a major cause for youth to start these habits.\nTelevision, movies, newspapers, internet also help to promote this\nperception. Other factors that have been seen to be associated with drug\nand alcohol abuse among adolescents are unstable or unsupportive\nfamily structures and peer pressure.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.6448,
+            "x_max": 0.927,
+            "y_max": 0.904,
+            "width": 0.6258,
+            "height": 0.2592
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1897,
+            "y_min": 0.7104,
+            "x_max": 0.3252,
+            "y_max": 0.8158,
+            "width": 0.1354,
+            "height": 0.1054
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 19,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "HUMAN HEALTH AND DISEASE",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.0818,
+            "x_max": 0.275,
+            "y_max": 0.0895,
+            "width": 0.2043,
+            "height": 0.0077
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "7.5.2 Addiction and Dependence",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.111,
+            "x_max": 0.4209,
+            "y_max": 0.1255,
+            "width": 0.3473,
+            "height": 0.0146
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "Because of the perceived benefits, drugs are frequently used repeatedly.\nThe most important thing, which one fails to realise, is the inherent\naddictive nature of alcohol and drugs. Addiction is a psychological\nattachment to certain effects –such as euphoria and a temporary feeling\nof well-being-associated with drugs and alcohol. These drive people to\ntake them even when these are not needed, or even when their use becomes\nself-destructive. With repeated use of drugs, the tolerance level of the\nreceptors present in our body increases. Consequently the receptors\nrespond only to higher doses of drugs or alcohol leading to greater intake\nand addiction. However, it should be clearly borne in mind that use of\nthese drugs even once, can be a fore-runner to addiction. Thus, the\naddictive potential of drugs and alcohol, pull the user into a vicious circle\nleading to their regular use (abuse) from which he/she may not be able\nto get out. In the absence of any guidance or counselling, the person gets\naddicted and becomes dependent on their use.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1384,
+            "x_max": 0.6976,
+            "y_max": 0.3946,
+            "width": 0.6258,
+            "height": 0.2562
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6865,
+            "y_min": 0.3081,
+            "x_max": 0.8751,
+            "y_max": 0.443,
+            "width": 0.1886,
+            "height": 0.135
+          },
+          "confidence": 0.9752
+        },
+        {
+          "text": "Dependence is the tendency of the body to manifest a characteristic\nand unpleasant withdrawal syndrome if regular dose of drugs/alcohol\nis abruptly discontinued. This is characterised by anxiety, shakiness,\nnausea and sweating, which may be relieved when use is resumed again.\nIn some cases, withdrawal symptoms can be severe and even life\nthreatening and the person may need medical supervision.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.4002,
+            "x_max": 0.6964,
+            "y_max": 0.5004,
+            "width": 0.6235,
+            "height": 0.1003
+          },
+          "confidence": 0.9972
+        },
+        {
+          "text": "Dependence leads the patient to ignore all social norms in order to\nget sufficient funds to satiate his/her needs. These result in many social\nadjustment problems.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.5047,
+            "x_max": 0.6953,
+            "y_max": 0.5527,
+            "width": 0.6223,
+            "height": 0.048
+          },
+          "confidence": 0.9974
+        },
+        {
+          "text": "7.5.3 Effects of Drug/Alcohol Abuse",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.5711,
+            "x_max": 0.4588,
+            "y_max": 0.5857,
+            "width": 0.3853,
+            "height": 0.0146
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "re",
+          "bbox": {
+            "x_min": 0.491,
+            "y_min": 0.5334,
+            "x_max": 0.5832,
+            "y_max": 0.596,
+            "width": 0.0922,
+            "height": 0.0626
+          },
+          "confidence": 0.8988
+        },
+        {
+          "text": "The immediate adverse effects of drugs and alcohol abuse are manifested\nin the form of reckless behaviour, vandalism and violence. Excessive\ndoses of drugs may lead to coma and death due to respiratory failure,\nheart failure or cerebral hemorrhage. A combination of drugs or their\nintake along with alcohol generally results in overdosing and even\ndeaths. The most common warning signs of drug and alcohol abuse\namong youth include drop in academic performance, unexplained\nabsence from school/college, lack of interest in personal hygiene,\nwithdrawal, isolation, depression, fatigue, aggressive and rebellious\nbehaviour, deteriorating relationships with family and friends, loss of\ninterest in hobbies, change in sleeping and eating habits, fluctuations\nin weight, appetite, etc.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.5977,
+            "x_max": 0.697,
+            "y_max": 0.8025,
+            "width": 0.6252,
+            "height": 0.2048
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "There may even be some far-reaching implications of drug/alcohol\nabuse. If an abuser is unable to get money to buy drugs/alcohol he/she\nmay turn to stealing. The adverse effects are just not restricted to the\nperson who is using drugs or alcohol. At times, a drug/alcohol addict\nbecomes the cause of mental and financial distress to his/her entire family\nand friends.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.8063,
+            "x_max": 0.6959,
+            "y_max": 0.9057,
+            "width": 0.6229,
+            "height": 0.0994
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "145",
+          "bbox": {
+            "x_min": 0.8546,
+            "y_min": 0.7909,
+            "x_max": 0.8932,
+            "y_max": 0.8051,
+            "width": 0.0385,
+            "height": 0.0141
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 20,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "146",
+          "bbox": {
+            "x_min": 0.1016,
+            "y_min": 0.7931,
+            "x_max": 0.1436,
+            "y_max": 0.8068,
+            "width": 0.042,
+            "height": 0.0137
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8616,
+            "y_min": 0.0831,
+            "x_max": 0.9253,
+            "y_max": 0.0904,
+            "width": 0.0636,
+            "height": 0.0073
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "Those who take drugs intravenously (direct injection into the vein\nusing a needle and syringe), are much more likely to acquire serious\ninfections like AIDS and Hepatitis B. The viruses, which are responsible\nfor these diseases, are transferred from one person to another by sharing\nof infected needles and syringes. Both AIDS and Hepatitis B infections\nare chronic infections and ultimately fatal. Both can be transmitted\nthrough sexual contact or infected blood.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.1127,
+            "x_max": 0.927,
+            "y_max": 0.2335,
+            "width": 0.6252,
+            "height": 0.1208
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "The use of alcohol during adolescence may also have long-term effects.\nIt could lead to heavy drinking in adulthood. The chronic use of drugs and\nalcohol damages nervous system and liver (cirrhosis). The use of drugs\nand alcohol during pregnancy is also known to adversely affect the foetus.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.2378,
+            "x_max": 0.9259,
+            "y_max": 0.3059,
+            "width": 0.6241,
+            "height": 0.0681
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "Another misuse of drugs is what certain sportspersons do to enhance\ntheir performance. They (mis)use narcotic analgesics, anabolic steroids,\ndiuretics and certain hormones in sports to increase muscle strength and\nbulk and to promote aggressiveness and as a result increase athletic\nperformance. The side-effects of the use of anabolic steroids in females\ninclude masculinisation (features like males), increased aggressiveness,\nmood swings, depression, abnormal menstrual cycles, excessive hair\ngrowth on the face and body, enlargement of clitoris, deepening of voice.\nIn males it includes acne, increased aggressiveness, mood swings,\ndepression, reduction of size of the testicles, decreased sperm production,\npotential for kidney and liver dysfunction, breast enlargement, premature\nbaldness, enlargement of the prostate gland. These effects may be\npermanent with prolonged use. In the adolescent male or female, severe\nfacial and body acne, and premature closure of the growth centres of the\nlong bones may result in stunted growth.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.3102,
+            "x_max": 0.9264,
+            "y_max": 0.575,
+            "width": 0.6252,
+            "height": 0.2648
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "7.5.4 Prevention and Control",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.5934,
+            "x_max": 0.6147,
+            "y_max": 0.6063,
+            "width": 0.3135,
+            "height": 0.0129
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "The age-old adage of ‘prevention is better than cure' holds true here also.\nIt is also true that habits such as smoking, taking drug or alcohol are\nmore likely to be taken up at a young age, more during adolescence.\nHence, it is best to identify the situations that may push an adolescent\ntowards use of drugs or alcohol, and to take remedial measures well in\ntime. In this regard, the parents and the teachers have a special\nresponsibility. Parenting that combines with high levels of nurturance\nand consistent discipline, has been associated with lowered risk of\nsubstance (alcohol/drugs/tobacco) abuse. Some of the measures\nmentioned here would be particularly useful for prevention and control\nof alcohol and drugs abuse among adolescents",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.6204,
+            "x_max": 0.9282,
+            "y_max": 0.8136,
+            "width": 0.627,
+            "height": 0.1932
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "(i) Avoid undue peer pressure - Every child has his/her own choice\nand personality, which should be respected and nurtured. A child\nshould not be pushed unduly to perform beyond his/her threshold\nlimits; be it studies, sports or other activities.",
+          "bbox": {
+            "x_min": 0.3164,
+            "y_min": 0.8179,
+            "x_max": 0.9264,
+            "y_max": 0.8847,
+            "width": 0.61,
+            "height": 0.0668
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1926,
+            "y_min": 0.7082,
+            "x_max": 0.3257,
+            "y_max": 0.8153,
+            "width": 0.1331,
+            "height": 0.1071
+          },
+          "confidence": 0.9345
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 21,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "HUMAN HEALTH AND DISEASE",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.0818,
+            "x_max": 0.275,
+            "y_max": 0.0895,
+            "width": 0.2043,
+            "height": 0.0077
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "(ii) Education and counselling - Educating and counselling him/\nher to face problems and stresses, and to accept disappointments\nand failures as a part of life. It would also be worthwhile to channelise\nthe child's energy into healthy pursuits like sports, reading, music,\nyoga and other extracurricular activities.",
+          "bbox": {
+            "x_min": 0.0841,
+            "y_min": 0.1127,
+            "x_max": 0.697,
+            "y_max": 0.1975,
+            "width": 0.613,
+            "height": 0.0848
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "(iii) Seeking help from parents and peers - Help from parents and\npeers should be sought immediately so that they can guide\nappropriately. Help may even be sought from close and trusted\nfriends. Besides getting proper advise to sort out their problems,\nthis would help young to vent their feelings of anxiety and guilt.",
+          "bbox": {
+            "x_min": 0.0782,
+            "y_min": 0.2014,
+            "x_max": 0.697,
+            "y_max": 0.2871,
+            "width": 0.6188,
+            "height": 0.0857
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "(iv) Looking for danger signs - Alert parents and teachers need to\nlook for and identify the danger signs discussed above. Even friends,\nif they find someone using drugs or alcohol, should not hesitate to\nbring this to the notice of parents or teacher in the best interests of\nthe person concerned. Appropriate measures would then be required\nto diagnose the malady and the underlying causes. This would help\nin initiating proper remedial steps or treatment.",
+          "bbox": {
+            "x_min": 0.08,
+            "y_min": 0.2909,
+            "x_max": 0.6994,
+            "y_max": 0.4117,
+            "width": 0.6194,
+            "height": 0.1208
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "(v) Seeking professional and medical help - A lot of help is available\nin the form of highly qualified psychologists, psychiatrists, and de-\naddiction and rehabilitation programmes to help individuals who\nhave unfortunately got in the quagmire of drug/alcohol abuse. With\nsuch help, the affected individual with sufficient efforts and will power,\ncan get rid of the problem completely and lead a perfectly normal\nand healthy life.",
+          "bbox": {
+            "x_min": 0.0846,
+            "y_min": 0.4156,
+            "x_max": 0.697,
+            "y_max": 0.536,
+            "width": 0.6124,
+            "height": 0.1204
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6894,
+            "y_min": 0.3076,
+            "x_max": 0.871,
+            "y_max": 0.4447,
+            "width": 0.1816,
+            "height": 0.1371
+          },
+          "confidence": 0.9786
+        },
+        {
+          "text": "SUMMARY",
+          "bbox": {
+            "x_min": 0.3298,
+            "y_min": 0.5668,
+            "x_max": 0.4495,
+            "y_max": 0.5784,
+            "width": 0.1197,
+            "height": 0.0116
+          },
+          "confidence": 0.9719
+        },
+        {
+          "text": "rep",
+          "bbox": {
+            "x_min": 0.4781,
+            "y_min": 0.5004,
+            "x_max": 0.6299,
+            "y_max": 0.6041,
+            "width": 0.1518,
+            "height": 0.1037
+          },
+          "confidence": 0.9835
+        },
+        {
+          "text": "Health is not just the absence of disease. It is a state of complete physical,\nmental, social and psychological well-being. Diseases like typhoid,\ncholera, pneumonia, fungal infections of skin, malaria and many others\nare a major cause of distress to human beings. Vector-borne diseases\nlike malaria especially one caused by Plasmodium falciparum, if not\ntreated, may prove fatal. Besides personal cleanliness and hygiene,\npublic health measures like proper disposal of waste, decontamination\nof drinking water, control of vectors like mosquitoes and immunisation\nare very helpful in preventing these diseases. Our immune system plays\nthe major role in preventing these diseases when we are exposed to\ndisease-causing agents. The innate defences of our body like skin,\nmucous membranes, antimicrobial substances present in our tears,\nsaliva and the phagocytic cells help to block the entry of pathogens\ninto our body. If the pathogens succeed in gaining entry to our body,\nspecific antibodies (humoral immune response) and cells (cell mediated\nimmune response) serve to kill these pathogens. Immune system has\nmemory. On subsequent exposure to same pathogen, the immune\nresponse is rapid and more intense. This forms the basis of protection",
+          "bbox": {
+            "x_min": 0.0963,
+            "y_min": 0.6037,
+            "x_max": 0.6801,
+            "y_max": 0.8972,
+            "width": 0.5838,
+            "height": 0.2935
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "147",
+          "bbox": {
+            "x_min": 0.8546,
+            "y_min": 0.7909,
+            "x_max": 0.8938,
+            "y_max": 0.8051,
+            "width": 0.0391,
+            "height": 0.0141
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 22,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8622,
+            "y_min": 0.0827,
+            "x_max": 0.9259,
+            "y_max": 0.09,
+            "width": 0.0636,
+            "height": 0.0073
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "afforded by vaccination and immunisation. Among other diseases, AIDS\nand cancer kill a large number of individuals worldwide. AIDS caused\nby the human immuno-deficiency virus (HIV) is fatal but can be\nprevented if certain precautions are taken. Many cancers are curable if\ndetected early and appropriate therapeutic measures are taken. Of late,\ndrug and alcohol abuse among youth and adolescents is becoming\nanother cause of concern. Because of the addictive nature of alcohol",
+          "bbox": {
+            "x_min": 0.3112,
+            "y_min": 0.123,
+            "x_max": 0.9072,
+            "y_max": 0.2326,
+            "width": 0.596,
+            "height": 0.1097
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "and drugs, and their perceived benefits like relief from stress, a person\nmay try taking these in the face of peer pressure, examinations-related\nand competition-related stresses. In doing so, he/she may get addicted\nto them. Education about their harmful effects, counselling and seeking\nimmediate professional and medical help would totally relieve the\nindividual from these evils.",
+          "bbox": {
+            "x_min": 0.3123,
+            "y_min": 0.2408,
+            "x_max": 0.9066,
+            "y_max": 0.3325,
+            "width": 0.5943,
+            "height": 0.0917
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "EXERCISESea",
+          "bbox": {
+            "x_min": 0.4828,
+            "y_min": 0.3213,
+            "x_max": 0.8733,
+            "y_max": 0.4259,
+            "width": 0.3905,
+            "height": 0.1045
+          },
+          "confidence": 0.9079
+        },
+        {
+          "text": "1. What are the various public health measures, which you would suggest\nas safeguard against infectious diseases?",
+          "bbox": {
+            "x_min": 0.3135,
+            "y_min": 0.4267,
+            "x_max": 0.9264,
+            "y_max": 0.4524,
+            "width": 0.613,
+            "height": 0.0257
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "2. In which way has the study of biology helped us to control infectious\ndiseases?",
+          "bbox": {
+            "x_min": 0.3106,
+            "y_min": 0.4576,
+            "x_max": 0.9253,
+            "y_max": 0.4811,
+            "width": 0.6147,
+            "height": 0.0236
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "3. How does the transmission of each of the following diseases take place?\n(a) Amoebiasis (b) Malaria (c) Ascariasis (d) Pneumonia",
+          "bbox": {
+            "x_min": 0.3106,
+            "y_min": 0.4893,
+            "x_max": 0.9276,
+            "y_max": 0.5176,
+            "width": 0.617,
+            "height": 0.0283
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "4. What measure would you take to prevent water-borne diseases?",
+          "bbox": {
+            "x_min": 0.3106,
+            "y_min": 0.5236,
+            "x_max": 0.8815,
+            "y_max": 0.5351,
+            "width": 0.5709,
+            "height": 0.0116
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "5. Discuss with your teacher what does ‘a suitable gene' means, in the\ncontext of DNA vaccines.",
+          "bbox": {
+            "x_min": 0.3117,
+            "y_min": 0.5403,
+            "x_max": 0.927,
+            "y_max": 0.5643,
+            "width": 0.6153,
+            "height": 0.024
+          },
+          "confidence": 0.9809
+        },
+        {
+          "text": "6. Name the primary and secondary lymphoid organs.",
+          "bbox": {
+            "x_min": 0.31,
+            "y_min": 0.5724,
+            "x_max": 0.7729,
+            "y_max": 0.5848,
+            "width": 0.4629,
+            "height": 0.0124
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "The following are some well-known abbreviations, which have been\nused in this chapter. Expand each one to its full form:",
+          "bbox": {
+            "x_min": 0.3427,
+            "y_min": 0.5891,
+            "x_max": 0.9264,
+            "y_max": 0.6157,
+            "width": 0.5838,
+            "height": 0.0266
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "7.",
+          "bbox": {
+            "x_min": 0.3112,
+            "y_min": 0.5891,
+            "x_max": 0.3234,
+            "y_max": 0.6007,
+            "width": 0.0123,
+            "height": 0.0116
+          },
+          "confidence": 0.9615
+        },
+        {
+          "text": "(a) MALT",
+          "bbox": {
+            "x_min": 0.3433,
+            "y_min": 0.6204,
+            "x_max": 0.418,
+            "y_max": 0.6311,
+            "width": 0.0747,
+            "height": 0.0107
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "(e) HIV",
+          "bbox": {
+            "x_min": 0.3427,
+            "y_min": 0.6375,
+            "x_max": 0.3987,
+            "y_max": 0.6487,
+            "width": 0.056,
+            "height": 0.0111
+          },
+          "confidence": 0.9793
+        },
+        {
+          "text": "(b) CMI",
+          "bbox": {
+            "x_min": 0.505,
+            "y_min": 0.6204,
+            "x_max": 0.5639,
+            "y_max": 0.6311,
+            "width": 0.059,
+            "height": 0.0107
+          },
+          "confidence": 0.9575
+        },
+        {
+          "text": "(c) AIDS",
+          "bbox": {
+            "x_min": 0.6404,
+            "y_min": 0.6204,
+            "x_max": 0.7058,
+            "y_max": 0.6311,
+            "width": 0.0654,
+            "height": 0.0107
+          },
+          "confidence": 0.9717
+        },
+        {
+          "text": "(d) NACO",
+          "bbox": {
+            "x_min": 0.7963,
+            "y_min": 0.6204,
+            "x_max": 0.8727,
+            "y_max": 0.6311,
+            "width": 0.0765,
+            "height": 0.0107
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "148",
+          "bbox": {
+            "x_min": 0.1016,
+            "y_min": 0.7935,
+            "x_max": 0.1436,
+            "y_max": 0.8068,
+            "width": 0.042,
+            "height": 0.0133
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "8. Differentiate the following and give examples of each:",
+          "bbox": {
+            "x_min": 0.3106,
+            "y_min": 0.6547,
+            "x_max": 0.7858,
+            "y_max": 0.6671,
+            "width": 0.4752,
+            "height": 0.0124
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "(a) Innate and acquired immunity (b) Active and passive immunity",
+          "bbox": {
+            "x_min": 0.3438,
+            "y_min": 0.6718,
+            "x_max": 0.9264,
+            "y_max": 0.6842,
+            "width": 0.5826,
+            "height": 0.0124
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "9. Draw a well-labelled diagram of an antibody molecule.",
+          "bbox": {
+            "x_min": 0.3117,
+            "y_min": 0.6889,
+            "x_max": 0.7951,
+            "y_max": 0.7014,
+            "width": 0.4834,
+            "height": 0.0124
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "10. What are the various routes by which transmission of human immuno-\ndeficiency virus takes place?",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.7061,
+            "x_max": 0.9253,
+            "y_max": 0.7326,
+            "width": 0.6217,
+            "height": 0.0266
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "11. What is the mechanism by which the AIDS virus causes deficiency of",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.7378,
+            "x_max": 0.9294,
+            "y_max": 0.7494,
+            "width": 0.6258,
+            "height": 0.0116
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "nott",
+          "bbox": {
+            "x_min": 0.1921,
+            "y_min": 0.6769,
+            "x_max": 0.3672,
+            "y_max": 0.8123,
+            "width": 0.1751,
+            "height": 0.1354
+          },
+          "confidence": 0.8488
+        },
+        {
+          "text": "12.",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.7691,
+            "x_max": 0.3257,
+            "y_max": 0.7785,
+            "width": 0.0228,
+            "height": 0.0094
+          },
+          "confidence": 0.9709
+        },
+        {
+          "text": "immune system of the infected person?",
+          "bbox": {
+            "x_min": 0.3444,
+            "y_min": 0.7519,
+            "x_max": 0.6713,
+            "y_max": 0.7639,
+            "width": 0.3269,
+            "height": 0.012
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "How is a cancerous cell different from a normal cell?",
+          "bbox": {
+            "x_min": 0.3438,
+            "y_min": 0.7691,
+            "x_max": 0.7823,
+            "y_max": 0.7785,
+            "width": 0.4384,
+            "height": 0.0094
+          },
+          "confidence": 0.9841
+        },
+        {
+          "text": "13. Explain what is meant by metastasis.",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.7862,
+            "x_max": 0.6567,
+            "y_max": 0.7986,
+            "width": 0.3532,
+            "height": 0.0124
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "14. List the harmful effects caused by alcohol/drug abuse.",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.8025,
+            "x_max": 0.7963,
+            "y_max": 0.8158,
+            "width": 0.4933,
+            "height": 0.0133
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "15. Do you think that friends can influence one to take alcohol/drugs? If",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.8196,
+            "x_max": 0.9282,
+            "y_max": 0.8325,
+            "width": 0.6246,
+            "height": 0.0129
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "yes, how may one protect himself/herself from such an influence?",
+          "bbox": {
+            "x_min": 0.3427,
+            "y_min": 0.835,
+            "x_max": 0.8984,
+            "y_max": 0.8475,
+            "width": 0.5558,
+            "height": 0.0124
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "16. Why is that once a person starts taking alcohol or drugs, it is difficult\nto get rid of this habit? Discuss it with your teacher.",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.8522,
+            "x_max": 0.9259,
+            "y_max": 0.8783,
+            "width": 0.6217,
+            "height": 0.0261
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "17. In your view what motivates youngsters to take to alcohol or drugs and\nhow can this be avoided?",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.8835,
+            "x_max": 0.9259,
+            "y_max": 0.9079,
+            "width": 0.6217,
+            "height": 0.0244
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

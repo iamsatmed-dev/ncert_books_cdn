@@ -1,0 +1,4730 @@
+{
+  "chapter_id": "12th_physics_ch11_dual_nature_of_radiation_and_matter_ch11_dual_nature_of_radiation_and_matter_en",
+  "total_pages": 16,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "Chapter Eleven\nDUAL NATURE OF\nRADIATION AND",
+          "bbox": {
+            "x_min": 0.0832,
+            "y_min": 0.1402,
+            "x_max": 0.765,
+            "y_max": 0.3411,
+            "width": 0.6818,
+            "height": 0.2009
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "MATTER",
+          "bbox": {
+            "x_min": 0.0785,
+            "y_min": 0.3647,
+            "x_max": 0.3828,
+            "y_max": 0.4103,
+            "width": 0.3042,
+            "height": 0.0456
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1931,
+            "y_min": 0.7123,
+            "x_max": 0.3246,
+            "y_max": 0.8159,
+            "width": 0.1315,
+            "height": 0.1037
+          },
+          "confidence": 0.9218
+        },
+        {
+          "text": "republished",
+          "bbox": {
+            "x_min": 0.4764,
+            "y_min": 0.3075,
+            "x_max": 0.8866,
+            "y_max": 0.6022,
+            "width": 0.4101,
+            "height": 0.2946
+          },
+          "confidence": 0.9257
+        },
+        {
+          "text": "The Maxwell's equations of electromagnetism and Hertz experiments on\nthe generation and detection of electromagnetic waves in 1887 strongly\nestablished the wave nature of light. Towards the same period at the end\nof 19th century, experimental investigations on conduction of electricity\n(electric discharge) through gases at low pressure in a discharge tube led\nto many historic discoveries. The discovery of X-rays by Roentgen in 1895,\nand of electron by J. J. Thomson in 1897, were important milestones in\nthe understanding of atomic structure. It was found that at sufficiently\nlow pressure of about 0.001 mm of mercury column, a discharge took\nplace between the two electrodes on applying the electric field to the gas\nin the discharge tube. A fluorescent glow appeared on the glass opposite\nto cathode. The colour of glow of the glass depended on the type of glass,\nit being yellowish-green for soda glass. The cause of this fluorescence\nwas attributed to the radiation which appeared to be coming from the\ncathode. These cathode rays were discovered, in 1870, by William\nCrookes who later, in 1879, suggested that these rays consisted of streams\nof fast moving negatively charged particles. The British physicist\nJ. J. Thomson (1856-1940) confirmed this hypothesis. By applying\nmutually perpendicular electric and magnetic fields across the discharge\ntube, J. J. Thomson was the first to determine experimentally the speed",
+          "bbox": {
+            "x_min": 0.2839,
+            "y_min": 0.6224,
+            "x_max": 0.9209,
+            "y_max": 0.9527,
+            "width": 0.637,
+            "height": 0.3303
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9738,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.009
+          },
+          "confidence": 0.9821
+        },
+        {
+          "text": "12090CH11",
+          "bbox": {
+            "x_min": 0.808,
+            "y_min": 0.1587,
+            "x_max": 0.8546,
+            "y_max": 0.1647,
+            "width": 0.0465,
+            "height": 0.006
+          },
+          "confidence": 0.9
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "Dual Nature of Radiation\nand Matter",
+          "bbox": {
+            "x_min": 0.5829,
+            "y_min": 0.0718,
+            "x_max": 0.8999,
+            "y_max": 0.1105,
+            "width": 0.317,
+            "height": 0.0387
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "and the specific charge [charge to mass ratio (e/m)] of the cathode ray\nparticles. They were found to travel with speeds ranging from about 0.1\nto 0.2 times the speed of light (3×10m/s). The presently accepted value\nof e/m is 1.76 × 1011 C/kg. Further, the value of e/m was found to be\nindependent of the nature of the material/metal used as the cathode\n(emitter), or the gas introduced in the discharge tube. This observation\nsuggested the universality of the cathode ray particles.",
+          "bbox": {
+            "x_min": 0.0803,
+            "y_min": 0.1355,
+            "x_max": 0.7144,
+            "y_max": 0.2477,
+            "width": 0.6341,
+            "height": 0.1123
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "Around the same time, in 1887, it was found that certain metals, when\nirradiated by ultraviolet light, emitted negatively charged particles having\nsmall speeds. Also, certain metals when heated to a high temperature were\nfound to emit negatively charged particles. The value of e/mof these particles\nwas found to be the same as that for cathode ray particles. These\nobservations thus established that all these particles, although produced\nunder different conditions, were identical in nature. J. J. Thomson, in 1897,\nnamed these particles as electrons, and suggested that they were\nfundamental, universal constituents of matter. For his epoch-making\ndiscovery of electron, through his theoretical and experimental\ninvestigations on conduction of electricity by gasses, he was awarded the\nNobel Prize in Physics in 1906. In 1913, the American physicist R. A.\nMillikan (1868-1953) performed the pioneering oil-drop experiment for\nthe precise measurement of the charge on an electron. He found that the\ncharge on an oil-droplet was always an integral multiple of an elementary\ncharge, 1.602 × 10-19 C. Millikan's experiment established that electric\ncharge is quantised. From the values of charge (e) and specific charge\n(e/m), the mass (m) of the electron could be determined.",
+          "bbox": {
+            "x_min": 0.0791,
+            "y_min": 0.2495,
+            "x_max": 0.7155,
+            "y_max": 0.5428,
+            "width": 0.6364,
+            "height": 0.2933
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "11.2 ELECTRON EMISSION",
+          "bbox": {
+            "x_min": 0.082,
+            "y_min": 0.5578,
+            "x_max": 0.4066,
+            "y_max": 0.5733,
+            "width": 0.3246,
+            "height": 0.0155
+          },
+          "confidence": 0.984
+        },
+        {
+          "text": "repsheo",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.3144,
+            "x_max": 0.9052,
+            "y_max": 0.6129,
+            "width": 0.4555,
+            "height": 0.2985
+          },
+          "confidence": 0.7725
+        },
+        {
+          "text": "We know that metals have free electrons (negatively charged particles) that\nare responsible for their conductivity. However, the free electrons cannot\nnormally escape out of the metal surface. If an electron attempts to come\nout of the metal, the metal surface acquires a positive charge and pulls the\nelectron back to the metal. The free electron is thus held inside the metal\nsurface by the attractive forces of the ions. Consequently, the electron can\ncome out of the metal surface only if it has got sufficient energy to overcome\nthe attractive pull. A certain minimum amount of energy is required to be\ngiven to an electron to pull it out from the surface of the metal. This\nminimum energy required by an electron to escape from the metal surface\nis called the work function of the metal. It is generally denoted by\nand\nmeasured in eV (electron volt). One electron volt is the energy gained by an\nelectron when it has been accelerated by a potential difference of 1 volt, so\nthat 1 eV = 1.602 ×10-19 J.",
+          "bbox": {
+            "x_min": 0.0785,
+            "y_min": 0.5875,
+            "x_max": 0.7144,
+            "y_max": 0.8082,
+            "width": 0.6358,
+            "height": 0.2206
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "This unit of energy is commonly used in atomic and nuclear physics.\nThe work function (6) depends on the properties of the metal and the\nnature of its surface.",
+          "bbox": {
+            "x_min": 0.0791,
+            "y_min": 0.8133,
+            "x_max": 0.7132,
+            "y_max": 0.8563,
+            "width": 0.6341,
+            "height": 0.043
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "The minimum energy required for the electron emission from the metal\nsurface can be supplied to the free electrons by any one of the following\nphysical processes:",
+          "bbox": {
+            "x_min": 0.0803,
+            "y_min": 0.8624,
+            "x_max": 0.715,
+            "y_max": 0.908,
+            "width": 0.6347,
+            "height": 0.0456
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "(i) Thermionic emission: By suitably heating, sufficient thermal energy\ncan be imparted to the free electrons to enable them to come out of the\nmetal.",
+          "bbox": {
+            "x_min": 0.0809,
+            "y_min": 0.9114,
+            "x_max": 0.7144,
+            "y_max": 0.9544,
+            "width": 0.6335,
+            "height": 0.043
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "275",
+          "bbox": {
+            "x_min": 0.8656,
+            "y_min": 0.9381,
+            "x_max": 0.9011,
+            "y_max": 0.9488,
+            "width": 0.0355,
+            "height": 0.0108
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9738,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.009
+          },
+          "confidence": 0.9821
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "276",
+          "bbox": {
+            "x_min": 0.0954,
+            "y_min": 0.9402,
+            "x_max": 0.1355,
+            "y_max": 0.9484,
+            "width": 0.0401,
+            "height": 0.0082
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.196,
+            "y_min": 0.0925,
+            "x_max": 0.3118,
+            "y_max": 0.1157,
+            "width": 0.1158,
+            "height": 0.0232
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "(ii) Field emission: By applying a very strong electric field (of the order of\n108 V m¯¹) to a metal, electrons can be pulled out of the metal, as in a\nspark plug.",
+          "bbox": {
+            "x_min": 0.2856,
+            "y_min": 0.1346,
+            "x_max": 0.9209,
+            "y_max": 0.1819,
+            "width": 0.6353,
+            "height": 0.0473
+          },
+          "confidence": 0.9818
+        },
+        {
+          "text": "(iii) Photoelectric emission: When light of suitable frequency illuminates\na metal surface, electrons are emitted from the metal surface. These\nphoto(light)-generated electrons are called photoelectrons.",
+          "bbox": {
+            "x_min": 0.2856,
+            "y_min": 0.1862,
+            "x_max": 0.9191,
+            "y_max": 0.2323,
+            "width": 0.6335,
+            "height": 0.046
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "11.3 PHOTOELECTRIC EFFECT",
+          "bbox": {
+            "x_min": 0.2868,
+            "y_min": 0.2465,
+            "x_max": 0.6585,
+            "y_max": 0.2632,
+            "width": 0.3717,
+            "height": 0.0168
+          },
+          "confidence": 0.9008
+        },
+        {
+          "text": "11.3.1 Hertz's observations",
+          "bbox": {
+            "x_min": 0.2862,
+            "y_min": 0.2766,
+            "x_max": 0.591,
+            "y_max": 0.2886,
+            "width": 0.3048,
+            "height": 0.012
+          },
+          "confidence": 0.9704
+        },
+        {
+          "text": "The phenomenon of photoelectric emission was discovered in 1887 by\nHeinrich Hertz (1857-1894), during his electromagnetic wave experiments.\nIn his experimental investigation on the production of electromagnetic\nwaves by means of a spark discharge, Hertz observed that high voltage\nsparks across the detector loop were enhanced when the emitter plate\nwas illuminated by ultraviolet light from an arc lamp.",
+          "bbox": {
+            "x_min": 0.2839,
+            "y_min": 0.3006,
+            "x_max": 0.9191,
+            "y_max": 0.3978,
+            "width": 0.6353,
+            "height": 0.0972
+          },
+          "confidence": 0.9968
+        },
+        {
+          "text": "Light shining on the metal surface somehow facilitated the escape of\nfree, charged particles which we now know as electrons. When light falls\non a metal surface, some electrons near the surface absorb enough energy\nfrom the incident radiation to overcome the attraction of the positive ions\nin the material of the surface. After gaining sufficient energy from the\nincident light, the electrons escape from the surface of the metal into the\nsurrounding space.",
+          "bbox": {
+            "x_min": 0.2839,
+            "y_min": 0.4013,
+            "x_max": 0.9203,
+            "y_max": 0.5148,
+            "width": 0.6364,
+            "height": 0.1135
+          },
+          "confidence": 0.9972
+        },
+        {
+          "text": "11.3.2 Hallwachs' and Lenard's observations",
+          "bbox": {
+            "x_min": 0.2862,
+            "y_min": 0.5277,
+            "x_max": 0.7731,
+            "y_max": 0.5411,
+            "width": 0.4869,
+            "height": 0.0133
+          },
+          "confidence": 0.9658
+        },
+        {
+          "text": "Lenard:",
+          "bbox": {
+            "x_min": 0.5311,
+            "y_min": 0.5123,
+            "x_max": 0.6155,
+            "y_max": 0.5566,
+            "width": 0.0844,
+            "height": 0.0443
+          },
+          "confidence": 0.8035
+        },
+        {
+          "text": "Wilhelm Hallwachs and Philipp Lenard investigated the phenomenon of\nphotoelectric emission in detail during 1886-1902.",
+          "bbox": {
+            "x_min": 0.2833,
+            "y_min": 0.5523,
+            "x_max": 0.9203,
+            "y_max": 0.5828,
+            "width": 0.637,
+            "height": 0.0305
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "Lenard (1862-1947) observed that when ultraviolet radiations were\nallowed to fall on the emitter plate of an evacuated glass tube enclosing\ntwo electrodes (metal plates), current flows in the circuit (Fig. 11.1). As\nsoon as the ultraviolet radiations were stopped, the current flow also\nstopped. These observations indicate that when ultraviolet radiations fall\non the emitter plate C, electrons are ejected from it which are attracted\ntowards the positive, collector plate A by the electric field. The electrons\nflow through the evacuated glass tube, resulting in the current flow. Thus,\nlight falling on the surface of the emitter causes current in the external\ncircuit. Hallwachs and Lenard studied how this photo current varied with\ncollector plate potential, and with frequency and intensity of incident light.\nHallwachs, in 1888, undertook the study further and connected a\nnegatively charged zinc plate to an electroscope. He observed that the\nzinc plate lost its charge when it was illuminated by ultraviolet light.\nFurther, the uncharged zinc plate became positively charged when it was\nirradiated by ultraviolet light. Positive charge on a positively charged\nzinc plate was found to be further enhanced when it was illuminated by\nultraviolet light. From these observations he concluded that negatively\ncharged particles were emitted from the zinc plate under the action of\nultraviolet light.",
+          "bbox": {
+            "x_min": 0.2845,
+            "y_min": 0.5849,
+            "x_max": 0.9203,
+            "y_max": 0.9118,
+            "width": 0.6358,
+            "height": 0.3269
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "nos",
+          "bbox": {
+            "x_min": 0.192,
+            "y_min": 0.7312,
+            "x_max": 0.32,
+            "y_max": 0.8125,
+            "width": 0.128,
+            "height": 0.0813
+          },
+          "confidence": 0.8457
+        },
+        {
+          "text": "After the discovery of the electron in 1897, it became evident that the\nincident light causes electrons to be emitted from the emitter plate. Due",
+          "bbox": {
+            "x_min": 0.285,
+            "y_min": 0.9157,
+            "x_max": 0.9191,
+            "y_max": 0.9449,
+            "width": 0.6341,
+            "height": 0.0292
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9821
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "Dual Nature of Radiation\nand Matter",
+          "bbox": {
+            "x_min": 0.5829,
+            "y_min": 0.0718,
+            "x_max": 0.8994,
+            "y_max": 0.1105,
+            "width": 0.3165,
+            "height": 0.0387
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "to negative charge, the emitted electrons are pushed towards the collector\nplate by the electric field. Hallwachs and Lenard also observed that when\nultraviolet light fell on the emitter plate, no electrons were emitted at all\nwhen the frequency of the incident light was smaller than a certain\nminimum value, called the threshold frequency. This minimum frequency\ndepends on the nature of the material of the emitter plate.",
+          "bbox": {
+            "x_min": 0.0797,
+            "y_min": 0.1351,
+            "x_max": 0.7155,
+            "y_max": 0.2314,
+            "width": 0.6358,
+            "height": 0.0963
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "It was found that certain metals like zinc, cadmium, magnesium, etc.,\nresponded only to ultraviolet light, having short wavelength, to cause\nelectron emission from the surface. However, some alkali metals such as\nlithium, sodium, potassium, caesium and rubidium were sensitive\neven to visible light. All these photosensitive substances emit electrons\nwhen they are illuminated by light. After the discovery of electrons, these\nelectrons were termed as photoelectrons. The phenomenon is called\nphotoelectric effect.",
+          "bbox": {
+            "x_min": 0.0797,
+            "y_min": 0.2348,
+            "x_max": 0.7144,
+            "y_max": 0.3634,
+            "width": 0.6347,
+            "height": 0.1286
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC",
+          "bbox": {
+            "x_min": 0.0832,
+            "y_min": 0.3785,
+            "x_max": 0.655,
+            "y_max": 0.394,
+            "width": 0.5718,
+            "height": 0.0155
+          },
+          "confidence": 0.9784
+        },
+        {
+          "text": "EFFECT",
+          "bbox": {
+            "x_min": 0.164,
+            "y_min": 0.4052,
+            "x_max": 0.2542,
+            "y_max": 0.4189,
+            "width": 0.0902,
+            "height": 0.0138
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6864,
+            "y_min": 0.3092,
+            "x_max": 0.865,
+            "y_max": 0.4422,
+            "width": 0.1786,
+            "height": 0.1329
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "for the",
+          "bbox": {
+            "x_min": 0.651,
+            "y_min": 0.4211,
+            "x_max": 0.7167,
+            "y_max": 0.4516,
+            "width": 0.0657,
+            "height": 0.0305
+          },
+          "confidence": 0.9409
+        },
+        {
+          "text": "Figure 11.1 depicts a schematic view of the arrangement used for the\nexperimental study of the photoelectric effect. It consists of an evacuated\nglass/quartz tube having a thin photosensitive plate C and another metal\nplate A. Monochromatic light from the source S of sufficiently short\nwavelength passes through the window W and falls on the photosensitive\nplate C (emitter). A transparent quartz window is sealed on to the glass\ntube, which permits ultraviolet radiation to pass through it and irradiate\nthe photosensitive plate C. The electrons are emitted by the plate C and\nare collected by the plate A (collector), by the electric field created by the\nbattery. The battery maintains the potential difference between the plates\nC and A, that can be varied. The polarity of the plates C and A can be\nreversed by a commutator. Thus, the plate A can be maintained at a desired\npositive or negative potential with respect to emitter C.\nWhen the collector plate A is positive with respect to the\nemitter plate C, the electrons are attracted to it. The\nemission of electrons causes flow of electric current in\nthe circuit. The potential difference between the emitter\nand collector plates is measured by a voltmeter (V)\nwhereas the resulting photo current flowing in the circuit\nis measured by a microammeter (µA). The photoelectric\ncurrent can be increased or decreased by varying the\npotential of collector plate A with respect to the emitter\nplate C. The intensity and frequency of the incident light\ncan be varied, as can the potential difference Vbetween\nthe emitter C and the collector A.",
+          "bbox": {
+            "x_min": 0.0774,
+            "y_min": 0.4335,
+            "x_max": 0.7144,
+            "y_max": 0.8387,
+            "width": 0.637,
+            "height": 0.4052
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "We can use the experimental arrangement of Fig.\n11.1 to study the variation of photocurrent with (a)\nintensity of radiation, (b) frequency of incident radiation,\n(c) the potential difference between the plates A and C,\nand (d) the nature of the material of plate C. Light of\ndifferent frequencies can be used by putting appropriate\ncoloured filter or coloured glass in the path of light falling",
+          "bbox": {
+            "x_min": 0.0797,
+            "y_min": 0.8439,
+            "x_max": 0.5631,
+            "y_max": 0.9557,
+            "width": 0.4834,
+            "height": 0.1118
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9821
+        },
+        {
+          "text": "Photosensitive",
+          "bbox": {
+            "x_min": 0.5835,
+            "y_min": 0.6959,
+            "x_max": 0.6876,
+            "y_max": 0.7041,
+            "width": 0.1041,
+            "height": 0.0082
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "plate",
+          "bbox": {
+            "x_min": 0.5794,
+            "y_min": 0.7071,
+            "x_max": 0.6195,
+            "y_max": 0.7174,
+            "width": 0.0401,
+            "height": 0.0103
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "Quartz\nwindow",
+          "bbox": {
+            "x_min": 0.6911,
+            "y_min": 0.652,
+            "x_max": 0.7499,
+            "y_max": 0.6714,
+            "width": 0.0588,
+            "height": 0.0194
+          },
+          "confidence": 0.9831
+        },
+        {
+          "text": "*S",
+          "bbox": {
+            "x_min": 0.7702,
+            "y_min": 0.6606,
+            "x_max": 0.8022,
+            "y_max": 0.6705,
+            "width": 0.032,
+            "height": 0.0099
+          },
+          "confidence": 0.7813
+        },
+        {
+          "text": "Evacuated\nglass tube",
+          "bbox": {
+            "x_min": 0.8272,
+            "y_min": 0.6856,
+            "x_max": 0.9063,
+            "y_max": 0.7049,
+            "width": 0.0791,
+            "height": 0.0194
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "Electrons",
+          "bbox": {
+            "x_min": 0.7528,
+            "y_min": 0.7213,
+            "x_max": 0.8232,
+            "y_max": 0.7282,
+            "width": 0.0704,
+            "height": 0.0069
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "A",
+          "bbox": {
+            "x_min": 0.8447,
+            "y_min": 0.7415,
+            "x_max": 0.8627,
+            "y_max": 0.7497,
+            "width": 0.018,
+            "height": 0.0082
+          },
+          "confidence": 0.9554
+        },
+        {
+          "text": "Commutator",
+          "bbox": {
+            "x_min": 0.8226,
+            "y_min": 0.7845,
+            "x_max": 0.9156,
+            "y_max": 0.7918,
+            "width": 0.0931,
+            "height": 0.0073
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "μΑ",
+          "bbox": {
+            "x_min": 0.8319,
+            "y_min": 0.8112,
+            "x_max": 0.854,
+            "y_max": 0.8206,
+            "width": 0.0221,
+            "height": 0.0095
+          },
+          "confidence": 0.908
+        },
+        {
+          "text": "FIGURE 11.1 Experimental\narrangement for study of\nphotoelectric effect.",
+          "bbox": {
+            "x_min": 0.6289,
+            "y_min": 0.8865,
+            "x_max": 0.8627,
+            "y_max": 0.9282,
+            "width": 0.2339,
+            "height": 0.0417
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "277",
+          "bbox": {
+            "x_min": 0.8639,
+            "y_min": 0.9394,
+            "x_max": 0.9017,
+            "y_max": 0.9484,
+            "width": 0.0378,
+            "height": 0.009
+          },
+          "confidence": 0.9947
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "Photoelectric current",
+          "bbox": {
+            "x_min": 0.0849,
+            "y_min": 0.188,
+            "x_max": 0.0966,
+            "y_max": 0.3019,
+            "width": 0.0116,
+            "height": 0.114
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "■ Physics",
+          "bbox": {
+            "x_min": 0.1425,
+            "y_min": 0.092,
+            "x_max": 0.3118,
+            "y_max": 0.1153,
+            "width": 0.1693,
+            "height": 0.0232
+          },
+          "confidence": 0.9041
+        },
+        {
+          "text": "Intensity of light",
+          "bbox": {
+            "x_min": 0.1664,
+            "y_min": 0.32,
+            "x_max": 0.2856,
+            "y_max": 0.3303,
+            "width": 0.1193,
+            "height": 0.0103
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "FIGURE 11.2 Variation of\nPhotoelectric current with\nintensity of light.",
+          "bbox": {
+            "x_min": 0.1134,
+            "y_min": 0.3415,
+            "x_max": 0.3362,
+            "y_max": 0.3845,
+            "width": 0.2228,
+            "height": 0.043
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "on the emitter C. The intensity of light is varied by changing\nthe distance of the light source from the emitter.",
+          "bbox": {
+            "x_min": 0.3944,
+            "y_min": 0.1346,
+            "x_max": 0.9203,
+            "y_max": 0.1652,
+            "width": 0.5259,
+            "height": 0.0305
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "11.4.1 Effect of intensity of light on photocurrent\nThe collector A is maintained at a positive potential with\nrespect to emitter C so that electrons ejected from C are\nattracted towards collector A. Keeping the frequency of the\nincident radiation and the potential fixed, the intensity of\nlight is varied and the resulting photoelectric current is\nmeasured each time. It is found that the photocurrent\nincreases linearly with intensity of incident light as shown\ngraphically in Fig. 11.2. The photocurrent is directly\nproportional to the number of photoelectrons emitted per\nsecond. This implies that the number of photoelectrons\nemitted per second is directly proportional to the intensity\nof incident radiation.",
+          "bbox": {
+            "x_min": 0.3938,
+            "y_min": 0.1785,
+            "x_max": 0.9209,
+            "y_max": 0.3944,
+            "width": 0.5271,
+            "height": 0.2159
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "11.4.2 Effect of potential on photoelectric current",
+          "bbox": {
+            "x_min": 0.2868,
+            "y_min": 0.4095,
+            "x_max": 0.8383,
+            "y_max": 0.4241,
+            "width": 0.5515,
+            "height": 0.0146
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "We first keep the plate A at some positive potential with respect to the\nplate C and illuminate the plate C with light of fixed frequency v and fixed\nintensity I₁. We next vary the positive potential of plate A gradually and\nmeasure the resulting photocurrent each time. It is found that the\nphotoelectric current increases with increase in positive (accelerating)\npotential. At some stage, for a certain positive potential of plate A, all the\nemitted electrons are collected by the plate A and the photoelectric current\nbecomes maximum or saturates. If we increase the accelerating potential\nof plate A further, the photocurrent does not increase. This maximum\nvalue of the photoelectric current is called saturation current. Saturation\ncurrent corresponds to the case when all the photoelectrons emitted by\nthe emitter plate C reach the collector plate A.",
+          "bbox": {
+            "x_min": 0.2833,
+            "y_min": 0.4327,
+            "x_max": 0.9197,
+            "y_max": 0.6249,
+            "width": 0.6364,
+            "height": 0.1923
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "not to b",
+          "bbox": {
+            "x_min": 0.1896,
+            "y_min": 0.6026,
+            "x_max": 0.466,
+            "y_max": 0.8275,
+            "width": 0.2763,
+            "height": 0.2249
+          },
+          "confidence": 0.8491
+        },
+        {
+          "text": "0",
+          "bbox": {
+            "x_min": 0.313,
+            "y_min": 0.8606,
+            "x_max": 0.3252,
+            "y_max": 0.8684,
+            "width": 0.0122,
+            "height": 0.0077
+          },
+          "confidence": 0.9336
+        },
+        {
+          "text": "Retarding potential",
+          "bbox": {
+            "x_min": 0.1588,
+            "y_min": 0.8744,
+            "x_max": 0.3072,
+            "y_max": 0.8852,
+            "width": 0.1483,
+            "height": 0.0108
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "Collector plate\npotential",
+          "bbox": {
+            "x_min": 0.3589,
+            "y_min": 0.8753,
+            "x_max": 0.4735,
+            "y_max": 0.8994,
+            "width": 0.1146,
+            "height": 0.0241
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "13",
+          "bbox": {
+            "x_min": 0.4945,
+            "y_min": 0.7381,
+            "x_max": 0.509,
+            "y_max": 0.7501,
+            "width": 0.0145,
+            "height": 0.012
+          },
+          "confidence": 0.7958
+        },
+        {
+          "text": "12",
+          "bbox": {
+            "x_min": 0.4968,
+            "y_min": 0.754,
+            "x_max": 0.5108,
+            "y_max": 0.7656,
+            "width": 0.014,
+            "height": 0.0116
+          },
+          "confidence": 0.7074
+        },
+        {
+          "text": "I",
+          "bbox": {
+            "x_min": 0.4962,
+            "y_min": 0.7716,
+            "x_max": 0.5084,
+            "y_max": 0.7806,
+            "width": 0.0122,
+            "height": 0.009
+          },
+          "confidence": 0.9025
+        },
+        {
+          "text": "FIGURE 11.3 Variation of photocurrent with\ncollector plate potential for different\nintensity of incident radiation.",
+          "bbox": {
+            "x_min": 0.1245,
+            "y_min": 0.9075,
+            "x_max": 0.5084,
+            "y_max": 0.9501,
+            "width": 0.3839,
+            "height": 0.0426
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "278",
+          "bbox": {
+            "x_min": 0.0966,
+            "y_min": 0.9398,
+            "x_max": 0.1332,
+            "y_max": 0.9488,
+            "width": 0.0366,
+            "height": 0.009
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "We now apply a negative (retarding)\npotential to the plate A with respect to the\nplate C and make it increasingly negative\ngradually. When the polarity is reversed,\nthe electrons are repelled and only the\nsufficiently energetic electrons are able to\nreach the collector A. The photocurrent\nis found to decrease rapidly until it drops\nto zero at a certain sharply defined,\ncritical value of the negative potential Vo\non the plate A. For a particular frequency\nof incident radiation, the minimum\nnegative (retarding) potential Vo given to\nthe plate A for which the photocurrent\nstops or becomes zero is called the cut-\noff or stopping potential.",
+          "bbox": {
+            "x_min": 0.5625,
+            "y_min": 0.6288,
+            "x_max": 0.922,
+            "y_max": 0.8886,
+            "width": 0.3595,
+            "height": 0.2598
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "The interpretation of the observation\nin terms of photoelectrons is\nstraightforward. All the photoelectrons\nemitted from the metal do not have the",
+          "bbox": {
+            "x_min": 0.5637,
+            "y_min": 0.8916,
+            "x_max": 0.9191,
+            "y_max": 0.9514,
+            "width": 0.3554,
+            "height": 0.0598
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9821
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "Dual Nature of Radiation\nand Matter",
+          "bbox": {
+            "x_min": 0.5829,
+            "y_min": 0.0714,
+            "x_max": 0.8994,
+            "y_max": 0.1105,
+            "width": 0.3165,
+            "height": 0.0391
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "same energy. Photoelectric current is zero when the stopping potential is\nsufficient to repel even the most energetic photoelectrons, with the\nmaximum kinetic energy (Kmax), so that",
+          "bbox": {
+            "x_min": 0.0803,
+            "y_min": 0.1346,
+            "x_max": 0.7144,
+            "y_max": 0.1815,
+            "width": 0.6341,
+            "height": 0.0469
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "Kmax = e Vo",
+          "bbox": {
+            "x_min": 0.1105,
+            "y_min": 0.1888,
+            "x_max": 0.2059,
+            "y_max": 0.2017,
+            "width": 0.0954,
+            "height": 0.0129
+          },
+          "confidence": 0.9533
+        },
+        {
+          "text": "(11.1)",
+          "bbox": {
+            "x_min": 0.6597,
+            "y_min": 0.188,
+            "x_max": 0.715,
+            "y_max": 0.2013,
+            "width": 0.0553,
+            "height": 0.0133
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "We can now repeat this experiment with incident radiation of the same\nfrequency but of higher intensity I2 and I3 (I3 > I2 > I₁). We note that the\nsaturation currents are now found to be at higher values. This shows\nthat more electrons are being emitted per second, proportional to the\nintensity of incident radiation. But the stopping potential remains the\nsame as that for the incident radiation of intensity I₁, as shown graphically\nin Fig. 11.3. Thus, for a given frequency of the incident radiation, the\nstopping potential is independent of its intensity. In other words, the\nmaximum kinetic energy of photoelectrons depends on the light source\nand the emitter plate material, but is independent of intensity of incident\nradiation.",
+          "bbox": {
+            "x_min": 0.0803,
+            "y_min": 0.2086,
+            "x_max": 0.715,
+            "y_max": 0.3828,
+            "width": 0.6347,
+            "height": 0.1742
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "11.4.3 Effect of frequency of incident radiation on",
+          "bbox": {
+            "x_min": 0.082,
+            "y_min": 0.4004,
+            "x_max": 0.6382,
+            "y_max": 0.4151,
+            "width": 0.5561,
+            "height": 0.0146
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "stopping potential",
+          "bbox": {
+            "x_min": 0.1652,
+            "y_min": 0.4189,
+            "x_max": 0.3624,
+            "y_max": 0.4344,
+            "width": 0.1972,
+            "height": 0.0155
+          },
+          "confidence": 0.9974
+        },
+        {
+          "text": "ERT",
+          "bbox": {
+            "x_min": 0.4485,
+            "y_min": 0.3897,
+            "x_max": 0.6114,
+            "y_max": 0.5217,
+            "width": 0.1629,
+            "height": 0.132
+          },
+          "confidence": 0.9544
+        },
+        {
+          "text": "republished",
+          "bbox": {
+            "x_min": 0.47,
+            "y_min": 0.2946,
+            "x_max": 0.8709,
+            "y_max": 0.6249,
+            "width": 0.4008,
+            "height": 0.3303
+          },
+          "confidence": 0.9149
+        },
+        {
+          "text": "We now study the relation between the frequency\nv of the incident radiation and the stopping\npotential Vo. We suitably adjust the same\nintensity of light radiation at various frequencies\nand study the variation of photocurrent with\ncollector plate potential. The resulting variation\nis shown in Fig. 11.4. We obtain different values\nof stopping potential but the same value of the\nsaturation current for incident radiation of\ndifferent frequencies. The energy of the emitted\nelectrons depends on the frequency of the\nincident radiations. The stopping potential is\nmore negative for higher frequencies of incident\nradiation. Note from Fig. 11.4 that the stopping\npotentials are in the order V03 > V02 > V01 if the\nfrequencies are in the order v3 > V2 > V1 . This\nimplies that greater the frequency of incident\nlight, greater is the maximum kinetic energy of\nthe photoelectrons. Consequently, we need\ngreater retarding potential to stop them\ncompletely. If we plot a graph between the\nfrequency of incident radiation and the\ncorresponding stopping potential for different\nmetals we get a straight line, as shown in Fig. 11.5.\nThe graph shows that",
+          "bbox": {
+            "x_min": 0.0791,
+            "y_min": 0.4434,
+            "x_max": 0.4945,
+            "y_max": 0.8581,
+            "width": 0.4154,
+            "height": 0.4146
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "(i) the stopping potential Vo varies linearly with\nthe frequency of incident radiation for a given\nphotosensitive material.",
+          "bbox": {
+            "x_min": 0.0809,
+            "y_min": 0.8611,
+            "x_max": 0.4887,
+            "y_max": 0.9067,
+            "width": 0.4078,
+            "height": 0.0456
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "(ii) there exists a certain minimum cut-off\nfrequency vo for which the stopping potential",
+          "bbox": {
+            "x_min": 0.0809,
+            "y_min": 0.9127,
+            "x_max": 0.4916,
+            "y_max": 0.9441,
+            "width": 0.4107,
+            "height": 0.0314
+          },
+          "confidence": 0.982
+        },
+        {
+          "text": "is zero.",
+          "bbox": {
+            "x_min": 0.1117,
+            "y_min": 0.9467,
+            "x_max": 0.1722,
+            "y_max": 0.9561,
+            "width": 0.0605,
+            "height": 0.0095
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "-V01",
+          "bbox": {
+            "x_min": 0.6306,
+            "y_min": 0.5957,
+            "x_max": 0.6603,
+            "y_max": 0.6056,
+            "width": 0.0297,
+            "height": 0.0099
+          },
+          "confidence": 0.8973
+        },
+        {
+          "text": "1",
+          "bbox": {
+            "x_min": 0.6702,
+            "y_min": 0.5652,
+            "x_max": 0.6789,
+            "y_max": 0.572,
+            "width": 0.0087,
+            "height": 0.0069
+          },
+          "confidence": 0.9067
+        },
+        {
+          "text": "Retarding potential",
+          "bbox": {
+            "x_min": 0.5486,
+            "y_min": 0.6116,
+            "x_max": 0.6899,
+            "y_max": 0.6224,
+            "width": 0.1414,
+            "height": 0.0108
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "Saturation current",
+          "bbox": {
+            "x_min": 0.7842,
+            "y_min": 0.5424,
+            "x_max": 0.9209,
+            "y_max": 0.5505,
+            "width": 0.1367,
+            "height": 0.0082
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "0 Collector plate potential",
+          "bbox": {
+            "x_min": 0.6905,
+            "y_min": 0.5948,
+            "x_max": 0.8848,
+            "y_max": 0.606,
+            "width": 0.1943,
+            "height": 0.0112
+          },
+          "confidence": 0.9741
+        },
+        {
+          "text": "FIGURE 11.4 Variation of photoelectric current\nwith collector plate potential for different\nfrequencies of incident radiation.",
+          "bbox": {
+            "x_min": 0.5108,
+            "y_min": 0.6305,
+            "x_max": 0.9151,
+            "y_max": 0.674,
+            "width": 0.4043,
+            "height": 0.0434
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "Stopping\npotential\n(Vo)",
+          "bbox": {
+            "x_min": 0.5102,
+            "y_min": 0.7501,
+            "x_max": 0.5765,
+            "y_max": 0.7858,
+            "width": 0.0663,
+            "height": 0.0357
+          },
+          "confidence": 0.9644
+        },
+        {
+          "text": "Metal A",
+          "bbox": {
+            "x_min": 0.6579,
+            "y_min": 0.7716,
+            "x_max": 0.7202,
+            "y_max": 0.7794,
+            "width": 0.0622,
+            "height": 0.0077
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "V > Vo",
+          "bbox": {
+            "x_min": 0.6143,
+            "y_min": 0.7983,
+            "x_max": 0.6527,
+            "y_max": 0.8047,
+            "width": 0.0384,
+            "height": 0.0065
+          },
+          "confidence": 0.6991
+        },
+        {
+          "text": "Metal B",
+          "bbox": {
+            "x_min": 0.7632,
+            "y_min": 0.7974,
+            "x_max": 0.8266,
+            "y_max": 0.8056,
+            "width": 0.0634,
+            "height": 0.0082
+          },
+          "confidence": 0.9843
+        },
+        {
+          "text": "v > V",
+          "bbox": {
+            "x_min": 0.7586,
+            "y_min": 0.8185,
+            "x_max": 0.7935,
+            "y_max": 0.8245,
+            "width": 0.0349,
+            "height": 0.006
+          },
+          "confidence": 0.5137
+        },
+        {
+          "text": "Vo",
+          "bbox": {
+            "x_min": 0.6143,
+            "y_min": 0.8335,
+            "x_max": 0.6271,
+            "y_max": 0.8404,
+            "width": 0.0128,
+            "height": 0.0069
+          },
+          "confidence": 0.9566
+        },
+        {
+          "text": "0",
+          "bbox": {
+            "x_min": 0.5672,
+            "y_min": 0.8465,
+            "x_max": 0.5777,
+            "y_max": 0.8538,
+            "width": 0.0105,
+            "height": 0.0073
+          },
+          "confidence": 0.922
+        },
+        {
+          "text": "Vó",
+          "bbox": {
+            "x_min": 0.6742,
+            "y_min": 0.834,
+            "x_max": 0.6888,
+            "y_max": 0.8404,
+            "width": 0.0145,
+            "height": 0.0065
+          },
+          "confidence": 0.6574
+        },
+        {
+          "text": "Frequency of incident radiation (v)",
+          "bbox": {
+            "x_min": 0.6172,
+            "y_min": 0.8499,
+            "x_max": 0.8796,
+            "y_max": 0.8615,
+            "width": 0.2624,
+            "height": 0.0116
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "FIGURE 11.5 Variation of stopping potential V\nwith frequency v of incident radiation for a\ngiven photosensitive material.",
+          "bbox": {
+            "x_min": 0.5113,
+            "y_min": 0.8951,
+            "x_max": 0.9092,
+            "y_max": 0.9372,
+            "width": 0.3979,
+            "height": 0.0422
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "279",
+          "bbox": {
+            "x_min": 0.8656,
+            "y_min": 0.9394,
+            "x_max": 0.9011,
+            "y_max": 0.9488,
+            "width": 0.0355,
+            "height": 0.0095
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9821
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "280",
+          "bbox": {
+            "x_min": 0.096,
+            "y_min": 0.9394,
+            "x_max": 0.135,
+            "y_max": 0.9488,
+            "width": 0.039,
+            "height": 0.0095
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.196,
+            "y_min": 0.0925,
+            "x_max": 0.3118,
+            "y_max": 0.1157,
+            "width": 0.1158,
+            "height": 0.0232
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "These observations have two implications:",
+          "bbox": {
+            "x_min": 0.2833,
+            "y_min": 0.1355,
+            "x_max": 0.6539,
+            "y_max": 0.148,
+            "width": 0.3706,
+            "height": 0.0125
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "(i) The maximum kinetic energy of the photoelectrons varies linearly\nwith the frequency of incident radiation, but is independent of its\nintensity.",
+          "bbox": {
+            "x_min": 0.2845,
+            "y_min": 0.1544,
+            "x_max": 0.9191,
+            "y_max": 0.2017,
+            "width": 0.6347,
+            "height": 0.0473
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "(ii) For a frequency v of incident radiation, lower than the cut-off\nfrequency vo, no photoelectric emission is possible even if the\nintensity is large.",
+          "bbox": {
+            "x_min": 0.2839,
+            "y_min": 0.2077,
+            "x_max": 0.922,
+            "y_max": 0.2555,
+            "width": 0.6382,
+            "height": 0.0477
+          },
+          "confidence": 0.9864
+        },
+        {
+          "text": "This minimum, cut-off frequency vo, is called the threshold frequency.\nIt is different for different metals.",
+          "bbox": {
+            "x_min": 0.2839,
+            "y_min": 0.2594,
+            "x_max": 0.9174,
+            "y_max": 0.2865,
+            "width": 0.6335,
+            "height": 0.0271
+          },
+          "confidence": 0.9824
+        },
+        {
+          "text": "Different photosensitive materials respond differently to light. Selenium\nis more sensitive than zinc or copper. The same photosensitive substance\ngives different response to light of different wavelengths. For example,\nultraviolet light gives rise to photoelectric effect in copper while green or\nred light does not.",
+          "bbox": {
+            "x_min": 0.2839,
+            "y_min": 0.2933,
+            "x_max": 0.9186,
+            "y_max": 0.3738,
+            "width": 0.6347,
+            "height": 0.0804
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "Note that in all the above experiments, it is found that, if frequency of\nthe incident radiation exceeds the threshold frequency, the photoelectric\nemission starts instantaneously without any apparent time lag, even if\nthe incident radiation is very dim. It is now known that emission starts in\na time of the order of 10¯º s or less.",
+          "bbox": {
+            "x_min": 0.2839,
+            "y_min": 0.3776,
+            "x_max": 0.9203,
+            "y_max": 0.4559,
+            "width": 0.6364,
+            "height": 0.0783
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "We now summarise the experimental features and observations\ndescribed in this section.",
+          "bbox": {
+            "x_min": 0.2839,
+            "y_min": 0.4632,
+            "x_max": 0.918,
+            "y_max": 0.4903,
+            "width": 0.6341,
+            "height": 0.0271
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "(i) For a given photosensitive material and frequency of incident radiation\n(above the threshold frequency), the photoelectric current is directly\nproportional to the intensity of incident light (Fig. 11.2).",
+          "bbox": {
+            "x_min": 0.2839,
+            "y_min": 0.4959,
+            "x_max": 0.918,
+            "y_max": 0.5441,
+            "width": 0.6341,
+            "height": 0.0482
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "(ii) For a given photosensitive material and frequency of incident radiation,\nsaturation current is found to be proportional to the intensity of\nincident radiation whereas the stopping potential is independent of\nits intensity (Fig. 11.3).",
+          "bbox": {
+            "x_min": 0.2839,
+            "y_min": 0.5467,
+            "x_max": 0.9203,
+            "y_max": 0.6116,
+            "width": 0.6364,
+            "height": 0.0649
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "(iii) For a given photosensitive material, there exists a certain minimum\ncut-off frequency of the incident radiation, called the threshold\nfrequency, below which no emission of photoelectrons takes place,\nno matter how intense the incident light is. Above the threshold\nfrequency, the stopping potential or equivalently the maximum kinetic\nenergy of the emitted photoelectrons increases linearly with the\nfrequency of the incident radiation, but is independent of its intensity\n(Fig. 11.5).",
+          "bbox": {
+            "x_min": 0.2839,
+            "y_min": 0.6133,
+            "x_max": 0.9203,
+            "y_max": 0.748,
+            "width": 0.6364,
+            "height": 0.1346
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1931,
+            "y_min": 0.7088,
+            "x_max": 0.3287,
+            "y_max": 0.8155,
+            "width": 0.1355,
+            "height": 0.1067
+          },
+          "confidence": 0.9587
+        },
+        {
+          "text": "(iv) The photoelectric emission is an instantaneous process without any\napparent time lag (~10¯ºs or less), even when the incident radiation is\nmade exceedingly dim.",
+          "bbox": {
+            "x_min": 0.2845,
+            "y_min": 0.7505,
+            "x_max": 0.9186,
+            "y_max": 0.7983,
+            "width": 0.6341,
+            "height": 0.0477
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "11.5 PHOTOELECTRIC EFFECT AND WAVE THEORY\nOF LIGHT",
+          "bbox": {
+            "x_min": 0.2868,
+            "y_min": 0.8069,
+            "x_max": 0.8959,
+            "y_max": 0.84,
+            "width": 0.6091,
+            "height": 0.0331
+          },
+          "confidence": 0.9376
+        },
+        {
+          "text": "The wave nature of light was well established by the end of the nineteenth\ncentury. The phenomena of interference, diffraction and polarisation were\nexplained in a natural and satisfactory way by the wave picture of light.\nAccording to this picture, light is an electromagnetic wave consisting of\nelectric and magnetic fields with continuous distribution of energy over\nthe region of space over which the wave is extended. Let us now see if this",
+          "bbox": {
+            "x_min": 0.2827,
+            "y_min": 0.8508,
+            "x_max": 0.9191,
+            "y_max": 0.9488,
+            "width": 0.6364,
+            "height": 0.0981
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9821
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "Dual Nature of Radiation\nand Matter",
+          "bbox": {
+            "x_min": 0.5829,
+            "y_min": 0.0718,
+            "x_max": 0.8999,
+            "y_max": 0.1105,
+            "width": 0.317,
+            "height": 0.0387
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "wave picture of light can explain the observations on photoelectric\nemission given in the previous section.",
+          "bbox": {
+            "x_min": 0.0803,
+            "y_min": 0.1351,
+            "x_max": 0.7155,
+            "y_max": 0.1656,
+            "width": 0.6353,
+            "height": 0.0305
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "According to the wave picture of light, the free electrons at the surface\nof the metal (over which the beam of radiation falls) absorb the radiant\nenergy continuously. The greater the intensity of radiation, the greater are\nthe amplitude of electric and magnetic fields. Consequently, the greater\nthe intensity, the greater should be the energy absorbed by each electron.\nIn this picture, the maximum kinetic energy of the photoelectrons on the\nsurface is then expected to increase with increase in intensity. Also, no\nmatter what the frequency of radiation is, a sufficiently intense beam of\nradiation (over sufficient time) should be able to impart enough energy to\nthe electrons, so that they exceed the minimum energy needed to escape\nfrom the metal surface . A threshold frequency, therefore, should not exist.\nThese expectations of the wave theory directly contradict observations (i),\n(ii) and (iii) given at the end of sub-section 11.4.3.",
+          "bbox": {
+            "x_min": 0.0803,
+            "y_min": 0.1682,
+            "x_max": 0.7167,
+            "y_max": 0.3798,
+            "width": 0.6364,
+            "height": 0.2116
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "paysda",
+          "bbox": {
+            "x_min": 0.5079,
+            "y_min": 0.3037,
+            "x_max": 0.8714,
+            "y_max": 0.5983,
+            "width": 0.3636,
+            "height": 0.2946
+          },
+          "confidence": 0.6342
+        },
+        {
+          "text": "Further, we should note that in the wave picture, the absorption of\nenergy by electron takes place continuously over the entire\nwavefront of the radiation. Since a large number of electrons absorb energy,\nthe energy absorbed per electron per unit time turns out to be small.\nExplicit calculations estimate that it can take hours or more for a single\nelectron to pick up sufficient energy to overcome the work function and\ncome out of the metal. This conclusion is again in striking contrast to\nobservation (iv) that the photoelectric emission is instantaneous. In short,\nthe wave picture is unable to explain the most basic features of\nphotoelectric emission.",
+          "bbox": {
+            "x_min": 0.0803,
+            "y_min": 0.3824,
+            "x_max": 0.7167,
+            "y_max": 0.5432,
+            "width": 0.6364,
+            "height": 0.1609
+          },
+          "confidence": 0.9969
+        },
+        {
+          "text": "11.6 EINSTEIN'S PHOTOELECTRIC EQUATION: ENERGY",
+          "bbox": {
+            "x_min": 0.0844,
+            "y_min": 0.5587,
+            "x_max": 0.7155,
+            "y_max": 0.5763,
+            "width": 0.6312,
+            "height": 0.0176
+          },
+          "confidence": 0.9652
+        },
+        {
+          "text": "QUANTUM OF RADIATION",
+          "bbox": {
+            "x_min": 0.1658,
+            "y_min": 0.5806,
+            "x_max": 0.4549,
+            "y_max": 0.6047,
+            "width": 0.2891,
+            "height": 0.0241
+          },
+          "confidence": 0.9525
+        },
+        {
+          "text": "In 1905, Albert Einstein (1879-1955) proposed a radically new picture\nof electromagnetic radiation to explain photoelectric effect. In this picture,\nphotoelectric emission does not take place by continuous absorption of\nenergy from radiation. Radiation energy is built up of discrete units – the\nso called quanta of energy of radiation. Each quantum of radiant energy\nhas energy hv, where his Planck's constant and v the frequency of light.\nIn photoelectric effect, an electron absorbs a quantum of energy (hv) of\nradiation. If this quantum of energy absorbed exceeds the minimum\nenergy needed for the electron to escape from the metal surface (work\nfunction ), the electron is emitted with maximum kinetic energy",
+          "bbox": {
+            "x_min": 0.0814,
+            "y_min": 0.612,
+            "x_max": 0.7167,
+            "y_max": 0.7746,
+            "width": 0.6353,
+            "height": 0.1626
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "Kmax = hv – Φο",
+          "bbox": {
+            "x_min": 0.1129,
+            "y_min": 0.7815,
+            "x_max": 0.2298,
+            "y_max": 0.7957,
+            "width": 0.1169,
+            "height": 0.0142
+          },
+          "confidence": 0.7891
+        },
+        {
+          "text": "(11.2)",
+          "bbox": {
+            "x_min": 0.6603,
+            "y_min": 0.7811,
+            "x_max": 0.7144,
+            "y_max": 0.794,
+            "width": 0.0541,
+            "height": 0.0129
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "More tightly bound electrons will emerge with kinetic energies less\nthan the maximum value. Note that the intensity of light of a given\nfrequency is determined by the number of photons incident per second.\nIncreasing the intensity will increase the number of emitted electrons per\nsecond. However, the maximum kinetic energy of the emitted\nphotoelectrons is determined by the energy of each photon.",
+          "bbox": {
+            "x_min": 0.0814,
+            "y_min": 0.8017,
+            "x_max": 0.7155,
+            "y_max": 0.8976,
+            "width": 0.6341,
+            "height": 0.0959
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "Equation (11.2) is known as Einstein's photoelectric equation. We\nnow see how this equation accounts in a simple and elegant manner all\nthe observations on photoelectric effect given at the end of sub-section\n11.4.3.",
+          "bbox": {
+            "x_min": 0.0803,
+            "y_min": 0.9011,
+            "x_max": 0.715,
+            "y_max": 0.96,
+            "width": 0.6347,
+            "height": 0.0589
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "281",
+          "bbox": {
+            "x_min": 0.8639,
+            "y_min": 0.9394,
+            "x_max": 0.9023,
+            "y_max": 0.9484,
+            "width": 0.0384,
+            "height": 0.009
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9821
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "■ Physics",
+          "bbox": {
+            "x_min": 0.1443,
+            "y_min": 0.0925,
+            "x_max": 0.3112,
+            "y_max": 0.1157,
+            "width": 0.167,
+            "height": 0.0232
+          },
+          "confidence": 0.9066
+        },
+        {
+          "text": "Albert Einstein (1879\n1955) Einstein, one of the\ngreatest physicists of all\ntime, was born in Ulm,\nGermany. In 1905, he\npublished three path-\nbreaking papers. In the\nfirst paper, he introduced\nthe notion of light quanta\n(now called photons) and\nused it to explain the\nfeatures of photoelectric\neffect. In the second paper,\nhe developed a theory of",
+          "bbox": {
+            "x_min": 0.1489,
+            "y_min": 0.3462,
+            "x_max": 0.3805,
+            "y_max": 0.5368,
+            "width": 0.2315,
+            "height": 0.1905
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "Brownian",
+          "bbox": {
+            "x_min": 0.1495,
+            "y_min": 0.5394,
+            "x_max": 0.2391,
+            "y_max": 0.5471,
+            "width": 0.0896,
+            "height": 0.0077
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "motion,\nconfirmed experimentally a\nfew years later and provided\na convincing evidence of\nthe atomic picture of matter.\nThe third paper gave birth\nto the special theory of\nrelativity. In 1916, he\npublished the general\ntheory of relativity. Some of\nEinstein's most significant\nlater contributions are: the\nnotion of stimulated\nemission introduced in an\nalternative derivation of\nPlanck's\nblackbody\nradiation law, static model\nof the universe which\nstarted modern cosmology,\nquantum statistics of a gas\nof massive bosons, and a\ncritical analysis of the\nfoundations of quantum\nmechanics. In 1921, he was\nawarded the Nobel Prize in\nphysics for his contribution\nto theoretical physics and\nthe photoelectric effect.",
+          "bbox": {
+            "x_min": 0.1489,
+            "y_min": 0.5398,
+            "x_max": 0.381,
+            "y_max": 0.92,
+            "width": 0.2321,
+            "height": 0.3802
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "•",
+          "bbox": {
+            "x_min": 0.4223,
+            "y_min": 0.1385,
+            "x_max": 0.4311,
+            "y_max": 0.1432,
+            "width": 0.0087,
+            "height": 0.0047
+          },
+          "confidence": 0.8928
+        },
+        {
+          "text": "•",
+          "bbox": {
+            "x_min": 0.4223,
+            "y_min": 0.2701,
+            "x_max": 0.4305,
+            "y_max": 0.2744,
+            "width": 0.0081,
+            "height": 0.0043
+          },
+          "confidence": 0.8232
+        },
+        {
+          "text": "•",
+          "bbox": {
+            "x_min": 0.4229,
+            "y_min": 0.4942,
+            "x_max": 0.4305,
+            "y_max": 0.4985,
+            "width": 0.0076,
+            "height": 0.0043
+          },
+          "confidence": 0.7744
+        },
+        {
+          "text": "According to Eq. (11.2), Kmax depends linearly on v,\nand is independent of intensity of radiation, in\nagreement with observation. This has happened\nbecause in Einstein's picture, photoelectric effect arises\nfrom the absorption of a single quantum of radiation\nby a single electron. The intensity of radiation (that is\nproportional to the number of energy quanta per unit\narea per unit time) is irrelevant to this basic process.\nSince Kmax must be non-negative, Eq. (11.2) implies\nthat photoelectric emission is possible only if\nhv > Φο",
+          "bbox": {
+            "x_min": 0.4508,
+            "y_min": 0.1351,
+            "x_max": 0.918,
+            "y_max": 0.3127,
+            "width": 0.4671,
+            "height": 0.1776
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "orv>vo, where",
+          "bbox": {
+            "x_min": 0.4532,
+            "y_min": 0.3161,
+            "x_max": 0.5957,
+            "y_max": 0.3295,
+            "width": 0.1425,
+            "height": 0.0133
+          },
+          "confidence": 0.8734
+        },
+        {
+          "text": "Vo =",
+          "bbox": {
+            "x_min": 0.4532,
+            "y_min": 0.3505,
+            "x_max": 0.4846,
+            "y_max": 0.3609,
+            "width": 0.0314,
+            "height": 0.0103
+          },
+          "confidence": 0.8742
+        },
+        {
+          "text": "Фо",
+          "bbox": {
+            "x_min": 0.4945,
+            "y_min": 0.3381,
+            "x_max": 0.5102,
+            "y_max": 0.351,
+            "width": 0.0157,
+            "height": 0.0129
+          },
+          "confidence": 0.5636
+        },
+        {
+          "text": "h",
+          "bbox": {
+            "x_min": 0.4939,
+            "y_min": 0.357,
+            "x_max": 0.5102,
+            "y_max": 0.3669,
+            "width": 0.0163,
+            "height": 0.0099
+          },
+          "confidence": 0.9602
+        },
+        {
+          "text": "(11.3)",
+          "bbox": {
+            "x_min": 0.8639,
+            "y_min": 0.3471,
+            "x_max": 0.9186,
+            "y_max": 0.3604,
+            "width": 0.0547,
+            "height": 0.0133
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "Equation (11.3) shows that the greater the work\nfunction do, the higher the minimum or threshold\nfrequency vo needed to emit photoelectrons. Thus,\nthere exists a threshold frequency vo (= φ‰/h) for the\nmetal surface, below which no photoelectric emission\nis possible, no matter how intense the incident\nradiation may be or how long it falls on the surface.\nIn this picture, intensity of radiation as noted above,\nis proportional to the number of energy quanta per\nunit area per unit time. The greater the number of\nenergy quanta available, the greater is the number of\nelectrons absorbing the energy quanta and greater,\ntherefore, is the number of electrons coming out of\nthe metal (for v > vo). This explains why, for v > vo,\nphotoelectric current is proportional to intensity.\nIn Einstein's picture, the basic elementary process\ninvolved in photoelectric effect is the absorption of a\nlight quantum by an electron. This process is\ninstantaneous. Thus, whatever may be the intensity",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.3738,
+            "x_max": 0.9197,
+            "y_max": 0.6847,
+            "width": 0.4671,
+            "height": 0.311
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "i.e., the number of quanta of radiation per unit area\nper unit time, photoelectric emission is instantaneous.\nLow intensity does not mean delay in emission, since\nthe basic elementary process is the same. Intensity\nonly determines how many electrons are able to\nparticipate in the elementary process (absorption of a\nlight quantum by a single electron) and, therefore, the\nphotoelectric current.",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.689,
+            "x_max": 0.9197,
+            "y_max": 0.8163,
+            "width": 0.4671,
+            "height": 0.1273
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "Using Eq. (11.1), the photoelectric equation, Eq. (11.2),\ncan be written as",
+          "bbox": {
+            "x_min": 0.4223,
+            "y_min": 0.8202,
+            "x_max": 0.9168,
+            "y_max": 0.8465,
+            "width": 0.4945,
+            "height": 0.0262
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "e Vo = hv - φο; for v≥ νο",
+          "bbox": {
+            "x_min": 0.4555,
+            "y_min": 0.8572,
+            "x_max": 0.6731,
+            "y_max": 0.871,
+            "width": 0.2176,
+            "height": 0.0138
+          },
+          "confidence": 0.6636
+        },
+        {
+          "text": "h\nor V = V-",
+          "bbox": {
+            "x_min": 0.4543,
+            "y_min": 0.8877,
+            "x_max": 0.5829,
+            "y_max": 0.9062,
+            "width": 0.1286,
+            "height": 0.0185
+          },
+          "confidence": 0.851
+        },
+        {
+          "text": "e",
+          "bbox": {
+            "x_min": 0.5375,
+            "y_min": 0.9097,
+            "x_max": 0.5503,
+            "y_max": 0.9157,
+            "width": 0.0128,
+            "height": 0.006
+          },
+          "confidence": 0.9508
+        },
+        {
+          "text": "e",
+          "bbox": {
+            "x_min": 0.5969,
+            "y_min": 0.9097,
+            "x_max": 0.6097,
+            "y_max": 0.9157,
+            "width": 0.0128,
+            "height": 0.006
+          },
+          "confidence": 0.927
+        },
+        {
+          "text": "(11.4)",
+          "bbox": {
+            "x_min": 0.8621,
+            "y_min": 0.8942,
+            "x_max": 0.9168,
+            "y_max": 0.9075,
+            "width": 0.0547,
+            "height": 0.0133
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "This is an important result. It predicts that the Vo\nversus v curve is a straight line with slope = (h/e),",
+          "bbox": {
+            "x_min": 0.4218,
+            "y_min": 0.9226,
+            "x_max": 0.918,
+            "y_max": 0.9523,
+            "width": 0.4962,
+            "height": 0.0297
+          },
+          "confidence": 0.9817
+        },
+        {
+          "text": "ALBERT EINSTEIN (1879 – 1955)",
+          "bbox": {
+            "x_min": 0.0913,
+            "y_min": 0.6267,
+            "x_max": 0.1123,
+            "y_max": 0.9041,
+            "width": 0.0209,
+            "height": 0.2774
+          },
+          "confidence": 0.9814
+        },
+        {
+          "text": "282",
+          "bbox": {
+            "x_min": 0.0971,
+            "y_min": 0.9394,
+            "x_max": 0.1355,
+            "y_max": 0.9488,
+            "width": 0.0384,
+            "height": 0.0095
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9819
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "Dual Nature of Radiation\nand Matter",
+          "bbox": {
+            "x_min": 0.5829,
+            "y_min": 0.0718,
+            "x_max": 0.8999,
+            "y_max": 0.1105,
+            "width": 0.317,
+            "height": 0.0387
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "independent of the nature of the material. During 1906-1916, Millikan\nperformed a series of experiments on photoelectric effect, aimed at disproving\nEinstein's photoelectric equation. He measured the slope of the straight\nline obtained for sodium, similar to that shown in Fig. 11.5. Using the\nknown value of e, he determined the value of Planck's constant h. This\nvalue was close to the value of Planck's contant (= 6.626 × 10~34Js)\ndetermined in an entirely different context. In this way, in 1916, Millikan\nproved the validity of Einstein's photoelectric equation, instead of\ndisproving it.",
+          "bbox": {
+            "x_min": 0.0809,
+            "y_min": 0.1351,
+            "x_max": 0.7161,
+            "y_max": 0.2822,
+            "width": 0.6353,
+            "height": 0.1471
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "The successful explanation of photoelectric effect using the hypothesis\nof light quanta and the experimental determination of values of hand φο,\nin agreement with values obtained from other experiments, led to the\nacceptance of Einstein's picture of photoelectric effect. Millikan verified\nphotoelectric equation with great precision, for a number of alkali metals\nover a wide range of radiation frequencies.",
+          "bbox": {
+            "x_min": 0.0809,
+            "y_min": 0.2856,
+            "x_max": 0.715,
+            "y_max": 0.3819,
+            "width": 0.6341,
+            "height": 0.0963
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "11.7 PARTICLE NATURE OF LIGHT: THE PHOTON",
+          "bbox": {
+            "x_min": 0.0838,
+            "y_min": 0.397,
+            "x_max": 0.6736,
+            "y_max": 0.4125,
+            "width": 0.5899,
+            "height": 0.0155
+          },
+          "confidence": 0.981
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6853,
+            "y_min": 0.3075,
+            "x_max": 0.8674,
+            "y_max": 0.4452,
+            "width": 0.1821,
+            "height": 0.1376
+          },
+          "confidence": 0.9835
+        },
+        {
+          "text": "Photoelectric effect thus gave evidence to the strange fact that light in\ninteraction with matter behaved as if it was made of quanta or packets of\nenergy, each of energy h v.",
+          "bbox": {
+            "x_min": 0.0814,
+            "y_min": 0.4262,
+            "x_max": 0.7173,
+            "y_max": 0.4731,
+            "width": 0.6358,
+            "height": 0.0469
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "Is the light quantum of energy to be associated with a particle? Einstein\narrived at the important result, that the light quantum can also be\nassociated with momentum (h v/c). A definite value of energy as well as\nmomentum is a strong sign that the light quantum can be associated\nwith a particle. This particle was later named photon. The particle-like\nbehaviour of light was further confirmed, in 1924, by the experiment of\nA.H. Compton (1892-1962) on scattering of X-rays from electrons. In\n1921, Einstein was awarded the Nobel Prize in Physics for his contribution\nto theoretical physics and the photoelectric effect. In 1923, Millikan was\nawarded the Nobel Prize in physics for his work on the elementary\ncharge of electricity and on the photoelectric effect.",
+          "bbox": {
+            "x_min": 0.0803,
+            "y_min": 0.4748,
+            "x_max": 0.7161,
+            "y_max": 0.6503,
+            "width": 0.6358,
+            "height": 0.1755
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "We can summarise the photon picture of electromagnetic radiation\nas follows:",
+          "bbox": {
+            "x_min": 0.0814,
+            "y_min": 0.6538,
+            "x_max": 0.715,
+            "y_max": 0.6796,
+            "width": 0.6335,
+            "height": 0.0258
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "(i) In interaction of radiation with matter, radiation behaves as if it is\nmade up of particles called photons.",
+          "bbox": {
+            "x_min": 0.0814,
+            "y_min": 0.6852,
+            "x_max": 0.7155,
+            "y_max": 0.7153,
+            "width": 0.6341,
+            "height": 0.0301
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "(ii) Each photon has energy E (=hv) and momentum p (= h v/c), and\nspeed c, the speed of light.",
+          "bbox": {
+            "x_min": 0.082,
+            "y_min": 0.7174,
+            "x_max": 0.7144,
+            "y_max": 0.7475,
+            "width": 0.6323,
+            "height": 0.0301
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "(iii) All photons of light of a particular frequency v, or wavelength λ, have\nthe same energy_E (=hv = hc/^) and momentum p (= hv/c= h/λ),\nwhatever the intensity of radiation may be. By increasing the intensity\nof light of given wavelength, there is only an increase in the number of\nphotons per second crossing a given area, with each photon having\nthe same energy. Thus, photon energy is independent of intensity of",
+          "bbox": {
+            "x_min": 0.0814,
+            "y_min": 0.7501,
+            "x_max": 0.7167,
+            "y_max": 0.8447,
+            "width": 0.6353,
+            "height": 0.0946
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "radiation.",
+          "bbox": {
+            "x_min": 0.1129,
+            "y_min": 0.8482,
+            "x_max": 0.1972,
+            "y_max": 0.8572,
+            "width": 0.0844,
+            "height": 0.009
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "(iv) Photons are electrically neutral and are not deflected by electric and\nmagnetic fields.",
+          "bbox": {
+            "x_min": 0.0814,
+            "y_min": 0.8628,
+            "x_max": 0.715,
+            "y_max": 0.8929,
+            "width": 0.6335,
+            "height": 0.0301
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "(v) In a photon-particle collision (such as photon-electron collision), the\ntotal energy and total momentum are conserved. However, the number\nof photons may not be conserved in a collision. The photon may be\nabsorbed or a new photon may be created.",
+          "bbox": {
+            "x_min": 0.0814,
+            "y_min": 0.8955,
+            "x_max": 0.7155,
+            "y_max": 0.9578,
+            "width": 0.6341,
+            "height": 0.0624
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9821
+        },
+        {
+          "text": "283",
+          "bbox": {
+            "x_min": 0.8656,
+            "y_min": 0.9394,
+            "x_max": 0.9011,
+            "y_max": 0.9488,
+            "width": 0.0355,
+            "height": 0.0095
+          },
+          "confidence": 0.9938
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "EXAMPLE 11.1",
+          "bbox": {
+            "x_min": 0.2437,
+            "y_min": 0.2847,
+            "x_max": 0.2565,
+            "y_max": 0.3742,
+            "width": 0.0128,
+            "height": 0.0895
+          },
+          "confidence": 0.9702
+        },
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.1955,
+            "y_min": 0.092,
+            "x_max": 0.3118,
+            "y_max": 0.1157,
+            "width": 0.1163,
+            "height": 0.0237
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "Example 11.1 Monochromatic light of frequency 6.0 ×1014 Hz is\nproduced by a laser. The power emitted is 2.0 ×10¯³ W. (a) What is the\nenergy of a photon in the light beam? (b) How many photons per second,\non an average, are emitted by the source?",
+          "bbox": {
+            "x_min": 0.306,
+            "y_min": 0.1454,
+            "x_max": 0.8866,
+            "y_max": 0.2052,
+            "width": 0.5806,
+            "height": 0.0598
+          },
+          "confidence": 0.9818
+        },
+        {
+          "text": "Solution",
+          "bbox": {
+            "x_min": 0.3048,
+            "y_min": 0.2151,
+            "x_max": 0.3822,
+            "y_max": 0.2249,
+            "width": 0.0774,
+            "height": 0.0099
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "(a) Each photon has an energy",
+          "bbox": {
+            "x_min": 0.306,
+            "y_min": 0.2301,
+            "x_max": 0.5724,
+            "y_max": 0.2422,
+            "width": 0.2664,
+            "height": 0.012
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "E = h v = (6.63 ×10-34 J s) (6.0 ×1014 Hz)\n= 3.98 x 10-19 J",
+          "bbox": {
+            "x_min": 0.338,
+            "y_min": 0.2422,
+            "x_max": 0.6736,
+            "y_max": 0.2697,
+            "width": 0.3357,
+            "height": 0.0275
+          },
+          "confidence": 0.8942
+        },
+        {
+          "text": "(b) If N is the number of photons emitted by the source per second,\nthe power P transmitted in the beam equals N times the energy\nper photon E, so that P = N E. Then",
+          "bbox": {
+            "x_min": 0.3066,
+            "y_min": 0.274,
+            "x_max": 0.8871,
+            "y_max": 0.317,
+            "width": 0.5806,
+            "height": 0.043
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "P",
+          "bbox": {
+            "x_min": 0.3857,
+            "y_min": 0.326,
+            "x_max": 0.3979,
+            "y_max": 0.3372,
+            "width": 0.0122,
+            "height": 0.0112
+          },
+          "confidence": 0.7885
+        },
+        {
+          "text": "2.0×10-3 W",
+          "bbox": {
+            "x_min": 0.42,
+            "y_min": 0.3256,
+            "x_max": 0.5102,
+            "y_max": 0.3368,
+            "width": 0.0902,
+            "height": 0.0112
+          },
+          "confidence": 0.8688
+        },
+        {
+          "text": "N =",
+          "bbox": {
+            "x_min": 0.3473,
+            "y_min": 0.3376,
+            "x_max": 0.3764,
+            "y_max": 0.3458,
+            "width": 0.0291,
+            "height": 0.0082
+          },
+          "confidence": 0.9403
+        },
+        {
+          "text": "Ε 3.98×10-19 J",
+          "bbox": {
+            "x_min": 0.3857,
+            "y_min": 0.3437,
+            "x_max": 0.5154,
+            "y_max": 0.3548,
+            "width": 0.1297,
+            "height": 0.0112
+          },
+          "confidence": 0.8964
+        },
+        {
+          "text": "= 5.0 ×1015 photons per second.",
+          "bbox": {
+            "x_min": 0.3694,
+            "y_min": 0.3617,
+            "x_max": 0.6294,
+            "y_max": 0.3768,
+            "width": 0.26,
+            "height": 0.0151
+          },
+          "confidence": 0.9747
+        },
+        {
+          "text": "ed",
+          "bbox": {
+            "x_min": 0.7557,
+            "y_min": 0.3054,
+            "x_max": 0.8749,
+            "y_max": 0.3918,
+            "width": 0.1193,
+            "height": 0.0865
+          },
+          "confidence": 0.9673
+        },
+        {
+          "text": "Example 11.2 The work function of caesium is 2.14 eV. Find (a) the\nthreshold frequency for caesium, and (b) the wavelength of the incident\nlight if the photocurrent is brought to zero by a stopping potential of\n0.60 V.",
+          "bbox": {
+            "x_min": 0.3054,
+            "y_min": 0.4017,
+            "x_max": 0.8889,
+            "y_max": 0.4555,
+            "width": 0.5835,
+            "height": 0.0538
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "Solution",
+          "bbox": {
+            "x_min": 0.3048,
+            "y_min": 0.4684,
+            "x_max": 0.3828,
+            "y_max": 0.4778,
+            "width": 0.078,
+            "height": 0.0095
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "(a) For the cut-off or threshold frequency, the energy h vo of the incident\nradiation must be equal to work function Φο, so that",
+          "bbox": {
+            "x_min": 0.306,
+            "y_min": 0.4834,
+            "x_max": 0.8877,
+            "y_max": 0.5105,
+            "width": 0.5817,
+            "height": 0.0271
+          },
+          "confidence": 0.9703
+        },
+        {
+          "text": "Vo =",
+          "bbox": {
+            "x_min": 0.3368,
+            "y_min": 0.5265,
+            "x_max": 0.3694,
+            "y_max": 0.5355,
+            "width": 0.0326,
+            "height": 0.009
+          },
+          "confidence": 0.9218
+        },
+        {
+          "text": "=",
+          "bbox": {
+            "x_min": 0.3688,
+            "y_min": 0.5712,
+            "x_max": 0.3752,
+            "y_max": 0.5738,
+            "width": 0.0064,
+            "height": 0.0026
+          },
+          "confidence": 0.9013
+        },
+        {
+          "text": "Фо",
+          "bbox": {
+            "x_min": 0.3816,
+            "y_min": 0.5187,
+            "x_max": 0.3967,
+            "y_max": 0.5303,
+            "width": 0.0151,
+            "height": 0.0116
+          },
+          "confidence": 0.5438
+        },
+        {
+          "text": "h",
+          "bbox": {
+            "x_min": 0.3834,
+            "y_min": 0.5355,
+            "x_max": 0.3967,
+            "y_max": 0.5441,
+            "width": 0.0134,
+            "height": 0.0086
+          },
+          "confidence": 0.9499
+        },
+        {
+          "text": "2.14 eV",
+          "bbox": {
+            "x_min": 0.4491,
+            "y_min": 0.5187,
+            "x_max": 0.5044,
+            "y_max": 0.5277,
+            "width": 0.0553,
+            "height": 0.009
+          },
+          "confidence": 0.9652
+        },
+        {
+          "text": "=",
+          "bbox": {
+            "x_min": 0.4043,
+            "y_min": 0.5303,
+            "x_max": 0.4136,
+            "y_max": 0.5338,
+            "width": 0.0093,
+            "height": 0.0034
+          },
+          "confidence": 0.9408
+        },
+        {
+          "text": "6.63×10-34 Js",
+          "bbox": {
+            "x_min": 0.4247,
+            "y_min": 0.5333,
+            "x_max": 0.5288,
+            "y_max": 0.5445,
+            "width": 0.1041,
+            "height": 0.0112
+          },
+          "confidence": 0.8567
+        },
+        {
+          "text": "2.14×1.6×10-19J",
+          "bbox": {
+            "x_min": 0.3816,
+            "y_min": 0.5574,
+            "x_max": 0.5177,
+            "y_max": 0.5695,
+            "width": 0.1361,
+            "height": 0.012
+          },
+          "confidence": 0.9166
+        },
+        {
+          "text": "6.63 × 10-34 Js",
+          "bbox": {
+            "x_min": 0.3944,
+            "y_min": 0.5742,
+            "x_max": 0.5032,
+            "y_max": 0.5858,
+            "width": 0.1088,
+            "height": 0.0116
+          },
+          "confidence": 0.8742
+        },
+        {
+          "text": "= 5.16×1014 Hz",
+          "bbox": {
+            "x_min": 0.5241,
+            "y_min": 0.5647,
+            "x_max": 0.6434,
+            "y_max": 0.5763,
+            "width": 0.1193,
+            "height": 0.0116
+          },
+          "confidence": 0.941
+        },
+        {
+          "text": "Thus Thus, for frequencies less than this threshold frequency, no\nphotoelectrons are ejected.",
+          "bbox": {
+            "x_min": 0.3252,
+            "y_min": 0.5884,
+            "x_max": 0.8837,
+            "y_max": 0.6168,
+            "width": 0.5585,
+            "height": 0.0284
+          },
+          "confidence": 0.986
+        },
+        {
+          "text": "(b) Photocurrent reduces to zero, when maximum kinetic energy of\nthe emitted photoelectrons equals the potential energy e V by the\nretarding potential V. Einstein's Photoelectric equation is",
+          "bbox": {
+            "x_min": 0.3066,
+            "y_min": 0.6194,
+            "x_max": 0.8889,
+            "y_max": 0.6615,
+            "width": 0.5823,
+            "height": 0.0422
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "284",
+          "bbox": {
+            "x_min": 0.0954,
+            "y_min": 0.9394,
+            "x_max": 0.1361,
+            "y_max": 0.9488,
+            "width": 0.0407,
+            "height": 0.0095
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "hc",
+          "bbox": {
+            "x_min": 0.4939,
+            "y_min": 0.6692,
+            "x_max": 0.5148,
+            "y_max": 0.6787,
+            "width": 0.0209,
+            "height": 0.0095
+          },
+          "confidence": 0.9235
+        },
+        {
+          "text": "eV = hv - Φο =",
+          "bbox": {
+            "x_min": 0.3671,
+            "y_min": 0.6766,
+            "x_max": 0.4869,
+            "y_max": 0.689,
+            "width": 0.1198,
+            "height": 0.0125
+          },
+          "confidence": 0.6932
+        },
+        {
+          "text": "Φο",
+          "bbox": {
+            "x_min": 0.5404,
+            "y_min": 0.6766,
+            "x_max": 0.559,
+            "y_max": 0.6882,
+            "width": 0.0186,
+            "height": 0.0116
+          },
+          "confidence": 0.7089
+        },
+        {
+          "text": "λ",
+          "bbox": {
+            "x_min": 0.4997,
+            "y_min": 0.6877,
+            "x_max": 0.5131,
+            "y_max": 0.6959,
+            "width": 0.0134,
+            "height": 0.0082
+          },
+          "confidence": 0.9581
+        },
+        {
+          "text": "or,",
+          "bbox": {
+            "x_min": 0.3473,
+            "y_min": 0.7067,
+            "x_max": 0.3682,
+            "y_max": 0.7135,
+            "width": 0.0209,
+            "height": 0.0069
+          },
+          "confidence": 0.9835
+        },
+        {
+          "text": "0",
+          "bbox": {
+            "x_min": 0.4677,
+            "y_min": 0.7101,
+            "x_max": 0.4753,
+            "y_max": 0.7153,
+            "width": 0.0076,
+            "height": 0.0052
+          },
+          "confidence": 0.9325
+        },
+        {
+          "text": "λ = hc/(eVo + Φο)",
+          "bbox": {
+            "x_min": 0.3857,
+            "y_min": 0.7032,
+            "x_max": 0.5154,
+            "y_max": 0.7157,
+            "width": 0.1297,
+            "height": 0.0125
+          },
+          "confidence": 0.7944
+        },
+        {
+          "text": "=",
+          "bbox": {
+            "x_min": 0.388,
+            "y_min": 0.7811,
+            "x_max": 0.3973,
+            "y_max": 0.7845,
+            "width": 0.0093,
+            "height": 0.0034
+          },
+          "confidence": 0.9478
+        },
+        {
+          "text": "λ =",
+          "bbox": {
+            "x_min": 0.3688,
+            "y_min": 0.8181,
+            "x_max": 0.3944,
+            "y_max": 0.8271,
+            "width": 0.0256,
+            "height": 0.009
+          },
+          "confidence": 0.919
+        },
+        {
+          "text": "(6.63×10-34 Js)×(3×10m/s)",
+          "bbox": {
+            "x_min": 0.4037,
+            "y_min": 0.7239,
+            "x_max": 0.6405,
+            "y_max": 0.7372,
+            "width": 0.2368,
+            "height": 0.0133
+          },
+          "confidence": 0.9055
+        },
+        {
+          "text": "(0.60eV+2.14 eV)",
+          "bbox": {
+            "x_min": 0.4508,
+            "y_min": 0.7437,
+            "x_max": 0.5928,
+            "y_max": 0.7548,
+            "width": 0.1419,
+            "height": 0.0112
+          },
+          "confidence": 0.9534
+        },
+        {
+          "text": "119.89×10-26 Jm",
+          "bbox": {
+            "x_min": 0.4066,
+            "y_min": 0.7665,
+            "x_max": 0.5398,
+            "y_max": 0.7781,
+            "width": 0.1332,
+            "height": 0.0116
+          },
+          "confidence": 0.7684
+        },
+        {
+          "text": "(2.74 eV)",
+          "bbox": {
+            "x_min": 0.4398,
+            "y_min": 0.7858,
+            "x_max": 0.5084,
+            "y_max": 0.797,
+            "width": 0.0686,
+            "height": 0.0112
+          },
+          "confidence": 0.9716
+        },
+        {
+          "text": "19.89 × 10-26 Jm\n2.74×1.6×10-19 J",
+          "bbox": {
+            "x_min": 0.4002,
+            "y_min": 0.8077,
+            "x_max": 0.5433,
+            "y_max": 0.8361,
+            "width": 0.1431,
+            "height": 0.0284
+          },
+          "confidence": 0.899
+        },
+        {
+          "text": "454 nm",
+          "bbox": {
+            "x_min": 0.5631,
+            "y_min": 0.8181,
+            "x_max": 0.6283,
+            "y_max": 0.8267,
+            "width": 0.0652,
+            "height": 0.0086
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "11.8 WAVE NATURE OF MATTER",
+          "bbox": {
+            "x_min": 0.2874,
+            "y_min": 0.8688,
+            "x_max": 0.687,
+            "y_max": 0.8843,
+            "width": 0.3997,
+            "height": 0.0155
+          },
+          "confidence": 0.9749
+        },
+        {
+          "text": "The dual (wave-particle) nature of light (electromagnetic radiation, in\ngeneral) comes out clearly from what we have learnt in this and the\npreceding chapters. The wave nature of light shows up in the phenomena\nof interference, diffraction and polarisation. On the other hand, in",
+          "bbox": {
+            "x_min": 0.2839,
+            "y_min": 0.8976,
+            "x_max": 0.9191,
+            "y_max": 0.9604,
+            "width": 0.6353,
+            "height": 0.0628
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9821
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "Dual Nature of Radiation\nand Matter",
+          "bbox": {
+            "x_min": 0.5829,
+            "y_min": 0.0718,
+            "x_max": 0.8994,
+            "y_max": 0.1105,
+            "width": 0.3165,
+            "height": 0.0387
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "photoelectric effect and Compton effect which involve\nenergy and momentum transfer, radiation behaves as if it\nis made up of a bunch of particles – the photons. Whether\na particle or wave description is best suited for\nunderstanding an experiment depends on the nature of\nthe experiment. For example, in the familiar phenomenon\nof seeing an object by our eye, both descriptions are\nimportant. The gathering and focussing mechanism of\nlight by the eye-lens is well described in the wave picture.\nBut its absorption by the rods and cones (of the retina)\nrequires the photon picture of light.",
+          "bbox": {
+            "x_min": 0.0803,
+            "y_min": 0.1351,
+            "x_max": 0.5777,
+            "y_max": 0.3127,
+            "width": 0.4974,
+            "height": 0.1776
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "A natural question arises: If radiation has a dual (wave-\nparticle) nature, might not the particles of nature (the\nelectrons, protons, etc.) also exhibit wave-like character?\nIn 1924, the French physicist Louis Victor de Broglie\n(pronounced as de Broy) (1892-1987) put forward the\nbold hypothesis that moving particles of matter should\ndisplay wave-like properties under suitable conditions.\nHe reasoned that nature was symmetrical and that the\ntwo basic physical entities – matter and energy, must have\nsymmetrical character. If radiation shows dual aspects,\nso should matter. De Broglie proposed that the wave\nlength associated with a particle of momentum pis\ngiven as",
+          "bbox": {
+            "x_min": 0.0791,
+            "y_min": 0.3153,
+            "x_max": 0.5765,
+            "y_max": 0.5265,
+            "width": 0.4974,
+            "height": 0.2112
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "h",
+          "bbox": {
+            "x_min": 0.1495,
+            "y_min": 0.5363,
+            "x_max": 0.167,
+            "y_max": 0.5462,
+            "width": 0.0175,
+            "height": 0.0099
+          },
+          "confidence": 0.9601
+        },
+        {
+          "text": "h",
+          "bbox": {
+            "x_min": 0.2048,
+            "y_min": 0.5359,
+            "x_max": 0.2193,
+            "y_max": 0.5458,
+            "width": 0.0145,
+            "height": 0.0099
+          },
+          "confidence": 0.9527
+        },
+        {
+          "text": "λ =",
+          "bbox": {
+            "x_min": 0.1123,
+            "y_min": 0.5467,
+            "x_max": 0.1443,
+            "y_max": 0.5561,
+            "width": 0.032,
+            "height": 0.0095
+          },
+          "confidence": 0.9006
+        },
+        {
+          "text": "p",
+          "bbox": {
+            "x_min": 0.1495,
+            "y_min": 0.5591,
+            "x_max": 0.1681,
+            "y_max": 0.5686,
+            "width": 0.0186,
+            "height": 0.0095
+          },
+          "confidence": 0.6573
+        },
+        {
+          "text": "mv",
+          "bbox": {
+            "x_min": 0.196,
+            "y_min": 0.5587,
+            "x_max": 0.2275,
+            "y_max": 0.5656,
+            "width": 0.0314,
+            "height": 0.0069
+          },
+          "confidence": 0.8007
+        },
+        {
+          "text": "NO",
+          "bbox": {
+            "x_min": 0.3729,
+            "y_min": 0.4985,
+            "x_max": 0.4788,
+            "y_max": 0.572,
+            "width": 0.1059,
+            "height": 0.0735
+          },
+          "confidence": 0.6899
+        },
+        {
+          "text": "(11.5)",
+          "bbox": {
+            "x_min": 0.5241,
+            "y_min": 0.5454,
+            "x_max": 0.5748,
+            "y_max": 0.5583,
+            "width": 0.0506,
+            "height": 0.0129
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "wherem is the mass of the particle and v its speed.\nEquation (11.5) is known as the de Broglie relation and",
+          "bbox": {
+            "x_min": 0.0791,
+            "y_min": 0.5759,
+            "x_max": 0.5753,
+            "y_max": 0.606,
+            "width": 0.4962,
+            "height": 0.0301
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "LOUIS VICTOR DE BROGLIE (1892 – 1987)",
+          "bbox": {
+            "x_min": 0.6056,
+            "y_min": 0.197,
+            "x_max": 0.6271,
+            "y_max": 0.5578,
+            "width": 0.0215,
+            "height": 0.3609
+          },
+          "confidence": 0.9833
+        },
+        {
+          "text": "Louis Victor de Broglie\n(1892 1987) French\nphysicist who put forth\nrevolutionary idea of wave\nnature of matter. This idea\nwas developed by Erwin\nSchrodinger into a full-\nfledged theory of quantum\nmechanics commonly\nknown as wave mechanics.\nIn 1929, he was awarded the\nNobel Prize in Physics for his\ndiscovery of the wave nature\nof electrons.",
+          "bbox": {
+            "x_min": 0.6638,
+            "y_min": 0.3609,
+            "x_max": 0.8947,
+            "y_max": 0.5647,
+            "width": 0.2309,
+            "height": 0.2039
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "the wavelength of the matter wave is called de Broglie wavelength. The\ndual aspect of matter is evident in the de Broglie relation. On the left hand\nside of Eq. (11.5), λ is the attribute of a wave while on the right hand side\nthe momentum p is a typical attribute of a particle. Planck's constant h\nrelates the two attributes.",
+          "bbox": {
+            "x_min": 0.0803,
+            "y_min": 0.609,
+            "x_max": 0.715,
+            "y_max": 0.686,
+            "width": 0.6347,
+            "height": 0.077
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "Equation (11.5) for a material particle is basically a hypothesis whose\nvalidity can be tested only by experiment. However, it is interesting to see\nthat it is satisfied also by a photon. For a photon, as we have seen,",
+          "bbox": {
+            "x_min": 0.0797,
+            "y_min": 0.6916,
+            "x_max": 0.7144,
+            "y_max": 0.7376,
+            "width": 0.6347,
+            "height": 0.046
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "p = hv /c",
+          "bbox": {
+            "x_min": 0.1111,
+            "y_min": 0.7488,
+            "x_max": 0.1908,
+            "y_max": 0.7617,
+            "width": 0.0797,
+            "height": 0.0129
+          },
+          "confidence": 0.956
+        },
+        {
+          "text": "Therefore,",
+          "bbox": {
+            "x_min": 0.0785,
+            "y_min": 0.7733,
+            "x_max": 0.167,
+            "y_max": 0.7841,
+            "width": 0.0884,
+            "height": 0.0108
+          },
+          "confidence": 0.9841
+        },
+        {
+          "text": "h_c_\n=== λ",
+          "bbox": {
+            "x_min": 0.1134,
+            "y_min": 0.794,
+            "x_max": 0.1943,
+            "y_max": 0.8133,
+            "width": 0.0809,
+            "height": 0.0194
+          },
+          "confidence": 0.7867
+        },
+        {
+          "text": "pv",
+          "bbox": {
+            "x_min": 0.1146,
+            "y_min": 0.8172,
+            "x_max": 0.1635,
+            "y_max": 0.8267,
+            "width": 0.0489,
+            "height": 0.0095
+          },
+          "confidence": 0.7919
+        },
+        {
+          "text": "no",
+          "bbox": {
+            "x_min": 0.1914,
+            "y_min": 0.7316,
+            "x_max": 0.3095,
+            "y_max": 0.8138,
+            "width": 0.1181,
+            "height": 0.0822
+          },
+          "confidence": 0.9616
+        },
+        {
+          "text": "(11.6)",
+          "bbox": {
+            "x_min": 0.6608,
+            "y_min": 0.7484,
+            "x_max": 0.7138,
+            "y_max": 0.7622,
+            "width": 0.0529,
+            "height": 0.0138
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "(11.7)",
+          "bbox": {
+            "x_min": 0.6603,
+            "y_min": 0.8065,
+            "x_max": 0.7144,
+            "y_max": 0.8198,
+            "width": 0.0541,
+            "height": 0.0133
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "That is, the de Broglie wavelength of a photon given by Eq. (11.5) equals\nthe wavelength of electromagnetic radiation of which the photon is a\nquantum of energy and momentum.",
+          "bbox": {
+            "x_min": 0.0797,
+            "y_min": 0.8327,
+            "x_max": 0.715,
+            "y_max": 0.8783,
+            "width": 0.6353,
+            "height": 0.0456
+          },
+          "confidence": 0.9969
+        },
+        {
+          "text": "Clearly, from Eq. (11.5), λ is smaller for a heavier particle (large m) or\nmore energetic particle (large v). For example, the de Broglie wavelength\nof a ball of mass 0.12 kg moving with a speed of 20 m s¯¹ is easily",
+          "bbox": {
+            "x_min": 0.0809,
+            "y_min": 0.8804,
+            "x_max": 0.715,
+            "y_max": 0.9277,
+            "width": 0.6341,
+            "height": 0.0473
+          },
+          "confidence": 0.9829
+        },
+        {
+          "text": "calculated:",
+          "bbox": {
+            "x_min": 0.0797,
+            "y_min": 0.9312,
+            "x_max": 0.1751,
+            "y_max": 0.9406,
+            "width": 0.0954,
+            "height": 0.0095
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "-1",
+          "bbox": {
+            "x_min": 0.6195,
+            "y_min": 0.9127,
+            "x_max": 0.6294,
+            "y_max": 0.9174,
+            "width": 0.0099,
+            "height": 0.0047
+          },
+          "confidence": 0.9246
+        },
+        {
+          "text": "285",
+          "bbox": {
+            "x_min": 0.8656,
+            "y_min": 0.9394,
+            "x_max": 0.9011,
+            "y_max": 0.9488,
+            "width": 0.0355,
+            "height": 0.0095
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9821
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "EXAMPLE 11.3",
+          "bbox": {
+            "x_min": 0.242,
+            "y_min": 0.5837,
+            "x_max": 0.2565,
+            "y_max": 0.6735,
+            "width": 0.0145,
+            "height": 0.0899
+          },
+          "confidence": 0.9687
+        },
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.196,
+            "y_min": 0.0925,
+            "x_max": 0.3118,
+            "y_max": 0.1157,
+            "width": 0.1158,
+            "height": 0.0232
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "-1",
+          "bbox": {
+            "x_min": 0.5515,
+            "y_min": 0.1333,
+            "x_max": 0.566,
+            "y_max": 0.1394,
+            "width": 0.0145,
+            "height": 0.006
+          },
+          "confidence": 0.9472
+        },
+        {
+          "text": "-1",
+          "bbox": {
+            "x_min": 0.6934,
+            "y_min": 0.1338,
+            "x_max": 0.7074,
+            "y_max": 0.1394,
+            "width": 0.014,
+            "height": 0.0056
+          },
+          "confidence": 0.932
+        },
+        {
+          "text": "p = m v = 0.12 kg × 20 m s¯¹ = 2.40 kg m s¯¹",
+          "bbox": {
+            "x_min": 0.3159,
+            "y_min": 0.1329,
+            "x_max": 0.7062,
+            "y_max": 0.148,
+            "width": 0.3903,
+            "height": 0.0151
+          },
+          "confidence": 0.9122
+        },
+        {
+          "text": "λ =",
+          "bbox": {
+            "x_min": 0.3165,
+            "y_min": 0.1725,
+            "x_max": 0.3438,
+            "y_max": 0.1819,
+            "width": 0.0273,
+            "height": 0.0095
+          },
+          "confidence": 0.9331
+        },
+        {
+          "text": "h",
+          "bbox": {
+            "x_min": 0.3502,
+            "y_min": 0.1626,
+            "x_max": 0.3659,
+            "y_max": 0.1725,
+            "width": 0.0157,
+            "height": 0.0099
+          },
+          "confidence": 0.9595
+        },
+        {
+          "text": "p",
+          "bbox": {
+            "x_min": 0.349,
+            "y_min": 0.1862,
+            "x_max": 0.3671,
+            "y_max": 0.1953,
+            "width": 0.018,
+            "height": 0.009
+          },
+          "confidence": 0.8065
+        },
+        {
+          "text": "=",
+          "bbox": {
+            "x_min": 0.3735,
+            "y_min": 0.1755,
+            "x_max": 0.3845,
+            "y_max": 0.1794,
+            "width": 0.0111,
+            "height": 0.0039
+          },
+          "confidence": 0.9402
+        },
+        {
+          "text": "6.63 × 10-34 JS\n2.40 kg m s¯¹",
+          "bbox": {
+            "x_min": 0.3956,
+            "y_min": 0.1583,
+            "x_max": 0.5236,
+            "y_max": 0.1931,
+            "width": 0.128,
+            "height": 0.0348
+          },
+          "confidence": 0.8894
+        },
+        {
+          "text": "-1\nS",
+          "bbox": {
+            "x_min": 0.4962,
+            "y_min": 0.1794,
+            "x_max": 0.5201,
+            "y_max": 0.1905,
+            "width": 0.0239,
+            "height": 0.0112
+          },
+          "confidence": 0.9487
+        },
+        {
+          "text": "= 2.76 × 10-34 m",
+          "bbox": {
+            "x_min": 0.5358,
+            "y_min": 0.1695,
+            "x_max": 0.6777,
+            "y_max": 0.1819,
+            "width": 0.1419,
+            "height": 0.0125
+          },
+          "confidence": 0.917
+        },
+        {
+          "text": "This wavelength is so small that it is beyond any measurement. This\nis the reason why macroscopic objects in our daily life do not show wave-\nlike properties. On the other hand, in the sub-atomic domain, the wave\ncharacter of particles is significant and measurable.",
+          "bbox": {
+            "x_min": 0.285,
+            "y_min": 0.2017,
+            "x_max": 0.9186,
+            "y_max": 0.2649,
+            "width": 0.6335,
+            "height": 0.0632
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "Example 11.3 What is the de Broglie wavelength associated with (a) an\nelectron moving with a speed of 5.4×10º m/s, and (b) a ball of mass 150 g\ntravelling at 30.0 m/s?",
+          "bbox": {
+            "x_min": 0.3159,
+            "y_min": 0.2916,
+            "x_max": 0.8982,
+            "y_max": 0.3342,
+            "width": 0.5823,
+            "height": 0.0426
+          },
+          "confidence": 0.983
+        },
+        {
+          "text": "Solution",
+          "bbox": {
+            "x_min": 0.3159,
+            "y_min": 0.3445,
+            "x_max": 0.3921,
+            "y_max": 0.354,
+            "width": 0.0762,
+            "height": 0.0095
+          },
+          "confidence": 0.9859
+        },
+        {
+          "text": "(a) For the electron:",
+          "bbox": {
+            "x_min": 0.3159,
+            "y_min": 0.3583,
+            "x_max": 0.4869,
+            "y_max": 0.3703,
+            "width": 0.171,
+            "height": 0.012
+          },
+          "confidence": 0.9856
+        },
+        {
+          "text": "p",
+          "bbox": {
+            "x_min": 0.3444,
+            "y_min": 0.3927,
+            "x_max": 0.3607,
+            "y_max": 0.4004,
+            "width": 0.0163,
+            "height": 0.0077
+          },
+          "confidence": 0.7414
+        },
+        {
+          "text": "= m v = 9.11×10-31 (kg) × 5.4 × 10º (m/s)",
+          "bbox": {
+            "x_min": 0.3711,
+            "y_min": 0.3858,
+            "x_max": 0.7056,
+            "y_max": 0.4009,
+            "width": 0.3345,
+            "height": 0.0151
+          },
+          "confidence": 0.8715
+        },
+        {
+          "text": "p",
+          "bbox": {
+            "x_min": 0.3444,
+            "y_min": 0.4077,
+            "x_max": 0.3607,
+            "y_max": 0.4159,
+            "width": 0.0163,
+            "height": 0.0082
+          },
+          "confidence": 0.7028
+        },
+        {
+          "text": "= 4.92 × 10-24 kg m/s",
+          "bbox": {
+            "x_min": 0.3706,
+            "y_min": 0.4009,
+            "x_max": 0.5486,
+            "y_max": 0.4159,
+            "width": 0.178,
+            "height": 0.0151
+          },
+          "confidence": 0.9245
+        },
+        {
+          "text": "=",
+          "bbox": {
+            "x_min": 0.3642,
+            "y_min": 0.4533,
+            "x_max": 0.3735,
+            "y_max": 0.4568,
+            "width": 0.0093,
+            "height": 0.0034
+          },
+          "confidence": 0.9248
+        },
+        {
+          "text": "6.63×10-34 JS",
+          "bbox": {
+            "x_min": 0.4043,
+            "y_min": 0.4396,
+            "x_max": 0.5154,
+            "y_max": 0.4516,
+            "width": 0.1111,
+            "height": 0.012
+          },
+          "confidence": 0.8738
+        },
+        {
+          "text": "λ = 0.135 nm",
+          "bbox": {
+            "x_min": 0.3525,
+            "y_min": 0.4791,
+            "x_max": 0.4596,
+            "y_max": 0.489,
+            "width": 0.107,
+            "height": 0.0099
+          },
+          "confidence": 0.9717
+        },
+        {
+          "text": "(b) For the ball:",
+          "bbox": {
+            "x_min": 0.3165,
+            "y_min": 0.4976,
+            "x_max": 0.4491,
+            "y_max": 0.5092,
+            "width": 0.1326,
+            "height": 0.0116
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "ublished",
+          "bbox": {
+            "x_min": 0.5521,
+            "y_min": 0.3084,
+            "x_max": 0.8906,
+            "y_max": 0.5312,
+            "width": 0.3386,
+            "height": 0.2228
+          },
+          "confidence": 0.9468
+        },
+        {
+          "text": "x 30.0 (m/s)",
+          "bbox": {
+            "x_min": 0.6923,
+            "y_min": 0.5273,
+            "x_max": 0.7958,
+            "y_max": 0.5398,
+            "width": 0.1035,
+            "height": 0.0125
+          },
+          "confidence": 0.9217
+        },
+        {
+          "text": "G",
+          "bbox": {
+            "x_min": 0.3211,
+            "y_min": 0.5819,
+            "x_max": 0.3659,
+            "y_max": 0.6069,
+            "width": 0.0448,
+            "height": 0.0249
+          },
+          "confidence": 0.9155
+        },
+        {
+          "text": "6.63×10-34 JS",
+          "bbox": {
+            "x_min": 0.3677,
+            "y_min": 0.5776,
+            "x_max": 0.4788,
+            "y_max": 0.5897,
+            "width": 0.1111,
+            "height": 0.012
+          },
+          "confidence": 0.8819
+        },
+        {
+          "text": "4.50× kgm/s",
+          "bbox": {
+            "x_min": 0.3694,
+            "y_min": 0.5978,
+            "x_max": 0.4776,
+            "y_max": 0.609,
+            "width": 0.1082,
+            "height": 0.0112
+          },
+          "confidence": 0.9333
+        },
+        {
+          "text": "λ′= 1.47 ×10−34 m",
+          "bbox": {
+            "x_min": 0.349,
+            "y_min": 0.6146,
+            "x_max": 0.4951,
+            "y_max": 0.6271,
+            "width": 0.146,
+            "height": 0.0125
+          },
+          "confidence": 0.8507
+        },
+        {
+          "text": "The de Broglie wavelength of electron is comparable with X-ray\nwavelengths. However, for the ball it is about 10-19 times the size of\nthe proton, quite beyond experimental measurement.",
+          "bbox": {
+            "x_min": 0.3054,
+            "y_min": 0.6323,
+            "x_max": 0.8889,
+            "y_max": 0.674,
+            "width": 0.5835,
+            "height": 0.0417
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "on,",
+          "bbox": {
+            "x_min": 0.377,
+            "y_min": 0.6619,
+            "x_max": 0.4008,
+            "y_max": 0.6774,
+            "width": 0.0239,
+            "height": 0.0155
+          },
+          "confidence": 0.9217
+        },
+        {
+          "text": "286",
+          "bbox": {
+            "x_min": 0.0971,
+            "y_min": 0.9394,
+            "x_max": 0.1326,
+            "y_max": 0.9484,
+            "width": 0.0355,
+            "height": 0.009
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "SUMMARY",
+          "bbox": {
+            "x_min": 0.5532,
+            "y_min": 0.7286,
+            "x_max": 0.6521,
+            "y_max": 0.7381,
+            "width": 0.0989,
+            "height": 0.0095
+          },
+          "confidence": 0.9734
+        },
+        {
+          "text": "1. The minimum energy needed by an electron to come out from a metal\nsurface is called the work function of the metal. Energy (greater than\nthe work function (6) required for electron emission from the metal\nsurface can be supplied by suitably heating or applying strong electric\nfield or irradiating it by light of suitable frequency.",
+          "bbox": {
+            "x_min": 0.3182,
+            "y_min": 0.7639,
+            "x_max": 0.8866,
+            "y_max": 0.8353,
+            "width": 0.5684,
+            "height": 0.0714
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "2. Photoelectric effect is the phenomenon of emission of electrons by metals\nwhen illuminated by light of suitable frequency. Certain metals respond\nto ultraviolet light while others are sensitive even to the visible light.\nPhotoelectric effect involves conversion of light energy into electrical\nenergy. It follows the law of conservation of energy. The photoelectric\nemission is an instantaneous process and possesses certain special\nfeatures.",
+          "bbox": {
+            "x_min": 0.3165,
+            "y_min": 0.8422,
+            "x_max": 0.8866,
+            "y_max": 0.9402,
+            "width": 0.5701,
+            "height": 0.0981
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9821
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "Dual Nature of Radiation\nand Matter",
+          "bbox": {
+            "x_min": 0.5829,
+            "y_min": 0.0718,
+            "x_max": 0.8999,
+            "y_max": 0.1105,
+            "width": 0.317,
+            "height": 0.0387
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "3. Photoelectric current depends on (i) the intensity of incident light, (ii)\nthe potential difference applied between the two electrodes, and (iii)\nthe nature of the emitter material.",
+          "bbox": {
+            "x_min": 0.1129,
+            "y_min": 0.1428,
+            "x_max": 0.6818,
+            "y_max": 0.1824,
+            "width": 0.5689,
+            "height": 0.0396
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "4. The stopping potential (V) depends on (i) the frequency of incident\nlight, and (ii) the nature of the emitter material. For a given frequency\nof incident light, it is independent of its intensity. The stopping potential\nis directly related to the maximum kinetic energy of electrons emitted:\ne V = (1/2) mv2max = Kmax",
+          "bbox": {
+            "x_min": 0.1129,
+            "y_min": 0.1914,
+            "x_max": 0.6841,
+            "y_max": 0.2641,
+            "width": 0.5713,
+            "height": 0.0727
+          },
+          "confidence": 0.9818
+        },
+        {
+          "text": "5. Below a certain frequency (threshold frequency) võ, characteristic of\nthe metal, no photoelectric emission takes place, no matter how large\nthe intensity may be.",
+          "bbox": {
+            "x_min": 0.1134,
+            "y_min": 0.2688,
+            "x_max": 0.6853,
+            "y_max": 0.3118,
+            "width": 0.5718,
+            "height": 0.043
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "6. The classical wave theory could not explain the main features of\nphotoelectric effect. Its picture of continuous absorption of energy\nfrom radiation could not explain the independence of Kmax on\nintensity, the existence of v and the instantaneous nature of the\nprocess. Einstein explained these features on the basis of photon\npicture of light. According to this, light is composed of discrete\npackets of energy called quanta or photons. Each photon carries an\nenergy E (= hv) and momentum p (= h/λ), which depend on the\nfrequency (v) of incident light and not on its intensity. Photoelectric\nemission from the metal surface occurs due to absorption of a photon\nphoton\nby an electron.",
+          "bbox": {
+            "x_min": 0.1123,
+            "y_min": 0.3153,
+            "x_max": 0.6864,
+            "y_max": 0.4791,
+            "width": 0.5742,
+            "height": 0.1639
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "7. Einstein's photoelectric equation is in accordance with the energy\nconservation law as applied to the photon absorption by an an electron in\nthe metal. The maximum kinetic energy (1/2)m v²nax is equal to\nthe photon energy (hv) minus the work function (= hv) of the\ntarget metal:",
+          "bbox": {
+            "x_min": 0.1129,
+            "y_min": 0.4856,
+            "x_max": 0.6835,
+            "y_max": 0.5566,
+            "width": 0.5707,
+            "height": 0.071
+          },
+          "confidence": 0.9795
+        },
+        {
+          "text": "1\nm v2\n2",
+          "bbox": {
+            "x_min": 0.2333,
+            "y_min": 0.5699,
+            "x_max": 0.2856,
+            "y_max": 0.5944,
+            "width": 0.0524,
+            "height": 0.0245
+          },
+          "confidence": 0.8565
+        },
+        {
+          "text": "max",
+          "bbox": {
+            "x_min": 0.2775,
+            "y_min": 0.588,
+            "x_max": 0.2984,
+            "y_max": 0.5918,
+            "width": 0.0209,
+            "height": 0.0039
+          },
+          "confidence": 0.8708
+        },
+        {
+          "text": "=",
+          "bbox": {
+            "x_min": 0.3013,
+            "y_min": 0.5819,
+            "x_max": 0.3112,
+            "y_max": 0.5854,
+            "width": 0.0099,
+            "height": 0.0034
+          },
+          "confidence": 0.9397
+        },
+        {
+          "text": "V e = hv - ¢ = h (v - Vo)/=hvg.",
+          "bbox": {
+            "x_min": 0.3182,
+            "y_min": 0.5166,
+            "x_max": 0.6481,
+            "y_max": 0.5948,
+            "width": 0.3298,
+            "height": 0.0783
+          },
+          "confidence": 0.6448
+        },
+        {
+          "text": "0",
+          "bbox": {
+            "x_min": 0.3269,
+            "y_min": 0.5871,
+            "x_max": 0.3351,
+            "y_max": 0.5914,
+            "width": 0.0081,
+            "height": 0.0043
+          },
+          "confidence": 0.9541
+        },
+        {
+          "text": "This photoelectric equation explains all the features of the photoelectric\neffect. Millikan's first precise measurements confirmed the Einstein's\nphotoelectric equation and obtained an accurate value of Planck's\nconstant h. This led to the acceptance of particle or photon description\n(nature) of electromagnetic radiation, introduced by Einstein.",
+          "bbox": {
+            "x_min": 0.1437,
+            "y_min": 0.6069,
+            "x_max": 0.6841,
+            "y_max": 0.6766,
+            "width": 0.5404,
+            "height": 0.0697
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "8. Radiation has dual nature: wave and particle. The nature of experiment\ndetermines whether a wave or particle description is best suited for\nunderstanding the experimental result. Reasoning that radiation and\nmatter should be symmetrical in nature, Louis Victor de Broglie\nattributed a wave-like character to matter (material particles). The waves\nassociated with the moving material particles are called matter waves\nor de Broglie waves.",
+          "bbox": {
+            "x_min": 0.1123,
+            "y_min": 0.6834,
+            "x_max": 0.683,
+            "y_max": 0.7832,
+            "width": 0.5707,
+            "height": 0.0998
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "9. The de Broglie wavelength (λ) associated with a moving particle is\nrelated to its momentum pas: λ = h/p. The dualism of matter is\ninherent in the de Broglie relation which contains a wave concept\n(λ) and a particle concept (p). The de Broglie wavelength is\nindependent of the charge and nature of the material particle. It is\nsignificantly measurable (of the order of the atomic-planes spacing\nin crystals) only in case of sub-atomic particles like electrons,\nprotons, etc. (due to smallness of their masses and hence, momenta).\nHowever, it is indeed very small, quite beyond measurement, in case\nof macroscopic objects, commonly encountered in everyday life.",
+          "bbox": {
+            "x_min": 0.1187,
+            "y_min": 0.7888,
+            "x_max": 0.6841,
+            "y_max": 0.9303,
+            "width": 0.5654,
+            "height": 0.1415
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "ed",
+          "bbox": {
+            "x_min": 0.7528,
+            "y_min": 0.3037,
+            "x_max": 0.8778,
+            "y_max": 0.3978,
+            "width": 0.1251,
+            "height": 0.0942
+          },
+          "confidence": 0.965
+        },
+        {
+          "text": "287",
+          "bbox": {
+            "x_min": 0.8656,
+            "y_min": 0.9394,
+            "x_max": 0.9011,
+            "y_max": 0.9488,
+            "width": 0.0355,
+            "height": 0.0095
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9821
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "288",
+          "bbox": {
+            "x_min": 0.0966,
+            "y_min": 0.9398,
+            "x_max": 0.1332,
+            "y_max": 0.9488,
+            "width": 0.0366,
+            "height": 0.009
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "■ Physics",
+          "bbox": {
+            "x_min": 0.1425,
+            "y_min": 0.0925,
+            "x_max": 0.3118,
+            "y_max": 0.1144,
+            "width": 0.1693,
+            "height": 0.0219
+          },
+          "confidence": 0.9035
+        },
+        {
+          "text": "Physical Symbol Dimensions Unit\nQuantity",
+          "bbox": {
+            "x_min": 0.3066,
+            "y_min": 0.1419,
+            "x_max": 0.7097,
+            "y_max": 0.1699,
+            "width": 0.4031,
+            "height": 0.028
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "Remarks",
+          "bbox": {
+            "x_min": 0.7737,
+            "y_min": 0.1419,
+            "x_max": 0.8563,
+            "y_max": 0.1514,
+            "width": 0.0826,
+            "height": 0.0095
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "Planck's",
+          "bbox": {
+            "x_min": 0.3072,
+            "y_min": 0.1931,
+            "x_max": 0.3787,
+            "y_max": 0.2013,
+            "width": 0.0716,
+            "height": 0.0082
+          },
+          "confidence": 0.9851
+        },
+        {
+          "text": "h",
+          "bbox": {
+            "x_min": 0.4602,
+            "y_min": 0.1927,
+            "x_max": 0.4741,
+            "y_max": 0.2013,
+            "width": 0.014,
+            "height": 0.0086
+          },
+          "confidence": 0.9592
+        },
+        {
+          "text": "[ML2T-1]",
+          "bbox": {
+            "x_min": 0.5544,
+            "y_min": 0.191,
+            "x_max": 0.6207,
+            "y_max": 0.203,
+            "width": 0.0663,
+            "height": 0.012
+          },
+          "confidence": 0.8822
+        },
+        {
+          "text": "Js",
+          "bbox": {
+            "x_min": 0.6742,
+            "y_min": 0.1927,
+            "x_max": 0.7027,
+            "y_max": 0.2017,
+            "width": 0.0285,
+            "height": 0.009
+          },
+          "confidence": 0.955
+        },
+        {
+          "text": "E = hv",
+          "bbox": {
+            "x_min": 0.783,
+            "y_min": 0.1931,
+            "x_max": 0.8389,
+            "y_max": 0.2017,
+            "width": 0.0558,
+            "height": 0.0086
+          },
+          "confidence": 0.9602
+        },
+        {
+          "text": "constant",
+          "bbox": {
+            "x_min": 0.3083,
+            "y_min": 0.2086,
+            "x_max": 0.3839,
+            "y_max": 0.2163,
+            "width": 0.0756,
+            "height": 0.0077
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "Stopping",
+          "bbox": {
+            "x_min": 0.3072,
+            "y_min": 0.2305,
+            "x_max": 0.3839,
+            "y_max": 0.2422,
+            "width": 0.0768,
+            "height": 0.0116
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "V",
+          "bbox": {
+            "x_min": 0.4555,
+            "y_min": 0.2314,
+            "x_max": 0.4759,
+            "y_max": 0.2417,
+            "width": 0.0204,
+            "height": 0.0103
+          },
+          "confidence": 0.9455
+        },
+        {
+          "text": "[ML2T-3A-1]",
+          "bbox": {
+            "x_min": 0.5428,
+            "y_min": 0.2292,
+            "x_max": 0.6329,
+            "y_max": 0.2409,
+            "width": 0.0902,
+            "height": 0.0116
+          },
+          "confidence": 0.9205
+        },
+        {
+          "text": "V",
+          "bbox": {
+            "x_min": 0.68,
+            "y_min": 0.2314,
+            "x_max": 0.6963,
+            "y_max": 0.2396,
+            "width": 0.0163,
+            "height": 0.0082
+          },
+          "confidence": 0.9571
+        },
+        {
+          "text": "e Vo= Kmax",
+          "bbox": {
+            "x_min": 0.772,
+            "y_min": 0.2305,
+            "x_max": 0.8505,
+            "y_max": 0.243,
+            "width": 0.0785,
+            "height": 0.0125
+          },
+          "confidence": 0.8422
+        },
+        {
+          "text": "0",
+          "bbox": {
+            "x_min": 0.7952,
+            "y_min": 0.2396,
+            "x_max": 0.8022,
+            "y_max": 0.2439,
+            "width": 0.007,
+            "height": 0.0043
+          },
+          "confidence": 0.9219
+        },
+        {
+          "text": "potential",
+          "bbox": {
+            "x_min": 0.306,
+            "y_min": 0.2456,
+            "x_max": 0.3828,
+            "y_max": 0.2568,
+            "width": 0.0768,
+            "height": 0.0112
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "Work",
+          "bbox": {
+            "x_min": 0.3042,
+            "y_min": 0.2697,
+            "x_max": 0.3502,
+            "y_max": 0.277,
+            "width": 0.046,
+            "height": 0.0073
+          },
+          "confidence": 0.983
+        },
+        {
+          "text": "Φο",
+          "bbox": {
+            "x_min": 0.4607,
+            "y_min": 0.2684,
+            "x_max": 0.4724,
+            "y_max": 0.2813,
+            "width": 0.0116,
+            "height": 0.0129
+          },
+          "confidence": 0.5027
+        },
+        {
+          "text": "[ML2T-2]",
+          "bbox": {
+            "x_min": 0.5532,
+            "y_min": 0.268,
+            "x_max": 0.6213,
+            "y_max": 0.2787,
+            "width": 0.0681,
+            "height": 0.0108
+          },
+          "confidence": 0.9337
+        },
+        {
+          "text": "J; eV",
+          "bbox": {
+            "x_min": 0.6661,
+            "y_min": 0.2688,
+            "x_max": 0.7115,
+            "y_max": 0.2787,
+            "width": 0.0454,
+            "height": 0.0099
+          },
+          "confidence": 0.9435
+        },
+        {
+          "text": "Kmax = Ε-Φο",
+          "bbox": {
+            "x_min": 0.7667,
+            "y_min": 0.2688,
+            "x_max": 0.854,
+            "y_max": 0.2826,
+            "width": 0.0873,
+            "height": 0.0138
+          },
+          "confidence": 0.6114
+        },
+        {
+          "text": "0",
+          "bbox": {
+            "x_min": 0.8487,
+            "y_min": 0.2774,
+            "x_max": 0.8546,
+            "y_max": 0.2822,
+            "width": 0.0058,
+            "height": 0.0047
+          },
+          "confidence": 0.9511
+        },
+        {
+          "text": "function",
+          "bbox": {
+            "x_min": 0.3077,
+            "y_min": 0.2847,
+            "x_max": 0.3793,
+            "y_max": 0.2925,
+            "width": 0.0716,
+            "height": 0.0077
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "Threshold",
+          "bbox": {
+            "x_min": 0.3072,
+            "y_min": 0.3071,
+            "x_max": 0.3933,
+            "y_max": 0.3153,
+            "width": 0.0861,
+            "height": 0.0082
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "Vo",
+          "bbox": {
+            "x_min": 0.4572,
+            "y_min": 0.3097,
+            "x_max": 0.4741,
+            "y_max": 0.3196,
+            "width": 0.0169,
+            "height": 0.0099
+          },
+          "confidence": 0.8672
+        },
+        {
+          "text": "[T-1]",
+          "bbox": {
+            "x_min": 0.5718,
+            "y_min": 0.3062,
+            "x_max": 0.6038,
+            "y_max": 0.317,
+            "width": 0.032,
+            "height": 0.0108
+          },
+          "confidence": 0.8115
+        },
+        {
+          "text": "Hz",
+          "bbox": {
+            "x_min": 0.676,
+            "y_min": 0.3075,
+            "x_max": 0.7004,
+            "y_max": 0.3153,
+            "width": 0.0244,
+            "height": 0.0077
+          },
+          "confidence": 0.9609
+        },
+        {
+          "text": "0",
+          "bbox": {
+            "x_min": 0.4689,
+            "y_min": 0.3153,
+            "x_max": 0.4747,
+            "y_max": 0.32,
+            "width": 0.0058,
+            "height": 0.0047
+          },
+          "confidence": 0.9612
+        },
+        {
+          "text": "vo=¢ /h",
+          "bbox": {
+            "x_min": 0.7784,
+            "y_min": 0.3058,
+            "x_max": 0.8453,
+            "y_max": 0.32,
+            "width": 0.0669,
+            "height": 0.0142
+          },
+          "confidence": 0.574
+        },
+        {
+          "text": "frequency",
+          "bbox": {
+            "x_min": 0.3083,
+            "y_min": 0.323,
+            "x_max": 0.3933,
+            "y_max": 0.3338,
+            "width": 0.0849,
+            "height": 0.0108
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "de Broglie\nwavelength",
+          "bbox": {
+            "x_min": 0.3066,
+            "y_min": 0.3449,
+            "x_max": 0.4037,
+            "y_max": 0.3716,
+            "width": 0.0971,
+            "height": 0.0267
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "λ",
+          "bbox": {
+            "x_min": 0.4631,
+            "y_min": 0.3458,
+            "x_max": 0.4735,
+            "y_max": 0.3535,
+            "width": 0.0105,
+            "height": 0.0077
+          },
+          "confidence": 0.9593
+        },
+        {
+          "text": "[L]",
+          "bbox": {
+            "x_min": 0.5777,
+            "y_min": 0.3441,
+            "x_max": 0.598,
+            "y_max": 0.3553,
+            "width": 0.0204,
+            "height": 0.0112
+          },
+          "confidence": 0.9609
+        },
+        {
+          "text": "m",
+          "bbox": {
+            "x_min": 0.6795,
+            "y_min": 0.3488,
+            "x_max": 0.6975,
+            "y_max": 0.3535,
+            "width": 0.018,
+            "height": 0.0047
+          },
+          "confidence": 0.9566
+        },
+        {
+          "text": "λ= h/p",
+          "bbox": {
+            "x_min": 0.7813,
+            "y_min": 0.3445,
+            "x_max": 0.8412,
+            "y_max": 0.3574,
+            "width": 0.0599,
+            "height": 0.0129
+          },
+          "confidence": 0.9447
+        },
+        {
+          "text": "POINTS TO PONDER",
+          "bbox": {
+            "x_min": 0.5201,
+            "y_min": 0.4077,
+            "x_max": 0.7161,
+            "y_max": 0.4172,
+            "width": 0.196,
+            "height": 0.0095
+          },
+          "confidence": 0.9534
+        },
+        {
+          "text": "1. Free electrons in a metal are free in the sense that they move inside the\nmetal in a constant potential (This is only an approximation). They are\nnot free to move out of the metal. They need additional energy to get\nout of the metal.",
+          "bbox": {
+            "x_min": 0.3176,
+            "y_min": 0.4426,
+            "x_max": 0.8866,
+            "y_max": 0.4938,
+            "width": 0.5689,
+            "height": 0.0512
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "2. Free electrons in a metal do not all have the same energy. Like molecules\nin a gas jar, the electrons have a certain energy distribution at a given\ntemperature. This distribution is different from the usual Maxwell's\ndistribution that you have learnt in the study of kinetic theory of gases.\nYou will learn about it in later courses, but the difference has to do\nwith the fact that electrons obey Pauli's exclusion principle.",
+          "bbox": {
+            "x_min": 0.3159,
+            "y_min": 0.4989,
+            "x_max": 0.886,
+            "y_max": 0.5806,
+            "width": 0.5701,
+            "height": 0.0817
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "3. Because of the energy distribution of free electrons in a metal, the energy\nrequired by an electron to come out of the metal is different for different\nelectrons. Electrons with higher energy require less additional energy to\ncome out of the metal than those with lower energies. Work function is\nthe least energy required by an electron to come out of the metal.",
+          "bbox": {
+            "x_min": 0.3159,
+            "y_min": 0.5832,
+            "x_max": 0.886,
+            "y_max": 0.6512,
+            "width": 0.5701,
+            "height": 0.068
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "4. Observations on photoelectric effect imply that in the event of matter-\nlight interaction, absorption of energy takes place in discrete units of hv.\nThis is not quite the same as saying that light consists of particles,\neach of energy hv.",
+          "bbox": {
+            "x_min": 0.3153,
+            "y_min": 0.6538,
+            "x_max": 0.886,
+            "y_max": 0.7075,
+            "width": 0.5707,
+            "height": 0.0538
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "5. Observations on the stopping potential (its independence of intensity\nand dependence on frequency) are the crucial discriminator between\nthe wave-picture and photon-picture of photoelectric effect.",
+          "bbox": {
+            "x_min": 0.3165,
+            "y_min": 0.7092,
+            "x_max": 0.8871,
+            "y_max": 0.7497,
+            "width": 0.5707,
+            "height": 0.0404
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "h",
+          "bbox": {
+            "x_min": 0.7481,
+            "y_min": 0.7553,
+            "x_max": 0.7627,
+            "y_max": 0.7652,
+            "width": 0.0145,
+            "height": 0.0099
+          },
+          "confidence": 0.9534
+        },
+        {
+          "text": "6. The wavelength of a matter wave given by λ = has physical",
+          "bbox": {
+            "x_min": 0.3159,
+            "y_min": 0.7639,
+            "x_max": 0.886,
+            "y_max": 0.7759,
+            "width": 0.5701,
+            "height": 0.012
+          },
+          "confidence": 0.9772
+        },
+        {
+          "text": "p",
+          "bbox": {
+            "x_min": 0.7469,
+            "y_min": 0.7768,
+            "x_max": 0.7632,
+            "y_max": 0.7849,
+            "width": 0.0163,
+            "height": 0.0082
+          },
+          "confidence": 0.783
+        },
+        {
+          "text": "significance; its phase velocity up has no physical significance. However,\nthe group velocity of the matter wave is physically meaningful and\nequals the velocity of the particle.",
+          "bbox": {
+            "x_min": 0.3479,
+            "y_min": 0.788,
+            "x_max": 0.8854,
+            "y_max": 0.8284,
+            "width": 0.5375,
+            "height": 0.0404
+          },
+          "confidence": 0.9829
+        },
+        {
+          "text": "nott",
+          "bbox": {
+            "x_min": 0.1937,
+            "y_min": 0.6783,
+            "x_max": 0.37,
+            "y_max": 0.8155,
+            "width": 0.1763,
+            "height": 0.1372
+          },
+          "confidence": 0.9697
+        },
+        {
+          "text": "EXERCISES",
+          "bbox": {
+            "x_min": 0.5177,
+            "y_min": 0.8688,
+            "x_max": 0.687,
+            "y_max": 0.8843,
+            "width": 0.1693,
+            "height": 0.0155
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "11.1 Find the",
+          "bbox": {
+            "x_min": 0.2845,
+            "y_min": 0.9118,
+            "x_max": 0.42,
+            "y_max": 0.9213,
+            "width": 0.1355,
+            "height": 0.0095
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "(a) maximum frequency, and",
+          "bbox": {
+            "x_min": 0.3485,
+            "y_min": 0.9269,
+            "x_max": 0.5998,
+            "y_max": 0.9398,
+            "width": 0.2513,
+            "height": 0.0129
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "(b) minimum wavelength of X-rays produced by 30 kV electrons.",
+          "bbox": {
+            "x_min": 0.3485,
+            "y_min": 0.9454,
+            "x_max": 0.9005,
+            "y_max": 0.9583,
+            "width": 0.5521,
+            "height": 0.0129
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9819
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "Dual Nature of Radiation\nand Matter",
+          "bbox": {
+            "x_min": 0.5829,
+            "y_min": 0.0714,
+            "x_max": 0.8994,
+            "y_max": 0.1105,
+            "width": 0.3165,
+            "height": 0.0391
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "11.2 The work function of caesium metal is 2.14 eV. When light of\nfrequency 6 ×10¹4Hz is incident on the metal surface, photoemission",
+          "bbox": {
+            "x_min": 0.0814,
+            "y_min": 0.1355,
+            "x_max": 0.7155,
+            "y_max": 0.163,
+            "width": 0.6341,
+            "height": 0.0275
+          },
+          "confidence": 0.9811
+        },
+        {
+          "text": "of electrons occurs. What is the",
+          "bbox": {
+            "x_min": 0.1443,
+            "y_min": 0.166,
+            "x_max": 0.4142,
+            "y_max": 0.1759,
+            "width": 0.2699,
+            "height": 0.0099
+          },
+          "confidence": 0.9836
+        },
+        {
+          "text": "(a) maximum kinetic energy of the emitted electrons,",
+          "bbox": {
+            "x_min": 0.1437,
+            "y_min": 0.1845,
+            "x_max": 0.5998,
+            "y_max": 0.1966,
+            "width": 0.4561,
+            "height": 0.012
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "(b) Stopping potential, and",
+          "bbox": {
+            "x_min": 0.1449,
+            "y_min": 0.2026,
+            "x_max": 0.377,
+            "y_max": 0.2151,
+            "width": 0.2321,
+            "height": 0.0125
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "(c) maximum speed of the emitted photoelectrons?",
+          "bbox": {
+            "x_min": 0.1437,
+            "y_min": 0.2215,
+            "x_max": 0.5806,
+            "y_max": 0.2335,
+            "width": 0.4369,
+            "height": 0.012
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "11.3 The photoelectric cut-off voltage in a certain experiment is 1.5 V.\nWhat is the maximum kinetic energy of photoelectrons emitted?",
+          "bbox": {
+            "x_min": 0.0814,
+            "y_min": 0.24,
+            "x_max": 0.7126,
+            "y_max": 0.268,
+            "width": 0.6312,
+            "height": 0.028
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "11.4 Monochromatic light of wavelength 632.8 nm is produced by a\nhelium-neon laser. The power emitted is 9.42 mW.",
+          "bbox": {
+            "x_min": 0.0814,
+            "y_min": 0.274,
+            "x_max": 0.715,
+            "y_max": 0.3015,
+            "width": 0.6335,
+            "height": 0.0275
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "(a) Find the energy and momentum of each photon in the light beam,\n(b) How many photons per second, on the average, arrive at a target\nirradiated by this beam? (Assume the beam to have uniform\ncross-section which is less than the target area), and",
+          "bbox": {
+            "x_min": 0.1437,
+            "y_min": 0.308,
+            "x_max": 0.7144,
+            "y_max": 0.3695,
+            "width": 0.5707,
+            "height": 0.0615
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6806,
+            "y_min": 0.3049,
+            "x_max": 0.8691,
+            "y_max": 0.4477,
+            "width": 0.1885,
+            "height": 0.1428
+          },
+          "confidence": 0.9438
+        },
+        {
+          "text": "(c) How fast does a hydrogen atom have to travel in order to have\nthe same momentum as that of the photon?",
+          "bbox": {
+            "x_min": 0.1437,
+            "y_min": 0.3759,
+            "x_max": 0.715,
+            "y_max": 0.403,
+            "width": 0.5713,
+            "height": 0.0271
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "11.5 In an experiment on photoelectric effect, the slope of the cut-off voltage\nversus frequency of incident light is found to be 4.12 × 10-15 V s. Calculate\nthe value of Planck's constant.",
+          "bbox": {
+            "x_min": 0.0814,
+            "y_min": 0.4095,
+            "x_max": 0.7144,
+            "y_max": 0.4508,
+            "width": 0.6329,
+            "height": 0.0413
+          },
+          "confidence": 0.9838
+        },
+        {
+          "text": "11.6 The threshold frequency for a certain metal is 3.3 × 1014 Hz. If light\nof frequency 8.2 × 1014 Hz is incident on the metal, predict the cut-\noff voltage for the photoelectric emission.",
+          "bbox": {
+            "x_min": 0.0826,
+            "y_min": 0.4572,
+            "x_max": 0.7138,
+            "y_max": 0.5041,
+            "width": 0.6312,
+            "height": 0.0469
+          },
+          "confidence": 0.9854
+        },
+        {
+          "text": "11.7 The work function for a certain metal is 4.2 eV. Will this metal give\nhotoelectric emission for incident radiation of wavelength 330 nm?\n11.8 Light of frequency 7.21 × 1014 Hz is incident on a metal surface.\nElectrons with a maximum speed of 6.0 × 105 m/s are ejected from\nthe surface. What is the threshold frequency for photoemission of\nelectrons?",
+          "bbox": {
+            "x_min": 0.0814,
+            "y_min": 0.5114,
+            "x_max": 0.7161,
+            "y_max": 0.6034,
+            "width": 0.6347,
+            "height": 0.092
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "11.9",
+          "bbox": {
+            "x_min": 0.0791,
+            "y_min": 0.6142,
+            "x_max": 0.1222,
+            "y_max": 0.6228,
+            "width": 0.043,
+            "height": 0.0086
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "Light of wavelength 488 nm is produced by an argon laser which is\nused in the photoelectric effect. When light from this spectral line is\nincident on the emitter, the stopping (cut-off) potential of\nphotoelectrons is 0.38 V. Find the work function of the material from\nwhich the emitter is made.",
+          "bbox": {
+            "x_min": 0.1419,
+            "y_min": 0.6138,
+            "x_max": 0.7161,
+            "y_max": 0.6877,
+            "width": 0.5742,
+            "height": 0.074
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "11.10 What is the de Broglie wavelength of",
+          "bbox": {
+            "x_min": 0.082,
+            "y_min": 0.6968,
+            "x_max": 0.4584,
+            "y_max": 0.7092,
+            "width": 0.3764,
+            "height": 0.0125
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "(a) a bullet of mass 0.040 kg travelling at the speed of 1.0 km/s,\n(b) a ball of mass 0.060 kg moving at a speed of 1.0 m/s, and\n(c) a dust particle of mass 1.0 × 10¯º kg drifting with a speed of 2.2\nm/s?",
+          "bbox": {
+            "x_min": 0.1437,
+            "y_min": 0.7118,
+            "x_max": 0.7132,
+            "y_max": 0.7738,
+            "width": 0.5695,
+            "height": 0.0619
+          },
+          "confidence": 0.9742
+        },
+        {
+          "text": "11.11 Show that the wavelength of electromagnetic radiation is equal to\nthe de Broglie wavelength of its quantum (photon).",
+          "bbox": {
+            "x_min": 0.082,
+            "y_min": 0.7802,
+            "x_max": 0.7144,
+            "y_max": 0.8086,
+            "width": 0.6323,
+            "height": 0.0284
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9738,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.009
+          },
+          "confidence": 0.9816
+        },
+        {
+          "text": "289",
+          "bbox": {
+            "x_min": 0.865,
+            "y_min": 0.9398,
+            "x_max": 0.9005,
+            "y_max": 0.9488,
+            "width": 0.0355,
+            "height": 0.009
+          },
+          "confidence": 0.9926
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

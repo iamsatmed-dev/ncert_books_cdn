@@ -1,0 +1,6028 @@
+{
+  "chapter_id": "12th_physics_ch08_electromagnetic_waves_ch08_electromagnetic_waves_en",
+  "total_pages": 14,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "Chapter Eight",
+          "bbox": {
+            "x_min": 0.0992,
+            "y_min": 0.1398,
+            "x_max": 0.4245,
+            "y_max": 0.1761,
+            "width": 0.3253,
+            "height": 0.0364
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "12089CH08",
+          "bbox": {
+            "x_min": 0.7802,
+            "y_min": 0.1646,
+            "x_max": 0.8253,
+            "y_max": 0.1695,
+            "width": 0.0451,
+            "height": 0.0049
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "ELECTROMAGNETIC",
+          "bbox": {
+            "x_min": 0.1015,
+            "y_min": 0.2076,
+            "x_max": 0.8331,
+            "y_max": 0.2538,
+            "width": 0.7317,
+            "height": 0.0461
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "WAVES",
+          "bbox": {
+            "x_min": 0.0947,
+            "y_min": 0.2813,
+            "x_max": 0.3602,
+            "y_max": 0.3301,
+            "width": 0.2655,
+            "height": 0.0488
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "n",
+          "bbox": {
+            "x_min": 0.2086,
+            "y_min": 0.7618,
+            "x_max": 0.2943,
+            "y_max": 0.8172,
+            "width": 0.0857,
+            "height": 0.0555
+          },
+          "confidence": 0.9244
+        },
+        {
+          "text": "republished",
+          "bbox": {
+            "x_min": 0.4769,
+            "y_min": 0.3061,
+            "x_max": 0.8557,
+            "y_max": 0.6074,
+            "width": 0.3788,
+            "height": 0.3012
+          },
+          "confidence": 0.9289
+        },
+        {
+          "text": "NCERT",
+          "bbox": {
+            "x_min": 0.367,
+            "y_min": 0.3988,
+            "x_max": 0.6088,
+            "y_max": 0.5821,
+            "width": 0.2418,
+            "height": 0.1832
+          },
+          "confidence": 0.8663
+        },
+        {
+          "text": "8.1 INTRODUCTION",
+          "bbox": {
+            "x_min": 0.2852,
+            "y_min": 0.5692,
+            "x_max": 0.5051,
+            "y_max": 0.587,
+            "width": 0.2198,
+            "height": 0.0177
+          },
+          "confidence": 0.9831
+        },
+        {
+          "text": "In Chapter 4, we learnt that an electric current produces magnetic field\nand that two current-carrying wires exert a magnetic force on each other.\nFurther, in Chapter 6, we have seen that a magnetic field changing with\ntime gives rise to an electric field. Is the converse also true? Does an\nelectric field changing with time give rise to a magnetic field? James Clerk\nMaxwell (1831-1879), argued that this was indeed the case – not only\nan electric current but also a time-varying electric field generates magnetic\nfield. While applying the Ampere's circuital law to find magnetic field at a\npoint outside a capacitor connected to a time-varying current, Maxwell\nnoticed an inconsistency in the Ampere's circuital law. He suggested the\nexistence of an additional current, called by him, the displacement\ncurrent to remove this inconsistency.",
+          "bbox": {
+            "x_min": 0.2841,
+            "y_min": 0.5989,
+            "x_max": 0.8726,
+            "y_max": 0.7928,
+            "width": 0.5885,
+            "height": 0.1939
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "Maxwell formulated a set of equations involving electric and magnetic\nfields, and their sources, the charge and current densities. These\nequations are known as Maxwell's equations. Together with the Lorentz\nforce formula (Chapter 4), they mathematically express all the basic laws\nof electromagnetism.",
+          "bbox": {
+            "x_min": 0.2847,
+            "y_min": 0.7959,
+            "x_max": 0.8726,
+            "y_max": 0.8758,
+            "width": 0.5879,
+            "height": 0.0799
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "The most important prediction to emerge from Maxwell's equations\nis the existence of electromagnetic waves, which are (coupled) time-\nvarying electric and magnetic fields that propagate in space. The speed\nof the waves, according to these equations, turned out to be very close to",
+          "bbox": {
+            "x_min": 0.2841,
+            "y_min": 0.8784,
+            "x_max": 0.8715,
+            "y_max": 0.9414,
+            "width": 0.5874,
+            "height": 0.063
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.2322,
+            "y_min": 0.0874,
+            "x_max": 0.3388,
+            "y_max": 0.1118,
+            "width": 0.1065,
+            "height": 0.0244
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "James Clerk Maxwell\n(1831 – 1879) Born in\nEdinburgh, Scotland,\nwas among the greatest\nphysicists of the\nnineteenth century. He\nderived the thermal\nvelocity distribution of\nmolecules in a gas and\nwas among the first to\nobtain\nreliable\nestimates of molecular\nparameters\nfrom\nmeasurable quantities\nlike viscosity, etc.\nMaxwell's greatest\nacheivement was the\nunification of the laws of\nelectricity\nand\nmagnetism (discovered\nby Coulomb, Oersted,\nAmpere and Faraday)\ninto a consistent set of\nequations now called\nMaxwell's equations.\nFrom these he arrived at\nthe most important\nconclusion that light is\nan electromagnetic\nwave. Interestingly,\nMaxwell did not agree\nwith the idea (strongly\nsuggested by the\nFaraday's",
+          "bbox": {
+            "x_min": 0.199,
+            "y_min": 0.3478,
+            "x_max": 0.3901,
+            "y_max": 0.8518,
+            "width": 0.1911,
+            "height": 0.504
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "laws",
+          "bbox": {
+            "x_min": 0.3095,
+            "y_min": 0.8407,
+            "x_max": 0.3478,
+            "y_max": 0.85,
+            "width": 0.0383,
+            "height": 0.0093
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "of",
+          "bbox": {
+            "x_min": 0.3715,
+            "y_min": 0.8416,
+            "x_max": 0.3912,
+            "y_max": 0.8492,
+            "width": 0.0197,
+            "height": 0.0075
+          },
+          "confidence": 0.9846
+        },
+        {
+          "text": "electrolysis)",
+          "bbox": {
+            "x_min": 0.2007,
+            "y_min": 0.8563,
+            "x_max": 0.3044,
+            "y_max": 0.8678,
+            "width": 0.1037,
+            "height": 0.0115
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "that",
+          "bbox": {
+            "x_min": 0.3512,
+            "y_min": 0.8558,
+            "x_max": 0.389,
+            "y_max": 0.8647,
+            "width": 0.0378,
+            "height": 0.0089
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "electricity",
+          "bbox": {
+            "x_min": 0.2007,
+            "y_min": 0.8718,
+            "x_max": 0.288,
+            "y_max": 0.8824,
+            "width": 0.0874,
+            "height": 0.0106
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "was",
+          "bbox": {
+            "x_min": 0.354,
+            "y_min": 0.874,
+            "x_max": 0.3878,
+            "y_max": 0.8798,
+            "width": 0.0338,
+            "height": 0.0058
+          },
+          "confidence": 0.9767
+        },
+        {
+          "text": "particulate in nature.",
+          "bbox": {
+            "x_min": 0.2012,
+            "y_min": 0.8869,
+            "x_max": 0.3732,
+            "y_max": 0.8971,
+            "width": 0.1719,
+            "height": 0.0102
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "the speed of light( 3 ×10° m/s), obtained from optical\nmeasurements. This led to the remarkable conclusion\nthat light is an electromagnetic wave. Maxwell's work\nthus unified the domain of electricity, magnetism and\nlight. Hertz, in 1885, experimentally demonstrated the\nexistence of electromagnetic waves. Its technological use\nby Marconi and others led in due course to the\nrevolution in communication that we are witnessing\ntoday.",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.1291,
+            "x_max": 0.9025,
+            "y_max": 0.2897,
+            "width": 0.4498,
+            "height": 0.1606
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "In this chapter, we first discuss the need for\ndisplacement current and its consequences. Then we\npresent a descriptive account of electromagnetic waves.\nThe broad spectrum of electromagnetic waves,\nstretching from y rays (wavelength ~10-12 m) to long\nradio waves (wavelength ~10º m) is described.",
+          "bbox": {
+            "x_min": 0.4538,
+            "y_min": 0.2941,
+            "x_max": 0.9014,
+            "y_max": 0.3971,
+            "width": 0.4476,
+            "height": 0.1029
+          },
+          "confidence": 0.983
+        },
+        {
+          "text": "8.2 DISPLACEMENT CURRENT",
+          "bbox": {
+            "x_min": 0.4543,
+            "y_min": 0.4126,
+            "x_max": 0.7869,
+            "y_max": 0.4286,
+            "width": 0.3326,
+            "height": 0.016
+          },
+          "confidence": 0.9841
+        },
+        {
+          "text": "We have seen in Chapter 4 that an electrical current\nproduces a magnetic field around it. Maxwell showed\nthat for logical consistency, a changing electric field must\nalso produce a magnetic field. This effect is of great\nimportance because it explains the existence of radio\nwaves, gamma rays and visible light, as well as all other\nforms of electromagnetic waves.",
+          "bbox": {
+            "x_min": 0.4532,
+            "y_min": 0.4428,
+            "x_max": 0.903,
+            "y_max": 0.5599,
+            "width": 0.4498,
+            "height": 0.1171
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "To see how a changing electric field gives rise to\na magnetic field, let us consider the process of\ncharging of a capacitor and apply Ampere's circuital\nlaw given by (Chapter 4)",
+          "bbox": {
+            "x_min": 0.4543,
+            "y_min": 0.5639,
+            "x_max": 0.9025,
+            "y_max": 0.6291,
+            "width": 0.4481,
+            "height": 0.0652
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "$B.dl =",
+          "bbox": {
+            "x_min": 0.4859,
+            "y_min": 0.6415,
+            "x_max": 0.544,
+            "y_max": 0.6544,
+            "width": 0.0581,
+            "height": 0.0129
+          },
+          "confidence": 0.7235
+        },
+        {
+          "text": "μοί (t)",
+          "bbox": {
+            "x_min": 0.5507,
+            "y_min": 0.6433,
+            "x_max": 0.5975,
+            "y_max": 0.6575,
+            "width": 0.0468,
+            "height": 0.0142
+          },
+          "confidence": 0.8013
+        },
+        {
+          "text": "(8.1)",
+          "bbox": {
+            "x_min": 0.8619,
+            "y_min": 0.6429,
+            "x_max": 0.9008,
+            "y_max": 0.6548,
+            "width": 0.0389,
+            "height": 0.012
+          },
+          "confidence": 0.9826
+        },
+        {
+          "text": "to find magnetic field at a point outside the capacitor.\nFigure 8.1(a) shows a parallel plate capacitor C which\nis a part of circuit through which a time-dependent\ncurrent i (t) flows. Let us find the magnetic field at a\npoint such as P, in a region outside the parallel plate\ncapacitor. For this, we consider a plane circular loop of\nradius r whose plane is perpendicular to the direction",
+          "bbox": {
+            "x_min": 0.4543,
+            "y_min": 0.669,
+            "x_max": 0.9025,
+            "y_max": 0.7839,
+            "width": 0.4481,
+            "height": 0.1149
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "of the current-carrying wire, and which is centred\nsymmetrically with respect to the wire [Fig. 8.1(a)]. From\nsymmetry, the magnetic field is directed along the\ncircumference of the circular loop and is the same in\nmagnitude at all points on the loop so that if B is the\nmagnitude of the field, the left side of Eq. (8.1) is B (2πι).\nSo we have",
+          "bbox": {
+            "x_min": 0.4538,
+            "y_min": 0.7884,
+            "x_max": 0.9019,
+            "y_max": 0.8997,
+            "width": 0.4481,
+            "height": 0.1114
+          },
+          "confidence": 0.9856
+        },
+        {
+          "text": "Β (2πr) = μοί (t)",
+          "bbox": {
+            "x_min": 0.4842,
+            "y_min": 0.9139,
+            "x_max": 0.5986,
+            "y_max": 0.929,
+            "width": 0.1144,
+            "height": 0.0151
+          },
+          "confidence": 0.8162
+        },
+        {
+          "text": "(8.2)",
+          "bbox": {
+            "x_min": 0.8585,
+            "y_min": 0.9135,
+            "x_max": 0.9002,
+            "y_max": 0.9255,
+            "width": 0.0417,
+            "height": 0.012
+          },
+          "confidence": 0.9707
+        },
+        {
+          "text": "JAMES CLERK MAXWELL (1831–1879)",
+          "bbox": {
+            "x_min": 0.1375,
+            "y_min": 0.5688,
+            "x_max": 0.1578,
+            "y_max": 0.8864,
+            "width": 0.0203,
+            "height": 0.3177
+          },
+          "confidence": 0.98
+        },
+        {
+          "text": "202",
+          "bbox": {
+            "x_min": 0.1398,
+            "y_min": 0.9241,
+            "x_max": 0.1731,
+            "y_max": 0.9339,
+            "width": 0.0333,
+            "height": 0.0098
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "Electromagnetic\nWaves",
+          "bbox": {
+            "x_min": 0.6139,
+            "y_min": 0.0692,
+            "x_max": 0.8089,
+            "y_max": 0.1078,
+            "width": 0.195,
+            "height": 0.0386
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "Now, consider a different surface, which has the same boundary. This\nis a pot like surface [Fig. 8.1(b)] which nowhere touches the current, but\nhas its bottom between the capacitor plates; its mouth is the circular\nloop mentioned above. Another such surface is shaped like a tiffin box\n(without the lid) [Fig. 8.1(c)]. On applying Ampere's circuital law to such\nsurfaces with the same perimeter, we find that the left hand side of\nEq. (8.1) has not changed but the right hand side is zero and not µoi,\nsince no current passes through the surface of Fig. 8.1(b) and (c). So we\nhave a contradiction; calculated one way, there is a magnetic field at a\npoint P; calculated another way, the magnetic field at P is zero.",
+          "bbox": {
+            "x_min": 0.0975,
+            "y_min": 0.1309,
+            "x_max": 0.6871,
+            "y_max": 0.2933,
+            "width": 0.5896,
+            "height": 0.1624
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "i(t)",
+          "bbox": {
+            "x_min": 0.7057,
+            "y_min": 0.173,
+            "x_max": 0.7193,
+            "y_max": 0.1815,
+            "width": 0.0135,
+            "height": 0.0084
+          },
+          "confidence": 0.9263
+        },
+        {
+          "text": "Since the contradiction arises from our use of Ampere's circuital law,\nthis law must be missing something. The missing term must be such\nthat one gets the same magnetic field at point P, no matter what surface i(t)\nis used.",
+          "bbox": {
+            "x_min": 0.0981,
+            "y_min": 0.2959,
+            "x_max": 0.7198,
+            "y_max": 0.3554,
+            "width": 0.6218,
+            "height": 0.0594
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "We can actually guess the missing term by looking carefully at\nFig. 8.1(c). Is there anything passing through the surface S between the\nplates of the capacitor? Yes, of course, the electric field! If the plates of the\ncapacitor have an area A, and a total charge Q, the magnitude of the\nelectric field E between the plates is (Q/A)/ɛ (see Eq. 2.41). The field is\nperpendicular to the surface S of Fig. 8.1(c). It has the same magnitude\nover the area A of the capacitor plates, and vanishes outside it. So what\nis the electric flux 4』 through the surface S? Using Gauss's law, it is",
+          "bbox": {
+            "x_min": 0.0975,
+            "y_min": 0.3611,
+            "x_max": 0.6855,
+            "y_max": 0.492,
+            "width": 0.5879,
+            "height": 0.1309
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "= EA=10A=9",
+          "bbox": {
+            "x_min": 0.1539,
+            "y_min": 0.5,
+            "x_max": 0.3168,
+            "y_max": 0.5191,
+            "width": 0.1629,
+            "height": 0.0191
+          },
+          "confidence": 0.714
+        },
+        {
+          "text": "ερ Α",
+          "bbox": {
+            "x_min": 0.2182,
+            "y_min": 0.5191,
+            "x_max": 0.2587,
+            "y_max": 0.5315,
+            "width": 0.0406,
+            "height": 0.0124
+          },
+          "confidence": 0.4544
+        },
+        {
+          "text": "Εο",
+          "bbox": {
+            "x_min": 0.2959,
+            "y_min": 0.5217,
+            "x_max": 0.3123,
+            "y_max": 0.5315,
+            "width": 0.0163,
+            "height": 0.0098
+          },
+          "confidence": 0.3982
+        },
+        {
+          "text": "i(t)",
+          "bbox": {
+            "x_min": 0.7057,
+            "y_min": 0.4854,
+            "x_max": 0.7204,
+            "y_max": 0.4947,
+            "width": 0.0147,
+            "height": 0.0093
+          },
+          "confidence": 0.9147
+        },
+        {
+          "text": "P",
+          "bbox": {
+            "x_min": 0.7475,
+            "y_min": 0.4601,
+            "x_max": 0.7599,
+            "y_max": 0.4667,
+            "width": 0.0124,
+            "height": 0.0067
+          },
+          "confidence": 0.955
+        },
+        {
+          "text": "P",
+          "bbox": {
+            "x_min": 0.7525,
+            "y_min": 0.3026,
+            "x_max": 0.7661,
+            "y_max": 0.3092,
+            "width": 0.0135,
+            "height": 0.0067
+          },
+          "confidence": 0.9552
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.7824,
+            "y_min": 0.1327,
+            "x_max": 0.7914,
+            "y_max": 0.138,
+            "width": 0.009,
+            "height": 0.0053
+          },
+          "confidence": 0.9532
+        },
+        {
+          "text": "P M-",
+          "bbox": {
+            "x_min": 0.7593,
+            "y_min": 0.1415,
+            "x_max": 0.8089,
+            "y_max": 0.1486,
+            "width": 0.0496,
+            "height": 0.0071
+          },
+          "confidence": 0.8983
+        },
+        {
+          "text": "be republish",
+          "bbox": {
+            "x_min": 0.3811,
+            "y_min": 0.3638,
+            "x_max": 0.788,
+            "y_max": 0.6744,
+            "width": 0.407,
+            "height": 0.3106
+          },
+          "confidence": 0.8346
+        },
+        {
+          "text": "(8.3)",
+          "bbox": {
+            "x_min": 0.646,
+            "y_min": 0.5124,
+            "x_max": 0.6832,
+            "y_max": 0.5244,
+            "width": 0.0372,
+            "height": 0.012
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "Now if the charge Q on the capacitor plates changes with time, there is a\ncurrent i = (dQ/dt), so that using Eq. (8.3), we have",
+          "bbox": {
+            "x_min": 0.0975,
+            "y_min": 0.5399,
+            "x_max": 0.6849,
+            "y_max": 0.5701,
+            "width": 0.5874,
+            "height": 0.0302
+          },
+          "confidence": 0.9826
+        },
+        {
+          "text": "E",
+          "bbox": {
+            "x_min": 0.1516,
+            "y_min": 0.5909,
+            "x_max": 0.164,
+            "y_max": 0.5972,
+            "width": 0.0124,
+            "height": 0.0062
+          },
+          "confidence": 0.886
+        },
+        {
+          "text": "dΦε\ndt",
+          "bbox": {
+            "x_min": 0.1302,
+            "y_min": 0.5847,
+            "x_max": 0.1623,
+            "y_max": 0.6131,
+            "width": 0.0321,
+            "height": 0.0284
+          },
+          "confidence": 0.7023
+        },
+        {
+          "text": "dQ 1 dg\ndt",
+          "bbox": {
+            "x_min": 0.1821,
+            "y_min": 0.5839,
+            "x_max": 0.3095,
+            "y_max": 0.614,
+            "width": 0.1274,
+            "height": 0.0302
+          },
+          "confidence": 0.8165
+        },
+        {
+          "text": "E dt",
+          "bbox": {
+            "x_min": 0.2627,
+            "y_min": 0.6038,
+            "x_max": 0.3061,
+            "y_max": 0.6136,
+            "width": 0.0434,
+            "height": 0.0098
+          },
+          "confidence": 0.7597
+        },
+        {
+          "text": "This implies that for consistency,",
+          "bbox": {
+            "x_min": 0.097,
+            "y_min": 0.6269,
+            "x_max": 0.3687,
+            "y_max": 0.6402,
+            "width": 0.2717,
+            "height": 0.0133
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "Εο",
+          "bbox": {
+            "x_min": 0.1291,
+            "y_min": 0.6615,
+            "x_max": 0.1443,
+            "y_max": 0.6708,
+            "width": 0.0152,
+            "height": 0.0093
+          },
+          "confidence": 0.4746
+        },
+        {
+          "text": "E",
+          "bbox": {
+            "x_min": 0.1787,
+            "y_min": 0.6566,
+            "x_max": 0.1917,
+            "y_max": 0.6633,
+            "width": 0.013,
+            "height": 0.0067
+          },
+          "confidence": 0.9214
+        },
+        {
+          "text": "(d) =",
+          "bbox": {
+            "x_min": 0.1471,
+            "y_min": 0.6473,
+            "x_max": 0.2193,
+            "y_max": 0.6797,
+            "width": 0.0722,
+            "height": 0.0324
+          },
+          "confidence": 0.7427
+        },
+        {
+          "text": "dt",
+          "bbox": {
+            "x_min": 0.1629,
+            "y_min": 0.6686,
+            "x_max": 0.1866,
+            "y_max": 0.6783,
+            "width": 0.0237,
+            "height": 0.0098
+          },
+          "confidence": 0.9851
+        },
+        {
+          "text": "= i",
+          "bbox": {
+            "x_min": 0.2091,
+            "y_min": 0.6597,
+            "x_max": 0.2328,
+            "y_max": 0.669,
+            "width": 0.0237,
+            "height": 0.0093
+          },
+          "confidence": 0.9703
+        },
+        {
+          "text": "+++++",
+          "bbox": {
+            "x_min": 0.7835,
+            "y_min": 0.142,
+            "x_max": 0.7903,
+            "y_max": 0.1908,
+            "width": 0.0068,
+            "height": 0.0488
+          },
+          "confidence": 0.934
+        },
+        {
+          "text": "++++",
+          "bbox": {
+            "x_min": 0.783,
+            "y_min": 0.1859,
+            "x_max": 0.7903,
+            "y_max": 0.2236,
+            "width": 0.0073,
+            "height": 0.0377
+          },
+          "confidence": 0.946
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.7847,
+            "y_min": 0.2573,
+            "x_max": 0.8021,
+            "y_max": 0.2675,
+            "width": 0.0175,
+            "height": 0.0102
+          },
+          "confidence": 0.9718
+        },
+        {
+          "text": "+++++++++",
+          "bbox": {
+            "x_min": 0.7875,
+            "y_min": 0.2879,
+            "x_max": 0.7948,
+            "y_max": 0.3789,
+            "width": 0.0073,
+            "height": 0.0909
+          },
+          "confidence": 0.94
+        },
+        {
+          "text": "C",
+          "bbox": {
+            "x_min": 0.7875,
+            "y_min": 0.3971,
+            "x_max": 0.8005,
+            "y_max": 0.4037,
+            "width": 0.013,
+            "height": 0.0067
+          },
+          "confidence": 0.9526
+        },
+        {
+          "text": "C",
+          "bbox": {
+            "x_min": 0.7864,
+            "y_min": 0.5528,
+            "x_max": 0.7988,
+            "y_max": 0.5599,
+            "width": 0.0124,
+            "height": 0.0071
+          },
+          "confidence": 0.9517
+        },
+        {
+          "text": "(c)",
+          "bbox": {
+            "x_min": 0.783,
+            "y_min": 0.571,
+            "x_max": 0.7988,
+            "y_max": 0.5799,
+            "width": 0.0158,
+            "height": 0.0089
+          },
+          "confidence": 0.9438
+        },
+        {
+          "text": "C",
+          "bbox": {
+            "x_min": 0.7959,
+            "y_min": 0.232,
+            "x_max": 0.8089,
+            "y_max": 0.2391,
+            "width": 0.013,
+            "height": 0.0071
+          },
+          "confidence": 0.9528
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.7937,
+            "y_min": 0.4135,
+            "x_max": 0.8106,
+            "y_max": 0.4232,
+            "width": 0.0169,
+            "height": 0.0098
+          },
+          "confidence": 0.9859
+        },
+        {
+          "text": "S",
+          "bbox": {
+            "x_min": 0.8219,
+            "y_min": 0.4321,
+            "x_max": 0.8331,
+            "y_max": 0.4388,
+            "width": 0.0113,
+            "height": 0.0067
+          },
+          "confidence": 0.958
+        },
+        {
+          "text": "FIGURE 8.1 A\nparallel plate\ncapacitor C, as part of\na circuit through\nwhich a time\ndependent current",
+          "bbox": {
+            "x_min": 0.6956,
+            "y_min": 0.5914,
+            "x_max": 0.8732,
+            "y_max": 0.6637,
+            "width": 0.1776,
+            "height": 0.0723
+          },
+          "confidence": 0.9854
+        },
+        {
+          "text": "(8.4) i (t) flows, (a) a loop of",
+          "bbox": {
+            "x_min": 0.6471,
+            "y_min": 0.6597,
+            "x_max": 0.8732,
+            "y_max": 0.6766,
+            "width": 0.226,
+            "height": 0.0169
+          },
+          "confidence": 0.9722
+        },
+        {
+          "text": "This is the missing term in Ampere's circuital law. If we generalise\nthis law by adding to the total current carried by conductors through\nthe surface, another term which is ɛο times the rate of change of electric\nflux through the same surface, the total has the same value of current i\nfor all surfaces. If this is done, there is no contradiction in the value of B\nobtained anywhere using the generalised Ampere's law. Bat the point P\nis non-zero no matter which surface is used for calculating it. B at a\npoint P outside the plates [Fig. 8.1(a)] is the same as at a point M just\ninside, as it should be. The current carried by conductors due to flow of\ncharges is called conduction current. The current, given by Eq. (8.4), is a\nnew term, and is due to changing electric field (or electric displacement,\nan old term still used sometimes). It is, therefore, called displacement\ncurrent or Maxwell's displacement current. Figure 8.2 shows the electric\nand magnetic fields inside the parallel plate capacitor discussed above.",
+          "bbox": {
+            "x_min": 0.0981,
+            "y_min": 0.6841,
+            "x_max": 0.6888,
+            "y_max": 0.9077,
+            "width": 0.5908,
+            "height": 0.2236
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "The generalisation made by Maxwell then is the following. The source\nof a magnetic field is not just the conduction electric current due to flowing",
+          "bbox": {
+            "x_min": 0.0981,
+            "y_min": 0.9108,
+            "x_max": 0.6855,
+            "y_max": 0.9401,
+            "width": 0.5874,
+            "height": 0.0293
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "radius r, to determine\nmagnetic field at a\npoint P on the loop;\n(b) a pot-shaped\nsurface passing\nthrough the interior\nbetween the capacitor\nplates with the loop\nshown in (a) as its",
+          "bbox": {
+            "x_min": 0.6945,
+            "y_min": 0.6775,
+            "x_max": 0.8726,
+            "y_max": 0.7879,
+            "width": 0.1781,
+            "height": 0.1105
+          },
+          "confidence": 0.9856
+        },
+        {
+          "text": "rim; (c) a tiffin-\nshaped surface with\nthe circular loop as\nits rim and a flat\ncircular bottom S",
+          "bbox": {
+            "x_min": 0.7024,
+            "y_min": 0.7884,
+            "x_max": 0.8641,
+            "y_max": 0.8474,
+            "width": 0.1618,
+            "height": 0.059
+          },
+          "confidence": 0.9822
+        },
+        {
+          "text": "between the capacitor\nplates. The arrows\nshow uniform electric\nfield between the\ncapacitor plates.",
+          "bbox": {
+            "x_min": 0.695,
+            "y_min": 0.8456,
+            "x_max": 0.8726,
+            "y_max": 0.9117,
+            "width": 0.1776,
+            "height": 0.0661
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "203",
+          "bbox": {
+            "x_min": 0.8253,
+            "y_min": 0.9241,
+            "x_max": 0.8585,
+            "y_max": 0.9335,
+            "width": 0.0333,
+            "height": 0.0093
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.2311,
+            "y_min": 0.0878,
+            "x_max": 0.3388,
+            "y_max": 0.1109,
+            "width": 0.1077,
+            "height": 0.0231
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "Po",
+          "bbox": {
+            "x_min": 0.1979,
+            "y_min": 0.1335,
+            "x_max": 0.2052,
+            "y_max": 0.1491,
+            "width": 0.0073,
+            "height": 0.0155
+          },
+          "confidence": 0.7697
+        },
+        {
+          "text": "M",
+          "bbox": {
+            "x_min": 0.2232,
+            "y_min": 0.1313,
+            "x_max": 0.2396,
+            "y_max": 0.1384,
+            "width": 0.0163,
+            "height": 0.0071
+          },
+          "confidence": 0.9273
+        },
+        {
+          "text": "P",
+          "bbox": {
+            "x_min": 0.1962,
+            "y_min": 0.1358,
+            "x_max": 0.2097,
+            "y_max": 0.1433,
+            "width": 0.0135,
+            "height": 0.0075
+          },
+          "confidence": 0.9355
+        },
+        {
+          "text": "E",
+          "bbox": {
+            "x_min": 0.2616,
+            "y_min": 0.1331,
+            "x_max": 0.2751,
+            "y_max": 0.1402,
+            "width": 0.0135,
+            "height": 0.0071
+          },
+          "confidence": 0.9303
+        },
+        {
+          "text": "B",
+          "bbox": {
+            "x_min": 0.1866,
+            "y_min": 0.1681,
+            "x_max": 0.2018,
+            "y_max": 0.1752,
+            "width": 0.0152,
+            "height": 0.0071
+          },
+          "confidence": 0.9576
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.217,
+            "y_min": 0.1757,
+            "x_max": 0.2289,
+            "y_max": 0.1823,
+            "width": 0.0118,
+            "height": 0.0067
+          },
+          "confidence": 0.5549
+        },
+        {
+          "text": "i(t)",
+          "bbox": {
+            "x_min": 0.1347,
+            "y_min": 0.1828,
+            "x_max": 0.1511,
+            "y_max": 0.1917,
+            "width": 0.0163,
+            "height": 0.0089
+          },
+          "confidence": 0.9781
+        },
+        {
+          "text": "charges, but also the time rate of change of electric field. More\nprecisely, the total current i is the sum of the conduction current\ndenoted by i, and the displacement current denoted by ia (= &0\n(do/dt)). So we have",
+          "bbox": {
+            "x_min": 0.3613,
+            "y_min": 0.1304,
+            "x_max": 0.9019,
+            "y_max": 0.1934,
+            "width": 0.5406,
+            "height": 0.063
+          },
+          "confidence": 0.978
+        },
+        {
+          "text": "i=ic +i₁ = i + Eo",
+          "bbox": {
+            "x_min": 0.3935,
+            "y_min": 0.213,
+            "x_max": 0.5197,
+            "y_max": 0.2258,
+            "width": 0.1263,
+            "height": 0.0129
+          },
+          "confidence": 0.7152
+        },
+        {
+          "text": "(8.5)",
+          "bbox": {
+            "x_min": 0.8625,
+            "y_min": 0.2138,
+            "x_max": 0.9008,
+            "y_max": 0.2263,
+            "width": 0.0383,
+            "height": 0.0124
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "X",
+          "bbox": {
+            "x_min": 0.1511,
+            "y_min": 0.3753,
+            "x_max": 0.1623,
+            "y_max": 0.3851,
+            "width": 0.0113,
+            "height": 0.0098
+          },
+          "confidence": 0.823
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.1793,
+            "y_min": 0.3487,
+            "x_max": 0.195,
+            "y_max": 0.3616,
+            "width": 0.0158,
+            "height": 0.0129
+          },
+          "confidence": 0.8165
+        },
+        {
+          "text": "C",
+          "bbox": {
+            "x_min": 0.2334,
+            "y_min": 0.2511,
+            "x_max": 0.2463,
+            "y_max": 0.2582,
+            "width": 0.013,
+            "height": 0.0071
+          },
+          "confidence": 0.9519
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.2289,
+            "y_min": 0.2724,
+            "x_max": 0.2469,
+            "y_max": 0.2831,
+            "width": 0.018,
+            "height": 0.0106
+          },
+          "confidence": 0.9744
+        },
+        {
+          "text": "B",
+          "bbox": {
+            "x_min": 0.2345,
+            "y_min": 0.3434,
+            "x_max": 0.248,
+            "y_max": 0.35,
+            "width": 0.0135,
+            "height": 0.0067
+          },
+          "confidence": 0.9597
+        },
+        {
+          "text": "X X X X X",
+          "bbox": {
+            "x_min": 0.1809,
+            "y_min": 0.3753,
+            "x_max": 0.3083,
+            "y_max": 0.3824,
+            "width": 0.1274,
+            "height": 0.0071
+          },
+          "confidence": 0.6483
+        },
+        {
+          "text": "E",
+          "bbox": {
+            "x_min": 0.3083,
+            "y_min": 0.3811,
+            "x_max": 0.323,
+            "y_max": 0.3886,
+            "width": 0.0147,
+            "height": 0.0075
+          },
+          "confidence": 0.9451
+        },
+        {
+          "text": "B",
+          "bbox": {
+            "x_min": 0.1443,
+            "y_min": 0.39,
+            "x_max": 0.1595,
+            "y_max": 0.3984,
+            "width": 0.0152,
+            "height": 0.0084
+          },
+          "confidence": 0.9522
+        },
+        {
+          "text": "r",
+          "bbox": {
+            "x_min": 0.2537,
+            "y_min": 0.3891,
+            "x_max": 0.2632,
+            "y_max": 0.3949,
+            "width": 0.0096,
+            "height": 0.0058
+          },
+          "confidence": 0.9538
+        },
+        {
+          "text": "XX",
+          "bbox": {
+            "x_min": 0.1798,
+            "y_min": 0.3984,
+            "x_max": 0.2215,
+            "y_max": 0.4051,
+            "width": 0.0417,
+            "height": 0.0067
+          },
+          "confidence": 0.749
+        },
+        {
+          "text": "X",
+          "bbox": {
+            "x_min": 0.2666,
+            "y_min": 0.3988,
+            "x_max": 0.2813,
+            "y_max": 0.4055,
+            "width": 0.0147,
+            "height": 0.0067
+          },
+          "confidence": 0.8076
+        },
+        {
+          "text": "X X X",
+          "bbox": {
+            "x_min": 0.1505,
+            "y_min": 0.4215,
+            "x_max": 0.221,
+            "y_max": 0.429,
+            "width": 0.0705,
+            "height": 0.0075
+          },
+          "confidence": 0.7095
+        },
+        {
+          "text": "X",
+          "bbox": {
+            "x_min": 0.2368,
+            "y_min": 0.4215,
+            "x_max": 0.2525,
+            "y_max": 0.4281,
+            "width": 0.0158,
+            "height": 0.0067
+          },
+          "confidence": 0.7945
+        },
+        {
+          "text": "X",
+          "bbox": {
+            "x_min": 0.2666,
+            "y_min": 0.4215,
+            "x_max": 0.2813,
+            "y_max": 0.4277,
+            "width": 0.0147,
+            "height": 0.0062
+          },
+          "confidence": 0.8514
+        },
+        {
+          "text": "BX",
+          "bbox": {
+            "x_min": 0.3089,
+            "y_min": 0.4188,
+            "x_max": 0.341,
+            "y_max": 0.4286,
+            "width": 0.0321,
+            "height": 0.0098
+          },
+          "confidence": 0.6987
+        },
+        {
+          "text": "R",
+          "bbox": {
+            "x_min": 0.2514,
+            "y_min": 0.4326,
+            "x_max": 0.2672,
+            "y_max": 0.4397,
+            "width": 0.0158,
+            "height": 0.0071
+          },
+          "confidence": 0.9711
+        },
+        {
+          "text": "X",
+          "bbox": {
+            "x_min": 0.1488,
+            "y_min": 0.445,
+            "x_max": 0.1652,
+            "y_max": 0.4516,
+            "width": 0.0163,
+            "height": 0.0067
+          },
+          "confidence": 0.8071
+        },
+        {
+          "text": "X",
+          "bbox": {
+            "x_min": 0.2074,
+            "y_min": 0.445,
+            "x_max": 0.2232,
+            "y_max": 0.4516,
+            "width": 0.0158,
+            "height": 0.0067
+          },
+          "confidence": 0.8164
+        },
+        {
+          "text": "X",
+          "bbox": {
+            "x_min": 0.2373,
+            "y_min": 0.445,
+            "x_max": 0.2525,
+            "y_max": 0.4516,
+            "width": 0.0152,
+            "height": 0.0067
+          },
+          "confidence": 0.7539
+        },
+        {
+          "text": "X",
+          "bbox": {
+            "x_min": 0.1776,
+            "y_min": 0.4667,
+            "x_max": 0.195,
+            "y_max": 0.4756,
+            "width": 0.0175,
+            "height": 0.0089
+          },
+          "confidence": 0.5629
+        },
+        {
+          "text": "مسة",
+          "bbox": {
+            "x_min": 0.2103,
+            "y_min": 0.4618,
+            "x_max": 0.2401,
+            "y_max": 0.4667,
+            "width": 0.0299,
+            "height": 0.0049
+          },
+          "confidence": 0.7218
+        },
+        {
+          "text": "XBX X",
+          "bbox": {
+            "x_min": 0.2074,
+            "y_min": 0.4658,
+            "x_max": 0.2807,
+            "y_max": 0.4756,
+            "width": 0.0733,
+            "height": 0.0098
+          },
+          "confidence": 0.9018
+        },
+        {
+          "text": "XX",
+          "bbox": {
+            "x_min": 0.2063,
+            "y_min": 0.4845,
+            "x_max": 0.2537,
+            "y_max": 0.4929,
+            "width": 0.0474,
+            "height": 0.0084
+          },
+          "confidence": 0.8584
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.2227,
+            "y_min": 0.504,
+            "x_max": 0.2396,
+            "y_max": 0.5138,
+            "width": 0.0169,
+            "height": 0.0098
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "X",
+          "bbox": {
+            "x_min": 0.2959,
+            "y_min": 0.4441,
+            "x_max": 0.3123,
+            "y_max": 0.453,
+            "width": 0.0163,
+            "height": 0.0089
+          },
+          "confidence": 0.653
+        },
+        {
+          "text": "FIGURE 8.2 (a) The\nelectric and magnetic\nfields E and B between\nthe capacitor plates, at\nthe point M. (b) A cross\nsectional view of Fig. (a).",
+          "bbox": {
+            "x_min": 0.1359,
+            "y_min": 0.5266,
+            "x_max": 0.3275,
+            "y_max": 0.614,
+            "width": 0.1917,
+            "height": 0.0874
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "204",
+          "bbox": {
+            "x_min": 0.1381,
+            "y_min": 0.9241,
+            "x_max": 0.1747,
+            "y_max": 0.933,
+            "width": 0.0366,
+            "height": 0.0089
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "dΦε E\ndt",
+          "bbox": {
+            "x_min": 0.5242,
+            "y_min": 0.2036,
+            "x_max": 0.5581,
+            "y_max": 0.2316,
+            "width": 0.0338,
+            "height": 0.028
+          },
+          "confidence": 0.7347
+        },
+        {
+          "text": "In explicit terms, this means that outside the capacitor plates,\nwe have only conduction current i = i, and no displacement\ncurrent, i.e., i₁ = 0. On the other hand, inside the capacitor, there is\nno conduction current, i.e., i = 0, and there is only displacement\ncurrent, so that i₁ = i.",
+          "bbox": {
+            "x_min": 0.3608,
+            "y_min": 0.2409,
+            "x_max": 0.9019,
+            "y_max": 0.3212,
+            "width": 0.5411,
+            "height": 0.0803
+          },
+          "confidence": 0.985
+        },
+        {
+          "text": "The generalised (and correct) Ampere's circuital law has the same\nform as Eq. (8.1), with one difference: “the total current passing\nthrough any surface of which the closed loop is the perimeter” is\nthe sum of the conduction current and the displacement current.\nThe generalised law is",
+          "bbox": {
+            "x_min": 0.3596,
+            "y_min": 0.3221,
+            "x_max": 0.9014,
+            "y_max": 0.402,
+            "width": 0.5417,
+            "height": 0.0799
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "$B•dl = μοί + μο εο",
+          "bbox": {
+            "x_min": 0.3935,
+            "y_min": 0.4157,
+            "x_max": 0.5496,
+            "y_max": 0.4366,
+            "width": 0.1561,
+            "height": 0.0209
+          },
+          "confidence": 0.6474
+        },
+        {
+          "text": "dΦε",
+          "bbox": {
+            "x_min": 0.5547,
+            "y_min": 0.4122,
+            "x_max": 0.5862,
+            "y_max": 0.4232,
+            "width": 0.0316,
+            "height": 0.0111
+          },
+          "confidence": 0.4957
+        },
+        {
+          "text": "E",
+          "bbox": {
+            "x_min": 0.5755,
+            "y_min": 0.4179,
+            "x_max": 0.5868,
+            "y_max": 0.4241,
+            "width": 0.0113,
+            "height": 0.0062
+          },
+          "confidence": 0.9495
+        },
+        {
+          "text": "dt",
+          "bbox": {
+            "x_min": 0.5609,
+            "y_min": 0.4312,
+            "x_max": 0.5812,
+            "y_max": 0.4406,
+            "width": 0.0203,
+            "height": 0.0093
+          },
+          "confidence": 0.9773
+        },
+        {
+          "text": "Wish",
+          "bbox": {
+            "x_min": 0.5924,
+            "y_min": 0.3571,
+            "x_max": 0.7841,
+            "y_max": 0.4885,
+            "width": 0.1917,
+            "height": 0.1313
+          },
+          "confidence": 0.7751
+        },
+        {
+          "text": "law.",
+          "bbox": {
+            "x_min": 0.6426,
+            "y_min": 0.4437,
+            "x_max": 0.677,
+            "y_max": 0.4645,
+            "width": 0.0344,
+            "height": 0.0209
+          },
+          "confidence": 0.9142
+        },
+        {
+          "text": "and is known as Ampere-Maxwell law.",
+          "bbox": {
+            "x_min": 0.3619,
+            "y_min": 0.4485,
+            "x_max": 0.6787,
+            "y_max": 0.4618,
+            "width": 0.3168,
+            "height": 0.0133
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "(8.6)",
+          "bbox": {
+            "x_min": 0.8619,
+            "y_min": 0.4215,
+            "x_max": 0.9014,
+            "y_max": 0.4335,
+            "width": 0.0395,
+            "height": 0.012
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "In all respects, the displacement acement current has the same physical\neffects as the conduction current. In some cases, for example, steady\nelectric fields in a conducting wire, the displacement current may\nbe zero since the electric field E does not change with time. In other\ncases, for example, the charging capacitor above, both conduction\nand displacement currents may be present in different regions of\nspace. In most of the cases, they both may be present in the same\nregion of space, as there exist no perfectly conducting or perfectly\ninsulating medium. Most interestingly, there may be large regions\nof space where there is no conduction current, but there is only a\ndisplacement current due to time-varying electric fields. In such a\nregion, we expect a magnetic field, though there is no (conduction)\ncurrent source nearby! The prediction of such a displacement current\ncan be verified experimentally. For example, a magnetic field (say at point\nM) between the plates of the capacitor in Fig. 8.2(a) can be measured and\nis seen to be the same as that just outside (at P).",
+          "bbox": {
+            "x_min": 0.3129,
+            "y_min": 0.4645,
+            "x_max": 0.903,
+            "y_max": 0.7169,
+            "width": 0.5902,
+            "height": 0.2524
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.2159,
+            "y_min": 0.7121,
+            "x_max": 0.3348,
+            "y_max": 0.8114,
+            "width": 0.1189,
+            "height": 0.0994
+          },
+          "confidence": 0.9767
+        },
+        {
+          "text": "The displacement current has (literally) far reaching consequences.\nOne thing we immediately notice is that the laws of electricity and\nmagnetism are now more symmetrical*. Faraday's law of induction states\nthat there is an induced emf equal to the rate of change of magnetic flux.\nNow, since the emf between two points 1 and 2 is the work done per unit\ncharge in taking it from 1 to 2, the existence of an emf implies the existence\nof an electric field. So, we can rephrase Faraday's law of electromagnetic\ninduction by saying that a magnetic field, changing with time, gives rise\nto an electric field. Then, the fact that an electric field changing with\ntime gives rise to a magnetic field, is the symmetrical counterpart, and is",
+          "bbox": {
+            "x_min": 0.3129,
+            "y_min": 0.7192,
+            "x_max": 0.9019,
+            "y_max": 0.878,
+            "width": 0.5891,
+            "height": 0.1588
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "*",
+          "bbox": {
+            "x_min": 0.3117,
+            "y_min": 0.9028,
+            "x_max": 0.3219,
+            "y_max": 0.9073,
+            "width": 0.0101,
+            "height": 0.0044
+          },
+          "confidence": 0.9255
+        },
+        {
+          "text": "They are still not perfectly symmetrical; there are no known sources of magnetic\nfield (magnetic monopoles) analogous to electric charges which are sources of\nelectric field.",
+          "bbox": {
+            "x_min": 0.332,
+            "y_min": 0.9024,
+            "x_max": 0.9036,
+            "y_max": 0.9397,
+            "width": 0.5716,
+            "height": 0.0373
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "Electromagnetic\nWaves",
+          "bbox": {
+            "x_min": 0.6144,
+            "y_min": 0.0688,
+            "x_max": 0.8089,
+            "y_max": 0.1074,
+            "width": 0.1945,
+            "height": 0.0386
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "a consequence of the displacement current being a source of a magnetic\nfield. Thus, time- dependent electric and magnetic fields give rise to each\nother! Faraday's law of electromagnetic induction and Ampere-Maxwell\nlaw give a quantitative expression of this statement, with the current\nbeing the total current, as in Eq. (8.5). One very important consequence\nof this symmetry is the existence of electromagnetic waves, which we\ndiscuss qualitatively in the next section.",
+          "bbox": {
+            "x_min": 0.097,
+            "y_min": 0.1313,
+            "x_max": 0.6855,
+            "y_max": 0.2436,
+            "width": 0.5885,
+            "height": 0.1122
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "MAXWELL'S EQUATIONS IN VACUUM",
+          "bbox": {
+            "x_min": 0.2418,
+            "y_min": 0.2613,
+            "x_max": 0.5457,
+            "y_max": 0.2755,
+            "width": 0.3038,
+            "height": 0.0142
+          },
+          "confidence": 0.9635
+        },
+        {
+          "text": "1. E-dA = Q/80",
+          "bbox": {
+            "x_min": 0.1319,
+            "y_min": 0.3066,
+            "x_max": 0.2655,
+            "y_max": 0.3217,
+            "width": 0.1336,
+            "height": 0.0151
+          },
+          "confidence": 0.6813
+        },
+        {
+          "text": "2. B-dA = 0",
+          "bbox": {
+            "x_min": 0.1297,
+            "y_min": 0.3469,
+            "x_max": 0.2384,
+            "y_max": 0.3576,
+            "width": 0.1088,
+            "height": 0.0106
+          },
+          "confidence": 0.8012
+        },
+        {
+          "text": "3. E-dl",
+          "bbox": {
+            "x_min": 0.1291,
+            "y_min": 0.3891,
+            "x_max": 0.1995,
+            "y_max": 0.3988,
+            "width": 0.0705,
+            "height": 0.0098
+          },
+          "confidence": 0.8269
+        },
+        {
+          "text": "= -d",
+          "bbox": {
+            "x_min": 0.2069,
+            "y_min": 0.3784,
+            "x_max": 0.2424,
+            "y_max": 0.398,
+            "width": 0.0355,
+            "height": 0.0195
+          },
+          "confidence": 0.7223
+        },
+        {
+          "text": "dt",
+          "bbox": {
+            "x_min": 0.23,
+            "y_min": 0.398,
+            "x_max": 0.2531,
+            "y_max": 0.4073,
+            "width": 0.0231,
+            "height": 0.0093
+          },
+          "confidence": 0.9841
+        },
+        {
+          "text": "B",
+          "bbox": {
+            "x_min": 0.2497,
+            "y_min": 0.3855,
+            "x_max": 0.2627,
+            "y_max": 0.3922,
+            "width": 0.013,
+            "height": 0.0067
+          },
+          "confidence": 0.9498
+        },
+        {
+          "text": "4. $B.dl = μοί + μο εο",
+          "bbox": {
+            "x_min": 0.1291,
+            "y_min": 0.421,
+            "x_max": 0.3038,
+            "y_max": 0.4401,
+            "width": 0.1747,
+            "height": 0.0191
+          },
+          "confidence": 0.7056
+        },
+        {
+          "text": "dΦε\ndt",
+          "bbox": {
+            "x_min": 0.3055,
+            "y_min": 0.417,
+            "x_max": 0.3382,
+            "y_max": 0.445,
+            "width": 0.0327,
+            "height": 0.028
+          },
+          "confidence": 0.6841
+        },
+        {
+          "text": "(Gauss's Law for electricity)",
+          "bbox": {
+            "x_min": 0.434,
+            "y_min": 0.3079,
+            "x_max": 0.655,
+            "y_max": 0.3217,
+            "width": 0.221,
+            "height": 0.0138
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "(Gauss's Law for magnetism)",
+          "bbox": {
+            "x_min": 0.434,
+            "y_min": 0.3474,
+            "x_max": 0.6556,
+            "y_max": 0.3598,
+            "width": 0.2215,
+            "height": 0.0124
+          },
+          "confidence": 0.9822
+        },
+        {
+          "text": "(Faraday's Law)",
+          "bbox": {
+            "x_min": 0.4335,
+            "y_min": 0.3886,
+            "x_max": 0.5609,
+            "y_max": 0.4015,
+            "width": 0.1274,
+            "height": 0.0129
+          },
+          "confidence": 0.9793
+        },
+        {
+          "text": "(Ampere – Maxwell Law)",
+          "bbox": {
+            "x_min": 0.434,
+            "y_min": 0.4264,
+            "x_max": 0.6302,
+            "y_max": 0.4397,
+            "width": 0.1962,
+            "height": 0.0133
+          },
+          "confidence": 0.9566
+        },
+        {
+          "text": "8.3 ELECTROMAGNETIC WAVES",
+          "bbox": {
+            "x_min": 0.0958,
+            "y_min": 0.4685,
+            "x_max": 0.4504,
+            "y_max": 0.5062,
+            "width": 0.3546,
+            "height": 0.0377
+          },
+          "confidence": 0.9669
+        },
+        {
+          "text": "xwell.",
+          "bbox": {
+            "x_min": 0.5423,
+            "y_min": 0.4201,
+            "x_max": 0.5947,
+            "y_max": 0.4463,
+            "width": 0.0524,
+            "height": 0.0262
+          },
+          "confidence": 0.9279
+        },
+        {
+          "text": "published",
+          "bbox": {
+            "x_min": 0.5271,
+            "y_min": 0.3057,
+            "x_max": 0.8523,
+            "y_max": 0.5563,
+            "width": 0.3253,
+            "height": 0.2507
+          },
+          "confidence": 0.9098
+        },
+        {
+          "text": "ERT",
+          "bbox": {
+            "x_min": 0.4498,
+            "y_min": 0.39,
+            "x_max": 0.6065,
+            "y_max": 0.5182,
+            "width": 0.1567,
+            "height": 0.1282
+          },
+          "confidence": 0.8341
+        },
+        {
+          "text": "8.3.1 Sources of electromagnetic waves",
+          "bbox": {
+            "x_min": 0.0981,
+            "y_min": 0.5089,
+            "x_max": 0.5017,
+            "y_max": 0.5244,
+            "width": 0.4036,
+            "height": 0.0155
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "How are electromagnetic waves produced? Neither stationary charges\nnor charges in uniform motion (steady currents) can be sources of\nelectromagnetic waves. The former produces only electrostatic fields, while\nthe latter produces magnetic fields that, however, do not vary with time.\nIt is an important result of Maxwell's theory that accelerated charges\nradiate electromagnetic waves. The proof of this basic result is beyond\nthe scope of this book, but we can accept it on the basis of rough,\nqualitative reasoning. Consider a charge oscillating with some frequency.\n(An oscillating charge is an example of accelerating charge.) This\nproduces an oscillating electric field in space, which produces an\noscillating magnetic field, which in turn, is a source of oscillating electric\nfield, and so on. The oscillating electric and magnetic fields thus\nregenerate each other, so to speak, as the wave propagates through the\nspace. The frequency of the electromagnetic wave naturally equals the\nfrequency of oscillation of the charge. The energy associated with the\npropagating wave comes at the expense of the energy of the source – the\naccelerated charge.",
+          "bbox": {
+            "x_min": 0.0958,
+            "y_min": 0.5293,
+            "x_max": 0.6877,
+            "y_max": 0.8146,
+            "width": 0.5919,
+            "height": 0.2853
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "From the preceding discussion, it might appear easy to test the\nprediction that light is an electromagnetic wave. We might think that all\nwe needed to do was to set up an ac circuit in which the current oscillate\nat the frequency of visible light, say, yellow light. But, alas, that is not\npossible. The frequency of yellow light is about 6 × 1014 Hz, while the\nfrequency that we get even with modern electronic circuits is hardly about\n1011 Hz. This is why the experimental demonstration of electromagnetic",
+          "bbox": {
+            "x_min": 0.0964,
+            "y_min": 0.8194,
+            "x_max": 0.6855,
+            "y_max": 0.933,
+            "width": 0.5891,
+            "height": 0.1136
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "205",
+          "bbox": {
+            "x_min": 0.8253,
+            "y_min": 0.9237,
+            "x_max": 0.8579,
+            "y_max": 0.9335,
+            "width": 0.0327,
+            "height": 0.0098
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.2306,
+            "y_min": 0.0883,
+            "x_max": 0.3382,
+            "y_max": 0.1118,
+            "width": 0.1077,
+            "height": 0.0235
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "Heinrich Rudolf Hertz\n(1857 1894) German\nphysicist who was the\nfirst to broadcast and\nreceive radio waves. He\nproduced\nelectro-\nmagnetic waves, sent\nthem through space, and\nmeasured their wave-\nlength and speed. He\nshowed that the nature\nof",
+          "bbox": {
+            "x_min": 0.1995,
+            "y_min": 0.3665,
+            "x_max": 0.3963,
+            "y_max": 0.539,
+            "width": 0.1967,
+            "height": 0.1726
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "their vibration,\nreflection and refraction\nwas the same as that of\nlight and heat waves,\nestablishing their\nidentity for the first time.\nHe\nalso pioneered\nresearch on discharge of\nelectricity through gases,\nand discovered the",
+          "bbox": {
+            "x_min": 0.199,
+            "y_min": 0.5311,
+            "x_max": 0.398,
+            "y_max": 0.6739,
+            "width": 0.199,
+            "height": 0.1429
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "photoelectric effect.",
+          "bbox": {
+            "x_min": 0.2018,
+            "y_min": 0.6801,
+            "x_max": 0.3557,
+            "y_max": 0.6917,
+            "width": 0.1539,
+            "height": 0.0115
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "X",
+          "bbox": {
+            "x_min": 0.1545,
+            "y_min": 0.7378,
+            "x_max": 0.1669,
+            "y_max": 0.7427,
+            "width": 0.0124,
+            "height": 0.0049
+          },
+          "confidence": 0.9054
+        },
+        {
+          "text": "E",
+          "bbox": {
+            "x_min": 0.2103,
+            "y_min": 0.756,
+            "x_max": 0.2232,
+            "y_max": 0.7631,
+            "width": 0.013,
+            "height": 0.0071
+          },
+          "confidence": 0.9271
+        },
+        {
+          "text": "wave had to come in the low frequency region (the radio\nwave region), as in the Hertz's experiment (1887).",
+          "bbox": {
+            "x_min": 0.4498,
+            "y_min": 0.1313,
+            "x_max": 0.9008,
+            "y_max": 0.1615,
+            "width": 0.451,
+            "height": 0.0302
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "Hertz's successful experimental test of Maxwell's\ntheory created a sensation and sparked off other\nimportant works in this field. Two important\nachievements in this connection deserve mention. Seven\nyears after Hertz, Jagdish Chandra Bose, working at\nCalcutta (now Kolkata), succeeded in producing and\nobserving electromagnetic waves of much shorter\nwavelength (25 mm to 5 mm). His experiment, like that\nof Hertz's, was confined to the laboratory.",
+          "bbox": {
+            "x_min": 0.4504,
+            "y_min": 0.1646,
+            "x_max": 0.9019,
+            "y_max": 0.3119,
+            "width": 0.4515,
+            "height": 0.1473
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "At around the same time, Guglielmo Marconi in Italy\nfollowed Hertz's work and succeeded in transmitting\nelectromagnetic waves over distances of many kilometres.\nMarconi's experiment marks the beginning of the field of\ncommunication using electromagnetic waves.",
+          "bbox": {
+            "x_min": 0.451,
+            "y_min": 0.3154,
+            "x_max": 0.903,
+            "y_max": 0.3944,
+            "width": 0.4521,
+            "height": 0.079
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "8.3.2 Nature of electromagnetic waves",
+          "bbox": {
+            "x_min": 0.4515,
+            "y_min": 0.4086,
+            "x_max": 0.8422,
+            "y_max": 0.4228,
+            "width": 0.3906,
+            "height": 0.0142
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "It can be shown from Maxwell's equations that electric\nand magnetic fields in an electromagnetic wave are\nperpendicular to each other, and to the direction of\npropagation. It appears reasonable, say from our\ndiscussion of the displacement current. Consider\nFig. 8.2. The electric field inside the plates of the capacitor\nis directed perpendicular to the plates. The magnetic\nfield this gives rise to via the displacement current is\nalong the perimeter of a circle parallel to the capacitor\nplates. So B and E are perpendicular in this case. This\nis a general feature.",
+          "bbox": {
+            "x_min": 0.4504,
+            "y_min": 0.4321,
+            "x_max": 0.903,
+            "y_max": 0.6149,
+            "width": 0.4526,
+            "height": 0.1828
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "In Fig. 8.3, we show a typical example of a plane\nelectromagnetic wave propagating along the z direction\n(the fields are shown as a function of the z coordinate, at\na given time t). The electric field E is along the x-axis,\nand varies sinusoidally with z, at a given time. The\nmagnetic field B is along the y-axis, and again varies\nsinusoidally with z. The electric and magnetic fields E",
+          "bbox": {
+            "x_min": 0.4498,
+            "y_min": 0.6189,
+            "x_max": 0.9019,
+            "y_max": 0.7343,
+            "width": 0.4521,
+            "height": 0.1154
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "y",
+          "bbox": {
+            "x_min": 0.584,
+            "y_min": 0.7143,
+            "x_max": 0.5941,
+            "y_max": 0.7205,
+            "width": 0.0101,
+            "height": 0.0062
+          },
+          "confidence": 0.9154
+        },
+        {
+          "text": "z",
+          "bbox": {
+            "x_min": 0.6077,
+            "y_min": 0.803,
+            "x_max": 0.615,
+            "y_max": 0.8075,
+            "width": 0.0073,
+            "height": 0.0044
+          },
+          "confidence": 0.6782
+        },
+        {
+          "text": "y",
+          "bbox": {
+            "x_min": 0.6804,
+            "y_min": 0.748,
+            "x_max": 0.69,
+            "y_max": 0.7542,
+            "width": 0.0096,
+            "height": 0.0062
+          },
+          "confidence": 0.9286
+        },
+        {
+          "text": "x",
+          "bbox": {
+            "x_min": 0.8935,
+            "y_min": 0.7307,
+            "x_max": 0.9042,
+            "y_max": 0.7356,
+            "width": 0.0107,
+            "height": 0.0049
+          },
+          "confidence": 0.7783
+        },
+        {
+          "text": "and B₁₁ are perpendicular to each\nother, and to the direction z of\npropagation. We can write E and\nBy as follows:",
+          "bbox": {
+            "x_min": 0.6313,
+            "y_min": 0.7378,
+            "x_max": 0.9025,
+            "y_max": 0.8052,
+            "width": 0.2711,
+            "height": 0.0674
+          },
+          "confidence": 0.9703
+        },
+        {
+          "text": "HEINRICH RUDOLF HERTZ (1857–1894)",
+          "bbox": {
+            "x_min": 0.1308,
+            "y_min": 0.35,
+            "x_max": 0.1511,
+            "y_max": 0.6823,
+            "width": 0.0203,
+            "height": 0.3323
+          },
+          "confidence": 0.9833
+        },
+        {
+          "text": "B",
+          "bbox": {
+            "x_min": 0.1573,
+            "y_min": 0.8367,
+            "x_max": 0.1714,
+            "y_max": 0.8438,
+            "width": 0.0141,
+            "height": 0.0071
+          },
+          "confidence": 0.956
+        },
+        {
+          "text": "y",
+          "bbox": {
+            "x_min": 0.1263,
+            "y_min": 0.8509,
+            "x_max": 0.1375,
+            "y_max": 0.8585,
+            "width": 0.0113,
+            "height": 0.0075
+          },
+          "confidence": 0.9352
+        },
+        {
+          "text": "FIGURE 8.3 A linearly polarised electromagnetic wave,\npropagating in the z-direction with the oscillating electric field E\nalong the x-direction and the oscillating magnetic field B along\nthe y-direction.",
+          "bbox": {
+            "x_min": 0.1308,
+            "y_min": 0.8602,
+            "x_max": 0.6071,
+            "y_max": 0.9139,
+            "width": 0.4763,
+            "height": 0.0537
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "206",
+          "bbox": {
+            "x_min": 0.1392,
+            "y_min": 0.9246,
+            "x_max": 0.1731,
+            "y_max": 0.9335,
+            "width": 0.0338,
+            "height": 0.0089
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "Ex= E sin (kz-wt)",
+          "bbox": {
+            "x_min": 0.6635,
+            "y_min": 0.8092,
+            "x_max": 0.8033,
+            "y_max": 0.8243,
+            "width": 0.1398,
+            "height": 0.0151
+          },
+          "confidence": 0.825
+        },
+        {
+          "text": "[8.7(a)]",
+          "bbox": {
+            "x_min": 0.8393,
+            "y_min": 0.8092,
+            "x_max": 0.8946,
+            "y_max": 0.8212,
+            "width": 0.0552,
+            "height": 0.012
+          },
+          "confidence": 0.9636
+        },
+        {
+          "text": "B₁= B sin (kz-ot)",
+          "bbox": {
+            "x_min": 0.6618,
+            "y_min": 0.8296,
+            "x_max": 0.8044,
+            "y_max": 0.8456,
+            "width": 0.1426,
+            "height": 0.016
+          },
+          "confidence": 0.8522
+        },
+        {
+          "text": "[8.7(b)]",
+          "bbox": {
+            "x_min": 0.8388,
+            "y_min": 0.8292,
+            "x_max": 0.8946,
+            "y_max": 0.8412,
+            "width": 0.0558,
+            "height": 0.012
+          },
+          "confidence": 0.9591
+        },
+        {
+          "text": "Here kis related to the wave length",
+          "bbox": {
+            "x_min": 0.633,
+            "y_min": 0.8452,
+            "x_max": 0.9014,
+            "y_max": 0.8589,
+            "width": 0.2683,
+            "height": 0.0138
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "A of the wave by the usual\nequation",
+          "bbox": {
+            "x_min": 0.6336,
+            "y_min": 0.8625,
+            "x_max": 0.9019,
+            "y_max": 0.8917,
+            "width": 0.2683,
+            "height": 0.0293
+          },
+          "confidence": 0.9629
+        },
+        {
+          "text": "2π",
+          "bbox": {
+            "x_min": 0.6973,
+            "y_min": 0.9024,
+            "x_max": 0.7176,
+            "y_max": 0.9108,
+            "width": 0.0203,
+            "height": 0.0084
+          },
+          "confidence": 0.8597
+        },
+        {
+          "text": "k =",
+          "bbox": {
+            "x_min": 0.6635,
+            "y_min": 0.9104,
+            "x_max": 0.6928,
+            "y_max": 0.9201,
+            "width": 0.0293,
+            "height": 0.0098
+          },
+          "confidence": 0.9467
+        },
+        {
+          "text": "(8.8)",
+          "bbox": {
+            "x_min": 0.8625,
+            "y_min": 0.9122,
+            "x_max": 0.9002,
+            "y_max": 0.9237,
+            "width": 0.0378,
+            "height": 0.0115
+          },
+          "confidence": 0.9777
+        },
+        {
+          "text": "λ",
+          "bbox": {
+            "x_min": 0.7018,
+            "y_min": 0.921,
+            "x_max": 0.7153,
+            "y_max": 0.9303,
+            "width": 0.0135,
+            "height": 0.0093
+          },
+          "confidence": 0.9597
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "Electromagnetic\nWaves",
+          "bbox": {
+            "x_min": 0.6139,
+            "y_min": 0.0692,
+            "x_max": 0.8089,
+            "y_max": 0.1078,
+            "width": 0.195,
+            "height": 0.0386
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "and @ is the angular frequency. kis the magnitude of the wave vector (or\npropagation vector) k and its direction describes the direction of\npropagation of the wave. The speed of propagation of the wave is (@/k).\nUsing Eqs. [8.7(a) and (b)] for Ex and B and Maxwell's equations, one",
+          "bbox": {
+            "x_min": 0.0975,
+            "y_min": 0.1318,
+            "x_max": 0.6871,
+            "y_max": 0.1961,
+            "width": 0.5896,
+            "height": 0.0643
+          },
+          "confidence": 0.9772
+        },
+        {
+          "text": "finds that",
+          "bbox": {
+            "x_min": 0.0975,
+            "y_min": 0.1974,
+            "x_max": 0.177,
+            "y_max": 0.2072,
+            "width": 0.0795,
+            "height": 0.0098
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "y",
+          "bbox": {
+            "x_min": 0.4205,
+            "y_min": 0.1917,
+            "x_max": 0.4324,
+            "y_max": 0.1983,
+            "width": 0.0118,
+            "height": 0.0067
+          },
+          "confidence": 0.9166
+        },
+        {
+          "text": "ω = ck, where, c = 1/√με",
+          "bbox": {
+            "x_min": 0.128,
+            "y_min": 0.2183,
+            "x_max": 0.336,
+            "y_max": 0.2338,
+            "width": 0.208,
+            "height": 0.0155
+          },
+          "confidence": 0.9114
+        },
+        {
+          "text": "[8.9(a)]",
+          "bbox": {
+            "x_min": 0.628,
+            "y_min": 0.2187,
+            "x_max": 0.6832,
+            "y_max": 0.2303,
+            "width": 0.0552,
+            "height": 0.0115
+          },
+          "confidence": 0.9634
+        },
+        {
+          "text": "The relation w = ck is the standard one for waves (see for example,\nSection 14.4 of class XI Physics textbook). This relation is often written\nin terms of frequency, v (=ω/2π) and wavelength, λ (=2π/k) as",
+          "bbox": {
+            "x_min": 0.0981,
+            "y_min": 0.2396,
+            "x_max": 0.686,
+            "y_max": 0.2853,
+            "width": 0.5879,
+            "height": 0.0457
+          },
+          "confidence": 0.9757
+        },
+        {
+          "text": "2πν = c",
+          "bbox": {
+            "x_min": 0.1291,
+            "y_min": 0.3017,
+            "x_max": 0.1883,
+            "y_max": 0.3114,
+            "width": 0.0592,
+            "height": 0.0098
+          },
+          "confidence": 0.9531
+        },
+        {
+          "text": "2π\nλ",
+          "bbox": {
+            "x_min": 0.199,
+            "y_min": 0.2928,
+            "x_max": 0.2215,
+            "y_max": 0.3221,
+            "width": 0.0225,
+            "height": 0.0293
+          },
+          "confidence": 0.8564
+        },
+        {
+          "text": "or",
+          "bbox": {
+            "x_min": 0.2492,
+            "y_min": 0.3079,
+            "x_max": 0.2672,
+            "y_max": 0.3141,
+            "width": 0.018,
+            "height": 0.0062
+          },
+          "confidence": 0.9817
+        },
+        {
+          "text": "νλ = c",
+          "bbox": {
+            "x_min": 0.1285,
+            "y_min": 0.3301,
+            "x_max": 0.1731,
+            "y_max": 0.3376,
+            "width": 0.0445,
+            "height": 0.0075
+          },
+          "confidence": 0.8074
+        },
+        {
+          "text": "[8.9(b)]",
+          "bbox": {
+            "x_min": 0.628,
+            "y_min": 0.3274,
+            "x_max": 0.6838,
+            "y_max": 0.3394,
+            "width": 0.0558,
+            "height": 0.012
+          },
+          "confidence": 0.9605
+        },
+        {
+          "text": "It is also seen from Maxwell's equations that the magnitude of the\nelectric and the magnetic fields in an electromagnetic wave are related as",
+          "bbox": {
+            "x_min": 0.0975,
+            "y_min": 0.3443,
+            "x_max": 0.686,
+            "y_max": 0.374,
+            "width": 0.5885,
+            "height": 0.0297
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "B = (Eo/c)",
+          "bbox": {
+            "x_min": 0.1268,
+            "y_min": 0.3798,
+            "x_max": 0.2131,
+            "y_max": 0.3953,
+            "width": 0.0862,
+            "height": 0.0155
+          },
+          "confidence": 0.8129
+        },
+        {
+          "text": "(8.10)",
+          "bbox": {
+            "x_min": 0.6347,
+            "y_min": 0.3802,
+            "x_max": 0.6843,
+            "y_max": 0.3922,
+            "width": 0.0496,
+            "height": 0.012
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "bished",
+          "bbox": {
+            "x_min": 0.6139,
+            "y_min": 0.3035,
+            "x_max": 0.8461,
+            "y_max": 0.5013,
+            "width": 0.2322,
+            "height": 0.1979
+          },
+          "confidence": 0.7486
+        },
+        {
+          "text": "We here make remarks on some features of electromagnetic waves.\nThey are self-sustaining oscillations of electric and magnetic fields in\nfree space, or vacuum. They differ from all the other waves we have\nstudied so far, in respect that no material medium is involved in the\nvibrations of the electric and magnetic fields.",
+          "bbox": {
+            "x_min": 0.097,
+            "y_min": 0.4006,
+            "x_max": 0.6855,
+            "y_max": 0.48,
+            "width": 0.5885,
+            "height": 0.0794
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "But what if a material medium is actually there? We know that light,\nan electromagnetic wave, does propagate through glass, for example. We\nhave seen earlier that the total electric and magnetic fields inside a\nmedium are described in terms of a permittivity ɛ and a magnetic\npermeability μ (these describe the factors by which the total fields differ\nfrom the external fields). These replace ɛ and μ in the description to\nelectric and magnetic fields in Maxwell's equations with the result that in\na material medium of permittivity ɛ and magnetic permeability μ, the\nvelocity of light becomes,",
+          "bbox": {
+            "x_min": 0.0975,
+            "y_min": 0.4831,
+            "x_max": 0.6855,
+            "y_max": 0.6282,
+            "width": 0.5879,
+            "height": 0.1451
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "υ =",
+          "bbox": {
+            "x_min": 0.1291,
+            "y_min": 0.6464,
+            "x_max": 0.1545,
+            "y_max": 0.6535,
+            "width": 0.0254,
+            "height": 0.0071
+          },
+          "confidence": 0.8021
+        },
+        {
+          "text": "1\nμε",
+          "bbox": {
+            "x_min": 0.1685,
+            "y_min": 0.6353,
+            "x_max": 0.1933,
+            "y_max": 0.6668,
+            "width": 0.0248,
+            "height": 0.0315
+          },
+          "confidence": 0.9643
+        },
+        {
+          "text": "magnetic",
+          "bbox": {
+            "x_min": 0.4543,
+            "y_min": 0.5949,
+            "x_max": 0.5203,
+            "y_max": 0.6167,
+            "width": 0.066,
+            "height": 0.0217
+          },
+          "confidence": 0.8721
+        },
+        {
+          "text": "be",
+          "bbox": {
+            "x_min": 0.3816,
+            "y_min": 0.5892,
+            "x_max": 0.5056,
+            "y_max": 0.6744,
+            "width": 0.124,
+            "height": 0.0852
+          },
+          "confidence": 0.9555
+        },
+        {
+          "text": "(8.11)",
+          "bbox": {
+            "x_min": 0.6342,
+            "y_min": 0.6477,
+            "x_max": 0.6843,
+            "y_max": 0.661,
+            "width": 0.0502,
+            "height": 0.0133
+          },
+          "confidence": 0.983
+        },
+        {
+          "text": "Thus, the velocity of light depends on electric and magnetic properties of\nthe medium. We shall see in the next chapter that the refractive index of\none medium with respect to the other is equal to the ratio of velocities of\nlight in the two media.",
+          "bbox": {
+            "x_min": 0.097,
+            "y_min": 0.6699,
+            "x_max": 0.6871,
+            "y_max": 0.7356,
+            "width": 0.5902,
+            "height": 0.0657
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "The velocity of electromagnetic waves in free space or vacuum is an\nimportant fundamental constant. It has been shown by experiments on\nelectromagnetic waves of different wavelengths that this velocity is the\nsame (independent of wavelength) to within a few metres per second, out\nof a value of 3×10° m/s. The constancy of the velocity of em waves in\nvacuum is so strongly supported by experiments and the actual value is\nso well known now that this is used to define a standard of length.",
+          "bbox": {
+            "x_min": 0.0975,
+            "y_min": 0.7387,
+            "x_max": 0.6855,
+            "y_max": 0.8483,
+            "width": 0.5879,
+            "height": 0.1096
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "The great technological importance of electromagnetic waves stems\nfrom their capability to carry energy from one place to another. The\nradio and TV signals from broadcasting stations carry energy. Light\ncarries energy from the sun to the earth, thus making life possible on\nthe earth.",
+          "bbox": {
+            "x_min": 0.097,
+            "y_min": 0.8527,
+            "x_max": 0.6855,
+            "y_max": 0.9299,
+            "width": 0.5885,
+            "height": 0.0772
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "207",
+          "bbox": {
+            "x_min": 0.8253,
+            "y_min": 0.9246,
+            "x_max": 0.8596,
+            "y_max": 0.9335,
+            "width": 0.0344,
+            "height": 0.0089
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4538,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9831,
+            "width": 0.0924,
+            "height": 0.0093
+          },
+          "confidence": 0.9803
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.2317,
+            "y_min": 0.087,
+            "x_max": 0.3388,
+            "y_max": 0.1114,
+            "width": 0.1071,
+            "height": 0.0244
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "EXAMPLE 8.1",
+          "bbox": {
+            "x_min": 0.2768,
+            "y_min": 0.2711,
+            "x_max": 0.2886,
+            "y_max": 0.354,
+            "width": 0.0118,
+            "height": 0.083
+          },
+          "confidence": 0.9326
+        },
+        {
+          "text": "Example 8.1 A plane electromagnetic wave of frequency\n25 MHz travels in free space along the x-direction. At a particular\npoint in space and time, E = 6.3 jV/m. What is B at this point?\nSolution Using Eq. (8.10), the magnitude of B is",
+          "bbox": {
+            "x_min": 0.3326,
+            "y_min": 0.1371,
+            "x_max": 0.8732,
+            "y_max": 0.1983,
+            "width": 0.5406,
+            "height": 0.0612
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "E",
+          "bbox": {
+            "x_min": 0.3596,
+            "y_min": 0.2116,
+            "x_max": 0.3771,
+            "y_max": 0.2196,
+            "width": 0.0175,
+            "height": 0.008
+          },
+          "confidence": 0.9306
+        },
+        {
+          "text": "B=",
+          "bbox": {
+            "x_min": 0.3354,
+            "y_min": 0.2196,
+            "x_max": 0.3596,
+            "y_max": 0.2276,
+            "width": 0.0242,
+            "height": 0.008
+          },
+          "confidence": 0.9597
+        },
+        {
+          "text": "C",
+          "bbox": {
+            "x_min": 0.363,
+            "y_min": 0.2311,
+            "x_max": 0.3732,
+            "y_max": 0.2369,
+            "width": 0.0101,
+            "height": 0.0058
+          },
+          "confidence": 0.9081
+        },
+        {
+          "text": "6.3V/m",
+          "bbox": {
+            "x_min": 0.3675,
+            "y_min": 0.2431,
+            "x_max": 0.4295,
+            "y_max": 0.2542,
+            "width": 0.062,
+            "height": 0.0111
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "-=2.1×10-8 T",
+          "bbox": {
+            "x_min": 0.4386,
+            "y_min": 0.2493,
+            "x_max": 0.5349,
+            "y_max": 0.2613,
+            "width": 0.0964,
+            "height": 0.012
+          },
+          "confidence": 0.7669
+        },
+        {
+          "text": "3×108 m/s",
+          "bbox": {
+            "x_min": 0.3585,
+            "y_min": 0.26,
+            "x_max": 0.4391,
+            "y_max": 0.272,
+            "width": 0.0806,
+            "height": 0.012
+          },
+          "confidence": 0.8528
+        },
+        {
+          "text": "To find the direction, we note that E is along y-direction and the\nwave propagates along x-axis. Therefore, B should be in a direction\nperpendicular to both x- and y-axes. Using vector algebra, E × B should\nbe along x-direction. Since, (+ j) × (+ќ) = i, B is along the z-direction.\nThus,",
+          "bbox": {
+            "x_min": 0.3303,
+            "y_min": 0.2857,
+            "x_max": 0.872,
+            "y_max": 0.3554,
+            "width": 0.5417,
+            "height": 0.0697
+          },
+          "confidence": 0.9832
+        },
+        {
+          "text": "B = 2.1 × 10-8 kT",
+          "bbox": {
+            "x_min": 0.4301,
+            "y_min": 0.3429,
+            "x_max": 0.5665,
+            "y_max": 0.3549,
+            "width": 0.1364,
+            "height": 0.012
+          },
+          "confidence": 0.8524
+        },
+        {
+          "text": "http://www.fnal.gov/pub/inquiring/more/light\nhttp://imagine.gsfc.nasa.gov/docs/science/\nElectromagnetic spectrum",
+          "bbox": {
+            "x_min": 0.1364,
+            "y_min": 0.3931,
+            "x_max": 0.1939,
+            "y_max": 0.642,
+            "width": 0.0575,
+            "height": 0.2489
+          },
+          "confidence": 0.983
+        },
+        {
+          "text": "PHYSICS",
+          "bbox": {
+            "x_min": 0.1274,
+            "y_min": 0.6624,
+            "x_max": 0.195,
+            "y_max": 0.6775,
+            "width": 0.0676,
+            "height": 0.0151
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "208",
+          "bbox": {
+            "x_min": 0.1392,
+            "y_min": 0.9241,
+            "x_max": 0.1731,
+            "y_max": 0.9335,
+            "width": 0.0338,
+            "height": 0.0093
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "EXAMPLE 8.2",
+          "bbox": {
+            "x_min": 0.2762,
+            "y_min": 0.6007,
+            "x_max": 0.2886,
+            "y_max": 0.6832,
+            "width": 0.0124,
+            "height": 0.0825
+          },
+          "confidence": 0.8128
+        },
+        {
+          "text": "Example 8.2 The magnetic field in a plane electromagnetic wave is",
+          "bbox": {
+            "x_min": 0.3331,
+            "y_min": 0.3851,
+            "x_max": 0.8709,
+            "y_max": 0.3975,
+            "width": 0.5378,
+            "height": 0.0124
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "given by B = (2 × 10-7) T sin (0.5×103x+1.5×10¹¹t).",
+          "bbox": {
+            "x_min": 0.3337,
+            "y_min": 0.4055,
+            "x_max": 0.721,
+            "y_max": 0.4215,
+            "width": 0.3873,
+            "height": 0.016
+          },
+          "confidence": 0.9134
+        },
+        {
+          "text": "y",
+          "bbox": {
+            "x_min": 0.4138,
+            "y_min": 0.4188,
+            "x_max": 0.4216,
+            "y_max": 0.4237,
+            "width": 0.0079,
+            "height": 0.0049
+          },
+          "confidence": 0.9202
+        },
+        {
+          "text": "(a) What is the wavelength and frequency of the wave?",
+          "bbox": {
+            "x_min": 0.3331,
+            "y_min": 0.4321,
+            "x_max": 0.7678,
+            "y_max": 0.445,
+            "width": 0.4346,
+            "height": 0.0129
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "(b) Write an expression for the electric field.",
+          "bbox": {
+            "x_min": 0.3331,
+            "y_min": 0.4508,
+            "x_max": 0.6793,
+            "y_max": 0.4636,
+            "width": 0.3461,
+            "height": 0.0129
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "Solution",
+          "bbox": {
+            "x_min": 0.3331,
+            "y_min": 0.4738,
+            "x_max": 0.4025,
+            "y_max": 0.4818,
+            "width": 0.0693,
+            "height": 0.008
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "(a) Comparing the given equation with",
+          "bbox": {
+            "x_min": 0.3331,
+            "y_min": 0.4862,
+            "x_max": 0.6387,
+            "y_max": 0.5004,
+            "width": 0.3055,
+            "height": 0.0142
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "B₁=B, Sin [2p++]",
+          "bbox": {
+            "x_min": 0.3715,
+            "y_min": 0.508,
+            "x_max": 0.5513,
+            "y_max": 0.5413,
+            "width": 0.1798,
+            "height": 0.0333
+          },
+          "confidence": 0.6914
+        },
+        {
+          "text": "We get, λ =",
+          "bbox": {
+            "x_min": 0.3709,
+            "y_min": 0.5621,
+            "x_max": 0.4583,
+            "y_max": 0.5759,
+            "width": 0.0874,
+            "height": 0.0138
+          },
+          "confidence": 0.9391
+        },
+        {
+          "text": "2π",
+          "bbox": {
+            "x_min": 0.4882,
+            "y_min": 0.555,
+            "x_max": 0.5079,
+            "y_max": 0.563,
+            "width": 0.0197,
+            "height": 0.008
+          },
+          "confidence": 0.841
+        },
+        {
+          "text": "tT",
+          "bbox": {
+            "x_min": 0.5197,
+            "y_min": 0.508,
+            "x_max": 0.5316,
+            "y_max": 0.5395,
+            "width": 0.0118,
+            "height": 0.0315
+          },
+          "confidence": 0.9389
+        },
+        {
+          "text": "eld.",
+          "bbox": {
+            "x_min": 0.6511,
+            "y_min": 0.4468,
+            "x_max": 0.6821,
+            "y_max": 0.4698,
+            "width": 0.031,
+            "height": 0.0231
+          },
+          "confidence": 0.8832
+        },
+        {
+          "text": "m = 1.26 cm,",
+          "bbox": {
+            "x_min": 0.5395,
+            "y_min": 0.5639,
+            "x_max": 0.6415,
+            "y_max": 0.5741,
+            "width": 0.102,
+            "height": 0.0102
+          },
+          "confidence": 0.9079
+        },
+        {
+          "text": "0.5 × 103",
+          "bbox": {
+            "x_min": 0.4651,
+            "y_min": 0.5701,
+            "x_max": 0.5282,
+            "y_max": 0.5812,
+            "width": 0.0631,
+            "height": 0.0111
+          },
+          "confidence": 0.8426
+        },
+        {
+          "text": "1",
+          "bbox": {
+            "x_min": 0.4448,
+            "y_min": 0.5923,
+            "x_max": 0.4543,
+            "y_max": 0.5998,
+            "width": 0.0096,
+            "height": 0.0075
+          },
+          "confidence": 0.9686
+        },
+        {
+          "text": "and",
+          "bbox": {
+            "x_min": 0.372,
+            "y_min": 0.5998,
+            "x_max": 0.4025,
+            "y_max": 0.6087,
+            "width": 0.0304,
+            "height": 0.0089
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "|/2π = 23.9 GHz",
+          "bbox": {
+            "x_min": 0.5767,
+            "y_min": 0.5985,
+            "x_max": 0.6973,
+            "y_max": 0.61,
+            "width": 0.1206,
+            "height": 0.0115
+          },
+          "confidence": 0.9242
+        },
+        {
+          "text": "= = v = (1.5×10¹¹)/2π=",
+          "bbox": {
+            "x_min": 0.4442,
+            "y_min": 0.5949,
+            "x_max": 0.6161,
+            "y_max": 0.6145,
+            "width": 0.1719,
+            "height": 0.0195
+          },
+          "confidence": 0.8602
+        },
+        {
+          "text": "V",
+          "bbox": {
+            "x_min": 0.4752,
+            "y_min": 0.602,
+            "x_max": 0.4865,
+            "y_max": 0.6083,
+            "width": 0.0113,
+            "height": 0.0062
+          },
+          "confidence": 0.6488
+        },
+        {
+          "text": "(b) E = Boc = 2×10^7 T × 3 × 10° m/s = 6 × 10¹ V/m",
+          "bbox": {
+            "x_min": 0.3337,
+            "y_min": 0.6185,
+            "x_max": 0.7441,
+            "y_max": 0.6353,
+            "width": 0.4104,
+            "height": 0.0169
+          },
+          "confidence": 0.8638
+        },
+        {
+          "text": "The electric field component is perpendicular to the direction of\npropagation and the direction of magnetic field. Therefore, the\nelectric field component along the z-axis is obtained as",
+          "bbox": {
+            "x_min": 0.3625,
+            "y_min": 0.6366,
+            "x_max": 0.8743,
+            "y_max": 0.6788,
+            "width": 0.5118,
+            "height": 0.0421
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "X",
+          "bbox": {
+            "x_min": 0.4865,
+            "y_min": 0.6881,
+            "x_max": 0.4966,
+            "y_max": 0.693,
+            "width": 0.0101,
+            "height": 0.0049
+          },
+          "confidence": 0.8881
+        },
+        {
+          "text": "E = 60 sin (0.5 × 103x",
+          "bbox": {
+            "x_min": 0.3625,
+            "y_min": 0.6828,
+            "x_max": 0.5349,
+            "y_max": 0.6974,
+            "width": 0.1725,
+            "height": 0.0146
+          },
+          "confidence": 0.9086
+        },
+        {
+          "text": "+ 1.5 × 10¹¹ t) V/m",
+          "bbox": {
+            "x_min": 0.5406,
+            "y_min": 0.6823,
+            "x_max": 0.6905,
+            "y_max": 0.6965,
+            "width": 0.1499,
+            "height": 0.0142
+          },
+          "confidence": 0.8513
+        },
+        {
+          "text": "8.4 ELECTROMAGNETIC SPECTRUM",
+          "bbox": {
+            "x_min": 0.3129,
+            "y_min": 0.7232,
+            "x_max": 0.7136,
+            "y_max": 0.7418,
+            "width": 0.4008,
+            "height": 0.0186
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.208,
+            "y_min": 0.7085,
+            "x_max": 0.341,
+            "y_max": 0.8163,
+            "width": 0.133,
+            "height": 0.1078
+          },
+          "confidence": 0.9784
+        },
+        {
+          "text": "At the time Maxwell predicted the existence of electromagnetic waves, the\nonly familiar electromagnetic waves were the visible light waves. The existence\nof ultraviolet and infrared waves was barely established. By the end of the\nnineteenth century, X-rays and gamma rays had also been discovered. We\nnow know that, electromagnetic waves include visible light waves, X-rays,\ngamma rays, radio waves, microwaves, ultraviolet and infrared waves. The\nclassification of em waves according to frequency is the electromagnetic\nspectrum (Fig. 8.4). There is no sharp division between one kind of wave\nand the next. The classification is based roughly on how the waves are\nproduced and/or detected.",
+          "bbox": {
+            "x_min": 0.3112,
+            "y_min": 0.7542,
+            "x_max": 0.9036,
+            "y_max": 0.9099,
+            "width": 0.5924,
+            "height": 0.1557
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "We briefly describe these different types of electromagnetic waves, in\norder of decreasing wavelengths.",
+          "bbox": {
+            "x_min": 0.314,
+            "y_min": 0.913,
+            "x_max": 0.9019,
+            "y_max": 0.9423,
+            "width": 0.5879,
+            "height": 0.0293
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "Electromagnetic\nWaves",
+          "bbox": {
+            "x_min": 0.6139,
+            "y_min": 0.0692,
+            "x_max": 0.8089,
+            "y_max": 0.1074,
+            "width": 0.195,
+            "height": 0.0382
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "Frequency, Hz",
+          "bbox": {
+            "x_min": 0.1195,
+            "y_min": 0.1318,
+            "x_max": 0.2069,
+            "y_max": 0.1411,
+            "width": 0.0874,
+            "height": 0.0093
+          },
+          "confidence": 0.9806
+        },
+        {
+          "text": "Wavelength, m",
+          "bbox": {
+            "x_min": 0.4138,
+            "y_min": 0.1309,
+            "x_max": 0.5056,
+            "y_max": 0.1406,
+            "width": 0.0919,
+            "height": 0.0098
+          },
+          "confidence": 0.9851
+        },
+        {
+          "text": "1023",
+          "bbox": {
+            "x_min": 0.1065,
+            "y_min": 0.1571,
+            "x_max": 0.1313,
+            "y_max": 0.1655,
+            "width": 0.0248,
+            "height": 0.0084
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "1022",
+          "bbox": {
+            "x_min": 0.1071,
+            "y_min": 0.1739,
+            "x_max": 0.1313,
+            "y_max": 0.1828,
+            "width": 0.0242,
+            "height": 0.0089
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "10-14",
+          "bbox": {
+            "x_min": 0.4216,
+            "y_min": 0.165,
+            "x_max": 0.4504,
+            "y_max": 0.1735,
+            "width": 0.0287,
+            "height": 0.0084
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "1021",
+          "bbox": {
+            "x_min": 0.1065,
+            "y_min": 0.1912,
+            "x_max": 0.1313,
+            "y_max": 0.1996,
+            "width": 0.0248,
+            "height": 0.0084
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "10-13",
+          "bbox": {
+            "x_min": 0.4216,
+            "y_min": 0.1815,
+            "x_max": 0.4504,
+            "y_max": 0.1903,
+            "width": 0.0287,
+            "height": 0.0089
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "Gamma rays",
+          "bbox": {
+            "x_min": 0.2266,
+            "y_min": 0.1921,
+            "x_max": 0.3078,
+            "y_max": 0.2014,
+            "width": 0.0812,
+            "height": 0.0093
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "1020",
+          "bbox": {
+            "x_min": 0.1065,
+            "y_min": 0.2067,
+            "x_max": 0.1319,
+            "y_max": 0.2169,
+            "width": 0.0254,
+            "height": 0.0102
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "10-12",
+          "bbox": {
+            "x_min": 0.4216,
+            "y_min": 0.1988,
+            "x_max": 0.4504,
+            "y_max": 0.2076,
+            "width": 0.0287,
+            "height": 0.0089
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "400 nm",
+          "bbox": {
+            "x_min": 0.5552,
+            "y_min": 0.1748,
+            "x_max": 0.6071,
+            "y_max": 0.1815,
+            "width": 0.0519,
+            "height": 0.0067
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "Violet",
+          "bbox": {
+            "x_min": 0.628,
+            "y_min": 0.1952,
+            "x_max": 0.6674,
+            "y_max": 0.2028,
+            "width": 0.0395,
+            "height": 0.0075
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "1019",
+          "bbox": {
+            "x_min": 0.106,
+            "y_min": 0.2236,
+            "x_max": 0.1325,
+            "y_max": 0.2334,
+            "width": 0.0265,
+            "height": 0.0098
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "10-11",
+          "bbox": {
+            "x_min": 0.4211,
+            "y_min": 0.2152,
+            "x_max": 0.451,
+            "y_max": 0.2249,
+            "width": 0.0299,
+            "height": 0.0098
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "X-rays",
+          "bbox": {
+            "x_min": 0.2486,
+            "y_min": 0.2307,
+            "x_max": 0.2937,
+            "y_max": 0.2396,
+            "width": 0.0451,
+            "height": 0.0089
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "450 nm.",
+          "bbox": {
+            "x_min": 0.5558,
+            "y_min": 0.2249,
+            "x_max": 0.6094,
+            "y_max": 0.232,
+            "width": 0.0536,
+            "height": 0.0071
+          },
+          "confidence": 0.9525
+        },
+        {
+          "text": "1018",
+          "bbox": {
+            "x_min": 0.1054,
+            "y_min": 0.2409,
+            "x_max": 0.133,
+            "y_max": 0.2507,
+            "width": 0.0276,
+            "height": 0.0098
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "10-10",
+          "bbox": {
+            "x_min": 0.4216,
+            "y_min": 0.2316,
+            "x_max": 0.4498,
+            "y_max": 0.2409,
+            "width": 0.0282,
+            "height": 0.0093
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "1017",
+          "bbox": {
+            "x_min": 0.1065,
+            "y_min": 0.2573,
+            "x_max": 0.1319,
+            "y_max": 0.2666,
+            "width": 0.0254,
+            "height": 0.0093
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "10-9",
+          "bbox": {
+            "x_min": 0.4239,
+            "y_min": 0.2484,
+            "x_max": 0.4498,
+            "y_max": 0.2591,
+            "width": 0.0259,
+            "height": 0.0106
+          },
+          "confidence": 0.893
+        },
+        {
+          "text": "Blue",
+          "bbox": {
+            "x_min": 0.6291,
+            "y_min": 0.2471,
+            "x_max": 0.6612,
+            "y_max": 0.2538,
+            "width": 0.0321,
+            "height": 0.0067
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "1016",
+          "bbox": {
+            "x_min": 0.1054,
+            "y_min": 0.2737,
+            "x_max": 0.1319,
+            "y_max": 0.2835,
+            "width": 0.0265,
+            "height": 0.0098
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "Ultraviolet",
+          "bbox": {
+            "x_min": 0.2407,
+            "y_min": 0.2742,
+            "x_max": 0.3067,
+            "y_max": 0.2813,
+            "width": 0.066,
+            "height": 0.0071
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "10-8",
+          "bbox": {
+            "x_min": 0.4239,
+            "y_min": 0.2644,
+            "x_max": 0.4487,
+            "y_max": 0.2751,
+            "width": 0.0248,
+            "height": 0.0106
+          },
+          "confidence": 0.9531
+        },
+        {
+          "text": "1015",
+          "bbox": {
+            "x_min": 0.106,
+            "y_min": 0.2915,
+            "x_max": 0.1319,
+            "y_max": 0.3008,
+            "width": 0.0259,
+            "height": 0.0093
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "10-7",
+          "bbox": {
+            "x_min": 0.4239,
+            "y_min": 0.2831,
+            "x_max": 0.4476,
+            "y_max": 0.2919,
+            "width": 0.0237,
+            "height": 0.0089
+          },
+          "confidence": 0.9214
+        },
+        {
+          "text": "500 nm",
+          "bbox": {
+            "x_min": 0.5575,
+            "y_min": 0.2791,
+            "x_max": 0.6065,
+            "y_max": 0.2862,
+            "width": 0.049,
+            "height": 0.0071
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "1014",
+          "bbox": {
+            "x_min": 0.1065,
+            "y_min": 0.307,
+            "x_max": 0.1313,
+            "y_max": 0.3168,
+            "width": 0.0248,
+            "height": 0.0098
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "Visible",
+          "bbox": {
+            "x_min": 0.2503,
+            "y_min": 0.3021,
+            "x_max": 0.2954,
+            "y_max": 0.3092,
+            "width": 0.0451,
+            "height": 0.0071
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "10-6",
+          "bbox": {
+            "x_min": 0.4239,
+            "y_min": 0.2999,
+            "x_max": 0.4493,
+            "y_max": 0.3083,
+            "width": 0.0254,
+            "height": 0.0084
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "Green",
+          "bbox": {
+            "x_min": 0.6297,
+            "y_min": 0.3008,
+            "x_max": 0.6697,
+            "y_max": 0.3079,
+            "width": 0.04,
+            "height": 0.0071
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "1013",
+          "bbox": {
+            "x_min": 0.1065,
+            "y_min": 0.3239,
+            "x_max": 0.133,
+            "y_max": 0.3341,
+            "width": 0.0265,
+            "height": 0.0102
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "Infrared",
+          "bbox": {
+            "x_min": 0.2458,
+            "y_min": 0.3243,
+            "x_max": 0.2965,
+            "y_max": 0.331,
+            "width": 0.0507,
+            "height": 0.0067
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "10-5",
+          "bbox": {
+            "x_min": 0.4233,
+            "y_min": 0.3154,
+            "x_max": 0.4498,
+            "y_max": 0.3248,
+            "width": 0.0265,
+            "height": 0.0093
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "1012",
+          "bbox": {
+            "x_min": 0.106,
+            "y_min": 0.3416,
+            "x_max": 0.133,
+            "y_max": 0.3509,
+            "width": 0.0271,
+            "height": 0.0093
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "10-4",
+          "bbox": {
+            "x_min": 0.4239,
+            "y_min": 0.3332,
+            "x_max": 0.4498,
+            "y_max": 0.3421,
+            "width": 0.0259,
+            "height": 0.0089
+          },
+          "confidence": 0.9594
+        },
+        {
+          "text": "550 nm",
+          "bbox": {
+            "x_min": 0.5581,
+            "y_min": 0.3341,
+            "x_max": 0.6071,
+            "y_max": 0.3412,
+            "width": 0.049,
+            "height": 0.0071
+          },
+          "confidence": 0.9848
+        },
+        {
+          "text": "1011",
+          "bbox": {
+            "x_min": 0.1065,
+            "y_min": 0.358,
+            "x_max": 0.1313,
+            "y_max": 0.3673,
+            "width": 0.0248,
+            "height": 0.0093
+          },
+          "confidence": 0.8911
+        },
+        {
+          "text": "10-3",
+          "bbox": {
+            "x_min": 0.4245,
+            "y_min": 0.3496,
+            "x_max": 0.4498,
+            "y_max": 0.3589,
+            "width": 0.0254,
+            "height": 0.0093
+          },
+          "confidence": 0.9022
+        },
+        {
+          "text": "Microwaves",
+          "bbox": {
+            "x_min": 0.2339,
+            "y_min": 0.3638,
+            "x_max": 0.3078,
+            "y_max": 0.3705,
+            "width": 0.0738,
+            "height": 0.0067
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "1010",
+          "bbox": {
+            "x_min": 0.1065,
+            "y_min": 0.3749,
+            "x_max": 0.1319,
+            "y_max": 0.3842,
+            "width": 0.0254,
+            "height": 0.0093
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "10",
+          "bbox": {
+            "x_min": 0.4233,
+            "y_min": 0.3682,
+            "x_max": 0.4459,
+            "y_max": 0.3758,
+            "width": 0.0225,
+            "height": 0.0075
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "Yellow",
+          "bbox": {
+            "x_min": 0.6291,
+            "y_min": 0.3638,
+            "x_max": 0.6708,
+            "y_max": 0.3709,
+            "width": 0.0417,
+            "height": 0.0071
+          },
+          "confidence": 0.9795
+        },
+        {
+          "text": "Short radio waves",
+          "bbox": {
+            "x_min": 0.2176,
+            "y_min": 0.3846,
+            "x_max": 0.3298,
+            "y_max": 0.3913,
+            "width": 0.1122,
+            "height": 0.0067
+          },
+          "confidence": 0.9851
+        },
+        {
+          "text": "109",
+          "bbox": {
+            "x_min": 0.1065,
+            "y_min": 0.3922,
+            "x_max": 0.1291,
+            "y_max": 0.4015,
+            "width": 0.0225,
+            "height": 0.0093
+          },
+          "confidence": 0.8248
+        },
+        {
+          "text": "10-",
+          "bbox": {
+            "x_min": 0.4239,
+            "y_min": 0.3851,
+            "x_max": 0.4436,
+            "y_max": 0.3922,
+            "width": 0.0197,
+            "height": 0.0071
+          },
+          "confidence": 0.8577
+        },
+        {
+          "text": "600 nm",
+          "bbox": {
+            "x_min": 0.5575,
+            "y_min": 0.3873,
+            "x_max": 0.6065,
+            "y_max": 0.3944,
+            "width": 0.049,
+            "height": 0.0071
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "108",
+          "bbox": {
+            "x_min": 0.106,
+            "y_min": 0.4086,
+            "x_max": 0.1297,
+            "y_max": 0.4175,
+            "width": 0.0237,
+            "height": 0.0089
+          },
+          "confidence": 0.9014
+        },
+        {
+          "text": "-Television and FM radio",
+          "bbox": {
+            "x_min": 0.1956,
+            "y_min": 0.4095,
+            "x_max": 0.3478,
+            "y_max": 0.4175,
+            "width": 0.1522,
+            "height": 0.008
+          },
+          "confidence": 0.9771
+        },
+        {
+          "text": "1",
+          "bbox": {
+            "x_min": 0.4245,
+            "y_min": 0.4037,
+            "x_max": 0.4324,
+            "y_max": 0.4099,
+            "width": 0.0079,
+            "height": 0.0062
+          },
+          "confidence": 0.9616
+        },
+        {
+          "text": "Orange",
+          "bbox": {
+            "x_min": 0.6291,
+            "y_min": 0.4042,
+            "x_max": 0.6776,
+            "y_max": 0.4139,
+            "width": 0.0485,
+            "height": 0.0098
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "107",
+          "bbox": {
+            "x_min": 0.106,
+            "y_min": 0.4255,
+            "x_max": 0.1274,
+            "y_max": 0.4348,
+            "width": 0.0214,
+            "height": 0.0093
+          },
+          "confidence": 0.8406
+        },
+        {
+          "text": "10",
+          "bbox": {
+            "x_min": 0.4228,
+            "y_min": 0.4179,
+            "x_max": 0.4414,
+            "y_max": 0.4259,
+            "width": 0.0186,
+            "height": 0.008
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "AM radio",
+          "bbox": {
+            "x_min": 0.2435,
+            "y_min": 0.4352,
+            "x_max": 0.3016,
+            "y_max": 0.4423,
+            "width": 0.0581,
+            "height": 0.0071
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "106",
+          "bbox": {
+            "x_min": 0.106,
+            "y_min": 0.4419,
+            "x_max": 0.1285,
+            "y_max": 0.4512,
+            "width": 0.0225,
+            "height": 0.0093
+          },
+          "confidence": 0.7689
+        },
+        {
+          "text": "102",
+          "bbox": {
+            "x_min": 0.4233,
+            "y_min": 0.4339,
+            "x_max": 0.4459,
+            "y_max": 0.4428,
+            "width": 0.0225,
+            "height": 0.0089
+          },
+          "confidence": 0.9633
+        },
+        {
+          "text": "650 nm",
+          "bbox": {
+            "x_min": 0.5569,
+            "y_min": 0.4406,
+            "x_max": 0.6071,
+            "y_max": 0.4481,
+            "width": 0.0502,
+            "height": 0.0075
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "105",
+          "bbox": {
+            "x_min": 0.106,
+            "y_min": 0.4592,
+            "x_max": 0.1274,
+            "y_max": 0.4685,
+            "width": 0.0214,
+            "height": 0.0093
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "103",
+          "bbox": {
+            "x_min": 0.4233,
+            "y_min": 0.4494,
+            "x_max": 0.4448,
+            "y_max": 0.4583,
+            "width": 0.0214,
+            "height": 0.0089
+          },
+          "confidence": 0.8213
+        },
+        {
+          "text": "104",
+          "bbox": {
+            "x_min": 0.106,
+            "y_min": 0.4756,
+            "x_max": 0.1274,
+            "y_max": 0.4849,
+            "width": 0.0214,
+            "height": 0.0093
+          },
+          "confidence": 0.8146
+        },
+        {
+          "text": "10*",
+          "bbox": {
+            "x_min": 0.4228,
+            "y_min": 0.4658,
+            "x_max": 0.4442,
+            "y_max": 0.4747,
+            "width": 0.0214,
+            "height": 0.0089
+          },
+          "confidence": 0.7742
+        },
+        {
+          "text": "Long radio waves",
+          "bbox": {
+            "x_min": 0.2182,
+            "y_min": 0.476,
+            "x_max": 0.3253,
+            "y_max": 0.4858,
+            "width": 0.1071,
+            "height": 0.0098
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "104",
+          "bbox": {
+            "x_min": 0.106,
+            "y_min": 0.4933,
+            "x_max": 0.128,
+            "y_max": 0.5022,
+            "width": 0.022,
+            "height": 0.0089
+          },
+          "confidence": 0.8298
+        },
+        {
+          "text": "105",
+          "bbox": {
+            "x_min": 0.4233,
+            "y_min": 0.484,
+            "x_max": 0.4459,
+            "y_max": 0.4929,
+            "width": 0.0225,
+            "height": 0.0089
+          },
+          "confidence": 0.982
+        },
+        {
+          "text": "102",
+          "bbox": {
+            "x_min": 0.1065,
+            "y_min": 0.5106,
+            "x_max": 0.1291,
+            "y_max": 0.5186,
+            "width": 0.0225,
+            "height": 0.008
+          },
+          "confidence": 0.9011
+        },
+        {
+          "text": "106",
+          "bbox": {
+            "x_min": 0.4228,
+            "y_min": 0.5013,
+            "x_max": 0.4448,
+            "y_max": 0.5102,
+            "width": 0.022,
+            "height": 0.0089
+          },
+          "confidence": 0.7768
+        },
+        {
+          "text": "10",
+          "bbox": {
+            "x_min": 0.106,
+            "y_min": 0.528,
+            "x_max": 0.1229,
+            "y_max": 0.535,
+            "width": 0.0169,
+            "height": 0.0071
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "107",
+          "bbox": {
+            "x_min": 0.4233,
+            "y_min": 0.5182,
+            "x_max": 0.4442,
+            "y_max": 0.5266,
+            "width": 0.0209,
+            "height": 0.0084
+          },
+          "confidence": 0.8016
+        },
+        {
+          "text": "Republished",
+          "bbox": {
+            "x_min": 0.4735,
+            "y_min": 0.3035,
+            "x_max": 0.8523,
+            "y_max": 0.6007,
+            "width": 0.3788,
+            "height": 0.2972
+          },
+          "confidence": 0.8495
+        },
+        {
+          "text": "FIGURE 8.4 The electromagnetic spectrum, with common names for various\npart of it. The various regions do not have sharply defined boundaries.",
+          "bbox": {
+            "x_min": 0.1009,
+            "y_min": 0.5497,
+            "x_max": 0.6826,
+            "y_max": 0.5768,
+            "width": 0.5817,
+            "height": 0.0271
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "8.4.1 Radio waves",
+          "bbox": {
+            "x_min": 0.097,
+            "y_min": 0.5994,
+            "x_max": 0.2852,
+            "y_max": 0.6105,
+            "width": 0.1883,
+            "height": 0.0111
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "otion",
+          "bbox": {
+            "x_min": 0.4577,
+            "y_min": 0.6198,
+            "x_max": 0.4927,
+            "y_max": 0.6313,
+            "width": 0.0349,
+            "height": 0.0115
+          },
+          "confidence": 0.9483
+        },
+        {
+          "text": "Radio waves are produced by the accelerated motion of charges in conducting\nwires. They are used in radio and television communication systems. They\nare generally in the frequency range from 500 kHz to about 1000 MHz.\nThe AM (amplitude modulated) band is from 530 kHz to 1710 kHz. Higher\nfrequencies upto 54 MHz are used for short wave bands. TV waves range\nfrom 54 MHz to 890 MHz. The FM (frequency modulated) radio band\nextends from 88 MHz to 108 MHz. Cellular phones use radio waves to\ntransmit voice communication in the ultrahigh frequency (UHF) band. How\nthese waves are transmitted and received is described in Chapter 15.",
+          "bbox": {
+            "x_min": 0.097,
+            "y_min": 0.622,
+            "x_max": 0.6866,
+            "y_max": 0.7578,
+            "width": 0.5896,
+            "height": 0.1358
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "8.4.2 Microwaves",
+          "bbox": {
+            "x_min": 0.0975,
+            "y_min": 0.7702,
+            "x_max": 0.2796,
+            "y_max": 0.7817,
+            "width": 0.1821,
+            "height": 0.0115
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "Microwaves (short-wavelength radio waves), with frequencies in the\ngigahertz (GHz) range, are produced by special vacuum tubes (called\nklystrons, magnetrons and Gunn diodes). Due to their short wavelengths,\nthey are suitable for the radar systems used in aircraft navigation. Radar\nalso provides the basis for the speed guns used to time fast balls, tennis-\nserves, and automobiles. Microwave ovens are an interesting domestic\napplication of these waves. In such ovens, the frequency of the microwaves\nis selected to match the resonant frequency of water molecules so that\nenergy from the waves is transferred efficiently to the kinetic energy of\nthe molecules. This raises the temperature of any food containing water.",
+          "bbox": {
+            "x_min": 0.0975,
+            "y_min": 0.7919,
+            "x_max": 0.6871,
+            "y_max": 0.9432,
+            "width": 0.5896,
+            "height": 0.1513
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "Microwave\noven",
+          "bbox": {
+            "x_min": 0.7362,
+            "y_min": 0.8336,
+            "x_max": 0.7864,
+            "y_max": 0.8478,
+            "width": 0.0502,
+            "height": 0.0142
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "209",
+          "bbox": {
+            "x_min": 0.8253,
+            "y_min": 0.9246,
+            "x_max": 0.8579,
+            "y_max": 0.9335,
+            "width": 0.0327,
+            "height": 0.0089
+          },
+          "confidence": 0.9954
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.2317,
+            "y_min": 0.0874,
+            "x_max": 0.3382,
+            "y_max": 0.1118,
+            "width": 0.1065,
+            "height": 0.0244
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "210",
+          "bbox": {
+            "x_min": 0.1392,
+            "y_min": 0.9241,
+            "x_max": 0.1736,
+            "y_max": 0.9335,
+            "width": 0.0344,
+            "height": 0.0093
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "8.4.3 Infrared waves",
+          "bbox": {
+            "x_min": 0.3129,
+            "y_min": 0.1309,
+            "x_max": 0.5175,
+            "y_max": 0.1429,
+            "width": 0.2046,
+            "height": 0.012
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "Infrared waves are produced by hot bodies and molecules. This band\nlies adjacent to the low-frequency or long-wave length end of the visible\nspectrum. Infrared waves are sometimes referred to as heat waves. This\nis because water molecules present in most materials readily absorb\ninfrared waves (many other molecules, for example, CO2, NH3, also absorb\ninfrared waves). After absorption, their thermal motion increases, that is,\nthey heat up and heat their surroundings. Infrared lamps are used in\nphysical therapy. Infrared radiation also plays an important role in\nmaintaining the earth's warmth or average temperature through the\ngreenhouse effect. Incoming visible light (which passes relatively easily\nthrough the atmosphere) is absorbed by the earth's surface and re-\nradiated as infrared (longer wavelength) radiations. This radiation is\ntrapped by greenhouse gases such as carbon dioxide and water vapour.\nInfrared detectors are used in Earth satellites, both for military purposes\nand to observe growth of crops. Electronic devices (for example\nsemiconductor light emitting diodes) also emit infrared and are widely\nused in the remote switches of household electronic systems such as TV\nsets, video recorders and hi-fi systems.",
+          "bbox": {
+            "x_min": 0.314,
+            "y_min": 0.1553,
+            "x_max": 0.9025,
+            "y_max": 0.4476,
+            "width": 0.5885,
+            "height": 0.2924
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "8.4.4 Visible rays",
+          "bbox": {
+            "x_min": 0.314,
+            "y_min": 0.4618,
+            "x_max": 0.4825,
+            "y_max": 0.4769,
+            "width": 0.1685,
+            "height": 0.0151
+          },
+          "confidence": 0.9608
+        },
+        {
+          "text": "It is the most familiar form of electromagnetic waves. It is the part of the\nspectrum that is detected by the human eye. It runs from about\n4 × 1014 Hz to about 7 × 1014 Hz or a wavelength range of about 700\n400 nm. Visible light emitted or reflected from objects around us provides\nus information about the world. Our eyes are sensitive to this range of\nwavelengths. Different animals are sensitive to different range of\nwavelengths. For example, snakes can detect infrared waves, and the\n'visible' range of many insects extends well into the utraviolet.",
+          "bbox": {
+            "x_min": 0.3134,
+            "y_min": 0.4854,
+            "x_max": 0.903,
+            "y_max": 0.614,
+            "width": 0.5896,
+            "height": 0.1287
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "8.4.5 Ultraviolet rays",
+          "bbox": {
+            "x_min": 0.3145,
+            "y_min": 0.6278,
+            "x_max": 0.5271,
+            "y_max": 0.642,
+            "width": 0.2125,
+            "height": 0.0142
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "It covers wavelengths ranging from about 4 × 10¯7 m (400 nm) down to\n6 × 10-10m (0.6 nm). Ultraviolet (UV) radiation is produced by special\nlamps and very hot bodies. The sun is an important source of ultraviolet\nlight. But fortunately, most of it is absorbed in the ozone layer in the\natmosphere at an altitude of about 40 – 50 km. UV light in large quantities\nhas harmful effects on humans. Exposure to UV radiation induces the\nproduction of more melanin, causing tanning of the skin. UV radiation is\nabsorbed by ordinary glass. Hence, one cannot get tanned or sunburn\nthrough glass windows.",
+          "bbox": {
+            "x_min": 0.3134,
+            "y_min": 0.6491,
+            "x_max": 0.9019,
+            "y_max": 0.7968,
+            "width": 0.5885,
+            "height": 0.1477
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "no",
+          "bbox": {
+            "x_min": 0.212,
+            "y_min": 0.7351,
+            "x_max": 0.3145,
+            "y_max": 0.8168,
+            "width": 0.1026,
+            "height": 0.0816
+          },
+          "confidence": 0.9159
+        },
+        {
+          "text": "Welders wear special glass goggles or face masks with glass windows\nto protect their eyes from large amount of UV produced by welding arcs.\nDue to its shorter wavelengths, UV radiations can be focussed into very\nnarrow beams for high precision applications such as LASIK (Laser-\nassisted in situ keratomileusis) eye surgery. UV lamps are used to kill\ngerms in water purifiers.",
+          "bbox": {
+            "x_min": 0.314,
+            "y_min": 0.7999,
+            "x_max": 0.9014,
+            "y_max": 0.8953,
+            "width": 0.5874,
+            "height": 0.0954
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "Ozone layer in the atmosphere plays a protective role, and hence its\ndepletion by chlorofluorocarbons (CFCs) gas (such as freon) is a matter\nof international concern.",
+          "bbox": {
+            "x_min": 0.3134,
+            "y_min": 0.8984,
+            "x_max": 0.9014,
+            "y_max": 0.9423,
+            "width": 0.5879,
+            "height": 0.0439
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "Electromagnetic\nWaves",
+          "bbox": {
+            "x_min": 0.6139,
+            "y_min": 0.0692,
+            "x_max": 0.8089,
+            "y_max": 0.1074,
+            "width": 0.195,
+            "height": 0.0382
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "8.4.6 X-rays",
+          "bbox": {
+            "x_min": 0.097,
+            "y_min": 0.1318,
+            "x_max": 0.2193,
+            "y_max": 0.1455,
+            "width": 0.1223,
+            "height": 0.0138
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "Beyond the UV region of the electromagnetic spectrum lies the X-ray\nregion. We are familiar with X-rays because of its medical applications. It\ncovers wavelengths from about 10¯º m (10 nm) down to 10-13 m\n(10¯⁴ nm). One common way to generate X-rays is to bombard a metal\ntarget by high energy electrons. X-rays are used as a diagnostic tool in\nmedicine and as a treatment for certain forms of cancer. Because X-rays\ndamage or destroy living tissues and organisms, care must be taken to\navoid unnecessary or over exposure.",
+          "bbox": {
+            "x_min": 0.097,
+            "y_min": 0.1553,
+            "x_max": 0.6866,
+            "y_max": 0.2831,
+            "width": 0.5896,
+            "height": 0.1278
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "8.4.7 Gamma rays",
+          "bbox": {
+            "x_min": 0.0981,
+            "y_min": 0.2972,
+            "x_max": 0.2802,
+            "y_max": 0.3119,
+            "width": 0.1821,
+            "height": 0.0146
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "They lie in the upper frequency range of the electromagnetic spectrum\nand have wavelengths of from about 10-10m to less than 10-14m. This\nhigh frequency radiation is produced in nuclear reactions and\nalso emitted by radioactive nuclei. They are used in medicine to destroy\ncancer cells.",
+          "bbox": {
+            "x_min": 0.097,
+            "y_min": 0.3208,
+            "x_max": 0.686,
+            "y_max": 0.3971,
+            "width": 0.5891,
+            "height": 0.0763
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "lished",
+          "bbox": {
+            "x_min": 0.6353,
+            "y_min": 0.3039,
+            "x_max": 0.8461,
+            "y_max": 0.4707,
+            "width": 0.2108,
+            "height": 0.1668
+          },
+          "confidence": 0.7997
+        },
+        {
+          "text": "Table 8.1 summarises different types of electromagnetic waves, their\nproduction and detections. As mentioned earlier, the demarcation between\ndifferent regions is not sharp and there are overlaps.",
+          "bbox": {
+            "x_min": 0.0964,
+            "y_min": 0.4028,
+            "x_max": 0.6866,
+            "y_max": 0.4494,
+            "width": 0.5902,
+            "height": 0.0466
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "TABLE 8.1 DIFFERENT TYPES OF ELECTROMAGNETIC WAVES",
+          "bbox": {
+            "x_min": 0.2661,
+            "y_min": 0.4734,
+            "x_max": 0.7339,
+            "y_max": 0.4849,
+            "width": 0.4679,
+            "height": 0.0115
+          },
+          "confidence": 0.9671
+        },
+        {
+          "text": "Wavelength range",
+          "bbox": {
+            "x_min": 0.2632,
+            "y_min": 0.5035,
+            "x_max": 0.4211,
+            "y_max": 0.5164,
+            "width": 0.1578,
+            "height": 0.0129
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "Type",
+          "bbox": {
+            "x_min": 0.1483,
+            "y_min": 0.5044,
+            "x_max": 0.1928,
+            "y_max": 0.5164,
+            "width": 0.0445,
+            "height": 0.012
+          },
+          "confidence": 0.701
+        },
+        {
+          "text": "Radio",
+          "bbox": {
+            "x_min": 0.1156,
+            "y_min": 0.5319,
+            "x_max": 0.164,
+            "y_max": 0.5408,
+            "width": 0.0485,
+            "height": 0.0089
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "> 0.1 m",
+          "bbox": {
+            "x_min": 0.2616,
+            "y_min": 0.5315,
+            "x_max": 0.3258,
+            "y_max": 0.5413,
+            "width": 0.0643,
+            "height": 0.0098
+          },
+          "confidence": 0.9679
+        },
+        {
+          "text": "1 mm",
+          "bbox": {
+            "x_min": 0.3337,
+            "y_min": 0.5839,
+            "x_max": 0.3788,
+            "y_max": 0.6016,
+            "width": 0.0451,
+            "height": 0.0177
+          },
+          "confidence": 0.9312
+        },
+        {
+          "text": "Infra-red",
+          "bbox": {
+            "x_min": 0.1178,
+            "y_min": 0.6287,
+            "x_max": 0.19,
+            "y_max": 0.6384,
+            "width": 0.0722,
+            "height": 0.0098
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "1mm to 700 nm",
+          "bbox": {
+            "x_min": 0.2649,
+            "y_min": 0.6291,
+            "x_max": 0.3963,
+            "y_max": 0.6389,
+            "width": 0.1313,
+            "height": 0.0098
+          },
+          "confidence": 0.986
+        },
+        {
+          "text": "Microwave",
+          "bbox": {
+            "x_min": 0.1167,
+            "y_min": 0.5892,
+            "x_max": 0.2041,
+            "y_max": 0.5985,
+            "width": 0.0874,
+            "height": 0.0093
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "0.1m to 1 mm",
+          "bbox": {
+            "x_min": 0.2616,
+            "y_min": 0.5887,
+            "x_max": 0.3794,
+            "y_max": 0.5985,
+            "width": 0.1178,
+            "height": 0.0098
+          },
+          "confidence": 0.9746
+        },
+        {
+          "text": "Production",
+          "bbox": {
+            "x_min": 0.5039,
+            "y_min": 0.504,
+            "x_max": 0.6026,
+            "y_max": 0.5138,
+            "width": 0.0986,
+            "height": 0.0098
+          },
+          "confidence": 0.982
+        },
+        {
+          "text": "Rapid acceleration and\ndecelerations of electrons\nin aerials",
+          "bbox": {
+            "x_min": 0.4414,
+            "y_min": 0.5315,
+            "x_max": 0.646,
+            "y_max": 0.5736,
+            "width": 0.2046,
+            "height": 0.0421
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "Klystron valve or\nmagnetron valve",
+          "bbox": {
+            "x_min": 0.4408,
+            "y_min": 0.5887,
+            "x_max": 0.5784,
+            "y_max": 0.618,
+            "width": 0.1375,
+            "height": 0.0293
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "Vibration of atoms\nand molecules",
+          "bbox": {
+            "x_min": 0.4391,
+            "y_min": 0.6287,
+            "x_max": 0.5913,
+            "y_max": 0.6557,
+            "width": 0.1522,
+            "height": 0.0271
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "Detection",
+          "bbox": {
+            "x_min": 0.7204,
+            "y_min": 0.5035,
+            "x_max": 0.8072,
+            "y_max": 0.5133,
+            "width": 0.0868,
+            "height": 0.0098
+          },
+          "confidence": 0.9838
+        },
+        {
+          "text": "Receiver's aerials",
+          "bbox": {
+            "x_min": 0.7046,
+            "y_min": 0.5315,
+            "x_max": 0.8416,
+            "y_max": 0.5408,
+            "width": 0.137,
+            "height": 0.0093
+          },
+          "confidence": 0.9826
+        },
+        {
+          "text": "Point contact diodes",
+          "bbox": {
+            "x_min": 0.7057,
+            "y_min": 0.5887,
+            "x_max": 0.8715,
+            "y_max": 0.5985,
+            "width": 0.1657,
+            "height": 0.0098
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "Light",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.6868,
+            "x_max": 0.1601,
+            "y_max": 0.6988,
+            "width": 0.0451,
+            "height": 0.012
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "700 nm to 400 nm",
+          "bbox": {
+            "x_min": 0.2627,
+            "y_min": 0.6868,
+            "x_max": 0.4188,
+            "y_max": 0.6961,
+            "width": 0.1561,
+            "height": 0.0093
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "Ultraviolet",
+          "bbox": {
+            "x_min": 0.1156,
+            "y_min": 0.76,
+            "x_max": 0.2018,
+            "y_max": 0.7689,
+            "width": 0.0862,
+            "height": 0.0089
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "400 nm to 1nm",
+          "bbox": {
+            "x_min": 0.2621,
+            "y_min": 0.7604,
+            "x_max": 0.3912,
+            "y_max": 0.7697,
+            "width": 0.1291,
+            "height": 0.0093
+          },
+          "confidence": 0.9619
+        },
+        {
+          "text": "X-rays",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.8177,
+            "x_max": 0.1719,
+            "y_max": 0.8296,
+            "width": 0.0575,
+            "height": 0.012
+          },
+          "confidence": 0.9851
+        },
+        {
+          "text": "1nm to 10-3 nm",
+          "bbox": {
+            "x_min": 0.2655,
+            "y_min": 0.8159,
+            "x_max": 0.3906,
+            "y_max": 0.827,
+            "width": 0.1251,
+            "height": 0.0111
+          },
+          "confidence": 0.914
+        },
+        {
+          "text": "Electrons in atoms emit\nlight when they move from\none energy level to a\nlower energy level",
+          "bbox": {
+            "x_min": 0.4397,
+            "y_min": 0.6863,
+            "x_max": 0.6567,
+            "y_max": 0.7484,
+            "width": 0.217,
+            "height": 0.0621
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "Inner shell electrons in\natoms moving from one\nenergy level to a lower level",
+          "bbox": {
+            "x_min": 0.4408,
+            "y_min": 0.7591,
+            "x_max": 0.6657,
+            "y_max": 0.8052,
+            "width": 0.2249,
+            "height": 0.0461
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "X-ray tubes or inner shell\nelectrons",
+          "bbox": {
+            "x_min": 0.4402,
+            "y_min": 0.8168,
+            "x_max": 0.6511,
+            "y_max": 0.8429,
+            "width": 0.2108,
+            "height": 0.0262
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "Thermopiles",
+          "bbox": {
+            "x_min": 0.7041,
+            "y_min": 0.6291,
+            "x_max": 0.8061,
+            "y_max": 0.6411,
+            "width": 0.102,
+            "height": 0.012
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "Bolometer, Infrared\nphotographic film",
+          "bbox": {
+            "x_min": 0.7046,
+            "y_min": 0.6455,
+            "x_max": 0.8625,
+            "y_max": 0.6752,
+            "width": 0.1578,
+            "height": 0.0297
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "The eye",
+          "bbox": {
+            "x_min": 0.7046,
+            "y_min": 0.6863,
+            "x_max": 0.7678,
+            "y_max": 0.6992,
+            "width": 0.0631,
+            "height": 0.0129
+          },
+          "confidence": 0.986
+        },
+        {
+          "text": "Photocells",
+          "bbox": {
+            "x_min": 0.7052,
+            "y_min": 0.7028,
+            "x_max": 0.788,
+            "y_max": 0.7121,
+            "width": 0.0829,
+            "height": 0.0093
+          },
+          "confidence": 0.9845
+        },
+        {
+          "text": "Photographic film",
+          "bbox": {
+            "x_min": 0.7057,
+            "y_min": 0.7187,
+            "x_max": 0.8512,
+            "y_max": 0.7316,
+            "width": 0.1454,
+            "height": 0.0129
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "Photocells",
+          "bbox": {
+            "x_min": 0.7046,
+            "y_min": 0.7595,
+            "x_max": 0.7869,
+            "y_max": 0.7697,
+            "width": 0.0823,
+            "height": 0.0102
+          },
+          "confidence": 0.985
+        },
+        {
+          "text": "Photographic film",
+          "bbox": {
+            "x_min": 0.7052,
+            "y_min": 0.776,
+            "x_max": 0.8512,
+            "y_max": 0.7888,
+            "width": 0.146,
+            "height": 0.0129
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "Photographic film\nGeiger tubes\nIonisation chamber",
+          "bbox": {
+            "x_min": 0.7046,
+            "y_min": 0.8168,
+            "x_max": 0.8641,
+            "y_max": 0.8594,
+            "width": 0.1595,
+            "height": 0.0426
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "Gamma rays",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.874,
+            "x_max": 0.2221,
+            "y_max": 0.886,
+            "width": 0.1071,
+            "height": 0.012
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "<10-3 nm",
+          "bbox": {
+            "x_min": 0.2644,
+            "y_min": 0.8736,
+            "x_max": 0.3422,
+            "y_max": 0.8838,
+            "width": 0.0778,
+            "height": 0.0102
+          },
+          "confidence": 0.9587
+        },
+        {
+          "text": "Radioactive decay of the\nnucleus",
+          "bbox": {
+            "x_min": 0.4397,
+            "y_min": 0.874,
+            "x_max": 0.637,
+            "y_max": 0.8997,
+            "width": 0.1973,
+            "height": 0.0257
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "-do-",
+          "bbox": {
+            "x_min": 0.7046,
+            "y_min": 0.874,
+            "x_max": 0.7407,
+            "y_max": 0.8833,
+            "width": 0.0361,
+            "height": 0.0093
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "211",
+          "bbox": {
+            "x_min": 0.823,
+            "y_min": 0.9241,
+            "x_max": 0.8596,
+            "y_max": 0.9335,
+            "width": 0.0366,
+            "height": 0.0093
+          },
+          "confidence": 0.9881
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "212",
+          "bbox": {
+            "x_min": 0.1392,
+            "y_min": 0.9246,
+            "x_max": 0.1725,
+            "y_max": 0.9335,
+            "width": 0.0333,
+            "height": 0.0089
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.2306,
+            "y_min": 0.0883,
+            "x_max": 0.3382,
+            "y_max": 0.1118,
+            "width": 0.1077,
+            "height": 0.0235
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "SUMMARY",
+          "bbox": {
+            "x_min": 0.562,
+            "y_min": 0.1415,
+            "x_max": 0.6528,
+            "y_max": 0.15,
+            "width": 0.0908,
+            "height": 0.0084
+          },
+          "confidence": 0.9746
+        },
+        {
+          "text": "1. Maxwell found an inconsistency in the Ampere's law and suggested the\nexistence of an additional current, called displacement current, to remove\nthis inconsistency. This displacement current is due to time-varying electric\nfield and is given by",
+          "bbox": {
+            "x_min": 0.3151,
+            "y_min": 0.1713,
+            "x_max": 0.872,
+            "y_max": 0.2258,
+            "width": 0.5569,
+            "height": 0.0546
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "ia = Eo",
+          "bbox": {
+            "x_min": 0.345,
+            "y_min": 0.2427,
+            "x_max": 0.3901,
+            "y_max": 0.2538,
+            "width": 0.0451,
+            "height": 0.0111
+          },
+          "confidence": 0.7027
+        },
+        {
+          "text": "d",
+          "bbox": {
+            "x_min": 0.3923,
+            "y_min": 0.2343,
+            "x_max": 0.4059,
+            "y_max": 0.2427,
+            "width": 0.0135,
+            "height": 0.0084
+          },
+          "confidence": 0.9351
+        },
+        {
+          "text": "dt",
+          "bbox": {
+            "x_min": 0.3985,
+            "y_min": 0.2516,
+            "x_max": 0.4188,
+            "y_max": 0.26,
+            "width": 0.0203,
+            "height": 0.0084
+          },
+          "confidence": 0.9831
+        },
+        {
+          "text": "and acts as a source of magnetic field in exactly the same way as conduction",
+          "bbox": {
+            "x_min": 0.3433,
+            "y_min": 0.2675,
+            "x_max": 0.872,
+            "y_max": 0.2791,
+            "width": 0.5287,
+            "height": 0.0115
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "current.",
+          "bbox": {
+            "x_min": 0.3427,
+            "y_min": 0.2826,
+            "x_max": 0.3997,
+            "y_max": 0.2902,
+            "width": 0.0569,
+            "height": 0.0075
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "2. An accelerating charge produces electromagnetic waves. An electric charge\noscillating harmonically with frequency v, produces electromagnetic waves\nof the same frequency v. An electric dipole is a basic source of\nelectromagnetic waves.",
+          "bbox": {
+            "x_min": 0.3134,
+            "y_min": 0.2995,
+            "x_max": 0.8726,
+            "y_max": 0.3531,
+            "width": 0.5592,
+            "height": 0.0537
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "3. Electromagnetic waves with wavelength of the order of a few metres were\nfirst produced and detected in the laboratory by Hertz in 1887. He thus\nverified a basic prediction of Maxwell's equations.",
+          "bbox": {
+            "x_min": 0.3134,
+            "y_min": 0.3589,
+            "x_max": 0.872,
+            "y_max": 0.3984,
+            "width": 0.5586,
+            "height": 0.0395
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "4. Electric and magnetic fields oscillate sinusoidally in space and time in an\nelectromagnetic wave. The oscillating electric and magnetic fields, E and\nB are perpendicular to each other, and to the direction of propagation of\nthe electromagnetic wave. For a wave of frequency v, wavelength λ,\npropagating along z-direction, we have",
+          "bbox": {
+            "x_min": 0.3129,
+            "y_min": 0.4042,
+            "x_max": 0.8732,
+            "y_max": 0.4725,
+            "width": 0.5603,
+            "height": 0.0683
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "E = Ex(t) = E sin (kz – wt)",
+          "bbox": {
+            "x_min": 0.3726,
+            "y_min": 0.4774,
+            "x_max": 0.5671,
+            "y_max": 0.4916,
+            "width": 0.1945,
+            "height": 0.0142
+          },
+          "confidence": 0.8863
+        },
+        {
+          "text": "=",
+          "bbox": {
+            "x_min": 0.3867,
+            "y_min": 0.5169,
+            "x_max": 0.3957,
+            "y_max": 0.5204,
+            "width": 0.009,
+            "height": 0.0035
+          },
+          "confidence": 0.9426
+        },
+        {
+          "text": "E sin",
+          "bbox": {
+            "x_min": 0.3991,
+            "y_min": 0.5146,
+            "x_max": 0.4442,
+            "y_max": 0.524,
+            "width": 0.0451,
+            "height": 0.0093
+          },
+          "confidence": 0.9669
+        },
+        {
+          "text": "2π - vt = Eosin 2π",
+          "bbox": {
+            "x_min": 0.4735,
+            "y_min": 0.5093,
+            "x_max": 0.6483,
+            "y_max": 0.524,
+            "width": 0.1747,
+            "height": 0.0146
+          },
+          "confidence": 0.694
+        },
+        {
+          "text": "Z",
+          "bbox": {
+            "x_min": 0.5034,
+            "y_min": 0.5071,
+            "x_max": 0.5135,
+            "y_max": 0.512,
+            "width": 0.0101,
+            "height": 0.0049
+          },
+          "confidence": 0.6892
+        },
+        {
+          "text": "λ",
+          "bbox": {
+            "x_min": 0.5028,
+            "y_min": 0.5209,
+            "x_max": 0.5141,
+            "y_max": 0.5293,
+            "width": 0.0113,
+            "height": 0.0084
+          },
+          "confidence": 0.9622
+        },
+        {
+          "text": "B = B(t) = B sin (kz – w t)",
+          "bbox": {
+            "x_min": 0.3726,
+            "y_min": 0.5408,
+            "x_max": 0.5643,
+            "y_max": 0.551,
+            "width": 0.1917,
+            "height": 0.0102
+          },
+          "confidence": 0.9
+        },
+        {
+          "text": "Z",
+          "bbox": {
+            "x_min": 0.487,
+            "y_min": 0.567,
+            "x_max": 0.4966,
+            "y_max": 0.5723,
+            "width": 0.0096,
+            "height": 0.0053
+          },
+          "confidence": 0.697
+        },
+        {
+          "text": "2π",
+          "bbox": {
+            "x_min": 0.456,
+            "y_min": 0.5714,
+            "x_max": 0.4752,
+            "y_max": 0.5816,
+            "width": 0.0192,
+            "height": 0.0102
+          },
+          "confidence": 0.8921
+        },
+        {
+          "text": "Z",
+          "bbox": {
+            "x_min": 0.6601,
+            "y_min": 0.5067,
+            "x_max": 0.6708,
+            "y_max": 0.5115,
+            "width": 0.0107,
+            "height": 0.0049
+          },
+          "confidence": 0.6509
+        },
+        {
+          "text": "= Bo sin [2-vt)] = Bosin [2]",
+          "bbox": {
+            "x_min": 0.3873,
+            "y_min": 0.5599,
+            "x_max": 0.6979,
+            "y_max": 0.5909,
+            "width": 0.3106,
+            "height": 0.0311
+          },
+          "confidence": 0.5942
+        },
+        {
+          "text": "They are",
+          "bbox": {
+            "x_min": 0.3326,
+            "y_min": 0.5843,
+            "x_max": 0.4019,
+            "y_max": 0.6131,
+            "width": 0.0693,
+            "height": 0.0288
+          },
+          "confidence": 0.9178
+        },
+        {
+          "text": "λ",
+          "bbox": {
+            "x_min": 0.4859,
+            "y_min": 0.5812,
+            "x_max": 0.4977,
+            "y_max": 0.5892,
+            "width": 0.0118,
+            "height": 0.008
+          },
+          "confidence": 0.9595
+        },
+        {
+          "text": "They are related by E/Bo = c.",
+          "bbox": {
+            "x_min": 0.3433,
+            "y_min": 0.5976,
+            "x_max": 0.5552,
+            "y_max": 0.6105,
+            "width": 0.212,
+            "height": 0.0129
+          },
+          "confidence": 0.9458
+        },
+        {
+          "text": "2π",
+          "bbox": {
+            "x_min": 0.6133,
+            "y_min": 0.5714,
+            "x_max": 0.6319,
+            "y_max": 0.5816,
+            "width": 0.0186,
+            "height": 0.0102
+          },
+          "confidence": 0.851
+        },
+        {
+          "text": "5. The speed c of electromagnetic wave in vacuum is related to μ and ɛ (the\nfree space permeability and permittivity constants) as follows:",
+          "bbox": {
+            "x_min": 0.314,
+            "y_min": 0.6149,
+            "x_max": 0.872,
+            "y_max": 0.6402,
+            "width": 0.5581,
+            "height": 0.0253
+          },
+          "confidence": 0.9864
+        },
+        {
+          "text": "c = 1/√μο. The value of c equals the speed of light obtained from\noptical measurements.",
+          "bbox": {
+            "x_min": 0.3433,
+            "y_min": 0.6513,
+            "x_max": 0.8715,
+            "y_max": 0.6828,
+            "width": 0.5282,
+            "height": 0.0315
+          },
+          "confidence": 0.9612
+        },
+        {
+          "text": "Light is an electromagnetic wave; c is, therefore, also the speed of light.\nElectromagnetic waves other than light also have the same velocity c in\nfree space.",
+          "bbox": {
+            "x_min": 0.3427,
+            "y_min": 0.6894,
+            "x_max": 0.8715,
+            "y_max": 0.7285,
+            "width": 0.5287,
+            "height": 0.039
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "The speed of light, or of electromagnetic waves in a material medium is\ngiven by v = 1/√με",
+          "bbox": {
+            "x_min": 0.3416,
+            "y_min": 0.7351,
+            "x_max": 0.872,
+            "y_max": 0.7684,
+            "width": 0.5304,
+            "height": 0.0333
+          },
+          "confidence": 0.9703
+        },
+        {
+          "text": "where u is the permeability of the medium and & its permittivity.",
+          "bbox": {
+            "x_min": 0.3416,
+            "y_min": 0.776,
+            "x_max": 0.8112,
+            "y_max": 0.7875,
+            "width": 0.4696,
+            "height": 0.0115
+          },
+          "confidence": 0.9657
+        },
+        {
+          "text": "6. The spectrum of electromagnetic waves stretches, in principle, over an\ninfinite range of wavelengths. Different regions are known by different\nnames; y-rays, X-rays, ultraviolet rays, visible rays, infrared rays,\nmicrowaves and radio waves in order of increasing wavelength from 10-2 Å\nor 10-12 m to 100m.",
+          "bbox": {
+            "x_min": 0.3123,
+            "y_min": 0.7928,
+            "x_max": 0.872,
+            "y_max": 0.8585,
+            "width": 0.5598,
+            "height": 0.0657
+          },
+          "confidence": 0.9777
+        },
+        {
+          "text": "They interact with matter via their electric and magnetic fields which set\nin oscillation charges present in all matter. The detailed interaction and\nso the mechanism of absorption, scattering, etc., depend on the wavelength\nof the electromagnetic wave, and the nature of the atoms and molecules\nin the medium.",
+          "bbox": {
+            "x_min": 0.3416,
+            "y_min": 0.8669,
+            "x_max": 0.8715,
+            "y_max": 0.9321,
+            "width": 0.5299,
+            "height": 0.0652
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.2086,
+            "y_min": 0.7112,
+            "x_max": 0.3467,
+            "y_max": 0.815,
+            "width": 0.1381,
+            "height": 0.1038
+          },
+          "confidence": 0.8933
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "8.2",
+          "bbox": {
+            "x_min": 0.0953,
+            "y_min": 0.9015,
+            "x_max": 0.1268,
+            "y_max": 0.9095,
+            "width": 0.0316,
+            "height": 0.008
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "8.1",
+          "bbox": {
+            "x_min": 0.0953,
+            "y_min": 0.6362,
+            "x_max": 0.1263,
+            "y_max": 0.6446,
+            "width": 0.031,
+            "height": 0.0084
+          },
+          "confidence": 0.9847
+        },
+        {
+          "text": "Electromagnetic\nWaves",
+          "bbox": {
+            "x_min": 0.6139,
+            "y_min": 0.0692,
+            "x_max": 0.8089,
+            "y_max": 0.1074,
+            "width": 0.195,
+            "height": 0.0382
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "POINTS TO PONDER",
+          "bbox": {
+            "x_min": 0.2875,
+            "y_min": 0.1593,
+            "x_max": 0.469,
+            "y_max": 0.169,
+            "width": 0.1815,
+            "height": 0.0098
+          },
+          "confidence": 0.9635
+        },
+        {
+          "text": "1. The basic difference between various types of electromagnetic waves\nlies in their wavelengths or frequencies since all of them travel through\nvacuum with the same speed. Consequently, the waves differ\nconsiderably in their mode of interaction with matter.",
+          "bbox": {
+            "x_min": 0.1297,
+            "y_min": 0.1912,
+            "x_max": 0.6561,
+            "y_max": 0.2449,
+            "width": 0.5265,
+            "height": 0.0537
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "2. Accelerated charged particles radiate electromagnetic waves. The\nwavelength of the electromagnetic wave is often correlated with the\ncharacteristic size of the system that radiates. Thus, gamma radiation,\nhaving wavelength of 10-14 m to 10-15 m, typically originate from an\natomic nucleus. X-rays are emitted from heavy atoms. Radio waves\nare produced by accelerating electrons in a circuit. A transmitting\nantenna can most efficiently radiate waves having a wavelength of\nabout the same size as the antenna. Visible radiation emitted by atoms\nis, however, much longer in wavelength than atomic size.",
+          "bbox": {
+            "x_min": 0.128,
+            "y_min": 0.2502,
+            "x_max": 0.6578,
+            "y_max": 0.3753,
+            "width": 0.5299,
+            "height": 0.1251
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "3. Infrared waves, with frequencies lower than those of visible light,\nvibrate not only the electrons, but entire atoms or molecules of a\nsubstance. This vibration increases the internal energy and\nconsequently, the temperature of the substance. This is why infrared\nwaves are often called heat waves.",
+          "bbox": {
+            "x_min": 0.128,
+            "y_min": 0.3807,
+            "x_max": 0.6567,
+            "y_max": 0.4463,
+            "width": 0.5287,
+            "height": 0.0657
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "4. The centre of sensitivity of our eyes coincides with the centre of the\nwavelength distribution of the sun. It is because humans have evolved\nwith visions most sensitive to the strongest wavelengths from\nthe sun.",
+          "bbox": {
+            "x_min": 0.128,
+            "y_min": 0.4543,
+            "x_max": 0.6567,
+            "y_max": 0.5058,
+            "width": 0.5287,
+            "height": 0.0515
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "e republished",
+          "bbox": {
+            "x_min": 0.42,
+            "y_min": 0.3101,
+            "x_max": 0.8653,
+            "y_max": 0.6437,
+            "width": 0.4453,
+            "height": 0.3336
+          },
+          "confidence": 0.7646
+        },
+        {
+          "text": "EXERCISES",
+          "bbox": {
+            "x_min": 0.2988,
+            "y_min": 0.5927,
+            "x_max": 0.4549,
+            "y_max": 0.614,
+            "width": 0.1561,
+            "height": 0.0213
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "Figure 8.5 shows a capacitor made of two circular plates each of\nradius 12 cm, and separated by 5.0 cm. The capacitor is being\ncharged by an external source (not shown in the figure). The\ncharging current is constant and equal to 0.15A.",
+          "bbox": {
+            "x_min": 0.1567,
+            "y_min": 0.6353,
+            "x_max": 0.6866,
+            "y_max": 0.6921,
+            "width": 0.5299,
+            "height": 0.0568
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "(a) Calculate the capacitance and the rate of change of potential",
+          "bbox": {
+            "x_min": 0.1516,
+            "y_min": 0.6974,
+            "x_max": 0.6849,
+            "y_max": 0.7103,
+            "width": 0.5333,
+            "height": 0.0129
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "difference between the plates.",
+          "bbox": {
+            "x_min": 0.1866,
+            "y_min": 0.713,
+            "x_max": 0.4222,
+            "y_max": 0.7245,
+            "width": 0.2356,
+            "height": 0.0115
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "(b) Obtain the displacement current across the plates.",
+          "bbox": {
+            "x_min": 0.1522,
+            "y_min": 0.7311,
+            "x_max": 0.5941,
+            "y_max": 0.7431,
+            "width": 0.4419,
+            "height": 0.012
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "(c) Is Kirchhoff's first rule (junction rule) valid at each plate of the\ncapacitor? Explain.",
+          "bbox": {
+            "x_min": 0.1516,
+            "y_min": 0.748,
+            "x_max": 0.6866,
+            "y_max": 0.776,
+            "width": 0.5349,
+            "height": 0.028
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "00",
+          "bbox": {
+            "x_min": 0.2897,
+            "y_min": 0.787,
+            "x_max": 0.4994,
+            "y_max": 0.8687,
+            "width": 0.2097,
+            "height": 0.0816
+          },
+          "confidence": 0.9748
+        },
+        {
+          "text": "FIGURE 8.5",
+          "bbox": {
+            "x_min": 0.3495,
+            "y_min": 0.8798,
+            "x_max": 0.4329,
+            "y_max": 0.8878,
+            "width": 0.0834,
+            "height": 0.008
+          },
+          "confidence": 0.9824
+        },
+        {
+          "text": "A parallel plate capacitor (Fig. 8.6) made of circular plates each of radius",
+          "bbox": {
+            "x_min": 0.1533,
+            "y_min": 0.9006,
+            "x_max": 0.6843,
+            "y_max": 0.9126,
+            "width": 0.531,
+            "height": 0.012
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "R = 6.0 cm has a capacitance C = 100 pF. The capacitor is connected to\na 230 V ac supply with a (angular) frequency of 300 rad s¯¹.",
+          "bbox": {
+            "x_min": 0.1567,
+            "y_min": 0.9157,
+            "x_max": 0.6855,
+            "y_max": 0.9423,
+            "width": 0.5287,
+            "height": 0.0266
+          },
+          "confidence": 0.9801
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4532,
+            "y_min": 0.9738,
+            "x_max": 0.5457,
+            "y_max": 0.9827,
+            "width": 0.0924,
+            "height": 0.0089
+          },
+          "confidence": 0.9794
+        },
+        {
+          "text": "213",
+          "bbox": {
+            "x_min": 0.8258,
+            "y_min": 0.9241,
+            "x_max": 0.8585,
+            "y_max": 0.9335,
+            "width": 0.0327,
+            "height": 0.0093
+          },
+          "confidence": 0.9942
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "dimension": {
+        "width": 1774.0,
+        "height": 2254.0
+      },
+      "paragraphs": [
+        {
+          "text": "214",
+          "bbox": {
+            "x_min": 0.1381,
+            "y_min": 0.9246,
+            "x_max": 0.1747,
+            "y_max": 0.9335,
+            "width": 0.0366,
+            "height": 0.0089
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.2317,
+            "y_min": 0.0874,
+            "x_max": 0.3382,
+            "y_max": 0.1114,
+            "width": 0.1065,
+            "height": 0.024
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "(a) What is the rms value of the conduction current?\n(b) Is the conduction current equal to the displacement current?",
+          "bbox": {
+            "x_min": 0.3675,
+            "y_min": 0.1313,
+            "x_max": 0.8929,
+            "y_max": 0.1575,
+            "width": 0.5254,
+            "height": 0.0262
+          },
+          "confidence": 0.9852
+        },
+        {
+          "text": "(c)",
+          "bbox": {
+            "x_min": 0.3675,
+            "y_min": 0.1602,
+            "x_max": 0.3839,
+            "y_max": 0.1726,
+            "width": 0.0163,
+            "height": 0.0124
+          },
+          "confidence": 0.9693
+        },
+        {
+          "text": "Determine the amplitude of B at a point 3.0 cm from the axis\nbetween the plates.",
+          "bbox": {
+            "x_min": 0.4014,
+            "y_min": 0.1602,
+            "x_max": 0.9008,
+            "y_max": 0.1877,
+            "width": 0.4994,
+            "height": 0.0275
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "8.3",
+          "bbox": {
+            "x_min": 0.3112,
+            "y_min": 0.3252,
+            "x_max": 0.3422,
+            "y_max": 0.3327,
+            "width": 0.031,
+            "height": 0.0075
+          },
+          "confidence": 0.9831
+        },
+        {
+          "text": "FIGURE 8.6",
+          "bbox": {
+            "x_min": 0.5654,
+            "y_min": 0.307,
+            "x_max": 0.6494,
+            "y_max": 0.3146,
+            "width": 0.084,
+            "height": 0.0075
+          },
+          "confidence": 0.9858
+        },
+        {
+          "text": "What physical quantity is the same for X-rays of wavelength\n10-10 m, red light of wavelength 6800 Å and radiowaves of wavelength",
+          "bbox": {
+            "x_min": 0.3709,
+            "y_min": 0.323,
+            "x_max": 0.9019,
+            "y_max": 0.3514,
+            "width": 0.531,
+            "height": 0.0284
+          },
+          "confidence": 0.9789
+        },
+        {
+          "text": "500m?",
+          "bbox": {
+            "x_min": 0.372,
+            "y_min": 0.354,
+            "x_max": 0.4256,
+            "y_max": 0.3625,
+            "width": 0.0536,
+            "height": 0.0084
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "along",
+          "bbox": {
+            "x_min": 0.7587,
+            "y_min": 0.3651,
+            "x_max": 0.8072,
+            "y_max": 0.3846,
+            "width": 0.0485,
+            "height": 0.0195
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "8.4",
+          "bbox": {
+            "x_min": 0.3106,
+            "y_min": 0.3722,
+            "x_max": 0.3433,
+            "y_max": 0.3807,
+            "width": 0.0327,
+            "height": 0.0084
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "A plane electromagnetic wave travels in vacuum along z-direction.\nWhat can you say about the directions of its electric and magnetic\nfield vectors? If the frequency of the wave is 30 MHz, what is its\nwavelength?",
+          "bbox": {
+            "x_min": 0.3703,
+            "y_min": 0.3718,
+            "x_max": 0.9019,
+            "y_max": 0.4277,
+            "width": 0.5316,
+            "height": 0.0559
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "8.5",
+          "bbox": {
+            "x_min": 0.3117,
+            "y_min": 0.4339,
+            "x_max": 0.3416,
+            "y_max": 0.4432,
+            "width": 0.0299,
+            "height": 0.0093
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "A radio can tune in to any station in the 7.5 MHz to 12 MHz band.\nWhat is the corresponding wavelength band?",
+          "bbox": {
+            "x_min": 0.3698,
+            "y_min": 0.4339,
+            "x_max": 0.9008,
+            "y_max": 0.461,
+            "width": 0.531,
+            "height": 0.0271
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "on in the 7.5 MB",
+          "bbox": {
+            "x_min": 0.6206,
+            "y_min": 0.4153,
+            "x_max": 0.7503,
+            "y_max": 0.4454,
+            "width": 0.1297,
+            "height": 0.0302
+          },
+          "confidence": 0.6295
+        },
+        {
+          "text": "8.6",
+          "bbox": {
+            "x_min": 0.3106,
+            "y_min": 0.4667,
+            "x_max": 0.3427,
+            "y_max": 0.4747,
+            "width": 0.0321,
+            "height": 0.008
+          },
+          "confidence": 0.9845
+        },
+        {
+          "text": "A charged particle oscillates about its mean equilibrium position\nwith a frequency of 10º Hz. What is the frequency of the\nelectromagnetic waves produced by the oscillator?",
+          "bbox": {
+            "x_min": 0.3715,
+            "y_min": 0.4663,
+            "x_max": 0.9019,
+            "y_max": 0.508,
+            "width": 0.5304,
+            "height": 0.0417
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "8.7",
+          "bbox": {
+            "x_min": 0.3106,
+            "y_min": 0.5129,
+            "x_max": 0.341,
+            "y_max": 0.5213,
+            "width": 0.0304,
+            "height": 0.0084
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "The amplitude of the magnetic field part of a harmonic\nelectromagnetic wave in vacuum is B = 510 nT. What is the\namplitude of the electric field part of the wave?",
+          "bbox": {
+            "x_min": 0.372,
+            "y_min": 0.512,
+            "x_max": 0.9019,
+            "y_max": 0.5541,
+            "width": 0.5299,
+            "height": 0.0421
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "8.8",
+          "bbox": {
+            "x_min": 0.3106,
+            "y_min": 0.5603,
+            "x_max": 0.3422,
+            "y_max": 0.5683,
+            "width": 0.0316,
+            "height": 0.008
+          },
+          "confidence": 0.9781
+        },
+        {
+          "text": "Suppose that the electric field amplitude of an electromagnetic wave\nis E = 120 N/C and that its frequency is v = 50.0 MHz. (a) Determine,\nΒο,ω, k, and λ. (b) Find expressions for E and B.",
+          "bbox": {
+            "x_min": 0.3726,
+            "y_min": 0.5599,
+            "x_max": 0.9019,
+            "y_max": 0.602,
+            "width": 0.5293,
+            "height": 0.0421
+          },
+          "confidence": 0.9801
+        },
+        {
+          "text": "8.9",
+          "bbox": {
+            "x_min": 0.3117,
+            "y_min": 0.6074,
+            "x_max": 0.3416,
+            "y_max": 0.6149,
+            "width": 0.0299,
+            "height": 0.0075
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "The terminology of different parts of the electromagnetic spectrum\nis given in the text. Use the formula E = hv (for energy of a quantum\nof radiation: photon) and obtain the photon energy in units of eV for\ndifferent parts of the electromagnetic spectrum. In what way are\nthe different scales of photon energies that you obtain related to the\nsources of electromagnetic radiation?",
+          "bbox": {
+            "x_min": 0.372,
+            "y_min": 0.606,
+            "x_max": 0.9019,
+            "y_max": 0.693,
+            "width": 0.5299,
+            "height": 0.087
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.2142,
+            "y_min": 0.7054,
+            "x_max": 0.3405,
+            "y_max": 0.8163,
+            "width": 0.1263,
+            "height": 0.1109
+          },
+          "confidence": 0.9847
+        },
+        {
+          "text": "8.10 In a plane electromagnetic wave, the electric field oscillates\nsinusoidally at a frequency of 2.0 × 1010 Hz and amplitude 48 V m¯¹.\n(a) What is the wavelength of the wave?",
+          "bbox": {
+            "x_min": 0.3134,
+            "y_min": 0.6983,
+            "x_max": 0.9008,
+            "y_max": 0.7413,
+            "width": 0.5874,
+            "height": 0.043
+          },
+          "confidence": 0.9806
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.3681,
+            "y_min": 0.7449,
+            "x_max": 0.3861,
+            "y_max": 0.7573,
+            "width": 0.018,
+            "height": 0.0124
+          },
+          "confidence": 0.9602
+        },
+        {
+          "text": "What is the amplitude of the oscillating magnetic field?",
+          "bbox": {
+            "x_min": 0.4014,
+            "y_min": 0.7445,
+            "x_max": 0.841,
+            "y_max": 0.7573,
+            "width": 0.4397,
+            "height": 0.0129
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "(c) Show that the average energy density of the E field equals the\naverage energy density of the B field. [c = 3 × 108 m s¯¹.]",
+          "bbox": {
+            "x_min": 0.3675,
+            "y_min": 0.7587,
+            "x_max": 0.9008,
+            "y_max": 0.7862,
+            "width": 0.5333,
+            "height": 0.0275
+          },
+          "confidence": 0.9685
+        },
+        {
+          "text": "Reprint 2026-27",
+          "bbox": {
+            "x_min": 0.4526,
+            "y_min": 0.9738,
+            "x_max": 0.5462,
+            "y_max": 0.9827,
+            "width": 0.0936,
+            "height": 0.0089
+          },
+          "confidence": 0.9844
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

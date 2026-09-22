@@ -1,0 +1,2338 @@
+{
+  "chapter_id": "11th_biology_ch06_anatomy_of_flowering_plants_ch06_anatomy_of_flowering_plants_en",
+  "total_pages": 8,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "11080CH06",
+          "bbox": {
+            "x_min": 0.7986,
+            "y_min": 0.2138,
+            "x_max": 0.8447,
+            "y_max": 0.2185,
+            "width": 0.0461,
+            "height": 0.0047
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "6.1 The Tissue\nSystem",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.452,
+            "x_max": 0.2002,
+            "y_max": 0.4829,
+            "width": 0.1278,
+            "height": 0.0308
+          },
+          "confidence": 0.9811
+        },
+        {
+          "text": "6.2 Anatomy of",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.4961,
+            "x_max": 0.2049,
+            "y_max": 0.5094,
+            "width": 0.1331,
+            "height": 0.0133
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "Dicotyledonous",
+          "bbox": {
+            "x_min": 0.1051,
+            "y_min": 0.5167,
+            "x_max": 0.2318,
+            "y_max": 0.5283,
+            "width": 0.1267,
+            "height": 0.0116
+          },
+          "confidence": 0.9807
+        },
+        {
+          "text": "and",
+          "bbox": {
+            "x_min": 0.1051,
+            "y_min": 0.5351,
+            "x_max": 0.1401,
+            "y_max": 0.5437,
+            "width": 0.035,
+            "height": 0.0086
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "Monocotyledonous",
+          "bbox": {
+            "x_min": 0.1033,
+            "y_min": 0.554,
+            "x_max": 0.2528,
+            "y_max": 0.5664,
+            "width": 0.1494,
+            "height": 0.0124
+          },
+          "confidence": 0.9813
+        },
+        {
+          "text": "Plants",
+          "bbox": {
+            "x_min": 0.1057,
+            "y_min": 0.5737,
+            "x_max": 0.1611,
+            "y_max": 0.5814,
+            "width": 0.0555,
+            "height": 0.0077
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "CHAPTER 6",
+          "bbox": {
+            "x_min": 0.3088,
+            "y_min": 0.3235,
+            "x_max": 0.4915,
+            "y_max": 0.35,
+            "width": 0.1827,
+            "height": 0.0266
+          },
+          "confidence": 0.9593
+        },
+        {
+          "text": "ANATOMY",
+          "bbox": {
+            "x_min": 0.3071,
+            "y_min": 0.3736,
+            "x_max": 0.4804,
+            "y_max": 0.4002,
+            "width": 0.1734,
+            "height": 0.0266
+          },
+          "confidence": 0.9727
+        },
+        {
+          "text": "ed",
+          "bbox": {
+            "x_min": 0.7595,
+            "y_min": 0.3119,
+            "x_max": 0.8739,
+            "y_max": 0.3937,
+            "width": 0.1144,
+            "height": 0.0818
+          },
+          "confidence": 0.9513
+        },
+        {
+          "text": "OF FLOWERING PLANTS",
+          "bbox": {
+            "x_min": 0.4781,
+            "y_min": 0.3231,
+            "x_max": 0.8511,
+            "y_max": 0.458,
+            "width": 0.373,
+            "height": 0.135
+          },
+          "confidence": 0.9356
+        },
+        {
+          "text": "e structu",
+          "bbox": {
+            "x_min": 0.4962,
+            "y_min": 0.4473,
+            "x_max": 0.575,
+            "y_max": 0.461,
+            "width": 0.0788,
+            "height": 0.0137
+          },
+          "confidence": 0.9438
+        },
+        {
+          "text": "S",
+          "bbox": {
+            "x_min": 0.6935,
+            "y_min": 0.4049,
+            "x_max": 0.7624,
+            "y_max": 0.4439,
+            "width": 0.0689,
+            "height": 0.039
+          },
+          "confidence": 0.9066
+        },
+        {
+          "text": "You can very easily see the structural similarities and variations in the\nexternal morphology of the larger living organism, both plants and\nanimals. Similarly, if we were to study the internal structure, one also\nfinds several similarities as well as differences. This chapter introduces\nyou to the internal structure and functional organisation of higher plants.\nStudy of internal structure of plants is called anatomy. Plants have cells\nas the basic unit, cells are organised into tissues and in turn the tissues\nare organised into organs. Different organs in a plant show differences in\ntheir internal structure. Within angiosperms, the monocots and dicots\nare also seen to be anatomically different. Internal structures also show\nadaptations to diverse environments.",
+          "bbox": {
+            "x_min": 0.268,
+            "y_min": 0.4512,
+            "x_max": 0.8943,
+            "y_max": 0.6422,
+            "width": 0.6264,
+            "height": 0.1911
+          },
+          "confidence": 0.997
+        },
+        {
+          "text": "6.1 THE TISSUE SYSTEM",
+          "bbox": {
+            "x_min": 0.2685,
+            "y_min": 0.6684,
+            "x_max": 0.5242,
+            "y_max": 0.6808,
+            "width": 0.2557,
+            "height": 0.0124
+          },
+          "confidence": 0.9756
+        },
+        {
+          "text": "We were discussing types of tissues based on the types of cells present.\nLet us now consider how tissues vary depending on their location in the\nplant body. Their structure and function would also be dependent on\nlocation. On the basis of their structure and location, there are three types\nof tissue systems. These are the epidermal tissue system, the ground or\nfundamental tissue system and the vascular or conducting tissue system.",
+          "bbox": {
+            "x_min": 0.2697,
+            "y_min": 0.6988,
+            "x_max": 0.8949,
+            "y_max": 0.8012,
+            "width": 0.6252,
+            "height": 0.1024
+          },
+          "confidence": 0.9969
+        },
+        {
+          "text": "6.1.1 Epidermal Tissue System",
+          "bbox": {
+            "x_min": 0.2703,
+            "y_min": 0.8192,
+            "x_max": 0.6287,
+            "y_max": 0.8338,
+            "width": 0.3584,
+            "height": 0.0146
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "The epidermal tissue system forms the outer-most covering of the whole\nplant body and comprises epidermal cells, stomata and the epidermal\nappendages – the trichomes and hairs. The epidermis is the outermost\nlayer of the primary plant body. It is made up of elongated, compactly",
+          "bbox": {
+            "x_min": 0.2685,
+            "y_min": 0.847,
+            "x_max": 0.8943,
+            "y_max": 0.9135,
+            "width": 0.6258,
+            "height": 0.0664
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "72",
+          "bbox": {
+            "x_min": 0.1185,
+            "y_min": 0.084,
+            "x_max": 0.1465,
+            "y_max": 0.093,
+            "width": 0.028,
+            "height": 0.009
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0683,
+            "height": 0.009
+          },
+          "confidence": 0.9813
+        },
+        {
+          "text": "arranged cells, which form a continuous layer. Epidermis is usually single-\nlayered. Epidermal cells are parenchymatous with a small amount of\ncytoplasm lining the cell wall and a large vacuole. The outside of the\nepidermis is often covered with a waxy thick layer called the cuticle which\nprevents the loss of water. Cuticle is absent in roots. Stomata are structures\npresent in the epidermis of leaves. Stomata regulate the process of\ntranspiration and gaseous exchange. Each stoma is composed of two bean-\nshaped cells known as guard cells which enclose stomatal pore. In\ngrasses, the guard cells are dumb-bell shaped. The outer walls of guard\ncells (away from the stomatal pore) are thin and the inner walls (towards\nthe stomatal pore) are highly thickened. The guard cells possess chloroplasts\nand regulate the opening and closing of stomata. Sometimes, a few epidermal\ncells, in the vicinity of the guard cells become specialised in their shape and\nsize and are known as subsidiary cells. The stomatal aperture, guard\ncells and the surrounding subsidiary cells are together\nher \ncalled stomatal\napparatus (Figure 6.1).",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.1328,
+            "x_max": 0.9294,
+            "y_max": 0.4147,
+            "width": 0.6287,
+            "height": 0.2819
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "Epidermal cells",
+          "bbox": {
+            "x_min": 0.4518,
+            "y_min": 0.443,
+            "x_max": 0.5797,
+            "y_max": 0.4533,
+            "width": 0.1278,
+            "height": 0.0103
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "Subsidiary cells",
+          "bbox": {
+            "x_min": 0.4513,
+            "y_min": 0.467,
+            "x_max": 0.5844,
+            "y_max": 0.4781,
+            "width": 0.1331,
+            "height": 0.0111
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "Chloroplast",
+          "bbox": {
+            "x_min": 0.4524,
+            "y_min": 0.4889,
+            "x_max": 0.5487,
+            "y_max": 0.5009,
+            "width": 0.0963,
+            "height": 0.012
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "Guard cells",
+          "bbox": {
+            "x_min": 0.4577,
+            "y_min": 0.5107,
+            "x_max": 0.554,
+            "y_max": 0.5189,
+            "width": 0.0963,
+            "height": 0.0081
+          },
+          "confidence": 0.98
+        },
+        {
+          "text": "Stomatal",
+          "bbox": {
+            "x_min": 0.4571,
+            "y_min": 0.5326,
+            "x_max": 0.533,
+            "y_max": 0.5416,
+            "width": 0.0759,
+            "height": 0.009
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "pore",
+          "bbox": {
+            "x_min": 0.4758,
+            "y_min": 0.5514,
+            "x_max": 0.5126,
+            "y_max": 0.5604,
+            "width": 0.0368,
+            "height": 0.009
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "Figure 6.1 Diagrammatic representation: (a) stomata with bean-shaped guard cells\n(b) stomata with dumb-bell shaped guard cell",
+          "bbox": {
+            "x_min": 0.1646,
+            "y_min": 0.5797,
+            "x_max": 0.8523,
+            "y_max": 0.6071,
+            "width": 0.6877,
+            "height": 0.0274
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "no",
+          "bbox": {
+            "x_min": 0.1973,
+            "y_min": 0.7382,
+            "x_max": 0.3001,
+            "y_max": 0.8089,
+            "width": 0.1027,
+            "height": 0.0707
+          },
+          "confidence": 0.9365
+        },
+        {
+          "text": "The cells of epidermis bear a number of hairs. The root hairs are\nunicellular elongations of the epidermal cells and help absorb water and\nminerals from the soil. On the stem the epidermal hairs are called\ntrichomes. The trichomes in the shoot system are usually multicellular.\nThey may be branched or unbranched and soft or stiff. They may even\nbe secretory. The trichomes help in preventing water loss due to\ntranspiration.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.62,
+            "x_max": 0.9264,
+            "y_max": 0.7434,
+            "width": 0.6246,
+            "height": 0.1234
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "6.1.2 The Ground Tissue System",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.7631,
+            "x_max": 0.6801,
+            "y_max": 0.7772,
+            "width": 0.3783,
+            "height": 0.0141
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "All tissues except epidermis and vascular bundles constitute the ground\ntissue. It consists of simple tissues such as parenchyma, collenchyma\nand sclerenchyma. Parenchymatous cells are usually present in cortex,\npericycle, pith and medullary rays, in the primary stems and roots. In\nleaves, the ground tissue consists of thin-walled chloroplast containing\ncells and is called mesophyll.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.7892,
+            "x_max": 0.927,
+            "y_max": 0.889,
+            "width": 0.6258,
+            "height": 0.0998
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4501,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "ANATOMY OF FLOWERING PLANTS",
+          "bbox": {
+            "x_min": 0.1109,
+            "y_min": 0.0827,
+            "x_max": 0.3614,
+            "y_max": 0.0925,
+            "width": 0.2504,
+            "height": 0.0099
+          },
+          "confidence": 0.9824
+        },
+        {
+          "text": "73",
+          "bbox": {
+            "x_min": 0.8453,
+            "y_min": 0.0844,
+            "x_max": 0.8727,
+            "y_max": 0.093,
+            "width": 0.0274,
+            "height": 0.0086
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "6.1.3 The Vascular Tissue System",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.1341,
+            "x_max": 0.4653,
+            "y_max": 0.1482,
+            "width": 0.3923,
+            "height": 0.0141
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "The vascular system consists of complex tissues,\nthe phloem and the xylem.The xylem and\nphloem together constitute vascular bundles\n(Figure 6.2). In dicotyledonous stems,\ncambium is present between phloem and\nxylem. Such vascular bundles because of the\npresence of cambium possess the ability to form\nsecondary xylem and phloem tissues, and hence\nare called open vascular bundles. In the\nmonocotyledons, the vascular bundles have no\ncambium present in them. Hence, since they do\nnot form secondary tissues they are referred to\nas closed. When xylem and phloem within a\nvascular bundle are arranged in an alternate\nmanner along the different radii, the\narrangement is called radial such as in roots.\nIn conjoint type of vascular bundles, the xylem\nand phloem are jointly situated along the same\nradius of vascular bundles. Such vascular\nbundles are common in stems and leaves. The\nconjoint vascular bundles usually have the\nphloem located only on the outer side of xylem.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1615,
+            "x_max": 0.4769,
+            "y_max": 0.5626,
+            "width": 0.4051,
+            "height": 0.401
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.648,
+            "y_min": 0.2369,
+            "x_max": 0.6696,
+            "y_max": 0.2485,
+            "width": 0.0216,
+            "height": 0.0116
+          },
+          "confidence": 0.9745
+        },
+        {
+          "text": "Xylem",
+          "bbox": {
+            "x_min": 0.7408,
+            "y_min": 0.1542,
+            "x_max": 0.7928,
+            "y_max": 0.1658,
+            "width": 0.052,
+            "height": 0.0116
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "Phloem",
+          "bbox": {
+            "x_min": 0.7391,
+            "y_min": 0.2057,
+            "x_max": 0.7998,
+            "y_max": 0.2138,
+            "width": 0.0607,
+            "height": 0.0081
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "Phloem",
+          "bbox": {
+            "x_min": 0.7332,
+            "y_min": 0.2845,
+            "x_max": 0.7922,
+            "y_max": 0.2926,
+            "width": 0.059,
+            "height": 0.0081
+          },
+          "confidence": 0.9798
+        },
+        {
+          "text": "-Xylem",
+          "bbox": {
+            "x_min": 0.7396,
+            "y_min": 0.335,
+            "x_max": 0.7945,
+            "y_max": 0.3462,
+            "width": 0.0549,
+            "height": 0.0111
+          },
+          "confidence": 0.9356
+        },
+        {
+          "text": "be re",
+          "bbox": {
+            "x_min": 0.3625,
+            "y_min": 0.5189,
+            "x_max": 0.5861,
+            "y_max": 0.674,
+            "width": 0.2236,
+            "height": 0.1551
+          },
+          "confidence": 0.8662
+        },
+        {
+          "text": "ERT",
+          "bbox": {
+            "x_min": 0.4542,
+            "y_min": 0.392,
+            "x_max": 0.613,
+            "y_max": 0.5133,
+            "width": 0.1588,
+            "height": 0.1213
+          },
+          "confidence": 0.9694
+        },
+        {
+          "text": "lished",
+          "bbox": {
+            "x_min": 0.6486,
+            "y_min": 0.3059,
+            "x_max": 0.8739,
+            "y_max": 0.467,
+            "width": 0.2253,
+            "height": 0.1611
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "6.2 ΑΝΑΤOMY OF DICOTYLEDONOUS AND\nMONOCOTYLEDONOUS PLANTS",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.5878,
+            "x_max": 0.4729,
+            "y_max": 0.6208,
+            "width": 0.4005,
+            "height": 0.033
+          },
+          "confidence": 0.9597
+        },
+        {
+          "text": "For a better understanding of tis",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.6375,
+            "x_max": 0.4413,
+            "y_max": 0.6628,
+            "width": 0.3701,
+            "height": 0.0253
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "organisation of roots, stems and leaves, it is\nconvenient to study the transverse sections of",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.6637,
+            "x_max": 0.4781,
+            "y_max": 0.6941,
+            "width": 0.4057,
+            "height": 0.0304
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "the mature zones of these organs.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.7001,
+            "x_max": 0.3643,
+            "y_max": 0.7125,
+            "width": 0.2913,
+            "height": 0.0124
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "6.2.1 Dicotyledonous Root",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.7395,
+            "x_max": 0.3789,
+            "y_max": 0.7541,
+            "width": 0.3065,
+            "height": 0.0146
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "Look at Figure 6.3 (a), it shows the transverse\nsection of the sunflower root. The internal tissue\norganisation is as follows:",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.7682,
+            "x_max": 0.4769,
+            "y_max": 0.8175,
+            "width": 0.404,
+            "height": 0.0493
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "The outermost layer is epiblema. Many of\nthe cells of epiblema protrude in the form of\nunicellular root hairs. The cortex consists of\nseveral layers of thin-walled parenchyma cells",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.8235,
+            "x_max": 0.4787,
+            "y_max": 0.8925,
+            "width": 0.4057,
+            "height": 0.069
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "(c)",
+          "bbox": {
+            "x_min": 0.6281,
+            "y_min": 0.605,
+            "x_max": 0.6492,
+            "y_max": 0.6161,
+            "width": 0.021,
+            "height": 0.0111
+          },
+          "confidence": 0.9385
+        },
+        {
+          "text": "Phloem",
+          "bbox": {
+            "x_min": 0.7414,
+            "y_min": 0.4811,
+            "x_max": 0.8027,
+            "y_max": 0.4897,
+            "width": 0.0613,
+            "height": 0.0086
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "Cambium",
+          "bbox": {
+            "x_min": 0.7361,
+            "y_min": 0.5026,
+            "x_max": 0.8161,
+            "y_max": 0.5111,
+            "width": 0.08,
+            "height": 0.0086
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "Xylem",
+          "bbox": {
+            "x_min": 0.7309,
+            "y_min": 0.53,
+            "x_max": 0.7828,
+            "y_max": 0.5407,
+            "width": 0.052,
+            "height": 0.0107
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "Figure 6.2 Various types of vascular bundles :\n(a) radial (b) conjoint closed\n(c) conjoint open",
+          "bbox": {
+            "x_min": 0.4962,
+            "y_min": 0.6315,
+            "x_max": 0.8949,
+            "y_max": 0.6722,
+            "width": 0.3987,
+            "height": 0.0407
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "74",
+          "bbox": {
+            "x_min": 0.1179,
+            "y_min": 0.084,
+            "x_max": 0.1471,
+            "y_max": 0.093,
+            "width": 0.0292,
+            "height": 0.009
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0689,
+            "height": 0.009
+          },
+          "confidence": 0.9811
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.2843,
+            "y_min": 0.3955,
+            "x_max": 0.3065,
+            "y_max": 0.4057,
+            "width": 0.0222,
+            "height": 0.0103
+          },
+          "confidence": 0.9699
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.296,
+            "y_min": 0.6928,
+            "x_max": 0.317,
+            "y_max": 0.7018,
+            "width": 0.021,
+            "height": 0.009
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "Root hair\nEpidermis",
+          "bbox": {
+            "x_min": 0.446,
+            "y_min": 0.144,
+            "x_max": 0.5266,
+            "y_max": 0.1705,
+            "width": 0.0806,
+            "height": 0.0266
+          },
+          "confidence": 0.9864
+        },
+        {
+          "text": "Cortex",
+          "bbox": {
+            "x_min": 0.4495,
+            "y_min": 0.2057,
+            "x_max": 0.5032,
+            "y_max": 0.2129,
+            "width": 0.0537,
+            "height": 0.0073
+          },
+          "confidence": 0.9811
+        },
+        {
+          "text": "Endodermis\nPericycle\nProtoxylem\nMetaxylem",
+          "bbox": {
+            "x_min": 0.4442,
+            "y_min": 0.2704,
+            "x_max": 0.5365,
+            "y_max": 0.3333,
+            "width": 0.0922,
+            "height": 0.063
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "Pith",
+          "bbox": {
+            "x_min": 0.4489,
+            "y_min": 0.3488,
+            "x_max": 0.481,
+            "y_max": 0.356,
+            "width": 0.0321,
+            "height": 0.0073
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "Phloem",
+          "bbox": {
+            "x_min": 0.4478,
+            "y_min": 0.3668,
+            "x_max": 0.5061,
+            "y_max": 0.3749,
+            "width": 0.0584,
+            "height": 0.0081
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "Root hair",
+          "bbox": {
+            "x_min": 0.4437,
+            "y_min": 0.4259,
+            "x_max": 0.5184,
+            "y_max": 0.4332,
+            "width": 0.0747,
+            "height": 0.0073
+          },
+          "confidence": 0.9853
+        },
+        {
+          "text": "Epidermis",
+          "bbox": {
+            "x_min": 0.4559,
+            "y_min": 0.4554,
+            "x_max": 0.5318,
+            "y_max": 0.4653,
+            "width": 0.0759,
+            "height": 0.0099
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "Cortex",
+          "bbox": {
+            "x_min": 0.446,
+            "y_min": 0.5099,
+            "x_max": 0.4974,
+            "y_max": 0.5171,
+            "width": 0.0514,
+            "height": 0.0073
+          },
+          "confidence": 0.9775
+        },
+        {
+          "text": "Endodermis",
+          "bbox": {
+            "x_min": 0.4472,
+            "y_min": 0.5274,
+            "x_max": 0.5377,
+            "y_max": 0.5351,
+            "width": 0.0905,
+            "height": 0.0077
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "Pericycle",
+          "bbox": {
+            "x_min": 0.4478,
+            "y_min": 0.5506,
+            "x_max": 0.5126,
+            "y_max": 0.5608,
+            "width": 0.0648,
+            "height": 0.0103
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "Phloem",
+          "bbox": {
+            "x_min": 0.4501,
+            "y_min": 0.5737,
+            "x_max": 0.5067,
+            "y_max": 0.5805,
+            "width": 0.0566,
+            "height": 0.0069
+          },
+          "confidence": 0.986
+        },
+        {
+          "text": "with intercellular spaces. The innermost\nlayer of the cortex is called endodermis.\nIt comprises a single layer of barrel-\nshaped cells without any intercellular\nspaces. The tangential as well as radial\nwalls of the endodermal cells have a\ndeposition of water-impermeable, waxy\nmaterial suberin in the form of casparian\nstrips. Next to endodermis lies a few layers\nof thick-walled parenchyomatous cells\nreferred to as pericycle. Initiation of lateral\nroots and vascular cambium during the\nsecondary growth takes place in these\ncells. The pith is small or inconspicuous.\nThe parenchymatous cells which lie\nbetween the xylem and the phloem are\ncalled conjuctive tissue. There are\nusually two to four xylem and phloem\npatches. Later, a cambium ring develops\nbetween the xylem and phloem. All tissues\non the innerside of the endodermis such\nas pericycle, vascular bundles and pith\nconstitute the stele.",
+          "bbox": {
+            "x_min": 0.5668,
+            "y_min": 0.129,
+            "x_max": 0.927,
+            "y_max": 0.5596,
+            "width": 0.3602,
+            "height": 0.4306
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "e",
+          "bbox": {
+            "x_min": 0.5143,
+            "y_min": 0.5356,
+            "x_max": 0.5785,
+            "y_max": 0.5754,
+            "width": 0.0642,
+            "height": 0.0398
+          },
+          "confidence": 0.7678
+        },
+        {
+          "text": "Protoxylem",
+          "bbox": {
+            "x_min": 0.4536,
+            "y_min": 0.5921,
+            "x_max": 0.5371,
+            "y_max": 0.6028,
+            "width": 0.0835,
+            "height": 0.0107
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "Pith",
+          "bbox": {
+            "x_min": 0.4437,
+            "y_min": 0.6337,
+            "x_max": 0.4752,
+            "y_max": 0.641,
+            "width": 0.0315,
+            "height": 0.0073
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "Metaxylem",
+          "bbox": {
+            "x_min": 0.4191,
+            "y_min": 0.6585,
+            "x_max": 0.5038,
+            "y_max": 0.6692,
+            "width": 0.0846,
+            "height": 0.0107
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "Figure 6.3 T.S. : (a) Dicot root (Primary)\n(b) Monocot root",
+          "bbox": {
+            "x_min": 0.1716,
+            "y_min": 0.7164,
+            "x_max": 0.5347,
+            "y_max": 0.7421,
+            "width": 0.3631,
+            "height": 0.0257
+          },
+          "confidence": 0.9795
+        },
+        {
+          "text": "not to",
+          "bbox": {
+            "x_min": 0.1856,
+            "y_min": 0.6594,
+            "x_max": 0.4057,
+            "y_max": 0.8119,
+            "width": 0.2201,
+            "height": 0.1525
+          },
+          "confidence": 0.7964
+        },
+        {
+          "text": "6.2.2 Monocotyledonous Root",
+          "bbox": {
+            "x_min": 0.5663,
+            "y_min": 0.59,
+            "x_max": 0.9107,
+            "y_max": 0.6037,
+            "width": 0.3444,
+            "height": 0.0137
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "The anatomy of the monocot root is similar\nto the dicot root in many respects (Figure\n6.3 b). It has epidermis, cortex, endodermis,\npericycle, vascular bundles and pith. As\ncompared to the dicot root which have fewer\nxylem bundles, there are usually more\nthan six (polyarch) xylem bundles in the\nmonocot root. Pith is large and well\ndeveloped. Monocotyledonous roots do not\nundergo any secondary growth.",
+          "bbox": {
+            "x_min": 0.5663,
+            "y_min": 0.6178,
+            "x_max": 0.927,
+            "y_max": 0.8029,
+            "width": 0.3608,
+            "height": 0.1851
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "6.2.3 Dicotyledonous Stem",
+          "bbox": {
+            "x_min": 0.5406,
+            "y_min": 0.8222,
+            "x_max": 0.8541,
+            "y_max": 0.8363,
+            "width": 0.3135,
+            "height": 0.0141
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "The transverse section of a typical young\ndicotyledonous stem shows that the epidermis\nis the outermost protective layer of the stem",
+          "bbox": {
+            "x_min": 0.5412,
+            "y_min": 0.8513,
+            "x_max": 0.927,
+            "y_max": 0.9023,
+            "width": 0.3859,
+            "height": 0.051
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.983
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "ANATOMY OF FLOWERING PLANTS",
+          "bbox": {
+            "x_min": 0.1103,
+            "y_min": 0.0827,
+            "x_max": 0.3614,
+            "y_max": 0.0925,
+            "width": 0.251,
+            "height": 0.0099
+          },
+          "confidence": 0.9833
+        },
+        {
+          "text": "(Figure 6.4 a). Covered with a thin layer of cuticle, it may bear trichomes and\na few stomata. The cells arranged in multiple layers between epidermis and\npericycle constitute the cortex. It consists of three sub-zones. The outer\nhypodermis, consists of a few layers of collenchymatous cells just below the\nepidermis, which provide mechanical strength to the young stem. Cortical\nlayers below hypodermis consist of rounded thin walled parenchymatous\ncells with conspicuous intercellular spaces. The innermost layer of the cortex\nis called the endodermis. The cells of the endodermis are rich in starch\ngrains and the laver is also referred to as the starch sheath. Pericvcle is",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.1358,
+            "x_max": 0.697,
+            "y_max": 0.2939,
+            "width": 0.6246,
+            "height": 0.1581
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "Epidermal\nhair",
+          "bbox": {
+            "x_min": 0.3742,
+            "y_min": 0.3475,
+            "x_max": 0.4623,
+            "y_max": 0.3698,
+            "width": 0.0881,
+            "height": 0.0223
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "Epidermis",
+          "bbox": {
+            "x_min": 0.397,
+            "y_min": 0.3792,
+            "x_max": 0.4828,
+            "y_max": 0.3907,
+            "width": 0.0858,
+            "height": 0.0116
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "Hypodermis",
+          "bbox": {
+            "x_min": 0.4081,
+            "y_min": 0.398,
+            "x_max": 0.505,
+            "y_max": 0.4096,
+            "width": 0.0969,
+            "height": 0.0116
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "Parenchyma",
+          "bbox": {
+            "x_min": 0.4191,
+            "y_min": 0.4233,
+            "x_max": 0.5184,
+            "y_max": 0.4344,
+            "width": 0.0992,
+            "height": 0.0111
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "Epidermis",
+          "bbox": {
+            "x_min": 0.735,
+            "y_min": 0.3115,
+            "x_max": 0.8179,
+            "y_max": 0.3226,
+            "width": 0.0829,
+            "height": 0.0111
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "-Collenchyma\n-Parenchyma",
+          "bbox": {
+            "x_min": 0.7344,
+            "y_min": 0.3445,
+            "x_max": 0.843,
+            "y_max": 0.3706,
+            "width": 0.1086,
+            "height": 0.0261
+          },
+          "confidence": 0.96
+        },
+        {
+          "text": "Endodermis",
+          "bbox": {
+            "x_min": 0.7338,
+            "y_min": 0.3762,
+            "x_max": 0.8313,
+            "y_max": 0.3847,
+            "width": 0.0975,
+            "height": 0.0086
+          },
+          "confidence": 0.9868
+        },
+        {
+          "text": "-Pericycle",
+          "bbox": {
+            "x_min": 0.7274,
+            "y_min": 0.3946,
+            "x_max": 0.8021,
+            "y_max": 0.4057,
+            "width": 0.0747,
+            "height": 0.0111
+          },
+          "confidence": 0.9653
+        },
+        {
+          "text": "Endodermis",
+          "bbox": {
+            "x_min": 0.4238,
+            "y_min": 0.4417,
+            "x_max": 0.5213,
+            "y_max": 0.4499,
+            "width": 0.0975,
+            "height": 0.0081
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "Phloem",
+          "bbox": {
+            "x_min": 0.7326,
+            "y_min": 0.4409,
+            "x_max": 0.7933,
+            "y_max": 0.4494,
+            "width": 0.0607,
+            "height": 0.0086
+          },
+          "confidence": 0.9818
+        },
+        {
+          "text": "Cambium",
+          "bbox": {
+            "x_min": 0.7274,
+            "y_min": 0.47,
+            "x_max": 0.8074,
+            "y_max": 0.4799,
+            "width": 0.08,
+            "height": 0.0099
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "- Pith",
+          "bbox": {
+            "x_min": 0.3187,
+            "y_min": 0.5827,
+            "x_max": 0.373,
+            "y_max": 0.6058,
+            "width": 0.0543,
+            "height": 0.0231
+          },
+          "confidence": 0.8534
+        },
+        {
+          "text": "-Pericycle",
+          "bbox": {
+            "x_min": 0.4302,
+            "y_min": 0.47,
+            "x_max": 0.5061,
+            "y_max": 0.4807,
+            "width": 0.0759,
+            "height": 0.0107
+          },
+          "confidence": 0.9339
+        },
+        {
+          "text": "Vascular",
+          "bbox": {
+            "x_min": 0.4343,
+            "y_min": 0.4996,
+            "x_max": 0.5079,
+            "y_max": 0.5086,
+            "width": 0.0736,
+            "height": 0.009
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "bundle",
+          "bbox": {
+            "x_min": 0.4337,
+            "y_min": 0.5133,
+            "x_max": 0.4939,
+            "y_max": 0.5231,
+            "width": 0.0601,
+            "height": 0.0099
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "Medullary\nrays",
+          "bbox": {
+            "x_min": 0.4075,
+            "y_min": 0.5394,
+            "x_max": 0.4921,
+            "y_max": 0.5647,
+            "width": 0.0846,
+            "height": 0.0253
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "be re",
+          "bbox": {
+            "x_min": 0.3818,
+            "y_min": 0.524,
+            "x_max": 0.5756,
+            "y_max": 0.6692,
+            "width": 0.1938,
+            "height": 0.1452
+          },
+          "confidence": 0.9473
+        },
+        {
+          "text": "Metaxylem",
+          "bbox": {
+            "x_min": 0.7268,
+            "y_min": 0.4953,
+            "x_max": 0.8149,
+            "y_max": 0.5064,
+            "width": 0.0881,
+            "height": 0.0111
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "-Protoxylem",
+          "bbox": {
+            "x_min": 0.7163,
+            "y_min": 0.5493,
+            "x_max": 0.8091,
+            "y_max": 0.5604,
+            "width": 0.0928,
+            "height": 0.0111
+          },
+          "confidence": 0.967
+        },
+        {
+          "text": "Pith",
+          "bbox": {
+            "x_min": 0.6935,
+            "y_min": 0.6058,
+            "x_max": 0.7291,
+            "y_max": 0.6144,
+            "width": 0.0356,
+            "height": 0.0086
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "-Epidermis",
+          "bbox": {
+            "x_min": 0.721,
+            "y_min": 0.6671,
+            "x_max": 0.8085,
+            "y_max": 0.6787,
+            "width": 0.0876,
+            "height": 0.0116
+          },
+          "confidence": 0.9677
+        },
+        {
+          "text": "-Hypodermis",
+          "bbox": {
+            "x_min": 0.7554,
+            "y_min": 0.6919,
+            "x_max": 0.8576,
+            "y_max": 0.7035,
+            "width": 0.1022,
+            "height": 0.0116
+          },
+          "confidence": 0.9685
+        },
+        {
+          "text": "900",
+          "bbox": {
+            "x_min": 0.2592,
+            "y_min": 0.7729,
+            "x_max": 0.2773,
+            "y_max": 0.7785,
+            "width": 0.0181,
+            "height": 0.0056
+          },
+          "confidence": 0.6017
+        },
+        {
+          "text": "-Hypodermis",
+          "bbox": {
+            "x_min": 0.3707,
+            "y_min": 0.7121,
+            "x_max": 0.467,
+            "y_max": 0.7241,
+            "width": 0.0963,
+            "height": 0.012
+          },
+          "confidence": 0.9635
+        },
+        {
+          "text": "Vascular",
+          "bbox": {
+            "x_min": 0.3865,
+            "y_min": 0.7326,
+            "x_max": 0.4588,
+            "y_max": 0.7412,
+            "width": 0.0724,
+            "height": 0.0086
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "bundles",
+          "bbox": {
+            "x_min": 0.39,
+            "y_min": 0.7468,
+            "x_max": 0.4548,
+            "y_max": 0.7558,
+            "width": 0.0648,
+            "height": 0.009
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "80",
+          "bbox": {
+            "x_min": 0.2586,
+            "y_min": 0.8286,
+            "x_max": 0.2738,
+            "y_max": 0.8372,
+            "width": 0.0152,
+            "height": 0.0086
+          },
+          "confidence": 0.7528
+        },
+        {
+          "text": "00",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.8051,
+            "x_max": 0.3176,
+            "y_max": 0.8123,
+            "width": 0.0152,
+            "height": 0.0073
+          },
+          "confidence": 0.9608
+        },
+        {
+          "text": "Ground\ntissue",
+          "bbox": {
+            "x_min": 0.3882,
+            "y_min": 0.7883,
+            "x_max": 0.4518,
+            "y_max": 0.8115,
+            "width": 0.0636,
+            "height": 0.0231
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "Vascular",
+          "bbox": {
+            "x_min": 0.7554,
+            "y_min": 0.7579,
+            "x_max": 0.826,
+            "y_max": 0.7661,
+            "width": 0.0706,
+            "height": 0.0081
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "bundles",
+          "bbox": {
+            "x_min": 0.7572,
+            "y_min": 0.7708,
+            "x_max": 0.8231,
+            "y_max": 0.7806,
+            "width": 0.066,
+            "height": 0.0099
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "Phloem",
+          "bbox": {
+            "x_min": 0.7694,
+            "y_min": 0.8042,
+            "x_max": 0.8301,
+            "y_max": 0.8132,
+            "width": 0.0607,
+            "height": 0.009
+          },
+          "confidence": 0.9868
+        },
+        {
+          "text": "Xylem",
+          "bbox": {
+            "x_min": 0.7723,
+            "y_min": 0.8222,
+            "x_max": 0.8243,
+            "y_max": 0.8342,
+            "width": 0.052,
+            "height": 0.012
+          },
+          "confidence": 0.9852
+        },
+        {
+          "text": "Ground\ntissue",
+          "bbox": {
+            "x_min": 0.7642,
+            "y_min": 0.8402,
+            "x_max": 0.8266,
+            "y_max": 0.8629,
+            "width": 0.0625,
+            "height": 0.0227
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.4448,
+            "y_min": 0.8689,
+            "x_max": 0.4664,
+            "y_max": 0.88,
+            "width": 0.0216,
+            "height": 0.0111
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "Figure 6.4 T.S. of stem: (a) Dicot (b) Monocot",
+          "bbox": {
+            "x_min": 0.2837,
+            "y_min": 0.8946,
+            "x_max": 0.6824,
+            "y_max": 0.907,
+            "width": 0.3987,
+            "height": 0.0124
+          },
+          "confidence": 0.9774
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9739,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.009
+          },
+          "confidence": 0.9831
+        },
+        {
+          "text": "75",
+          "bbox": {
+            "x_min": 0.8465,
+            "y_min": 0.0831,
+            "x_max": 0.8716,
+            "y_max": 0.0934,
+            "width": 0.0251,
+            "height": 0.0103
+          },
+          "confidence": 0.9898
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "76",
+          "bbox": {
+            "x_min": 0.1185,
+            "y_min": 0.0844,
+            "x_max": 0.1471,
+            "y_max": 0.0925,
+            "width": 0.0286,
+            "height": 0.0081
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0689,
+            "height": 0.009
+          },
+          "confidence": 0.9811
+        },
+        {
+          "text": "10000",
+          "bbox": {
+            "x_min": 0.1097,
+            "y_min": 0.4709,
+            "x_max": 0.1646,
+            "y_max": 0.4927,
+            "width": 0.0549,
+            "height": 0.0219
+          },
+          "confidence": 0.7482
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.2393,
+            "y_min": 0.6204,
+            "x_max": 0.2615,
+            "y_max": 0.6315,
+            "width": 0.0222,
+            "height": 0.0111
+          },
+          "confidence": 0.9746
+        },
+        {
+          "text": "present on the inner side of the endodermis and above the phloem in the\nform of semi-lunar patches of sclerenchyma. In between the vascular bundles\nthere are a few layers of radially placed parenchymatous cells, which constitute\nmedullary rays. A large number of vascular bundles are arranged in a ring;\nthe 'ring' arrangement of vascular bundles is a characteristic of dicot stem.\nEach vascular bundle is conjoint, open, and with endarch protoxylem. A\nlarge number of rounded, parenchymatous cells with large intercellular\nspaces which occupy the central portion of the stem constitute the pith.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.1345,
+            "x_max": 0.927,
+            "y_max": 0.2729,
+            "width": 0.6258,
+            "height": 0.1384
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "6.2.4 Monocotyledonous Stem",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.2909,
+            "x_max": 0.6503,
+            "y_max": 0.3046,
+            "width": 0.3497,
+            "height": 0.0137
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "The monocot stem has a sclerenchymatous hypodermis, a large number\nof scattered vascular bundles, each surrounded by a sclerenchymatous",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.3175,
+            "x_max": 0.9264,
+            "y_max": 0.3488,
+            "width": 0.6258,
+            "height": 0.0313
+          },
+          "confidence": 0.9975
+        },
+        {
+          "text": "Bundle sheath",
+          "bbox": {
+            "x_min": 0.2475,
+            "y_min": 0.3762,
+            "x_max": 0.3637,
+            "y_max": 0.3852,
+            "width": 0.1162,
+            "height": 0.009
+          },
+          "confidence": 0.9856
+        },
+        {
+          "text": "Phloem",
+          "bbox": {
+            "x_min": 0.2154,
+            "y_min": 0.8316,
+            "x_max": 0.2761,
+            "y_max": 0.8402,
+            "width": 0.0607,
+            "height": 0.0086
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.2428,
+            "y_min": 0.8612,
+            "x_max": 0.2633,
+            "y_max": 0.8715,
+            "width": 0.0204,
+            "height": 0.0103
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "Xylem",
+          "bbox": {
+            "x_min": 0.2551,
+            "y_min": 0.395,
+            "x_max": 0.3082,
+            "y_max": 0.407,
+            "width": 0.0531,
+            "height": 0.012
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "Phloem",
+          "bbox": {
+            "x_min": 0.2633,
+            "y_min": 0.4156,
+            "x_max": 0.3222,
+            "y_max": 0.4242,
+            "width": 0.059,
+            "height": 0.0086
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "Stoma",
+          "bbox": {
+            "x_min": 0.3444,
+            "y_min": 0.6003,
+            "x_max": 0.3964,
+            "y_max": 0.6075,
+            "width": 0.052,
+            "height": 0.0073
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "Adaxial\nepidermis",
+          "bbox": {
+            "x_min": 0.4156,
+            "y_min": 0.3912,
+            "x_max": 0.4956,
+            "y_max": 0.4156,
+            "width": 0.08,
+            "height": 0.0244
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "Palisade",
+          "bbox": {
+            "x_min": 0.4419,
+            "y_min": 0.4494,
+            "x_max": 0.5073,
+            "y_max": 0.4572,
+            "width": 0.0654,
+            "height": 0.0077
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "mesophyll",
+          "bbox": {
+            "x_min": 0.4407,
+            "y_min": 0.4627,
+            "x_max": 0.5231,
+            "y_max": 0.4751,
+            "width": 0.0823,
+            "height": 0.0124
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "Air cavity\nSpongy\nmesophyll\nSub-stomatal",
+          "bbox": {
+            "x_min": 0.4437,
+            "y_min": 0.5154,
+            "x_max": 0.5505,
+            "y_max": 0.5754,
+            "width": 0.1068,
+            "height": 0.06
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "cavity",
+          "bbox": {
+            "x_min": 0.4431,
+            "y_min": 0.5801,
+            "x_max": 0.4904,
+            "y_max": 0.59,
+            "width": 0.0473,
+            "height": 0.0099
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "Abaxial",
+          "bbox": {
+            "x_min": 0.4472,
+            "y_min": 0.6033,
+            "x_max": 0.5079,
+            "y_max": 0.6114,
+            "width": 0.0607,
+            "height": 0.0081
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "epidermis",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.6157,
+            "x_max": 0.5266,
+            "y_max": 0.6268,
+            "width": 0.0759,
+            "height": 0.0111
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "b",
+          "bbox": {
+            "x_min": 0.3765,
+            "y_min": 0.6105,
+            "x_max": 0.4658,
+            "y_max": 0.674,
+            "width": 0.0893,
+            "height": 0.0634
+          },
+          "confidence": 0.9582
+        },
+        {
+          "text": "Adaxial\nepidermis\nXylem",
+          "bbox": {
+            "x_min": 0.439,
+            "y_min": 0.6761,
+            "x_max": 0.519,
+            "y_max": 0.7211,
+            "width": 0.08,
+            "height": 0.045
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "-Mesophyll",
+          "bbox": {
+            "x_min": 0.4349,
+            "y_min": 0.7288,
+            "x_max": 0.5184,
+            "y_max": 0.7408,
+            "width": 0.0835,
+            "height": 0.012
+          },
+          "confidence": 0.9688
+        },
+        {
+          "text": "Sub-stomatal\ncavity",
+          "bbox": {
+            "x_min": 0.4419,
+            "y_min": 0.7519,
+            "x_max": 0.5482,
+            "y_max": 0.7746,
+            "width": 0.1062,
+            "height": 0.0227
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "Abaxial\nepidermis",
+          "bbox": {
+            "x_min": 0.439,
+            "y_min": 0.7901,
+            "x_max": 0.5196,
+            "y_max": 0.8123,
+            "width": 0.0806,
+            "height": 0.0223
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "Stoma",
+          "bbox": {
+            "x_min": 0.4431,
+            "y_min": 0.8226,
+            "x_max": 0.495,
+            "y_max": 0.8303,
+            "width": 0.052,
+            "height": 0.0077
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "Figure 6.5 T.S. of leaf: (a) Dicot (b) Monocot",
+          "bbox": {
+            "x_min": 0.1308,
+            "y_min": 0.8916,
+            "x_max": 0.5126,
+            "y_max": 0.904,
+            "width": 0.3818,
+            "height": 0.0124
+          },
+          "confidence": 0.9821
+        },
+        {
+          "text": "bundle sheath, and a large, conspicuous\nparenchymatous ground tissue (Figure\n6.4 b). Vascular bundles are conjoint and\nclosed. Peripheral vascular bundles are\ngenerally smaller than the centrally\nlocated ones. The phloem parenchyma is\nabsent, and water-containing cavities are\npresent within the vascular bundles.",
+          "bbox": {
+            "x_min": 0.5715,
+            "y_min": 0.3539,
+            "x_max": 0.927,
+            "y_max": 0.4906,
+            "width": 0.3555,
+            "height": 0.1367
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "6.2.5 Dorsiventral",
+          "bbox": {
+            "x_min": 0.5692,
+            "y_min": 0.5056,
+            "x_max": 0.7869,
+            "y_max": 0.518,
+            "width": 0.2177,
+            "height": 0.0124
+          },
+          "confidence": 0.9804
+        },
+        {
+          "text": "(Dicotyledonous) Leaf",
+          "bbox": {
+            "x_min": 0.5727,
+            "y_min": 0.5231,
+            "x_max": 0.8085,
+            "y_max": 0.5386,
+            "width": 0.2358,
+            "height": 0.0154
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "The vertical section of a dorsiventral leaf\nthrough the lamina shows three main\nparts, namely, epidermis, mesophyll and\nvascular system. The epidermis which\ncovers both the upper surface (adaxial\nepidermis) and lower surface (abaxial\nepidermis) of the leaf has a conspicuous\ncuticle. The abaxial epidermis generally\nbears more stomata than the adaxial\nepidermis. The latter may even lack\nstomata. The tissue between the upper\nand the lower epidermis is called the\nmesophyll. Mesophyll, which possesses\nchloroplasts and\ncarry out\nphotosynthesis, is made up of\nparenchyma. It has two types of cells – the\npalisade parenchyma and the spongy\nparenchyma. The adaxially placed\npalisade parenchyma is made up of\nelongated cells, which are arranged",
+          "bbox": {
+            "x_min": 0.5709,
+            "y_min": 0.551,
+            "x_max": 0.9282,
+            "y_max": 0.9032,
+            "width": 0.3573,
+            "height": 0.3522
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.983
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "ANATOMY OF FLOWERING PLANTS",
+          "bbox": {
+            "x_min": 0.1109,
+            "y_min": 0.0827,
+            "x_max": 0.3614,
+            "y_max": 0.0925,
+            "width": 0.2504,
+            "height": 0.0099
+          },
+          "confidence": 0.9824
+        },
+        {
+          "text": "vertically and parallel to each other. The oval or round and loosely arranged\nspongy parenchyma is situated below the palisade cells and extends to\nthe lower epidermis. There are numerous large spaces and air cavities\nbetween these cells. Vascular system includes vascular bundles, which\ncan be seen in the veins and the midrib. The size of the vascular bundles\nare dependent on the size of the veins. The veins vary in thickness in the\nreticulate venation of the dicot leaves. The vascular bundles are\nsurrounded by a layer of thick walled bundle sheath cells. Look at\nFigure 6.5 (a) and find the position of xylem in the vascular bundle.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1388,
+            "x_max": 0.697,
+            "y_max": 0.2952,
+            "width": 0.6252,
+            "height": 0.1564
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "6.2.6 Isobilateral (Monocotyledonous) Leaf",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.3136,
+            "x_max": 0.5558,
+            "y_max": 0.3282,
+            "width": 0.4828,
+            "height": 0.0146
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "The anatomy of isobilateral leaf is similar to that of the dorsiventral leaf in\nmany ways. It shows the following characteristic differences. In an\nisobilateral leaf, the stomata are present on both the surfaces of the\nepidermis; and the mesophyll is not differentiated into palisade and spongy\nparenchyma (Figure 6.5 b).",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.3398,
+            "x_max": 0.697,
+            "y_max": 0.4254,
+            "width": 0.6252,
+            "height": 0.0857
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "In grasses, certain adaxial epidermal cells along the veins modify\nthemselves into large, empty, colourless cells. These are called bulliform\ncells. When the bulliform cells in the leaves have absorbed water and are\nturgid, the leaf surface is exposed. When they are flaccid due to water\nstress, they make the leaves curl inwards to minimise water loss.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.4293,
+            "x_max": 0.697,
+            "y_max": 0.5137,
+            "width": 0.6241,
+            "height": 0.0844
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "The parallel venation in monocot leaves is reflected in the near similar\nsizes of vascular bundles (except in main veins) as seen in vertical sections\nof the leaves.",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.5189,
+            "x_max": 0.6976,
+            "y_max": 0.5647,
+            "width": 0.6241,
+            "height": 0.0458
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "SUMMARY",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.5921,
+            "x_max": 0.5452,
+            "y_max": 0.6045,
+            "width": 0.0946,
+            "height": 0.0124
+          },
+          "confidence": 0.9526
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6894,
+            "y_min": 0.3063,
+            "x_max": 0.8722,
+            "y_max": 0.4452,
+            "width": 0.1827,
+            "height": 0.1388
+          },
+          "confidence": 0.9853
+        },
+        {
+          "text": "Anatomically, a plant is made of different kinds of tissues. The plant tissues are\nbroadly classified into meristematic (apical, lateral and intercalary) and permanent\n(simple and complex). Assimilation of food and its storage, transportation of water,\nminerals and photosynthates, and mechanical support are the main functions\nof tissues. There are three types of tissue systems – epidermal, ground and\nvascular. The epidermal tissue systems are made of epidermal cells, stomata\nand the epidermal appendages. The ground tissue system forms the main bulk\nof the plant. It is divided into three zones – cortex, pericycle and pith. The vascular\ntissue system is formed by the xylem and phloem. On the basis of presence of\ncambium, location of xylem and phloem, the vascular bundles are of different\ntypes. The vascular bundles form the conducting tissue and translocate water,\nminerals and food material.",
+          "bbox": {
+            "x_min": 0.136,
+            "y_min": 0.6431,
+            "x_max": 0.8272,
+            "y_max": 0.8492,
+            "width": 0.6912,
+            "height": 0.2061
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "Monocotyledonous and dicotyledonous plants show marked variation in their\ninternal structures. They differ in type, number and location of vascular bundles.\nThe secondary growth occurs in most of the dicotyledonous roots and stems.",
+          "bbox": {
+            "x_min": 0.1378,
+            "y_min": 0.8569,
+            "x_max": 0.8255,
+            "y_max": 0.9053,
+            "width": 0.6877,
+            "height": 0.0484
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "77",
+          "bbox": {
+            "x_min": 0.8447,
+            "y_min": 0.084,
+            "x_max": 0.8722,
+            "y_max": 0.093,
+            "width": 0.0274,
+            "height": 0.009
+          },
+          "confidence": 0.9922
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "78",
+          "bbox": {
+            "x_min": 0.1179,
+            "y_min": 0.084,
+            "x_max": 0.1465,
+            "y_max": 0.0925,
+            "width": 0.0286,
+            "height": 0.0086
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8576,
+            "y_min": 0.084,
+            "x_max": 0.9247,
+            "y_max": 0.0934,
+            "width": 0.0671,
+            "height": 0.0094
+          },
+          "confidence": 0.9785
+        },
+        {
+          "text": "7.",
+          "bbox": {
+            "x_min": 0.1751,
+            "y_min": 0.4824,
+            "x_max": 0.1891,
+            "y_max": 0.4949,
+            "width": 0.014,
+            "height": 0.0124
+          },
+          "confidence": 0.9744
+        },
+        {
+          "text": "EXERCISES",
+          "bbox": {
+            "x_min": 0.4758,
+            "y_min": 0.1341,
+            "x_max": 0.5809,
+            "y_max": 0.1457,
+            "width": 0.1051,
+            "height": 0.0116
+          },
+          "confidence": 0.9781
+        },
+        {
+          "text": "1. Draw illustrations to bring out the anatomical difference between",
+          "bbox": {
+            "x_min": 0.1781,
+            "y_min": 0.1847,
+            "x_max": 0.7595,
+            "y_max": 0.1967,
+            "width": 0.5814,
+            "height": 0.012
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "(a) Monocot root and Dicot root",
+          "bbox": {
+            "x_min": 0.2096,
+            "y_min": 0.2061,
+            "x_max": 0.4694,
+            "y_max": 0.2181,
+            "width": 0.2598,
+            "height": 0.012
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "(b) Monocot stem and Dicot stem",
+          "bbox": {
+            "x_min": 0.2107,
+            "y_min": 0.2271,
+            "x_max": 0.4839,
+            "y_max": 0.2395,
+            "width": 0.2732,
+            "height": 0.0124
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "2. Cut a transverse section of young stem of a plant from your school garden and\nobserve it under the microscope. How would you ascertain whether it is a\nmonocot stem or a dicot stem? Give reasons.",
+          "bbox": {
+            "x_min": 0.1751,
+            "y_min": 0.2498,
+            "x_max": 0.8616,
+            "y_max": 0.2952,
+            "width": 0.6865,
+            "height": 0.0454
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "3. The transverse section of a plant material shows the following anatomical\nfeatures - (a) the vascular bundles are conjoint, scattered and surrounded by a\nsclerenchymatous bundle sheaths. (b) phloem parenchyma is absent. What\nwill you identify it as?",
+          "bbox": {
+            "x_min": 0.1757,
+            "y_min": 0.3068,
+            "x_max": 0.8622,
+            "y_max": 0.3732,
+            "width": 0.6865,
+            "height": 0.0664
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "4. What is stomatal apparatus? Explain the structure of stomata with a labelled\ndiagram.",
+          "bbox": {
+            "x_min": 0.1751,
+            "y_min": 0.3822,
+            "x_max": 0.8622,
+            "y_max": 0.4126,
+            "width": 0.6871,
+            "height": 0.0304
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "5. Name the three basic tissue systems in the flowering plants. Give the tissue\nnames under each system.",
+          "bbox": {
+            "x_min": 0.1763,
+            "y_min": 0.4212,
+            "x_max": 0.8616,
+            "y_max": 0.452,
+            "width": 0.6853,
+            "height": 0.0308
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "6.",
+          "bbox": {
+            "x_min": 0.1745,
+            "y_min": 0.461,
+            "x_max": 0.1891,
+            "y_max": 0.4739,
+            "width": 0.0146,
+            "height": 0.0129
+          },
+          "confidence": 0.9683
+        },
+        {
+          "text": "How is the study of plant anatomy useful to us?",
+          "bbox": {
+            "x_min": 0.2113,
+            "y_min": 0.461,
+            "x_max": 0.6118,
+            "y_max": 0.4739,
+            "width": 0.4005,
+            "height": 0.0129
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "ONCERT",
+          "bbox": {
+            "x_min": 0.2942,
+            "y_min": 0.3907,
+            "x_max": 0.6188,
+            "y_max": 0.6225,
+            "width": 0.3246,
+            "height": 0.2318
+          },
+          "confidence": 0.8897
+        },
+        {
+          "text": "Describe the internal structure of a dorsiventral leaf with the help of labelled\ndiagrams.",
+          "bbox": {
+            "x_min": 0.2113,
+            "y_min": 0.482,
+            "x_max": 0.8622,
+            "y_max": 0.5137,
+            "width": 0.6509,
+            "height": 0.0317
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "not to be republisell",
+          "bbox": {
+            "x_min": 0.1658,
+            "y_min": 0.3672,
+            "x_max": 0.8114,
+            "y_max": 0.8196,
+            "width": 0.6457,
+            "height": 0.4524
+          },
+          "confidence": 0.867
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,3594 @@
+{
+  "chapter_id": "11th_biology_ch14_breathing_and_exchange_of_gases_ch14_breathing_and_exchange_of_gases_en",
+  "total_pages": 12,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "UNIT 5",
+          "bbox": {
+            "x_min": 0.3135,
+            "y_min": 0.3916,
+            "x_max": 0.4793,
+            "y_max": 0.4302,
+            "width": 0.1658,
+            "height": 0.0386
+          },
+          "confidence": 0.931
+        },
+        {
+          "text": "HUMAN PHYSIOLOGY",
+          "bbox": {
+            "x_min": 0.3141,
+            "y_min": 0.4597,
+            "x_max": 0.5925,
+            "y_max": 0.4846,
+            "width": 0.2785,
+            "height": 0.0249
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "ublished",
+          "bbox": {
+            "x_min": 0.5773,
+            "y_min": 0.3093,
+            "x_max": 0.8716,
+            "y_max": 0.5227,
+            "width": 0.2942,
+            "height": 0.2134
+          },
+          "confidence": 0.9501
+        },
+        {
+          "text": "Chapter 14\nBreathing and Exchange\nof Gases",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.5278,
+            "x_max": 0.2825,
+            "y_max": 0.5681,
+            "width": 0.209,
+            "height": 0.0403
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "Chapter 15\nBody Fluids and\nCirculation",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.5883,
+            "x_max": 0.2096,
+            "y_max": 0.6294,
+            "width": 0.136,
+            "height": 0.0411
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "Chapter 16\nExcretory Products and\ntheir Elimination",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.65,
+            "x_max": 0.2697,
+            "y_max": 0.6907,
+            "width": 0.1961,
+            "height": 0.0407
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "Chapter 17",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.7112,
+            "x_max": 0.1734,
+            "y_max": 0.7241,
+            "width": 0.0992,
+            "height": 0.0129
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "Locomotion and Movement",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.7266,
+            "x_max": 0.2977,
+            "y_max": 0.7365,
+            "width": 0.2242,
+            "height": 0.0099
+          },
+          "confidence": 0.9799
+        },
+        {
+          "text": "Chapter 18",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.7571,
+            "x_max": 0.1734,
+            "y_max": 0.7695,
+            "width": 0.0998,
+            "height": 0.0124
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "Neural Control and",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.7725,
+            "x_max": 0.2358,
+            "y_max": 0.7832,
+            "width": 0.1629,
+            "height": 0.0107
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "Coordination",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.7883,
+            "x_max": 0.1821,
+            "y_max": 0.7978,
+            "width": 0.108,
+            "height": 0.0094
+          },
+          "confidence": 0.986
+        },
+        {
+          "text": "Chapter 19",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.8183,
+            "x_max": 0.174,
+            "y_max": 0.8308,
+            "width": 0.1004,
+            "height": 0.0124
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "Chemical Coordination",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.8338,
+            "x_max": 0.268,
+            "y_max": 0.844,
+            "width": 0.1938,
+            "height": 0.0103
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "and Integration",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.8496,
+            "x_max": 0.2032,
+            "y_max": 0.8616,
+            "width": 0.1284,
+            "height": 0.012
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "C",
+          "bbox": {
+            "x_min": 0.4209,
+            "y_min": 0.4837,
+            "x_max": 0.502,
+            "y_max": 0.5428,
+            "width": 0.0811,
+            "height": 0.0591
+          },
+          "confidence": 0.6694
+        },
+        {
+          "text": "stu",
+          "bbox": {
+            "x_min": 0.5674,
+            "y_min": 0.5274,
+            "x_max": 0.5925,
+            "y_max": 0.5403,
+            "width": 0.0251,
+            "height": 0.0129
+          },
+          "confidence": 0.9807
+        },
+        {
+          "text": "The reductionist approach to study of life forms resulted in increasing\nuse of physico-chemical concepts and techniques. Majority of these\nstudies employed either surviving tissue model or straightaway cell-\nfree systems. An explosion of knowledge resulted in molecular biology.\nMolecular physiology became almost synonymous with biochemistry\nand biophysics. However, it is now being increasingly realised that\nneither a purely organismic approach nor a purely reductionistic\nmolecular approach would reveal the truth about biological processes\nor living phenomena. Systems biology makes us believe that all living\nphenomena are emergent properties due to interaction among\ncomponents of the system under study. Regulatory network of\nmolecules, supra molecular assemblies, cells, tissues, organisms and\nindeed, populations and communities, each create emergent\nproperties. In the chapters under this unit, major human physiological\nprocesses like, exchange of gases, blood circulation, locomotion and\nmovement are described in cellular and molecular terms. The last\ntwo chapters point to the coordination and regulation of body events\nat the organismic level.",
+          "bbox": {
+            "x_min": 0.324,
+            "y_min": 0.5287,
+            "x_max": 0.8973,
+            "y_max": 0.8008,
+            "width": 0.5733,
+            "height": 0.2721
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "at pro",
+          "bbox": {
+            "x_min": 0.2837,
+            "y_min": 0.7211,
+            "x_max": 0.3514,
+            "y_max": 0.7468,
+            "width": 0.0677,
+            "height": 0.0257
+          },
+          "confidence": 0.8141
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "Alfonso Corti\n(1822-1888)",
+          "bbox": {
+            "x_min": 0.1839,
+            "y_min": 0.6431,
+            "x_max": 0.3041,
+            "y_max": 0.6701,
+            "width": 0.1203,
+            "height": 0.027
+          },
+          "confidence": 0.965
+        },
+        {
+          "text": "COR",
+          "bbox": {
+            "x_min": 0.4834,
+            "y_min": 0.4614,
+            "x_max": 0.5184,
+            "y_max": 0.4846,
+            "width": 0.035,
+            "height": 0.0231
+          },
+          "confidence": 0.8794
+        },
+        {
+          "text": "RT",
+          "bbox": {
+            "x_min": 0.4927,
+            "y_min": 0.3967,
+            "x_max": 0.6165,
+            "y_max": 0.482,
+            "width": 0.1238,
+            "height": 0.0853
+          },
+          "confidence": 0.9773
+        },
+        {
+          "text": "blished",
+          "bbox": {
+            "x_min": 0.6077,
+            "y_min": 0.3059,
+            "x_max": 0.8751,
+            "y_max": 0.4961,
+            "width": 0.2674,
+            "height": 0.1902
+          },
+          "confidence": 0.9353
+        },
+        {
+          "text": "ALFONSO CORTI, Italian anatomist, was born in 1822. Corti began\nhis scientific career studying the cardiovascular systems of\nreptiles. Later, he turned his attention to the mammalian\nauditory system. In 1851, he published a paper describing a\nstructure located on the basilar membrane of the cochlea\ncontaining hair cells that convert sound vibrations into nerve\nimpulses, the organ",
+          "bbox": {
+            "x_min": 0.4203,
+            "y_min": 0.4692,
+            "x_max": 0.9311,
+            "y_max": 0.5724,
+            "width": 0.5108,
+            "height": 0.1033
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "the",
+          "bbox": {
+            "x_min": 0.5079,
+            "y_min": 0.5574,
+            "x_max": 0.5371,
+            "y_max": 0.5767,
+            "width": 0.0292,
+            "height": 0.0193
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "not to ber",
+          "bbox": {
+            "x_min": 0.1862,
+            "y_min": 0.5566,
+            "x_max": 0.547,
+            "y_max": 0.8093,
+            "width": 0.3608,
+            "height": 0.2528
+          },
+          "confidence": 0.9316
+        },
+        {
+          "text": "of Corti. He died in the year 1888.",
+          "bbox": {
+            "x_min": 0.5937,
+            "y_min": 0.5604,
+            "x_max": 0.8745,
+            "y_max": 0.5724,
+            "width": 0.2808,
+            "height": 0.012
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5499,
+            "y_max": 0.9829,
+            "width": 0.0992,
+            "height": 0.0086
+          },
+          "confidence": 0.9828
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "11080CH17",
+          "bbox": {
+            "x_min": 0.7992,
+            "y_min": 0.2125,
+            "x_max": 0.8441,
+            "y_max": 0.2172,
+            "width": 0.045,
+            "height": 0.0047
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "14.1 Respiratory\nOrgans",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.4392,
+            "x_max": 0.2154,
+            "y_max": 0.4696,
+            "width": 0.1407,
+            "height": 0.0304
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "14.2 Mechanism of\nBreathing",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.4811,
+            "x_max": 0.2411,
+            "y_max": 0.5124,
+            "width": 0.1664,
+            "height": 0.0313
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "14.3 Exchange of\nGases",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.5244,
+            "x_max": 0.2248,
+            "y_max": 0.5531,
+            "width": 0.1518,
+            "height": 0.0287
+          },
+          "confidence": 0.9845
+        },
+        {
+          "text": "14.4 Transport of\nGases",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.569,
+            "x_max": 0.2265,
+            "y_max": 0.596,
+            "width": 0.1524,
+            "height": 0.027
+          },
+          "confidence": 0.986
+        },
+        {
+          "text": "14.5 Regulation of\nRespiration",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.6114,
+            "x_max": 0.2329,
+            "y_max": 0.6414,
+            "width": 0.1594,
+            "height": 0.03
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "14.6 Disorders of",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.6551,
+            "x_max": 0.2242,
+            "y_max": 0.6671,
+            "width": 0.1512,
+            "height": 0.012
+          },
+          "confidence": 0.9852
+        },
+        {
+          "text": "Respiratory\nSystem",
+          "bbox": {
+            "x_min": 0.1168,
+            "y_min": 0.6744,
+            "x_max": 0.2131,
+            "y_max": 0.7031,
+            "width": 0.0963,
+            "height": 0.0287
+          },
+          "confidence": 0.983
+        },
+        {
+          "text": "CHAPTER 14",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.3098,
+            "x_max": 0.5207,
+            "y_max": 0.3368,
+            "width": 0.2183,
+            "height": 0.027
+          },
+          "confidence": 0.9608
+        },
+        {
+          "text": "BREATHING AND EXCHANGE",
+          "bbox": {
+            "x_min": 0.3088,
+            "y_min": 0.3599,
+            "x_max": 0.7426,
+            "y_max": 0.3895,
+            "width": 0.4337,
+            "height": 0.0296
+          },
+          "confidence": 0.9586
+        },
+        {
+          "text": "OF GASES",
+          "bbox": {
+            "x_min": 0.7408,
+            "y_min": 0.3573,
+            "x_max": 0.8938,
+            "y_max": 0.3916,
+            "width": 0.1529,
+            "height": 0.0343
+          },
+          "confidence": 0.9246
+        },
+        {
+          "text": "As you have read earlier, oxygen (O₂) is utilised by the organisms to\nindirectly break down simple molecules like glucose, amino acids, fatty\nacids, etc., to derive energy to perform various activities. Carbon dioxide\n(CO₂) which is harmful is also released during the above catabolic\nreactions. It is, therefore, evident that O₂ has to be continuously provided\nto the cells and CO2 produced by the cells have to be released out. This\nprocess of exchange of O₂ from the atmosphere with CO₂ produced by the\ncells is called breathing, commonly known as respiration. Place your\nhands on your chest; you can feel the chest moving up and down. You\nknow that it is due to breathing. How do we breathe? The respiratory\norgans and the mechanism of breathing are described in the following\nsections of this chapter.",
+          "bbox": {
+            "x_min": 0.2703,
+            "y_min": 0.4387,
+            "x_max": 0.8961,
+            "y_max": 0.647,
+            "width": 0.6258,
+            "height": 0.2082
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.4793,
+            "y_min": 0.5553,
+            "x_max": 0.4886,
+            "y_max": 0.5604,
+            "width": 0.0093,
+            "height": 0.0051
+          },
+          "confidence": 0.9739
+        },
+        {
+          "text": "14.1 RESPIRATORY ORGANS",
+          "bbox": {
+            "x_min": 0.2726,
+            "y_min": 0.6748,
+            "x_max": 0.5528,
+            "y_max": 0.6877,
+            "width": 0.2802,
+            "height": 0.0129
+          },
+          "confidence": 0.9836
+        },
+        {
+          "text": "no",
+          "bbox": {
+            "x_min": 0.1874,
+            "y_min": 0.7374,
+            "x_max": 0.3018,
+            "y_max": 0.8149,
+            "width": 0.1144,
+            "height": 0.0775
+          },
+          "confidence": 0.7112
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.3392,
+            "y_min": 0.7699,
+            "x_max": 0.3491,
+            "y_max": 0.7751,
+            "width": 0.0099,
+            "height": 0.0051
+          },
+          "confidence": 0.9696
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.8873,
+            "y_min": 0.7532,
+            "x_max": 0.8967,
+            "y_max": 0.7584,
+            "width": 0.0093,
+            "height": 0.0051
+          },
+          "confidence": 0.9733
+        },
+        {
+          "text": "Mechanisms of breathing vary among different groups of animals\ndepending mainly on their habitats and levels of organisation. Lower\ninvertebrates like sponges, coelenterates, flatworms, etc., exchange O\nwith CO₂ by simple diffusion over their entire body surface. Earthworms\nuse their moist cuticle and insects have a network of tubes (tracheal\ntubes) to transport atmospheric air within the body. Special vascularised\nstructures called gills (branchial respiration) are used by most of the\naquatic arthropods and molluscs whereas vascularised bags called lungs\n(pulmonary respiration) are used by the terrestrial forms for the exchange\nof gases. Among vertebrates, fishes use gills whereas amphibians, reptiles,\nbirds and mammals respire through lungs. Amphibians like frogs can\nrespire through their moist skin (cutaneous respiration) also.",
+          "bbox": {
+            "x_min": 0.2697,
+            "y_min": 0.7104,
+            "x_max": 0.8961,
+            "y_max": 0.9083,
+            "width": 0.6264,
+            "height": 0.1979
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "184",
+          "bbox": {
+            "x_min": 0.1197,
+            "y_min": 0.0835,
+            "x_max": 0.1588,
+            "y_max": 0.093,
+            "width": 0.0391,
+            "height": 0.0094
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8576,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0677,
+            "height": 0.0094
+          },
+          "confidence": 0.978
+        },
+        {
+          "text": "14.1.1 Human Respiratory System",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.1354,
+            "x_max": 0.6888,
+            "y_max": 0.1495,
+            "width": 0.3847,
+            "height": 0.0141
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "We have a pair of external nostrils opening out above the upper lips.\nIt leads to a nasal chamber through the nasal passage. The nasal\nchamber opens into the pharynx, a portion of which is the common\npassage for food and air. The pharynx opens through the larynx region\ninto the trachea. Larynx is a cartilaginous box which helps in sound\nproduction and hence called the sound box. During swallowing glottis\ncan be covered by a thin elastic cartilaginous flap called epiglottis to\nprevent the entry of food into the larynx. Trachea is a straight tube\nextending up to the mid-thoracic cavity, which divides at the level of\n5th thoracic vertebra into a right and left primary bronchi. Each bronchi\nundergoes repeated divisions to form the secondary and tertiary bronchi\nand bronchioles ending up in very thin terminal bronchioles. The\ntracheae, primary, secondary and tertiary bronchi, and initial\nbronchioles are supported by incomplete cartilaginous rings. Each\nterminal bronchiole gives rise to a number of very thin, irregular-walled\nand vascularised bag-like structures called alveoli. The branching\nnetwork of bronchi, bronchioles and alveoli comprise the lungs (Figure\n14.1). We have two lungs which are covered by a double layered pleura,\nwith pleural fluid between them. It reduces friction on the lung-surface.\nThe outer pleural membrane is in close contact with the thoracic",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.1615,
+            "x_max": 0.9282,
+            "y_max": 0.5137,
+            "width": 0.6276,
+            "height": 0.3522
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "not to",
+          "bbox": {
+            "x_min": 0.1886,
+            "y_min": 0.665,
+            "x_max": 0.38,
+            "y_max": 0.8136,
+            "width": 0.1915,
+            "height": 0.1487
+          },
+          "confidence": 0.8002
+        },
+        {
+          "text": "to be rep",
+          "bbox": {
+            "x_min": 0.2942,
+            "y_min": 0.5021,
+            "x_max": 0.6381,
+            "y_max": 0.7292,
+            "width": 0.3438,
+            "height": 0.2271
+          },
+          "confidence": 0.9423
+        },
+        {
+          "text": "Figure 14.1",
+          "bbox": {
+            "x_min": 0.2195,
+            "y_min": 0.8732,
+            "x_max": 0.3228,
+            "y_max": 0.8856,
+            "width": 0.1033,
+            "height": 0.0124
+          },
+          "confidence": 0.9868
+        },
+        {
+          "text": "Lung",
+          "bbox": {
+            "x_min": 0.3199,
+            "y_min": 0.7896,
+            "x_max": 0.366,
+            "y_max": 0.8016,
+            "width": 0.0461,
+            "height": 0.012
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "heart",
+          "bbox": {
+            "x_min": 0.5359,
+            "y_min": 0.7421,
+            "x_max": 0.5838,
+            "y_max": 0.7502,
+            "width": 0.0479,
+            "height": 0.0081
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "Diaphragm",
+          "bbox": {
+            "x_min": 0.5085,
+            "y_min": 0.8166,
+            "x_max": 0.6007,
+            "y_max": 0.8286,
+            "width": 0.0922,
+            "height": 0.012
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "-Epiglottis",
+          "bbox": {
+            "x_min": 0.7466,
+            "y_min": 0.5441,
+            "x_max": 0.8266,
+            "y_max": 0.5553,
+            "width": 0.08,
+            "height": 0.0111
+          },
+          "confidence": 0.954
+        },
+        {
+          "text": "-Larynx",
+          "bbox": {
+            "x_min": 0.7431,
+            "y_min": 0.5788,
+            "x_max": 0.8079,
+            "y_max": 0.5904,
+            "width": 0.0648,
+            "height": 0.0116
+          },
+          "confidence": 0.9199
+        },
+        {
+          "text": "-Trachea",
+          "bbox": {
+            "x_min": 0.749,
+            "y_min": 0.6088,
+            "x_max": 0.8173,
+            "y_max": 0.617,
+            "width": 0.0683,
+            "height": 0.0081
+          },
+          "confidence": 0.961
+        },
+        {
+          "text": "Pleural membranes",
+          "bbox": {
+            "x_min": 0.7513,
+            "y_min": 0.7309,
+            "x_max": 0.9078,
+            "y_max": 0.7399,
+            "width": 0.1565,
+            "height": 0.009
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "Alveoli",
+          "bbox": {
+            "x_min": 0.7507,
+            "y_min": 0.7631,
+            "x_max": 0.8044,
+            "y_max": 0.7716,
+            "width": 0.0537,
+            "height": 0.0086
+          },
+          "confidence": 0.9819
+        },
+        {
+          "text": "Pleural fluid",
+          "bbox": {
+            "x_min": 0.7525,
+            "y_min": 0.7815,
+            "x_max": 0.8511,
+            "y_max": 0.7909,
+            "width": 0.0987,
+            "height": 0.0094
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "Bronchiole",
+          "bbox": {
+            "x_min": 0.7513,
+            "y_min": 0.8055,
+            "x_max": 0.8383,
+            "y_max": 0.8145,
+            "width": 0.087,
+            "height": 0.009
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "Diagrammatic view of human respiratory system (sectional view of\nthe left lung is also shown)",
+          "bbox": {
+            "x_min": 0.3444,
+            "y_min": 0.874,
+            "x_max": 0.9101,
+            "y_max": 0.8997,
+            "width": 0.5657,
+            "height": 0.0257
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BREATHING AND EXCHANGE OF GASES",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.0827,
+            "x_max": 0.4028,
+            "y_max": 0.0925,
+            "width": 0.2878,
+            "height": 0.0099
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "lining whereas the inner pleural membrane is in contact with the lung\nsurface. The part starting with the external nostrils up to the terminal\nbronchioles constitute the conducting part whereas the alveoli and their\nducts form the respiratory or exchange part of the respiratory system.\nThe conducting part transports the atmospheric air to the alveoli, clears\nit from foreign particles, humidifies and also brings the air to body\ntemperature. Exchange part is the site of actual diffusion of O₂ and CO₂\nbetween blood and atmospheric air.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1345,
+            "x_max": 0.6982,
+            "y_max": 0.2721,
+            "width": 0.6264,
+            "height": 0.1375
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.61,
+            "y_min": 0.2502,
+            "x_max": 0.6205,
+            "y_max": 0.2554,
+            "width": 0.0105,
+            "height": 0.0051
+          },
+          "confidence": 0.9739
+        },
+        {
+          "text": "The lungs are situated in the thoracic chamber which is anatomically\nan air-tight chamber. The thoracic chamber is formed dorsally by the\nvertebral column, ventrally by the sternum, laterally by the ribs and on\nthe lower side by the dome-shaped diaphragm. The anatomical setup of\nlungs in thorax is such that any change in the volume of the thoracic\ncavity will be reflected in the lung (pulmonary) cavity. Such an\narrangement is essential for breathing, as we cannot directly alter the\npulmonary volume.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.2768,
+            "x_max": 0.6988,
+            "y_max": 0.4152,
+            "width": 0.6264,
+            "height": 0.1384
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "Respiration involves the following steps:",
+          "bbox": {
+            "x_min": 0.1133,
+            "y_min": 0.4314,
+            "x_max": 0.4588,
+            "y_max": 0.4439,
+            "width": 0.3456,
+            "height": 0.0124
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.3193,
+            "y_min": 0.4816,
+            "x_max": 0.3281,
+            "y_max": 0.4863,
+            "width": 0.0088,
+            "height": 0.0047
+          },
+          "confidence": 0.973
+        },
+        {
+          "text": "published",
+          "bbox": {
+            "x_min": 0.5377,
+            "y_min": 0.3072,
+            "x_max": 0.8751,
+            "y_max": 0.557,
+            "width": 0.3374,
+            "height": 0.2498
+          },
+          "confidence": 0.9369
+        },
+        {
+          "text": "(iii) Transport of gases by the blood.",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.5189,
+            "x_max": 0.4349,
+            "y_max": 0.533,
+            "width": 0.3211,
+            "height": 0.0141
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "(v) Utilisation of",
+          "bbox": {
+            "x_min": 0.1203,
+            "y_min": 0.5668,
+            "x_max": 0.2644,
+            "y_max": 0.5797,
+            "width": 0.1442,
+            "height": 0.0129
+          },
+          "confidence": 0.979
+        },
+        {
+          "text": "release of CO2 (cellular respiration as dealt in the Chapter 12).",
+          "bbox": {
+            "x_min": 0.1535,
+            "y_min": 0.5857,
+            "x_max": 0.6894,
+            "y_max": 0.5998,
+            "width": 0.5359,
+            "height": 0.0141
+          },
+          "confidence": 0.9839
+        },
+        {
+          "text": "14.2 MECHANISM OF BREATHING",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.6341,
+            "x_max": 0.404,
+            "y_max": 0.647,
+            "width": 0.3298,
+            "height": 0.0129
+          },
+          "confidence": 0.9664
+        },
+        {
+          "text": "Breathing involves two stages : inspiration during which atmospheric\nair is drawn in and expiration by which the alveolar air is released out.\nThe movement of air into and out of the lungs is carried out by creating a\npressure gradient between the lungs and the atmosphere. Inspiration\ncan occur if the pressure within the lungs (intra-pulmonary pressure) is\nless than the atmospheric pressure, i.e., there is a negative pressure in\nthe lungs with respect to atmospheric pressure. Similarly, expiration takes\nplace when the intra-pulmonary pressure is higher than the atmospheric\npressure. The diaphragm and a specialised set of muscles – external and\ninternal intercostals between the ribs, help in generation of such gradients.\nInspiration is initiated by the contraction of diaphragm which increases\nthe volume of thoracic chamber in the antero-posterior axis. The\ncontraction of external inter-costal muscles lifts up the ribs and the",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.6705,
+            "x_max": 0.6976,
+            "y_max": 0.8976,
+            "width": 0.6252,
+            "height": 0.2271
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "185",
+          "bbox": {
+            "x_min": 0.8471,
+            "y_min": 0.0823,
+            "x_max": 0.8844,
+            "y_max": 0.0934,
+            "width": 0.0374,
+            "height": 0.0111
+          },
+          "confidence": 0.995
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "186",
+          "bbox": {
+            "x_min": 0.1191,
+            "y_min": 0.0831,
+            "x_max": 0.1576,
+            "y_max": 0.0934,
+            "width": 0.0385,
+            "height": 0.0103
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.0835,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0683,
+            "height": 0.0094
+          },
+          "confidence": 0.9771
+        },
+        {
+          "text": "Ribs and\nsternum\nraised",
+          "bbox": {
+            "x_min": 0.1243,
+            "y_min": 0.2125,
+            "x_max": 0.2008,
+            "y_max": 0.2502,
+            "width": 0.0765,
+            "height": 0.0377
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "Air entering lungs",
+          "bbox": {
+            "x_min": 0.2691,
+            "y_min": 0.1384,
+            "x_max": 0.4238,
+            "y_max": 0.1521,
+            "width": 0.1547,
+            "height": 0.0137
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "Rib cage",
+          "bbox": {
+            "x_min": 0.1022,
+            "y_min": 0.2961,
+            "x_max": 0.1763,
+            "y_max": 0.3076,
+            "width": 0.0741,
+            "height": 0.0116
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "Diaphragm\ncontracted",
+          "bbox": {
+            "x_min": 0.2154,
+            "y_min": 0.3316,
+            "x_max": 0.3123,
+            "y_max": 0.3552,
+            "width": 0.0969,
+            "height": 0.0236
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "Ribs and",
+          "bbox": {
+            "x_min": 0.1273,
+            "y_min": 0.4991,
+            "x_max": 0.2043,
+            "y_max": 0.5081,
+            "width": 0.0771,
+            "height": 0.009
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "sternum",
+          "bbox": {
+            "x_min": 0.1308,
+            "y_min": 0.5146,
+            "x_max": 0.2032,
+            "y_max": 0.5223,
+            "width": 0.0724,
+            "height": 0.0077
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "returned to",
+          "bbox": {
+            "x_min": 0.1197,
+            "y_min": 0.5278,
+            "x_max": 0.2142,
+            "y_max": 0.5368,
+            "width": 0.0946,
+            "height": 0.009
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "original\nposition",
+          "bbox": {
+            "x_min": 0.1308,
+            "y_min": 0.542,
+            "x_max": 0.2008,
+            "y_max": 0.569,
+            "width": 0.0701,
+            "height": 0.027
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.2796,
+            "y_min": 0.3907,
+            "x_max": 0.3006,
+            "y_max": 0.4023,
+            "width": 0.021,
+            "height": 0.0116
+          },
+          "confidence": 0.9768
+        },
+        {
+          "text": "Volume of\nthorax",
+          "bbox": {
+            "x_min": 0.425,
+            "y_min": 0.2331,
+            "x_max": 0.5137,
+            "y_max": 0.2562,
+            "width": 0.0887,
+            "height": 0.0231
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "sternum causing an increase in the volume\nof the thoracic chamber in the dorso-ventral\naxis. The overall increase in the thoracic\nvolume causes a similar increase in\npulmonary volume. An increase in\npulmonary volume decreases the intra-\npulmonary pressure to less than the\nincreased atmospheric pressure which forces the air\nfrom outside to move into the lungs, i.e.,\ninspiration (Figure 14.2a). Relaxation of the\ndiaphragm and the inter-costal muscles\nreturns the diaphragm and sternum to their\nnormal positions and reduce the thoracic\nvolume and thereby the pulmonary volume.\nThis leads to an increase in intra-pulmonary\npressure to slightly above the atmospheric\npressure causing the expulsion of air from\nthe lungs, i.e., expiration (Figure 14.2b). We\nhave the ability to increase the strength of\ninspiration and expiration with the help of\nadditional muscles in the abdomen. On an\naverage, a healthy human breathes 12-16\ntimes/minute. The volume of air involved in\nbreathing movements can be estimated by\nusing a spirometer which helps in clinical\nassessment of pulmonary functions.",
+          "bbox": {
+            "x_min": 0.4291,
+            "y_min": 0.1337,
+            "x_max": 0.9288,
+            "y_max": 0.5934,
+            "width": 0.4997,
+            "height": 0.4597
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "Air expelled from lungs",
+          "bbox": {
+            "x_min": 0.2423,
+            "y_min": 0.4434,
+            "x_max": 0.4419,
+            "y_max": 0.4554,
+            "width": 0.1996,
+            "height": 0.012
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "↓",
+          "bbox": {
+            "x_min": 0.279,
+            "y_min": 0.5797,
+            "x_max": 0.2966,
+            "y_max": 0.5973,
+            "width": 0.0175,
+            "height": 0.0176
+          },
+          "confidence": 0.9506
+        },
+        {
+          "text": "Volume of",
+          "bbox": {
+            "x_min": 0.4197,
+            "y_min": 0.5364,
+            "x_max": 0.5085,
+            "y_max": 0.5458,
+            "width": 0.0887,
+            "height": 0.0094
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "thorax\ndecreased",
+          "bbox": {
+            "x_min": 0.4215,
+            "y_min": 0.5506,
+            "x_max": 0.5061,
+            "y_max": 0.5741,
+            "width": 0.0846,
+            "height": 0.0236
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "not to be",
+          "bbox": {
+            "x_min": 0.1886,
+            "y_min": 0.5763,
+            "x_max": 0.5044,
+            "y_max": 0.8201,
+            "width": 0.3158,
+            "height": 0.2438
+          },
+          "confidence": 0.8935
+        },
+        {
+          "text": "CE",
+          "bbox": {
+            "x_min": 0.4127,
+            "y_min": 0.4546,
+            "x_max": 0.5388,
+            "y_max": 0.5377,
+            "width": 0.1261,
+            "height": 0.0831
+          },
+          "confidence": 0.964
+        },
+        {
+          "text": "Diaphragm\nrelaxed",
+          "bbox": {
+            "x_min": 0.2358,
+            "y_min": 0.6272,
+            "x_max": 0.3322,
+            "y_max": 0.6512,
+            "width": 0.0963,
+            "height": 0.024
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "and arched\nupwards",
+          "bbox": {
+            "x_min": 0.2376,
+            "y_min": 0.6564,
+            "x_max": 0.3322,
+            "y_max": 0.6829,
+            "width": 0.0946,
+            "height": 0.0266
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.282,
+            "y_min": 0.6949,
+            "x_max": 0.3041,
+            "y_max": 0.7057,
+            "width": 0.0222,
+            "height": 0.0107
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "Figure 14.2 Mechanism of breathing showing :\n(a) inspiration (b) expiration",
+          "bbox": {
+            "x_min": 0.1057,
+            "y_min": 0.7292,
+            "x_max": 0.5073,
+            "y_max": 0.7558,
+            "width": 0.4016,
+            "height": 0.0266
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "14.2.1 Respiratory Volumes and\nCapacities",
+          "bbox": {
+            "x_min": 0.5371,
+            "y_min": 0.614,
+            "x_max": 0.9025,
+            "y_max": 0.6487,
+            "width": 0.3654,
+            "height": 0.0347
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "Tidal Volume (TV): Volume of air inspired or\nexpired during a normal respiration. It is\napprox. 500 mL., i.e., a healthy man can\ninspire or expire approximately 6000 to 8000\nmL of air per minute.",
+          "bbox": {
+            "x_min": 0.5324,
+            "y_min": 0.665,
+            "x_max": 0.9264,
+            "y_max": 0.7528,
+            "width": 0.394,
+            "height": 0.0878
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "Inspiratory Reserve Volume (IRV):\nA person can inspire by a forcible inspiration.\nThis averages 2500 mL to 3000 mL.",
+          "bbox": {
+            "x_min": 0.5318,
+            "y_min": 0.7631,
+            "x_max": 0.9253,
+            "y_max": 0.8132,
+            "width": 0.3935,
+            "height": 0.0501
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "Expiratory Reserve Volume (ERV):\nA person can expire by a forcible expiration.\nThis averages 1000 mL to 1100 mL.",
+          "bbox": {
+            "x_min": 0.5318,
+            "y_min": 0.8231,
+            "x_max": 0.9253,
+            "y_max": 0.8719,
+            "width": 0.3935,
+            "height": 0.0488
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BREATHING AND EXCHANGE OF GASES",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.0827,
+            "x_max": 0.4028,
+            "y_max": 0.0925,
+            "width": 0.2878,
+            "height": 0.0099
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "187",
+          "bbox": {
+            "x_min": 0.8465,
+            "y_min": 0.0831,
+            "x_max": 0.8838,
+            "y_max": 0.093,
+            "width": 0.0374,
+            "height": 0.0099
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "Residual Volume (RV): Volume of air remaining in the lungs even after a\nforcible expiration. This averages 1100 mL to 1200 mL.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.1354,
+            "x_max": 0.697,
+            "y_max": 0.1667,
+            "width": 0.6241,
+            "height": 0.0313
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "By adding up a few respiratory volumes described above, one can\nderive various pulmonary capacities, which can be used in clinical\ndiagnosis.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1718,
+            "x_max": 0.697,
+            "y_max": 0.2198,
+            "width": 0.6252,
+            "height": 0.048
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "Inspiratory Capacity (IC): Total volume of air a person can inspire\nafter a normal expiration. This includes tidal volume and inspiratory\nreserve volume (TV+IRV).",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.2296,
+            "x_max": 0.6976,
+            "y_max": 0.2776,
+            "width": 0.6252,
+            "height": 0.048
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "Expiratory Capacity (EC): Total volume of air a person can expire after\na normal inspiration. This includes tidal volume and expiratory reserve\nvolume (TV+ERV).",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.2871,
+            "x_max": 0.697,
+            "y_max": 0.335,
+            "width": 0.6246,
+            "height": 0.048
+          },
+          "confidence": 0.9851
+        },
+        {
+          "text": "Functional Residual Capacity (FRC): Volume of air that will remain in\nthe lungs after a normal expiration. This includes ERV+RV.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.344,
+            "x_max": 0.6964,
+            "y_max": 0.3749,
+            "width": 0.6235,
+            "height": 0.0308
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "Vital Capacity (VC): The maximum volume of air a person can breathe in\nafter a forced expiration. This includes ERV, TV and IRV or the maximum\nvolume of air a person can breathe out after a forced inspiration.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.3839,
+            "x_max": 0.697,
+            "y_max": 0.4327,
+            "width": 0.6246,
+            "height": 0.0488
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "Total Lung Capacity (TLC): Total volume of air accommoda RV, TVatishe",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.3239,
+            "x_max": 0.8406,
+            "y_max": 0.4854,
+            "width": 0.7694,
+            "height": 0.1615
+          },
+          "confidence": 0.9334
+        },
+        {
+          "text": "lungs at the end of a forced inspiration. This includes $ RV\nIRV or vital capacity + residual volume.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.4542,
+            "x_max": 0.5733,
+            "y_max": 0.4919,
+            "width": 0.5003,
+            "height": 0.0377
+          },
+          "confidence": 0.9843
+        },
+        {
+          "text": "14.3 EXCHANGE OF GASES",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.5133,
+            "x_max": 0.3485,
+            "y_max": 0.5253,
+            "width": 0.2744,
+            "height": 0.012
+          },
+          "confidence": 0.956
+        },
+        {
+          "text": "NCE",
+          "bbox": {
+            "x_min": 0.3415,
+            "y_min": 0.4627,
+            "x_max": 0.5353,
+            "y_max": 0.5703,
+            "width": 0.1938,
+            "height": 0.1075
+          },
+          "confidence": 0.9227
+        },
+        {
+          "text": "exchange",
+          "bbox": {
+            "x_min": 0.3351,
+            "y_min": 0.542,
+            "x_max": 0.4174,
+            "y_max": 0.5703,
+            "width": 0.0823,
+            "height": 0.0283
+          },
+          "confidence": 0.9842
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.4752,
+            "y_min": 0.5767,
+            "x_max": 0.4845,
+            "y_max": 0.5814,
+            "width": 0.0093,
+            "height": 0.0047
+          },
+          "confidence": 0.9771
+        },
+        {
+          "text": "RV,",
+          "bbox": {
+            "x_min": 0.5487,
+            "y_min": 0.4597,
+            "x_max": 0.5849,
+            "y_max": 0.4704,
+            "width": 0.0362,
+            "height": 0.0107
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "Exchang",
+          "bbox": {
+            "x_min": 0.4968,
+            "y_min": 0.5394,
+            "x_max": 0.5738,
+            "y_max": 0.5698,
+            "width": 0.0771,
+            "height": 0.0304
+          },
+          "confidence": 0.9838
+        },
+        {
+          "text": "Alveoli are the primary sites of exchange of gases. Exchange of gases also\noccur between blood and tissues. O₂ and CO₂ are exchanged in these\nsites by simple diffusion mainly based on pressure/concentration\ngradient. Solubility of the gases as well as the thickness of the membranes\ninvolved in diffusion are also some important factors that can affect the\nrate of diffusion.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.5493,
+            "x_max": 0.697,
+            "y_max": 0.6487,
+            "width": 0.6246,
+            "height": 0.0994
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "Pressure contributed by an individual gas in a mixture of gases is\ncalled partial pressure and is represented as pO2 for oxygen and pCO2 for\ncarbon dioxide. Partial pressures of these two gases in the atmospheric\nair and the two sites of diffusion are given in Table 14.1 and in\nFigure 14.3. The data given in the table clearly indicates a concentration\ngradient for oxygen from alveoli to blood and blood to tissues. Similarly,",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.656,
+            "x_max": 0.6976,
+            "y_max": 0.7588,
+            "width": 0.6252,
+            "height": 0.1028
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "TABLE 14.1 Partial Pressures (in mm Hg) of Oxygen and Carbon dioxide at Different\nParts Involved in Diffusion in Comparison to those in Atmosphere",
+          "bbox": {
+            "x_min": 0.1191,
+            "y_min": 0.7704,
+            "x_max": 0.8459,
+            "y_max": 0.7986,
+            "width": 0.7268,
+            "height": 0.0283
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "Respiratory",
+          "bbox": {
+            "x_min": 0.0782,
+            "y_min": 0.8149,
+            "x_max": 0.1781,
+            "y_max": 0.8265,
+            "width": 0.0998,
+            "height": 0.0116
+          },
+          "confidence": 0.9808
+        },
+        {
+          "text": "Gas",
+          "bbox": {
+            "x_min": 0.1045,
+            "y_min": 0.8325,
+            "x_max": 0.143,
+            "y_max": 0.841,
+            "width": 0.0385,
+            "height": 0.0086
+          },
+          "confidence": 0.9822
+        },
+        {
+          "text": "Atmospheric\nAir",
+          "bbox": {
+            "x_min": 0.2049,
+            "y_min": 0.8149,
+            "x_max": 0.3152,
+            "y_max": 0.8385,
+            "width": 0.1103,
+            "height": 0.0236
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "Alveoli",
+          "bbox": {
+            "x_min": 0.3643,
+            "y_min": 0.8158,
+            "x_max": 0.4221,
+            "y_max": 0.8239,
+            "width": 0.0578,
+            "height": 0.0081
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "Blood",
+          "bbox": {
+            "x_min": 0.5342,
+            "y_min": 0.8158,
+            "x_max": 0.5879,
+            "y_max": 0.8239,
+            "width": 0.0537,
+            "height": 0.0081
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "Blood",
+          "bbox": {
+            "x_min": 0.7064,
+            "y_min": 0.8158,
+            "x_max": 0.7595,
+            "y_max": 0.8239,
+            "width": 0.0531,
+            "height": 0.0081
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "Tissues",
+          "bbox": {
+            "x_min": 0.8196,
+            "y_min": 0.8149,
+            "x_max": 0.8856,
+            "y_max": 0.8243,
+            "width": 0.066,
+            "height": 0.0094
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "(Deoxygenated)",
+          "bbox": {
+            "x_min": 0.4956,
+            "y_min": 0.8295,
+            "x_max": 0.6281,
+            "y_max": 0.8419,
+            "width": 0.1325,
+            "height": 0.0124
+          },
+          "confidence": 0.98
+        },
+        {
+          "text": "(Oxygenated)",
+          "bbox": {
+            "x_min": 0.6772,
+            "y_min": 0.8295,
+            "x_max": 0.7904,
+            "y_max": 0.8419,
+            "width": 0.1133,
+            "height": 0.0124
+          },
+          "confidence": 0.975
+        },
+        {
+          "text": "02",
+          "bbox": {
+            "x_min": 0.1103,
+            "y_min": 0.8595,
+            "x_max": 0.1372,
+            "y_max": 0.8719,
+            "width": 0.0269,
+            "height": 0.0124
+          },
+          "confidence": 0.6256
+        },
+        {
+          "text": "159",
+          "bbox": {
+            "x_min": 0.2428,
+            "y_min": 0.859,
+            "x_max": 0.2767,
+            "y_max": 0.8676,
+            "width": 0.0339,
+            "height": 0.0086
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "104",
+          "bbox": {
+            "x_min": 0.3795,
+            "y_min": 0.8599,
+            "x_max": 0.4121,
+            "y_max": 0.8676,
+            "width": 0.0327,
+            "height": 0.0077
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "40",
+          "bbox": {
+            "x_min": 0.5493,
+            "y_min": 0.8603,
+            "x_max": 0.5727,
+            "y_max": 0.8676,
+            "width": 0.0234,
+            "height": 0.0073
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "95",
+          "bbox": {
+            "x_min": 0.7227,
+            "y_min": 0.8595,
+            "x_max": 0.7449,
+            "y_max": 0.8672,
+            "width": 0.0222,
+            "height": 0.0077
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "40",
+          "bbox": {
+            "x_min": 0.8412,
+            "y_min": 0.8603,
+            "x_max": 0.8646,
+            "y_max": 0.8676,
+            "width": 0.0234,
+            "height": 0.0073
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "CO2",
+          "bbox": {
+            "x_min": 0.1074,
+            "y_min": 0.8877,
+            "x_max": 0.1413,
+            "y_max": 0.901,
+            "width": 0.0339,
+            "height": 0.0133
+          },
+          "confidence": 0.8965
+        },
+        {
+          "text": "0.3",
+          "bbox": {
+            "x_min": 0.2452,
+            "y_min": 0.8886,
+            "x_max": 0.2732,
+            "y_max": 0.8963,
+            "width": 0.028,
+            "height": 0.0077
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "40",
+          "bbox": {
+            "x_min": 0.3824,
+            "y_min": 0.8886,
+            "x_max": 0.4063,
+            "y_max": 0.8963,
+            "width": 0.0239,
+            "height": 0.0077
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "45",
+          "bbox": {
+            "x_min": 0.5487,
+            "y_min": 0.8877,
+            "x_max": 0.5727,
+            "y_max": 0.8963,
+            "width": 0.0239,
+            "height": 0.0086
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "40",
+          "bbox": {
+            "x_min": 0.7204,
+            "y_min": 0.8882,
+            "x_max": 0.7443,
+            "y_max": 0.8963,
+            "width": 0.0239,
+            "height": 0.0081
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "45",
+          "bbox": {
+            "x_min": 0.8406,
+            "y_min": 0.8877,
+            "x_max": 0.864,
+            "y_max": 0.8963,
+            "width": 0.0234,
+            "height": 0.0086
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "188",
+          "bbox": {
+            "x_min": 0.1197,
+            "y_min": 0.084,
+            "x_max": 0.1576,
+            "y_max": 0.093,
+            "width": 0.0379,
+            "height": 0.009
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "Inspired air",
+          "bbox": {
+            "x_min": 0.4215,
+            "y_min": 0.1427,
+            "x_max": 0.5096,
+            "y_max": 0.1538,
+            "width": 0.0881,
+            "height": 0.0111
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "Expired air",
+          "bbox": {
+            "x_min": 0.5266,
+            "y_min": 0.1384,
+            "x_max": 0.6153,
+            "y_max": 0.1487,
+            "width": 0.0887,
+            "height": 0.0103
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "Pulmonary\nartery",
+          "bbox": {
+            "x_min": 0.352,
+            "y_min": 0.2669,
+            "x_max": 0.4372,
+            "y_max": 0.2901,
+            "width": 0.0852,
+            "height": 0.0231
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "Alveolar air",
+          "bbox": {
+            "x_min": 0.4752,
+            "y_min": 0.1864,
+            "x_max": 0.5587,
+            "y_max": 0.1937,
+            "width": 0.0835,
+            "height": 0.0073
+          },
+          "confidence": 0.9831
+        },
+        {
+          "text": "pO2=104 mmHg\nCO2 02\n\\pCO2=40 mmHg",
+          "bbox": {
+            "x_min": 0.4571,
+            "y_min": 0.1984,
+            "x_max": 0.5785,
+            "y_max": 0.2266,
+            "width": 0.1214,
+            "height": 0.0283
+          },
+          "confidence": 0.8892
+        },
+        {
+          "text": "CO2 O2",
+          "bbox": {
+            "x_min": 0.488,
+            "y_min": 0.2344,
+            "x_max": 0.5476,
+            "y_max": 0.2421,
+            "width": 0.0595,
+            "height": 0.0077
+          },
+          "confidence": 0.9529
+        },
+        {
+          "text": "CO2 O2",
+          "bbox": {
+            "x_min": 0.4933,
+            "y_min": 0.2644,
+            "x_max": 0.5528,
+            "y_max": 0.2721,
+            "width": 0.0595,
+            "height": 0.0077
+          },
+          "confidence": 0.9541
+        },
+        {
+          "text": "Alveolus",
+          "bbox": {
+            "x_min": 0.6089,
+            "y_min": 0.2091,
+            "x_max": 0.6754,
+            "y_max": 0.2177,
+            "width": 0.0665,
+            "height": 0.0086
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "Pulmonary\nvein",
+          "bbox": {
+            "x_min": 0.6124,
+            "y_min": 0.2704,
+            "x_max": 0.6988,
+            "y_max": 0.2922,
+            "width": 0.0864,
+            "height": 0.0219
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8576,
+            "y_min": 0.0835,
+            "x_max": 0.9253,
+            "y_max": 0.0938,
+            "width": 0.0677,
+            "height": 0.0103
+          },
+          "confidence": 0.9783
+        },
+        {
+          "text": "Systemic veins",
+          "bbox": {
+            "x_min": 0.2971,
+            "y_min": 0.383,
+            "x_max": 0.4086,
+            "y_max": 0.3937,
+            "width": 0.1115,
+            "height": 0.0107
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "(carrying deoxygenated blood)",
+          "bbox": {
+            "x_min": 0.1926,
+            "y_min": 0.4027,
+            "x_max": 0.4203,
+            "y_max": 0.4156,
+            "width": 0.2277,
+            "height": 0.0129
+          },
+          "confidence": 0.9836
+        },
+        {
+          "text": "PO2 = 40 mm Hg\npCO2 = 45 mm Hg",
+          "bbox": {
+            "x_min": 0.2814,
+            "y_min": 0.4263,
+            "x_max": 0.4156,
+            "y_max": 0.4512,
+            "width": 0.1343,
+            "height": 0.0249
+          },
+          "confidence": 0.8783
+        },
+        {
+          "text": "Subished",
+          "bbox": {
+            "x_min": 0.4191,
+            "y_min": 0.2772,
+            "x_max": 0.9031,
+            "y_max": 0.5707,
+            "width": 0.4839,
+            "height": 0.2935
+          },
+          "confidence": 0.7732
+        },
+        {
+          "text": "CO2 O2",
+          "bbox": {
+            "x_min": 0.4869,
+            "y_min": 0.4289,
+            "x_max": 0.5505,
+            "y_max": 0.446,
+            "width": 0.0636,
+            "height": 0.0171
+          },
+          "confidence": 0.8387
+        },
+        {
+          "text": "exch",
+          "bbox": {
+            "x_min": 0.5546,
+            "y_min": 0.5231,
+            "x_max": 0.5931,
+            "y_max": 0.5381,
+            "width": 0.0385,
+            "height": 0.015
+          },
+          "confidence": 0.9605
+        },
+        {
+          "text": "Figure 14.3 Diagrammatic representation of exchange of gases at the alveolus and\nthe body tissues with blood and transport of oxygen and carbon dioxide",
+          "bbox": {
+            "x_min": 0.164,
+            "y_min": 0.5249,
+            "x_max": 0.8669,
+            "y_max": 0.5523,
+            "width": 0.7029,
+            "height": 0.0274
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "Squamous epithelium",
+          "bbox": {
+            "x_min": 0.1033,
+            "y_min": 0.6949,
+            "x_max": 0.2469,
+            "y_max": 0.7074,
+            "width": 0.1436,
+            "height": 0.0124
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "of alveolar wall\n(one-celled thick).",
+          "bbox": {
+            "x_min": 0.1168,
+            "y_min": 0.7091,
+            "x_max": 0.2364,
+            "y_max": 0.7318,
+            "width": 0.1197,
+            "height": 0.0227
+          },
+          "confidence": 0.978
+        },
+        {
+          "text": "Air",
+          "bbox": {
+            "x_min": 0.2399,
+            "y_min": 0.6645,
+            "x_max": 0.2656,
+            "y_max": 0.6727,
+            "width": 0.0257,
+            "height": 0.0081
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "Blood\ncapillary",
+          "bbox": {
+            "x_min": 0.1932,
+            "y_min": 0.7948,
+            "x_max": 0.2569,
+            "y_max": 0.8201,
+            "width": 0.0636,
+            "height": 0.0253
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.5353,
+            "y_min": 0.5758,
+            "x_max": 0.5447,
+            "y_max": 0.5805,
+            "width": 0.0093,
+            "height": 0.0047
+          },
+          "confidence": 0.9751
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.5908,
+            "y_min": 0.6118,
+            "x_max": 0.5995,
+            "y_max": 0.6165,
+            "width": 0.0088,
+            "height": 0.0047
+          },
+          "confidence": 0.9725
+        },
+        {
+          "text": "a gradient is present for CO₂ in the opposite direction, i.e., from tissues to\nblood and blood to alveoli. As the solubility of CO₂ is 20-25 times higher\nthan that of O₂, the amount of CO₂ that can diffuse through the diffusion\nmembrane per unit difference in partial pressure is much higher compared\nto that of O2. The diffusion membrane\nis made up of three major layers\n(Figure 14.4) namely, the thin squamous\nepithelium of alveoli, the endothelium of\nalveolar capillaries and the basement\nsubstance (composed of a thin basement",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.5664,
+            "x_max": 0.9282,
+            "y_max": 0.7399,
+            "width": 0.6258,
+            "height": 0.1735
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "Alveolar cavity",
+          "bbox": {
+            "x_min": 0.2691,
+            "y_min": 0.7386,
+            "x_max": 0.3759,
+            "y_max": 0.7506,
+            "width": 0.1068,
+            "height": 0.012
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "Basement\nsubstance",
+          "bbox": {
+            "x_min": 0.4162,
+            "y_min": 0.6971,
+            "x_max": 0.4892,
+            "y_max": 0.7189,
+            "width": 0.073,
+            "height": 0.0219
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "Endothelium of\nblood capillary membrane supporting the squamous\nepithelium and the basement membrane\nsurrounding the single layer endothelial\ncells of capillaries) in between them.\nHowever, its total thickness is much less",
+          "bbox": {
+            "x_min": 0.4396,
+            "y_min": 0.7326,
+            "x_max": 0.9264,
+            "y_max": 0.8278,
+            "width": 0.4869,
+            "height": 0.0951
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "Red blood\ncell",
+          "bbox": {
+            "x_min": 0.3818,
+            "y_min": 0.8076,
+            "x_max": 0.4501,
+            "y_max": 0.8295,
+            "width": 0.0683,
+            "height": 0.0219
+          },
+          "confidence": 0.9845
+        },
+        {
+          "text": "Figure 14.4 A Diagram of a section of an\nalveolus with a pulmonary\ncapillary.",
+          "bbox": {
+            "x_min": 0.122,
+            "y_min": 0.8488,
+            "x_max": 0.5196,
+            "y_max": 0.8899,
+            "width": 0.3975,
+            "height": 0.0411
+          },
+          "confidence": 0.9842
+        },
+        {
+          "text": "than a millimetre. Therefore, all the factors\nin our body are favourable for diffusion of\nO₂ from alveoli to tissues and that of CO₂\nfrom tissues to alveoli.",
+          "bbox": {
+            "x_min": 0.5616,
+            "y_min": 0.8342,
+            "x_max": 0.9276,
+            "y_max": 0.8985,
+            "width": 0.366,
+            "height": 0.0643
+          },
+          "confidence": 0.983
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.5744,
+            "y_min": 0.8792,
+            "x_max": 0.5832,
+            "y_max": 0.8843,
+            "width": 0.0088,
+            "height": 0.0051
+          },
+          "confidence": 0.9715
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BREATHING AND EXCHANGE OF GASES",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.0823,
+            "x_max": 0.4028,
+            "y_max": 0.093,
+            "width": 0.289,
+            "height": 0.0107
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "189",
+          "bbox": {
+            "x_min": 0.8465,
+            "y_min": 0.0831,
+            "x_max": 0.8856,
+            "y_max": 0.093,
+            "width": 0.0391,
+            "height": 0.0099
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "14.4 TRANSPORT OF GASES",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.1362,
+            "x_max": 0.352,
+            "y_max": 0.1482,
+            "width": 0.2773,
+            "height": 0.012
+          },
+          "confidence": 0.9786
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.6065,
+            "y_min": 0.1945,
+            "x_max": 0.6165,
+            "y_max": 0.1997,
+            "width": 0.0099,
+            "height": 0.0051
+          },
+          "confidence": 0.9683
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.6708,
+            "y_min": 0.1778,
+            "x_max": 0.6795,
+            "y_max": 0.1825,
+            "width": 0.0088,
+            "height": 0.0047
+          },
+          "confidence": 0.9739
+        },
+        {
+          "text": "Blood is the medium of transport for O₂ and CO2. About 97 per cent of O₂ is\ntransported by RBCs in the blood. The remaining 3 per cent of O₂ is carried\nin a dissolved state through the plasma. Nearly 20-25 per cent of CO₂ is\ntransported by RBCs whereas 70 per cent of it is carried as bicarbonate.\nAbout 7 per cent of CO₂ is carried in a dissolved state through plasma.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.168,
+            "x_max": 0.6964,
+            "y_max": 0.2545,
+            "width": 0.6241,
+            "height": 0.0865
+          },
+          "confidence": 0.9803
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.2615,
+            "y_min": 0.2485,
+            "x_max": 0.2715,
+            "y_max": 0.2536,
+            "width": 0.0099,
+            "height": 0.0051
+          },
+          "confidence": 0.9727
+        },
+        {
+          "text": "14.4.1 Transport of Oxygen",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.2721,
+            "x_max": 0.3824,
+            "y_max": 0.2866,
+            "width": 0.3082,
+            "height": 0.0146
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "Haemoglobin is a red coloured iron containing pigment present in the\nRBCs. O, can bind with haemoglobin in a reversible manner to form\noxyhaemoglobin. Each haemoglobin molecule can carry a maximum of\nfour molecules of O2. Binding of oxygen with haemoglobin is primarily\nrelated to partial pressure of O2. Partial pressure of CO2, hydrogen ion\nconcentration and temperature are the other factors which can interfere\nwith this binding. A sigmoid curve is obtained when percentage saturation\nof haemoglobin with O₂ is plotted against the",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.2991,
+            "x_max": 0.6988,
+            "y_max": 0.4379,
+            "width": 0.627,
+            "height": 0.1388
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.4495,
+            "y_min": 0.5039,
+            "x_max": 0.4588,
+            "y_max": 0.509,
+            "width": 0.0093,
+            "height": 0.0051
+          },
+          "confidence": 0.9719
+        },
+        {
+          "text": "pO2. This curve is called the Oxygen\ndissociation curve (Figure 14.5) and is highly\nuseful in studying the effect of factors like\npCO2, H+ concentration, etc., on binding of O₂\nwith haemoglobin. In the alveoli, where there\nis high po₂, low pCO2, lesser H+ concentration\nand lower temperature, the factors are\nall favourable for the formation of\noxyhaemoglobin, whereas in the tissues,\nwhere low pO2, high pCO₂, high H⁺\nconcentration and higher temperature exist,\nthe conditions are favourable for dissociation\nof oxygen from the oxyhaemoglobin. This\nclearly indicates that O₂ gets bound to\nhaemoglobin in the lung surface and gets\ndissociated at the tissues. Every 100 ml of\noxygenated blood can deliver around 5 ml of",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.4417,
+            "x_max": 0.46,
+            "y_max": 0.7399,
+            "width": 0.3882,
+            "height": 0.2982
+          },
+          "confidence": 0.979
+        },
+        {
+          "text": "O₂ to the tissues under normal physiological",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.7446,
+            "x_max": 0.4571,
+            "y_max": 0.7592,
+            "width": 0.3841,
+            "height": 0.0146
+          },
+          "confidence": 0.9799
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.0858,
+            "y_min": 0.7536,
+            "x_max": 0.0952,
+            "y_max": 0.7588,
+            "width": 0.0093,
+            "height": 0.0051
+          },
+          "confidence": 0.9751
+        },
+        {
+          "text": "conditions.",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.7631,
+            "x_max": 0.167,
+            "y_max": 0.7721,
+            "width": 0.0934,
+            "height": 0.009
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "14.4.2 Transport of Carbon dioxide",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.7918,
+            "x_max": 0.4828,
+            "y_max": 0.8102,
+            "width": 0.4098,
+            "height": 0.0184
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "Percentage saturation of haemoglobin with oxygen",
+          "bbox": {
+            "x_min": 0.4898,
+            "y_min": 0.4409,
+            "x_max": 0.5044,
+            "y_max": 0.7112,
+            "width": 0.0146,
+            "height": 0.2704
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "100",
+          "bbox": {
+            "x_min": 0.5108,
+            "y_min": 0.4987,
+            "x_max": 0.5394,
+            "y_max": 0.5069,
+            "width": 0.0286,
+            "height": 0.0081
+          },
+          "confidence": 0.9971
+        },
+        {
+          "text": "80",
+          "bbox": {
+            "x_min": 0.5178,
+            "y_min": 0.5373,
+            "x_max": 0.5406,
+            "y_max": 0.5446,
+            "width": 0.0228,
+            "height": 0.0073
+          },
+          "confidence": 0.9852
+        },
+        {
+          "text": "60",
+          "bbox": {
+            "x_min": 0.5201,
+            "y_min": 0.5746,
+            "x_max": 0.5406,
+            "y_max": 0.5823,
+            "width": 0.0204,
+            "height": 0.0077
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "40",
+          "bbox": {
+            "x_min": 0.5172,
+            "y_min": 0.6131,
+            "x_max": 0.5394,
+            "y_max": 0.6208,
+            "width": 0.0222,
+            "height": 0.0077
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "20",
+          "bbox": {
+            "x_min": 0.519,
+            "y_min": 0.6512,
+            "x_max": 0.54,
+            "y_max": 0.6585,
+            "width": 0.021,
+            "height": 0.0073
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "blished",
+          "bbox": {
+            "x_min": 0.5522,
+            "y_min": 0.3063,
+            "x_max": 0.8797,
+            "y_max": 0.5326,
+            "width": 0.3275,
+            "height": 0.2262
+          },
+          "confidence": 0.9024
+        },
+        {
+          "text": "0",
+          "bbox": {
+            "x_min": 0.5342,
+            "y_min": 0.6967,
+            "x_max": 0.5447,
+            "y_max": 0.7039,
+            "width": 0.0105,
+            "height": 0.0073
+          },
+          "confidence": 0.9554
+        },
+        {
+          "text": "20",
+          "bbox": {
+            "x_min": 0.5873,
+            "y_min": 0.6971,
+            "x_max": 0.6077,
+            "y_max": 0.7039,
+            "width": 0.0204,
+            "height": 0.0069
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "40",
+          "bbox": {
+            "x_min": 0.641,
+            "y_min": 0.6967,
+            "x_max": 0.6608,
+            "y_max": 0.7039,
+            "width": 0.0198,
+            "height": 0.0073
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "60",
+          "bbox": {
+            "x_min": 0.6959,
+            "y_min": 0.6967,
+            "x_max": 0.7169,
+            "y_max": 0.7035,
+            "width": 0.021,
+            "height": 0.0069
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "80",
+          "bbox": {
+            "x_min": 0.7501,
+            "y_min": 0.6967,
+            "x_max": 0.7712,
+            "y_max": 0.7039,
+            "width": 0.021,
+            "height": 0.0073
+          },
+          "confidence": 0.9824
+        },
+        {
+          "text": "100",
+          "bbox": {
+            "x_min": 0.8039,
+            "y_min": 0.6975,
+            "x_max": 0.8307,
+            "y_max": 0.7048,
+            "width": 0.0269,
+            "height": 0.0073
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "Partial pressure of oxygen (mm Hg)",
+          "bbox": {
+            "x_min": 0.5884,
+            "y_min": 0.7172,
+            "x_max": 0.8336,
+            "y_max": 0.7288,
+            "width": 0.2452,
+            "height": 0.0116
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "Figure 14.5 Oxygen dissociation curve",
+          "bbox": {
+            "x_min": 0.519,
+            "y_min": 0.7459,
+            "x_max": 0.8552,
+            "y_max": 0.7579,
+            "width": 0.3363,
+            "height": 0.012
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "CO₂ is carried by haemoglobin as carbamino-haemoglobin (about",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.8213,
+            "x_max": 0.6964,
+            "y_max": 0.8363,
+            "width": 0.6241,
+            "height": 0.015
+          },
+          "confidence": 0.9808
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.0969,
+            "y_min": 0.8668,
+            "x_max": 0.1062,
+            "y_max": 0.8715,
+            "width": 0.0093,
+            "height": 0.0047
+          },
+          "confidence": 0.9742
+        },
+        {
+          "text": "20-25 per cent). This binding is related to the partial pressure of CO2.\npO, is a major factor which could affect this binding. When pCO₂ is high\nand po, is low as in the tissues, more binding of carbon dioxide occurs\nwhereas, when the pCO₂ is low and pO2 is high as in the alveoli, dissociation",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.8393,
+            "x_max": 0.6964,
+            "y_max": 0.9079,
+            "width": 0.6241,
+            "height": 0.0686
+          },
+          "confidence": 0.9744
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.136,
+            "y_min": 0.8839,
+            "x_max": 0.1459,
+            "y_max": 0.889,
+            "width": 0.0099,
+            "height": 0.0051
+          },
+          "confidence": 0.9763
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.627,
+            "y_min": 0.8668,
+            "x_max": 0.6351,
+            "y_max": 0.8715,
+            "width": 0.0082,
+            "height": 0.0047
+          },
+          "confidence": 0.973
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "190",
+          "bbox": {
+            "x_min": 0.1191,
+            "y_min": 0.0835,
+            "x_max": 0.1594,
+            "y_max": 0.093,
+            "width": 0.0403,
+            "height": 0.0094
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0689,
+            "height": 0.0094
+          },
+          "confidence": 0.9796
+        },
+        {
+          "text": "of CO2 from carbamino-haemoglobin takes place, i.e., CO₂ which is bound\nto haemoglobin from the tissues is delivered at the alveoli. RBCs contain\na very high concentration of the enzyme, carbonic anhydrase and minute\nquantities of the same is present in the plasma too. This enzyme facilitates\nthe following reaction in both directions.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.1354,
+            "x_max": 0.9259,
+            "y_max": 0.2202,
+            "width": 0.6235,
+            "height": 0.0848
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "Carbonic\nanhydrase",
+          "bbox": {
+            "x_min": 0.4793,
+            "y_min": 0.2382,
+            "x_max": 0.5575,
+            "y_max": 0.2584,
+            "width": 0.0782,
+            "height": 0.0201
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "Carbonic\nanhydrase",
+          "bbox": {
+            "x_min": 0.6655,
+            "y_min": 0.2382,
+            "x_max": 0.7437,
+            "y_max": 0.2584,
+            "width": 0.0782,
+            "height": 0.0201
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "CO2 + H2O",
+          "bbox": {
+            "x_min": 0.3643,
+            "y_min": 0.2566,
+            "x_max": 0.4536,
+            "y_max": 0.2691,
+            "width": 0.0893,
+            "height": 0.0124
+          },
+          "confidence": 0.8336
+        },
+        {
+          "text": "H2CO3",
+          "bbox": {
+            "x_min": 0.582,
+            "y_min": 0.2566,
+            "x_max": 0.6375,
+            "y_max": 0.2695,
+            "width": 0.0555,
+            "height": 0.0129
+          },
+          "confidence": 0.8561
+        },
+        {
+          "text": "HCO3 + H+",
+          "bbox": {
+            "x_min": 0.77,
+            "y_min": 0.2558,
+            "x_max": 0.8628,
+            "y_max": 0.2686,
+            "width": 0.0928,
+            "height": 0.0129
+          },
+          "confidence": 0.8116
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.4343,
+            "y_min": 0.3171,
+            "x_max": 0.4448,
+            "y_max": 0.3222,
+            "width": 0.0105,
+            "height": 0.0051
+          },
+          "confidence": 0.9731
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.7764,
+            "y_min": 0.2978,
+            "x_max": 0.7858,
+            "y_max": 0.3033,
+            "width": 0.0093,
+            "height": 0.0056
+          },
+          "confidence": 0.9728
+        },
+        {
+          "text": "At the tissue site where partial pressure of CO₂ is high due to\ncatabolism, CO₂ diffuses into blood (RBCs and plasma) and forms HCO\nand H⁺'. At the alveolar site where pCO₂ is low, the reaction proceeds in\nthe opposite direction leading to the formation of CO2 and H2O. Thus,\nCO₂ trapped as bicarbonate at the tissue level and transported to the\nalveoli is released out as CO₂ (Figure 14.4). Every 100 ml of deoxygenated\nml of de\nblood delivers approximately 4 ml of CO₂ to the alveoli.",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.2862,
+            "x_max": 0.9276,
+            "y_max": 0.4135,
+            "width": 0.627,
+            "height": 0.1272
+          },
+          "confidence": 0.9753
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.3281,
+            "y_min": 0.3698,
+            "x_max": 0.3374,
+            "y_max": 0.3749,
+            "width": 0.0093,
+            "height": 0.0051
+          },
+          "confidence": 0.9757
+        },
+        {
+          "text": "14.5 REGULATION OF RESPIRATION",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.4366,
+            "x_max": 0.6532,
+            "y_max": 0.4494,
+            "width": 0.3503,
+            "height": 0.0129
+          },
+          "confidence": 0.9668
+        },
+        {
+          "text": "Human beings have a significant ability to maintain and moderate the\nrespiratory rhythm to suit the demands of the body tissues. This is done\nby the neural system. A specialised centre present in the medulla region\nof the brain called respiratory rhythm centre is primarily responsible for\nthis regulation. Another centre present in the pons region of the brain\ncalled pneumotaxic centre can moderate the functions of the respiratory\nrhythm centre. Neural signal from this centre can reduce the duration of\ninspiration and thereby alter the respiratory rate. A chemosensitive area\nis situated adjacent to the rhythm centre which is highly sensitive to CO₂\nand hydrogen ions. Increase in these substances can activate this centre,\nwhich in turn can signal the rhythm centre to make necessary adjustments\nin the respiratory process by which these substances can be eliminated.\nReceptors associated with aortic arch and carotid artery also can recognise\nchanges in CO₂ and H⁺ concentration and send necessary signals to the\nrhythm centre for remedial actions. The role of oxygen in the regulation of\nrespiratory rhythm is quite insignificant.",
+          "bbox": {
+            "x_min": 0.2966,
+            "y_min": 0.4722,
+            "x_max": 0.9282,
+            "y_max": 0.7536,
+            "width": 0.6316,
+            "height": 0.2815
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "14.6 DISORDERS OF RESPIRATORY SYSTEM",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.7798,
+            "x_max": 0.7274,
+            "y_max": 0.7931,
+            "width": 0.4238,
+            "height": 0.0133
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.9183,
+            "y_min": 0.6243,
+            "x_max": 0.9276,
+            "y_max": 0.6294,
+            "width": 0.0093,
+            "height": 0.0051
+          },
+          "confidence": 0.9726
+        },
+        {
+          "text": "Asthma is a difficulty in breathing causing wheezing due to inflammation\nof bronchi and bronchioles.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.8162,
+            "x_max": 0.9264,
+            "y_max": 0.844,
+            "width": 0.6252,
+            "height": 0.0278
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "Emphysema is a chronic disorder in which alveolar walls are damaged\ndue to which respiratory surface is decreased. One of the major causes of\nthis is cigarette smoking.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.859,
+            "x_max": 0.9276,
+            "y_max": 0.9083,
+            "width": 0.6258,
+            "height": 0.0493
+          },
+          "confidence": 0.9968
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1926,
+            "y_min": 0.7125,
+            "x_max": 0.3222,
+            "y_max": 0.8115,
+            "width": 0.1296,
+            "height": 0.099
+          },
+          "confidence": 0.9741
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BREATHING AND EXCHANGE OF GASES",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.0827,
+            "x_max": 0.4028,
+            "y_max": 0.0925,
+            "width": 0.2878,
+            "height": 0.0099
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "Occupational Respiratory Disorders: In certain industries, especially\nthose involving grinding or stone-breaking, so much dust is produced\nthat the defense mechanism of the body cannot fully cope with the\nsituation. Long exposure can give rise to inflammation leading to fibrosis\n(proliferation of fibrous tissues) and thus causing serious lung damage.\nWorkers in such industries should wear protective masks.",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.1354,
+            "x_max": 0.6982,
+            "y_max": 0.2374,
+            "width": 0.627,
+            "height": 0.102
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "SUMMARY",
+          "bbox": {
+            "x_min": 0.453,
+            "y_min": 0.2896,
+            "x_max": 0.5493,
+            "y_max": 0.3012,
+            "width": 0.0963,
+            "height": 0.0116
+          },
+          "confidence": 0.9608
+        },
+        {
+          "text": "Cells utilise oxygen for metabolism and produce energy along with substances\nlike carbon dioxide which is harmful. Animals have evolved different mechanisms\nfor the transport of oxygen to the cells and for the removal of carbon dioxide from\nthere. We have a well developed respiratory system comprising two lungs and\nassociated air passages to perform this function.",
+          "bbox": {
+            "x_min": 0.1366,
+            "y_min": 0.3406,
+            "x_max": 0.8342,
+            "y_max": 0.4246,
+            "width": 0.6976,
+            "height": 0.084
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "The first step in respiration is breathing by which atmospheric mospheric air is taken in\n(inspiration) and the alveolar air is released out (expiration). Exchange of O₂ and\nCO₂ between deoxygenated blood and alveoli, transport of these gases throughout\nthe body by blood, exchange of O₂ and CO₂ between the oxygenated blood and\ntissues and utilisation of O₂ by the cells (cellular respiration) are the other steps\ninvolved.",
+          "bbox": {
+            "x_min": 0.1366,
+            "y_min": 0.4293,
+            "x_max": 0.8342,
+            "y_max": 0.5287,
+            "width": 0.6976,
+            "height": 0.0994
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "Inspiration and expiration are carried out by creating pressure gradients\nbetween the atmosphere and the alveoli with the help of specialised muscles\nintercostals and diaphragm. Volumes of air involved in these activities can be\nestimated with the help of spirometer and are of clinical significance.",
+          "bbox": {
+            "x_min": 0.1372,
+            "y_min": 0.5368,
+            "x_max": 0.8342,
+            "y_max": 0.6028,
+            "width": 0.697,
+            "height": 0.066
+          },
+          "confidence": 0.9972
+        },
+        {
+          "text": "Exchange of O₂ and CO₂ at the alveoli and tissues occur by diffusion. Rate of\ndiffusion is dependent on the partial pressure gradients of O₂ (pO₂) and CO2 (pCO2),\ntheir solubility as well as the thickness of the diffusion surface. These factors in\nour body facilitate diffusion of O₂ from the alveoli to the deoxygenated blood as\nwell as from the oxygenated blood to the tissues. The factors are favourable for the\ndiffusion of CO₂ in the opposite direction, i.e., from tissues to alveoli.",
+          "bbox": {
+            "x_min": 0.1366,
+            "y_min": 0.6084,
+            "x_max": 0.8354,
+            "y_max": 0.7117,
+            "width": 0.6988,
+            "height": 0.1033
+          },
+          "confidence": 0.9799
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.2195,
+            "y_min": 0.7601,
+            "x_max": 0.2288,
+            "y_max": 0.7652,
+            "width": 0.0093,
+            "height": 0.0051
+          },
+          "confidence": 0.9726
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.265,
+            "y_min": 0.7061,
+            "x_max": 0.275,
+            "y_max": 0.7112,
+            "width": 0.0099,
+            "height": 0.0051
+          },
+          "confidence": 0.9751
+        },
+        {
+          "text": "Oxygen is transported mainly as oxyhaemoglobin. In the alveoli where pO2 is\nhigher, O₂ gets bound to haemoglobin which is easily dissociated at the tissues\nwhere po, is low and pCO2 and H⁺ concentration are high. Nearly 70 per cent of\ncarbon dioxide is transported as bicarbonate (HCO3) with the help of the enzyme\ncarbonic anhydrase. 20-25 per cent of carbon dioxide is carried by haemoglobin\nas carbamino-haemoglobin. In the tissues where pCO, is high, it gets bound to\nblood whereas in the alveoli where pCO, is low and pO, is high, it gets removed\nfrom the blood.",
+          "bbox": {
+            "x_min": 0.136,
+            "y_min": 0.7147,
+            "x_max": 0.8354,
+            "y_max": 0.85,
+            "width": 0.6994,
+            "height": 0.1354
+          },
+          "confidence": 0.9814
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.4839,
+            "y_min": 0.8312,
+            "x_max": 0.495,
+            "y_max": 0.8363,
+            "width": 0.0111,
+            "height": 0.0051
+          },
+          "confidence": 0.974
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.6159,
+            "y_min": 0.8312,
+            "x_max": 0.6252,
+            "y_max": 0.8363,
+            "width": 0.0093,
+            "height": 0.0051
+          },
+          "confidence": 0.9725
+        },
+        {
+          "text": "Respiratory rhythm is maintained by the respiratory centre in the medulla\nregion of brain. A pneumotaxic centre in the pons region of the brain and a\nchemosensitive area in the medulla can alter respiratory mechanism.",
+          "bbox": {
+            "x_min": 0.1366,
+            "y_min": 0.8578,
+            "x_max": 0.8342,
+            "y_max": 0.9062,
+            "width": 0.6976,
+            "height": 0.0484
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "191",
+          "bbox": {
+            "x_min": 0.8476,
+            "y_min": 0.0835,
+            "x_max": 0.8838,
+            "y_max": 0.0934,
+            "width": 0.0362,
+            "height": 0.0099
+          },
+          "confidence": 0.9935
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "192",
+          "bbox": {
+            "x_min": 0.1208,
+            "y_min": 0.0835,
+            "x_max": 0.157,
+            "y_max": 0.093,
+            "width": 0.0362,
+            "height": 0.0094
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "EXERCISES",
+          "bbox": {
+            "x_min": 0.4769,
+            "y_min": 0.135,
+            "x_max": 0.5814,
+            "y_max": 0.1474,
+            "width": 0.1045,
+            "height": 0.0124
+          },
+          "confidence": 0.9803
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8576,
+            "y_min": 0.084,
+            "x_max": 0.9247,
+            "y_max": 0.0934,
+            "width": 0.0671,
+            "height": 0.0094
+          },
+          "confidence": 0.9785
+        },
+        {
+          "text": "1. Define vital capacity. What is its significance?",
+          "bbox": {
+            "x_min": 0.1781,
+            "y_min": 0.1847,
+            "x_max": 0.5925,
+            "y_max": 0.1979,
+            "width": 0.4145,
+            "height": 0.0133
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "2.",
+          "bbox": {
+            "x_min": 0.1751,
+            "y_min": 0.2039,
+            "x_max": 0.1891,
+            "y_max": 0.2159,
+            "width": 0.014,
+            "height": 0.012
+          },
+          "confidence": 0.9717
+        },
+        {
+          "text": "State the volume of air remaining in the lungs after a normal breathing.",
+          "bbox": {
+            "x_min": 0.2072,
+            "y_min": 0.2039,
+            "x_max": 0.8103,
+            "y_max": 0.2159,
+            "width": 0.603,
+            "height": 0.012
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "3. Diffusion of gases occurs in the alveolar region only and not in the other parts of\nrespiratory system. Why?",
+          "bbox": {
+            "x_min": 0.1751,
+            "y_min": 0.2228,
+            "x_max": 0.8657,
+            "y_max": 0.2515,
+            "width": 0.6906,
+            "height": 0.0287
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "4. What are the major transport mechanisms for CO₂? Explain.",
+          "bbox": {
+            "x_min": 0.1745,
+            "y_min": 0.2575,
+            "x_max": 0.7122,
+            "y_max": 0.2708,
+            "width": 0.5377,
+            "height": 0.0133
+          },
+          "confidence": 0.9789
+        },
+        {
+          "text": "5. What will be the pO2 and pCO₂ in the atmospheric air compared to those in the\nalveolar air?",
+          "bbox": {
+            "x_min": 0.1757,
+            "y_min": 0.2768,
+            "x_max": 0.8634,
+            "y_max": 0.3016,
+            "width": 0.6877,
+            "height": 0.0249
+          },
+          "confidence": 0.9672
+        },
+        {
+          "text": "(i)",
+          "bbox": {
+            "x_min": 0.2049,
+            "y_min": 0.3119,
+            "x_max": 0.2201,
+            "y_max": 0.3235,
+            "width": 0.0152,
+            "height": 0.0116
+          },
+          "confidence": 0.972
+        },
+        {
+          "text": "pO2 lesser, pCO₂ higher",
+          "bbox": {
+            "x_min": 0.2633,
+            "y_min": 0.3128,
+            "x_max": 0.4629,
+            "y_max": 0.3265,
+            "width": 0.1996,
+            "height": 0.0137
+          },
+          "confidence": 0.8688
+        },
+        {
+          "text": "(ii)",
+          "bbox": {
+            "x_min": 0.2049,
+            "y_min": 0.3325,
+            "x_max": 0.2259,
+            "y_max": 0.3445,
+            "width": 0.021,
+            "height": 0.012
+          },
+          "confidence": 0.9769
+        },
+        {
+          "text": "PO, higher, pCO2 lesser",
+          "bbox": {
+            "x_min": 0.2633,
+            "y_min": 0.3325,
+            "x_max": 0.4571,
+            "y_max": 0.3475,
+            "width": 0.1938,
+            "height": 0.015
+          },
+          "confidence": 0.8696
+        },
+        {
+          "text": "(iii)",
+          "bbox": {
+            "x_min": 0.2061,
+            "y_min": 0.3526,
+            "x_max": 0.2312,
+            "y_max": 0.365,
+            "width": 0.0251,
+            "height": 0.0124
+          },
+          "confidence": 0.9814
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.2866,
+            "y_min": 0.3625,
+            "x_max": 0.2948,
+            "y_max": 0.3668,
+            "width": 0.0082,
+            "height": 0.0043
+          },
+          "confidence": 0.9724
+        },
+        {
+          "text": "PO, higher, pCO, higher",
+          "bbox": {
+            "x_min": 0.2633,
+            "y_min": 0.3535,
+            "x_max": 0.4618,
+            "y_max": 0.3676,
+            "width": 0.1985,
+            "height": 0.0141
+          },
+          "confidence": 0.8787
+        },
+        {
+          "text": "(iv)",
+          "bbox": {
+            "x_min": 0.2037,
+            "y_min": 0.3728,
+            "x_max": 0.2294,
+            "y_max": 0.3847,
+            "width": 0.0257,
+            "height": 0.012
+          },
+          "confidence": 0.9584
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.3975,
+            "y_min": 0.3822,
+            "x_max": 0.4063,
+            "y_max": 0.3869,
+            "width": 0.0088,
+            "height": 0.0047
+          },
+          "confidence": 0.9726
+        },
+        {
+          "text": "pO2 lesser, pCO₂ lesser",
+          "bbox": {
+            "x_min": 0.2633,
+            "y_min": 0.3736,
+            "x_max": 0.4571,
+            "y_max": 0.3877,
+            "width": 0.1938,
+            "height": 0.0141
+          },
+          "confidence": 0.8662
+        },
+        {
+          "text": "6. Explain the process of inspiration under normal conditions.",
+          "bbox": {
+            "x_min": 0.1745,
+            "y_min": 0.3925,
+            "x_max": 0.7064,
+            "y_max": 0.4053,
+            "width": 0.5318,
+            "height": 0.0129
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "7. How is respiration regulated?",
+          "bbox": {
+            "x_min": 0.1751,
+            "y_min": 0.4122,
+            "x_max": 0.453,
+            "y_max": 0.4246,
+            "width": 0.2779,
+            "height": 0.0124
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "8. What is the effect of pCO2 on oxygen transport?",
+          "bbox": {
+            "x_min": 0.1751,
+            "y_min": 0.431,
+            "x_max": 0.6025,
+            "y_max": 0.4447,
+            "width": 0.4273,
+            "height": 0.0137
+          },
+          "confidence": 0.9678
+        },
+        {
+          "text": "9. What happens to the respiratory process in a man going up a hill?",
+          "bbox": {
+            "x_min": 0.1757,
+            "y_min": 0.4494,
+            "x_max": 0.7647,
+            "y_max": 0.4632,
+            "width": 0.589,
+            "height": 0.0137
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "10. What is the site of gaseous exchange in an insect?",
+          "bbox": {
+            "x_min": 0.1675,
+            "y_min": 0.4687,
+            "x_max": 0.6299,
+            "y_max": 0.4811,
+            "width": 0.4623,
+            "height": 0.0124
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "11. Define oxygen dissociation curve. Can you suggest any reason for its sigmoidal",
+          "bbox": {
+            "x_min": 0.167,
+            "y_min": 0.488,
+            "x_max": 0.864,
+            "y_max": 0.5009,
+            "width": 0.697,
+            "height": 0.0129
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "pattern?",
+          "bbox": {
+            "x_min": 0.2043,
+            "y_min": 0.5034,
+            "x_max": 0.279,
+            "y_max": 0.515,
+            "width": 0.0747,
+            "height": 0.0116
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "12. Have you heard about hypoxia? Try to gather information about it, and discuss",
+          "bbox": {
+            "x_min": 0.167,
+            "y_min": 0.5227,
+            "x_max": 0.8634,
+            "y_max": 0.5356,
+            "width": 0.6964,
+            "height": 0.0129
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "with your friends.",
+          "bbox": {
+            "x_min": 0.2055,
+            "y_min": 0.5381,
+            "x_max": 0.3526,
+            "y_max": 0.5501,
+            "width": 0.1471,
+            "height": 0.012
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "not to republished",
+          "bbox": {
+            "x_min": 0.1827,
+            "y_min": 0.3029,
+            "x_max": 0.8867,
+            "y_max": 0.8231,
+            "width": 0.704,
+            "height": 0.5201
+          },
+          "confidence": 0.9224
+        },
+        {
+          "text": "13. Distinguish between",
+          "bbox": {
+            "x_min": 0.167,
+            "y_min": 0.557,
+            "x_max": 0.3771,
+            "y_max": 0.5694,
+            "width": 0.2102,
+            "height": 0.0124
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "(a) IRV and ERV",
+          "bbox": {
+            "x_min": 0.2061,
+            "y_min": 0.5741,
+            "x_max": 0.3392,
+            "y_max": 0.5865,
+            "width": 0.1331,
+            "height": 0.0124
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "(b) Inspiratory capacity and Expiratory capacity.",
+          "bbox": {
+            "x_min": 0.2061,
+            "y_min": 0.5921,
+            "x_max": 0.6106,
+            "y_max": 0.6054,
+            "width": 0.4046,
+            "height": 0.0133
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "(c) Vital capacity and Total lung capacity.",
+          "bbox": {
+            "x_min": 0.2072,
+            "y_min": 0.6105,
+            "x_max": 0.5522,
+            "y_max": 0.623,
+            "width": 0.345,
+            "height": 0.0124
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "14. What is Tidal volume? Find out the Tidal volume (approximate value) for a healthy\nhuman in an hour.",
+          "bbox": {
+            "x_min": 0.1658,
+            "y_min": 0.629,
+            "x_max": 0.864,
+            "y_max": 0.6542,
+            "width": 0.6982,
+            "height": 0.0253
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

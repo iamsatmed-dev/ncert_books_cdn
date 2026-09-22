@@ -1,0 +1,3746 @@
+{
+  "chapter_id": "12th_biology_ch09_biotechnology_principles_and_processes_ch09_biotechnology_principles_and_processes_en",
+  "total_pages": 16,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "UNIT IX",
+          "bbox": {
+            "x_min": 0.0357,
+            "y_min": 0.2367,
+            "x_max": 0.2192,
+            "y_max": 0.2684,
+            "width": 0.1835,
+            "height": 0.0317
+          },
+          "confidence": 0.978
+        },
+        {
+          "text": "BIOTECHNOLOGY",
+          "bbox": {
+            "x_min": 0.0397,
+            "y_min": 0.2877,
+            "x_max": 0.623,
+            "y_max": 0.3262,
+            "width": 0.5833,
+            "height": 0.0385
+          },
+          "confidence": 0.9812
+        },
+        {
+          "text": "Chapter 9",
+          "bbox": {
+            "x_min": 0.0666,
+            "y_min": 0.3951,
+            "x_max": 0.1531,
+            "y_max": 0.4075,
+            "width": 0.0865,
+            "height": 0.0124
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "Biotechnology : Principles and\nProcesses",
+          "bbox": {
+            "x_min": 0.0684,
+            "y_min": 0.4131,
+            "x_max": 0.3209,
+            "y_max": 0.4409,
+            "width": 0.2525,
+            "height": 0.0278
+          },
+          "confidence": 0.9835
+        },
+        {
+          "text": "Chapter 10",
+          "bbox": {
+            "x_min": 0.0672,
+            "y_min": 0.464,
+            "x_max": 0.1619,
+            "y_max": 0.4769,
+            "width": 0.0947,
+            "height": 0.0128
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "Biotechnology and Its\nApplications",
+          "bbox": {
+            "x_min": 0.0655,
+            "y_min": 0.4829,
+            "x_max": 0.2507,
+            "y_max": 0.5116,
+            "width": 0.1853,
+            "height": 0.0287
+          },
+          "confidence": 0.9839
+        },
+        {
+          "text": "Ever since the days of Rene Descartes, the French philosopher,\nmathematician and biologist of seventeenth century, all human\nknowledge especially natural sciences were directed to develop\ntechnologies which add to the creature comforts of human\nlives, as also value to human life. The whole approach to\nunderstanding natural phenomena became anthropocentric.\nPhysics and chemistry gave rise to engineering, technologies\nand industries which all worked for human comfort and welfare.\nThe major utility of the biological world is as a source of food.\nBiotechnology, the twentieth century off-shoot of modern\nbiology, changed our daily life as its products brought\nqualitative improvement in health and food production. The\nbasic principles underlying biotechnological processes and some\napplications are highlighted and discussed in this unit.",
+          "bbox": {
+            "x_min": 0.3852,
+            "y_min": 0.3737,
+            "x_max": 0.9006,
+            "y_max": 0.6186,
+            "width": 0.5155,
+            "height": 0.2449
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9822
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "HERBERT BOYER\n(1936)",
+          "bbox": {
+            "x_min": 0.1467,
+            "y_min": 0.5124,
+            "x_max": 0.2537,
+            "y_max": 0.5402,
+            "width": 0.107,
+            "height": 0.0278
+          },
+          "confidence": 0.9798
+        },
+        {
+          "text": "Herbert Boyer was born in 1936 and brought up in a corner of western\nPennsylvania where railroads and mines were the destiny of most young\nmen. He completed graduate work at the University of Pittsburgh, in\n1963, followed by three years of post-graduate studies at Yale.",
+          "bbox": {
+            "x_min": 0.301,
+            "y_min": 0.2479,
+            "x_max": 0.9293,
+            "y_max": 0.3142,
+            "width": 0.6283,
+            "height": 0.0664
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "In 1966, Boyer took over assistant professorship at the University of\nCalifornia at San Francisco. By 1969, he performed studies on a couple\nof restriction enzymes of the E. coli bacterium with especially useful\nproperties. Boyer observed that these enzymes have the capability of\ncutting DNA strands in a particular fashion, which left what has became\nknown as `sticky ends' on the strands. These clipped ends made pasting\ntogether pieces of DNA a precise exercise.",
+          "bbox": {
+            "x_min": 0.2992,
+            "y_min": 0.3185,
+            "x_max": 0.9305,
+            "y_max": 0.4396,
+            "width": 0.6312,
+            "height": 0.1211
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "This discovery, in turn, led to a rich and rewarding conversation in\nHawaii with a Stanford scientist named Stanley Cohen. Cohen had\nbeen studying small ringlets of DNA called plasmids and which float\nabout freely in the cytoplasm of certain bacterial cells and replicate\nindependently from the coding strand of DNA. Cohen had developed\na method of removing these plasmids from the cell and then reinserting\nthem in other cells. Combining this process with that of DNA splicing\nenabled Boyer and Cohen to recombine segments of DNA in desired\nconfigurations and insert the DNA in bacterial cells, which could then\nact as manufacturing plants for specific proteins. This breakthrough was\nthe basis upon which the discipline of biotechnology was founded.",
+          "bbox": {
+            "x_min": 0.2998,
+            "y_min": 0.4448,
+            "x_max": 0.9293,
+            "y_max": 0.6374,
+            "width": 0.6295,
+            "height": 0.1926
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "Oon whic",
+          "bbox": {
+            "x_min": 0.3986,
+            "y_min": 0.6182,
+            "x_max": 0.4804,
+            "y_max": 0.6451,
+            "width": 0.0818,
+            "height": 0.027
+          },
+          "confidence": 0.7604
+        },
+        {
+          "text": "not to",
+          "bbox": {
+            "x_min": 0.1794,
+            "y_min": 0.6528,
+            "x_max": 0.4249,
+            "y_max": 0.8121,
+            "width": 0.2455,
+            "height": 0.1592
+          },
+          "confidence": 0.8436
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.45,
+            "y_min": 0.9833,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0994,
+            "height": 0.009
+          },
+          "confidence": 0.9818
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "amp",
+          "bbox": {
+            "x_min": 0.7323,
+            "y_min": 0.1455,
+            "x_max": 0.7592,
+            "y_max": 0.1567,
+            "width": 0.0269,
+            "height": 0.0111
+          },
+          "confidence": 0.9816
+        },
+        {
+          "text": "PBR322",
+          "bbox": {
+            "x_min": 0.7575,
+            "y_min": 0.1545,
+            "x_max": 0.8083,
+            "y_max": 0.1717,
+            "width": 0.0508,
+            "height": 0.0171
+          },
+          "confidence": 0.9012
+        },
+        {
+          "text": "tetr",
+          "bbox": {
+            "x_min": 0.7972,
+            "y_min": 0.1314,
+            "x_max": 0.8229,
+            "y_max": 0.1443,
+            "width": 0.0257,
+            "height": 0.0128
+          },
+          "confidence": 0.8562
+        },
+        {
+          "text": "CHAPTER 9",
+          "bbox": {
+            "x_min": 0.0684,
+            "y_min": 0.2128,
+            "x_max": 0.3074,
+            "y_max": 0.238,
+            "width": 0.239,
+            "height": 0.0253
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "ori",
+          "bbox": {
+            "x_min": 0.7545,
+            "y_min": 0.1901,
+            "x_max": 0.7715,
+            "y_max": 0.1986,
+            "width": 0.0169,
+            "height": 0.0086
+          },
+          "confidence": 0.9837
+        },
+        {
+          "text": "rop",
+          "bbox": {
+            "x_min": 0.7925,
+            "y_min": 0.1896,
+            "x_max": 0.8147,
+            "y_max": 0.1995,
+            "width": 0.0222,
+            "height": 0.0098
+          },
+          "confidence": 0.9828
+        },
+        {
+          "text": "12083CH11",
+          "bbox": {
+            "x_min": 0.5652,
+            "y_min": 0.229,
+            "x_max": 0.6102,
+            "y_max": 0.2333,
+            "width": 0.045,
+            "height": 0.0043
+          },
+          "confidence": 0.985
+        },
+        {
+          "text": "BIOTECHNOLOGY : PRINCIPLES\nAND PROCESSES",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.2842,
+            "x_max": 0.8977,
+            "y_max": 0.3604,
+            "width": 0.8282,
+            "height": 0.0762
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "blished",
+          "bbox": {
+            "x_min": 0.5874,
+            "y_min": 0.3134,
+            "x_max": 0.8913,
+            "y_max": 0.5009,
+            "width": 0.3039,
+            "height": 0.1875
+          },
+          "confidence": 0.9178
+        },
+        {
+          "text": "9.1 Principles of Biotechnology",
+          "bbox": {
+            "x_min": 0.0812,
+            "y_min": 0.4495,
+            "x_max": 0.3448,
+            "y_max": 0.4619,
+            "width": 0.2636,
+            "height": 0.0124
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "9.2 Tools of Recombinant DNA\nTechnology",
+          "bbox": {
+            "x_min": 0.0807,
+            "y_min": 0.4816,
+            "x_max": 0.3431,
+            "y_max": 0.5141,
+            "width": 0.2624,
+            "height": 0.0325
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "9.3 Processes of Recombinant\nDNA Technology",
+          "bbox": {
+            "x_min": 0.0812,
+            "y_min": 0.5325,
+            "x_max": 0.3384,
+            "y_max": 0.5655,
+            "width": 0.2572,
+            "height": 0.033
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "Biotechnology deals with techniques of using live\norganisms or enzymes from organisms to produce products\nand processes useful to humans. In this sense, making\ncurd, bread or wine, which are all microbe-mediated\nprocesses, could also be thought as a form of\nbiotechnology. However, it is used in a restricted sense\ntoday, to refer to such of those processes which use\ngenetically modified organisms to achieve the same on a\nlarger scale. Further, many other processes/techniques are\nalso included under biotechnology. For example, in vitro\nfertilisation leading to a ‘test-tube' baby, synthesising a\ngene and using it, developing a DNA vaccine or correcting\na defective gene, are all part of biotechnology.",
+          "bbox": {
+            "x_min": 0.405,
+            "y_min": 0.479,
+            "x_max": 0.9001,
+            "y_max": 0.6871,
+            "width": 0.495,
+            "height": 0.208
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "not to",
+          "bbox": {
+            "x_min": 0.1888,
+            "y_min": 0.6507,
+            "x_max": 0.4033,
+            "y_max": 0.8164,
+            "width": 0.2145,
+            "height": 0.1657
+          },
+          "confidence": 0.9595
+        },
+        {
+          "text": "The European Federation of Biotechnology (EFB) has\ngiven a definition of biotechnology that encompasses both\ntraditional view and modern molecular biotechnology.\nThe definition given by EFB is as follows:",
+          "bbox": {
+            "x_min": 0.4044,
+            "y_min": 0.6905,
+            "x_max": 0.8977,
+            "y_max": 0.7513,
+            "width": 0.4933,
+            "height": 0.0608
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "“The integration of natural science and organisms,\ncells, parts thereof, and molecular analogues for products\nand services'.",
+          "bbox": {
+            "x_min": 0.4056,
+            "y_min": 0.7547,
+            "x_max": 0.8977,
+            "y_max": 0.7971,
+            "width": 0.4921,
+            "height": 0.0424
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "9.1 PRINCIPLES OF BIOTECHNOLOGY",
+          "bbox": {
+            "x_min": 0.4062,
+            "y_min": 0.8185,
+            "x_max": 0.7756,
+            "y_max": 0.833,
+            "width": 0.3694,
+            "height": 0.0146
+          },
+          "confidence": 0.9743
+        },
+        {
+          "text": "Among many, the two core techniques that enabled birth\nof modern biotechnology are :",
+          "bbox": {
+            "x_min": 0.4039,
+            "y_min": 0.8472,
+            "x_max": 0.8977,
+            "y_max": 0.8767,
+            "width": 0.4939,
+            "height": 0.0295
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "(i) Genetic engineering : Techniques to alter the\nchemistry of genetic material (DNA and RNA),",
+          "bbox": {
+            "x_min": 0.4465,
+            "y_min": 0.8806,
+            "x_max": 0.8977,
+            "y_max": 0.9122,
+            "width": 0.4512,
+            "height": 0.0317
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9822
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "164",
+          "bbox": {
+            "x_min": 0.0953,
+            "y_min": 0.7954,
+            "x_max": 0.142,
+            "y_max": 0.8086,
+            "width": 0.0468,
+            "height": 0.0133
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8609,
+            "y_min": 0.0805,
+            "x_max": 0.9258,
+            "y_max": 0.0882,
+            "width": 0.0649,
+            "height": 0.0077
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "to introduce these into host organisms and thus change the\nphenotype of the host organism.",
+          "bbox": {
+            "x_min": 0.3834,
+            "y_min": 0.1109,
+            "x_max": 0.9293,
+            "y_max": 0.1421,
+            "width": 0.5459,
+            "height": 0.0312
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "(ii) Bioprocess engineering: Maintenance of sterile (microbial\ncontamination-free) ambience in chemical engineering processes\nto enable growth of only the desired microbe/eukaryotic cell in\nlarge quantities for the manufacture of biotechnological products\nlike antibiotics, vaccines, enzymes, etc.",
+          "bbox": {
+            "x_min": 0.3431,
+            "y_min": 0.1464,
+            "x_max": 0.9293,
+            "y_max": 0.2329,
+            "width": 0.5862,
+            "height": 0.0865
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "Let us now understand the conceptual development of the principles\nof genetic engineering.",
+          "bbox": {
+            "x_min": 0.301,
+            "y_min": 0.238,
+            "x_max": 0.9293,
+            "y_max": 0.2693,
+            "width": 0.6283,
+            "height": 0.0312
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "You probably appreciate the advantages of sexual reproduction over\nasexual reproduction. The former provides opportunities for variations\nand formulation of unique combinations of genetic setup, some of which\nmay be beneficial to the organism as well as the population. Asexual\nreproduction preserves the genetic information, while sexual reproduction\npermits variation. Traditional hybridisation procedures used in plant and\nanimal breeding, very often lead to inclusion and multiplication of\nundesirable genes along with the desired genes. The techniques of genetic\nengineering which include creation of recombinant DNA, use of\ngene cloning and gene transfer, overcome this limitation and allows us\nto isolate and introduce only one or a set of desirable genes without\nintroducing undesirable genes into the target organism.",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.2744,
+            "x_max": 0.9316,
+            "y_max": 0.4876,
+            "width": 0.6312,
+            "height": 0.2132
+          },
+          "confidence": 0.9973
+        },
+        {
+          "text": "Do you know the likely fate of a piece of DNA, which is somehow\ntransferred into an alien organism? Most likely, this piece of DNA would\nnot be able to multiply itself in the progeny cells of the organism. But,\nwhen it gets integrated into the genome of the recipient, it may multiply\nand be inherited along with the host DNA. This is because the alien piece\nof DNA has become part of a chromosome, which has the ability to\nreplicate. In a chromosome there is a specific DNA sequence called the\norigin of replication, which is responsible for initiating replication.\nTherefore, for the multiplication of any alien piece of DNA in an organism\nit needs to be a part of a chromosome(s) which has a specific sequence\nknown as 'origin of replication'. Thus, an alien DNA is linked with the\norigin of replication, so that, this alien piece of DNA can replicate and\nmultiply itself in the host organism. This can also be called as cloning or\nmaking multiple identical copies of any template DNA.",
+          "bbox": {
+            "x_min": 0.2998,
+            "y_min": 0.4923,
+            "x_max": 0.9305,
+            "y_max": 0.7432,
+            "width": 0.6306,
+            "height": 0.2509
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "Let us now focus on the first instance of the construction of an artificial\nrecombinant DNA molecule. The construction of the first recombinant\nDNA emerged from the possibility of linking a gene encoding antibiotic\nresistance with a native plasmid (autonomously replicating circular\nextra-chromosomal DNA) of Salmonella typhimurium. Stanley Cohen and\nHerbert Boyer accomplished this in 1972 by isolating the antibiotic\nresistance gene by cutting out a piece of DNA from a plasmid which was\nresponsible for conferring antibiotic resistance. The cutting of DNA at\nspecific locations became possible with the discovery of the so-called",
+          "bbox": {
+            "x_min": 0.301,
+            "y_min": 0.747,
+            "x_max": 0.9299,
+            "y_max": 0.9071,
+            "width": 0.6289,
+            "height": 0.1601
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1888,
+            "y_min": 0.7068,
+            "x_max": 0.3279,
+            "y_max": 0.8181,
+            "width": 0.1391,
+            "height": 0.1113
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5488,
+            "y_max": 0.9919,
+            "width": 0.0994,
+            "height": 0.0086
+          },
+          "confidence": 0.9845
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOTECHNOLOGY: PRINCIPLES AND PROCESSES",
+          "bbox": {
+            "x_min": 0.0754,
+            "y_min": 0.0792,
+            "x_max": 0.4044,
+            "y_max": 0.0878,
+            "width": 0.329,
+            "height": 0.0086
+          },
+          "confidence": 0.9778
+        },
+        {
+          "text": "'molecular scissors'- restriction enzymes. The cut piece of DNA was\nthen linked with the plasmid DNA. These plasmid DNA act as vectors to\ntransfer the piece of DNA attached to it. You probably know that mosquito\nacts as an insect vector to transfer the malarial parasite into human body.\nIn the same way, a plasmid can be used as vector to deliver an alien piece\nof DNA into the host organism. The linking of antibiotic resistance gene\nwith the plasmid vector became possible with the enzyme DNA ligase,\nwhich acts on cut DNA molecules and joins their ends. This makes a new\ncombination of circular autonomously replicating DNA created in vitro\nand is known as recombinant DNA. When this DNA is transferred into\nEscherichia coli, a bacterium closely related to Salmonella, it could\nreplicate using the new host's DNA polymerase enzyme and make multiple\ncopies. The ability to multiply copies of antibiotic resistance gene in\nE. coli was called cloning of antibiotic resistance gene in E. coli.",
+          "bbox": {
+            "x_min": 0.0678,
+            "y_min": 0.1109,
+            "x_max": 0.6996,
+            "y_max": 0.3549,
+            "width": 0.6318,
+            "height": 0.244
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "You can hence infer that there are three basic steps in genetically\nmodifying an organism",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.3596,
+            "x_max": 0.699,
+            "y_max": 0.3908,
+            "width": 0.6289,
+            "height": 0.0312
+          },
+          "confidence": 0.9971
+        },
+        {
+          "text": "(i) identification of DNA with desirable genes;",
+          "bbox": {
+            "x_min": 0.0918,
+            "y_min": 0.3947,
+            "x_max": 0.4904,
+            "y_max": 0.408,
+            "width": 0.3986,
+            "height": 0.0133
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "(ii) introduction of the identified DNA into the host;",
+          "bbox": {
+            "x_min": 0.0853,
+            "y_min": 0.4157,
+            "x_max": 0.5377,
+            "y_max": 0.4281,
+            "width": 0.4524,
+            "height": 0.0124
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "ublished",
+          "bbox": {
+            "x_min": 0.5634,
+            "y_min": 0.3099,
+            "x_max": 0.8778,
+            "y_max": 0.5261,
+            "width": 0.3144,
+            "height": 0.2162
+          },
+          "confidence": 0.8499
+        },
+        {
+          "text": "(iii) maintenance of introduced DNA in the host and transfer of the DNA\nto its progeny.",
+          "bbox": {
+            "x_min": 0.0812,
+            "y_min": 0.4349,
+            "x_max": 0.699,
+            "y_max": 0.467,
+            "width": 0.6178,
+            "height": 0.0321
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "9.2 TOOLS OF RECOMBINANT DNA TECHNOLOGY",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.4824,
+            "x_max": 0.5926,
+            "y_max": 0.5004,
+            "width": 0.5231,
+            "height": 0.018
+          },
+          "confidence": 0.9694
+        },
+        {
+          "text": "Now we know from the foregoing discussion that genetic engineering or\nrecombinant DNA technology can be accomplished only if we have the\nkey tools, i.e., restriction enzymes, polymerase enzymes, ligases, vectors\nand the host organism. Let us try to understand some of these in detail.",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.5128,
+            "x_max": 0.6996,
+            "y_max": 0.5792,
+            "width": 0.6306,
+            "height": 0.0664
+          },
+          "confidence": 0.9969
+        },
+        {
+          "text": "9.2.1 Restriction Enzymes",
+          "bbox": {
+            "x_min": 0.0707,
+            "y_min": 0.598,
+            "x_max": 0.3577,
+            "y_max": 0.613,
+            "width": 0.287,
+            "height": 0.015
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "In the year 1963, the two enzymes responsible for restricting the growth\nof bacteriophage in Escherichia coli were isolated. One of these added\nmethyl groups to DNA, while the other cut DNA. The later was called\nrestriction endonuclease.",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.625,
+            "x_max": 0.699,
+            "y_max": 0.6888,
+            "width": 0.6295,
+            "height": 0.0638
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "The first restriction endonuclease-Hind II, whose functioning\ndepended on a specific DNA nucleotide sequence was isolated and\ncharacterised five years later. It was found that Hind II always cut DNA\nmolecules at a particular point by recognising a specific sequence of\nsix base pairs. This specific base sequence is known as the\nrecognition sequence for Hind II. Besides Hind II, today we know more\nthan 900 restriction enzymes that have been isolated from over 230 strains\nof bacteria each of which recognise different recognition sequences.",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.6956,
+            "x_max": 0.7002,
+            "y_max": 0.8339,
+            "width": 0.6306,
+            "height": 0.1383
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "The convention for naming these enzymes is the first letter of the name\ncomes from the genus and the second two letters come from the species of\nthe prokaryotic cell from which they were isolated, e.g., EcoRI comes from\nEscherichia coli RY 13. In EcoRI, the letter 'R' is derived from the name of",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.839,
+            "x_max": 0.7008,
+            "y_max": 0.905,
+            "width": 0.6312,
+            "height": 0.0659
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "165",
+          "bbox": {
+            "x_min": 0.8568,
+            "y_min": 0.7928,
+            "x_max": 0.8954,
+            "y_max": 0.8065,
+            "width": 0.0386,
+            "height": 0.0137
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5488,
+            "y_max": 0.9919,
+            "width": 0.0994,
+            "height": 0.0086
+          },
+          "confidence": 0.9845
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8615,
+            "y_min": 0.0809,
+            "x_max": 0.9246,
+            "y_max": 0.0882,
+            "width": 0.0631,
+            "height": 0.0073
+          },
+          "confidence": 0.986
+        },
+        {
+          "text": "strain. Roman numbers following the names indicate the order in which\nthe enzymes were isolated from that strain of bacteria.",
+          "bbox": {
+            "x_min": 0.2998,
+            "y_min": 0.1109,
+            "x_max": 0.9299,
+            "y_max": 0.1408,
+            "width": 0.63,
+            "height": 0.03
+          },
+          "confidence": 0.9969
+        },
+        {
+          "text": "Restriction enzymes belong to a larger class of enzymes called\nnucleases. These are of two kinds; exonucleases and endonucleases.\nExonucleases remove nucleotides from the ends of the DNA whereas,\nendonucleases make cuts at specific positions within the DNA.",
+          "bbox": {
+            "x_min": 0.301,
+            "y_min": 0.1455,
+            "x_max": 0.9293,
+            "y_max": 0.2119,
+            "width": 0.6283,
+            "height": 0.0664
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "Each restriction endonuclease functions by 'inspecting' the length of\na DNA sequence. Once it finds its specific recognition sequence, it\nwill bind to the DNA and cut each of the two strands of the double\nhelix at specific points in their sugar-phosphate backbones\n(Figure 9.1). Each restriction endonuclease recognises a specific\npalindromic nucleotide sequences in the DNA.",
+          "bbox": {
+            "x_min": 0.2992,
+            "y_min": 0.2158,
+            "x_max": 0.931,
+            "y_max": 0.3181,
+            "width": 0.6318,
+            "height": 0.1023
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "The enzyme cuts both DNA\nstrands at the same site",
+          "bbox": {
+            "x_min": 0.2537,
+            "y_min": 0.3724,
+            "x_max": 0.4535,
+            "y_max": 0.3938,
+            "width": 0.1999,
+            "height": 0.0214
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "Vector DΝΑ",
+          "bbox": {
+            "x_min": 0.287,
+            "y_min": 0.4234,
+            "x_max": 0.3723,
+            "y_max": 0.4307,
+            "width": 0.0853,
+            "height": 0.0073
+          },
+          "confidence": 0.907
+        },
+        {
+          "text": "↓",
+          "bbox": {
+            "x_min": 0.4243,
+            "y_min": 0.4358,
+            "x_max": 0.4325,
+            "y_max": 0.4469,
+            "width": 0.0082,
+            "height": 0.0111
+          },
+          "confidence": 0.9401
+        },
+        {
+          "text": "Action of Restriction enzyme",
+          "bbox": {
+            "x_min": 0.4576,
+            "y_min": 0.3386,
+            "x_max": 0.6692,
+            "y_max": 0.3485,
+            "width": 0.2116,
+            "height": 0.0098
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "ed",
+          "bbox": {
+            "x_min": 0.758,
+            "y_min": 0.3095,
+            "x_max": 0.8703,
+            "y_max": 0.3973,
+            "width": 0.1122,
+            "height": 0.0878
+          },
+          "confidence": 0.9019
+        },
+        {
+          "text": "EcoRI cuts the DNA between bases\nG and A only when the sequence\nGAATTC is present in the DNA",
+          "bbox": {
+            "x_min": 0.5506,
+            "y_min": 0.3729,
+            "x_max": 0.8065,
+            "y_max": 0.4092,
+            "width": 0.256,
+            "height": 0.0364
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "Foreign DNA\n↓",
+          "bbox": {
+            "x_min": 0.5634,
+            "y_min": 0.4229,
+            "x_max": 0.6558,
+            "y_max": 0.4465,
+            "width": 0.0923,
+            "height": 0.0235
+          },
+          "confidence": 0.9636
+        },
+        {
+          "text": "AAT",
+          "bbox": {
+            "x_min": 0.4307,
+            "y_min": 0.4533,
+            "x_max": 0.4816,
+            "y_max": 0.4628,
+            "width": 0.0508,
+            "height": 0.0094
+          },
+          "confidence": 0.9199
+        },
+        {
+          "text": "TTA",
+          "bbox": {
+            "x_min": 0.4307,
+            "y_min": 0.4722,
+            "x_max": 0.4822,
+            "y_max": 0.4812,
+            "width": 0.0514,
+            "height": 0.009
+          },
+          "confidence": 0.7861
+        },
+        {
+          "text": "A",
+          "bbox": {
+            "x_min": 0.6259,
+            "y_min": 0.473,
+            "x_max": 0.6382,
+            "y_max": 0.4803,
+            "width": 0.0123,
+            "height": 0.0073
+          },
+          "confidence": 0.9494
+        },
+        {
+          "text": "G",
+          "bbox": {
+            "x_min": 0.6651,
+            "y_min": 0.4735,
+            "x_max": 0.6768,
+            "y_max": 0.4795,
+            "width": 0.0117,
+            "height": 0.006
+          },
+          "confidence": 0.9693
+        },
+        {
+          "text": "↑",
+          "bbox": {
+            "x_min": 0.5026,
+            "y_min": 0.4889,
+            "x_max": 0.5108,
+            "y_max": 0.4996,
+            "width": 0.0082,
+            "height": 0.0107
+          },
+          "confidence": 0.7349
+        },
+        {
+          "text": "EcoR1",
+          "bbox": {
+            "x_min": 0.5061,
+            "y_min": 0.5141,
+            "x_max": 0.5529,
+            "y_max": 0.5214,
+            "width": 0.0468,
+            "height": 0.0073
+          },
+          "confidence": 0.9335
+        },
+        {
+          "text": "Sticky end",
+          "bbox": {
+            "x_min": 0.5804,
+            "y_min": 0.5407,
+            "x_max": 0.6581,
+            "y_max": 0.5505,
+            "width": 0.0777,
+            "height": 0.0098
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "AATT",
+          "bbox": {
+            "x_min": 0.5763,
+            "y_min": 0.5736,
+            "x_max": 0.6441,
+            "y_max": 0.5813,
+            "width": 0.0678,
+            "height": 0.0077
+          },
+          "confidence": 0.9089
+        },
+        {
+          "text": "G",
+          "bbox": {
+            "x_min": 0.6657,
+            "y_min": 0.5835,
+            "x_max": 0.6768,
+            "y_max": 0.5895,
+            "width": 0.0111,
+            "height": 0.006
+          },
+          "confidence": 0.9615
+        },
+        {
+          "text": "XX",
+          "bbox": {
+            "x_min": 0.7031,
+            "y_min": 0.5582,
+            "x_max": 0.8252,
+            "y_max": 0.589,
+            "width": 0.1222,
+            "height": 0.0308
+          },
+          "confidence": 0.4962
+        },
+        {
+          "text": "TTAA",
+          "bbox": {
+            "x_min": 0.4272,
+            "y_min": 0.5706,
+            "x_max": 0.5061,
+            "y_max": 0.589,
+            "width": 0.0789,
+            "height": 0.0184
+          },
+          "confidence": 0.8921
+        },
+        {
+          "text": "Sticky end",
+          "bbox": {
+            "x_min": 0.4185,
+            "y_min": 0.5976,
+            "x_max": 0.4962,
+            "y_max": 0.6066,
+            "width": 0.0777,
+            "height": 0.009
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "DNA fragments join at sticky ends",
+          "bbox": {
+            "x_min": 0.415,
+            "y_min": 0.6156,
+            "x_max": 0.6634,
+            "y_max": 0.6267,
+            "width": 0.2484,
+            "height": 0.0111
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "WWW",
+          "bbox": {
+            "x_min": 0.2782,
+            "y_min": 0.6699,
+            "x_max": 0.7726,
+            "y_max": 0.7076,
+            "width": 0.4944,
+            "height": 0.0377
+          },
+          "confidence": 0.5789
+        },
+        {
+          "text": "Recombinant DNA",
+          "bbox": {
+            "x_min": 0.4664,
+            "y_min": 0.7149,
+            "x_max": 0.6032,
+            "y_max": 0.723,
+            "width": 0.1368,
+            "height": 0.0081
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "Figure 9.1 Steps in formation of recombinant DNA by action of restriction endonuclease",
+          "bbox": {
+            "x_min": 0.1087,
+            "y_min": 0.7474,
+            "x_max": 0.9252,
+            "y_max": 0.7598,
+            "width": 0.8165,
+            "height": 0.0124
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "166",
+          "bbox": {
+            "x_min": 0.0935,
+            "y_min": 0.7958,
+            "x_max": 0.1414,
+            "y_max": 0.8082,
+            "width": 0.0479,
+            "height": 0.0124
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "enzyme - EcoRI",
+          "bbox": {
+            "x_min": 0.225,
+            "y_min": 0.7633,
+            "x_max": 0.3495,
+            "y_max": 0.7744,
+            "width": 0.1245,
+            "height": 0.0111
+          },
+          "confidence": 0.9615
+        },
+        {
+          "text": "Do you know what palindromes are? These are groups of letters\nthat form the same words when read both forward and backward,\ne.g., “MALAYALAM”. As against a word-palindrome where the same\nword is read in both directions, the palindrome in DNA is a sequence\nof base pairs that reads same on the two strands when orientation of",
+          "bbox": {
+            "x_min": 0.2998,
+            "y_min": 0.8266,
+            "x_max": 0.931,
+            "y_max": 0.9114,
+            "width": 0.6312,
+            "height": 0.0848
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5488,
+            "y_max": 0.9919,
+            "width": 0.0994,
+            "height": 0.0086
+          },
+          "confidence": 0.9845
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOTECHNOLOGY: PRINCIPLES AND PROCESSES",
+          "bbox": {
+            "x_min": 0.0754,
+            "y_min": 0.0792,
+            "x_max": 0.405,
+            "y_max": 0.0878,
+            "width": 0.3296,
+            "height": 0.0086
+          },
+          "confidence": 0.9778
+        },
+        {
+          "text": "reading is kept the same. For example, the following sequences reads\nthe same on the two strands in 5'→ 3' direction. This is also true if\nread in the 3' → 5' direction.",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.1109,
+            "x_max": 0.7008,
+            "y_max": 0.1562,
+            "width": 0.6318,
+            "height": 0.0454
+          },
+          "confidence": 0.9711
+        },
+        {
+          "text": "5'",
+          "bbox": {
+            "x_min": 0.294,
+            "y_min": 0.1618,
+            "x_max": 0.3103,
+            "y_max": 0.1738,
+            "width": 0.0164,
+            "height": 0.012
+          },
+          "confidence": 0.8169
+        },
+        {
+          "text": "GAATTC",
+          "bbox": {
+            "x_min": 0.3589,
+            "y_min": 0.1648,
+            "x_max": 0.4342,
+            "y_max": 0.1738,
+            "width": 0.0754,
+            "height": 0.009
+          },
+          "confidence": 0.9749
+        },
+        {
+          "text": "3'",
+          "bbox": {
+            "x_min": 0.4886,
+            "y_min": 0.1627,
+            "x_max": 0.5056,
+            "y_max": 0.1738,
+            "width": 0.0169,
+            "height": 0.0111
+          },
+          "confidence": 0.7253
+        },
+        {
+          "text": "3'",
+          "bbox": {
+            "x_min": 0.2951,
+            "y_min": 0.1802,
+            "x_max": 0.3121,
+            "y_max": 0.1914,
+            "width": 0.0169,
+            "height": 0.0111
+          },
+          "confidence": 0.7414
+        },
+        {
+          "text": "CTTAAG",
+          "bbox": {
+            "x_min": 0.3629,
+            "y_min": 0.1828,
+            "x_max": 0.4372,
+            "y_max": 0.1922,
+            "width": 0.0742,
+            "height": 0.0094
+          },
+          "confidence": 0.9772
+        },
+        {
+          "text": "5'",
+          "bbox": {
+            "x_min": 0.4868,
+            "y_min": 0.1802,
+            "x_max": 0.5032,
+            "y_max": 0.1922,
+            "width": 0.0164,
+            "height": 0.012
+          },
+          "confidence": 0.7748
+        },
+        {
+          "text": "Restriction enzymes cut the strand of DNA a little away from the centre\nof the palindrome sites, but between the same two bases on the opposite\nstrands. This leaves single stranded portions at the ends. There are\noverhanging stretches called sticky ends on each strand (Figure 9.1). These\nare named so because they form hydrogen bonds with their\ncomplementary cut counterparts. This stickiness of the ends facilitates\nthe action of the enzyme DNA ligase.",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.2003,
+            "x_max": 0.699,
+            "y_max": 0.3206,
+            "width": 0.6295,
+            "height": 0.1203
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "Restriction endonucleases are used in genetic engineering to form\n'recombinant' molecules of DNA, which are composed of DNA from\ndifferent sources/genomes.",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.3258,
+            "x_max": 0.6984,
+            "y_max": 0.3741,
+            "width": 0.6283,
+            "height": 0.0484
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "When cut by the same restriction enzyme, the resultant DNA fragments\nhave the same kind of ‘sticky-ends' and, these can be joined together\n(end-to-end) using DNA ligases (Figure 9.2).",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.3793,
+            "x_max": 0.699,
+            "y_max": 0.4277,
+            "width": 0.6295,
+            "height": 0.0484
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "Foreign DNA",
+          "bbox": {
+            "x_min": 0.1531,
+            "y_min": 0.4538,
+            "x_max": 0.256,
+            "y_max": 0.4649,
+            "width": 0.1029,
+            "height": 0.0111
+          },
+          "confidence": 0.9481
+        },
+        {
+          "text": "blished",
+          "bbox": {
+            "x_min": 0.5921,
+            "y_min": 0.3039,
+            "x_max": 0.8819,
+            "y_max": 0.4987,
+            "width": 0.2899,
+            "height": 0.1948
+          },
+          "confidence": 0.8904
+        },
+        {
+          "text": "Vector\nDNA",
+          "bbox": {
+            "x_min": 0.5611,
+            "y_min": 0.4503,
+            "x_max": 0.616,
+            "y_max": 0.473,
+            "width": 0.0549,
+            "height": 0.0227
+          },
+          "confidence": 0.986
+        },
+        {
+          "text": "eign (plasmid)",
+          "bbox": {
+            "x_min": 0.4915,
+            "y_min": 0.4752,
+            "x_max": 0.6289,
+            "y_max": 0.4974,
+            "width": 0.1373,
+            "height": 0.0223
+          },
+          "confidence": 0.9538
+        },
+        {
+          "text": "Same restriction enzyme cutting both foreign\nDNA and vector DNA at specific point",
+          "bbox": {
+            "x_min": 0.1601,
+            "y_min": 0.4846,
+            "x_max": 0.526,
+            "y_max": 0.5111,
+            "width": 0.3659,
+            "height": 0.0265
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "XX8888",
+          "bbox": {
+            "x_min": 0.1227,
+            "y_min": 0.5719,
+            "x_max": 0.2911,
+            "y_max": 0.5813,
+            "width": 0.1683,
+            "height": 0.0094
+          },
+          "confidence": 0.4817
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1882,
+            "y_min": 0.7068,
+            "x_max": 0.3337,
+            "y_max": 0.8236,
+            "width": 0.1455,
+            "height": 0.1169
+          },
+          "confidence": 0.9662
+        },
+        {
+          "text": "Ligases join foreign\nDNA to plasmid",
+          "bbox": {
+            "x_min": 0.3168,
+            "y_min": 0.6066,
+            "x_max": 0.4722,
+            "y_max": 0.6318,
+            "width": 0.1555,
+            "height": 0.0253
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "Recombinant DNA",
+          "bbox": {
+            "x_min": 0.4769,
+            "y_min": 0.6879,
+            "x_max": 0.633,
+            "y_max": 0.6969,
+            "width": 0.156,
+            "height": 0.009
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "Molecule",
+          "bbox": {
+            "x_min": 0.5167,
+            "y_min": 0.7063,
+            "x_max": 0.5921,
+            "y_max": 0.7149,
+            "width": 0.0754,
+            "height": 0.0086
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "Transformation",
+          "bbox": {
+            "x_min": 0.4079,
+            "y_min": 0.7616,
+            "x_max": 0.5354,
+            "y_max": 0.7697,
+            "width": 0.1274,
+            "height": 0.0081
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "E.coli",
+          "bbox": {
+            "x_min": 0.2425,
+            "y_min": 0.7971,
+            "x_max": 0.2899,
+            "y_max": 0.8061,
+            "width": 0.0473,
+            "height": 0.009
+          },
+          "confidence": 0.9825
+        },
+        {
+          "text": "(Cloning Host)",
+          "bbox": {
+            "x_min": 0.1765,
+            "y_min": 0.8159,
+            "x_max": 0.294,
+            "y_max": 0.8275,
+            "width": 0.1175,
+            "height": 0.0116
+          },
+          "confidence": 0.9784
+        },
+        {
+          "text": "Cells divide",
+          "bbox": {
+            "x_min": 0.3495,
+            "y_min": 0.8193,
+            "x_max": 0.4424,
+            "y_max": 0.8275,
+            "width": 0.0929,
+            "height": 0.0081
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "Figure 9.2 Diagrammatic representation of recombinant DNA technology",
+          "bbox": {
+            "x_min": 0.0777,
+            "y_min": 0.8921,
+            "x_max": 0.6908,
+            "y_max": 0.9045,
+            "width": 0.6131,
+            "height": 0.0124
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5488,
+            "y_max": 0.9919,
+            "width": 0.0994,
+            "height": 0.0086
+          },
+          "confidence": 0.9845
+        },
+        {
+          "text": "167",
+          "bbox": {
+            "x_min": 0.8568,
+            "y_min": 0.7932,
+            "x_max": 0.896,
+            "y_max": 0.8065,
+            "width": 0.0392,
+            "height": 0.0133
+          },
+          "confidence": 0.9924
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "1 2 3 4",
+          "bbox": {
+            "x_min": 0.1531,
+            "y_min": 0.4503,
+            "x_max": 0.1964,
+            "y_max": 0.5073,
+            "width": 0.0432,
+            "height": 0.0569
+          },
+          "confidence": 0.9483
+        },
+        {
+          "text": "Wells",
+          "bbox": {
+            "x_min": 0.2011,
+            "y_min": 0.3968,
+            "x_max": 0.2461,
+            "y_max": 0.405,
+            "width": 0.045,
+            "height": 0.0081
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8609,
+            "y_min": 0.0801,
+            "x_max": 0.9258,
+            "y_max": 0.0882,
+            "width": 0.0649,
+            "height": 0.0081
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "You may have realised that normally, unless one cuts the vector and\nthe source DNA with the same restriction enzyme, the recombinant vector\nmolecule cannot be created.",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.11,
+            "x_max": 0.9293,
+            "y_max": 0.1567,
+            "width": 0.6289,
+            "height": 0.0467
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "Separation and isolation of DNA fragments : The cutting of DNA by\nrestriction endonucleases results in the fragments of DNA. These fragments\ncan be separated by a technique known as gel electrophoresis. Since\nDNA fragments are negatively charged molecules they can be separated\nby forcing them to move towards the anode under an electric field through\na medium/matrix. Nowadays the most commonly used matrix is agarose\nwhich is a natural polymer extracted from sea weeds. The DNA fragments\nseparate (resolve) according to their size through sieving effect provided\nby the agarose gel. Hence, the smaller the fragment size, the farther it\nmoves. Look at the Figure 9.3 and guess at which end of the gel the\nsample was loaded.",
+          "bbox": {
+            "x_min": 0.2992,
+            "y_min": 0.1648,
+            "x_max": 0.9299,
+            "y_max": 0.3574,
+            "width": 0.6306,
+            "height": 0.1926
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "DNA\nbands",
+          "bbox": {
+            "x_min": 0.3214,
+            "y_min": 0.4131,
+            "x_max": 0.3735,
+            "y_max": 0.4328,
+            "width": 0.052,
+            "height": 0.0197
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "Largest",
+          "bbox": {
+            "x_min": 0.2437,
+            "y_min": 0.4341,
+            "x_max": 0.3051,
+            "y_max": 0.4443,
+            "width": 0.0614,
+            "height": 0.0103
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "Smallest",
+          "bbox": {
+            "x_min": 0.3928,
+            "y_min": 0.4358,
+            "x_max": 0.4623,
+            "y_max": 0.4439,
+            "width": 0.0695,
+            "height": 0.0081
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "Figure 9.3 A typical agarose gel",
+          "bbox": {
+            "x_min": 0.135,
+            "y_min": 0.5676,
+            "x_max": 0.4237,
+            "y_max": 0.5801,
+            "width": 0.2887,
+            "height": 0.0124
+          },
+          "confidence": 0.9788
+        },
+        {
+          "text": "The separated DNA fragments can be\nvisualised only after staining the DNA\nwith a compound known as ethidium\nbromide followed by exposure to UV\nradiation (you cannot see pure DNA\nfragments in the visible light and\nwithout staining). You can see bright\norange coloured bands of DNA in a\nethidium bromide stained gel\nexposed",
+          "bbox": {
+            "x_min": 0.6108,
+            "y_min": 0.3626,
+            "x_max": 0.9305,
+            "y_max": 0.5385,
+            "width": 0.3197,
+            "height": 0.1759
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "sed to UV light (Figure 9.3). The\nseparated bands of DNA are cut out\nfrom the agarose gel and extracted\nfrom the gel piece. This step is known\nas elution. The DNA fragments\npurified in this way are used in\nconstructing recombinant DNA by\njoining them with cloning vectors.",
+          "bbox": {
+            "x_min": 0.6108,
+            "y_min": 0.5265,
+            "x_max": 0.9293,
+            "y_max": 0.6657,
+            "width": 0.3185,
+            "height": 0.1391
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "NCERT",
+          "bbox": {
+            "x_min": 0.3536,
+            "y_min": 0.3904,
+            "x_max": 0.6236,
+            "y_max": 0.5856,
+            "width": 0.27,
+            "height": 0.1952
+          },
+          "confidence": 0.7864
+        },
+        {
+          "text": "notio be rep",
+          "bbox": {
+            "x_min": 0.1712,
+            "y_min": 0.491,
+            "x_max": 0.6306,
+            "y_max": 0.8232,
+            "width": 0.4594,
+            "height": 0.3322
+          },
+          "confidence": 0.7019
+        },
+        {
+          "text": "electrophoresis showing\nmigration of undigested\n(lane 1) and digested set of\nDNA fragments (lane 2 to 4)",
+          "bbox": {
+            "x_min": 0.2496,
+            "y_min": 0.5822,
+            "x_max": 0.4781,
+            "y_max": 0.6383,
+            "width": 0.2285,
+            "height": 0.0561
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "168",
+          "bbox": {
+            "x_min": 0.0953,
+            "y_min": 0.7958,
+            "x_max": 0.142,
+            "y_max": 0.8086,
+            "width": 0.0468,
+            "height": 0.0128
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "Vectors",
+          "bbox": {
+            "x_min": 0.4518,
+            "y_min": 0.6836,
+            "x_max": 0.5324,
+            "y_max": 0.6986,
+            "width": 0.0807,
+            "height": 0.015
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "You know that plasmids and bacteriophages have the ability to replicate\nwithin bacterial cells independent of the control of chromosomal DNA.\nBacteriophages because of their high number per cell, have very high\ncopy numbers of their genome within the bacterial cells. Some plasmids\nmay have only one or two copies per cell whereas others may have\n15-100 copies per cell. Their numbers can go even higher. If we are able\nto link an alien piece of DNA with bacteriophage or plasmid DNA, we can\nmultiply its numbers equal to the copy number of the plasmid or\nbacteriophage. Vectors used at present, are engineered in such a way\nthat they help easy linking of foreign DNA and selection of recombinants\nfrom non-recombinants.",
+          "bbox": {
+            "x_min": 0.2992,
+            "y_min": 0.7119,
+            "x_max": 0.9299,
+            "y_max": 0.9024,
+            "width": 0.6306,
+            "height": 0.1905
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.45,
+            "y_min": 0.9833,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0994,
+            "height": 0.009
+          },
+          "confidence": 0.9818
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOTECHNOLOGY: PRINCIPLES AND PROCESSES",
+          "bbox": {
+            "x_min": 0.076,
+            "y_min": 0.0796,
+            "x_max": 0.4044,
+            "y_max": 0.0878,
+            "width": 0.3285,
+            "height": 0.0081
+          },
+          "confidence": 0.9733
+        },
+        {
+          "text": "The following are the features that are required to facilitate cloning\ninto a vector.",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.1109,
+            "x_max": 0.6996,
+            "y_max": 0.1387,
+            "width": 0.6295,
+            "height": 0.0278
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "(i) Origin of replication (ori) : This is a sequence from where\nreplication starts and any piece of DNA when linked to this sequence\ncan be made to replicate within the host cells. This sequence is also\nresponsible for controlling the copy number of the linked DNA. So,\nif one wants to recover many copies of the target DNA it should be\ncloned in a vector whose origin support high copy number.",
+          "bbox": {
+            "x_min": 0.0906,
+            "y_min": 0.146,
+            "x_max": 0.6984,
+            "y_max": 0.2491,
+            "width": 0.6078,
+            "height": 0.1032
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "(ii) Selectable marker : In addition to ‘ori', the vector requires a\nselectable marker, which helps in identifying and eliminating non-\ntransformants and selectively permitting the growth of the\ntransformants. Transformation is a procedure through which a\npiece of DNA is introduced in a host bacterium (you will study the\nprocess in subsequent section). Normally, the genes encoding\nresistance to antibiotics such as ampicillin, chloramphenicol,\ntetracycline or kanamycin, etc., are considered useful selectable\nmarkers for E. coli. The normal E. coli cells do not carry resistance\nagainst any of these antibiotics.",
+          "bbox": {
+            "x_min": 0.0859,
+            "y_min": 0.2539,
+            "x_max": 0.699,
+            "y_max": 0.4268,
+            "width": 0.6131,
+            "height": 0.1729
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "EcoR I-",
+          "bbox": {
+            "x_min": 0.5669,
+            "y_min": 0.4332,
+            "x_max": 0.6254,
+            "y_max": 0.4418,
+            "width": 0.0584,
+            "height": 0.0086
+          },
+          "confidence": 0.9221
+        },
+        {
+          "text": "Pvu I",
+          "bbox": {
+            "x_min": 0.5564,
+            "y_min": 0.4598,
+            "x_max": 0.5985,
+            "y_max": 0.4679,
+            "width": 0.0421,
+            "height": 0.0081
+          },
+          "confidence": 0.9595
+        },
+        {
+          "text": "CERT",
+          "bbox": {
+            "x_min": 0.4138,
+            "y_min": 0.4003,
+            "x_max": 0.6037,
+            "y_max": 0.5462,
+            "width": 0.1899,
+            "height": 0.146
+          },
+          "confidence": 0.9458
+        },
+        {
+          "text": "(iii) Cloning sites: In order to link the\nalien DNA, the vector needs to have\nvery few, preferably single,\nrecognition sites for the commonly\nused restriction enzymes. Presence of\nmore than one recognition sites within\nthe vector will generate several\nfragments, which will complicate the\ngene cloning (Figure 9.4). The ligation\nof alien DNA is carried out at a\nrestriction site present in one of the two\nantibiotic resistance genes. For\nexample, you can ligate a foreign DNA\nat the BamH I site of tetracycline\nresistance gene in the vector pBR322.\nThe recombinant plasmids will lose\ntetracycline resistance due to insertion\nof foreign DNA but can still be selected\nout from non-recombinant ones by\nplating the transformants on ampicillin",
+          "bbox": {
+            "x_min": 0.0801,
+            "y_min": 0.4319,
+            "x_max": 0.4518,
+            "y_max": 0.7834,
+            "width": 0.3717,
+            "height": 0.3515
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "Pst I",
+          "bbox": {
+            "x_min": 0.5406,
+            "y_min": 0.4812,
+            "x_max": 0.5804,
+            "y_max": 0.4889,
+            "width": 0.0397,
+            "height": 0.0077
+          },
+          "confidence": 0.9788
+        },
+        {
+          "text": "tetr",
+          "bbox": {
+            "x_min": 0.73,
+            "y_min": 0.5009,
+            "x_max": 0.7575,
+            "y_max": 0.512,
+            "width": 0.0275,
+            "height": 0.0111
+          },
+          "confidence": 0.8349
+        },
+        {
+          "text": "R",
+          "bbox": {
+            "x_min": 0.7499,
+            "y_min": 0.5013,
+            "x_max": 0.7586,
+            "y_max": 0.5056,
+            "width": 0.0088,
+            "height": 0.0043
+          },
+          "confidence": 0.9644
+        },
+        {
+          "text": "pBR322",
+          "bbox": {
+            "x_min": 0.6616,
+            "y_min": 0.5283,
+            "x_max": 0.73,
+            "y_max": 0.5398,
+            "width": 0.0684,
+            "height": 0.0116
+          },
+          "confidence": 0.97
+        },
+        {
+          "text": "repamp",
+          "bbox": {
+            "x_min": 0.4722,
+            "y_min": 0.4799,
+            "x_max": 0.685,
+            "y_max": 0.5959,
+            "width": 0.2127,
+            "height": 0.116
+          },
+          "confidence": 0.7527
+        },
+        {
+          "text": "Figure 9.4",
+          "bbox": {
+            "x_min": 0.5091,
+            "y_min": 0.6554,
+            "x_max": 0.6043,
+            "y_max": 0.6678,
+            "width": 0.0953,
+            "height": 0.0124
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "ori",
+          "bbox": {
+            "x_min": 0.6394,
+            "y_min": 0.5681,
+            "x_max": 0.661,
+            "y_max": 0.5753,
+            "width": 0.0216,
+            "height": 0.0073
+          },
+          "confidence": 0.9851
+        },
+        {
+          "text": "rop",
+          "bbox": {
+            "x_min": 0.6937,
+            "y_min": 0.5796,
+            "x_max": 0.7212,
+            "y_max": 0.5878,
+            "width": 0.0275,
+            "height": 0.0081
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "Pvu II",
+          "bbox": {
+            "x_min": 0.716,
+            "y_min": 0.6293,
+            "x_max": 0.7633,
+            "y_max": 0.6374,
+            "width": 0.0473,
+            "height": 0.0081
+          },
+          "confidence": 0.9502
+        },
+        {
+          "text": "BamH I",
+          "bbox": {
+            "x_min": 0.8071,
+            "y_min": 0.4786,
+            "x_max": 0.8679,
+            "y_max": 0.4867,
+            "width": 0.0608,
+            "height": 0.0081
+          },
+          "confidence": 0.9694
+        },
+        {
+          "text": "Sal I",
+          "bbox": {
+            "x_min": 0.8293,
+            "y_min": 0.5334,
+            "x_max": 0.8656,
+            "y_max": 0.5415,
+            "width": 0.0362,
+            "height": 0.0081
+          },
+          "confidence": 0.978
+        },
+        {
+          "text": "E. coli cloning vector pBR322\nshowing restriction sites\n(Hind III, EcoR I, BamH I, Sal I,\nPvu II, Pst I, Cla I), ori and\nantibiotic resistance genes\n(amp and tetr). rop codes for\nthe proteins involved in the\nreplication of the plasmid.",
+          "bbox": {
+            "x_min": 0.6283,
+            "y_min": 0.6558,
+            "x_max": 0.8808,
+            "y_max": 0.771,
+            "width": 0.2525,
+            "height": 0.1152
+          },
+          "confidence": 0.9737
+        },
+        {
+          "text": "containing medium. The transformants growing on ampicillin\ncontaining medium are then transferred on a medium containing\ntetracycline. The recombinants will grow in ampicillin containing\nmedium but not on that containing tetracycline. But, non-\nrecombinants will grow on the medium containing both the\nantibiotics. In this case, one antibiotic resistance gene helps in\nselecting the transformants, whereas the other antibiotic resistance",
+          "bbox": {
+            "x_min": 0.1222,
+            "y_min": 0.7885,
+            "x_max": 0.699,
+            "y_max": 0.9075,
+            "width": 0.5769,
+            "height": 0.119
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "169",
+          "bbox": {
+            "x_min": 0.8533,
+            "y_min": 0.7928,
+            "x_max": 0.8966,
+            "y_max": 0.8065,
+            "width": 0.0432,
+            "height": 0.0137
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5488,
+            "y_max": 0.9919,
+            "width": 0.0994,
+            "height": 0.0086
+          },
+          "confidence": 0.9845
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "170",
+          "bbox": {
+            "x_min": 0.097,
+            "y_min": 0.7954,
+            "x_max": 0.1409,
+            "y_max": 0.8086,
+            "width": 0.0438,
+            "height": 0.0133
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8609,
+            "y_min": 0.0805,
+            "x_max": 0.9258,
+            "y_max": 0.0878,
+            "width": 0.0649,
+            "height": 0.0073
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "gene gets ‘inactivated due to insertion' of alien DNA, and helps in\nselection of recombinants.",
+          "bbox": {
+            "x_min": 0.353,
+            "y_min": 0.1104,
+            "x_max": 0.9293,
+            "y_max": 0.1387,
+            "width": 0.5763,
+            "height": 0.0283
+          },
+          "confidence": 0.9801
+        },
+        {
+          "text": "Selection of recombinants due to inactivation of antibiotics is a\ncumbersome procedure because it requires simultaneous plating\non two plates having different antibiotics. Therefore, alternative\nselectable markers have been developed which differentiate\nrecombinants from non-recombinants on the basis of their ability\nto produce colour in the presence of a chromogenic substrate. In\nthis, a recombinant DNA is inserted within the coding sequence of\nan enzyme, ẞ-galactosidase. This results into inactivation of the\ngene for synthesis of this enzyme, which is referred to as insertional\ninactivation. The presence of a chromogenic substrate gives blue\ncoloured colonies if the plasmid in the bacteria does not have an\ninsert. Presence of insert results into insertional inactivation of the\nẞ-galactosidase gene and the colonies do not produce any colour,\nthese are identified as recombinant colonies.",
+          "bbox": {
+            "x_min": 0.353,
+            "y_min": 0.146,
+            "x_max": 0.931,
+            "y_max": 0.3866,
+            "width": 0.578,
+            "height": 0.2406
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "(iv) Vectors for cloning genes in plants and animals : You may be\nsurprised to know that we have learnt the lesson of transferring genes\ninto plants and animals from bacteria and viruses which have known\nthis for ages – how to deliver genes to transform eukaryotic cells and\nforce them to do what the bacteria or viruses want. For example,\nAgrobacterium tumifaciens, a pathogen of several dicot plants is able\nto deliver a piece of DNA known as ‘T-DNA' to transform normal\nplant cells into a tumor and direct these tumor cells to produce the\nchemicals required by the pathogen. Similarly, retroviruses in animals\nhave the ability to transform normal cells into cancerous cells. A\nbetter understanding of the art of delivering genes by pathogens in\ntheir eukaryotic hosts has generated knowledge to transform these\ntools of pathogens into useful vectors for delivering genes of interest\nto humans. The tumor inducing (Ti) plasmid of Agrobacterium\ntumifaciens has now been modified into a cloning vector which is no\nmore pathogenic to the plants but is still able to use the mechanisms\nto deliver genes of our interest into a variety of plants. Similarly,\nretroviruses have also been disarmed and are now used to deliver\ndesirable genes into animal cells. So, once a gene or a DNA fragment\nhas been ligated into a suitable vector it is transferred into a bacterial,\nplant or animal host (where it multiplies).",
+          "bbox": {
+            "x_min": 0.3133,
+            "y_min": 0.3934,
+            "x_max": 0.9305,
+            "y_max": 0.7607,
+            "width": 0.6172,
+            "height": 0.3673
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "C",
+          "bbox": {
+            "x_min": 0.3068,
+            "y_min": 0.5766,
+            "x_max": 0.3559,
+            "y_max": 0.6134,
+            "width": 0.0491,
+            "height": 0.0368
+          },
+          "confidence": 0.4887
+        },
+        {
+          "text": "not t",
+          "bbox": {
+            "x_min": 0.1894,
+            "y_min": 0.6781,
+            "x_max": 0.3665,
+            "y_max": 0.8146,
+            "width": 0.1771,
+            "height": 0.1366
+          },
+          "confidence": 0.9326
+        },
+        {
+          "text": "9.2.3",
+          "bbox": {
+            "x_min": 0.2987,
+            "y_min": 0.7795,
+            "x_max": 0.3565,
+            "y_max": 0.7911,
+            "width": 0.0579,
+            "height": 0.0116
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "Competent Host (For Transformation with\nRecombinant DNA)",
+          "bbox": {
+            "x_min": 0.3898,
+            "y_min": 0.7791,
+            "x_max": 0.8445,
+            "y_max": 0.8099,
+            "width": 0.4547,
+            "height": 0.0308
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "Since DNA is a hydrophilic molecule, it cannot pass through cell\nmembranes. Why? In order to force bacteria to take up the plasmid, the\nbacterial cells must first be made 'competent' to take up DNA. This is\ndone by treating them with a specific concentration of a divalent cation,\nsuch as calcium, which increases the efficiency with which DNA enters",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.8236,
+            "x_max": 0.9299,
+            "y_max": 0.9075,
+            "width": 0.6295,
+            "height": 0.0839
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5488,
+            "y_max": 0.9919,
+            "width": 0.0994,
+            "height": 0.0086
+          },
+          "confidence": 0.9845
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOTECHNOLOGY: PRINCIPLES AND PROCESSES",
+          "bbox": {
+            "x_min": 0.0754,
+            "y_min": 0.0792,
+            "x_max": 0.405,
+            "y_max": 0.0878,
+            "width": 0.3296,
+            "height": 0.0086
+          },
+          "confidence": 0.9778
+        },
+        {
+          "text": "the bacterium through pores in its cell wall. Recombinant DNA can then\nbe forced into such cells by incubating the cells with recombinant DNA\non ice, followed by placing them briefly at 42°C (heat shock), and then\nputting them back on ice. This enables the bacteria to take up the\nrecombinant DNA.",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.1109,
+            "x_max": 0.6984,
+            "y_max": 0.1918,
+            "width": 0.6289,
+            "height": 0.0809
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "This is not the only way to introduce alien DNA into host cells. In a\nmethod known as micro-injection, recombinant DNA is directly injected\ninto the nucleus of an animal cell. In another method, suitable for plants,\ncells are bombarded with high velocity micro-particles of gold or tungsten\ncoated with DNA in a method known as biolistics or gene gun. And the\nlast method uses ‘disarmed pathogen' vectors, which when allowed to\ninfect the cell, transfer the recombinant DNA into the host.",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.1995,
+            "x_max": 0.699,
+            "y_max": 0.3232,
+            "width": 0.6295,
+            "height": 0.1237
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "Now that we have learnt about the tools for constructing recombinant\nDNA, let us discuss the processes facilitating recombinant DNA technology.",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.3296,
+            "x_max": 0.6978,
+            "y_max": 0.3613,
+            "width": 0.6277,
+            "height": 0.0317
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "9.3 PROCESSES OF RECOMBINANT DNA TECHNOLOGY",
+          "bbox": {
+            "x_min": 0.0678,
+            "y_min": 0.378,
+            "x_max": 0.6154,
+            "y_max": 0.3913,
+            "width": 0.5476,
+            "height": 0.0133
+          },
+          "confidence": 0.9833
+        },
+        {
+          "text": "Recombinant DNA technology involves several steps in specific\nsequence such as isolation of DNA, fragmentation of DNA by\nrestriction endonucleases, isolation of a desired DNA fragment,\nligation of the DNA fragment into a vector, transferring the\nrecombinant DNA into the host, culturing the host cells in a\nmedium at large scale and extraction of the desired product.\nLet us examine each of these steps in some details.",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.4071,
+            "x_max": 0.6148,
+            "y_max": 0.5321,
+            "width": 0.5453,
+            "height": 0.125
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "(DNA)",
+          "bbox": {
+            "x_min": 0.4833,
+            "y_min": 0.5445,
+            "x_max": 0.5582,
+            "y_max": 0.5783,
+            "width": 0.0748,
+            "height": 0.0338
+          },
+          "confidence": 0.8877
+        },
+        {
+          "text": "9.3.1 Isolation of the Genetic Material (DNA)\nRecall that nucleic acid is the genetic material of all organisms\nwithout exception. In majority of organisms this is\ndeoxyribonucleic acid or DNA. In order to cut the DNA with\nrestriction enzymes, it needs to be in pure form, free from other\nmacro-molecules. Since the DNA is enclosed within the\nmembranes, we have to break the cell open to release DNA along\nwith other macromolecules such as RNA, proteins,\npolysaccharides and also lipids. This can be achieved by treating\nthe bacterial cells/plant or animal tissue with enzymes such as\nlysozyme (bacteria), cellulase (plant cells), chitinase (fungus).\nYou know that genes are located on long molecules of DNA\ninterwined with proteins such as histones. The RNA can be removed by\ntreatment with ribonuclease whereas proteins can be removed by\ntreatment with protease. Other molecules can be removed by appropriate\ntreatments and purified DNA ultimately precipitates out after the addition\nof chilled ethanol. This can be seen as collection of fine threads in the\nsuspension (Figure 9.5).",
+          "bbox": {
+            "x_min": 0.0684,
+            "y_min": 0.5501,
+            "x_max": 0.6984,
+            "y_max": 0.9118,
+            "width": 0.63,
+            "height": 0.3617
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "ed",
+          "bbox": {
+            "x_min": 0.7586,
+            "y_min": 0.3048,
+            "x_max": 0.8743,
+            "y_max": 0.3926,
+            "width": 0.1157,
+            "height": 0.0878
+          },
+          "confidence": 0.9803
+        },
+        {
+          "text": "Figure 9.5 DNA that\nseparates out can be\nremoved by spooling",
+          "bbox": {
+            "x_min": 0.6873,
+            "y_min": 0.7367,
+            "x_max": 0.8638,
+            "y_max": 0.7783,
+            "width": 0.1765,
+            "height": 0.0415
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "171",
+          "bbox": {
+            "x_min": 0.8568,
+            "y_min": 0.7932,
+            "x_max": 0.8919,
+            "y_max": 0.8074,
+            "width": 0.0351,
+            "height": 0.0141
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9822
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "172",
+          "bbox": {
+            "x_min": 0.0976,
+            "y_min": 0.7958,
+            "x_max": 0.142,
+            "y_max": 0.8082,
+            "width": 0.0444,
+            "height": 0.0124
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "5΄",
+          "bbox": {
+            "x_min": 0.1899,
+            "y_min": 0.4546,
+            "x_max": 0.2051,
+            "y_max": 0.4619,
+            "width": 0.0152,
+            "height": 0.0073
+          },
+          "confidence": 0.6839
+        },
+        {
+          "text": "3",
+          "bbox": {
+            "x_min": 0.1882,
+            "y_min": 0.4807,
+            "x_max": 0.2022,
+            "y_max": 0.4867,
+            "width": 0.014,
+            "height": 0.006
+          },
+          "confidence": 0.9699
+        },
+        {
+          "text": "5'",
+          "bbox": {
+            "x_min": 0.1911,
+            "y_min": 0.5231,
+            "x_max": 0.2057,
+            "y_max": 0.5317,
+            "width": 0.0146,
+            "height": 0.0086
+          },
+          "confidence": 0.8519
+        },
+        {
+          "text": "9.3.2 Cutting of DNA at Specific Locations",
+          "bbox": {
+            "x_min": 0.301,
+            "y_min": 0.11,
+            "x_max": 0.7586,
+            "y_max": 0.125,
+            "width": 0.4576,
+            "height": 0.015
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8609,
+            "y_min": 0.0805,
+            "x_max": 0.9258,
+            "y_max": 0.0878,
+            "width": 0.0649,
+            "height": 0.0073
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "Restriction enzyme digestions are performed by incubating purified DNA\nmolecules with the restriction enzyme, at the optimal conditions for that\nspecific enzyme. Agarose gel electrophoresis is employed to check the\nprogression of a restriction enzyme digestion. DNA is a negatively charged\nmolecule, hence it moves towards the positive electrode (anode)\n(Figure 9.3). The process is repeated with the vector DNA also.",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.1378,
+            "x_max": 0.9305,
+            "y_max": 0.2367,
+            "width": 0.63,
+            "height": 0.0989
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "The joining of DNA involves several processes. After having cut the\nsource DNA as well as the vector DNA with a specific restriction enzyme,\nthe cut out 'gene of interest' from the source DNA and the cut vector with\nspace are mixed and ligase is added. This results in the preparation of\nrecombinant DNA.",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.2414,
+            "x_max": 0.9316,
+            "y_max": 0.3206,
+            "width": 0.6312,
+            "height": 0.0792
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "9.3.3 Amplification of Gene of Interest using PCR",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.3416,
+            "x_max": 0.8358,
+            "y_max": 0.3566,
+            "width": 0.5354,
+            "height": 0.015
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "PCR stands for Polymerase Chain Reaction. In this reaction, multiple\ncopies of the gene (or DNA) of interest is synthesised in vitro using two",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.3682,
+            "x_max": 0.9299,
+            "y_max": 0.3985,
+            "width": 0.6295,
+            "height": 0.0304
+          },
+          "confidence": 0.9974
+        },
+        {
+          "text": "Region to be amplified",
+          "bbox": {
+            "x_min": 0.4004,
+            "y_min": 0.414,
+            "x_max": 0.5798,
+            "y_max": 0.4242,
+            "width": 0.1794,
+            "height": 0.0103
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "Heat",
+          "bbox": {
+            "x_min": 0.4278,
+            "y_min": 0.4957,
+            "x_max": 0.4681,
+            "y_max": 0.5021,
+            "width": 0.0403,
+            "height": 0.0064
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "ed in",
+          "bbox": {
+            "x_min": 0.751,
+            "y_min": 0.3793,
+            "x_max": 0.7943,
+            "y_max": 0.405,
+            "width": 0.0432,
+            "height": 0.0257
+          },
+          "confidence": 0.8929
+        },
+        {
+          "text": "ublish",
+          "bbox": {
+            "x_min": 0.571,
+            "y_min": 0.3759,
+            "x_max": 0.7873,
+            "y_max": 0.5253,
+            "width": 0.2162,
+            "height": 0.1494
+          },
+          "confidence": 0.876
+        },
+        {
+          "text": "5'",
+          "bbox": {
+            "x_min": 0.6283,
+            "y_min": 0.4773,
+            "x_max": 0.6435,
+            "y_max": 0.4863,
+            "width": 0.0152,
+            "height": 0.009
+          },
+          "confidence": 0.8776
+        },
+        {
+          "text": "Denaturation",
+          "bbox": {
+            "x_min": 0.7165,
+            "y_min": 0.5,
+            "x_max": 0.8258,
+            "y_max": 0.5068,
+            "width": 0.1093,
+            "height": 0.0068
+          },
+          "confidence": 0.9821
+        },
+        {
+          "text": "3",
+          "bbox": {
+            "x_min": 0.6213,
+            "y_min": 0.5231,
+            "x_max": 0.6406,
+            "y_max": 0.5334,
+            "width": 0.0193,
+            "height": 0.0103
+          },
+          "confidence": 0.8666
+        },
+        {
+          "text": "3-",
+          "bbox": {
+            "x_min": 0.4699,
+            "y_min": 0.5445,
+            "x_max": 0.4874,
+            "y_max": 0.5518,
+            "width": 0.0175,
+            "height": 0.0073
+          },
+          "confidence": 0.6705
+        },
+        {
+          "text": "-5",
+          "bbox": {
+            "x_min": 0.5494,
+            "y_min": 0.5454,
+            "x_max": 0.5652,
+            "y_max": 0.5531,
+            "width": 0.0158,
+            "height": 0.0077
+          },
+          "confidence": 0.9625
+        },
+        {
+          "text": "5.",
+          "bbox": {
+            "x_min": 0.2577,
+            "y_min": 0.5758,
+            "x_max": 0.2712,
+            "y_max": 0.5835,
+            "width": 0.0134,
+            "height": 0.0077
+          },
+          "confidence": 0.658
+        },
+        {
+          "text": "3",
+          "bbox": {
+            "x_min": 0.346,
+            "y_min": 0.5771,
+            "x_max": 0.3606,
+            "y_max": 0.5835,
+            "width": 0.0146,
+            "height": 0.0064
+          },
+          "confidence": 0.9577
+        },
+        {
+          "text": "34",
+          "bbox": {
+            "x_min": 0.1876,
+            "y_min": 0.5942,
+            "x_max": 0.2028,
+            "y_max": 0.6015,
+            "width": 0.0152,
+            "height": 0.0073
+          },
+          "confidence": 0.7178
+        },
+        {
+          "text": "5'",
+          "bbox": {
+            "x_min": 0.1911,
+            "y_min": 0.6648,
+            "x_max": 0.2057,
+            "y_max": 0.6734,
+            "width": 0.0146,
+            "height": 0.0086
+          },
+          "confidence": 0.8685
+        },
+        {
+          "text": "3'\n5'",
+          "bbox": {
+            "x_min": 0.256,
+            "y_min": 0.6931,
+            "x_max": 0.2712,
+            "y_max": 0.717,
+            "width": 0.0152,
+            "height": 0.024
+          },
+          "confidence": 0.8046
+        },
+        {
+          "text": "3-",
+          "bbox": {
+            "x_min": 0.1853,
+            "y_min": 0.7312,
+            "x_max": 0.2046,
+            "y_max": 0.7384,
+            "width": 0.0193,
+            "height": 0.0073
+          },
+          "confidence": 0.8533
+        },
+        {
+          "text": "Figure 9.6",
+          "bbox": {
+            "x_min": 0.1058,
+            "y_min": 0.8763,
+            "x_max": 0.1993,
+            "y_max": 0.8883,
+            "width": 0.0935,
+            "height": 0.012
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "Primers",
+          "bbox": {
+            "x_min": 0.6289,
+            "y_min": 0.5616,
+            "x_max": 0.6914,
+            "y_max": 0.5676,
+            "width": 0.0625,
+            "height": 0.006
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "Annealing",
+          "bbox": {
+            "x_min": 0.7136,
+            "y_min": 0.5595,
+            "x_max": 0.8001,
+            "y_max": 0.5693,
+            "width": 0.0865,
+            "height": 0.0098
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "-5'",
+          "bbox": {
+            "x_min": 0.6236,
+            "y_min": 0.5942,
+            "x_max": 0.6406,
+            "y_max": 0.6023,
+            "width": 0.0169,
+            "height": 0.0081
+          },
+          "confidence": 0.818
+        },
+        {
+          "text": "DNA polymerase",
+          "bbox": {
+            "x_min": 0.4454,
+            "y_min": 0.6229,
+            "x_max": 0.5786,
+            "y_max": 0.6327,
+            "width": 0.1333,
+            "height": 0.0098
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "(Taq polymerase)\n+ deoxynucleotides",
+          "bbox": {
+            "x_min": 0.4378,
+            "y_min": 0.634,
+            "x_max": 0.5903,
+            "y_max": 0.6562,
+            "width": 0.1525,
+            "height": 0.0223
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "3'",
+          "bbox": {
+            "x_min": 0.6224,
+            "y_min": 0.6652,
+            "x_max": 0.6388,
+            "y_max": 0.6734,
+            "width": 0.0164,
+            "height": 0.0081
+          },
+          "confidence": 0.8273
+        },
+        {
+          "text": "5'",
+          "bbox": {
+            "x_min": 0.5552,
+            "y_min": 0.6922,
+            "x_max": 0.5698,
+            "y_max": 0.7003,
+            "width": 0.0146,
+            "height": 0.0081
+          },
+          "confidence": 0.8701
+        },
+        {
+          "text": "3'",
+          "bbox": {
+            "x_min": 0.5564,
+            "y_min": 0.7089,
+            "x_max": 0.571,
+            "y_max": 0.7162,
+            "width": 0.0146,
+            "height": 0.0073
+          },
+          "confidence": 0.7552
+        },
+        {
+          "text": "5'",
+          "bbox": {
+            "x_min": 0.6283,
+            "y_min": 0.7307,
+            "x_max": 0.6423,
+            "y_max": 0.7389,
+            "width": 0.014,
+            "height": 0.0081
+          },
+          "confidence": 0.8353
+        },
+        {
+          "text": "30 cycles",
+          "bbox": {
+            "x_min": 0.4407,
+            "y_min": 0.7573,
+            "x_max": 0.5155,
+            "y_max": 0.7658,
+            "width": 0.0748,
+            "height": 0.0086
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "Amplified",
+          "bbox": {
+            "x_min": 0.6072,
+            "y_min": 0.8159,
+            "x_max": 0.6873,
+            "y_max": 0.8249,
+            "width": 0.0801,
+            "height": 0.009
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "(~1 billion times)",
+          "bbox": {
+            "x_min": 0.5809,
+            "y_min": 0.8266,
+            "x_max": 0.716,
+            "y_max": 0.836,
+            "width": 0.135,
+            "height": 0.0094
+          },
+          "confidence": 0.9708
+        },
+        {
+          "text": "Extension",
+          "bbox": {
+            "x_min": 0.716,
+            "y_min": 0.6986,
+            "x_max": 0.7989,
+            "y_max": 0.7059,
+            "width": 0.083,
+            "height": 0.0073
+          },
+          "confidence": 0.9771
+        },
+        {
+          "text": "Polymerase chain reaction (PCR) : Each cycle has three steps: (i) Denaturation;\n(ii) Primer annealing; and (iii) Extension of primers",
+          "bbox": {
+            "x_min": 0.2285,
+            "y_min": 0.8767,
+            "x_max": 0.9223,
+            "y_max": 0.9033,
+            "width": 0.6937,
+            "height": 0.0265
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.45,
+            "y_min": 0.9829,
+            "x_max": 0.55,
+            "y_max": 0.9923,
+            "width": 0.0999,
+            "height": 0.0094
+          },
+          "confidence": 0.9834
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOTECHNOLOGY: PRINCIPLES AND PROCESSES",
+          "bbox": {
+            "x_min": 0.0754,
+            "y_min": 0.0792,
+            "x_max": 0.405,
+            "y_max": 0.0878,
+            "width": 0.3296,
+            "height": 0.0086
+          },
+          "confidence": 0.9778
+        },
+        {
+          "text": "sets of primers (small chemically synthesised oligonucleotides that are\ncomplementary to the regions of DNA) and the enzyme DNA polymerase.\nThe enzyme extends the primers using the nucleotides provided in the\nreaction and the genomic DNA as template. If the process of replication\nof DNA is repeated many times, the segment of DNA can be amplified\nto approximately billion times, i.e., 1 billion copies are made. Such\nrepeated amplification is achieved by the use of a thermostable DNA\npolymerase (isolated from a bacterium, Thermus aquaticus), which\nremain active during the high temperature induced denaturation of\ndouble stranded DNA. The amplified fragment if desired can now be\nused to ligate with a vector for further cloning (Figure 9.6).",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.1104,
+            "x_max": 0.6996,
+            "y_max": 0.2962,
+            "width": 0.6306,
+            "height": 0.1858
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "9.3.4 Insertion of Recombinant DNA into the Host",
+          "bbox": {
+            "x_min": 0.0684,
+            "y_min": 0.3138,
+            "x_max": 0.633,
+            "y_max": 0.3262,
+            "width": 0.5646,
+            "height": 0.0124
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "Cell/Organism",
+          "bbox": {
+            "x_min": 0.1537,
+            "y_min": 0.3313,
+            "x_max": 0.3109,
+            "y_max": 0.3467,
+            "width": 0.1572,
+            "height": 0.0154
+          },
+          "confidence": 0.9842
+        },
+        {
+          "text": "There are several methods of introducing the ligated DNA into recipient\ncells. Recipient cells after making them ‘competent' to receive, take up\nDNA present in its surrounding. So, if a recombinant DNA bearing gene\nfor resistance to an antibiotic (e.g., ampicillin) is transferred into E. coli\ncells, the host cells become transformed into ampicillin-resistant cells. If\nwe spread the transformed cells on agar plates containing ampicillin, only\ntransformants will grow, untransformed recipient cells will die. Since, due\nto ampicillin resistance gene, one is able to select a transformed cell in the\npresence of ampicillin. The ampicillin resistance gene in this case is called\na selectable marker.",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.3583,
+            "x_max": 0.7002,
+            "y_max": 0.524,
+            "width": 0.6312,
+            "height": 0.1657
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "epished",
+          "bbox": {
+            "x_min": 0.4769,
+            "y_min": 0.3091,
+            "x_max": 0.896,
+            "y_max": 0.5963,
+            "width": 0.4191,
+            "height": 0.2872
+          },
+          "confidence": 0.8271
+        },
+        {
+          "text": "9.3.5 Obtaining the Foreign Gene Product",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.5445,
+            "x_max": 0.5225,
+            "y_max": 0.5604,
+            "width": 0.4524,
+            "height": 0.0158
+          },
+          "confidence": 0.9969
+        },
+        {
+          "text": "ase is calle",
+          "bbox": {
+            "x_min": 0.6043,
+            "y_min": 0.4932,
+            "x_max": 0.6861,
+            "y_max": 0.5116,
+            "width": 0.0818,
+            "height": 0.0184
+          },
+          "confidence": 0.911
+        },
+        {
+          "text": "When you insert a piece of alien DNA into a cloning cloning vector and transfer it\ninto a bacterial, plant or animal cell, the alien DNA gets multiplied. In\nalmost all recombinant technologies, the ultimate aim is to produce a\ndesirable protein. Hence, there is a need for the recombinant DNA to be\nexpressed. The foreign gene gets expressed under appropriate conditions.\nThe expression of foreign genes in host cells involve understanding many\ntechnical details.",
+          "bbox": {
+            "x_min": 0.0672,
+            "y_min": 0.5706,
+            "x_max": 0.6984,
+            "y_max": 0.6884,
+            "width": 0.6312,
+            "height": 0.1177
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "After having cloned the gene of interest and having optimised the\nconditions to induce the expression of the target protein, one has to\nconsider producing it on a large scale. Can you think of any reason\nwhy there is a need for large-scale production? If any protein encoding\ngene is expressed in a heterologous host, it is called a recombinant\nprotein. The cells harbouring cloned genes of interest may be grown\non a small scale in the laboratory. The cultures may be used for\nextracting the desired protein and then purifying it by using different\nseparation techniques.",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.6956,
+            "x_max": 0.699,
+            "y_max": 0.8493,
+            "width": 0.6295,
+            "height": 0.1537
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "The cells can also be multiplied in a continuous culture system wherein\nthe used medium is drained out from one side while fresh medium is\nadded from the other to maintain the cells in their physiologically most",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.8532,
+            "x_max": 0.699,
+            "y_max": 0.902,
+            "width": 0.6295,
+            "height": 0.0488
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "173",
+          "bbox": {
+            "x_min": 0.8545,
+            "y_min": 0.7937,
+            "x_max": 0.8942,
+            "y_max": 0.8061,
+            "width": 0.0397,
+            "height": 0.0124
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9822
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8609,
+            "y_min": 0.0805,
+            "x_max": 0.9258,
+            "y_max": 0.0882,
+            "width": 0.0649,
+            "height": 0.0077
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "active log/exponential phase. This type of culturing method produces a\nlarger biomass leading to higher yields of desired protein.",
+          "bbox": {
+            "x_min": 0.301,
+            "y_min": 0.1104,
+            "x_max": 0.9299,
+            "y_max": 0.1413,
+            "width": 0.6289,
+            "height": 0.0308
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "Small volume cultures cannot yield appreciable quantities of products.\nTo produce in large quantities, the development of bioreactors, where\nlarge volumes (100-1000 litres) of culture can be processed, was required.\nThus, bioreactors can be thought of as vessels in which raw materials are\nbiologically converted into specific products, individual enzymes, etc.,\nusing microbial plant, animal or human cells. A bioreactor provides the\noptimal conditions for achieving the desired product by providing\noptimum growth conditions (temperature, pH, substrate, salts, vitamins,\noxygen).",
+          "bbox": {
+            "x_min": 0.2992,
+            "y_min": 0.1455,
+            "x_max": 0.9299,
+            "y_max": 0.3027,
+            "width": 0.6306,
+            "height": 0.1571
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "The most commonly used bioreactors are of stirring type, which are\nshown in Figure 9.7.",
+          "bbox": {
+            "x_min": 0.301,
+            "y_min": 0.3078,
+            "x_max": 0.9299,
+            "y_max": 0.3386,
+            "width": 0.6289,
+            "height": 0.0308
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "Acid/Base\nfor pH\ncontrol",
+          "bbox": {
+            "x_min": 0.1204,
+            "y_min": 0.4204,
+            "x_max": 0.2069,
+            "y_max": 0.458,
+            "width": 0.0865,
+            "height": 0.0377
+          },
+          "confidence": 0.9759
+        },
+        {
+          "text": "Steam for",
+          "bbox": {
+            "x_min": 0.1274,
+            "y_min": 0.4743,
+            "x_max": 0.2081,
+            "y_max": 0.482,
+            "width": 0.0807,
+            "height": 0.0077
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "sterilisation",
+          "bbox": {
+            "x_min": 0.1216,
+            "y_min": 0.4889,
+            "x_max": 0.2151,
+            "y_max": 0.497,
+            "width": 0.0935,
+            "height": 0.0081
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "-Motor",
+          "bbox": {
+            "x_min": 0.3419,
+            "y_min": 0.414,
+            "x_max": 0.3957,
+            "y_max": 0.4217,
+            "width": 0.0538,
+            "height": 0.0077
+          },
+          "confidence": 0.9533
+        },
+        {
+          "text": "-Foam",
+          "bbox": {
+            "x_min": 0.3419,
+            "y_min": 0.4366,
+            "x_max": 0.3898,
+            "y_max": 0.4439,
+            "width": 0.0479,
+            "height": 0.0073
+          },
+          "confidence": 0.9469
+        },
+        {
+          "text": "braker",
+          "bbox": {
+            "x_min": 0.3419,
+            "y_min": 0.4495,
+            "x_max": 0.4021,
+            "y_max": 0.458,
+            "width": 0.0602,
+            "height": 0.0086
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "-Flat bladed",
+          "bbox": {
+            "x_min": 0.3413,
+            "y_min": 0.4675,
+            "x_max": 0.436,
+            "y_max": 0.4769,
+            "width": 0.0947,
+            "height": 0.0094
+          },
+          "confidence": 0.9611
+        },
+        {
+          "text": "impeller\n-Culture",
+          "bbox": {
+            "x_min": 0.3419,
+            "y_min": 0.4824,
+            "x_max": 0.4109,
+            "y_max": 0.5051,
+            "width": 0.069,
+            "height": 0.0227
+          },
+          "confidence": 0.9837
+        },
+        {
+          "text": "broth",
+          "bbox": {
+            "x_min": 0.3419,
+            "y_min": 0.5103,
+            "x_max": 0.3898,
+            "y_max": 0.5193,
+            "width": 0.0479,
+            "height": 0.009
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "Increased\nsurface\narea for\noxygen\ntransfer",
+          "bbox": {
+            "x_min": 0.5073,
+            "y_min": 0.3806,
+            "x_max": 0.5862,
+            "y_max": 0.4461,
+            "width": 0.0789,
+            "height": 0.0655
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "Gas",
+          "bbox": {
+            "x_min": 0.7937,
+            "y_min": 0.4354,
+            "x_max": 0.8276,
+            "y_max": 0.4435,
+            "width": 0.0339,
+            "height": 0.0081
+          },
+          "confidence": 0.9779
+        },
+        {
+          "text": "entrainment",
+          "bbox": {
+            "x_min": 0.7966,
+            "y_min": 0.4495,
+            "x_max": 0.8966,
+            "y_max": 0.4576,
+            "width": 0.0999,
+            "height": 0.0081
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "Sterile Air",
+          "bbox": {
+            "x_min": 0.3454,
+            "y_min": 0.5591,
+            "x_max": 0.4261,
+            "y_max": 0.5668,
+            "width": 0.0807,
+            "height": 0.0077
+          },
+          "confidence": 0.9825
+        },
+        {
+          "text": "Bubbles\\\ndramatically\nincrease the\noxygen\ntransfer area",
+          "bbox": {
+            "x_min": 0.4962,
+            "y_min": 0.5137,
+            "x_max": 0.6008,
+            "y_max": 0.5805,
+            "width": 0.1046,
+            "height": 0.0668
+          },
+          "confidence": 0.9836
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.2694,
+            "y_min": 0.6023,
+            "x_max": 0.2911,
+            "y_max": 0.6134,
+            "width": 0.0216,
+            "height": 0.0111
+          },
+          "confidence": 0.9708
+        },
+        {
+          "text": "biorea",
+          "bbox": {
+            "x_min": 0.4015,
+            "y_min": 0.6353,
+            "x_max": 0.4454,
+            "y_max": 0.649,
+            "width": 0.0438,
+            "height": 0.0137
+          },
+          "confidence": 0.8974
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.7054,
+            "y_min": 0.6036,
+            "x_max": 0.7253,
+            "y_max": 0.6139,
+            "width": 0.0199,
+            "height": 0.0103
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "Figure 9.7 (a) Simple stirred-tank bioreactor; (b) Sparged stirred-tank bioreactor through which\nsterile air bubbles are sparged",
+          "bbox": {
+            "x_min": 0.1005,
+            "y_min": 0.637,
+            "x_max": 0.9153,
+            "y_max": 0.664,
+            "width": 0.8147,
+            "height": 0.027
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "174",
+          "bbox": {
+            "x_min": 0.097,
+            "y_min": 0.7958,
+            "x_max": 0.1414,
+            "y_max": 0.8086,
+            "width": 0.0444,
+            "height": 0.0128
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "nottoe",
+          "bbox": {
+            "x_min": 0.1853,
+            "y_min": 0.5809,
+            "x_max": 0.5085,
+            "y_max": 0.8095,
+            "width": 0.3232,
+            "height": 0.2286
+          },
+          "confidence": 0.8067
+        },
+        {
+          "text": "A stirred-tank reactor is usually cylindrical or with a curved base to\nfacilitate the mixing of the reactor contents. The stirrer facilitates even\nmixing and oxygen availability throughout the bioreactor. Alternatively\nair can be bubbled through the reactor. If you look at the figure closely\nyou will see that the bioreactor has an agitator system, an oxygen delivery\nsystem and a foam control system, a temperature control system, pH\ncontrol system and sampling ports so that small volumes of the culture\ncan be withdrawn periodically.",
+          "bbox": {
+            "x_min": 0.2992,
+            "y_min": 0.6939,
+            "x_max": 0.9305,
+            "y_max": 0.8339,
+            "width": 0.6312,
+            "height": 0.14
+          },
+          "confidence": 0.9968
+        },
+        {
+          "text": "9.3.6 Downstream Processing",
+          "bbox": {
+            "x_min": 0.301,
+            "y_min": 0.8523,
+            "x_max": 0.6195,
+            "y_max": 0.8669,
+            "width": 0.3185,
+            "height": 0.0146
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "After completion of the biosynthetic stage, the product has to be subjected\nthrough a series of processes before it is ready for marketing as a finished",
+          "bbox": {
+            "x_min": 0.2981,
+            "y_min": 0.8801,
+            "x_max": 0.9293,
+            "y_max": 0.9118,
+            "width": 0.6312,
+            "height": 0.0317
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5488,
+            "y_max": 0.9919,
+            "width": 0.0994,
+            "height": 0.0086
+          },
+          "confidence": 0.9845
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOTECHNOLOGY: PRINCIPLES AND PROCESSES",
+          "bbox": {
+            "x_min": 0.0754,
+            "y_min": 0.0792,
+            "x_max": 0.405,
+            "y_max": 0.0878,
+            "width": 0.3296,
+            "height": 0.0086
+          },
+          "confidence": 0.9778
+        },
+        {
+          "text": "product. The processes include separation and purification, which are\ncollectively referred to as downstream processing. The product has to be\nformulated with suitable preservatives. Such formulation has to undergo\nthorough clinical trials as in case of drugs. Strict quality control testing\nfor each product is also required. The downstream processing and quality\ncontrol testing vary from product to product.",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.1113,
+            "x_max": 0.699,
+            "y_max": 0.2183,
+            "width": 0.63,
+            "height": 0.107
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "SUMMARY",
+          "bbox": {
+            "x_min": 0.3296,
+            "y_min": 0.2731,
+            "x_max": 0.4506,
+            "y_max": 0.2851,
+            "width": 0.121,
+            "height": 0.012
+          },
+          "confidence": 0.9835
+        },
+        {
+          "text": "Biotechnology deals with large scale production and marketing of\nproducts and processes using live organisms, cells or enzymes.\nModern biotechnology using genetically modified organisms was\nmade possible only when man learnt to alter the chemistry of DNA\nand construct recombinant DNA. This key process is called\nrecombinant DNA technology or genetic engineering. This process\ninvolves the use of restriction endonucleases, DNA ligase,\nappropriate plasmid or viral vectors to isolate and ferry the foreign\nDNA into host organisms, expression of the foreign gene, purification\nof the gene product, i.e., the functional protein and finally making a\nsuitable formulation for marketing. Large scale production involves\nuse of bioreactors.",
+          "bbox": {
+            "x_min": 0.1081,
+            "y_min": 0.2997,
+            "x_max": 0.6704,
+            "y_max": 0.4722,
+            "width": 0.5622,
+            "height": 0.1725
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "republished",
+          "bbox": {
+            "x_min": 0.4822,
+            "y_min": 0.3057,
+            "x_max": 0.8831,
+            "y_max": 0.6036,
+            "width": 0.4009,
+            "height": 0.2979
+          },
+          "confidence": 0.925
+        },
+        {
+          "text": "EXERCISES",
+          "bbox": {
+            "x_min": 0.2595,
+            "y_min": 0.5253,
+            "x_max": 0.5114,
+            "y_max": 0.5569,
+            "width": 0.2519,
+            "height": 0.0317
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "1. Can you list 10 recombinant proteins which are used in medical\npractice? Find out where they are used as therapeutics (use the internet).\n2. Make a chart (with diagrammatic representation) showing a restriction\nenzyme, the substrate DNA on which it acts, the site at which it cuts\nDNA and the product it produces.",
+          "bbox": {
+            "x_min": 0.0783,
+            "y_min": 0.5818,
+            "x_max": 0.699,
+            "y_max": 0.6648,
+            "width": 0.6207,
+            "height": 0.083
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "3. From what you have learnt, can you tell whether enzymes are bigger or\nDNA is bigger in molecular size? How did you know?",
+          "bbox": {
+            "x_min": 0.0783,
+            "y_min": 0.6704,
+            "x_max": 0.699,
+            "y_max": 0.6995,
+            "width": 0.6207,
+            "height": 0.0291
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "4. What would be the molar concentration of human DNA in a human\ncell? Consult your teacher.",
+          "bbox": {
+            "x_min": 0.0771,
+            "y_min": 0.7046,
+            "x_max": 0.699,
+            "y_max": 0.7346,
+            "width": 0.6219,
+            "height": 0.03
+          },
+          "confidence": 0.9842
+        },
+        {
+          "text": "5. Do eukaryotic cells have restriction endonucleases? Justify your answer.\n6. Besides better aeration and mixing properties, what other advantages\ndo stirred tank bioreactors have over shake flasks?",
+          "bbox": {
+            "x_min": 0.0783,
+            "y_min": 0.7406,
+            "x_max": 0.6978,
+            "y_max": 0.7851,
+            "width": 0.6195,
+            "height": 0.0445
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "7. Collect 5 examples of palindromic DNA sequences by consulting your teacher.\nBetter try to create a palindromic sequence by following base-pair rules.\n8. Can you recall meiosis and indicate at what stage a recombinant DNA\nis made?",
+          "bbox": {
+            "x_min": 0.0783,
+            "y_min": 0.7932,
+            "x_max": 0.6984,
+            "y_max": 0.8549,
+            "width": 0.6201,
+            "height": 0.0616
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "9. Can you think and answer how a reporter enzyme can be used to monitor\ntransformation of host cells by foreign DNA in addition to a selectable",
+          "bbox": {
+            "x_min": 0.0789,
+            "y_min": 0.8634,
+            "x_max": 0.6984,
+            "y_max": 0.8934,
+            "width": 0.6195,
+            "height": 0.03
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "marker?",
+          "bbox": {
+            "x_min": 0.1093,
+            "y_min": 0.899,
+            "x_max": 0.1823,
+            "y_max": 0.9071,
+            "width": 0.0731,
+            "height": 0.0081
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9822
+        },
+        {
+          "text": "175",
+          "bbox": {
+            "x_min": 0.8556,
+            "y_min": 0.7928,
+            "x_max": 0.8948,
+            "y_max": 0.8065,
+            "width": 0.0392,
+            "height": 0.0137
+          },
+          "confidence": 0.9925
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8609,
+            "y_min": 0.0805,
+            "x_max": 0.9258,
+            "y_max": 0.0878,
+            "width": 0.0649,
+            "height": 0.0073
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "10. Describe briefly the following:",
+          "bbox": {
+            "x_min": 0.3022,
+            "y_min": 0.1113,
+            "x_max": 0.5897,
+            "y_max": 0.1237,
+            "width": 0.2876,
+            "height": 0.0124
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "(a) Origin of replication",
+          "bbox": {
+            "x_min": 0.3425,
+            "y_min": 0.1293,
+            "x_max": 0.5359,
+            "y_max": 0.1413,
+            "width": 0.1935,
+            "height": 0.012
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "(b) Bioreactors",
+          "bbox": {
+            "x_min": 0.3431,
+            "y_min": 0.1464,
+            "x_max": 0.4652,
+            "y_max": 0.1571,
+            "width": 0.1222,
+            "height": 0.0107
+          },
+          "confidence": 0.9833
+        },
+        {
+          "text": "(c) Downstream processing",
+          "bbox": {
+            "x_min": 0.3425,
+            "y_min": 0.1635,
+            "x_max": 0.5704,
+            "y_max": 0.1755,
+            "width": 0.2279,
+            "height": 0.012
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "11. Explain briefly",
+          "bbox": {
+            "x_min": 0.3022,
+            "y_min": 0.1815,
+            "x_max": 0.4646,
+            "y_max": 0.1935,
+            "width": 0.1625,
+            "height": 0.012
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "(a) PCR",
+          "bbox": {
+            "x_min": 0.3419,
+            "y_min": 0.1991,
+            "x_max": 0.405,
+            "y_max": 0.2098,
+            "width": 0.0631,
+            "height": 0.0107
+          },
+          "confidence": 0.9853
+        },
+        {
+          "text": "(b) Restriction enzymes and DNA",
+          "bbox": {
+            "x_min": 0.3425,
+            "y_min": 0.2162,
+            "x_max": 0.6184,
+            "y_max": 0.2282,
+            "width": 0.2759,
+            "height": 0.012
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "(c) Chitinase",
+          "bbox": {
+            "x_min": 0.3425,
+            "y_min": 0.2337,
+            "x_max": 0.45,
+            "y_max": 0.2444,
+            "width": 0.1075,
+            "height": 0.0107
+          },
+          "confidence": 0.978
+        },
+        {
+          "text": "12. Discuss with your teacher and find out how to distinguish between",
+          "bbox": {
+            "x_min": 0.3027,
+            "y_min": 0.2513,
+            "x_max": 0.9082,
+            "y_max": 0.2637,
+            "width": 0.6055,
+            "height": 0.0124
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "(a) Plasmid DNA and Chromosomal DNA",
+          "bbox": {
+            "x_min": 0.3419,
+            "y_min": 0.2684,
+            "x_max": 0.6815,
+            "y_max": 0.28,
+            "width": 0.3396,
+            "height": 0.0116
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "(b) RNA and DNA",
+          "bbox": {
+            "x_min": 0.3425,
+            "y_min": 0.2864,
+            "x_max": 0.4868,
+            "y_max": 0.2975,
+            "width": 0.1444,
+            "height": 0.0111
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "(c) Exonuclease and Endonuclease",
+          "bbox": {
+            "x_min": 0.3425,
+            "y_min": 0.3044,
+            "x_max": 0.6365,
+            "y_max": 0.3155,
+            "width": 0.294,
+            "height": 0.0111
+          },
+          "confidence": 0.9846
+        },
+        {
+          "text": "© NCERT",
+          "bbox": {
+            "x_min": 0.2922,
+            "y_min": 0.3951,
+            "x_max": 0.6125,
+            "y_max": 0.6259,
+            "width": 0.3203,
+            "height": 0.2307
+          },
+          "confidence": 0.8863
+        },
+        {
+          "text": "not to be republished",
+          "bbox": {
+            "x_min": 0.1806,
+            "y_min": 0.3044,
+            "x_max": 0.8843,
+            "y_max": 0.8181,
+            "width": 0.7037,
+            "height": 0.5137
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "176",
+          "bbox": {
+            "x_min": 0.0964,
+            "y_min": 0.7958,
+            "x_max": 0.1409,
+            "y_max": 0.8086,
+            "width": 0.0444,
+            "height": 0.0128
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.45,
+            "y_min": 0.9833,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0994,
+            "height": 0.009
+          },
+          "confidence": 0.9818
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

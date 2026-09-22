@@ -1,0 +1,2106 @@
+{
+  "chapter_id": "12th_biology_ch08_microbes_in_human_welfare_ch08_microbes_in_human_welfare_en",
+  "total_pages": 12,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "CHAPTER 8",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.2147,
+            "x_max": 0.3071,
+            "y_max": 0.2395,
+            "width": 0.2364,
+            "height": 0.0249
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "12083CH10",
+          "bbox": {
+            "x_min": 0.5172,
+            "y_min": 0.2258,
+            "x_max": 0.561,
+            "y_max": 0.2305,
+            "width": 0.0438,
+            "height": 0.0047
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "MICROBES IN HUMAN WELFARE",
+          "bbox": {
+            "x_min": 0.0753,
+            "y_min": 0.2849,
+            "x_max": 0.8471,
+            "y_max": 0.3149,
+            "width": 0.7717,
+            "height": 0.03
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "8.1 Microbes in Household",
+          "bbox": {
+            "x_min": 0.0823,
+            "y_min": 0.4494,
+            "x_max": 0.3152,
+            "y_max": 0.4589,
+            "width": 0.2329,
+            "height": 0.0094
+          },
+          "confidence": 0.9767
+        },
+        {
+          "text": "Products",
+          "bbox": {
+            "x_min": 0.1284,
+            "y_min": 0.4674,
+            "x_max": 0.1985,
+            "y_max": 0.4764,
+            "width": 0.0701,
+            "height": 0.009
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "8.2 Microbes in Industrial",
+          "bbox": {
+            "x_min": 0.0823,
+            "y_min": 0.4931,
+            "x_max": 0.3065,
+            "y_max": 0.5026,
+            "width": 0.2242,
+            "height": 0.0094
+          },
+          "confidence": 0.9808
+        },
+        {
+          "text": "Products",
+          "bbox": {
+            "x_min": 0.129,
+            "y_min": 0.5111,
+            "x_max": 0.1996,
+            "y_max": 0.5197,
+            "width": 0.0706,
+            "height": 0.0086
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "8.3 Microbes in Sewage\nTreatment",
+          "bbox": {
+            "x_min": 0.0835,
+            "y_min": 0.5364,
+            "x_max": 0.2901,
+            "y_max": 0.563,
+            "width": 0.2067,
+            "height": 0.0266
+          },
+          "confidence": 0.9852
+        },
+        {
+          "text": "8.4 Microbes in Production of\nBiogas",
+          "bbox": {
+            "x_min": 0.0829,
+            "y_min": 0.5788,
+            "x_max": 0.3357,
+            "y_max": 0.6101,
+            "width": 0.2528,
+            "height": 0.0313
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "8.5 Microbes as Biocontrol",
+          "bbox": {
+            "x_min": 0.0823,
+            "y_min": 0.623,
+            "x_max": 0.3123,
+            "y_max": 0.6324,
+            "width": 0.23,
+            "height": 0.0094
+          },
+          "confidence": 0.9781
+        },
+        {
+          "text": "Agents",
+          "bbox": {
+            "x_min": 0.1255,
+            "y_min": 0.641,
+            "x_max": 0.1839,
+            "y_max": 0.6525,
+            "width": 0.0584,
+            "height": 0.0116
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "8.6 Microbes as Biofertilisers",
+          "bbox": {
+            "x_min": 0.0829,
+            "y_min": 0.6662,
+            "x_max": 0.3333,
+            "y_max": 0.6782,
+            "width": 0.2504,
+            "height": 0.012
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "not to",
+          "bbox": {
+            "x_min": 0.1839,
+            "y_min": 0.6521,
+            "x_max": 0.4069,
+            "y_max": 0.8171,
+            "width": 0.223,
+            "height": 0.165
+          },
+          "confidence": 0.9845
+        },
+        {
+          "text": "ERT",
+          "bbox": {
+            "x_min": 0.4553,
+            "y_min": 0.404,
+            "x_max": 0.6124,
+            "y_max": 0.5086,
+            "width": 0.157,
+            "height": 0.1045
+          },
+          "confidence": 0.9404
+        },
+        {
+          "text": "blished",
+          "bbox": {
+            "x_min": 0.6036,
+            "y_min": 0.3141,
+            "x_max": 0.8844,
+            "y_max": 0.4961,
+            "width": 0.2808,
+            "height": 0.1821
+          },
+          "confidence": 0.9271
+        },
+        {
+          "text": "Besides macroscopic plants and animals, microbes are\nthe major components of biological systems on this earth.\nYou have studied about the diversity of living organisms\nin Class XI. Do you remember which Kingdoms among\nthe living organisms contain micro-organisms? Which are\nthe ones that are only microscopic? Microbes are present\neverywhere – in soil, water, air, inside our bodies and that\nof other animals and plants. They are present even at sites\nwhere no other life-form could possibly exist-sites such\nas deep inside the geysers (thermal vents) where the\ntemperature may be as high as 100°C, deep in the soil,\nunder the layers of snow several metres thick, and in highly\nacidic environments. Microbes are diverse-protozoa,\nbacteria, fungi and microscopic animal and plant viruses,\nviroids and also prions that are proteinacious infectious\nagents. Some of the microbes are shown in Figures 8.1\nand 8.2.",
+          "bbox": {
+            "x_min": 0.4051,
+            "y_min": 0.4927,
+            "x_max": 0.8961,
+            "y_max": 0.8188,
+            "width": 0.491,
+            "height": 0.326
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "Microbes like bacteria and many fungi can be grown\non nutritive media to form colonies (Figure 8.3), that can\nbe seen with the naked eyes. Such cultures are useful in\nstudies on micro-organisms.",
+          "bbox": {
+            "x_min": 0.4063,
+            "y_min": 0.8286,
+            "x_max": 0.8955,
+            "y_max": 0.9006,
+            "width": 0.4892,
+            "height": 0.072
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "-Flagella",
+          "bbox": {
+            "x_min": 0.2294,
+            "y_min": 0.3436,
+            "x_max": 0.2948,
+            "y_max": 0.356,
+            "width": 0.0654,
+            "height": 0.0124
+          },
+          "confidence": 0.9656
+        },
+        {
+          "text": "Head",
+          "bbox": {
+            "x_min": 0.627,
+            "y_min": 0.1435,
+            "x_max": 0.6602,
+            "y_max": 0.1495,
+            "width": 0.0333,
+            "height": 0.006
+          },
+          "confidence": 0.9848
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.3602,
+            "y_min": 0.1705,
+            "x_max": 0.3812,
+            "y_max": 0.1817,
+            "width": 0.021,
+            "height": 0.0111
+          },
+          "confidence": 0.9733
+        },
+        {
+          "text": "Collar",
+          "bbox": {
+            "x_min": 0.6217,
+            "y_min": 0.1829,
+            "x_max": 0.6602,
+            "y_max": 0.1889,
+            "width": 0.0385,
+            "height": 0.006
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "Tail\nPlate",
+          "bbox": {
+            "x_min": 0.6334,
+            "y_min": 0.2001,
+            "x_max": 0.6673,
+            "y_max": 0.2185,
+            "width": 0.0339,
+            "height": 0.0184
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.3619,
+            "y_min": 0.2614,
+            "x_max": 0.3818,
+            "y_max": 0.2721,
+            "width": 0.0198,
+            "height": 0.0107
+          },
+          "confidence": 0.9837
+        },
+        {
+          "text": "Prongs",
+          "bbox": {
+            "x_min": 0.5727,
+            "y_min": 0.2614,
+            "x_max": 0.6176,
+            "y_max": 0.2704,
+            "width": 0.045,
+            "height": 0.009
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.5791,
+            "y_min": 0.2991,
+            "x_max": 0.6001,
+            "y_max": 0.3106,
+            "width": 0.021,
+            "height": 0.0116
+          },
+          "confidence": 0.973
+        },
+        {
+          "text": "Rod-shaped\nbacterium",
+          "bbox": {
+            "x_min": 0.237,
+            "y_min": 0.4392,
+            "x_max": 0.3333,
+            "y_max": 0.461,
+            "width": 0.0963,
+            "height": 0.0219
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "(c)",
+          "bbox": {
+            "x_min": 0.3619,
+            "y_min": 0.458,
+            "x_max": 0.3824,
+            "y_max": 0.4692,
+            "width": 0.0204,
+            "height": 0.0111
+          },
+          "confidence": 0.9394
+        },
+        {
+          "text": "Pins",
+          "bbox": {
+            "x_min": 0.6299,
+            "y_min": 0.2438,
+            "x_max": 0.6602,
+            "y_max": 0.2502,
+            "width": 0.0304,
+            "height": 0.0064
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.8079,
+            "y_min": 0.2995,
+            "x_max": 0.8307,
+            "y_max": 0.3102,
+            "width": 0.0228,
+            "height": 0.0107
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "d",
+          "bbox": {
+            "x_min": 0.7957,
+            "y_min": 0.3093,
+            "x_max": 0.8745,
+            "y_max": 0.368,
+            "width": 0.0788,
+            "height": 0.0587
+          },
+          "confidence": 0.9417
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8576,
+            "y_min": 0.081,
+            "x_max": 0.927,
+            "y_max": 0.0887,
+            "width": 0.0695,
+            "height": 0.0077
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "Figure 8.1 Bacteria: (a) Rod-shaped,\nmagnified 1500X; (b) Spherical\nshaped, magnified1500X; (c) A rod-\nshaped bacterium showing flagella,\nmagnified 50,000X",
+          "bbox": {
+            "x_min": 0.1074,
+            "y_min": 0.4949,
+            "x_max": 0.394,
+            "y_max": 0.566,
+            "width": 0.2866,
+            "height": 0.0711
+          },
+          "confidence": 0.9853
+        },
+        {
+          "text": "Figure 8.2",
+          "bbox": {
+            "x_min": 0.495,
+            "y_min": 0.5043,
+            "x_max": 0.5803,
+            "y_max": 0.5171,
+            "width": 0.0852,
+            "height": 0.0129
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "ONCE",
+          "bbox": {
+            "x_min": 0.2884,
+            "y_min": 0.4516,
+            "x_max": 0.5412,
+            "y_max": 0.6285,
+            "width": 0.2528,
+            "height": 0.1769
+          },
+          "confidence": 0.9219
+        },
+        {
+          "text": "rep",
+          "bbox": {
+            "x_min": 0.4775,
+            "y_min": 0.512,
+            "x_max": 0.6042,
+            "y_max": 0.6024,
+            "width": 0.1267,
+            "height": 0.0904
+          },
+          "confidence": 0.7673
+        },
+        {
+          "text": "Viru",
+          "bbox": {
+            "x_min": 0.5989,
+            "y_min": 0.5009,
+            "x_max": 0.6445,
+            "y_max": 0.5231,
+            "width": 0.0455,
+            "height": 0.0223
+          },
+          "confidence": 0.9262
+        },
+        {
+          "text": "(c)",
+          "bbox": {
+            "x_min": 0.6305,
+            "y_min": 0.482,
+            "x_max": 0.6497,
+            "y_max": 0.4919,
+            "width": 0.0193,
+            "height": 0.0099
+          },
+          "confidence": 0.9458
+        },
+        {
+          "text": "Compact\nRod-shaped\nviruses",
+          "bbox": {
+            "x_min": 0.8126,
+            "y_min": 0.4379,
+            "x_max": 0.8984,
+            "y_max": 0.4692,
+            "width": 0.0858,
+            "height": 0.0313
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "Viruses: (a) A bacteriophage; (b)\nAdenovirus which causes respiratory\ninfections; (c) Rod-shaped Tobacco\nMosaic Virus (TMV). Magnified about\n1,00,000-1,50,000X",
+          "bbox": {
+            "x_min": 0.6048,
+            "y_min": 0.5043,
+            "x_max": 0.9183,
+            "y_max": 0.5737,
+            "width": 0.3135,
+            "height": 0.0694
+          },
+          "confidence": 0.9754
+        },
+        {
+          "text": "150",
+          "bbox": {
+            "x_min": 0.1016,
+            "y_min": 0.7918,
+            "x_max": 0.1436,
+            "y_max": 0.8059,
+            "width": 0.042,
+            "height": 0.0141
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.8333,
+            "x_max": 0.3252,
+            "y_max": 0.8445,
+            "width": 0.0228,
+            "height": 0.0111
+          },
+          "confidence": 0.9703
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.6351,
+            "y_min": 0.8338,
+            "x_max": 0.6556,
+            "y_max": 0.8445,
+            "width": 0.0204,
+            "height": 0.0107
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "Figure 8.3 (a) Colonies of bacteria growing in a petri dish;\n(b) Fungal colony growing in a petri dish",
+          "bbox": {
+            "x_min": 0.2516,
+            "y_min": 0.8732,
+            "x_max": 0.7513,
+            "y_max": 0.8997,
+            "width": 0.4997,
+            "height": 0.0266
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        },
+        {
+          "text": "Fungal colony",
+          "bbox": {
+            "x_min": 0.8225,
+            "y_min": 0.7207,
+            "x_max": 0.937,
+            "y_max": 0.7318,
+            "width": 0.1144,
+            "height": 0.0111
+          },
+          "confidence": 0.9912
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "MICROBES IN HUMAN WELFARE",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.0788,
+            "x_max": 0.3018,
+            "y_max": 0.0887,
+            "width": 0.23,
+            "height": 0.0099
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "In chapter 7, you have read that microbes cause a large number of\ndiseases in human beings. They also cause diseases in animals and plants.\nBut this should not make you think that all microbes are harmful; several\nmicrobes are useful to man in diverse ways. Some of the most important\ncontributions of microbes to human welfare are discussed in this chapter.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.1144,
+            "x_max": 0.6982,
+            "y_max": 0.2039,
+            "width": 0.6258,
+            "height": 0.0895
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "8.1 MICROBES IN HOUSEHOLD PRODUCTS",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.2228,
+            "x_max": 0.495,
+            "y_max": 0.2356,
+            "width": 0.4238,
+            "height": 0.0129
+          },
+          "confidence": 0.9832
+        },
+        {
+          "text": "You would be surprised to know that we use microbes or products\nderived from them everyday. A common example is the production of\ncurd from milk. Micro-organisms such as Lactobacillus and others\ncommonly called lactic acid bacteria (LAB) grow in milk and convert it\nto curd. During growth, the LAB produce acids that coagulate and\npartially digest the milk proteins. A small amount of curd added to the\nfresh milk as inoculum or starter contain millions of LAB, which at\nsuitable temperatures multiply, thus converting milk to curd, which\nalso improves its nutritional quality by increasing vitamin B12· 312. In our\nstomach too, the LAB play very beneficial role in checking disease-\ncausing microbes.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.2519,
+            "x_max": 0.6988,
+            "y_max": 0.4576,
+            "width": 0.627,
+            "height": 0.2057
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "ished",
+          "bbox": {
+            "x_min": 0.6503,
+            "y_min": 0.3076,
+            "x_max": 0.8757,
+            "y_max": 0.4683,
+            "width": 0.2253,
+            "height": 0.1607
+          },
+          "confidence": 0.8556
+        },
+        {
+          "text": "The dough, which is used for making foods such as dosa and idli is\nalso fermented by bacteria. The puffed-up appearance of dough is due to\nthe production of CO2 gas. Can you tell which metabolic pathway is\ntaking place resulting in the formation of CO₂? Where do you think the\nbacteria for these fermentations come from? Similarly the dough, which\nis used for making bread, is fermented using baker's yeast\n(Saccharomyces cerevisiae). A number of traditional drinks and foods\nare also made by fermentation by the microbes. “Toddy', a traditional\ndrink of some parts of southern India is made by fermenting sap from\npalms. Microbes are also used to ferment fish, soyabean and bamboo-\nshoots to make foods. Cheese, is one of the oldest food items in which\nmicrobes were used. Different varieties of cheese are known by their\ncharacteristic texture, flavour and taste, the specificity coming from the\nmicrobes used. For example, the large holes in ‘Swiss cheese' are due to\nproduction of a large amount of CO₂ by a bacterium named\nPropionibacterium sharmanii. The ‘Roquefort cheese' are ripened by\ngrowing a specific fungi on them, which gives them a particular flavour.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.4644,
+            "x_max": 0.6976,
+            "y_max": 0.7853,
+            "width": 0.6246,
+            "height": 0.3209
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.446,
+            "y_min": 0.7429,
+            "x_max": 0.4553,
+            "y_max": 0.7481,
+            "width": 0.0093,
+            "height": 0.0051
+          },
+          "confidence": 0.9735
+        },
+        {
+          "text": "8.2 MICROBES IN INDUSTRIAL PRODUCTS",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.7995,
+            "x_max": 0.5108,
+            "y_max": 0.8136,
+            "width": 0.4396,
+            "height": 0.0141
+          },
+          "confidence": 0.9821
+        },
+        {
+          "text": "Even in industry, microbes are used to synthesise a number of products\nvaluable to human beings. Beverages and antibiotics are some examples.\nProduction on an industrial scale, requires growing microbes in very large\nvessels called fermentors (Figure 8.4).",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.8299,
+            "x_max": 0.6976,
+            "y_max": 0.9002,
+            "width": 0.6258,
+            "height": 0.0703
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "151",
+          "bbox": {
+            "x_min": 0.8546,
+            "y_min": 0.7918,
+            "x_max": 0.8938,
+            "y_max": 0.8059,
+            "width": 0.0391,
+            "height": 0.0141
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8576,
+            "y_min": 0.081,
+            "x_max": 0.927,
+            "y_max": 0.0887,
+            "width": 0.0695,
+            "height": 0.0077
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "Figure 8.4 Fermentors",
+          "bbox": {
+            "x_min": 0.195,
+            "y_min": 0.3295,
+            "x_max": 0.3882,
+            "y_max": 0.3423,
+            "width": 0.1932,
+            "height": 0.0129
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "8.2.1 Fermented Beverages",
+          "bbox": {
+            "x_min": 0.5102,
+            "y_min": 0.1123,
+            "x_max": 0.8009,
+            "y_max": 0.1272,
+            "width": 0.2907,
+            "height": 0.015
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "Microbes especially yeasts have been used from\ntime immemorial for the production of beverages\nlike wine, beer, whisky, brandy or rum. For this\npurpose the same yeast Saccharomyces\ncerevisiae used for bread-making and\ncommonly called brewer's yeast, is used for\nfermenting malted cereals and fruit juices, to\nproduce ethanol. Do you recollect the metabolic\nreactions, which result in the production of\nethanol by yeast? Depending on the type of the\nraw material used for fermentation and the type\nof processing (with or without distillation)\ndifferent types of alcoholic drinks are obtained.\nWine and beer are produced without distillation\nwhereas whisky, brandy and rum are produced\nby distillation of the fermented broth. The\nphotograph of a fermentation plant is shown in\nFigure 8.5.",
+          "bbox": {
+            "x_min": 0.5079,
+            "y_min": 0.1401,
+            "x_max": 0.9299,
+            "y_max": 0.4623,
+            "width": 0.4221,
+            "height": 0.3222
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "8.2.2 Antibiotics",
+          "bbox": {
+            "x_min": 0.5096,
+            "y_min": 0.4811,
+            "x_max": 0.6918,
+            "y_max": 0.4936,
+            "width": 0.1821,
+            "height": 0.0124
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "Antibiotics produced by microbes are regarded\nas one of the most significant discoveries of the\ntwentieth century and have greatly contributed\ntowards the welfare of the human society. Anti is\na Greek word that means 'against', and bio means\n'life', together they mean 'against life' (in the\ncontext of disease causing organisms); whereas with reference to human\nbeings, they are 'pro life' and not against. Antibiotics are chemical\nsubstances, which are produced by some microbes and can kill or retard\nthe growth of other (disease-causing) microbes.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.5094,
+            "x_max": 0.9259,
+            "y_max": 0.6855,
+            "width": 0.6241,
+            "height": 0.1761
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "Figure 8.5 Fermentation Plant",
+          "bbox": {
+            "x_min": 0.1494,
+            "y_min": 0.5908,
+            "x_max": 0.4104,
+            "y_max": 0.6037,
+            "width": 0.2609,
+            "height": 0.0129
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "152",
+          "bbox": {
+            "x_min": 0.101,
+            "y_min": 0.7922,
+            "x_max": 0.1459,
+            "y_max": 0.8051,
+            "width": 0.045,
+            "height": 0.0129
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1938,
+            "y_min": 0.7078,
+            "x_max": 0.3257,
+            "y_max": 0.8158,
+            "width": 0.1319,
+            "height": 0.108
+          },
+          "confidence": 0.9251
+        },
+        {
+          "text": "You are familiar with the commonly used antibiotic Penicillin. Do you\nknow that Penicillin was the first antibiotic to be discovered, and it was a\nchance discovery? Alexander Fleming while working on Staphylococci\nchan\nbacteria, once observed a mould growing in one of his unwashed culture\nplates around which Staphylococci could not grow. He found out that it\nwas due to a chemical produced by the mould and he named it Penicillin\nafter the mould Penicillium notatum. However, its full potential as an\neffective antibiotic was established much later by Ernest Chain and\nHoward Florey. This antibiotic was extensively used to treat American\nsoldiers wounded in World War II. Fleming, Chain and Florey were awarded\nthe Nobel Prize in 1945, for this discovery.",
+          "bbox": {
+            "x_min": 0.3001,
+            "y_min": 0.6868,
+            "x_max": 0.9299,
+            "y_max": 0.889,
+            "width": 0.6299,
+            "height": 0.2022
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.9837
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "MICROBES IN HUMAN WELFARE",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.0788,
+            "x_max": 0.3018,
+            "y_max": 0.0887,
+            "width": 0.23,
+            "height": 0.0099
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "After Penicillin, other antibiotics were also purified from other\nmicrobes. Can you name some other antibiotics and find out their\nsources? Antibiotics have greatly improved our capacity to treat deadly\ndiseases such as plague, whooping cough (kali khansi), diphtheria (gal\nghotu) and leprosy (kusht rog), which used to kill millions all over the\nglobe. Today, we cannot imagine a world without antibiotics.",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.1131,
+            "x_max": 0.6982,
+            "y_max": 0.2211,
+            "width": 0.627,
+            "height": 0.108
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "8.2.3 Chemicals, Enzymes and other Bioactive Molecules",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.2481,
+            "x_max": 0.6853,
+            "y_max": 0.2622,
+            "width": 0.6118,
+            "height": 0.0141
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "Microbes are also used for commercial and industrial production of\ncertain chemicals like organic acids, alcohols and enzymes. Examples of\nacid producers are Aspergillus niger (a fungus) of citric acid, Acetobacter\naceti (a bacterium) of acetic acid; Clostridium butylicum (a bacterium) of\nbutyric acid and Lactobacillus (a bacterium) of lactic acid.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.2763,
+            "x_max": 0.6988,
+            "y_max": 0.3676,
+            "width": 0.6264,
+            "height": 0.0913
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6877,
+            "y_min": 0.3068,
+            "x_max": 0.8698,
+            "y_max": 0.446,
+            "width": 0.1821,
+            "height": 0.1392
+          },
+          "confidence": 0.9778
+        },
+        {
+          "text": "Yeast (Saccharomyces cerevisiae) is used for commercial production\nof ethanol. Microbes are also used for production of enzymes. Lipases are\nused in detergent formulations and are helpful in removing oily stains\nfrom the laundry. You must have noticed that bottled fruit juices bought\nfrom the market are clearer as compared to those made at home. This is\nbecause the bottled juices are clarified by the use of pectinases and\nproteases. Streptokinase produced by the bacterium Streptococcus and\nmodified by genetic engineering is used as a ‘clot buster' for removing\nclots from the blood vessels of patients who have undergone myocardial\ninfarction leading to heart attack.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.374,
+            "x_max": 0.697,
+            "y_max": 0.5621,
+            "width": 0.6246,
+            "height": 0.1881
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "Another bioactive molecule, cyclosporin A, that is used as an\nimmunosuppressive agent in organ-transplant patients, is produced by\nthe fungus Trichoderma polysporum. Statins produced by the yeast\nMonascus purpureus have been commercialised as blood-cholesterol\nlowering agents. It acts by competitively inhibiting the enzyme responsible\nfor synthesis of cholesterol.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.5686,
+            "x_max": 0.6976,
+            "y_max": 0.6795,
+            "width": 0.6252,
+            "height": 0.111
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "8.3 MICROBES IN SEWAGE TREATMENT",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.7039,
+            "x_max": 0.4641,
+            "y_max": 0.7189,
+            "width": 0.3917,
+            "height": 0.015
+          },
+          "confidence": 0.9748
+        },
+        {
+          "text": "We know that large quantities of waste water are generated everyday in\ncities and towns. A major component of this waste water is human excreta.\nThis municipal waste-water is also called sewage. It contains large\namounts of organic matter and microbes. Many of which are pathogenic.\nHave you ever wondered where this huge quantity of sewage or urban\nwaste water is disposed off daily? This cannot be discharged into natural\nwater bodies like rivers and streams directly – you can understand why.\nBefore disposal, hence, sewage is treated in sewage treatment plants (STPs)\nto make it less polluting. Treatment of waste water is done by the",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.7356,
+            "x_max": 0.697,
+            "y_max": 0.9062,
+            "width": 0.6264,
+            "height": 0.1705
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "153",
+          "bbox": {
+            "x_min": 0.8541,
+            "y_min": 0.7922,
+            "x_max": 0.8973,
+            "y_max": 0.8055,
+            "width": 0.0432,
+            "height": 0.0133
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.0805,
+            "x_max": 0.9282,
+            "y_max": 0.0887,
+            "width": 0.0718,
+            "height": 0.0081
+          },
+          "confidence": 0.9804
+        },
+        {
+          "text": "Figure 8.6 Secondary treatment",
+          "bbox": {
+            "x_min": 0.1763,
+            "y_min": 0.3492,
+            "x_max": 0.4507,
+            "y_max": 0.3616,
+            "width": 0.2744,
+            "height": 0.0124
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "154",
+          "bbox": {
+            "x_min": 0.0987,
+            "y_min": 0.7922,
+            "x_max": 0.1454,
+            "y_max": 0.8059,
+            "width": 0.0467,
+            "height": 0.0137
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "heterotrophic microbes naturally present in\nthe sewage. This treatment is carried out in\ntwo stages:",
+          "bbox": {
+            "x_min": 0.5429,
+            "y_min": 0.1135,
+            "x_max": 0.9264,
+            "y_max": 0.1641,
+            "width": 0.3835,
+            "height": 0.0506
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "Primary treatment : These treatment\nsteps basically involve physical removal of\nparticles – large and small – from the sewage\nthrough filtration and sedimentation. These\nare removed in stages; initially, floating debris\nis removed by sequential filtration. Then the\ngrit (soil and small pebbles) are removed by\nsedimentation. All solids that settle form the\nprimary sludge, and the supernatant forms\nthe effluent. The effluent from the primary\nsettling tank is taken for secondary treatment.\nSecondary treatment or Biological treatment : The primary\neffluent is passed into large aeration tanks (Figure 8.6) where it is\nconstantly agitated mechanically and air is pumped into it. This allows\nvigorous growth of useful aerobic microbes into flocs (masses of\nbacteria associated with fungal filaments to form mesh like\nstructures). While growing, these microbes consume the major part\nof the organic matter in the effluent. This significantly reduces the\nBOD (biochemical oxygen demand) of the effluent. BOD refers to\nthe amount of the oxygen that would be consumed if all the organic\nmatter in one liter of water were oxidised by bacteria. The sewage\nwater is treated till the BOD is reduced. The BOD test measures the\nrate of uptake of oxygen by micro-organisms in a sample of water\nand thus, indirectly, BOD is a measure of the organic matter present\nin the water. The greater the BOD of waste water, more is its polluting\npotential.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.1722,
+            "x_max": 0.9288,
+            "y_max": 0.6577,
+            "width": 0.6276,
+            "height": 0.4854
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "Once the BOD of sewage or waste water is reduced significantly, the\neffluent is then passed into a settling tank where the bacterial ‘flocs' are\nallowed to sediment. This sediment is called activated sludge. A small\npart of the activated sludge is pumped back into the aeration tank to\nserve as the inoculum. The remaining major part of the sludge is pumped\ninto large tanks called anaerobic sludge digesters. Here, other kinds\nof bacteria, which grow anaerobically, digest the bacteria and the fungi\nin the sludge. During this digestion, bacteria produce a mixture of gases\nsuch as methane, hydrogen sulphide and carbon dioxide. These gases\nform biogas and can be used as source of energy as it is inflammable.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.6628,
+            "x_max": 0.927,
+            "y_max": 0.8449,
+            "width": 0.6252,
+            "height": 0.1821
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "ot\nno",
+          "bbox": {
+            "x_min": 0.1798,
+            "y_min": 0.7074,
+            "x_max": 0.3327,
+            "y_max": 0.8235,
+            "width": 0.1529,
+            "height": 0.1161
+          },
+          "confidence": 0.8838
+        },
+        {
+          "text": "The effluent from the secondary treatment plant is generally released\ninto natural water bodies like rivers and streams. An aerial view of such\na plant is shown in Figure 8.7.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.8513,
+            "x_max": 0.9259,
+            "y_max": 0.9019,
+            "width": 0.6235,
+            "height": 0.0506
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "MICROBES IN HUMAN WELFARE",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.0788,
+            "x_max": 0.3018,
+            "y_max": 0.0887,
+            "width": 0.23,
+            "height": 0.0099
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "You can appreciate how microbes play a major\nrole in treating millions of gallons of waste water\neveryday across the globe. This methodology has\nbeen practiced for more than a century now, in\nalmost all parts of the world. Till date, no man-\nmade technology has been able to rival the\nmicrobial treatment of sewage.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.1135,
+            "x_max": 0.4921,
+            "y_max": 0.2365,
+            "width": 0.4197,
+            "height": 0.123
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "You are aware that due to increasing\nurbanisation, sewage is being produced in much\nlarger quantities than ever before. However the\nnumber of sewage treatment plants has not\nincreased enough to treat such large quantities.\nSo the untreated sewage is often discharged directly into rivers leading to\ntheir pollution and increase in water-borne diseases.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.2434,
+            "x_max": 0.6959,
+            "y_max": 0.3659,
+            "width": 0.6229,
+            "height": 0.1225
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "Figure 8.7 An aerial view of a sewage plant",
+          "bbox": {
+            "x_min": 0.5242,
+            "y_min": 0.2922,
+            "x_max": 0.8885,
+            "y_max": 0.3051,
+            "width": 0.3643,
+            "height": 0.0129
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "The Ministry of Environment and Forests has initiated Ganga Action\nPlan and Yamuna Action Plan to save these major rivers of our country\nfrom pollution. Under these plans, it is proposed to build a large number\nof sewage treatment plants so that only treated sewage may be discharged\nin the rivers. A visit to a sewage treatment plant situated in any place\nnear you would be a very interesting and educating experience.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.3719,
+            "x_max": 0.6976,
+            "y_max": 0.4777,
+            "width": 0.6252,
+            "height": 0.1058
+          },
+          "confidence": 0.997
+        },
+        {
+          "text": "the shed",
+          "bbox": {
+            "x_min": 0.3409,
+            "y_min": 0.2952,
+            "x_max": 0.9054,
+            "y_max": 0.6093,
+            "width": 0.5645,
+            "height": 0.3141
+          },
+          "confidence": 0.7472
+        },
+        {
+          "text": "8.4 MICROBES IN PRODUCTION OF BIOGAS",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.4944,
+            "x_max": 0.502,
+            "y_max": 0.509,
+            "width": 0.4302,
+            "height": 0.0146
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "Biogas is a mixture of gases (containing predominantly methane) produced\nby the microbial activity and which may be used as fuel. You have learnt\nthat microbes produce different types of gaseous end-products during\ngrowth and metabolism. The type of the gas produced depends upon the\nmicrobes and the organic substrates they utilise. In the examples cited in\nrelation to fermentation of dough, cheese making and production of\nbeverages, the main gas produced was CO₂. However, certain bacteria,\nwhich grow anaerobically on cellulosic material, produce large amount\nof methane along with CO2 and H2. These bacteria are collectively called\nmethanogens, and one such common bacterium is Methanobacterium.\nThese bacteria are commonly found in the anaerobic sludge during\nsewage treatment. These bacteria are also present in the rumen (a part of\nstomach) of cattle. A lot of cellulosic material present in the food of cattle\nis also present in the rumen. In rumen, these bacteria help in the\nbreakdown of cellulose and play an important role in the nutrition of\ncattle. Do you think we, human beings, are able to digest the celluose\npresent in our foods?Thus, the excreta (dung) of cattle, commonly called\ngobar, is rich in these bacteria. Dung can be used for generation of biogas,\ncommonly called gobar gas.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.524,
+            "x_max": 0.6982,
+            "y_max": 0.8698,
+            "width": 0.6258,
+            "height": 0.3458
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "The biogas plant consists of a concrete tank (10-15 feet deep) in which\nbio-wastes are collected and a slurry of dung is fed. A floating cover is",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.8749,
+            "x_max": 0.697,
+            "y_max": 0.9066,
+            "width": 0.6241,
+            "height": 0.0317
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "155",
+          "bbox": {
+            "x_min": 0.8546,
+            "y_min": 0.7918,
+            "x_max": 0.8984,
+            "y_max": 0.8059,
+            "width": 0.0438,
+            "height": 0.0141
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.0805,
+            "x_max": 0.9282,
+            "y_max": 0.0887,
+            "width": 0.0718,
+            "height": 0.0081
+          },
+          "confidence": 0.9804
+        },
+        {
+          "text": "Dung Water",
+          "bbox": {
+            "x_min": 0.136,
+            "y_min": 0.2374,
+            "x_max": 0.2434,
+            "y_max": 0.2476,
+            "width": 0.1074,
+            "height": 0.0103
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "(CH4 + CO2 + ----- )",
+          "bbox": {
+            "x_min": 0.2936,
+            "y_min": 0.2356,
+            "x_max": 0.4139,
+            "y_max": 0.2451,
+            "width": 0.1203,
+            "height": 0.0094
+          },
+          "confidence": 0.897
+        },
+        {
+          "text": "156",
+          "bbox": {
+            "x_min": 0.101,
+            "y_min": 0.7918,
+            "x_max": 0.1448,
+            "y_max": 0.8055,
+            "width": 0.0438,
+            "height": 0.0137
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "Gas-holder",
+          "bbox": {
+            "x_min": 0.4513,
+            "y_min": 0.2022,
+            "x_max": 0.5435,
+            "y_max": 0.2104,
+            "width": 0.0922,
+            "height": 0.0081
+          },
+          "confidence": 0.9812
+        },
+        {
+          "text": "Sludge",
+          "bbox": {
+            "x_min": 0.505,
+            "y_min": 0.2378,
+            "x_max": 0.5616,
+            "y_max": 0.2489,
+            "width": 0.0566,
+            "height": 0.0111
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "Digester",
+          "bbox": {
+            "x_min": 0.4577,
+            "y_min": 0.3916,
+            "x_max": 0.5242,
+            "y_max": 0.4023,
+            "width": 0.0665,
+            "height": 0.0107
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "Gas placed over the slurry, which\nkeeps on rising as the gas is\nproduced in the tank due to the\nmicrobial activity. The biogas\nplant has an outlet, which is\nconnected to a pipe to supply\nbiogas to nearby houses. The\nspent slurry is removed through\nanother outlet and may be used\nas fertiliser. Cattle dung is\navailable in large quantities in\nrural areas where cattle are used\nfor a variety of purposes. So\nbiogas plants are more often\nbuilt in rural areas. The biogas\nthus produced is used for\ncooking and lighting. The\npicture of a biogas plant is\nshown in Figure 8.8. The\ntechnology of biogas production\nwas developed in India mainly",
+          "bbox": {
+            "x_min": 0.6019,
+            "y_min": 0.1131,
+            "x_max": 0.927,
+            "y_max": 0.4897,
+            "width": 0.3252,
+            "height": 0.3766
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "RT",
+          "bbox": {
+            "x_min": 0.4939,
+            "y_min": 0.3963,
+            "x_max": 0.6252,
+            "y_max": 0.4833,
+            "width": 0.1313,
+            "height": 0.087
+          },
+          "confidence": 0.964
+        },
+        {
+          "text": "Figure 8.8 A typical biogas plant",
+          "bbox": {
+            "x_min": 0.2294,
+            "y_min": 0.4554,
+            "x_max": 0.5085,
+            "y_max": 0.4679,
+            "width": 0.279,
+            "height": 0.0124
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "due to the efforts of Indian Agricultural Research Institute (IARI) and\nKhadi and Village Industries Commission (KVIC). If your school is situated\nin a village or near a village, it would be very interesting to enquire if there\nare any biogas plants nearby. Visit the biogas plant and learn more about\nit from the people who are actually managing it.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.4944,
+            "x_max": 0.9264,
+            "y_max": 0.5797,
+            "width": 0.6246,
+            "height": 0.0853
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "8.5 MICROBES AS BIOCONTROL AGENTS",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.5985,
+            "x_max": 0.7064,
+            "y_max": 0.6131,
+            "width": 0.4046,
+            "height": 0.0146
+          },
+          "confidence": 0.9768
+        },
+        {
+          "text": "Biocontrol refers to the use of biological methods for controlling plant\ndiseases and pests. In modern society, these problems have been tackled\nincreasingly by the use of chemicals – by use of insecticides and pesticides.\nThese chemicals are toxic and extremely harmful, to human beings and\nanimals alike, and have been polluting our environment (soil, ground\nwater), fruits, vegetables and crop plants. Our soil is also polluted through\nwater\nour use of weedicides to remove weeds.",
+          "bbox": {
+            "x_min": 0.2983,
+            "y_min": 0.6195,
+            "x_max": 0.9299,
+            "y_max": 0.7519,
+            "width": 0.6316,
+            "height": 0.1324
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1886,
+            "y_min": 0.7091,
+            "x_max": 0.3263,
+            "y_max": 0.8153,
+            "width": 0.1378,
+            "height": 0.1063
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "Biological control of pests and diseases: In agriculture, there is a\nmethod of controlling pests that relies on natural predation rather than\nintroduced chemicals. A key belief of the organic farmer is that biodiversity\nfurthers health. The more variety a landscape has, the more sustainable\nit is. The organic farmer, therefore, works to create a system where the\ninsects that are sometimes called pests are not eradicated, but instead\nare kept at manageable levels by a complex system of checks and balances\nwithin a living and vibrant ecosystem. Contrary to the ‘conventional'\nfarming practices which often use chemical methods to kill both useful",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.7536,
+            "x_max": 0.927,
+            "y_max": 0.9092,
+            "width": 0.6258,
+            "height": 0.1555
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "MICROBES IN HUMAN WELFARE",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.0788,
+            "x_max": 0.3018,
+            "y_max": 0.0887,
+            "width": 0.23,
+            "height": 0.0099
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "and harmful life forms indiscriminately, this is a holistic approach that\nseeks to develop an understanding of the webs of interaction between the\nmyriad of organisms that constitute the field fauna and flora. The organic\nfarmer holds the view that the eradication of the creatures that are often\ndescribed as pests is not only possible, but also undesirable, for without\nthem the beneficial predatory and parasitic insects which depend upon\nthem as food or hosts would not be able to survive. Thus, the use of\nbiocontrol measures will greatly reduce our dependence on toxic chemicals\nand pesticides. An important part of the biological farming approach is\nto become familiar with the various life forms that inhabit the field,\npredators as well as pests, and also their life cycles, patterns of feeding\nand the habitats that they prefer. This will help develop appropriate means\nof biocontrol.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.1123,
+            "x_max": 0.6982,
+            "y_max": 0.3398,
+            "width": 0.6258,
+            "height": 0.2275
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.69,
+            "y_min": 0.3081,
+            "x_max": 0.871,
+            "y_max": 0.4439,
+            "width": 0.181,
+            "height": 0.1358
+          },
+          "confidence": 0.9826
+        },
+        {
+          "text": "The very familiar beetle with red and black markings – the Ladybird,\nand Dragonflies are useful to get rid of aphids and mosquitoes,\nrespectively. An example of microbial biocontrol agents that can be\nintroduced in order to control butterfly caterpillars is the bacteria Bacillus\nthuringiensis (often written as Bt). These are available in sachets as dried\nspores which are mixed with water and sprayed onto vulnerable plants\nsuch as brassicas and fruit trees, where these are eaten by the insect\nlarvae. In the gut of the larvae, the toxin is released and the larvae get\nkilled. The bacterial disease will kill the caterpillars, but leave other insects\nunharmed. Because of the development of methods of genetic engineering\nin the last decade or so, the scientists have introduced B. thuringiensis\ntoxin genes into plants. Such plants are resistant to attack by insect pests.\nBt-cotton is one such example, which is being cultivated in some states\nof our country. You will learn more about this in chapter 10.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.347,
+            "x_max": 0.6976,
+            "y_max": 0.5964,
+            "width": 0.6258,
+            "height": 0.2494
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "A biological control being developed for use in the treatment of plant\ndisease is the fungus Trichoderma. Trichoderma species are free-living\nfungi that are very common in the root ecosystems. They are effective\nbiocontrol agents of several plant pathogens.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.6003,
+            "x_max": 0.6976,
+            "y_max": 0.6684,
+            "width": 0.6246,
+            "height": 0.0681
+          },
+          "confidence": 0.9971
+        },
+        {
+          "text": "Baculoviruses are pathogens that attack insects and other arthropods.\nThe majority of baculoviruses used as biological control agents are in the\ngenus Nucleopolyhedrovirus. These viruses are excellent candidates for\nspecies-specific, narrow spectrum insecticidal applications. They have\nbeen shown to have no negative impacts on plants, mammals, birds, fish\nor even on non-target insects. This is especially desirable when beneficial\ninsects are being conserved to aid in an overall integrated pest\nmanagement (IPM) programme, or when an ecologically sensitive area is\nbeing treated.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.6731,
+            "x_max": 0.697,
+            "y_max": 0.8303,
+            "width": 0.6252,
+            "height": 0.1572
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "8.6 MICROBES AS BIOFERTILISERS",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.8479,
+            "x_max": 0.4227,
+            "y_max": 0.8625,
+            "width": 0.3508,
+            "height": 0.0146
+          },
+          "confidence": 0.984
+        },
+        {
+          "text": "With our present day life styles environmental pollution is a major cause\nof concern. The use of the chemical fertilisers to meet the ever-increasing",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.8775,
+            "x_max": 0.6964,
+            "y_max": 0.9083,
+            "width": 0.6246,
+            "height": 0.0308
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "157",
+          "bbox": {
+            "x_min": 0.8552,
+            "y_min": 0.7922,
+            "x_max": 0.8973,
+            "y_max": 0.8059,
+            "width": 0.042,
+            "height": 0.0137
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "158",
+          "bbox": {
+            "x_min": 0.1004,
+            "y_min": 0.7918,
+            "x_max": 0.1448,
+            "y_max": 0.8059,
+            "width": 0.0444,
+            "height": 0.0141
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.0805,
+            "x_max": 0.9282,
+            "y_max": 0.0887,
+            "width": 0.0718,
+            "height": 0.0081
+          },
+          "confidence": 0.9804
+        },
+        {
+          "text": "demand of agricultural produce has contributed significantly to\nthis pollution. Of course, we have now realised that there are problems\nassociated with the overuse of chemical fertilisers and there is a\nlarge pressure to switch to organic farming – the use of biofertilisers.\nBiofertilisers are organisms that enrich the nutrient quality of the soil.\nThe main sources of biofertilisers are bacteria, fungi and cyanobacteria.\nYou have studied about the nodules on the roots of leguminous plants\nformed by the symbiotic association of Rhizobium. These bacteria fix\natmospheric nitrogen into organic forms, which is used by the plant as\nnutrient. Other bacteria can fix atmospheric nitrogen while free-living in\nthe soil (examples Azospirillum and Azotobacter), thus enriching the\nnitrogen content of the soil.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.1123,
+            "x_max": 0.9259,
+            "y_max": 0.3196,
+            "width": 0.6246,
+            "height": 0.2074
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "Fungi are also known to form symbiotic associations with plants\n(mycorrhiza). Many members of the genus Glomus form mycorrhiza.\nThe fungal symbiont in these associations absorbs phosphorus from\nsoil and passes it to the plant. Plants having such associations show\nother benefits also, such as resistance to root-borne pathogens, tolerance\nto salinity and drought, and an overall increase in plant growth and\ndevelopment. Can you tell what advantage the fungus derives from",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.3248,
+            "x_max": 0.927,
+            "y_max": 0.4439,
+            "width": 0.6258,
+            "height": 0.1191
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "this association?",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.4486,
+            "x_max": 0.4577,
+            "y_max": 0.4589,
+            "width": 0.1547,
+            "height": 0.0103
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "Cyanobacteria are autotrophic microbes widely distributed in aquatic\nand terrestrial environments many of which can fix atmospheric nitrogen,\ne.g. Anabaena, Nostoc, Oscillatoria, etc. In paddy fields, cyanobacteria\nserve as an important biofertiliser. Blue green algae also add organic matter\nto the soil and increase its fertility. Currently, in our country, a number\nof biofertilisers are available commercially in the market and farmers use\nthese regularly in their fields to replenish soil nutrients and to reduce\ndependence on chemical fertilisers.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.4657,
+            "x_max": 0.9264,
+            "y_max": 0.6037,
+            "width": 0.6246,
+            "height": 0.138
+          },
+          "confidence": 0.9972
+        },
+        {
+          "text": "be",
+          "bbox": {
+            "x_min": 0.3689,
+            "y_min": 0.5805,
+            "x_max": 0.5126,
+            "y_max": 0.6765,
+            "width": 0.1436,
+            "height": 0.096
+          },
+          "confidence": 0.9608
+        },
+        {
+          "text": "SUMMARY",
+          "bbox": {
+            "x_min": 0.5546,
+            "y_min": 0.6345,
+            "x_max": 0.6737,
+            "y_max": 0.6461,
+            "width": 0.1191,
+            "height": 0.0116
+          },
+          "confidence": 0.969
+        },
+        {
+          "text": "Microbes are a very important component of life on earth. Not all\nmicrobes are pathogenic. Many microbes are very useful to human\nbeings. We use microbes and microbially derived products almost every\nday. Bacteria called lactic acid bacteria (LAB) grow in milk to convert it\ninto curd. The dough, which is used to make bread, is fermented by\nyeast called Saccharomyces cerevisiae. Certain dishes such as idli and\ndosa, are made from dough fermented by microbes. Bacteria and fungi\nare used to impart particular texture, taste and flavor to cheese. Microbes\nare used to produce industrial products like lactic acid, acetic acid\nand alcohol, which are used in a variety of processes in the industry.\nAntibiotics like penicillins produced by useful microbes are used to kill\ndisease-causing harmful microbes. Antibiotics have played a major role\nin controlling infectious diseases like diphtheria, whooping cough and",
+          "bbox": {
+            "x_min": 0.3205,
+            "y_min": 0.6692,
+            "x_max": 0.9043,
+            "y_max": 0.8959,
+            "width": 0.5838,
+            "height": 0.2266
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "MICROBES IN HUMAN WELFARE",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.0788,
+            "x_max": 0.3018,
+            "y_max": 0.0887,
+            "width": 0.23,
+            "height": 0.0099
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "pneumonia. For more than a hundred years, microbes are being used\nto treat sewage (waste water) by the process of activated sludge formation\nand this helps in recycling of water in nature. Methanogens produce\nmethane (biogas) while degrading plant waste. Biogas produced by\nmicrobes is used as a source of energy in rural areas. Microbes can also\nbe used to kill harmful pests, a process called as biocontrol. The\nbiocontrol measures help us to avoid heavy use of toxic pesticides for\ncontrolling pests. There is a need these days to push for use of\nbiofertilisers in place of chemical fertilisers. It is clear from the diverse\nuses human beings have put microbes to that they play an important\nrole in the welfare of human society.",
+          "bbox": {
+            "x_min": 0.094,
+            "y_min": 0.1294,
+            "x_max": 0.6853,
+            "y_max": 0.3196,
+            "width": 0.5914,
+            "height": 0.1902
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "EXERCISES K",
+          "bbox": {
+            "x_min": 0.2504,
+            "y_min": 0.3308,
+            "x_max": 0.6223,
+            "y_max": 0.4482,
+            "width": 0.3719,
+            "height": 0.1174
+          },
+          "confidence": 0.9446
+        },
+        {
+          "text": "ished",
+          "bbox": {
+            "x_min": 0.6626,
+            "y_min": 0.3072,
+            "x_max": 0.8739,
+            "y_max": 0.4567,
+            "width": 0.2113,
+            "height": 0.1495
+          },
+          "confidence": 0.9603
+        },
+        {
+          "text": "1. Bacteria cannot be seen with the naked eyes, but these can be seen\nwith the help of a microscope. If you have to carry a sample from your\nhome to your biology laboratory to demonstrate the presence of microbes\nwith the help of a microscope, which sample would you carry and why?",
+          "bbox": {
+            "x_min": 0.0835,
+            "y_min": 0.4349,
+            "x_max": 0.6982,
+            "y_max": 0.4974,
+            "width": 0.6147,
+            "height": 0.0626
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "2. Give examples to prove that microbes release gases during metabolism.\n3. In which food would you find lactic acid bacteria? Mention some of\ntheir useful applications.",
+          "bbox": {
+            "x_min": 0.0817,
+            "y_min": 0.5039,
+            "x_max": 0.6994,
+            "y_max": 0.5518,
+            "width": 0.6176,
+            "height": 0.048
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "4. Name some traditional Indian foods made of wheat, rice and Bengal\ngram (or their products) which involve use of microbes.",
+          "bbox": {
+            "x_min": 0.0806,
+            "y_min": 0.5596,
+            "x_max": 0.697,
+            "y_max": 0.5878,
+            "width": 0.6165,
+            "height": 0.0283
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "5. In which way have microbes played a major role in controlling diseases\ncaused by harmful bacteria?",
+          "bbox": {
+            "x_min": 0.0817,
+            "y_min": 0.5951,
+            "x_max": 0.697,
+            "y_max": 0.623,
+            "width": 0.6153,
+            "height": 0.0278
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "which alor ro",
+          "bbox": {
+            "x_min": 0.3894,
+            "y_min": 0.5938,
+            "x_max": 0.502,
+            "y_max": 0.6397,
+            "width": 0.1127,
+            "height": 0.0458
+          },
+          "confidence": 0.6855
+        },
+        {
+          "text": "6. Name any two species of fungus, which are used in the production of\nthe antibiotics.",
+          "bbox": {
+            "x_min": 0.0811,
+            "y_min": 0.6307,
+            "x_max": 0.6988,
+            "y_max": 0.6564,
+            "width": 0.6176,
+            "height": 0.0257
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "7. What is sewage? In which way can sewage be harmful to us?",
+          "bbox": {
+            "x_min": 0.0817,
+            "y_min": 0.6654,
+            "x_max": 0.6235,
+            "y_max": 0.6782,
+            "width": 0.5417,
+            "height": 0.0129
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "8. What is the key difference between primary and secondary sewage\ntreatment?",
+          "bbox": {
+            "x_min": 0.0817,
+            "y_min": 0.6855,
+            "x_max": 0.697,
+            "y_max": 0.7104,
+            "width": 0.6153,
+            "height": 0.0249
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "9.\n10.",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.7211,
+            "x_max": 0.0963,
+            "y_max": 0.7498,
+            "width": 0.0222,
+            "height": 0.0287
+          },
+          "confidence": 0.9771
+        },
+        {
+          "text": "Do you think microbes can also be used as source of energy? If yes, how?\nMicrobes can be used to decrease the use of chemical fertilisers and\npesticides. Explain how this can be accomplished.",
+          "bbox": {
+            "x_min": 0.1133,
+            "y_min": 0.7211,
+            "x_max": 0.6976,
+            "y_max": 0.7682,
+            "width": 0.5844,
+            "height": 0.0471
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "11. Three water samples namely river water, untreated sewage water and\nsecondary effluent discharged from a sewage treatment plant were\nsubjected to BOD test. The samples were labelled A, B and C; but the\nlaboratory attendant did not note which was which. The BOD values\nof the three samples A, B and C were recorded as 20mg/L, 8mg/L and\n400mg/L, respectively. Which sample of the water is most polluted?\nCan you assign the correct label to each assuming the river water is\nrelatively clean?",
+          "bbox": {
+            "x_min": 0.0753,
+            "y_min": 0.7759,
+            "x_max": 0.6982,
+            "y_max": 0.9045,
+            "width": 0.6229,
+            "height": 0.1285
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "159",
+          "bbox": {
+            "x_min": 0.8576,
+            "y_min": 0.7918,
+            "x_max": 0.899,
+            "y_max": 0.8055,
+            "width": 0.0414,
+            "height": 0.0137
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.0805,
+            "x_max": 0.9282,
+            "y_max": 0.0887,
+            "width": 0.0718,
+            "height": 0.0081
+          },
+          "confidence": 0.9804
+        },
+        {
+          "text": "12. Find out the name of the microbes from which Cyclosporin A (an\nimmunosuppressive drug) and Statins (blood cholesterol lowering\nagents) are obtained.",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.1135,
+            "x_max": 0.9264,
+            "y_max": 0.1607,
+            "width": 0.6235,
+            "height": 0.0471
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "13. Find out the role of microbes in the following and discuss it with your teacher.",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.1701,
+            "x_max": 0.9247,
+            "y_max": 0.1817,
+            "width": 0.6217,
+            "height": 0.0116
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "(a) Single cell protein (SCP)",
+          "bbox": {
+            "x_min": 0.3433,
+            "y_min": 0.1898,
+            "x_max": 0.5698,
+            "y_max": 0.2022,
+            "width": 0.2265,
+            "height": 0.0124
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "(b) Soil",
+          "bbox": {
+            "x_min": 0.3433,
+            "y_min": 0.2099,
+            "x_max": 0.3999,
+            "y_max": 0.2211,
+            "width": 0.0566,
+            "height": 0.0111
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "14. Arrange the following in the decreasing order (most important first) of\ntheir importance, for the welfare of human society. Give reasons for\nyour answer.",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.2305,
+            "x_max": 0.927,
+            "y_max": 0.2781,
+            "width": 0.6241,
+            "height": 0.0476
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "Biogas, Citric acid, Penicillin and Curd",
+          "bbox": {
+            "x_min": 0.3421,
+            "y_min": 0.2866,
+            "x_max": 0.6702,
+            "y_max": 0.2982,
+            "width": 0.3281,
+            "height": 0.0116
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "15. How do biofertilisers enrich the fertility of the soil?",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.3072,
+            "x_max": 0.7653,
+            "y_max": 0.3192,
+            "width": 0.4618,
+            "height": 0.012
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "© NCERT",
+          "bbox": {
+            "x_min": 0.2919,
+            "y_min": 0.3963,
+            "x_max": 0.6124,
+            "y_max": 0.6268,
+            "width": 0.3205,
+            "height": 0.2305
+          },
+          "confidence": 0.8899
+        },
+        {
+          "text": "not to be republished",
+          "bbox": {
+            "x_min": 0.1839,
+            "y_min": 0.3063,
+            "x_max": 0.8832,
+            "y_max": 0.8179,
+            "width": 0.6994,
+            "height": 0.5116
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "160",
+          "bbox": {
+            "x_min": 0.101,
+            "y_min": 0.7922,
+            "x_max": 0.1436,
+            "y_max": 0.8051,
+            "width": 0.0426,
+            "height": 0.0129
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

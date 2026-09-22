@@ -1,0 +1,4069 @@
+{
+  "chapter_id": "12th_biology_ch06_evolution_ch06_evolution_en",
+  "total_pages": 17,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "12083CH07",
+          "bbox": {
+            "x_min": 0.152,
+            "y_min": 0.1875,
+            "x_max": 0.1981,
+            "y_max": 0.1918,
+            "width": 0.0462,
+            "height": 0.0043
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "CHAPTER 6",
+          "bbox": {
+            "x_min": 0.0678,
+            "y_min": 0.2119,
+            "x_max": 0.3068,
+            "y_max": 0.2372,
+            "width": 0.239,
+            "height": 0.0253
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "EVOLUTION",
+          "bbox": {
+            "x_min": 0.0707,
+            "y_min": 0.2838,
+            "x_max": 0.3536,
+            "y_max": 0.3134,
+            "width": 0.2829,
+            "height": 0.0295
+          },
+          "confidence": 0.9808
+        },
+        {
+          "text": "T",
+          "bbox": {
+            "x_min": 0.5184,
+            "y_min": 0.3926,
+            "x_max": 0.6055,
+            "y_max": 0.4542,
+            "width": 0.0871,
+            "height": 0.0616
+          },
+          "confidence": 0.917
+        },
+        {
+          "text": "lished",
+          "bbox": {
+            "x_min": 0.6236,
+            "y_min": 0.3035,
+            "x_max": 0.8907,
+            "y_max": 0.4782,
+            "width": 0.2671,
+            "height": 0.1747
+          },
+          "confidence": 0.7647
+        },
+        {
+          "text": "6.1",
+          "bbox": {
+            "x_min": 0.1105,
+            "y_min": 0.4495,
+            "x_max": 0.1385,
+            "y_max": 0.4589,
+            "width": 0.0281,
+            "height": 0.0094
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "6.2",
+          "bbox": {
+            "x_min": 0.1116,
+            "y_min": 0.4683,
+            "x_max": 0.1391,
+            "y_max": 0.4803,
+            "width": 0.0275,
+            "height": 0.012
+          },
+          "confidence": 0.9825
+        },
+        {
+          "text": "Origin of Life",
+          "bbox": {
+            "x_min": 0.159,
+            "y_min": 0.4495,
+            "x_max": 0.2648,
+            "y_max": 0.4615,
+            "width": 0.1058,
+            "height": 0.012
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "Evolution of Life Forms - A\nTheory",
+          "bbox": {
+            "x_min": 0.159,
+            "y_min": 0.4683,
+            "x_max": 0.3746,
+            "y_max": 0.4983,
+            "width": 0.2157,
+            "height": 0.03
+          },
+          "confidence": 0.9845
+        },
+        {
+          "text": "6.3 What are the Evidences",
+          "bbox": {
+            "x_min": 0.1122,
+            "y_min": 0.506,
+            "x_max": 0.3501,
+            "y_max": 0.5158,
+            "width": 0.2379,
+            "height": 0.0098
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "for Evolution?",
+          "bbox": {
+            "x_min": 0.1572,
+            "y_min": 0.5244,
+            "x_max": 0.2724,
+            "y_max": 0.5355,
+            "width": 0.1151,
+            "height": 0.0111
+          },
+          "confidence": 0.9822
+        },
+        {
+          "text": "6.4 What is Adaptive",
+          "bbox": {
+            "x_min": 0.1116,
+            "y_min": 0.5432,
+            "x_max": 0.2987,
+            "y_max": 0.5544,
+            "width": 0.187,
+            "height": 0.0111
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "6.5",
+          "bbox": {
+            "x_min": 0.1116,
+            "y_min": 0.5796,
+            "x_max": 0.1379,
+            "y_max": 0.592,
+            "width": 0.0263,
+            "height": 0.0124
+          },
+          "confidence": 0.9793
+        },
+        {
+          "text": "6.6",
+          "bbox": {
+            "x_min": 0.1122,
+            "y_min": 0.5989,
+            "x_max": 0.1391,
+            "y_max": 0.6104,
+            "width": 0.0269,
+            "height": 0.0116
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "Radiation?",
+          "bbox": {
+            "x_min": 0.1578,
+            "y_min": 0.5608,
+            "x_max": 0.2484,
+            "y_max": 0.5698,
+            "width": 0.0906,
+            "height": 0.009
+          },
+          "confidence": 0.985
+        },
+        {
+          "text": "Biological Evolution",
+          "bbox": {
+            "x_min": 0.159,
+            "y_min": 0.5796,
+            "x_max": 0.3191,
+            "y_max": 0.5916,
+            "width": 0.1601,
+            "height": 0.012
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "Mechanism of Evolution",
+          "bbox": {
+            "x_min": 0.1596,
+            "y_min": 0.5989,
+            "x_max": 0.3524,
+            "y_max": 0.6104,
+            "width": 0.1929,
+            "height": 0.0116
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "6.7 Hardy - Weinberg",
+          "bbox": {
+            "x_min": 0.111,
+            "y_min": 0.6186,
+            "x_max": 0.301,
+            "y_max": 0.6314,
+            "width": 0.1899,
+            "height": 0.0128
+          },
+          "confidence": 0.9815
+        },
+        {
+          "text": "Principle",
+          "bbox": {
+            "x_min": 0.1601,
+            "y_min": 0.637,
+            "x_max": 0.2314,
+            "y_max": 0.6481,
+            "width": 0.0713,
+            "height": 0.0111
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "6.8 A Brief Account of",
+          "bbox": {
+            "x_min": 0.1116,
+            "y_min": 0.6554,
+            "x_max": 0.3051,
+            "y_max": 0.6678,
+            "width": 0.1935,
+            "height": 0.0124
+          },
+          "confidence": 0.9789
+        },
+        {
+          "text": "Evolution",
+          "bbox": {
+            "x_min": 0.1578,
+            "y_min": 0.6738,
+            "x_max": 0.2344,
+            "y_max": 0.6828,
+            "width": 0.0766,
+            "height": 0.009
+          },
+          "confidence": 0.9792
+        },
+        {
+          "text": "6.9 Origin and Evolution of\nMan",
+          "bbox": {
+            "x_min": 0.1122,
+            "y_min": 0.6926,
+            "x_max": 0.3507,
+            "y_max": 0.7196,
+            "width": 0.2385,
+            "height": 0.027
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "not to",
+          "bbox": {
+            "x_min": 0.1859,
+            "y_min": 0.6443,
+            "x_max": 0.4167,
+            "y_max": 0.8134,
+            "width": 0.2309,
+            "height": 0.1691
+          },
+          "confidence": 0.8117
+        },
+        {
+          "text": "s the",
+          "bbox": {
+            "x_min": 0.6312,
+            "y_min": 0.4628,
+            "x_max": 0.6756,
+            "y_max": 0.4803,
+            "width": 0.0444,
+            "height": 0.0176
+          },
+          "confidence": 0.9282
+        },
+        {
+          "text": "Evolutionary Biology is the study of history of life forms\non earth. What exactly is evolution? To understand the\nchanges in flora and fauna that have occurred over millions\nof years on earth, we must have an understanding of the\ncontext of origin of life, i.e., evolution of earth, of stars and\nindeed of the universe itself. What follows is the longest of\nall the construed and conjectured stories. This is the story\nof origin of life and evolution of life forms or biodiversity on\nplanet earth in the context of evolution of earth and against\nthe background of evolution of universe itself.",
+          "bbox": {
+            "x_min": 0.4366,
+            "y_min": 0.4662,
+            "x_max": 0.931,
+            "y_max": 0.6426,
+            "width": 0.4944,
+            "height": 0.1764
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "6.1 ORIGIN OF LIFE",
+          "bbox": {
+            "x_min": 0.4348,
+            "y_min": 0.661,
+            "x_max": 0.6312,
+            "y_max": 0.6734,
+            "width": 0.1964,
+            "height": 0.0124
+          },
+          "confidence": 0.9816
+        },
+        {
+          "text": "When we look at stars on a clear night sky we are, in a\nway, looking back in time. Stellar distances are measured\nin light years. What we see today is an object whose emitted\nlight started its journey millions of year back and from\ntrillions of kilometres away and reaching our eyes now.\nHowever, when we see objects in our immediate\nsurroundings we see them instantly and hence in the\npresent time. Therefore, when we see stars we apparently\nare peeping into the past.",
+          "bbox": {
+            "x_min": 0.4342,
+            "y_min": 0.6892,
+            "x_max": 0.9299,
+            "y_max": 0.8485,
+            "width": 0.4956,
+            "height": 0.1592
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "The origin of life is considered a unique event in the\nhistory of universe. The universe is vast. Relatively speaking\nthe earth itself is almost only a speck. The universe is very",
+          "bbox": {
+            "x_min": 0.4366,
+            "y_min": 0.8523,
+            "x_max": 0.9305,
+            "y_max": 0.9028,
+            "width": 0.4939,
+            "height": 0.0505
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.45,
+            "y_min": 0.9833,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0994,
+            "height": 0.009
+          },
+          "confidence": 0.9818
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "EVOLUTION",
+          "bbox": {
+            "x_min": 0.0678,
+            "y_min": 0.0783,
+            "x_max": 0.1531,
+            "y_max": 0.0873,
+            "width": 0.0853,
+            "height": 0.009
+          },
+          "confidence": 0.9789
+        },
+        {
+          "text": "old – almost 13.8 billion years old. Huge clusters of galaxies comprise the\nuniverse. Galaxies contain stars and clouds of gas and dust. Considering\nthe size of universe, earth is indeed a speck. The Big Bang theory attempts\nto explain to us the origin of universe. It talks of a singular huge explosion\nunimaginable in physical terms. The universe expanded and hence, the\ntemperature came down. Hydrogen and Helium formed sometime later.\nThe gases condensed under gravitation and formed the galaxies of the\npresent day universe. In the solar system of the milky way galaxy, earth\nwas supposed to have been formed about 4.5 billion years back. There\nwas no atmosphere on early earth. Water vapour, methane, carbondioxide\nand ammonia released from molten mass covered the surface. The UV rays\nfrom the sun brokeup water into Hydrogen and Oxygen and the lighter H\nescaped. Oxygen combined with ammonia and methane to form water,\nCO2 and others. The ozone layer was formed. As it cooled, the water vapor\nfell as rain, to fill all the depressions and form oceans. Life appeared 500\nmillion years after the formation of earth, i.e., almost four billion years back.",
+          "bbox": {
+            "x_min": 0.0707,
+            "y_min": 0.1104,
+            "x_max": 0.7019,
+            "y_max": 0.3968,
+            "width": 0.6312,
+            "height": 0.2864
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6891,
+            "y_min": 0.3082,
+            "x_max": 0.8703,
+            "y_max": 0.4443,
+            "width": 0.1812,
+            "height": 0.1361
+          },
+          "confidence": 0.9734
+        },
+        {
+          "text": "Did life come from outerspace? Some scientists believe that it came\nfrom outside. Early Greek thinkers thought units of life called spores\nwere transferred to different planets including earth. ‘Panspermia' is still\na favourite idea for some astronomers. For a long time it was also believed\nthat life came out of decaying and rotting matter like straw, mud, etc.\nThis was the theory of spontaneous generation. Louis Pasteur by careful\nexperimentation demonstrated that life comes only from pre-existing life.\nHe showed that in pre-sterilised flasks, life did not come from killed yeast\nwhile in another flask open to air, new living organisms arose from ‘killed\nyeast'. Spontaneous generation theory was dismissed once and for all.\nHowever, this did not answer how the first life form came on earth.",
+          "bbox": {
+            "x_min": 0.0713,
+            "y_min": 0.402,
+            "x_max": 0.7019,
+            "y_max": 0.5955,
+            "width": 0.6306,
+            "height": 0.1935
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "Oparin of Russia and Haldane of England proposed that the first form\nof life could have come from pre-existing non-living organic molecules\n(e.g. RNA, protein, etc.) and that formation of life was preceded by chemical\nevolution, i.e., formation of diverse organic molecules from inorganic\nconstituents. The conditions on earth were – high temperature, volcanic\nstorms, reducing atmosphere containing CH4, NH3, etc. In 1953, S.L. Miller,\nan American scientist created similar conditions in a laboratory scale\n(Figure 6.1). He created electric discharge in a closed flask containing\nCH4, H2, NH3, and water vapour at 800°C. He observed formation of amino\nacids. In similar experiments others observed, formation of sugars,\nnitrogen bases, pigment and fats. Analysis of meteorite content also\nrevealed similar compounds indicating that similar processes are\noccurring elsewhere in space. With this limited evidence, the first part of\nthe conjectured story, i.e., chemical evolution was more or less accepted.",
+          "bbox": {
+            "x_min": 0.0719,
+            "y_min": 0.6015,
+            "x_max": 0.7025,
+            "y_max": 0.8519,
+            "width": 0.6306,
+            "height": 0.2504
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "We have no idea about how the first self replicating metabolic capsule\nof life arose. The first non-cellular forms of life could have originated\n3 billion years back. They would have been giant molecules (RNA, Protein,",
+          "bbox": {
+            "x_min": 0.0719,
+            "y_min": 0.8562,
+            "x_max": 0.7008,
+            "y_max": 0.9054,
+            "width": 0.6289,
+            "height": 0.0492
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "111",
+          "bbox": {
+            "x_min": 0.8515,
+            "y_min": 0.7937,
+            "x_max": 0.8942,
+            "y_max": 0.8048,
+            "width": 0.0427,
+            "height": 0.0111
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5488,
+            "y_max": 0.9919,
+            "width": 0.0994,
+            "height": 0.0086
+          },
+          "confidence": 0.9845
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "112",
+          "bbox": {
+            "x_min": 0.0953,
+            "y_min": 0.7941,
+            "x_max": 0.1432,
+            "y_max": 0.8069,
+            "width": 0.0479,
+            "height": 0.0128
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "To vacuum",
+          "bbox": {
+            "x_min": 0.3647,
+            "y_min": 0.1618,
+            "x_max": 0.4506,
+            "y_max": 0.1699,
+            "width": 0.0859,
+            "height": 0.0081
+          },
+          "confidence": 0.9772
+        },
+        {
+          "text": "pump",
+          "bbox": {
+            "x_min": 0.3852,
+            "y_min": 0.1772,
+            "x_max": 0.4325,
+            "y_max": 0.1858,
+            "width": 0.0473,
+            "height": 0.0086
+          },
+          "confidence": 0.9776
+        },
+        {
+          "text": "Boiling water",
+          "bbox": {
+            "x_min": 0.4395,
+            "y_min": 0.3913,
+            "x_max": 0.5441,
+            "y_max": 0.4007,
+            "width": 0.1046,
+            "height": 0.0094
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "CH4",
+          "bbox": {
+            "x_min": 0.5383,
+            "y_min": 0.2059,
+            "x_max": 0.571,
+            "y_max": 0.2166,
+            "width": 0.0327,
+            "height": 0.0107
+          },
+          "confidence": 0.9343
+        },
+        {
+          "text": "NH3",
+          "bbox": {
+            "x_min": 0.5389,
+            "y_min": 0.2205,
+            "x_max": 0.5681,
+            "y_max": 0.2307,
+            "width": 0.0292,
+            "height": 0.0103
+          },
+          "confidence": 0.7897
+        },
+        {
+          "text": "Gases",
+          "bbox": {
+            "x_min": 0.6242,
+            "y_min": 0.2273,
+            "x_max": 0.6727,
+            "y_max": 0.2354,
+            "width": 0.0485,
+            "height": 0.0081
+          },
+          "confidence": 0.9778
+        },
+        {
+          "text": "H₂O",
+          "bbox": {
+            "x_min": 0.5389,
+            "y_min": 0.2346,
+            "x_max": 0.5693,
+            "y_max": 0.2444,
+            "width": 0.0304,
+            "height": 0.0098
+          },
+          "confidence": 0.8065
+        },
+        {
+          "text": "H2",
+          "bbox": {
+            "x_min": 0.5371,
+            "y_min": 0.2491,
+            "x_max": 0.5576,
+            "y_max": 0.2598,
+            "width": 0.0205,
+            "height": 0.0107
+          },
+          "confidence": 0.6553
+        },
+        {
+          "text": "Electrodes",
+          "bbox": {
+            "x_min": 0.7271,
+            "y_min": 0.1259,
+            "x_max": 0.8071,
+            "y_max": 0.1331,
+            "width": 0.0801,
+            "height": 0.0073
+          },
+          "confidence": 0.983
+        },
+        {
+          "text": "Spark\ndischarge",
+          "bbox": {
+            "x_min": 0.7107,
+            "y_min": 0.1969,
+            "x_max": 0.7878,
+            "y_max": 0.2205,
+            "width": 0.0771,
+            "height": 0.0235
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "Water out",
+          "bbox": {
+            "x_min": 0.7294,
+            "y_min": 0.2628,
+            "x_max": 0.806,
+            "y_max": 0.2701,
+            "width": 0.0766,
+            "height": 0.0073
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "Condenser",
+          "bbox": {
+            "x_min": 0.7288,
+            "y_min": 0.2881,
+            "x_max": 0.8124,
+            "y_max": 0.2958,
+            "width": 0.0836,
+            "height": 0.0077
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "Water in",
+          "bbox": {
+            "x_min": 0.7259,
+            "y_min": 0.3168,
+            "x_max": 0.7914,
+            "y_max": 0.3236,
+            "width": 0.0655,
+            "height": 0.0068
+          },
+          "confidence": 0.9808
+        },
+        {
+          "text": "Water droplets",
+          "bbox": {
+            "x_min": 0.7276,
+            "y_min": 0.3433,
+            "x_max": 0.8387,
+            "y_max": 0.3545,
+            "width": 0.111,
+            "height": 0.0111
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "-Water containing",
+          "bbox": {
+            "x_min": 0.7218,
+            "y_min": 0.3801,
+            "x_max": 0.8568,
+            "y_max": 0.3908,
+            "width": 0.135,
+            "height": 0.0107
+          },
+          "confidence": 0.9851
+        },
+        {
+          "text": "organic compounds",
+          "bbox": {
+            "x_min": 0.7165,
+            "y_min": 0.3938,
+            "x_max": 0.8662,
+            "y_max": 0.4045,
+            "width": 0.1496,
+            "height": 0.0107
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "Liquid water in trap",
+          "bbox": {
+            "x_min": 0.6148,
+            "y_min": 0.4199,
+            "x_max": 0.7668,
+            "y_max": 0.4311,
+            "width": 0.152,
+            "height": 0.0111
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.858,
+            "y_min": 0.0788,
+            "x_max": 0.9287,
+            "y_max": 0.0873,
+            "width": 0.0707,
+            "height": 0.0086
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "Figure 6.1 Diagrammatic representation of Miller's",
+          "bbox": {
+            "x_min": 0.3951,
+            "y_min": 0.4426,
+            "x_max": 0.8282,
+            "y_max": 0.4555,
+            "width": 0.4331,
+            "height": 0.0128
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "experiment",
+          "bbox": {
+            "x_min": 0.5646,
+            "y_min": 0.458,
+            "x_max": 0.6581,
+            "y_max": 0.4692,
+            "width": 0.0935,
+            "height": 0.0111
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "Polysaccharides, etc.). These capsules reproduced their molecules perhaps.\nThe first cellular form of life did not possibly originate till about 2000\nmillion years ago. These were probably single-cells. All life forms were in\nwater environment only. This version of a biogenesis, i.e., the first form of\nlife arose slowly through evolutionary forces from non-living molecules is\naccepted by majority. However, once formed, how the first cellular forms\nof life could have evolved into the complex biodiversity of today is the\nfascinating story that will be discussed below.",
+          "bbox": {
+            "x_min": 0.3027,
+            "y_min": 0.4914,
+            "x_max": 0.9345,
+            "y_max": 0.6301,
+            "width": 0.6318,
+            "height": 0.1387
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "6.2 EVOLUTION OF LIFE FORMS – A THEORY",
+          "bbox": {
+            "x_min": 0.3027,
+            "y_min": 0.6498,
+            "x_max": 0.7662,
+            "y_max": 0.6631,
+            "width": 0.4635,
+            "height": 0.0133
+          },
+          "confidence": 0.958
+        },
+        {
+          "text": "Conventional religious literature tells us about the theory of special\ncreation. This theory has three connotations. One, that all living organisms\n(species or types) that we see today were created as such. Two, that the\ndiversity was always the same since creation and will be the same in future\nalso. Three, that earth is about 4000 years old. All these ideas were\nstrongly challenged during the nineteenth century. Based on observations\nmade during a sea voyage in a sail ship called H.M.S. Beagle round the\nworld, Charles Darwin concluded that existing living forms share\nsimilarities to varying degrees not only among themselves but also with\nlife forms that existed millions of years ago. Many such life forms do not\nexist any more. There had been extinctions of different life forms in the\nyears gone by just as new forms of life arose at different periods of history\nof earth. There has been gradual evolution of life forms. Any population",
+          "bbox": {
+            "x_min": 0.2987,
+            "y_min": 0.6789,
+            "x_max": 0.9328,
+            "y_max": 0.9075,
+            "width": 0.6341,
+            "height": 0.2286
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.187,
+            "y_min": 0.7089,
+            "x_max": 0.3267,
+            "y_max": 0.8164,
+            "width": 0.1397,
+            "height": 0.1074
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5488,
+            "y_max": 0.9919,
+            "width": 0.0994,
+            "height": 0.0086
+          },
+          "confidence": 0.9845
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "EVOLUTION",
+          "bbox": {
+            "x_min": 0.0678,
+            "y_min": 0.0783,
+            "x_max": 0.1525,
+            "y_max": 0.0873,
+            "width": 0.0847,
+            "height": 0.009
+          },
+          "confidence": 0.9828
+        },
+        {
+          "text": "has built in variation in characteristics. Those characteristics which enable\nsome to survive better in natural conditions (climate, food, physical factors,\netc.) would outbreed others that are less-endowed to survive under such\nnatural conditions. Another word used is fitness of the individual or\npopulation. The fitness, according to Darwin, refers ultimately and only\nto reproductive fitness. Hence, those who are better fit in an environment,\nleave more progeny than others. These, therefore, will survive more and\nhence are selected by nature. He called it natural selection and implied it\nas a mechanism of evolution. Let us also remember that Alfred Wallace, a\nnaturalist who worked in Malay Archipelago had also come to similar\nconclusions around the same time. In due course of time, apparently new\ntypes of organisms are recognisable. All the existing life forms share\nsimilarities and share common ancestors. However, these ancestors were\npresent at different periods in the history of earth (epochs, periods and\neras). The geological history of earth closely correlates with the biological\nhistory of earth. A common permissible conclusion is that earth is very\nold, not thousand of years as was thought earlier but billions of years old.",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.1104,
+            "x_max": 0.6996,
+            "y_max": 0.4105,
+            "width": 0.6306,
+            "height": 0.3001
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "6.3 WHAT ARE THE EVIDENCES FOR EVOLUTION?",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.4307,
+            "x_max": 0.5617,
+            "y_max": 0.4435,
+            "width": 0.4927,
+            "height": 0.0128
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "lished",
+          "bbox": {
+            "x_min": 0.6417,
+            "y_min": 0.3061,
+            "x_max": 0.8743,
+            "y_max": 0.4709,
+            "width": 0.2326,
+            "height": 0.1648
+          },
+          "confidence": 0.8843
+        },
+        {
+          "text": "Evidence that evolution of life forms has indeed taken place on earth has\ncome from many quarters. Fossils are remains of hard parts of\nlife-forms found in rocks. Rocks form sediments and a cross-section of\nearth's crust indicates the arrangement of sediments one over the other\nduring the long history of earth. Different-aged rock sediments contain\nfossils of different life-forms who probably died during the formation of\nthe particular sediment. Some of them appear similar to modern\norganisms (Figure 6.2). They represent extinct organisms (e.g., Dinosaurs).\nA study of fossils in different sedimentary layers indicates the geological\nperiod in which they existed. The study showed that life-forms varied\nover time and certain life forms are restricted to certain geological time-\nspans. Hence, new forms of life have arisen at different times in the history\nof earth. All this is called paleontological evidence. Do you remember how\nthe ages of the fossils are calculated? Do you recollect the method of\nradioactive-dating and the principles behind the procedure?",
+          "bbox": {
+            "x_min": 0.0672,
+            "y_min": 0.4602,
+            "x_max": 0.7025,
+            "y_max": 0.7247,
+            "width": 0.6353,
+            "height": 0.2646
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "Embryological support for evolution was also proposed by Ernst\nHeckel based upon the observation of certain features during embryonic\nstage common to all vertebrates that are absent in adult. For example,\nthe embryos of all vertebrates including human develop a row of vestigial\ngill slit just behind the head but it is a functional organ only in fish and\nnot found in any other adult vertebrates. However, this proposal was\ndisapproved on careful study performed by Karl Ernst von Baer. He noted\nthat embryos never pass through the adult stages of other animals.",
+          "bbox": {
+            "x_min": 0.0684,
+            "y_min": 0.7282,
+            "x_max": 0.6984,
+            "y_max": 0.8682,
+            "width": 0.63,
+            "height": 0.14
+          },
+          "confidence": 0.9968
+        },
+        {
+          "text": "Comparative anatomy and morphology shows similarities and\ndifferences among organisms of today and those that existed years ago.",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.8724,
+            "x_max": 0.6978,
+            "y_max": 0.9037,
+            "width": 0.6277,
+            "height": 0.0312
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "113",
+          "bbox": {
+            "x_min": 0.8533,
+            "y_min": 0.792,
+            "x_max": 0.8977,
+            "y_max": 0.8048,
+            "width": 0.0444,
+            "height": 0.0128
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.45,
+            "y_min": 0.9833,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0994,
+            "height": 0.009
+          },
+          "confidence": 0.9818
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "Triceratops",
+          "bbox": {
+            "x_min": 0.2782,
+            "y_min": 0.2188,
+            "x_max": 0.3723,
+            "y_max": 0.2295,
+            "width": 0.0941,
+            "height": 0.0107
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "Stegosaurus",
+          "bbox": {
+            "x_min": 0.249,
+            "y_min": 0.5809,
+            "x_max": 0.3495,
+            "y_max": 0.592,
+            "width": 0.1005,
+            "height": 0.0111
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "Pteranodon",
+          "bbox": {
+            "x_min": 0.4103,
+            "y_min": 0.3057,
+            "x_max": 0.5044,
+            "y_max": 0.3138,
+            "width": 0.0941,
+            "height": 0.0081
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "Crocodilian",
+          "bbox": {
+            "x_min": 0.4196,
+            "y_min": 0.3921,
+            "x_max": 0.5085,
+            "y_max": 0.4007,
+            "width": 0.0888,
+            "height": 0.0086
+          },
+          "confidence": 0.9756
+        },
+        {
+          "text": "Tyrannosaurus",
+          "bbox": {
+            "x_min": 0.5044,
+            "y_min": 0.2354,
+            "x_max": 0.6283,
+            "y_max": 0.2466,
+            "width": 0.1239,
+            "height": 0.0111
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "Archaeopteryx",
+          "bbox": {
+            "x_min": 0.4635,
+            "y_min": 0.4688,
+            "x_max": 0.5751,
+            "y_max": 0.4799,
+            "width": 0.1116,
+            "height": 0.0111
+          },
+          "confidence": 0.9856
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.858,
+            "y_min": 0.0788,
+            "x_max": 0.9287,
+            "y_max": 0.0873,
+            "width": 0.0707,
+            "height": 0.0086
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "berepublished",
+          "bbox": {
+            "x_min": 0.3735,
+            "y_min": 0.3074,
+            "x_max": 0.886,
+            "y_max": 0.6738,
+            "width": 0.5126,
+            "height": 0.3664
+          },
+          "confidence": 0.8014
+        },
+        {
+          "text": "Brachiosaurus",
+          "bbox": {
+            "x_min": 0.4939,
+            "y_min": 0.6233,
+            "x_max": 0.6154,
+            "y_max": 0.631,
+            "width": 0.1216,
+            "height": 0.0077
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "Figure 6.2 A family tree of dinosaurs and their living modern day counterpart organisms like",
+          "bbox": {
+            "x_min": 0.1134,
+            "y_min": 0.6943,
+            "x_max": 0.924,
+            "y_max": 0.7072,
+            "width": 0.8106,
+            "height": 0.0128
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "114",
+          "bbox": {
+            "x_min": 0.0953,
+            "y_min": 0.7937,
+            "x_max": 0.142,
+            "y_max": 0.8074,
+            "width": 0.0468,
+            "height": 0.0137
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "crocodiles and birds",
+          "bbox": {
+            "x_min": 0.2151,
+            "y_min": 0.7093,
+            "x_max": 0.3828,
+            "y_max": 0.7188,
+            "width": 0.1677,
+            "height": 0.0094
+          },
+          "confidence": 0.986
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1876,
+            "y_min": 0.7059,
+            "x_max": 0.3314,
+            "y_max": 0.8142,
+            "width": 0.1438,
+            "height": 0.1083
+          },
+          "confidence": 0.9607
+        },
+        {
+          "text": "Such similarities can be interpreted to understand whether common\nancestors were shared or not. For example whales, bats, Cheetah and\nhuman (all mammals) share similarities in the pattern of bones of forelimbs\n(Figure 6.3b). Though these forelimbs perform different functions in these\nanimals, they have similar anatomical structure all of them have\nhumerus, radius, ulna, carpals, metacarpals and phalanges in their\nforelimbs. Hence, in these animals, the same structure developed along\ndifferent directions due to adaptations to different needs. This is divergent\nevolution and these structures are homologous. Homology indicates\ncommon ancestry. Other examples are vertebrate hearts or brains. In",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.744,
+            "x_max": 0.9293,
+            "y_max": 0.9178,
+            "width": 0.6289,
+            "height": 0.1738
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9822
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "EVOLUTION",
+          "bbox": {
+            "x_min": 0.0678,
+            "y_min": 0.0783,
+            "x_max": 0.1525,
+            "y_max": 0.0873,
+            "width": 0.0847,
+            "height": 0.009
+          },
+          "confidence": 0.9828
+        },
+        {
+          "text": "plants also, the thorn and tendrils of\nBougainvillea and Cucurbita represent\nhomology (Figure 6.3a). Homology is\nbased on divergent evolution whereas\nanalogy refers to a situation exactly\nopposite. Wings of butterfly and of birds\nlook alike. They are not anatomically\nsimilar structures though they perform\nsimilar functions. Hence, analogous\nstructures are a result of convergent\nevolution - different structures evolving\nfor the same function and hence having\nsimilarity. Other examples of analogy are\nthe eye of the octopus and of mammals\nor the flippers of Penguins and Dolphins.\nOne can say that it is the similar habitat\nthat has resulted in selection of similar",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.1109,
+            "x_max": 0.4237,
+            "y_max": 0.4084,
+            "width": 0.3542,
+            "height": 0.2975
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "Thorn",
+          "bbox": {
+            "x_min": 0.4442,
+            "y_min": 0.2179,
+            "x_max": 0.4944,
+            "y_max": 0.2265,
+            "width": 0.0503,
+            "height": 0.0086
+          },
+          "confidence": 0.9848
+        },
+        {
+          "text": "Bougainvillea",
+          "bbox": {
+            "x_min": 0.488,
+            "y_min": 0.2817,
+            "x_max": 0.5979,
+            "y_max": 0.2941,
+            "width": 0.1099,
+            "height": 0.0124
+          },
+          "confidence": 0.9839
+        },
+        {
+          "text": "adaptive features in different groups of\norganisms but toward the same function: Man Cheetah",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.4161,
+            "x_max": 0.5967,
+            "y_max": 0.4469,
+            "width": 0.5266,
+            "height": 0.0308
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "Sweet potato (root modification) and\npotato (stem modification) is another\nexample for analogy.",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.4516,
+            "x_max": 0.422,
+            "y_max": 0.5004,
+            "width": 0.3518,
+            "height": 0.0488
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "In the same line of argument,\nsimilarities in proteins and genes\nperforming a given function among diverse\norganisms give clues to common ancestry.\nThese biochemical similarities point to the\nsame shared ancestry as structural\nsimilarities among diverse organisms.",
+          "bbox": {
+            "x_min": 0.0684,
+            "y_min": 0.506,
+            "x_max": 0.422,
+            "y_max": 0.6263,
+            "width": 0.3536,
+            "height": 0.1203
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "Man has bred selected plants and\nanimals for agriculture, horticulture, sport\nor security. Man has domesticated many\nwild animals and crops. This intensive\nbreeding programme has created breeds\nthat differ from other breeds (e.g., dogs) but\nstill are of the same group. It is argued that",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.6314,
+            "x_max": 0.4226,
+            "y_max": 0.7521,
+            "width": 0.3536,
+            "height": 0.1207
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "elles",
+          "bbox": {
+            "x_min": 0.654,
+            "y_min": 0.2008,
+            "x_max": 0.6727,
+            "y_max": 0.2166,
+            "width": 0.0187,
+            "height": 0.0158
+          },
+          "confidence": 0.7456
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.6593,
+            "y_min": 0.3125,
+            "x_max": 0.6826,
+            "y_max": 0.3232,
+            "width": 0.0234,
+            "height": 0.0107
+          },
+          "confidence": 0.9689
+        },
+        {
+          "text": "Cucurbita",
+          "bbox": {
+            "x_min": 0.685,
+            "y_min": 0.283,
+            "x_max": 0.7633,
+            "y_max": 0.292,
+            "width": 0.0783,
+            "height": 0.009
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "Tendril",
+          "bbox": {
+            "x_min": 0.8124,
+            "y_min": 0.1759,
+            "x_max": 0.8708,
+            "y_max": 0.1854,
+            "width": 0.0584,
+            "height": 0.0094
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "uk",
+          "bbox": {
+            "x_min": 0.571,
+            "y_min": 0.4469,
+            "x_max": 0.6832,
+            "y_max": 0.5287,
+            "width": 0.1122,
+            "height": 0.0818
+          },
+          "confidence": 0.7943
+        },
+        {
+          "text": "blhed",
+          "bbox": {
+            "x_min": 0.6014,
+            "y_min": 0.3061,
+            "x_max": 0.879,
+            "y_max": 0.4996,
+            "width": 0.2776,
+            "height": 0.1935
+          },
+          "confidence": 0.8711
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.6616,
+            "y_min": 0.6849,
+            "x_max": 0.6821,
+            "y_max": 0.6952,
+            "width": 0.0205,
+            "height": 0.0103
+          },
+          "confidence": 0.9868
+        },
+        {
+          "text": "Whale",
+          "bbox": {
+            "x_min": 0.6786,
+            "y_min": 0.4349,
+            "x_max": 0.7317,
+            "y_max": 0.4439,
+            "width": 0.0532,
+            "height": 0.009
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "Bat",
+          "bbox": {
+            "x_min": 0.8136,
+            "y_min": 0.4362,
+            "x_max": 0.8475,
+            "y_max": 0.4435,
+            "width": 0.0339,
+            "height": 0.0073
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "Figure 6.3 Example of homologous organs in\n(a) Plants and (b) Animals",
+          "bbox": {
+            "x_min": 0.4576,
+            "y_min": 0.7076,
+            "x_max": 0.8936,
+            "y_max": 0.7342,
+            "width": 0.436,
+            "height": 0.0265
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "if within hundreds of years, man could create new breeds, could not nature\nhave done the same over millions of years?",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.7564,
+            "x_max": 0.699,
+            "y_max": 0.7877,
+            "width": 0.6295,
+            "height": 0.0312
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "Another interesting observation supporting evolution by natural\nselection comes from England. In a collection of moths made in 1850s,\ni.e., before industrialisation set in, it was observed that there were more\nwhite-winged moths on trees than dark-winged or melanised moths.\nHowever, in the collection carried out from the same area, but after\nindustrialisation, i.e., in 1920, there were more dark-winged moths in\nthe same area, i.e., the proportion was reversed.",
+          "bbox": {
+            "x_min": 0.0684,
+            "y_min": 0.7924,
+            "x_max": 0.699,
+            "y_max": 0.9131,
+            "width": 0.6306,
+            "height": 0.1207
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "115",
+          "bbox": {
+            "x_min": 0.8556,
+            "y_min": 0.7915,
+            "x_max": 0.8966,
+            "y_max": 0.8061,
+            "width": 0.0409,
+            "height": 0.0146
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.45,
+            "y_min": 0.9833,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0994,
+            "height": 0.009
+          },
+          "confidence": 0.9818
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.7154,
+            "y_min": 0.2693,
+            "x_max": 0.7376,
+            "y_max": 0.2795,
+            "width": 0.0222,
+            "height": 0.0103
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.858,
+            "y_min": 0.0792,
+            "x_max": 0.9287,
+            "y_max": 0.0873,
+            "width": 0.0707,
+            "height": 0.0081
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.2911,
+            "y_min": 0.2658,
+            "x_max": 0.3127,
+            "y_max": 0.277,
+            "width": 0.0216,
+            "height": 0.0111
+          },
+          "confidence": 0.9709
+        },
+        {
+          "text": "Figure 6.4 Figure showing white - winged moth and dark - winged moth (melanised)\non a tree trunk (a) In unpolluted area (b) In polluted area",
+          "bbox": {
+            "x_min": 0.1531,
+            "y_min": 0.2932,
+            "x_max": 0.8662,
+            "y_max": 0.3206,
+            "width": 0.713,
+            "height": 0.0274
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "116",
+          "bbox": {
+            "x_min": 0.0988,
+            "y_min": 0.7937,
+            "x_max": 0.1403,
+            "y_max": 0.8086,
+            "width": 0.0415,
+            "height": 0.015
+          },
+          "confidence": 0.9771
+        },
+        {
+          "text": "The explanation put forth for this observation was that ‘predators will\nspot a moth against a contrasting background'. During post-\nindustrialisation period, the tree trunks became dark due to industrial\nsmoke and soots. Under this condition the white-winged moth did not\nsurvive due to predators, dark-winged or melanised moth survived. Before\nindustrialisation set in, thick growth of almost white-coloured lichen\ncovered the trees - in that background the white winged moth survived\nbut the dark-coloured moth were picked out by predators. Do you know\nthat lichens can be used as industrial pollution indicators? They will\nnot grow in areas that are polluted. Hence, moths that were able to\ncamouflage themselves, i.e., hide in the background, survived\n(Figure 6.4). This understanding is supported by the fact that in areas\nwhere industrialisation did not occur e.g., in rural areas, the count of\nmelanic moths was low. This showed that in a mixed population, those\nthat can better-adapt, survive and increase in population size. Remember\nthat no variant is completely wiped out.",
+          "bbox": {
+            "x_min": 0.2998,
+            "y_min": 0.3519,
+            "x_max": 0.9305,
+            "y_max": 0.649,
+            "width": 0.6306,
+            "height": 0.2971
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "Similarly, excess use of herbicides, pesticides, etc., has only resulted in\nselection of resistant varieties in a much lesser time scale. This is also true for\nmicrobes against which we employ antibiotics or drugs against eukaryotic\norganisms/cell. Hence, resistant organisms/cells are appearing in a time\nscale of months or years and not centuries. These are examples of evolution\nby anthropogenic action. This also tells us that evolution is not a directed\nprocess in the sense of determinism. It is a stochastic process based on\nchance events in nature and chance mutation in the organisms.",
+          "bbox": {
+            "x_min": 0.2998,
+            "y_min": 0.655,
+            "x_max": 0.9293,
+            "y_max": 0.8027,
+            "width": 0.6295,
+            "height": 0.1477
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "scale",
+          "bbox": {
+            "x_min": 0.2957,
+            "y_min": 0.7286,
+            "x_max": 0.3442,
+            "y_max": 0.7436,
+            "width": 0.0485,
+            "height": 0.015
+          },
+          "confidence": 0.9558
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1876,
+            "y_min": 0.7068,
+            "x_max": 0.325,
+            "y_max": 0.8168,
+            "width": 0.1373,
+            "height": 0.11
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "6.4 WHAT IS ADAPTIVE RADIATION?",
+          "bbox": {
+            "x_min": 0.301,
+            "y_min": 0.8292,
+            "x_max": 0.6727,
+            "y_max": 0.8425,
+            "width": 0.3717,
+            "height": 0.0133
+          },
+          "confidence": 0.9845
+        },
+        {
+          "text": "During his journey Darwin went to Galapagos Islands. There he observed\nan amazing diversity of creatures. Of particular interest, small black birds\nlater called Darwin's Finches amazed him. He realised that there were many",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.8587,
+            "x_max": 0.9299,
+            "y_max": 0.9101,
+            "width": 0.6295,
+            "height": 0.0514
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5488,
+            "y_max": 0.9919,
+            "width": 0.0994,
+            "height": 0.0086
+          },
+          "confidence": 0.9845
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "EVOLUTION",
+          "bbox": {
+            "x_min": 0.0678,
+            "y_min": 0.0783,
+            "x_max": 0.1531,
+            "y_max": 0.0873,
+            "width": 0.0853,
+            "height": 0.009
+          },
+          "confidence": 0.9785
+        },
+        {
+          "text": "1",
+          "bbox": {
+            "x_min": 0.1888,
+            "y_min": 0.1948,
+            "x_max": 0.2034,
+            "y_max": 0.2055,
+            "width": 0.0146,
+            "height": 0.0107
+          },
+          "confidence": 0.9649
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.398,
+            "y_min": 0.1956,
+            "x_max": 0.4155,
+            "y_max": 0.2051,
+            "width": 0.0175,
+            "height": 0.0094
+          },
+          "confidence": 0.9757
+        },
+        {
+          "text": "3",
+          "bbox": {
+            "x_min": 0.5599,
+            "y_min": 0.1948,
+            "x_max": 0.5786,
+            "y_max": 0.2046,
+            "width": 0.0187,
+            "height": 0.0098
+          },
+          "confidence": 0.9694
+        },
+        {
+          "text": "4",
+          "bbox": {
+            "x_min": 0.7306,
+            "y_min": 0.1948,
+            "x_max": 0.751,
+            "y_max": 0.2046,
+            "width": 0.0205,
+            "height": 0.0098
+          },
+          "confidence": 0.9655
+        },
+        {
+          "text": "Figure 6.5 Variety of beaks of finches that Darwin found in Galapagos Island",
+          "bbox": {
+            "x_min": 0.159,
+            "y_min": 0.2269,
+            "x_max": 0.8118,
+            "y_max": 0.2393,
+            "width": 0.6528,
+            "height": 0.0124
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "varieties of finches in the same island. All the varieties, he conjectured,\nevolved on the island itself. From the original seed-eating features, many\nother forms with altered beaks arose, enabling them to become insectivorous\nand vegetarian finches (Figure 6.5). This process of evolution of different\nspecies in a given geographical area starting from a point and literally\nradiating to other areas of geography (habitats) is called adaptive radiation.\nDarwin's finches represent one of the best examples of this phenomenon.\nAnother example is Australian marsupials. A number of marsupials, each\ndifferent from the other (Figure 6.6) evolved from an ancestral stock, but all\nwithin the Australian island continent. When more than one adaptive radiation\nappeared to have occurred in an isolated geographical area (representing",
+          "bbox": {
+            "x_min": 0.0678,
+            "y_min": 0.2581,
+            "x_max": 0.6996,
+            "y_max": 0.4576,
+            "width": 0.6318,
+            "height": 0.1995
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "Sugar glider",
+          "bbox": {
+            "x_min": 0.128,
+            "y_min": 0.5518,
+            "x_max": 0.2373,
+            "y_max": 0.5638,
+            "width": 0.1093,
+            "height": 0.012
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "Marsupial mole",
+          "bbox": {
+            "x_min": 0.0847,
+            "y_min": 0.6289,
+            "x_max": 0.2168,
+            "y_max": 0.6408,
+            "width": 0.1321,
+            "height": 0.012
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "Koala",
+          "bbox": {
+            "x_min": 0.1268,
+            "y_min": 0.7324,
+            "x_max": 0.1771,
+            "y_max": 0.741,
+            "width": 0.0503,
+            "height": 0.0086
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "Tasmanian wolf",
+          "bbox": {
+            "x_min": 0.4062,
+            "y_min": 0.4829,
+            "x_max": 0.5424,
+            "y_max": 0.4923,
+            "width": 0.1362,
+            "height": 0.0094
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "tobe republished",
+          "bbox": {
+            "x_min": 0.2951,
+            "y_min": 0.3069,
+            "x_max": 0.8901,
+            "y_max": 0.732,
+            "width": 0.595,
+            "height": 0.4251
+          },
+          "confidence": 0.7897
+        },
+        {
+          "text": "Tiger cat",
+          "bbox": {
+            "x_min": 0.5792,
+            "y_min": 0.5638,
+            "x_max": 0.654,
+            "y_max": 0.5758,
+            "width": 0.0748,
+            "height": 0.012
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "Marsupial\nradiation",
+          "bbox": {
+            "x_min": 0.3846,
+            "y_min": 0.658,
+            "x_max": 0.467,
+            "y_max": 0.6841,
+            "width": 0.0824,
+            "height": 0.0261
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "Banded anteater",
+          "bbox": {
+            "x_min": 0.6978,
+            "y_min": 0.7051,
+            "x_max": 0.8404,
+            "y_max": 0.7136,
+            "width": 0.1426,
+            "height": 0.0086
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "Bandicoot",
+          "bbox": {
+            "x_min": 0.2227,
+            "y_min": 0.8116,
+            "x_max": 0.3103,
+            "y_max": 0.8202,
+            "width": 0.0877,
+            "height": 0.0086
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "AUSTRALIA",
+          "bbox": {
+            "x_min": 0.325,
+            "y_min": 0.7324,
+            "x_max": 0.4588,
+            "y_max": 0.7427,
+            "width": 0.1338,
+            "height": 0.0103
+          },
+          "confidence": 0.9781
+        },
+        {
+          "text": "Wombat",
+          "bbox": {
+            "x_min": 0.3518,
+            "y_min": 0.8664,
+            "x_max": 0.4243,
+            "y_max": 0.8754,
+            "width": 0.0725,
+            "height": 0.009
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "Kangaroo",
+          "bbox": {
+            "x_min": 0.5897,
+            "y_min": 0.872,
+            "x_max": 0.6704,
+            "y_max": 0.8827,
+            "width": 0.0807,
+            "height": 0.0107
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "Marsupial rat",
+          "bbox": {
+            "x_min": 0.699,
+            "y_min": 0.7757,
+            "x_max": 0.8159,
+            "y_max": 0.7877,
+            "width": 0.1169,
+            "height": 0.012
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "117",
+          "bbox": {
+            "x_min": 0.8574,
+            "y_min": 0.7915,
+            "x_max": 0.896,
+            "y_max": 0.8057,
+            "width": 0.0386,
+            "height": 0.0141
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "Figure 6.6 Adaptive radiation of marsupials of Australia",
+          "bbox": {
+            "x_min": 0.2472,
+            "y_min": 0.8934,
+            "x_max": 0.7312,
+            "y_max": 0.9058,
+            "width": 0.4839,
+            "height": 0.0124
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5488,
+            "y_max": 0.9919,
+            "width": 0.0994,
+            "height": 0.0086
+          },
+          "confidence": 0.9845
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8574,
+            "y_min": 0.0792,
+            "x_max": 0.9287,
+            "y_max": 0.0878,
+            "width": 0.0713,
+            "height": 0.0086
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "Placental mammals",
+          "bbox": {
+            "x_min": 0.1151,
+            "y_min": 0.1074,
+            "x_max": 0.2747,
+            "y_max": 0.1164,
+            "width": 0.1596,
+            "height": 0.009
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "Australian marsupials",
+          "bbox": {
+            "x_min": 0.3051,
+            "y_min": 0.1074,
+            "x_max": 0.488,
+            "y_max": 0.119,
+            "width": 0.1829,
+            "height": 0.0116
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "Mole",
+          "bbox": {
+            "x_min": 0.1823,
+            "y_min": 0.1858,
+            "x_max": 0.2221,
+            "y_max": 0.1939,
+            "width": 0.0397,
+            "height": 0.0081
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "Marsupial\nmole",
+          "bbox": {
+            "x_min": 0.3068,
+            "y_min": 0.1738,
+            "x_max": 0.3892,
+            "y_max": 0.1952,
+            "width": 0.0824,
+            "height": 0.0214
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "different habitats), one can call this convergent\nevolution. Placental mammals in Australia also\nexhibit adaptive radiation in evolving into\nvarieties of such placental mammals each of\nwhich appears to be ‘similar' to a corresponding\nmarsupial (e.g., Placental wolf and Tasmanian\nwolf-marsupial). (Figure 6.7).",
+          "bbox": {
+            "x_min": 0.526,
+            "y_min": 0.1117,
+            "x_max": 0.9322,
+            "y_max": 0.2359,
+            "width": 0.4062,
+            "height": 0.1241
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "6.5 BIOLOGICAL EVOLUTION",
+          "bbox": {
+            "x_min": 0.5266,
+            "y_min": 0.2556,
+            "x_max": 0.813,
+            "y_max": 0.2693,
+            "width": 0.2864,
+            "height": 0.0137
+          },
+          "confidence": 0.9846
+        },
+        {
+          "text": "Anteater",
+          "bbox": {
+            "x_min": 0.1999,
+            "y_min": 0.2658,
+            "x_max": 0.2659,
+            "y_max": 0.274,
+            "width": 0.066,
+            "height": 0.0081
+          },
+          "confidence": 0.9705
+        },
+        {
+          "text": "Numbat (anteater)",
+          "bbox": {
+            "x_min": 0.3086,
+            "y_min": 0.2718,
+            "x_max": 0.4494,
+            "y_max": 0.2825,
+            "width": 0.1409,
+            "height": 0.0107
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "Mouse",
+          "bbox": {
+            "x_min": 0.2092,
+            "y_min": 0.3455,
+            "x_max": 0.2636,
+            "y_max": 0.354,
+            "width": 0.0544,
+            "height": 0.0086
+          },
+          "confidence": 0.9841
+        },
+        {
+          "text": "Marsupial mouse",
+          "bbox": {
+            "x_min": 0.3384,
+            "y_min": 0.345,
+            "x_max": 0.4717,
+            "y_max": 0.3566,
+            "width": 0.1333,
+            "height": 0.0116
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "Lemur",
+          "bbox": {
+            "x_min": 0.2303,
+            "y_min": 0.4208,
+            "x_max": 0.2823,
+            "y_max": 0.4294,
+            "width": 0.052,
+            "height": 0.0086
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "Spotted cuscus",
+          "bbox": {
+            "x_min": 0.3384,
+            "y_min": 0.4212,
+            "x_max": 0.4565,
+            "y_max": 0.4315,
+            "width": 0.1181,
+            "height": 0.0103
+          },
+          "confidence": 0.9868
+        },
+        {
+          "text": "Flying squirrel",
+          "bbox": {
+            "x_min": 0.152,
+            "y_min": 0.4953,
+            "x_max": 0.2636,
+            "y_max": 0.5064,
+            "width": 0.1116,
+            "height": 0.0111
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "Figure 6.7",
+          "bbox": {
+            "x_min": 0.1029,
+            "y_min": 0.6866,
+            "x_max": 0.1905,
+            "y_max": 0.6995,
+            "width": 0.0877,
+            "height": 0.0128
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "118",
+          "bbox": {
+            "x_min": 0.0982,
+            "y_min": 0.7937,
+            "x_max": 0.1397,
+            "y_max": 0.8086,
+            "width": 0.0415,
+            "height": 0.015
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "Flying\nphalanger",
+          "bbox": {
+            "x_min": 0.4138,
+            "y_min": 0.4812,
+            "x_max": 0.4944,
+            "y_max": 0.5064,
+            "width": 0.0807,
+            "height": 0.0253
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "Bobcat Tasmanian tiger cat",
+          "bbox": {
+            "x_min": 0.2367,
+            "y_min": 0.5801,
+            "x_max": 0.4605,
+            "y_max": 0.5903,
+            "width": 0.2238,
+            "height": 0.0103
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "Wolf",
+          "bbox": {
+            "x_min": 0.2501,
+            "y_min": 0.661,
+            "x_max": 0.2893,
+            "y_max": 0.6691,
+            "width": 0.0392,
+            "height": 0.0081
+          },
+          "confidence": 0.9852
+        },
+        {
+          "text": "Tasmanian wolf",
+          "bbox": {
+            "x_min": 0.3366,
+            "y_min": 0.6605,
+            "x_max": 0.4617,
+            "y_max": 0.6682,
+            "width": 0.1251,
+            "height": 0.0077
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "Picture showing convergent evolution\nof Australian Marsupials and\nplacental mammals",
+          "bbox": {
+            "x_min": 0.2157,
+            "y_min": 0.6884,
+            "x_max": 0.4974,
+            "y_max": 0.729,
+            "width": 0.2817,
+            "height": 0.0407
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "no",
+          "bbox": {
+            "x_min": 0.1823,
+            "y_min": 0.7333,
+            "x_max": 0.3051,
+            "y_max": 0.8189,
+            "width": 0.1227,
+            "height": 0.0856
+          },
+          "confidence": 0.9737
+        },
+        {
+          "text": "Evolution by natural selection, in a true sense\nwould have started when cellular forms of life\nwith differences in metabolic capability\noriginated on earth.",
+          "bbox": {
+            "x_min": 0.5272,
+            "y_min": 0.286,
+            "x_max": 0.9305,
+            "y_max": 0.3545,
+            "width": 0.4033,
+            "height": 0.0685
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "The essence of Darwinian theory about\nevolution is natural selection. The rate of\nappearance of new forms is linked to the life cycle\nor the life span. Microbes that divide fast have\nthe ability to multiply and become millions of\nindividuals within hours. A colony of bacteria\n(say A) growing on a given medium has built-in\nvariation in terms of ability to utilise a feed\ncomponent. A change in the medium\ncomposition would bring out only that part of\nthe population (say B) that can survive under\nthe new conditions. In due course of time this\nvariant population outgrows the others and\nappears as new species. This would happen\nwithin days. For the same thing to happen in a\nfish or fowl would take million of years as life\nspans of these animals are in years. Here we say\nthat fitness of B is better than that of A under\nthe new conditions. Nature selects for fitness.\nOne must remember that the so-called fitness is\nbased on characteristics which are inherited.",
+          "bbox": {
+            "x_min": 0.5266,
+            "y_min": 0.36,
+            "x_max": 0.9322,
+            "y_max": 0.7423,
+            "width": 0.4056,
+            "height": 0.3823
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "Hence, there must be a genetic basis for getting selected and to evolve.\nAnother way of saying the same thing is that some organisms are better\nadapted to survive in an otherwise hostile environment. Adaptive ability is\ninherited. It has a genetic basis. Fitness is the end result of the ability to\nadapt and get selected by nature.",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.7504,
+            "x_max": 0.9305,
+            "y_max": 0.8378,
+            "width": 0.63,
+            "height": 0.0873
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "Branching descent and natural selection are the two key concepts\nof Darwinian Theory of Evolution (Figures 6.7 and 6.8).",
+          "bbox": {
+            "x_min": 0.3022,
+            "y_min": 0.8429,
+            "x_max": 0.9305,
+            "y_max": 0.8746,
+            "width": 0.6283,
+            "height": 0.0317
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "Even before Darwin, a French naturalist Lamarck had said that\nevolution of life forms had occurred but driven by use and disuse of",
+          "bbox": {
+            "x_min": 0.3022,
+            "y_min": 0.8797,
+            "x_max": 0.9322,
+            "y_max": 0.9114,
+            "width": 0.63,
+            "height": 0.0317
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5488,
+            "y_max": 0.9919,
+            "width": 0.0994,
+            "height": 0.0086
+          },
+          "confidence": 0.9845
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "EVOLUTION",
+          "bbox": {
+            "x_min": 0.0678,
+            "y_min": 0.0783,
+            "x_max": 0.1525,
+            "y_max": 0.0873,
+            "width": 0.0847,
+            "height": 0.009
+          },
+          "confidence": 0.9828
+        },
+        {
+          "text": "organs. He gave the examples of Giraffes who in an attempt to forage\nleaves on tall trees had to adapt by elongation of their necks. As they\npassed on this acquired character of elongated neck to succeeding\ngenerations, Giraffes, slowly, over the years, came to acquire long necks.\nNobody believes this conjecture any more.",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.1113,
+            "x_max": 0.6996,
+            "y_max": 0.1986,
+            "width": 0.63,
+            "height": 0.0873
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "Is evolution a process or the result of a process? The world we see,\ninanimate and animate, is only the success stories of evolution. When we\ndescribe the story of this world we describe evolution as a process. On the\nother hand when we describe the story of life on earth, we treat evolution\nas a consequence of a process called natural selection. We are still not\nvery clear whether to regard evolution and natural selection as processes\nor end result of unknown processes.",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.2042,
+            "x_max": 0.6984,
+            "y_max": 0.3283,
+            "width": 0.6295,
+            "height": 0.1241
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6891,
+            "y_min": 0.3069,
+            "x_max": 0.872,
+            "y_max": 0.4443,
+            "width": 0.1829,
+            "height": 0.1374
+          },
+          "confidence": 0.9806
+        },
+        {
+          "text": "It is possible that the work of Thomas Malthus on populations\ninfluenced Darwin. Natural selection is based on certain observations\nwhich are factual. For example, natural resources are limited, populations\nare stable in size except for seasonal fluctuation, members of a population\nvary in characteristics (infact no two individuals are alike) even though\nthey look superficially similar, most of variations are inherited etc. The\nfact that theoretically population size will grow exponentially if everybody\nreproduced maximally (this fact can be seen in a growing bacterial\npopulation) and the fact that population sizes in reality are limited, means\nthat there had been competition for resources. Only some survived and\ngrew at the cost of others that could not flourish. The novelty and brilliant\ninsight of Darwin was this: he asserted that variations, which are heritable\nand which make resource utilisation better for few (adapted to habitat\nbetter) will enable only those to reproduce and leave more progeny. Hence\nfor a period of time, over many generations, survivors will leave more\nprogeny and there would be a change in population characteristic and\nhence new forms appear to arise.",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.3348,
+            "x_max": 0.6984,
+            "y_max": 0.6447,
+            "width": 0.6295,
+            "height": 0.3099
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "6.6 MECHANISM OF EVOLUTION",
+          "bbox": {
+            "x_min": 0.0684,
+            "y_min": 0.6657,
+            "x_max": 0.3933,
+            "y_max": 0.6789,
+            "width": 0.325,
+            "height": 0.0133
+          },
+          "confidence": 0.9641
+        },
+        {
+          "text": "What is the origin of this variation and how does speciation occur? Even\nthough Mendel had talked of inheritable 'factors' influencing phenotype,\nDarwin either ignored these observations or kept silence. In the first decade\nof twentieth century, Hugo deVries based on his work on evening primrose\nbrought forth the idea of mutations – large difference arising suddenly in\na population. He believed that it is mutation which causes evolution and\nnot the minor variations (heritable) that Darwin talked about. Mutations\nare random and directionless while Darwinian variations are small and\ndirectional. Evolution for Darwin was gradual while deVries believed\nmutation caused speciation and hence called it saltation (single step\nlarge mutation). Studies in population genetics, later, brought out\nsome clarity.",
+          "bbox": {
+            "x_min": 0.0672,
+            "y_min": 0.6952,
+            "x_max": 0.699,
+            "y_max": 0.9127,
+            "width": 0.6318,
+            "height": 0.2175
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "119",
+          "bbox": {
+            "x_min": 0.8556,
+            "y_min": 0.7911,
+            "x_max": 0.8971,
+            "y_max": 0.8052,
+            "width": 0.0415,
+            "height": 0.0141
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9822
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "120",
+          "bbox": {
+            "x_min": 0.0959,
+            "y_min": 0.7937,
+            "x_max": 0.1426,
+            "y_max": 0.8065,
+            "width": 0.0468,
+            "height": 0.0128
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8568,
+            "y_min": 0.0792,
+            "x_max": 0.9293,
+            "y_max": 0.0873,
+            "width": 0.0725,
+            "height": 0.0081
+          },
+          "confidence": 0.9848
+        },
+        {
+          "text": "6.7 HARDY-WEINBERG PRINCIPLE",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.1074,
+            "x_max": 0.647,
+            "y_max": 0.1216,
+            "width": 0.3466,
+            "height": 0.0141
+          },
+          "confidence": 0.9814
+        },
+        {
+          "text": "In a given population one can find out the frequency of occurrence of\nalleles of a gene or a locus. This frequency is supposed to remain fixed\nand even remain the same through generations. Hardy-Weinberg principle\nstated it using algebraic equations.",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.1383,
+            "x_max": 0.9322,
+            "y_max": 0.2072,
+            "width": 0.6318,
+            "height": 0.0689
+          },
+          "confidence": 0.9968
+        },
+        {
+          "text": "This principle says that allele frequencies in a population are stable\nand is constant from generation to generation. The gene pool (total genes\nand their alleles in a population) remains a constant. This is called\ngenetic equilibrium. Sum total of all the allelic frequencies is 1. Individual",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.2136,
+            "x_max": 0.9299,
+            "y_max": 0.2821,
+            "width": 0.6295,
+            "height": 0.0685
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "CERT",
+          "bbox": {
+            "x_min": 0.4161,
+            "y_min": 0.396,
+            "x_max": 0.609,
+            "y_max": 0.5402,
+            "width": 0.1929,
+            "height": 0.1443
+          },
+          "confidence": 0.9847
+        },
+        {
+          "text": "Phenotypes",
+          "bbox": {
+            "x_min": 0.2747,
+            "y_min": 0.5462,
+            "x_max": 0.3507,
+            "y_max": 0.5561,
+            "width": 0.076,
+            "height": 0.0098
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "favoured",
+          "bbox": {
+            "x_min": 0.2852,
+            "y_min": 0.5582,
+            "x_max": 0.3407,
+            "y_max": 0.5642,
+            "width": 0.0555,
+            "height": 0.006
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "by natural\nselection",
+          "bbox": {
+            "x_min": 0.277,
+            "y_min": 0.5685,
+            "x_max": 0.3472,
+            "y_max": 0.5869,
+            "width": 0.0701,
+            "height": 0.0184
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "Medium-sized\nindividuals\nare favoured",
+          "bbox": {
+            "x_min": 0.4091,
+            "y_min": 0.5283,
+            "x_max": 0.4991,
+            "y_max": 0.5578,
+            "width": 0.09,
+            "height": 0.0295
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "Peak shifts in\none direction",
+          "bbox": {
+            "x_min": 0.6511,
+            "y_min": 0.5338,
+            "x_max": 0.761,
+            "y_max": 0.5565,
+            "width": 0.1099,
+            "height": 0.0227
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "Peak gets higher",
+          "bbox": {
+            "x_min": 0.5342,
+            "y_min": 0.3673,
+            "x_max": 0.6616,
+            "y_max": 0.3797,
+            "width": 0.1274,
+            "height": 0.0124
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "and narrower",
+          "bbox": {
+            "x_min": 0.5459,
+            "y_min": 0.3814,
+            "x_max": 0.6499,
+            "y_max": 0.3891,
+            "width": 0.104,
+            "height": 0.0077
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "epushed",
+          "bbox": {
+            "x_min": 0.4956,
+            "y_min": 0.3048,
+            "x_max": 0.893,
+            "y_max": 0.5972,
+            "width": 0.3974,
+            "height": 0.2924
+          },
+          "confidence": 0.9456
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.8042,
+            "y_min": 0.4623,
+            "x_max": 0.8264,
+            "y_max": 0.4739,
+            "width": 0.0222,
+            "height": 0.0116
+          },
+          "confidence": 0.9681
+        },
+        {
+          "text": "Number of individuals",
+          "bbox": {
+            "x_min": 0.218,
+            "y_min": 0.5227,
+            "x_max": 0.2309,
+            "y_max": 0.6558,
+            "width": 0.0129,
+            "height": 0.1331
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "with phenotype",
+          "bbox": {
+            "x_min": 0.2385,
+            "y_min": 0.5424,
+            "x_max": 0.2548,
+            "y_max": 0.6357,
+            "width": 0.0164,
+            "height": 0.0933
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "not to",
+          "bbox": {
+            "x_min": 0.1829,
+            "y_min": 0.6533,
+            "x_max": 0.4074,
+            "y_max": 0.8134,
+            "width": 0.2244,
+            "height": 0.1601
+          },
+          "confidence": 0.9854
+        },
+        {
+          "text": "Two peaks form",
+          "bbox": {
+            "x_min": 0.5985,
+            "y_min": 0.7213,
+            "x_max": 0.7241,
+            "y_max": 0.7324,
+            "width": 0.1257,
+            "height": 0.0111
+          },
+          "confidence": 0.9859
+        },
+        {
+          "text": "(c)",
+          "bbox": {
+            "x_min": 0.796,
+            "y_min": 0.792,
+            "x_max": 0.8171,
+            "y_max": 0.8031,
+            "width": 0.021,
+            "height": 0.0111
+          },
+          "confidence": 0.9456
+        },
+        {
+          "text": "Figure 6.8 Diagrammatic representation of the operation of natural selection on different\ntraits: (a) Stabilising (b) Directional and (c) Disruptive",
+          "bbox": {
+            "x_min": 0.1058,
+            "y_min": 0.8771,
+            "x_max": 0.9211,
+            "y_max": 0.9033,
+            "width": 0.8153,
+            "height": 0.0261
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9822
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.8954,
+            "y_min": 0.6259,
+            "x_max": 0.9164,
+            "y_max": 0.6366,
+            "width": 0.021,
+            "height": 0.0107
+          },
+          "confidence": 0.9713
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "EVOLUTION",
+          "bbox": {
+            "x_min": 0.0678,
+            "y_min": 0.0783,
+            "x_max": 0.1525,
+            "y_max": 0.0873,
+            "width": 0.0847,
+            "height": 0.009
+          },
+          "confidence": 0.9828
+        },
+        {
+          "text": "frequencies, for example, can be named p, q, etc. In a diploid, p and q\nrepresent the frequency of allele A and allele a. The frequency of AA\nindividuals in a population is simply p². This is simply stated in another\nways, i.e., the probability that an allele A with a frequency of p appear on\nboth the chromosomes of a diploid individual is simply the product\nof the probabilities, i.e., p². Similarly of aa is q², of Aa 2pq. Hence,\np²+2pq+q2=1. This is a binomial expansion of (p+q)2. When frequency\nmeasured, differs from expected values, the difference (direction) indicates\nthe extent of evolutionary change. Disturbance in genetic equilibrium, or\nHardy- Weinberg equilibrium, i.e., change of frequency of alleles in a\npopulation would then be interpreted as resulting in evolution.",
+          "bbox": {
+            "x_min": 0.0684,
+            "y_min": 0.1113,
+            "x_max": 0.699,
+            "y_max": 0.3125,
+            "width": 0.6306,
+            "height": 0.2012
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6902,
+            "y_min": 0.3078,
+            "x_max": 0.8697,
+            "y_max": 0.4422,
+            "width": 0.1794,
+            "height": 0.1344
+          },
+          "confidence": 0.9801
+        },
+        {
+          "text": "Five factors are known to affect Hardy-Weinberg equilibrium. These\nare gene migration or gene flow, genetic drift, mutation, genetic\nrecombination and natural selection. When migration of a section of\npopulation to another place and population occurs, gene frequencies\nchange in the original as well as in the new population. New genes/alleles\nare added to the new population and these are lost from the old population.\nThere would be a gene flow if this gene migration, happens multiple times.\nIf the same change occurs by chance, it is called genetic drift. Sometimes\nthe change in allele frequency is so different in the new sample of population\nthat they become a different species. The original drifted population\nbecomes founders and the effect is called founder effect.",
+          "bbox": {
+            "x_min": 0.0684,
+            "y_min": 0.3185,
+            "x_max": 0.6996,
+            "y_max": 0.5171,
+            "width": 0.6312,
+            "height": 0.1986
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "Microbial experiments show that pre-existing advantageous\nmutations when selected will result in observation of new phenotypes.\nOver few generations, this would result in Speciation. Natural selection is\na process in which heritable variations enabling better survival are enabled\nto reproduce and leave greater number of progeny. A critical analysis\nmakes us believe that variation due to mutation or variation due to\nrecombination during gametogenesis, or due to gene flow or genetic drift\nresults in changed frequency of genes and alleles in future generation.\nCoupled to enhance reproductive success, natural selection makes it look\nlike different population. Natural selection can lead to stabilisation (in\nwhich more individuals acquire mean character value), directional change\n(more individuals acquire value other than the mean character value) or\ndisruption (more individuals acquire peripheral character value at both\nends of the distribution curve) (Figure 6.8).",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.5253,
+            "x_max": 0.699,
+            "y_max": 0.7838,
+            "width": 0.63,
+            "height": 0.2586
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "6.8 A BRIEF ACCOUNT OF EVOLUTION",
+          "bbox": {
+            "x_min": 0.0684,
+            "y_min": 0.8121,
+            "x_max": 0.4623,
+            "y_max": 0.8249,
+            "width": 0.3939,
+            "height": 0.0128
+          },
+          "confidence": 0.9788
+        },
+        {
+          "text": "About 2000 million years ago (mya) the first cellular forms of life appeared\non earth. The mechanism of how non-cellular aggregates of giant\nmacromolecules could evolve into cells with membranous envelop is not\nknown. Some of these cells had the ability to release O₂. The reaction",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.8425,
+            "x_max": 0.6984,
+            "y_max": 0.9122,
+            "width": 0.6295,
+            "height": 0.0698
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.5658,
+            "y_min": 0.9067,
+            "x_max": 0.5769,
+            "y_max": 0.9118,
+            "width": 0.0111,
+            "height": 0.0051
+          },
+          "confidence": 0.9616
+        },
+        {
+          "text": "121",
+          "bbox": {
+            "x_min": 0.8533,
+            "y_min": 0.7924,
+            "x_max": 0.893,
+            "y_max": 0.8052,
+            "width": 0.0397,
+            "height": 0.0128
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5488,
+            "y_max": 0.9919,
+            "width": 0.0994,
+            "height": 0.0086
+          },
+          "confidence": 0.9845
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "122",
+          "bbox": {
+            "x_min": 0.0959,
+            "y_min": 0.7945,
+            "x_max": 0.1426,
+            "y_max": 0.8065,
+            "width": 0.0468,
+            "height": 0.012
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "Paleozoic",
+          "bbox": {
+            "x_min": 0.1116,
+            "y_min": 0.4285,
+            "x_max": 0.1227,
+            "y_max": 0.4842,
+            "width": 0.0111,
+            "height": 0.0557
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "Mesozoic",
+          "bbox": {
+            "x_min": 0.1122,
+            "y_min": 0.2735,
+            "x_max": 0.1227,
+            "y_max": 0.3279,
+            "width": 0.0105,
+            "height": 0.0544
+          },
+          "confidence": 0.9834
+        },
+        {
+          "text": "Cenozoic",
+          "bbox": {
+            "x_min": 0.111,
+            "y_min": 0.1751,
+            "x_max": 0.1233,
+            "y_max": 0.2277,
+            "width": 0.0123,
+            "height": 0.0527
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "Quaternary",
+          "bbox": {
+            "x_min": 0.1414,
+            "y_min": 0.1789,
+            "x_max": 0.2385,
+            "y_max": 0.1905,
+            "width": 0.097,
+            "height": 0.0116
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "Angiosperms (flowering plants)",
+          "bbox": {
+            "x_min": 0.671,
+            "y_min": 0.1836,
+            "x_max": 0.9211,
+            "y_max": 0.1961,
+            "width": 0.2501,
+            "height": 0.0124
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "Monocotyledons",
+          "bbox": {
+            "x_min": 0.7843,
+            "y_min": 0.2046,
+            "x_max": 0.9147,
+            "y_max": 0.2162,
+            "width": 0.1303,
+            "height": 0.0116
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "Tertiary",
+          "bbox": {
+            "x_min": 0.1432,
+            "y_min": 0.2008,
+            "x_max": 0.2092,
+            "y_max": 0.211,
+            "width": 0.066,
+            "height": 0.0103
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "Bryophytes",
+          "bbox": {
+            "x_min": 0.2162,
+            "y_min": 0.214,
+            "x_max": 0.3074,
+            "y_max": 0.2256,
+            "width": 0.0912,
+            "height": 0.0116
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "Dicotyledons",
+          "bbox": {
+            "x_min": 0.6926,
+            "y_min": 0.2329,
+            "x_max": 0.7954,
+            "y_max": 0.2444,
+            "width": 0.1029,
+            "height": 0.0116
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "Cretaceous",
+          "bbox": {
+            "x_min": 0.1473,
+            "y_min": 0.253,
+            "x_max": 0.2373,
+            "y_max": 0.2616,
+            "width": 0.09,
+            "height": 0.0086
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "Sphenopsids\n(horsetails) Ginkgos",
+          "bbox": {
+            "x_min": 0.3238,
+            "y_min": 0.2423,
+            "x_max": 0.5254,
+            "y_max": 0.2671,
+            "width": 0.2016,
+            "height": 0.0248
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "Gnetales",
+          "bbox": {
+            "x_min": 0.5611,
+            "y_min": 0.241,
+            "x_max": 0.6318,
+            "y_max": 0.2496,
+            "width": 0.0707,
+            "height": 0.0086
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "Jurassic",
+          "bbox": {
+            "x_min": 0.1467,
+            "y_min": 0.2971,
+            "x_max": 0.2162,
+            "y_max": 0.3048,
+            "width": 0.0695,
+            "height": 0.0077
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "Herbaceous\nlycopods",
+          "bbox": {
+            "x_min": 0.2811,
+            "y_min": 0.2924,
+            "x_max": 0.377,
+            "y_max": 0.3185,
+            "width": 0.0959,
+            "height": 0.0261
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "Ferns Conifers Cycads",
+          "bbox": {
+            "x_min": 0.4261,
+            "y_min": 0.2975,
+            "x_max": 0.6616,
+            "y_max": 0.3104,
+            "width": 0.2355,
+            "height": 0.0128
+          },
+          "confidence": 0.9804
+        },
+        {
+          "text": "Triassic",
+          "bbox": {
+            "x_min": 0.1461,
+            "y_min": 0.3378,
+            "x_max": 0.2104,
+            "y_max": 0.3463,
+            "width": 0.0643,
+            "height": 0.0086
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "Permian",
+          "bbox": {
+            "x_min": 0.1449,
+            "y_min": 0.3814,
+            "x_max": 0.2122,
+            "y_max": 0.3883,
+            "width": 0.0672,
+            "height": 0.0068
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "Arborescent\nlycopods",
+          "bbox": {
+            "x_min": 0.2776,
+            "y_min": 0.3682,
+            "x_max": 0.377,
+            "y_max": 0.3943,
+            "width": 0.0994,
+            "height": 0.0261
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "Carboniferous",
+          "bbox": {
+            "x_min": 0.1426,
+            "y_min": 0.4341,
+            "x_max": 0.2589,
+            "y_max": 0.4431,
+            "width": 0.1163,
+            "height": 0.009
+          },
+          "confidence": 0.9864
+        },
+        {
+          "text": "Seed ferns",
+          "bbox": {
+            "x_min": 0.6721,
+            "y_min": 0.4097,
+            "x_max": 0.7569,
+            "y_max": 0.4182,
+            "width": 0.0847,
+            "height": 0.0086
+          },
+          "confidence": 0.9833
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6832,
+            "y_min": 0.3044,
+            "x_max": 0.8814,
+            "y_max": 0.4499,
+            "width": 0.1981,
+            "height": 0.1455
+          },
+          "confidence": 0.7927
+        },
+        {
+          "text": "Devonian",
+          "bbox": {
+            "x_min": 0.1438,
+            "y_min": 0.4735,
+            "x_max": 0.2209,
+            "y_max": 0.4816,
+            "width": 0.0771,
+            "height": 0.0081
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "Silurian",
+          "bbox": {
+            "x_min": 0.1455,
+            "y_min": 0.5158,
+            "x_max": 0.2104,
+            "y_max": 0.524,
+            "width": 0.0649,
+            "height": 0.0081
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "Zosterophyllum",
+          "bbox": {
+            "x_min": 0.3244,
+            "y_min": 0.5265,
+            "x_max": 0.4518,
+            "y_max": 0.5385,
+            "width": 0.1274,
+            "height": 0.012
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "C",
+          "bbox": {
+            "x_min": 0.3098,
+            "y_min": 0.5758,
+            "x_max": 0.3676,
+            "y_max": 0.6147,
+            "width": 0.0579,
+            "height": 0.039
+          },
+          "confidence": 0.9235
+        },
+        {
+          "text": "Progymnosperms",
+          "bbox": {
+            "x_min": 0.6493,
+            "y_min": 0.4623,
+            "x_max": 0.7884,
+            "y_max": 0.4739,
+            "width": 0.1391,
+            "height": 0.0116
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "Psilophyton",
+          "bbox": {
+            "x_min": 0.5675,
+            "y_min": 0.4991,
+            "x_max": 0.6575,
+            "y_max": 0.509,
+            "width": 0.09,
+            "height": 0.0098
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "Tracheophyte ancestors",
+          "bbox": {
+            "x_min": 0.5213,
+            "y_min": 0.5723,
+            "x_max": 0.7043,
+            "y_max": 0.583,
+            "width": 0.1829,
+            "height": 0.0107
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "Chlorophyte ancestors",
+          "bbox": {
+            "x_min": 0.5266,
+            "y_min": 0.6092,
+            "x_max": 0.699,
+            "y_max": 0.6199,
+            "width": 0.1724,
+            "height": 0.0107
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "not to be propa-pe tha",
+          "bbox": {
+            "x_min": 0.1625,
+            "y_min": 0.4923,
+            "x_max": 0.6797,
+            "y_max": 0.8202,
+            "width": 0.5172,
+            "height": 0.3279
+          },
+          "confidence": 0.4515
+        },
+        {
+          "text": "Figure 6.9 A sketch of the evolution of plant forms through geological periods",
+          "bbox": {
+            "x_min": 0.1864,
+            "y_min": 0.6729,
+            "x_max": 0.8469,
+            "y_max": 0.6858,
+            "width": 0.6604,
+            "height": 0.0128
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "could have been similar to the light reaction in photosynthesis where water\nsplit with the help of solar energy captured and channelised by\nappropriate light harvesting pigments. Slowly single-celled organisms\nbecame multi-cellular life forms. By the time of 500 mya, invertebrates\nwere formed and active. Jawless fish probably evolved around 350 mya.\nSea weeds and few plants existed probably around 320 mya. We are told\nthat the first organisms that invaded land were plants. They were\nwidespread on land when animals invaded land. Fish with stout and strong\nfins could move on land and go back to water. This was about 350 mya. In\n1938, a fish caught in South Africa happened to be a Coelacanth which was\nthought to be extinct. These animals called lobefins evolved into the",
+          "bbox": {
+            "x_min": 0.3022,
+            "y_min": 0.7123,
+            "x_max": 0.9328,
+            "y_max": 0.9105,
+            "width": 0.6306,
+            "height": 0.1982
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.45,
+            "y_min": 0.9833,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0994,
+            "height": 0.009
+          },
+          "confidence": 0.9818
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8568,
+            "y_min": 0.0792,
+            "x_max": 0.9293,
+            "y_max": 0.0873,
+            "width": 0.0725,
+            "height": 0.0081
+          },
+          "confidence": 0.9848
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "EVOLUTION",
+          "bbox": {
+            "x_min": 0.0678,
+            "y_min": 0.0783,
+            "x_max": 0.1525,
+            "y_max": 0.0873,
+            "width": 0.0847,
+            "height": 0.009
+          },
+          "confidence": 0.9828
+        },
+        {
+          "text": "Quaternary 0",
+          "bbox": {
+            "x_min": 0.0935,
+            "y_min": 0.1973,
+            "x_max": 0.2367,
+            "y_max": 0.2076,
+            "width": 0.1432,
+            "height": 0.0103
+          },
+          "confidence": 0.9808
+        },
+        {
+          "text": "Tertiary 50",
+          "bbox": {
+            "x_min": 0.1227,
+            "y_min": 0.2676,
+            "x_max": 0.2379,
+            "y_max": 0.2783,
+            "width": 0.1151,
+            "height": 0.0107
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "Cretaceous 100",
+          "bbox": {
+            "x_min": 0.0964,
+            "y_min": 0.3373,
+            "x_max": 0.2355,
+            "y_max": 0.3463,
+            "width": 0.1391,
+            "height": 0.009
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "150",
+          "bbox": {
+            "x_min": 0.2051,
+            "y_min": 0.4088,
+            "x_max": 0.2367,
+            "y_max": 0.417,
+            "width": 0.0316,
+            "height": 0.0081
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "Jurassic",
+          "bbox": {
+            "x_min": 0.1151,
+            "y_min": 0.4187,
+            "x_max": 0.1818,
+            "y_max": 0.4255,
+            "width": 0.0666,
+            "height": 0.0068
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "200",
+          "bbox": {
+            "x_min": 0.204,
+            "y_min": 0.4795,
+            "x_max": 0.2355,
+            "y_max": 0.4867,
+            "width": 0.0316,
+            "height": 0.0073
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "Triassic",
+          "bbox": {
+            "x_min": 0.1163,
+            "y_min": 0.4884,
+            "x_max": 0.1788,
+            "y_max": 0.4961,
+            "width": 0.0625,
+            "height": 0.0077
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "250",
+          "bbox": {
+            "x_min": 0.2046,
+            "y_min": 0.5492,
+            "x_max": 0.2367,
+            "y_max": 0.5574,
+            "width": 0.0321,
+            "height": 0.0081
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "Permian",
+          "bbox": {
+            "x_min": 0.1151,
+            "y_min": 0.5634,
+            "x_max": 0.1788,
+            "y_max": 0.5706,
+            "width": 0.0637,
+            "height": 0.0073
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "Lizards",
+          "bbox": {
+            "x_min": 0.339,
+            "y_min": 0.1366,
+            "x_max": 0.3957,
+            "y_max": 0.1443,
+            "width": 0.0567,
+            "height": 0.0077
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "Tuataras",
+          "bbox": {
+            "x_min": 0.4962,
+            "y_min": 0.1336,
+            "x_max": 0.5675,
+            "y_max": 0.1421,
+            "width": 0.0713,
+            "height": 0.0086
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "Turtles",
+          "bbox": {
+            "x_min": 0.2461,
+            "y_min": 0.1507,
+            "x_max": 0.3022,
+            "y_max": 0.1584,
+            "width": 0.0561,
+            "height": 0.0077
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "Snakes",
+          "bbox": {
+            "x_min": 0.429,
+            "y_min": 0.1533,
+            "x_max": 0.4868,
+            "y_max": 0.161,
+            "width": 0.0579,
+            "height": 0.0077
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "Crocodiles",
+          "bbox": {
+            "x_min": 0.6049,
+            "y_min": 0.1503,
+            "x_max": 0.6861,
+            "y_max": 0.1584,
+            "width": 0.0812,
+            "height": 0.0081
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "NCERT",
+          "bbox": {
+            "x_min": 0.3624,
+            "y_min": 0.3955,
+            "x_max": 0.6137,
+            "y_max": 0.5749,
+            "width": 0.2513,
+            "height": 0.1794
+          },
+          "confidence": 0.8955
+        },
+        {
+          "text": "Dinosaurs\n(extinct)",
+          "bbox": {
+            "x_min": 0.6394,
+            "y_min": 0.2949,
+            "x_max": 0.7236,
+            "y_max": 0.3249,
+            "width": 0.0842,
+            "height": 0.03
+          },
+          "confidence": 0.9838
+        },
+        {
+          "text": "Birds",
+          "bbox": {
+            "x_min": 0.7072,
+            "y_min": 0.1117,
+            "x_max": 0.7504,
+            "y_max": 0.1194,
+            "width": 0.0432,
+            "height": 0.0077
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "Therapsids\n(extinct)",
+          "bbox": {
+            "x_min": 0.7101,
+            "y_min": 0.4572,
+            "x_max": 0.7984,
+            "y_max": 0.4807,
+            "width": 0.0883,
+            "height": 0.0235
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "Thecodonts\n(extinct)",
+          "bbox": {
+            "x_min": 0.6902,
+            "y_min": 0.5176,
+            "x_max": 0.7802,
+            "y_max": 0.542,
+            "width": 0.09,
+            "height": 0.0244
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "Sauropsids",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.5976,
+            "x_max": 0.3869,
+            "y_max": 0.6087,
+            "width": 0.0865,
+            "height": 0.0111
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "Pelycosaurs\n(extinct)",
+          "bbox": {
+            "x_min": 0.6563,
+            "y_min": 0.595,
+            "x_max": 0.7522,
+            "y_max": 0.619,
+            "width": 0.0959,
+            "height": 0.024
+          },
+          "confidence": 0.9864
+        },
+        {
+          "text": "300",
+          "bbox": {
+            "x_min": 0.2057,
+            "y_min": 0.6207,
+            "x_max": 0.2379,
+            "y_max": 0.6284,
+            "width": 0.0321,
+            "height": 0.0077
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "Synapsids",
+          "bbox": {
+            "x_min": 0.4319,
+            "y_min": 0.6199,
+            "x_max": 0.5102,
+            "y_max": 0.631,
+            "width": 0.0783,
+            "height": 0.0111
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "Carboniferous",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.6378,
+            "x_max": 0.1794,
+            "y_max": 0.6464,
+            "width": 0.1105,
+            "height": 0.0086
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "350",
+          "bbox": {
+            "x_min": 0.2063,
+            "y_min": 0.6914,
+            "x_max": 0.2361,
+            "y_max": 0.6991,
+            "width": 0.0298,
+            "height": 0.0077
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "Early reptiles\n(extinct)",
+          "bbox": {
+            "x_min": 0.3366,
+            "y_min": 0.7183,
+            "x_max": 0.4424,
+            "y_max": 0.7419,
+            "width": 0.1058,
+            "height": 0.0235
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "Mammals",
+          "bbox": {
+            "x_min": 0.7878,
+            "y_min": 0.158,
+            "x_max": 0.8644,
+            "y_max": 0.1657,
+            "width": 0.0766,
+            "height": 0.0077
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "eprese",
+          "bbox": {
+            "x_min": 0.2303,
+            "y_min": 0.7598,
+            "x_max": 0.2764,
+            "y_max": 0.7761,
+            "width": 0.0462,
+            "height": 0.0163
+          },
+          "confidence": 0.8972
+        },
+        {
+          "text": "Figure 6.10 Representative evolutionary history of vertebrates through geological periods",
+          "bbox": {
+            "x_min": 0.1046,
+            "y_min": 0.7598,
+            "x_max": 0.8627,
+            "y_max": 0.7765,
+            "width": 0.758,
+            "height": 0.0167
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "first amphibians that lived on both land and water. There are no specimens\nof these left with us. However, these were ancestors of modern day frogs\nand salamanders. The amphibians evolved into reptiles. They lay thick-\nshelled eggs which do not dry up in sun unlike those of amphibians.\nAgain we only see their modern day descendents, the turtles, tortoises\nand crocodiles. In the next 200 millions years or so, reptiles of different",
+          "bbox": {
+            "x_min": 0.0678,
+            "y_min": 0.8061,
+            "x_max": 0.6984,
+            "y_max": 0.9114,
+            "width": 0.6306,
+            "height": 0.1053
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "123",
+          "bbox": {
+            "x_min": 0.8539,
+            "y_min": 0.7924,
+            "x_max": 0.8977,
+            "y_max": 0.8048,
+            "width": 0.0438,
+            "height": 0.0124
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5488,
+            "y_max": 0.9919,
+            "width": 0.0994,
+            "height": 0.0086
+          },
+          "confidence": 0.9845
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "124",
+          "bbox": {
+            "x_min": 0.0947,
+            "y_min": 0.7937,
+            "x_max": 0.1426,
+            "y_max": 0.8069,
+            "width": 0.0479,
+            "height": 0.0133
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8574,
+            "y_min": 0.0792,
+            "x_max": 0.9287,
+            "y_max": 0.0878,
+            "width": 0.0713,
+            "height": 0.0086
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "shapes and sizes dominated on earth. Giant ferns (pteridophytes) were\npresent but they all fell to form coal deposits slowly. Some of these land\nreptiles went back into water to evolve into fish like reptiles probably 200\nmya (e.g. Ichthyosaurs). The land reptiles were, of course, the dinosaurs.\nThe biggest of them, i.e., Tyrannosaurus rex was about 20 feet in height\nand had huge fearsome dagger like teeth. About 65 mya, the dinosaurs\nsuddenly disappeared from the earth. We do not know the true reason.\nSome say climatic changes killed them. Some say most of them evolved\ninto birds. The truth may live in between. Small sized reptiles of that era\nstill exist today.",
+          "bbox": {
+            "x_min": 0.2987,
+            "y_min": 0.1109,
+            "x_max": 0.9293,
+            "y_max": 0.2979,
+            "width": 0.6306,
+            "height": 0.1871
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "The first mammals were like shrews. Their fossils are small sized.\nMammals were viviparous and protected their unborn young inside the\nmother's body. Mammals were more intelligent in sensing and avoiding\ndanger at least. When reptiles came down mammals took over this earth.\nThere were in South America mammals resembling horse, hippopotamus,\nbear, rabbit, etc. Due to continental drift, when South America joined\nNorth America, these animals were overridden by North American fauna.\nDue to the same continental drift pouched mammals of Australia survived\nbecause of lack of competition from any other mammal.",
+          "bbox": {
+            "x_min": 0.2987,
+            "y_min": 0.3031,
+            "x_max": 0.9299,
+            "y_max": 0.4705,
+            "width": 0.6312,
+            "height": 0.1674
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "Lest we forget, some mammals live wholly in water. Whales, dolphins,\nseals and sea cows are some examples. Evolution of horse, elephant, dog,\netc., are special stories of evolution. You will learn about these in higher\nclasses. The most successful story is the evolution of man with language\nskills and self-consciousness.",
+          "bbox": {
+            "x_min": 0.2998,
+            "y_min": 0.4769,
+            "x_max": 0.9299,
+            "y_max": 0.5638,
+            "width": 0.63,
+            "height": 0.0869
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "A rough sketch of the evolution of life forms, their times on a geological\nscale are indicated in (Figures 6.9 and 6.10).",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.5728,
+            "x_max": 0.9293,
+            "y_max": 0.6045,
+            "width": 0.6289,
+            "height": 0.0317
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "6.9 ORIGIN AND EVOLUTION OF MAN",
+          "bbox": {
+            "x_min": 0.2981,
+            "y_min": 0.6237,
+            "x_max": 0.6762,
+            "y_max": 0.6366,
+            "width": 0.3781,
+            "height": 0.0128
+          },
+          "confidence": 0.9322
+        },
+        {
+          "text": "About 15 mya, primates called Dryopithecus and Ramapithecus were\nexisting. They were hairy and walked like gorillas and chimpanzees.\nRamapithecus was more man-like while Dryopithecus was more\nape-like. Few fossils of man-like bones have been discovered in Ethiopia\nand\nand \nTanzania (Figure 6.11). These revealed hominid features leading to\nthe belief that about 3-4 mya, man-like primates walked in eastern Africa.\nThey were probably not taller than 4 feet but walked up right. Two mya,\nAustralopithecines probably lived in East African grasslands. Evidence\nshows they hunted with stone weapons but essentially ate fruit. Some of\nthe bones among the bones discovered were different. This creature was\ncalled the first human-like being the hominid and was called Homo habilis.\nThe brain capacities were between 650-800cc. They probably did not eat\nmeat. Fossils discovered in Java in 1891 revealed the next stage, i.e., Homo\nerectus about 1.5 mya. Homo erectus had a large brain around 900cc.",
+          "bbox": {
+            "x_min": 0.2864,
+            "y_min": 0.6485,
+            "x_max": 0.9328,
+            "y_max": 0.9058,
+            "width": 0.6464,
+            "height": 0.2573
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1864,
+            "y_min": 0.7102,
+            "x_max": 0.3244,
+            "y_max": 0.8159,
+            "width": 0.1379,
+            "height": 0.1057
+          },
+          "confidence": 0.9841
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5488,
+            "y_max": 0.9919,
+            "width": 0.0994,
+            "height": 0.0086
+          },
+          "confidence": 0.9845
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "EVOLUTION",
+          "bbox": {
+            "x_min": 0.0678,
+            "y_min": 0.0783,
+            "x_max": 0.1525,
+            "y_max": 0.0873,
+            "width": 0.0847,
+            "height": 0.009
+          },
+          "confidence": 0.9828
+        },
+        {
+          "text": "NCER",
+          "bbox": {
+            "x_min": 0.3606,
+            "y_min": 0.4157,
+            "x_max": 0.5769,
+            "y_max": 0.5843,
+            "width": 0.2162,
+            "height": 0.1687
+          },
+          "confidence": 0.9778
+        },
+        {
+          "text": "be",
+          "bbox": {
+            "x_min": 0.3758,
+            "y_min": 0.5848,
+            "x_max": 0.5067,
+            "y_max": 0.6712,
+            "width": 0.1309,
+            "height": 0.0865
+          },
+          "confidence": 0.9442
+        },
+        {
+          "text": "blished",
+          "bbox": {
+            "x_min": 0.6067,
+            "y_min": 0.3069,
+            "x_max": 0.8749,
+            "y_max": 0.4996,
+            "width": 0.2683,
+            "height": 0.1926
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "Figure 6.11 A comparison of the skulls of adult modern human being, baby chimpanzee and\nadult chimpanzee. The skull of baby chimpanzee is more like adult human skull\nthan adult chimpanzee skull",
+          "bbox": {
+            "x_min": 0.0742,
+            "y_min": 0.6503,
+            "x_max": 0.8901,
+            "y_max": 0.6918,
+            "width": 0.8159,
+            "height": 0.0415
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "Homo erectus probably ate meat. The Neanderthal man with a brain size\nof 1400cc lived in near east and central Asia between 1,00,000-40,000\nyears back. They used hides to protect their body and buried their dead.\nHomo sapiens arose in Africa and moved across continents and developed\ninto distinct races. During ice age between 75,000-10,000 years ago\nmodern Homo sapiens arose. Pre-historic cave art developed about\n18,000 years ago. One such cave paintings by Pre-historic humans can\nbe seen at Bhimbetka rock shelter in Raisen district of Madhya Pradesh.\nAgriculture came around 10,000 years back and human settlements\nstarted. The rest of what happened is part of human history of growth\nand decline of civilisations.",
+          "bbox": {
+            "x_min": 0.0678,
+            "y_min": 0.7162,
+            "x_max": 0.699,
+            "y_max": 0.9084,
+            "width": 0.6312,
+            "height": 0.1922
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "125",
+          "bbox": {
+            "x_min": 0.8562,
+            "y_min": 0.7915,
+            "x_max": 0.8954,
+            "y_max": 0.8057,
+            "width": 0.0392,
+            "height": 0.0141
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9822
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "126",
+          "bbox": {
+            "x_min": 0.0959,
+            "y_min": 0.7937,
+            "x_max": 0.1409,
+            "y_max": 0.8069,
+            "width": 0.045,
+            "height": 0.0133
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8568,
+            "y_min": 0.0792,
+            "x_max": 0.9293,
+            "y_max": 0.0873,
+            "width": 0.0725,
+            "height": 0.0081
+          },
+          "confidence": 0.9848
+        },
+        {
+          "text": "SUMMARY",
+          "bbox": {
+            "x_min": 0.55,
+            "y_min": 0.1391,
+            "x_max": 0.6715,
+            "y_max": 0.1511,
+            "width": 0.1216,
+            "height": 0.012
+          },
+          "confidence": 0.9712
+        },
+        {
+          "text": "The origin of life on earth can be understood only against the\nbackground of origin of universe especially earth. Most scientists\nbelieve chemical evolution, i.e., formation of biomolecules preceded\nthe appearance of the first cellular forms of life. The subsequent events\nas to what happened to the first form of life is a conjectured story\nbased on Darwinian ideas of organic evolution by natural selection.\nDiversity of life forms on earth has been changing over millions of\nyears. It is generally believed that variations in a population result in\nvariable fitness. Other phenomena like habitat fragmentation and\ngenetic drift may accentuate these variations leading to appearance\nof new species and hence evolution. Homology is accounted for by the\nidea of branching descent. Study of comparative anatomy, fossils and\ncomparative biochemistry provides evidence for evolution. Among the\nstories of evolution of individual species, the story of evolution of\nmodern man is most interesting and appears to parallel evolution of\nhuman brain and language.",
+          "bbox": {
+            "x_min": 0.3156,
+            "y_min": 0.1734,
+            "x_max": 0.9053,
+            "y_max": 0.4054,
+            "width": 0.5897,
+            "height": 0.232
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "CERT",
+          "bbox": {
+            "x_min": 0.405,
+            "y_min": 0.3874,
+            "x_max": 0.6341,
+            "y_max": 0.5475,
+            "width": 0.2291,
+            "height": 0.1601
+          },
+          "confidence": 0.9657
+        },
+        {
+          "text": "EXERCISE",
+          "bbox": {
+            "x_min": 0.4933,
+            "y_min": 0.4692,
+            "x_max": 0.7282,
+            "y_max": 0.5218,
+            "width": 0.235,
+            "height": 0.0527
+          },
+          "confidence": 0.9653
+        },
+        {
+          "text": "1. Explain antibiotic resistance observed in bacteria in light of Darwinian\nselection theory.",
+          "bbox": {
+            "x_min": 0.3127,
+            "y_min": 0.5467,
+            "x_max": 0.9305,
+            "y_max": 0.5732,
+            "width": 0.6178,
+            "height": 0.0265
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "2. Find out from newspapers and popular science articles any new fossil\ndiscoveries or controversies about evolution.",
+          "bbox": {
+            "x_min": 0.3103,
+            "y_min": 0.5792,
+            "x_max": 0.9305,
+            "y_max": 0.6036,
+            "width": 0.6201,
+            "height": 0.0244
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "3. Attempt giving a clear definition of the term species.",
+          "bbox": {
+            "x_min": 0.3115,
+            "y_min": 0.6126,
+            "x_max": 0.7826,
+            "y_max": 0.6246,
+            "width": 0.4711,
+            "height": 0.012
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "4. Try to trace the various components of human evolution (hint: brain\nsize and function, skeletal structure, dietary preference, etc.)",
+          "bbox": {
+            "x_min": 0.3109,
+            "y_min": 0.631,
+            "x_max": 0.9299,
+            "y_max": 0.6571,
+            "width": 0.6189,
+            "height": 0.0261
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "5. Find out through internet and popular science articles whether animals\nother than man has self-consciousness.",
+          "bbox": {
+            "x_min": 0.3109,
+            "y_min": 0.6635,
+            "x_max": 0.9293,
+            "y_max": 0.6879,
+            "width": 0.6184,
+            "height": 0.0244
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "6. List 10 modern-day animals and using the internet resources link it to",
+          "bbox": {
+            "x_min": 0.3109,
+            "y_min": 0.6973,
+            "x_max": 0.9305,
+            "y_max": 0.7093,
+            "width": 0.6195,
+            "height": 0.012
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "a corresponding ancient fossil. Name both.",
+          "bbox": {
+            "x_min": 0.3448,
+            "y_min": 0.7115,
+            "x_max": 0.7043,
+            "y_max": 0.7235,
+            "width": 0.3594,
+            "height": 0.012
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "7.",
+          "bbox": {
+            "x_min": 0.3103,
+            "y_min": 0.7303,
+            "x_max": 0.3244,
+            "y_max": 0.7423,
+            "width": 0.014,
+            "height": 0.012
+          },
+          "confidence": 0.972
+        },
+        {
+          "text": "Practise drawing various animals and plants.",
+          "bbox": {
+            "x_min": 0.3442,
+            "y_min": 0.7303,
+            "x_max": 0.7276,
+            "y_max": 0.7423,
+            "width": 0.3834,
+            "height": 0.012
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "8.",
+          "bbox": {
+            "x_min": 0.3109,
+            "y_min": 0.7487,
+            "x_max": 0.325,
+            "y_max": 0.7603,
+            "width": 0.014,
+            "height": 0.0116
+          },
+          "confidence": 0.9761
+        },
+        {
+          "text": "9.",
+          "bbox": {
+            "x_min": 0.3115,
+            "y_min": 0.7667,
+            "x_max": 0.3244,
+            "y_max": 0.7787,
+            "width": 0.0129,
+            "height": 0.012
+          },
+          "confidence": 0.9728
+        },
+        {
+          "text": "Can we call human evolution as adaptive radiation?",
+          "bbox": {
+            "x_min": 0.3442,
+            "y_min": 0.7667,
+            "x_max": 0.7861,
+            "y_max": 0.7783,
+            "width": 0.4418,
+            "height": 0.0116
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "Describe one example of adaptive radiation.",
+          "bbox": {
+            "x_min": 0.3448,
+            "y_min": 0.7487,
+            "x_max": 0.7107,
+            "y_max": 0.7603,
+            "width": 0.3659,
+            "height": 0.0116
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "not t",
+          "bbox": {
+            "x_min": 0.1899,
+            "y_min": 0.6734,
+            "x_max": 0.3682,
+            "y_max": 0.8134,
+            "width": 0.1783,
+            "height": 0.14
+          },
+          "confidence": 0.8813
+        },
+        {
+          "text": "10. Using various resources such as your school Library or the internet",
+          "bbox": {
+            "x_min": 0.3039,
+            "y_min": 0.7851,
+            "x_max": 0.9299,
+            "y_max": 0.7975,
+            "width": 0.6259,
+            "height": 0.0124
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "and discussions with your teacher, trace the evolutionary stages of\nany one animal, say horse.",
+          "bbox": {
+            "x_min": 0.3448,
+            "y_min": 0.8001,
+            "x_max": 0.9322,
+            "y_max": 0.8262,
+            "width": 0.5874,
+            "height": 0.0261
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9822
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

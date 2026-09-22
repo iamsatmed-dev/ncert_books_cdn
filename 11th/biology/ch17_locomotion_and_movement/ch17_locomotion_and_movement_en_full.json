@@ -1,0 +1,3521 @@
+{
+  "chapter_id": "11th_biology_ch17_locomotion_and_movement_ch17_locomotion_and_movement_en",
+  "total_pages": 13,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "11080CH20",
+          "bbox": {
+            "x_min": 0.7995,
+            "y_min": 0.2115,
+            "x_max": 0.8469,
+            "y_max": 0.2162,
+            "width": 0.0473,
+            "height": 0.0047
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "17.1 Types of",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.4521,
+            "x_max": 0.1899,
+            "y_max": 0.4636,
+            "width": 0.1198,
+            "height": 0.0116
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "Movement",
+          "bbox": {
+            "x_min": 0.1134,
+            "y_min": 0.47,
+            "x_max": 0.2051,
+            "y_max": 0.4782,
+            "width": 0.0918,
+            "height": 0.0081
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "17.2 Muscle",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.4957,
+            "x_max": 0.1788,
+            "y_max": 0.5043,
+            "width": 0.1093,
+            "height": 0.0086
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "17.3 Skeletal",
+          "bbox": {
+            "x_min": 0.0713,
+            "y_min": 0.5205,
+            "x_max": 0.1876,
+            "y_max": 0.5295,
+            "width": 0.1163,
+            "height": 0.009
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "System",
+          "bbox": {
+            "x_min": 0.1151,
+            "y_min": 0.5394,
+            "x_max": 0.1806,
+            "y_max": 0.5501,
+            "width": 0.0655,
+            "height": 0.0107
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "17.4 Joints",
+          "bbox": {
+            "x_min": 0.0707,
+            "y_min": 0.5646,
+            "x_max": 0.1701,
+            "y_max": 0.5736,
+            "width": 0.0994,
+            "height": 0.009
+          },
+          "confidence": 0.9838
+        },
+        {
+          "text": "17.5 Disorders of\nMuscular and\nSkeletal System",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.5903,
+            "x_max": 0.249,
+            "y_max": 0.6378,
+            "width": 0.1788,
+            "height": 0.0475
+          },
+          "confidence": 0.9839
+        },
+        {
+          "text": "CHAPTER 17",
+          "bbox": {
+            "x_min": 0.3016,
+            "y_min": 0.3215,
+            "x_max": 0.5196,
+            "y_max": 0.3485,
+            "width": 0.218,
+            "height": 0.027
+          },
+          "confidence": 0.9667
+        },
+        {
+          "text": "LOCOMOTION AND",
+          "bbox": {
+            "x_min": 0.3098,
+            "y_min": 0.3729,
+            "x_max": 0.6108,
+            "y_max": 0.4003,
+            "width": 0.301,
+            "height": 0.0274
+          },
+          "confidence": 0.881
+        },
+        {
+          "text": "MOVEMENT\nis",
+          "bbox": {
+            "x_min": 0.6026,
+            "y_min": 0.3694,
+            "x_max": 0.7943,
+            "y_max": 0.4473,
+            "width": 0.1917,
+            "height": 0.0779
+          },
+          "confidence": 0.8991
+        },
+        {
+          "text": "Movement is one of the significant features of of ] living be beings. Animals and\nplants exhibit a wide range of movements. Streaming of protoplasm in\nthe unicellular organisms like Amoeba is a simple form of movement.\nMovement of cilia, flagella and tentacles are shown by many organisms.\nHuman beings can move limbs, jaws, eyelids, tongue, etc. Some of the\nmovements result in a change of place or location. Such voluntary\nmovements are called locomotion. Walking, running, climbing, flying\nand swimming are all some forms of locomotory movements. Locomotory\nstructures need not be different from those affecting other types of\nmovements. For example, in Paramoecium, cilia helps in the movement of\nfood through cytopharynx and in locomotion as well. Hydra can use its\ntentacles for capturing its prey and also use them for locomotion. We use\nlimbs for changes in body postures and locomotion as well. The above\nobservations suggest that movements and locomotion cannot be studied\nseparately. The two may be linked by stating that all locomotions are\nmovements but all movements are not locomotions.",
+          "bbox": {
+            "x_min": 0.2677,
+            "y_min": 0.4478,
+            "x_max": 0.8995,
+            "y_max": 0.7393,
+            "width": 0.6318,
+            "height": 0.2915
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "You",
+          "bbox": {
+            "x_min": 0.194,
+            "y_min": 0.7136,
+            "x_max": 0.3238,
+            "y_max": 0.8138,
+            "width": 0.1297,
+            "height": 0.1002
+          },
+          "confidence": 0.6839
+        },
+        {
+          "text": "no",
+          "bbox": {
+            "x_min": 0.1888,
+            "y_min": 0.7359,
+            "x_max": 0.3051,
+            "y_max": 0.8168,
+            "width": 0.1163,
+            "height": 0.0809
+          },
+          "confidence": 0.96
+        },
+        {
+          "text": "Methods of locomotion performed by animals vary with their habitats\nand the demand of the situation. However, locomotion is generally for\nsearch of food, shelter, mate, suitable breeding grounds, favourable\nclimatic conditions or to escape from enemies/predators.",
+          "bbox": {
+            "x_min": 0.2677,
+            "y_min": 0.747,
+            "x_max": 0.8977,
+            "y_max": 0.8164,
+            "width": 0.63,
+            "height": 0.0693
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "17.1 TYPES OF MOVEMENT",
+          "bbox": {
+            "x_min": 0.2706,
+            "y_min": 0.8438,
+            "x_max": 0.5465,
+            "y_max": 0.8562,
+            "width": 0.2759,
+            "height": 0.0124
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "Cells of the human body exhibit three main types of movements, namely,\namoeboid, ciliary and muscular.",
+          "bbox": {
+            "x_min": 0.2671,
+            "y_min": 0.8784,
+            "x_max": 0.896,
+            "y_max": 0.9075,
+            "width": 0.6289,
+            "height": 0.0291
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5494,
+            "y_max": 0.9919,
+            "width": 0.0999,
+            "height": 0.0086
+          },
+          "confidence": 0.9838
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "218",
+          "bbox": {
+            "x_min": 0.1151,
+            "y_min": 0.0813,
+            "x_max": 0.156,
+            "y_max": 0.0908,
+            "width": 0.0409,
+            "height": 0.0094
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8597,
+            "y_min": 0.0813,
+            "x_max": 0.9287,
+            "y_max": 0.0908,
+            "width": 0.069,
+            "height": 0.0094
+          },
+          "confidence": 0.9774
+        },
+        {
+          "text": "Some specialised cells in our body like macrophages and leucocytes\nin blood exhibit amoeboid movement. It is effected by pseudopodia formed\nby the streaming of protoplasm (as in Amoeba). Cytoskeletal elements\nlike microfilaments are also involved in amoeboid movement.",
+          "bbox": {
+            "x_min": 0.2998,
+            "y_min": 0.1327,
+            "x_max": 0.9293,
+            "y_max": 0.1978,
+            "width": 0.6295,
+            "height": 0.0651
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "Ciliary movement occurs in most of our internal tubular organs which\nare lined by ciliated epithelium. The coordinated movements of cilia in\nthe trachea help us in removing dust particles and some of the foreign\nsubstances inhaled along with the atmospheric air. Passage of ova through\nthe female reproductive tract is also facilitated by the ciliary movement.",
+          "bbox": {
+            "x_min": 0.2998,
+            "y_min": 0.2051,
+            "x_max": 0.9299,
+            "y_max": 0.2902,
+            "width": 0.63,
+            "height": 0.0852
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "Movement of our limbs, jaws, tongue, etc, require muscular\nmovement. The contractile property of muscles are effectively used for\nlocomotion and other movements by human beings and majority of\nmulticellular organisms. Locomotion requires a perfect coordinated\nactivity of muscular, skeletal and neural systems. In this chapter, you\nwill learn about the types of muscles, their structure, mechanism of\ntheir contraction and important aspects of the skeletal sys system.",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.2954,
+            "x_max": 0.931,
+            "y_max": 0.417,
+            "width": 0.6306,
+            "height": 0.1216
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "17.2 MUSCLE",
+          "bbox": {
+            "x_min": 0.3022,
+            "y_min": 0.4426,
+            "x_max": 0.4518,
+            "y_max": 0.4551,
+            "width": 0.1496,
+            "height": 0.0124
+          },
+          "confidence": 0.9598
+        },
+        {
+          "text": "RT",
+          "bbox": {
+            "x_min": 0.4909,
+            "y_min": 0.4084,
+            "x_max": 0.6131,
+            "y_max": 0.4756,
+            "width": 0.1222,
+            "height": 0.0672
+          },
+          "confidence": 0.8345
+        },
+        {
+          "text": "You have studied in Chapter 8 that the cilia and flagella are the outgrowths\nof the cell membrane. Flagellar movement helps in the swimming of\nspermatozoa, maintenance of water current in the canal system of sponges\nand in locomotion of Protists like Euglena. Muscle is a specialised\ntissue of mesodermal origin. About 40-50 per cent of the body\nweight of a human adult is contributed by muscles. They have\nspecial properties like excitability, contractility, extensibility and\nelasticity. Muscles have been classified using different criteria,\nnamely location, appearance and nature of regulation of their\nactivities. Based on their location, three types of muscles are\nidentified: (i) Skeletal (ii) Visceral and (iii) Cardiac.",
+          "bbox": {
+            "x_min": 0.2992,
+            "y_min": 0.479,
+            "x_max": 0.931,
+            "y_max": 0.6712,
+            "width": 0.6318,
+            "height": 0.1922
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "Skeletal muscles are closely associated with the skeletal components\nof the body. They have a striped appearance under the microscope and\nhence are called striated muscles. As their activities are under the",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.6759,
+            "x_max": 0.9293,
+            "y_max": 0.7226,
+            "width": 0.6289,
+            "height": 0.0467
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "voluntary control of the nervous system, they are known as voluntary\nmuscles too. They are primarily involved in locomotory actions and\nchanges of body postures.",
+          "bbox": {
+            "x_min": 0.2975,
+            "y_min": 0.7269,
+            "x_max": 0.9299,
+            "y_max": 0.78,
+            "width": 0.6324,
+            "height": 0.0531
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "Visceral muscles are located in the inner walls of hollow visceral organs\nof the body like the alimentary canal, reproductive tract, etc. They do not\nexhibit any striation and are smooth in appearance. Hence, they are called\nsmooth muscles (nonstriated muscle). Their activities are not under the\nvoluntary control of the nervous system and are therefore known as\ninvoluntary muscles. They assist, for example, in the transportation of food\nthrough the digestive tract and gametes through the genital tract.",
+          "bbox": {
+            "x_min": 0.2998,
+            "y_min": 0.7838,
+            "x_max": 0.9299,
+            "y_max": 0.9045,
+            "width": 0.63,
+            "height": 0.1207
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1911,
+            "y_min": 0.7102,
+            "x_max": 0.3244,
+            "y_max": 0.8142,
+            "width": 0.1333,
+            "height": 0.104
+          },
+          "confidence": 0.9794
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.45,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9919,
+            "width": 0.0994,
+            "height": 0.009
+          },
+          "confidence": 0.9832
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "LOCOMOTION AND MOVEMENT",
+          "bbox": {
+            "x_min": 0.111,
+            "y_min": 0.0801,
+            "x_max": 0.3337,
+            "y_max": 0.0903,
+            "width": 0.2227,
+            "height": 0.0103
+          },
+          "confidence": 0.9703
+        },
+        {
+          "text": "As the name suggests, Cardiac muscles are the muscles of heart.\nMany cardiac muscle cells assemble in a branching pattern to form a\ncardiac muscle. Based on appearance, cardiac muscles are striated. They\nare involuntary in nature as the nervous system does not control their\nactivities directly.",
+          "bbox": {
+            "x_min": 0.0684,
+            "y_min": 0.1117,
+            "x_max": 0.699,
+            "y_max": 0.1978,
+            "width": 0.6306,
+            "height": 0.086
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "Let us examine a skeletal muscle in detail to understand the structure\nand mechanism of contraction. Each organised skeletal muscle in our\nbody is made of a number of muscle bundles or fascicles held together\nby a common collagenous connective tissue layer called fascia. Each\nmuscle bundle contains a number of muscle fibres (Figure 17.1). Each",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.2029,
+            "x_max": 0.699,
+            "y_max": 0.2907,
+            "width": 0.63,
+            "height": 0.0878
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "Muscle fibre\n(muscle cell)",
+          "bbox": {
+            "x_min": 0.2051,
+            "y_min": 0.4872,
+            "x_max": 0.2981,
+            "y_max": 0.5103,
+            "width": 0.0929,
+            "height": 0.0231
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "Sarcolemma",
+          "bbox": {
+            "x_min": 0.2081,
+            "y_min": 0.5265,
+            "x_max": 0.2998,
+            "y_max": 0.5342,
+            "width": 0.0918,
+            "height": 0.0077
+          },
+          "confidence": 0.9864
+        },
+        {
+          "text": "Blood capillary",
+          "bbox": {
+            "x_min": 0.1888,
+            "y_min": 0.5582,
+            "x_max": 0.3022,
+            "y_max": 0.5685,
+            "width": 0.1134,
+            "height": 0.0103
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "published",
+          "bbox": {
+            "x_min": 0.526,
+            "y_min": 0.3134,
+            "x_max": 0.879,
+            "y_max": 0.5539,
+            "width": 0.353,
+            "height": 0.2406
+          },
+          "confidence": 0.9101
+        },
+        {
+          "text": "Figure 17.1 Diagrammatic cross sectional view of a muscle showing muscle bundles\nand muscle fibres",
+          "bbox": {
+            "x_min": 0.1315,
+            "y_min": 0.6494,
+            "x_max": 0.834,
+            "y_max": 0.6742,
+            "width": 0.7025,
+            "height": 0.0248
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "muscle fibre is lined by the plasma membrane called sarcolemma\nenclosing the sarcoplasm. Muscle fibre is a syncitium as the sarcoplasm\ncontains many nuclei. The endoplasmic reticulum, i.e., sarcoplasmic\nreticulum of the muscle fibres is the store house of calcium ions. A\ncharacteristic feature of the muscle fibre is the presence of a large number\nof parallelly arranged filaments in the sarcoplasm called myofilaments or\nmyofibrils. Each myofibril has alternate dark and light bands on it. A\ndetailed study of the myofibril has established that the striated appearance\nis due to the distribution pattern of two important proteins – Actin and\nMyosin. The light bands contain actin and is called I-band or Isotropic\nband, whereas the dark band called 'A' or Anisotropic band contains",
+          "bbox": {
+            "x_min": 0.0684,
+            "y_min": 0.7076,
+            "x_max": 0.6996,
+            "y_max": 0.9067,
+            "width": 0.6312,
+            "height": 0.1991
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5494,
+            "y_max": 0.9919,
+            "width": 0.0999,
+            "height": 0.0086
+          },
+          "confidence": 0.9838
+        },
+        {
+          "text": "219",
+          "bbox": {
+            "x_min": 0.8463,
+            "y_min": 0.0818,
+            "x_max": 0.889,
+            "y_max": 0.0903,
+            "width": 0.0427,
+            "height": 0.0086
+          },
+          "confidence": 0.9953
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "220",
+          "bbox": {
+            "x_min": 0.114,
+            "y_min": 0.0818,
+            "x_max": 0.1555,
+            "y_max": 0.0903,
+            "width": 0.0415,
+            "height": 0.0086
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8591,
+            "y_min": 0.0818,
+            "x_max": 0.9293,
+            "y_max": 0.0908,
+            "width": 0.0701,
+            "height": 0.009
+          },
+          "confidence": 0.9761
+        },
+        {
+          "text": "myosin. Both the proteins are arranged as rod-like structures, parallel to\neach other and also to the longitudinal axis of the myofibrils. Actin\nfilaments are thinner as compared to the myosin filaments, hence are\ncommonly called thin and thick filaments respectively. In the centre of\neach 'I' band is an elastic fibre called 'Z' line which bisects it. The thin\nfilaments are firmly attached to the ‘Z' line. The thick filaments in the\n'A' band are also held together in the middle of this band by a thin fibrous\nmembrane called ‘M' line. The ‘A' and 'I' bands are arranged alternately\nthroughout the length of the myofibrils. The portion of the myofibril\nbetween two successive 'Z' lines is considered as the functional unit of\ncontraction and is called a sarcomere (Figure 17.2). In a resting state, the\nedges of thin filaments on either side of the thick filaments partially overlap\nthe free ends of the thick filaments leaving the central part of the thick\nfilaments. This central part of thick filament, not overlapped by thin\nfilaments is called the 'H' zone.",
+          "bbox": {
+            "x_min": 0.2998,
+            "y_min": 0.1336,
+            "x_max": 0.9316,
+            "y_max": 0.4045,
+            "width": 0.6318,
+            "height": 0.271
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.5167,
+            "y_min": 0.6327,
+            "x_max": 0.5383,
+            "y_max": 0.6438,
+            "width": 0.0216,
+            "height": 0.0111
+          },
+          "confidence": 0.9687
+        },
+        {
+          "text": "Z line",
+          "bbox": {
+            "x_min": 0.3472,
+            "y_min": 0.6507,
+            "x_max": 0.3928,
+            "y_max": 0.658,
+            "width": 0.0456,
+            "height": 0.0073
+          },
+          "confidence": 0.9709
+        },
+        {
+          "text": "A band",
+          "bbox": {
+            "x_min": 0.5067,
+            "y_min": 0.6614,
+            "x_max": 0.5658,
+            "y_max": 0.6704,
+            "width": 0.059,
+            "height": 0.009
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "I band",
+          "bbox": {
+            "x_min": 0.6867,
+            "y_min": 0.6618,
+            "x_max": 0.7382,
+            "y_max": 0.6704,
+            "width": 0.0514,
+            "height": 0.0086
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "999000",
+          "bbox": {
+            "x_min": 0.3039,
+            "y_min": 0.7363,
+            "x_max": 0.3553,
+            "y_max": 0.7419,
+            "width": 0.0514,
+            "height": 0.0056
+          },
+          "confidence": 0.6
+        },
+        {
+          "text": "000000",
+          "bbox": {
+            "x_min": 0.4465,
+            "y_min": 0.7568,
+            "x_max": 0.4991,
+            "y_max": 0.7646,
+            "width": 0.0526,
+            "height": 0.0077
+          },
+          "confidence": 0.7326
+        },
+        {
+          "text": "10000",
+          "bbox": {
+            "x_min": 0.3045,
+            "y_min": 0.7744,
+            "x_max": 0.3437,
+            "y_max": 0.7812,
+            "width": 0.0392,
+            "height": 0.0068
+          },
+          "confidence": 0.7714
+        },
+        {
+          "text": "000000",
+          "bbox": {
+            "x_min": 0.4465,
+            "y_min": 0.7924,
+            "x_max": 0.4997,
+            "y_max": 0.8001,
+            "width": 0.0532,
+            "height": 0.0077
+          },
+          "confidence": 0.7549
+        },
+        {
+          "text": "000",
+          "bbox": {
+            "x_min": 0.585,
+            "y_min": 0.7937,
+            "x_max": 0.6125,
+            "y_max": 0.7984,
+            "width": 0.0275,
+            "height": 0.0047
+          },
+          "confidence": 0.7663
+        },
+        {
+          "text": "H zone",
+          "bbox": {
+            "x_min": 0.5137,
+            "y_min": 0.8116,
+            "x_max": 0.5704,
+            "y_max": 0.8193,
+            "width": 0.0567,
+            "height": 0.0077
+          },
+          "confidence": 0.958
+        },
+        {
+          "text": "Sarcomere\n(b)",
+          "bbox": {
+            "x_min": 0.502,
+            "y_min": 0.8309,
+            "x_max": 0.5862,
+            "y_max": 0.8604,
+            "width": 0.0842,
+            "height": 0.0295
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "9900",
+          "bbox": {
+            "x_min": 0.7347,
+            "y_min": 0.7359,
+            "x_max": 0.7703,
+            "y_max": 0.7423,
+            "width": 0.0357,
+            "height": 0.0064
+          },
+          "confidence": 0.6008
+        },
+        {
+          "text": "Figure 17.2 Diagrammatic representation of (a) anatomy of a muscle fibre showing\na sarcomere (b) a sarcomere",
+          "bbox": {
+            "x_min": 0.1718,
+            "y_min": 0.8737,
+            "x_max": 0.8778,
+            "y_max": 0.9007,
+            "width": 0.706,
+            "height": 0.027
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.45,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0994,
+            "height": 0.0094
+          },
+          "confidence": 0.9814
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "LOCOMOTION AND MOVEMENT",
+          "bbox": {
+            "x_min": 0.111,
+            "y_min": 0.0801,
+            "x_max": 0.3337,
+            "y_max": 0.0903,
+            "width": 0.2227,
+            "height": 0.0103
+          },
+          "confidence": 0.9708
+        },
+        {
+          "text": "17.2.1 Structure of Contractile Proteins",
+          "bbox": {
+            "x_min": 0.0707,
+            "y_min": 0.1323,
+            "x_max": 0.5202,
+            "y_max": 0.1447,
+            "width": 0.4494,
+            "height": 0.0124
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "Each actin (thin) filament is made of two 'F' (filamentous) actins\nhelically wound to each other. Each ‘F' actin is a polymer of monomeric\n'G' (Globular) actins. Two filaments of another protein, tropomyosin\nalso run close to the ‘F' actins throughout its length. A complex protein\nTroponin is distributed at regular intervals on the tropomyosin. In the\nresting state a subunit of troponin masks the active binding sites for\nmyosin on the actin filaments (Figure 17.3a).",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.1597,
+            "x_max": 0.7002,
+            "y_max": 0.2847,
+            "width": 0.6312,
+            "height": 0.125
+          },
+          "confidence": 0.9852
+        },
+        {
+          "text": "Each myosin (thick) filament is also a polymerised protein. Many\nmonomeric proteins called Meromyosins (Figure 17.3b) constitute one\nthick filament. Each meromyosin has two important parts, a globular\nhead with a short arm and a tail, the former being called the heavy\nmeromyosin (HMM) and the latter, the light meromyosin (LMM). The HMM\ncomponent, i.e.; the head and short arm projects outwards at regular\ndistance and angle from each other from the surface of a polymerised myosin\nfilament and is known as cross arm. The globular head is an active ATPase\nenzyme and has binding sites for ATP and active sites for actin.",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.2907,
+            "x_max": 0.699,
+            "y_max": 0.4525,
+            "width": 0.6295,
+            "height": 0.1618
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "221",
+          "bbox": {
+            "x_min": 0.8463,
+            "y_min": 0.0818,
+            "x_max": 0.8884,
+            "y_max": 0.0903,
+            "width": 0.0421,
+            "height": 0.0086
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "ER",
+          "bbox": {
+            "x_min": 0.4518,
+            "y_min": 0.4238,
+            "x_max": 0.5833,
+            "y_max": 0.5163,
+            "width": 0.1315,
+            "height": 0.0925
+          },
+          "confidence": 0.9031
+        },
+        {
+          "text": "weublished",
+          "bbox": {
+            "x_min": 0.3828,
+            "y_min": 0.3031,
+            "x_max": 0.8714,
+            "y_max": 0.6866,
+            "width": 0.4886,
+            "height": 0.3836
+          },
+          "confidence": 0.8501
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.4202,
+            "y_min": 0.5668,
+            "x_max": 0.4442,
+            "y_max": 0.5779,
+            "width": 0.024,
+            "height": 0.0111
+          },
+          "confidence": 0.9689
+        },
+        {
+          "text": "-Troponin",
+          "bbox": {
+            "x_min": 0.6914,
+            "y_min": 0.4953,
+            "x_max": 0.7697,
+            "y_max": 0.506,
+            "width": 0.0783,
+            "height": 0.0107
+          },
+          "confidence": 0.9658
+        },
+        {
+          "text": "-Tropomyosin",
+          "bbox": {
+            "x_min": 0.6908,
+            "y_min": 0.527,
+            "x_max": 0.8007,
+            "y_max": 0.5381,
+            "width": 0.1099,
+            "height": 0.0111
+          },
+          "confidence": 0.9848
+        },
+        {
+          "text": "F actin",
+          "bbox": {
+            "x_min": 0.6978,
+            "y_min": 0.5586,
+            "x_max": 0.7545,
+            "y_max": 0.5659,
+            "width": 0.0567,
+            "height": 0.0073
+          },
+          "confidence": 0.9608
+        },
+        {
+          "text": "Actin \nATP",
+          "bbox": {
+            "x_min": 0.3156,
+            "y_min": 0.6203,
+            "x_max": 0.3659,
+            "y_max": 0.655,
+            "width": 0.0503,
+            "height": 0.0347
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "Head",
+          "bbox": {
+            "x_min": 0.6148,
+            "y_min": 0.6306,
+            "x_max": 0.6563,
+            "y_max": 0.6378,
+            "width": 0.0415,
+            "height": 0.0073
+          },
+          "confidence": 0.9761
+        },
+        {
+          "text": "Cross arm",
+          "bbox": {
+            "x_min": 0.6113,
+            "y_min": 0.6841,
+            "x_max": 0.6978,
+            "y_max": 0.6931,
+            "width": 0.0865,
+            "height": 0.009
+          },
+          "confidence": 0.986
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.4231,
+            "y_min": 0.7419,
+            "x_max": 0.4436,
+            "y_max": 0.7526,
+            "width": 0.0205,
+            "height": 0.0107
+          },
+          "confidence": 0.9848
+        },
+        {
+          "text": "Figure 17.3 (a) An actin (thin) filament (b) Myosin monomer (Meromyosin)",
+          "bbox": {
+            "x_min": 0.1683,
+            "y_min": 0.7705,
+            "x_max": 0.7972,
+            "y_max": 0.7834,
+            "width": 0.6289,
+            "height": 0.0128
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "17.2.2 Mechanism of Muscle Contraction",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.8151,
+            "x_max": 0.5307,
+            "y_max": 0.8275,
+            "width": 0.4605,
+            "height": 0.0124
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "Mechanism of muscle contraction is best explained by the sliding filament\ntheory which states that contraction of a muscle fibre takes place by the\nsliding of the thin filaments over the thick filaments.",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.8433,
+            "x_max": 0.699,
+            "y_max": 0.893,
+            "width": 0.63,
+            "height": 0.0497
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9812
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "222",
+          "bbox": {
+            "x_min": 0.1134,
+            "y_min": 0.0813,
+            "x_max": 0.156,
+            "y_max": 0.0908,
+            "width": 0.0427,
+            "height": 0.0094
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8597,
+            "y_min": 0.0813,
+            "x_max": 0.9287,
+            "y_max": 0.0908,
+            "width": 0.069,
+            "height": 0.0094
+          },
+          "confidence": 0.9774
+        },
+        {
+          "text": "Muscle contraction is initiated by a signal sent by the central nervous\nsystem (CNS) via a motor neuron. A motor neuron along with the muscle\nfibres connected to it constitute a motor unit. The junction between a\nmotor neuron and the sarcolemma of the muscle fibre is called the\nneuromuscular junction or motor-end plate. A neural signal reaching this\njunction releases a neurotransmitter (Acetyl choline) which generates an\naction potential in the sarcolemma. This spreads through the muscle fibre\nand causes the release of calcium ions into the sarcoplasm. Increase in\nCa++ level leads to the binding of calcium with a subunit of troponin on\nactin filaments and thereby remove the masking of active sites for myosin.\nUtilising the energy from ATP hydrolysis, the myosin head now binds to\nthe exposed active sites on actin to form a cross bridge (Figure 17.4).",
+          "bbox": {
+            "x_min": 0.2987,
+            "y_min": 0.1336,
+            "x_max": 0.9305,
+            "y_max": 0.3519,
+            "width": 0.6318,
+            "height": 0.2183
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "Actin\nfilament",
+          "bbox": {
+            "x_min": 0.3092,
+            "y_min": 0.4015,
+            "x_max": 0.3793,
+            "y_max": 0.4234,
+            "width": 0.0701,
+            "height": 0.0218
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "Myosin\nfilament",
+          "bbox": {
+            "x_min": 0.3162,
+            "y_min": 0.4448,
+            "x_max": 0.3863,
+            "y_max": 0.4666,
+            "width": 0.0701,
+            "height": 0.0218
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "ATP",
+          "bbox": {
+            "x_min": 0.3092,
+            "y_min": 0.5167,
+            "x_max": 0.3442,
+            "y_max": 0.5248,
+            "width": 0.0351,
+            "height": 0.0081
+          },
+          "confidence": 0.8651
+        },
+        {
+          "text": "(Breaking of cross bridge)",
+          "bbox": {
+            "x_min": 0.1368,
+            "y_min": 0.5741,
+            "x_max": 0.3425,
+            "y_max": 0.586,
+            "width": 0.2057,
+            "height": 0.012
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "PADP",
+          "bbox": {
+            "x_min": 0.498,
+            "y_min": 0.4225,
+            "x_max": 0.5897,
+            "y_max": 0.4311,
+            "width": 0.0918,
+            "height": 0.0086
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "ADP",
+          "bbox": {
+            "x_min": 0.5546,
+            "y_min": 0.4182,
+            "x_max": 0.5938,
+            "y_max": 0.4388,
+            "width": 0.0392,
+            "height": 0.0205
+          },
+          "confidence": 0.9639
+        },
+        {
+          "text": "NCER",
+          "bbox": {
+            "x_min": 0.3618,
+            "y_min": 0.4187,
+            "x_max": 0.5874,
+            "y_max": 0.5822,
+            "width": 0.2256,
+            "height": 0.1635
+          },
+          "confidence": 0.8594
+        },
+        {
+          "text": "Cross bridge",
+          "bbox": {
+            "x_min": 0.6534,
+            "y_min": 0.5163,
+            "x_max": 0.7569,
+            "y_max": 0.5287,
+            "width": 0.1034,
+            "height": 0.0124
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "Myosin head",
+          "bbox": {
+            "x_min": 0.8171,
+            "y_min": 0.5163,
+            "x_max": 0.9223,
+            "y_max": 0.5278,
+            "width": 0.1052,
+            "height": 0.0116
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "not to republished",
+          "bbox": {
+            "x_min": 0.1859,
+            "y_min": 0.3022,
+            "x_max": 0.886,
+            "y_max": 0.8193,
+            "width": 0.7002,
+            "height": 0.5171
+          },
+          "confidence": 0.9462
+        },
+        {
+          "text": "P",
+          "bbox": {
+            "x_min": 0.422,
+            "y_min": 0.6139,
+            "x_max": 0.4372,
+            "y_max": 0.6224,
+            "width": 0.0152,
+            "height": 0.0086
+          },
+          "confidence": 0.9587
+        },
+        {
+          "text": "(Formation of cross bridge)",
+          "bbox": {
+            "x_min": 0.6528,
+            "y_min": 0.5715,
+            "x_max": 0.8708,
+            "y_max": 0.5839,
+            "width": 0.218,
+            "height": 0.0124
+          },
+          "confidence": 0.9853
+        },
+        {
+          "text": "Sliding/rotation",
+          "bbox": {
+            "x_min": 0.4407,
+            "y_min": 0.6729,
+            "x_max": 0.5693,
+            "y_max": 0.6854,
+            "width": 0.1286,
+            "height": 0.0124
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "Figure 17.4 Stages in cross bridge formation, rotation of head and breaking of",
+          "bbox": {
+            "x_min": 0.173,
+            "y_min": 0.7046,
+            "x_max": 0.8527,
+            "y_max": 0.7175,
+            "width": 0.6797,
+            "height": 0.0128
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "This pulls the attached actin filaments towards the centre of ‘A band. The\n'Z' line attached to these actins are also pulled inwards thereby causing a\nshortening of the sarcomere, i.e., contraction. It is clear from the above\nsteps, that during shortening of the muscle, i.e., contraction, the 'I' bands\nget reduced, whereas the ‘A bands retain the length (Figure 17.5). The\nmyosin, releasing the ADP and P₁ goes back to its relaxed state. A new\nATP binds and the cross-bridge is broken (Figure 17.4). The ATP is again\nhydrolysed by the myosin head and the cycle of cross bridge formation",
+          "bbox": {
+            "x_min": 0.2998,
+            "y_min": 0.7654,
+            "x_max": 0.9305,
+            "y_max": 0.9092,
+            "width": 0.6306,
+            "height": 0.1438
+          },
+          "confidence": 0.9852
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5494,
+            "y_max": 0.9919,
+            "width": 0.0999,
+            "height": 0.0086
+          },
+          "confidence": 0.9838
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "LOCOMOTION AND MOVEMENT",
+          "bbox": {
+            "x_min": 0.1093,
+            "y_min": 0.0801,
+            "x_max": 0.3343,
+            "y_max": 0.0903,
+            "width": 0.225,
+            "height": 0.0103
+          },
+          "confidence": 0.9692
+        },
+        {
+          "text": "Relaxed",
+          "bbox": {
+            "x_min": 0.1274,
+            "y_min": 0.217,
+            "x_max": 0.194,
+            "y_max": 0.2247,
+            "width": 0.0666,
+            "height": 0.0077
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "4",
+          "bbox": {
+            "x_min": 0.277,
+            "y_min": 0.2239,
+            "x_max": 0.2864,
+            "y_max": 0.232,
+            "width": 0.0094,
+            "height": 0.0081
+          },
+          "confidence": 0.9251
+        },
+        {
+          "text": "Z line",
+          "bbox": {
+            "x_min": 0.211,
+            "y_min": 0.2684,
+            "x_max": 0.2595,
+            "y_max": 0.2765,
+            "width": 0.0485,
+            "height": 0.0081
+          },
+          "confidence": 0.9724
+        },
+        {
+          "text": "Contracting",
+          "bbox": {
+            "x_min": 0.142,
+            "y_min": 0.339,
+            "x_max": 0.2396,
+            "y_max": 0.3493,
+            "width": 0.0976,
+            "height": 0.0103
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "4\n44",
+          "bbox": {
+            "x_min": 0.2905,
+            "y_min": 0.3215,
+            "x_max": 0.3133,
+            "y_max": 0.3485,
+            "width": 0.0228,
+            "height": 0.027
+          },
+          "confidence": 0.9414
+        },
+        {
+          "text": "44",
+          "bbox": {
+            "x_min": 0.3115,
+            "y_min": 0.4448,
+            "x_max": 0.3326,
+            "y_max": 0.4538,
+            "width": 0.021,
+            "height": 0.009
+          },
+          "confidence": 0.9536
+        },
+        {
+          "text": "Maximally\nContracted",
+          "bbox": {
+            "x_min": 0.1777,
+            "y_min": 0.4563,
+            "x_max": 0.2712,
+            "y_max": 0.479,
+            "width": 0.0935,
+            "height": 0.0227
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "I band",
+          "bbox": {
+            "x_min": 0.4921,
+            "y_min": 0.1443,
+            "x_max": 0.5441,
+            "y_max": 0.1537,
+            "width": 0.052,
+            "height": 0.0094
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "H zone",
+          "bbox": {
+            "x_min": 0.3518,
+            "y_min": 0.1554,
+            "x_max": 0.4097,
+            "y_max": 0.1635,
+            "width": 0.0579,
+            "height": 0.0081
+          },
+          "confidence": 0.9182
+        },
+        {
+          "text": "A band",
+          "bbox": {
+            "x_min": 0.6406,
+            "y_min": 0.1605,
+            "x_max": 0.7013,
+            "y_max": 0.1691,
+            "width": 0.0608,
+            "height": 0.0086
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "Z line",
+          "bbox": {
+            "x_min": 0.5038,
+            "y_min": 0.2705,
+            "x_max": 0.5523,
+            "y_max": 0.2783,
+            "width": 0.0485,
+            "height": 0.0077
+          },
+          "confidence": 0.9771
+        },
+        {
+          "text": "4\n4",
+          "bbox": {
+            "x_min": 0.5617,
+            "y_min": 0.2136,
+            "x_max": 0.5804,
+            "y_max": 0.2402,
+            "width": 0.0187,
+            "height": 0.0265
+          },
+          "confidence": 0.9078
+        },
+        {
+          "text": "Z line",
+          "bbox": {
+            "x_min": 0.7902,
+            "y_min": 0.2663,
+            "x_max": 0.8393,
+            "y_max": 0.2744,
+            "width": 0.0491,
+            "height": 0.0081
+          },
+          "confidence": 0.9655
+        },
+        {
+          "text": "223",
+          "bbox": {
+            "x_min": 0.8475,
+            "y_min": 0.0818,
+            "x_max": 0.8866,
+            "y_max": 0.0908,
+            "width": 0.0392,
+            "height": 0.009
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6786,
+            "y_min": 0.3039,
+            "x_max": 0.8825,
+            "y_max": 0.4431,
+            "width": 0.204,
+            "height": 0.1391
+          },
+          "confidence": 0.9653
+        },
+        {
+          "text": "ent th",
+          "bbox": {
+            "x_min": 0.3612,
+            "y_min": 0.5501,
+            "x_max": 0.4062,
+            "y_max": 0.5685,
+            "width": 0.045,
+            "height": 0.0184
+          },
+          "confidence": 0.9407
+        },
+        {
+          "text": "Two Sarcomeres",
+          "bbox": {
+            "x_min": 0.4646,
+            "y_min": 0.5218,
+            "x_max": 0.5979,
+            "y_max": 0.5312,
+            "width": 0.1333,
+            "height": 0.0094
+          },
+          "confidence": 0.9789
+        },
+        {
+          "text": "Figure 17.5 Sliding-filament theory of muscle contraction (movement of the thin\nfilaments and the relative size of the I band and H zones)",
+          "bbox": {
+            "x_min": 0.1373,
+            "y_min": 0.5535,
+            "x_max": 0.841,
+            "y_max": 0.5788,
+            "width": 0.7037,
+            "height": 0.0253
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "and breakage is repeated causing further sliding. The process continues\ntill the Ca++ ions are pumped back to the sarcoplasmic cisternae resulting\nin the masking of actin filaments. This causes the return of ‘Z' lines back\nto their original position, i.e., relaxation. The reaction time of the fibres\ncan vary in different muscles. Repeated activation of the muscles can lead\nto the accumulation of lactic acid due to anaerobic breakdown of glycogen\nin them, causing fatigue. Muscle contains a red coloured oxygen storing\npigment called myoglobin. Myoglobin content is high in some of the\nmuscles which gives a reddish appearance. Such muscles are called the\nRed fibres. These muscles also contain plenty of mitochondria which can\nutilise the large amount of oxygen stored in them for ATP production.\nThese muscles, therefore, can also be called aerobic muscles. On the\nother hand, some of the muscles possess very less quantity of myoglobin\nand therefore, appear pale or whitish. These are the White fibres. Number\nof mitochondria are also few in them, but the amount of sarcoplasmic\nreticulum is high. They depend on anaerobic process for energy.",
+          "bbox": {
+            "x_min": 0.0684,
+            "y_min": 0.6147,
+            "x_max": 0.699,
+            "y_max": 0.9062,
+            "width": 0.6306,
+            "height": 0.2915
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5494,
+            "y_max": 0.9919,
+            "width": 0.0999,
+            "height": 0.0086
+          },
+          "confidence": 0.9838
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "224",
+          "bbox": {
+            "x_min": 0.1134,
+            "y_min": 0.0813,
+            "x_max": 0.159,
+            "y_max": 0.0908,
+            "width": 0.0456,
+            "height": 0.0094
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "Parietal\nbone",
+          "bbox": {
+            "x_min": 0.2098,
+            "y_min": 0.4409,
+            "x_max": 0.2747,
+            "y_max": 0.4632,
+            "width": 0.0649,
+            "height": 0.0223
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "Temporal\nbone",
+          "bbox": {
+            "x_min": 0.1987,
+            "y_min": 0.5394,
+            "x_max": 0.277,
+            "y_max": 0.5634,
+            "width": 0.0783,
+            "height": 0.024
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8609,
+            "y_min": 0.0818,
+            "x_max": 0.931,
+            "y_max": 0.0912,
+            "width": 0.0701,
+            "height": 0.0094
+          },
+          "confidence": 0.9714
+        },
+        {
+          "text": "17.3 SKELETAL SYSTEM",
+          "bbox": {
+            "x_min": 0.3027,
+            "y_min": 0.1327,
+            "x_max": 0.5511,
+            "y_max": 0.1451,
+            "width": 0.2484,
+            "height": 0.0124
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "Skeletal system consists of a framework of bones and a few cartilages.\nThis system has a significant role in movement shown by the body.\nImagine chewing food without jaw bones and walking around without\nthe limb bones. Bone and cartilage are specialised connective tissues.\nThe former has a very hard matrix due to calcium salts in it and the latter\nhas slightly pliable matrix due to chondroitin salts. In human beings,\nthis system is made up of 206 bones and a few cartilages. It is grouped\ninto two principal divisions – the axial and the appendicular skeleton.",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.1687,
+            "x_max": 0.9328,
+            "y_max": 0.3078,
+            "width": 0.6324,
+            "height": 0.1391
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "Axial skeleton comprises 80 bones distributed along the main\naxis of the body. The skull, vertebral column, sternum and ribs\nconstitute axial skeleton. The skull (Figure 17.6) is composed of two",
+          "bbox": {
+            "x_min": 0.3016,
+            "y_min": 0.3116,
+            "x_max": 0.9316,
+            "y_max": 0.3622,
+            "width": 0.63,
+            "height": 0.0505
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "Frontal bone",
+          "bbox": {
+            "x_min": 0.4974,
+            "y_min": 0.3878,
+            "x_max": 0.6014,
+            "y_max": 0.3968,
+            "width": 0.104,
+            "height": 0.009
+          },
+          "confidence": 0.9846
+        },
+        {
+          "text": "Sphenoid bone",
+          "bbox": {
+            "x_min": 0.6575,
+            "y_min": 0.4576,
+            "x_max": 0.7773,
+            "y_max": 0.4688,
+            "width": 0.1198,
+            "height": 0.0111
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "Ethmoid bone",
+          "bbox": {
+            "x_min": 0.6546,
+            "y_min": 0.4846,
+            "x_max": 0.768,
+            "y_max": 0.494,
+            "width": 0.1134,
+            "height": 0.0094
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "Lacrimal bone",
+          "bbox": {
+            "x_min": 0.6791,
+            "y_min": 0.5068,
+            "x_max": 0.7949,
+            "y_max": 0.5163,
+            "width": 0.1157,
+            "height": 0.0094
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "-Nasal bone",
+          "bbox": {
+            "x_min": 0.6949,
+            "y_min": 0.5295,
+            "x_max": 0.7884,
+            "y_max": 0.5394,
+            "width": 0.0935,
+            "height": 0.0098
+          },
+          "confidence": 0.9705
+        },
+        {
+          "text": "not to lishe",
+          "bbox": {
+            "x_min": 0.1888,
+            "y_min": 0.3305,
+            "x_max": 0.8451,
+            "y_max": 0.8189,
+            "width": 0.6563,
+            "height": 0.4884
+          },
+          "confidence": 0.9545
+        },
+        {
+          "text": "Occipital\nbone",
+          "bbox": {
+            "x_min": 0.1987,
+            "y_min": 0.5989,
+            "x_max": 0.2724,
+            "y_max": 0.6216,
+            "width": 0.0736,
+            "height": 0.0227
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "Occipital\ncondyle",
+          "bbox": {
+            "x_min": 0.1894,
+            "y_min": 0.646,
+            "x_max": 0.2636,
+            "y_max": 0.6725,
+            "width": 0.0742,
+            "height": 0.0265
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "Zygomatic bone",
+          "bbox": {
+            "x_min": 0.7224,
+            "y_min": 0.5723,
+            "x_max": 0.8492,
+            "y_max": 0.5843,
+            "width": 0.1268,
+            "height": 0.012
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "Maxilla",
+          "bbox": {
+            "x_min": 0.713,
+            "y_min": 0.6096,
+            "x_max": 0.7732,
+            "y_max": 0.6182,
+            "width": 0.0602,
+            "height": 0.0086
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "Mandible",
+          "bbox": {
+            "x_min": 0.7195,
+            "y_min": 0.6704,
+            "x_max": 0.7954,
+            "y_max": 0.6785,
+            "width": 0.076,
+            "height": 0.0081
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "Hyoid bone",
+          "bbox": {
+            "x_min": 0.654,
+            "y_min": 0.7102,
+            "x_max": 0.7458,
+            "y_max": 0.7209,
+            "width": 0.0918,
+            "height": 0.0107
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "Figure 17.6 Diagrammatic view of human skull",
+          "bbox": {
+            "x_min": 0.3127,
+            "y_min": 0.7367,
+            "x_max": 0.7218,
+            "y_max": 0.7496,
+            "width": 0.4091,
+            "height": 0.0128
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "sets of bones – cranial and facial, that totals to 22 bones. Cranial bones\nare 8 in number. They form the hard protective outer covering, cranium\nfor the brain. The facial region is made up of 14 skeletal elements which\nform the front part of the skull. A single U-shaped bone called hyoid is\npresent at the base of the buccal cavity. Each middle ear contains three\ntiny bones Malleus, Incus and Stapes, collectively called Ear\nOssicles. The skull region articulates with the superior region of the",
+          "bbox": {
+            "x_min": 0.2998,
+            "y_min": 0.7787,
+            "x_max": 0.9328,
+            "y_max": 0.8998,
+            "width": 0.633,
+            "height": 0.1211
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.45,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9919,
+            "width": 0.0994,
+            "height": 0.009
+          },
+          "confidence": 0.9832
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "LOCOMOTION AND MOVEMENT",
+          "bbox": {
+            "x_min": 0.1099,
+            "y_min": 0.0796,
+            "x_max": 0.3337,
+            "y_max": 0.0903,
+            "width": 0.2238,
+            "height": 0.0107
+          },
+          "confidence": 0.972
+        },
+        {
+          "text": "225",
+          "bbox": {
+            "x_min": 0.848,
+            "y_min": 0.0813,
+            "x_max": 0.886,
+            "y_max": 0.0908,
+            "width": 0.038,
+            "height": 0.0094
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "vertebral column with the help of two occipital\ncondyles (dicondylic skull).",
+          "bbox": {
+            "x_min": 0.0684,
+            "y_min": 0.1331,
+            "x_max": 0.4681,
+            "y_max": 0.1644,
+            "width": 0.3998,
+            "height": 0.0312
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "Our vertebral column (Figure 17.7) is\nformed by 26 serially arranged units called\nvertebrae and is dorsally placed. It extends from\nthe base of the skull and constitutes the main\nframework of the trunk. Each vertebra has a\ncentral hollow portion (neural canal) through\nwhich the spinal cord passes. First vertebra is\nthe atlas and it articulates with the occipital\ncondyles. The vertebral column is differentiated\ninto cervical (7), thoracic (12), lumbar (5), sacral\n(1-fused) and coccygeal (1-fused) regions\nstarting from the skull. The number of cervical\nvertebrae are seven in almost all mammals\nincluding human beings. The vertebral column\nprotects the spinal cord, supports the head and\nserves as the point of attachment for the ribs\nand musculature of the back. Sternum is a\nflat bone on the ventral midline of thorax.",
+          "bbox": {
+            "x_min": 0.0684,
+            "y_min": 0.1695,
+            "x_max": 0.4681,
+            "y_max": 0.4961,
+            "width": 0.3998,
+            "height": 0.3266
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "Intervertebral",
+          "bbox": {
+            "x_min": 0.498,
+            "y_min": 0.3416,
+            "x_max": 0.6078,
+            "y_max": 0.3502,
+            "width": 0.1099,
+            "height": 0.0086
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "disc",
+          "bbox": {
+            "x_min": 0.5733,
+            "y_min": 0.3557,
+            "x_max": 0.6096,
+            "y_max": 0.3639,
+            "width": 0.0362,
+            "height": 0.0081
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "Sacrum",
+          "bbox": {
+            "x_min": 0.5295,
+            "y_min": 0.3951,
+            "x_max": 0.5926,
+            "y_max": 0.4028,
+            "width": 0.0631,
+            "height": 0.0077
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "Соссух",
+          "bbox": {
+            "x_min": 0.5476,
+            "y_min": 0.4349,
+            "x_max": 0.609,
+            "y_max": 0.4469,
+            "width": 0.0614,
+            "height": 0.012
+          },
+          "confidence": 0.809
+        },
+        {
+          "text": "Cervical vertebra",
+          "bbox": {
+            "x_min": 0.7586,
+            "y_min": 0.1396,
+            "x_max": 0.8954,
+            "y_max": 0.1481,
+            "width": 0.1368,
+            "height": 0.0086
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "Thoracic\nvertebra",
+          "bbox": {
+            "x_min": 0.7779,
+            "y_min": 0.2427,
+            "x_max": 0.8492,
+            "y_max": 0.265,
+            "width": 0.0713,
+            "height": 0.0223
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "e",
+          "bbox": {
+            "x_min": 0.4261,
+            "y_min": 0.5693,
+            "x_max": 0.5307,
+            "y_max": 0.6438,
+            "width": 0.1046,
+            "height": 0.0745
+          },
+          "confidence": 0.6667
+        },
+        {
+          "text": "republished",
+          "bbox": {
+            "x_min": 0.4734,
+            "y_min": 0.3086,
+            "x_max": 0.8843,
+            "y_max": 0.6015,
+            "width": 0.4109,
+            "height": 0.2928
+          },
+          "confidence": 0.9624
+        },
+        {
+          "text": "Figure 17.7 Vertebral column (right lateral view)",
+          "bbox": {
+            "x_min": 0.4944,
+            "y_min": 0.4705,
+            "x_max": 0.8977,
+            "y_max": 0.4842,
+            "width": 0.4033,
+            "height": 0.0137
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "There are 12 pairs of ribs. Each rib is a\nthin flat bone connected dorsally to the\nvertebral column and ventrally to the sternum.\nIt has two articulation surfaces on its dorsal\nend and is hence called bicephalic. First\nseven pairs of ribs are called true ribs.\nDorsally, they are attached to the thoracic\nvertebrae and ventrally connected to the\nsternum with the help of hyaline cartilage.\nThe 8th, 9th and 10th pairs of ribs do not\narticulate directly with the sternum but join\nthe seventh rib with the help of hyaline\ncartilage. These are called vertebrochondral\n(false) ribs. Last 2 pairs (11th and 12th) of\nribs are not connected ventrally and are\ntherefore, called floating ribs. Thoracic False\nvertebrae, ribs and sternum together form\nthe rib cage (Figure 17.8).",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.5047,
+            "x_max": 0.5085,
+            "y_max": 0.833,
+            "width": 0.4395,
+            "height": 0.3283
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "The bones of the limbs along with their",
+          "bbox": {
+            "x_min": 0.0999,
+            "y_min": 0.8386,
+            "x_max": 0.45,
+            "y_max": 0.8515,
+            "width": 0.3501,
+            "height": 0.0128
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "1",
+          "bbox": {
+            "x_min": 0.6067,
+            "y_min": 0.6057,
+            "x_max": 0.6201,
+            "y_max": 0.6134,
+            "width": 0.0134,
+            "height": 0.0077
+          },
+          "confidence": 0.9699
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.5769,
+            "y_min": 0.6276,
+            "x_max": 0.5874,
+            "y_max": 0.6361,
+            "width": 0.0105,
+            "height": 0.0086
+          },
+          "confidence": 0.9335
+        },
+        {
+          "text": "3",
+          "bbox": {
+            "x_min": 0.5622,
+            "y_min": 0.6507,
+            "x_max": 0.5739,
+            "y_max": 0.6584,
+            "width": 0.0117,
+            "height": 0.0077
+          },
+          "confidence": 0.9677
+        },
+        {
+          "text": "True ribs",
+          "bbox": {
+            "x_min": 0.4798,
+            "y_min": 0.6657,
+            "x_max": 0.5506,
+            "y_max": 0.6747,
+            "width": 0.0707,
+            "height": 0.009
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "4",
+          "bbox": {
+            "x_min": 0.5506,
+            "y_min": 0.6777,
+            "x_max": 0.5663,
+            "y_max": 0.6858,
+            "width": 0.0158,
+            "height": 0.0081
+          },
+          "confidence": 0.9667
+        },
+        {
+          "text": "5",
+          "bbox": {
+            "x_min": 0.5488,
+            "y_min": 0.6969,
+            "x_max": 0.5582,
+            "y_max": 0.7059,
+            "width": 0.0094,
+            "height": 0.009
+          },
+          "confidence": 0.9482
+        },
+        {
+          "text": "6",
+          "bbox": {
+            "x_min": 0.5435,
+            "y_min": 0.7149,
+            "x_max": 0.5552,
+            "y_max": 0.7226,
+            "width": 0.0117,
+            "height": 0.0077
+          },
+          "confidence": 0.9695
+        },
+        {
+          "text": "Ribs",
+          "bbox": {
+            "x_min": 0.8229,
+            "y_min": 0.7286,
+            "x_max": 0.8568,
+            "y_max": 0.7367,
+            "width": 0.0339,
+            "height": 0.0081
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "7",
+          "bbox": {
+            "x_min": 0.5395,
+            "y_min": 0.7354,
+            "x_max": 0.5523,
+            "y_max": 0.7423,
+            "width": 0.0129,
+            "height": 0.0068
+          },
+          "confidence": 0.9709
+        },
+        {
+          "text": "ribs",
+          "bbox": {
+            "x_min": 0.4652,
+            "y_min": 0.7928,
+            "x_max": 0.4985,
+            "y_max": 0.8022,
+            "width": 0.0333,
+            "height": 0.0094
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "8",
+          "bbox": {
+            "x_min": 0.5365,
+            "y_min": 0.762,
+            "x_max": 0.5506,
+            "y_max": 0.7701,
+            "width": 0.014,
+            "height": 0.0081
+          },
+          "confidence": 0.9551
+        },
+        {
+          "text": "9",
+          "bbox": {
+            "x_min": 0.5389,
+            "y_min": 0.7864,
+            "x_max": 0.55,
+            "y_max": 0.7941,
+            "width": 0.0111,
+            "height": 0.0077
+          },
+          "confidence": 0.967
+        },
+        {
+          "text": "10",
+          "bbox": {
+            "x_min": 0.5447,
+            "y_min": 0.8228,
+            "x_max": 0.5658,
+            "y_max": 0.8318,
+            "width": 0.021,
+            "height": 0.009
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "11",
+          "bbox": {
+            "x_min": 0.5576,
+            "y_min": 0.8335,
+            "x_max": 0.5786,
+            "y_max": 0.8425,
+            "width": 0.021,
+            "height": 0.009
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "girdles constitute the appendicular Floating ribs-12",
+          "bbox": {
+            "x_min": 0.0678,
+            "y_min": 0.8446,
+            "x_max": 0.6072,
+            "y_max": 0.8711,
+            "width": 0.5395,
+            "height": 0.0265
+          },
+          "confidence": 0.9674
+        },
+        {
+          "text": "Sternum",
+          "bbox": {
+            "x_min": 0.8235,
+            "y_min": 0.6738,
+            "x_max": 0.8913,
+            "y_max": 0.6819,
+            "width": 0.0678,
+            "height": 0.0081
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "Vertebral\ncolumn",
+          "bbox": {
+            "x_min": 0.8212,
+            "y_min": 0.7633,
+            "x_max": 0.8942,
+            "y_max": 0.7868,
+            "width": 0.0731,
+            "height": 0.0235
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "skeleton. Each limb is made of 30 bones.",
+          "bbox": {
+            "x_min": 0.0707,
+            "y_min": 0.875,
+            "x_max": 0.4483,
+            "y_max": 0.8861,
+            "width": 0.3776,
+            "height": 0.0111
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "The bones of the hand (fore limb) are",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.8934,
+            "x_max": 0.4494,
+            "y_max": 0.9067,
+            "width": 0.3805,
+            "height": 0.0133
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9812
+        },
+        {
+          "text": "Figure 17.8 Ribs and rib cage",
+          "bbox": {
+            "x_min": 0.5786,
+            "y_min": 0.8741,
+            "x_max": 0.8399,
+            "y_max": 0.887,
+            "width": 0.2613,
+            "height": 0.0128
+          },
+          "confidence": 0.9858
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "226",
+          "bbox": {
+            "x_min": 0.1146,
+            "y_min": 0.0818,
+            "x_max": 0.1555,
+            "y_max": 0.0903,
+            "width": 0.0409,
+            "height": 0.0086
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8597,
+            "y_min": 0.0813,
+            "x_max": 0.9281,
+            "y_max": 0.0908,
+            "width": 0.0684,
+            "height": 0.0094
+          },
+          "confidence": 0.9713
+        },
+        {
+          "text": "Clavicle",
+          "bbox": {
+            "x_min": 0.2361,
+            "y_min": 0.131,
+            "x_max": 0.2998,
+            "y_max": 0.1391,
+            "width": 0.0637,
+            "height": 0.0081
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "Scapula",
+          "bbox": {
+            "x_min": 0.3162,
+            "y_min": 0.256,
+            "x_max": 0.3816,
+            "y_max": 0.2671,
+            "width": 0.0655,
+            "height": 0.0111
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "Humerus",
+          "bbox": {
+            "x_min": 0.3238,
+            "y_min": 0.286,
+            "x_max": 0.4009,
+            "y_max": 0.2941,
+            "width": 0.0771,
+            "height": 0.0081
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "Radius",
+          "bbox": {
+            "x_min": 0.315,
+            "y_min": 0.3382,
+            "x_max": 0.3735,
+            "y_max": 0.3459,
+            "width": 0.0584,
+            "height": 0.0077
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "Ulna",
+          "bbox": {
+            "x_min": 0.3174,
+            "y_min": 0.3596,
+            "x_max": 0.3594,
+            "y_max": 0.3677,
+            "width": 0.0421,
+            "height": 0.0081
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "Carpals",
+          "bbox": {
+            "x_min": 0.3092,
+            "y_min": 0.4105,
+            "x_max": 0.3688,
+            "y_max": 0.4208,
+            "width": 0.0596,
+            "height": 0.0103
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "Metacarpals",
+          "bbox": {
+            "x_min": 0.3068,
+            "y_min": 0.4289,
+            "x_max": 0.4079,
+            "y_max": 0.4401,
+            "width": 0.1011,
+            "height": 0.0111
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "Phalanges",
+          "bbox": {
+            "x_min": 0.3051,
+            "y_min": 0.4593,
+            "x_max": 0.3892,
+            "y_max": 0.4713,
+            "width": 0.0842,
+            "height": 0.012
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "Figure 17.9 Right pectoral girdle and upper\narm. (frontal view)",
+          "bbox": {
+            "x_min": 0.1116,
+            "y_min": 0.4949,
+            "x_max": 0.4997,
+            "y_max": 0.5214,
+            "width": 0.3881,
+            "height": 0.0265
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "Ilium",
+          "bbox": {
+            "x_min": 0.1613,
+            "y_min": 0.5492,
+            "x_max": 0.2057,
+            "y_max": 0.5578,
+            "width": 0.0444,
+            "height": 0.0086
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "Pubis\nIschium",
+          "bbox": {
+            "x_min": 0.1397,
+            "y_min": 0.5882,
+            "x_max": 0.2057,
+            "y_max": 0.6134,
+            "width": 0.066,
+            "height": 0.0253
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "noto be",
+          "bbox": {
+            "x_min": 0.1905,
+            "y_min": 0.5753,
+            "x_max": 0.5038,
+            "y_max": 0.8232,
+            "width": 0.3133,
+            "height": 0.2479
+          },
+          "confidence": 0.8406
+        },
+        {
+          "text": "Fibula",
+          "bbox": {
+            "x_min": 0.3665,
+            "y_min": 0.7761,
+            "x_max": 0.4214,
+            "y_max": 0.7847,
+            "width": 0.0549,
+            "height": 0.0086
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "Tarsals",
+          "bbox": {
+            "x_min": 0.322,
+            "y_min": 0.8155,
+            "x_max": 0.384,
+            "y_max": 0.8236,
+            "width": 0.062,
+            "height": 0.0081
+          },
+          "confidence": 0.9853
+        },
+        {
+          "text": "Metatarsals",
+          "bbox": {
+            "x_min": 0.3255,
+            "y_min": 0.833,
+            "x_max": 0.4202,
+            "y_max": 0.8412,
+            "width": 0.0947,
+            "height": 0.0081
+          },
+          "confidence": 0.9819
+        },
+        {
+          "text": "Phalanges",
+          "bbox": {
+            "x_min": 0.3261,
+            "y_min": 0.8497,
+            "x_max": 0.4091,
+            "y_max": 0.8609,
+            "width": 0.083,
+            "height": 0.0111
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "Figure 17.10 Right pelvic girdle and lower limb\nbones (frontal view)",
+          "bbox": {
+            "x_min": 0.1011,
+            "y_min": 0.8784,
+            "x_max": 0.4985,
+            "y_max": 0.905,
+            "width": 0.3974,
+            "height": 0.0265
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "humerus, radius and ulna, carpals (wrist bones",
+          "bbox": {
+            "x_min": 0.5319,
+            "y_min": 0.1271,
+            "x_max": 0.9287,
+            "y_max": 0.1404,
+            "width": 0.3968,
+            "height": 0.0133
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "8 in number), metacarpals (palm bones – 5\nin number) and phalanges (digits 14 in\nnumber) (Figure 17.9). Femur (thigh bone\nthe longest bone), tibia and fibula, tarsals (ankle\nbones 7 in number), metatarsals (5 in\nnumber) and phalanges (digits – 14 in number)\nare the bones of the legs (hind limb) (Figure\n17.10). A cup shaped bone called patella cover\nthe knee ventrally (knee cap).",
+          "bbox": {
+            "x_min": 0.5278,
+            "y_min": 0.1455,
+            "x_max": 0.931,
+            "y_max": 0.3074,
+            "width": 0.4033,
+            "height": 0.1618
+          },
+          "confidence": 0.9864
+        },
+        {
+          "text": "Pectoral and Pelvic girdle bones help in\nthe articulation of the upper and the lower limbs\nrespectively with the axial skeleton. Each\ngirdle is formed of two halves. Each half of\npectoral girdle consists of a clavicle and a\nscapula (Figure 17.9). Scapula is a large\ntriangular flat bone situated in the dorsal part\nof\nof \nthe thorax between the second and the",
+          "bbox": {
+            "x_min": 0.5301,
+            "y_min": 0.3104,
+            "x_max": 0.9322,
+            "y_max": 0.4559,
+            "width": 0.4021,
+            "height": 0.1455
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "seventh ribs. The dorsal, flat, triangular body\nof scapula has a slightly elevated ridge called\nthe spine which projects as a flat, expanded\nprocess called the acromion. The clavicle\narticulates with this. Below the acromion is a\ndepression called the glenoid cavity which\narticulates with the head of the humerus to\nform the shoulder joint. Each clavicle is a long\nslender bone with two curvatures. This bone\nis commonly called the collar bone.",
+          "bbox": {
+            "x_min": 0.5278,
+            "y_min": 0.461,
+            "x_max": 0.9305,
+            "y_max": 0.6426,
+            "width": 0.4027,
+            "height": 0.1815
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "Pelvic girdle consists of two coxal bones\n(Figure 17.10). Each coxal bone is formed by\nthe fusion of three bones – ilium, ischium and\npubis. At the point of fusion of the above bones\nis a cavity called acetabulum to which the thigh\nbone articulates. The two halves of the pelvic\ngirdle meet ventrally to form the pubic\nsymphysis containing fibrous cartilage.",
+          "bbox": {
+            "x_min": 0.5313,
+            "y_min": 0.6473,
+            "x_max": 0.9305,
+            "y_max": 0.7907,
+            "width": 0.3992,
+            "height": 0.1434
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "17.4 JOINTS",
+          "bbox": {
+            "x_min": 0.5319,
+            "y_min": 0.8172,
+            "x_max": 0.6704,
+            "y_max": 0.8301,
+            "width": 0.1385,
+            "height": 0.0128
+          },
+          "confidence": 0.9766
+        },
+        {
+          "text": "Joints are essential for all types of movements\ninvolving the bony parts of the body.\nLocomotory movements are no exception to",
+          "bbox": {
+            "x_min": 0.5313,
+            "y_min": 0.8545,
+            "x_max": 0.9287,
+            "y_max": 0.905,
+            "width": 0.3974,
+            "height": 0.0505
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5494,
+            "y_max": 0.9919,
+            "width": 0.0999,
+            "height": 0.0086
+          },
+          "confidence": 0.9838
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "LOCOMOTION AND MOVEMENT",
+          "bbox": {
+            "x_min": 0.111,
+            "y_min": 0.0801,
+            "x_max": 0.3343,
+            "y_max": 0.0903,
+            "width": 0.2233,
+            "height": 0.0103
+          },
+          "confidence": 0.978
+        },
+        {
+          "text": "this. Joints are points of contact between bones, or between bones and\ncartilages. Force generated by the muscles is used to carry out movement\nthrough joints, where the joint acts as a fulcrum. The movability at these\njoints vary depending on different factors. Joints have been classified into\nthree major structural forms, namely, fibrous, cartilaginous and synovial.",
+          "bbox": {
+            "x_min": 0.0672,
+            "y_min": 0.1344,
+            "x_max": 0.699,
+            "y_max": 0.2213,
+            "width": 0.6318,
+            "height": 0.0869
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "Fibrous joints do not allow any movement. This type of joint is shown\nby the flat skull bones which fuse end-to-end with the help of dense fibrous\nconnective tissues in the form of sutures, to form the cranium.",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.2265,
+            "x_max": 0.6978,
+            "y_max": 0.2757,
+            "width": 0.6289,
+            "height": 0.0492
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "In cartilaginous joints, the bones involved are joined together with\nthe help of cartilages. The joint between the adjacent vertebrae in the\nvertebral column is of this pattern and it permits limited movements.",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.2821,
+            "x_max": 0.6984,
+            "y_max": 0.333,
+            "width": 0.6295,
+            "height": 0.0509
+          },
+          "confidence": 0.9969
+        },
+        {
+          "text": "Synovial joints are characterised by the presence of a fluid filled synovial\ncavity between the articulating surfaces of the two bones. Such an arragement\nallows considerable movement. These joints help in locomotion and many\nother movements. Ball and socket joint (between humerus and pectoral\ngirdle), hinge joint (knee joint), pivot joint (between atlas and axis), gliding\njoint (between the carpals) and saddle joint (between carpal and metacarpal\nof thumb) are some examples.",
+          "bbox": {
+            "x_min": 0.0672,
+            "y_min": 0.3382,
+            "x_max": 0.6996,
+            "y_max": 0.4628,
+            "width": 0.6324,
+            "height": 0.1246
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "17.5 DISORDERS OF MUSCULAR",
+          "bbox": {
+            "x_min": 0.0707,
+            "y_min": 0.4897,
+            "x_max": 0.3957,
+            "y_max": 0.503,
+            "width": 0.325,
+            "height": 0.0133
+          },
+          "confidence": 0.9842
+        },
+        {
+          "text": "Myasthenia gravis: Auto immune",
+          "bbox": {
+            "x_min": 0.0678,
+            "y_min": 0.5257,
+            "x_max": 0.3857,
+            "y_max": 0.5398,
+            "width": 0.3179,
+            "height": 0.0141
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "due to genetic disorder.",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.5856,
+            "x_max": 0.2741,
+            "y_max": 0.598,
+            "width": 0.2046,
+            "height": 0.0124
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "Tetany: Rapid spasms",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.6087,
+            "x_max": 0.2712,
+            "y_max": 0.6216,
+            "width": 0.2016,
+            "height": 0.0128
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "body fluid.",
+          "bbox": {
+            "x_min": 0.0672,
+            "y_min": 0.6267,
+            "x_max": 0.1636,
+            "y_max": 0.6396,
+            "width": 0.0964,
+            "height": 0.0128
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "mostly",
+          "bbox": {
+            "x_min": 0.6411,
+            "y_min": 0.5681,
+            "x_max": 0.699,
+            "y_max": 0.5805,
+            "width": 0.0579,
+            "height": 0.0124
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "and increased chances of fractures. Decreased levels of estrogen is a",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.6905,
+            "x_max": 0.699,
+            "y_max": 0.7029,
+            "width": 0.6289,
+            "height": 0.0124
+          },
+          "confidence": 0.9973
+        },
+        {
+          "text": "common cause.",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.7119,
+            "x_max": 0.2046,
+            "y_max": 0.7192,
+            "width": 0.1344,
+            "height": 0.0073
+          },
+          "confidence": 0.9846
+        },
+        {
+          "text": "Gout: Inflammation of joints due to accumulation of uric acid crystals.",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.732,
+            "x_max": 0.6897,
+            "y_max": 0.7449,
+            "width": 0.6207,
+            "height": 0.0128
+          },
+          "confidence": 0.9978
+        },
+        {
+          "text": "SUMMARY",
+          "bbox": {
+            "x_min": 0.4342,
+            "y_min": 0.8035,
+            "x_max": 0.5313,
+            "y_max": 0.8151,
+            "width": 0.097,
+            "height": 0.0116
+          },
+          "confidence": 0.9618
+        },
+        {
+          "text": "Movement is an essential feature of all living beings. Protoplasmic streaming, ciliary\nmovements, movements of fins, limbs, wings, etc., are some forms exhibited by\nanimals. A voluntary movement which causes the animal to change its place, is",
+          "bbox": {
+            "x_min": 0.1309,
+            "y_min": 0.8545,
+            "x_max": 0.8364,
+            "y_max": 0.9033,
+            "width": 0.7054,
+            "height": 0.0488
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5494,
+            "y_max": 0.9919,
+            "width": 0.0999,
+            "height": 0.0086
+          },
+          "confidence": 0.9838
+        },
+        {
+          "text": "227",
+          "bbox": {
+            "x_min": 0.8463,
+            "y_min": 0.0822,
+            "x_max": 0.8866,
+            "y_max": 0.0903,
+            "width": 0.0403,
+            "height": 0.0081
+          },
+          "confidence": 0.9941
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "228",
+          "bbox": {
+            "x_min": 0.114,
+            "y_min": 0.0813,
+            "x_max": 0.156,
+            "y_max": 0.0908,
+            "width": 0.0421,
+            "height": 0.0094
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "called locomotion. Animals move generally in search of food, shelter, mate, breeding\nground, better climate or to protect themselves.",
+          "bbox": {
+            "x_min": 0.166,
+            "y_min": 0.1336,
+            "x_max": 0.8691,
+            "y_max": 0.1644,
+            "width": 0.7031,
+            "height": 0.0308
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "The cells of the human body exhibit amoeboid, ciliary and muscular\nmovements. Locomotion and many other movements require coordinated muscular\nactivities. Three types of muscles are present in our body. Skeletal muscles are\nattached to skeletal elements. They appear striated and are voluntary in nature.\nVisceral muscles, present in the inner walls of visceral organs are nonstriated and\ninvoluntary. Cardiac muscles are the muscles of the heart. They are striated,\nbranched and involuntary. Muscles possess excitability, contractility, extensibility\nand elasticity.",
+          "bbox": {
+            "x_min": 0.1642,
+            "y_min": 0.1691,
+            "x_max": 0.8685,
+            "y_max": 0.3082,
+            "width": 0.7043,
+            "height": 0.1391
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "Muscle fibre is the anatomical unit of muscle. Each muscle fibre has many\nparallelly arranged myofibrils. Each myofibril contains many serially arranged\nunits called sarcomere which are the functional units. Each sarcomere has a central\n'A' band made of thick myosin filaments, and two half ‘I' bands made of thin actin\nfilaments on either side of it marked by 'Z' lines. Actin and myosin are polymerised\nproteins with contractility. The active sites for myosin on resting actin filament are\nmasked by a protein-troponin. Myosin head contains ATPase and has ATP binding\nsites and active sites for actin. A motor neuron carries signal to the muscle fibre\nwhich generates an action potential in it. This causes the release of Ca⁺⁺ from\nsarcoplasmic reticulum. Ca++ activates actin which binds to the myosin head to\nform a cross bridge. These cross bridges pull the actin filaments causing them to\nslide over the myosin filaments and thereby causing contraction. Ca++ are then\nreturned to sarcoplasmic reticulum which inactivate the actin. Cross bridges are\nbroken and the muscles relax.",
+          "bbox": {
+            "x_min": 0.1636,
+            "y_min": 0.3134,
+            "x_max": 0.8691,
+            "y_max": 0.5565,
+            "width": 0.7054,
+            "height": 0.2432
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "Repeated stimulation of muscles leads to fatigue. Muscles are classified as\nRed and White fibres based primarily on the amount of red coloured myoglobin\npigment in them.",
+          "bbox": {
+            "x_min": 0.1654,
+            "y_min": 0.5638,
+            "x_max": 0.8673,
+            "y_max": 0.613,
+            "width": 0.7019,
+            "height": 0.0492
+          },
+          "confidence": 0.9976
+        },
+        {
+          "text": "Bones and cartilages constitute our skeletal system. The skeletal system is\ndivisible into axial and appendicular. Skull, vertebral column, ribs and sternum\nconstitute the axial skeleton. Limb bones and girdles form the appendicular\nskeleton. Three types of joints are formed between bones or between bone and\ncartilage - fibrous, cartilaginous and synovial. Synovial joints allow considerable\nmovements and therefore, play a significant role in locomotion.",
+          "bbox": {
+            "x_min": 0.166,
+            "y_min": 0.6182,
+            "x_max": 0.8691,
+            "y_max": 0.7209,
+            "width": 0.7031,
+            "height": 0.1027
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1812,
+            "y_min": 0.7076,
+            "x_max": 0.3442,
+            "y_max": 0.8185,
+            "width": 0.1631,
+            "height": 0.1109
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "EXERCISES",
+          "bbox": {
+            "x_min": 0.4793,
+            "y_min": 0.7718,
+            "x_max": 0.5839,
+            "y_max": 0.7834,
+            "width": 0.1046,
+            "height": 0.0116
+          },
+          "confidence": 0.9809
+        },
+        {
+          "text": "1. Draw the diagram of a sarcomere of skeletal muscle showing different regions.",
+          "bbox": {
+            "x_min": 0.1847,
+            "y_min": 0.8232,
+            "x_max": 0.8656,
+            "y_max": 0.8356,
+            "width": 0.6809,
+            "height": 0.0124
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "2. Define sliding filament theory of muscle contraction.",
+          "bbox": {
+            "x_min": 0.1818,
+            "y_min": 0.8446,
+            "x_max": 0.6476,
+            "y_max": 0.8574,
+            "width": 0.4658,
+            "height": 0.0128
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "3. Describe the important steps in muscle contraction.",
+          "bbox": {
+            "x_min": 0.1823,
+            "y_min": 0.8664,
+            "x_max": 0.6464,
+            "y_max": 0.8789,
+            "width": 0.4641,
+            "height": 0.0124
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9812
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8591,
+            "y_min": 0.0818,
+            "x_max": 0.9293,
+            "y_max": 0.0912,
+            "width": 0.0701,
+            "height": 0.0094
+          },
+          "confidence": 0.9752
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "LOCOMOTION AND MOVEMENT",
+          "bbox": {
+            "x_min": 0.111,
+            "y_min": 0.0801,
+            "x_max": 0.3337,
+            "y_max": 0.0903,
+            "width": 0.2227,
+            "height": 0.0103
+          },
+          "confidence": 0.9745
+        },
+        {
+          "text": "229",
+          "bbox": {
+            "x_min": 0.8463,
+            "y_min": 0.0822,
+            "x_max": 0.8884,
+            "y_max": 0.0903,
+            "width": 0.0421,
+            "height": 0.0081
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "4. Write true or false. If false change the statement so that it is true.",
+          "bbox": {
+            "x_min": 0.1461,
+            "y_min": 0.134,
+            "x_max": 0.7247,
+            "y_max": 0.146,
+            "width": 0.5786,
+            "height": 0.012
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "(a) Actin is present in thin filament",
+          "bbox": {
+            "x_min": 0.1712,
+            "y_min": 0.152,
+            "x_max": 0.4699,
+            "y_max": 0.1644,
+            "width": 0.2987,
+            "height": 0.0124
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "(b) H-zone of striated muscle fibre represents both thick and thin filaments.",
+          "bbox": {
+            "x_min": 0.1718,
+            "y_min": 0.1695,
+            "x_max": 0.8089,
+            "y_max": 0.1824,
+            "width": 0.6371,
+            "height": 0.0128
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "(c) Human skeleton has 206 bones.",
+          "bbox": {
+            "x_min": 0.1718,
+            "y_min": 0.1871,
+            "x_max": 0.4681,
+            "y_max": 0.1995,
+            "width": 0.2963,
+            "height": 0.0124
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "(d) There are 11 pairs of ribs in man.",
+          "bbox": {
+            "x_min": 0.173,
+            "y_min": 0.2055,
+            "x_max": 0.4822,
+            "y_max": 0.2183,
+            "width": 0.3092,
+            "height": 0.0128
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "(e) Sternum is present on the ventral side of the body.",
+          "bbox": {
+            "x_min": 0.173,
+            "y_min": 0.223,
+            "x_max": 0.6259,
+            "y_max": 0.2363,
+            "width": 0.453,
+            "height": 0.0133
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "5. Write the difference between :",
+          "bbox": {
+            "x_min": 0.1473,
+            "y_min": 0.2453,
+            "x_max": 0.4196,
+            "y_max": 0.2551,
+            "width": 0.2724,
+            "height": 0.0098
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "(a) Actin and Myosin",
+          "bbox": {
+            "x_min": 0.1724,
+            "y_min": 0.2633,
+            "x_max": 0.3472,
+            "y_max": 0.2761,
+            "width": 0.1748,
+            "height": 0.0128
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "(b) Red and White muscles",
+          "bbox": {
+            "x_min": 0.1712,
+            "y_min": 0.2812,
+            "x_max": 0.3957,
+            "y_max": 0.2928,
+            "width": 0.2244,
+            "height": 0.0116
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "(c) Pectoral and Pelvic girdle",
+          "bbox": {
+            "x_min": 0.1724,
+            "y_min": 0.2992,
+            "x_max": 0.4103,
+            "y_max": 0.3116,
+            "width": 0.2379,
+            "height": 0.0124
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "6. Match Column I with Column II :",
+          "bbox": {
+            "x_min": 0.1461,
+            "y_min": 0.3211,
+            "x_max": 0.4483,
+            "y_max": 0.3313,
+            "width": 0.3022,
+            "height": 0.0103
+          },
+          "confidence": 0.9794
+        },
+        {
+          "text": "Column I",
+          "bbox": {
+            "x_min": 0.1777,
+            "y_min": 0.3412,
+            "x_max": 0.2613,
+            "y_max": 0.351,
+            "width": 0.0836,
+            "height": 0.0098
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "(a) Smooth muscle",
+          "bbox": {
+            "x_min": 0.1724,
+            "y_min": 0.3617,
+            "x_max": 0.3296,
+            "y_max": 0.3737,
+            "width": 0.1572,
+            "height": 0.012
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "(b) Tropomyosin",
+          "bbox": {
+            "x_min": 0.173,
+            "y_min": 0.3793,
+            "x_max": 0.3068,
+            "y_max": 0.3926,
+            "width": 0.1338,
+            "height": 0.0133
+          },
+          "confidence": 0.986
+        },
+        {
+          "text": "(c) Red muscle",
+          "bbox": {
+            "x_min": 0.1724,
+            "y_min": 0.3973,
+            "x_max": 0.2969,
+            "y_max": 0.4092,
+            "width": 0.1245,
+            "height": 0.012
+          },
+          "confidence": 0.9843
+        },
+        {
+          "text": "(d) Skull",
+          "bbox": {
+            "x_min": 0.1712,
+            "y_min": 0.4152,
+            "x_max": 0.2443,
+            "y_max": 0.4272,
+            "width": 0.0731,
+            "height": 0.012
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "Column II",
+          "bbox": {
+            "x_min": 0.4272,
+            "y_min": 0.3412,
+            "x_max": 0.5161,
+            "y_max": 0.351,
+            "width": 0.0888,
+            "height": 0.0098
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "(i) Myoglobin",
+          "bbox": {
+            "x_min": 0.4366,
+            "y_min": 0.3622,
+            "x_max": 0.5441,
+            "y_max": 0.3746,
+            "width": 0.1075,
+            "height": 0.0124
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "(ii) Thin filament",
+          "bbox": {
+            "x_min": 0.4313,
+            "y_min": 0.3797,
+            "x_max": 0.5739,
+            "y_max": 0.3917,
+            "width": 0.1426,
+            "height": 0.012
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "(iii) Sutures",
+          "bbox": {
+            "x_min": 0.4261,
+            "y_min": 0.3977,
+            "x_max": 0.5266,
+            "y_max": 0.4092,
+            "width": 0.1005,
+            "height": 0.0116
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "(iv) Involuntary",
+          "bbox": {
+            "x_min": 0.4278,
+            "y_min": 0.4157,
+            "x_max": 0.5576,
+            "y_max": 0.4285,
+            "width": 0.1297,
+            "height": 0.0128
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "7. What are the different types of movements exhibited by the cells of human\nbody?",
+          "bbox": {
+            "x_min": 0.1473,
+            "y_min": 0.4371,
+            "x_max": 0.8241,
+            "y_max": 0.4683,
+            "width": 0.6768,
+            "height": 0.0312
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "8. How do you distinguish between a skeletal muscle and a cardiac muscle?",
+          "bbox": {
+            "x_min": 0.1467,
+            "y_min": 0.4777,
+            "x_max": 0.7937,
+            "y_max": 0.4902,
+            "width": 0.647,
+            "height": 0.0124
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "be republished",
+          "bbox": {
+            "x_min": 0.3583,
+            "y_min": 0.3027,
+            "x_max": 0.8966,
+            "y_max": 0.6729,
+            "width": 0.5383,
+            "height": 0.3703
+          },
+          "confidence": 0.9391
+        },
+        {
+          "text": "9. Name the type of joint between the following:-",
+          "bbox": {
+            "x_min": 0.1461,
+            "y_min": 0.4987,
+            "x_max": 0.5552,
+            "y_max": 0.5124,
+            "width": 0.4091,
+            "height": 0.0137
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "(a) atlas/axis",
+          "bbox": {
+            "x_min": 0.1724,
+            "y_min": 0.5193,
+            "x_max": 0.284,
+            "y_max": 0.5317,
+            "width": 0.1116,
+            "height": 0.0124
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "(b) carpal/metacarpal of thumb",
+          "bbox": {
+            "x_min": 0.1718,
+            "y_min": 0.5394,
+            "x_max": 0.4395,
+            "y_max": 0.5527,
+            "width": 0.2677,
+            "height": 0.0133
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "(c) between phalanges",
+          "bbox": {
+            "x_min": 0.173,
+            "y_min": 0.5599,
+            "x_max": 0.3589,
+            "y_max": 0.5736,
+            "width": 0.1859,
+            "height": 0.0137
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "(d) femur/acetabulum",
+          "bbox": {
+            "x_min": 0.1712,
+            "y_min": 0.5809,
+            "x_max": 0.36,
+            "y_max": 0.5925,
+            "width": 0.1888,
+            "height": 0.0116
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "(e) between cranial bones",
+          "bbox": {
+            "x_min": 0.1718,
+            "y_min": 0.601,
+            "x_max": 0.3863,
+            "y_max": 0.613,
+            "width": 0.2145,
+            "height": 0.012
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "(f) between pubic bones in the pelvic girdle",
+          "bbox": {
+            "x_min": 0.1736,
+            "y_min": 0.622,
+            "x_max": 0.5313,
+            "y_max": 0.6344,
+            "width": 0.3577,
+            "height": 0.0124
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "10. Fill in the blank",
+          "bbox": {
+            "x_min": 0.1379,
+            "y_min": 0.6451,
+            "x_max": 0.3074,
+            "y_max": 0.6554,
+            "width": 0.1695,
+            "height": 0.0103
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "spaces:",
+          "bbox": {
+            "x_min": 0.3127,
+            "y_min": 0.649,
+            "x_max": 0.3741,
+            "y_max": 0.6571,
+            "width": 0.0614,
+            "height": 0.0081
+          },
+          "confidence": 0.9832
+        },
+        {
+          "text": "(a) All mammals (except a few) have",
+          "bbox": {
+            "x_min": 0.1724,
+            "y_min": 0.6652,
+            "x_max": 0.4798,
+            "y_max": 0.6781,
+            "width": 0.3074,
+            "height": 0.0128
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "cervical vertebra.",
+          "bbox": {
+            "x_min": 0.5804,
+            "y_min": 0.6661,
+            "x_max": 0.7241,
+            "y_max": 0.6759,
+            "width": 0.1438,
+            "height": 0.0098
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "(b) The number of phalanges in each limb of human is",
+          "bbox": {
+            "x_min": 0.1724,
+            "y_min": 0.6858,
+            "x_max": 0.6376,
+            "y_max": 0.6986,
+            "width": 0.4652,
+            "height": 0.0128
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "(c) Thin filament of myofibril contains 2 'F' actins and two other proteins namely",
+          "bbox": {
+            "x_min": 0.1724,
+            "y_min": 0.7068,
+            "x_max": 0.8247,
+            "y_max": 0.7196,
+            "width": 0.6523,
+            "height": 0.0128
+          },
+          "confidence": 0.9772
+        },
+        {
+          "text": "and",
+          "bbox": {
+            "x_min": 0.2975,
+            "y_min": 0.7247,
+            "x_max": 0.332,
+            "y_max": 0.7337,
+            "width": 0.0345,
+            "height": 0.009
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "(d) In a muscle fibre Ca++ is stored in",
+          "bbox": {
+            "x_min": 0.173,
+            "y_min": 0.7444,
+            "x_max": 0.4886,
+            "y_max": 0.7564,
+            "width": 0.3156,
+            "height": 0.012
+          },
+          "confidence": 0.9669
+        },
+        {
+          "text": "(e)",
+          "bbox": {
+            "x_min": 0.1701,
+            "y_min": 0.7654,
+            "x_max": 0.1917,
+            "y_max": 0.7774,
+            "width": 0.0216,
+            "height": 0.012
+          },
+          "confidence": 0.9708
+        },
+        {
+          "text": "and",
+          "bbox": {
+            "x_min": 0.294,
+            "y_min": 0.7663,
+            "x_max": 0.3285,
+            "y_max": 0.7753,
+            "width": 0.0345,
+            "height": 0.009
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "pairs of ribs are called floating ribs.",
+          "bbox": {
+            "x_min": 0.4284,
+            "y_min": 0.7658,
+            "x_max": 0.7335,
+            "y_max": 0.7783,
+            "width": 0.3051,
+            "height": 0.0124
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "bones.",
+          "bbox": {
+            "x_min": 0.5663,
+            "y_min": 0.786,
+            "x_max": 0.6248,
+            "y_max": 0.7958,
+            "width": 0.0584,
+            "height": 0.0098
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "(f) The human cranium is made of",
+          "bbox": {
+            "x_min": 0.1736,
+            "y_min": 0.7851,
+            "x_max": 0.4722,
+            "y_max": 0.7975,
+            "width": 0.2987,
+            "height": 0.0124
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5494,
+            "y_max": 0.9919,
+            "width": 0.0999,
+            "height": 0.0086
+          },
+          "confidence": 0.9838
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

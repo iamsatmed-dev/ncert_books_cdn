@@ -1,0 +1,4607 @@
+{
+  "chapter_id": "11th_biology_ch08_cell_the_unit_of_life_ch08_cell_the_unit_of_life_en",
+  "total_pages": 19,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "M Phase\n(Mitosis)",
+          "bbox": {
+            "x_min": 0.286,
+            "y_min": 0.174,
+            "x_max": 0.3322,
+            "y_max": 0.1907,
+            "width": 0.0461,
+            "height": 0.0167
+          },
+          "confidence": 0.9824
+        },
+        {
+          "text": "Cytokinesis",
+          "bbox": {
+            "x_min": 0.4016,
+            "y_min": 0.138,
+            "x_max": 0.4583,
+            "y_max": 0.171,
+            "width": 0.0566,
+            "height": 0.033
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "Telophase",
+          "bbox": {
+            "x_min": 0.3894,
+            "y_min": 0.1568,
+            "x_max": 0.4442,
+            "y_max": 0.1804,
+            "width": 0.0549,
+            "height": 0.0236
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "Anaphase",
+          "bbox": {
+            "x_min": 0.3847,
+            "y_min": 0.1727,
+            "x_max": 0.4384,
+            "y_max": 0.1902,
+            "width": 0.0537,
+            "height": 0.0176
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "Metaphase",
+          "bbox": {
+            "x_min": 0.383,
+            "y_min": 0.1902,
+            "x_max": 0.4384,
+            "y_max": 0.1992,
+            "width": 0.0555,
+            "height": 0.009
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "Prophase",
+          "bbox": {
+            "x_min": 0.3917,
+            "y_min": 0.2001,
+            "x_max": 0.4431,
+            "y_max": 0.2194,
+            "width": 0.0514,
+            "height": 0.0193
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "Gr",
+          "bbox": {
+            "x_min": 0.467,
+            "y_min": 0.2348,
+            "x_max": 0.4863,
+            "y_max": 0.2464,
+            "width": 0.0193,
+            "height": 0.0116
+          },
+          "confidence": 0.5395
+        },
+        {
+          "text": "G",
+          "bbox": {
+            "x_min": 0.4939,
+            "y_min": 0.1315,
+            "x_max": 0.5108,
+            "y_max": 0.1388,
+            "width": 0.0169,
+            "height": 0.0073
+          },
+          "confidence": 0.9627
+        },
+        {
+          "text": "G",
+          "bbox": {
+            "x_min": 0.5271,
+            "y_min": 0.0758,
+            "x_max": 0.5423,
+            "y_max": 0.0818,
+            "width": 0.0152,
+            "height": 0.006
+          },
+          "confidence": 0.9523
+        },
+        {
+          "text": "S",
+          "bbox": {
+            "x_min": 0.5558,
+            "y_min": 0.2087,
+            "x_max": 0.5645,
+            "y_max": 0.2138,
+            "width": 0.0088,
+            "height": 0.0051
+          },
+          "confidence": 0.9518
+        },
+        {
+          "text": "Chapter 8",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.5236,
+            "x_max": 0.1605,
+            "y_max": 0.5364,
+            "width": 0.0876,
+            "height": 0.0129
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "Cell: The Unit of Life",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.539,
+            "x_max": 0.2423,
+            "y_max": 0.5488,
+            "width": 0.1699,
+            "height": 0.0099
+          },
+          "confidence": 0.9831
+        },
+        {
+          "text": "Chapter 9\nBiomolecules",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.569,
+            "x_max": 0.1821,
+            "y_max": 0.5947,
+            "width": 0.1109,
+            "height": 0.0257
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "Chapter 10",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.6153,
+            "x_max": 0.1722,
+            "y_max": 0.6281,
+            "width": 0.0992,
+            "height": 0.0129
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "Cell Cycle and\nCell Division",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.6311,
+            "x_max": 0.1926,
+            "y_max": 0.656,
+            "width": 0.1208,
+            "height": 0.0249
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "UNIT 3",
+          "bbox": {
+            "x_min": 0.3106,
+            "y_min": 0.3989,
+            "x_max": 0.4863,
+            "y_max": 0.4477,
+            "width": 0.1757,
+            "height": 0.0488
+          },
+          "confidence": 0.9739
+        },
+        {
+          "text": "CELL:",
+          "bbox": {
+            "x_min": 0.3129,
+            "y_min": 0.4584,
+            "x_max": 0.3882,
+            "y_max": 0.4756,
+            "width": 0.0753,
+            "height": 0.0171
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "CRE AND FUNCA ished",
+          "bbox": {
+            "x_min": 0.3859,
+            "y_min": 0.3025,
+            "x_max": 0.9072,
+            "y_max": 0.56,
+            "width": 0.5213,
+            "height": 0.2575
+          },
+          "confidence": 0.7922
+        },
+        {
+          "text": "UCTURE",
+          "bbox": {
+            "x_min": 0.4238,
+            "y_min": 0.4362,
+            "x_max": 0.5365,
+            "y_max": 0.4949,
+            "width": 0.1127,
+            "height": 0.0587
+          },
+          "confidence": 0.9392
+        },
+        {
+          "text": "Biology is the study of living organisms. The detailed description of\ntheir form and appearance only brought out their diversity. It is the\ncell theory that emphasised the unity underlying this diversity of forms,\ni.e., the cellular organisation of all life forms. A description of cell\nstructure and cell growth by division is given in the chapters comprising\nthis unit. Cell theory also created a sense of mystery around living\nphenomena, i.e., physiological and behavioural processes. This mystery\nwas the requirement of integrity of cellular organisation for living\nphenomena to be demonstrated or observed. In studying and\nunderstanding the physiological and behavioural processes, one can\ntake a physico-chemical approach and use cell-free systems to\ninvestigate. This approach enables us to describe the various processes\nin molecular terms. The approach is established by analysis of living\ntissues for elements and compounds. It will tell us what types of organic\ncompounds are present in living organisms. In the next stage, one can\nask the question: What are these compounds doing inside a cell? And,\nin what way they carry out gross physiological processes like digestion,\nexcretion, memory, defense, recognition, etc. In other words we answer\nthe question, what is the molecular basis of all physiological processes?\nIt can also explain the abnormal processes that occur during any\ndiseased condition. This physico-chemical approach to study and\nunderstand living organisms is called ‘Reductionist Biology'. The\nconcepts and techniques of physics and chemistry are applied to\nunderstand biology. In Chapter 9 of this unit, a brief description of\nbiomolecules is provided.",
+          "bbox": {
+            "x_min": 0.3112,
+            "y_min": 0.524,
+            "x_max": 0.8967,
+            "y_max": 0.9032,
+            "width": 0.5855,
+            "height": 0.3792
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1938,
+            "y_min": 0.7104,
+            "x_max": 0.3287,
+            "y_max": 0.8136,
+            "width": 0.1349,
+            "height": 0.1033
+          },
+          "confidence": 0.9826
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "G.N. Ramachandran",
+          "bbox": {
+            "x_min": 0.1413,
+            "y_min": 0.6701,
+            "x_max": 0.3205,
+            "y_max": 0.6804,
+            "width": 0.1792,
+            "height": 0.0103
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "(1922–2001)",
+          "bbox": {
+            "x_min": 0.1745,
+            "y_min": 0.6859,
+            "x_max": 0.2866,
+            "y_max": 0.6975,
+            "width": 0.1121,
+            "height": 0.0116
+          },
+          "confidence": 0.9322
+        },
+        {
+          "text": "ed",
+          "bbox": {
+            "x_min": 0.7572,
+            "y_min": 0.3055,
+            "x_max": 0.8792,
+            "y_max": 0.3989,
+            "width": 0.122,
+            "height": 0.0934
+          },
+          "confidence": 0.9832
+        },
+        {
+          "text": "ure",
+          "bbox": {
+            "x_min": 0.7198,
+            "y_min": 0.3959,
+            "x_max": 0.7449,
+            "y_max": 0.4053,
+            "width": 0.0251,
+            "height": 0.0094
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "G.N. RAMACHANDRAN, an outstanding figure in the field of protein\nstructure, was the founder of the ‘Madras school' of\nconformational analysis of biopolymers. His discovery of the triple\nhelical structure of collagen published in Nature in 1954 and his\nanalysis of the allowed conformations of proteins through the\nuse of the 'Ramachandran plot' rank among the most outstanding\ncontributions in structural biology. He was born on October 8,\n1922, in a small town, not far from Cochin on the southwestern\ncoast of India. His father was a professor of mathematics at a\nlocal college and thus had considerable influence in shaping\nRamachandran's interest in mathematics. After completing his\nschool years, Ramachandran graduated in 1942 as the top-\nranking student in the B.Sc. (Honors) Physics course of the\nUniversity of Madras. He received a Ph.D. from Cambridge\nUniversity in 1949. While at Cambridge, Ramachandran met\nLinus Pauling and was deeply influenced by his publications on\nmodels of the a-helix and ẞ-sheet structures that directed his\nattention to solving the structure of collagen. He passed away at\nthe age of 78, on April 7, 2001.",
+          "bbox": {
+            "x_min": 0.3958,
+            "y_min": 0.3942,
+            "x_max": 0.9276,
+            "y_max": 0.6817,
+            "width": 0.5318,
+            "height": 0.2875
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "not to",
+          "bbox": {
+            "x_min": 0.2072,
+            "y_min": 0.6534,
+            "x_max": 0.404,
+            "y_max": 0.8025,
+            "width": 0.1967,
+            "height": 0.1491
+          },
+          "confidence": 0.845
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5499,
+            "y_max": 0.9829,
+            "width": 0.0992,
+            "height": 0.0086
+          },
+          "confidence": 0.9829
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "11080CH08",
+          "bbox": {
+            "x_min": 0.798,
+            "y_min": 0.2121,
+            "x_max": 0.8441,
+            "y_max": 0.2181,
+            "width": 0.0461,
+            "height": 0.006
+          },
+          "confidence": 0.9481
+        },
+        {
+          "text": "8.1 What is a Cell?",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.4516,
+            "x_max": 0.2218,
+            "y_max": 0.4597,
+            "width": 0.1494,
+            "height": 0.0081
+          },
+          "confidence": 0.9796
+        },
+        {
+          "text": "8.2 Cell Theory",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.4751,
+            "x_max": 0.1938,
+            "y_max": 0.4859,
+            "width": 0.1214,
+            "height": 0.0107
+          },
+          "confidence": 0.9767
+        },
+        {
+          "text": "8.3 An Overview of\nCell",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.4987,
+            "x_max": 0.2248,
+            "y_max": 0.5227,
+            "width": 0.1535,
+            "height": 0.024
+          },
+          "confidence": 0.9827
+        },
+        {
+          "text": "8.4 Prokaryotic Cells",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.539,
+            "x_max": 0.2329,
+            "y_max": 0.5497,
+            "width": 0.1623,
+            "height": 0.0107
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "8.5 Eukaryotic Cells",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.5626,
+            "x_max": 0.2283,
+            "y_max": 0.5728,
+            "width": 0.157,
+            "height": 0.0103
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "CHAPTER 8",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.3209,
+            "x_max": 0.4869,
+            "y_max": 0.3505,
+            "width": 0.1833,
+            "height": 0.0296
+          },
+          "confidence": 0.9655
+        },
+        {
+          "text": "CELL: THE",
+          "bbox": {
+            "x_min": 0.3094,
+            "y_min": 0.3736,
+            "x_max": 0.505,
+            "y_max": 0.4002,
+            "width": 0.1956,
+            "height": 0.0266
+          },
+          "confidence": 0.9406
+        },
+        {
+          "text": "THE",
+          "bbox": {
+            "x_min": 0.4203,
+            "y_min": 0.3753,
+            "x_max": 0.5026,
+            "y_max": 0.4357,
+            "width": 0.0823,
+            "height": 0.0604
+          },
+          "confidence": 0.5065
+        },
+        {
+          "text": "NIT OF LIFE",
+          "bbox": {
+            "x_min": 0.5353,
+            "y_min": 0.3796,
+            "x_max": 0.725,
+            "y_max": 0.4036,
+            "width": 0.1897,
+            "height": 0.024
+          },
+          "confidence": 0.9345
+        },
+        {
+          "text": "When you look around, you see both living and non-living things. You\nmust have wondered and asked yourself – ‘what is it that makes an\norganism living, or what is it that an inanimate thing does not have which\na living thing has'? The answer to this is the presence of the basic unit of\nlife - the cell in all living organisms.",
+          "bbox": {
+            "x_min": 0.2697,
+            "y_min": 0.4499,
+            "x_max": 0.8955,
+            "y_max": 0.5351,
+            "width": 0.6258,
+            "height": 0.0853
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "bolished",
+          "bbox": {
+            "x_min": 0.526,
+            "y_min": 0.3025,
+            "x_max": 0.8943,
+            "y_max": 0.497,
+            "width": 0.3684,
+            "height": 0.1945
+          },
+          "confidence": 0.6776
+        },
+        {
+          "text": "All organisms are composed of cells. Some are composed of a single\ncell and are called unicellular organisms while others, like us, composed\nof many cells, are called multicellular organisms.",
+          "bbox": {
+            "x_min": 0.2703,
+            "y_min": 0.5394,
+            "x_max": 0.8943,
+            "y_max": 0.5848,
+            "width": 0.6241,
+            "height": 0.0454
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "8.1 WHAT IS A CELL?",
+          "bbox": {
+            "x_min": 0.2703,
+            "y_min": 0.6101,
+            "x_max": 0.5044,
+            "y_max": 0.6234,
+            "width": 0.2341,
+            "height": 0.0133
+          },
+          "confidence": 0.8182
+        },
+        {
+          "text": "WHAT IS A CELLS",
+          "bbox": {
+            "x_min": 0.3228,
+            "y_min": 0.5908,
+            "x_max": 0.4962,
+            "y_max": 0.629,
+            "width": 0.1734,
+            "height": 0.0381
+          },
+          "confidence": 0.6716
+        },
+        {
+          "text": "Unicellular organisms are capable of (i) independent existence and\n(ii) performing the essential functions of life. Anything less than a complete\nstructure of a cell does not ensure independent living. Hence, cell is the\nfundamental structural and functional unit of all living organisms.",
+          "bbox": {
+            "x_min": 0.2697,
+            "y_min": 0.6465,
+            "x_max": 0.8943,
+            "y_max": 0.7134,
+            "width": 0.6246,
+            "height": 0.0668
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "Antonie Von Leeuwenhoek first saw and described a live cell. Robert\nBrown later discovered the nucleus. The invention of the microscope and\nits improvement leading to the electron microscope revealed all the\nstructural details of the cell.",
+          "bbox": {
+            "x_min": 0.2703,
+            "y_min": 0.7172,
+            "x_max": 0.8943,
+            "y_max": 0.7823,
+            "width": 0.6241,
+            "height": 0.0651
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "no",
+          "bbox": {
+            "x_min": 0.1909,
+            "y_min": 0.7292,
+            "x_max": 0.2995,
+            "y_max": 0.8153,
+            "width": 0.1086,
+            "height": 0.0861
+          },
+          "confidence": 0.888
+        },
+        {
+          "text": "8.2 CELL THEORY",
+          "bbox": {
+            "x_min": 0.2674,
+            "y_min": 0.8123,
+            "x_max": 0.4653,
+            "y_max": 0.8239,
+            "width": 0.1979,
+            "height": 0.0116
+          },
+          "confidence": 0.9689
+        },
+        {
+          "text": "In 1838, Matthias Schleiden, a German botanist, examined a large number\nof plants and observed that all plants are composed of different kinds of\ncells which form the tissues of the plant. At about the same time, Theodore",
+          "bbox": {
+            "x_min": 0.2697,
+            "y_min": 0.8475,
+            "x_max": 0.8961,
+            "y_max": 0.8959,
+            "width": 0.6264,
+            "height": 0.0484
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "88",
+          "bbox": {
+            "x_min": 0.1191,
+            "y_min": 0.0844,
+            "x_max": 0.1454,
+            "y_max": 0.093,
+            "width": 0.0263,
+            "height": 0.0086
+          },
+          "confidence": 0.9615
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.0835,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0683,
+            "height": 0.0094
+          },
+          "confidence": 0.9779
+        },
+        {
+          "text": "Schwann (1839), a German Zoologist, studied different types of animal\ncells and reported that cells had a thin outer layer which is today known\nas the 'plasma membrane'. He also concluded, based on his studies on\nplant tissues, that the presence of cell wall is a unique character of\nthe plant cells. On the basis of this, Schwann proposed the hypothesis\nthat the bodies of animals and plants are composed of cells and\nproducts of cells.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.135,
+            "x_max": 0.9282,
+            "y_max": 0.2554,
+            "width": 0.6264,
+            "height": 0.1204
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "Schleiden and Schwann together formulated the cell theory. This\ntheory however, did not explain as to how new cells were formed. Rudolf\nVirchow (1855) first explained that cells divided and new cells are formed\nfrom pre-existing cells (Omnis cellula-e cellula). He modified the\nhypothesis of Schleiden and Schwann to give the cell theory a final\nshape. Cell theory as understood today is:",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.2601,
+            "x_max": 0.9276,
+            "y_max": 0.3625,
+            "width": 0.6258,
+            "height": 0.1024
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "(i) all living organisms are composed of cells and products of cells.\n(ii) all cells arise from pre-existing cells.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.374,
+            "x_max": 0.9008,
+            "y_max": 0.4135,
+            "width": 0.5984,
+            "height": 0.0394
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "8.3 AN OVERVIEW OF CELL",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.44,
+            "x_max": 0.5873,
+            "y_max": 0.4537,
+            "width": 0.286,
+            "height": 0.0137
+          },
+          "confidence": 0.9727
+        },
+        {
+          "text": "blishe",
+          "bbox": {
+            "x_min": 0.6077,
+            "y_min": 0.3458,
+            "x_max": 0.8488,
+            "y_max": 0.4919,
+            "width": 0.2411,
+            "height": 0.1461
+          },
+          "confidence": 0.9367
+        },
+        {
+          "text": "You have earlier observed cells in an onion peel and/or human cheek\ncells under the microscope. Let us recollect their structure. The onion cell\nwhich is a typical plant cell, has a distinct cell wall as its outer boundary\nand just within it is the cell membrane. The cells of the human cheek\nhave an outer membrane as the delimiting structure of the cell. Inside\neach cell is a dense membrane bound structure called nucleus. This\nnucleus contains the chromosomes which in turn contain the genetic\nmaterial, DNA. Cells that have membrane bound nuclei are called\neukaryotic whereas cells that lack a membrane bound nucleus are\nprokaryotic. In both prokaryotic and eukaryotic cells, a semi-fluid matrix\ncalled cytoplasm occupies the volume of the cell. The cytoplasm is the\nmain arena of cellular activities in both the plant and animal cells. Various\nchemical reactions occur in it to keep the cell in the 'living state'.",
+          "bbox": {
+            "x_min": 0.3001,
+            "y_min": 0.4756,
+            "x_max": 0.927,
+            "y_max": 0.7035,
+            "width": 0.627,
+            "height": 0.2279
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "Besides the nucleus, the eukaryotic cells have other membrane bound\ndistinct structures called organelles like the endoplasmic reticulum (ER),\nthe golgi complex, lysosomes, mitochondria, microbodies and vacuoles.\nThe prokaryotic cells lack such membrane bound organelles.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.7082,
+            "x_max": 0.9259,
+            "y_max": 0.7751,
+            "width": 0.6246,
+            "height": 0.0668
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "Ribosomes are non-membrane bound organelles found in all cells\nboth eukaryotic as well as prokaryotic. Within the cell, ribosomes are\nfound not only in the cytoplasm but also within the two organelles\nchloroplasts (in plants) and mitochondria and on rough ER.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.7798,
+            "x_max": 0.9259,
+            "y_max": 0.8466,
+            "width": 0.6235,
+            "height": 0.0668
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "Animal cells contain another non-membrane bound organelle called\ncentrosome which helps in cell division.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.8505,
+            "x_max": 0.9259,
+            "y_max": 0.8813,
+            "width": 0.6235,
+            "height": 0.0308
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "Cells differ greatly in size, shape and activities (Figure 8.1). For example,\nMycoplasmas, the smallest cells, are only 0.3 µm in length while bacteria",
+          "bbox": {
+            "x_min": 0.3001,
+            "y_min": 0.8865,
+            "x_max": 0.9264,
+            "y_max": 0.9177,
+            "width": 0.6264,
+            "height": 0.0313
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1891,
+            "y_min": 0.7095,
+            "x_max": 0.3246,
+            "y_max": 0.8153,
+            "width": 0.1354,
+            "height": 0.1058
+          },
+          "confidence": 0.9846
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "CELL: THE UNIT OF LIFE",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.0827,
+            "x_max": 0.3041,
+            "y_max": 0.0925,
+            "width": 0.1897,
+            "height": 0.0099
+          },
+          "confidence": 0.9699
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.4536,
+            "y_min": 0.1504,
+            "x_max": 0.4816,
+            "y_max": 0.1697,
+            "width": 0.028,
+            "height": 0.0193
+          },
+          "confidence": 0.5659
+        },
+        {
+          "text": "&",
+          "bbox": {
+            "x_min": 0.5102,
+            "y_min": 0.1392,
+            "x_max": 0.5412,
+            "y_max": 0.1525,
+            "width": 0.0309,
+            "height": 0.0133
+          },
+          "confidence": 0.8301
+        },
+        {
+          "text": "00000",
+          "bbox": {
+            "x_min": 0.7309,
+            "y_min": 0.1821,
+            "x_max": 0.843,
+            "y_max": 0.1967,
+            "width": 0.1121,
+            "height": 0.0146
+          },
+          "confidence": 0.649
+        },
+        {
+          "text": "89",
+          "bbox": {
+            "x_min": 0.8435,
+            "y_min": 0.084,
+            "x_max": 0.8739,
+            "y_max": 0.0934,
+            "width": 0.0304,
+            "height": 0.0094
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "Red blood cells\n(round and biconcave)",
+          "bbox": {
+            "x_min": 0.1459,
+            "y_min": 0.2279,
+            "x_max": 0.3199,
+            "y_max": 0.2528,
+            "width": 0.174,
+            "height": 0.0249
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "White blood cells\n(amoeboid)",
+          "bbox": {
+            "x_min": 0.4513,
+            "y_min": 0.2194,
+            "x_max": 0.5855,
+            "y_max": 0.2438,
+            "width": 0.1343,
+            "height": 0.0244
+          },
+          "confidence": 0.9852
+        },
+        {
+          "text": "Columnar epithelial cells\n(long and narrow)",
+          "bbox": {
+            "x_min": 0.6941,
+            "y_min": 0.2155,
+            "x_max": 0.8885,
+            "y_max": 0.2416,
+            "width": 0.1944,
+            "height": 0.0261
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "Nerve cell",
+          "bbox": {
+            "x_min": 0.3614,
+            "y_min": 0.4182,
+            "x_max": 0.439,
+            "y_max": 0.4263,
+            "width": 0.0776,
+            "height": 0.0081
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "(Branched and long)",
+          "bbox": {
+            "x_min": 0.3287,
+            "y_min": 0.428,
+            "x_max": 0.4857,
+            "y_max": 0.4409,
+            "width": 0.157,
+            "height": 0.0129
+          },
+          "confidence": 0.9848
+        },
+        {
+          "text": "NCERT",
+          "bbox": {
+            "x_min": 0.3614,
+            "y_min": 0.3925,
+            "x_max": 0.6135,
+            "y_max": 0.5746,
+            "width": 0.2522,
+            "height": 0.1821
+          },
+          "confidence": 0.9709
+        },
+        {
+          "text": "0000000",
+          "bbox": {
+            "x_min": 0.6386,
+            "y_min": 0.3273,
+            "x_max": 0.6527,
+            "y_max": 0.4019,
+            "width": 0.014,
+            "height": 0.0746
+          },
+          "confidence": 0.7457
+        },
+        {
+          "text": "器",
+          "bbox": {
+            "x_min": 0.7566,
+            "y_min": 0.3479,
+            "x_max": 0.8827,
+            "y_max": 0.5039,
+            "width": 0.1261,
+            "height": 0.156
+          },
+          "confidence": 0.7974
+        },
+        {
+          "text": "Mesophyll cells\n(round and oval)",
+          "bbox": {
+            "x_min": 0.7607,
+            "y_min": 0.5154,
+            "x_max": 0.8885,
+            "y_max": 0.5411,
+            "width": 0.1278,
+            "height": 0.0257
+          },
+          "confidence": 0.986
+        },
+        {
+          "text": "A tracheid",
+          "bbox": {
+            "x_min": 0.6054,
+            "y_min": 0.5377,
+            "x_max": 0.6906,
+            "y_max": 0.5458,
+            "width": 0.0852,
+            "height": 0.0081
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "(elongated)",
+          "bbox": {
+            "x_min": 0.6048,
+            "y_min": 0.5501,
+            "x_max": 0.6906,
+            "y_max": 0.5626,
+            "width": 0.0858,
+            "height": 0.0124
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "Figure 8.1 Diagram showing different shapes of the cells",
+          "bbox": {
+            "x_min": 0.2423,
+            "y_min": 0.5797,
+            "x_max": 0.7204,
+            "y_max": 0.5917,
+            "width": 0.4781,
+            "height": 0.012
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "could be 3 to 5 µm. The largest isolated single cell is the egg of an ostrich.\nAmong multicellular organisms, human red blood cells are about 7.0\nµm in diameter. Nerve cells are some of the longest cells. Cells also vary\ngreatly in their shape. They may be disc-like, polygonal, columnar, cuboid,\nthread like, or even irregular. The shape of the cell may vary with the\nfunction they perform.",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.611,
+            "x_max": 0.6964,
+            "y_max": 0.7129,
+            "width": 0.6258,
+            "height": 0.102
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "8.4 PROKARYOTIC CELLS",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.7348,
+            "x_max": 0.3304,
+            "y_max": 0.7476,
+            "width": 0.2592,
+            "height": 0.0129
+          },
+          "confidence": 0.9819
+        },
+        {
+          "text": "The prokaryotic cells are represented by bacteria, blue-green algae,\nmycoplasma and PPLO (Pleuro Pneumonia Like Organisms). They are\ngenerally smaller and multiply more rapidly than the eukaryotic cells\n(Figure 8.2). They may vary greatly in shape and size. The four basic\nshapes of bacteria are bacillus (rod like), coccus (spherical), vibrio (comma\nshaped) and spirillum (spiral).",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.7669,
+            "x_max": 0.6964,
+            "y_max": 0.8693,
+            "width": 0.6246,
+            "height": 0.1024
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "The organisation of the prokaryotic cell is fundamentally similar even\nthough prokaryotes exhibit a wide variety of shapes and functions. All",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.8732,
+            "x_max": 0.697,
+            "y_max": 0.9053,
+            "width": 0.6241,
+            "height": 0.0321
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "90",
+          "bbox": {
+            "x_min": 0.1185,
+            "y_min": 0.0835,
+            "x_max": 0.1471,
+            "y_max": 0.093,
+            "width": 0.0286,
+            "height": 0.0094
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8581,
+            "y_min": 0.0835,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0671,
+            "height": 0.0099
+          },
+          "confidence": 0.9732
+        },
+        {
+          "text": "Typical bacteria\n(1-2 μm)",
+          "bbox": {
+            "x_min": 0.3584,
+            "y_min": 0.2031,
+            "x_max": 0.4869,
+            "y_max": 0.2288,
+            "width": 0.1284,
+            "height": 0.0257
+          },
+          "confidence": 0.9815
+        },
+        {
+          "text": "PPLO",
+          "bbox": {
+            "x_min": 0.4057,
+            "y_min": 0.2853,
+            "x_max": 0.4489,
+            "y_max": 0.2935,
+            "width": 0.0432,
+            "height": 0.0081
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "(about 0.1 µm)",
+          "bbox": {
+            "x_min": 0.3689,
+            "y_min": 0.2982,
+            "x_max": 0.4857,
+            "y_max": 0.3111,
+            "width": 0.1168,
+            "height": 0.0129
+          },
+          "confidence": 0.9555
+        },
+        {
+          "text": "prokaryotes have a cell wall surrounding the\ncell membrane except in mycoplasma. The semi-\nfluid matrix filling the cell is the cytoplasm.\nThere is no well-defined nucleus. The genetic\nmaterial is basically naked, not enveloped by a\nnuclear membrane. In addition to the genomic\nDNA (the single chromosome/circular DNA),\nmany bacteria have small circular DNA outside\nthe genomic DNA. These smaller DNA are called\nplasmids. The plasmid DNA confers certain\nunique phenotypic characters to such bacteria.\nOne such character is resistance to antibiotics.\nIn higher classes you will learn that this plasmid\nDNA is used to monitor bacterial transformation\nwith foreign DNA. Nuclear membrane is found\nin eukaryotes. No organelles, like the ones in\neukaryotes, are found in prokaryotic cells except\nfor ribosomes. Prokaryotes have something\nunique in the form of inclusions. A specialised\ndifferentiated form of cell membrane called mesosome is the characteristic\nof prokaryotes. They are essentially infoldings of cell membrane.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.1354,
+            "x_max": 0.927,
+            "y_max": 0.506,
+            "width": 0.6252,
+            "height": 0.3706
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "A typical eukaryotic cell\n(10-20 μm)",
+          "bbox": {
+            "x_min": 0.1308,
+            "y_min": 0.3612,
+            "x_max": 0.3234,
+            "y_max": 0.3869,
+            "width": 0.1926,
+            "height": 0.0257
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "Viruses\n(0.02-0.2 µm)",
+          "bbox": {
+            "x_min": 0.3719,
+            "y_min": 0.3573,
+            "x_max": 0.4793,
+            "y_max": 0.3835,
+            "width": 0.1074,
+            "height": 0.0261
+          },
+          "confidence": 0.9587
+        },
+        {
+          "text": "Figure 8.2 Diagram showing comparison of\neukaryotic cell with other\norganisms",
+          "bbox": {
+            "x_min": 0.1045,
+            "y_min": 0.4066,
+            "x_max": 0.4945,
+            "y_max": 0.4482,
+            "width": 0.39,
+            "height": 0.0416
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "8.4.1 Cell Envelope and its Modifications",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.5249,
+            "x_max": 0.7607,
+            "y_max": 0.5386,
+            "width": 0.4577,
+            "height": 0.0137
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "Most prokaryotic cells, particularly the bacterial cells, have a chemically\ncomplex cell envelope. The cell envelope consists of a tightly bound three\nlayered structure i.e., the outermost glycocalyx followed by the cell wall and\nthen the plasma membrane. Although each layer of the envelope performs\ndistinct function, they act together as a single protective unit. Bacteria can\nbe classified into two groups on the basis of the differences in the cell envelopes\nand the manner in which they respond to the staining procedure developed\nby Gram viz., those that take up the gram stain are Gram positive and the\nothers that do not are called Gram negative bacteria.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.551,
+            "x_max": 0.927,
+            "y_max": 0.7074,
+            "width": 0.6258,
+            "height": 0.1564
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "Glycocalyx differs in composition and thickness among different\nbacteria. It could be a loose sheath called the slime layer in some, while\nin others it may be thick and tough, called the capsule. The cell wall\ndetermines the shape of the cell and provides a strong structural support\nto prevent the bacterium from bursting or collapsing.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.7112,
+            "x_max": 0.9264,
+            "y_max": 0.7965,
+            "width": 0.6252,
+            "height": 0.0853
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1926,
+            "y_min": 0.7108,
+            "x_max": 0.3252,
+            "y_max": 0.8123,
+            "width": 0.1325,
+            "height": 0.1015
+          },
+          "confidence": 0.9725
+        },
+        {
+          "text": "The plasma membrane is selectively permeable in nature and interacts\nwith the outside world. This membrane is similar structurally to that of\nthe eukaryotes.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.8016,
+            "x_max": 0.9282,
+            "y_max": 0.85,
+            "width": 0.627,
+            "height": 0.0484
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "A special membranous structure is the mesosome which is formed\nby the extensions of plasma membrane into the cell. These extensions\nare in the form of vesicles, tubules and lamellae. They help in cell wall",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.8548,
+            "x_max": 0.9264,
+            "y_max": 0.9036,
+            "width": 0.6252,
+            "height": 0.0488
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "CELL: THE UNIT OF LIFE",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.0827,
+            "x_max": 0.3041,
+            "y_max": 0.0925,
+            "width": 0.1897,
+            "height": 0.0099
+          },
+          "confidence": 0.9699
+        },
+        {
+          "text": "Hished",
+          "bbox": {
+            "x_min": 0.6305,
+            "y_min": 0.3072,
+            "x_max": 0.8762,
+            "y_max": 0.476,
+            "width": 0.2458,
+            "height": 0.1688
+          },
+          "confidence": 0.8765
+        },
+        {
+          "text": "formation, DNA replication and distribution to daughter cells. They also\nhelp in respiration, secretion processes, to increase the surface area of\nthe plasma membrane and enzymatic content. In some prokaryotes like\ncyanobacteria, there are other membranous extensions into the cytoplasm\ncalled chromatophores which contain pigments.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.1358,
+            "x_max": 0.6982,
+            "y_max": 0.2207,
+            "width": 0.6252,
+            "height": 0.0848
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "Bacterial cells may be motile or non-motile. If motile, they have thin\nfilamentous extensions from their cell wall called flagella. Bacteria show a\nrange in the number and arrangement of flagella. Bacterial flagellum is\ncomposed of three parts – filament, hook and basal body. The filament\nis the longest portion and extends from the cell surface to the outside.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.2245,
+            "x_max": 0.6976,
+            "y_max": 0.3089,
+            "width": 0.6252,
+            "height": 0.0844
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "Besides flagella, Pili and Fimbriae are also surface structures of the\nbacteria but do not play a role in motility. The pili are elongated tubular\nstructures made of a special protein. The fimbriae are small bristle like\nfibres sprouting out of the cell. In some bacteria, they are known to help\nattach the bacteria to rocks in streams and also to the host tissues.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.3141,
+            "x_max": 0.697,
+            "y_max": 0.3959,
+            "width": 0.6252,
+            "height": 0.0818
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "8.4.2 Ribosomes and Inclusion Bodies",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.4195,
+            "x_max": 0.4915,
+            "y_max": 0.4319,
+            "width": 0.4197,
+            "height": 0.0124
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "In prokaryotes, ribosomes are associated with the plasma membrane of\nthe cell. They are about 15 nm by 20 nm in size and are made of two\nsubunits - 50S and 30S units which when present together form 70S\nprokaryotic ribosomes. Ribosomes are the site of protein synthesis. Several\nribosomes may attach to a single mRNA and form a chain called\npolyribosomes or polysome. The ribosomes of a polysome translate the\nmRNA into proteins.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.4473,
+            "x_max": 0.6988,
+            "y_max": 0.5668,
+            "width": 0.6258,
+            "height": 0.1195
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "Inclusion bodies: Reserve material in prokaryotic cells are stored in\nthe cytoplasm in the form of inclusion bodies. These are not bound by\nany membrane system and lie free in the cytoplasm, e.g., phosphate\ngranules, cyanophycean granules and glycogen granules. Gas vacuoles\nare found in blue green and purple and green photosynthetic bacteria.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.5716,
+            "x_max": 0.6964,
+            "y_max": 0.6568,
+            "width": 0.6235,
+            "height": 0.0853
+          },
+          "confidence": 0.9973
+        },
+        {
+          "text": "8.5 EUKARYOTIC CELLS",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.6825,
+            "x_max": 0.3187,
+            "y_max": 0.6962,
+            "width": 0.2481,
+            "height": 0.0137
+          },
+          "confidence": 0.9785
+        },
+        {
+          "text": "The eukaryotes include all the protists, plants, animals and fungi. In\neukaryotic cells there is an extensive compartmentalisation of cytoplasm\nthrough the presence of membrane bound organelles. Eukaryotic cells\npossess an organised nucleus with a nuclear envelope. In addition,\neukaryotic cells have a variety of complex locomotory and cytoskeletal\nstructures. Their genetic material is organised into chromosomes.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.7189,
+            "x_max": 0.697,
+            "y_max": 0.8209,
+            "width": 0.6252,
+            "height": 0.102
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "All eukaryotic cells are not identical. Plant and animal cells are different\nas the former possess cell walls, plastids and a large central vacuole which\nare absent in animal cells. On the other hand, animal cells have centrioles\nwhich are absent in almost all plant cells (Figure 8.3).",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.826,
+            "x_max": 0.6964,
+            "y_max": 0.8929,
+            "width": 0.6241,
+            "height": 0.0668
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "91",
+          "bbox": {
+            "x_min": 0.8453,
+            "y_min": 0.0831,
+            "x_max": 0.8727,
+            "y_max": 0.093,
+            "width": 0.0274,
+            "height": 0.0099
+          },
+          "confidence": 0.9894
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "92",
+          "bbox": {
+            "x_min": 0.1179,
+            "y_min": 0.0831,
+            "x_max": 0.1471,
+            "y_max": 0.093,
+            "width": 0.0292,
+            "height": 0.0099
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "Smooth\nendoplasmic\nreticulum",
+          "bbox": {
+            "x_min": 0.275,
+            "y_min": 0.1731,
+            "x_max": 0.3719,
+            "y_max": 0.2087,
+            "width": 0.0969,
+            "height": 0.0356
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "Plasmodesmata",
+          "bbox": {
+            "x_min": 0.1921,
+            "y_min": 0.2301,
+            "x_max": 0.3129,
+            "y_max": 0.2378,
+            "width": 0.1208,
+            "height": 0.0077
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "Rough endoplasmic\nreticulum",
+          "bbox": {
+            "x_min": 0.4769,
+            "y_min": 0.1345,
+            "x_max": 0.6293,
+            "y_max": 0.1555,
+            "width": 0.1524,
+            "height": 0.021
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "Lysosome",
+          "bbox": {
+            "x_min": 0.4186,
+            "y_min": 0.1645,
+            "x_max": 0.4974,
+            "y_max": 0.1757,
+            "width": 0.0788,
+            "height": 0.0111
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "Microtubule",
+          "bbox": {
+            "x_min": 0.1856,
+            "y_min": 0.3166,
+            "x_max": 0.2785,
+            "y_max": 0.3256,
+            "width": 0.0928,
+            "height": 0.009
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.2195,
+            "y_min": 0.4807,
+            "x_max": 0.2434,
+            "y_max": 0.4919,
+            "width": 0.0239,
+            "height": 0.0111
+          },
+          "confidence": 0.9734
+        },
+        {
+          "text": "Smooth",
+          "bbox": {
+            "x_min": 0.2277,
+            "y_min": 0.6778,
+            "x_max": 0.286,
+            "y_max": 0.6859,
+            "width": 0.0584,
+            "height": 0.0081
+          },
+          "confidence": 0.9868
+        },
+        {
+          "text": "endoplasmic\nreticulum",
+          "bbox": {
+            "x_min": 0.2078,
+            "y_min": 0.6911,
+            "x_max": 0.3059,
+            "y_max": 0.7129,
+            "width": 0.0981,
+            "height": 0.0219
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "Nuclear",
+          "bbox": {
+            "x_min": 0.2329,
+            "y_min": 0.7318,
+            "x_max": 0.2948,
+            "y_max": 0.7391,
+            "width": 0.0619,
+            "height": 0.0073
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "envelope",
+          "bbox": {
+            "x_min": 0.2312,
+            "y_min": 0.7446,
+            "x_max": 0.2971,
+            "y_max": 0.7545,
+            "width": 0.066,
+            "height": 0.0099
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "Nucleolus",
+          "bbox": {
+            "x_min": 0.2288,
+            "y_min": 0.7759,
+            "x_max": 0.3065,
+            "y_max": 0.7836,
+            "width": 0.0776,
+            "height": 0.0077
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "Peroxisome",
+          "bbox": {
+            "x_min": 0.2977,
+            "y_min": 0.4901,
+            "x_max": 0.3853,
+            "y_max": 0.4983,
+            "width": 0.0876,
+            "height": 0.0081
+          },
+          "confidence": 0.9819
+        },
+        {
+          "text": "Cytoplasm",
+          "bbox": {
+            "x_min": 0.3438,
+            "y_min": 0.5094,
+            "x_max": 0.425,
+            "y_max": 0.521,
+            "width": 0.0811,
+            "height": 0.0116
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "Golgi\napparatus",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.551,
+            "x_max": 0.3771,
+            "y_max": 0.5763,
+            "width": 0.0765,
+            "height": 0.0253
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "Nucleus",
+          "bbox": {
+            "x_min": 0.2773,
+            "y_min": 0.8445,
+            "x_max": 0.3403,
+            "y_max": 0.8526,
+            "width": 0.063,
+            "height": 0.0081
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.2376,
+            "y_min": 0.8578,
+            "x_max": 0.258,
+            "y_max": 0.868,
+            "width": 0.0204,
+            "height": 0.0103
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "000000",
+          "bbox": {
+            "x_min": 0.4974,
+            "y_min": 0.2429,
+            "x_max": 0.5295,
+            "y_max": 0.2524,
+            "width": 0.0321,
+            "height": 0.0094
+          },
+          "confidence": 0.8044
+        },
+        {
+          "text": "RT",
+          "bbox": {
+            "x_min": 0.4834,
+            "y_min": 0.3959,
+            "x_max": 0.6118,
+            "y_max": 0.4859,
+            "width": 0.1284,
+            "height": 0.09
+          },
+          "confidence": 0.9377
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8576,
+            "y_min": 0.0835,
+            "x_max": 0.9253,
+            "y_max": 0.0938,
+            "width": 0.0677,
+            "height": 0.0103
+          },
+          "confidence": 0.9788
+        },
+        {
+          "text": "Nucleus",
+          "bbox": {
+            "x_min": 0.6778,
+            "y_min": 0.2365,
+            "x_max": 0.7426,
+            "y_max": 0.2442,
+            "width": 0.0648,
+            "height": 0.0077
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "Nucleolus",
+          "bbox": {
+            "x_min": 0.7075,
+            "y_min": 0.2635,
+            "x_max": 0.784,
+            "y_max": 0.2716,
+            "width": 0.0765,
+            "height": 0.0081
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "Golgi\napparatus",
+          "bbox": {
+            "x_min": 0.7175,
+            "y_min": 0.2905,
+            "x_max": 0.7963,
+            "y_max": 0.3145,
+            "width": 0.0788,
+            "height": 0.024
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "Nuclear\nenvelope",
+          "bbox": {
+            "x_min": 0.7192,
+            "y_min": 0.3299,
+            "x_max": 0.7875,
+            "y_max": 0.3535,
+            "width": 0.0683,
+            "height": 0.0236
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "ed",
+          "bbox": {
+            "x_min": 0.7618,
+            "y_min": 0.3102,
+            "x_max": 0.8733,
+            "y_max": 0.3955,
+            "width": 0.1115,
+            "height": 0.0853
+          },
+          "confidence": 0.9126
+        },
+        {
+          "text": "Plasma\nmembrane",
+          "bbox": {
+            "x_min": 0.721,
+            "y_min": 0.3706,
+            "x_max": 0.8021,
+            "y_max": 0.3907,
+            "width": 0.0811,
+            "height": 0.0201
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "Vacuole",
+          "bbox": {
+            "x_min": 0.7536,
+            "y_min": 0.4143,
+            "x_max": 0.8149,
+            "y_max": 0.4225,
+            "width": 0.0613,
+            "height": 0.0081
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "Middle lamella",
+          "bbox": {
+            "x_min": 0.7256,
+            "y_min": 0.4319,
+            "x_max": 0.8377,
+            "y_max": 0.44,
+            "width": 0.1121,
+            "height": 0.0081
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "Cell wall",
+          "bbox": {
+            "x_min": 0.6661,
+            "y_min": 0.4692,
+            "x_max": 0.7332,
+            "y_max": 0.4769,
+            "width": 0.0671,
+            "height": 0.0077
+          },
+          "confidence": 0.986
+        },
+        {
+          "text": "Mitochondrion",
+          "bbox": {
+            "x_min": 0.6118,
+            "y_min": 0.4897,
+            "x_max": 0.7239,
+            "y_max": 0.4983,
+            "width": 0.1121,
+            "height": 0.0086
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "Ribosomes",
+          "bbox": {
+            "x_min": 0.5628,
+            "y_min": 0.5193,
+            "x_max": 0.6462,
+            "y_max": 0.5278,
+            "width": 0.0835,
+            "height": 0.0086
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "Chloroplast",
+          "bbox": {
+            "x_min": 0.4238,
+            "y_min": 0.5231,
+            "x_max": 0.5131,
+            "y_max": 0.5343,
+            "width": 0.0893,
+            "height": 0.0111
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "Microvilli",
+          "bbox": {
+            "x_min": 0.6673,
+            "y_min": 0.5536,
+            "x_max": 0.7373,
+            "y_max": 0.5613,
+            "width": 0.0701,
+            "height": 0.0077
+          },
+          "confidence": 0.9799
+        },
+        {
+          "text": "Plasma",
+          "bbox": {
+            "x_min": 0.6964,
+            "y_min": 0.5805,
+            "x_max": 0.7542,
+            "y_max": 0.5883,
+            "width": 0.0578,
+            "height": 0.0077
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "membrane",
+          "bbox": {
+            "x_min": 0.6836,
+            "y_min": 0.5934,
+            "x_max": 0.7659,
+            "y_max": 0.6015,
+            "width": 0.0823,
+            "height": 0.0081
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "Centriole",
+          "bbox": {
+            "x_min": 0.6941,
+            "y_min": 0.6371,
+            "x_max": 0.7642,
+            "y_max": 0.6452,
+            "width": 0.0701,
+            "height": 0.0081
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "Peroxiome",
+          "bbox": {
+            "x_min": 0.704,
+            "y_min": 0.6731,
+            "x_max": 0.7834,
+            "y_max": 0.6799,
+            "width": 0.0794,
+            "height": 0.0069
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "Lysosome",
+          "bbox": {
+            "x_min": 0.7116,
+            "y_min": 0.7091,
+            "x_max": 0.7893,
+            "y_max": 0.7194,
+            "width": 0.0776,
+            "height": 0.0103
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "Ribosomes",
+          "bbox": {
+            "x_min": 0.7145,
+            "y_min": 0.7489,
+            "x_max": 0.7992,
+            "y_max": 0.7579,
+            "width": 0.0846,
+            "height": 0.009
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "Mitochondrion",
+          "bbox": {
+            "x_min": 0.7157,
+            "y_min": 0.7841,
+            "x_max": 0.8278,
+            "y_max": 0.7939,
+            "width": 0.1121,
+            "height": 0.0099
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "Rough",
+          "bbox": {
+            "x_min": 0.7227,
+            "y_min": 0.8162,
+            "x_max": 0.7747,
+            "y_max": 0.8265,
+            "width": 0.052,
+            "height": 0.0103
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "endoplasmic",
+          "bbox": {
+            "x_min": 0.7017,
+            "y_min": 0.8295,
+            "x_max": 0.7992,
+            "y_max": 0.8398,
+            "width": 0.0975,
+            "height": 0.0103
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "reticulum",
+          "bbox": {
+            "x_min": 0.7128,
+            "y_min": 0.8428,
+            "x_max": 0.7875,
+            "y_max": 0.8509,
+            "width": 0.0747,
+            "height": 0.0081
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "Cytoplasm",
+          "bbox": {
+            "x_min": 0.6673,
+            "y_min": 0.8612,
+            "x_max": 0.7472,
+            "y_max": 0.8719,
+            "width": 0.08,
+            "height": 0.0107
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "Figure 8.3 Diagram showing : (a) Plant cell (b) Animal cell",
+          "bbox": {
+            "x_min": 0.2662,
+            "y_min": 0.8903,
+            "x_max": 0.7595,
+            "y_max": 0.9032,
+            "width": 0.4933,
+            "height": 0.0129
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "CELL: THE UNIT OF LIFE",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.0823,
+            "x_max": 0.3041,
+            "y_max": 0.0925,
+            "width": 0.1897,
+            "height": 0.0103
+          },
+          "confidence": 0.973
+        },
+        {
+          "text": "Let us now look at individual cell organelles to understand their\nstructure and functions.",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.1354,
+            "x_max": 0.6964,
+            "y_max": 0.1641,
+            "width": 0.6223,
+            "height": 0.0287
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "8.5.1 Cell Membrane",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1847,
+            "x_max": 0.2931,
+            "y_max": 0.1975,
+            "width": 0.2212,
+            "height": 0.0129
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "The detailed structure of the membrane was studied only after the advent\nof the electron microscope in the 1950s. Meanwhile, chemical studies on\nthe cell membrane, especially in human red blood cells (RBCs), enabled\nthe scientists to deduce the possible structure of plasma membrane.",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.2125,
+            "x_max": 0.6982,
+            "y_max": 0.2789,
+            "width": 0.627,
+            "height": 0.0664
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "These studies showed that the cell membrane is mainly composed of\nlipids and proteins. The major lipids are phospholipids that are arranged\nin a bilayer. Also, the lipids are arranged within the membrane with the\npolar head towards the outer sides and the hydrophobic tails towards\nthe inner part. This ensures that the nonpolar tail of saturated\nhydrocarbons is protected from the aqueous environment (Figure 8.4).\nIn addition to phospholipids, membrane also contains cholesterol.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.2832,
+            "x_max": 0.6988,
+            "y_max": 0.4045,
+            "width": 0.6264,
+            "height": 0.1213
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "Later, biochemical investigation clearly revealed that the cell membranes\nalso possess protein and carbohydrate. The ratio of protein and lipid varies\nconsiderably in different cell types. In human beings, the membrane of the\nerythrocyte has approximately 52 per cent protein and 40 per cent lipids.\nDepending on the ease of extraction, membrane proteins can be\nclassified as integral and peripheral. Peripheral proteins lie on the surface\nof membrane while the integral proteins are partially or totally buried\nin the membrane.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.4083,
+            "x_max": 0.6964,
+            "y_max": 0.5441,
+            "width": 0.6241,
+            "height": 0.1358
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "Sugar",
+          "bbox": {
+            "x_min": 0.181,
+            "y_min": 0.5771,
+            "x_max": 0.2335,
+            "y_max": 0.5887,
+            "width": 0.0525,
+            "height": 0.0116
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "93",
+          "bbox": {
+            "x_min": 0.8465,
+            "y_min": 0.084,
+            "x_max": 0.8739,
+            "y_max": 0.093,
+            "width": 0.0274,
+            "height": 0.009
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "be replished",
+          "bbox": {
+            "x_min": 0.3567,
+            "y_min": 0.3068,
+            "x_max": 0.9037,
+            "y_max": 0.6782,
+            "width": 0.547,
+            "height": 0.3715
+          },
+          "confidence": 0.8514
+        },
+        {
+          "text": "Peripheral\nProtein",
+          "bbox": {
+            "x_min": 0.2779,
+            "y_min": 0.5733,
+            "x_max": 0.3631,
+            "y_max": 0.5973,
+            "width": 0.0852,
+            "height": 0.024
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "N",
+          "bbox": {
+            "x_min": 0.3654,
+            "y_min": 0.515,
+            "x_max": 0.4594,
+            "y_max": 0.5797,
+            "width": 0.094,
+            "height": 0.0647
+          },
+          "confidence": 0.9316
+        },
+        {
+          "text": "Phospholipid\nbilayer",
+          "bbox": {
+            "x_min": 0.7309,
+            "y_min": 0.6131,
+            "x_max": 0.8325,
+            "y_max": 0.6388,
+            "width": 0.1016,
+            "height": 0.0257
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "Cholesterol",
+          "bbox": {
+            "x_min": 0.1471,
+            "y_min": 0.8698,
+            "x_max": 0.2417,
+            "y_max": 0.8792,
+            "width": 0.0946,
+            "height": 0.0094
+          },
+          "confidence": 0.9832
+        },
+        {
+          "text": "Integral",
+          "bbox": {
+            "x_min": 0.5108,
+            "y_min": 0.7296,
+            "x_max": 0.561,
+            "y_max": 0.7399,
+            "width": 0.0502,
+            "height": 0.0103
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "protein",
+          "bbox": {
+            "x_min": 0.509,
+            "y_min": 0.7455,
+            "x_max": 0.5593,
+            "y_max": 0.7558,
+            "width": 0.0502,
+            "height": 0.0103
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "0000",
+          "bbox": {
+            "x_min": 0.6095,
+            "y_min": 0.6868,
+            "x_max": 0.6182,
+            "y_max": 0.7052,
+            "width": 0.0088,
+            "height": 0.0184
+          },
+          "confidence": 0.7124
+        },
+        {
+          "text": "Figure 8.4 Fluid mosaic model of plasma membrane",
+          "bbox": {
+            "x_min": 0.265,
+            "y_min": 0.8929,
+            "x_max": 0.704,
+            "y_max": 0.9049,
+            "width": 0.439,
+            "height": 0.012
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9739,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.009
+          },
+          "confidence": 0.9833
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "94",
+          "bbox": {
+            "x_min": 0.1168,
+            "y_min": 0.0835,
+            "x_max": 0.1477,
+            "y_max": 0.0934,
+            "width": 0.0309,
+            "height": 0.0099
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0689,
+            "height": 0.0094
+          },
+          "confidence": 0.9794
+        },
+        {
+          "text": "An improved model of the structure of cell membrane was proposed\nby Singer and Nicolson (1972) widely accepted as fluid mosaic model\n(Figure 8.4). According to this, the quasi-fluid nature of lipid enables\nlateral movement of proteins within the overall bilayer. This ability to move\nwithin the membrane is measured as its fluidity.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.1345,
+            "x_max": 0.9264,
+            "y_max": 0.2194,
+            "width": 0.6252,
+            "height": 0.0848
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "The fluid nature of the membrane is also important from the point of\nview of functions like cell growth, formation of intercellular junctions,\nsecretion, endocytosis, cell division etc.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.2237,
+            "x_max": 0.9282,
+            "y_max": 0.2721,
+            "width": 0.6264,
+            "height": 0.0484
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "One of the most important functions of the plasma membrane is the\ntransport of the molecules across it. The membrane is selectively permeable\nto some molecules present on either side of it. Many molecules can move\nbriefly across the membrane without any requirement of energy and this\nis called the passive transport. Neutral solutes may move across the\nmembrane by the process of simple diffusion along the concentration\ngradient, i.e., from higher concentration to the lower. Water may also move\nacross this membrane from higher to lower concentration. Movement of\nwater by diffusion is called osmosis. As the polar molecules cannot pass\nthrough the nonpolar lipid bilayer, they require a carrier protein of the\nmembrane to facilitate their transport across the membrane. A few ions\nor molecules are transported across the membrane against their\nconcentration gradient, i.e., from lower to the higher concentration. Such\na transport is an energy dependent process, in which ATP is utilised and\nis called active transport, e.g., Na+/K+ Pump.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.2768,
+            "x_max": 0.9276,
+            "y_max": 0.5403,
+            "width": 0.6264,
+            "height": 0.2635
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "8.5.2 Cell Wall",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.5587,
+            "x_max": 0.4647,
+            "y_max": 0.5711,
+            "width": 0.164,
+            "height": 0.0124
+          },
+          "confidence": 0.9833
+        },
+        {
+          "text": "As you may recall, a non-living rigid structure called the cell wall forms\nan outer covering for the plasma membrane of fungi and plants. Cell wall\nnot only gives shape to the cell and protects the cell from mechanical\ndamage and infection, it also helps in cell-to-cell interaction and provides\nbarrier to undesirable macromolecules. Algae have cell wall, made of\ncellulose, galactans, mannans and minerals like calcium carbonate, while\nin other plants it consists of cellulose, hemicellulose, pectins and proteins.\nThe cell wall of a young plant cell, the primary wall is capable of growth,\nwhich gradually diminishes as the cell matures and the secondary wall is\nformed on the inner (towards membrane) side of the cell.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.5857,
+            "x_max": 0.9276,
+            "y_max": 0.7588,
+            "width": 0.6264,
+            "height": 0.1731
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "The middle lamella is a layer mainly of calcium pectate which holds\nor glues the different neighbouring cells together. The cell wall and middle\nlamellae may be traversed by plasmodesmata which connect the cytoplasm\nof neighbouring cells.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.7639,
+            "x_max": 0.9259,
+            "y_max": 0.8303,
+            "width": 0.6235,
+            "height": 0.0664
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "8.5.3 Endomembrane System",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.85,
+            "x_max": 0.6299,
+            "y_max": 0.8646,
+            "width": 0.3275,
+            "height": 0.0146
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "While each of the membranous organelles is distinct in terms of its",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.8775,
+            "x_max": 0.9259,
+            "y_max": 0.8899,
+            "width": 0.6252,
+            "height": 0.0124
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1921,
+            "y_min": 0.7095,
+            "x_max": 0.3281,
+            "y_max": 0.8153,
+            "width": 0.136,
+            "height": 0.1058
+          },
+          "confidence": 0.9119
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "CELL: THE UNIT OF LIFE",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.0827,
+            "x_max": 0.3041,
+            "y_max": 0.0925,
+            "width": 0.1897,
+            "height": 0.0099
+          },
+          "confidence": 0.9703
+        },
+        {
+          "text": "95",
+          "bbox": {
+            "x_min": 0.8459,
+            "y_min": 0.0831,
+            "x_max": 0.8716,
+            "y_max": 0.093,
+            "width": 0.0257,
+            "height": 0.0099
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "structure and function, many of these are\nconsidered together as an endomembrane system\nbecause their functions are coordinated. The\nendomembrane system include endoplasmic\nreticulum (ER), golgi complex, lysosomes and\nvacuoles. Since the functions of the mitochondria,\nchloroplast and peroxisomes are not coordinated\nwith the above components, these are not\nconsidered as part of the endomembrane system.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1332,
+            "x_max": 0.4945,
+            "y_max": 0.2888,
+            "width": 0.4227,
+            "height": 0.1555
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "8.5.3.1 The Endoplasmic Reticulum (ER)",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.3089,
+            "x_max": 0.4804,
+            "y_max": 0.3226,
+            "width": 0.4081,
+            "height": 0.0137
+          },
+          "confidence": 0.9827
+        },
+        {
+          "text": "Electron microscopic studies of eukaryotic cells\nreveal the presence of a network or reticulum of\ntiny tubular structures scattered in the cytoplasm\nthat is called the endoplasmic reticulum (ER)\n(Figure 8.5). Hence, ER divides the intracellular\nspace into two distinct compartments, i.e., luminal\n(inside ER) and extra luminal (cytoplasm)\ncompartments.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.335,
+            "x_max": 0.4962,
+            "y_max": 0.4722,
+            "width": 0.4232,
+            "height": 0.1371
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "The ER often shows ribosomes attached to\ntheir outer surface. The endoplasmic reticulun\nbearing ribosomes on their surface is called rough\nendoplasmic reticulum (RER). In the absence of\nribosomes they appear smooth and are called\nsmooth endoplasmic reticulum (SER).",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.4773,
+            "x_max": 0.4956,
+            "y_max": 0.5793,
+            "width": 0.4232,
+            "height": 0.102
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "RER is frequently observed in the cells actively\ninvolved in protein synthesis and secretion. They\nare extensive and continuous with the outer\nmembrane of the nucleus.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.5844,
+            "x_max": 0.4945,
+            "y_max": 0.6487,
+            "width": 0.4215,
+            "height": 0.0643
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "The smooth endoplasmic reticulum is the major\nsite for synthesis of lipid. In animal cells lipid-like\nsteroidal hormones are synthesised in SER.",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.6564,
+            "x_max": 0.495,
+            "y_max": 0.7048,
+            "width": 0.4215,
+            "height": 0.0484
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "8.5.3.2 Golgi apparatus",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.7249,
+            "x_max": 0.3158,
+            "y_max": 0.7382,
+            "width": 0.244,
+            "height": 0.0133
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "Camillo Golgi (1898) first observed densely stained\nreticular structures near the nucleus. These were\nlater named Golgi bodies after him. They consist\nof many flat, disc-shaped sacs or cisternae of\n0.5µm to 1.0µm diameter (Figure 8.6). These are\nstacked parallel to each other. Varied number of\ncisternae are present in a Golgi complex. The Golgi\ncisternae are concentrically arranged near the\nnucleus with distinct convex cis or the forming",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.7506,
+            "x_max": 0.495,
+            "y_max": 0.9062,
+            "width": 0.4238,
+            "height": 0.1555
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "Smooth\nEndoplasmic\nreticulum",
+          "bbox": {
+            "x_min": 0.5184,
+            "y_min": 0.5278,
+            "x_max": 0.6217,
+            "y_max": 0.5608,
+            "width": 0.1033,
+            "height": 0.033
+          },
+          "confidence": 0.9814
+        },
+        {
+          "text": "Nucleus",
+          "bbox": {
+            "x_min": 0.6544,
+            "y_min": 0.1474,
+            "x_max": 0.7198,
+            "y_max": 0.1555,
+            "width": 0.0654,
+            "height": 0.0081
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "Nuclear pore Rough",
+          "bbox": {
+            "x_min": 0.6737,
+            "y_min": 0.1628,
+            "x_max": 0.8657,
+            "y_max": 0.1787,
+            "width": 0.1921,
+            "height": 0.0159
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "endoplasmic\nreticulum",
+          "bbox": {
+            "x_min": 0.7916,
+            "y_min": 0.1769,
+            "x_max": 0.892,
+            "y_max": 0.1971,
+            "width": 0.1004,
+            "height": 0.0201
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "Ribosome",
+          "bbox": {
+            "x_min": 0.7659,
+            "y_min": 0.4319,
+            "x_max": 0.8453,
+            "y_max": 0.4409,
+            "width": 0.0794,
+            "height": 0.009
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "Figure 8.5 Endoplasmic reticulum",
+          "bbox": {
+            "x_min": 0.5517,
+            "y_min": 0.5698,
+            "x_max": 0.8441,
+            "y_max": 0.5818,
+            "width": 0.2925,
+            "height": 0.012
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "Cisternae",
+          "bbox": {
+            "x_min": 0.5797,
+            "y_min": 0.614,
+            "x_max": 0.6562,
+            "y_max": 0.6217,
+            "width": 0.0765,
+            "height": 0.0077
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "Figure 8.6 Golgi apparatus",
+          "bbox": {
+            "x_min": 0.5738,
+            "y_min": 0.8929,
+            "x_max": 0.8103,
+            "y_max": 0.9049,
+            "width": 0.2364,
+            "height": 0.012
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.983
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "96",
+          "bbox": {
+            "x_min": 0.1191,
+            "y_min": 0.084,
+            "x_max": 0.1448,
+            "y_max": 0.093,
+            "width": 0.0257,
+            "height": 0.009
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8581,
+            "y_min": 0.0835,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0671,
+            "height": 0.0099
+          },
+          "confidence": 0.9732
+        },
+        {
+          "text": "face and\nThe cis and the trans faces of the organelle are entirely different, but\ninterconnected.",
+          "bbox": {
+            "x_min": 0.2995,
+            "y_min": 0.1354,
+            "x_max": 0.9259,
+            "y_max": 0.1812,
+            "width": 0.6264,
+            "height": 0.0458
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "concave trans or the maturing face.",
+          "bbox": {
+            "x_min": 0.4431,
+            "y_min": 0.1354,
+            "x_max": 0.9241,
+            "y_max": 0.1487,
+            "width": 0.481,
+            "height": 0.0133
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "The golgi apparatus principally performs the function of packaging\nmaterials, to be delivered either to the intra-cellular targets or secreted\noutside the cell. Materials to be packaged in the form of vesicles from\nthe ER fuse with the cis face of the golgi apparatus and move towards\nthe maturing face. This explains, why the golgi apparatus remains in\nclose association with the endoplasmic reticulum. A number of proteins\nsynthesised by ribosomes on the endoplasmic reticulum are modified\nin the cisternae of the golgi apparatus before they are released from its\ntrans face. Golgi apparatus is the important site of formation of\nglycoproteins and glycolipids.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.1889,
+            "x_max": 0.9276,
+            "y_max": 0.3629,
+            "width": 0.6258,
+            "height": 0.174
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "8.5.3.3 Lysosomes",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.3869,
+            "x_max": 0.4904,
+            "y_max": 0.3993,
+            "width": 0.1886,
+            "height": 0.0124
+          },
+          "confidence": 0.9834
+        },
+        {
+          "text": "he",
+          "bbox": {
+            "x_min": 0.7145,
+            "y_min": 0.3393,
+            "x_max": 0.8383,
+            "y_max": 0.4233,
+            "width": 0.1238,
+            "height": 0.084
+          },
+          "confidence": 0.9569
+        },
+        {
+          "text": "These are membrane bound vesicular structures formed by the\nprocess of packaging in the golgi apparatus. The isolated lysosomal\nvesicles have been found to be very rich in almost all types of\nhydrolytic enzymes (hydrolases – lipases, proteases, carbohydrases)\noptimally active at the acidic pH. These enzymes are capable of\ndigesting carbohydrates, proteins, lipids and nucleic acids.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.4122,
+            "x_max": 0.9282,
+            "y_max": 0.5163,
+            "width": 0.627,
+            "height": 0.1041
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "8.5.3.4 Vacuoles",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.5356,
+            "x_max": 0.4717,
+            "y_max": 0.5458,
+            "width": 0.1693,
+            "height": 0.0103
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "The vacuole is the membrane-bound space found in the cytoplasm. It\ncontains water, sap, excretory product and other materials not useful for\nthe cell. The vacuole is bound by a single membrane called tonoplast. In\nplant cells the vacuoles can occupy up to 90 per cent of the volume of the\ncell.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.5608,
+            "x_max": 0.927,
+            "y_max": 0.6427,
+            "width": 0.6258,
+            "height": 0.0818
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "In plants, the tonoplast facilitates the transport of a number of ions\nand other materials against concentration gradients into the vacuole, hence\ntheir concentration is significantly higher in the vacuole than in the\ncytoplasm.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.6495,
+            "x_max": 0.9259,
+            "y_max": 0.7159,
+            "width": 0.6246,
+            "height": 0.0664
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "In Amoeba, the contractile vacuole is important for osmoregulation\nand excretion. In many cells, as in protists, food vacuoles are formed by\nengulfing the food particles.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.7211,
+            "x_max": 0.9276,
+            "y_max": 0.7708,
+            "width": 0.6252,
+            "height": 0.0497
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "8.5.4 Mitochondria",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.7892,
+            "x_max": 0.5225,
+            "y_max": 0.8016,
+            "width": 0.2207,
+            "height": 0.0124
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "Mitochondria (sing.: mitochondrion), unless specifically stained, are not\neasily visible under the microscope. The number of mitochondria per cell\nis variable depending on the physiological activity of the cells. In terms of\nshape and size also, considerable degree of variability is observed. Typically\nit is sausage-shaped or cylindrical having a diameter of 0.2-1.0µm (average\n0.5µm) and length 1.0-4.1µm. Each mitochondrion is a double",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.8166,
+            "x_max": 0.9282,
+            "y_max": 0.9186,
+            "width": 0.6264,
+            "height": 0.102
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1938,
+            "y_min": 0.7104,
+            "x_max": 0.3269,
+            "y_max": 0.8136,
+            "width": 0.1331,
+            "height": 0.1033
+          },
+          "confidence": 0.9685
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "CELL: THE UNIT OF LIFE",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.0823,
+            "x_max": 0.3041,
+            "y_max": 0.0925,
+            "width": 0.1897,
+            "height": 0.0103
+          },
+          "confidence": 0.973
+        },
+        {
+          "text": "Outer\nmembrane",
+          "bbox": {
+            "x_min": 0.2744,
+            "y_min": 0.1332,
+            "x_max": 0.366,
+            "y_max": 0.1547,
+            "width": 0.0917,
+            "height": 0.0214
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "Inter-membrane\nspace",
+          "bbox": {
+            "x_min": 0.4606,
+            "y_min": 0.1431,
+            "x_max": 0.5984,
+            "y_max": 0.1667,
+            "width": 0.1378,
+            "height": 0.0236
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "Inner\nmembrane",
+          "bbox": {
+            "x_min": 0.3818,
+            "y_min": 0.153,
+            "x_max": 0.4717,
+            "y_max": 0.1735,
+            "width": 0.0899,
+            "height": 0.0206
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "Matrix",
+          "bbox": {
+            "x_min": 0.4139,
+            "y_min": 0.1949,
+            "x_max": 0.474,
+            "y_max": 0.2035,
+            "width": 0.0601,
+            "height": 0.0086
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "Crista",
+          "bbox": {
+            "x_min": 0.5236,
+            "y_min": 0.1928,
+            "x_max": 0.5768,
+            "y_max": 0.2009,
+            "width": 0.0531,
+            "height": 0.0081
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.683,
+            "y_min": 0.3055,
+            "x_max": 0.8733,
+            "y_max": 0.4469,
+            "width": 0.1903,
+            "height": 0.1414
+          },
+          "confidence": 0.9858
+        },
+        {
+          "text": "Figure 8.7 Structure of mitochondrion (Longitudinal section)",
+          "bbox": {
+            "x_min": 0.1261,
+            "y_min": 0.3736,
+            "x_max": 0.6439,
+            "y_max": 0.3856,
+            "width": 0.5178,
+            "height": 0.012
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "membrane-bound structure with the outer membrane and the inner\nmembrane dividing its lumen distinctly into two aqueous compartments,\ni.e., the outer compartment and the inner compartment. The inner\ncompartment is filled with a dense homogeneous substance called the\nmatrix. The outer membrane forms the continuous limiting boundary of\nthe organelle. The inner membrane forms a number of infoldings called\nthe cristae (sing.: crista) towards the matrix (Figure 8.7). The cristae\nincrease the surface area. The two membranes have their own specific\nenzymes associated with the mitochondrial function. Mitochondria are\nthe sites of aerobic respiration. They produce cellular energy in the form\nof ATP, hence they are called 'power houses' of the cell. The matrix also\npossesses single circular DNA molecule, a few RNA molecules, ribosomes\n(70S) and the components required for the synthesis of proteins. The\nmitochondria divide by fission.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.4023,
+            "x_max": 0.6982,
+            "y_max": 0.6474,
+            "width": 0.6258,
+            "height": 0.2451
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "8.5.5 Plastids",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.6671,
+            "x_max": 0.2318,
+            "y_max": 0.6791,
+            "width": 0.16,
+            "height": 0.012
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "Plastids are found in all plant cells and in euglenoides. These are easily\nobserved under the microscope as they are large. They bear some specific\npigments, thus imparting specific colours to the plants. Based on the\ntype of pigments plastids can be classified into chloroplasts,\nchromoplasts and leucoplasts.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.6941,
+            "x_max": 0.697,
+            "y_max": 0.7785,
+            "width": 0.6246,
+            "height": 0.0844
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "The chloroplasts contain chlorophyll and carotenoid pigments which\nare responsible for trapping light energy essential for photosynthesis. In\nthe chromoplasts, fat soluble carotenoid pigments like carotene,\nxanthophylls and others are present. This gives the part of the plant a\nyellow, orange or red colour. The leucoplasts are the colourless plastids\nof varied shapes and sizes with stored nutrients: Amyloplasts store\ncarbohydrates (starch), e.g., potato; elaioplasts store oils and fats whereas",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.7823,
+            "x_max": 0.697,
+            "y_max": 0.9032,
+            "width": 0.6252,
+            "height": 0.1208
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "97",
+          "bbox": {
+            "x_min": 0.8459,
+            "y_min": 0.0835,
+            "x_max": 0.8722,
+            "y_max": 0.093,
+            "width": 0.0263,
+            "height": 0.0094
+          },
+          "confidence": 0.9923
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "98",
+          "bbox": {
+            "x_min": 0.1179,
+            "y_min": 0.0835,
+            "x_max": 0.1471,
+            "y_max": 0.093,
+            "width": 0.0292,
+            "height": 0.0094
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0683,
+            "height": 0.0094
+          },
+          "confidence": 0.9766
+        },
+        {
+          "text": "Stroma",
+          "bbox": {
+            "x_min": 0.2294,
+            "y_min": 0.2819,
+            "x_max": 0.2896,
+            "y_max": 0.2896,
+            "width": 0.0601,
+            "height": 0.0077
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "Outer membrane",
+          "bbox": {
+            "x_min": 0.3579,
+            "y_min": 0.1345,
+            "x_max": 0.4962,
+            "y_max": 0.1435,
+            "width": 0.1384,
+            "height": 0.009
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "Inner membrane",
+          "bbox": {
+            "x_min": 0.4227,
+            "y_min": 0.1551,
+            "x_max": 0.5575,
+            "y_max": 0.1637,
+            "width": 0.1349,
+            "height": 0.0086
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "Granum",
+          "bbox": {
+            "x_min": 0.4501,
+            "y_min": 0.1808,
+            "x_max": 0.5207,
+            "y_max": 0.1894,
+            "width": 0.0706,
+            "height": 0.0086
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "Thylakoid\nStroma",
+          "bbox": {
+            "x_min": 0.4641,
+            "y_min": 0.2057,
+            "x_max": 0.5511,
+            "y_max": 0.2399,
+            "width": 0.087,
+            "height": 0.0343
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "Figure 8.8 Sectional view of chloroplast",
+          "bbox": {
+            "x_min": 0.1448,
+            "y_min": 0.3256,
+            "x_max": 0.4863,
+            "y_max": 0.338,
+            "width": 0.3415,
+            "height": 0.0124
+          },
+          "confidence": 0.9843
+        },
+        {
+          "text": "lamella",
+          "bbox": {
+            "x_min": 0.4921,
+            "y_min": 0.2421,
+            "x_max": 0.5511,
+            "y_max": 0.2502,
+            "width": 0.059,
+            "height": 0.0081
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "the aleuroplasts store proteins.",
+          "bbox": {
+            "x_min": 0.5733,
+            "y_min": 0.1354,
+            "x_max": 0.8541,
+            "y_max": 0.1487,
+            "width": 0.2808,
+            "height": 0.0133
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "Majority of the chloroplasts of the green\nplants are found in the mesophyll cells of\nthe leaves. These are lens-shaped, oval,\nspherical, discoid or even ribbon-like\norganelles having variable length (5-10µm)\nand width (2-4µm). Their number varies\nfrom 1 per cell of the Chlamydomonas, a\ngreen alga to 20-40 per cell in the mesophyll.",
+          "bbox": {
+            "x_min": 0.5721,
+            "y_min": 0.1542,
+            "x_max": 0.9282,
+            "y_max": 0.2952,
+            "width": 0.3561,
+            "height": 0.141
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "Like mitochondria, the chloroplasts are\nalso double membrane bound. Of the two,\nthe inner chloroplast membrane is relatively\nless permeable. The space limited by the",
+          "bbox": {
+            "x_min": 0.5727,
+            "y_min": 0.2995,
+            "x_max": 0.9264,
+            "y_max": 0.3672,
+            "width": 0.3538,
+            "height": 0.0677
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "inner membrane of the chloroplast is called the stroma. A number of organised\nflattened membranous sacs called the thylakoids, are present in the stroma\n(Figure 8.8). Thylakoids are arranged in stacks like the piles of coins called\ngrana (singular: granum) or the intergranal thylakoids. In addition, there are\nflat membranous tubules called the stroma lamellae connecting the thylakoids\nof the different grana. The membrane of the thylakoids enclose a space called\na lumen. The stroma of the chloroplast contains enzymes required for the\nsynthesis of carbohydrates and proteins. It also contains small, double-\nstranded circular DNA molecules and ribosomes. Chlorophyll pigments are\npresent in the thylakoids. The ribosomes of the chloroplasts are smaller (70S)\nthan the cytoplasmic ribosomes (80S).",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.3728,
+            "x_max": 0.9264,
+            "y_max": 0.5677,
+            "width": 0.6246,
+            "height": 0.1949
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "8.5.6 Ribosomes",
+          "bbox": {
+            "x_min": 0.3001,
+            "y_min": 0.5805,
+            "x_max": 0.4869,
+            "y_max": 0.5925,
+            "width": 0.1868,
+            "height": 0.012
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "Ribosomes are the granular structures first observed under the electron\nmicroscope as dense particles by George Palade (1953). They are\ncomposed of ribonucleic acid (RNA) and proteins and\nare not surrounded by any membrane.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.6075,
+            "x_max": 0.9264,
+            "y_max": 0.6757,
+            "width": 0.6241,
+            "height": 0.0681
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "Large\nsubunit",
+          "bbox": {
+            "x_min": 0.2802,
+            "y_min": 0.6435,
+            "x_max": 0.3403,
+            "y_max": 0.665,
+            "width": 0.0601,
+            "height": 0.0214
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "Figure 8.9 Ribosome",
+          "bbox": {
+            "x_min": 0.202,
+            "y_min": 0.7832,
+            "x_max": 0.3806,
+            "y_max": 0.7948,
+            "width": 0.1786,
+            "height": 0.0116
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "The eukaryotic ribosomes are 80S while the\nprokaryotic ribosomes are 70S. Each ribosome has two\nsubunits, larger and smaller subunits (Fig 8.9). The two\nsubunits of 80S ribosomes are 60S and 40S while that\nof 70S ribosomes are 50S and 30S. Here ‘S' (Svedberg's\nUnit) stands for the sedimentation coefficient; it is\nindirectly a measure of density and size. Both 70S and\n80S ribosomes are composed of two subunits.",
+          "bbox": {
+            "x_min": 0.4483,
+            "y_min": 0.6791,
+            "x_max": 0.9264,
+            "y_max": 0.8025,
+            "width": 0.4781,
+            "height": 0.1234
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "8.5.7 Cytoskeleton",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.8098,
+            "x_max": 0.5096,
+            "y_max": 0.8243,
+            "width": 0.2072,
+            "height": 0.0146
+          },
+          "confidence": 0.9818
+        },
+        {
+          "text": "An elaborate network of filamentous proteinaceous structures consisting\nof microtubules, microfilaments and intermediate filaments present in\nthe cytoplasm is collectively referred to as the cytoskeleton. The\ncytoskeleton in a cell are involved in many functions such as mechanical\nsupport, motility, maintenance of the shape of the cell.",
+          "bbox": {
+            "x_min": 0.3001,
+            "y_min": 0.835,
+            "x_max": 0.9276,
+            "y_max": 0.9113,
+            "width": 0.6276,
+            "height": 0.0763
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "Small\nsubunit",
+          "bbox": {
+            "x_min": 0.0992,
+            "y_min": 0.7009,
+            "x_max": 0.1582,
+            "y_max": 0.7228,
+            "width": 0.059,
+            "height": 0.0219
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "CELL: THE UNIT OF LIFE",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.0827,
+            "x_max": 0.3041,
+            "y_max": 0.0925,
+            "width": 0.1891,
+            "height": 0.0099
+          },
+          "confidence": 0.9723
+        },
+        {
+          "text": "Central",
+          "bbox": {
+            "x_min": 0.3526,
+            "y_min": 0.2164,
+            "x_max": 0.4139,
+            "y_max": 0.2365,
+            "width": 0.0613,
+            "height": 0.0201
+          },
+          "confidence": 0.9112
+        },
+        {
+          "text": "sheath",
+          "bbox": {
+            "x_min": 0.3532,
+            "y_min": 0.2322,
+            "x_max": 0.4069,
+            "y_max": 0.2404,
+            "width": 0.0537,
+            "height": 0.0081
+          },
+          "confidence": 0.9868
+        },
+        {
+          "text": "Plasma\nmembrane",
+          "bbox": {
+            "x_min": 0.6328,
+            "y_min": 0.1341,
+            "x_max": 0.721,
+            "y_max": 0.1538,
+            "width": 0.0881,
+            "height": 0.0197
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "Peripheral\nmicrotubules\n(doublets)",
+          "bbox": {
+            "x_min": 0.6935,
+            "y_min": 0.174,
+            "x_max": 0.8015,
+            "y_max": 0.2069,
+            "width": 0.108,
+            "height": 0.033
+          },
+          "confidence": 0.9856
+        },
+        {
+          "text": "Interdoublet\nbridge",
+          "bbox": {
+            "x_min": 0.7297,
+            "y_min": 0.2455,
+            "x_max": 0.8325,
+            "y_max": 0.2682,
+            "width": 0.1027,
+            "height": 0.0227
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "99",
+          "bbox": {
+            "x_min": 0.8435,
+            "y_min": 0.0835,
+            "x_max": 0.8739,
+            "y_max": 0.093,
+            "width": 0.0304,
+            "height": 0.0094
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.1664,
+            "y_min": 0.356,
+            "x_max": 0.1886,
+            "y_max": 0.3672,
+            "width": 0.0222,
+            "height": 0.0111
+          },
+          "confidence": 0.9708
+        },
+        {
+          "text": "Radial\nspoke",
+          "bbox": {
+            "x_min": 0.4518,
+            "y_min": 0.3492,
+            "x_max": 0.505,
+            "y_max": 0.3749,
+            "width": 0.0531,
+            "height": 0.0257
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.5587,
+            "y_min": 0.3603,
+            "x_max": 0.5797,
+            "y_max": 0.3706,
+            "width": 0.021,
+            "height": 0.0103
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "Central\nmicrotuble",
+          "bbox": {
+            "x_min": 0.6527,
+            "y_min": 0.3338,
+            "x_max": 0.7396,
+            "y_max": 0.3543,
+            "width": 0.087,
+            "height": 0.0206
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "Figure 8.10 Section of cilia/flagella showing different parts: (a) Electron",
+          "bbox": {
+            "x_min": 0.1226,
+            "y_min": 0.3946,
+            "x_max": 0.7426,
+            "y_max": 0.4079,
+            "width": 0.62,
+            "height": 0.0133
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "(b) Diagrammatic representation of internal structure",
+          "bbox": {
+            "x_min": 0.2382,
+            "y_min": 0.4109,
+            "x_max": 0.6883,
+            "y_max": 0.4225,
+            "width": 0.4501,
+            "height": 0.0116
+          },
+          "confidence": 0.9971
+        },
+        {
+          "text": "8.5.8 Cilia and Flagella",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.4477,
+            "x_max": 0.3345,
+            "y_max": 0.4627,
+            "width": 0.2615,
+            "height": 0.015
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "R",
+          "bbox": {
+            "x_min": 0.495,
+            "y_min": 0.4246,
+            "x_max": 0.5791,
+            "y_max": 0.4803,
+            "width": 0.0841,
+            "height": 0.0557
+          },
+          "confidence": 0.9354
+        },
+        {
+          "text": "blished",
+          "bbox": {
+            "x_min": 0.5861,
+            "y_min": 0.3038,
+            "x_max": 0.8879,
+            "y_max": 0.4944,
+            "width": 0.3018,
+            "height": 0.1907
+          },
+          "confidence": 0.908
+        },
+        {
+          "text": "ernal s",
+          "bbox": {
+            "x_min": 0.5645,
+            "y_min": 0.4079,
+            "x_max": 0.62,
+            "y_max": 0.4293,
+            "width": 0.0555,
+            "height": 0.0214
+          },
+          "confidence": 0.7584
+        },
+        {
+          "text": "Cilia (sing.: cilium) and flagella (sing.: flagellum) are hair-like outgrowths\nof the cell membrane. Cilia are small structures which work like oars,\ncausing the movement of either the cell or the surrounding fluid. Flagella\nare comparatively longer and responsible for cell movement. The\nprokaryotic bacteria also possess flagella but these are structurally\ndifferent from that of the eukaryotic flagella.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.4743,
+            "x_max": 0.697,
+            "y_max": 0.5771,
+            "width": 0.6246,
+            "height": 0.1028
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "The electron microscopic study of a cilium or the flagellum show that\nthey are covered with plasma membrane. Their core called the axoneme,\npossesses a number of microtubules running parallel to the long axis.\nThe axoneme usually has nine doublets of radially arranged peripheral\nmicrotubules, and a pair of centrally located microtubules. Such an\narrangement of axonemal microtubules is referred to as the 9+2 array\n(Figure 8.10). The central tubules are connected by bridges and is also\nenclosed by a central sheath, which is connected to one of the tubules of\neach peripheral doublets by a radial spoke. Thus, there are nine radial\nspokes. The peripheral doublets are also interconnected by linkers. Both\nthe cilium and flagellum emerge from centriole-like structure called the\nbasal bodies.",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.5823,
+            "x_max": 0.6988,
+            "y_max": 0.7883,
+            "width": 0.6281,
+            "height": 0.2061
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "8.5.9 Centrosome and Centrioles",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.8093,
+            "x_max": 0.4442,
+            "y_max": 0.8222,
+            "width": 0.373,
+            "height": 0.0129
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "Centrosome is an organelle usually containing two cylindrical structures\ncalled centrioles. They are surrounded by amorphous pericentriolar\nmaterials. Both the centrioles in a centrosome lie perpendicular to each\nother in which each has an organisation like the cartwheel. They are",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.8372,
+            "x_max": 0.697,
+            "y_max": 0.904,
+            "width": 0.6246,
+            "height": 0.0668
+          },
+          "confidence": 0.9968
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "100",
+          "bbox": {
+            "x_min": 0.1203,
+            "y_min": 0.084,
+            "x_max": 0.1576,
+            "y_max": 0.0925,
+            "width": 0.0374,
+            "height": 0.0086
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0683,
+            "height": 0.009
+          },
+          "confidence": 0.9813
+        },
+        {
+          "text": "made up of nine evenly spaced peripheral fibrils of tubulin protein. Each\nof the peripheral fibril is a triplet.The adjacent triplets are also linked.\nThe central part of the proximal region of the centriole is also proteinaceous\nand called the hub, which is connected with tubules of the peripheral\ntriplets by radial spokes made of protein. The centrioles form the basal\nbody of cilia or flagella, and spindle fibres that give rise to spindle\napparatus during cell division in animal cells.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.1358,
+            "x_max": 0.9264,
+            "y_max": 0.2558,
+            "width": 0.6252,
+            "height": 0.12
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "8.5.10 Nucleus",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.2742,
+            "x_max": 0.4717,
+            "y_max": 0.2871,
+            "width": 0.1699,
+            "height": 0.0129
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "Nucleus as a cell organelle was first described by Robert Brown as early\nas 1831. Later the material of the nucleus stained by the basic dyes was\ngiven the name chromatin by Flemming.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.3021,
+            "x_max": 0.9276,
+            "y_max": 0.3505,
+            "width": 0.6264,
+            "height": 0.0484
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "Figure 8.11 Structure of nucleus",
+          "bbox": {
+            "x_min": 0.1436,
+            "y_min": 0.5943,
+            "x_max": 0.432,
+            "y_max": 0.6058,
+            "width": 0.2884,
+            "height": 0.0116
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "Nucleoplasm",
+          "bbox": {
+            "x_min": 0.432,
+            "y_min": 0.434,
+            "x_max": 0.5388,
+            "y_max": 0.4456,
+            "width": 0.1068,
+            "height": 0.0116
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "Nucleolus",
+          "bbox": {
+            "x_min": 0.4372,
+            "y_min": 0.4726,
+            "x_max": 0.5207,
+            "y_max": 0.4807,
+            "width": 0.0835,
+            "height": 0.0081
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "Nuclear pore",
+          "bbox": {
+            "x_min": 0.4367,
+            "y_min": 0.4906,
+            "x_max": 0.5447,
+            "y_max": 0.5021,
+            "width": 0.108,
+            "height": 0.0116
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "Nuclear\nmembrane",
+          "bbox": {
+            "x_min": 0.4355,
+            "y_min": 0.5308,
+            "x_max": 0.5283,
+            "y_max": 0.551,
+            "width": 0.0928,
+            "height": 0.0201
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "The interphase nucleus (nucleus of a\ncell when it is not dividing) has highly\nextended and elaborate nucleoprotein\nfibres called chromatin, nuclear matrix\nand one or more spherical bodies called\nnucleoli (sing.: nucleolus) (Figure 8.11).\nElectron microscopy has revealed that the\nnuclear envelope, which consists of two\nparallel membranes with a space between\n(10 to 50 nm) called the perinuclear\nspace, forms a barrier between the\nmaterials present inside the nucleus and\nthat of the cytoplasm. The outer\nmembrane usually remains continuous\nwith the endoplasmic reticulum and also\nbears ribosomes on it. At a number of",
+          "bbox": {
+            "x_min": 0.5692,
+            "y_min": 0.3556,
+            "x_max": 0.9276,
+            "y_max": 0.6332,
+            "width": 0.3584,
+            "height": 0.2776
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "not be re",
+          "bbox": {
+            "x_min": 0.1693,
+            "y_min": 0.5394,
+            "x_max": 0.5826,
+            "y_max": 0.8196,
+            "width": 0.4133,
+            "height": 0.2802
+          },
+          "confidence": 0.8112
+        },
+        {
+          "text": "places aces the nuclear envelope is interrupted by minute pores, which are\nformed by the fusion of its two membranes. These nuclear pores are the\npassages through which movement of RNA and protein molecules takes\nplace in both directions between the nucleus and the cytoplasm. Normally,\nthere is only one nucleus per cell, variations in the number of nuclei are\nalso frequently observed. Can you recollect names of organisms that\nhave more than one nucleus per cell? Some mature cells even lack\nnucleus, e.g., erythrocytes of many mammals and sieve tube cells of\nvascular plants. Would you consider these cells as 'living'?",
+          "bbox": {
+            "x_min": 0.3001,
+            "y_min": 0.6405,
+            "x_max": 0.9276,
+            "y_max": 0.7965,
+            "width": 0.6276,
+            "height": 0.156
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "The nuclear matrix or the nucleoplasm contains nucleolus and\nchromatin. The nucleoli are spherical structures present in the\nnucleoplasm. The content of nucleolus is continuous with the rest of the\nnucleoplasm as it is not a membrane bound structure. It is a site for\nactive ribosomal RNA synthesis. Larger and more numerous nucleoli are\npresent in cells actively carrying out protein synthesis.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.8016,
+            "x_max": 0.9264,
+            "y_max": 0.904,
+            "width": 0.6241,
+            "height": 0.1024
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "CELL: THE UNIT OF LIFE",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.0827,
+            "x_max": 0.3041,
+            "y_max": 0.0925,
+            "width": 0.1897,
+            "height": 0.0099
+          },
+          "confidence": 0.9699
+        },
+        {
+          "text": "101",
+          "bbox": {
+            "x_min": 0.8482,
+            "y_min": 0.084,
+            "x_max": 0.8832,
+            "y_max": 0.093,
+            "width": 0.035,
+            "height": 0.009
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "You may recall that the interphase nucleus has a loose\nand indistinct network of nucleoprotein fibres called\nchromatin. But during different stages of cell division, cells\nshow structured chromosomes in place of the nucleus.\nChromatin contains DNA and some basic proteins called\nhistones, some non-histone proteins and also RNA. A\nsingle human cell has approximately two metre long\nthread of DNA distributed among its forty six (twenty three\npairs) chromosomes. You will study the details of DNA\npackaging in the form of a chromosome in class XII.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.1354,
+            "x_max": 0.5622,
+            "y_max": 0.3085,
+            "width": 0.4892,
+            "height": 0.1731
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "Every chromosome (visible only in dividing cells)\nessentially has a primary constriction or the centromere\non the sides of which disc shaped structures called\nkinetochores are present (Figure 8.12). Centromere holds\ntwo chromatids of a chromosome. Based on the position\nof the centromere, the chromosomes can be classified into\nfour types (Figure 8.13). The metacentric chromosome\nhas middle centromere forming two equal arms of the\nchromosome. The sub-metacentric chromosome has",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.3136,
+            "x_max": 0.5616,
+            "y_max": 0.467,
+            "width": 0.4886,
+            "height": 0.1534
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "panda",
+          "bbox": {
+            "x_min": 0.5102,
+            "y_min": 0.2973,
+            "x_max": 0.8757,
+            "y_max": 0.5973,
+            "width": 0.3654,
+            "height": 0.2999
+          },
+          "confidence": 0.904
+        },
+        {
+          "text": "centromere slightly away from the middle of the\nchromosome resulting into one shorter arm and one\nlonger arm. In case of acrocentric chromosome the\ncentromere is situated close to its end forming one\nextremely short and one very long arm, whereas the\ntelocentric chromosome has a terminal centromere.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.4743,
+            "x_max": 0.561,
+            "y_max": 0.5741,
+            "width": 0.4886,
+            "height": 0.0998
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "Satellite",
+          "bbox": {
+            "x_min": 0.0957,
+            "y_min": 0.5913,
+            "x_max": 0.1605,
+            "y_max": 0.5994,
+            "width": 0.0648,
+            "height": 0.0081
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "Secondary",
+          "bbox": {
+            "x_min": 0.2831,
+            "y_min": 0.5848,
+            "x_max": 0.3689,
+            "y_max": 0.5964,
+            "width": 0.0858,
+            "height": 0.0116
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "constriction",
+          "bbox": {
+            "x_min": 0.2849,
+            "y_min": 0.6003,
+            "x_max": 0.3795,
+            "y_max": 0.6075,
+            "width": 0.0946,
+            "height": 0.0073
+          },
+          "confidence": 0.9827
+        },
+        {
+          "text": "Figure 8.12 Chromosome with\nkinetochore",
+          "bbox": {
+            "x_min": 0.5931,
+            "y_min": 0.4799,
+            "x_max": 0.8593,
+            "y_max": 0.5034,
+            "width": 0.2662,
+            "height": 0.0236
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "Centromere",
+          "bbox": {
+            "x_min": 0.2872,
+            "y_min": 0.7601,
+            "x_max": 0.3818,
+            "y_max": 0.7686,
+            "width": 0.0946,
+            "height": 0.0086
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "Short arm",
+          "bbox": {
+            "x_min": 0.4734,
+            "y_min": 0.6341,
+            "x_max": 0.5587,
+            "y_max": 0.6422,
+            "width": 0.0852,
+            "height": 0.0081
+          },
+          "confidence": 0.9856
+        },
+        {
+          "text": "Short arm",
+          "bbox": {
+            "x_min": 0.6813,
+            "y_min": 0.6718,
+            "x_max": 0.7647,
+            "y_max": 0.6808,
+            "width": 0.0835,
+            "height": 0.009
+          },
+          "confidence": 0.9843
+        },
+        {
+          "text": "Centromere",
+          "bbox": {
+            "x_min": 0.6293,
+            "y_min": 0.7194,
+            "x_max": 0.7245,
+            "y_max": 0.7284,
+            "width": 0.0952,
+            "height": 0.009
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "Long arm",
+          "bbox": {
+            "x_min": 0.6182,
+            "y_min": 0.8269,
+            "x_max": 0.697,
+            "y_max": 0.8376,
+            "width": 0.0788,
+            "height": 0.0107
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "Figure 8.13 Types of chromosomes based on the position of centromere",
+          "bbox": {
+            "x_min": 0.1757,
+            "y_min": 0.8907,
+            "x_max": 0.7828,
+            "y_max": 0.9027,
+            "width": 0.6071,
+            "height": 0.012
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 18,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "102",
+          "bbox": {
+            "x_min": 0.1214,
+            "y_min": 0.084,
+            "x_max": 0.1565,
+            "y_max": 0.093,
+            "width": 0.035,
+            "height": 0.009
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0689,
+            "height": 0.0094
+          },
+          "confidence": 0.9796
+        },
+        {
+          "text": "Sometimes a few chromosomes have non-staining secondary\nconstrictions at a constant location. This gives the appearance of a small\nfragment called the satellite.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.1358,
+            "x_max": 0.927,
+            "y_max": 0.1838,
+            "width": 0.6258,
+            "height": 0.048
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "8.5.11 Microbodies",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.2031,
+            "x_max": 0.5131,
+            "y_max": 0.2151,
+            "width": 0.2125,
+            "height": 0.012
+          },
+          "confidence": 0.9811
+        },
+        {
+          "text": "Many membrane bound minute vesicles called microbodies that contain\nvarious enzymes, are present in both plant and animal cells.",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.2305,
+            "x_max": 0.9259,
+            "y_max": 0.2614,
+            "width": 0.6252,
+            "height": 0.0308
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "SUMMARY",
+          "bbox": {
+            "x_min": 0.4682,
+            "y_min": 0.3136,
+            "x_max": 0.5598,
+            "y_max": 0.3248,
+            "width": 0.0917,
+            "height": 0.0111
+          },
+          "confidence": 0.9475
+        },
+        {
+          "text": "All organisms are made of cells or aggregates of cells. Cells vary in their shape, size\nand activities/functions. Based on the presence or absence of a membrane bound\nnucleus and other organelles, cells and hence organisms can be named as\neukaryotic or prokaryotic.",
+          "bbox": {
+            "x_min": 0.1646,
+            "y_min": 0.359,
+            "x_max": 0.8634,
+            "y_max": 0.4233,
+            "width": 0.6988,
+            "height": 0.0643
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "A typical eukaryotic cell consists of a cell membrane, nucleus and cytoplasm.\nPlant cells have a cell wall outside the cell membrane. The plasma membrane is\nselectively permeable and facilitates transport of several molecules. The\nendomembrane system includes ER, golgi complex, lysosomes and vacuoles. All\nthe cell organelles perform different but specific functions. Centrosome and centriole\nform the basal body of cilia and flagella that facilitate locomotion. In animal cells,\ncentrioles also form spindle apparatus during cell division. Nucleus contains\nnucleoli and chromatin network. It not only controls the activities of organelles\nbut also plays a major role in heredity.",
+          "bbox": {
+            "x_min": 0.164,
+            "y_min": 0.428,
+            "x_max": 0.8634,
+            "y_max": 0.5784,
+            "width": 0.6994,
+            "height": 0.1504
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "Endoplasmic reticulum contains tubules or cisternae. They are of two types:\nrough and smooth. ER helps in the transport of substances, synthesis of\nproteins, lipoproteins and glycogen. The golgi body is a membranous organelle\ncomposed of flattened sacs. The secretions of cells are packed in them and\ntransported from the cell. Lysosomes are single membrane structures\ncontaining enzymes for digestion of all types of macromolecules. Ribosomes\nare involved in protein synthesis. These occur freely in the cytoplasm or are\nassociated with ER. Mitochondria help in oxidative phosphorylation and\ngeneration of adenosine triphosphate. They are bound by double membrane;\nthe outer membrane is smooth and inner one folds into several cristae. Plastids\nare pigment containing organelles found in plant cells only. In plant cells,\nchloroplasts are responsible for trapping light energy essential for\nphotosynthesis. The grana, in the plastid, is the site of light reactions and the\nstroma of dark reactions. The green coloured plastids are chloroplasts, which\ncontain chlorophyll, whereas the other coloured plastids are chromoplasts,\nwhich may contain pigments like carotene and xanthophyll. The nucleus is\nenclosed by nuclear envelope, a double membrane structure with nuclear pores.\nThe inner membrane encloses the nucleoplasm and the chromatin material.\nThus, cell is the structural and functional unit of life.",
+          "bbox": {
+            "x_min": 0.1635,
+            "y_min": 0.5831,
+            "x_max": 0.8657,
+            "y_max": 0.904,
+            "width": 0.7023,
+            "height": 0.3209
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 19,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "CELL: THE UNIT OF LIFE",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.0827,
+            "x_max": 0.3041,
+            "y_max": 0.0925,
+            "width": 0.1891,
+            "height": 0.0099
+          },
+          "confidence": 0.9723
+        },
+        {
+          "text": "EXERCISES",
+          "bbox": {
+            "x_min": 0.432,
+            "y_min": 0.135,
+            "x_max": 0.5342,
+            "y_max": 0.1474,
+            "width": 0.1022,
+            "height": 0.0124
+          },
+          "confidence": 0.9768
+        },
+        {
+          "text": "103",
+          "bbox": {
+            "x_min": 0.8471,
+            "y_min": 0.0835,
+            "x_max": 0.8838,
+            "y_max": 0.093,
+            "width": 0.0368,
+            "height": 0.0094
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "1. Which of the following is not correct?",
+          "bbox": {
+            "x_min": 0.1454,
+            "y_min": 0.1868,
+            "x_max": 0.4857,
+            "y_max": 0.1992,
+            "width": 0.3403,
+            "height": 0.0124
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "(a) Robert Brown discovered the cell.",
+          "bbox": {
+            "x_min": 0.1763,
+            "y_min": 0.2074,
+            "x_max": 0.4845,
+            "y_max": 0.2198,
+            "width": 0.3082,
+            "height": 0.0124
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "(b) Schleiden and Schwann formulated the cell theory.",
+          "bbox": {
+            "x_min": 0.1763,
+            "y_min": 0.2258,
+            "x_max": 0.6375,
+            "y_max": 0.2382,
+            "width": 0.4612,
+            "height": 0.0124
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "(c) Virchow explained that cells are formed from pre-existing cells.",
+          "bbox": {
+            "x_min": 0.1763,
+            "y_min": 0.2438,
+            "x_max": 0.7332,
+            "y_max": 0.2566,
+            "width": 0.5569,
+            "height": 0.0129
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "(d) A unicellular organism carries out its life activities within a single cell.",
+          "bbox": {
+            "x_min": 0.1769,
+            "y_min": 0.2609,
+            "x_max": 0.7992,
+            "y_max": 0.2738,
+            "width": 0.6223,
+            "height": 0.0129
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "2. New cells generate from",
+          "bbox": {
+            "x_min": 0.143,
+            "y_min": 0.2841,
+            "x_max": 0.3742,
+            "y_max": 0.2969,
+            "width": 0.2312,
+            "height": 0.0129
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "(a) bacterial fermentation",
+          "bbox": {
+            "x_min": 0.1757,
+            "y_min": 0.3055,
+            "x_max": 0.394,
+            "y_max": 0.3179,
+            "width": 0.2183,
+            "height": 0.0124
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "(c) pre-existing cells",
+          "bbox": {
+            "x_min": 0.1763,
+            "y_min": 0.3239,
+            "x_max": 0.3479,
+            "y_max": 0.3363,
+            "width": 0.1716,
+            "height": 0.0124
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "3. Match the following",
+          "bbox": {
+            "x_min": 0.1436,
+            "y_min": 0.3466,
+            "x_max": 0.3403,
+            "y_max": 0.359,
+            "width": 0.1967,
+            "height": 0.0124
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "Column I",
+          "bbox": {
+            "x_min": 0.2055,
+            "y_min": 0.368,
+            "x_max": 0.2884,
+            "y_max": 0.3783,
+            "width": 0.0829,
+            "height": 0.0103
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "(a) Cristae",
+          "bbox": {
+            "x_min": 0.1757,
+            "y_min": 0.3865,
+            "x_max": 0.2685,
+            "y_max": 0.398,
+            "width": 0.0928,
+            "height": 0.0116
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "(b) Cisternae",
+          "bbox": {
+            "x_min": 0.1769,
+            "y_min": 0.404,
+            "x_max": 0.2884,
+            "y_max": 0.416,
+            "width": 0.1115,
+            "height": 0.012
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "(c) Thylakoids",
+          "bbox": {
+            "x_min": 0.1763,
+            "y_min": 0.422,
+            "x_max": 0.2971,
+            "y_max": 0.4349,
+            "width": 0.1208,
+            "height": 0.0129
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "(b) regeneration of old cells",
+          "bbox": {
+            "x_min": 0.4478,
+            "y_min": 0.3059,
+            "x_max": 0.676,
+            "y_max": 0.3183,
+            "width": 0.2283,
+            "height": 0.0124
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "(d) abiotic materials",
+          "bbox": {
+            "x_min": 0.4472,
+            "y_min": 0.3235,
+            "x_max": 0.617,
+            "y_max": 0.3359,
+            "width": 0.1699,
+            "height": 0.0124
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "Column II",
+          "bbox": {
+            "x_min": 0.4559,
+            "y_min": 0.3689,
+            "x_max": 0.5447,
+            "y_max": 0.3783,
+            "width": 0.0887,
+            "height": 0.0094
+          },
+          "confidence": 0.9815
+        },
+        {
+          "text": "(i) Flat membranous sacs in stroma",
+          "bbox": {
+            "x_min": 0.4308,
+            "y_min": 0.386,
+            "x_max": 0.7344,
+            "y_max": 0.398,
+            "width": 0.3036,
+            "height": 0.012
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "blished",
+          "bbox": {
+            "x_min": 0.5931,
+            "y_min": 0.3025,
+            "x_max": 0.8827,
+            "y_max": 0.5043,
+            "width": 0.2896,
+            "height": 0.2018
+          },
+          "confidence": 0.9436
+        },
+        {
+          "text": "(ii) Infoldings in mitochondria",
+          "bbox": {
+            "x_min": 0.4267,
+            "y_min": 0.4036,
+            "x_max": 0.6778,
+            "y_max": 0.4169,
+            "width": 0.251,
+            "height": 0.0133
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "(iii) Disc-shaped sacs in Golgi apparatus",
+          "bbox": {
+            "x_min": 0.4209,
+            "y_min": 0.4199,
+            "x_max": 0.7642,
+            "y_max": 0.4353,
+            "width": 0.3433,
+            "height": 0.0154
+          },
+          "confidence": 0.9756
+        },
+        {
+          "text": "4. Which of the following is correct:",
+          "bbox": {
+            "x_min": 0.143,
+            "y_min": 0.4447,
+            "x_max": 0.446,
+            "y_max": 0.4572,
+            "width": 0.303,
+            "height": 0.0124
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "(a) Cells of all living organisms have a nucleus.",
+          "bbox": {
+            "x_min": 0.1763,
+            "y_min": 0.4666,
+            "x_max": 0.5756,
+            "y_max": 0.479,
+            "width": 0.3993,
+            "height": 0.0124
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "(b) Both animal and plant cells have a well defined cell wall.",
+          "bbox": {
+            "x_min": 0.1769,
+            "y_min": 0.4837,
+            "x_max": 0.683,
+            "y_max": 0.4961,
+            "width": 0.5061,
+            "height": 0.0124
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "(c) In prokaryotes, there are no membrane bound organelles.",
+          "bbox": {
+            "x_min": 0.1763,
+            "y_min": 0.5021,
+            "x_max": 0.6894,
+            "y_max": 0.5159,
+            "width": 0.5131,
+            "height": 0.0137
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "(d) Cells are formed de novo from abiotic materials.",
+          "bbox": {
+            "x_min": 0.1757,
+            "y_min": 0.5197,
+            "x_max": 0.6036,
+            "y_max": 0.5321,
+            "width": 0.4279,
+            "height": 0.0124
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "5. What is a mesosome in a prokaryotic cell? Mention the functions that it performs.\n6. How do neutral solutes move across the plasma membrane? Can the polar\nmolecules also move across it in the same way? If not, then how are these\ntransported across the membrane?",
+          "bbox": {
+            "x_min": 0.1424,
+            "y_min": 0.5433,
+            "x_max": 0.8342,
+            "y_max": 0.6127,
+            "width": 0.6918,
+            "height": 0.0694
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "7. Name two cell-organelles that are double membrane bound. What are the\ncharacteristics of these two organelles? State their functions and draw labelled\ndiagrams of both.",
+          "bbox": {
+            "x_min": 0.143,
+            "y_min": 0.6225,
+            "x_max": 0.833,
+            "y_max": 0.6701,
+            "width": 0.69,
+            "height": 0.0476
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "8. What are the characteristics of prokaryotic cells?",
+          "bbox": {
+            "x_min": 0.143,
+            "y_min": 0.6795,
+            "x_max": 0.589,
+            "y_max": 0.6919,
+            "width": 0.446,
+            "height": 0.0124
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "9. Multicellular organisms have division of labour. Explain.",
+          "bbox": {
+            "x_min": 0.1436,
+            "y_min": 0.7009,
+            "x_max": 0.6486,
+            "y_max": 0.7138,
+            "width": 0.505,
+            "height": 0.0129
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "10. Cell is the basic unit of life. Discuss in brief.",
+          "bbox": {
+            "x_min": 0.136,
+            "y_min": 0.7224,
+            "x_max": 0.5441,
+            "y_max": 0.7331,
+            "width": 0.4081,
+            "height": 0.0107
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "11. What are nuclear pores? State their function.",
+          "bbox": {
+            "x_min": 0.1372,
+            "y_min": 0.7442,
+            "x_max": 0.5569,
+            "y_max": 0.7562,
+            "width": 0.4197,
+            "height": 0.012
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "12. Both lysosomes and vacuoles are endomembrane structures, yet they differ in\nterms of their functions. Comment.",
+          "bbox": {
+            "x_min": 0.1372,
+            "y_min": 0.7661,
+            "x_max": 0.8336,
+            "y_max": 0.7943,
+            "width": 0.6964,
+            "height": 0.0283
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "13. Describe the structure of the following with the help of labelled diagrams.",
+          "bbox": {
+            "x_min": 0.1372,
+            "y_min": 0.8055,
+            "x_max": 0.7887,
+            "y_max": 0.8183,
+            "width": 0.6515,
+            "height": 0.0129
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "(i) Nucleus",
+          "bbox": {
+            "x_min": 0.1763,
+            "y_min": 0.8269,
+            "x_max": 0.2755,
+            "y_max": 0.8385,
+            "width": 0.0992,
+            "height": 0.0116
+          },
+          "confidence": 0.9811
+        },
+        {
+          "text": "(ii) Centrosome",
+          "bbox": {
+            "x_min": 0.3322,
+            "y_min": 0.8269,
+            "x_max": 0.4682,
+            "y_max": 0.8385,
+            "width": 0.136,
+            "height": 0.0116
+          },
+          "confidence": 0.9821
+        },
+        {
+          "text": "14. What is a centromere? How does the position of centromere form the basis of\nclassification of chromosomes. Support your answer with a diagram showing\nthe position of centromere on different types of chromosomes.",
+          "bbox": {
+            "x_min": 0.1372,
+            "y_min": 0.8488,
+            "x_max": 0.8348,
+            "y_max": 0.8976,
+            "width": 0.6976,
+            "height": 0.0488
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

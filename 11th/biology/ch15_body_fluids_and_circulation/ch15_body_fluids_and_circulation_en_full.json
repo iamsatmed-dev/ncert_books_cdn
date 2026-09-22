@@ -1,0 +1,2922 @@
+{
+  "chapter_id": "11th_biology_ch15_body_fluids_and_circulation_ch15_body_fluids_and_circulation_en",
+  "total_pages": 12,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "11080CH18",
+          "bbox": {
+            "x_min": 0.7974,
+            "y_min": 0.2125,
+            "x_max": 0.8459,
+            "y_max": 0.2181,
+            "width": 0.0485,
+            "height": 0.0056
+          },
+          "confidence": 0.9786
+        },
+        {
+          "text": "15.1 Blood",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.4516,
+            "x_max": 0.1681,
+            "y_max": 0.461,
+            "width": 0.0952,
+            "height": 0.0094
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "15.2 Lymph (Tissue\nFluid)",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.4773,
+            "x_max": 0.2469,
+            "y_max": 0.506,
+            "width": 0.1734,
+            "height": 0.0287
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "15.3 Circulatory\nPathways",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.521,
+            "x_max": 0.2177,
+            "y_max": 0.5506,
+            "width": 0.1442,
+            "height": 0.0296
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "15.4 Double",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.5638,
+            "x_max": 0.1804,
+            "y_max": 0.5733,
+            "width": 0.1068,
+            "height": 0.0094
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "Circulation",
+          "bbox": {
+            "x_min": 0.1197,
+            "y_min": 0.5823,
+            "x_max": 0.216,
+            "y_max": 0.5904,
+            "width": 0.0963,
+            "height": 0.0081
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "15.5 Regulation of",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.6067,
+            "x_max": 0.2335,
+            "y_max": 0.6195,
+            "width": 0.16,
+            "height": 0.0129
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "Cardiac\nActivity",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.6255,
+            "x_max": 0.1874,
+            "y_max": 0.6542,
+            "width": 0.073,
+            "height": 0.0287
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "15.6 Disorders of",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.6684,
+            "x_max": 0.2253,
+            "y_max": 0.6774,
+            "width": 0.1518,
+            "height": 0.009
+          },
+          "confidence": 0.9827
+        },
+        {
+          "text": "Circulatory\nSystem",
+          "bbox": {
+            "x_min": 0.1185,
+            "y_min": 0.6864,
+            "x_max": 0.2113,
+            "y_max": 0.7159,
+            "width": 0.0928,
+            "height": 0.0296
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "CHAPTER 15",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.3213,
+            "x_max": 0.5184,
+            "y_max": 0.3496,
+            "width": 0.2154,
+            "height": 0.0283
+          },
+          "confidence": 0.9654
+        },
+        {
+          "text": "CIRCULATIO",
+          "bbox": {
+            "x_min": 0.6036,
+            "y_min": 0.3175,
+            "x_max": 0.8757,
+            "y_max": 0.4203,
+            "width": 0.272,
+            "height": 0.1028
+          },
+          "confidence": 0.889
+        },
+        {
+          "text": "BODY FLUIDS AND",
+          "bbox": {
+            "x_min": 0.3065,
+            "y_min": 0.3732,
+            "x_max": 0.6165,
+            "y_max": 0.3993,
+            "width": 0.31,
+            "height": 0.0261
+          },
+          "confidence": 0.9684
+        },
+        {
+          "text": "FLUIDS AND",
+          "bbox": {
+            "x_min": 0.4121,
+            "y_min": 0.365,
+            "x_max": 0.6089,
+            "y_max": 0.4396,
+            "width": 0.1967,
+            "height": 0.0746
+          },
+          "confidence": 0.7854
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.8867,
+            "y_min": 0.4606,
+            "x_max": 0.8961,
+            "y_max": 0.4657,
+            "width": 0.0093,
+            "height": 0.0051
+          },
+          "confidence": 0.9727
+        },
+        {
+          "text": "You have learnt that all living cells have to be provided with nutrients, O,\nand other essential substances. Also, the waste or harmful substances\nproduced, have to be removed continuously for healthy functioning of\ntissues. It is therefore, essential to have efficient mechanisms for the\nmovement of these substances to the cells and from the cells. Different\ngroups of animals have evolved different methods for this transport. Simple\norganisms like sponges and coelenterates circulate water from their\nsurroundings through their body cavities to facilitate the cells to exchange\nthese substances. More complex organisms use special fluids within their\nbodies to transport such materials. Blood is the most commonly used body\nfluid by most of the higher organisms, including humans, for this\npurpose. Another body fluid, lymph, also helps in the transport of\ncertain substances. In this chapter, you will learn about the composition\nand properties of blood and lymph (tissue fluid) and the mechanism of\ncirculation of blood is also explained herein.",
+          "bbox": {
+            "x_min": 0.2685,
+            "y_min": 0.4512,
+            "x_max": 0.8961,
+            "y_max": 0.7138,
+            "width": 0.6276,
+            "height": 0.2626
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "15.1 BLOOD",
+          "bbox": {
+            "x_min": 0.2726,
+            "y_min": 0.7408,
+            "x_max": 0.4081,
+            "y_max": 0.7536,
+            "width": 0.1354,
+            "height": 0.0129
+          },
+          "confidence": 0.9648
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1792,
+            "y_min": 0.7087,
+            "x_max": 0.3368,
+            "y_max": 0.8171,
+            "width": 0.1576,
+            "height": 0.1084
+          },
+          "confidence": 0.9547
+        },
+        {
+          "text": "Blood is a special connective tissue consisting of a fluid matrix, plasma,\nand formed elements.",
+          "bbox": {
+            "x_min": 0.2697,
+            "y_min": 0.7759,
+            "x_max": 0.8938,
+            "y_max": 0.8059,
+            "width": 0.6241,
+            "height": 0.03
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "15.1.1 Plasma",
+          "bbox": {
+            "x_min": 0.2703,
+            "y_min": 0.8269,
+            "x_max": 0.4326,
+            "y_max": 0.8389,
+            "width": 0.1623,
+            "height": 0.012
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "Plasma is a straw coloured, viscous fluid constituting nearly 55 per cent of\nthe blood. 90-92 per cent of plasma is water and proteins contribute 6-8\nper cent of it. Fibrinogen, globulins and albumins are the major proteins.",
+          "bbox": {
+            "x_min": 0.2697,
+            "y_min": 0.8543,
+            "x_max": 0.8961,
+            "y_max": 0.9032,
+            "width": 0.6264,
+            "height": 0.0488
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "194",
+          "bbox": {
+            "x_min": 0.1203,
+            "y_min": 0.0835,
+            "x_max": 0.1582,
+            "y_max": 0.093,
+            "width": 0.0379,
+            "height": 0.0094
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0683,
+            "height": 0.009
+          },
+          "confidence": 0.9804
+        },
+        {
+          "text": "Fibrinogens are needed for clotting or coagulation of blood. Globulins\nprimarly are involved in defense mechanisms of the body and the albumins\nhelp in osmotic balance. Plasma also contains small amounts of minerals\nlike Na+, Ca++, Mg++, HCO₃, Cl-, etc. Glucose, amino acids, lipids, etc., are\nalso present in the plasma as they are always in transit in the body. Factors\nfor coagulation or clotting of blood are also present in the plasma in an\ninactive form. Plasma without the clotting factors is called serum.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.1354,
+            "x_max": 0.9264,
+            "y_max": 0.2554,
+            "width": 0.6246,
+            "height": 0.12
+          },
+          "confidence": 0.9845
+        },
+        {
+          "text": "15.1.2 Formed Elements",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.2742,
+            "x_max": 0.5785,
+            "y_max": 0.2866,
+            "width": 0.2755,
+            "height": 0.0124
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "Erythrocytes, leucocytes and platelets are collectively called formed\nelements (Figure 15.1) and they constitute nearly 45 per cent of the blood.\nErythrocytes or red blood cells (RBC) are the most abundant of all\nthe cells in blood. A healthy adult man has, on an average, 5 millions to\n5.5 millions of RBCs mm³ of blood. RBCs are formed in the red bone\nmarrow in the adults. RBCs are devoid of nucleus in most of the mammals\nand are biconcave in shape. They have a red coloured, iron containing\ncomplex protein called haemoglobin, hence the colour and name of these\ncells. A healthy individual has 12-16 gms of haemoglobin in every\n100 ml of blood. These molecules play a significant role in transport of\nrespiratory gases. RBCs have an average life span of 120 days after which\nthey are destroyed in the spleen (graveyard of RBCs).",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.3012,
+            "x_max": 0.9282,
+            "y_max": 0.5111,
+            "width": 0.6264,
+            "height": 0.2099
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "Leucocytes are also known as white blood cells (WBC) as they are\ncolourless due to the lack of haemoglobin. They are nucleated and are\nrelatively lesser in number which averages 6000-8000 mm-³ of blood.\nLeucocytes are generally short lived. We have two main categories of WBCS\n– granulocytes and agranulocytes. Neutrophils, eosinophils and basophils\nare different types of granulocytes, while lymphocytes and monocytes\nare the agranulocytes. Neutrophils are the most abundant cells (60-65\nper cent) of the total WBCs and basophils are the least (0.5-1 per cent)\namong them. Neutrophils and monocytes (6-8 per cent) are phagocytic\ncells which destroy foreign organisms entering the body. Basophils secrete\nhistamine, serotonin, heparin, etc., and are involved in inflammatory\nreactions. Eosinophils (2-3 per cent) resist infections and are also",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.5159,
+            "x_max": 0.9264,
+            "y_max": 0.7249,
+            "width": 0.6246,
+            "height": 0.2091
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1716,
+            "y_min": 0.7057,
+            "x_max": 0.3415,
+            "y_max": 0.8192,
+            "width": 0.1699,
+            "height": 0.1135
+          },
+          "confidence": 0.9509
+        },
+        {
+          "text": "RBC",
+          "bbox": {
+            "x_min": 0.1594,
+            "y_min": 0.7806,
+            "x_max": 0.2032,
+            "y_max": 0.7888,
+            "width": 0.0438,
+            "height": 0.0081
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "Platelets",
+          "bbox": {
+            "x_min": 0.2639,
+            "y_min": 0.8329,
+            "x_max": 0.3292,
+            "y_max": 0.8402,
+            "width": 0.0654,
+            "height": 0.0073
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "Eosinophil",
+          "bbox": {
+            "x_min": 0.3485,
+            "y_min": 0.7699,
+            "x_max": 0.4314,
+            "y_max": 0.7811,
+            "width": 0.0829,
+            "height": 0.0111
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "Basophil",
+          "bbox": {
+            "x_min": 0.4518,
+            "y_min": 0.8359,
+            "x_max": 0.5219,
+            "y_max": 0.8466,
+            "width": 0.0701,
+            "height": 0.0107
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "Neutrophil",
+          "bbox": {
+            "x_min": 0.5271,
+            "y_min": 0.7665,
+            "x_max": 0.6112,
+            "y_max": 0.7776,
+            "width": 0.0841,
+            "height": 0.0111
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "T lymphocyte",
+          "bbox": {
+            "x_min": 0.7087,
+            "y_min": 0.7725,
+            "x_max": 0.8132,
+            "y_max": 0.7828,
+            "width": 0.1045,
+            "height": 0.0103
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "Monocyte",
+          "bbox": {
+            "x_min": 0.6311,
+            "y_min": 0.8359,
+            "x_max": 0.7087,
+            "y_max": 0.8453,
+            "width": 0.0776,
+            "height": 0.0094
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "B lymphocyte",
+          "bbox": {
+            "x_min": 0.7834,
+            "y_min": 0.8359,
+            "x_max": 0.8897,
+            "y_max": 0.8462,
+            "width": 0.1062,
+            "height": 0.0103
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "Figure 15.1 Diagrammatic representation of formed elements in blood",
+          "bbox": {
+            "x_min": 0.2177,
+            "y_min": 0.8869,
+            "x_max": 0.8097,
+            "y_max": 0.8993,
+            "width": 0.5919,
+            "height": 0.0124
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4501,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BODY FLUIDS AND CIRCULATION",
+          "bbox": {
+            "x_min": 0.1133,
+            "y_min": 0.0827,
+            "x_max": 0.3549,
+            "y_max": 0.0925,
+            "width": 0.2417,
+            "height": 0.0099
+          },
+          "confidence": 0.9798
+        },
+        {
+          "text": "195",
+          "bbox": {
+            "x_min": 0.8476,
+            "y_min": 0.0823,
+            "x_max": 0.8838,
+            "y_max": 0.0934,
+            "width": 0.0362,
+            "height": 0.0111
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "associated with allergic reactions. Lymphocytes (20-25 per cent) are of\ntwo major types\n'B' and 'T' forms. Both B and T lymphocytes are\nresponsible for immune responses of the body.",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.1354,
+            "x_max": 0.6982,
+            "y_max": 0.1842,
+            "width": 0.6246,
+            "height": 0.0488
+          },
+          "confidence": 0.9818
+        },
+        {
+          "text": "Platelets also called thrombocytes, are cell fragments produced from\nmegakaryocytes (special cells in the bone marrow). Blood normally\ncontains 1,500,00-3,500,00 platelets mm-³. Platelets can release a variety\nof substances most of which are involved in the coagulation or clotting of\nblood. A reduction in their number can lead to clotting disorders which\nwill lead to excessive loss of blood from the body.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1889,
+            "x_max": 0.6982,
+            "y_max": 0.2909,
+            "width": 0.6264,
+            "height": 0.102
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "15.1.3 Blood Groups",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.3111,
+            "x_max": 0.3076,
+            "y_max": 0.3248,
+            "width": 0.2329,
+            "height": 0.0137
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "As you know, blood of human beings differ in certain aspects though it\nappears to be similar. Various types of grouping of blood has been done.\nTwo such groupings – the ABO and Rh are widely used all over the\nworld.",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.3376,
+            "x_max": 0.697,
+            "y_max": 0.4006,
+            "width": 0.6276,
+            "height": 0.063
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "15.1.3.1 ABO grouping",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.419,
+            "x_max": 0.2925,
+            "y_max": 0.4327,
+            "width": 0.2183,
+            "height": 0.0137
+          },
+          "confidence": 0.9438
+        },
+        {
+          "text": "ished",
+          "bbox": {
+            "x_min": 0.6527,
+            "y_min": 0.3059,
+            "x_max": 0.8786,
+            "y_max": 0.4576,
+            "width": 0.2259,
+            "height": 0.1517
+          },
+          "confidence": 0.9754
+        },
+        {
+          "text": "ABO grouping is based on the presence or absence of two surface antigens\nantigens\n(chemicals that can induce immune response) on the RBCs namely A\nand B. Similarly, the plasma of different individuals contain two natural\nantibodies (proteins produced in response to antigens). The distribution\nof antigens and antibodies in the four groups of blood, A, B, AB and O\nare given in Table 15.1. You probably know that during blood transfusion,\nany blood cannot be used; the blood of a donor has to be carefully matched\nwith the blood of a recipient before any blood transfusion to avoid severe\nproblems of clumping (destruction of RBC). The donor's compatibility is\nalso shown in the Table 15.1.",
+          "bbox": {
+            "x_min": 0.0683,
+            "y_min": 0.4319,
+            "x_max": 0.7011,
+            "y_max": 0.6148,
+            "width": 0.6328,
+            "height": 0.1829
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "e",
+          "bbox": {
+            "x_min": 0.4361,
+            "y_min": 0.5964,
+            "x_max": 0.5015,
+            "y_max": 0.6345,
+            "width": 0.0654,
+            "height": 0.0381
+          },
+          "confidence": 0.8808
+        },
+        {
+          "text": "TABLE 15.1 Blood Groups and Donor Compatibility",
+          "bbox": {
+            "x_min": 0.1489,
+            "y_min": 0.6285,
+            "x_max": 0.6124,
+            "y_max": 0.6422,
+            "width": 0.4635,
+            "height": 0.0137
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "Blood Group",
+          "bbox": {
+            "x_min": 0.1051,
+            "y_min": 0.6542,
+            "x_max": 0.2242,
+            "y_max": 0.6667,
+            "width": 0.1191,
+            "height": 0.0124
+          },
+          "confidence": 0.9838
+        },
+        {
+          "text": "Antigens on\nRBCs",
+          "bbox": {
+            "x_min": 0.258,
+            "y_min": 0.6534,
+            "x_max": 0.3742,
+            "y_max": 0.6799,
+            "width": 0.1162,
+            "height": 0.0266
+          },
+          "confidence": 0.9742
+        },
+        {
+          "text": "Ant\nAntibodies Donor's Group\nin Plasma",
+          "bbox": {
+            "x_min": 0.4063,
+            "y_min": 0.6482,
+            "x_max": 0.6649,
+            "y_max": 0.6812,
+            "width": 0.2586,
+            "height": 0.033
+          },
+          "confidence": 0.9712
+        },
+        {
+          "text": "A",
+          "bbox": {
+            "x_min": 0.1547,
+            "y_min": 0.6979,
+            "x_max": 0.1722,
+            "y_max": 0.7069,
+            "width": 0.0175,
+            "height": 0.009
+          },
+          "confidence": 0.9524
+        },
+        {
+          "text": "A",
+          "bbox": {
+            "x_min": 0.3088,
+            "y_min": 0.6971,
+            "x_max": 0.3246,
+            "y_max": 0.7074,
+            "width": 0.0158,
+            "height": 0.0103
+          },
+          "confidence": 0.8358
+        },
+        {
+          "text": "anti-B",
+          "bbox": {
+            "x_min": 0.4332,
+            "y_min": 0.6975,
+            "x_max": 0.4857,
+            "y_max": 0.7065,
+            "width": 0.0525,
+            "height": 0.009
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "Α, Ο",
+          "bbox": {
+            "x_min": 0.5803,
+            "y_min": 0.6979,
+            "x_max": 0.6182,
+            "y_max": 0.7078,
+            "width": 0.0379,
+            "height": 0.0099
+          },
+          "confidence": 0.8023
+        },
+        {
+          "text": "B",
+          "bbox": {
+            "x_min": 0.1559,
+            "y_min": 0.7254,
+            "x_max": 0.1722,
+            "y_max": 0.7339,
+            "width": 0.0163,
+            "height": 0.0086
+          },
+          "confidence": 0.9529
+        },
+        {
+          "text": "B",
+          "bbox": {
+            "x_min": 0.3106,
+            "y_min": 0.7249,
+            "x_max": 0.3246,
+            "y_max": 0.7344,
+            "width": 0.014,
+            "height": 0.0094
+          },
+          "confidence": 0.6632
+        },
+        {
+          "text": "anti-A",
+          "bbox": {
+            "x_min": 0.4332,
+            "y_min": 0.7237,
+            "x_max": 0.488,
+            "y_max": 0.7344,
+            "width": 0.0549,
+            "height": 0.0107
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "Β, Ο",
+          "bbox": {
+            "x_min": 0.582,
+            "y_min": 0.7249,
+            "x_max": 0.6182,
+            "y_max": 0.7352,
+            "width": 0.0362,
+            "height": 0.0103
+          },
+          "confidence": 0.6112
+        },
+        {
+          "text": "AB",
+          "bbox": {
+            "x_min": 0.1494,
+            "y_min": 0.7532,
+            "x_max": 0.1769,
+            "y_max": 0.7618,
+            "width": 0.0274,
+            "height": 0.0086
+          },
+          "confidence": 0.946
+        },
+        {
+          "text": "А, В",
+          "bbox": {
+            "x_min": 0.2977,
+            "y_min": 0.7528,
+            "x_max": 0.3345,
+            "y_max": 0.7635,
+            "width": 0.0368,
+            "height": 0.0107
+          },
+          "confidence": 0.625
+        },
+        {
+          "text": "nil",
+          "bbox": {
+            "x_min": 0.4454,
+            "y_min": 0.7528,
+            "x_max": 0.4723,
+            "y_max": 0.7618,
+            "width": 0.0269,
+            "height": 0.009
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "AB, A, B, O",
+          "bbox": {
+            "x_min": 0.5517,
+            "y_min": 0.7524,
+            "x_max": 0.648,
+            "y_max": 0.7635,
+            "width": 0.0963,
+            "height": 0.0111
+          },
+          "confidence": 0.6887
+        },
+        {
+          "text": "Ο",
+          "bbox": {
+            "x_min": 0.157,
+            "y_min": 0.7806,
+            "x_max": 0.1722,
+            "y_max": 0.7892,
+            "width": 0.0152,
+            "height": 0.0086
+          },
+          "confidence": 0.6632
+        },
+        {
+          "text": "nil",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.7802,
+            "x_max": 0.3298,
+            "y_max": 0.7892,
+            "width": 0.0269,
+            "height": 0.009
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "anti-A, B",
+          "bbox": {
+            "x_min": 0.4221,
+            "y_min": 0.7793,
+            "x_max": 0.4985,
+            "y_max": 0.7905,
+            "width": 0.0765,
+            "height": 0.0111
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "Ο",
+          "bbox": {
+            "x_min": 0.5931,
+            "y_min": 0.7806,
+            "x_max": 0.6077,
+            "y_max": 0.7892,
+            "width": 0.0146,
+            "height": 0.0086
+          },
+          "confidence": 0.6472
+        },
+        {
+          "text": "From the above mentioned table it is evident that group ‘O' blood can\nbe donated to persons with any other blood group and hence ‘O' group\nindividuals are called 'universal donors'. Persons with 'AB' group can\naccept blood from persons with AB as well as the other groups of blood.\nTherefore, such persons are called ‘universal recipients'.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.8123,
+            "x_max": 0.697,
+            "y_max": 0.8967,
+            "width": 0.6252,
+            "height": 0.0844
+          },
+          "confidence": 0.9838
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "196",
+          "bbox": {
+            "x_min": 0.1191,
+            "y_min": 0.084,
+            "x_max": 0.1576,
+            "y_max": 0.0934,
+            "width": 0.0385,
+            "height": 0.0094
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8581,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0671,
+            "height": 0.0094
+          },
+          "confidence": 0.9738
+        },
+        {
+          "text": "15.1.3.2 Rh grouping",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.1341,
+            "x_max": 0.5248,
+            "y_max": 0.1478,
+            "width": 0.2212,
+            "height": 0.0137
+          },
+          "confidence": 0.9858
+        },
+        {
+          "text": "Another antigen, the Rh antigen similar to one present in Rhesus monkeys\n(hence Rh), is also observed on the surface of RBCs of majority (nearly 80\nper cent) of humans. Such individuals are called Rh positive (Rh+ve)\nand those in whom this antigen is absent are called Rh negative (Rh-ve).\nAn Rh-ve person, if exposed to Rh+ve blood, will form specific antibodies\nagainst the Rh antigens. Therefore, Rh group should also be matched\nbefore transfusions. A special case of Rh incompatibility (mismatching)\nhas been observed between the Rh-ve blood of a pregnant mother with\nRh+ve blood of the foetus. Rh antigens of the foetus do not get exposed to\nthe Rh-ve blood of the mother in the first pregnancy as the two bloods are\nwell separated by the placenta. However, during the delivery of the first\nchild, there is a possibility of exposure of the maternal blood to small\namounts of the Rh+ve blood from the foetus. In such cases, the mother\nstarts preparing antibodies against Rh antigen in her blood. In case of\nher subsequent pregnancies, the Rh antibodies from the mother (Rh-ve)\ncan leak into the blood of the foetus (Rh+ve) and destroy the foetal RBCs.\nThis could be fatal to the foetus or could cause severe anaemia and\njaundice to the baby. This condition is called erythroblastosis foetalis.\nThis can be avoided by administering anti-Rh antibodies to the mother\nimmediately after the delivery of the first child.",
+          "bbox": {
+            "x_min": 0.2995,
+            "y_min": 0.1564,
+            "x_max": 0.9282,
+            "y_max": 0.5201,
+            "width": 0.6287,
+            "height": 0.3638
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "Gulation of Blood",
+          "bbox": {
+            "x_min": 0.4244,
+            "y_min": 0.5197,
+            "x_max": 0.62,
+            "y_max": 0.5484,
+            "width": 0.1956,
+            "height": 0.0287
+          },
+          "confidence": 0.81
+        },
+        {
+          "text": "15.1.4 Coagulation",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.5386,
+            "x_max": 0.5149,
+            "y_max": 0.5536,
+            "width": 0.2107,
+            "height": 0.015
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "You know that when you cut your finger or hurt yourself, your wound\ndoes not continue to bleed for a long time; usually the blood stops flowing\nafter sometime. Do you know why? Blood exhibits coagulation or clotting\nin response to an injury or trauma. This is a mechanism to prevent\nexcessive loss of blood from the body. You would have observed a dark\nreddish brown scum formed at the site of a cut or an injury over a period\nof time. It is a clot or coagulam formed mainly of a network of threads\ncalled fibrins in which dead and damaged formed elements of blood are\ntrapped. Fibrins are formed by the conversion of inactive fibrinogens in\nthe plasma by the enzyme thrombin. Thrombins, in turn are formed from\nanother inactive substance present in the plasma called prothrombin. An\nenzyme complex, thrombokinase, is required for the above reaction. This\ncomplex is formed by a series of linked enzymic reactions (cascade\nprocess) involving a number of factors present in the plasma in an inactive\nstate. An injury or a trauma stimulates the platelets in the blood to release\ncertain factors which activate the mechanism of coagulation. Certain\nfactors released by the tissues at the site of injury also can initiate\ncoagulation. Calcium ions play a very important role in clotting.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.5668,
+            "x_max": 0.9276,
+            "y_max": 0.8937,
+            "width": 0.6264,
+            "height": 0.3269
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1926,
+            "y_min": 0.7108,
+            "x_max": 0.3292,
+            "y_max": 0.8171,
+            "width": 0.1366,
+            "height": 0.1063
+          },
+          "confidence": 0.9829
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BODY FLUIDS AND CIRCULATION",
+          "bbox": {
+            "x_min": 0.1133,
+            "y_min": 0.0827,
+            "x_max": 0.3549,
+            "y_max": 0.0925,
+            "width": 0.2417,
+            "height": 0.0099
+          },
+          "confidence": 0.9798
+        },
+        {
+          "text": "197",
+          "bbox": {
+            "x_min": 0.8471,
+            "y_min": 0.0831,
+            "x_max": 0.8838,
+            "y_max": 0.093,
+            "width": 0.0368,
+            "height": 0.0099
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "15.2 LYMPH (TISSUE FLUID)",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.1345,
+            "x_max": 0.3643,
+            "y_max": 0.1491,
+            "width": 0.2896,
+            "height": 0.0146
+          },
+          "confidence": 0.9532
+        },
+        {
+          "text": "As the blood passes through the capillaries in tissues, some water along\nwith many small water soluble substances move out into the spaces\nbetween the cells of tissues leaving the larger proteins and most of the\nformed elements in the blood vessels. This fluid released out is called the\ninterstitial fluid or tissue fluid. It has the same mineral distribution as\nthat in plasma. Exchange of nutrients, gases, etc., between the blood and\nthe cells always occur through this fluid. An elaborate network of vessels\ncalled the lymphatic system collects this fluid and drains it back to the\nmajor veins. The fluid present in the lymphatic system is called the lymph.\nLymph is a colourless fluid containing specialised lymphocytes which\nare responsible for the immune responses of the body. Lymph is also an\nimportant carrier for nutrients, hormones, etc. Fats are absorbed through\nlymph in the lacteals present in the intestinal villi.",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.171,
+            "x_max": 0.6982,
+            "y_max": 0.398,
+            "width": 0.627,
+            "height": 0.2271
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "15.3 CIRCULATORY PATHWAYS",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.4246,
+            "x_max": 0.3783,
+            "y_max": 0.4383,
+            "width": 0.3053,
+            "height": 0.0137
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "RT",
+          "bbox": {
+            "x_min": 0.4834,
+            "y_min": 0.3937,
+            "x_max": 0.6165,
+            "y_max": 0.4824,
+            "width": 0.1331,
+            "height": 0.0887
+          },
+          "confidence": 0.9314
+        },
+        {
+          "text": "lished",
+          "bbox": {
+            "x_min": 0.634,
+            "y_min": 0.3059,
+            "x_max": 0.8762,
+            "y_max": 0.4743,
+            "width": 0.2423,
+            "height": 0.1684
+          },
+          "confidence": 0.9403
+        },
+        {
+          "text": "The circulatory patterns are of two types\nopen or closed. Open\ncirculatory system is present in arthropods and molluscs in which blood\npumped by the heart passes through large vessels into open spaces or\nbody cavities called sinuses. Annelids and chordates have a closed\ncirculatory system in which the blood pumped by the heart is always\ncirculated through a closed network of blood vessels. This pattern is\nconsidered to be more advantageous as the flow of fluid can be more\nntageous\nprecisely regulated.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.4602,
+            "x_max": 0.6976,
+            "y_max": 0.599,
+            "width": 0.6258,
+            "height": 0.1388
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "All vertebrates possess a muscular chambered heart. Fishes have a\n2-chambered heart with an atrium and a ventricle. Amphibians and the\nreptiles (except crocodiles) have a 3-chambered heart with two atria and a\nsingle ventricle, whereas crocodiles, birds and mammals possess a\n4-chambered heart with two atria and two ventricles. In fishes the heart\npumps out deoxygenated blood which is oxygenated by the gills and\nsupplied to the body parts from where deoxygenated blood is returned to\nthe heart (single circulation). In amphibians and reptiles, the left atrium\nreceives oxygenated blood from the gills/lungs/skin and the right atrium\ngets the deoxygenated blood from other body parts. However, they get mixed\nup in the single ventricle which pumps out mixed blood (incomplete double\ncirculation). In birds and mammals, oxygenated and deoxygenated blood\nreceived by the left and right atria respectively passes on to the ventricles of\nthe same sides. The ventricles pump it out without any mixing up, i.e., two\nseparate circulatory pathways are present in these organisms, hence, these\nanimals have double circulation. Let us study the human circulatory\nsystem.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.6037,
+            "x_max": 0.6988,
+            "y_max": 0.9015,
+            "width": 0.6264,
+            "height": 0.2978
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "198",
+          "bbox": {
+            "x_min": 0.1203,
+            "y_min": 0.084,
+            "x_max": 0.1576,
+            "y_max": 0.093,
+            "width": 0.0374,
+            "height": 0.009
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8576,
+            "y_min": 0.0835,
+            "x_max": 0.9253,
+            "y_max": 0.0943,
+            "width": 0.0677,
+            "height": 0.0107
+          },
+          "confidence": 0.9763
+        },
+        {
+          "text": "15.3.1 Human Circulatory System",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.135,
+            "x_max": 0.6853,
+            "y_max": 0.1491,
+            "width": 0.3812,
+            "height": 0.0141
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "Human circulatory system, also called the blood vascular system consists\nof a muscular chambered heart, a network of closed branching blood\nvessels and blood, the fluid which is circulated.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.1611,
+            "x_max": 0.9259,
+            "y_max": 0.2087,
+            "width": 0.6241,
+            "height": 0.0476
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "Heart, the mesodermally derived organ, is situated in the thoracic\ncavity, in between the two lungs, slightly tilted to the left. It has the size of\na clenched fist. It is protected by a double walled membranous bag,\npericardium, enclosing the pericardial fluid. Our heart has four\nchambers, two relatively small upper chambers called atria and two larger\nlower chambers called ventricles. A thin, muscular wall called the inter-\natrial septum separates the right and the left atria, whereas a thick-walled,\nthe inter-ventricular septum, separates the left and the right ventricles\n(Figure 15.2). The atrium and the ventricle of the same side are also\nseparated by a thick fibrous tissue called the atrio-ventricular septum.\nHowever, each of these septa are provided with an opening through which\nthe two chambers of the same side are connected. The opening between\nthe right atrium and the right ventricle is guarded by a valve formed of\nthree muscular flaps or cusps, the tricuspid valve, whereas a bicuspid\nor mitral valve guards the opening between the left atrium and the left\nventricle. The openings of the right and the left ventricles into the",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.2147,
+            "x_max": 0.9282,
+            "y_max": 0.4957,
+            "width": 0.6264,
+            "height": 0.2811
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "enings",
+          "bbox": {
+            "x_min": 0.4577,
+            "y_min": 0.4807,
+            "x_max": 0.5161,
+            "y_max": 0.5,
+            "width": 0.0584,
+            "height": 0.0193
+          },
+          "confidence": 0.9969
+        },
+        {
+          "text": "Vena cava",
+          "bbox": {
+            "x_min": 0.2954,
+            "y_min": 0.6007,
+            "x_max": 0.3748,
+            "y_max": 0.6088,
+            "width": 0.0794,
+            "height": 0.0081
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "Aorta",
+          "bbox": {
+            "x_min": 0.7694,
+            "y_min": 0.5733,
+            "x_max": 0.8149,
+            "y_max": 0.581,
+            "width": 0.0455,
+            "height": 0.0077
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "Sino-atrial node",
+          "bbox": {
+            "x_min": 0.2499,
+            "y_min": 0.6512,
+            "x_max": 0.3736,
+            "y_max": 0.6602,
+            "width": 0.1238,
+            "height": 0.009
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "Right atrium",
+          "bbox": {
+            "x_min": 0.2738,
+            "y_min": 0.6731,
+            "x_max": 0.3748,
+            "y_max": 0.6842,
+            "width": 0.101,
+            "height": 0.0111
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "Atrio-ventricular",
+          "bbox": {
+            "x_min": 0.2621,
+            "y_min": 0.6924,
+            "x_max": 0.3935,
+            "y_max": 0.7001,
+            "width": 0.1313,
+            "height": 0.0077
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "node",
+          "bbox": {
+            "x_min": 0.2621,
+            "y_min": 0.7061,
+            "x_max": 0.303,
+            "y_max": 0.7147,
+            "width": 0.0409,
+            "height": 0.0086
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "Pulmonary artery\nPulmonary veins",
+          "bbox": {
+            "x_min": 0.7758,
+            "y_min": 0.6174,
+            "x_max": 0.9177,
+            "y_max": 0.6452,
+            "width": 0.1419,
+            "height": 0.0278
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "Left atrium",
+          "bbox": {
+            "x_min": 0.7717,
+            "y_min": 0.6538,
+            "x_max": 0.8599,
+            "y_max": 0.6624,
+            "width": 0.0881,
+            "height": 0.0086
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "Chordae tendinae",
+          "bbox": {
+            "x_min": 0.2452,
+            "y_min": 0.7451,
+            "x_max": 0.3795,
+            "y_max": 0.7536,
+            "width": 0.1343,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "Right ventricle",
+          "bbox": {
+            "x_min": 0.2569,
+            "y_min": 0.7729,
+            "x_max": 0.3719,
+            "y_max": 0.7836,
+            "width": 0.115,
+            "height": 0.0107
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "Bundle of His",
+          "bbox": {
+            "x_min": 0.7723,
+            "y_min": 0.7177,
+            "x_max": 0.878,
+            "y_max": 0.7266,
+            "width": 0.1057,
+            "height": 0.009
+          },
+          "confidence": 0.9831
+        },
+        {
+          "text": "Left ventricle",
+          "bbox": {
+            "x_min": 0.7723,
+            "y_min": 0.7823,
+            "x_max": 0.8727,
+            "y_max": 0.7909,
+            "width": 0.1004,
+            "height": 0.0086
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "Figure 15.2 Section of a human heart",
+          "bbox": {
+            "x_min": 0.3532,
+            "y_min": 0.892,
+            "x_max": 0.6772,
+            "y_max": 0.904,
+            "width": 0.324,
+            "height": 0.012
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "Interventricular",
+          "bbox": {
+            "x_min": 0.7717,
+            "y_min": 0.8201,
+            "x_max": 0.8943,
+            "y_max": 0.8282,
+            "width": 0.1226,
+            "height": 0.0081
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "septum",
+          "bbox": {
+            "x_min": 0.7717,
+            "y_min": 0.8342,
+            "x_max": 0.8295,
+            "y_max": 0.8449,
+            "width": 0.0578,
+            "height": 0.0107
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "Apex",
+          "bbox": {
+            "x_min": 0.7607,
+            "y_min": 0.8595,
+            "x_max": 0.8044,
+            "y_max": 0.8706,
+            "width": 0.0438,
+            "height": 0.0111
+          },
+          "confidence": 0.948
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9739,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.009
+          },
+          "confidence": 0.9833
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BODY FLUIDS AND CIRCULATION",
+          "bbox": {
+            "x_min": 0.1133,
+            "y_min": 0.0827,
+            "x_max": 0.3549,
+            "y_max": 0.0925,
+            "width": 0.2417,
+            "height": 0.0099
+          },
+          "confidence": 0.9798
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6888,
+            "y_min": 0.3068,
+            "x_max": 0.871,
+            "y_max": 0.4439,
+            "width": 0.1821,
+            "height": 0.1371
+          },
+          "confidence": 0.9832
+        },
+        {
+          "text": "pulmonary artery and the aorta respectively are provided with the\nsemilunar valves. The valves in the heart allows the flow of blood only in\none direction, i.e., from the atria to the ventricles and from the ventricles\nto the pulmonary artery or aorta. These valves prevent any backward\nflow.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.1354,
+            "x_max": 0.697,
+            "y_max": 0.2177,
+            "width": 0.6246,
+            "height": 0.0823
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "The entire heart is made of cardiac muscles. The walls of ventricles\nare much thicker than that of the atria. A specialised cardiac musculature\ncalled the nodal tissue is also distributed in the heart (Figure 15.2). А\npatch of this tissue is present in the right upper corner of the right atrium\ncalled the sino-atrial node (SAN). Another mass of this tissue is seen in\nthe lower left corner of the right atrium close to the atrio-ventricular septum\ncalled the atrio-ventricular node (AVN). A bundle of nodal fibres, atrio-\nventricular bundle (AV bundle) continues from the AVN which passes\nthrough the atrio-ventricular septa to emerge on the top of the inter-\nventricular septum and immediately divides into a right and left bundle.\nThese branches give rise to minute fibres throughout the ventricular\nmusculature of the respective sides and are called purkinje fibres. The\nnodal musculature has the ability to generate action potentials without\nany external stimuli, i.e., it is autoexcitable. However, the number of action\npotentials that could be generated in a minute vary at different parts of\nthe nodal system. The SAN can generate the maximum number of action\npotentials, i.e., 70-75 min¯¹, and is responsible for initiating and\nmaintaining the rhythmic contractile activity of the heart. Therefore, it is\ncalled the pacemaker. Our heart normally beats 70-75 times in a minute\n(average 72 beats min¯¹).",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.2249,
+            "x_max": 0.6988,
+            "y_max": 0.584,
+            "width": 0.627,
+            "height": 0.359
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "15.3.2 Cardiac Cycle",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.6058,
+            "x_max": 0.3053,
+            "y_max": 0.62,
+            "width": 0.2306,
+            "height": 0.0141
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "take",
+          "bbox": {
+            "x_min": 0.3999,
+            "y_min": 0.6315,
+            "x_max": 0.4407,
+            "y_max": 0.6504,
+            "width": 0.0409,
+            "height": 0.0189
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "How does the heart function? Let us take a look. To begin with, all the\nfour chambers of heart are in a relaxed state, i.e., they are in joint\ndiastole. As the tricuspid and bicuspid valves are open, blood from the\npulmonary veins and vena cava flows into the left and the right ventricle\nrespectively through the left and right atria. The semilunar valves are\nclosed at this stage. The SAN now generates an action potential which\nstimulates both the atria to undergo a simultaneous contraction – the\natrial systole. This increases the flow of blood into the ventricles by about\n30 per cent. The action potential is conducted to the ventricular side by\nthe AVN and AV bundle from where the bundle of His transmits it through\nthe entire ventricular musculature. This causes the ventricular muscles\nto contract, (ventricular systole), the atria undergoes relaxation\n(diastole), coinciding with the ventricular systole. Ventricular systole\nincreases the ventricular pressure causing the closure of tricuspid and",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.6362,
+            "x_max": 0.6976,
+            "y_max": 0.889,
+            "width": 0.6246,
+            "height": 0.2528
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "199",
+          "bbox": {
+            "x_min": 0.8459,
+            "y_min": 0.0831,
+            "x_max": 0.8856,
+            "y_max": 0.0934,
+            "width": 0.0397,
+            "height": 0.0103
+          },
+          "confidence": 0.9953
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "200",
+          "bbox": {
+            "x_min": 0.1179,
+            "y_min": 0.084,
+            "x_max": 0.1576,
+            "y_max": 0.0925,
+            "width": 0.0397,
+            "height": 0.0086
+          },
+          "confidence": 0.9974
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.0835,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0683,
+            "height": 0.0094
+          },
+          "confidence": 0.9765
+        },
+        {
+          "text": "bicuspid valves due to attempted backflow of blood into the atria. As\nthe ventricular pressure increases further, the semilunar valves guarding\nthe pulmonary artery (right side) and the aorta (left side) are forced open,\nallowing the blood in the ventricles to flow through these vessels into\nthe circulatory pathways. The ventricles now relax (ventricular diastole)\nand the ventricular pressure falls causing the closure of semilunar valves\nwhich prevents the backflow of blood into the ventricles. As the\nventricular pressure declines further, the tricuspid and bicuspid valves\nare pushed open by the pressure in the atria exerted by the blood which\nwas being emptied into them by the veins. The blood now once again\nmoves freely to the ventricles. The ventricles and atria are now again in\na relaxed (joint diastole) state, as earlier. Soon the SAN generates a new\naction potential and the events described above are repeated in that\nsequence and the process continues.",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.135,
+            "x_max": 0.927,
+            "y_max": 0.3886,
+            "width": 0.6264,
+            "height": 0.2536
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "This sequential event in the heart which is cyclically repeated is called\nthe cardiac cycle and it consists of systole and diastole of both the atria\nand ventricles. As mentioned earlier, the heart beats 72 times per minute,\ni.e., that many cardiac cycles are performed per minute. From this it could\nbe deduced that the duration of a cardiac cycle is 0.8 seconds. During a\ncardiac cycle, each ventricle pumps out approximately 70 mL of blood\nwhich is called the stroke volume. The stroke volume multiplied by the\nheart rate (no. of beats per min.) gives the cardiac output. Therefore, the\ncardiac output can be defined as the volume of blood pumped out by each\nventricle per minute and averages 5000 mL or 5 litres in a healthy individual.\nThe body has the ability to alter the stroke volume as well as the heart rate\nand thereby the cardiac output. For example, the cardiac output of an\nathlete will be much higher than that of an ordinary man.",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.3942,
+            "x_max": 0.9264,
+            "y_max": 0.629,
+            "width": 0.6258,
+            "height": 0.2348
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "During each cardiac cycle two prominent sounds are produced which\ncan be easily heard through a stethoscope. The first heart sound (lub) is\nassociated with the closure of the tricuspid and bicuspid valves whereas\nthe second heart sound (dub) is associated with the closure of the\nsemilunar valves. These sounds are of clinical diagnostic significance.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.6345,
+            "x_max": 0.9264,
+            "y_max": 0.7219,
+            "width": 0.6241,
+            "height": 0.0874
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "15.3.3 Electrocardiogram (ECG)",
+          "bbox": {
+            "x_min": 0.3047,
+            "y_min": 0.7429,
+            "x_max": 0.6567,
+            "y_max": 0.7588,
+            "width": 0.352,
+            "height": 0.0159
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "You are probably familiar with this scene from a typical hospital television\nshow: A patient is hooked up to a monitoring machine that shows voltage\ntraces on a screen and makes the sound “... pip... pip... pip.....\npeeeeeeeeeeeeeeeeeeeeee” as the patient goes into cardiac arrest. This type\nof machine (electro-cardiograph) is used to obtain an electrocardiogram\n(ECG). ECG is a graphical representation of the electrical activity of the\nheart during a cardiac cycle. To obtain a standard ECG (as shown in the",
+          "bbox": {
+            "x_min": 0.3001,
+            "y_min": 0.7729,
+            "x_max": 0.927,
+            "y_max": 0.8929,
+            "width": 0.627,
+            "height": 0.12
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1909,
+            "y_min": 0.7104,
+            "x_max": 0.3269,
+            "y_max": 0.8149,
+            "width": 0.136,
+            "height": 0.1045
+          },
+          "confidence": 0.9798
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4501,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BODY FLUIDS AND CIRCULATION",
+          "bbox": {
+            "x_min": 0.1133,
+            "y_min": 0.0823,
+            "x_max": 0.3543,
+            "y_max": 0.0925,
+            "width": 0.2411,
+            "height": 0.0103
+          },
+          "confidence": 0.9836
+        },
+        {
+          "text": "Figure 15.3), a patient is connected to the\nmachine with three electrical leads (one to each\nwrist and to the left ankle) that continuously\nmonitor the heart activity. For a detailed\nevaluation of the heart's function, multiple\nleads are attached to the chest region. Here,\nwe will talk only about a standard ECG.",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.1341,
+            "x_max": 0.4688,
+            "y_max": 0.2472,
+            "width": 0.3975,
+            "height": 0.1131
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "R",
+          "bbox": {
+            "x_min": 0.6229,
+            "y_min": 0.1452,
+            "x_max": 0.6404,
+            "y_max": 0.153,
+            "width": 0.0175,
+            "height": 0.0077
+          },
+          "confidence": 0.9733
+        },
+        {
+          "text": "T",
+          "bbox": {
+            "x_min": 0.7536,
+            "y_min": 0.2082,
+            "x_max": 0.7712,
+            "y_max": 0.2164,
+            "width": 0.0175,
+            "height": 0.0081
+          },
+          "confidence": 0.9297
+        },
+        {
+          "text": "P",
+          "bbox": {
+            "x_min": 0.5155,
+            "y_min": 0.2147,
+            "x_max": 0.5306,
+            "y_max": 0.2224,
+            "width": 0.0152,
+            "height": 0.0077
+          },
+          "confidence": 0.9551
+        },
+        {
+          "text": "9 S",
+          "bbox": {
+            "x_min": 0.6036,
+            "y_min": 0.2177,
+            "x_max": 0.6597,
+            "y_max": 0.2271,
+            "width": 0.056,
+            "height": 0.0094
+          },
+          "confidence": 0.8932
+        },
+        {
+          "text": "201",
+          "bbox": {
+            "x_min": 0.8453,
+            "y_min": 0.084,
+            "x_max": 0.8827,
+            "y_max": 0.093,
+            "width": 0.0374,
+            "height": 0.009
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "Each peak in the ECG is identified with a\nletter from P to T that corresponds to a specific Figure 15.3 Diagrammatic presentation of a\nelectrical activity of the heart.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.2506,
+            "x_max": 0.8634,
+            "y_max": 0.2969,
+            "width": 0.791,
+            "height": 0.0463
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "The P-wave represents the electrical",
+          "bbox": {
+            "x_min": 0.1033,
+            "y_min": 0.2999,
+            "x_max": 0.4688,
+            "y_max": 0.3132,
+            "width": 0.3654,
+            "height": 0.0133
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "excitation (or depolarisation) of the atria,\nwhich leads to the contraction of both the atria.",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.3171,
+            "x_max": 0.4676,
+            "y_max": 0.3436,
+            "width": 0.3964,
+            "height": 0.0266
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "standard ECG",
+          "bbox": {
+            "x_min": 0.6048,
+            "y_min": 0.2862,
+            "x_max": 0.7227,
+            "y_max": 0.2952,
+            "width": 0.1179,
+            "height": 0.009
+          },
+          "confidence": 0.9832
+        },
+        {
+          "text": "The QRS complex represents the depolarisation of the ventricles,\nwhich initiates the ventricular contraction. The contraction starts shortly\nafter",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.3518,
+            "x_max": 0.6976,
+            "y_max": 0.3985,
+            "width": 0.6258,
+            "height": 0.0467
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "and marks the beginning of the systole.",
+          "bbox": {
+            "x_min": 0.1378,
+            "y_min": 0.3856,
+            "x_max": 0.4787,
+            "y_max": 0.3985,
+            "width": 0.3409,
+            "height": 0.0129
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "ished",
+          "bbox": {
+            "x_min": 0.6643,
+            "y_min": 0.3059,
+            "x_max": 0.8698,
+            "y_max": 0.4606,
+            "width": 0.2055,
+            "height": 0.1547
+          },
+          "confidence": 0.8521
+        },
+        {
+          "text": "The T-wave represents the return of the ventricles from excited to normal\nstate (repolarisation). The end of the T-wave marks the end of systole.",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.4015,
+            "x_max": 0.697,
+            "y_max": 0.4319,
+            "width": 0.6235,
+            "height": 0.0304
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "Obviously, by counting the number of QRS complexes that occur in a\ngiven time period, one can determine the heart beat rate of an individual.\nSince the ECGs obtained from different individuals have roughly the same\nshape for a given lead configuration, any deviation from this shape indicates\nclinical significance.",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.4344,
+            "x_max": 0.6976,
+            "y_max": 0.5141,
+            "width": 0.6264,
+            "height": 0.0797
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "a possible abnormality or disease. Hence, it is of a great of a grea",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.4966,
+            "x_max": 0.5271,
+            "y_max": 0.5236,
+            "width": 0.4536,
+            "height": 0.027
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "15.4 DOUBLE CIRCULATION",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.536,
+            "x_max": 0.3549,
+            "y_max": 0.5493,
+            "width": 0.2808,
+            "height": 0.0133
+          },
+          "confidence": 0.9818
+        },
+        {
+          "text": "cal sign",
+          "bbox": {
+            "x_min": 0.5668,
+            "y_min": 0.4944,
+            "x_max": 0.6287,
+            "y_max": 0.5274,
+            "width": 0.0619,
+            "height": 0.033
+          },
+          "confidence": 0.7856
+        },
+        {
+          "text": "The blood flows strictly by a fixed route through Blood Vessels—the\narteries and veins. Basically, each artery and vein consists of three layers:\nan inner lining of squamous endothelium, the tunica intima, a middle\nlayer of smooth muscle and elastic fibres, the tunica media, and an\nexternal layer of fibrous connective tissue with collagen fibres, the tunica\nexterna. The tunica media is comparatively thin in the veins (Figure\n15.4).",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.5647,
+            "x_max": 0.6976,
+            "y_max": 0.6765,
+            "width": 0.6252,
+            "height": 0.1118
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "As mentioned earlier, the blood pumped by the right ventricle enters\nthe pulmonary artery, whereas the left ventricle pumps blood into the\naorta. The deoxygenated blood pumped into the pulmonary artery is\npassed on to the lungs from where the oxygenated blood is carried by\nthe pulmonary veins into the left atrium. This pathway constitutes the\npulmonary circulation. The oxygenated blood entering the aorta is\ncarried by a network of arteries, arterioles and capillaries to the tissues\nfrom where the deoxygenated blood is collected by a system of venules,\nveins and vena cava and emptied into the right atrium. This is the\nsystemic circulation (Figure 15.4). The systemic circulation provides\nnutrients, O, and other essential substances to the tissues and takes\nCO₂ and other harmful substances away for elimination. A unique\nvascular connection exists between the digestive tract and liver called",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.6795,
+            "x_max": 0.697,
+            "y_max": 0.892,
+            "width": 0.6252,
+            "height": 0.2125
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.1827,
+            "y_min": 0.856,
+            "x_max": 0.1921,
+            "y_max": 0.8608,
+            "width": 0.0093,
+            "height": 0.0047
+          },
+          "confidence": 0.9739
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "202",
+          "bbox": {
+            "x_min": 0.1179,
+            "y_min": 0.0835,
+            "x_max": 0.157,
+            "y_max": 0.0925,
+            "width": 0.0391,
+            "height": 0.009
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0689,
+            "height": 0.0094
+          },
+          "confidence": 0.9796
+        },
+        {
+          "text": "hepatic portal system. The hepatic portal vein carries blood from intestine\nto the liver before it is delivered to the systemic circulation. A special\ncoronary system of blood vessels is present in our body exclusively for\nthe circulation of blood to and from the cardiac musculature.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.135,
+            "x_max": 0.9264,
+            "y_max": 0.1958,
+            "width": 0.6246,
+            "height": 0.0608
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "Lungs",
+          "bbox": {
+            "x_min": 0.5236,
+            "y_min": 0.2266,
+            "x_max": 0.5686,
+            "y_max": 0.2361,
+            "width": 0.045,
+            "height": 0.0094
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "Pulmonary artery",
+          "bbox": {
+            "x_min": 0.3561,
+            "y_min": 0.2515,
+            "x_max": 0.4752,
+            "y_max": 0.2609,
+            "width": 0.1191,
+            "height": 0.0094
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "Pulmonary Vein",
+          "bbox": {
+            "x_min": 0.6346,
+            "y_min": 0.2716,
+            "x_max": 0.7414,
+            "y_max": 0.2819,
+            "width": 0.1068,
+            "height": 0.0103
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "RA\nRV",
+          "bbox": {
+            "x_min": 0.4945,
+            "y_min": 0.3265,
+            "x_max": 0.5213,
+            "y_max": 0.347,
+            "width": 0.0269,
+            "height": 0.0206
+          },
+          "confidence": 0.9853
+        },
+        {
+          "text": "LA",
+          "bbox": {
+            "x_min": 0.5657,
+            "y_min": 0.3256,
+            "x_max": 0.5855,
+            "y_max": 0.3329,
+            "width": 0.0198,
+            "height": 0.0073
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "LV",
+          "bbox": {
+            "x_min": 0.5598,
+            "y_min": 0.3406,
+            "x_max": 0.5785,
+            "y_max": 0.347,
+            "width": 0.0187,
+            "height": 0.0064
+          },
+          "confidence": 0.9816
+        },
+        {
+          "text": "Dorsal aorta",
+          "bbox": {
+            "x_min": 0.6544,
+            "y_min": 0.3393,
+            "x_max": 0.7385,
+            "y_max": 0.3462,
+            "width": 0.0841,
+            "height": 0.0069
+          },
+          "confidence": 0.9842
+        },
+        {
+          "text": "Vena cava\n(great veins)",
+          "bbox": {
+            "x_min": 0.331,
+            "y_min": 0.3436,
+            "x_max": 0.4127,
+            "y_max": 0.3646,
+            "width": 0.0817,
+            "height": 0.021
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "↑",
+          "bbox": {
+            "x_min": 0.4466,
+            "y_min": 0.3616,
+            "x_max": 0.4559,
+            "y_max": 0.3766,
+            "width": 0.0093,
+            "height": 0.015
+          },
+          "confidence": 0.9503
+        },
+        {
+          "text": "Heart",
+          "bbox": {
+            "x_min": 0.5161,
+            "y_min": 0.362,
+            "x_max": 0.5552,
+            "y_max": 0.3685,
+            "width": 0.0391,
+            "height": 0.0064
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "Smooth muscle",
+          "bbox": {
+            "x_min": 0.2364,
+            "y_min": 0.4212,
+            "x_max": 0.3403,
+            "y_max": 0.4284,
+            "width": 0.1039,
+            "height": 0.0073
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "Lumen",
+          "bbox": {
+            "x_min": 0.3082,
+            "y_min": 0.4447,
+            "x_max": 0.3561,
+            "y_max": 0.452,
+            "width": 0.0479,
+            "height": 0.0073
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "Vein",
+          "bbox": {
+            "x_min": 0.3835,
+            "y_min": 0.4559,
+            "x_max": 0.4168,
+            "y_max": 0.4632,
+            "width": 0.0333,
+            "height": 0.0073
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "Body parts",
+          "bbox": {
+            "x_min": 0.5009,
+            "y_min": 0.467,
+            "x_max": 0.5756,
+            "y_max": 0.4756,
+            "width": 0.0747,
+            "height": 0.0086
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "Capillary",
+          "bbox": {
+            "x_min": 0.4495,
+            "y_min": 0.4863,
+            "x_max": 0.5131,
+            "y_max": 0.4953,
+            "width": 0.0636,
+            "height": 0.009
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "Pshed",
+          "bbox": {
+            "x_min": 0.6486,
+            "y_min": 0.3072,
+            "x_max": 0.871,
+            "y_max": 0.467,
+            "width": 0.2224,
+            "height": 0.1598
+          },
+          "confidence": 0.849
+        },
+        {
+          "text": "Smooth muscle",
+          "bbox": {
+            "x_min": 0.7046,
+            "y_min": 0.4687,
+            "x_max": 0.8079,
+            "y_max": 0.4764,
+            "width": 0.1033,
+            "height": 0.0077
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "Figure 15.4 Schematic plan of blood circulation in human",
+          "bbox": {
+            "x_min": 0.237,
+            "y_min": 0.5249,
+            "x_max": 0.7315,
+            "y_max": 0.5377,
+            "width": 0.4945,
+            "height": 0.0129
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "15.5 REGULATION OF CARDIAC ACTIVITY",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.5694,
+            "x_max": 0.7075,
+            "y_max": 0.5823,
+            "width": 0.4034,
+            "height": 0.0129
+          },
+          "confidence": 0.9803
+        },
+        {
+          "text": "Normal activities of the heart are regulated intrinsically, i.e., auto regulated\nby specialised muscles (nodal tissue), hence the heart is called myogenic.\nA special neural centre in the medulla oblangata can moderate the cardiac\nfunction through autonomic nervous system (ANS). Neural signals through\nthe sympathetic nerves (part of ANS) can increase the rate of heart beat,\nthe strength of ventricular contraction and thereby the cardiac output.\nOn the other hand, parasympathetic neural signals (another component\nof ANS) decrease the rate of heart beat, speed of conduction of action\npotential and thereby the cardiac output. Adrenal medullary hormones\ncan also increase the cardiac output.",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.5998,
+            "x_max": 0.927,
+            "y_max": 0.7618,
+            "width": 0.6264,
+            "height": 0.162
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1909,
+            "y_min": 0.7091,
+            "x_max": 0.3252,
+            "y_max": 0.8145,
+            "width": 0.1343,
+            "height": 0.1054
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "15.6",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.7858,
+            "x_max": 0.3526,
+            "y_max": 0.7991,
+            "width": 0.049,
+            "height": 0.0133
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "DISORDERS OF CIRCULATORY SYSTEM",
+          "bbox": {
+            "x_min": 0.3754,
+            "y_min": 0.7853,
+            "x_max": 0.7297,
+            "y_max": 0.7995,
+            "width": 0.3543,
+            "height": 0.0141
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "High Blood Pressure (Hypertension): Hypertension is the term for\nblood pressure that is higher than normal (120/80). In this measurement\n120 mm Hg (millimetres of mercury pressure) is the systolic, or pumping,\npressure and 80 mm Hg is the diastolic, or resting, pressure. If repeated\nchecks of blood pressure of an individual is 140/90 (140 over 90) or",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.8149,
+            "x_max": 0.927,
+            "y_max": 0.8942,
+            "width": 0.6258,
+            "height": 0.0793
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BODY FLUIDS AND CIRCULATION",
+          "bbox": {
+            "x_min": 0.1133,
+            "y_min": 0.0827,
+            "x_max": 0.3549,
+            "y_max": 0.0925,
+            "width": 0.2417,
+            "height": 0.0099
+          },
+          "confidence": 0.9798
+        },
+        {
+          "text": "higher, it shows hypertension. High blood pressure leads to heart diseases\nand also affects vital organs like brain and kidney.",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.135,
+            "x_max": 0.6964,
+            "y_max": 0.1645,
+            "width": 0.6229,
+            "height": 0.0296
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "Coronary Artery Disease (CAD): Coronary Artery Disease, often referred\nto as atherosclerosis, affects the vessels that supply blood to the heart\nmuscle. It is caused by deposits of calcium, fat, cholesterol and fibrous\ntissues, which makes the lumen of arteries narrower.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.1752,
+            "x_max": 0.6976,
+            "y_max": 0.2365,
+            "width": 0.6246,
+            "height": 0.0613
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "Angina: It is also called ‘angina pectoris'. A symptom of acute chest pain\nappears when no enough oxygen is reaching the heart muscle. Angina\ncan occur in men and women of any age but it is more common among\nthe middle-aged and elderly. It occurs due to conditions that affect the\nblood flow.",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.2494,
+            "x_max": 0.6976,
+            "y_max": 0.3256,
+            "width": 0.627,
+            "height": 0.0763
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "Heart Failure: Heart failure means the state of heart when it is not pumping\nblood effectively enough to meet the needs of the body. It is sometimes\ncalled congestive heart failure because congestion of the lungs is one of\nthe main symptoms of this disease. Heart failure is not the same as cardiac\narrest (when the heart stops beating) or a heart attack (when the heart\nmuscle is suddenly damaged by an inadequate blood supply).",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.3402,
+            "x_max": 0.6988,
+            "y_max": 0.4357,
+            "width": 0.627,
+            "height": 0.0955
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "blished",
+          "bbox": {
+            "x_min": 0.6048,
+            "y_min": 0.3046,
+            "x_max": 0.885,
+            "y_max": 0.4923,
+            "width": 0.2802,
+            "height": 0.1877
+          },
+          "confidence": 0.8399
+        },
+        {
+          "text": "Vertebrates circulate blood, a fluid connective tissue, in their body, to transport essential\nsubstances to the cells and to carry waste substances from there. Another fluid, lymph\n(tissue fluid) is also used for the transport of certain substances.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.4974,
+            "x_max": 0.8348,
+            "y_max": 0.5441,
+            "width": 0.763,
+            "height": 0.0467
+          },
+          "confidence": 0.997
+        },
+        {
+          "text": "Blood comprises of a fluid matrix, plasma and formed elements. Red blood cells (RBCs,\nerythrocytes), white blood cells (WBCs, leucocytes) and platelets (thrombocytes) constitute\nthe formed elements. Blood of humans are grouped into A, B, AB and O systems based\non the presence or absence of two surface antigens, A, B on the RBCs. Another blood\ngrouping is also done based on the presence or absence of another antigen called Rhesus\nfactor (Rh) on the surface of RBCs. The spaces between cells in the tissues contain a fluid\nderived from blood called tissue fluid. This fluid called lymph is almost similar to blood\nexcept for the protein content and the formed elements.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.5484,
+            "x_max": 0.8336,
+            "y_max": 0.6765,
+            "width": 0.7607,
+            "height": 0.1281
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "All vertebrates and a few invertebrates have a closed circulatory system. Our circulatory\nsystem consists of a muscular pumping organ, heart, a network of vessels and a fluid, blood.\nHeart has two atria and two ventricles. Cardiac musculature is auto-excitable. Sino-atrial node\n(SAN) generates the maximum number of action protentials per minute (70-75/min) and\ntherefore, it sets the pace of the activities of the heart. Hence it is called the Pacemaker. The\naction potential causes the atria and then the ventricles to undergo contraction (systole) followed\nby their relaxation (diastole). The systole forces the blood to move from the atria to the ventricles\nand to the pulmonary artery and the aorta. The cardiac cycle is formed by sequential events in\nthe heart which is cyclically repeated and is called the cardiac cycle. A healthy person shows 72\nsuch cycles per minute. About 70 mL of blood is pumped out by each ventricle during a\ncardiac cycle and it is called the stroke or beat volume. Volume of blood pumped out by each\nventricle of heart per minute is called the cardiac output and it is equal to the product of stroke\nvolume and heart rate (approx 5 litres). The electrical activity of the heart can be recorded from",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.6804,
+            "x_max": 0.8348,
+            "y_max": 0.8925,
+            "width": 0.7636,
+            "height": 0.2121
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "203",
+          "bbox": {
+            "x_min": 0.8453,
+            "y_min": 0.084,
+            "x_max": 0.885,
+            "y_max": 0.093,
+            "width": 0.0397,
+            "height": 0.009
+          },
+          "confidence": 0.9955
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "204",
+          "bbox": {
+            "x_min": 0.1173,
+            "y_min": 0.0835,
+            "x_max": 0.1588,
+            "y_max": 0.0925,
+            "width": 0.0414,
+            "height": 0.009
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0683,
+            "height": 0.0094
+          },
+          "confidence": 0.9759
+        },
+        {
+          "text": "the body surface by using electrocardiograph and the recording is called\nelectrocardiogram (ECG) which is of clinical importance.",
+          "bbox": {
+            "x_min": 0.1664,
+            "y_min": 0.135,
+            "x_max": 0.864,
+            "y_max": 0.1645,
+            "width": 0.6976,
+            "height": 0.0296
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "We have a complete double circulation, i.e., two circulatory pathways, namely,\npulmonary and systemic are present. The pulmonary circulation starts by the\npumping of deoxygenated blood by the right ventricle which is carried to the lungs\nwhere it is oxygenated and returned to the left atrium. The systemic circulation\nstarts with the pumping of oxygenated blood by the left ventricle to the aorta\nwhich is carried to all the body tissues and the deoxygenated blood from there is\ncollected by the veins and returned to the right atrium. Though the heart is\nautoexcitable, its functions can be moderated by neural and hormonal mechanisms.",
+          "bbox": {
+            "x_min": 0.1658,
+            "y_min": 0.1795,
+            "x_max": 0.864,
+            "y_max": 0.3089,
+            "width": 0.6982,
+            "height": 0.1294
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "EXERCISES",
+          "bbox": {
+            "x_min": 0.4618,
+            "y_min": 0.3231,
+            "x_max": 0.5657,
+            "y_max": 0.3346,
+            "width": 0.1039,
+            "height": 0.0116
+          },
+          "confidence": 0.9778
+        },
+        {
+          "text": "1. Name the components of the formed elements in the blood and mention one\nmajor function of each of them.",
+          "bbox": {
+            "x_min": 0.1769,
+            "y_min": 0.3526,
+            "x_max": 0.864,
+            "y_max": 0.3826,
+            "width": 0.6871,
+            "height": 0.03
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "2. What is the importance of plasma proteins?",
+          "bbox": {
+            "x_min": 0.1757,
+            "y_min": 0.3865,
+            "x_max": 0.5744,
+            "y_max": 0.3989,
+            "width": 0.3987,
+            "height": 0.0124
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "3. Match Column I with Column II :",
+          "bbox": {
+            "x_min": 0.1751,
+            "y_min": 0.4023,
+            "x_max": 0.4804,
+            "y_max": 0.413,
+            "width": 0.3053,
+            "height": 0.0107
+          },
+          "confidence": 0.9795
+        },
+        {
+          "text": "Column I",
+          "bbox": {
+            "x_min": 0.2061,
+            "y_min": 0.4186,
+            "x_max": 0.2884,
+            "y_max": 0.4289,
+            "width": 0.0823,
+            "height": 0.0103
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "(a) Eosinophils",
+          "bbox": {
+            "x_min": 0.2084,
+            "y_min": 0.4357,
+            "x_max": 0.3316,
+            "y_max": 0.4486,
+            "width": 0.1232,
+            "height": 0.0129
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "(b) RBC",
+          "bbox": {
+            "x_min": 0.2084,
+            "y_min": 0.452,
+            "x_max": 0.2703,
+            "y_max": 0.4632,
+            "width": 0.0619,
+            "height": 0.0111
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "(c) AB Group",
+          "bbox": {
+            "x_min": 0.2084,
+            "y_min": 0.4687,
+            "x_max": 0.3141,
+            "y_max": 0.4811,
+            "width": 0.1057,
+            "height": 0.0124
+          },
+          "confidence": 0.976
+        },
+        {
+          "text": "(d) Platelets",
+          "bbox": {
+            "x_min": 0.2072,
+            "y_min": 0.4854,
+            "x_max": 0.3047,
+            "y_max": 0.4974,
+            "width": 0.0975,
+            "height": 0.012
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "(e) Systole",
+          "bbox": {
+            "x_min": 0.2061,
+            "y_min": 0.5026,
+            "x_max": 0.2925,
+            "y_max": 0.515,
+            "width": 0.0864,
+            "height": 0.0124
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "Column II",
+          "bbox": {
+            "x_min": 0.3894,
+            "y_min": 0.419,
+            "x_max": 0.4775,
+            "y_max": 0.4289,
+            "width": 0.0881,
+            "height": 0.0099
+          },
+          "confidence": 0.981
+        },
+        {
+          "text": "(i) Coagulation",
+          "bbox": {
+            "x_min": 0.4022,
+            "y_min": 0.4362,
+            "x_max": 0.5283,
+            "y_max": 0.4486,
+            "width": 0.1261,
+            "height": 0.0124
+          },
+          "confidence": 0.9853
+        },
+        {
+          "text": "rublished",
+          "bbox": {
+            "x_min": 0.4769,
+            "y_min": 0.3042,
+            "x_max": 0.8838,
+            "y_max": 0.5981,
+            "width": 0.4069,
+            "height": 0.2939
+          },
+          "confidence": 0.9232
+        },
+        {
+          "text": "(ii) Universal Recipient",
+          "bbox": {
+            "x_min": 0.3964,
+            "y_min": 0.4524,
+            "x_max": 0.5914,
+            "y_max": 0.4653,
+            "width": 0.195,
+            "height": 0.0129
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "(iii) Resist Infections",
+          "bbox": {
+            "x_min": 0.3911,
+            "y_min": 0.4687,
+            "x_max": 0.5633,
+            "y_max": 0.4803,
+            "width": 0.1722,
+            "height": 0.0116
+          },
+          "confidence": 0.9864
+        },
+        {
+          "text": "(iv) Contraction of Heart",
+          "bbox": {
+            "x_min": 0.3929,
+            "y_min": 0.485,
+            "x_max": 0.5978,
+            "y_max": 0.497,
+            "width": 0.2049,
+            "height": 0.012
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "(v) Gas transport",
+          "bbox": {
+            "x_min": 0.3975,
+            "y_min": 0.5026,
+            "x_max": 0.5435,
+            "y_max": 0.5146,
+            "width": 0.1459,
+            "height": 0.012
+          },
+          "confidence": 0.9854
+        },
+        {
+          "text": "4. Why do we consider blood as a connective tissue?",
+          "bbox": {
+            "x_min": 0.174,
+            "y_min": 0.5176,
+            "x_max": 0.6241,
+            "y_max": 0.53,
+            "width": 0.4501,
+            "height": 0.0124
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "5. What is the difference between lymph and blood?",
+          "bbox": {
+            "x_min": 0.1763,
+            "y_min": 0.5334,
+            "x_max": 0.62,
+            "y_max": 0.5458,
+            "width": 0.4437,
+            "height": 0.0124
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "6.",
+          "bbox": {
+            "x_min": 0.1751,
+            "y_min": 0.5488,
+            "x_max": 0.1891,
+            "y_max": 0.5617,
+            "width": 0.014,
+            "height": 0.0129
+          },
+          "confidence": 0.9671
+        },
+        {
+          "text": "What is meant by double circulation? What is its significance?",
+          "bbox": {
+            "x_min": 0.2072,
+            "y_min": 0.5488,
+            "x_max": 0.732,
+            "y_max": 0.5617,
+            "width": 0.5248,
+            "height": 0.0129
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "7. Write the differences between :",
+          "bbox": {
+            "x_min": 0.1757,
+            "y_min": 0.5638,
+            "x_max": 0.4635,
+            "y_max": 0.5737,
+            "width": 0.2878,
+            "height": 0.0099
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "(a) Blood and Lymph",
+          "bbox": {
+            "x_min": 0.2084,
+            "y_min": 0.5788,
+            "x_max": 0.3818,
+            "y_max": 0.5917,
+            "width": 0.1734,
+            "height": 0.0129
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "(b) Open and Closed system of circulation",
+          "bbox": {
+            "x_min": 0.2084,
+            "y_min": 0.5947,
+            "x_max": 0.5569,
+            "y_max": 0.6071,
+            "width": 0.3485,
+            "height": 0.0124
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "(c) Systole and Diastole",
+          "bbox": {
+            "x_min": 0.2084,
+            "y_min": 0.6097,
+            "x_max": 0.4034,
+            "y_max": 0.6217,
+            "width": 0.195,
+            "height": 0.012
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "(d) P-wave and T-wave",
+          "bbox": {
+            "x_min": 0.2078,
+            "y_min": 0.6247,
+            "x_max": 0.3952,
+            "y_max": 0.6367,
+            "width": 0.1874,
+            "height": 0.012
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "8. Describe the evolutionary change in the pattern of heart among the vertebrates.",
+          "bbox": {
+            "x_min": 0.1751,
+            "y_min": 0.6401,
+            "x_max": 0.8622,
+            "y_max": 0.653,
+            "width": 0.6871,
+            "height": 0.0129
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "9. Why do we call our heart myogenic?",
+          "bbox": {
+            "x_min": 0.1757,
+            "y_min": 0.6547,
+            "x_max": 0.509,
+            "y_max": 0.668,
+            "width": 0.3333,
+            "height": 0.0133
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "10. Sino-atrial node is called the pacemaker of our heart. Why?",
+          "bbox": {
+            "x_min": 0.1687,
+            "y_min": 0.6705,
+            "x_max": 0.7081,
+            "y_max": 0.6829,
+            "width": 0.5394,
+            "height": 0.0124
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "11. What is the significance of atrio-ventricular node and atrio-ventricular bundle",
+          "bbox": {
+            "x_min": 0.1693,
+            "y_min": 0.6864,
+            "x_max": 0.8634,
+            "y_max": 0.6988,
+            "width": 0.6941,
+            "height": 0.0124
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "in the functioning of heart?",
+          "bbox": {
+            "x_min": 0.2084,
+            "y_min": 0.7014,
+            "x_max": 0.4396,
+            "y_max": 0.7134,
+            "width": 0.2312,
+            "height": 0.012
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "12. Define a cardiac cycle and the cardiac output.",
+          "bbox": {
+            "x_min": 0.1681,
+            "y_min": 0.7168,
+            "x_max": 0.5954,
+            "y_max": 0.7288,
+            "width": 0.4273,
+            "height": 0.012
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "13. Explain heart sounds.",
+          "bbox": {
+            "x_min": 0.1681,
+            "y_min": 0.7322,
+            "x_max": 0.3929,
+            "y_max": 0.7442,
+            "width": 0.2248,
+            "height": 0.012
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "14. Draw a standard ECG and explain the different segments in it.",
+          "bbox": {
+            "x_min": 0.1687,
+            "y_min": 0.7481,
+            "x_max": 0.7326,
+            "y_max": 0.7601,
+            "width": 0.5639,
+            "height": 0.012
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

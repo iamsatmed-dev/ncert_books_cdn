@@ -1,0 +1,3100 @@
+{
+  "chapter_id": "11th_biology_ch19_chemical_coordination_and_integration_ch19_chemical_coordination_and_integration_en",
+  "total_pages": 14,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "11080CH22",
+          "bbox": {
+            "x_min": 0.121,
+            "y_min": 0.2119,
+            "x_max": 0.1677,
+            "y_max": 0.2162,
+            "width": 0.0468,
+            "height": 0.0043
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "19.1 Endocrine\nGlands and\nHormones",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.4987,
+            "x_max": 0.2133,
+            "y_max": 0.5437,
+            "width": 0.1432,
+            "height": 0.0449
+          },
+          "confidence": 0.9842
+        },
+        {
+          "text": "19.2 Human",
+          "bbox": {
+            "x_min": 0.0707,
+            "y_min": 0.5604,
+            "x_max": 0.1806,
+            "y_max": 0.5698,
+            "width": 0.1099,
+            "height": 0.0094
+          },
+          "confidence": 0.9325
+        },
+        {
+          "text": "Endocrine\nSystem",
+          "bbox": {
+            "x_min": 0.1146,
+            "y_min": 0.5788,
+            "x_max": 0.1987,
+            "y_max": 0.6087,
+            "width": 0.0842,
+            "height": 0.03
+          },
+          "confidence": 0.9864
+        },
+        {
+          "text": "19.3 Hormones of\nHeart, Kidney\nand",
+          "bbox": {
+            "x_min": 0.0719,
+            "y_min": 0.6216,
+            "x_max": 0.2303,
+            "y_max": 0.667,
+            "width": 0.1584,
+            "height": 0.0454
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "Gastrointestinal",
+          "bbox": {
+            "x_min": 0.1157,
+            "y_min": 0.6755,
+            "x_max": 0.2466,
+            "y_max": 0.6845,
+            "width": 0.1309,
+            "height": 0.009
+          },
+          "confidence": 0.9782
+        },
+        {
+          "text": "Tract",
+          "bbox": {
+            "x_min": 0.1146,
+            "y_min": 0.6939,
+            "x_max": 0.1636,
+            "y_max": 0.7025,
+            "width": 0.0491,
+            "height": 0.0086
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "19.4 Mechanism of\nHormone Action",
+          "bbox": {
+            "x_min": 0.0707,
+            "y_min": 0.7188,
+            "x_max": 0.2437,
+            "y_max": 0.7491,
+            "width": 0.173,
+            "height": 0.0304
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "no",
+          "bbox": {
+            "x_min": 0.1935,
+            "y_min": 0.7521,
+            "x_max": 0.28,
+            "y_max": 0.8121,
+            "width": 0.0865,
+            "height": 0.0599
+          },
+          "confidence": 0.58
+        },
+        {
+          "text": "CHAPTER 19",
+          "bbox": {
+            "x_min": 0.3016,
+            "y_min": 0.3193,
+            "x_max": 0.5196,
+            "y_max": 0.3489,
+            "width": 0.218,
+            "height": 0.0295
+          },
+          "confidence": 0.9647
+        },
+        {
+          "text": "CHEMICAL COORDINATION",
+          "bbox": {
+            "x_min": 0.3086,
+            "y_min": 0.3724,
+            "x_max": 0.73,
+            "y_max": 0.4003,
+            "width": 0.4214,
+            "height": 0.0278
+          },
+          "confidence": 0.9543
+        },
+        {
+          "text": "AND INTEGRATION\nTEGRATION",
+          "bbox": {
+            "x_min": 0.3045,
+            "y_min": 0.4101,
+            "x_max": 0.5956,
+            "y_max": 0.4679,
+            "width": 0.2911,
+            "height": 0.0578
+          },
+          "confidence": 0.9595
+        },
+        {
+          "text": "blished",
+          "bbox": {
+            "x_min": 0.6125,
+            "y_min": 0.3044,
+            "x_max": 0.872,
+            "y_max": 0.4987,
+            "width": 0.2595,
+            "height": 0.1943
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "You have already learnt that the neural system provides a\npoint-to-point rapid coordination among organs. The neural\ncoordination is fast but short-lived. As the nerve fibres do not innervate\nall cells of the body and the cellular functions need to be continuously\nregulated; a special kind of coordination and integration has to be\nprovided. This function is carried out by hormones. The neural system\nand the endocrine system jointly coordinate and regulate the\nphysiological functions in the body.",
+          "bbox": {
+            "x_min": 0.2671,
+            "y_min": 0.4983,
+            "x_max": 0.8983,
+            "y_max": 0.637,
+            "width": 0.6312,
+            "height": 0.1387
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "19.1 ENDOCRIN",
+          "bbox": {
+            "x_min": 0.2729,
+            "y_min": 0.652,
+            "x_max": 0.436,
+            "y_max": 0.6931,
+            "width": 0.1631,
+            "height": 0.0411
+          },
+          "confidence": 0.9102
+        },
+        {
+          "text": "19.1 ENDOCRINE GLANDS AND HORMONES",
+          "bbox": {
+            "x_min": 0.2706,
+            "y_min": 0.6644,
+            "x_max": 0.6926,
+            "y_max": 0.6768,
+            "width": 0.422,
+            "height": 0.0124
+          },
+          "confidence": 0.9736
+        },
+        {
+          "text": "Endocrine glands lack ducts and are hence, called ductless glands. Their\nsecretions are called hormones. The classical definition of hormone as a\nchemical produced by endocrine glands and released into the blood and\ntransported to a distantly located target organ has current scientific\ndefinition as follows: Hormones are non-nutrient chemicals which\nact as intercellular messengers and are produced in trace amounts.\nThe new definition covers a number of new molecules in addition to the\nhormones secreted by the organised endocrine glands. Invertebrates\npossess very simple endocrine systems with few hormones whereas a large\nnumber of chemicals act as hormones and provide coordination in the\nvertebrates. The human endocrine system is described here.",
+          "bbox": {
+            "x_min": 0.2671,
+            "y_min": 0.7008,
+            "x_max": 0.8977,
+            "y_max": 0.8926,
+            "width": 0.6306,
+            "height": 0.1918
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9812
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "240",
+          "bbox": {
+            "x_min": 0.1146,
+            "y_min": 0.0813,
+            "x_max": 0.156,
+            "y_max": 0.0908,
+            "width": 0.0415,
+            "height": 0.0094
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8591,
+            "y_min": 0.0818,
+            "x_max": 0.9293,
+            "y_max": 0.0912,
+            "width": 0.0701,
+            "height": 0.0094
+          },
+          "confidence": 0.9752
+        },
+        {
+          "text": "Hypothalamus",
+          "bbox": {
+            "x_min": 0.1005,
+            "y_min": 0.1798,
+            "x_max": 0.2157,
+            "y_max": 0.1909,
+            "width": 0.1151,
+            "height": 0.0111
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "Pituitary",
+          "bbox": {
+            "x_min": 0.1356,
+            "y_min": 0.2076,
+            "x_max": 0.2051,
+            "y_max": 0.2175,
+            "width": 0.0695,
+            "height": 0.0098
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "Ovary\n(in female)",
+          "bbox": {
+            "x_min": 0.1233,
+            "y_min": 0.4752,
+            "x_max": 0.2051,
+            "y_max": 0.4987,
+            "width": 0.0818,
+            "height": 0.0235
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "Pineal",
+          "bbox": {
+            "x_min": 0.3951,
+            "y_min": 0.1832,
+            "x_max": 0.4465,
+            "y_max": 0.1909,
+            "width": 0.0514,
+            "height": 0.0077
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "Thyroid and\nParathyroid",
+          "bbox": {
+            "x_min": 0.4179,
+            "y_min": 0.2414,
+            "x_max": 0.5132,
+            "y_max": 0.2654,
+            "width": 0.0953,
+            "height": 0.024
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "Thymus",
+          "bbox": {
+            "x_min": 0.457,
+            "y_min": 0.3018,
+            "x_max": 0.5207,
+            "y_max": 0.3121,
+            "width": 0.0637,
+            "height": 0.0103
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "Pancreas",
+          "bbox": {
+            "x_min": 0.4752,
+            "y_min": 0.3664,
+            "x_max": 0.5459,
+            "y_max": 0.3741,
+            "width": 0.0707,
+            "height": 0.0077
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "Figure 19.1 Location of endocrine glands",
+          "bbox": {
+            "x_min": 0.1455,
+            "y_min": 0.5732,
+            "x_max": 0.498,
+            "y_max": 0.5865,
+            "width": 0.3524,
+            "height": 0.0133
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "Adrenal",
+          "bbox": {
+            "x_min": 0.4775,
+            "y_min": 0.3878,
+            "x_max": 0.5418,
+            "y_max": 0.3964,
+            "width": 0.0643,
+            "height": 0.0086
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "19.2 HUMAN ENDOCRINE SYSTEM",
+          "bbox": {
+            "x_min": 0.5704,
+            "y_min": 0.1327,
+            "x_max": 0.9129,
+            "y_max": 0.1455,
+            "width": 0.3425,
+            "height": 0.0128
+          },
+          "confidence": 0.9804
+        },
+        {
+          "text": "The endocrine glands and hormone\nproducing diffused tissues/cells located in\ndifferent parts of our body constitute the\nendocrine system. Pituitary, pineal,\nthyroid, adrenal, pancreas, parathyroid,\nthymus and gonads (testis in males and\novary in females) are the organised\nendocrine bodies in our body\n(Figure 19.1). In addition to these, some\nother organs, e.g., gastrointestinal tract,\nliver, kidney, heart also produce hormones.\nA brief account of the structure and\nfunctions of all major endocrine glands\nand hypothalamus of the human body is\ngiven\ngiven \nin the following sections.",
+          "bbox": {
+            "x_min": 0.5658,
+            "y_min": 0.1682,
+            "x_max": 0.9322,
+            "y_max": 0.4435,
+            "width": 0.3665,
+            "height": 0.2753
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "19.2.1 The Hypothalamus",
+          "bbox": {
+            "x_min": 0.571,
+            "y_min": 0.4623,
+            "x_max": 0.8732,
+            "y_max": 0.4769,
+            "width": 0.3022,
+            "height": 0.0146
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "CNCER",
+          "bbox": {
+            "x_min": 0.2881,
+            "y_min": 0.4199,
+            "x_max": 0.5874,
+            "y_max": 0.6246,
+            "width": 0.2992,
+            "height": 0.2046
+          },
+          "confidence": 0.768
+        },
+        {
+          "text": "not be rel",
+          "bbox": {
+            "x_min": 0.1905,
+            "y_min": 0.4242,
+            "x_max": 0.716,
+            "y_max": 0.8086,
+            "width": 0.5254,
+            "height": 0.3844
+          },
+          "confidence": 0.8201
+        },
+        {
+          "text": "As you know, the hypothalamus is the\nbasal part of diencephalon, forebrain\n(Figure 19.1) and it regulates a wide\nspectrum of body functions. It contains\nseveral groups of neurosecretory cells\ncalled nuclei which produce hormones.\nThese hormones regulate the synthesis\nand secretion of pituitary hormones.\nHowever, the hormones produced by\nhypothalamus are of two types, the",
+          "bbox": {
+            "x_min": 0.5687,
+            "y_min": 0.4902,
+            "x_max": 0.9299,
+            "y_max": 0.6738,
+            "width": 0.3612,
+            "height": 0.1836
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "releasing hormones (which stimulate secretion of pituitary hormones) and\nthe inhibiting hormones (which inhibit secretions of pituitary hormones).\nFor example a hypothalamic hormone called Gonadotrophin releasing\nhormone (GnRH) stimulates the pituitary synthesis and release of\ngonadotrophins. On the other hand, somatostatin from the hypothalamus\ninhibits the release of growth hormone from the pituitary. These hormones\noriginating in the hypothalamic neurons, pass through axons and are\nreleased from their nerve endings. These hormones reach the pituitary\ngland through a portal circulatory system and regulate the functions of\nthe anterior pituitary. The posterior pituitary is under the direct neural\nregulation of the hypothalamus (Figure 19.2).",
+          "bbox": {
+            "x_min": 0.301,
+            "y_min": 0.6789,
+            "x_max": 0.9316,
+            "y_max": 0.8823,
+            "width": 0.6306,
+            "height": 0.2033
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9812
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "CHEMICAL COORDINATION AND INTEGRATION",
+          "bbox": {
+            "x_min": 0.111,
+            "y_min": 0.0801,
+            "x_max": 0.4366,
+            "y_max": 0.0903,
+            "width": 0.3255,
+            "height": 0.0103
+          },
+          "confidence": 0.9845
+        },
+        {
+          "text": "241",
+          "bbox": {
+            "x_min": 0.8457,
+            "y_min": 0.0813,
+            "x_max": 0.8878,
+            "y_max": 0.0908,
+            "width": 0.0421,
+            "height": 0.0094
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "19.2.2 The Pituitary Gland",
+          "bbox": {
+            "x_min": 0.0713,
+            "y_min": 0.1323,
+            "x_max": 0.3828,
+            "y_max": 0.1468,
+            "width": 0.3115,
+            "height": 0.0146
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "The pituitary gland is located in a bony cavity\ncalled sella tursica and is attached to\nhypothalamus by a stalk (Figure 19.2). It is\ndivided anatomically into an adenohypophysis\nand a neurohypophysis. Adenohypophysis\nconsists of two portions, pars distalis and pars\nintermedia. The pars distalis region of pituitary,\ncommonly called anterior pituitary, produces\ngrowth hormone (GH), prolactin (PRL), thyroid\nstimulating",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.1605,
+            "x_max": 0.4892,
+            "y_max": 0.3425,
+            "width": 0.4202,
+            "height": 0.1819
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "hormone",
+          "bbox": {
+            "x_min": 0.2677,
+            "y_min": 0.3292,
+            "x_max": 0.3624,
+            "y_max": 0.3399,
+            "width": 0.0947,
+            "height": 0.0107
+          },
+          "confidence": 0.9752
+        },
+        {
+          "text": "(TSH),\nadrenocorticotrophic hormone (ACTH),\nluteinizing hormone (LH) and follicle\nstimulating hormone (FSH). Pars intermedia\nsecretes only one hormone called melanocyte\nstimulating hormone (MSH). However, in\nhumans, the pars intermedia is almost merged\nwith pars distalis. Neurohypophysis (pars\nnervosa) also known as posterior pituitary, stores\nand releases two hormones called oxytocin and\nvasopressin, which are actually synthesised by",
+          "bbox": {
+            "x_min": 0.0684,
+            "y_min": 0.3301,
+            "x_max": 0.4886,
+            "y_max": 0.5317,
+            "width": 0.4202,
+            "height": 0.2016
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "Hypothalamus",
+          "bbox": {
+            "x_min": 0.6628,
+            "y_min": 0.1323,
+            "x_max": 0.7808,
+            "y_max": 0.1447,
+            "width": 0.1181,
+            "height": 0.0124
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "Hypothalamic",
+          "bbox": {
+            "x_min": 0.7791,
+            "y_min": 0.155,
+            "x_max": 0.8925,
+            "y_max": 0.167,
+            "width": 0.1134,
+            "height": 0.012
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "neurons",
+          "bbox": {
+            "x_min": 0.7797,
+            "y_min": 0.1725,
+            "x_max": 0.8463,
+            "y_max": 0.1789,
+            "width": 0.0666,
+            "height": 0.0064
+          },
+          "confidence": 0.9854
+        },
+        {
+          "text": "DD",
+          "bbox": {
+            "x_min": 0.6721,
+            "y_min": 0.2924,
+            "x_max": 0.6885,
+            "y_max": 0.3001,
+            "width": 0.0164,
+            "height": 0.0077
+          },
+          "confidence": 0.9325
+        },
+        {
+          "text": "Published",
+          "bbox": {
+            "x_min": 0.4915,
+            "y_min": 0.3168,
+            "x_max": 0.8872,
+            "y_max": 0.5706,
+            "width": 0.3957,
+            "height": 0.2539
+          },
+          "confidence": 0.7741
+        },
+        {
+          "text": "Anterior\npituitary",
+          "bbox": {
+            "x_min": 0.5552,
+            "y_min": 0.4409,
+            "x_max": 0.6283,
+            "y_max": 0.4662,
+            "width": 0.0731,
+            "height": 0.0253
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "Figure 19.2 Diagrammatic representation of\npituitary and its relationship with\nhypothalamus",
+          "bbox": {
+            "x_min": 0.5102,
+            "y_min": 0.4756,
+            "x_max": 0.8989,
+            "y_max": 0.518,
+            "width": 0.3887,
+            "height": 0.0424
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "the hypothalamus and are transported axonally to neurohypophysis.",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.5372,
+            "x_max": 0.6774,
+            "y_max": 0.5505,
+            "width": 0.6078,
+            "height": 0.0133
+          },
+          "confidence": 0.9975
+        },
+        {
+          "text": "Over-secretion of GH stimulates abnormal growth of the body leading\nto gigantism and low secretion of GH results in stunted growth resulting\nin pituitary dwarfism. Excess secretion of growth hormone in adults\nespecially in middle age can result in severe disfigurement (especially of\nthe face) called Acromegaly, which may lead to serious complications,\nand premature death if unchecked. The disease is hard to diagnose in\nthe early stages and often goes undetected for many years, until changes\nin external features become noticeable. Prolactin regulates the growth of\nthe mammary glands and formation of milk in them. TSH stimulates the\nsynthesis and secretion of thyroid hormones from the thyroid gland. ACTH\nstimulates the synthesis and secretion of steroid hormones called\nglucocorticoids from the adrenal cortex. LH and FSH stimulate gonadal\nactivity and hence are called gonadotrophins. In males, LH stimulates\nthe synthesis and secretion of hormones called androgens from testis.\nIn males, FSH and androgens regulate spermatogenesis. In females, LH\ninduces ovulation of fully mature follicles (graafian follicles) and maintains\nthe corpus luteum, formed from the remnants of the graafian follicles\nafter ovulation. FSH stimulates growth and development of the ovarian",
+          "bbox": {
+            "x_min": 0.0684,
+            "y_min": 0.5561,
+            "x_max": 0.7002,
+            "y_max": 0.8844,
+            "width": 0.6318,
+            "height": 0.3283
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9812
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "242",
+          "bbox": {
+            "x_min": 0.1146,
+            "y_min": 0.0809,
+            "x_max": 0.1572,
+            "y_max": 0.0908,
+            "width": 0.0427,
+            "height": 0.0098
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8615,
+            "y_min": 0.0818,
+            "x_max": 0.9287,
+            "y_max": 0.0912,
+            "width": 0.0672,
+            "height": 0.0094
+          },
+          "confidence": 0.9588
+        },
+        {
+          "text": "Thyroid",
+          "bbox": {
+            "x_min": 0.1005,
+            "y_min": 0.4307,
+            "x_max": 0.166,
+            "y_max": 0.4426,
+            "width": 0.0655,
+            "height": 0.012
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "Trachea",
+          "bbox": {
+            "x_min": 0.1227,
+            "y_min": 0.4563,
+            "x_max": 0.1905,
+            "y_max": 0.4649,
+            "width": 0.0678,
+            "height": 0.0086
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "Parathyroid\nglands",
+          "bbox": {
+            "x_min": 0.111,
+            "y_min": 0.7414,
+            "x_max": 0.2075,
+            "y_max": 0.7671,
+            "width": 0.0964,
+            "height": 0.0257
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.2613,
+            "y_min": 0.5253,
+            "x_max": 0.2823,
+            "y_max": 0.5372,
+            "width": 0.021,
+            "height": 0.012
+          },
+          "confidence": 0.9747
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.2712,
+            "y_min": 0.8112,
+            "x_max": 0.2928,
+            "y_max": 0.8223,
+            "width": 0.0216,
+            "height": 0.0111
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "Vocal\ncord",
+          "bbox": {
+            "x_min": 0.3875,
+            "y_min": 0.3215,
+            "x_max": 0.4319,
+            "y_max": 0.3412,
+            "width": 0.0444,
+            "height": 0.0197
+          },
+          "confidence": 0.9841
+        },
+        {
+          "text": "Figure 19.3 Diagrammatic view of the\nposition of Thyroid and\nParathyroid\n(a) Ventral side\n(b) Dorsal side",
+          "bbox": {
+            "x_min": 0.1011,
+            "y_min": 0.8348,
+            "x_max": 0.436,
+            "y_max": 0.905,
+            "width": 0.3349,
+            "height": 0.0702
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "follicles in females. MSH acts on the melanocytes\n(melanin containing cells) and regulates pigmentation\nof the skin. Oxytocin acts on the smooth muscles of\nour body and stimulates their contraction. In females,\nit stimulates a vigorous contraction of uterus at the\ntime of child birth, and milk ejection from the mammary\ngland. Vasopressin acts mainly at the kidney and\nstimulates resorption of water and electrolytes by the\ndistal tubules and thereby reduces loss of water\nthrough urine (diuresis). Hence, it is also called as anti-\ndiuretic hormone (ADH).",
+          "bbox": {
+            "x_min": 0.4588,
+            "y_min": 0.134,
+            "x_max": 0.9316,
+            "y_max": 0.3129,
+            "width": 0.4728,
+            "height": 0.1789
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "An impairment affecting synthesis or release of ADH\nresults in a diminished ability of the kidney to conserve\nwater leading to water loss and dehydration. This\ncondition is known as Diabetes Insipidus.",
+          "bbox": {
+            "x_min": 0.4594,
+            "y_min": 0.3189,
+            "x_max": 0.9305,
+            "y_max": 0.3878,
+            "width": 0.4711,
+            "height": 0.0689
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "19.2.3 The Pineal Gland",
+          "bbox": {
+            "x_min": 0.4605,
+            "y_min": 0.4101,
+            "x_max": 0.7423,
+            "y_max": 0.4221,
+            "width": 0.2817,
+            "height": 0.012
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "The Pi",
+          "bbox": {
+            "x_min": 0.543,
+            "y_min": 0.4062,
+            "x_max": 0.6189,
+            "y_max": 0.4328,
+            "width": 0.076,
+            "height": 0.0265
+          },
+          "confidence": 0.7692
+        },
+        {
+          "text": "The pineal gland is located on the dorsal side of\nforebrain. Pineal secretes a hormone called melatonin.\nMelatonin plays a very important role in the regulation\nof a 24-hour (diurnal) rhythm of our body. For\nof a\nexample, it helps in maintaining the normal rhythms\nof sleep-wake cycle, body temperature. In addition,\nmelatonin also influences metabolism, pigmentation,\nthe menstrual cycle as well as our defense capability.",
+          "bbox": {
+            "x_min": 0.4588,
+            "y_min": 0.4362,
+            "x_max": 0.9316,
+            "y_max": 0.5771,
+            "width": 0.4728,
+            "height": 0.1408
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "19.2.",
+          "bbox": {
+            "x_min": 0.4442,
+            "y_min": 0.5938,
+            "x_max": 0.5178,
+            "y_max": 0.6164,
+            "width": 0.0736,
+            "height": 0.0227
+          },
+          "confidence": 0.9771
+        },
+        {
+          "text": "19.2.4 Thyroid Gland",
+          "bbox": {
+            "x_min": 0.46,
+            "y_min": 0.5976,
+            "x_max": 0.713,
+            "y_max": 0.6126,
+            "width": 0.2531,
+            "height": 0.015
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "The thyroid gland is composed of two lobes which are\nlocated on either side of the trachea (Figure 19.3 a). Both\nthe lobes are interconnected with a thin flap of connective\ntissue called isthmus. The thyroid gland is composed of\nfollicles and stromal tissues. Each thyroid follicle is\ncomposed of follicular cells, enclosing a cavity. These\nfollicular cells synthesise two hormones,\ntetraiodothyronine or thyroxine (T) and\ntriiodothyronine (T3). Iodine is essential for the normal\nrate of hormone synthesis in the thyroid. Deficiency of\niodine in our diet results in hypothyroidism and\nenlargement of the thyroid gland, commonly called\ngoitre. Hypothyroidism during pregnancy causes\ndefective development and maturation of the growing\nbaby leading to stunted growth (cretinism), mental",
+          "bbox": {
+            "x_min": 0.4588,
+            "y_min": 0.6259,
+            "x_max": 0.9316,
+            "y_max": 0.899,
+            "width": 0.4728,
+            "height": 0.2731
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9812
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "CHEMICAL COORDINATION AND INTEGRATION",
+          "bbox": {
+            "x_min": 0.111,
+            "y_min": 0.0801,
+            "x_max": 0.4366,
+            "y_max": 0.0903,
+            "width": 0.3255,
+            "height": 0.0103
+          },
+          "confidence": 0.9845
+        },
+        {
+          "text": "243",
+          "bbox": {
+            "x_min": 0.8475,
+            "y_min": 0.0813,
+            "x_max": 0.8866,
+            "y_max": 0.0908,
+            "width": 0.0392,
+            "height": 0.0094
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "retardation, low intelligence quotient, abnormal skin, deaf-mutism, etc. In\nadult women, hypothyroidism may cause menstrual cycle to become\nirregular. Due to cancer of the thyroid gland or due to development of\nnodules of the thyroid glands, the rate of synthesis and secretion of the\nthyroid hormones is increased to abnormal high levels leading to a condition\ncalled hyperthyroidism which adversely affects the body physiology.",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.1344,
+            "x_max": 0.6996,
+            "y_max": 0.2406,
+            "width": 0.6306,
+            "height": 0.1062
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "Exopthalmic goitre is a form of hyperthyroidism, characterised by\nenlargement of the thyroid gland, protrusion of the eyeballs, increased\nbasal metabolic rate, and weight loss, also called Graves' disease.",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.2449,
+            "x_max": 0.699,
+            "y_max": 0.2958,
+            "width": 0.6295,
+            "height": 0.0509
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "Thyroid hormones play an important role in the regulation of the basal\nmetabolic rate. These hormones also support the process of red blood cell\nformation. Thyroid hormones control the metabolism of carbohydrates, proteins\nand fats. Maintenance of water and electrolyte balance is also influenced by\nthyroid hormones. Thyroid gland also secretes a protein hormone called\nthyrocalcitonin (TCT) which regulates the blood calcium levels.",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.3005,
+            "x_max": 0.699,
+            "y_max": 0.4075,
+            "width": 0.6295,
+            "height": 0.107
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "19.2.5 Parathyroid Gland",
+          "bbox": {
+            "x_min": 0.0713,
+            "y_min": 0.4336,
+            "x_max": 0.3682,
+            "y_max": 0.4491,
+            "width": 0.2969,
+            "height": 0.0154
+          },
+          "confidence": 0.9799
+        },
+        {
+          "text": "RT",
+          "bbox": {
+            "x_min": 0.4898,
+            "y_min": 0.3981,
+            "x_max": 0.6125,
+            "y_max": 0.4846,
+            "width": 0.1227,
+            "height": 0.0865
+          },
+          "confidence": 0.9465
+        },
+        {
+          "text": "lished",
+          "bbox": {
+            "x_min": 0.6201,
+            "y_min": 0.3065,
+            "x_max": 0.8784,
+            "y_max": 0.4863,
+            "width": 0.2583,
+            "height": 0.1798
+          },
+          "confidence": 0.9835
+        },
+        {
+          "text": "In humans, four parathyroid glands are present on the back side of the\nthyroid gland, one pair each in the two lobes of the thyroid gland (Figure\n19.3 b). The parathyroid glands secrete a peptide hormone called\nparathyroid hormone (PTH). The secretion of PTH is regulated by the\ncirculating levels of calcium ions.",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.4623,
+            "x_max": 0.6978,
+            "y_max": 0.5509,
+            "width": 0.6283,
+            "height": 0.0886
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "Parathyroid hormone (PTH) increases the Ca2+ levels in the blood. PTH\nacts on bones and stimulates the process of bone resorption (dissolution/\ndemineralisation). PTH also stimulates reabsorption of Ca2+ by the renal\ntubules and increases Ca2+ absorption from the digested food. It is, thus,\nclear that PTH is a hypercalcemic hormone, i.e., it increases the blood\nCa2+ levels. Along with TCT, it plays a significant role in calcium balance\nin the body.",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.5574,
+            "x_max": 0.6984,
+            "y_max": 0.6836,
+            "width": 0.6289,
+            "height": 0.1263
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "19.2.6 Thymus",
+          "bbox": {
+            "x_min": 0.0713,
+            "y_min": 0.7115,
+            "x_max": 0.2531,
+            "y_max": 0.726,
+            "width": 0.1818,
+            "height": 0.0146
+          },
+          "confidence": 0.9835
+        },
+        {
+          "text": "+to",
+          "bbox": {
+            "x_min": 0.2501,
+            "y_min": 0.6571,
+            "x_max": 0.4068,
+            "y_max": 0.7551,
+            "width": 0.1566,
+            "height": 0.098
+          },
+          "confidence": 0.7636
+        },
+        {
+          "text": "The thymus gland is a lobular structure located between lungs behind\nsternum on the ventral side of aorta. The thymus plays a major role in\nthe development of the immune system. This gland secretes the peptide\nhormones called thymosins. Thymosins play a major role in the\ndifferentiation of T-lymphocytes, which provide cell-mediated\nimmunity. In addition, thymosins also promote production of antibodies\nto provide humoral immunity. Thymus is degenerated in old individuals\nresulting in a decreased production of thymosins. As a result, the immune\nresponses of old persons become weak.",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.738,
+            "x_max": 0.6978,
+            "y_max": 0.8955,
+            "width": 0.6289,
+            "height": 0.1575
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9812
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "244",
+          "bbox": {
+            "x_min": 0.114,
+            "y_min": 0.0809,
+            "x_max": 0.159,
+            "y_max": 0.0903,
+            "width": 0.045,
+            "height": 0.0094
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8609,
+            "y_min": 0.0818,
+            "x_max": 0.931,
+            "y_max": 0.0912,
+            "width": 0.0701,
+            "height": 0.0094
+          },
+          "confidence": 0.9714
+        },
+        {
+          "text": "19.2.7 Adrenal Gland",
+          "bbox": {
+            "x_min": 0.301,
+            "y_min": 0.1318,
+            "x_max": 0.5546,
+            "y_max": 0.1447,
+            "width": 0.2537,
+            "height": 0.0128
+          },
+          "confidence": 0.9819
+        },
+        {
+          "text": "Our body has one pair of adrenal glands, one above of each kidney (Figure\n19.4 a). The gland is composed of two types of tissues. The centrally located\ntissue is called the adrenal medulla, and outside this lies the adrenal\ncortex (Figure 19.4 b).",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.161,
+            "x_max": 0.9322,
+            "y_max": 0.2312,
+            "width": 0.6318,
+            "height": 0.0702
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "Underproduction of hormones by the adrenal cortex alters\ncarbohydrate metabolism causing acute weakness and fatigue leading\nto a disease called Addison's disease.",
+          "bbox": {
+            "x_min": 0.2998,
+            "y_min": 0.2372,
+            "x_max": 0.9328,
+            "y_max": 0.2864,
+            "width": 0.633,
+            "height": 0.0492
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "Adrenal gland",
+          "bbox": {
+            "x_min": 0.2753,
+            "y_min": 0.3253,
+            "x_max": 0.3986,
+            "y_max": 0.3369,
+            "width": 0.1233,
+            "height": 0.0116
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "Adrenal cortex",
+          "bbox": {
+            "x_min": 0.5289,
+            "y_min": 0.3189,
+            "x_max": 0.6563,
+            "y_max": 0.3271,
+            "width": 0.1274,
+            "height": 0.0081
+          },
+          "confidence": 0.9834
+        },
+        {
+          "text": "hed",
+          "bbox": {
+            "x_min": 0.7259,
+            "y_min": 0.3022,
+            "x_max": 0.8749,
+            "y_max": 0.4152,
+            "width": 0.149,
+            "height": 0.113
+          },
+          "confidence": 0.8713
+        },
+        {
+          "text": "noth",
+          "bbox": {
+            "x_min": 0.1899,
+            "y_min": 0.6049,
+            "x_max": 0.4512,
+            "y_max": 0.8168,
+            "width": 0.2613,
+            "height": 0.2119
+          },
+          "confidence": 0.8966
+        },
+        {
+          "text": "Kidney",
+          "bbox": {
+            "x_min": 0.3466,
+            "y_min": 0.5903,
+            "x_max": 0.4085,
+            "y_max": 0.6032,
+            "width": 0.062,
+            "height": 0.0128
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "ONCER",
+          "bbox": {
+            "x_min": 0.2876,
+            "y_min": 0.4187,
+            "x_max": 0.5757,
+            "y_max": 0.6284,
+            "width": 0.2881,
+            "height": 0.2098
+          },
+          "confidence": 0.8102
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.6826,
+            "y_min": 0.6344,
+            "x_max": 0.7078,
+            "y_max": 0.6451,
+            "width": 0.0251,
+            "height": 0.0107
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "Figure 19.4 Diagrammatic representation of : (a) Adrenal gland above kidney (b) Section",
+          "bbox": {
+            "x_min": 0.1631,
+            "y_min": 0.6734,
+            "x_max": 0.9316,
+            "y_max": 0.6858,
+            "width": 0.7686,
+            "height": 0.0124
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "The adrenal medulla secretes two hormones called adrenaline or\nepinephrine and noradrenaline or norepinephrine. These are\ncommonly called as catecholamines. Adrenaline and noradrenaline are\nrapidly secreted in response to stress of any kind and during emergency\nsituations and are called emergency hormones or hormones of Fight\nor Flight. These hormones increase alertness, pupilary dilation,\npiloerection (raising of hairs), sweating etc. Both the hormones increase\nthe heart beat, the strength of heart contraction and the rate of respiration.\nCatecholamines also stimulate the breakdown of glycogen resulting in",
+          "bbox": {
+            "x_min": 0.2992,
+            "y_min": 0.7303,
+            "x_max": 0.9328,
+            "y_max": 0.8977,
+            "width": 0.6335,
+            "height": 0.1674
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "Adrenal medulla",
+          "bbox": {
+            "x_min": 0.6283,
+            "y_min": 0.5728,
+            "x_max": 0.7709,
+            "y_max": 0.583,
+            "width": 0.1426,
+            "height": 0.0103
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9812
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "CHEMICAL COORDINATION AND INTEGRATION",
+          "bbox": {
+            "x_min": 0.111,
+            "y_min": 0.0801,
+            "x_max": 0.4366,
+            "y_max": 0.0903,
+            "width": 0.3255,
+            "height": 0.0103
+          },
+          "confidence": 0.9845
+        },
+        {
+          "text": "245",
+          "bbox": {
+            "x_min": 0.8463,
+            "y_min": 0.0809,
+            "x_max": 0.8872,
+            "y_max": 0.0908,
+            "width": 0.0409,
+            "height": 0.0098
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "an increased concentration of glucose in blood. In addition, they also\nstimulate the breakdown of lipids and proteins.",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.131,
+            "x_max": 0.6984,
+            "y_max": 0.1631,
+            "width": 0.6283,
+            "height": 0.0321
+          },
+          "confidence": 0.9971
+        },
+        {
+          "text": "The adrenal cortex can be divided into three layers, called zona\nreticularis (inner layer), zona fasciculata (middle layer) and zona\nglomerulosa (outer layer). The adrenal cortex secretes many hormones,\ncommonly called as corticoids. The corticoids, which are involved in\ncarbohydrate metabolism are called glucocorticoids. In our body, cortisol\nis the main glucocorticoid. Corticoids, which regulate the balance of water\nand electrolytes in our body are called mineralocorticoids. Aldosterone is\nthe main mineralocorticoid in our body.",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.1687,
+            "x_max": 0.6996,
+            "y_max": 0.3116,
+            "width": 0.6306,
+            "height": 0.143
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "Glucocorticoids stimulate gluconeogenesis, lipolysis and proteolysis;\nand inhibit cellular uptake and utilisation of amino acids. Cortisol is also\ninvolved in maintaining the cardio-vascular system as well as the kidney\nfunctions. Glucocorticoids, particularly cortisol, produces anti-\ninflammatory reactions and suppresses the immune response. Cortisol\nstimulates the RBC production. Aldosterone acts mainly at the renal\ntubules and stimulates the reabsorption of Na⁺ and water and excretion\nof K+ and phosphate ions. Thus, aldosterone helps in the maintenance of\nelectrolytes, body fluid volume, osmotic pressure and blood pressure.\nSmall amounts of androgenic steroids are also secreted by the adrenal\ncortex which play a role in the growth of axial hair, pubic hair and facial\nhair during puberty.",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.3176,
+            "x_max": 0.7002,
+            "y_max": 0.5347,
+            "width": 0.6306,
+            "height": 0.217
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "19.2.8 Pancreas",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.5616,
+            "x_max": 0.2636,
+            "y_max": 0.5741,
+            "width": 0.194,
+            "height": 0.0124
+          },
+          "confidence": 0.9835
+        },
+        {
+          "text": "repshed",
+          "bbox": {
+            "x_min": 0.4547,
+            "y_min": 0.3065,
+            "x_max": 0.896,
+            "y_max": 0.6062,
+            "width": 0.4413,
+            "height": 0.2997
+          },
+          "confidence": 0.9683
+        },
+        {
+          "text": "rand",
+          "bbox": {
+            "x_min": 0.6026,
+            "y_min": 0.4983,
+            "x_max": 0.6482,
+            "y_max": 0.5214,
+            "width": 0.0456,
+            "height": 0.0231
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "Pancreas is a composite gland (Figure 19.1) which acts as both exocrine\nand endocrine gland. The endocrine pancreas consists of 'Islets of\nLangerhans'. There are about 1 to 2 million Islets of Langerhans in a\nnormal human pancreas representing only 1 to 2 per cent of the pancreatic\ntissue. The two main types of cells in the Islet of Langerhans are called\na-cells and ẞ-cells. The a-cells secrete a hormone called glucagon, while\nthe B-cells secrete insulin.",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.5899,
+            "x_max": 0.7002,
+            "y_max": 0.714,
+            "width": 0.6306,
+            "height": 0.1241
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "Glucagon is a peptide hormone, and plays an important role in\nmaintaining the normal blood glucose levels. Glucagon acts mainly on\nthe liver cells (hepatocytes) and stimulates glycogenolysis resulting in an\nincreased blood sugar (hyperglycemia). In addition, this hormone\nstimulates the process of gluconeogenesis which also contributes to\nhyperglycemia. Glucagon reduces the cellular glucose uptake and\nutilisation. Thus, glucagon is a hyperglycemic hormone.",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.7192,
+            "x_max": 0.6984,
+            "y_max": 0.8442,
+            "width": 0.6289,
+            "height": 0.125
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "Insulin is a peptide hormone, which plays a major role in the\nregulation of glucose homeostasis. Insulin acts mainly on hepatocytes\nand adipocytes (cells of adipose tissue), and enhances cellular glucose",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.8493,
+            "x_max": 0.6978,
+            "y_max": 0.8998,
+            "width": 0.6277,
+            "height": 0.0505
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5494,
+            "y_max": 0.9919,
+            "width": 0.0999,
+            "height": 0.0086
+          },
+          "confidence": 0.9838
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "246",
+          "bbox": {
+            "x_min": 0.1146,
+            "y_min": 0.0813,
+            "x_max": 0.156,
+            "y_max": 0.0903,
+            "width": 0.0415,
+            "height": 0.009
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8615,
+            "y_min": 0.0818,
+            "x_max": 0.9287,
+            "y_max": 0.0912,
+            "width": 0.0672,
+            "height": 0.0094
+          },
+          "confidence": 0.9588
+        },
+        {
+          "text": "uptake and utilisation. As a result, there is a rapid movement of glucose\nfrom blood to hepatocytes and adipocytes resulting in decreased blood\nglucose levels (hypoglycemia). Insulin also stimulates conversion of\nglucose to glycogen (glycogenesis) in the target cells. The glucose\nhomeostasis in blood is thus maintained jointly by the two – insulin and\nglucagons.",
+          "bbox": {
+            "x_min": 0.2992,
+            "y_min": 0.134,
+            "x_max": 0.931,
+            "y_max": 0.2406,
+            "width": 0.6318,
+            "height": 0.1066
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "Prolonged hyperglycemia leads to a complex disorder called diabetes\nmellitus which is associated with loss of glucose through urine and\nformation of harmful compounds known as ketone bodies. Diabetic\npatients are successfully treated with insulin therapy.",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.2449,
+            "x_max": 0.9299,
+            "y_max": 0.3159,
+            "width": 0.6295,
+            "height": 0.0711
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "19.2.9 Testis",
+          "bbox": {
+            "x_min": 0.2998,
+            "y_min": 0.3425,
+            "x_max": 0.4594,
+            "y_max": 0.354,
+            "width": 0.1596,
+            "height": 0.0116
+          },
+          "confidence": 0.9856
+        },
+        {
+          "text": "ed",
+          "bbox": {
+            "x_min": 0.7604,
+            "y_min": 0.3078,
+            "x_max": 0.8749,
+            "y_max": 0.3973,
+            "width": 0.1146,
+            "height": 0.0895
+          },
+          "confidence": 0.9251
+        },
+        {
+          "text": "A pair of testis is present in the scrotal sac (outside abdomen) of male\nindividuals (Figure 19.1). Testis performs dual functions as a primary\nsex organ as well as an endocrine gland. Testis is composed of\nseminiferous tubules and stromal or interstitial tissue. The Leydig\ncells or interstitial cells, which are present in the intertubular\nspaces produce a group of hormones called androgens mainly\ntestosterone.",
+          "bbox": {
+            "x_min": 0.2992,
+            "y_min": 0.3707,
+            "x_max": 0.931,
+            "y_max": 0.4936,
+            "width": 0.6318,
+            "height": 0.1229
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "Androgens regulate the development, maturation and functions of\nthe male accessory sex organs like epididymis, vas deferens, seminal\nvesicles, prostate gland, urethra etc. These hormones stimulate muscular\ngrowth, growth of facial and axillary hair, aggressiveness, low pitch of\nvoice etc. Androgens play a major stimulatory role in the process of\nspermatogenesis (formation of spermatozoa). Androgens act on the central\nneural system and influence the male sexual behaviour (libido). These\nhormones produce anabolic (synthetic) effects on protein and carbohydrate\nmetabolism.",
+          "bbox": {
+            "x_min": 0.2998,
+            "y_min": 0.5021,
+            "x_max": 0.9322,
+            "y_max": 0.6627,
+            "width": 0.6324,
+            "height": 0.1605
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "19.2.10",
+          "bbox": {
+            "x_min": 0.3022,
+            "y_min": 0.6935,
+            "x_max": 0.3863,
+            "y_max": 0.7072,
+            "width": 0.0842,
+            "height": 0.0137
+          },
+          "confidence": 0.9741
+        },
+        {
+          "text": "19.2.10",
+          "bbox": {
+            "x_min": 0.3027,
+            "y_min": 0.6798,
+            "x_max": 0.4021,
+            "y_max": 0.7089,
+            "width": 0.0994,
+            "height": 0.0291
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "Fer",
+          "bbox": {
+            "x_min": 0.2934,
+            "y_min": 0.717,
+            "x_max": 0.3302,
+            "y_max": 0.7389,
+            "width": 0.0368,
+            "height": 0.0218
+          },
+          "confidence": 0.8948
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1917,
+            "y_min": 0.7102,
+            "x_max": 0.3226,
+            "y_max": 0.8129,
+            "width": 0.1309,
+            "height": 0.1027
+          },
+          "confidence": 0.9782
+        },
+        {
+          "text": "Ovary",
+          "bbox": {
+            "x_min": 0.4091,
+            "y_min": 0.6935,
+            "x_max": 0.4734,
+            "y_max": 0.7068,
+            "width": 0.0643,
+            "height": 0.0133
+          },
+          "confidence": 0.8617
+        },
+        {
+          "text": "Females have a pair of ovaries located in the abdomen (Figure 19.1). Ovary\nis the primary female sex organ which produces one ovum during each\nmenstrual cycle. In addition, ovary also produces two groups of steroid\nhormones called estrogen and progesterone. Ovary is composed of\novarian follicles and stromal tissues. The estrogen is synthesised and\nsecreted mainly by the growing ovarian follicles. After ovulation, the\nruptured follicle is converted to a structure called corpus luteum, which\nsecretes mainly progesterone.",
+          "bbox": {
+            "x_min": 0.301,
+            "y_min": 0.7209,
+            "x_max": 0.931,
+            "y_max": 0.866,
+            "width": 0.63,
+            "height": 0.1451
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "Estrogens produce wide ranging actions such as stimulation of growth\nand activities of female secondary sex organs, development of growing",
+          "bbox": {
+            "x_min": 0.301,
+            "y_min": 0.8716,
+            "x_max": 0.9305,
+            "y_max": 0.9033,
+            "width": 0.6295,
+            "height": 0.0317
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.45,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9919,
+            "width": 0.0994,
+            "height": 0.009
+          },
+          "confidence": 0.9832
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "CHEMICAL COORDINATION AND INTEGRATION",
+          "bbox": {
+            "x_min": 0.1116,
+            "y_min": 0.0796,
+            "x_max": 0.4372,
+            "y_max": 0.0903,
+            "width": 0.3255,
+            "height": 0.0107
+          },
+          "confidence": 0.9842
+        },
+        {
+          "text": "ished",
+          "bbox": {
+            "x_min": 0.6598,
+            "y_min": 0.3069,
+            "x_max": 0.8708,
+            "y_max": 0.4666,
+            "width": 0.211,
+            "height": 0.1597
+          },
+          "confidence": 0.8527
+        },
+        {
+          "text": "ovarian follicles, appearance of female secondary sex characters (e.g., high\npitch of voice, etc.) and mammary gland development. Estrogens also\nregulate female sexual behaviour.",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.128,
+            "x_max": 0.699,
+            "y_max": 0.1789,
+            "width": 0.63,
+            "height": 0.0509
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "Progesterone supports pregnancy. Progesterone also acts on the\nmammary glands and stimulates the formation of alveoli (sac-like\nstructures which store milk) and milk secretion.",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.1845,
+            "x_max": 0.6984,
+            "y_max": 0.2346,
+            "width": 0.6289,
+            "height": 0.0501
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "19.3 HORMONES OF HEART, KIDNEY AND GASTROINTESTINAL TRACT",
+          "bbox": {
+            "x_min": 0.0725,
+            "y_min": 0.2628,
+            "x_max": 0.6984,
+            "y_max": 0.2783,
+            "width": 0.6259,
+            "height": 0.0154
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "Now you know about the endocrine glands and their hormones. However,\nas mentioned earlier, hormones are also secreted by some tissues which\nare not endocrine glands. For example, the atrial wall of our heart secretes\na very important peptide hormone called atrial natriuretic factor (ANF),\nwhich decreases blood pressure. When blood pressure is increased, ANF\nis secreted which causes dilation of the blood vessels. This reduces the\nblood pressure.",
+          "bbox": {
+            "x_min": 0.0684,
+            "y_min": 0.2992,
+            "x_max": 0.699,
+            "y_max": 0.4242,
+            "width": 0.6306,
+            "height": 0.125
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "The juxtaglomerular cells of kidney produce a peptide hormone called\nerythropoietin which stimulates erythropoiesis (formation of RBC).",
+          "bbox": {
+            "x_min": 0.0707,
+            "y_min": 0.4281,
+            "x_max": 0.6984,
+            "y_max": 0.4619,
+            "width": 0.6277,
+            "height": 0.0338
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "Endocrine cells present in different parts of the gastro-intestinal tract\nsecrete four major peptide hormones, namely gastrin, secretin,\ncholecystokinin (CCK) and gastric inhibitory peptide (GIP). Gastrin\nacts on the gastric glands and stimulates the secretion of hydrochloric\nacid and pepsinogen. Secretin acts on the exocrine pancreas and\nstimulates secretion of water and bicarbonate ions. CCK acts on both\npancreas and gall bladder and stimulates the secretion of pancreatic\nenzymes and bile juice, respectively. GIP inhibits gastric secretion and\nmotility. Several other non-endocrine tissues secrete hormones called\ngrowth factors. These factors are essential for the normal growth of tissues\nand their repairing/regeneration.",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.4666,
+            "x_max": 0.699,
+            "y_max": 0.6657,
+            "width": 0.6295,
+            "height": 0.1991
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "19.4 MECHANISM OF HORMONE ACTION",
+          "bbox": {
+            "x_min": 0.0719,
+            "y_min": 0.6892,
+            "x_max": 0.4699,
+            "y_max": 0.7025,
+            "width": 0.398,
+            "height": 0.0133
+          },
+          "confidence": 0.979
+        },
+        {
+          "text": "Hormones produce their effects on target tissues by binding to specific\nproteins called hormone receptors located in the target tissues only.\nHormone receptors present on the cell membrane of the target cells are\ncalled membrane-bound receptors and the receptors present inside the\ntarget cell are called intracellular receptors, mostly nuclear receptors\n(present in the nucleus). Binding of a hormone to its receptor leads to the\nformation of a hormone-receptor complex (Figure 19.5 a, b). Each\nreceptor is specific to one hormone only and hence receptors are specific.\nHormone-Receptor complex formation leads to certain biochemical\nchanges in the target tissue. Target tissue metabolism and hence",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.7196,
+            "x_max": 0.699,
+            "y_max": 0.9062,
+            "width": 0.6295,
+            "height": 0.1866
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5494,
+            "y_max": 0.9919,
+            "width": 0.0999,
+            "height": 0.0086
+          },
+          "confidence": 0.9838
+        },
+        {
+          "text": "247",
+          "bbox": {
+            "x_min": 0.8469,
+            "y_min": 0.0818,
+            "x_max": 0.8866,
+            "y_max": 0.0903,
+            "width": 0.0397,
+            "height": 0.0086
+          },
+          "confidence": 0.9944
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "248",
+          "bbox": {
+            "x_min": 0.114,
+            "y_min": 0.0813,
+            "x_max": 0.1555,
+            "y_max": 0.0908,
+            "width": 0.0415,
+            "height": 0.0094
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8615,
+            "y_min": 0.0818,
+            "x_max": 0.9287,
+            "y_max": 0.0912,
+            "width": 0.0672,
+            "height": 0.0094
+          },
+          "confidence": 0.9588
+        },
+        {
+          "text": "physiological functions are regulated by hormones. On the basis of their\nchemical nature, hormones can be divided into groups :",
+          "bbox": {
+            "x_min": 0.2998,
+            "y_min": 0.1344,
+            "x_max": 0.9299,
+            "y_max": 0.1665,
+            "width": 0.63,
+            "height": 0.0321
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "(i) peptide, polypeptide, protein hormones (e.g., insulin, glucagon,\npituitary hormones, hypothalamic hormones, etc.)",
+          "bbox": {
+            "x_min": 0.3419,
+            "y_min": 0.1759,
+            "x_max": 0.9287,
+            "y_max": 0.208,
+            "width": 0.5868,
+            "height": 0.0321
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "(ii) steroids (e.g., cortisol, testosterone, estradiol and progesterone)\n(iii) iodothyronines (thyroid hormones)",
+          "bbox": {
+            "x_min": 0.3326,
+            "y_min": 0.2136,
+            "x_max": 0.9199,
+            "y_max": 0.2461,
+            "width": 0.5874,
+            "height": 0.0325
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "(iv) amino-acid derivatives (e.g., epinephrine).",
+          "bbox": {
+            "x_min": 0.3326,
+            "y_min": 0.2521,
+            "x_max": 0.7434,
+            "y_max": 0.265,
+            "width": 0.4109,
+            "height": 0.0128
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "Hormones which interact with membrane-bound receptors normally\ndo not enter the target cell, but generate second messengers (e.g., cyclic\nAMP, IP3, Ca++ etc) which in turn regulate cellular metabolism (Figure\n19.5a). Hormones which interact with intracellular receptors (e.g., steroid\nhormones, iodothyronines, etc.) mostly regulate gene expression or\nchromosome function by the interaction of hormone-receptor complex\nwith the genome. Cumulative biochemical actions result in physiological",
+          "bbox": {
+            "x_min": 0.2987,
+            "y_min": 0.2757,
+            "x_max": 0.9305,
+            "y_max": 0.4041,
+            "width": 0.6318,
+            "height": 0.1284
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "and developmental effects (Figure 19.5b).",
+          "bbox": {
+            "x_min": 0.301,
+            "y_min": 0.4097,
+            "x_max": 0.6604,
+            "y_max": 0.4229,
+            "width": 0.3594,
+            "height": 0.0133
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "୪୪୪୪୪୪୪୪୪୪୪୪୪୪\n8888888888888888888\nC",
+          "bbox": {
+            "x_min": 0.1794,
+            "y_min": 0.5197,
+            "x_max": 0.4722,
+            "y_max": 0.6468,
+            "width": 0.2928,
+            "height": 0.1271
+          },
+          "confidence": 0.9357
+        },
+        {
+          "text": "RI",
+          "bbox": {
+            "x_min": 0.4944,
+            "y_min": 0.4144,
+            "x_max": 0.5979,
+            "y_max": 0.4829,
+            "width": 0.1034,
+            "height": 0.0685
+          },
+          "confidence": 0.7999
+        },
+        {
+          "text": "Hormone (eg. Popis result",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.3793,
+            "x_max": 0.8182,
+            "y_max": 0.5454,
+            "width": 0.3688,
+            "height": 0.1661
+          },
+          "confidence": 0.6154
+        },
+        {
+          "text": "Horm",
+          "bbox": {
+            "x_min": 0.4611,
+            "y_min": 0.4713,
+            "x_max": 0.5202,
+            "y_max": 0.5039,
+            "width": 0.059,
+            "height": 0.0325
+          },
+          "confidence": 0.9614
+        },
+        {
+          "text": "Response 1",
+          "bbox": {
+            "x_min": 0.4553,
+            "y_min": 0.5912,
+            "x_max": 0.5552,
+            "y_max": 0.6032,
+            "width": 0.0999,
+            "height": 0.012
+          },
+          "confidence": 0.9834
+        },
+        {
+          "text": "_ Receptor",
+          "bbox": {
+            "x_min": 0.564,
+            "y_min": 0.5218,
+            "x_max": 0.6908,
+            "y_max": 0.5402,
+            "width": 0.1268,
+            "height": 0.0184
+          },
+          "confidence": 0.9386
+        },
+        {
+          "text": "(Generation of second messenger)\n(Cyclic AMP or Ca**)",
+          "bbox": {
+            "x_min": 0.3583,
+            "y_min": 0.6366,
+            "x_max": 0.6558,
+            "y_max": 0.6661,
+            "width": 0.2975,
+            "height": 0.0295
+          },
+          "confidence": 0.9675
+        },
+        {
+          "text": "not to",
+          "bbox": {
+            "x_min": 0.1864,
+            "y_min": 0.6554,
+            "x_max": 0.4068,
+            "y_max": 0.8125,
+            "width": 0.2203,
+            "height": 0.1571
+          },
+          "confidence": 0.9672
+        },
+        {
+          "text": "Biochemical responses\n↓↓\n↓⇓",
+          "bbox": {
+            "x_min": 0.4062,
+            "y_min": 0.7021,
+            "x_max": 0.6102,
+            "y_max": 0.7586,
+            "width": 0.204,
+            "height": 0.0565
+          },
+          "confidence": 0.9246
+        },
+        {
+          "text": "Physiological responses\n(e.g., ovarian growth)",
+          "bbox": {
+            "x_min": 0.4009,
+            "y_min": 0.7628,
+            "x_max": 0.6096,
+            "y_max": 0.7911,
+            "width": 0.2086,
+            "height": 0.0283
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.5161,
+            "y_min": 0.8206,
+            "x_max": 0.5389,
+            "y_max": 0.8318,
+            "width": 0.0228,
+            "height": 0.0111
+          },
+          "confidence": 0.9644
+        },
+        {
+          "text": "Ovarian\ncell membrane",
+          "bbox": {
+            "x_min": 0.7113,
+            "y_min": 0.5287,
+            "x_max": 0.8404,
+            "y_max": 0.5544,
+            "width": 0.1292,
+            "height": 0.0257
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5494,
+            "y_max": 0.9919,
+            "width": 0.0999,
+            "height": 0.0086
+          },
+          "confidence": 0.9838
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "CHEMICAL COORDINATION AND INTEGRATION",
+          "bbox": {
+            "x_min": 0.111,
+            "y_min": 0.0796,
+            "x_max": 0.4372,
+            "y_max": 0.0903,
+            "width": 0.3261,
+            "height": 0.0107
+          },
+          "confidence": 0.985
+        },
+        {
+          "text": "Hormone",
+          "bbox": {
+            "x_min": 0.0988,
+            "y_min": 0.2158,
+            "x_max": 0.1794,
+            "y_max": 0.2239,
+            "width": 0.0807,
+            "height": 0.0081
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "(e.g., estrogen)",
+          "bbox": {
+            "x_min": 0.0789,
+            "y_min": 0.2299,
+            "x_max": 0.2011,
+            "y_max": 0.2423,
+            "width": 0.1222,
+            "height": 0.0124
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "୪୪୪୪ ୪୪୪ ୪୪ ୪୮୪ ୪ ୪୪ ୪୪ ୪୪ ୪୪ ୪୪ ୪୪",
+          "bbox": {
+            "x_min": 0.1181,
+            "y_min": 0.1828,
+            "x_max": 0.2987,
+            "y_max": 0.4431,
+            "width": 0.1806,
+            "height": 0.2603
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "୫୪ ୪ ୪ ୪ ୪୪ ୪୪୪ ୪୪ ୪୪୪୪୪୪୪ ୪୪ ୪୪ ୪୪ ୪୪ ୪୪ ୪",
+          "bbox": {
+            "x_min": 0.1186,
+            "y_min": 0.2132,
+            "x_max": 0.2893,
+            "y_max": 0.5334,
+            "width": 0.1707,
+            "height": 0.3202
+          },
+          "confidence": 0.9661
+        },
+        {
+          "text": "8 8 8 8 8",
+          "bbox": {
+            "x_min": 0.3372,
+            "y_min": 0.1301,
+            "x_max": 0.4056,
+            "y_max": 0.1794,
+            "width": 0.0684,
+            "height": 0.0492
+          },
+          "confidence": 0.4729
+        },
+        {
+          "text": "Hormone-receptor\ncomplex",
+          "bbox": {
+            "x_min": 0.2589,
+            "y_min": 0.3878,
+            "x_max": 0.4155,
+            "y_max": 0.4144,
+            "width": 0.1566,
+            "height": 0.0265
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "Uterine cell\nmembrane",
+          "bbox": {
+            "x_min": 0.4757,
+            "y_min": 0.1383,
+            "x_max": 0.5739,
+            "y_max": 0.1622,
+            "width": 0.0982,
+            "height": 0.024
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "NCERT",
+          "bbox": {
+            "x_min": 0.3454,
+            "y_min": 0.3878,
+            "x_max": 0.6271,
+            "y_max": 0.5869,
+            "width": 0.2817,
+            "height": 0.1991
+          },
+          "confidence": 0.9198
+        },
+        {
+          "text": "Nucleus",
+          "bbox": {
+            "x_min": 0.6774,
+            "y_min": 0.3142,
+            "x_max": 0.7487,
+            "y_max": 0.3228,
+            "width": 0.0713,
+            "height": 0.0086
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "Proteins",
+          "bbox": {
+            "x_min": 0.7124,
+            "y_min": 0.4375,
+            "x_max": 0.7826,
+            "y_max": 0.4469,
+            "width": 0.0701,
+            "height": 0.0094
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "Physiological responses\n(Tissue growth and\ndifferentiation)",
+          "bbox": {
+            "x_min": 0.6335,
+            "y_min": 0.4859,
+            "x_max": 0.8346,
+            "y_max": 0.5274,
+            "width": 0.2011,
+            "height": 0.0415
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "249",
+          "bbox": {
+            "x_min": 0.848,
+            "y_min": 0.0818,
+            "x_max": 0.8866,
+            "y_max": 0.0908,
+            "width": 0.0386,
+            "height": 0.009
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "+ to be republished",
+          "bbox": {
+            "x_min": 0.2005,
+            "y_min": 0.2962,
+            "x_max": 0.9293,
+            "y_max": 0.759,
+            "width": 0.7288,
+            "height": 0.4628
+          },
+          "confidence": 0.8794
+        },
+        {
+          "text": "Figure 19.5 Diagramatic representation of the mechanism of hormone action :\n(a) Protein hormone (b) Steroid hormone",
+          "bbox": {
+            "x_min": 0.0807,
+            "y_min": 0.5796,
+            "x_max": 0.7534,
+            "y_max": 0.607,
+            "width": 0.6727,
+            "height": 0.0274
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "SUMMARY",
+          "bbox": {
+            "x_min": 0.436,
+            "y_min": 0.6986,
+            "x_max": 0.5319,
+            "y_max": 0.7098,
+            "width": 0.0959,
+            "height": 0.0111
+          },
+          "confidence": 0.9634
+        },
+        {
+          "text": "There are special chemicals which act as hormones and provide chemical\ncoordination, integration and regulation in the human body. These hormones\nregulate metabolism, growth and development of our organs, the endocrine glands\nor certain cells. The endocrine system is composed of hypothalamus, pituitary\nand pineal, thyroid, adrenal, pancreas, parathyroid, thymus and gonads (testis\nand ovary). In addition to these, some other organs, e.g., gastrointestinal tract,\nkidney, heart etc., also produce hormones. The pituitary gland is divided into\nthree major parts, which are called as pars distalis, pars intermedia and pars\nnervosa. Pars distalis produces six trophic hormones. Pars intermedia secretes",
+          "bbox": {
+            "x_min": 0.1315,
+            "y_min": 0.7414,
+            "x_max": 0.8358,
+            "y_max": 0.8981,
+            "width": 0.7043,
+            "height": 0.1567
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9812
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "250",
+          "bbox": {
+            "x_min": 0.1157,
+            "y_min": 0.0801,
+            "x_max": 0.156,
+            "y_max": 0.0908,
+            "width": 0.0403,
+            "height": 0.0107
+          },
+          "confidence": 0.9968
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8591,
+            "y_min": 0.0818,
+            "x_max": 0.9293,
+            "y_max": 0.0912,
+            "width": 0.0701,
+            "height": 0.0094
+          },
+          "confidence": 0.9752
+        },
+        {
+          "text": "only one hormone, while pars nervosa (neurohypophysis) secretes two hormones.\nThe pituitary hormones regulate the growth and development of somatic tissues\nand activities of peripheral endocrine glands. Pineal gland secretes melatonin, which\nplays a very important role in the regulation of 24-hour (diurnal) rhythms of our\nbody (e.g., rhythms of sleep and state of being awake, body temperature, etc.). The\nthyroid gland hormones play an important role in the regulation of the basal\nmetabolic rate, development and maturation of the central neural system,\nerythropoiesis, metabolism of carbohydrates, proteins and fats, menstrual cycle.\nAnother thyroid hormone, i.e., thyrocalcitonin regulates calcium levels in our blood\nby decreasing it. The parathyroid glands secrete parathyroid hormone (PTH) which\nincreases the blood Ca2+ levels and plays a major role in calcium homeostasis. The\nthymus gland secretes thymosins which play a major role in the differentiation of\nT-lymphocytes, which provide cell-mediated immunity. In addition, thymosins\nalso increase the production of antibodies to provide humoral immunity. The\nadrenal gland is composed of the centrally located adrenal medulla and the outer\nadrenal cortex. The adrenal medulla secretes epinephrine and norepinephrine.\nThese hormones increase alertness, pupilary dilation, piloerection, sweating, heart\nbeat, strength of heart contraction, rate of respiration, glycogenolysis, lipolysis,\nproteolysis. The adrenal cortex secretes glucocorticoids and mineralocorticoids.\nGlucocorticoids stimulate gluconeogenesis, lipolysis, proteolysis, erythropoiesis,\ncardio-vascular system, blood pressure, and glomerular filtration rate and inhibit\ninflammatory reactions by suppressing the immune response. Mineralocorticoids\nregulate water and electrolyte contents of the body. The endocrine pancreas secretes\nglucagon and insulin. Glucagon stimulates glycogenolysis and gluconeogenesis\nresulting in hyperglycemia. Insulin stimulates cellular glucose uptake and\nutilisation, and glycogenesis resulting in hypoglycemia. Insulin deficiency\nand/or insulin resistance result in a disease called diabetes mellitus.",
+          "bbox": {
+            "x_min": 0.1601,
+            "y_min": 0.1366,
+            "x_max": 0.8714,
+            "y_max": 0.6143,
+            "width": 0.7113,
+            "height": 0.4777
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "The testis secretes androgens, which stimulate the development, maturation\nand functions of the male accessory sex organs, appearance of the male secondary\nsex characters, spermatogenesis, male sexual behaviour, anabolic pathways and\nerythropoiesis. The ovary secretes estrogen and progesterone. Estrogen stimulates\ngrowth and development of female accessory sex organs and secondary sex\ncharacters. Progesterone plays a major role in the maintenance of pregnancy as\nwell as in mammary gland development and lactation. The atrial wall of the heart\nproduces atrial natriuretic factor which decreases the blood pressure. Kidney\nproduces erythropoietin which stimulates erythropoiesis. The gastrointestinal tract\nsecretes gastrin, secretin, cholecystokinin and gastric inhibitory peptide. These\nhormones regulate the secretion of digestive juices and help in digestion.",
+          "bbox": {
+            "x_min": 0.1613,
+            "y_min": 0.6203,
+            "x_max": 0.8708,
+            "y_max": 0.8129,
+            "width": 0.7095,
+            "height": 0.1926
+          },
+          "confidence": 0.9972
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5494,
+            "y_max": 0.9919,
+            "width": 0.0999,
+            "height": 0.0086
+          },
+          "confidence": 0.9838
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "CHEMICAL COORDINATION AND INTEGRATION",
+          "bbox": {
+            "x_min": 0.111,
+            "y_min": 0.0801,
+            "x_max": 0.4366,
+            "y_max": 0.0903,
+            "width": 0.3255,
+            "height": 0.0103
+          },
+          "confidence": 0.9826
+        },
+        {
+          "text": "EXERCISES",
+          "bbox": {
+            "x_min": 0.4454,
+            "y_min": 0.1336,
+            "x_max": 0.5511,
+            "y_max": 0.1451,
+            "width": 0.1058,
+            "height": 0.0116
+          },
+          "confidence": 0.9791
+        },
+        {
+          "text": "1. Define the following:",
+          "bbox": {
+            "x_min": 0.1333,
+            "y_min": 0.1849,
+            "x_max": 0.3331,
+            "y_max": 0.1973,
+            "width": 0.1999,
+            "height": 0.0124
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "(a) Exocrine gland",
+          "bbox": {
+            "x_min": 0.1642,
+            "y_min": 0.2051,
+            "x_max": 0.315,
+            "y_max": 0.2179,
+            "width": 0.1508,
+            "height": 0.0128
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "(b) Endocrine gland",
+          "bbox": {
+            "x_min": 0.1636,
+            "y_min": 0.223,
+            "x_max": 0.329,
+            "y_max": 0.235,
+            "width": 0.1654,
+            "height": 0.012
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "(c) Hormone",
+          "bbox": {
+            "x_min": 0.1625,
+            "y_min": 0.2414,
+            "x_max": 0.2653,
+            "y_max": 0.253,
+            "width": 0.1029,
+            "height": 0.0116
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "2. Diagrammatically indicate the location of the various endocrine glands in our\nbody.",
+          "bbox": {
+            "x_min": 0.1315,
+            "y_min": 0.2628,
+            "x_max": 0.8352,
+            "y_max": 0.2937,
+            "width": 0.7037,
+            "height": 0.0308
+          },
+          "confidence": 0.9973
+        },
+        {
+          "text": "3. List the hormones secreted by the following:",
+          "bbox": {
+            "x_min": 0.1309,
+            "y_min": 0.3031,
+            "x_max": 0.5336,
+            "y_max": 0.3151,
+            "width": 0.4027,
+            "height": 0.012
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "(a) Hypothalamus (b) Pituitary",
+          "bbox": {
+            "x_min": 0.1636,
+            "y_min": 0.3228,
+            "x_max": 0.4302,
+            "y_max": 0.3356,
+            "width": 0.2665,
+            "height": 0.0128
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "(e) Adrenal",
+          "bbox": {
+            "x_min": 0.1625,
+            "y_min": 0.3408,
+            "x_max": 0.2548,
+            "y_max": 0.3536,
+            "width": 0.0923,
+            "height": 0.0128
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "(i) Thymus",
+          "bbox": {
+            "x_min": 0.1636,
+            "y_min": 0.3587,
+            "x_max": 0.2519,
+            "y_max": 0.372,
+            "width": 0.0883,
+            "height": 0.0133
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "(c) Thyroid",
+          "bbox": {
+            "x_min": 0.467,
+            "y_min": 0.3228,
+            "x_max": 0.5552,
+            "y_max": 0.3356,
+            "width": 0.0883,
+            "height": 0.0128
+          },
+          "confidence": 0.9633
+        },
+        {
+          "text": "(d) Parathyroid",
+          "bbox": {
+            "x_min": 0.5827,
+            "y_min": 0.3228,
+            "x_max": 0.7072,
+            "y_max": 0.3356,
+            "width": 0.1245,
+            "height": 0.0128
+          },
+          "confidence": 0.9788
+        },
+        {
+          "text": "(f) Pancreas",
+          "bbox": {
+            "x_min": 0.3296,
+            "y_min": 0.3412,
+            "x_max": 0.4302,
+            "y_max": 0.3527,
+            "width": 0.1005,
+            "height": 0.0116
+          },
+          "confidence": 0.9817
+        },
+        {
+          "text": "(g) Testis (h) Ovary",
+          "bbox": {
+            "x_min": 0.4658,
+            "y_min": 0.3412,
+            "x_max": 0.6598,
+            "y_max": 0.354,
+            "width": 0.194,
+            "height": 0.0128
+          },
+          "confidence": 0.9846
+        },
+        {
+          "text": "(j) Atrium",
+          "bbox": {
+            "x_min": 0.3296,
+            "y_min": 0.3587,
+            "x_max": 0.4109,
+            "y_max": 0.3711,
+            "width": 0.0812,
+            "height": 0.0124
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "(k) Kidney (1) G-I Tract",
+          "bbox": {
+            "x_min": 0.4658,
+            "y_min": 0.3587,
+            "x_max": 0.678,
+            "y_max": 0.3711,
+            "width": 0.2122,
+            "height": 0.0124
+          },
+          "confidence": 0.9826
+        },
+        {
+          "text": "blished",
+          "bbox": {
+            "x_min": 0.5967,
+            "y_min": 0.3078,
+            "x_max": 0.879,
+            "y_max": 0.4944,
+            "width": 0.2823,
+            "height": 0.1866
+          },
+          "confidence": 0.9769
+        },
+        {
+          "text": "4. Fill in the blanks:",
+          "bbox": {
+            "x_min": 0.1286,
+            "y_min": 0.3806,
+            "x_max": 0.3121,
+            "y_max": 0.3908,
+            "width": 0.1835,
+            "height": 0.0103
+          },
+          "confidence": 0.9854
+        },
+        {
+          "text": "Hormones",
+          "bbox": {
+            "x_min": 0.1625,
+            "y_min": 0.4015,
+            "x_max": 0.2542,
+            "y_max": 0.411,
+            "width": 0.0918,
+            "height": 0.0094
+          },
+          "confidence": 0.9827
+        },
+        {
+          "text": "(a) Hypothalamic hormones",
+          "bbox": {
+            "x_min": 0.1636,
+            "y_min": 0.4255,
+            "x_max": 0.3945,
+            "y_max": 0.4384,
+            "width": 0.2309,
+            "height": 0.0128
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "(b) Thyrotrophin (TSH)",
+          "bbox": {
+            "x_min": 0.1642,
+            "y_min": 0.4469,
+            "x_max": 0.3513,
+            "y_max": 0.4606,
+            "width": 0.187,
+            "height": 0.0137
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "(c) Corticotrophin (ACTH)",
+          "bbox": {
+            "x_min": 0.1636,
+            "y_min": 0.4683,
+            "x_max": 0.3746,
+            "y_max": 0.4812,
+            "width": 0.211,
+            "height": 0.0128
+          },
+          "confidence": 0.9851
+        },
+        {
+          "text": "(d) Gonadotrophins (LH, FSH)",
+          "bbox": {
+            "x_min": 0.1642,
+            "y_min": 0.4902,
+            "x_max": 0.4103,
+            "y_max": 0.5034,
+            "width": 0.2461,
+            "height": 0.0133
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "(e) Melanotrophin (MSH)",
+          "bbox": {
+            "x_min": 0.1636,
+            "y_min": 0.5124,
+            "x_max": 0.3682,
+            "y_max": 0.5248,
+            "width": 0.2046,
+            "height": 0.0124
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "Target gland",
+          "bbox": {
+            "x_min": 0.4646,
+            "y_min": 0.4007,
+            "x_max": 0.5786,
+            "y_max": 0.414,
+            "width": 0.114,
+            "height": 0.0133
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "5. Write short notes on the functions of the following hormones:",
+          "bbox": {
+            "x_min": 0.1321,
+            "y_min": 0.5347,
+            "x_max": 0.6768,
+            "y_max": 0.5471,
+            "width": 0.5447,
+            "height": 0.0124
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "(a) Parathyroid hormone (PTH)",
+          "bbox": {
+            "x_min": 0.1636,
+            "y_min": 0.5552,
+            "x_max": 0.4179,
+            "y_max": 0.5681,
+            "width": 0.2542,
+            "height": 0.0128
+          },
+          "confidence": 0.9763
+        },
+        {
+          "text": "(c) Thymosins",
+          "bbox": {
+            "x_min": 0.1642,
+            "y_min": 0.5723,
+            "x_max": 0.2794,
+            "y_max": 0.5856,
+            "width": 0.1151,
+            "height": 0.0133
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "(e) Estrogens",
+          "bbox": {
+            "x_min": 0.1642,
+            "y_min": 0.5912,
+            "x_max": 0.2718,
+            "y_max": 0.6032,
+            "width": 0.1075,
+            "height": 0.012
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "6. Give example(s) of:",
+          "bbox": {
+            "x_min": 0.1309,
+            "y_min": 0.613,
+            "x_max": 0.3168,
+            "y_max": 0.6254,
+            "width": 0.1859,
+            "height": 0.0124
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "(b) Thyroid hormones",
+          "bbox": {
+            "x_min": 0.4623,
+            "y_min": 0.5552,
+            "x_max": 0.6394,
+            "y_max": 0.5681,
+            "width": 0.1771,
+            "height": 0.0128
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "(d) Androgens",
+          "bbox": {
+            "x_min": 0.4594,
+            "y_min": 0.5723,
+            "x_max": 0.5769,
+            "y_max": 0.5852,
+            "width": 0.1175,
+            "height": 0.0128
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "(f) Insulin and Glucagon",
+          "bbox": {
+            "x_min": 0.4617,
+            "y_min": 0.5908,
+            "x_max": 0.6651,
+            "y_max": 0.6036,
+            "width": 0.2034,
+            "height": 0.0128
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "(a) Hyperglycemic hormone and hypoglycemic hormone",
+          "bbox": {
+            "x_min": 0.1636,
+            "y_min": 0.6336,
+            "x_max": 0.6277,
+            "y_max": 0.6464,
+            "width": 0.4641,
+            "height": 0.0128
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "(b) Hypercalcemic hormone",
+          "bbox": {
+            "x_min": 0.1625,
+            "y_min": 0.6511,
+            "x_max": 0.3922,
+            "y_max": 0.664,
+            "width": 0.2297,
+            "height": 0.0128
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "(c) Gonadotrophic hormones",
+          "bbox": {
+            "x_min": 0.1636,
+            "y_min": 0.6687,
+            "x_max": 0.4015,
+            "y_max": 0.6811,
+            "width": 0.2379,
+            "height": 0.0124
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "(d) Progestational hormone",
+          "bbox": {
+            "x_min": 0.1636,
+            "y_min": 0.6866,
+            "x_max": 0.3898,
+            "y_max": 0.6991,
+            "width": 0.2262,
+            "height": 0.0124
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "(e) Blood pressure lowering hormone",
+          "bbox": {
+            "x_min": 0.1642,
+            "y_min": 0.7046,
+            "x_max": 0.4722,
+            "y_max": 0.7179,
+            "width": 0.308,
+            "height": 0.0133
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "(f) Androgens and estrogens",
+          "bbox": {
+            "x_min": 0.1642,
+            "y_min": 0.7226,
+            "x_max": 0.3986,
+            "y_max": 0.735,
+            "width": 0.2344,
+            "height": 0.0124
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "7. Which hormonal deficiency is responsible for the following:",
+          "bbox": {
+            "x_min": 0.1315,
+            "y_min": 0.7444,
+            "x_max": 0.6575,
+            "y_max": 0.7568,
+            "width": 0.526,
+            "height": 0.0124
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "(a) Diabetes mellitus (b) Goitre (c) Cretinism",
+          "bbox": {
+            "x_min": 0.1636,
+            "y_min": 0.7646,
+            "x_max": 0.585,
+            "y_max": 0.777,
+            "width": 0.4214,
+            "height": 0.0124
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "8. Briefly mention the mechanism of action of FSH.",
+          "bbox": {
+            "x_min": 0.1309,
+            "y_min": 0.7868,
+            "x_max": 0.571,
+            "y_max": 0.7992,
+            "width": 0.4401,
+            "height": 0.0124
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "9. Match the following:",
+          "bbox": {
+            "x_min": 0.1309,
+            "y_min": 0.8086,
+            "x_max": 0.332,
+            "y_max": 0.8211,
+            "width": 0.2011,
+            "height": 0.0124
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "Column I",
+          "bbox": {
+            "x_min": 0.1625,
+            "y_min": 0.8288,
+            "x_max": 0.2455,
+            "y_max": 0.839,
+            "width": 0.083,
+            "height": 0.0103
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "4",
+          "bbox": {
+            "x_min": 0.1981,
+            "y_min": 0.8566,
+            "x_max": 0.2063,
+            "y_max": 0.8609,
+            "width": 0.0082,
+            "height": 0.0043
+          },
+          "confidence": 0.9612
+        },
+        {
+          "text": "(a) T\n(b) PTH",
+          "bbox": {
+            "x_min": 0.1625,
+            "y_min": 0.8472,
+            "x_max": 0.2221,
+            "y_max": 0.8763,
+            "width": 0.0596,
+            "height": 0.0291
+          },
+          "confidence": 0.9593
+        },
+        {
+          "text": "(c) GnRH",
+          "bbox": {
+            "x_min": 0.1636,
+            "y_min": 0.8823,
+            "x_max": 0.2367,
+            "y_max": 0.8938,
+            "width": 0.0731,
+            "height": 0.0116
+          },
+          "confidence": 0.9811
+        },
+        {
+          "text": "(d) LH",
+          "bbox": {
+            "x_min": 0.1625,
+            "y_min": 0.9007,
+            "x_max": 0.2116,
+            "y_max": 0.9127,
+            "width": 0.0491,
+            "height": 0.012
+          },
+          "confidence": 0.9766
+        },
+        {
+          "text": "Column II",
+          "bbox": {
+            "x_min": 0.3074,
+            "y_min": 0.8292,
+            "x_max": 0.3974,
+            "y_max": 0.8386,
+            "width": 0.09,
+            "height": 0.0094
+          },
+          "confidence": 0.984
+        },
+        {
+          "text": "(i) Hypothalamus",
+          "bbox": {
+            "x_min": 0.3203,
+            "y_min": 0.8476,
+            "x_max": 0.4664,
+            "y_max": 0.86,
+            "width": 0.1461,
+            "height": 0.0124
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "(ii) Thyroid",
+          "bbox": {
+            "x_min": 0.3144,
+            "y_min": 0.8652,
+            "x_max": 0.4085,
+            "y_max": 0.878,
+            "width": 0.0941,
+            "height": 0.0128
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "(iii) Pituitary",
+          "bbox": {
+            "x_min": 0.3098,
+            "y_min": 0.8827,
+            "x_max": 0.4167,
+            "y_max": 0.8955,
+            "width": 0.107,
+            "height": 0.0128
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "(iv) Parathyroid",
+          "bbox": {
+            "x_min": 0.3109,
+            "y_min": 0.9011,
+            "x_max": 0.443,
+            "y_max": 0.9135,
+            "width": 0.1321,
+            "height": 0.0124
+          },
+          "confidence": 0.9859
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5494,
+            "y_max": 0.9919,
+            "width": 0.0999,
+            "height": 0.0086
+          },
+          "confidence": 0.9838
+        },
+        {
+          "text": "251",
+          "bbox": {
+            "x_min": 0.8463,
+            "y_min": 0.0805,
+            "x_max": 0.8878,
+            "y_max": 0.0903,
+            "width": 0.0415,
+            "height": 0.0098
+          },
+          "confidence": 0.9939
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "dimension": {
+        "width": 2860.0,
+        "height": 2863.0
+      },
+      "paragraphs": [
+        {
+          "text": "NOTE",
+          "bbox": {
+            "x_min": 0.6962,
+            "y_min": 0.2749,
+            "x_max": 0.7367,
+            "y_max": 0.3154,
+            "width": 0.0406,
+            "height": 0.0405
+          },
+          "confidence": 0.9201
+        },
+        {
+          "text": "© NCERT",
+          "bbox": {
+            "x_min": 0.3573,
+            "y_min": 0.4673,
+            "x_max": 0.5885,
+            "y_max": 0.5051,
+            "width": 0.2311,
+            "height": 0.0377
+          },
+          "confidence": 0.8873
+        },
+        {
+          "text": "not to be republished",
+          "bbox": {
+            "x_min": 0.208,
+            "y_min": 0.5236,
+            "x_max": 0.749,
+            "y_max": 0.5746,
+            "width": 0.5409,
+            "height": 0.051
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.1955,
+            "y_min": 0.7583,
+            "x_max": 0.2427,
+            "y_max": 0.8054,
+            "width": 0.0472,
+            "height": 0.0472
+          },
+          "confidence": 0.9838
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

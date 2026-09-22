@@ -1,0 +1,3412 @@
+{
+  "chapter_id": "11th_biology_ch03_plant_kingdom_ch03_plant_kingdom_en",
+  "total_pages": 14,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "CHAPTER 3",
+          "bbox": {
+            "x_min": 0.3059,
+            "y_min": 0.3231,
+            "x_max": 0.4886,
+            "y_max": 0.3496,
+            "width": 0.1827,
+            "height": 0.0266
+          },
+          "confidence": 0.9642
+        },
+        {
+          "text": "PLANT KINGDOM",
+          "bbox": {
+            "x_min": 0.3106,
+            "y_min": 0.374,
+            "x_max": 0.5826,
+            "y_max": 0.4006,
+            "width": 0.272,
+            "height": 0.0266
+          },
+          "confidence": 0.9766
+        },
+        {
+          "text": "11080CH03",
+          "bbox": {
+            "x_min": 0.7986,
+            "y_min": 0.2121,
+            "x_max": 0.8447,
+            "y_max": 0.2181,
+            "width": 0.0461,
+            "height": 0.006
+          },
+          "confidence": 0.9804
+        },
+        {
+          "text": "Jished",
+          "bbox": {
+            "x_min": 0.6281,
+            "y_min": 0.3076,
+            "x_max": 0.8797,
+            "y_max": 0.4764,
+            "width": 0.2516,
+            "height": 0.1688
+          },
+          "confidence": 0.8515
+        },
+        {
+          "text": "3.1 Algae",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.452,
+            "x_max": 0.1559,
+            "y_max": 0.4649,
+            "width": 0.0846,
+            "height": 0.0129
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "3.2 Bryophytes",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.4786,
+            "x_max": 0.2043,
+            "y_max": 0.4919,
+            "width": 0.1319,
+            "height": 0.0133
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "3.3 Pteridophytes",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.5056,
+            "x_max": 0.223,
+            "y_max": 0.5184,
+            "width": 0.1506,
+            "height": 0.0129
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "3.4 Gymnosperms",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.533,
+            "x_max": 0.2283,
+            "y_max": 0.5458,
+            "width": 0.1565,
+            "height": 0.0129
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "3.5 Angiosperms",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.5596,
+            "x_max": 0.2166,
+            "y_max": 0.572,
+            "width": 0.1442,
+            "height": 0.0124
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "In the previous chapter, we looked at the broad classification of living\norganisms under the system proposed by Whittaker (1969) wherein he\nsuggested the Five Kingdom classification viz. Monera, Protista, Fungi,\nAnimalia and Plantae. In this chapter, we will deal in detail with further\nclassification within Kingdom Plantae popularly known as the 'plant\nkingdom'.",
+          "bbox": {
+            "x_min": 0.268,
+            "y_min": 0.4516,
+            "x_max": 0.8949,
+            "y_max": 0.5536,
+            "width": 0.627,
+            "height": 0.102
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "We must stress here that our understand understanding of the plant kingdom\nhas changed over time. Fungi, and members of the Monera and Protista\nhaving cell walls have now been excluded from Plantae though earlier\nclassifications placed them in the same kingdom. So, the cyanobacteria\nthat are also referred to as blue green algae are not 'algae' any more. In\nthis chapter, we will describe Algae, Bryophytes, Pteridophytes,\nGymnosperms and Angiosperms under Plantae.",
+          "bbox": {
+            "x_min": 0.2685,
+            "y_min": 0.5587,
+            "x_max": 0.8955,
+            "y_max": 0.6791,
+            "width": 0.627,
+            "height": 0.1204
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "no",
+          "bbox": {
+            "x_min": 0.1833,
+            "y_min": 0.7365,
+            "x_max": 0.3094,
+            "y_max": 0.8183,
+            "width": 0.1261,
+            "height": 0.0818
+          },
+          "confidence": 0.7824
+        },
+        {
+          "text": "Let us also look at classification within angiosperms to understand\nsome of the concerns that influenced the classification systems. The\nearliest systems of classification used only gross superficial morphological\ncharacters such as habit, colour, number and shape of leaves, etc. They\nwere based mainly on vegetative characters or on the androecium\nstructure (system given by Linnaeus). Such systems were artificial; they\nseparated the closely related species since they were based on a few\ncharacteristics. Also, the artificial systems gave equal weightage to\nvegetative and sexual characteristics; this is not acceptable since we know\nthat often the vegetative characters are more easily affected by\nenvironment. As against this, natural classification systems developed,\nwhich were based on natural affinities among the organisms and consider,",
+          "bbox": {
+            "x_min": 0.2691,
+            "y_min": 0.6829,
+            "x_max": 0.8949,
+            "y_max": 0.8925,
+            "width": 0.6258,
+            "height": 0.2095
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "24",
+          "bbox": {
+            "x_min": 0.1173,
+            "y_min": 0.0835,
+            "x_max": 0.1477,
+            "y_max": 0.0925,
+            "width": 0.0304,
+            "height": 0.009
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.0835,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0689,
+            "height": 0.0099
+          },
+          "confidence": 0.9778
+        },
+        {
+          "text": "not only the external features, but also internal features, like ultra-\nstructure, anatomy, embryology and phytochemistry. Such a\nclassification for flowering plants was given by George Bentham and\nJoseph Dalton Hooker.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.135,
+            "x_max": 0.9264,
+            "y_max": 0.2018,
+            "width": 0.6246,
+            "height": 0.0668
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "At present phylogenetic classification systems based on\nevolutionary relationships between the various organisms are acceptable.\nThis assumes that organisms belonging to the same taxa have a common\nancestor. We now use information from many other sources too to help\nresolve difficulties in classification. These become more important when\nthere is no supporting fossil evidence. Numerical Taxonomy which is\nnow easily carried out using computers is based on all observable\ncharacteristics. Number and codes are assigned to all the characters and\nthe data are then processed. In this way each character is given equal\nimportance and at the same time hundreds of characters can be\nconsidered. Cytotaxonomy, that is based on cytological information\nlike chromosome number, structure, behaviour and chemotaxonomy,\nthat uses the chemical constituents of the plant to resolve confusions,\nare also used by taxonomists these days.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.2065,
+            "x_max": 0.927,
+            "y_max": 0.4516,
+            "width": 0.6258,
+            "height": 0.2451
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "3.1 ALGAE",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.4773,
+            "x_max": 0.4232,
+            "y_max": 0.4901,
+            "width": 0.1214,
+            "height": 0.0129
+          },
+          "confidence": 0.9747
+        },
+        {
+          "text": "simple, thalloid, autotrophic and\nlargely aquatic (both fresh water and marine) organisms. They occur\nin a variety of other habitats: moist stones, soils and wood. Some of\nthem also occur in association with fungi (lichen) and animals (e.g.,\non sloth bear).",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.5124,
+            "x_max": 0.9282,
+            "y_max": 0.596,
+            "width": 0.6258,
+            "height": 0.0835
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "Algae are chlorophyll-bearing, si",
+          "bbox": {
+            "x_min": 0.2995,
+            "y_min": 0.4961,
+            "x_max": 0.6205,
+            "y_max": 0.5403,
+            "width": 0.3211,
+            "height": 0.0441
+          },
+          "confidence": 0.9841
+        },
+        {
+          "text": "The form and size of algae is highly variable, ranging from colonial\nforms like Volvox and the filamentous forms like Ulothrixand Spirogyra\n(Figure 3.1). A few of the marine forms such as kelps, form massive plant\nbodies.",
+          "bbox": {
+            "x_min": 0.2989,
+            "y_min": 0.6011,
+            "x_max": 0.9294,
+            "y_max": 0.665,
+            "width": 0.6305,
+            "height": 0.0638
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "The algae reproduce by vegetative, asexual and sexual methods.\nVegetative reproduction is by fragmentation. Each fragment develops into\na thallus. Asexual reproduction is by the production of different types of\nspores, the most common being the zoospores. They are flagellated\n(motile) and on germination gives rise to new plants. Sexual reproduction\ntakes place through fusion of two gametes. These gametes can be\nflagellated and similar in size (as in Ulothrix) or non-flagellated (non-motile)\nbut similar in size (as in Spirogyra). Such reproduction is called\nisogamous. Fusion of two gametes dissimilar in size, as in species of\nEudorina is termed as anisogamous. Fusion between one large, non-\nmotile (static) female gamete and a smaller, motile male gamete is termed\noogamous, e.g., Volvox, Fucus.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.6735,
+            "x_max": 0.9288,
+            "y_max": 0.883,
+            "width": 0.6276,
+            "height": 0.2095
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1926,
+            "y_min": 0.7095,
+            "x_max": 0.324,
+            "y_max": 0.8132,
+            "width": 0.1313,
+            "height": 0.1037
+          },
+          "confidence": 0.9692
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "PLANT KINGDOM",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.0831,
+            "x_max": 0.2358,
+            "y_max": 0.093,
+            "width": 0.1214,
+            "height": 0.0099
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "loid",
+          "bbox": {
+            "x_min": 0.15,
+            "y_min": 0.47,
+            "x_max": 0.1617,
+            "y_max": 0.4777,
+            "width": 0.0117,
+            "height": 0.0077
+          },
+          "confidence": 0.7421
+        },
+        {
+          "text": "14",
+          "bbox": {
+            "x_min": 0.1617,
+            "y_min": 0.5193,
+            "x_max": 0.1757,
+            "y_max": 0.5257,
+            "width": 0.014,
+            "height": 0.0064
+          },
+          "confidence": 0.712
+        },
+        {
+          "text": "Frond",
+          "bbox": {
+            "x_min": 0.2248,
+            "y_min": 0.488,
+            "x_max": 0.2755,
+            "y_max": 0.4966,
+            "width": 0.0508,
+            "height": 0.0086
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "Stipe",
+          "bbox": {
+            "x_min": 0.1967,
+            "y_min": 0.5664,
+            "x_max": 0.2393,
+            "y_max": 0.5775,
+            "width": 0.0426,
+            "height": 0.0111
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "Holdfast",
+          "bbox": {
+            "x_min": 0.2084,
+            "y_min": 0.5947,
+            "x_max": 0.2785,
+            "y_max": 0.602,
+            "width": 0.0701,
+            "height": 0.0073
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "(b-i)",
+          "bbox": {
+            "x_min": 0.1529,
+            "y_min": 0.6131,
+            "x_max": 0.1856,
+            "y_max": 0.6238,
+            "width": 0.0327,
+            "height": 0.0107
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "Daughter\ncolony",
+          "bbox": {
+            "x_min": 0.4232,
+            "y_min": 0.2009,
+            "x_max": 0.4985,
+            "y_max": 0.2258,
+            "width": 0.0753,
+            "height": 0.0249
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "(a-i)",
+          "bbox": {
+            "x_min": 0.2837,
+            "y_min": 0.3093,
+            "x_max": 0.3158,
+            "y_max": 0.3205,
+            "width": 0.0321,
+            "height": 0.0111
+          },
+          "confidence": 0.9821
+        },
+        {
+          "text": "Parent",
+          "bbox": {
+            "x_min": 0.4332,
+            "y_min": 0.2605,
+            "x_max": 0.488,
+            "y_max": 0.2678,
+            "width": 0.0549,
+            "height": 0.0073
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "colony",
+          "bbox": {
+            "x_min": 0.4332,
+            "y_min": 0.2738,
+            "x_max": 0.4886,
+            "y_max": 0.2849,
+            "width": 0.0555,
+            "height": 0.0111
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "Air bladder",
+          "bbox": {
+            "x_min": 0.4956,
+            "y_min": 0.4139,
+            "x_max": 0.5873,
+            "y_max": 0.4216,
+            "width": 0.0917,
+            "height": 0.0077
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "Frond",
+          "bbox": {
+            "x_min": 0.5055,
+            "y_min": 0.4464,
+            "x_max": 0.554,
+            "y_max": 0.4546,
+            "width": 0.0485,
+            "height": 0.0081
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "Midrib",
+          "bbox": {
+            "x_min": 0.4945,
+            "y_min": 0.4679,
+            "x_max": 0.5482,
+            "y_max": 0.4756,
+            "width": 0.0537,
+            "height": 0.0077
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "(a-ii)",
+          "bbox": {
+            "x_min": 0.6194,
+            "y_min": 0.3479,
+            "x_max": 0.6562,
+            "y_max": 0.3595,
+            "width": 0.0368,
+            "height": 0.0116
+          },
+          "confidence": 0.9815
+        },
+        {
+          "text": "Frond",
+          "bbox": {
+            "x_min": 0.7963,
+            "y_min": 0.4357,
+            "x_max": 0.8459,
+            "y_max": 0.4443,
+            "width": 0.0496,
+            "height": 0.0086
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "25",
+          "bbox": {
+            "x_min": 0.8459,
+            "y_min": 0.0827,
+            "x_max": 0.8704,
+            "y_max": 0.093,
+            "width": 0.0245,
+            "height": 0.0103
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "be repushed",
+          "bbox": {
+            "x_min": 0.3742,
+            "y_min": 0.3033,
+            "x_max": 0.885,
+            "y_max": 0.6787,
+            "width": 0.5108,
+            "height": 0.3753
+          },
+          "confidence": 0.8237
+        },
+        {
+          "text": "NO",
+          "bbox": {
+            "x_min": 0.2977,
+            "y_min": 0.5069,
+            "x_max": 0.4612,
+            "y_max": 0.6302,
+            "width": 0.1635,
+            "height": 0.1234
+          },
+          "confidence": 0.88
+        },
+        {
+          "text": "Frond",
+          "bbox": {
+            "x_min": 0.3579,
+            "y_min": 0.6855,
+            "x_max": 0.4075,
+            "y_max": 0.6937,
+            "width": 0.0496,
+            "height": 0.0081
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "Stipe",
+          "bbox": {
+            "x_min": 0.7612,
+            "y_min": 0.5874,
+            "x_max": 0.8021,
+            "y_max": 0.5973,
+            "width": 0.0409,
+            "height": 0.0099
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "(b-iii)",
+          "bbox": {
+            "x_min": 0.6924,
+            "y_min": 0.6135,
+            "x_max": 0.7338,
+            "y_max": 0.6247,
+            "width": 0.0414,
+            "height": 0.0111
+          },
+          "confidence": 0.9745
+        },
+        {
+          "text": "Main axis",
+          "bbox": {
+            "x_min": 0.6556,
+            "y_min": 0.6812,
+            "x_max": 0.7332,
+            "y_max": 0.6889,
+            "width": 0.0776,
+            "height": 0.0077
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "Branches",
+          "bbox": {
+            "x_min": 0.6924,
+            "y_min": 0.7464,
+            "x_max": 0.77,
+            "y_max": 0.7549,
+            "width": 0.0776,
+            "height": 0.0086
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "(c-i)",
+          "bbox": {
+            "x_min": 0.2732,
+            "y_min": 0.8303,
+            "x_max": 0.3047,
+            "y_max": 0.8415,
+            "width": 0.0315,
+            "height": 0.0111
+          },
+          "confidence": 0.9312
+        },
+        {
+          "text": "(c-ii)",
+          "bbox": {
+            "x_min": 0.5809,
+            "y_min": 0.844,
+            "x_max": 0.6159,
+            "y_max": 0.8552,
+            "width": 0.035,
+            "height": 0.0111
+          },
+          "confidence": 0.966
+        },
+        {
+          "text": "Figure 3.1 Algae :",
+          "bbox": {
+            "x_min": 0.1296,
+            "y_min": 0.8625,
+            "x_max": 0.2872,
+            "y_max": 0.8749,
+            "width": 0.1576,
+            "height": 0.0124
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "(a) Green algae (i) Volvox\n(b) Brown algae (i) Laminaria (ii) Fucus\n(c) Red algae",
+          "bbox": {
+            "x_min": 0.317,
+            "y_min": 0.8625,
+            "x_max": 0.6538,
+            "y_max": 0.9032,
+            "width": 0.3368,
+            "height": 0.0407
+          },
+          "confidence": 0.9703
+        },
+        {
+          "text": "(ii) Ulothrix",
+          "bbox": {
+            "x_min": 0.5773,
+            "y_min": 0.8625,
+            "x_max": 0.6696,
+            "y_max": 0.8736,
+            "width": 0.0922,
+            "height": 0.0111
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "(iii) Dictyota",
+          "bbox": {
+            "x_min": 0.7233,
+            "y_min": 0.877,
+            "x_max": 0.8231,
+            "y_max": 0.8886,
+            "width": 0.0998,
+            "height": 0.0116
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "(i) Porphyra (ii) Polysiphonia",
+          "bbox": {
+            "x_min": 0.4548,
+            "y_min": 0.8912,
+            "x_max": 0.7075,
+            "y_max": 0.904,
+            "width": 0.2528,
+            "height": 0.0129
+          },
+          "confidence": 0.9812
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "26",
+          "bbox": {
+            "x_min": 0.1185,
+            "y_min": 0.0844,
+            "x_max": 0.1448,
+            "y_max": 0.0925,
+            "width": 0.0263,
+            "height": 0.0081
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.0835,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0683,
+            "height": 0.0094
+          },
+          "confidence": 0.9765
+        },
+        {
+          "text": "Algae are useful to man in a variety of ways. At least a half of the\ntotal carbon dioxide fixation on earth is carried out by algae through\nphotosynthesis. Being photosynthetic, they increase the level of dissolved\noxygen in their immediate environment. They are of paramount\nimportance as primary producers of energy-rich compounds which form\nthe basis of the food cycles of all aquatic animals. Many species of Porphyra,\nLaminaria and Sargassum are among the 70 species of marine algae\nused as food. Certain marine brown and red algae produce large amounts\nof hydrocolloids (water holding substances), e.g., algin (brown algae) and\ncarrageen (red algae) which are used commercially. Agar, one of the\ncommercial products obtained from Gelidium and Gracilaria are used to\ngrow microbes and in preparations of ice-creams and jellies. Chlorella,\na unicellular alga rich in proteins, is used as food supplement even by\nspace travellers. The algae are divided into three main classes:\nChlorophyceae, Phaeophyceae and \nRhodophyceae.",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.1341,
+            "x_max": 0.9282,
+            "y_max": 0.3976,
+            "width": 0.6252,
+            "height": 0.2635
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "3.1.1",
+          "bbox": {
+            "x_min": 0.3047,
+            "y_min": 0.4156,
+            "x_max": 0.3579,
+            "y_max": 0.4302,
+            "width": 0.0531,
+            "height": 0.0146
+          },
+          "confidence": 0.9717
+        },
+        {
+          "text": "Chlorophyceae",
+          "bbox": {
+            "x_min": 0.383,
+            "y_min": 0.4156,
+            "x_max": 0.5441,
+            "y_max": 0.4302,
+            "width": 0.1611,
+            "height": 0.0146
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "The members of chlorophyceae are commonly called green algae. The\nplant body may be unicellular, colonial or filamentous. They are usually\ngrass green due to the dominance of pigments chlorophyll a and b. The\npigments are localised in definite chloroplasts. The chloroplasts may be\ndiscoid, plate-like, reticulate, cup-shaped, spiral or ribbon-shaped in\ndifferent species. Most of the members have one or more storage bodies\ncalled pyrenoids located in the chloroplasts. Pyrenoids contain protein\nbesides starch. Some algae may store food in the form of oil droplets.\nGreen algae usually have a rigid cell wall made of an inner layer of cellulose\nand an outer layer of pectose.",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.443,
+            "x_max": 0.9282,
+            "y_max": 0.6165,
+            "width": 0.6252,
+            "height": 0.1735
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "Vegetative reproduction usually takes place by fragmentation.\nAsexual reproduction is by flagellated zoospores produced in\nzoosporangia. The sexual reproduction shows considerable variation in\nthe type and formation of sex cells and it may be isogamous,\nanisogamous or oogamous. Some commonly found green algae are:\nChlamydomonas, Volvox, Ulothrix, Spirogyra and Chara (Figure 3.1a).",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.6208,
+            "x_max": 0.9282,
+            "y_max": 0.7237,
+            "width": 0.6252,
+            "height": 0.1028
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "3.1.2 Phaeophyceae",
+          "bbox": {
+            "x_min": 0.3047,
+            "y_min": 0.7421,
+            "x_max": 0.5377,
+            "y_max": 0.7575,
+            "width": 0.2329,
+            "height": 0.0154
+          },
+          "confidence": 0.9722
+        },
+        {
+          "text": "The members of phaeophyceae or brown algae are found primarily in\nmarine habitats. They show great variation in size and form. They range\nfrom simple branched, filamentous forms (Ectocarpus) to profusely\nbranched forms as represented by kelps, which may reach a height of\n100 metres. They possess chlorophyll a, c, carotenoids and xanthophylls.\nThey vary in colour from olive green to various shades of brown depending\nupon the amount of the xanthophyll pigment, fucoxanthin present in",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.7682,
+            "x_max": 0.9294,
+            "y_max": 0.8895,
+            "width": 0.6276,
+            "height": 0.1213
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1932,
+            "y_min": 0.7104,
+            "x_max": 0.3257,
+            "y_max": 0.8123,
+            "width": 0.1325,
+            "height": 0.102
+          },
+          "confidence": 0.9651
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "PLANT KINGDOM",
+          "bbox": {
+            "x_min": 0.1121,
+            "y_min": 0.0827,
+            "x_max": 0.237,
+            "y_max": 0.0925,
+            "width": 0.1249,
+            "height": 0.0099
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "27",
+          "bbox": {
+            "x_min": 0.8441,
+            "y_min": 0.084,
+            "x_max": 0.8716,
+            "y_max": 0.0925,
+            "width": 0.0274,
+            "height": 0.0086
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "them. Food is stored as complex carbohydrates, which may be in the\nform of laminarin or mannitol. The vegetative cells have a cellulosic wall\nusually covered on the outside by a gelatinous coating of algin. The\nprotoplast contains, in addition to plastids, a centrally located vacuole\nand nucleus. The plant body is usually attached to the substratum by a\nholdfast, and has a stalk, the stipe and leaf like photosynthetic organ\nthe frond. Vegetative reproduction takes place by fragmentation. Asexual\nreproduction in most brown algae is by biflagellate zoospores that are\npear-shaped and have two unequal laterally attached flagella.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.135,
+            "x_max": 0.6988,
+            "y_max": 0.2913,
+            "width": 0.6264,
+            "height": 0.1564
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "Sexual reproduction may be isogamous, anisogamous or oogamous.\nUnion of gametes may take place in water or within the oogonium\n(oogamous species). The gametes are pyriform (pear-shaped) and bear\ntwo laterally attached flagella. The common forms are Ectocarpus, Dictyota,\nLaminaria, Sargassum and Fucus (Figure 3.1b).",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.2952,
+            "x_max": 0.6976,
+            "y_max": 0.3805,
+            "width": 0.6252,
+            "height": 0.0853
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "3.1.3 Rhodophyceae",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.3993,
+            "x_max": 0.3018,
+            "y_max": 0.4139,
+            "width": 0.2283,
+            "height": 0.0146
+          },
+          "confidence": 0.9864
+        },
+        {
+          "text": "ished",
+          "bbox": {
+            "x_min": 0.6702,
+            "y_min": 0.3055,
+            "x_max": 0.8722,
+            "y_max": 0.458,
+            "width": 0.202,
+            "height": 0.1525
+          },
+          "confidence": 0.918
+        },
+        {
+          "text": "The members of rhodophyceae are commonly called red algae because of\nthe predominance of the red pigment, r-phycoerythrin in their body. Majority\nof the red algae are marine with greater concentrations found in the warmer\nareas. They occur in both well-lighted regions close to the surface of water\nand also at great depths in oceans where relatively little light penetrates.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.425,
+            "x_max": 0.6982,
+            "y_max": 0.5111,
+            "width": 0.6264,
+            "height": 0.0861
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "The red thalli of most of the red algae are multicellular. Some of them\nhave complex body organisation. The food is stored as floridean starch\nwhich is very similar to amylopectin and glycogen in structure.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.5146,
+            "x_max": 0.6976,
+            "y_max": 0.5647,
+            "width": 0.6258,
+            "height": 0.0501
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "The red algae usually reproduce vegetatively by fragmentation. They\nreproduce asexually by non-motile spores and sexually by non-motile",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.569,
+            "x_max": 0.6982,
+            "y_max": 0.5998,
+            "width": 0.6241,
+            "height": 0.0308
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "Classes",
+          "bbox": {
+            "x_min": 0.0753,
+            "y_min": 0.6534,
+            "x_max": 0.1419,
+            "y_max": 0.662,
+            "width": 0.0665,
+            "height": 0.0086
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "TABLE 3.1 Divisions of Algae and their Main Characteristics",
+          "bbox": {
+            "x_min": 0.2172,
+            "y_min": 0.6208,
+            "x_max": 0.7501,
+            "y_max": 0.6341,
+            "width": 0.533,
+            "height": 0.0133
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "Common Major\nName\nPigments",
+          "bbox": {
+            "x_min": 0.2113,
+            "y_min": 0.653,
+            "x_max": 0.3946,
+            "y_max": 0.6791,
+            "width": 0.1833,
+            "height": 0.0261
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "Stored\nFood",
+          "bbox": {
+            "x_min": 0.4431,
+            "y_min": 0.6534,
+            "x_max": 0.502,
+            "y_max": 0.6752,
+            "width": 0.059,
+            "height": 0.0219
+          },
+          "confidence": 0.9799
+        },
+        {
+          "text": "Cell Wall",
+          "bbox": {
+            "x_min": 0.5447,
+            "y_min": 0.6534,
+            "x_max": 0.6188,
+            "y_max": 0.6615,
+            "width": 0.0741,
+            "height": 0.0081
+          },
+          "confidence": 0.9836
+        },
+        {
+          "text": "Chlorophyceae Green\nalgae",
+          "bbox": {
+            "x_min": 0.0759,
+            "y_min": 0.7155,
+            "x_max": 0.2644,
+            "y_max": 0.7421,
+            "width": 0.1886,
+            "height": 0.0266
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "Chlorophyll\na, b",
+          "bbox": {
+            "x_min": 0.31,
+            "y_min": 0.7155,
+            "x_max": 0.4069,
+            "y_max": 0.7404,
+            "width": 0.0969,
+            "height": 0.0249
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "Starch",
+          "bbox": {
+            "x_min": 0.4431,
+            "y_min": 0.7159,
+            "x_max": 0.5015,
+            "y_max": 0.7245,
+            "width": 0.0584,
+            "height": 0.0086
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "Cellulose",
+          "bbox": {
+            "x_min": 0.5435,
+            "y_min": 0.7159,
+            "x_max": 0.6217,
+            "y_max": 0.7241,
+            "width": 0.0782,
+            "height": 0.0081
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "Phaeophyceae Brown\nalgae",
+          "bbox": {
+            "x_min": 0.0759,
+            "y_min": 0.7656,
+            "x_max": 0.2668,
+            "y_max": 0.7926,
+            "width": 0.1909,
+            "height": 0.027
+          },
+          "confidence": 0.9851
+        },
+        {
+          "text": "a, c,",
+          "bbox": {
+            "x_min": 0.31,
+            "y_min": 0.7841,
+            "x_max": 0.3444,
+            "y_max": 0.7913,
+            "width": 0.0344,
+            "height": 0.0073
+          },
+          "confidence": 0.8207
+        },
+        {
+          "text": "Rhodophyceae Red",
+          "bbox": {
+            "x_min": 0.0759,
+            "y_min": 0.8316,
+            "x_max": 0.244,
+            "y_max": 0.8436,
+            "width": 0.1681,
+            "height": 0.012
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "algae",
+          "bbox": {
+            "x_min": 0.2125,
+            "y_min": 0.847,
+            "x_max": 0.2574,
+            "y_max": 0.8573,
+            "width": 0.045,
+            "height": 0.0103
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "Chlorophyll Mannitol,",
+          "bbox": {
+            "x_min": 0.3094,
+            "y_min": 0.7665,
+            "x_max": 0.5225,
+            "y_max": 0.7785,
+            "width": 0.2131,
+            "height": 0.012
+          },
+          "confidence": 0.9854
+        },
+        {
+          "text": "fucoxanthin",
+          "bbox": {
+            "x_min": 0.3106,
+            "y_min": 0.7956,
+            "x_max": 0.4121,
+            "y_max": 0.8051,
+            "width": 0.1016,
+            "height": 0.0094
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "Chlorophyll",
+          "bbox": {
+            "x_min": 0.3088,
+            "y_min": 0.8312,
+            "x_max": 0.4081,
+            "y_max": 0.844,
+            "width": 0.0992,
+            "height": 0.0129
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "a, d,",
+          "bbox": {
+            "x_min": 0.3106,
+            "y_min": 0.847,
+            "x_max": 0.345,
+            "y_max": 0.8565,
+            "width": 0.0344,
+            "height": 0.0094
+          },
+          "confidence": 0.953
+        },
+        {
+          "text": "phycoerythrin",
+          "bbox": {
+            "x_min": 0.3106,
+            "y_min": 0.8608,
+            "x_max": 0.4285,
+            "y_max": 0.8728,
+            "width": 0.1179,
+            "height": 0.012
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "Cellulose",
+          "bbox": {
+            "x_min": 0.5458,
+            "y_min": 0.7665,
+            "x_max": 0.6217,
+            "y_max": 0.7772,
+            "width": 0.0759,
+            "height": 0.0107
+          },
+          "confidence": 0.984
+        },
+        {
+          "text": "laminarin and algin",
+          "bbox": {
+            "x_min": 0.4442,
+            "y_min": 0.7806,
+            "x_max": 0.6241,
+            "y_max": 0.7926,
+            "width": 0.1798,
+            "height": 0.012
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "Floridean",
+          "bbox": {
+            "x_min": 0.4454,
+            "y_min": 0.8316,
+            "x_max": 0.5225,
+            "y_max": 0.8428,
+            "width": 0.0771,
+            "height": 0.0111
+          },
+          "confidence": 0.9792
+        },
+        {
+          "text": "starch",
+          "bbox": {
+            "x_min": 0.4448,
+            "y_min": 0.847,
+            "x_max": 0.498,
+            "y_max": 0.8552,
+            "width": 0.0531,
+            "height": 0.0081
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "Flagellar\nNumber and\nPosition of\nInsertions",
+          "bbox": {
+            "x_min": 0.6474,
+            "y_min": 0.6534,
+            "x_max": 0.7554,
+            "y_max": 0.7052,
+            "width": 0.108,
+            "height": 0.0518
+          },
+          "confidence": 0.9853
+        },
+        {
+          "text": "2-8, equal,\napical",
+          "bbox": {
+            "x_min": 0.6468,
+            "y_min": 0.7164,
+            "x_max": 0.7367,
+            "y_max": 0.7421,
+            "width": 0.0899,
+            "height": 0.0257
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "2, unequal,\nlateral",
+          "bbox": {
+            "x_min": 0.6462,
+            "y_min": 0.7665,
+            "x_max": 0.7426,
+            "y_max": 0.7896,
+            "width": 0.0963,
+            "height": 0.0231
+          },
+          "confidence": 0.9839
+        },
+        {
+          "text": "Cellulose, Absent",
+          "bbox": {
+            "x_min": 0.5458,
+            "y_min": 0.8316,
+            "x_max": 0.7069,
+            "y_max": 0.8423,
+            "width": 0.1611,
+            "height": 0.0107
+          },
+          "confidence": 0.9828
+        },
+        {
+          "text": "pectin and",
+          "bbox": {
+            "x_min": 0.5441,
+            "y_min": 0.8462,
+            "x_max": 0.6346,
+            "y_max": 0.8578,
+            "width": 0.0905,
+            "height": 0.0116
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "poly",
+          "bbox": {
+            "x_min": 0.5417,
+            "y_min": 0.8612,
+            "x_max": 0.5797,
+            "y_max": 0.8732,
+            "width": 0.0379,
+            "height": 0.012
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "sulphate",
+          "bbox": {
+            "x_min": 0.5441,
+            "y_min": 0.8753,
+            "x_max": 0.6194,
+            "y_max": 0.8873,
+            "width": 0.0753,
+            "height": 0.012
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "esters",
+          "bbox": {
+            "x_min": 0.5447,
+            "y_min": 0.8903,
+            "x_max": 0.5949,
+            "y_max": 0.8985,
+            "width": 0.0502,
+            "height": 0.0081
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "Habitat",
+          "bbox": {
+            "x_min": 0.7636,
+            "y_min": 0.653,
+            "x_max": 0.8319,
+            "y_max": 0.6615,
+            "width": 0.0683,
+            "height": 0.0086
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "Fresh water,\nbrackish water,",
+          "bbox": {
+            "x_min": 0.7636,
+            "y_min": 0.7164,
+            "x_max": 0.8908,
+            "y_max": 0.7399,
+            "width": 0.1273,
+            "height": 0.0236
+          },
+          "confidence": 0.9831
+        },
+        {
+          "text": "salt water",
+          "bbox": {
+            "x_min": 0.7653,
+            "y_min": 0.7459,
+            "x_max": 0.8488,
+            "y_max": 0.7532,
+            "width": 0.0835,
+            "height": 0.0073
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "Fresh water",
+          "bbox": {
+            "x_min": 0.7653,
+            "y_min": 0.7665,
+            "x_max": 0.8651,
+            "y_max": 0.7776,
+            "width": 0.0998,
+            "height": 0.0111
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "(rare), brackish",
+          "bbox": {
+            "x_min": 0.7653,
+            "y_min": 0.7793,
+            "x_max": 0.8914,
+            "y_max": 0.7918,
+            "width": 0.1261,
+            "height": 0.0124
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "water, salt",
+          "bbox": {
+            "x_min": 0.7636,
+            "y_min": 0.7961,
+            "x_max": 0.8517,
+            "y_max": 0.8063,
+            "width": 0.0881,
+            "height": 0.0103
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "water",
+          "bbox": {
+            "x_min": 0.7624,
+            "y_min": 0.8106,
+            "x_max": 0.8138,
+            "y_max": 0.8188,
+            "width": 0.0514,
+            "height": 0.0081
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "Fresh water",
+          "bbox": {
+            "x_min": 0.7653,
+            "y_min": 0.832,
+            "x_max": 0.8651,
+            "y_max": 0.8406,
+            "width": 0.0998,
+            "height": 0.0086
+          },
+          "confidence": 0.977
+        },
+        {
+          "text": "(some),",
+          "bbox": {
+            "x_min": 0.7636,
+            "y_min": 0.8458,
+            "x_max": 0.8219,
+            "y_max": 0.8573,
+            "width": 0.0584,
+            "height": 0.0116
+          },
+          "confidence": 0.9839
+        },
+        {
+          "text": "brackish",
+          "bbox": {
+            "x_min": 0.7618,
+            "y_min": 0.8608,
+            "x_max": 0.8389,
+            "y_max": 0.8698,
+            "width": 0.0771,
+            "height": 0.009
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "water, salt",
+          "bbox": {
+            "x_min": 0.7636,
+            "y_min": 0.8757,
+            "x_max": 0.8517,
+            "y_max": 0.8852,
+            "width": 0.0881,
+            "height": 0.0094
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "water (most)",
+          "bbox": {
+            "x_min": 0.7642,
+            "y_min": 0.8886,
+            "x_max": 0.8669,
+            "y_max": 0.9006,
+            "width": 0.1027,
+            "height": 0.012
+          },
+          "confidence": 0.9859
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "28",
+          "bbox": {
+            "x_min": 0.1162,
+            "y_min": 0.084,
+            "x_max": 0.1471,
+            "y_max": 0.093,
+            "width": 0.0309,
+            "height": 0.009
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9259,
+            "y_max": 0.0934,
+            "width": 0.0695,
+            "height": 0.0094
+          },
+          "confidence": 0.978
+        },
+        {
+          "text": "gametes. Sexual reproduction is oogamous and accompanied by complex\npost fertilisation developments. The common members are: Polysiphonia,\nPorphyra (Figure 3.1c), Gracilaria and Gelidium.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.1358,
+            "x_max": 0.927,
+            "y_max": 0.1842,
+            "width": 0.6246,
+            "height": 0.0484
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "3.2 BRYOPHYTES",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.2099,
+            "x_max": 0.4769,
+            "y_max": 0.2219,
+            "width": 0.1757,
+            "height": 0.012
+          },
+          "confidence": 0.9765
+        },
+        {
+          "text": "Bryophytes include the various mosses and liverworts that are found\ncommonly growing in moist shaded areas in the hills (Figure 3.2).",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.2451,
+            "x_max": 0.9259,
+            "y_max": 0.2759,
+            "width": 0.6241,
+            "height": 0.0308
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "Gametophyte",
+          "bbox": {
+            "x_min": 0.1255,
+            "y_min": 0.7455,
+            "x_max": 0.2347,
+            "y_max": 0.7566,
+            "width": 0.1092,
+            "height": 0.0111
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "Leaves",
+          "bbox": {
+            "x_min": 0.3217,
+            "y_min": 0.6705,
+            "x_max": 0.3748,
+            "y_max": 0.6782,
+            "width": 0.0531,
+            "height": 0.0077
+          },
+          "confidence": 0.9782
+        },
+        {
+          "text": "Sporophyte",
+          "bbox": {
+            "x_min": 0.1384,
+            "y_min": 0.614,
+            "x_max": 0.2312,
+            "y_max": 0.6251,
+            "width": 0.0928,
+            "height": 0.0111
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "Seta",
+          "bbox": {
+            "x_min": 0.3438,
+            "y_min": 0.6315,
+            "x_max": 0.3777,
+            "y_max": 0.6392,
+            "width": 0.0339,
+            "height": 0.0077
+          },
+          "confidence": 0.9846
+        },
+        {
+          "text": "Main axis",
+          "bbox": {
+            "x_min": 0.3695,
+            "y_min": 0.7695,
+            "x_max": 0.4478,
+            "y_max": 0.7776,
+            "width": 0.0782,
+            "height": 0.0081
+          },
+          "confidence": 0.9803
+        },
+        {
+          "text": "Rhizoids",
+          "bbox": {
+            "x_min": 0.394,
+            "y_min": 0.7883,
+            "x_max": 0.4623,
+            "y_max": 0.7973,
+            "width": 0.0683,
+            "height": 0.009
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "(d)",
+          "bbox": {
+            "x_min": 0.7245,
+            "y_min": 0.8179,
+            "x_max": 0.7472,
+            "y_max": 0.829,
+            "width": 0.0228,
+            "height": 0.0111
+          },
+          "confidence": 0.9819
+        },
+        {
+          "text": "Archegonial\nbranch",
+          "bbox": {
+            "x_min": 0.819,
+            "y_min": 0.7018,
+            "x_max": 0.9171,
+            "y_max": 0.7249,
+            "width": 0.0981,
+            "height": 0.0231
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "noo be republished",
+          "bbox": {
+            "x_min": 0.1903,
+            "y_min": 0.2986,
+            "x_max": 0.8704,
+            "y_max": 0.8316,
+            "width": 0.6801,
+            "height": 0.533
+          },
+          "confidence": 0.7838
+        },
+        {
+          "text": "Branches",
+          "bbox": {
+            "x_min": 0.8494,
+            "y_min": 0.5741,
+            "x_max": 0.9241,
+            "y_max": 0.5818,
+            "width": 0.0747,
+            "height": 0.0077
+          },
+          "confidence": 0.9854
+        },
+        {
+          "text": "Rhizoids",
+          "bbox": {
+            "x_min": 0.3614,
+            "y_min": 0.5009,
+            "x_max": 0.4314,
+            "y_max": 0.5099,
+            "width": 0.0701,
+            "height": 0.009
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.3252,
+            "y_min": 0.5219,
+            "x_max": 0.3473,
+            "y_max": 0.5334,
+            "width": 0.0222,
+            "height": 0.0116
+          },
+          "confidence": 0.9775
+        },
+        {
+          "text": "Capsule",
+          "bbox": {
+            "x_min": 0.4022,
+            "y_min": 0.5668,
+            "x_max": 0.467,
+            "y_max": 0.5784,
+            "width": 0.0648,
+            "height": 0.0116
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "ONCERT",
+          "bbox": {
+            "x_min": 0.282,
+            "y_min": 0.3967,
+            "x_max": 0.6217,
+            "y_max": 0.6277,
+            "width": 0.3398,
+            "height": 0.2309
+          },
+          "confidence": 0.8708
+        },
+        {
+          "text": "Rhizoids",
+          "bbox": {
+            "x_min": 0.7799,
+            "y_min": 0.4991,
+            "x_max": 0.85,
+            "y_max": 0.5086,
+            "width": 0.0701,
+            "height": 0.0094
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.7099,
+            "y_min": 0.5266,
+            "x_max": 0.7291,
+            "y_max": 0.5373,
+            "width": 0.0193,
+            "height": 0.0107
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "Antheridial\nbranch",
+          "bbox": {
+            "x_min": 0.5762,
+            "y_min": 0.5527,
+            "x_max": 0.6673,
+            "y_max": 0.5763,
+            "width": 0.0911,
+            "height": 0.0236
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "Gemma cup",
+          "bbox": {
+            "x_min": 0.3327,
+            "y_min": 0.3972,
+            "x_max": 0.432,
+            "y_max": 0.4087,
+            "width": 0.0992,
+            "height": 0.0116
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "Archegoniophore",
+          "bbox": {
+            "x_min": 0.3053,
+            "y_min": 0.3256,
+            "x_max": 0.4437,
+            "y_max": 0.3363,
+            "width": 0.1384,
+            "height": 0.0107
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "Gemma cup",
+          "bbox": {
+            "x_min": 0.7519,
+            "y_min": 0.3955,
+            "x_max": 0.8523,
+            "y_max": 0.4075,
+            "width": 0.1004,
+            "height": 0.012
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "Antheridiophore",
+          "bbox": {
+            "x_min": 0.7402,
+            "y_min": 0.3085,
+            "x_max": 0.8722,
+            "y_max": 0.3201,
+            "width": 0.1319,
+            "height": 0.0116
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "(c)",
+          "bbox": {
+            "x_min": 0.3152,
+            "y_min": 0.8368,
+            "x_max": 0.3357,
+            "y_max": 0.8479,
+            "width": 0.0204,
+            "height": 0.0111
+          },
+          "confidence": 0.9342
+        },
+        {
+          "text": "Figure 3.2 Bryophytes: A liverwort – Marchantia (a) Female thallus (b) Male thallus",
+          "bbox": {
+            "x_min": 0.164,
+            "y_min": 0.862,
+            "x_max": 0.8751,
+            "y_max": 0.8745,
+            "width": 0.711,
+            "height": 0.0124
+          },
+          "confidence": 0.982
+        },
+        {
+          "text": "Mosses (c) Funaria, gametophyte and sporophyte (d) Sphagnum\ngametophyte",
+          "bbox": {
+            "x_min": 0.2691,
+            "y_min": 0.8762,
+            "x_max": 0.8225,
+            "y_max": 0.9036,
+            "width": 0.5534,
+            "height": 0.0274
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "PLANT KINGDOM",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.0831,
+            "x_max": 0.2358,
+            "y_max": 0.0925,
+            "width": 0.1214,
+            "height": 0.0094
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "29",
+          "bbox": {
+            "x_min": 0.8435,
+            "y_min": 0.084,
+            "x_max": 0.8739,
+            "y_max": 0.093,
+            "width": 0.0304,
+            "height": 0.009
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "Bryophytes are also called amphibians of the plant kingdom because\nthese plants can live in soil but are dependent on water for sexual\nreproduction. They usually occur in damp, humid and shaded localities.\nThey play an important role in plant succession on bare rocks/soil.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.135,
+            "x_max": 0.6964,
+            "y_max": 0.2022,
+            "width": 0.6246,
+            "height": 0.0673
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "The plant body of bryophytes is more differentiated than that of algae.\nIt is thallus-like and prostrate or erect, and attached to the substratum\nby unicellular or multicellular rhizoids. They lack true roots, stem or\nleaves. They may possess root-like, leaf-like or stem-like structures. The\nmain plant body of the bryophyte is haploid. It produces gametes, hence\nis called a gametophyte. The sex organs in bryophytes are multicellular.\nThe male sex organ is called antheridium. They produce biflagellate\nantherozoids. The female sex organ called archegonium is flask-shaped\nand produces a single egg. The antherozoids are released into water where\nthey come in contact with archegonium. An antherozoid fuses with the\negg to produce the zygote. Zygotes do not undergo reduction division\nimmediately. They produce a multicellular body called a sporophyte.\nThe sporophyte is not free-living but attached to the photosynthetic\ngametophyte and derives nourishment from it. Some cells of the\nsporophyte undergo reduction division (meiosis) to produce haploid\nspores. These spores germinate to produce gametophyte.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.2065,
+            "x_max": 0.697,
+            "y_max": 0.488,
+            "width": 0.6246,
+            "height": 0.2815
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "bished",
+          "bbox": {
+            "x_min": 0.6223,
+            "y_min": 0.3025,
+            "x_max": 0.8733,
+            "y_max": 0.5064,
+            "width": 0.251,
+            "height": 0.2039
+          },
+          "confidence": 0.7837
+        },
+        {
+          "text": "Bryophytes in general are of little economic importance but some\nmosses provide food for herbaceous mammals, birds and other animals.\nSpecies of Sphagnum, a moss, provide peat that have long been used as\nfuel, and as packing material for trans-shipment of living material because\nof their capacity to hold water. Mosses along with lichens are the first\norganisms to colonise rocks and hence, are of great ecological importance.\nThey decompose rocks making the substrate suitable for the growth of\nhigher plants. Since mosses form dense mats on the soil, they reduce the\nimpact of falling rain and prevent soil erosion. The bryophytes are divided\ninto liverworts and mosses.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.4923,
+            "x_max": 0.6982,
+            "y_max": 0.6632,
+            "width": 0.6264,
+            "height": 0.171
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "3.2.1",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.6847,
+            "x_max": 0.1273,
+            "y_max": 0.6971,
+            "width": 0.0555,
+            "height": 0.0124
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "Liverworts",
+          "bbox": {
+            "x_min": 0.1494,
+            "y_min": 0.6847,
+            "x_max": 0.2615,
+            "y_max": 0.6971,
+            "width": 0.1121,
+            "height": 0.0124
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "to",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.6645,
+            "x_max": 0.4016,
+            "y_max": 0.7237,
+            "width": 0.0992,
+            "height": 0.0591
+          },
+          "confidence": 0.7607
+        },
+        {
+          "text": "The liverworts grow usually in moist, shady habitats such as banks of\nstreams, marshy ground, damp soil, bark of trees and deep in the woods.\nThe plant body of a liverwort is thalloid, e.g., Marchantia. The thallus is\ndorsiventral and closely appressed to the substrate. The leafy members\nhave tiny leaf-like appendages in two rows on the stem-like structures.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.7117,
+            "x_max": 0.6982,
+            "y_max": 0.7965,
+            "width": 0.6264,
+            "height": 0.0848
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "Asexual reproduction in liverworts takes place by fragmentation of\nthalli, or by the formation of specialised structures called gemmae\n(sing. gemma). Gemmae are green, multicellular, asexual buds, which\ndevelop in small receptacles called gemma cups located on the thalli.\nThe gemmae become detached from the parent body and germinate to\nform new individuals. During sexual reproduction, male and female sex",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.8003,
+            "x_max": 0.6982,
+            "y_max": 0.9032,
+            "width": 0.6264,
+            "height": 0.1028
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "30",
+          "bbox": {
+            "x_min": 0.1179,
+            "y_min": 0.084,
+            "x_max": 0.1471,
+            "y_max": 0.093,
+            "width": 0.0292,
+            "height": 0.009
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9259,
+            "y_max": 0.0934,
+            "width": 0.0695,
+            "height": 0.0094
+          },
+          "confidence": 0.978
+        },
+        {
+          "text": "organs are produced either on the same or on different thalli. The\nsporophyte is differentiated into a foot, seta and capsule. After meiosis,\nspores are produced within the capsule. These spores germinate to form\nfree-living gametophytes.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.135,
+            "x_max": 0.9259,
+            "y_max": 0.2022,
+            "width": 0.6241,
+            "height": 0.0673
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "3.2.2 Mosses",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.2207,
+            "x_max": 0.453,
+            "y_max": 0.2322,
+            "width": 0.1524,
+            "height": 0.0116
+          },
+          "confidence": 0.9797
+        },
+        {
+          "text": "The predominant stage of the life cycle of a moss is the gametophyte which\nconsists of two stages. The first stage is the protonema stage, which\ndevelops directly from a spore. It is a creeping, green, branched and\nfrequently filamentous stage. The second stage is the leafy stage, which\ndevelops from the secondary protonema as a lateral bud. They consist of\nupright, slender axes bearing spirally arranged leaves. They are attached\nto the soil through multicellular and branched rhizoids. This stage bears\nthe sex organs.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.2472,
+            "x_max": 0.9276,
+            "y_max": 0.3852,
+            "width": 0.6264,
+            "height": 0.138
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "Vegetative reproduction in mosses is by fragmentation and budding\nin the secondary protonema. In sexual reproduction, the sex organs\nantheridia and archegonia are produced at the apex of the leafy shoots.\nAfter fertilisation, the zygote develops into a sporophyte, consisting of a\nfoot, seta and capsule. The sporophyte in mosses is more elaborate than\nthat in liverworts. The capsule contains spores. Spores are formed after\nmeiosis. The mosses have an elaborate mechanism of spore dispersal.\nCommon examples of mosses are Funaria, Polytrichum and Sphagnum\n(Figure 3.2).",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.3903,
+            "x_max": 0.9282,
+            "y_max": 0.5463,
+            "width": 0.627,
+            "height": 0.156
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "3.3",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.572,
+            "x_max": 0.3619,
+            "y_max": 0.5848,
+            "width": 0.0601,
+            "height": 0.0129
+          },
+          "confidence": 0.9769
+        },
+        {
+          "text": "PTERIDOPHYTES Ce",
+          "bbox": {
+            "x_min": 0.2843,
+            "y_min": 0.4974,
+            "x_max": 0.5844,
+            "y_max": 0.6602,
+            "width": 0.3001,
+            "height": 0.1628
+          },
+          "confidence": 0.7287
+        },
+        {
+          "text": "The Pteridophytes include horsetails and ferns. Pteridophytes are used\nfor medicinal purposes and as soil-binders. They are also frequently grown\nas ornamentals. Evolutionarily, they are the first terrestrial plants to\npossess vascular tissues – xylem and phloem. You shall study more about\nthese tissues in Chapter 6. The pteridophytes are found in cool, damp,\nshady places though some may flourish well in sandy-soil conditions.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.6063,
+            "x_max": 0.9264,
+            "y_max": 0.7099,
+            "width": 0.6246,
+            "height": 0.1037
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "You may recall that in bryophytes the dominant phase in the life",
+          "bbox": {
+            "x_min": 0.3322,
+            "y_min": 0.7134,
+            "x_max": 0.9253,
+            "y_max": 0.7279,
+            "width": 0.5931,
+            "height": 0.0146
+          },
+          "confidence": 0.9968
+        },
+        {
+          "text": "cycle is the gametophytic plant body. However, interidophy the life",
+          "bbox": {
+            "x_min": 0.2983,
+            "y_min": 0.7159,
+            "x_max": 0.927,
+            "y_max": 0.7498,
+            "width": 0.6287,
+            "height": 0.0338
+          },
+          "confidence": 0.7686
+        },
+        {
+          "text": "main plant body is a sporophyte which is differentiated into true root,\nstem and leaves (Figure 3.3). These organs possess well-differentiated\nvascular tissues. The leaves in pteridophyta are small (microphylls) as\nin Selaginella or large (macrophylls) as in ferns. The sporophytes bear\nsporangia that are subtended by leaf-like appendages called\nsporophylls. In some cases sporophylls may form distinct compact\nstructures called strobili or cones (Selaginella, Equisetum). The\nsporangia produce spores by meiosis in spore mother cells. The spores\ngerminate to give rise to inconspicuous, small but multicellular,",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.7494,
+            "x_max": 0.9259,
+            "y_max": 0.9053,
+            "width": 0.6241,
+            "height": 0.156
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.195,
+            "y_min": 0.7082,
+            "x_max": 0.3275,
+            "y_max": 0.8141,
+            "width": 0.1325,
+            "height": 0.1058
+          },
+          "confidence": 0.9742
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "PLANT KINGDOM",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.0831,
+            "x_max": 0.2358,
+            "y_max": 0.0921,
+            "width": 0.1214,
+            "height": 0.009
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "Leaves",
+          "bbox": {
+            "x_min": 0.2592,
+            "y_min": 0.2035,
+            "x_max": 0.3129,
+            "y_max": 0.2125,
+            "width": 0.0537,
+            "height": 0.009
+          },
+          "confidence": 0.9791
+        },
+        {
+          "text": "Strobilus",
+          "bbox": {
+            "x_min": 0.7823,
+            "y_min": 0.1765,
+            "x_max": 0.8558,
+            "y_max": 0.1851,
+            "width": 0.0736,
+            "height": 0.0086
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "Stem",
+          "bbox": {
+            "x_min": 0.2107,
+            "y_min": 0.2648,
+            "x_max": 0.2539,
+            "y_max": 0.2729,
+            "width": 0.0432,
+            "height": 0.0081
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "Roots",
+          "bbox": {
+            "x_min": 0.4372,
+            "y_min": 0.2931,
+            "x_max": 0.4851,
+            "y_max": 0.3008,
+            "width": 0.0479,
+            "height": 0.0077
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "Node",
+          "bbox": {
+            "x_min": 0.7963,
+            "y_min": 0.2536,
+            "x_max": 0.8377,
+            "y_max": 0.2614,
+            "width": 0.0414,
+            "height": 0.0077
+          },
+          "confidence": 0.9818
+        },
+        {
+          "text": "Internode",
+          "bbox": {
+            "x_min": 0.7799,
+            "y_min": 0.2819,
+            "x_max": 0.8581,
+            "y_max": 0.2901,
+            "width": 0.0782,
+            "height": 0.0081
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "(c)",
+          "bbox": {
+            "x_min": 0.2475,
+            "y_min": 0.8432,
+            "x_max": 0.2685,
+            "y_max": 0.8543,
+            "width": 0.021,
+            "height": 0.0111
+          },
+          "confidence": 0.9433
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.2697,
+            "y_min": 0.3967,
+            "x_max": 0.2913,
+            "y_max": 0.4083,
+            "width": 0.0216,
+            "height": 0.0116
+          },
+          "confidence": 0.9735
+        },
+        {
+          "text": "31",
+          "bbox": {
+            "x_min": 0.8453,
+            "y_min": 0.084,
+            "x_max": 0.8733,
+            "y_max": 0.093,
+            "width": 0.028,
+            "height": 0.009
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "NCERT",
+          "bbox": {
+            "x_min": 0.3614,
+            "y_min": 0.395,
+            "x_max": 0.6141,
+            "y_max": 0.5767,
+            "width": 0.2528,
+            "height": 0.1817
+          },
+          "confidence": 0.9813
+        },
+        {
+          "text": "Rhizome",
+          "bbox": {
+            "x_min": 0.5569,
+            "y_min": 0.4829,
+            "x_max": 0.6281,
+            "y_max": 0.4923,
+            "width": 0.0712,
+            "height": 0.0094
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "Branch",
+          "bbox": {
+            "x_min": 0.798,
+            "y_min": 0.3925,
+            "x_max": 0.857,
+            "y_max": 0.4006,
+            "width": 0.059,
+            "height": 0.0081
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "be regbied",
+          "bbox": {
+            "x_min": 0.3643,
+            "y_min": 0.2973,
+            "x_max": 0.8908,
+            "y_max": 0.671,
+            "width": 0.5266,
+            "height": 0.3736
+          },
+          "confidence": 0.7976
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.6871,
+            "y_min": 0.5343,
+            "x_max": 0.7081,
+            "y_max": 0.545,
+            "width": 0.021,
+            "height": 0.0107
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "(d)",
+          "bbox": {
+            "x_min": 0.7227,
+            "y_min": 0.8363,
+            "x_max": 0.7461,
+            "y_max": 0.8475,
+            "width": 0.0234,
+            "height": 0.0111
+          },
+          "confidence": 0.982
+        },
+        {
+          "text": "Figure 3.3 Pteridophytes: (a) Selaginella (b) Equisetum (c) Fern (d) Salvinia",
+          "bbox": {
+            "x_min": 0.1605,
+            "y_min": 0.8873,
+            "x_max": 0.8085,
+            "y_max": 0.8993,
+            "width": 0.648,
+            "height": 0.012
+          },
+          "confidence": 0.9807
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.983
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "32",
+          "bbox": {
+            "x_min": 0.1179,
+            "y_min": 0.0844,
+            "x_max": 0.1465,
+            "y_max": 0.093,
+            "width": 0.0286,
+            "height": 0.0086
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9259,
+            "y_max": 0.0934,
+            "width": 0.0695,
+            "height": 0.0094
+          },
+          "confidence": 0.978
+        },
+        {
+          "text": "free-living, mostly photosynthetic thalloid gametophytes called\nprothallus. These gametophytes require cool, damp, shady places to\ngrow. Because of this specific restricted requirement and the need for\nwater for fertilisation, the spread of living pteridophytes is limited and\nrestricted to narrow geographical regions. The gametophytes bear male\nand female sex organs called antheridia and archegonia, respectively.\nWater is required for transfer of antherozoids – the male gametes released\nfrom the antheridia, to the mouth of archegonium. Fusion of male gamete\nwith the egg present in the archegonium result in the formation of zygote.\nZygote thereafter produces a multicellular well-differentiated sporophyte\nwhich is the dominant phase of the pteridophytes. In majority of the\npteridophytes all the spores are of similar kinds; such plants are called\nhomosporous. Genera like Selaginella and Salvinia which produce\ntwo kinds of spores, macro (large) and micro (small) spores, are known\nas heterosporous. The megaspores and microspores germinate and give\nrise to female and male gametophytes, respectively. The female\ngametophytes in these plants are retained on the parent sporophytes\nfor variable periods. The development of the zygotes into young embryos\ntake place within the female gametophytes. This event is a precursor to\nthe seed habit considered an important step in evolution.",
+          "bbox": {
+            "x_min": 0.3001,
+            "y_min": 0.1358,
+            "x_max": 0.927,
+            "y_max": 0.4871,
+            "width": 0.627,
+            "height": 0.3513
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "The pteridophytes are further classified into four classes: Psilopsida\n(Psilotum); Lycopsida (Selaginella, Lycopodium), Sphenopsida (Equisetum)\nand Pteropsida (Dryopteris, Pteris, Adiantum).",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.4919,
+            "x_max": 0.927,
+            "y_max": 0.5416,
+            "width": 0.6241,
+            "height": 0.0497
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "3.4 GYMNOSPERMS",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.5664,
+            "x_max": 0.495,
+            "y_max": 0.5793,
+            "width": 0.1938,
+            "height": 0.0129
+          },
+          "confidence": 0.9774
+        },
+        {
+          "text": "ris, Pteris,",
+          "bbox": {
+            "x_min": 0.5143,
+            "y_min": 0.5278,
+            "x_max": 0.6013,
+            "y_max": 0.5428,
+            "width": 0.087,
+            "height": 0.015
+          },
+          "confidence": 0.9643
+        },
+        {
+          "text": "The gymnosperms (gymnos : naked, sperma : seeds) are plants in which\nthe ovules are not enclosed by any ovary wall and remain exposed, both\nbefore and after fertilisation. The seeds that develop post-fertilisation, are\nnot covered, i.e., are naked. Gymnosperms include medium-sized trees\nor tall trees and shrubs (Figure 3.4). One of the gymnosperms, the giant\nredwood tree Sequoia is one of the tallest tree species. The roots are\ngenerally tap roots. Roots in some genera have fungal association in the\nform\nform \nof mycorrhiza (Pinus), while in some others (Cycas) small specialised\nroots called coralloid roots are associated with N₂- fixing cyanobacteria.\nThe stems are unbranched (Cycas) or branched (Pinus, Cedrus). The leaves\nmay be simple or compound. In Cycas the pinnate leaves persist for a few\nyears. The leaves in gymnosperms are well-adapted to withstand extremes\nof temperature, humidity and wind. In conifers, the needle-like leaves\nreduce the surface area. Their thick cuticle and sunken stomata also\nhelp to reduce water loss.",
+          "bbox": {
+            "x_min": 0.2942,
+            "y_min": 0.5981,
+            "x_max": 0.9294,
+            "y_max": 0.8655,
+            "width": 0.6351,
+            "height": 0.2674
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1915,
+            "y_min": 0.7095,
+            "x_max": 0.3292,
+            "y_max": 0.8166,
+            "width": 0.1378,
+            "height": 0.1071
+          },
+          "confidence": 0.9747
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "PLANT KINGDOM",
+          "bbox": {
+            "x_min": 0.1115,
+            "y_min": 0.0831,
+            "x_max": 0.237,
+            "y_max": 0.0925,
+            "width": 0.1255,
+            "height": 0.0094
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "33",
+          "bbox": {
+            "x_min": 0.8459,
+            "y_min": 0.0844,
+            "x_max": 0.8733,
+            "y_max": 0.093,
+            "width": 0.0274,
+            "height": 0.0086
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "The gymnosperms are heterosporous; they produce\nhaploid microspores and megaspores. The two kinds of\nspores are produced within sporangia that are borne\non sporophylls which are arranged spirally along an axis\nto form lax or compact strobili or cones. The strobili\nbearing microsporophylls and microsporangia are\ncalled microsporangiate or male strobili. The\nmicrospores develop into a male gametophytic\ngeneration which is highly reduced and is confined to\nonly a limited number of cells. This reduced\ngametophyte is called a pollen grain. The development\nof pollen grains take place within the microsporangia.\nThe cones bearing megasporophylls with ovules or\nmegasporangia are called macrosporangiate or female\nstrobili. The male or female cones or strobili may be\nborne on the same tree (Pinus). However, in cycas male\ncones and megasporophylls are borne on different trees.\nThe megaspore mother cell is differentiated from one of\nthe cells of the nucellus. The nucellus is protected by\nenvelopes and the composite structure is called an\novule. The ovules are borne on megasporophylls which\nmay be clustered to form the female cones. The\nmegaspore mother cell divides meiotically to form four\nmegaspores. One of the megaspores enclosed within the\nmegasporangium develops into a multicellular female\ngametophyte that bears two or more archegonia or\nfemale sex organs. The multicellular female gametophyte\nis also retained within megasporangium.",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.1358,
+            "x_max": 0.5318,
+            "y_max": 0.6302,
+            "width": 0.4606,
+            "height": 0.4944
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "Unlike bryophytes and pteridophytes, in\ngymnosperms, the male and the female\ngametophytes do not have an independent free-living\nexistence. They remain within the sporangia retained\non the sporophytes. The pollen grain is released from\nthe microsporangium. They are carried in air\ncurrents and come in contact with the opening of\nthe ovules borne on megasporophylls. The pollen\ntube carrying the male gametes grows towards\narchegonia in the ovules and discharge their contents\nnear the mouth of the archegonia. Following\nfertilisation, zygote develops into an embryo and the\novules into seeds. These seeds are not covered.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.635,
+            "x_max": 0.5312,
+            "y_max": 0.8599,
+            "width": 0.4588,
+            "height": 0.2249
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "Dwarf Shoot",
+          "bbox": {
+            "x_min": 0.5674,
+            "y_min": 0.6731,
+            "x_max": 0.6661,
+            "y_max": 0.6808,
+            "width": 0.0987,
+            "height": 0.0077
+          },
+          "confidence": 0.9837
+        },
+        {
+          "text": "Long Shoot",
+          "bbox": {
+            "x_min": 0.5733,
+            "y_min": 0.7322,
+            "x_max": 0.6597,
+            "y_max": 0.7425,
+            "width": 0.0864,
+            "height": 0.0103
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "Seeds",
+          "bbox": {
+            "x_min": 0.6188,
+            "y_min": 0.7931,
+            "x_max": 0.6608,
+            "y_max": 0.8012,
+            "width": 0.042,
+            "height": 0.0081
+          },
+          "confidence": 0.9742
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.7116,
+            "y_min": 0.3273,
+            "x_max": 0.735,
+            "y_max": 0.3389,
+            "width": 0.0234,
+            "height": 0.0116
+          },
+          "confidence": 0.9748
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.7128,
+            "y_min": 0.6217,
+            "x_max": 0.7356,
+            "y_max": 0.6328,
+            "width": 0.0228,
+            "height": 0.0111
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "(c)",
+          "bbox": {
+            "x_min": 0.7122,
+            "y_min": 0.8333,
+            "x_max": 0.735,
+            "y_max": 0.8445,
+            "width": 0.0228,
+            "height": 0.0111
+          },
+          "confidence": 0.9429
+        },
+        {
+          "text": "Figure 3.4 Gymnosperms: (a) Cycas\n(b) Pinus (c) Ginkgo",
+          "bbox": {
+            "x_min": 0.5517,
+            "y_min": 0.8552,
+            "x_max": 0.8967,
+            "y_max": 0.8822,
+            "width": 0.345,
+            "height": 0.027
+          },
+          "confidence": 0.9841
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.983
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "34",
+          "bbox": {
+            "x_min": 0.1168,
+            "y_min": 0.084,
+            "x_max": 0.1477,
+            "y_max": 0.093,
+            "width": 0.0309,
+            "height": 0.009
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8576,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0938,
+            "width": 0.0677,
+            "height": 0.0099
+          },
+          "confidence": 0.9786
+        },
+        {
+          "text": "3.5 ANGIOSPERMS",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.1332,
+            "x_max": 0.4904,
+            "y_max": 0.1461,
+            "width": 0.1897,
+            "height": 0.0129
+          },
+          "confidence": 0.9797
+        },
+        {
+          "text": "Unlike the gymnosperms where the ovules are naked, in the angiosperms\nor flowering plants, the pollen grains and ovules are developed in\nspecialised structures called flowers. In angiosperms, the seeds are\nenclosed in fruits. The angiosperms are an exceptionally large group of\nplants occurring in wide range of habitats. They range in size from the\nsmallest Wolffia to tall trees of Eucalyptus (over 100 metres). They provide\nus with food, fodder, fuel, medicines and several other commercially\nimportant products. They are divided into two classes : the dicotyledons\nand the monocotyledons (Figure 3.5).",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.1692,
+            "x_max": 0.9276,
+            "y_max": 0.3243,
+            "width": 0.6258,
+            "height": 0.1551
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "Figure 3.5 Angiosperm",
+          "bbox": {
+            "x_min": 0.3409,
+            "y_min": 0.5887,
+            "x_max": 0.5558,
+            "y_max": 0.614,
+            "width": 0.2148,
+            "height": 0.0253
+          },
+          "confidence": 0.8714
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.7694,
+            "y_min": 0.5835,
+            "x_max": 0.7893,
+            "y_max": 0.5934,
+            "width": 0.0198,
+            "height": 0.0099
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "Figure 3.5 Angiosperms : (a) A dicotyledon (b) A monocotyledon",
+          "bbox": {
+            "x_min": 0.3543,
+            "y_min": 0.6003,
+            "x_max": 0.8926,
+            "y_max": 0.6131,
+            "width": 0.5382,
+            "height": 0.0129
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "noto bes",
+          "bbox": {
+            "x_min": 0.174,
+            "y_min": 0.566,
+            "x_max": 0.5371,
+            "y_max": 0.8192,
+            "width": 0.3631,
+            "height": 0.2532
+          },
+          "confidence": 0.8442
+        },
+        {
+          "text": "SUMMARY",
+          "bbox": {
+            "x_min": 0.5809,
+            "y_min": 0.6444,
+            "x_max": 0.6778,
+            "y_max": 0.6555,
+            "width": 0.0969,
+            "height": 0.0111
+          },
+          "confidence": 0.9633
+        },
+        {
+          "text": "Plant kingdom includes algae, bryophytes, pteridophytes, gymnosperms\nand angiosperms. Algae are chlorophyll-bearing simple, thalloid,\nautotrophic and largely aquatic organisms. Depending on the type of\npigment possesed and the type of stored food, algae are classfied into\nthree classes, namely Chlorophyceae, Phaeophyceae and Rhodophyceae.\nAlgae usually reproduce vegetatively by fragmentation, asexually by\nformation of different types of spores and sexually by formation of gametes\nwhich may show isogamy, anisogamy or oogamy.",
+          "bbox": {
+            "x_min": 0.3001,
+            "y_min": 0.6949,
+            "x_max": 0.9282,
+            "y_max": 0.8325,
+            "width": 0.6281,
+            "height": 0.1375
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "Bryophytes are plants which can live in soil but are dependent on\nwater for sexual reproduction. Their plant body is more differentiated\nthan that of algae. It is thallus-like and prostrate or erect and attached to\nthe substratum by rhizoids. They possess root-like, leaf-like and stem-",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.8368,
+            "x_max": 0.9264,
+            "y_max": 0.9036,
+            "width": 0.6252,
+            "height": 0.0668
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "PLANT KINGDOM",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.0831,
+            "x_max": 0.2358,
+            "y_max": 0.0925,
+            "width": 0.1214,
+            "height": 0.0094
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "like structures. The bryophytes are divided into liverworts and mosses.\nThe plant body of liverworts is thalloid and dorsiventral whereas mosses\nhave upright, slender axes bearing spirally arranged leaves. The main\nplant body of a bryophyte is gamete-producing and is called a\ngametophyte. It bears the male sex organs called antheridia and female\nsex organs called archegonia. The male and female gametes produced\nfuse to form zygote which produces a multicellular body called a\nsporophyte. It produces haploid spores. The spores germinate to form\ngametophytes.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1358,
+            "x_max": 0.6976,
+            "y_max": 0.2909,
+            "width": 0.6258,
+            "height": 0.1551
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "In pteridophytes the main plant is a sporophyte which is differentiated\ninto true root, stem and leaves. These organs possess well-differentiated\nvascular tissues. The sporophytes bear sporangia which produce spores.\nThe spores germinate to form gametophytes which require cool, damp\nplaces to grow. The gametophytes bear male and female sex organs called\nantheridia and archegonia, respectively. Water is required for transfer of\nmale gametes to archegonium where zygote is formed after fertilisation.\nThe zygote produces a sporophyte.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.2961,
+            "x_max": 0.6982,
+            "y_max": 0.434,
+            "width": 0.6258,
+            "height": 0.138
+          },
+          "confidence": 0.9972
+        },
+        {
+          "text": "The gymnosperms are the plants in which ovules are not enclosed by\nany ovary wall. After fertilisation the seeds remain exposed and therefore\nthese plants are called naked-seeded plants. The gymnosperms produce\nmicrospores and megaspores which are produced in microsporangia and\nmegasporangia borne on the sporophylls. The sporophylls\nmicrosporophylls and megasporophylls are arranged spirally on axis\nto form male and female cones, respectively. The pollen grain germinates\nand pollen tube releases the male gamete into the ovule, where it fuses\nwith the egg cell in archegonia. Following fertilisation, the zygote develops\ninto embryo and the ovules into seeds.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.4396,
+            "x_max": 0.697,
+            "y_max": 0.6127,
+            "width": 0.6246,
+            "height": 0.1731
+          },
+          "confidence": 0.9973
+        },
+        {
+          "text": "The angiosperms are divided into two classes – the dicotyledons and\nthe monocotyledons.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.6174,
+            "x_max": 0.6959,
+            "y_max": 0.6478,
+            "width": 0.6229,
+            "height": 0.0304
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "☑",
+          "bbox": {
+            "x_min": 0.31,
+            "y_min": 0.6872,
+            "x_max": 0.3473,
+            "y_max": 0.7104,
+            "width": 0.0374,
+            "height": 0.0231
+          },
+          "confidence": 0.3749
+        },
+        {
+          "text": "EXERCISES",
+          "bbox": {
+            "x_min": 0.3473,
+            "y_min": 0.6881,
+            "x_max": 0.4524,
+            "y_max": 0.6997,
+            "width": 0.1051,
+            "height": 0.0116
+          },
+          "confidence": 0.98
+        },
+        {
+          "text": "1. What is the basis of classification of algae?",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.7386,
+            "x_max": 0.4653,
+            "y_max": 0.7506,
+            "width": 0.3905,
+            "height": 0.012
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "2. When and where does reduction division take place in the life cycle of a\nliverwort, a moss, a fern, a gymnosperm and an angiosperm?",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.7614,
+            "x_max": 0.6976,
+            "y_max": 0.7922,
+            "width": 0.6246,
+            "height": 0.0308
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "3. Name three groups of plants that bear archegonia. Briefly describe the\nlife cycle of any one of them.",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.8025,
+            "x_max": 0.6976,
+            "y_max": 0.832,
+            "width": 0.6241,
+            "height": 0.0296
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "4. Mention the ploidy of the following: protonemal cell of a moss; primary\nendosperm nucleus in dicot, leaf cell of a moss; prothallus cell of a ferm;\ngemma cell in Marchantia; meristem cell of monocot, ovum of a liverwort,\nand zygote of a fern.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.8432,
+            "x_max": 0.6976,
+            "y_max": 0.9087,
+            "width": 0.6258,
+            "height": 0.0656
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "ished",
+          "bbox": {
+            "x_min": 0.6725,
+            "y_min": 0.3072,
+            "x_max": 0.8698,
+            "y_max": 0.4563,
+            "width": 0.1973,
+            "height": 0.1491
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "35",
+          "bbox": {
+            "x_min": 0.8465,
+            "y_min": 0.0831,
+            "x_max": 0.8716,
+            "y_max": 0.093,
+            "width": 0.0251,
+            "height": 0.0099
+          },
+          "confidence": 0.9935
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "36",
+          "bbox": {
+            "x_min": 0.1185,
+            "y_min": 0.0844,
+            "x_max": 0.1471,
+            "y_max": 0.093,
+            "width": 0.0286,
+            "height": 0.0086
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0689,
+            "height": 0.0094
+          },
+          "confidence": 0.9801
+        },
+        {
+          "text": "5. Write a note on economic importance of algae and gymnosperms.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.1362,
+            "x_max": 0.8762,
+            "y_max": 0.1491,
+            "width": 0.5738,
+            "height": 0.0129
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "6. Both gymnosperms and angiosperms bear seeds, then why are they\nclassified separately?",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.1585,
+            "x_max": 0.927,
+            "y_max": 0.1889,
+            "width": 0.6246,
+            "height": 0.0304
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "7. What is heterospory? Briefly comment on its significance. Give two\nexamples.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.1997,
+            "x_max": 0.9264,
+            "y_max": 0.2292,
+            "width": 0.6241,
+            "height": 0.0296
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "8. Explain briefly the following terms with suitable examples:-",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.2404,
+            "x_max": 0.8284,
+            "y_max": 0.2536,
+            "width": 0.5266,
+            "height": 0.0133
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "(i) protonema",
+          "bbox": {
+            "x_min": 0.3415,
+            "y_min": 0.2635,
+            "x_max": 0.453,
+            "y_max": 0.2755,
+            "width": 0.1115,
+            "height": 0.012
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "(ii) antheridium",
+          "bbox": {
+            "x_min": 0.3374,
+            "y_min": 0.2811,
+            "x_max": 0.4682,
+            "y_max": 0.2931,
+            "width": 0.1308,
+            "height": 0.012
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "(iii) archegonium",
+          "bbox": {
+            "x_min": 0.3322,
+            "y_min": 0.2986,
+            "x_max": 0.4729,
+            "y_max": 0.3119,
+            "width": 0.1407,
+            "height": 0.0133
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "(iv) diplontic",
+          "bbox": {
+            "x_min": 0.3322,
+            "y_min": 0.3171,
+            "x_max": 0.4355,
+            "y_max": 0.329,
+            "width": 0.1033,
+            "height": 0.012
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "(v) sporophyll",
+          "bbox": {
+            "x_min": 0.3357,
+            "y_min": 0.3342,
+            "x_max": 0.4489,
+            "y_max": 0.347,
+            "width": 0.1133,
+            "height": 0.0129
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "(vi) isogamy",
+          "bbox": {
+            "x_min": 0.3316,
+            "y_min": 0.3526,
+            "x_max": 0.4308,
+            "y_max": 0.3655,
+            "width": 0.0992,
+            "height": 0.0129
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "9. Differentiate between the following:-",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.3757,
+            "x_max": 0.6346,
+            "y_max": 0.3877,
+            "width": 0.3322,
+            "height": 0.012
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "(i) red algae and brown algae",
+          "bbox": {
+            "x_min": 0.3438,
+            "y_min": 0.3959,
+            "x_max": 0.5867,
+            "y_max": 0.4079,
+            "width": 0.2428,
+            "height": 0.012
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "(ii) liverworts and moss",
+          "bbox": {
+            "x_min": 0.3392,
+            "y_min": 0.4139,
+            "x_max": 0.5324,
+            "y_max": 0.4259,
+            "width": 0.1932,
+            "height": 0.012
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "(iii) homosporous and heterosporous pteridophyte",
+          "bbox": {
+            "x_min": 0.3339,
+            "y_min": 0.431,
+            "x_max": 0.7507,
+            "y_max": 0.4447,
+            "width": 0.4168,
+            "height": 0.0137
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "10. Match the following (column I with column II)",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.4537,
+            "x_max": 0.711,
+            "y_max": 0.467,
+            "width": 0.4069,
+            "height": 0.0133
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "Column I",
+          "bbox": {
+            "x_min": 0.3333,
+            "y_min": 0.4799,
+            "x_max": 0.4168,
+            "y_max": 0.4897,
+            "width": 0.0835,
+            "height": 0.0099
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "(a) Chlamydomonas",
+          "bbox": {
+            "x_min": 0.3357,
+            "y_min": 0.5009,
+            "x_max": 0.5015,
+            "y_max": 0.5137,
+            "width": 0.1658,
+            "height": 0.0129
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "(b) Cycas",
+          "bbox": {
+            "x_min": 0.3351,
+            "y_min": 0.5184,
+            "x_max": 0.4116,
+            "y_max": 0.5304,
+            "width": 0.0765,
+            "height": 0.012
+          },
+          "confidence": 0.981
+        },
+        {
+          "text": "(c) Selaginella",
+          "bbox": {
+            "x_min": 0.3357,
+            "y_min": 0.5368,
+            "x_max": 0.4536,
+            "y_max": 0.5484,
+            "width": 0.1179,
+            "height": 0.0116
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "(d) Sphagnum",
+          "bbox": {
+            "x_min": 0.3351,
+            "y_min": 0.5536,
+            "x_max": 0.46,
+            "y_max": 0.5668,
+            "width": 0.1249,
+            "height": 0.0133
+          },
+          "confidence": 0.9631
+        },
+        {
+          "text": "Column II",
+          "bbox": {
+            "x_min": 0.5773,
+            "y_min": 0.4803,
+            "x_max": 0.6667,
+            "y_max": 0.4897,
+            "width": 0.0893,
+            "height": 0.0094
+          },
+          "confidence": 0.9835
+        },
+        {
+          "text": "(i) Moss",
+          "bbox": {
+            "x_min": 0.5826,
+            "y_min": 0.5009,
+            "x_max": 0.6474,
+            "y_max": 0.512,
+            "width": 0.0648,
+            "height": 0.0111
+          },
+          "confidence": 0.9719
+        },
+        {
+          "text": "(ii) Pteridophyte",
+          "bbox": {
+            "x_min": 0.5791,
+            "y_min": 0.5184,
+            "x_max": 0.7104,
+            "y_max": 0.5308,
+            "width": 0.1313,
+            "height": 0.0124
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "(iii) Algae",
+          "bbox": {
+            "x_min": 0.5733,
+            "y_min": 0.5364,
+            "x_max": 0.6509,
+            "y_max": 0.548,
+            "width": 0.0776,
+            "height": 0.0116
+          },
+          "confidence": 0.9854
+        },
+        {
+          "text": "(iv) Gymnosperm",
+          "bbox": {
+            "x_min": 0.5744,
+            "y_min": 0.5536,
+            "x_max": 0.7163,
+            "y_max": 0.5668,
+            "width": 0.1419,
+            "height": 0.0133
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "11. Describe the important characteristics of gymnosperms.",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.5763,
+            "x_max": 0.805,
+            "y_max": 0.5904,
+            "width": 0.5009,
+            "height": 0.0141
+          },
+          "confidence": 0.9977
+        },
+        {
+          "text": "not to beren",
+          "bbox": {
+            "x_min": 0.1897,
+            "y_min": 0.4957,
+            "x_max": 0.6141,
+            "y_max": 0.8149,
+            "width": 0.4244,
+            "height": 0.3192
+          },
+          "confidence": 0.9117
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

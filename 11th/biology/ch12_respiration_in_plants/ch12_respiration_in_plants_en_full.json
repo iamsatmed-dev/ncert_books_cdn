@@ -1,0 +1,4349 @@
+{
+  "chapter_id": "11th_biology_ch12_respiration_in_plants_ch12_respiration_in_plants_en",
+  "total_pages": 13,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "11080CH14",
+          "bbox": {
+            "x_min": 0.7995,
+            "y_min": 0.211,
+            "x_max": 0.8475,
+            "y_max": 0.2162,
+            "width": 0.0479,
+            "height": 0.0051
+          },
+          "confidence": 0.9853
+        },
+        {
+          "text": "12.1 Do Plants",
+          "bbox": {
+            "x_min": 0.0707,
+            "y_min": 0.4521,
+            "x_max": 0.2011,
+            "y_max": 0.4615,
+            "width": 0.1303,
+            "height": 0.0094
+          },
+          "confidence": 0.9813
+        },
+        {
+          "text": "Breathe?",
+          "bbox": {
+            "x_min": 0.1157,
+            "y_min": 0.4692,
+            "x_max": 0.1987,
+            "y_max": 0.4777,
+            "width": 0.083,
+            "height": 0.0086
+          },
+          "confidence": 0.9762
+        },
+        {
+          "text": "12.2 Glycolysis",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.4953,
+            "x_max": 0.204,
+            "y_max": 0.5073,
+            "width": 0.1338,
+            "height": 0.012
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "12.3 Fermentation",
+          "bbox": {
+            "x_min": 0.0713,
+            "y_min": 0.521,
+            "x_max": 0.2344,
+            "y_max": 0.5308,
+            "width": 0.1631,
+            "height": 0.0098
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "12.4 Aerobic",
+          "bbox": {
+            "x_min": 0.0707,
+            "y_min": 0.5462,
+            "x_max": 0.1829,
+            "y_max": 0.5557,
+            "width": 0.1122,
+            "height": 0.0094
+          },
+          "confidence": 0.9801
+        },
+        {
+          "text": "Respiration",
+          "bbox": {
+            "x_min": 0.1146,
+            "y_min": 0.5651,
+            "x_max": 0.2168,
+            "y_max": 0.5762,
+            "width": 0.1023,
+            "height": 0.0111
+          },
+          "confidence": 0.9853
+        },
+        {
+          "text": "12.5 The",
+          "bbox": {
+            "x_min": 0.0707,
+            "y_min": 0.5899,
+            "x_max": 0.152,
+            "y_max": 0.5993,
+            "width": 0.0812,
+            "height": 0.0094
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "Respiratory",
+          "bbox": {
+            "x_min": 0.1128,
+            "y_min": 0.6092,
+            "x_max": 0.2192,
+            "y_max": 0.6203,
+            "width": 0.1064,
+            "height": 0.0111
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "Balance Sheet",
+          "bbox": {
+            "x_min": 0.1169,
+            "y_min": 0.6259,
+            "x_max": 0.2443,
+            "y_max": 0.6344,
+            "width": 0.1274,
+            "height": 0.0086
+          },
+          "confidence": 0.9847
+        },
+        {
+          "text": "12.6 Amphibolic\nPathway",
+          "bbox": {
+            "x_min": 0.0707,
+            "y_min": 0.6515,
+            "x_max": 0.2157,
+            "y_max": 0.6811,
+            "width": 0.1449,
+            "height": 0.0295
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "12.7 Respiratory",
+          "bbox": {
+            "x_min": 0.0707,
+            "y_min": 0.6956,
+            "x_max": 0.2186,
+            "y_max": 0.7068,
+            "width": 0.1479,
+            "height": 0.0111
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "Quotient",
+          "bbox": {
+            "x_min": 0.1169,
+            "y_min": 0.7132,
+            "x_max": 0.1894,
+            "y_max": 0.7243,
+            "width": 0.0725,
+            "height": 0.0111
+          },
+          "confidence": 0.9761
+        },
+        {
+          "text": "CHAPTER 12",
+          "bbox": {
+            "x_min": 0.3022,
+            "y_min": 0.3198,
+            "x_max": 0.5196,
+            "y_max": 0.3489,
+            "width": 0.2174,
+            "height": 0.0291
+          },
+          "confidence": 0.9692
+        },
+        {
+          "text": "RESPIRATION IN PLANTS",
+          "bbox": {
+            "x_min": 0.3016,
+            "y_min": 0.372,
+            "x_max": 0.6967,
+            "y_max": 0.3985,
+            "width": 0.3951,
+            "height": 0.0265
+          },
+          "confidence": 0.9762
+        },
+        {
+          "text": "PLANTS",
+          "bbox": {
+            "x_min": 0.5733,
+            "y_min": 0.3613,
+            "x_max": 0.6978,
+            "y_max": 0.4131,
+            "width": 0.1245,
+            "height": 0.0518
+          },
+          "confidence": 0.9589
+        },
+        {
+          "text": "lished",
+          "bbox": {
+            "x_min": 0.63,
+            "y_min": 0.3069,
+            "x_max": 0.8808,
+            "y_max": 0.4726,
+            "width": 0.2507,
+            "height": 0.1657
+          },
+          "confidence": 0.8791
+        },
+        {
+          "text": "why is breathing",
+          "bbox": {
+            "x_min": 0.5213,
+            "y_min": 0.4486,
+            "x_max": 0.6733,
+            "y_max": 0.4696,
+            "width": 0.152,
+            "height": 0.021
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "All of us breathe to live, but why is breathing so essential to life? What\nhappens when we breathe? Also, do all living organisms, including plants\nand microbes, breathe? If so, how?",
+          "bbox": {
+            "x_min": 0.2671,
+            "y_min": 0.4516,
+            "x_max": 0.9001,
+            "y_max": 0.4996,
+            "width": 0.633,
+            "height": 0.0479
+          },
+          "confidence": 0.9971
+        },
+        {
+          "text": "All living organisms need energy for carrying out daily life activities,\nbe it absorption, transport, movement, reproduction or even breathing.\nWhere does all this energy come from? We know we eat food for energy\nbut how is this energy taken from food? How is this energy utilised? Do\nall foods give the same amount of energy? Do plants ‘eat'? Where do plants\nget their energy from? And micro-organisms for their energy\nrequirements, do they eat ‘food'?",
+          "bbox": {
+            "x_min": 0.2665,
+            "y_min": 0.506,
+            "x_max": 0.9012,
+            "y_max": 0.6267,
+            "width": 0.6347,
+            "height": 0.1207
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "You may wonder at the several questions raised above – they may\nseem to be very disconnected. But in reality, the process of breathing is\nvery much connected to the process of release of energy from food. Let us\ntry and understand how this happens.",
+          "bbox": {
+            "x_min": 0.2677,
+            "y_min": 0.631,
+            "x_max": 0.9001,
+            "y_max": 0.6986,
+            "width": 0.6324,
+            "height": 0.0676
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "All the energy required for ‘life' processes is obtained by oxidation of\nsome macromolecules that we call ‘food. Green plants and cyanobacteria\ncan prepare their own food; by the process of photosynthesis they trap\nlight energy and convert it into chemical energy that is stored in the bonds\nof carbohydrates like glucose, sucrose and starch. We must remember\nthat in green plants too, not all cells, tissues and organs photosynthesise;\nonly cells containing chloroplasts, that are most often located in the\nsuperficial layers, carry out photosynthesis. Hence, even in green plants\nall other organs, tissues and cells that are non-green, need food for\noxidation. Hence, food has to be translocated to all non-green parts.\nAnimals are heterotrophic, i.e., they obtain food from plants",
+          "bbox": {
+            "x_min": 0.2671,
+            "y_min": 0.7033,
+            "x_max": 0.903,
+            "y_max": 0.896,
+            "width": 0.6359,
+            "height": 0.1926
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9812
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "154",
+          "bbox": {
+            "x_min": 0.1157,
+            "y_min": 0.0805,
+            "x_max": 0.1578,
+            "y_max": 0.0908,
+            "width": 0.0421,
+            "height": 0.0103
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8597,
+            "y_min": 0.0813,
+            "x_max": 0.9287,
+            "y_max": 0.0908,
+            "width": 0.069,
+            "height": 0.0094
+          },
+          "confidence": 0.9713
+        },
+        {
+          "text": "directly (herbivores) or indirectly (carnivores). Saprophytes like fungi are\ndependent on dead and decaying matter. What is important to recognise\nis that ultimately all the food that is respired for life processes comes from\nphotosynthesis. This chapter deals with cellular respiration or the\nmechanism of breakdown of food materials within the cell to release\nenergy, and the trapping of this energy for synthesis of ATP.",
+          "bbox": {
+            "x_min": 0.2998,
+            "y_min": 0.1327,
+            "x_max": 0.9293,
+            "y_max": 0.2363,
+            "width": 0.6295,
+            "height": 0.1036
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "Photosynthesis, of course, takes place within the chloroplasts (in the\neukaryotes), whereas the breakdown of complex molecules to yield energy\ntakes place in the cytoplasm and in the mitochondria (also only in\neukaryotes). The breaking of the C-C bonds of complex compounds\nthrough oxidation within the cells, leading to release of considerable\namount of energy is called respiration. The compounds that are oxidised\nduring this process are known as respiratory substrates. Usually\ncarbohydrates are oxidised to release energy, but proteins, fats and even\norganic acids can be used as respiratory substances in some plants, under\ncertain conditions. During oxidation within a cell, all the energy contained\nin respiratory substrates is not released free into the cell, or in a single\nstep. It is released in a series of slow step-wise reactions controlled by\nenzymes, and it is trapped as chemical energy in the form of ATP. Hence,\nit is important to understand that the energy released by oxidation in\nrespiration is not (or rather cannot be) used directly but is used to\nsynthesise ATP, which is broken down whenever (and wherever) energy\nneeds to be utilised. Hence, ATP acts as the energy currency of the cell.\nThis energy trapped in ATP is utilised in various energy-requiring\nprocesses of the organisms, and the carbon skeleton produced during\nrespiration is used as precursors for biosynthesis of other molecules in\nthe cell.",
+          "bbox": {
+            "x_min": 0.2998,
+            "y_min": 0.241,
+            "x_max": 0.9299,
+            "y_max": 0.61,
+            "width": 0.63,
+            "height": 0.369
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "12.1 Do PLANTS BREATHE?",
+          "bbox": {
+            "x_min": 0.3016,
+            "y_min": 0.64,
+            "x_max": 0.5926,
+            "y_max": 0.6528,
+            "width": 0.2911,
+            "height": 0.0128
+          },
+          "confidence": 0.9671
+        },
+        {
+          "text": "note",
+          "bbox": {
+            "x_min": 0.1853,
+            "y_min": 0.5753,
+            "x_max": 0.5126,
+            "y_max": 0.8189,
+            "width": 0.3273,
+            "height": 0.2436
+          },
+          "confidence": 0.9107
+        },
+        {
+          "text": "Well, the answer to this question is not quite so direct. Yes, plants require\nO2 for respiration to occur and they also give out CO2. Hence, plants have\nsystems in place that ensure the availability of O₂. Plants, unlike animals,\nhave no specialised organs for gaseous exchange but they have stomata\nand lenticels for this purpose. There are several reasons why plants can\nget along without respiratory organs. First, each plant part takes care of\nits own gas-exchange needs. There is very little transport of gases from\none plant part to another. Second, plants do not present great demands\nfor gas exchange. Roots, stems and leaves respire at rates far lower than\nanimals do. Only during photosynthesis are large volumes of gases\nexchanged and, each leaf is well adapted to take care of its own needs\nduring these periods. When cells photosynthesise, availability of O₂ is not\na problem in these cells since O₂ is released within the cell. Third, the",
+          "bbox": {
+            "x_min": 0.2998,
+            "y_min": 0.6764,
+            "x_max": 0.9316,
+            "y_max": 0.9058,
+            "width": 0.6318,
+            "height": 0.2295
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.5827,
+            "y_min": 0.9011,
+            "x_max": 0.5921,
+            "y_max": 0.9058,
+            "width": 0.0094,
+            "height": 0.0047
+          },
+          "confidence": 0.9741
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.8697,
+            "y_min": 0.8827,
+            "x_max": 0.8796,
+            "y_max": 0.8883,
+            "width": 0.0099,
+            "height": 0.0056
+          },
+          "confidence": 0.9736
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9812
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "RESPIRATION IN PLANTS",
+          "bbox": {
+            "x_min": 0.1081,
+            "y_min": 0.0809,
+            "x_max": 0.287,
+            "y_max": 0.0903,
+            "width": 0.1788,
+            "height": 0.0094
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6908,
+            "y_min": 0.3022,
+            "x_max": 0.8743,
+            "y_max": 0.4508,
+            "width": 0.1835,
+            "height": 0.1485
+          },
+          "confidence": 0.9748
+        },
+        {
+          "text": "distance that gases must diffuse even in large, bulky plants is not great.\nEach living cell in a plant is located quite close to the surface of the plant.\nThis is true for leaves', you may ask, 'but what about thick, woody stems\nand roots?' In stems, the ‘living' cells are organised in thin layers inside\nand beneath the bark. They also have openings called lenticels. The cells\nin the interior are dead and provide only mechanical support. Thus, most\ncells of a plant have at least a part of their surface in contact with air. This\nis also facilitated by the loose packing of parenchyma cells in leaves, stems\nand roots, which provide an interconnected network of air spaces.",
+          "bbox": {
+            "x_min": 0.0684,
+            "y_min": 0.1331,
+            "x_max": 0.6984,
+            "y_max": 0.2902,
+            "width": 0.63,
+            "height": 0.1571
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "The complete combustion of glucose, which produces CO2 and H2O\nas end products, yields energy most of which is given out as heat.",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.2954,
+            "x_max": 0.6984,
+            "y_max": 0.3266,
+            "width": 0.6289,
+            "height": 0.0312
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "C6H12O6 + 60₂ → 6CO₂ +6H2O+Energy",
+          "bbox": {
+            "x_min": 0.1894,
+            "y_min": 0.3378,
+            "x_max": 0.5769,
+            "y_max": 0.3515,
+            "width": 0.3875,
+            "height": 0.0137
+          },
+          "confidence": 0.8767
+        },
+        {
+          "text": "If this energy is to be useful to the cell, it should be able to utilise it to\nsynthesise other molecules that the cell requires. The strategy that the\nplant cell uses is to catabolise the glucose molecule in such a way that\nnot all the liberated energy goes out as heat. The key is to oxidise glucose\nnot in one step but in several small steps enabling some steps to be just\nlarge enough such that the energy released can be coupled to ATP\nsynthesis. How this is done is, essentially, the story of respiration.",
+          "bbox": {
+            "x_min": 0.0678,
+            "y_min": 0.3643,
+            "x_max": 0.6984,
+            "y_max": 0.4867,
+            "width": 0.6306,
+            "height": 0.1224
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.0836,
+            "y_min": 0.5711,
+            "x_max": 0.0935,
+            "y_max": 0.5758,
+            "width": 0.0099,
+            "height": 0.0047
+          },
+          "confidence": 0.9643
+        },
+        {
+          "text": "During the process of respiration, oxygen is utilised, and carbon\ndioxide, water and energy are released as products. The combustion\nreaction requires oxygen. But some cells live where oxygen may or may\nnot be available. Can you think of such situations (and organisms) where\nO₂ is not available? There are sufficient reasons to believe that the first\ncells on this planet lived in an atmosphere that lacked oxygen. Even\namong present-day living organisms, we know of several that are adapted\nto anaerobic conditions. Some of these organisms are facultative\nanaerobes, while in others the requirement for anaerobic condition is\nobligate. In any case, all living organisms retain the enzymatic machinery\nto partially oxidise glucose without the help of oxygen. This breakdown\nof glucose to pyruvic acid is called\nled \nglycolysis.",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.4884,
+            "x_max": 0.6996,
+            "y_max": 0.7042,
+            "width": 0.6306,
+            "height": 0.2158
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "12.2 GLYCOLYSIS",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.7273,
+            "x_max": 0.256,
+            "y_max": 0.7406,
+            "width": 0.1859,
+            "height": 0.0133
+          },
+          "confidence": 0.9667
+        },
+        {
+          "text": "The term glycolysis colysis has originated from the Greek words, glycos for sugar,\nand lysis for splitting. The scheme of glycolysis was given by Gustav\nEmbden, Otto Meyerhof, and J. Parnas, and is often referred to as the\nEMP pathway. In anaerobic organisms, it is the only process in respiration.\nGlycolysis occurs in the cytoplasm of the cell and is present in all living\norganisms. In this process, glucose undergoes partial oxidation to form\ntwo molecules of pyruvic acid. In plants, this glucose is derived from\nsucrose, which is the end product of photosynthesis, or from storage",
+          "bbox": {
+            "x_min": 0.0684,
+            "y_min": 0.7633,
+            "x_max": 0.7002,
+            "y_max": 0.902,
+            "width": 0.6318,
+            "height": 0.1387
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5494,
+            "y_max": 0.9919,
+            "width": 0.0999,
+            "height": 0.0086
+          },
+          "confidence": 0.9838
+        },
+        {
+          "text": "155",
+          "bbox": {
+            "x_min": 0.8504,
+            "y_min": 0.0801,
+            "x_max": 0.8866,
+            "y_max": 0.0916,
+            "width": 0.0362,
+            "height": 0.0116
+          },
+          "confidence": 0.9956
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "156",
+          "bbox": {
+            "x_min": 0.1181,
+            "y_min": 0.0805,
+            "x_max": 0.1549,
+            "y_max": 0.0908,
+            "width": 0.0368,
+            "height": 0.0103
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8615,
+            "y_min": 0.0818,
+            "x_max": 0.9287,
+            "y_max": 0.0912,
+            "width": 0.0672,
+            "height": 0.0094
+          },
+          "confidence": 0.9588
+        },
+        {
+          "text": "Glucose\n(6C)",
+          "bbox": {
+            "x_min": 0.1759,
+            "y_min": 0.2012,
+            "x_max": 0.2355,
+            "y_max": 0.22,
+            "width": 0.0596,
+            "height": 0.0188
+          },
+          "confidence": 0.9811
+        },
+        {
+          "text": "ATP",
+          "bbox": {
+            "x_min": 0.1444,
+            "y_min": 0.2196,
+            "x_max": 0.1748,
+            "y_max": 0.226,
+            "width": 0.0304,
+            "height": 0.0064
+          },
+          "confidence": 0.8718
+        },
+        {
+          "text": "ADP",
+          "bbox": {
+            "x_min": 0.1403,
+            "y_min": 0.2333,
+            "x_max": 0.1748,
+            "y_max": 0.2406,
+            "width": 0.0345,
+            "height": 0.0073
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "Glucose-6-phosphate",
+          "bbox": {
+            "x_min": 0.1297,
+            "y_min": 0.2436,
+            "x_max": 0.2817,
+            "y_max": 0.2534,
+            "width": 0.152,
+            "height": 0.0098
+          },
+          "confidence": 0.9814
+        },
+        {
+          "text": "(6C)",
+          "bbox": {
+            "x_min": 0.1923,
+            "y_min": 0.2539,
+            "x_max": 0.2198,
+            "y_max": 0.2624,
+            "width": 0.0275,
+            "height": 0.0086
+          },
+          "confidence": 0.9726
+        },
+        {
+          "text": "Fructose-6-phosphate",
+          "bbox": {
+            "x_min": 0.1356,
+            "y_min": 0.2877,
+            "x_max": 0.2905,
+            "y_max": 0.2967,
+            "width": 0.1549,
+            "height": 0.009
+          },
+          "confidence": 0.981
+        },
+        {
+          "text": "ATP",
+          "bbox": {
+            "x_min": 0.1409,
+            "y_min": 0.3044,
+            "x_max": 0.1707,
+            "y_max": 0.3104,
+            "width": 0.0298,
+            "height": 0.006
+          },
+          "confidence": 0.8972
+        },
+        {
+          "text": "ADP",
+          "bbox": {
+            "x_min": 0.1368,
+            "y_min": 0.3189,
+            "x_max": 0.1707,
+            "y_max": 0.3258,
+            "width": 0.0339,
+            "height": 0.0068
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "(6C)",
+          "bbox": {
+            "x_min": 0.197,
+            "y_min": 0.2967,
+            "x_max": 0.2262,
+            "y_max": 0.3061,
+            "width": 0.0292,
+            "height": 0.0094
+          },
+          "confidence": 0.8116
+        },
+        {
+          "text": "Fructosel, 6-bisphosphate",
+          "bbox": {
+            "x_min": 0.1245,
+            "y_min": 0.3322,
+            "x_max": 0.3133,
+            "y_max": 0.342,
+            "width": 0.1888,
+            "height": 0.0098
+          },
+          "confidence": 0.9706
+        },
+        {
+          "text": "(6C)",
+          "bbox": {
+            "x_min": 0.2034,
+            "y_min": 0.342,
+            "x_max": 0.2314,
+            "y_max": 0.3506,
+            "width": 0.0281,
+            "height": 0.0086
+          },
+          "confidence": 0.9744
+        },
+        {
+          "text": "Triose phosphate",
+          "bbox": {
+            "x_min": 0.1479,
+            "y_min": 0.3771,
+            "x_max": 0.2694,
+            "y_max": 0.387,
+            "width": 0.1216,
+            "height": 0.0098
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "(glyceraldehyde-3-phosphate)",
+          "bbox": {
+            "x_min": 0.1122,
+            "y_min": 0.3891,
+            "x_max": 0.3057,
+            "y_max": 0.3998,
+            "width": 0.1935,
+            "height": 0.0107
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "(3C)",
+          "bbox": {
+            "x_min": 0.194,
+            "y_min": 0.4015,
+            "x_max": 0.2233,
+            "y_max": 0.4105,
+            "width": 0.0292,
+            "height": 0.009
+          },
+          "confidence": 0.9645
+        },
+        {
+          "text": "NAD+",
+          "bbox": {
+            "x_min": 0.235,
+            "y_min": 0.4075,
+            "x_max": 0.2729,
+            "y_max": 0.4157,
+            "width": 0.038,
+            "height": 0.0081
+          },
+          "confidence": 0.8735
+        },
+        {
+          "text": "NADH+H+",
+          "bbox": {
+            "x_min": 0.242,
+            "y_min": 0.4268,
+            "x_max": 0.3109,
+            "y_max": 0.4349,
+            "width": 0.069,
+            "height": 0.0081
+          },
+          "confidence": 0.9408
+        },
+        {
+          "text": "2 × Triose bisphosphate",
+          "bbox": {
+            "x_min": 0.1333,
+            "y_min": 0.4439,
+            "x_max": 0.3004,
+            "y_max": 0.4538,
+            "width": 0.1672,
+            "height": 0.0098
+          },
+          "confidence": 0.9519
+        },
+        {
+          "text": "(1,3 bisphosphoglyceric acid)",
+          "bbox": {
+            "x_min": 0.1146,
+            "y_min": 0.4563,
+            "x_max": 0.3197,
+            "y_max": 0.4666,
+            "width": 0.2051,
+            "height": 0.0103
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "(3C)",
+          "bbox": {
+            "x_min": 0.2022,
+            "y_min": 0.4692,
+            "x_max": 0.2297,
+            "y_max": 0.4773,
+            "width": 0.0275,
+            "height": 0.0081
+          },
+          "confidence": 0.9662
+        },
+        {
+          "text": "ADP",
+          "bbox": {
+            "x_min": 0.1373,
+            "y_min": 0.482,
+            "x_max": 0.1701,
+            "y_max": 0.488,
+            "width": 0.0327,
+            "height": 0.006
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "ATP",
+          "bbox": {
+            "x_min": 0.1286,
+            "y_min": 0.4987,
+            "x_max": 0.159,
+            "y_max": 0.5051,
+            "width": 0.0304,
+            "height": 0.0064
+          },
+          "confidence": 0.8994
+        },
+        {
+          "text": "2 x Triose phosphate",
+          "bbox": {
+            "x_min": 0.1385,
+            "y_min": 0.5158,
+            "x_max": 0.2846,
+            "y_max": 0.5253,
+            "width": 0.1461,
+            "height": 0.0094
+          },
+          "confidence": 0.9425
+        },
+        {
+          "text": "(3-phosphoglyceric acid)",
+          "bbox": {
+            "x_min": 0.1268,
+            "y_min": 0.5274,
+            "x_max": 0.2963,
+            "y_max": 0.5381,
+            "width": 0.1695,
+            "height": 0.0107
+          },
+          "confidence": 0.9843
+        },
+        {
+          "text": "(3C)",
+          "bbox": {
+            "x_min": 0.197,
+            "y_min": 0.5402,
+            "x_max": 0.2238,
+            "y_max": 0.5488,
+            "width": 0.0269,
+            "height": 0.0086
+          },
+          "confidence": 0.9659
+        },
+        {
+          "text": "↓",
+          "bbox": {
+            "x_min": 0.1981,
+            "y_min": 0.5527,
+            "x_max": 0.2139,
+            "y_max": 0.5783,
+            "width": 0.0158,
+            "height": 0.0257
+          },
+          "confidence": 0.9485
+        },
+        {
+          "text": "2 × 2-phosphoglycerate",
+          "bbox": {
+            "x_min": 0.1268,
+            "y_min": 0.5916,
+            "x_max": 0.2887,
+            "y_max": 0.6015,
+            "width": 0.1619,
+            "height": 0.0098
+          },
+          "confidence": 0.9536
+        },
+        {
+          "text": "H₂O",
+          "bbox": {
+            "x_min": 0.1274,
+            "y_min": 0.6271,
+            "x_max": 0.1584,
+            "y_max": 0.637,
+            "width": 0.031,
+            "height": 0.0098
+          },
+          "confidence": 0.8378
+        },
+        {
+          "text": "2x phosphoenolpyruvate",
+          "bbox": {
+            "x_min": 0.1262,
+            "y_min": 0.6503,
+            "x_max": 0.3022,
+            "y_max": 0.6601,
+            "width": 0.1759,
+            "height": 0.0098
+          },
+          "confidence": 0.9582
+        },
+        {
+          "text": "ADP",
+          "bbox": {
+            "x_min": 0.1338,
+            "y_min": 0.667,
+            "x_max": 0.1666,
+            "y_max": 0.6738,
+            "width": 0.0327,
+            "height": 0.0068
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "ATP",
+          "bbox": {
+            "x_min": 0.1333,
+            "y_min": 0.6802,
+            "x_max": 0.1642,
+            "y_max": 0.6866,
+            "width": 0.031,
+            "height": 0.0064
+          },
+          "confidence": 0.8741
+        },
+        {
+          "text": "2 × Pyruvic acid",
+          "bbox": {
+            "x_min": 0.1479,
+            "y_min": 0.7042,
+            "x_max": 0.2595,
+            "y_max": 0.7132,
+            "width": 0.1116,
+            "height": 0.009
+          },
+          "confidence": 0.9407
+        },
+        {
+          "text": "(3C)",
+          "bbox": {
+            "x_min": 0.1899,
+            "y_min": 0.7158,
+            "x_max": 0.2168,
+            "y_max": 0.7243,
+            "width": 0.0269,
+            "height": 0.0086
+          },
+          "confidence": 0.9626
+        },
+        {
+          "text": "Triose phosphate\n(Dihydroxy acetone\nphosphate)\n(3C)",
+          "bbox": {
+            "x_min": 0.3612,
+            "y_min": 0.3733,
+            "x_max": 0.4956,
+            "y_max": 0.4191,
+            "width": 0.1344,
+            "height": 0.0458
+          },
+          "confidence": 0.9854
+        },
+        {
+          "text": "carbohydrates. Sucrose is converted into glucose\nand fructose by the enzyme, invertase, and these\ntwo monosaccharides readily enter the glycolytic\npathway. Glucose and fructose are\nphosphorylated to give rise to glucose-6-\nphosphate by the activity of the enzyme\nhexokinase. This phosphorylated form of\nglucose then isomerises to produce fructose-6-\nphosphate. Subsequent steps of metabolism of\nglucose and fructose are same. The various\nsteps of glycolysis are depicted in Figure 12.1.\nIn glycolysis, a chain of ten reactions, under the\ncontrol of different enzymes, takes place to\nproduce pyruvate from glucose. While studying\nthe steps of glycolysis, please note the steps at\nwhich utilisation or synthesis of ATP or (in this\ncase) NADH + H+ take place.",
+          "bbox": {
+            "x_min": 0.5207,
+            "y_min": 0.1331,
+            "x_max": 0.931,
+            "y_max": 0.4336,
+            "width": 0.4103,
+            "height": 0.3005
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "ATP is utilised at two steps: first in the\nconversion of glucose into glucose 6-phosphate\nand second in the conversion of fructose\n6-phosphate to fructose 1, 6-bisphosphate.",
+          "bbox": {
+            "x_min": 0.5225,
+            "y_min": 0.4388,
+            "x_max": 0.9305,
+            "y_max": 0.5056,
+            "width": 0.4079,
+            "height": 0.0668
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "ONCE",
+          "bbox": {
+            "x_min": 0.2998,
+            "y_min": 0.4542,
+            "x_max": 0.5313,
+            "y_max": 0.6263,
+            "width": 0.2314,
+            "height": 0.1721
+          },
+          "confidence": 0.7849
+        },
+        {
+          "text": "not to be",
+          "bbox": {
+            "x_min": 0.1882,
+            "y_min": 0.5783,
+            "x_max": 0.5032,
+            "y_max": 0.8189,
+            "width": 0.315,
+            "height": 0.2406
+          },
+          "confidence": 0.8804
+        },
+        {
+          "text": "K",
+          "bbox": {
+            "x_min": 0.159,
+            "y_min": 0.6648,
+            "x_max": 0.2157,
+            "y_max": 0.6973,
+            "width": 0.0567,
+            "height": 0.0325
+          },
+          "confidence": 0.762
+        },
+        {
+          "text": "Figure 12.1 Steps of glycolysis",
+          "bbox": {
+            "x_min": 0.166,
+            "y_min": 0.7509,
+            "x_max": 0.4389,
+            "y_max": 0.7633,
+            "width": 0.2729,
+            "height": 0.0124
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "The fructose 1, 6-bisphosphate is split\ninto dihydroxyacetone phosphate and\n3-phosphoglyceraldehyde (PGAL). We find\nthat there is one step where NADH + H+ is\nformed from NAD+; this is when\n3-phosphoglyceraldehyde (PGAL) is converted\nto 1, 3-bisphosphoglycerate (BPGA). Two\nredox-equivalents are removed (in the form of\ntwo hydrogen atoms) from PGAL and transferred\nto a molecule of NAD+. PGAL is oxidised and\nwith inorganic phosphate to get converted into\nBPGA. The conversion of BPGA to\n3-phosphoglyceric acid (PGA), is also an energy\nyielding process; this energy is trapped by the\nformation of ATP. Another ATP is synthesised\nduring the conversion of PEP to pyruvic acid.\nCan you then calculate how many ATP\nmolecules are directly synthesised in this\npathway from one glucose molecule?",
+          "bbox": {
+            "x_min": 0.5207,
+            "y_min": 0.5098,
+            "x_max": 0.9316,
+            "y_max": 0.8467,
+            "width": 0.4109,
+            "height": 0.3369
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "Pyruvic acid is then the key product of\nglycolysis. What is the metabolic fate of\npyruvate? This depends on the cellular need.",
+          "bbox": {
+            "x_min": 0.5207,
+            "y_min": 0.851,
+            "x_max": 0.931,
+            "y_max": 0.902,
+            "width": 0.4103,
+            "height": 0.0509
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.45,
+            "y_min": 0.9833,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0994,
+            "height": 0.009
+          },
+          "confidence": 0.9812
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "RESPIRATION IN PLANTS",
+          "bbox": {
+            "x_min": 0.1099,
+            "y_min": 0.0809,
+            "x_max": 0.287,
+            "y_max": 0.0903,
+            "width": 0.1771,
+            "height": 0.0094
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "157",
+          "bbox": {
+            "x_min": 0.8498,
+            "y_min": 0.0809,
+            "x_max": 0.8878,
+            "y_max": 0.0912,
+            "width": 0.038,
+            "height": 0.0103
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "There are three major ways in which different cells handle pyruvic acid\nproduced by glycolysis. These are lactic acid fermentation, alcoholic\nfermentation and aerobic respiration. Fermentation takes place under\nanaerobic conditions in many prokaryotes and unicellular eukaryotes.\nFor the complete oxidation of glucose to CO₂ and H₂O, however, organisms\nadopt Krebs' cycle which is also called as aerobic respiration. This requires\nO₂ supply.",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.1413,
+            "x_max": 0.699,
+            "y_max": 0.268,
+            "width": 0.63,
+            "height": 0.1267
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "12.3 FERMENTATION",
+          "bbox": {
+            "x_min": 0.0707,
+            "y_min": 0.2881,
+            "x_max": 0.2858,
+            "y_max": 0.3014,
+            "width": 0.2151,
+            "height": 0.0133
+          },
+          "confidence": 0.9542
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.2969,
+            "y_min": 0.3716,
+            "x_max": 0.3057,
+            "y_max": 0.3763,
+            "width": 0.0088,
+            "height": 0.0047
+          },
+          "confidence": 0.9743
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.4354,
+            "y_min": 0.2252,
+            "x_max": 0.4442,
+            "y_max": 0.2299,
+            "width": 0.0088,
+            "height": 0.0047
+          },
+          "confidence": 0.9694
+        },
+        {
+          "text": "In fermentation, say by yeast, the incomplete oxidation of glucose is\nachieved under anaerobic conditions by sets of reactions where pyruvic\nacid is converted to CO₂ and ethanol. The enzymes, pyruvic acid\ndecarboxylase and alcohol dehydrogenase catalyse these reactions. Other\norganisms like some bacteria produce lactic acid from pyruvic acid. The\nsteps involved are shown in Figure 12.2. In animal cells also, like muscles\nduring exercise, when oxygen is inadequate for cellular respiration pyruvic\nacid is reduced to lactic acid by lactate dehydrogenase. The reducing\nagent is NADH+H+ which is reoxidised to NAD+",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.3241,
+            "x_max": 0.699,
+            "y_max": 0.4854,
+            "width": 0.6295,
+            "height": 0.1614
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "in both the processes.",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.4919,
+            "x_max": 0.2589,
+            "y_max": 0.5056,
+            "width": 0.1888,
+            "height": 0.0137
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "In both lactic acid and alcohol\nfermentation not much energy is released; less\nthan seven per cent of the energy in glucose is\nreleased and not all of it is trapped as high\nenergy bonds of ATP. Also, the processes are\nhazardous – either acid or alcohol is produced.\nWhat is the net ATPs that is synthesised\n(calculate how many ATP are synthesised and\ndeduct the number of ATP utilised during\nglycolysis) when one molecule of glucose is\nfermented to alcohol or lactic acid? Yeasts\npoison themselves to death when the\nconcentration of alcohol reaches about 13 per\ncent. What then would be the maximum\nconcentration of alcohol in beverages that\nare naturally fermented? How do you think\nalcoholic beverages of alcohol content greater\nthan this concentration are obtained?",
+          "bbox": {
+            "x_min": 0.0684,
+            "y_min": 0.5098,
+            "x_max": 0.4711,
+            "y_max": 0.8369,
+            "width": 0.4027,
+            "height": 0.3271
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "What then is the process by which\norganisms can carry out complete oxidation of\nglucose and extract the energy stored to",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.845,
+            "x_max": 0.4705,
+            "y_max": 0.896,
+            "width": 0.4009,
+            "height": 0.0509
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "republished",
+          "bbox": {
+            "x_min": 0.467,
+            "y_min": 0.3069,
+            "x_max": 0.8796,
+            "y_max": 0.6045,
+            "width": 0.4126,
+            "height": 0.2975
+          },
+          "confidence": 0.8275
+        },
+        {
+          "text": "Glyceraldehyde\n3-Phosphate",
+          "bbox": {
+            "x_min": 0.5283,
+            "y_min": 0.5882,
+            "x_max": 0.6552,
+            "y_max": 0.6134,
+            "width": 0.1268,
+            "height": 0.0253
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "NAD+",
+          "bbox": {
+            "x_min": 0.6493,
+            "y_min": 0.631,
+            "x_max": 0.6908,
+            "y_max": 0.6391,
+            "width": 0.0415,
+            "height": 0.0081
+          },
+          "confidence": 0.8431
+        },
+        {
+          "text": "3-Phosphoglyceric\nacid",
+          "bbox": {
+            "x_min": 0.5155,
+            "y_min": 0.6939,
+            "x_max": 0.6628,
+            "y_max": 0.7175,
+            "width": 0.1473,
+            "height": 0.0235
+          },
+          "confidence": 0.9864
+        },
+        {
+          "text": "Phosphoenol\nPyruvic acid",
+          "bbox": {
+            "x_min": 0.533,
+            "y_min": 0.78,
+            "x_max": 0.6376,
+            "y_max": 0.8052,
+            "width": 0.1046,
+            "height": 0.0253
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "Lactic\nacid",
+          "bbox": {
+            "x_min": 0.7423,
+            "y_min": 0.5972,
+            "x_max": 0.7908,
+            "y_max": 0.6194,
+            "width": 0.0485,
+            "height": 0.0223
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "NAD+",
+          "bbox": {
+            "x_min": 0.789,
+            "y_min": 0.6336,
+            "x_max": 0.8311,
+            "y_max": 0.6421,
+            "width": 0.0421,
+            "height": 0.0086
+          },
+          "confidence": 0.8667
+        },
+        {
+          "text": "-NADH+H+",
+          "bbox": {
+            "x_min": 0.7867,
+            "y_min": 0.6699,
+            "x_max": 0.8685,
+            "y_max": 0.6794,
+            "width": 0.0818,
+            "height": 0.0094
+          },
+          "confidence": 0.8536
+        },
+        {
+          "text": "NADH+H+",
+          "bbox": {
+            "x_min": 0.6511,
+            "y_min": 0.6789,
+            "x_max": 0.7294,
+            "y_max": 0.6879,
+            "width": 0.0783,
+            "height": 0.009
+          },
+          "confidence": 0.9229
+        },
+        {
+          "text": "Pyruvic\nacid",
+          "bbox": {
+            "x_min": 0.7352,
+            "y_min": 0.7115,
+            "x_max": 0.7989,
+            "y_max": 0.7337,
+            "width": 0.0637,
+            "height": 0.0223
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "NADH+H+",
+          "bbox": {
+            "x_min": 0.7966,
+            "y_min": 0.7316,
+            "x_max": 0.8738,
+            "y_max": 0.741,
+            "width": 0.0771,
+            "height": 0.0094
+          },
+          "confidence": 0.9031
+        },
+        {
+          "text": "NAD+",
+          "bbox": {
+            "x_min": 0.8153,
+            "y_min": 0.7705,
+            "x_max": 0.858,
+            "y_max": 0.7787,
+            "width": 0.0427,
+            "height": 0.0081
+          },
+          "confidence": 0.8673
+        },
+        {
+          "text": "Ethanol+CO2",
+          "bbox": {
+            "x_min": 0.7387,
+            "y_min": 0.7881,
+            "x_max": 0.8434,
+            "y_max": 0.7992,
+            "width": 0.1046,
+            "height": 0.0111
+          },
+          "confidence": 0.9585
+        },
+        {
+          "text": "Figure 12.2 Major pathways of anaerobic\nrespiration",
+          "bbox": {
+            "x_min": 0.505,
+            "y_min": 0.8356,
+            "x_max": 0.8638,
+            "y_max": 0.8617,
+            "width": 0.3589,
+            "height": 0.0261
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9812
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "158",
+          "bbox": {
+            "x_min": 0.1175,
+            "y_min": 0.0801,
+            "x_max": 0.1549,
+            "y_max": 0.0908,
+            "width": 0.0374,
+            "height": 0.0107
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8597,
+            "y_min": 0.0813,
+            "x_max": 0.9287,
+            "y_max": 0.0908,
+            "width": 0.069,
+            "height": 0.0094
+          },
+          "confidence": 0.9713
+        },
+        {
+          "text": "synthesise a larger number of ATP molecules needed for cellular\nmetabolism? In eukaryotes these steps take place within the mitochondria\nand this requires O2. Aerobic respiration is the process that leads to a\ncomplete oxidation of organic substances in the presence of oxygen, and\nreleases CO₂, water and a large amount of energy present in the substrate.\nThis type of respiration is most common in higher organisms. We will\nlook at these processes in the next section.",
+          "bbox": {
+            "x_min": 0.2998,
+            "y_min": 0.1271,
+            "x_max": 0.9299,
+            "y_max": 0.2517,
+            "width": 0.63,
+            "height": 0.1246
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "12.4 AEROBIC RESPIRATION",
+          "bbox": {
+            "x_min": 0.3016,
+            "y_min": 0.28,
+            "x_max": 0.5862,
+            "y_max": 0.2928,
+            "width": 0.2846,
+            "height": 0.0128
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "For aerobic respiration to take place within the mitochondria, the final\nproduct of glycolysis, pyruvate is transported from the cytoplasm into\nthe mitochondria. The crucial events in aerobic respiration are:",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.3164,
+            "x_max": 0.9293,
+            "y_max": 0.3664,
+            "width": 0.6289,
+            "height": 0.0501
+          },
+          "confidence": 0.9972
+        },
+        {
+          "text": "•",
+          "bbox": {
+            "x_min": 0.322,
+            "y_min": 0.378,
+            "x_max": 0.3314,
+            "y_max": 0.3831,
+            "width": 0.0094,
+            "height": 0.0051
+          },
+          "confidence": 0.8493
+        },
+        {
+          "text": "•",
+          "bbox": {
+            "x_min": 0.322,
+            "y_min": 0.4199,
+            "x_max": 0.332,
+            "y_max": 0.4251,
+            "width": 0.0099,
+            "height": 0.0051
+          },
+          "confidence": 0.8808
+        },
+        {
+          "text": "The complete oxidation of pyruvate by the stepwise removal of all\nthe hydrogen atoms, leaving three molecules of CO2.",
+          "bbox": {
+            "x_min": 0.3518,
+            "y_min": 0.3767,
+            "x_max": 0.9293,
+            "y_max": 0.4092,
+            "width": 0.5774,
+            "height": 0.0325
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "The passing on of the electrons removed as part of the hydrogen\natoms to molecular O₂ with simultaneous synthesis of ATP.",
+          "bbox": {
+            "x_min": 0.3518,
+            "y_min": 0.4195,
+            "x_max": 0.9299,
+            "y_max": 0.4521,
+            "width": 0.578,
+            "height": 0.0325
+          },
+          "confidence": 0.9752
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.5412,
+            "y_min": 0.4473,
+            "x_max": 0.5506,
+            "y_max": 0.4525,
+            "width": 0.0094,
+            "height": 0.0051
+          },
+          "confidence": 0.9731
+        },
+        {
+          "text": "What is interesting to note is that the first process takes place in the\nmatrix of the mitochondria while the second process is located on the\ninner membrane of the mitochondria.",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.4645,
+            "x_max": 0.9293,
+            "y_max": 0.512,
+            "width": 0.6289,
+            "height": 0.0475
+          },
+          "confidence": 0.9968
+        },
+        {
+          "text": "Pyruvate, which is formed by the glycolytic catabolism of carbohydrates\nin the cytosol, after it enters mitochondrial matrix undergoes oxidative\ndecarboxylation by a complex set of reactions catalysed by pyruvic\ndehydrogenase. The reactions catalysed by pyruvic dehydrogenase require\nthe participation of several coenzymes, including NAD+ and Coenzyme A.",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.5201,
+            "x_max": 0.9293,
+            "y_max": 0.6074,
+            "width": 0.6289,
+            "height": 0.0873
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "Pyruvic acid + CoA + NAD+",
+          "bbox": {
+            "x_min": 0.156,
+            "y_min": 0.6293,
+            "x_max": 0.3711,
+            "y_max": 0.6434,
+            "width": 0.2151,
+            "height": 0.0141
+          },
+          "confidence": 0.9446
+        },
+        {
+          "text": "Mg2+",
+          "bbox": {
+            "x_min": 0.4781,
+            "y_min": 0.6216,
+            "x_max": 0.5231,
+            "y_max": 0.6344,
+            "width": 0.045,
+            "height": 0.0128
+          },
+          "confidence": 0.9774
+        },
+        {
+          "text": "Pyruvate dehydrogenase",
+          "bbox": {
+            "x_min": 0.405,
+            "y_min": 0.6374,
+            "x_max": 0.6032,
+            "y_max": 0.6498,
+            "width": 0.1981,
+            "height": 0.0124
+          },
+          "confidence": 0.9968
+        },
+        {
+          "text": "Acetyl CoA + CO2 + NADH + H+",
+          "bbox": {
+            "x_min": 0.6335,
+            "y_min": 0.6293,
+            "x_max": 0.8936,
+            "y_max": 0.6438,
+            "width": 0.2601,
+            "height": 0.0146
+          },
+          "confidence": 0.9302
+        },
+        {
+          "text": "During this process, two molecules of NADH are produced from the\nmetabolism of two molecules of pyruvic acid (produced from one glucose\nmolecule during glycolysis).",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.6627,
+            "x_max": 0.9305,
+            "y_max": 0.7128,
+            "width": 0.63,
+            "height": 0.0501
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "The acetyl CoA then enters a cyclic pathway, tricarboxylic acid cycle,\nmore commonly called as Krebs' cycle after the scientist Hans Krebs who\nfirst elucidated it.",
+          "bbox": {
+            "x_min": 0.301,
+            "y_min": 0.7183,
+            "x_max": 0.9293,
+            "y_max": 0.7667,
+            "width": 0.6283,
+            "height": 0.0484
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "more",
+          "bbox": {
+            "x_min": 0.2946,
+            "y_min": 0.7273,
+            "x_max": 0.3477,
+            "y_max": 0.75,
+            "width": 0.0532,
+            "height": 0.0227
+          },
+          "confidence": 0.7166
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1899,
+            "y_min": 0.7115,
+            "x_max": 0.3238,
+            "y_max": 0.8138,
+            "width": 0.1338,
+            "height": 0.1023
+          },
+          "confidence": 0.9746
+        },
+        {
+          "text": "12.4.1 Tricarboxylic Acid Cycle",
+          "bbox": {
+            "x_min": 0.3022,
+            "y_min": 0.7877,
+            "x_max": 0.6499,
+            "y_max": 0.8027,
+            "width": 0.3477,
+            "height": 0.015
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "The TCA cycle starts with the condensation of acetyl group with oxaloacetic\nacid (OAA) and water to yield citric acid (Figure 12.3). The reaction is\ncatalysed by the enzyme citrate synthase and a molecule of CoA is released.\nCitrate is then isomerised to isocitrate. It is followed by two successive\nsteps of decarboxylation, leading to the formation of a-ketoglutaric acid",
+          "bbox": {
+            "x_min": 0.2992,
+            "y_min": 0.8129,
+            "x_max": 0.9299,
+            "y_max": 0.8977,
+            "width": 0.6306,
+            "height": 0.0848
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9812
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "RESPIRATION IN PLANTS",
+          "bbox": {
+            "x_min": 0.1105,
+            "y_min": 0.0805,
+            "x_max": 0.287,
+            "y_max": 0.0903,
+            "width": 0.1765,
+            "height": 0.0098
+          },
+          "confidence": 0.9858
+        },
+        {
+          "text": "159",
+          "bbox": {
+            "x_min": 0.8498,
+            "y_min": 0.0805,
+            "x_max": 0.8866,
+            "y_max": 0.0908,
+            "width": 0.0368,
+            "height": 0.0103
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "and then succinyl-CoA. In the remaining steps\nof citric acid cycle, succinyl-CoA is oxidised to\nOAA allowing the cycle to continue. During the\nconversion of succinyl-CoA to succinic acid a\nmolecule of GTP is synthesised. This is a\nsubstrate level phosphorylation. In a coupled\nreaction GTP is converted to GDP with the\nsimultaneous synthesis of ATP from ADP.\nAlso there are three points in the cycle where\nNAD+ is reduced to NADH + H+ and one point\nwhere FAD+ is reduced to FADH2. The\ncontinued oxidation of acetyl CoA via the TCA\ncycle requires the continued replenishment of\noxaloacetic acid, the first member of the cycle.\nIn addition it also requires regeneration of\nNAD+ and FAD+ from NADH and FADH2\nrespectively. The summary equation for this\nphase of respiration may be written as follows:",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.1331,
+            "x_max": 0.4664,
+            "y_max": 0.4628,
+            "width": 0.3974,
+            "height": 0.3296
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "NADH+H+",
+          "bbox": {
+            "x_min": 0.488,
+            "y_min": 0.265,
+            "x_max": 0.5465,
+            "y_max": 0.2735,
+            "width": 0.0584,
+            "height": 0.0086
+          },
+          "confidence": 0.9487
+        },
+        {
+          "text": "NAD+",
+          "bbox": {
+            "x_min": 0.5149,
+            "y_min": 0.2872,
+            "x_max": 0.5523,
+            "y_max": 0.2937,
+            "width": 0.0374,
+            "height": 0.0064
+          },
+          "confidence": 0.9546
+        },
+        {
+          "text": "COA",
+          "bbox": {
+            "x_min": 0.6067,
+            "y_min": 0.1541,
+            "x_max": 0.6371,
+            "y_max": 0.1614,
+            "width": 0.0304,
+            "height": 0.0073
+          },
+          "confidence": 0.8091
+        },
+        {
+          "text": "Pyruvate\n(3C)",
+          "bbox": {
+            "x_min": 0.6429,
+            "y_min": 0.1327,
+            "x_max": 0.7084,
+            "y_max": 0.1533,
+            "width": 0.0655,
+            "height": 0.0205
+          },
+          "confidence": 0.9838
+        },
+        {
+          "text": "NAD+",
+          "bbox": {
+            "x_min": 0.7049,
+            "y_min": 0.1533,
+            "x_max": 0.7399,
+            "y_max": 0.1601,
+            "width": 0.0351,
+            "height": 0.0068
+          },
+          "confidence": 0.9437
+        },
+        {
+          "text": "NADH+H+",
+          "bbox": {
+            "x_min": 0.716,
+            "y_min": 0.1725,
+            "x_max": 0.7721,
+            "y_max": 0.1798,
+            "width": 0.0561,
+            "height": 0.0073
+          },
+          "confidence": 0.9013
+        },
+        {
+          "text": "CO,",
+          "bbox": {
+            "x_min": 0.72,
+            "y_min": 0.1845,
+            "x_max": 0.7475,
+            "y_max": 0.1918,
+            "width": 0.0275,
+            "height": 0.0073
+          },
+          "confidence": 0.7898
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.7417,
+            "y_min": 0.1892,
+            "x_max": 0.7499,
+            "y_max": 0.1935,
+            "width": 0.0082,
+            "height": 0.0043
+          },
+          "confidence": 0.8753
+        },
+        {
+          "text": "Acetyl coenzyme A\n(2C)",
+          "bbox": {
+            "x_min": 0.6131,
+            "y_min": 0.1926,
+            "x_max": 0.7493,
+            "y_max": 0.2145,
+            "width": 0.1362,
+            "height": 0.0218
+          },
+          "confidence": 0.9773
+        },
+        {
+          "text": "Oxaloacetic acid\n(4C)",
+          "bbox": {
+            "x_min": 0.5529,
+            "y_min": 0.2457,
+            "x_max": 0.668,
+            "y_max": 0.2654,
+            "width": 0.1151,
+            "height": 0.0197
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "Malic acid\n(4C)",
+          "bbox": {
+            "x_min": 0.5283,
+            "y_min": 0.3206,
+            "x_max": 0.6014,
+            "y_max": 0.3416,
+            "width": 0.0731,
+            "height": 0.021
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "FADH2",
+          "bbox": {
+            "x_min": 0.5079,
+            "y_min": 0.3652,
+            "x_max": 0.5546,
+            "y_max": 0.3754,
+            "width": 0.0468,
+            "height": 0.0103
+          },
+          "confidence": 0.9447
+        },
+        {
+          "text": "Citric acid\n(6C)",
+          "bbox": {
+            "x_min": 0.7089,
+            "y_min": 0.2568,
+            "x_max": 0.782,
+            "y_max": 0.2757,
+            "width": 0.0731,
+            "height": 0.0188
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "CO2\nNAD+",
+          "bbox": {
+            "x_min": 0.8101,
+            "y_min": 0.2658,
+            "x_max": 0.8556,
+            "y_max": 0.286,
+            "width": 0.0456,
+            "height": 0.0201
+          },
+          "confidence": 0.9353
+        },
+        {
+          "text": "NADH+H+",
+          "bbox": {
+            "x_min": 0.8299,
+            "y_min": 0.2937,
+            "x_max": 0.8895,
+            "y_max": 0.3014,
+            "width": 0.0596,
+            "height": 0.0077
+          },
+          "confidence": 0.9575
+        },
+        {
+          "text": "a-ketoglutaric acid",
+          "bbox": {
+            "x_min": 0.7376,
+            "y_min": 0.3061,
+            "x_max": 0.8685,
+            "y_max": 0.3155,
+            "width": 0.1309,
+            "height": 0.0094
+          },
+          "confidence": 0.9747
+        },
+        {
+          "text": "CITRIC ACID CYCLE",
+          "bbox": {
+            "x_min": 0.6207,
+            "y_min": 0.3326,
+            "x_max": 0.7674,
+            "y_max": 0.3403,
+            "width": 0.1467,
+            "height": 0.0077
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "Succinic acid\n(4C)",
+          "bbox": {
+            "x_min": 0.6359,
+            "y_min": 0.3853,
+            "x_max": 0.7282,
+            "y_max": 0.4058,
+            "width": 0.0923,
+            "height": 0.0205
+          },
+          "confidence": 0.9711
+        },
+        {
+          "text": "Figure 12.3",
+          "bbox": {
+            "x_min": 0.5359,
+            "y_min": 0.4443,
+            "x_max": 0.6581,
+            "y_max": 0.4563,
+            "width": 0.1222,
+            "height": 0.012
+          },
+          "confidence": 0.9765
+        },
+        {
+          "text": "SEPT",
+          "bbox": {
+            "x_min": 0.4173,
+            "y_min": 0.3896,
+            "x_max": 0.6178,
+            "y_max": 0.5377,
+            "width": 0.2005,
+            "height": 0.1481
+          },
+          "confidence": 0.8773
+        },
+        {
+          "text": "(5C)",
+          "bbox": {
+            "x_min": 0.7873,
+            "y_min": 0.3181,
+            "x_max": 0.8171,
+            "y_max": 0.3271,
+            "width": 0.0298,
+            "height": 0.009
+          },
+          "confidence": 0.9698
+        },
+        {
+          "text": "GDP",
+          "bbox": {
+            "x_min": 0.7832,
+            "y_min": 0.3857,
+            "x_max": 0.8159,
+            "y_max": 0.3947,
+            "width": 0.0327,
+            "height": 0.009
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "GTP",
+          "bbox": {
+            "x_min": 0.7797,
+            "y_min": 0.402,
+            "x_max": 0.8077,
+            "y_max": 0.4097,
+            "width": 0.0281,
+            "height": 0.0077
+          },
+          "confidence": 0.9625
+        },
+        {
+          "text": "CO2",
+          "bbox": {
+            "x_min": 0.8147,
+            "y_min": 0.342,
+            "x_max": 0.8428,
+            "y_max": 0.3527,
+            "width": 0.0281,
+            "height": 0.0107
+          },
+          "confidence": 0.8529
+        },
+        {
+          "text": "NAD+",
+          "bbox": {
+            "x_min": 0.8101,
+            "y_min": 0.3562,
+            "x_max": 0.8457,
+            "y_max": 0.363,
+            "width": 0.0357,
+            "height": 0.0068
+          },
+          "confidence": 0.9048
+        },
+        {
+          "text": "NADH+H+",
+          "bbox": {
+            "x_min": 0.8188,
+            "y_min": 0.3733,
+            "x_max": 0.8778,
+            "y_max": 0.381,
+            "width": 0.059,
+            "height": 0.0077
+          },
+          "confidence": 0.9117
+        },
+        {
+          "text": "reThe Citric acid cycle",
+          "bbox": {
+            "x_min": 0.4465,
+            "y_min": 0.4225,
+            "x_max": 0.848,
+            "y_max": 0.5959,
+            "width": 0.4015,
+            "height": 0.1734
+          },
+          "confidence": 0.9157
+        },
+        {
+          "text": "Pyruvic acid +4NAD+ +FAD⁺ + 2H2O+ ADP+Pi",
+          "bbox": {
+            "x_min": 0.0771,
+            "y_min": 0.521,
+            "x_max": 0.4676,
+            "y_max": 0.5351,
+            "width": 0.3904,
+            "height": 0.0141
+          },
+          "confidence": 0.9323
+        },
+        {
+          "text": "Mitochondrial Matrix",
+          "bbox": {
+            "x_min": 0.4985,
+            "y_min": 0.5163,
+            "x_max": 0.6774,
+            "y_max": 0.5257,
+            "width": 0.1788,
+            "height": 0.0094
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "→3CO₂ + 4NADH + 4H+",
+          "bbox": {
+            "x_min": 0.6844,
+            "y_min": 0.5214,
+            "x_max": 0.893,
+            "y_max": 0.536,
+            "width": 0.2086,
+            "height": 0.0146
+          },
+          "confidence": 0.8944
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.6914,
+            "y_min": 0.6498,
+            "x_max": 0.7008,
+            "y_max": 0.655,
+            "width": 0.0094,
+            "height": 0.0051
+          },
+          "confidence": 0.9723
+        },
+        {
+          "text": "We have till now seen that glucose has been broken down to release\nCO2 and eight molecules of NADH + H+ and two of FADH, have been\nsynthesised besides just two molecules of ATP in TCA cycle. You may be\nwondering why we have been discussing respiration at all – neither O₂\nhas come into the picture nor the promised large number of ATP has yet\nbeen synthesised. Also what is the role of the NADH + H+ and FADH2 that\nis synthesised? Let us now understand the role of O₂ in respiration and\nhow ATP is synthesised.",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.5843,
+            "x_max": 0.699,
+            "y_max": 0.7277,
+            "width": 0.63,
+            "height": 0.1434
+          },
+          "confidence": 0.984
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.526,
+            "y_min": 0.7055,
+            "x_max": 0.5354,
+            "y_max": 0.7106,
+            "width": 0.0094,
+            "height": 0.0051
+          },
+          "confidence": 0.958
+        },
+        {
+          "text": "12.4.2 Electron Transport System (ETS) and Oxidative",
+          "bbox": {
+            "x_min": 0.0719,
+            "y_min": 0.747,
+            "x_max": 0.6803,
+            "y_max": 0.7628,
+            "width": 0.6084,
+            "height": 0.0158
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "Phosphorylation",
+          "bbox": {
+            "x_min": 0.1543,
+            "y_min": 0.7663,
+            "x_max": 0.332,
+            "y_max": 0.7808,
+            "width": 0.1777,
+            "height": 0.0146
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "The following steps in the respiratory process are to release and utilise\nthe energy stored in NADH+H+ and FADH, This is accomplished when\nthey are oxidised through the electron transport system and the electrons\nare passed on to O₂ resulting in the formation of H2O. The metabolic\npathway through which the electron passes from one carrier to another,\nis called the electron transport system (ETS) (Figure 12.4) and it is\npresent in the inner mitochondrial membrane. Electrons from NADH",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.7924,
+            "x_max": 0.699,
+            "y_max": 0.905,
+            "width": 0.63,
+            "height": 0.1126
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "+ FADH2 + ATP",
+          "bbox": {
+            "x_min": 0.751,
+            "y_min": 0.542,
+            "x_max": 0.8884,
+            "y_max": 0.5552,
+            "width": 0.1373,
+            "height": 0.0133
+          },
+          "confidence": 0.8976
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5494,
+            "y_max": 0.9919,
+            "width": 0.0999,
+            "height": 0.0086
+          },
+          "confidence": 0.9838
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "160",
+          "bbox": {
+            "x_min": 0.1169,
+            "y_min": 0.0813,
+            "x_max": 0.1549,
+            "y_max": 0.0908,
+            "width": 0.038,
+            "height": 0.0094
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8597,
+            "y_min": 0.0813,
+            "x_max": 0.9287,
+            "y_max": 0.0908,
+            "width": 0.069,
+            "height": 0.0094
+          },
+          "confidence": 0.9774
+        },
+        {
+          "text": "Inter-membrane\nspace",
+          "bbox": {
+            "x_min": 0.1216,
+            "y_min": 0.1503,
+            "x_max": 0.2157,
+            "y_max": 0.1678,
+            "width": 0.0941,
+            "height": 0.0176
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "Inner Mitochondrial\nmembrane",
+          "bbox": {
+            "x_min": 0.242,
+            "y_min": 0.1507,
+            "x_max": 0.3577,
+            "y_max": 0.167,
+            "width": 0.1157,
+            "height": 0.0163
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "Matrix",
+          "bbox": {
+            "x_min": 0.4079,
+            "y_min": 0.1558,
+            "x_max": 0.4494,
+            "y_max": 0.1622,
+            "width": 0.0415,
+            "height": 0.0064
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "4H",
+          "bbox": {
+            "x_min": 0.1444,
+            "y_min": 0.2252,
+            "x_max": 0.166,
+            "y_max": 0.2316,
+            "width": 0.0216,
+            "height": 0.0064
+          },
+          "confidence": 0.9289
+        },
+        {
+          "text": "(Fe-S)",
+          "bbox": {
+            "x_min": 0.2577,
+            "y_min": 0.235,
+            "x_max": 0.2975,
+            "y_max": 0.2453,
+            "width": 0.0397,
+            "height": 0.0103
+          },
+          "confidence": 0.9698
+        },
+        {
+          "text": "FMN2e",
+          "bbox": {
+            "x_min": 0.3384,
+            "y_min": 0.2324,
+            "x_max": 0.4015,
+            "y_max": 0.2427,
+            "width": 0.0631,
+            "height": 0.0103
+          },
+          "confidence": 0.9072
+        },
+        {
+          "text": "I",
+          "bbox": {
+            "x_min": 0.2104,
+            "y_min": 0.2504,
+            "x_max": 0.2192,
+            "y_max": 0.2577,
+            "width": 0.0088,
+            "height": 0.0073
+          },
+          "confidence": 0.9237
+        },
+        {
+          "text": "III",
+          "bbox": {
+            "x_min": 0.2075,
+            "y_min": 0.3652,
+            "x_max": 0.2238,
+            "y_max": 0.3729,
+            "width": 0.0164,
+            "height": 0.0077
+          },
+          "confidence": 0.9654
+        },
+        {
+          "text": "4H",
+          "bbox": {
+            "x_min": 0.142,
+            "y_min": 0.3827,
+            "x_max": 0.1636,
+            "y_max": 0.39,
+            "width": 0.0216,
+            "height": 0.0073
+          },
+          "confidence": 0.9221
+        },
+        {
+          "text": "e-",
+          "bbox": {
+            "x_min": 0.3214,
+            "y_min": 0.2723,
+            "x_max": 0.3349,
+            "y_max": 0.2765,
+            "width": 0.0134,
+            "height": 0.0043
+          },
+          "confidence": 0.8862
+        },
+        {
+          "text": "UQ",
+          "bbox": {
+            "x_min": 0.2835,
+            "y_min": 0.3052,
+            "x_max": 0.3045,
+            "y_max": 0.3129,
+            "width": 0.021,
+            "height": 0.0077
+          },
+          "confidence": 0.9477
+        },
+        {
+          "text": "e-",
+          "bbox": {
+            "x_min": 0.2437,
+            "y_min": 0.3241,
+            "x_max": 0.2577,
+            "y_max": 0.3296,
+            "width": 0.014,
+            "height": 0.0056
+          },
+          "confidence": 0.908
+        },
+        {
+          "text": "UQH",
+          "bbox": {
+            "x_min": 0.2893,
+            "y_min": 0.3399,
+            "x_max": 0.3209,
+            "y_max": 0.348,
+            "width": 0.0316,
+            "height": 0.0081
+          },
+          "confidence": 0.9485
+        },
+        {
+          "text": "e-",
+          "bbox": {
+            "x_min": 0.3477,
+            "y_min": 0.3429,
+            "x_max": 0.3606,
+            "y_max": 0.3467,
+            "width": 0.0129,
+            "height": 0.0039
+          },
+          "confidence": 0.8839
+        },
+        {
+          "text": "Cyt C Fe-S < Cyt b",
+          "bbox": {
+            "x_min": 0.2268,
+            "y_min": 0.3789,
+            "x_max": 0.3735,
+            "y_max": 0.3887,
+            "width": 0.1467,
+            "height": 0.0098
+          },
+          "confidence": 0.8785
+        },
+        {
+          "text": "Cyt c",
+          "bbox": {
+            "x_min": 0.2022,
+            "y_min": 0.4187,
+            "x_max": 0.2373,
+            "y_max": 0.4277,
+            "width": 0.0351,
+            "height": 0.009
+          },
+          "confidence": 0.9372
+        },
+        {
+          "text": "UQH",
+          "bbox": {
+            "x_min": 0.3022,
+            "y_min": 0.4234,
+            "x_max": 0.3343,
+            "y_max": 0.4315,
+            "width": 0.0321,
+            "height": 0.0081
+          },
+          "confidence": 0.9491
+        },
+        {
+          "text": "UQ",
+          "bbox": {
+            "x_min": 0.2712,
+            "y_min": 0.4414,
+            "x_max": 0.2928,
+            "y_max": 0.4491,
+            "width": 0.0216,
+            "height": 0.0077
+          },
+          "confidence": 0.9412
+        },
+        {
+          "text": "II",
+          "bbox": {
+            "x_min": 0.3477,
+            "y_min": 0.4499,
+            "x_max": 0.3594,
+            "y_max": 0.4572,
+            "width": 0.0117,
+            "height": 0.0073
+          },
+          "confidence": 0.5521
+        },
+        {
+          "text": "e-",
+          "bbox": {
+            "x_min": 0.2022,
+            "y_min": 0.4589,
+            "x_max": 0.2151,
+            "y_max": 0.464,
+            "width": 0.0129,
+            "height": 0.0051
+          },
+          "confidence": 0.8516
+        },
+        {
+          "text": "(Fe-S) FAD",
+          "bbox": {
+            "x_min": 0.2648,
+            "y_min": 0.467,
+            "x_max": 0.3559,
+            "y_max": 0.476,
+            "width": 0.0912,
+            "height": 0.009
+          },
+          "confidence": 0.9453
+        },
+        {
+          "text": "Cyt c",
+          "bbox": {
+            "x_min": 0.2011,
+            "y_min": 0.4889,
+            "x_max": 0.2385,
+            "y_max": 0.4974,
+            "width": 0.0374,
+            "height": 0.0086
+          },
+          "confidence": 0.9451
+        },
+        {
+          "text": "e-",
+          "bbox": {
+            "x_min": 0.2034,
+            "y_min": 0.5051,
+            "x_max": 0.2157,
+            "y_max": 0.5098,
+            "width": 0.0123,
+            "height": 0.0047
+          },
+          "confidence": 0.7284
+        },
+        {
+          "text": "e-",
+          "bbox": {
+            "x_min": 0.3589,
+            "y_min": 0.4045,
+            "x_max": 0.3717,
+            "y_max": 0.4088,
+            "width": 0.0129,
+            "height": 0.0043
+          },
+          "confidence": 0.9308
+        },
+        {
+          "text": "NADH+ H",
+          "bbox": {
+            "x_min": 0.4302,
+            "y_min": 0.2158,
+            "x_max": 0.4944,
+            "y_max": 0.2226,
+            "width": 0.0643,
+            "height": 0.0068
+          },
+          "confidence": 0.9738
+        },
+        {
+          "text": "NAD",
+          "bbox": {
+            "x_min": 0.4424,
+            "y_min": 0.2367,
+            "x_max": 0.4746,
+            "y_max": 0.2436,
+            "width": 0.0321,
+            "height": 0.0068
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "Complex I",
+          "bbox": {
+            "x_min": 0.4132,
+            "y_min": 0.2564,
+            "x_max": 0.481,
+            "y_max": 0.2663,
+            "width": 0.0678,
+            "height": 0.0098
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "(NADH dehydrogenase)",
+          "bbox": {
+            "x_min": 0.3916,
+            "y_min": 0.2688,
+            "x_max": 0.5424,
+            "y_max": 0.2787,
+            "width": 0.1508,
+            "height": 0.0098
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "Complex III\n(Cytochrome bc₁)",
+          "bbox": {
+            "x_min": 0.405,
+            "y_min": 0.372,
+            "x_max": 0.5161,
+            "y_max": 0.3938,
+            "width": 0.111,
+            "height": 0.0218
+          },
+          "confidence": 0.9597
+        },
+        {
+          "text": "Complex II",
+          "bbox": {
+            "x_min": 0.3933,
+            "y_min": 0.4225,
+            "x_max": 0.4658,
+            "y_max": 0.4319,
+            "width": 0.0725,
+            "height": 0.0094
+          },
+          "confidence": 0.9837
+        },
+        {
+          "text": "(Succinate dehydrogenase)",
+          "bbox": {
+            "x_min": 0.3904,
+            "y_min": 0.4332,
+            "x_max": 0.5278,
+            "y_max": 0.4409,
+            "width": 0.1373,
+            "height": 0.0077
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "Succinate",
+          "bbox": {
+            "x_min": 0.4027,
+            "y_min": 0.4551,
+            "x_max": 0.4681,
+            "y_max": 0.4598,
+            "width": 0.0655,
+            "height": 0.0047
+          },
+          "confidence": 0.9841
+        },
+        {
+          "text": "Fumarate",
+          "bbox": {
+            "x_min": 0.4167,
+            "y_min": 0.4717,
+            "x_max": 0.4857,
+            "y_max": 0.4773,
+            "width": 0.069,
+            "height": 0.0056
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "IV",
+          "bbox": {
+            "x_min": 0.3594,
+            "y_min": 0.5201,
+            "x_max": 0.3764,
+            "y_max": 0.527,
+            "width": 0.0169,
+            "height": 0.0068
+          },
+          "confidence": 0.9716
+        },
+        {
+          "text": "Cu",
+          "bbox": {
+            "x_min": 0.2431,
+            "y_min": 0.5253,
+            "x_max": 0.2624,
+            "y_max": 0.5317,
+            "width": 0.0193,
+            "height": 0.0064
+          },
+          "confidence": 0.9092
+        },
+        {
+          "text": "2H",
+          "bbox": {
+            "x_min": 0.1438,
+            "y_min": 0.536,
+            "x_max": 0.1636,
+            "y_max": 0.5428,
+            "width": 0.0199,
+            "height": 0.0068
+          },
+          "confidence": 0.9267
+        },
+        {
+          "text": "+O+ \n2H",
+          "bbox": {
+            "x_min": 0.4033,
+            "y_min": 0.5231,
+            "x_max": 0.4389,
+            "y_max": 0.5458,
+            "width": 0.0357,
+            "height": 0.0227
+          },
+          "confidence": 0.7046
+        },
+        {
+          "text": "Cyta Cyta CuB",
+          "bbox": {
+            "x_min": 0.239,
+            "y_min": 0.5462,
+            "x_max": 0.3635,
+            "y_max": 0.5565,
+            "width": 0.1245,
+            "height": 0.0103
+          },
+          "confidence": 0.8582
+        },
+        {
+          "text": "HO",
+          "bbox": {
+            "x_min": 0.4161,
+            "y_min": 0.5535,
+            "x_max": 0.4442,
+            "y_max": 0.5604,
+            "width": 0.0281,
+            "height": 0.0068
+          },
+          "confidence": 0.9597
+        },
+        {
+          "text": "produced in the mitochondrial matrix\nduring citric acid cycle are oxidised by\nan NADH dehydrogenase (complex I),\nand electrons are then transferred to\nubiquinone located within the inner\nmembrane. Ubiquinone also receives\nreducing equivalents via FADH, (complex\nII) that is generated during oxidation of\nsuccinate in the citric acid cycle. The\nreduced ubiquinone (ubiquinol) is then\noxidised with the transfer of electrons to\ncytochrome e via cytochrome bc₁\ncomplex (complex III). Cytochrome cis a\nsmall protein attached to the outer\nsurface of the inner membrane and acts\nas a mobile carrier for transfer of\nelectrons between complex III and IV.\nComplex IV refers to cytochrome c\noxidase complex containing cytochromes\na and a3, and two copper centres.",
+          "bbox": {
+            "x_min": 0.5798,
+            "y_min": 0.134,
+            "x_max": 0.931,
+            "y_max": 0.4645,
+            "width": 0.3513,
+            "height": 0.3305
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "When the electrons pass from one\ncarrier to another via complex I to IV in\nthe electron transport chain, they are\ncoupled to ATP synthase (complex V) for\nthe production of ATP from ADP and\ninorganic phosphate. The number of ATP\nmolecules synthesised depends on the\nnature of the electron donor. Oxidation\nof one molecule of NADH gives rise to 3\nmolecules of ATP, while that of one\nmolecule of FADH2 produces 2 molecules\nof ATP. Although the aerobic process of\nrespiration takes place only in the\npresence of oxygen, the role of oxygen is\nlimited to the terminal stage of the\nprocess. Yet, the presence of oxygen is",
+          "bbox": {
+            "x_min": 0.5804,
+            "y_min": 0.4679,
+            "x_max": 0.931,
+            "y_max": 0.7363,
+            "width": 0.3507,
+            "height": 0.2684
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "CERT",
+          "bbox": {
+            "x_min": 0.4068,
+            "y_min": 0.3891,
+            "x_max": 0.6248,
+            "y_max": 0.5424,
+            "width": 0.218,
+            "height": 0.1533
+          },
+          "confidence": 0.9868
+        },
+        {
+          "text": "notere",
+          "bbox": {
+            "x_min": 0.1835,
+            "y_min": 0.5133,
+            "x_max": 0.5827,
+            "y_max": 0.8249,
+            "width": 0.3992,
+            "height": 0.3116
+          },
+          "confidence": 0.844
+        },
+        {
+          "text": "++++",
+          "bbox": {
+            "x_min": 0.2274,
+            "y_min": 0.6524,
+            "x_max": 0.2355,
+            "y_max": 0.6772,
+            "width": 0.0082,
+            "height": 0.0248
+          },
+          "confidence": 0.9683
+        },
+        {
+          "text": "Fo",
+          "bbox": {
+            "x_min": 0.2618,
+            "y_min": 0.6087,
+            "x_max": 0.28,
+            "y_max": 0.6169,
+            "width": 0.0181,
+            "height": 0.0081
+          },
+          "confidence": 0.8996
+        },
+        {
+          "text": "F\nATP",
+          "bbox": {
+            "x_min": 0.3168,
+            "y_min": 0.6117,
+            "x_max": 0.3548,
+            "y_max": 0.6233,
+            "width": 0.038,
+            "height": 0.0116
+          },
+          "confidence": 0.8808
+        },
+        {
+          "text": "synthase",
+          "bbox": {
+            "x_min": 0.325,
+            "y_min": 0.6267,
+            "x_max": 0.3653,
+            "y_max": 0.6366,
+            "width": 0.0403,
+            "height": 0.0098
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "→H",
+          "bbox": {
+            "x_min": 0.398,
+            "y_min": 0.6391,
+            "x_max": 0.422,
+            "y_max": 0.6464,
+            "width": 0.024,
+            "height": 0.0073
+          },
+          "confidence": 0.6349
+        },
+        {
+          "text": "Electrochemical\ngradient",
+          "bbox": {
+            "x_min": 0.2642,
+            "y_min": 0.6605,
+            "x_max": 0.3343,
+            "y_max": 0.6751,
+            "width": 0.0701,
+            "height": 0.0146
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "ATP",
+          "bbox": {
+            "x_min": 0.4208,
+            "y_min": 0.6267,
+            "x_max": 0.4477,
+            "y_max": 0.634,
+            "width": 0.0269,
+            "height": 0.0073
+          },
+          "confidence": 0.8723
+        },
+        {
+          "text": "Figure 12.4 Electron Transport System (ETS)",
+          "bbox": {
+            "x_min": 0.1356,
+            "y_min": 0.6982,
+            "x_max": 0.5202,
+            "y_max": 0.7106,
+            "width": 0.3846,
+            "height": 0.0124
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "vital, since it drives the whole process by removing hydrogen from the\nsystem. Oxygen acts as the final hydrogen acceptor. Unlike\nphotophosphorylation where it is the light energy that is utilised for the\nproduction of proton gradient required for phosphorylation, in respiration\nit is the energy of oxidation-reduction utilised for the same process. It is\nfor this reason that the process is called oxidative phosphorylation.",
+          "bbox": {
+            "x_min": 0.2998,
+            "y_min": 0.7397,
+            "x_max": 0.9299,
+            "y_max": 0.839,
+            "width": 0.63,
+            "height": 0.0993
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "You have already studied about the mechanism of membrane-linked\nATP synthesis as explained by chemiosmotic hypothesis in the earlier\nchapter. As mentioned earlier, the energy released during the electron",
+          "bbox": {
+            "x_min": 0.2998,
+            "y_min": 0.8412,
+            "x_max": 0.9299,
+            "y_max": 0.8891,
+            "width": 0.63,
+            "height": 0.0479
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9812
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "RESPIRATION IN PLANTS",
+          "bbox": {
+            "x_min": 0.1105,
+            "y_min": 0.0805,
+            "x_max": 0.287,
+            "y_max": 0.0903,
+            "width": 0.1765,
+            "height": 0.0098
+          },
+          "confidence": 0.9858
+        },
+        {
+          "text": "transport system is utilised in synthesising ATP\nwith the help of ATP synthase (complex V). This\ncomplex consists of two major components, F₁\nand F (Figure 12.5). The F₁ headpiece is a\nperipheral membrane protein complex and\ncontains the site for synthesis of ATP from ADP\nand inorganic phosphate. Fo is an integral\nmembrane protein complex that forms the\nchannel through which protons cross the inner\nmembrane. The passage of protons through\nthe channel is coupled to the catalytic site of",
+          "bbox": {
+            "x_min": 0.0684,
+            "y_min": 0.1344,
+            "x_max": 0.4687,
+            "y_max": 0.3399,
+            "width": 0.4004,
+            "height": 0.2055
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "0",
+          "bbox": {
+            "x_min": 0.3261,
+            "y_min": 0.259,
+            "x_max": 0.3355,
+            "y_max": 0.2641,
+            "width": 0.0094,
+            "height": 0.0051
+          },
+          "confidence": 0.954
+        },
+        {
+          "text": "Outer\nside",
+          "bbox": {
+            "x_min": 0.5751,
+            "y_min": 0.1798,
+            "x_max": 0.6265,
+            "y_max": 0.2008,
+            "width": 0.0514,
+            "height": 0.021
+          },
+          "confidence": 0.985
+        },
+        {
+          "text": "4H+",
+          "bbox": {
+            "x_min": 0.5757,
+            "y_min": 0.2547,
+            "x_max": 0.6108,
+            "y_max": 0.2633,
+            "width": 0.0351,
+            "height": 0.0086
+          },
+          "confidence": 0.927
+        },
+        {
+          "text": "ATP",
+          "bbox": {
+            "x_min": 0.7236,
+            "y_min": 0.1871,
+            "x_max": 0.7586,
+            "y_max": 0.1952,
+            "width": 0.0351,
+            "height": 0.0081
+          },
+          "confidence": 0.8106
+        },
+        {
+          "text": "Fo",
+          "bbox": {
+            "x_min": 0.6411,
+            "y_min": 0.2753,
+            "x_max": 0.6663,
+            "y_max": 0.2881,
+            "width": 0.0251,
+            "height": 0.0128
+          },
+          "confidence": 0.9668
+        },
+        {
+          "text": "F",
+          "bbox": {
+            "x_min": 0.7171,
+            "y_min": 0.2757,
+            "x_max": 0.7317,
+            "y_max": 0.2838,
+            "width": 0.0146,
+            "height": 0.0081
+          },
+          "confidence": 0.9612
+        },
+        {
+          "text": "1",
+          "bbox": {
+            "x_min": 0.7317,
+            "y_min": 0.2834,
+            "x_max": 0.7393,
+            "y_max": 0.2885,
+            "width": 0.0076,
+            "height": 0.0051
+          },
+          "confidence": 0.9661
+        },
+        {
+          "text": "Inner\nmitochondrial\nmembrane",
+          "bbox": {
+            "x_min": 0.502,
+            "y_min": 0.3176,
+            "x_max": 0.616,
+            "y_max": 0.3506,
+            "width": 0.114,
+            "height": 0.033
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "ADP Pi",
+          "bbox": {
+            "x_min": 0.6914,
+            "y_min": 0.3232,
+            "x_max": 0.7762,
+            "y_max": 0.3318,
+            "width": 0.0847,
+            "height": 0.0086
+          },
+          "confidence": 0.9864
+        },
+        {
+          "text": "the F₁ component for the production of ATP.\nFor each ATP produced, 4H+ pass through Fo",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.3459,
+            "x_max": 0.4676,
+            "y_max": 0.3793,
+            "width": 0.398,
+            "height": 0.0334
+          },
+          "confidence": 0.9644
+        },
+        {
+          "text": "0",
+          "bbox": {
+            "x_min": 0.46,
+            "y_min": 0.3741,
+            "x_max": 0.4687,
+            "y_max": 0.3797,
+            "width": 0.0088,
+            "height": 0.0056
+          },
+          "confidence": 0.94
+        },
+        {
+          "text": "from the intermembrane space to the matrix\ndown the electrochemical proton gradient.",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.3848,
+            "x_max": 0.4681,
+            "y_max": 0.4165,
+            "width": 0.3986,
+            "height": 0.0317
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "12.5 THE RESPIRATORY BALANCE SHEET",
+          "bbox": {
+            "x_min": 0.0719,
+            "y_min": 0.4491,
+            "x_max": 0.4664,
+            "y_max": 0.4619,
+            "width": 0.3945,
+            "height": 0.0128
+          },
+          "confidence": 0.9841
+        },
+        {
+          "text": "161",
+          "bbox": {
+            "x_min": 0.8498,
+            "y_min": 0.0813,
+            "x_max": 0.8872,
+            "y_max": 0.0908,
+            "width": 0.0374,
+            "height": 0.0094
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "Matrix",
+          "bbox": {
+            "x_min": 0.6856,
+            "y_min": 0.3519,
+            "x_max": 0.7423,
+            "y_max": 0.3596,
+            "width": 0.0567,
+            "height": 0.0077
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "Figure 12.5 Diagr Diagramatic presentation of ATP",
+          "bbox": {
+            "x_min": 0.5061,
+            "y_min": 0.3857,
+            "x_max": 0.9001,
+            "y_max": 0.4024,
+            "width": 0.3939,
+            "height": 0.0167
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "synthesis in mitochondria",
+          "bbox": {
+            "x_min": 0.6219,
+            "y_min": 0.4033,
+            "x_max": 0.8434,
+            "y_max": 0.4157,
+            "width": 0.2215,
+            "height": 0.0124
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "ERT",
+          "bbox": {
+            "x_min": 0.4553,
+            "y_min": 0.4003,
+            "x_max": 0.6102,
+            "y_max": 0.5021,
+            "width": 0.1549,
+            "height": 0.1019
+          },
+          "confidence": 0.9528
+        },
+        {
+          "text": "blished",
+          "bbox": {
+            "x_min": 0.5991,
+            "y_min": 0.3031,
+            "x_max": 0.8837,
+            "y_max": 0.5043,
+            "width": 0.2846,
+            "height": 0.2012
+          },
+          "confidence": 0.9278
+        },
+        {
+          "text": "It is possible to make calculations of the net gain of ATP for every\nglucose molecule oxidised; but in reality this can remain only a\ntheoretical exercise. These calculations can be made only on certain\nassumptions that:",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.4854,
+            "x_max": 0.699,
+            "y_max": 0.5552,
+            "width": 0.63,
+            "height": 0.0698
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "• There is a sequential, orderly pathway functioning, with one\nsubstrate forming the next and with glycolysis, TCA cycle and\nETS pathway following one after another.",
+          "bbox": {
+            "x_min": 0.0906,
+            "y_min": 0.5655,
+            "x_max": 0.699,
+            "y_max": 0.6156,
+            "width": 0.6084,
+            "height": 0.0501
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "• The NADH synthesised in glycolysis is transferred into the\nmitochondria and undergoes oxidative phosphorylation.",
+          "bbox": {
+            "x_min": 0.0912,
+            "y_min": 0.6263,
+            "x_max": 0.6984,
+            "y_max": 0.658,
+            "width": 0.6072,
+            "height": 0.0317
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "•",
+          "bbox": {
+            "x_min": 0.0912,
+            "y_min": 0.6691,
+            "x_max": 0.1017,
+            "y_max": 0.6742,
+            "width": 0.0105,
+            "height": 0.0051
+          },
+          "confidence": 0.8946
+        },
+        {
+          "text": "•",
+          "bbox": {
+            "x_min": 0.0912,
+            "y_min": 0.7119,
+            "x_max": 0.1017,
+            "y_max": 0.7175,
+            "width": 0.0105,
+            "height": 0.0056
+          },
+          "confidence": 0.8951
+        },
+        {
+          "text": "None of the intermediates in the pathway are utilised to synthesise",
+          "bbox": {
+            "x_min": 0.1216,
+            "y_min": 0.6682,
+            "x_max": 0.6984,
+            "y_max": 0.6815,
+            "width": 0.5769,
+            "height": 0.0133
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "any other compound.",
+          "bbox": {
+            "x_min": 0.1181,
+            "y_min": 0.6815,
+            "x_max": 0.3302,
+            "y_max": 0.7089,
+            "width": 0.2122,
+            "height": 0.0274
+          },
+          "confidence": 0.9532
+        },
+        {
+          "text": "Only glucose is being respired – no other alternative substrates\nare entering in the pathway at any of the intermediary stages.",
+          "bbox": {
+            "x_min": 0.1227,
+            "y_min": 0.7098,
+            "x_max": 0.6973,
+            "y_max": 0.7432,
+            "width": 0.5745,
+            "height": 0.0334
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "But this kind of assumptions are not really valid in a living system;\nall pathways work simultaneously and do not take place one after\nanother; substrates enter the pathways and are withdrawn from it as\nand when necessary; ATP is utilised as and when needed; enzymatic\nrates are controlled by multiple means. Yet, it is useful to do this\nexercise to appreciate the beauty and efficiency of the living system in\nextraction and storing energy. Hence, there can be a net gain of 38 ATP\nmolecules during aerobic respiration of one molecule of glucose.",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.7556,
+            "x_max": 0.699,
+            "y_max": 0.9041,
+            "width": 0.6295,
+            "height": 0.1485
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5494,
+            "y_max": 0.9919,
+            "width": 0.0999,
+            "height": 0.0086
+          },
+          "confidence": 0.9838
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "162",
+          "bbox": {
+            "x_min": 0.1181,
+            "y_min": 0.0809,
+            "x_max": 0.1543,
+            "y_max": 0.0903,
+            "width": 0.0362,
+            "height": 0.0094
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8591,
+            "y_min": 0.0818,
+            "x_max": 0.9293,
+            "y_max": 0.0912,
+            "width": 0.0701,
+            "height": 0.0094
+          },
+          "confidence": 0.9752
+        },
+        {
+          "text": "Now let us compare fermentation and aerobic respiration:",
+          "bbox": {
+            "x_min": 0.3308,
+            "y_min": 0.131,
+            "x_max": 0.8451,
+            "y_max": 0.1438,
+            "width": 0.5143,
+            "height": 0.0128
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "• Fermentation accounts for only a partial breakdown of glucose\nwhereas in aerobic respiration it is completely degraded to CO₂ and\nH₂O.",
+          "bbox": {
+            "x_min": 0.3337,
+            "y_min": 0.1545,
+            "x_max": 0.9299,
+            "y_max": 0.2051,
+            "width": 0.5961,
+            "height": 0.0505
+          },
+          "confidence": 0.9776
+        },
+        {
+          "text": "• In fermentation there is a net gain of only two molecules of ATP for\neach molecule of glucose degraded to pyruvic acid whereas many\nmore molecules of ATP are generated under aerobic conditions.",
+          "bbox": {
+            "x_min": 0.3331,
+            "y_min": 0.2162,
+            "x_max": 0.9299,
+            "y_max": 0.2658,
+            "width": 0.5967,
+            "height": 0.0497
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "• NADH is oxidised to NAD+ rather slowly in fermentation, however\nthe reaction is very vigorous in case of aerobic respiration.",
+          "bbox": {
+            "x_min": 0.3331,
+            "y_min": 0.2783,
+            "x_max": 0.9299,
+            "y_max": 0.3104,
+            "width": 0.5967,
+            "height": 0.0321
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "12.6 AMPHIBOLIC PATHWAY",
+          "bbox": {
+            "x_min": 0.301,
+            "y_min": 0.3352,
+            "x_max": 0.585,
+            "y_max": 0.3472,
+            "width": 0.284,
+            "height": 0.012
+          },
+          "confidence": 0.9786
+        },
+        {
+          "text": "d",
+          "bbox": {
+            "x_min": 0.8001,
+            "y_min": 0.3078,
+            "x_max": 0.8808,
+            "y_max": 0.3652,
+            "width": 0.0807,
+            "height": 0.0574
+          },
+          "confidence": 0.9258
+        },
+        {
+          "text": "carboh",
+          "bbox": {
+            "x_min": 0.7686,
+            "y_min": 0.3617,
+            "x_max": 0.8293,
+            "y_max": 0.378,
+            "width": 0.0608,
+            "height": 0.0163
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "Glucose is the favoured substrate for respiration. All carbohydrates are\nusually first converted into glucose before they are used for respiration.\nOther substrates can also be respired, as has been mentioned earlier, but\nthen they do not enter the respiratory pathway at the first step. See Figure\n12.6 to see the points of entry of different substrates in the respiratory\npathway. Fats would need to be broken down into glycerol and fatty acids\nfirst. If fatty acids were to be respired they would first be degraded to\nacetyl CoA and enter the pathway. Glycerol would enter the pathway\nafter being converted to PGAL. The proteins would be degraded by\nproteases and the individual amino acids (after deamination) depending\non their structure would enter the pathway at some stage within the Krebs'\ncycle or even as pyruvate or acetyl CoA.",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.366,
+            "x_max": 0.931,
+            "y_max": 0.5702,
+            "width": 0.6306,
+            "height": 0.2042
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "Since respiration involves breakdown of substrates, the respiratory\nprocess has traditionally been considered a catabolic process and the\nrespiratory pathway as a catabolic pathway. But is this understanding\ncorrect? We have discussed above, at which points in the respiratory\npathway different substrates would enter if they were to be respired and\nused to derive energy. What is important to recognise is that it is these very\ncompounds that would be withdrawn from the respiratory pathway for the\nsynthesis of the said substrates. Hence, fatty acids would be broken down\nto acetyl CoA before entering the respiratory pathway when it is used as a\nsubstrate. But when the organism needs to synthesise fatty acids, acetyl\nCoA would be withdrawn from the respiratory pathway for it. Hence, the\nrespiratory pathway comes into the picture both during breakdown and\nsynthesis of fatty acids. Similarly, during breakdown and synthesis of\nprotein too, respiratory intermediates form the link. Breaking down\nprocesses within the living organism is catabolism, and synthesis is\nanabolism. Because the respiratory pathway is involved in both anabolism\nand catabolism, it would hence be better to consider the respiratory pathway\nas an amphibolic pathway rather than as a catabolic one.",
+          "bbox": {
+            "x_min": 0.3004,
+            "y_min": 0.5745,
+            "x_max": 0.9316,
+            "y_max": 0.884,
+            "width": 0.6312,
+            "height": 0.3095
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1876,
+            "y_min": 0.708,
+            "x_max": 0.3255,
+            "y_max": 0.8151,
+            "width": 0.1379,
+            "height": 0.107
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9812
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "RESPIRATION IN PLANTS",
+          "bbox": {
+            "x_min": 0.1081,
+            "y_min": 0.0809,
+            "x_max": 0.287,
+            "y_max": 0.0903,
+            "width": 0.1788,
+            "height": 0.0094
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "Fats",
+          "bbox": {
+            "x_min": 0.2554,
+            "y_min": 0.1914,
+            "x_max": 0.2963,
+            "y_max": 0.1999,
+            "width": 0.0409,
+            "height": 0.0086
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "Fatty acids and glycerol",
+          "bbox": {
+            "x_min": 0.1128,
+            "y_min": 0.241,
+            "x_max": 0.3244,
+            "y_max": 0.2539,
+            "width": 0.2116,
+            "height": 0.0128
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "Carbohydrates",
+          "bbox": {
+            "x_min": 0.4617,
+            "y_min": 0.1905,
+            "x_max": 0.5926,
+            "y_max": 0.2033,
+            "width": 0.1309,
+            "height": 0.0128
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "Simple sugars\ne.g. Glucose",
+          "bbox": {
+            "x_min": 0.4611,
+            "y_min": 0.2346,
+            "x_max": 0.588,
+            "y_max": 0.2624,
+            "width": 0.1268,
+            "height": 0.0278
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "Glucose 6-phosphate",
+          "bbox": {
+            "x_min": 0.4272,
+            "y_min": 0.2821,
+            "x_max": 0.6189,
+            "y_max": 0.2945,
+            "width": 0.1917,
+            "height": 0.0124
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "Fructose 1,6 bisphosphate",
+          "bbox": {
+            "x_min": 0.4056,
+            "y_min": 0.3373,
+            "x_max": 0.6441,
+            "y_max": 0.3497,
+            "width": 0.2385,
+            "height": 0.0124
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "Dihydroxy Acetone Phosphate",
+          "bbox": {
+            "x_min": 0.2238,
+            "y_min": 0.3746,
+            "x_max": 0.4915,
+            "y_max": 0.3874,
+            "width": 0.2677,
+            "height": 0.0128
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "Proteins",
+          "bbox": {
+            "x_min": 0.7516,
+            "y_min": 0.1914,
+            "x_max": 0.8247,
+            "y_max": 0.1999,
+            "width": 0.0731,
+            "height": 0.0086
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "reablished",
+          "bbox": {
+            "x_min": 0.4757,
+            "y_min": 0.3044,
+            "x_max": 0.8814,
+            "y_max": 0.5963,
+            "width": 0.4056,
+            "height": 0.292
+          },
+          "confidence": 0.8795
+        },
+        {
+          "text": "CO2",
+          "bbox": {
+            "x_min": 0.692,
+            "y_min": 0.5548,
+            "x_max": 0.7271,
+            "y_max": 0.5668,
+            "width": 0.0351,
+            "height": 0.012
+          },
+          "confidence": 0.8223
+        },
+        {
+          "text": "Figure 12.6 Interrelationship among metabolic pathways showing respiration\nmediated breakdown of different organic molecules to CO₂ and H₂O",
+          "bbox": {
+            "x_min": 0.1227,
+            "y_min": 0.5993,
+            "x_max": 0.844,
+            "y_max": 0.6284,
+            "width": 0.7212,
+            "height": 0.0291
+          },
+          "confidence": 0.9815
+        },
+        {
+          "text": "12.7 RESPIRATORY QUOTIENT",
+          "bbox": {
+            "x_min": 0.0719,
+            "y_min": 0.6503,
+            "x_max": 0.3735,
+            "y_max": 0.6644,
+            "width": 0.3016,
+            "height": 0.0141
+          },
+          "confidence": 0.9687
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.2589,
+            "y_min": 0.7123,
+            "x_max": 0.2683,
+            "y_max": 0.7175,
+            "width": 0.0094,
+            "height": 0.0051
+          },
+          "confidence": 0.9762
+        },
+        {
+          "text": "Let us now look at another aspect of respiration. As you know, during\naerobic respiration, O₂ is consumed and CO₂ is released. The ratio of the\nvolume of CO, evolved to the volume of O₂ consumed in respiration is\ncalled the respiratory quotient (RQ) or respiratory ratio.",
+          "bbox": {
+            "x_min": 0.069,
+            "y_min": 0.6858,
+            "x_max": 0.699,
+            "y_max": 0.7526,
+            "width": 0.63,
+            "height": 0.0668
+          },
+          "confidence": 0.9808
+        },
+        {
+          "text": "RQ",
+          "bbox": {
+            "x_min": 0.2537,
+            "y_min": 0.7761,
+            "x_max": 0.2805,
+            "y_max": 0.7868,
+            "width": 0.0269,
+            "height": 0.0107
+          },
+          "confidence": 0.7838
+        },
+        {
+          "text": "=",
+          "bbox": {
+            "x_min": 0.2881,
+            "y_min": 0.78,
+            "x_max": 0.2981,
+            "y_max": 0.7838,
+            "width": 0.0099,
+            "height": 0.0039
+          },
+          "confidence": 0.9416
+        },
+        {
+          "text": "volume of CO2 evolved\nvolume of O₂ consumed",
+          "bbox": {
+            "x_min": 0.3068,
+            "y_min": 0.7667,
+            "x_max": 0.5126,
+            "y_max": 0.7992,
+            "width": 0.2057,
+            "height": 0.0325
+          },
+          "confidence": 0.9547
+        },
+        {
+          "text": "The respiratory quotient depends upon the type of respiratory\nsubstrate used during respiration.",
+          "bbox": {
+            "x_min": 0.0707,
+            "y_min": 0.8151,
+            "x_max": 0.699,
+            "y_max": 0.8459,
+            "width": 0.6283,
+            "height": 0.0308
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "When carbohydrates are used as substrate and are completely\noxidised, the RQ will be 1, because equal amounts of CO2 and O₂ are\nevolved and consumed, respectively, as shown in the equation below :",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.851,
+            "x_max": 0.6996,
+            "y_max": 0.8998,
+            "width": 0.6295,
+            "height": 0.0488
+          },
+          "confidence": 0.9805
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9812
+        },
+        {
+          "text": "163",
+          "bbox": {
+            "x_min": 0.8486,
+            "y_min": 0.0813,
+            "x_max": 0.8866,
+            "y_max": 0.0908,
+            "width": 0.038,
+            "height": 0.0094
+          },
+          "confidence": 0.9911
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "164",
+          "bbox": {
+            "x_min": 0.1157,
+            "y_min": 0.0813,
+            "x_max": 0.1578,
+            "y_max": 0.0903,
+            "width": 0.0421,
+            "height": 0.009
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8597,
+            "y_min": 0.0813,
+            "x_max": 0.9287,
+            "y_max": 0.0912,
+            "width": 0.069,
+            "height": 0.0098
+          },
+          "confidence": 0.9759
+        },
+        {
+          "text": "C6H12O6 + 60₂ → 6CO₂ +6H2O+Energy",
+          "bbox": {
+            "x_min": 0.422,
+            "y_min": 0.1511,
+            "x_max": 0.8101,
+            "y_max": 0.1648,
+            "width": 0.3881,
+            "height": 0.0137
+          },
+          "confidence": 0.887
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.543,
+            "y_min": 0.1592,
+            "x_max": 0.5529,
+            "y_max": 0.164,
+            "width": 0.0099,
+            "height": 0.0047
+          },
+          "confidence": 0.9733
+        },
+        {
+          "text": "6CO2\nRQ = 2 = 1.0",
+          "bbox": {
+            "x_min": 0.5406,
+            "y_min": 0.1759,
+            "x_max": 0.6926,
+            "y_max": 0.1956,
+            "width": 0.152,
+            "height": 0.0197
+          },
+          "confidence": 0.8853
+        },
+        {
+          "text": "602",
+          "bbox": {
+            "x_min": 0.5991,
+            "y_min": 0.1952,
+            "x_max": 0.6353,
+            "y_max": 0.2076,
+            "width": 0.0362,
+            "height": 0.0124
+          },
+          "confidence": 0.9665
+        },
+        {
+          "text": "When fats are used in respiration, the RQ is less than 1. Calculations",
+          "bbox": {
+            "x_min": 0.3331,
+            "y_min": 0.223,
+            "x_max": 0.9293,
+            "y_max": 0.2359,
+            "width": 0.5961,
+            "height": 0.0128
+          },
+          "confidence": 0.9803
+        },
+        {
+          "text": "for a fatty acid, tripalmitin, if used as a substrate is shown:",
+          "bbox": {
+            "x_min": 0.3039,
+            "y_min": 0.2406,
+            "x_max": 0.8188,
+            "y_max": 0.2543,
+            "width": 0.5149,
+            "height": 0.0137
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "0.9.",
+          "bbox": {
+            "x_min": 0.3027,
+            "y_min": 0.3908,
+            "x_max": 0.3366,
+            "y_max": 0.4011,
+            "width": 0.0339,
+            "height": 0.0103
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "2(C51H98O6)+1450₂ →102CO₂ +98H2O+ energy",
+          "bbox": {
+            "x_min": 0.3916,
+            "y_min": 0.2774,
+            "x_max": 0.8416,
+            "y_max": 0.292,
+            "width": 0.45,
+            "height": 0.0146
+          },
+          "confidence": 0.869
+        },
+        {
+          "text": "Tripalmitin",
+          "bbox": {
+            "x_min": 0.4454,
+            "y_min": 0.2992,
+            "x_max": 0.5476,
+            "y_max": 0.3121,
+            "width": 0.1023,
+            "height": 0.0128
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "RQ =",
+          "bbox": {
+            "x_min": 0.5307,
+            "y_min": 0.3305,
+            "x_max": 0.5751,
+            "y_max": 0.3416,
+            "width": 0.0444,
+            "height": 0.0111
+          },
+          "confidence": 0.8469
+        },
+        {
+          "text": "102CO,\n14502",
+          "bbox": {
+            "x_min": 0.5845,
+            "y_min": 0.3215,
+            "x_max": 0.6493,
+            "y_max": 0.3549,
+            "width": 0.0649,
+            "height": 0.0334
+          },
+          "confidence": 0.9222
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.6417,
+            "y_min": 0.3296,
+            "x_max": 0.6558,
+            "y_max": 0.3348,
+            "width": 0.014,
+            "height": 0.0051
+          },
+          "confidence": 0.965
+        },
+        {
+          "text": "= 0.7",
+          "bbox": {
+            "x_min": 0.6587,
+            "y_min": 0.3301,
+            "x_max": 0.7037,
+            "y_max": 0.3395,
+            "width": 0.045,
+            "height": 0.0094
+          },
+          "confidence": 0.9719
+        },
+        {
+          "text": "When proteins are respiratory substrates the ratio would be about",
+          "bbox": {
+            "x_min": 0.3337,
+            "y_min": 0.3729,
+            "x_max": 0.9299,
+            "y_max": 0.387,
+            "width": 0.5961,
+            "height": 0.0141
+          },
+          "confidence": 0.997
+        },
+        {
+          "text": "What is important to recognise is that in living organisms, respiratory\nsubstrates are often more than one; pure proteins or fats are never\nused as respiratory substrates.",
+          "bbox": {
+            "x_min": 0.3045,
+            "y_min": 0.4092,
+            "x_max": 0.931,
+            "y_max": 0.458,
+            "width": 0.6265,
+            "height": 0.0488
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "NCER",
+          "bbox": {
+            "x_min": 0.3477,
+            "y_min": 0.4324,
+            "x_max": 0.5809,
+            "y_max": 0.589,
+            "width": 0.2332,
+            "height": 0.1567
+          },
+          "confidence": 0.8851
+        },
+        {
+          "text": "bubled",
+          "bbox": {
+            "x_min": 0.5172,
+            "y_min": 0.3039,
+            "x_max": 0.8948,
+            "y_max": 0.5574,
+            "width": 0.3776,
+            "height": 0.2534
+          },
+          "confidence": 0.8752
+        },
+        {
+          "text": "1 systems",
+          "bbox": {
+            "x_min": 0.4828,
+            "y_min": 0.5569,
+            "x_max": 0.5605,
+            "y_max": 0.5745,
+            "width": 0.0777,
+            "height": 0.0176
+          },
+          "confidence": 0.9274
+        },
+        {
+          "text": "Plants unlike animals have no special systems for breathing or gaseous exchange.\nStomata and lenticels allow gaseous exchange by diffusion. Almost all living cells\nin a plant have their surfaces exposed to air.",
+          "bbox": {
+            "x_min": 0.1619,
+            "y_min": 0.5629,
+            "x_max": 0.8656,
+            "y_max": 0.6109,
+            "width": 0.7037,
+            "height": 0.0479
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "The breaking of EC bonds of complex organic molecules by oxidation leading\nto the release of a lot of energy is called cellular respiration. Glucose is the\nfavoured substrate for respiration. Fats and proteins can also be broken down to\nyield energy. The initial stage of cellular respiration takes place in the cytoplasm.\nEach glucose molecule is broken through a series of enzyme catalysed reactions\ninto two molecules of pyruvic acid. This process is called glycolysis. The fate of the\npyruvate depends on the availability of oxygen and the organism. Under anaerobic\nconditions either lactic acid fermentation or alcohol fermentation occurs.\nFermentation takes place under anaerobic conditions in many prokaryotes,\nunicellular eukaryotes and in germinating seeds. In eukaryotic organisms aerobic\nrespiration occurs in the presence of oxygen. Pyruvic acid is transported into the\nmitochondria where it is converted into acetyl CoA with the release of CO2. Acetyl\nCoA then enters the tricarboxylic acid pathway or Krebs' cycle operating in the\nmatrix of the mitochondria. NADH + H+ and FADH2 are generated in the Krebs'\ncycle. The energy in these molecules as well as that in the NADH+ H+ synthesised\nduring glycolysis are used to synthesise ATP. This is accomplished through a",
+          "bbox": {
+            "x_min": 0.1619,
+            "y_min": 0.6156,
+            "x_max": 0.8673,
+            "y_max": 0.8985,
+            "width": 0.7054,
+            "height": 0.283
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4506,
+            "y_min": 0.9829,
+            "x_max": 0.5494,
+            "y_max": 0.9923,
+            "width": 0.0988,
+            "height": 0.0094
+          },
+          "confidence": 0.9812
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "dimension": {
+        "width": 1711.0,
+        "height": 2336.0
+      },
+      "paragraphs": [
+        {
+          "text": "RESPIRATION IN PLANTS",
+          "bbox": {
+            "x_min": 0.1099,
+            "y_min": 0.0809,
+            "x_max": 0.287,
+            "y_max": 0.0903,
+            "width": 0.1771,
+            "height": 0.0094
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "system of electron carriers called electron transport system (ETS) located on the\ninner membrane of the mitochondria. The electrons, as they move through the\nsystem, release enough energy that are trapped to synthesise ATP. This is called\noxidative phosphorylation. In this process O₂ is the ultimate acceptor of electrons\nand it gets reduced to water.",
+          "bbox": {
+            "x_min": 0.1309,
+            "y_min": 0.1331,
+            "x_max": 0.8305,
+            "y_max": 0.2183,
+            "width": 0.6996,
+            "height": 0.0852
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.5102,
+            "y_min": 0.1969,
+            "x_max": 0.5196,
+            "y_max": 0.2016,
+            "width": 0.0094,
+            "height": 0.0047
+          },
+          "confidence": 0.9723
+        },
+        {
+          "text": "The respiratory pathway is an amphibolic pathway as it involves both anabolism\nand catabolism. The respiratory quotient depends upon the type of respiratory\nsubstance used during respiration.",
+          "bbox": {
+            "x_min": 0.1315,
+            "y_min": 0.2226,
+            "x_max": 0.8305,
+            "y_max": 0.2723,
+            "width": 0.699,
+            "height": 0.0497
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "165",
+          "bbox": {
+            "x_min": 0.848,
+            "y_min": 0.0805,
+            "x_max": 0.8884,
+            "y_max": 0.0908,
+            "width": 0.0403,
+            "height": 0.0103
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "1. Differentiate between",
+          "bbox": {
+            "x_min": 0.1432,
+            "y_min": 0.3746,
+            "x_max": 0.3518,
+            "y_max": 0.3844,
+            "width": 0.2086,
+            "height": 0.0098
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "(a) Respiration and Combustion",
+          "bbox": {
+            "x_min": 0.1724,
+            "y_min": 0.3921,
+            "x_max": 0.4407,
+            "y_max": 0.4041,
+            "width": 0.2683,
+            "height": 0.012
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "(b) Glycolysis and Krebs' cycle",
+          "bbox": {
+            "x_min": 0.1724,
+            "y_min": 0.4097,
+            "x_max": 0.4249,
+            "y_max": 0.4234,
+            "width": 0.2525,
+            "height": 0.0137
+          },
+          "confidence": 0.971
+        },
+        {
+          "text": "EXERCISES",
+          "bbox": {
+            "x_min": 0.443,
+            "y_min": 0.3232,
+            "x_max": 0.5476,
+            "y_max": 0.3348,
+            "width": 0.1046,
+            "height": 0.0116
+          },
+          "confidence": 0.9757
+        },
+        {
+          "text": "(c) Aerobic respiration and Fermentation",
+          "bbox": {
+            "x_min": 0.173,
+            "y_min": 0.4277,
+            "x_max": 0.5155,
+            "y_max": 0.4405,
+            "width": 0.3425,
+            "height": 0.0128
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "2. What are respiratory substrates? Name the most common respiratory substrate.",
+          "bbox": {
+            "x_min": 0.142,
+            "y_min": 0.4499,
+            "x_max": 0.8288,
+            "y_max": 0.4628,
+            "width": 0.6867,
+            "height": 0.0128
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "3. Give the schematic representation of glycolysis?",
+          "bbox": {
+            "x_min": 0.1414,
+            "y_min": 0.4679,
+            "x_max": 0.5786,
+            "y_max": 0.4812,
+            "width": 0.4372,
+            "height": 0.0133
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "4. What are the main steps in aerobic respiration? Where does it take place?",
+          "bbox": {
+            "x_min": 0.1414,
+            "y_min": 0.4897,
+            "x_max": 0.7984,
+            "y_max": 0.5026,
+            "width": 0.6569,
+            "height": 0.0128
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "5. Give the schematic representation of an overall view of Krebs' cycle.",
+          "bbox": {
+            "x_min": 0.142,
+            "y_min": 0.512,
+            "x_max": 0.7434,
+            "y_max": 0.5244,
+            "width": 0.6014,
+            "height": 0.0124
+          },
+          "confidence": 0.9838
+        },
+        {
+          "text": "6. Explain ETS.",
+          "bbox": {
+            "x_min": 0.1403,
+            "y_min": 0.5334,
+            "x_max": 0.28,
+            "y_max": 0.5454,
+            "width": 0.1397,
+            "height": 0.012
+          },
+          "confidence": 0.9842
+        },
+        {
+          "text": "T",
+          "bbox": {
+            "x_min": 0.526,
+            "y_min": 0.3947,
+            "x_max": 0.6166,
+            "y_max": 0.4589,
+            "width": 0.0906,
+            "height": 0.0642
+          },
+          "confidence": 0.9439
+        },
+        {
+          "text": "not be republished",
+          "bbox": {
+            "x_min": 0.1899,
+            "y_min": 0.3065,
+            "x_max": 0.8767,
+            "y_max": 0.8164,
+            "width": 0.6867,
+            "height": 0.5098
+          },
+          "confidence": 0.6176
+        },
+        {
+          "text": "7. Distinguish between the following:",
+          "bbox": {
+            "x_min": 0.1426,
+            "y_min": 0.5557,
+            "x_max": 0.4617,
+            "y_max": 0.5681,
+            "width": 0.3191,
+            "height": 0.0124
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "(a) Aerobic respiration and Anaerobic respiration",
+          "bbox": {
+            "x_min": 0.1724,
+            "y_min": 0.5723,
+            "x_max": 0.5868,
+            "y_max": 0.5856,
+            "width": 0.4144,
+            "height": 0.0133
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "(b) Glycolysis and Fermentation",
+          "bbox": {
+            "x_min": 0.1724,
+            "y_min": 0.5908,
+            "x_max": 0.4401,
+            "y_max": 0.604,
+            "width": 0.2677,
+            "height": 0.0133
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "(c) Glycolysis and Citric acid Cycle",
+          "bbox": {
+            "x_min": 0.173,
+            "y_min": 0.6087,
+            "x_max": 0.4623,
+            "y_max": 0.6216,
+            "width": 0.2893,
+            "height": 0.0128
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "8. What are the assumptions made during the calculation of net gain of ATP?",
+          "bbox": {
+            "x_min": 0.1414,
+            "y_min": 0.6271,
+            "x_max": 0.8042,
+            "y_max": 0.6396,
+            "width": 0.6628,
+            "height": 0.0124
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "9. Discuss “The respiratory pathway is an amphibolic pathway.\"",
+          "bbox": {
+            "x_min": 0.142,
+            "y_min": 0.649,
+            "x_max": 0.692,
+            "y_max": 0.6614,
+            "width": 0.55,
+            "height": 0.0124
+          },
+          "confidence": 0.9854
+        },
+        {
+          "text": "10. Define RQ. What is its value for fats?",
+          "bbox": {
+            "x_min": 0.1333,
+            "y_min": 0.6704,
+            "x_max": 0.4839,
+            "y_max": 0.6819,
+            "width": 0.3507,
+            "height": 0.0116
+          },
+          "confidence": 0.9793
+        },
+        {
+          "text": "11. What is oxidative phosphorylation?",
+          "bbox": {
+            "x_min": 0.1333,
+            "y_min": 0.6922,
+            "x_max": 0.4693,
+            "y_max": 0.7046,
+            "width": 0.3361,
+            "height": 0.0124
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "12. What is the significance of step-wise release of energy in respiration?",
+          "bbox": {
+            "x_min": 0.1338,
+            "y_min": 0.7132,
+            "x_max": 0.7563,
+            "y_max": 0.7269,
+            "width": 0.6224,
+            "height": 0.0137
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4494,
+            "y_min": 0.9833,
+            "x_max": 0.5494,
+            "y_max": 0.9919,
+            "width": 0.0999,
+            "height": 0.0086
+          },
+          "confidence": 0.9838
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

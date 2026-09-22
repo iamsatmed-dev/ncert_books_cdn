@@ -1,0 +1,5773 @@
+{
+  "chapter_id": "12th_physics_ch13_nuclei_ch13_nuclei_en",
+  "total_pages": 17,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "Chapter Thirteen",
+          "bbox": {
+            "x_min": 0.0809,
+            "y_min": 0.1428,
+            "x_max": 0.5067,
+            "y_max": 0.1776,
+            "width": 0.4258,
+            "height": 0.0348
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "NUCLEI",
+          "bbox": {
+            "x_min": 0.0826,
+            "y_min": 0.209,
+            "x_max": 0.3636,
+            "y_max": 0.2581,
+            "width": 0.281,
+            "height": 0.049
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "12090CH13",
+          "bbox": {
+            "x_min": 0.8069,
+            "y_min": 0.1591,
+            "x_max": 0.8534,
+            "y_max": 0.1643,
+            "width": 0.0465,
+            "height": 0.0052
+          },
+          "confidence": 0.9771
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1949,
+            "y_min": 0.714,
+            "x_max": 0.3223,
+            "y_max": 0.8159,
+            "width": 0.1274,
+            "height": 0.1019
+          },
+          "confidence": 0.8491
+        },
+        {
+          "text": "NOERT",
+          "bbox": {
+            "x_min": 0.3618,
+            "y_min": 0.3966,
+            "x_max": 0.6102,
+            "y_max": 0.5806,
+            "width": 0.2484,
+            "height": 0.1841
+          },
+          "confidence": 0.8876
+        },
+        {
+          "text": "1 INTRODUCTION EDNolished",
+          "bbox": {
+            "x_min": 0.2676,
+            "y_min": 0.3015,
+            "x_max": 0.9447,
+            "y_max": 0.6495,
+            "width": 0.6771,
+            "height": 0.348
+          },
+          "confidence": 0.8099
+        },
+        {
+          "text": "In the previous chapter, we have learnt that in every atom, the positive\ncharge and mass are densely concentrated at the centre of the atom\nforming its nucleus. The overall dimensions of a nucleus are much smaller\nthan those of an atom. Experiments on scattering of a-particles\ndemonstrated that the radius of a nucleus was smaller than the radius\nof an atom by a factor of about 104. This means the volume of a nucleus\nis about 10-12 times the volume of the atom. In other words, an atom is\nalmost empty. If an atom is enlarged to the size of a classroom, the nucleus\nwould be of the size of pinhead. Nevertheless, the nucleus contains most\n(more than 99.9%) of the mass of an atom.",
+          "bbox": {
+            "x_min": 0.2833,
+            "y_min": 0.6065,
+            "x_max": 0.9191,
+            "y_max": 0.7746,
+            "width": 0.6358,
+            "height": 0.1682
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "Does the nucleus have a structure, just as the atom does? If so, what\nare the constituents of the nucleus? How are these held together? In this\nchapter, we shall look for answers to such questions. We shall discuss\nvarious properties of nuclei such as their size, mass and stability, and\nalso associated nuclear phenomena such as radioactivity, fission and fusion.",
+          "bbox": {
+            "x_min": 0.2833,
+            "y_min": 0.7798,
+            "x_max": 0.9191,
+            "y_max": 0.8615,
+            "width": 0.6358,
+            "height": 0.0817
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "13.2 АтоMIC MASSES AND COMPOSITION OF NUCLEUS\nThe mass of an atom is very small, compared to a kilogram; for example,\nthe mass of a carbon atom, 12C, is 1.992647 × 10-26 kg. Kilogram is not\na very convenient unit to measure such small quantities. Therefore, a",
+          "bbox": {
+            "x_min": 0.2827,
+            "y_min": 0.8761,
+            "x_max": 0.9197,
+            "y_max": 0.9535,
+            "width": 0.637,
+            "height": 0.0774
+          },
+          "confidence": 0.9809
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9818
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "Nuclei",
+          "bbox": {
+            "x_min": 0.7004,
+            "y_min": 0.0955,
+            "x_max": 0.7801,
+            "y_max": 0.1114,
+            "width": 0.0797,
+            "height": 0.0159
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "different mass unit is used for expressing atomic masses. This unit is the\natomic mass unit (u), defined as 1/12th of the mass of the carbon (¹2C)\natom. According to this definition",
+          "bbox": {
+            "x_min": 0.0809,
+            "y_min": 0.1351,
+            "x_max": 0.7132,
+            "y_max": 0.1815,
+            "width": 0.6323,
+            "height": 0.0465
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "lu =",
+          "bbox": {
+            "x_min": 0.1129,
+            "y_min": 0.203,
+            "x_max": 0.1536,
+            "y_max": 0.2133,
+            "width": 0.0407,
+            "height": 0.0103
+          },
+          "confidence": 0.9797
+        },
+        {
+          "text": "mass of one 12C atom",
+          "bbox": {
+            "x_min": 0.171,
+            "y_min": 0.191,
+            "x_max": 0.3647,
+            "y_max": 0.2052,
+            "width": 0.1937,
+            "height": 0.0142
+          },
+          "confidence": 0.9802
+        },
+        {
+          "text": "12",
+          "bbox": {
+            "x_min": 0.2507,
+            "y_min": 0.2142,
+            "x_max": 0.2763,
+            "y_max": 0.2237,
+            "width": 0.0256,
+            "height": 0.0095
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "1.992647 ×10-26 kg",
+          "bbox": {
+            "x_min": 0.1594,
+            "y_min": 0.24,
+            "x_max": 0.3328,
+            "y_max": 0.2551,
+            "width": 0.1734,
+            "height": 0.0151
+          },
+          "confidence": 0.9451
+        },
+        {
+          "text": "12",
+          "bbox": {
+            "x_min": 0.2333,
+            "y_min": 0.2624,
+            "x_max": 0.2583,
+            "y_max": 0.2714,
+            "width": 0.025,
+            "height": 0.009
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "= 1.660539 ×10-27 kg",
+          "bbox": {
+            "x_min": 0.1414,
+            "y_min": 0.2852,
+            "x_max": 0.3293,
+            "y_max": 0.3011,
+            "width": 0.1879,
+            "height": 0.0159
+          },
+          "confidence": 0.9314
+        },
+        {
+          "text": "(13.1)",
+          "bbox": {
+            "x_min": 0.6608,
+            "y_min": 0.2869,
+            "x_max": 0.7144,
+            "y_max": 0.2998,
+            "width": 0.0535,
+            "height": 0.0129
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "The atomic masses of various elements expressed in atomic mass\nunit (u) are close to being integral multiples of the mass of a hydrogen\natom. There are, however, many striking exceptions to this rule. For\nexample, the atomic mass of chlorine atom is 35.46 น.",
+          "bbox": {
+            "x_min": 0.0803,
+            "y_min": 0.3084,
+            "x_max": 0.7144,
+            "y_max": 0.3712,
+            "width": 0.6341,
+            "height": 0.0628
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6847,
+            "y_min": 0.3075,
+            "x_max": 0.8691,
+            "y_max": 0.446,
+            "width": 0.1844,
+            "height": 0.1385
+          },
+          "confidence": 0.8498
+        },
+        {
+          "text": "Accurate measurement of atomic masses is carried out with a mass\nspectrometer, The measurement of atomic masses reveals the existence\nof different types of atoms of the same element, which exhibit the same\nchemical properties, but differ in mass. Such atomic species of the same\nelement differing in mass are called isotopes. (In Greek, isotope means\nthe same place, i.e. they occur in the same place in the periodic table of\nelements.) It was found that practically every element consists of a mixture\nof several isotopes. The relative abundance of different isotopes differs\nfrom element to element. Chlorine, for example, has two isotopes having\nmasses 34.98 u and 36.98 u, which are nearly integral multiples of the\nmass of a hydrogen atom. The relative abundances of these isotopes are\n75.4 and 24.6 per cent, respectively. Thus, the average mass of a chlorine\natom is obtained by the weighted average of the masses of the two\nisotopes, which works out to be",
+          "bbox": {
+            "x_min": 0.0791,
+            "y_min": 0.3746,
+            "x_max": 0.7155,
+            "y_max": 0.6047,
+            "width": 0.6364,
+            "height": 0.2301
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "75.4×34.98+24.6×36.98\n100",
+          "bbox": {
+            "x_min": 0.1309,
+            "y_min": 0.6163,
+            "x_max": 0.3647,
+            "y_max": 0.6452,
+            "width": 0.2339,
+            "height": 0.0288
+          },
+          "confidence": 0.9627
+        },
+        {
+          "text": "= 35.47 u",
+          "bbox": {
+            "x_min": 0.1129,
+            "y_min": 0.649,
+            "x_max": 0.2054,
+            "y_max": 0.6594,
+            "width": 0.0925,
+            "height": 0.0103
+          },
+          "confidence": 0.9798
+        },
+        {
+          "text": "be",
+          "bbox": {
+            "x_min": 0.3764,
+            "y_min": 0.5819,
+            "x_max": 0.5073,
+            "y_max": 0.6727,
+            "width": 0.1309,
+            "height": 0.0908
+          },
+          "confidence": 0.9839
+        },
+        {
+          "text": "which agrees with the atomic mass of chlorine.",
+          "bbox": {
+            "x_min": 0.0791,
+            "y_min": 0.6662,
+            "x_max": 0.4945,
+            "y_max": 0.6791,
+            "width": 0.4154,
+            "height": 0.0129
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "Even the lightest element, hydrogen has three isotopes having masses\n1.0078 u, 2.0141 u, and 3.0160 u. The nucleus of the lightest atom of\nhydrogen, which has a relative abundance of 99.985%, is called the\nproton. The mass of a proton is",
+          "bbox": {
+            "x_min": 0.0809,
+            "y_min": 0.6822,
+            "x_max": 0.7161,
+            "y_max": 0.7458,
+            "width": 0.6353,
+            "height": 0.0637
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "mp = 1.00727 u = 1.67262 × 10-27 kg",
+          "bbox": {
+            "x_min": 0.1105,
+            "y_min": 0.7544,
+            "x_max": 0.4439,
+            "y_max": 0.7716,
+            "width": 0.3333,
+            "height": 0.0172
+          },
+          "confidence": 0.9624
+        },
+        {
+          "text": "(13.2)",
+          "bbox": {
+            "x_min": 0.6608,
+            "y_min": 0.7561,
+            "x_max": 0.7126,
+            "y_max": 0.769,
+            "width": 0.0518,
+            "height": 0.0129
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "This is equal to the mass of the hydrogen atom (= 1.00783u), minus\nthe mass of a single electron (m= 0.00055 u). The other two isotopes of\nhydrogen are called deuterium and tritium. Tritium nuclei, being\nunstable, do not occur naturally and are produced artificially in\nlaboratories.",
+          "bbox": {
+            "x_min": 0.0797,
+            "y_min": 0.7772,
+            "x_max": 0.7155,
+            "y_max": 0.8551,
+            "width": 0.6358,
+            "height": 0.0778
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "The positive charge in the nucleus is that of the protons. A proton\ncarries one unit of fundamental charge and is stable. It was earlier thought\nthat the nucleus may contain electrons, but this was ruled out later using\narguments based on quantum theory. All the electrons of an atom are\noutside the nucleus. We know that the number of these electrons outside\nthe nucleus of the atom is Z, the atomic number. The total charge of the",
+          "bbox": {
+            "x_min": 0.0803,
+            "y_min": 0.8619,
+            "x_max": 0.715,
+            "y_max": 0.9583,
+            "width": 0.6347,
+            "height": 0.0963
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9821
+        },
+        {
+          "text": "307",
+          "bbox": {
+            "x_min": 0.8662,
+            "y_min": 0.9394,
+            "x_max": 0.9017,
+            "y_max": 0.9488,
+            "width": 0.0355,
+            "height": 0.0095
+          },
+          "confidence": 0.9925
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "308",
+          "bbox": {
+            "x_min": 0.0971,
+            "y_min": 0.9398,
+            "x_max": 0.1326,
+            "y_max": 0.9488,
+            "width": 0.0355,
+            "height": 0.009
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "■ Physics",
+          "bbox": {
+            "x_min": 0.1437,
+            "y_min": 0.0925,
+            "x_max": 0.3112,
+            "y_max": 0.1144,
+            "width": 0.1675,
+            "height": 0.0219
+          },
+          "confidence": 0.9036
+        },
+        {
+          "text": "atomic electrons is thus (-Ze), and since the atom is neutral, the charge\nof the nucleus is (+Ze). The number of protons in the nucleus of the atom\nis, therefore, exactly Z, the atomic number.",
+          "bbox": {
+            "x_min": 0.285,
+            "y_min": 0.1355,
+            "x_max": 0.9197,
+            "y_max": 0.1815,
+            "width": 0.6347,
+            "height": 0.046
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "Discovery of Neutron",
+          "bbox": {
+            "x_min": 0.285,
+            "y_min": 0.1931,
+            "x_max": 0.4898,
+            "y_max": 0.206,
+            "width": 0.2048,
+            "height": 0.0129
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "Since the nuclei of deuterium and tritium are isotopes of hydrogen, they\nmust contain only one proton each. But the masses of the nuclei of\nhydrogen, deuterium and tritium are in the ratio of 1:2:3. Therefore, the\nnuclei of deuterium and tritium must contain, in addition to a proton,\nsome neutral matter. The amount of neutral matter present in the nuclei\nof these isotopes, expressed in units of mass of a proton, is approximately\nequal to one and two, respectively. This fact indicates that the nuclei of\natoms contain, in addition to protons, neutral matter in multiples of a\nbasic unit. This hypothesis was verified in 1932 by James Chadwick\nwho observed emission of neutral radiation when beryllium nuclei were\nbombarded with alpha-particles (a-particles are helium nuclei, to be\ndiscussed in a later section). It was found that this neutral radiation\ncould knock out protons from light nuclei such as those of helium, carbon\nand nitrogen. The only neutral radiation known at that time was photons\n(electromagnetic radiation). Application of the principles of conservation\nof energy and momentum showed that if the neutral radiation consisted\nof photons, the energy of photons would have to be much higher than is\navailable from the bombardment of beryllium nuclei with a-particles.\nThe clue to this puzzle, which Chadwick satisfactorily solved, was to\nassume that the neutral radiation consists of a new type of neutral\nparticles called neutrons. From conservation of energy and momentum,\nhe was able to determine the mass of new particle ‘as very nearly the\nsame as mass of proton'.",
+          "bbox": {
+            "x_min": 0.2839,
+            "y_min": 0.2181,
+            "x_max": 0.9209,
+            "y_max": 0.6022,
+            "width": 0.637,
+            "height": 0.3841
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "The mass of a neutron is now known to a high degree of accuracy. It is\nmn = 1.00866 u = 1.6749×10-27 kg\n(13.3)\nChadwick was awarded the 1935 Nobel Prize in Physics for his\ndiscovery of the neutron.",
+          "bbox": {
+            "x_min": 0.2845,
+            "y_min": 0.606,
+            "x_max": 0.9191,
+            "y_max": 0.6766,
+            "width": 0.6347,
+            "height": 0.0705
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "A free neutron, unlike a free proton, is unstable. It decays into a\nproton, an electron and a antineutrino (another elementary particle), and\nhas a mean life of about 1000s. It is, however, stable inside the nucleus.\nThe composition of a nucleus can now be described using the following\nterms and symbols:",
+          "bbox": {
+            "x_min": 0.285,
+            "y_min": 0.6809,
+            "x_max": 0.9197,
+            "y_max": 0.7609,
+            "width": 0.6347,
+            "height": 0.08
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "noterme",
+          "bbox": {
+            "x_min": 0.1873,
+            "y_min": 0.7286,
+            "x_max": 0.3502,
+            "y_max": 0.8125,
+            "width": 0.1629,
+            "height": 0.0839
+          },
+          "confidence": 0.7471
+        },
+        {
+          "text": "Z - atomic number = number of protons\nN - neutron number = number of neutrons",
+          "bbox": {
+            "x_min": 0.3165,
+            "y_min": 0.7682,
+            "x_max": 0.6952,
+            "y_max": 0.8034,
+            "width": 0.3787,
+            "height": 0.0353
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "A - mass number = Z+N",
+          "bbox": {
+            "x_min": 0.3153,
+            "y_min": 0.8172,
+            "x_max": 0.541,
+            "y_max": 0.8275,
+            "width": 0.2257,
+            "height": 0.0103
+          },
+          "confidence": 0.9721
+        },
+        {
+          "text": "[13.4(a)]\n[13.4(b)]",
+          "bbox": {
+            "x_min": 0.8447,
+            "y_min": 0.7677,
+            "x_max": 0.9186,
+            "y_max": 0.8052,
+            "width": 0.0739,
+            "height": 0.0374
+          },
+          "confidence": 0.9642
+        },
+        {
+          "text": "= total number of protons and neutrons [13.4(c)]\nOne also uses the term nucleon for a proton or a neutron. Thus the\nnumber of nucleons in an atom is its mass number A.",
+          "bbox": {
+            "x_min": 0.2845,
+            "y_min": 0.8396,
+            "x_max": 0.9191,
+            "y_max": 0.8839,
+            "width": 0.6347,
+            "height": 0.0443
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "Z",
+          "bbox": {
+            "x_min": 0.7952,
+            "y_min": 0.9011,
+            "x_max": 0.8051,
+            "y_max": 0.9058,
+            "width": 0.0099,
+            "height": 0.0047
+          },
+          "confidence": 0.8463
+        },
+        {
+          "text": "Nuclear species or nuclides are shown by the notation X AX where X is\nthe chemical symbol of the species. For example, the nucleus of gold is\ndenoted by 197 Au. It contains 197 nucleons, of which 79 are protons\nand the rest118 are neutrons.",
+          "bbox": {
+            "x_min": 0.2839,
+            "y_min": 0.8895,
+            "x_max": 0.9186,
+            "y_max": 0.954,
+            "width": 0.6347,
+            "height": 0.0645
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9738,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.009
+          },
+          "confidence": 0.9821
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "Nuclei",
+          "bbox": {
+            "x_min": 0.701,
+            "y_min": 0.0955,
+            "x_max": 0.7801,
+            "y_max": 0.1114,
+            "width": 0.0791,
+            "height": 0.0159
+          },
+          "confidence": 0.9816
+        },
+        {
+          "text": "The composition of isotopes of an element can now be readily\nexplained. The nuclei of isotopes of a given element contain the same\nnumber of protons, but differ from each other in their number of neutrons.\nDeuterium, H, which is an isotope of hydrogen, contains one proton\nand one neutron. Its other isotope tritium, H, contains one proton and\ntwo neutrons. The element gold has 32 isotopes, ranging from A =173 to\nA = 204. We have already mentioned that chemical properties of elements\ndepend on their electronic structure. As the atoms of isotopes have\nidentical electronic structure they have identical chemical behaviour and\nare placed in the same location in the periodic table.",
+          "bbox": {
+            "x_min": 0.0797,
+            "y_min": 0.1351,
+            "x_max": 0.7144,
+            "y_max": 0.3015,
+            "width": 0.6347,
+            "height": 0.1665
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "All nuclides with same mass number A are called isobars. For\nexample, the nuclides and He are isobars. Nuclides with same\nneutron number N but different atomic number Z, for example 198 Hg\nand 197 Au, are called isotones.",
+          "bbox": {
+            "x_min": 0.0803,
+            "y_min": 0.3049,
+            "x_max": 0.7144,
+            "y_max": 0.3708,
+            "width": 0.6341,
+            "height": 0.0658
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "79",
+          "bbox": {
+            "x_min": 0.1257,
+            "y_min": 0.3677,
+            "x_max": 0.1414,
+            "y_max": 0.3738,
+            "width": 0.0157,
+            "height": 0.006
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "13.3 SIZE OF THE NUCLEUS",
+          "bbox": {
+            "x_min": 0.082,
+            "y_min": 0.388,
+            "x_max": 0.4247,
+            "y_max": 0.4034,
+            "width": 0.3426,
+            "height": 0.0155
+          },
+          "confidence": 0.9817
+        },
+        {
+          "text": "80",
+          "bbox": {
+            "x_min": 0.6672,
+            "y_min": 0.3497,
+            "x_max": 0.6835,
+            "y_max": 0.3553,
+            "width": 0.0163,
+            "height": 0.0056
+          },
+          "confidence": 0.9832
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6853,
+            "y_min": 0.3088,
+            "x_max": 0.8645,
+            "y_max": 0.4422,
+            "width": 0.1792,
+            "height": 0.1333
+          },
+          "confidence": 0.983
+        },
+        {
+          "text": "As we have seen in Chapter 12, Rutherford was the pioneer who\npostulated and established the existence of the atomic nucleus. At\nRutherford's suggestion, Geiger and Marsden performed their classic\nexperiment: on the scattering of a-particles from thin gold foils. Their\nexperiments revealed that the distance of closest approach to a gold\nnucleus of an a-particle of kinetic energy 5.5 MeV is about 4.0 × 10-14 m.\nThe scattering of a-particle by the gold sheet could be understood by\nRutherford by assuming that the coulomb repulsive force was solely\nresponsible for scattering. Since the positive charge is confined to the\nnucleus, the actual size of the nucleus has to be less than 4.0 × 10-14 m.",
+          "bbox": {
+            "x_min": 0.0797,
+            "y_min": 0.4185,
+            "x_max": 0.7144,
+            "y_max": 0.5871,
+            "width": 0.6347,
+            "height": 0.1686
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "If we use a-particles of higher energies than 5.5 MeV, the distance of\nclosest approach to the gold nucleus will be smaller and at some point\nthe scattering will begin to be affected by the short range nuclear forces,\nand differ from Rutherford's calculations. Rutherford's calculations are\nbased on pure coulomb repulsion between the positive charges of the a-\nparticle and the gold nucleus. From the distance at which deviations set\nin, nuclear sizes can be inferred.",
+          "bbox": {
+            "x_min": 0.0803,
+            "y_min": 0.5923,
+            "x_max": 0.7161,
+            "y_max": 0.7092,
+            "width": 0.6358,
+            "height": 0.117
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "By performing scattering experiments in which fast electrons, instead\nof a-particles, are projectiles that bombard targets made up of various\nelements, the sizes of nuclei of various elements have been accurately\nmeasured.",
+          "bbox": {
+            "x_min": 0.0803,
+            "y_min": 0.7144,
+            "x_max": 0.7144,
+            "y_max": 0.7759,
+            "width": 0.6341,
+            "height": 0.0615
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "0",
+          "bbox": {
+            "x_min": 0.1606,
+            "y_min": 0.8108,
+            "x_max": 0.1693,
+            "y_max": 0.8163,
+            "width": 0.0087,
+            "height": 0.0056
+          },
+          "confidence": 0.9229
+        },
+        {
+          "text": "It has been found that a nucleus of mass number A has a radius\nR = R A1/3\n(13.5)\nwhere R = 1.2 × 10-15 m (=1.2 fm; 1 fm = 10-15 m). This means the volume\nof the nucleus, which is proportional to R³ is proportional to A. Thus the\ndensity of nucleus is a constant, independent of A, for all nuclei. Different\nnuclei are like a drop of liquid of constant density. The density of nuclear\nmatter is approximately 2.3 × 1017 kg m¯³. This density is very large\ncompared to ordinary matter, say water, which is 103 kg m³. This is\nunderstandable, as we have already seen that most of the atom is empty.\nOrdinary matter consisting of atoms has a large amount of empty space.",
+          "bbox": {
+            "x_min": 0.0797,
+            "y_min": 0.7811,
+            "x_max": 0.7144,
+            "y_max": 0.9566,
+            "width": 0.6347,
+            "height": 0.1755
+          },
+          "confidence": 0.9843
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9821
+        },
+        {
+          "text": "309",
+          "bbox": {
+            "x_min": 0.8656,
+            "y_min": 0.9398,
+            "x_max": 0.9011,
+            "y_max": 0.9488,
+            "width": 0.0355,
+            "height": 0.009
+          },
+          "confidence": 0.9942
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.1966,
+            "y_min": 0.0916,
+            "x_max": 0.3124,
+            "y_max": 0.1161,
+            "width": 0.1158,
+            "height": 0.0245
+          },
+          "confidence": 0.9864
+        },
+        {
+          "text": "310",
+          "bbox": {
+            "x_min": 0.0966,
+            "y_min": 0.9389,
+            "x_max": 0.1332,
+            "y_max": 0.9488,
+            "width": 0.0366,
+            "height": 0.0099
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "EXAMPLE 13.2",
+          "bbox": {
+            "x_min": 0.242,
+            "y_min": 0.6185,
+            "x_max": 0.2554,
+            "y_max": 0.7075,
+            "width": 0.0134,
+            "height": 0.089
+          },
+          "confidence": 0.9607
+        },
+        {
+          "text": "EXAMPLE 13.1",
+          "bbox": {
+            "x_min": 0.242,
+            "y_min": 0.2103,
+            "x_max": 0.2554,
+            "y_max": 0.2998,
+            "width": 0.0134,
+            "height": 0.0895
+          },
+          "confidence": 0.973
+        },
+        {
+          "text": "Example 13.1 Given the mass of iron nucleus as 55.85u and A=56,\nfind the nuclear density?",
+          "bbox": {
+            "x_min": 0.3042,
+            "y_min": 0.1462,
+            "x_max": 0.886,
+            "y_max": 0.1733,
+            "width": 0.5817,
+            "height": 0.0271
+          },
+          "confidence": 0.9836
+        },
+        {
+          "text": "Solution",
+          "bbox": {
+            "x_min": 0.3042,
+            "y_min": 0.1841,
+            "x_max": 0.3834,
+            "y_max": 0.1935,
+            "width": 0.0791,
+            "height": 0.0095
+          },
+          "confidence": 0.9856
+        },
+        {
+          "text": "mFe = 55.85, u = 9.27 × 10-26 kg",
+          "bbox": {
+            "x_min": 0.306,
+            "y_min": 0.197,
+            "x_max": 0.5893,
+            "y_max": 0.2133,
+            "width": 0.2833,
+            "height": 0.0163
+          },
+          "confidence": 0.9044
+        },
+        {
+          "text": "mass",
+          "bbox": {
+            "x_min": 0.4718,
+            "y_min": 0.2232,
+            "x_max": 0.5131,
+            "y_max": 0.2288,
+            "width": 0.0413,
+            "height": 0.0056
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "Nuclear density =",
+          "bbox": {
+            "x_min": 0.3048,
+            "y_min": 0.2297,
+            "x_max": 0.4514,
+            "y_max": 0.2413,
+            "width": 0.1466,
+            "height": 0.0116
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "9.27×10-26",
+          "bbox": {
+            "x_min": 0.5846,
+            "y_min": 0.2172,
+            "x_max": 0.6748,
+            "y_max": 0.228,
+            "width": 0.0902,
+            "height": 0.0108
+          },
+          "confidence": 0.9441
+        },
+        {
+          "text": "X",
+          "bbox": {
+            "x_min": 0.7103,
+            "y_min": 0.2292,
+            "x_max": 0.7243,
+            "y_max": 0.2357,
+            "width": 0.014,
+            "height": 0.0065
+          },
+          "confidence": 0.8561
+        },
+        {
+          "text": "1",
+          "bbox": {
+            "x_min": 0.7312,
+            "y_min": 0.2198,
+            "x_max": 0.7417,
+            "y_max": 0.228,
+            "width": 0.0105,
+            "height": 0.0082
+          },
+          "confidence": 0.9681
+        },
+        {
+          "text": "volume (4π/3)(1.2×10-15)3^56",
+          "bbox": {
+            "x_min": 0.4625,
+            "y_min": 0.2327,
+            "x_max": 0.7452,
+            "y_max": 0.2477,
+            "width": 0.2827,
+            "height": 0.0151
+          },
+          "confidence": 0.9535
+        },
+        {
+          "text": "= 2.29 × 1017 kg m-3",
+          "bbox": {
+            "x_min": 0.5404,
+            "y_min": 0.2486,
+            "x_max": 0.7051,
+            "y_max": 0.2632,
+            "width": 0.1646,
+            "height": 0.0146
+          },
+          "confidence": 0.8605
+        },
+        {
+          "text": "The density of matter in neutron stars (an astrophysical object) is\ncomparable to this density. This shows that matter in these objects\nhas been compressed to such an extent that they resemble a big nucleus.",
+          "bbox": {
+            "x_min": 0.3042,
+            "y_min": 0.2671,
+            "x_max": 0.886,
+            "y_max": 0.3092,
+            "width": 0.5817,
+            "height": 0.0422
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "13.4 MASS-ENERGY AND NUCLEAR BINDING ENERGY",
+          "bbox": {
+            "x_min": 0.2862,
+            "y_min": 0.3308,
+            "x_max": 0.9186,
+            "y_max": 0.3467,
+            "width": 0.6323,
+            "height": 0.0159
+          },
+          "confidence": 0.9798
+        },
+        {
+          "text": "13.4.1 Mass – Energy",
+          "bbox": {
+            "x_min": 0.285,
+            "y_min": 0.3634,
+            "x_max": 0.5212,
+            "y_max": 0.3789,
+            "width": 0.2362,
+            "height": 0.0155
+          },
+          "confidence": 0.9677
+        },
+        {
+          "text": "e",
+          "bbox": {
+            "x_min": 0.7714,
+            "y_min": 0.351,
+            "x_max": 0.8301,
+            "y_max": 0.3815,
+            "width": 0.0588,
+            "height": 0.0305
+          },
+          "confidence": 0.8246
+        },
+        {
+          "text": "Einstein showed from his theory of special relativity that it is necessary\nto treat mass as another form of energy. Before the advent of this theory\nof special relativity it was presumed that mass and energy were conserved\nseparately in a reaction. However, Einstein showed that mass is another\nform of energy and one can convert mass-energy into other forms of\nenergy, say kinetic energy and vice-versa.",
+          "bbox": {
+            "x_min": 0.2839,
+            "y_min": 0.3867,
+            "x_max": 0.9197,
+            "y_max": 0.4839,
+            "width": 0.6358,
+            "height": 0.0972
+          },
+          "confidence": 0.9971
+        },
+        {
+          "text": "mass-energy equivalence relation",
+          "bbox": {
+            "x_min": 0.5439,
+            "y_min": 0.4916,
+            "x_max": 0.8412,
+            "y_max": 0.5049,
+            "width": 0.2973,
+            "height": 0.0133
+          },
+          "confidence": 0.9983
+        },
+        {
+          "text": "Einstein gave the famous",
+          "bbox": {
+            "x_min": 0.3165,
+            "y_min": 0.4916,
+            "x_max": 0.5381,
+            "y_max": 0.5045,
+            "width": 0.2216,
+            "height": 0.0129
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "E = mc²",
+          "bbox": {
+            "x_min": 0.3153,
+            "y_min": 0.5088,
+            "x_max": 0.3857,
+            "y_max": 0.5222,
+            "width": 0.0704,
+            "height": 0.0133
+          },
+          "confidence": 0.9202
+        },
+        {
+          "text": "of mass 1",
+          "bbox": {
+            "x_min": 0.5503,
+            "y_min": 0.523,
+            "x_max": 0.6271,
+            "y_max": 0.5484,
+            "width": 0.0768,
+            "height": 0.0254
+          },
+          "confidence": 0.8692
+        },
+        {
+          "text": "(13.6)",
+          "bbox": {
+            "x_min": 0.8656,
+            "y_min": 0.5114,
+            "x_max": 0.9168,
+            "y_max": 0.5247,
+            "width": 0.0512,
+            "height": 0.0133
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "Here the energy equivalent of mass mis related by the above equation\nand c is the velocity of light in vacuum and is approximately equal to\n3×10º m s¯¹.",
+          "bbox": {
+            "x_min": 0.2845,
+            "y_min": 0.5325,
+            "x_max": 0.9191,
+            "y_max": 0.5768,
+            "width": 0.6347,
+            "height": 0.0443
+          },
+          "confidence": 0.9815
+        },
+        {
+          "text": "Calculate",
+          "bbox": {
+            "x_min": 0.4363,
+            "y_min": 0.5987,
+            "x_max": 0.5137,
+            "y_max": 0.6142,
+            "width": 0.0774,
+            "height": 0.0155
+          },
+          "confidence": 0.9629
+        },
+        {
+          "text": "Example 13.2 Calculate the\nSolution",
+          "bbox": {
+            "x_min": 0.3048,
+            "y_min": 0.5996,
+            "x_max": 0.548,
+            "y_max": 0.6314,
+            "width": 0.2432,
+            "height": 0.0318
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "Energy, E = 10-3 × ( 3 × 10)2 J",
+          "bbox": {
+            "x_min": 0.3054,
+            "y_min": 0.6374,
+            "x_max": 0.5654,
+            "y_max": 0.6533,
+            "width": 0.26,
+            "height": 0.0159
+          },
+          "confidence": 0.8463
+        },
+        {
+          "text": "energy equivalent of 1 g of substance.",
+          "bbox": {
+            "x_min": 0.5567,
+            "y_min": 0.5996,
+            "x_max": 0.8807,
+            "y_max": 0.6116,
+            "width": 0.324,
+            "height": 0.012
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "E = 10¯³ × 9 × 1016 = 9 × 1013 J",
+          "bbox": {
+            "x_min": 0.3775,
+            "y_min": 0.6611,
+            "x_max": 0.6318,
+            "y_max": 0.674,
+            "width": 0.2542,
+            "height": 0.0129
+          },
+          "confidence": 0.8832
+        },
+        {
+          "text": "Thus, if one gram of matter is converted to energy, there is a release\nof enormous amount of energy.",
+          "bbox": {
+            "x_min": 0.3042,
+            "y_min": 0.6834,
+            "x_max": 0.8866,
+            "y_max": 0.7131,
+            "width": 0.5823,
+            "height": 0.0297
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1879,
+            "y_min": 0.7058,
+            "x_max": 0.3368,
+            "y_max": 0.8159,
+            "width": 0.1489,
+            "height": 0.1101
+          },
+          "confidence": 0.9803
+        },
+        {
+          "text": "Experimental verification of the Einstein's mass-energy relation has\nbeen achieved in the study of nuclear reactions amongst nucleons, nuclei,\nelectrons and other more recently discovered particles. In a reaction the\nconservation law of energy states that the initial energy and the final\nenergy are equal provided the energy associated with mass is also\nincluded. This concept is important in understanding nuclear masses\nand the interaction of nuclei with one another. They form the subject\nmatter of the next few sections.",
+          "bbox": {
+            "x_min": 0.2839,
+            "y_min": 0.7342,
+            "x_max": 0.918,
+            "y_max": 0.8645,
+            "width": 0.6341,
+            "height": 0.1303
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "13.4.2 Nuclear binding energy",
+          "bbox": {
+            "x_min": 0.285,
+            "y_min": 0.8813,
+            "x_max": 0.6201,
+            "y_max": 0.8968,
+            "width": 0.3351,
+            "height": 0.0155
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "In Section 13.2 we have seen that the nucleus is made up of neutrons\nand protons. Therefore it may be expected that the mass of the nucleus\nis equal to the total mass of its individual protons and neutrons. However,",
+          "bbox": {
+            "x_min": 0.2839,
+            "y_min": 0.9054,
+            "x_max": 0.918,
+            "y_max": 0.9518,
+            "width": 0.6341,
+            "height": 0.0465
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9738,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.009
+          },
+          "confidence": 0.9821
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "Nuclei",
+          "bbox": {
+            "x_min": 0.6998,
+            "y_min": 0.0951,
+            "x_max": 0.7807,
+            "y_max": 0.111,
+            "width": 0.0809,
+            "height": 0.0159
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "the nuclear mass Mis found to be always less than this. For example, let\nus consider 0 ; a nucleus which has 8 neutrons and 8 protons. We\nhave",
+          "bbox": {
+            "x_min": 0.0785,
+            "y_min": 0.1355,
+            "x_max": 0.715,
+            "y_max": 0.1798,
+            "width": 0.6364,
+            "height": 0.0443
+          },
+          "confidence": 0.9852
+        },
+        {
+          "text": "8",
+          "bbox": {
+            "x_min": 0.1984,
+            "y_min": 0.1617,
+            "x_max": 0.2083,
+            "y_max": 0.1669,
+            "width": 0.0099,
+            "height": 0.0052
+          },
+          "confidence": 0.9585
+        },
+        {
+          "text": "Mass of 8 neutrons = 8 × 1.00866 น",
+          "bbox": {
+            "x_min": 0.1117,
+            "y_min": 0.1901,
+            "x_max": 0.4346,
+            "y_max": 0.2009,
+            "width": 0.3229,
+            "height": 0.0108
+          },
+          "confidence": 0.9484
+        },
+        {
+          "text": "Mass of 8 protons = 8 × 1.00727 u",
+          "bbox": {
+            "x_min": 0.1123,
+            "y_min": 0.2155,
+            "x_max": 0.4328,
+            "y_max": 0.228,
+            "width": 0.3205,
+            "height": 0.0125
+          },
+          "confidence": 0.9611
+        },
+        {
+          "text": "Mass of 8 electrons = 8 × 0.00055 น",
+          "bbox": {
+            "x_min": 0.1123,
+            "y_min": 0.2396,
+            "x_max": 0.4328,
+            "y_max": 0.2499,
+            "width": 0.3205,
+            "height": 0.0103
+          },
+          "confidence": 0.9504
+        },
+        {
+          "text": "Therefore the expected mass of O nucleus",
+          "bbox": {
+            "x_min": 0.1129,
+            "y_min": 0.2615,
+            "x_max": 0.5055,
+            "y_max": 0.2748,
+            "width": 0.3927,
+            "height": 0.0133
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "= 8 × 2.01593 u = 16.12744 น.",
+          "bbox": {
+            "x_min": 0.114,
+            "y_min": 0.2787,
+            "x_max": 0.3909,
+            "y_max": 0.2899,
+            "width": 0.2769,
+            "height": 0.0112
+          },
+          "confidence": 0.9347
+        },
+        {
+          "text": "16\n8",
+          "bbox": {
+            "x_min": 0.288,
+            "y_min": 0.2951,
+            "x_max": 0.3048,
+            "y_max": 0.3105,
+            "width": 0.0169,
+            "height": 0.0155
+          },
+          "confidence": 0.9812
+        },
+        {
+          "text": "8",
+          "bbox": {
+            "x_min": 0.3991,
+            "y_min": 0.2705,
+            "x_max": 0.4095,
+            "y_max": 0.2761,
+            "width": 0.0105,
+            "height": 0.0056
+          },
+          "confidence": 0.9595
+        },
+        {
+          "text": "The atomic mass of O found from mass spectroscopy experiments\nis seen to be 15.99493 u. Substracting the mass of 8 electrons (8×0.00055 u)\nfrom this, we get the experimental mass of ¹O nucleus to be 15.99053 u.",
+          "bbox": {
+            "x_min": 0.0809,
+            "y_min": 0.2963,
+            "x_max": 0.7144,
+            "y_max": 0.3445,
+            "width": 0.6335,
+            "height": 0.0482
+          },
+          "confidence": 0.9854
+        },
+        {
+          "text": "Thus, we find that the mass of the O nucleus is less than the total\nmass of its constituents by 0.13691u. The difference in mass of a nucleus\nand its constituents, AM, is called the mass defect, and is given by\nΔΜ:",
+          "bbox": {
+            "x_min": 0.0814,
+            "y_min": 0.3497,
+            "x_max": 0.715,
+            "y_max": 0.4206,
+            "width": 0.6335,
+            "height": 0.071
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "AM =[Zm+(A – Z)mm ]-M",
+          "bbox": {
+            "x_min": 0.1158,
+            "y_min": 0.4103,
+            "x_max": 0.349,
+            "y_max": 0.4254,
+            "width": 0.2333,
+            "height": 0.0151
+          },
+          "confidence": 0.7368
+        },
+        {
+          "text": "What is the meaning of the mass defect? It is here that Einstein's\nequivalence of mass and energy plays a role. Since the mass of the oxygen",
+          "bbox": {
+            "x_min": 0.082,
+            "y_min": 0.4357,
+            "x_max": 0.7155,
+            "y_max": 0.4654,
+            "width": 0.6335,
+            "height": 0.0297
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "E = ∆ Mc²",
+          "bbox": {
+            "x_min": 0.1129,
+            "y_min": 0.5738,
+            "x_max": 0.2123,
+            "y_max": 0.5871,
+            "width": 0.0995,
+            "height": 0.0133
+          },
+          "confidence": 0.5791
+        },
+        {
+          "text": "16",
+          "bbox": {
+            "x_min": 0.1355,
+            "y_min": 0.6443,
+            "x_max": 0.1478,
+            "y_max": 0.649,
+            "width": 0.0122,
+            "height": 0.0047
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "of O in MeV/c².",
+          "bbox": {
+            "x_min": 0.114,
+            "y_min": 0.6426,
+            "x_max": 0.2618,
+            "y_max": 0.6563,
+            "width": 0.1478,
+            "height": 0.0138
+          },
+          "confidence": 0.9088
+        },
+        {
+          "text": "8",
+          "bbox": {
+            "x_min": 0.1385,
+            "y_min": 0.6533,
+            "x_max": 0.1478,
+            "y_max": 0.6581,
+            "width": 0.0093,
+            "height": 0.0047
+          },
+          "confidence": 0.9593
+        },
+        {
+          "text": "Solution",
+          "bbox": {
+            "x_min": 0.1123,
+            "y_min": 0.6684,
+            "x_max": 0.1902,
+            "y_max": 0.6778,
+            "width": 0.078,
+            "height": 0.0095
+          },
+          "confidence": 0.9841
+        },
+        {
+          "text": "1.4924×10-10",
+          "bbox": {
+            "x_min": 0.1943,
+            "y_min": 0.7505,
+            "x_max": 0.3013,
+            "y_max": 0.7622,
+            "width": 0.107,
+            "height": 0.0116
+          },
+          "confidence": 0.9391
+        },
+        {
+          "text": "=",
+          "bbox": {
+            "x_min": 0.1635,
+            "y_min": 0.7665,
+            "x_max": 0.1728,
+            "y_max": 0.7699,
+            "width": 0.0093,
+            "height": 0.0034
+          },
+          "confidence": 0.9392
+        },
+        {
+          "text": "1.602×10-19 eV",
+          "bbox": {
+            "x_min": 0.1984,
+            "y_min": 0.7609,
+            "x_max": 0.3287,
+            "y_max": 0.7811,
+            "width": 0.1303,
+            "height": 0.0202
+          },
+          "confidence": 0.9029
+        },
+        {
+          "text": "=",
+          "bbox": {
+            "x_min": 0.1646,
+            "y_min": 0.7935,
+            "x_max": 0.1745,
+            "y_max": 0.797,
+            "width": 0.0099,
+            "height": 0.0034
+          },
+          "confidence": 0.9388
+        },
+        {
+          "text": "0.9315 × 10º eV",
+          "bbox": {
+            "x_min": 0.1914,
+            "y_min": 0.788,
+            "x_max": 0.3246,
+            "y_max": 0.7996,
+            "width": 0.1332,
+            "height": 0.0116
+          },
+          "confidence": 0.8749
+        },
+        {
+          "text": "=",
+          "bbox": {
+            "x_min": 0.164,
+            "y_min": 0.8086,
+            "x_max": 0.1739,
+            "y_max": 0.812,
+            "width": 0.0099,
+            "height": 0.0034
+          },
+          "confidence": 0.9318
+        },
+        {
+          "text": "931.5 MeV",
+          "bbox": {
+            "x_min": 0.1914,
+            "y_min": 0.8052,
+            "x_max": 0.2798,
+            "y_max": 0.8146,
+            "width": 0.0884,
+            "height": 0.0095
+          },
+          "confidence": 0.965
+        },
+        {
+          "text": "reshed",
+          "bbox": {
+            "x_min": 0.4648,
+            "y_min": 0.3049,
+            "x_max": 0.8837,
+            "y_max": 0.6034,
+            "width": 0.4188,
+            "height": 0.2985
+          },
+          "confidence": 0.9121
+        },
+        {
+          "text": "(13.8)",
+          "bbox": {
+            "x_min": 0.6626,
+            "y_min": 0.5759,
+            "x_max": 0.7132,
+            "y_max": 0.5892,
+            "width": 0.0506,
+            "height": 0.0133
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "or, lu = 931.5 MeV/c²",
+          "bbox": {
+            "x_min": 0.1134,
+            "y_min": 0.8176,
+            "x_max": 0.3025,
+            "y_max": 0.8318,
+            "width": 0.1891,
+            "height": 0.0142
+          },
+          "confidence": 0.9319
+        },
+        {
+          "text": "For 10, AM = 0.13691 u = 0.13691×931.5 MeV/c²",
+          "bbox": {
+            "x_min": 0.1129,
+            "y_min": 0.8327,
+            "x_max": 0.5526,
+            "y_max": 0.8473,
+            "width": 0.4398,
+            "height": 0.0146
+          },
+          "confidence": 0.9104
+        },
+        {
+          "text": "16",
+          "bbox": {
+            "x_min": 0.1472,
+            "y_min": 0.8348,
+            "x_max": 0.1635,
+            "y_max": 0.8404,
+            "width": 0.0163,
+            "height": 0.0056
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "8",
+          "bbox": {
+            "x_min": 0.1513,
+            "y_min": 0.8439,
+            "x_max": 0.1611,
+            "y_max": 0.8486,
+            "width": 0.0099,
+            "height": 0.0047
+          },
+          "confidence": 0.9599
+        },
+        {
+          "text": "و",
+          "bbox": {
+            "x_min": 0.1798,
+            "y_min": 0.8439,
+            "x_max": 0.1838,
+            "y_max": 0.8465,
+            "width": 0.0041,
+            "height": 0.0026
+          },
+          "confidence": 0.9041
+        },
+        {
+          "text": "= 127.5 MeV/c²",
+          "bbox": {
+            "x_min": 0.2315,
+            "y_min": 0.8486,
+            "x_max": 0.363,
+            "y_max": 0.8615,
+            "width": 0.1315,
+            "height": 0.0129
+          },
+          "confidence": 0.9418
+        },
+        {
+          "text": "16",
+          "bbox": {
+            "x_min": 0.3979,
+            "y_min": 0.8714,
+            "x_max": 0.4136,
+            "y_max": 0.8766,
+            "width": 0.0157,
+            "height": 0.0052
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "The energy needed to separate O into its constituents is thus",
+          "bbox": {
+            "x_min": 0.1123,
+            "y_min": 0.8718,
+            "x_max": 0.6934,
+            "y_max": 0.8843,
+            "width": 0.5812,
+            "height": 0.0125
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "127.5 MeV/c².",
+          "bbox": {
+            "x_min": 0.114,
+            "y_min": 0.889,
+            "x_max": 0.2344,
+            "y_max": 0.9019,
+            "width": 0.1204,
+            "height": 0.0129
+          },
+          "confidence": 0.9162
+        },
+        {
+          "text": "8",
+          "bbox": {
+            "x_min": 0.4031,
+            "y_min": 0.8809,
+            "x_max": 0.4119,
+            "y_max": 0.8856,
+            "width": 0.0087,
+            "height": 0.0047
+          },
+          "confidence": 0.9574
+        },
+        {
+          "text": "If a certain number of neutrons and protons are brought together to\nform a nucleus of a certain charge and mass, an energy E₁ will be released",
+          "bbox": {
+            "x_min": 0.0803,
+            "y_min": 0.9239,
+            "x_max": 0.715,
+            "y_max": 0.9557,
+            "width": 0.6347,
+            "height": 0.0318
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9821
+        },
+        {
+          "text": "EXAMPLE 13.3",
+          "bbox": {
+            "x_min": 0.7411,
+            "y_min": 0.8099,
+            "x_max": 0.7545,
+            "y_max": 0.8994,
+            "width": 0.0134,
+            "height": 0.0895
+          },
+          "confidence": 0.9672
+        },
+        {
+          "text": "311",
+          "bbox": {
+            "x_min": 0.8627,
+            "y_min": 0.9394,
+            "x_max": 0.9023,
+            "y_max": 0.9488,
+            "width": 0.0396,
+            "height": 0.0095
+          },
+          "confidence": 0.985
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "Binding energy per nucleon (MeV)",
+          "bbox": {
+            "x_min": 0.0896,
+            "y_min": 0.3471,
+            "x_max": 0.1059,
+            "y_max": 0.5312,
+            "width": 0.0163,
+            "height": 0.1841
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "312",
+          "bbox": {
+            "x_min": 0.0971,
+            "y_min": 0.9385,
+            "x_max": 0.1326,
+            "y_max": 0.9488,
+            "width": 0.0355,
+            "height": 0.0103
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.196,
+            "y_min": 0.0925,
+            "x_max": 0.3118,
+            "y_max": 0.1157,
+            "width": 0.1158,
+            "height": 0.0232
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "in the process. The energy E₁ is called the binding energy of the nucleus.\nIf we separate a nucleus into its nucleons, we would have to supply a\ntotal energy equal to E♭, to those particles. Although we cannot tear\napart a nucleus in this way, the nuclear binding energy is still a convenient\nmeasure of how well a nucleus is held together. A more useful measure\nof the binding between the constituents of the nucleus is the binding\nenergy per nucleon, Ebn, which is the ratio of the binding energy E of a\nnucleus to the number of the nucleons, A, in that nucleus:",
+          "bbox": {
+            "x_min": 0.285,
+            "y_min": 0.1351,
+            "x_max": 0.9197,
+            "y_max": 0.2641,
+            "width": 0.6347,
+            "height": 0.129
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "Ebn = Eb/A",
+          "bbox": {
+            "x_min": 0.3153,
+            "y_min": 0.2723,
+            "x_max": 0.434,
+            "y_max": 0.2877,
+            "width": 0.1187,
+            "height": 0.0155
+          },
+          "confidence": 0.9555
+        },
+        {
+          "text": "(13.9)",
+          "bbox": {
+            "x_min": 0.8668,
+            "y_min": 0.2727,
+            "x_max": 0.918,
+            "y_max": 0.2852,
+            "width": 0.0512,
+            "height": 0.0125
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "We can think of binding energy per nucleon as the average energy\nper nucleon needed to separate a nucleus into its individual nucleons.",
+          "bbox": {
+            "x_min": 0.2845,
+            "y_min": 0.2933,
+            "x_max": 0.9186,
+            "y_max": 0.323,
+            "width": 0.6341,
+            "height": 0.0297
+          },
+          "confidence": 0.9969
+        },
+        {
+          "text": "10",
+          "bbox": {
+            "x_min": 0.1146,
+            "y_min": 0.3535,
+            "x_max": 0.135,
+            "y_max": 0.3609,
+            "width": 0.0204,
+            "height": 0.0073
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "32S",
+          "bbox": {
+            "x_min": 0.1885,
+            "y_min": 0.3695,
+            "x_max": 0.2094,
+            "y_max": 0.3781,
+            "width": 0.0209,
+            "height": 0.0086
+          },
+          "confidence": 0.9597
+        },
+        {
+          "text": "56 Fe",
+          "bbox": {
+            "x_min": 0.2362,
+            "y_min": 0.3665,
+            "x_max": 0.2624,
+            "y_max": 0.3763,
+            "width": 0.0262,
+            "height": 0.0099
+          },
+          "confidence": 0.9382
+        },
+        {
+          "text": "100 Mo",
+          "bbox": {
+            "x_min": 0.3025,
+            "y_min": 0.369,
+            "x_max": 0.3386,
+            "y_max": 0.3781,
+            "width": 0.0361,
+            "height": 0.009
+          },
+          "confidence": 0.8294
+        },
+        {
+          "text": "127",
+          "bbox": {
+            "x_min": 0.3543,
+            "y_min": 0.3725,
+            "x_max": 0.37,
+            "y_max": 0.3772,
+            "width": 0.0157,
+            "height": 0.0047
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "160",
+          "bbox": {
+            "x_min": 0.1594,
+            "y_min": 0.3746,
+            "x_max": 0.1815,
+            "y_max": 0.3824,
+            "width": 0.0221,
+            "height": 0.0077
+          },
+          "confidence": 0.9783
+        },
+        {
+          "text": "12C",
+          "bbox": {
+            "x_min": 0.1408,
+            "y_min": 0.3828,
+            "x_max": 0.164,
+            "y_max": 0.391,
+            "width": 0.0233,
+            "height": 0.0082
+          },
+          "confidence": 0.9186
+        },
+        {
+          "text": "184W 197",
+          "bbox": {
+            "x_min": 0.445,
+            "y_min": 0.3806,
+            "x_max": 0.5026,
+            "y_max": 0.3888,
+            "width": 0.0576,
+            "height": 0.0082
+          },
+          "confidence": 0.9852
+        },
+        {
+          "text": "An",
+          "bbox": {
+            "x_min": 0.5049,
+            "y_min": 0.3828,
+            "x_max": 0.5265,
+            "y_max": 0.3905,
+            "width": 0.0215,
+            "height": 0.0077
+          },
+          "confidence": 0.9864
+        },
+        {
+          "text": "8",
+          "bbox": {
+            "x_min": 0.1227,
+            "y_min": 0.388,
+            "x_max": 0.1355,
+            "y_max": 0.3953,
+            "width": 0.0128,
+            "height": 0.0073
+          },
+          "confidence": 0.9585
+        },
+        {
+          "text": "He",
+          "bbox": {
+            "x_min": 0.1321,
+            "y_min": 0.4017,
+            "x_max": 0.1518,
+            "y_max": 0.4095,
+            "width": 0.0198,
+            "height": 0.0077
+          },
+          "confidence": 0.9232
+        },
+        {
+          "text": "140",
+          "bbox": {
+            "x_min": 0.1768,
+            "y_min": 0.4004,
+            "x_max": 0.199,
+            "y_max": 0.4095,
+            "width": 0.0221,
+            "height": 0.009
+          },
+          "confidence": 0.8516
+        },
+        {
+          "text": "14N",
+          "bbox": {
+            "x_min": 0.16,
+            "y_min": 0.412,
+            "x_max": 0.1809,
+            "y_max": 0.4206,
+            "width": 0.0209,
+            "height": 0.0086
+          },
+          "confidence": 0.9566
+        },
+        {
+          "text": "6",
+          "bbox": {
+            "x_min": 0.1233,
+            "y_min": 0.4228,
+            "x_max": 0.1344,
+            "y_max": 0.4292,
+            "width": 0.0111,
+            "height": 0.0065
+          },
+          "confidence": 0.9687
+        },
+        {
+          "text": "Li",
+          "bbox": {
+            "x_min": 0.1623,
+            "y_min": 0.4297,
+            "x_max": 0.1786,
+            "y_max": 0.4383,
+            "width": 0.0163,
+            "height": 0.0086
+          },
+          "confidence": 0.9814
+        },
+        {
+          "text": "4",
+          "bbox": {
+            "x_min": 0.1216,
+            "y_min": 0.4563,
+            "x_max": 0.1361,
+            "y_max": 0.4637,
+            "width": 0.0145,
+            "height": 0.0073
+          },
+          "confidence": 0.9698
+        },
+        {
+          "text": "H",
+          "bbox": {
+            "x_min": 0.153,
+            "y_min": 0.48,
+            "x_max": 0.1681,
+            "y_max": 0.4877,
+            "width": 0.0151,
+            "height": 0.0077
+          },
+          "confidence": 0.887
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.1233,
+            "y_min": 0.4908,
+            "x_max": 0.1344,
+            "y_max": 0.4985,
+            "width": 0.0111,
+            "height": 0.0077
+          },
+          "confidence": 0.9714
+        },
+        {
+          "text": "H",
+          "bbox": {
+            "x_min": 0.1553,
+            "y_min": 0.5084,
+            "x_max": 0.171,
+            "y_max": 0.5166,
+            "width": 0.0157,
+            "height": 0.0082
+          },
+          "confidence": 0.8804
+        },
+        {
+          "text": "0",
+          "bbox": {
+            "x_min": 0.135,
+            "y_min": 0.5338,
+            "x_max": 0.1443,
+            "y_max": 0.5406,
+            "width": 0.0093,
+            "height": 0.0069
+          },
+          "confidence": 0.9272
+        },
+        {
+          "text": "50",
+          "bbox": {
+            "x_min": 0.2222,
+            "y_min": 0.5329,
+            "x_max": 0.2443,
+            "y_max": 0.5406,
+            "width": 0.0221,
+            "height": 0.0077
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "100\n150\nMass number · (A) (A)",
+          "bbox": {
+            "x_min": 0.3054,
+            "y_min": 0.5325,
+            "x_max": 0.4311,
+            "y_max": 0.5613,
+            "width": 0.1257,
+            "height": 0.0288
+          },
+          "confidence": 0.9519
+        },
+        {
+          "text": "FIGURE 13.1 The binding energy per",
+          "bbox": {
+            "x_min": 0.1507,
+            "y_min": 0.572,
+            "x_max": 0.4724,
+            "y_max": 0.5845,
+            "width": 0.3217,
+            "height": 0.0125
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "as a function of mass number.",
+          "bbox": {
+            "x_min": 0.2176,
+            "y_min": 0.5867,
+            "x_max": 0.477,
+            "y_max": 0.5966,
+            "width": 0.2595,
+            "height": 0.0099
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "200",
+          "bbox": {
+            "x_min": 0.4904,
+            "y_min": 0.5333,
+            "x_max": 0.5207,
+            "y_max": 0.5402,
+            "width": 0.0303,
+            "height": 0.0069
+          },
+          "confidence": 0.9974
+        },
+        {
+          "text": "238",
+          "bbox": {
+            "x_min": 0.5544,
+            "y_min": 0.3854,
+            "x_max": 0.5753,
+            "y_max": 0.3892,
+            "width": 0.0209,
+            "height": 0.0039
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "Figure 13.1 is a plot of the\nbinding energy per nucleon Ebn\nversus the mass number A for a\nlarge number of nuclei. We notice\nthe following main features of\nthe plot:",
+          "bbox": {
+            "x_min": 0.6323,
+            "y_min": 0.326,
+            "x_max": 0.9215,
+            "y_max": 0.4228,
+            "width": 0.2891,
+            "height": 0.0968
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "(i) the binding energy per\nnucleon, Ebn, is practically\nconstant, i.e. practically\nindependent of the atomic\nnumber for nuclei of middle\nmass number ( 30 <A<170).\nThe curve has a maximum of\nabout 8.75 MeV for A = 56\nand has a value of 7.6 MeV\nfor A = 238.",
+          "bbox": {
+            "x_min": 0.6335,
+            "y_min": 0.4267,
+            "x_max": 0.9209,
+            "y_max": 0.5871,
+            "width": 0.2874,
+            "height": 0.1604
+          },
+          "confidence": 0.9808
+        },
+        {
+          "text": "(ii) Ebn is lower for both light\nnuclei (A<30) and heavy\nnuclei (A>170).",
+          "bbox": {
+            "x_min": 0.6335,
+            "y_min": 0.5935,
+            "x_max": 0.9203,
+            "y_max": 0.6391,
+            "width": 0.2868,
+            "height": 0.0456
+          },
+          "confidence": 0.9783
+        },
+        {
+          "text": "We can draw some conclusions from these two observations:",
+          "bbox": {
+            "x_min": 0.2833,
+            "y_min": 0.6434,
+            "x_max": 0.8208,
+            "y_max": 0.6542,
+            "width": 0.5375,
+            "height": 0.0108
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "not be rep",
+          "bbox": {
+            "x_min": 0.1862,
+            "y_min": 0.4972,
+            "x_max": 0.6283,
+            "y_max": 0.8099,
+            "width": 0.4421,
+            "height": 0.3127
+          },
+          "confidence": 0.7806
+        },
+        {
+          "text": "(i) The force is attractive and sufficiently strong to produce a binding\nenergy of a few MeV per nucleon.",
+          "bbox": {
+            "x_min": 0.2856,
+            "y_min": 0.6594,
+            "x_max": 0.9191,
+            "y_max": 0.6908,
+            "width": 0.6335,
+            "height": 0.0314
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "(ii) The constancy of the binding energy in the range 30 < A < 170 is a\nconsequence of the fact that the nuclear force is short-ranged. Consider\na particular nucleon inside a sufficiently large nucleus. It will be under\nthe influence of only some of its neighbours, which come within the\nrange of the nuclear force. If any other nucleon is at a distance more\nthan the range of the nuclear force from the particular nucleon it will\nhave no influence on the binding energy of the nucleon under\nconsideration. If a nucleon can have a maximum of p neighbours\nwithin the range of nuclear force, its binding energy would be\nproportional to p. Let the binding energy of the nucleus be pk, where\nk is a constant having the dimensions of energy. If we increase A by\nadding nucleons they will not change the binding energy of a nucleon\ninside. Since most of the nucleons in a large nucleus reside inside it\nand not on the surface, the change in binding energy per nucleon\nwould be small. The binding energy per nucleon is a constant and is\napproximately equal to pk. The property that a given nucleon",
+          "bbox": {
+            "x_min": 0.2862,
+            "y_min": 0.6933,
+            "x_max": 0.9197,
+            "y_max": 0.9574,
+            "width": 0.6335,
+            "height": 0.2641
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9821
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "Nuclei",
+          "bbox": {
+            "x_min": 0.7016,
+            "y_min": 0.0955,
+            "x_max": 0.7801,
+            "y_max": 0.1114,
+            "width": 0.0785,
+            "height": 0.0159
+          },
+          "confidence": 0.9834
+        },
+        {
+          "text": "influences only nucleons close to it is also referred to as saturation\nproperty of the nuclear force.",
+          "bbox": {
+            "x_min": 0.1111,
+            "y_min": 0.1351,
+            "x_max": 0.7132,
+            "y_max": 0.1656,
+            "width": 0.6021,
+            "height": 0.0305
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "(iii) A very heavy nucleus, say A = 240, has lower binding energy per\nnucleon compared to that of a nucleus with A = 120. Thus if a\nnucleus A = 240 breaks into two A = 120 nuclei, nucleons get more\ntightly bound. This implies energy would be released in the process.\nIt has very important implications for energy production through\nfission, to be discussed later in Section 13.7.1.",
+          "bbox": {
+            "x_min": 0.0803,
+            "y_min": 0.1682,
+            "x_max": 0.715,
+            "y_max": 0.2654,
+            "width": 0.6347,
+            "height": 0.0972
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "(iv) Consider two very light nuclei (A≤ 10) joining to form a heavier\nnucleus. The binding energy per nucleon of the fused heavier nuclei\nis more than the binding energy per nucleon of the lighter nuclei.\nThis means that the final system is more tightly bound than the initial\nsystem. Again energy would be released in such a process of\nfusion. This is the energy source of sun, to be discussed later in\nSection 13.7.2.",
+          "bbox": {
+            "x_min": 0.0809,
+            "y_min": 0.2688,
+            "x_max": 0.7161,
+            "y_max": 0.3811,
+            "width": 0.6353,
+            "height": 0.1123
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "13.5 NUCLEAR FORCE",
+          "bbox": {
+            "x_min": 0.0826,
+            "y_min": 0.3983,
+            "x_max": 0.3607,
+            "y_max": 0.4142,
+            "width": 0.2781,
+            "height": 0.0159
+          },
+          "confidence": 0.9835
+        },
+        {
+          "text": "electrons",
+          "bbox": {
+            "x_min": 0.5003,
+            "y_min": 0.4129,
+            "x_max": 0.5823,
+            "y_max": 0.4508,
+            "width": 0.082,
+            "height": 0.0378
+          },
+          "confidence": 0.8276
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6847,
+            "y_min": 0.3084,
+            "x_max": 0.8656,
+            "y_max": 0.4447,
+            "width": 0.1809,
+            "height": 0.1363
+          },
+          "confidence": 0.9853
+        },
+        {
+          "text": "The force that determines the motion of atomic electrons is the familiar\nCoulomb force. In Section 13.4, we have seen that for average mass\nnuclei the binding energy per nucleon is approximately 8 MeV, which is\nmuch larger than the binding energy in atoms. Therefore, to bind a\nnucleus together there must be a strong attractive force of a totally\ndifferent kind. It must be strong enough to overcome the repulsion\nbetween the (positively charged) protons and to bind both protons and\nneutrons into the tiny nuclear volume. We have already seen\nthat the constancy of binding energy per nucleon can be\nunderstood in terms of its short-range. Many features of the\nnuclear binding force are summarised below. These are\nobtained from a variety of experiments carried out during 1930\nto 1950.",
+          "bbox": {
+            "x_min": 0.0785,
+            "y_min": 0.4284,
+            "x_max": 0.7144,
+            "y_max": 0.6456,
+            "width": 0.6358,
+            "height": 0.2172
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "(i) The nuclear force is much stronger than the Coulomb force\nacting between charges or the gravitational forces between\nmasses. The nuclear binding force has to dominate over\nthe Coulomb repulsive force between protons inside the\nnucleus. This happens only because the nuclear force is\nmuch stronger than the coulomb force. The gravitational\nforce is much weaker than even Coulomb force.",
+          "bbox": {
+            "x_min": 0.0809,
+            "y_min": 0.6529,
+            "x_max": 0.6207,
+            "y_max": 0.7665,
+            "width": 0.5398,
+            "height": 0.1135
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "(ii) The nuclear force between two nucleons falls rapidly to\nzero as their distance is more than a few femtometres. This\nleads to saturation of forces in a medium or a large-sized\nnucleus, which is the reason for the constancy of the\nbinding energy per nucleon.",
+          "bbox": {
+            "x_min": 0.0814,
+            "y_min": 0.7729,
+            "x_max": 0.6201,
+            "y_max": 0.8555,
+            "width": 0.5387,
+            "height": 0.0826
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "A rough plot of the potential energy between two nucleons\nas a function of distance is shown in the Fig. 13.2. The\npotential energy is a minimum at a distance ro of about",
+          "bbox": {
+            "x_min": 0.1099,
+            "y_min": 0.8589,
+            "x_max": 0.6201,
+            "y_max": 0.9088,
+            "width": 0.5102,
+            "height": 0.0499
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "Potential energy (MeV)",
+          "bbox": {
+            "x_min": 0.644,
+            "y_min": 0.5918,
+            "x_max": 0.6603,
+            "y_max": 0.7118,
+            "width": 0.0163,
+            "height": 0.12
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "100",
+          "bbox": {
+            "x_min": 0.6672,
+            "y_min": 0.6404,
+            "x_max": 0.6928,
+            "y_max": 0.6508,
+            "width": 0.0256,
+            "height": 0.0103
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "0",
+          "bbox": {
+            "x_min": 0.6696,
+            "y_min": 0.6744,
+            "x_max": 0.6795,
+            "y_max": 0.6817,
+            "width": 0.0099,
+            "height": 0.0073
+          },
+          "confidence": 0.9546
+        },
+        {
+          "text": "-100",
+          "bbox": {
+            "x_min": 0.6702,
+            "y_min": 0.7174,
+            "x_max": 0.7045,
+            "y_max": 0.7269,
+            "width": 0.0343,
+            "height": 0.0095
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "Το 1",
+          "bbox": {
+            "x_min": 0.7109,
+            "y_min": 0.7316,
+            "x_max": 0.7347,
+            "y_max": 0.7424,
+            "width": 0.0239,
+            "height": 0.0108
+          },
+          "confidence": 0.6006
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.7853,
+            "y_min": 0.7355,
+            "x_max": 0.7981,
+            "y_max": 0.7424,
+            "width": 0.0128,
+            "height": 0.0069
+          },
+          "confidence": 0.9746
+        },
+        {
+          "text": "3",
+          "bbox": {
+            "x_min": 0.8464,
+            "y_min": 0.7351,
+            "x_max": 0.8598,
+            "y_max": 0.7419,
+            "width": 0.0134,
+            "height": 0.0069
+          },
+          "confidence": 0.9689
+        },
+        {
+          "text": "r (fm)",
+          "bbox": {
+            "x_min": 0.7725,
+            "y_min": 0.7467,
+            "x_max": 0.8098,
+            "y_max": 0.757,
+            "width": 0.0372,
+            "height": 0.0103
+          },
+          "confidence": 0.978
+        },
+        {
+          "text": "FIGURE 13.2 Potential energy\nof a pair of nucleons as a\nfunction of their separation.",
+          "bbox": {
+            "x_min": 0.6492,
+            "y_min": 0.7669,
+            "x_max": 0.9098,
+            "y_max": 0.8099,
+            "width": 0.2606,
+            "height": 0.043
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "For a separation greater\nthan ro, the force is attractive\nand for separations less\nthan ro, the force is\nstrongly repulsive.",
+          "bbox": {
+            "x_min": 0.6504,
+            "y_min": 0.8138,
+            "x_max": 0.9063,
+            "y_max": 0.8852,
+            "width": 0.256,
+            "height": 0.0714
+          },
+          "confidence": 0.981
+        },
+        {
+          "text": "0.8 fm. This means that the force is attractive for distances larger\nthan 0.8 fm and repulsive if they are separated by distances less\nthan 0.8 fm.",
+          "bbox": {
+            "x_min": 0.1117,
+            "y_min": 0.9105,
+            "x_max": 0.7144,
+            "y_max": 0.9553,
+            "width": 0.6027,
+            "height": 0.0447
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "313",
+          "bbox": {
+            "x_min": 0.8668,
+            "y_min": 0.9389,
+            "x_max": 0.9005,
+            "y_max": 0.9488,
+            "width": 0.0337,
+            "height": 0.0099
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9821
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "314",
+          "bbox": {
+            "x_min": 0.0966,
+            "y_min": 0.9385,
+            "x_max": 0.1326,
+            "y_max": 0.9488,
+            "width": 0.0361,
+            "height": 0.0103
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.1966,
+            "y_min": 0.092,
+            "x_max": 0.3118,
+            "y_max": 0.1161,
+            "width": 0.1152,
+            "height": 0.0241
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "(iii) The nuclear force between neutron-neutron, proton-neutron and\nproton-proton is approximately the same. The nuclear force does not\ndepend on the electric charge.",
+          "bbox": {
+            "x_min": 0.285,
+            "y_min": 0.1351,
+            "x_max": 0.918,
+            "y_max": 0.1824,
+            "width": 0.6329,
+            "height": 0.0473
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "Unlike Coulomb's law or the Newton's law of gravitation there is no\nsimple mathematical form of the nuclear force.",
+          "bbox": {
+            "x_min": 0.2856,
+            "y_min": 0.1858,
+            "x_max": 0.9191,
+            "y_max": 0.2151,
+            "width": 0.6335,
+            "height": 0.0292
+          },
+          "confidence": 0.9851
+        },
+        {
+          "text": "13.6 RADIOACTIVITY",
+          "bbox": {
+            "x_min": 0.2874,
+            "y_min": 0.231,
+            "x_max": 0.5474,
+            "y_max": 0.246,
+            "width": 0.26,
+            "height": 0.0151
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "A. H. Becquerel discovered radioactivity in 1896 purely by accident. While\nstudying the fluorescence and phosphorescence of compounds irradiated\nwith visible light, Becquerel observed an interesting phenomenon. After\nilluminating some pieces of uranium-potassium sulphate with visible\nlight, he wrapped them in black paper and separated the package from a\nphotographic plate by a piece of silver. When, after several hours of\nexposure, the photographic plate was developed, it showed blackening\ndue to something that must have been emitted by the compound and\nwas able to penetrate both black paper and the silver.",
+          "bbox": {
+            "x_min": 0.2833,
+            "y_min": 0.2602,
+            "x_max": 0.9203,
+            "y_max": 0.4155,
+            "width": 0.637,
+            "height": 0.1553
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "Experiments performed subsequently showed that radioactivity was\na nuclear phenomenon in which an unstable nucleus undergoes a decay.\nThis is referred to as radioactive decay. Three types of radioactive decay\noccur in nature :",
+          "bbox": {
+            "x_min": 0.2845,
+            "y_min": 0.4189,
+            "x_max": 0.9197,
+            "y_max": 0.4822,
+            "width": 0.6353,
+            "height": 0.0632
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "(i) a-decay in which a helium nucleus He is emitted;",
+          "bbox": {
+            "x_min": 0.2856,
+            "y_min": 0.4895,
+            "x_max": 0.7737,
+            "y_max": 0.5028,
+            "width": 0.4881,
+            "height": 0.0133
+          },
+          "confidence": 0.9836
+        },
+        {
+          "text": "(ii) ẞ-decay in which electrons or positrons (particles with the same mass\nas electrons, but with a charge exactly opposite to that of electron)\nare emitted;",
+          "bbox": {
+            "x_min": 0.2856,
+            "y_min": 0.5058,
+            "x_max": 0.9186,
+            "y_max": 0.554,
+            "width": 0.6329,
+            "height": 0.0482
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "energy (hu",
+          "bbox": {
+            "x_min": 0.5131,
+            "y_min": 0.5501,
+            "x_max": 0.6091,
+            "y_max": 0.5755,
+            "width": 0.096,
+            "height": 0.0254
+          },
+          "confidence": 0.8385
+        },
+        {
+          "text": "(iii) y-decay in which high energy (hundreds of keV or more) photons are\nemitted.",
+          "bbox": {
+            "x_min": 0.2856,
+            "y_min": 0.56,
+            "x_max": 0.9191,
+            "y_max": 0.5875,
+            "width": 0.6335,
+            "height": 0.0275
+          },
+          "confidence": 0.9847
+        },
+        {
+          "text": "13.7 NUCLEAR ENERGY",
+          "bbox": {
+            "x_min": 0.2885,
+            "y_min": 0.6065,
+            "x_max": 0.5806,
+            "y_max": 0.6215,
+            "width": 0.292,
+            "height": 0.0151
+          },
+          "confidence": 0.9782
+        },
+        {
+          "text": "The curve of binding energy per nucleon Ebn, given in Fig. 13.1, has\na long flat middle region between A = 30 and A = 170. In this region\nthe binding energy per nucleon is nearly constant (8.0 MeV). For\nthe lighter nuclei region, A < 30, and for the heavier nuclei region,\nA > 170, the binding energy per nucleon is less than 8.0 MeV, as we\nhave noted earlier. Now, the greater the binding energy, the less is the\ntotal mass of a bound system, such as a nucleus. Consequently, if nuclei\nwith less total binding energy transform to nuclei with greater binding\nenergy, there will be a net energy release. This is what happens when a\nheavy nucleus decays into two or more intermediate mass fragments\n(fission) or when light nuclei fuse into a havier nucleus (fusion.)",
+          "bbox": {
+            "x_min": 0.2839,
+            "y_min": 0.6366,
+            "x_max": 0.9197,
+            "y_max": 0.8254,
+            "width": 0.6358,
+            "height": 0.1888
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "total",
+          "bbox": {
+            "x_min": 0.2839,
+            "y_min": 0.7359,
+            "x_max": 0.3269,
+            "y_max": 0.7596,
+            "width": 0.043,
+            "height": 0.0237
+          },
+          "confidence": 0.9852
+        },
+        {
+          "text": "no",
+          "bbox": {
+            "x_min": 0.196,
+            "y_min": 0.732,
+            "x_max": 0.3042,
+            "y_max": 0.8163,
+            "width": 0.1082,
+            "height": 0.0843
+          },
+          "confidence": 0.938
+        },
+        {
+          "text": "Exothermic chemical reactions underlie conventional energy sources\nsuch as coal or petroleum. Here the energies involved are in the range of\nelectron volts. On the other hand, in a nuclear reaction, the energy release\nis of the order of MeV. Thus for the same quantity of matter, nuclear\nsources produce a million times more energy than a chemical source.\nFission of 1 kg of uranium, for example, generates 1014 J of energy;\ncompare it with burning of 1 kg of coal that gives 107 J.",
+          "bbox": {
+            "x_min": 0.2845,
+            "y_min": 0.8301,
+            "x_max": 0.9203,
+            "y_max": 0.9492,
+            "width": 0.6358,
+            "height": 0.1191
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9821
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "Nuclei",
+          "bbox": {
+            "x_min": 0.701,
+            "y_min": 0.0955,
+            "x_max": 0.7801,
+            "y_max": 0.1114,
+            "width": 0.0791,
+            "height": 0.0159
+          },
+          "confidence": 0.9816
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6923,
+            "y_min": 0.3075,
+            "x_max": 0.8679,
+            "y_max": 0.4439,
+            "width": 0.1757,
+            "height": 0.1363
+          },
+          "confidence": 0.9518
+        },
+        {
+          "text": "13.7.1 Fission",
+          "bbox": {
+            "x_min": 0.0809,
+            "y_min": 0.1355,
+            "x_max": 0.242,
+            "y_max": 0.1475,
+            "width": 0.1611,
+            "height": 0.012
+          },
+          "confidence": 0.9771
+        },
+        {
+          "text": "New possibilities emerge when we go beyond natural radioactive decays\nand study nuclear reactions by bombarding nuclei with other nuclear\nparticles such as proton, neutron, a-particle, etc.",
+          "bbox": {
+            "x_min": 0.0803,
+            "y_min": 0.1596,
+            "x_max": 0.7144,
+            "y_max": 0.2065,
+            "width": 0.6341,
+            "height": 0.0469
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "A most important neutron-induced nuclear reaction is fission. An\nexample of fission is when a uranium isotope 235U bombarded with a",
+          "bbox": {
+            "x_min": 0.0803,
+            "y_min": 0.2099,
+            "x_max": 0.715,
+            "y_max": 0.246,
+            "width": 0.6347,
+            "height": 0.0361
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "92",
+          "bbox": {
+            "x_min": 0.5061,
+            "y_min": 0.2422,
+            "x_max": 0.5224,
+            "y_max": 0.2477,
+            "width": 0.0163,
+            "height": 0.0056
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "neutron breaks into two intermediate mass nuclear fragments",
+          "bbox": {
+            "x_min": 0.0809,
+            "y_min": 0.2538,
+            "x_max": 0.6312,
+            "y_max": 0.2671,
+            "width": 0.5503,
+            "height": 0.0133
+          },
+          "confidence": 0.9977
+        },
+        {
+          "text": "+Kr+3n",
+          "bbox": {
+            "x_min": 0.3269,
+            "y_min": 0.2778,
+            "x_max": 0.4311,
+            "y_max": 0.2886,
+            "width": 0.1041,
+            "height": 0.0108
+          },
+          "confidence": 0.9445
+        },
+        {
+          "text": "92",
+          "bbox": {
+            "x_min": 0.1559,
+            "y_min": 0.2852,
+            "x_max": 0.1722,
+            "y_max": 0.2912,
+            "width": 0.0163,
+            "height": 0.006
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "n+235U231 236U144 Ba +3",
+          "bbox": {
+            "x_min": 0.1227,
+            "y_min": 0.2757,
+            "x_max": 0.3444,
+            "y_max": 0.2903,
+            "width": 0.2216,
+            "height": 0.0146
+          },
+          "confidence": 0.7595
+        },
+        {
+          "text": "92",
+          "bbox": {
+            "x_min": 0.2187,
+            "y_min": 0.286,
+            "x_max": 0.235,
+            "y_max": 0.2916,
+            "width": 0.0163,
+            "height": 0.0056
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "56",
+          "bbox": {
+            "x_min": 0.281,
+            "y_min": 0.2852,
+            "x_max": 0.2967,
+            "y_max": 0.2912,
+            "width": 0.0157,
+            "height": 0.006
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "(13.10)",
+          "bbox": {
+            "x_min": 0.6492,
+            "y_min": 0.2766,
+            "x_max": 0.7132,
+            "y_max": 0.2895,
+            "width": 0.064,
+            "height": 0.0129
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "The same reaction can produce other pairs of intermediate mass\nfragments",
+          "bbox": {
+            "x_min": 0.0803,
+            "y_min": 0.2989,
+            "x_max": 0.7138,
+            "y_max": 0.3277,
+            "width": 0.6335,
+            "height": 0.0288
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "1 n+235U23U → 133 Sb +",
+          "bbox": {
+            "x_min": 0.114,
+            "y_min": 0.3368,
+            "x_max": 0.3496,
+            "y_max": 0.3505,
+            "width": 0.2356,
+            "height": 0.0138
+          },
+          "confidence": 0.8533
+        },
+        {
+          "text": "92",
+          "bbox": {
+            "x_min": 0.1606,
+            "y_min": 0.3462,
+            "x_max": 0.1774,
+            "y_max": 0.3523,
+            "width": 0.0169,
+            "height": 0.006
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "92",
+          "bbox": {
+            "x_min": 0.2269,
+            "y_min": 0.3467,
+            "x_max": 0.2449,
+            "y_max": 0.3523,
+            "width": 0.018,
+            "height": 0.0056
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "51",
+          "bbox": {
+            "x_min": 0.2949,
+            "y_min": 0.3458,
+            "x_max": 0.3112,
+            "y_max": 0.3523,
+            "width": 0.0163,
+            "height": 0.0065
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "Or, as another example,",
+          "bbox": {
+            "x_min": 0.1129,
+            "y_min": 0.3591,
+            "x_max": 0.3217,
+            "y_max": 0.372,
+            "width": 0.2088,
+            "height": 0.0129
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "Nb+4n",
+          "bbox": {
+            "x_min": 0.37,
+            "y_min": 0.3394,
+            "x_max": 0.4508,
+            "y_max": 0.3497,
+            "width": 0.0809,
+            "height": 0.0103
+          },
+          "confidence": 0.9474
+        },
+        {
+          "text": "41",
+          "bbox": {
+            "x_min": 0.3531,
+            "y_min": 0.3475,
+            "x_max": 0.3688,
+            "y_max": 0.3527,
+            "width": 0.0157,
+            "height": 0.0052
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "n+235U14 140 Xe + 34 Sr + 2n",
+          "bbox": {
+            "x_min": 0.1222,
+            "y_min": 0.3802,
+            "x_max": 0.3787,
+            "y_max": 0.3966,
+            "width": 0.2565,
+            "height": 0.0163
+          },
+          "confidence": 0.7165
+        },
+        {
+          "text": "1",
+          "bbox": {
+            "x_min": 0.1129,
+            "y_min": 0.3806,
+            "x_max": 0.1216,
+            "y_max": 0.3871,
+            "width": 0.0087,
+            "height": 0.0065
+          },
+          "confidence": 0.9637
+        },
+        {
+          "text": "0",
+          "bbox": {
+            "x_min": 0.1134,
+            "y_min": 0.391,
+            "x_max": 0.1227,
+            "y_max": 0.3966,
+            "width": 0.0093,
+            "height": 0.0056
+          },
+          "confidence": 0.9567
+        },
+        {
+          "text": "92",
+          "bbox": {
+            "x_min": 0.16,
+            "y_min": 0.3905,
+            "x_max": 0.1768,
+            "y_max": 0.3966,
+            "width": 0.0169,
+            "height": 0.006
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "94\n38",
+          "bbox": {
+            "x_min": 0.2862,
+            "y_min": 0.3811,
+            "x_max": 0.3042,
+            "y_max": 0.397,
+            "width": 0.018,
+            "height": 0.0159
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "(13.11)",
+          "bbox": {
+            "x_min": 0.6486,
+            "y_min": 0.3376,
+            "x_max": 0.7144,
+            "y_max": 0.351,
+            "width": 0.0657,
+            "height": 0.0133
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "The fragment products are radioactive nuclei; they emit ẞ particles in\nsuccession to achieve stable end products.",
+          "bbox": {
+            "x_min": 0.0809,
+            "y_min": 0.4022,
+            "x_max": 0.7138,
+            "y_max": 0.4344,
+            "width": 0.6329,
+            "height": 0.0323
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "The energy released (the Q value ) in the fission reaction of nuclei like\nuranium is of the order of 200 MeV per fissioning nucleus. This is\nestimated as follows:",
+          "bbox": {
+            "x_min": 0.0803,
+            "y_min": 0.4361,
+            "x_max": 0.7138,
+            "y_max": 0.4804,
+            "width": 0.6335,
+            "height": 0.0443
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "Let us take a nucleus with A = 240 breaking into two fragments each\nof A = 120. Then",
+          "bbox": {
+            "x_min": 0.0814,
+            "y_min": 0.4873,
+            "x_max": 0.7144,
+            "y_max": 0.514,
+            "width": 0.6329,
+            "height": 0.0267
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "Ebn for A = 240 nucleus is about 7.6 MeV,",
+          "bbox": {
+            "x_min": 0.1111,
+            "y_min": 0.5243,
+            "x_max": 0.4852,
+            "y_max": 0.5394,
+            "width": 0.3741,
+            "height": 0.0151
+          },
+          "confidence": 0.9801
+        },
+        {
+          "text": "bn",
+          "bbox": {
+            "x_min": 0.1245,
+            "y_min": 0.557,
+            "x_max": 0.1402,
+            "y_max": 0.563,
+            "width": 0.0157,
+            "height": 0.006
+          },
+          "confidence": 0.9843
+        },
+        {
+          "text": ".. Gain in binding energy for nucleon is about 0.9 MeV.",
+          "bbox": {
+            "x_min": 0.1146,
+            "y_min": 0.5729,
+            "x_max": 0.6155,
+            "y_max": 0.5862,
+            "width": 0.5009,
+            "height": 0.0133
+          },
+          "confidence": 0.9707
+        },
+        {
+          "text": "Hence the total gain in binding energy is 240×0.9 or 216 MeV.",
+          "bbox": {
+            "x_min": 0.1129,
+            "y_min": 0.5974,
+            "x_max": 0.6649,
+            "y_max": 0.6112,
+            "width": 0.5521,
+            "height": 0.0138
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "The disintegration energy in fission events first appears as the kinetic\nenergy of the fragments and neutrons. Eventually it is transferred to the\nsurrounding matter appearing as heat. The source of energy in nuclear\nreactors, which produce electricity, is nuclear fission. The enormous\nenergy released in an atom bomb comes from uncontrolled nuclear\nfission.",
+          "bbox": {
+            "x_min": 0.0797,
+            "y_min": 0.6176,
+            "x_max": 0.715,
+            "y_max": 0.7131,
+            "width": 0.6353,
+            "height": 0.0955
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "13.7.2 Nuclear fusion – energy generation in stars",
+          "bbox": {
+            "x_min": 0.0814,
+            "y_min": 0.7308,
+            "x_max": 0.6283,
+            "y_max": 0.7454,
+            "width": 0.5468,
+            "height": 0.0146
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "When two light nuclei fuse to form a larger nucleus, energy is released,\nsince the larger nucleus is more tightly bound, as seen from the binding\nenergy curve in Fig.13.1. Some examples of such energy liberating nuclear\nfusion reactions are :",
+          "bbox": {
+            "x_min": 0.0785,
+            "y_min": 0.7544,
+            "x_max": 0.7144,
+            "y_max": 0.8151,
+            "width": 0.6358,
+            "height": 0.0606
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "1",
+          "bbox": {
+            "x_min": 0.1158,
+            "y_min": 0.8735,
+            "x_max": 0.1227,
+            "y_max": 0.8791,
+            "width": 0.007,
+            "height": 0.0056
+          },
+          "confidence": 0.962
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.2548,
+            "y_min": 0.8288,
+            "x_max": 0.2635,
+            "y_max": 0.8331,
+            "width": 0.0087,
+            "height": 0.0043
+          },
+          "confidence": 0.9504
+        },
+        {
+          "text": "H+H→ H+ e⁺ + v + 0.42 MeV",
+          "bbox": {
+            "x_min": 0.121,
+            "y_min": 0.8288,
+            "x_max": 0.4014,
+            "y_max": 0.8426,
+            "width": 0.2804,
+            "height": 0.0138
+          },
+          "confidence": 0.8861
+        },
+        {
+          "text": "H+H→He+ n + 3.27 MeV",
+          "bbox": {
+            "x_min": 0.1233,
+            "y_min": 0.8649,
+            "x_max": 0.3775,
+            "y_max": 0.8761,
+            "width": 0.2542,
+            "height": 0.0112
+          },
+          "confidence": 0.9308
+        },
+        {
+          "text": "3",
+          "bbox": {
+            "x_min": 0.2123,
+            "y_min": 0.8981,
+            "x_max": 0.2228,
+            "y_max": 0.9028,
+            "width": 0.0105,
+            "height": 0.0047
+          },
+          "confidence": 0.9684
+        },
+        {
+          "text": "H+H → H+ H + 4.03 MeV",
+          "bbox": {
+            "x_min": 0.1233,
+            "y_min": 0.8989,
+            "x_max": 0.3869,
+            "y_max": 0.9097,
+            "width": 0.2635,
+            "height": 0.0108
+          },
+          "confidence": 0.908
+        },
+        {
+          "text": "[13.13(a)]",
+          "bbox": {
+            "x_min": 0.6289,
+            "y_min": 0.8305,
+            "x_max": 0.7103,
+            "y_max": 0.8434,
+            "width": 0.0814,
+            "height": 0.0129
+          },
+          "confidence": 0.9688
+        },
+        {
+          "text": "[13.13(b)]",
+          "bbox": {
+            "x_min": 0.6265,
+            "y_min": 0.8637,
+            "x_max": 0.7109,
+            "y_max": 0.877,
+            "width": 0.0844,
+            "height": 0.0133
+          },
+          "confidence": 0.9726
+        },
+        {
+          "text": "[13.13(c)]",
+          "bbox": {
+            "x_min": 0.63,
+            "y_min": 0.8976,
+            "x_max": 0.7115,
+            "y_max": 0.911,
+            "width": 0.0814,
+            "height": 0.0133
+          },
+          "confidence": 0.966
+        },
+        {
+          "text": "In the first reaction, two protons combine to form a deuteron and\na positron with a release of 0.42 MeV energy. In reaction [13.13(b)], two",
+          "bbox": {
+            "x_min": 0.0814,
+            "y_min": 0.9226,
+            "x_max": 0.7138,
+            "y_max": 0.9518,
+            "width": 0.6323,
+            "height": 0.0292
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9819
+        },
+        {
+          "text": "315",
+          "bbox": {
+            "x_min": 0.8662,
+            "y_min": 0.9381,
+            "x_max": 0.9011,
+            "y_max": 0.9492,
+            "width": 0.0349,
+            "height": 0.0112
+          },
+          "confidence": 0.9935
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.196,
+            "y_min": 0.0925,
+            "x_max": 0.3118,
+            "y_max": 0.1157,
+            "width": 0.1158,
+            "height": 0.0232
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "deuterons combine to form the light isotope of helium. In reaction\n(13.13c), two deuterons combine to form a triton and a proton. For\nfusion to take place, the two nuclei must come close enough so that\nattractive short-range nuclear force is able to affect them. However,\nsince they are both positively charged particles, they experience coulomb\nrepulsion. They, therefore, must have enough energy to overcome this\ncoulomb barrier. The height of the barrier depends on the charges and\nradii of the two interacting nuclei. It can be shown, for example, that\nthe barrier height for two protons is ~ 400 keV, and is higher for nuclei\nwith higher charges. We can estimate the temperature at which two\nprotons in a proton gas would (averagely) have enough energy to\novercome the coulomb barrier:",
+          "bbox": {
+            "x_min": 0.2845,
+            "y_min": 0.1338,
+            "x_max": 0.9197,
+            "y_max": 0.3174,
+            "width": 0.6353,
+            "height": 0.1837
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "(3/2)k T = K z 400 keV, which gives T ~ 3 × 10° K.\nWhen fusion is achieved by raising the temperature of the system so\nthat particles have enough kinetic energy to overcome the coulomb\nrepulsive behaviour, it is called thermonuclear fusion.",
+          "bbox": {
+            "x_min": 0.285,
+            "y_min": 0.32,
+            "x_max": 0.9186,
+            "y_max": 0.3824,
+            "width": 0.6335,
+            "height": 0.0624
+          },
+          "confidence": 0.9817
+        },
+        {
+          "text": "Thermonuclear fusion is the source of energy output in the interior\nof stars. The interior of the sun has a temperature of 1.5×107 K, which\nis considerably less than the estimated temperature required for fusion\nof particles of average energy. Clearly, fusion in the sun involves protons\nwhose energies are much above the average energy.",
+          "bbox": {
+            "x_min": 0.2839,
+            "y_min": 0.3854,
+            "x_max": 0.9191,
+            "y_max": 0.4615,
+            "width": 0.6353,
+            "height": 0.0761
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "The fusion reaction in the sun is a multi-step process in which the\nhydrogen is burned into helium. Thus, the fuel in the sun is the hydrogen\nin its core. The proton-proton (p, p) cycle by which this occurs is\nrepresented by the following sets of reactions:",
+          "bbox": {
+            "x_min": 0.285,
+            "y_min": 0.4632,
+            "x_max": 0.9191,
+            "y_max": 0.5256,
+            "width": 0.6341,
+            "height": 0.0624
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "}H+ }H→ ¥H + e⁺ + v + 0.42 MeV",
+          "bbox": {
+            "x_min": 0.3182,
+            "y_min": 0.5368,
+            "x_max": 0.6044,
+            "y_max": 0.5527,
+            "width": 0.2862,
+            "height": 0.0159
+          },
+          "confidence": 0.8062
+        },
+        {
+          "text": "e⁺ + e¯ → y + y + 1.02 MeV",
+          "bbox": {
+            "x_min": 0.3176,
+            "y_min": 0.563,
+            "x_max": 0.5503,
+            "y_max": 0.5776,
+            "width": 0.2327,
+            "height": 0.0146
+          },
+          "confidence": 0.813
+        },
+        {
+          "text": "(i)",
+          "bbox": {
+            "x_min": 0.6963,
+            "y_min": 0.5381,
+            "x_max": 0.712,
+            "y_max": 0.5505,
+            "width": 0.0157,
+            "height": 0.0125
+          },
+          "confidence": 0.9489
+        },
+        {
+          "text": "(ii)",
+          "bbox": {
+            "x_min": 0.6905,
+            "y_min": 0.5643,
+            "x_max": 0.712,
+            "y_max": 0.5768,
+            "width": 0.0215,
+            "height": 0.0125
+          },
+          "confidence": 0.9794
+        },
+        {
+          "text": "(iii)",
+          "bbox": {
+            "x_min": 0.6847,
+            "y_min": 0.5931,
+            "x_max": 0.712,
+            "y_max": 0.6056,
+            "width": 0.0273,
+            "height": 0.0125
+          },
+          "confidence": 0.9817
+        },
+        {
+          "text": "316",
+          "bbox": {
+            "x_min": 0.0971,
+            "y_min": 0.9385,
+            "x_max": 0.1332,
+            "y_max": 0.9488,
+            "width": 0.0361,
+            "height": 0.0103
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.3182,
+            "y_min": 0.6357,
+            "x_max": 0.3275,
+            "y_max": 0.6404,
+            "width": 0.0093,
+            "height": 0.0047
+          },
+          "confidence": 0.9736
+        },
+        {
+          "text": "H+H → He+ y + 5.49 MeV",
+          "bbox": {
+            "x_min": 0.3287,
+            "y_min": 0.5935,
+            "x_max": 0.5788,
+            "y_max": 0.6069,
+            "width": 0.2501,
+            "height": 0.0133
+          },
+          "confidence": 0.8809
+        },
+        {
+          "text": "He + He →→He+ }H+ }H + 12.86 MeV (iv)",
+          "bbox": {
+            "x_min": 0.3275,
+            "y_min": 0.6267,
+            "x_max": 0.712,
+            "y_max": 0.6409,
+            "width": 0.3845,
+            "height": 0.0142
+          },
+          "confidence": 0.8686
+        },
+        {
+          "text": "4",
+          "bbox": {
+            "x_min": 0.4444,
+            "y_min": 0.6258,
+            "x_max": 0.4555,
+            "y_max": 0.631,
+            "width": 0.0111,
+            "height": 0.0052
+          },
+          "confidence": 0.9678
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.4462,
+            "y_min": 0.6357,
+            "x_max": 0.4549,
+            "y_max": 0.6409,
+            "width": 0.0087,
+            "height": 0.0052
+          },
+          "confidence": 0.9714
+        },
+        {
+          "text": "(13.14)",
+          "bbox": {
+            "x_min": 0.8534,
+            "y_min": 0.6262,
+            "x_max": 0.918,
+            "y_max": 0.6396,
+            "width": 0.0646,
+            "height": 0.0133
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "For the fourth reaction to occur, the first three reactions must occur",
+          "bbox": {
+            "x_min": 0.317,
+            "y_min": 0.6508,
+            "x_max": 0.9191,
+            "y_max": 0.6619,
+            "width": 0.6021,
+            "height": 0.0112
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "twice, in which case two light helium nuclei unite to form ordinary helium\nnucleus. If we consider the combination 2(i) + 2(ii) + 2(iii) +(iv), the net\neffect is",
+          "bbox": {
+            "x_min": 0.2845,
+            "y_min": 0.6671,
+            "x_max": 0.9191,
+            "y_max": 0.7101,
+            "width": 0.6347,
+            "height": 0.043
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "H+2e",
+          "bbox": {
+            "x_min": 0.3054,
+            "y_min": 0.7243,
+            "x_max": 0.3653,
+            "y_max": 0.7355,
+            "width": 0.0599,
+            "height": 0.0112
+          },
+          "confidence": 0.8935
+        },
+        {
+          "text": "→ He+2 +2v+6y +26.7 MeV",
+          "bbox": {
+            "x_min": 0.3799,
+            "y_min": 0.7239,
+            "x_max": 0.623,
+            "y_max": 0.7372,
+            "width": 0.2432,
+            "height": 0.0133
+          },
+          "confidence": 0.7887
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.4037,
+            "y_min": 0.7325,
+            "x_max": 0.4124,
+            "y_max": 0.7372,
+            "width": 0.0087,
+            "height": 0.0047
+          },
+          "confidence": 0.9737
+        },
+        {
+          "text": "or (4H+4e¯) → (He + 2e¯)+2v+6y +26.7 MeV",
+          "bbox": {
+            "x_min": 0.2856,
+            "y_min": 0.7514,
+            "x_max": 0.7202,
+            "y_max": 0.7647,
+            "width": 0.4346,
+            "height": 0.0133
+          },
+          "confidence": 0.9097
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1943,
+            "y_min": 0.7118,
+            "x_max": 0.3264,
+            "y_max": 0.8151,
+            "width": 0.1321,
+            "height": 0.1032
+          },
+          "confidence": 0.9069
+        },
+        {
+          "text": "4",
+          "bbox": {
+            "x_min": 0.7644,
+            "y_min": 0.7806,
+            "x_max": 0.7743,
+            "y_max": 0.7858,
+            "width": 0.0099,
+            "height": 0.0052
+          },
+          "confidence": 0.9694
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.7656,
+            "y_min": 0.791,
+            "x_max": 0.7743,
+            "y_max": 0.7957,
+            "width": 0.0087,
+            "height": 0.0047
+          },
+          "confidence": 0.9744
+        },
+        {
+          "text": "(13.15)",
+          "bbox": {
+            "x_min": 0.8546,
+            "y_min": 0.7501,
+            "x_max": 0.918,
+            "y_max": 0.7634,
+            "width": 0.0634,
+            "height": 0.0133
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "Thus, four hydrogen atoms combine to form an He atom with a\nrelease of 26.7 MeV of energy.",
+          "bbox": {
+            "x_min": 0.2862,
+            "y_min": 0.7806,
+            "x_max": 0.9191,
+            "y_max": 0.8116,
+            "width": 0.6329,
+            "height": 0.031
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "Helium is not the only element that can be synthesized in the interior of\na star. As the hydrogen in the core gets depleted and becomes helium, the\ncore starts to cool. The star begins to collapse under its own gravity which\nincreases the temperature of the core. If this temperature increases to about\n10° K, fusion takes place again, this time of helium nuclei into carbon.\nThis kind of process can generate through fusion higher and higher mass\nnumber elements. But elements more massive than those near the peak of\nthe binding energy curve in Fig. 13.1 cannot be so produced.",
+          "bbox": {
+            "x_min": 0.2833,
+            "y_min": 0.8232,
+            "x_max": 0.9209,
+            "y_max": 0.9535,
+            "width": 0.6376,
+            "height": 0.1303
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9821
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "Nuclei",
+          "bbox": {
+            "x_min": 0.7016,
+            "y_min": 0.0955,
+            "x_max": 0.7801,
+            "y_max": 0.1114,
+            "width": 0.0785,
+            "height": 0.0159
+          },
+          "confidence": 0.9834
+        },
+        {
+          "text": "The age of the sun is about 5×10º y and it is estimated that there is\nenough hydrogen in the sun to keep it going for another 5 billion years.\nAfter that, the hydrogen burning will stop and the sun will begin to cool\nand will start to collapse under gravity, which will raise the core\ntemperature. The outer envelope of the sun will expand, turning it into\nthe so called red giant.",
+          "bbox": {
+            "x_min": 0.0797,
+            "y_min": 0.1329,
+            "x_max": 0.7138,
+            "y_max": 0.2323,
+            "width": 0.6341,
+            "height": 0.0994
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "13.7.3 Controlled thermonuclear fusion",
+          "bbox": {
+            "x_min": 0.0797,
+            "y_min": 0.246,
+            "x_max": 0.5212,
+            "y_max": 0.2585,
+            "width": 0.4415,
+            "height": 0.0125
+          },
+          "confidence": 0.9852
+        },
+        {
+          "text": "The natural thermonuclear fusion process in a star is replicated in a\nthermonuclear fusion device. In controlled fusion reactors, the aim is to\ngenerate steady power by heating the nuclear fuel to a temperature in the\nrange of 10° K. At these temperatures, the fuel is a mixture of positive\nions and electrons (plasma). The challenge is to confine this plasma, since\nno container can stand such a high temperature. Several countries\naround the world including India are developing techniques in this\nconnection. If successful, fusion reactors will hopefully supply almost\nunlimited power to humanity.",
+          "bbox": {
+            "x_min": 0.0797,
+            "y_min": 0.2705,
+            "x_max": 0.715,
+            "y_max": 0.4176,
+            "width": 0.6353,
+            "height": 0.1471
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "Example 13.4 Answer the following questions:",
+          "bbox": {
+            "x_min": 0.1169,
+            "y_min": 0.44,
+            "x_max": 0.5172,
+            "y_max": 0.4516,
+            "width": 0.4002,
+            "height": 0.0116
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6859,
+            "y_min": 0.3049,
+            "x_max": 0.8679,
+            "y_max": 0.4452,
+            "width": 0.1821,
+            "height": 0.1402
+          },
+          "confidence": 0.8458
+        },
+        {
+          "text": "(a) Are the equations of nuclear reactions (such as those given in\nSection 13.7) ‘balanced' in the sense a chemical equation (e.g.,\n2H₂ + O2→ 2 H₂O) is? If not, in what sense are they balanced on\nboth sides?",
+          "bbox": {
+            "x_min": 0.1169,
+            "y_min": 0.4568,
+            "x_max": 0.694,
+            "y_max": 0.5127,
+            "width": 0.5771,
+            "height": 0.0559
+          },
+          "confidence": 0.9724
+        },
+        {
+          "text": "(b) If both the number of protons and the number of neutrons are\nconserved in each nuclear reaction, in what way is mass converted\ninto energy (or vice-versa) in a nuclear reaction?",
+          "bbox": {
+            "x_min": 0.1175,
+            "y_min": 0.5204,
+            "x_max": 0.6934,
+            "y_max": 0.563,
+            "width": 0.5759,
+            "height": 0.0426
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "(c) A general impression exists that mass-energy interconversion\ntakes place only in nuclear reaction and never in chemical\nreaction. This is strictly speaking, incorrect. Explain.\nincorrect",
+          "bbox": {
+            "x_min": 0.1163,
+            "y_min": 0.5596,
+            "x_max": 0.6946,
+            "y_max": 0.6206,
+            "width": 0.5782,
+            "height": 0.0611
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "Solution",
+          "bbox": {
+            "x_min": 0.1158,
+            "y_min": 0.6215,
+            "x_max": 0.1931,
+            "y_max": 0.631,
+            "width": 0.0774,
+            "height": 0.0095
+          },
+          "confidence": 0.9854
+        },
+        {
+          "text": "(a) A chemical equation is balanced in the sense that the number of\natoms of each element is the same on both sides of the equation.\nA chemical reaction merely alters the original combinations of\natoms. In a nuclear reaction, elements may be transmuted. Thus,\nthe number of atoms of each element is not necessarily conserved\nin a nuclear reaction. However, the number of protons and the\nnumber of neutrons are both separately conserved in a nuclear\nreaction. [Actually, even this is not strictly true in the realm of\nvery high energies – what is strictly conserved is the total charge\nand total 'baryon number'. We need not pursue this matter here.]\nIn nuclear reactions (e.g., Eq. 13.10), the number of protons and\nthe number of neutrons are the same on the two sides of the equation.",
+          "bbox": {
+            "x_min": 0.1169,
+            "y_min": 0.6409,
+            "x_max": 0.6958,
+            "y_max": 0.8258,
+            "width": 0.5788,
+            "height": 0.1849
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "(b) We know that the binding energy of a nucleus gives a negative\ncontribution to the mass of the nucleus (mass defect). Now, since\nproton number and neutron number are conserved in a nuclear\nreaction, the total rest mass of neutrons and protons is the same\non either side of a reaction. But the total binding energy of nuclei\non the left side need not be the same as that on the right hand\nside. The difference in these binding energies appears as energy\nreleased or absorbed in a nuclear reaction. Since binding energy",
+          "bbox": {
+            "x_min": 0.1169,
+            "y_min": 0.8331,
+            "x_max": 0.6835,
+            "y_max": 0.9531,
+            "width": 0.5666,
+            "height": 0.12
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9738,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.009
+          },
+          "confidence": 0.9821
+        },
+        {
+          "text": "EXAMPLE 13.4",
+          "bbox": {
+            "x_min": 0.74,
+            "y_min": 0.8555,
+            "x_max": 0.7533,
+            "y_max": 0.9462,
+            "width": 0.0134,
+            "height": 0.0908
+          },
+          "confidence": 0.9734
+        },
+        {
+          "text": "317",
+          "bbox": {
+            "x_min": 0.865,
+            "y_min": 0.9389,
+            "x_max": 0.9017,
+            "y_max": 0.9488,
+            "width": 0.0366,
+            "height": 0.0099
+          },
+          "confidence": 0.9912
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "EXAMPLE 13.4",
+          "bbox": {
+            "x_min": 0.2426,
+            "y_min": 0.3342,
+            "x_max": 0.2565,
+            "y_max": 0.4249,
+            "width": 0.014,
+            "height": 0.0908
+          },
+          "confidence": 0.9738
+        },
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.1966,
+            "y_min": 0.0916,
+            "x_max": 0.3118,
+            "y_max": 0.1157,
+            "width": 0.1152,
+            "height": 0.0241
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "contributes to mass, we say that the difference in the total mass\nof nuclei on the two sides get converted into energy or vice-versa.\nIt is in these sense that a nuclear reaction is an example of mass-\nenergy interconversion.",
+          "bbox": {
+            "x_min": 0.3374,
+            "y_min": 0.1484,
+            "x_max": 0.8773,
+            "y_max": 0.2065,
+            "width": 0.5398,
+            "height": 0.0581
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "(c) From the point of view of mass-energy interconversion, a chemical\nreaction is similar to a nuclear reaction in principle. The energy\nreleased or absorbed in a chemical reaction can be traced to the\ndifference in chemical (not nuclear) binding energies of atoms\nand molecules on the two sides of a reaction. Since, strictly\nspeaking, chemical binding energy also gives a negative\ncontribution (mass defect) to the total mass of an atom or molecule,\nwe can equally well say that the difference in the total mass of\natoms or molecules, on the two sides of the chemical reaction\ngets converted into energy or vice-versa. However, the mass\ndefects involved in a chemical reaction are almost a million times\nsmaller than those in a nuclear reaction. This is the reason for\nthe general impression, (which is incorrect) that mass-energy\ninterconversion does not take place in a chemical reaction.",
+          "bbox": {
+            "x_min": 0.306,
+            "y_min": 0.2138,
+            "x_max": 0.879,
+            "y_max": 0.4254,
+            "width": 0.573,
+            "height": 0.2116
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "318",
+          "bbox": {
+            "x_min": 0.096,
+            "y_min": 0.9398,
+            "x_max": 0.1344,
+            "y_max": 0.9488,
+            "width": 0.0384,
+            "height": 0.009
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "SUMMARY",
+          "bbox": {
+            "x_min": 0.5532,
+            "y_min": 0.4658,
+            "x_max": 0.6521,
+            "y_max": 0.4753,
+            "width": 0.0989,
+            "height": 0.0095
+          },
+          "confidence": 0.9652
+        },
+        {
+          "text": "1. An atom has a nucleus. The nucleus is positively charged. The radius\nof the nucleus is smaller than the radius of an atom by a factor of\n104. More than 99.9% mass of the atom is concentrated in the nucleus.",
+          "bbox": {
+            "x_min": 0.3182,
+            "y_min": 0.5006,
+            "x_max": 0.8883,
+            "y_max": 0.5394,
+            "width": 0.5701,
+            "height": 0.0387
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "2. On the atomic scale, mass is measured in atomic mass units (u). By\ndefinition, 1 atomic mass unit (lu) is 1/12th mass of one atom of 12C;\nlu = 1.660563 × 10-27 kg.",
+          "bbox": {
+            "x_min": 0.3165,
+            "y_min": 0.5462,
+            "x_max": 0.8877,
+            "y_max": 0.5892,
+            "width": 0.5713,
+            "height": 0.043
+          },
+          "confidence": 0.9737
+        },
+        {
+          "text": "3. A nucleus contains a neutral particle called neutron. Its mass is almost\nthe same as that of proton",
+          "bbox": {
+            "x_min": 0.317,
+            "y_min": 0.5961,
+            "x_max": 0.8871,
+            "y_max": 0.6224,
+            "width": 0.5701,
+            "height": 0.0262
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "4. The atomic number Z is the number of protons in the atomic nucleus\nof an element. The mass number A is the total number of protons and\nneutrons in the atomic nucleus; A = Z+N; Here N denotes the number\nof neutrons in the nucleus.",
+          "bbox": {
+            "x_min": 0.3165,
+            "y_min": 0.6284,
+            "x_max": 0.8883,
+            "y_max": 0.68,
+            "width": 0.5718,
+            "height": 0.0516
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "A",
+          "bbox": {
+            "x_min": 0.7365,
+            "y_min": 0.6847,
+            "x_max": 0.7475,
+            "y_max": 0.6899,
+            "width": 0.0111,
+            "height": 0.0052
+          },
+          "confidence": 0.9366
+        },
+        {
+          "text": "A nuclear species or a nuclide is represented as 2X, where X is the\nchemical symbol of the species.",
+          "bbox": {
+            "x_min": 0.3479,
+            "y_min": 0.6852,
+            "x_max": 0.8877,
+            "y_max": 0.7157,
+            "width": 0.5398,
+            "height": 0.0305
+          },
+          "confidence": 0.9822
+        },
+        {
+          "text": "Nuclides with the same atomic number Z, but different neutron number\nN are called isotopes. Nuclides with the same A are isobars and those\nwith the same N are isotones.",
+          "bbox": {
+            "x_min": 0.3467,
+            "y_min": 0.7213,
+            "x_max": 0.8877,
+            "y_max": 0.7591,
+            "width": 0.541,
+            "height": 0.0378
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "Most elements are mixtures of two or more isotopes. The atomic mass\nof an element is a weighted average of the masses of its isotopes and\ncalculated in accordance to the relative abundances of the isotopes.",
+          "bbox": {
+            "x_min": 0.3455,
+            "y_min": 0.7682,
+            "x_max": 0.8871,
+            "y_max": 0.8073,
+            "width": 0.5416,
+            "height": 0.0391
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "5. A nucleus can be considered to be spherical in shape and assigned a\nradius. Electron scattering experiments allow determination of the\nnuclear radius; it is found that radii of nuclei fit the formula\nR = R A1/3,",
+          "bbox": {
+            "x_min": 0.3165,
+            "y_min": 0.8133,
+            "x_max": 0.8877,
+            "y_max": 0.8705,
+            "width": 0.5713,
+            "height": 0.0572
+          },
+          "confidence": 0.9841
+        },
+        {
+          "text": "where R = a constant = 1.2 fm. This implies that the nuclear density\nis independent of A. It is of the order of 1017 kg/m³.",
+          "bbox": {
+            "x_min": 0.3467,
+            "y_min": 0.8778,
+            "x_max": 0.8889,
+            "y_max": 0.9028,
+            "width": 0.5422,
+            "height": 0.0249
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "6. Neutrons and protons are bound in a nucleus by the short-range strong\nnuclear force. The nuclear force does not distinguish between neutron\nand proton.",
+          "bbox": {
+            "x_min": 0.3159,
+            "y_min": 0.9097,
+            "x_max": 0.8877,
+            "y_max": 0.9497,
+            "width": 0.5718,
+            "height": 0.04
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9821
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "7. The nuclear mass M is always less than the total mass, Em, of its\nconstituents. The difference in mass of a nucleus and its constituents\nis called the mass defect,",
+          "bbox": {
+            "x_min": 0.1123,
+            "y_min": 0.1471,
+            "x_max": 0.6824,
+            "y_max": 0.1854,
+            "width": 0.5701,
+            "height": 0.0383
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "∆M = (Z m₁₂ + (A – Z)m)",
+          "bbox": {
+            "x_min": 0.1437,
+            "y_min": 0.1931,
+            "x_max": 0.3269,
+            "y_max": 0.2077,
+            "width": 0.1832,
+            "height": 0.0146
+          },
+          "confidence": 0.7685
+        },
+        {
+          "text": "M",
+          "bbox": {
+            "x_min": 0.3444,
+            "y_min": 0.194,
+            "x_max": 0.3642,
+            "y_max": 0.2013,
+            "width": 0.0198,
+            "height": 0.0073
+          },
+          "confidence": 0.9252
+        },
+        {
+          "text": "Using Einstein's mass energy relation, we express this mass difference\nin terms of energy as",
+          "bbox": {
+            "x_min": 0.1431,
+            "y_min": 0.2099,
+            "x_max": 0.683,
+            "y_max": 0.2366,
+            "width": 0.5398,
+            "height": 0.0267
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "ΔΕ = ΔΜ c²",
+          "bbox": {
+            "x_min": 0.1431,
+            "y_min": 0.2391,
+            "x_max": 0.2315,
+            "y_max": 0.2516,
+            "width": 0.0884,
+            "height": 0.0125
+          },
+          "confidence": 0.5705
+        },
+        {
+          "text": "The energy ∆Ε, represents the binding energy of the nucleus. In the\nmass number range A = 30 to 170, the binding energy per nucleon is\nnearly constant, about 8 MeV/nucleon.",
+          "bbox": {
+            "x_min": 0.1431,
+            "y_min": 0.2594,
+            "x_max": 0.6824,
+            "y_max": 0.2998,
+            "width": 0.5393,
+            "height": 0.0404
+          },
+          "confidence": 0.9835
+        },
+        {
+          "text": "8. Energies associated with nuclear processes are about a million times\nlarger than chemical process.",
+          "bbox": {
+            "x_min": 0.1123,
+            "y_min": 0.3058,
+            "x_max": 0.683,
+            "y_max": 0.332,
+            "width": 0.5707,
+            "height": 0.0262
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "9. The Q-value of a nuclear process is",
+          "bbox": {
+            "x_min": 0.1129,
+            "y_min": 0.3376,
+            "x_max": 0.4177,
+            "y_max": 0.3488,
+            "width": 0.3048,
+            "height": 0.0112
+          },
+          "confidence": 0.976
+        },
+        {
+          "text": "Q = final kinetic energy – initial kinetic energy.\nDue to conservation of mass-energy, this is also,",
+          "bbox": {
+            "x_min": 0.1443,
+            "y_min": 0.3553,
+            "x_max": 0.5457,
+            "y_max": 0.3837,
+            "width": 0.4014,
+            "height": 0.0284
+          },
+          "confidence": 0.9781
+        },
+        {
+          "text": "Q = (sum of initial masses sum of final masses)c²",
+          "bbox": {
+            "x_min": 0.1798,
+            "y_min": 0.3871,
+            "x_max": 0.5823,
+            "y_max": 0.4009,
+            "width": 0.4026,
+            "height": 0.0138
+          },
+          "confidence": 0.9501
+        },
+        {
+          "text": "10. Radioactivity is the phenomenon in which nuclei of a given species\ntransform by giving out a or ẞor y rays; a-rays are helium nuclei;\nẞ-rays are electrons. y-rays are electromagnetic radiation of wavelengths\nshorter than X-rays.",
+          "bbox": {
+            "x_min": 0.1146,
+            "y_min": 0.4077,
+            "x_max": 0.6824,
+            "y_max": 0.4619,
+            "width": 0.5678,
+            "height": 0.0542
+          },
+          "confidence": 0.9747
+        },
+        {
+          "text": "11. Energy is released when less tightly bound nuclei are transmuted into\nmore tightly bound nuclei. In fission, a heavy nucleus like 235 U breaks",
+          "bbox": {
+            "x_min": 0.1134,
+            "y_min": 0.4675,
+            "x_max": 0.6824,
+            "y_max": 0.4998,
+            "width": 0.5689,
+            "height": 0.0323
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "99",
+          "bbox": {
+            "x_min": 0.5561,
+            "y_min": 0.5071,
+            "x_max": 0.5713,
+            "y_max": 0.5123,
+            "width": 0.0151,
+            "height": 0.0052
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "92",
+          "bbox": {
+            "x_min": 0.5899,
+            "y_min": 0.4963,
+            "x_max": 0.6062,
+            "y_max": 0.5015,
+            "width": 0.0163,
+            "height": 0.0052
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "into two smaller fragments, e.g., 235U+n →133 Sb + Nb + 4 n",
+          "bbox": {
+            "x_min": 0.1437,
+            "y_min": 0.508,
+            "x_max": 0.651,
+            "y_max": 0.5204,
+            "width": 0.5073,
+            "height": 0.0125
+          },
+          "confidence": 0.9093
+        },
+        {
+          "text": "92",
+          "bbox": {
+            "x_min": 0.4101,
+            "y_min": 0.5161,
+            "x_max": 0.4252,
+            "y_max": 0.5209,
+            "width": 0.0151,
+            "height": 0.0047
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "51",
+          "bbox": {
+            "x_min": 0.4945,
+            "y_min": 0.5153,
+            "x_max": 0.5079,
+            "y_max": 0.5209,
+            "width": 0.0134,
+            "height": 0.0056
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "41",
+          "bbox": {
+            "x_min": 0.5561,
+            "y_min": 0.5161,
+            "x_max": 0.5701,
+            "y_max": 0.5209,
+            "width": 0.014,
+            "height": 0.0047
+          },
+          "confidence": 0.9868
+        },
+        {
+          "text": "12. In fusion, lighter nuclei combine to form a larger nucleus. Fusion of\nhydrogen nuclei into helium nuclei is the source of energy of all stars\nincluding our sun.",
+          "bbox": {
+            "x_min": 0.114,
+            "y_min": 0.5273,
+            "x_max": 0.6864,
+            "y_max": 0.5673,
+            "width": 0.5724,
+            "height": 0.04
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "Physical Quantity Symbol Dimensions",
+          "bbox": {
+            "x_min": 0.1105,
+            "y_min": 0.6112,
+            "x_max": 0.502,
+            "y_max": 0.6245,
+            "width": 0.3915,
+            "height": 0.0133
+          },
+          "confidence": 0.9813
+        },
+        {
+          "text": "Atomic mass unit",
+          "bbox": {
+            "x_min": 0.1082,
+            "y_min": 0.64,
+            "x_max": 0.2589,
+            "y_max": 0.6486,
+            "width": 0.1507,
+            "height": 0.0086
+          },
+          "confidence": 0.9858
+        },
+        {
+          "text": "Units",
+          "bbox": {
+            "x_min": 0.5439,
+            "y_min": 0.612,
+            "x_max": 0.5945,
+            "y_max": 0.6215,
+            "width": 0.0506,
+            "height": 0.0095
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "[M]",
+          "bbox": {
+            "x_min": 0.4305,
+            "y_min": 0.6387,
+            "x_max": 0.4543,
+            "y_max": 0.6499,
+            "width": 0.0239,
+            "height": 0.0112
+          },
+          "confidence": 0.9185
+        },
+        {
+          "text": "u",
+          "bbox": {
+            "x_min": 0.5625,
+            "y_min": 0.6426,
+            "x_max": 0.5771,
+            "y_max": 0.6486,
+            "width": 0.0145,
+            "height": 0.006
+          },
+          "confidence": 0.8952
+        },
+        {
+          "text": "not to re",
+          "bbox": {
+            "x_min": 0.1803,
+            "y_min": 0.5226,
+            "x_max": 0.5963,
+            "y_max": 0.8194,
+            "width": 0.4159,
+            "height": 0.2968
+          },
+          "confidence": 0.9331
+        },
+        {
+          "text": "Disintegration or\ndecay constant",
+          "bbox": {
+            "x_min": 0.1099,
+            "y_min": 0.7312,
+            "x_max": 0.2554,
+            "y_max": 0.757,
+            "width": 0.1454,
+            "height": 0.0258
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "Half-life",
+          "bbox": {
+            "x_min": 0.1082,
+            "y_min": 0.7682,
+            "x_max": 0.1768,
+            "y_max": 0.7763,
+            "width": 0.0686,
+            "height": 0.0082
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "Mean life",
+          "bbox": {
+            "x_min": 0.1082,
+            "y_min": 0.8366,
+            "x_max": 0.1879,
+            "y_max": 0.8452,
+            "width": 0.0797,
+            "height": 0.0086
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "[T-]",
+          "bbox": {
+            "x_min": 0.427,
+            "y_min": 0.7295,
+            "x_max": 0.4578,
+            "y_max": 0.7406,
+            "width": 0.0308,
+            "height": 0.0112
+          },
+          "confidence": 0.8071
+        },
+        {
+          "text": "-1",
+          "bbox": {
+            "x_min": 0.5684,
+            "y_min": 0.729,
+            "x_max": 0.5782,
+            "y_max": 0.7333,
+            "width": 0.0099,
+            "height": 0.0043
+          },
+          "confidence": 0.9114
+        },
+        {
+          "text": "s",
+          "bbox": {
+            "x_min": 0.5585,
+            "y_min": 0.7329,
+            "x_max": 0.5718,
+            "y_max": 0.7394,
+            "width": 0.0134,
+            "height": 0.0065
+          },
+          "confidence": 0.819
+        },
+        {
+          "text": "T",
+          "bbox": {
+            "x_min": 0.3112,
+            "y_min": 0.7686,
+            "x_max": 0.3275,
+            "y_max": 0.7772,
+            "width": 0.0163,
+            "height": 0.0086
+          },
+          "confidence": 0.8161
+        },
+        {
+          "text": "[T]",
+          "bbox": {
+            "x_min": 0.4305,
+            "y_min": 0.7677,
+            "x_max": 0.4549,
+            "y_max": 0.7785,
+            "width": 0.0244,
+            "height": 0.0108
+          },
+          "confidence": 0.9096
+        },
+        {
+          "text": "S",
+          "bbox": {
+            "x_min": 0.5649,
+            "y_min": 0.7712,
+            "x_max": 0.5753,
+            "y_max": 0.7768,
+            "width": 0.0105,
+            "height": 0.0056
+          },
+          "confidence": 0.9585
+        },
+        {
+          "text": "1/2",
+          "bbox": {
+            "x_min": 0.3234,
+            "y_min": 0.7759,
+            "x_max": 0.3421,
+            "y_max": 0.7815,
+            "width": 0.0186,
+            "height": 0.0056
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "τ",
+          "bbox": {
+            "x_min": 0.3223,
+            "y_min": 0.84,
+            "x_max": 0.331,
+            "y_max": 0.8452,
+            "width": 0.0087,
+            "height": 0.0052
+          },
+          "confidence": 0.9337
+        },
+        {
+          "text": "[T]",
+          "bbox": {
+            "x_min": 0.4311,
+            "y_min": 0.8361,
+            "x_max": 0.4538,
+            "y_max": 0.8469,
+            "width": 0.0227,
+            "height": 0.0108
+          },
+          "confidence": 0.9312
+        },
+        {
+          "text": "S",
+          "bbox": {
+            "x_min": 0.5649,
+            "y_min": 0.8396,
+            "x_max": 0.5748,
+            "y_max": 0.8452,
+            "width": 0.0099,
+            "height": 0.0056
+          },
+          "confidence": 0.9578
+        },
+        {
+          "text": "Activity of a radio-\nactive sample",
+          "bbox": {
+            "x_min": 0.1088,
+            "y_min": 0.8895,
+            "x_max": 0.2653,
+            "y_max": 0.9161,
+            "width": 0.1565,
+            "height": 0.0267
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "R",
+          "bbox": {
+            "x_min": 0.3194,
+            "y_min": 0.8908,
+            "x_max": 0.3357,
+            "y_max": 0.8989,
+            "width": 0.0163,
+            "height": 0.0082
+          },
+          "confidence": 0.9687
+        },
+        {
+          "text": "[T]",
+          "bbox": {
+            "x_min": 0.4282,
+            "y_min": 0.889,
+            "x_max": 0.4578,
+            "y_max": 0.9002,
+            "width": 0.0297,
+            "height": 0.0112
+          },
+          "confidence": 0.8773
+        },
+        {
+          "text": "Bq",
+          "bbox": {
+            "x_min": 0.5567,
+            "y_min": 0.8908,
+            "x_max": 0.5841,
+            "y_max": 0.9006,
+            "width": 0.0273,
+            "height": 0.0099
+          },
+          "confidence": 0.9504
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9821
+        },
+        {
+          "text": "Nuclei",
+          "bbox": {
+            "x_min": 0.6992,
+            "y_min": 0.0955,
+            "x_max": 0.7801,
+            "y_max": 0.1105,
+            "width": 0.0809,
+            "height": 0.0151
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "used",
+          "bbox": {
+            "x_min": 0.6574,
+            "y_min": 0.3058,
+            "x_max": 0.8732,
+            "y_max": 0.4753,
+            "width": 0.2158,
+            "height": 0.1695
+          },
+          "confidence": 0.767
+        },
+        {
+          "text": "Remarks",
+          "bbox": {
+            "x_min": 0.7161,
+            "y_min": 0.6116,
+            "x_max": 0.801,
+            "y_max": 0.6211,
+            "width": 0.0849,
+            "height": 0.0095
+          },
+          "confidence": 0.9848
+        },
+        {
+          "text": "Unit of mass for\nexpressing atomic or\nnuclear masses. One\natomic mass unit equals\n1/12th of the mass of 12C",
+          "bbox": {
+            "x_min": 0.6591,
+            "y_min": 0.64,
+            "x_max": 0.872,
+            "y_max": 0.7101,
+            "width": 0.2129,
+            "height": 0.0701
+          },
+          "confidence": 0.9839
+        },
+        {
+          "text": "atom.",
+          "bbox": {
+            "x_min": 0.6603,
+            "y_min": 0.7157,
+            "x_max": 0.7051,
+            "y_max": 0.7239,
+            "width": 0.0448,
+            "height": 0.0082
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "Time taken for the decay\nof one-half of the initial\nnumber of nuclei present\nin a radioactive sample.",
+          "bbox": {
+            "x_min": 0.6597,
+            "y_min": 0.7686,
+            "x_max": 0.9029,
+            "y_max": 0.8249,
+            "width": 0.2432,
+            "height": 0.0563
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "Time at which number of\nnuclei has been reduced to\ne¯¹ of its initial value",
+          "bbox": {
+            "x_min": 0.6591,
+            "y_min": 0.8366,
+            "x_max": 0.8935,
+            "y_max": 0.8757,
+            "width": 0.2344,
+            "height": 0.0391
+          },
+          "confidence": 0.9735
+        },
+        {
+          "text": "Measure of the activity\nof a radioactive source.",
+          "bbox": {
+            "x_min": 0.6597,
+            "y_min": 0.8895,
+            "x_max": 0.9034,
+            "y_max": 0.9144,
+            "width": 0.2437,
+            "height": 0.0249
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "319",
+          "bbox": {
+            "x_min": 0.865,
+            "y_min": 0.9389,
+            "x_max": 0.9011,
+            "y_max": 0.9492,
+            "width": 0.0361,
+            "height": 0.0103
+          },
+          "confidence": 0.9912
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "■ Physics",
+          "bbox": {
+            "x_min": 0.1437,
+            "y_min": 0.0925,
+            "x_max": 0.3112,
+            "y_max": 0.1148,
+            "width": 0.1675,
+            "height": 0.0224
+          },
+          "confidence": 0.9045
+        },
+        {
+          "text": "320",
+          "bbox": {
+            "x_min": 0.0971,
+            "y_min": 0.9394,
+            "x_max": 0.1355,
+            "y_max": 0.9484,
+            "width": 0.0384,
+            "height": 0.009
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "POINTS TO PONDER",
+          "bbox": {
+            "x_min": 0.5207,
+            "y_min": 0.1488,
+            "x_max": 0.7167,
+            "y_max": 0.1587,
+            "width": 0.196,
+            "height": 0.0099
+          },
+          "confidence": 0.9559
+        },
+        {
+          "text": "1. The density of nuclear matter is independent of the size of the nucleus.\nThe mass density of the atom does not follow this rule.",
+          "bbox": {
+            "x_min": 0.3182,
+            "y_min": 0.1729,
+            "x_max": 0.8866,
+            "y_max": 0.1991,
+            "width": 0.5684,
+            "height": 0.0262
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "2. The radius of a nucleus determined by electron scattering is found to\nbe slightly different from that determined by alpha-particle scattering.\nThis is because electron scattering senses the charge distribution of\nthe nucleus, whereas alpha and similar particles sense the nuclear\nmatter.",
+          "bbox": {
+            "x_min": 0.3165,
+            "y_min": 0.2047,
+            "x_max": 0.8889,
+            "y_max": 0.2723,
+            "width": 0.5724,
+            "height": 0.0675
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "3. After Einstein showed the equivalence of mass and energy, E = mc²,\nwe cannot any longer speak of separate laws of conservation of mass\nand conservation of energy, but we have to speak of a unified law of\nconservation of mass and energy. The most convincing evidence that\nthis principle operates in nature comes from nuclear physics. It is\ncentral to our understanding of nuclear energy and harnessing it as a\nsource of power. Using the principle, Q of a nuclear process (decay or\nreaction) can be expressed also in terms of initial and final masses.",
+          "bbox": {
+            "x_min": 0.3176,
+            "y_min": 0.2791,
+            "x_max": 0.8883,
+            "y_max": 0.3966,
+            "width": 0.5707,
+            "height": 0.1174
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "4. The nature of the binding energy (per nucleon) curve shows that\nexothermic nuclear reactions are possible, when two light nuclei fuse\nor when a heavy nucleus undergoes fission into nuclei with intermediate",
+          "bbox": {
+            "x_min": 0.3159,
+            "y_min": 0.4026,
+            "x_max": 0.8871,
+            "y_max": 0.4447,
+            "width": 0.5713,
+            "height": 0.0422
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "mass.",
+          "bbox": {
+            "x_min": 0.3479,
+            "y_min": 0.4512,
+            "x_max": 0.3903,
+            "y_max": 0.4568,
+            "width": 0.0425,
+            "height": 0.0056
+          },
+          "confidence": 0.9858
+        },
+        {
+          "text": "5. For fusion, the light nuclei must have sufficient initial energy to\novercome the coulomb potential barrier. That is why fusion requires\nvery high temperatures.",
+          "bbox": {
+            "x_min": 0.317,
+            "y_min": 0.4658,
+            "x_max": 0.8871,
+            "y_max": 0.5071,
+            "width": 0.5701,
+            "height": 0.0413
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "6. Although the binding energy (per nucleon) curve is smooth and slowly\nvarying, it shows peaks at nuclides like “He, 16O etc. This is considered\nas evidence of atom-like shell structure in nuclei.",
+          "bbox": {
+            "x_min": 0.3165,
+            "y_min": 0.5127,
+            "x_max": 0.8877,
+            "y_max": 0.5527,
+            "width": 0.5713,
+            "height": 0.04
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "C",
+          "bbox": {
+            "x_min": 0.3048,
+            "y_min": 0.5798,
+            "x_max": 0.3496,
+            "y_max": 0.6159,
+            "width": 0.0448,
+            "height": 0.0361
+          },
+          "confidence": 0.758
+        },
+        {
+          "text": "7. Electron and positron are a particle-antiparticle pair. They are identical\nin mass; their charges are equal in magnitude and opposite. (It is\nfound that when an electron and a positron come together, they\nannihilate each other giving energy in the form of gamma-ray photons.)\n8. Radioactivity is an indication of the instability of nuclei. Stability\nrequires the ratio of neutron to proton to be around 1:1 for light\nnuclei. This ratio increases to about 3:2 for heavy nuclei. (More\nneutrons are required to overcome the effect of repulsion among the\nprotons.) Nuclei which are away from the stability ratio, i.e., nuclei\nwhich have an excess of neutrons or protons are unstable. In fact,\nonly about 10% of knon isotopes (of all elements), are stable. Others\nhave been either artificially produced in the laboratory by bombarding\na, p, d, n or other particles on targets of stable nuclear species or\nidentified in astronomical observations of matter in the universe.",
+          "bbox": {
+            "x_min": 0.3165,
+            "y_min": 0.5617,
+            "x_max": 0.8883,
+            "y_max": 0.7669,
+            "width": 0.5718,
+            "height": 0.2052
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "not t",
+          "bbox": {
+            "x_min": 0.1949,
+            "y_min": 0.6783,
+            "x_max": 0.3671,
+            "y_max": 0.8138,
+            "width": 0.1722,
+            "height": 0.1355
+          },
+          "confidence": 0.9161
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9738,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.009
+          },
+          "confidence": 0.9816
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "EXERCISES",
+          "bbox": {
+            "x_min": 0.3136,
+            "y_min": 0.1363,
+            "x_max": 0.4823,
+            "y_max": 0.1518,
+            "width": 0.1687,
+            "height": 0.0155
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "You may find the following data useful in solving the exercises:",
+          "bbox": {
+            "x_min": 0.0791,
+            "y_min": 0.1785,
+            "x_max": 0.6178,
+            "y_max": 0.1914,
+            "width": 0.5387,
+            "height": 0.0129
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "e",
+          "bbox": {
+            "x_min": 0.2385,
+            "y_min": 0.2004,
+            "x_max": 0.2513,
+            "y_max": 0.2065,
+            "width": 0.0128,
+            "height": 0.006
+          },
+          "confidence": 0.9439
+        },
+        {
+          "text": "= 1.6×10-19C",
+          "bbox": {
+            "x_min": 0.2606,
+            "y_min": 0.194,
+            "x_max": 0.3665,
+            "y_max": 0.2073,
+            "width": 0.1059,
+            "height": 0.0133
+          },
+          "confidence": 0.9047
+        },
+        {
+          "text": "1/(4πε) = 9 × 10° N m²/C2",
+          "bbox": {
+            "x_min": 0.1885,
+            "y_min": 0.209,
+            "x_max": 0.402,
+            "y_max": 0.2245,
+            "width": 0.2135,
+            "height": 0.0155
+          },
+          "confidence": 0.8786
+        },
+        {
+          "text": "1 MeV = 1.6×10-13J",
+          "bbox": {
+            "x_min": 0.1995,
+            "y_min": 0.2404,
+            "x_max": 0.3636,
+            "y_max": 0.2533,
+            "width": 0.164,
+            "height": 0.0129
+          },
+          "confidence": 0.9427
+        },
+        {
+          "text": "N",
+          "bbox": {
+            "x_min": 0.4631,
+            "y_min": 0.1978,
+            "x_max": 0.4828,
+            "y_max": 0.206,
+            "width": 0.0198,
+            "height": 0.0082
+          },
+          "confidence": 0.9489
+        },
+        {
+          "text": "= 6.023×1023 per mole",
+          "bbox": {
+            "x_min": 0.4985,
+            "y_min": 0.194,
+            "x_max": 0.6864,
+            "y_max": 0.209,
+            "width": 0.1879,
+            "height": 0.0151
+          },
+          "confidence": 0.9609
+        },
+        {
+          "text": "k",
+          "bbox": {
+            "x_min": 0.4666,
+            "y_min": 0.2103,
+            "x_max": 0.4782,
+            "y_max": 0.2215,
+            "width": 0.0116,
+            "height": 0.0112
+          },
+          "confidence": 0.8878
+        },
+        {
+          "text": "= 1.381×10-23JK-1",
+          "bbox": {
+            "x_min": 0.498,
+            "y_min": 0.2099,
+            "x_max": 0.6399,
+            "y_max": 0.2211,
+            "width": 0.1419,
+            "height": 0.0112
+          },
+          "confidence": 0.9272
+        },
+        {
+          "text": "1 u = 931.5 MeV/c²",
+          "bbox": {
+            "x_min": 0.4689,
+            "y_min": 0.2396,
+            "x_max": 0.6294,
+            "y_max": 0.2538,
+            "width": 0.1606,
+            "height": 0.0142
+          },
+          "confidence": 0.9344
+        },
+        {
+          "text": "1 year = 3.154×107 s",
+          "bbox": {
+            "x_min": 0.1978,
+            "y_min": 0.2546,
+            "x_max": 0.3758,
+            "y_max": 0.2692,
+            "width": 0.178,
+            "height": 0.0146
+          },
+          "confidence": 0.9563
+        },
+        {
+          "text": "MH",
+          "bbox": {
+            "x_min": 0.2263,
+            "y_min": 0.2903,
+            "x_max": 0.249,
+            "y_max": 0.3019,
+            "width": 0.0227,
+            "height": 0.0116
+          },
+          "confidence": 0.4928
+        },
+        {
+          "text": "= 1.007825 u",
+          "bbox": {
+            "x_min": 0.2612,
+            "y_min": 0.2873,
+            "x_max": 0.3729,
+            "y_max": 0.2976,
+            "width": 0.1117,
+            "height": 0.0103
+          },
+          "confidence": 0.9643
+        },
+        {
+          "text": "m",
+          "bbox": {
+            "x_min": 0.4631,
+            "y_min": 0.2908,
+            "x_max": 0.4834,
+            "y_max": 0.3002,
+            "width": 0.0204,
+            "height": 0.0095
+          },
+          "confidence": 0.7878
+        },
+        {
+          "text": "= 1.008665 u",
+          "bbox": {
+            "x_min": 0.4991,
+            "y_min": 0.2873,
+            "x_max": 0.6108,
+            "y_max": 0.2972,
+            "width": 0.1117,
+            "height": 0.0099
+          },
+          "confidence": 0.9543
+        },
+        {
+          "text": "m",
+          "bbox": {
+            "x_min": 0.4631,
+            "y_min": 0.3114,
+            "x_max": 0.4881,
+            "y_max": 0.32,
+            "width": 0.025,
+            "height": 0.0086
+          },
+          "confidence": 0.9167
+        },
+        {
+          "text": "= 0.000548 u",
+          "bbox": {
+            "x_min": 0.4985,
+            "y_min": 0.3088,
+            "x_max": 0.6108,
+            "y_max": 0.3178,
+            "width": 0.1123,
+            "height": 0.009
+          },
+          "confidence": 0.9602
+        },
+        {
+          "text": "Nuclei",
+          "bbox": {
+            "x_min": 0.7004,
+            "y_min": 0.0955,
+            "x_max": 0.7801,
+            "y_max": 0.1114,
+            "width": 0.0797,
+            "height": 0.0159
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "13.1",
+          "bbox": {
+            "x_min": 0.0797,
+            "y_min": 0.3342,
+            "x_max": 0.1216,
+            "y_max": 0.3424,
+            "width": 0.0419,
+            "height": 0.0082
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "m(He) = 4.002603 u",
+          "bbox": {
+            "x_min": 0.1873,
+            "y_min": 0.3084,
+            "x_max": 0.3735,
+            "y_max": 0.3204,
+            "width": 0.1862,
+            "height": 0.012
+          },
+          "confidence": 0.9341
+        },
+        {
+          "text": "Obtain the binding energy (in MeV) of a nitrogen nucleus (N),\ngiven m (N)=14.00307 u",
+          "bbox": {
+            "x_min": 0.1437,
+            "y_min": 0.329,
+            "x_max": 0.7126,
+            "y_max": 0.3647,
+            "width": 0.5689,
+            "height": 0.0357
+          },
+          "confidence": 0.9764
+        },
+        {
+          "text": "13.2 Obtain the binding energy of the nuclei 56 Fe and 209 Bi in units of",
+          "bbox": {
+            "x_min": 0.0814,
+            "y_min": 0.3708,
+            "x_max": 0.7161,
+            "y_max": 0.3854,
+            "width": 0.6347,
+            "height": 0.0146
+          },
+          "confidence": 0.9677
+        },
+        {
+          "text": "MeV from the following data:",
+          "bbox": {
+            "x_min": 0.1425,
+            "y_min": 0.3892,
+            "x_max": 0.3869,
+            "y_max": 0.4009,
+            "width": 0.2443,
+            "height": 0.0116
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "m (Fe) = 55.934939 u",
+          "bbox": {
+            "x_min": 0.1437,
+            "y_min": 0.4095,
+            "x_max": 0.3409,
+            "y_max": 0.4206,
+            "width": 0.1972,
+            "height": 0.0112
+          },
+          "confidence": 0.93
+        },
+        {
+          "text": "26",
+          "bbox": {
+            "x_min": 0.4892,
+            "y_min": 0.3802,
+            "x_max": 0.5038,
+            "y_max": 0.3854,
+            "width": 0.0145,
+            "height": 0.0052
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "83",
+          "bbox": {
+            "x_min": 0.58,
+            "y_min": 0.3806,
+            "x_max": 0.5945,
+            "y_max": 0.3854,
+            "width": 0.0145,
+            "height": 0.0047
+          },
+          "confidence": 0.9854
+        },
+        {
+          "text": "m (209 Bi) = 208.980388 u",
+          "bbox": {
+            "x_min": 0.3874,
+            "y_min": 0.4077,
+            "x_max": 0.6003,
+            "y_max": 0.4202,
+            "width": 0.2129,
+            "height": 0.0125
+          },
+          "confidence": 0.9125
+        },
+        {
+          "text": "83",
+          "bbox": {
+            "x_min": 0.4183,
+            "y_min": 0.4172,
+            "x_max": 0.4346,
+            "y_max": 0.4219,
+            "width": 0.0163,
+            "height": 0.0047
+          },
+          "confidence": 0.9859
+        },
+        {
+          "text": "13.3 A given coin has a mass of 3.0 g. Calculate the nuclear energy that\nwould be required to separate all the neutrons and protons from\neach other. For simplicity assume that the coin is entirely made of",
+          "bbox": {
+            "x_min": 0.0814,
+            "y_min": 0.428,
+            "x_max": 0.7161,
+            "y_max": 0.4714,
+            "width": 0.6347,
+            "height": 0.0434
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "29",
+          "bbox": {
+            "x_min": 0.1449,
+            "y_min": 0.4834,
+            "x_max": 0.16,
+            "y_max": 0.489,
+            "width": 0.0151,
+            "height": 0.0056
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "Cu atoms (of mass 62.92960 น).",
+          "bbox": {
+            "x_min": 0.16,
+            "y_min": 0.4753,
+            "x_max": 0.4322,
+            "y_max": 0.4873,
+            "width": 0.2723,
+            "height": 0.012
+          },
+          "confidence": 0.9616
+        },
+        {
+          "text": "13.4 Obtain approximately the ratio of the nuclear radii of the gold isotope",
+          "bbox": {
+            "x_min": 0.0814,
+            "y_min": 0.4955,
+            "x_max": 0.715,
+            "y_max": 0.5075,
+            "width": 0.6335,
+            "height": 0.012
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "197 Au and the silver isotope 107 Ag.",
+          "bbox": {
+            "x_min": 0.1449,
+            "y_min": 0.511,
+            "x_max": 0.4392,
+            "y_max": 0.5252,
+            "width": 0.2944,
+            "height": 0.0142
+          },
+          "confidence": 0.9366
+        },
+        {
+          "text": "to bevepubished",
+          "bbox": {
+            "x_min": 0.2624,
+            "y_min": 0.3058,
+            "x_max": 0.9029,
+            "y_max": 0.7286,
+            "width": 0.6405,
+            "height": 0.4228
+          },
+          "confidence": 0.7059
+        },
+        {
+          "text": "47",
+          "bbox": {
+            "x_min": 0.3915,
+            "y_min": 0.52,
+            "x_max": 0.4084,
+            "y_max": 0.526,
+            "width": 0.0169,
+            "height": 0.006
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "13.5 The value of a nuclear reaction A + b → C + d is defined by",
+          "bbox": {
+            "x_min": 0.0814,
+            "y_min": 0.5308,
+            "x_max": 0.6649,
+            "y_max": 0.5437,
+            "width": 0.5835,
+            "height": 0.0129
+          },
+          "confidence": 0.9836
+        },
+        {
+          "text": "Q = [ m₄ + m − m – målc²",
+          "bbox": {
+            "x_min": 0.1454,
+            "y_min": 0.5471,
+            "x_max": 0.356,
+            "y_max": 0.5639,
+            "width": 0.2106,
+            "height": 0.0168
+          },
+          "confidence": 0.6736
+        },
+        {
+          "text": "where the masses refer to the respective nuclei. Determine from the\ngiven data the Q-value of the following reactions and state whether\nthe reactions are exothermic or endothermic.",
+          "bbox": {
+            "x_min": 0.1396,
+            "y_min": 0.5682,
+            "x_max": 0.7144,
+            "y_max": 0.6077,
+            "width": 0.5748,
+            "height": 0.0396
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "(i) H+H → H+H",
+          "bbox": {
+            "x_min": 0.1449,
+            "y_min": 0.6219,
+            "x_max": 0.2961,
+            "y_max": 0.6331,
+            "width": 0.1513,
+            "height": 0.0112
+          },
+          "confidence": 0.7482
+        },
+        {
+          "text": "(ii) 12C+C→20 Ne+He",
+          "bbox": {
+            "x_min": 0.1437,
+            "y_min": 0.6495,
+            "x_max": 0.3328,
+            "y_max": 0.6624,
+            "width": 0.1891,
+            "height": 0.0129
+          },
+          "confidence": 0.7886
+        },
+        {
+          "text": "Atomic masses are given to be",
+          "bbox": {
+            "x_min": 0.1425,
+            "y_min": 0.6723,
+            "x_max": 0.4026,
+            "y_max": 0.6839,
+            "width": 0.26,
+            "height": 0.0116
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "m (H) = 2.014102 u",
+          "bbox": {
+            "x_min": 0.1419,
+            "y_min": 0.6925,
+            "x_max": 0.3205,
+            "y_max": 0.7041,
+            "width": 0.1786,
+            "height": 0.0116
+          },
+          "confidence": 0.9557
+        },
+        {
+          "text": "m (H) = 3.016049 u",
+          "bbox": {
+            "x_min": 0.1419,
+            "y_min": 0.7105,
+            "x_max": 0.32,
+            "y_max": 0.7226,
+            "width": 0.178,
+            "height": 0.012
+          },
+          "confidence": 0.9202
+        },
+        {
+          "text": "m (C) = 12.000000 u",
+          "bbox": {
+            "x_min": 0.1443,
+            "y_min": 0.7295,
+            "x_max": 0.3345,
+            "y_max": 0.7406,
+            "width": 0.1902,
+            "height": 0.0112
+          },
+          "confidence": 0.9373
+        },
+        {
+          "text": "m (20Ne) = 19.992439 u",
+          "bbox": {
+            "x_min": 0.1449,
+            "y_min": 0.7471,
+            "x_max": 0.3432,
+            "y_max": 0.7596,
+            "width": 0.1984,
+            "height": 0.0125
+          },
+          "confidence": 0.8982
+        },
+        {
+          "text": "13",
+          "bbox": {
+            "x_min": 0.2472,
+            "y_min": 0.7953,
+            "x_max": 0.26,
+            "y_max": 0.8,
+            "width": 0.0128,
+            "height": 0.0047
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "26",
+          "bbox": {
+            "x_min": 0.4584,
+            "y_min": 0.7768,
+            "x_max": 0.4735,
+            "y_max": 0.7819,
+            "width": 0.0151,
+            "height": 0.0052
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "13.6 Suppose, we think of fission of a 56 Fe nucleus into two equal\nfragments, 28 Al. Is the fission energetically possible? Argue by\nworking out of the process. Given m (Fe) = 55.93494 u and\nm (Al) = 27.98191 u.",
+          "bbox": {
+            "x_min": 0.0814,
+            "y_min": 0.7677,
+            "x_max": 0.715,
+            "y_max": 0.8348,
+            "width": 0.6335,
+            "height": 0.0671
+          },
+          "confidence": 0.9699
+        },
+        {
+          "text": "28",
+          "bbox": {
+            "x_min": 0.1693,
+            "y_min": 0.8224,
+            "x_max": 0.1867,
+            "y_max": 0.8275,
+            "width": 0.0175,
+            "height": 0.0052
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "321",
+          "bbox": {
+            "x_min": 0.8639,
+            "y_min": 0.9398,
+            "x_max": 0.9023,
+            "y_max": 0.9484,
+            "width": 0.0384,
+            "height": 0.0086
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9733,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.0095
+          },
+          "confidence": 0.9816
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "dimension": {
+        "width": 1719.0,
+        "height": 2325.0
+      },
+      "paragraphs": [
+        {
+          "text": "Physics",
+          "bbox": {
+            "x_min": 0.196,
+            "y_min": 0.0925,
+            "x_max": 0.3118,
+            "y_max": 0.1157,
+            "width": 0.1158,
+            "height": 0.0232
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "94",
+          "bbox": {
+            "x_min": 0.559,
+            "y_min": 0.1445,
+            "x_max": 0.5753,
+            "y_max": 0.151,
+            "width": 0.0163,
+            "height": 0.0065
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "13.7 The fission properties of 239 Pu are very similar to those of 235 U. The\naverage energy released per fission is 180 MeV. How much energy,\nin MeV, is released if all the atoms in 1 kg of pure 239 Pu undergo\nfission?",
+          "bbox": {
+            "x_min": 0.2856,
+            "y_min": 0.1359,
+            "x_max": 0.9191,
+            "y_max": 0.1957,
+            "width": 0.6335,
+            "height": 0.0598
+          },
+          "confidence": 0.9846
+        },
+        {
+          "text": "94",
+          "bbox": {
+            "x_min": 0.7999,
+            "y_min": 0.1785,
+            "x_max": 0.815,
+            "y_max": 0.1837,
+            "width": 0.0151,
+            "height": 0.0052
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "13.8 How long can an electric lamp of 100W be kept glowing by fusion of\n2.0 kg of deuterium? Take the fusion reaction as",
+          "bbox": {
+            "x_min": 0.2862,
+            "y_min": 0.2052,
+            "x_max": 0.9203,
+            "y_max": 0.2323,
+            "width": 0.6341,
+            "height": 0.0271
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "H+H→He+n+3.27 MeV",
+          "bbox": {
+            "x_min": 0.3583,
+            "y_min": 0.2456,
+            "x_max": 0.5742,
+            "y_max": 0.2551,
+            "width": 0.2158,
+            "height": 0.0095
+          },
+          "confidence": 0.9172
+        },
+        {
+          "text": "13.9 Calculate the height of the potential barrier for a head on collision\nof two deuterons. (Hint: The height of the potential barrier is given\nby the Coulomb repulsion between the two deuterons when they\njust touch each other. Assume that they can be taken as hard\nspheres of radius 2.0 fm.)",
+          "bbox": {
+            "x_min": 0.2862,
+            "y_min": 0.2658,
+            "x_max": 0.9203,
+            "y_max": 0.3385,
+            "width": 0.6341,
+            "height": 0.0727
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "13.10 From the relation R = RA1/3, where R is a constant and A is the\nmass number of a nucleus, show that the nuclear matter\nnearly constant (i.e. independent of A).",
+          "bbox": {
+            "x_min": 0.285,
+            "y_min": 0.3428,
+            "x_max": 0.9191,
+            "y_max": 0.3875,
+            "width": 0.6341,
+            "height": 0.0447
+          },
+          "confidence": 0.9818
+        },
+        {
+          "text": "is",
+          "bbox": {
+            "x_min": 0.9058,
+            "y_min": 0.3596,
+            "x_max": 0.9186,
+            "y_max": 0.372,
+            "width": 0.0128,
+            "height": 0.0125
+          },
+          "confidence": 0.9976
+        },
+        {
+          "text": "© NCERT",
+          "bbox": {
+            "x_min": 0.2944,
+            "y_min": 0.397,
+            "x_max": 0.6108,
+            "y_max": 0.6245,
+            "width": 0.3165,
+            "height": 0.2275
+          },
+          "confidence": 0.8909
+        },
+        {
+          "text": "not to be republished",
+          "bbox": {
+            "x_min": 0.1815,
+            "y_min": 0.3105,
+            "x_max": 0.8755,
+            "y_max": 0.8185,
+            "width": 0.694,
+            "height": 0.508
+          },
+          "confidence": 0.93
+        },
+        {
+          "text": "322",
+          "bbox": {
+            "x_min": 0.0977,
+            "y_min": 0.9394,
+            "x_max": 0.1332,
+            "y_max": 0.9488,
+            "width": 0.0355,
+            "height": 0.0095
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4497,
+            "y_min": 0.9738,
+            "x_max": 0.5497,
+            "y_max": 0.9828,
+            "width": 0.1001,
+            "height": 0.009
+          },
+          "confidence": 0.9816
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

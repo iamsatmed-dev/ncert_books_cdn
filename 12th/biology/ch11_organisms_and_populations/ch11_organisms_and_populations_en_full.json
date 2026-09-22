@@ -1,0 +1,3037 @@
+{
+  "chapter_id": "12th_biology_ch11_organisms_and_populations_ch11_organisms_and_populations_en",
+  "total_pages": 17,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "UNIT X",
+          "bbox": {
+            "x_min": 0.0409,
+            "y_min": 0.2434,
+            "x_max": 0.2055,
+            "y_max": 0.2751,
+            "width": 0.1646,
+            "height": 0.0317
+          },
+          "confidence": 0.9785
+        },
+        {
+          "text": "ECOLOGY",
+          "bbox": {
+            "x_min": 0.042,
+            "y_min": 0.2948,
+            "x_max": 0.3742,
+            "y_max": 0.3325,
+            "width": 0.3322,
+            "height": 0.0377
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "Chapter 11",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.3753,
+            "x_max": 0.1623,
+            "y_max": 0.3882,
+            "width": 0.0911,
+            "height": 0.0129
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "Organisms and Populations",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.3929,
+            "x_max": 0.303,
+            "y_max": 0.4062,
+            "width": 0.2294,
+            "height": 0.0133
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "Chapter 12\nEcosystem",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.4289,
+            "x_max": 0.167,
+            "y_max": 0.4589,
+            "width": 0.0952,
+            "height": 0.03
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "Chapter 13",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.4824,
+            "x_max": 0.1658,
+            "y_max": 0.4949,
+            "width": 0.094,
+            "height": 0.0124
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "Biodiversity and Conservation",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.5004,
+            "x_max": 0.3211,
+            "y_max": 0.5129,
+            "width": 0.2464,
+            "height": 0.0124
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "C",
+          "bbox": {
+            "x_min": 0.3076,
+            "y_min": 0.5741,
+            "x_max": 0.3713,
+            "y_max": 0.6165,
+            "width": 0.0636,
+            "height": 0.0424
+          },
+          "confidence": 0.7259
+        },
+        {
+          "text": "Diversity is not only a characteristic of living organisms but\nalso of content in biology textbooks. Biology is presented either\nas botany, zoology and microbiology or as classical and\nmodern. The latter is a euphemism for molecular aspects of\nbiology. Luckily we have many threads which weave the\ndifferent areas of biological information into a unifying\nprinciple. Ecology is one such thread which gives us a holistic\nperspective to biology. The essence of biological understanding\nis to know how organisms, while remaining an individual,\ninteract with other organisms and physical habitats as a group\nand hence behave like organised wholes, i.e., population,\ncommunity, ecosystem or even as the whole biosphere.\nEcology explains to us all this. A particular aspect of this is the\nstudy of anthropogenic environmental degradation and the\nsocio-political issues it has raised. This unit describes as well as\ntakes a critical view of the above aspects.",
+          "bbox": {
+            "x_min": 0.3894,
+            "y_min": 0.3676,
+            "x_max": 0.8984,
+            "y_max": 0.6478,
+            "width": 0.509,
+            "height": 0.2802
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "not to",
+          "bbox": {
+            "x_min": 0.1862,
+            "y_min": 0.6538,
+            "x_max": 0.411,
+            "y_max": 0.8119,
+            "width": 0.2248,
+            "height": 0.1581
+          },
+          "confidence": 0.9431
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "RAMDEO MISRA\n(1908-1998)",
+          "bbox": {
+            "x_min": 0.1489,
+            "y_min": 0.5107,
+            "x_max": 0.2528,
+            "y_max": 0.5356,
+            "width": 0.1039,
+            "height": 0.0249
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "Ramdeo Misra is revered as the Father of Ecology in India. Born on 26 August\n1908, Ramdeo Misra obtained Ph.D in Ecology (1937) under Prof. W. H. Pearsall,\nFRS, from Leeds University in UK. He established teaching and research in\necology at the Department of Botany of the Banaras Hindu University,\nVaranasi. His research laid the foundations for understanding of tropical\ncommunities and their succession, environmental responses of plant\npopulations and productivity and nutrient cycling in tropical forest and\ngrassland ecosystems. Misra formulated the first postgraduate course in\necology in India. Over 50 scholars obtained Ph. D degree under his supervision\nand moved on to other universities and research institutes to initiate ecology\nteaching and research across the country.",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.3029,
+            "x_max": 0.9264,
+            "y_max": 0.4931,
+            "width": 0.6258,
+            "height": 0.1902
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "He was honoured with the Fellowships of the Indian National Science\nAcademy and World Academy of Arts and Science, and the prestigious Sanjay\nGandhi Award in Environment and Ecology. Due to his efforts, the\nGovernment of India established the National Committee for Environmental\nPlanning and Coordination (1972) which, in later years, paved the way\nfor the establishment of the Ministry of Environment and Forests (1984).",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.4987,
+            "x_max": 0.927,
+            "y_max": 0.6003,
+            "width": 0.6264,
+            "height": 0.1015
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1886,
+            "y_min": 0.7057,
+            "x_max": 0.3316,
+            "y_max": 0.8111,
+            "width": 0.143,
+            "height": 0.1054
+          },
+          "confidence": 0.9769
+        },
+        {
+          "text": "to b",
+          "bbox": {
+            "x_min": 0.2995,
+            "y_min": 0.6071,
+            "x_max": 0.4676,
+            "y_max": 0.7254,
+            "width": 0.1681,
+            "height": 0.1183
+          },
+          "confidence": 0.85
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "CHAPTER 11",
+          "bbox": {
+            "x_min": 0.1039,
+            "y_min": 0.2138,
+            "x_max": 0.3567,
+            "y_max": 0.2395,
+            "width": 0.2528,
+            "height": 0.0257
+          },
+          "confidence": 0.9833
+        },
+        {
+          "text": "12083CH13",
+          "bbox": {
+            "x_min": 0.5972,
+            "y_min": 0.2318,
+            "x_max": 0.6416,
+            "y_max": 0.2369,
+            "width": 0.0444,
+            "height": 0.0051
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "ORGANISMS AND POPULATIONS",
+          "bbox": {
+            "x_min": 0.1016,
+            "y_min": 0.2849,
+            "x_max": 0.9066,
+            "y_max": 0.3149,
+            "width": 0.805,
+            "height": 0.03
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "11.1 Populations",
+          "bbox": {
+            "x_min": 0.1168,
+            "y_min": 0.4494,
+            "x_max": 0.2604,
+            "y_max": 0.461,
+            "width": 0.1436,
+            "height": 0.0116
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "lished",
+          "bbox": {
+            "x_min": 0.6474,
+            "y_min": 0.3132,
+            "x_max": 0.8827,
+            "y_max": 0.4692,
+            "width": 0.2353,
+            "height": 0.156
+          },
+          "confidence": 0.8257
+        },
+        {
+          "text": "Our living world is fascinatingly diverse and amazingly\ncomplex. We can try to understand its complexity by\ninvestigating processes at various levels of biological\norganisation-macromolecules, cells, tissues, organs,\nindividual organisms, population, communities,\necosystems and biomes. At any level of biological\norganisation we can ask two types of questions",
+          "bbox": {
+            "x_min": 0.4372,
+            "y_min": 0.4854,
+            "x_max": 0.9276,
+            "y_max": 0.6093,
+            "width": 0.4904,
+            "height": 0.1238
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "for",
+          "bbox": {
+            "x_min": 0.9008,
+            "y_min": 0.5968,
+            "x_max": 0.9305,
+            "y_max": 0.6054,
+            "width": 0.0298,
+            "height": 0.0086
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "not to b",
+          "bbox": {
+            "x_min": 0.174,
+            "y_min": 0.6127,
+            "x_max": 0.4717,
+            "y_max": 0.8132,
+            "width": 0.2977,
+            "height": 0.2005
+          },
+          "confidence": 0.901
+        },
+        {
+          "text": "example, when we hear the bulbul singing early morning\nin the garden, we may ask – ‘How does the bird sing?'\nOr, 'Why does the bird sing?'The ‘how-type' questions\nseek the mechanism behind the process while the ‘why-\ntype' questions seek the significance of the process. For\nthe first question in our example, the answer might be in\nterms of the operation of the voice box and the vibrating\nbone in the bird, whereas for the second question the\nanswer may lie in the bird's need to communicate with its\nmate during breeding season. When you observe nature\naround you with a scientific frame of mind you will\ncertainly come up with many interesting questions of both\ntypes - Why are night-blooming flowers generally white?\nHow does the bee know which flower has nectar? Why\ndoes cactus have so many thorns? How does the chick\nspures recognise her own mother?, and so on.",
+          "bbox": {
+            "x_min": 0.4372,
+            "y_min": 0.6144,
+            "x_max": 0.9288,
+            "y_max": 0.9032,
+            "width": 0.4915,
+            "height": 0.2888
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "ORGANISMS AND POPULATIONS",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.0793,
+            "x_max": 0.2954,
+            "y_max": 0.0878,
+            "width": 0.2236,
+            "height": 0.0086
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "You have already learnt in previous classes that Ecology is a subject\nwhich studies the interactions among organisms and between the\norganism and its physical (abiotic) environment.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1135,
+            "x_max": 0.6976,
+            "y_max": 0.162,
+            "width": 0.6258,
+            "height": 0.0484
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "Ecology is basically concerned with four levels of biological\norganisation – organisms, populations, communities and biomes. In this\nchapter we explore ecology at population levels.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.1667,
+            "x_max": 0.6964,
+            "y_max": 0.2164,
+            "width": 0.6235,
+            "height": 0.0497
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "11.1 POPULATIONS",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.2279,
+            "x_max": 0.2697,
+            "y_max": 0.2404,
+            "width": 0.195,
+            "height": 0.0124
+          },
+          "confidence": 0.9853
+        },
+        {
+          "text": "11.1.1 Population Attributes",
+          "bbox": {
+            "x_min": 0.0753,
+            "y_min": 0.2596,
+            "x_max": 0.3824,
+            "y_max": 0.2738,
+            "width": 0.3071,
+            "height": 0.0141
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6883,
+            "y_min": 0.3068,
+            "x_max": 0.8722,
+            "y_max": 0.4452,
+            "width": 0.1839,
+            "height": 0.1384
+          },
+          "confidence": 0.9775
+        },
+        {
+          "text": "In nature, we rarely find isolated, single individuals of any species; majority\nof them live in groups in a well defined geographical area, share or compete\nfor similar resources, potentially interbreed and thus constitute a\npopulation. Although the term interbreeding implies sexual reproduction,\na group of individuals resulting from even asexual reproduction is also\ngenerally considered a population for the purpose of ecological studies.\nAll the cormorants in a wetland, rats in an abandoned dwelling, teakwood\ntrees in a forest tract, bacteria in a culture plate and lotus plants in a\npond, are some examples of a population. In earlier chapters you have\nlearnt that although an individual organism is the one that has to cope\nwith a changed environment, it is at the population level that natural\nselection operates to evolve the desired traits. Population ecology is,\ntherefore, an important area because it links ecology to population genetics\nand evolution.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.2815,
+            "x_max": 0.6976,
+            "y_max": 0.5244,
+            "width": 0.6258,
+            "height": 0.2429
+          },
+          "confidence": 0.9968
+        },
+        {
+          "text": "A population has certain attributes whereas, an individual organism\ndoes not. An individual may have births and deaths, but a population has\nbirth rates and death rates. In a population these rates refer to per capita\nbirths and deaths. The rates, hence, expressed are change in numbers\n(increase or decrease) with respect to members of the population. Here is an\nexample. If in a pond there were 20 lotus plants last year and through\nreproduction 8 new plants are added, taking the current population to 28,\nwe calculate the birth rate as 8/20 = 0.4 offspring per lotus per year. If 4\nindividuals in a laboratory population of 40 fruitflies died during a specified\ntime interval, say a week, the death rate in the population during that period\nis 4/40 = 0.1 individuals per fruitfly per week.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.5321,
+            "x_max": 0.6988,
+            "y_max": 0.7237,
+            "width": 0.6258,
+            "height": 0.1915
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "Another attribute characteristic of a population is sex ratio. An\nindividual is either a male or a female but a population has a sex ratio\n(e.g., 60 per cent of the population are females and 40 per cent males).",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.7284,
+            "x_max": 0.697,
+            "y_max": 0.7772,
+            "width": 0.6241,
+            "height": 0.0488
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "A population at any given time is composed of individuals of\ndifferent ages. If the age distribution (per cent individuals of a given\nage or age group) is plotted for the population, the resulting structure\nis called an age pyramid (Figure 11.1). For human population, the\nage pyramids generally show age distribution of males and females in\na diagram. The shape of the pyramids reflects the growth status of\nthe population - (a) whether it is growing, (b) stable or (c) declining.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.7819,
+            "x_max": 0.6988,
+            "y_max": 0.9019,
+            "width": 0.6258,
+            "height": 0.12
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "191",
+          "bbox": {
+            "x_min": 0.8535,
+            "y_min": 0.7918,
+            "x_max": 0.8955,
+            "y_max": 0.8055,
+            "width": 0.042,
+            "height": 0.0137
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "Post-reproductive",
+          "bbox": {
+            "x_min": 0.1967,
+            "y_min": 0.1251,
+            "x_max": 0.3322,
+            "y_max": 0.1362,
+            "width": 0.1354,
+            "height": 0.0111
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "Declining",
+          "bbox": {
+            "x_min": 0.7706,
+            "y_min": 0.1949,
+            "x_max": 0.8476,
+            "y_max": 0.2069,
+            "width": 0.0771,
+            "height": 0.012
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8634,
+            "y_min": 0.0805,
+            "x_max": 0.927,
+            "y_max": 0.0883,
+            "width": 0.0636,
+            "height": 0.0077
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "Reproductive",
+          "bbox": {
+            "x_min": 0.1938,
+            "y_min": 0.1564,
+            "x_max": 0.2989,
+            "y_max": 0.1667,
+            "width": 0.1051,
+            "height": 0.0103
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "Pre-reproductive",
+          "bbox": {
+            "x_min": 0.1956,
+            "y_min": 0.1795,
+            "x_max": 0.3269,
+            "y_max": 0.1902,
+            "width": 0.1313,
+            "height": 0.0107
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "192",
+          "bbox": {
+            "x_min": 0.1027,
+            "y_min": 0.7922,
+            "x_max": 0.1459,
+            "y_max": 0.8051,
+            "width": 0.0432,
+            "height": 0.0129
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "Expanding",
+          "bbox": {
+            "x_min": 0.3719,
+            "y_min": 0.1945,
+            "x_max": 0.4583,
+            "y_max": 0.2061,
+            "width": 0.0864,
+            "height": 0.0116
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "Stable",
+          "bbox": {
+            "x_min": 0.6147,
+            "y_min": 0.1945,
+            "x_max": 0.6632,
+            "y_max": 0.2027,
+            "width": 0.0485,
+            "height": 0.0081
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "Figure 11.1 Representation of age pyramids for human population",
+          "bbox": {
+            "x_min": 0.2703,
+            "y_min": 0.2395,
+            "x_max": 0.8336,
+            "y_max": 0.2519,
+            "width": 0.5633,
+            "height": 0.0124
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "The size of the population tells us a lot about its status in the habitat.\nWhatever ecological processes we wish to investigate in a population, be\nit the outcome of competition with another species, the impact of a\npredator or the effect of a pesticide application, we always evaluate them\nin terms of any change in the population size. The size, in nature, could\nbe as low as <10 (Siberian cranes at Bharatpur wetlands in any year) or\ngo into millions (Chlamydomonas in a pond). Population size, technically\ncalled population density (designated as N), need not necessarily be\nmeasured in numbers only. Although total number is generally the most\nappropriate measure of population density, it is in some cases either\nmeaningless or difficult to determine. In an area, if there are 200 carrot\ngrass (Parthenium hysterophorus) plants but only a single huge banyan\ntree with a large canopy, stating that the population density of banyan is\nlow relative to that of carrot grass amounts to underestimating the\nenormous role of the Banyan in that community. In such cases, the per\ncent cover or biomass is a more meaningful measure of the population\nsize. Total number is again not an easily adoptable measure if the\npopulation is huge and counting is impossible or very time-consuming.\nIf you have a dense laboratory culture of bacteria in a petri dish what is\nthe best measure to report its density? Sometimes, for certain ecological\ninvestigations, there is no need to know the absolute population densities;\nrelative densities serve the purpose equally well. For instance, the number\nof fish caught per trap is good enough measure of its total population\ndensity in the lake. We are mostly obliged to estimate population sizes\nindirectly, without actually counting them or seeing them. The tiger census\nin our national parks and tiger reserves is often based on pug marks and\nfecal pellets.",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.2729,
+            "x_max": 0.9276,
+            "y_max": 0.7335,
+            "width": 0.627,
+            "height": 0.4606
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "11.1.2 Population Growth",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.7515,
+            "x_max": 0.5803,
+            "y_max": 0.7661,
+            "width": 0.2761,
+            "height": 0.0146
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "10",
+          "bbox": {
+            "x_min": 0.2294,
+            "y_min": 0.7117,
+            "x_max": 0.331,
+            "y_max": 0.7883,
+            "width": 0.1016,
+            "height": 0.0767
+          },
+          "confidence": 0.8669
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1868,
+            "y_min": 0.7262,
+            "x_max": 0.3112,
+            "y_max": 0.8205,
+            "width": 0.1243,
+            "height": 0.0943
+          },
+          "confidence": 0.7937
+        },
+        {
+          "text": "The size of a population for any species is not a static parameter. It keeps\nchanging with time, depending on various factors including food\navailability, predation pressure and adverse weather. In fact, it is these\nchanges in population density that give us some idea of what is happening\nto the population – whether it is flourishing or declining. Whatever might\nbe the ultimate reasons, the density of a population in a given habitat\nduring a given period, fluctuates due to changes in four basic processes,",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.7781,
+            "x_max": 0.927,
+            "y_max": 0.8997,
+            "width": 0.6264,
+            "height": 0.1217
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "ORGANISMS AND POPULATIONS",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.0793,
+            "x_max": 0.2954,
+            "y_max": 0.0878,
+            "width": 0.2236,
+            "height": 0.0086
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "two of which (natality and immigration) contribute to an increase in\npopulation density and two (mortality and emigration) to a decrease.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.114,
+            "x_max": 0.697,
+            "y_max": 0.1457,
+            "width": 0.6246,
+            "height": 0.0317
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "(i) Natality refers to the number of births during a given period in the\npopulation that are added to the initial density.",
+          "bbox": {
+            "x_min": 0.0946,
+            "y_min": 0.15,
+            "x_max": 0.6964,
+            "y_max": 0.1817,
+            "width": 0.6019,
+            "height": 0.0317
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "(ii) Mortality is the number of deaths in the population during a given\nperiod.",
+          "bbox": {
+            "x_min": 0.0887,
+            "y_min": 0.1851,
+            "x_max": 0.6976,
+            "y_max": 0.2177,
+            "width": 0.6089,
+            "height": 0.0326
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "(iii) Immigration is the number of individuals of the same species that\nhave come into the habitat from elsewhere during the time period\nunder consideration.",
+          "bbox": {
+            "x_min": 0.0841,
+            "y_min": 0.2211,
+            "x_max": 0.697,
+            "y_max": 0.2686,
+            "width": 0.613,
+            "height": 0.0476
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "(iv) Emigration is the number of individuals of the population who\nleft the habitat and gone elsewhere during the time period under\nconsideration.",
+          "bbox": {
+            "x_min": 0.0852,
+            "y_min": 0.2763,
+            "x_max": 0.6982,
+            "y_max": 0.3222,
+            "width": 0.613,
+            "height": 0.0458
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "Natality\n(B)",
+          "bbox": {
+            "x_min": 0.1366,
+            "y_min": 0.4794,
+            "x_max": 0.2119,
+            "y_max": 0.5107,
+            "width": 0.0753,
+            "height": 0.0313
+          },
+          "confidence": 0.9613
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.3112,
+            "y_min": 0.4786,
+            "x_max": 0.324,
+            "y_max": 0.4859,
+            "width": 0.0128,
+            "height": 0.0073
+          },
+          "confidence": 0.9544
+        },
+        {
+          "text": "Immigration\n(1)",
+          "bbox": {
+            "x_min": 0.4221,
+            "y_min": 0.3535,
+            "x_max": 0.5336,
+            "y_max": 0.3852,
+            "width": 0.1115,
+            "height": 0.0317
+          },
+          "confidence": 0.9519
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.5032,
+            "y_min": 0.4362,
+            "x_max": 0.5161,
+            "y_max": 0.4434,
+            "width": 0.0128,
+            "height": 0.0073
+          },
+          "confidence": 0.9538
+        },
+        {
+          "text": "Figure 11.2",
+          "bbox": {
+            "x_min": 0.4244,
+            "y_min": 0.6915,
+            "x_max": 0.5277,
+            "y_max": 0.7044,
+            "width": 0.1033,
+            "height": 0.0129
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "So, if N is the population density at time t, then its density at time t +1 is",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.7228,
+            "x_max": 0.6953,
+            "y_max": 0.7361,
+            "width": 0.6211,
+            "height": 0.0133
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.4577,
+            "y_min": 0.7494,
+            "x_max": 0.4705,
+            "y_max": 0.7571,
+            "width": 0.0128,
+            "height": 0.0077
+          },
+          "confidence": 0.9574
+        },
+        {
+          "text": "You can see from the above equation (Fig. 11.2) that population\ndensity will increase if the number of births plus the number of immigrants\n(B + I) is more than the number of deaths plus the number of emigrants\n(D + E). Under normal conditions, births and deaths are the most\nimportant factors influencing population density, the other two factors\nassuming importance only under special conditions. For instance, if a\nnew habitat is just being colonised, immigration may contribute more\nsignificantly to population growth than birth rates.",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.7738,
+            "x_max": 0.6964,
+            "y_max": 0.9075,
+            "width": 0.6229,
+            "height": 0.1337
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        },
+        {
+          "text": "Mortality\n(D)",
+          "bbox": {
+            "x_min": 0.7373,
+            "y_min": 0.4824,
+            "x_max": 0.8255,
+            "y_max": 0.5133,
+            "width": 0.0881,
+            "height": 0.0308
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "193",
+          "bbox": {
+            "x_min": 0.8541,
+            "y_min": 0.7918,
+            "x_max": 0.8973,
+            "y_max": 0.8055,
+            "width": 0.0432,
+            "height": 0.0137
+          },
+          "confidence": 0.9956
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8634,
+            "y_min": 0.0805,
+            "x_max": 0.927,
+            "y_max": 0.0883,
+            "width": 0.0636,
+            "height": 0.0077
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "Population density (N)→",
+          "bbox": {
+            "x_min": 0.1156,
+            "y_min": 0.4897,
+            "x_max": 0.1325,
+            "y_max": 0.6478,
+            "width": 0.0169,
+            "height": 0.1581
+          },
+          "confidence": 0.9594
+        },
+        {
+          "text": "a",
+          "bbox": {
+            "x_min": 0.2335,
+            "y_min": 0.5283,
+            "x_max": 0.2452,
+            "y_max": 0.5338,
+            "width": 0.0117,
+            "height": 0.0056
+          },
+          "confidence": 0.9663
+        },
+        {
+          "text": "K",
+          "bbox": {
+            "x_min": 0.1582,
+            "y_min": 0.536,
+            "x_max": 0.1728,
+            "y_max": 0.5446,
+            "width": 0.0146,
+            "height": 0.0086
+          },
+          "confidence": 0.9141
+        },
+        {
+          "text": "dN\ndt",
+          "bbox": {
+            "x_min": 0.2633,
+            "y_min": 0.4987,
+            "x_max": 0.2878,
+            "y_max": 0.5189,
+            "width": 0.0245,
+            "height": 0.0201
+          },
+          "confidence": 0.9473
+        },
+        {
+          "text": "Growth Models : Does the growth of a population with time show any\nspecific and predictable pattern? We have been concerned about unbridled\nhuman population growth and problems created by it in our country\nand it is therefore natural for us to be curious if different animal\npopulations in nature behave the same way or show some restraints on\ngrowth. Perhaps we can learn a lesson or two from nature on how to\ncontrol population growth.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.1161,
+            "x_max": 0.9294,
+            "y_max": 0.2331,
+            "width": 0.6276,
+            "height": 0.117
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "= rN",
+          "bbox": {
+            "x_min": 0.2919,
+            "y_min": 0.5034,
+            "x_max": 0.3234,
+            "y_max": 0.5116,
+            "width": 0.0315,
+            "height": 0.0081
+          },
+          "confidence": 0.9539
+        },
+        {
+          "text": "(i) Exponential growth: Resource (food and space) availability is\nobviously essential for the unimpeded growth of a population.\nIdeally, when resources in the habitat are unlimited, each species\nhas the ability to realise fully its innate potential to grow in number,\nas Darwin observed while developing his theory of natural selection.\nThen the population grows in an exponential or geometric fashion.\nIf in a population of size N, the birth rates (not total number but per\ncapita births) are represented as band death rates (again, per capita\ndeath rates) as d, then the increase or decrease in N du",
+          "bbox": {
+            "x_min": 0.3246,
+            "y_min": 0.2356,
+            "x_max": 0.9299,
+            "y_max": 0.3895,
+            "width": 0.6054,
+            "height": 0.1538
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "time period t (dN/dt) will be",
+          "bbox": {
+            "x_min": 0.3561,
+            "y_min": 0.3916,
+            "x_max": 0.6054,
+            "y_max": 0.4045,
+            "width": 0.2493,
+            "height": 0.0129
+          },
+          "confidence": 0.9723
+        },
+        {
+          "text": "dN =rN(K-N",
+          "bbox": {
+            "x_min": 0.324,
+            "y_min": 0.5574,
+            "x_max": 0.4227,
+            "y_max": 0.5746,
+            "width": 0.0987,
+            "height": 0.0171
+          },
+          "confidence": 0.8061
+        },
+        {
+          "text": "dt",
+          "bbox": {
+            "x_min": 0.3252,
+            "y_min": 0.5711,
+            "x_max": 0.3485,
+            "y_max": 0.5793,
+            "width": 0.0234,
+            "height": 0.0081
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "b",
+          "bbox": {
+            "x_min": 0.275,
+            "y_min": 0.578,
+            "x_max": 0.2896,
+            "y_max": 0.5874,
+            "width": 0.0146,
+            "height": 0.0094
+          },
+          "confidence": 0.9626
+        },
+        {
+          "text": "Time (t)",
+          "bbox": {
+            "x_min": 0.2388,
+            "y_min": 0.65,
+            "x_max": 0.2995,
+            "y_max": 0.6607,
+            "width": 0.0607,
+            "height": 0.0107
+          },
+          "confidence": 0.9796
+        },
+        {
+          "text": "Figure 11.3 Population growth curve",
+          "bbox": {
+            "x_min": 0.108,
+            "y_min": 0.6774,
+            "x_max": 0.4221,
+            "y_max": 0.6898,
+            "width": 0.3141,
+            "height": 0.0124
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "194",
+          "bbox": {
+            "x_min": 0.1004,
+            "y_min": 0.7918,
+            "x_max": 0.1442,
+            "y_max": 0.8055,
+            "width": 0.0438,
+            "height": 0.0137
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "dN/dt = (b - d) × N",
+          "bbox": {
+            "x_min": 0.4279,
+            "y_min": 0.4126,
+            "x_max": 0.5879,
+            "y_max": 0.425,
+            "width": 0.16,
+            "height": 0.0124
+          },
+          "confidence": 0.9211
+        },
+        {
+          "text": "Let (b-d) = r, then",
+          "bbox": {
+            "x_min": 0.4291,
+            "y_min": 0.4302,
+            "x_max": 0.5797,
+            "y_max": 0.4426,
+            "width": 0.1506,
+            "height": 0.0124
+          },
+          "confidence": 0.943
+        },
+        {
+          "text": "dN/dt = rN",
+          "bbox": {
+            "x_min": 0.4279,
+            "y_min": 0.4482,
+            "x_max": 0.5219,
+            "y_max": 0.4602,
+            "width": 0.094,
+            "height": 0.012
+          },
+          "confidence": 0.9723
+        },
+        {
+          "text": "a when responses are not\nlimiting the growth, plot is\nexponential,",
+          "bbox": {
+            "x_min": 0.2172,
+            "y_min": 0.6924,
+            "x_max": 0.4623,
+            "y_max": 0.7326,
+            "width": 0.2452,
+            "height": 0.0403
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "b when responses are limiting\nthe growth, plot is logistic,\nK is carrying capacity",
+          "bbox": {
+            "x_min": 0.2166,
+            "y_min": 0.7356,
+            "x_max": 0.4623,
+            "y_max": 0.7768,
+            "width": 0.2458,
+            "height": 0.0411
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "alish",
+          "bbox": {
+            "x_min": 0.6135,
+            "y_min": 0.3779,
+            "x_max": 0.7916,
+            "y_max": 0.4936,
+            "width": 0.1781,
+            "height": 0.1157
+          },
+          "confidence": 0.768
+        },
+        {
+          "text": "during a unit",
+          "bbox": {
+            "x_min": 0.8109,
+            "y_min": 0.3745,
+            "x_max": 0.9282,
+            "y_max": 0.3869,
+            "width": 0.1173,
+            "height": 0.0124
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "The 1\nThe \nr in this equation is called the ‘intrinsic rate of\nna\nnatural increase' and is a very important parameter\nchosen for assessing impacts of any biotic or abiotic\nfactor on population growth.",
+          "bbox": {
+            "x_min": 0.4828,
+            "y_min": 0.4584,
+            "x_max": 0.9317,
+            "y_max": 0.5446,
+            "width": 0.4489,
+            "height": 0.0861
+          },
+          "confidence": 0.9845
+        },
+        {
+          "text": "To give you some idea about the magnitude of r\nvalues, for the Norway rat the r is 0.015, and for\nthe flour beetle it is 0.12. In 1981, the r value for\nhuman population in India was 0.0205. Find out\nwhat the current r value is. For calculating it, you\nneed to know the birth rates and death rates.",
+          "bbox": {
+            "x_min": 0.4933,
+            "y_min": 0.542,
+            "x_max": 0.9294,
+            "y_max": 0.641,
+            "width": 0.4361,
+            "height": 0.099
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "The above equation describes the exponential or\ngeometric growth pattern of a population (Figure\n11.3) and results in a J-shaped curve when we plot\nN in relation to time. If you are familiar with basic\ncalculus, you can derive the integral form of the\nexponential growth equation as",
+          "bbox": {
+            "x_min": 0.4933,
+            "y_min": 0.6491,
+            "x_max": 0.9276,
+            "y_max": 0.7511,
+            "width": 0.4343,
+            "height": 0.102
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "where",
+          "bbox": {
+            "x_min": 0.5009,
+            "y_min": 0.7742,
+            "x_max": 0.5563,
+            "y_max": 0.7832,
+            "width": 0.0555,
+            "height": 0.009
+          },
+          "confidence": 0.9864
+        },
+        {
+          "text": "N = No ert",
+          "bbox": {
+            "x_min": 0.5528,
+            "y_min": 0.7554,
+            "x_max": 0.634,
+            "y_max": 0.7708,
+            "width": 0.0811,
+            "height": 0.0154
+          },
+          "confidence": 0.8531
+        },
+        {
+          "text": "N = Population density after time t\nN = Population density at time zero\nr = intrinsic rate of natural increase",
+          "bbox": {
+            "x_min": 0.5522,
+            "y_min": 0.7956,
+            "x_max": 0.8646,
+            "y_max": 0.8449,
+            "width": 0.3123,
+            "height": 0.0493
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "e = the base of natural logarithms (2.71828)\nAny species growing exponentially under unlimited resource\nconditions can reach enormous population densities in a short time.",
+          "bbox": {
+            "x_min": 0.3532,
+            "y_min": 0.8548,
+            "x_max": 0.927,
+            "y_max": 0.9053,
+            "width": 0.5738,
+            "height": 0.0506
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9739,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.009
+          },
+          "confidence": 0.9829
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "ORGANISMS AND POPULATIONS",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.0793,
+            "x_max": 0.2954,
+            "y_max": 0.0878,
+            "width": 0.2236,
+            "height": 0.0086
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "Darwin showed how even a slow growing animal like elephant could\nreach enormous numbers in the absence of checks. The following is\nan anecdote popularly narrated to demonstrate dramatically how\nfast a huge population could build up when growing exponentially.",
+          "bbox": {
+            "x_min": 0.1243,
+            "y_min": 0.1127,
+            "x_max": 0.697,
+            "y_max": 0.1795,
+            "width": 0.5727,
+            "height": 0.0668
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "The king and the minister sat for a chess game. The king, confident\nof winning the game, was ready to accept any bet proposed by the\nminister. The minister humbly said that if he won, he wanted only\nsome wheat grains, the quantity of which is to be calculated by\nplacing on the chess board one grain in Square 1, then two in Square\n2, then four in Square 3, and eight in Square 4, and so on, doubling\neach time the previous quantity of wheat on the next square until all the\n64 squares were filled. The king accepted the seemingly silly bet and\nstarted the game, but unluckily for him, the minister won. The king felt that\nfulfilling the minister's bet was so easy. He started with a single\ngrain on the first square and proceeded to fill the other squares\nfollowing minister's suggested procedure, but by the time he covered\nhalf the chess board, the king realised to his dismay that all the\nwheat produced in his entire kingdom pooled together would still be\ninadequate to cover all the 64 squares. Now think of a tiny\nParamecium starting with just one individual and through binary\nfission, doubling in numbers every day, and imagine what a mind-\nboggling population size it would reach in 64 days. (provided ided food\nand space remain unlimited)",
+          "bbox": {
+            "x_min": 0.0852,
+            "y_min": 0.1911,
+            "x_max": 0.683,
+            "y_max": 0.5206,
+            "width": 0.5978,
+            "height": 0.3295
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "ished",
+          "bbox": {
+            "x_min": 0.6632,
+            "y_min": 0.3081,
+            "x_max": 0.8722,
+            "y_max": 0.4576,
+            "width": 0.209,
+            "height": 0.1495
+          },
+          "confidence": 0.8769
+        },
+        {
+          "text": "(ii) Logistic growth: No population of any species in nature has at its\ndisposal unlimited resources to permit exponential growth. This\nleads to competition between individuals for limited resources.\nEventually, the ‘fittest' individual will survive and reproduce. The\ngovernments of many countries have also realised this fact and\nintroduced various restraints with a view to limit human population\ngrowth. In nature, a given habitat has enough resources to support\na maximum possible number, beyond which no further growth is\npossible. Let us call this limit as nature's carrying capacity (K) for\nthat species in that habitat.",
+          "bbox": {
+            "x_min": 0.0887,
+            "y_min": 0.5334,
+            "x_max": 0.6976,
+            "y_max": 0.7134,
+            "width": 0.6089,
+            "height": 0.1799
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "A population growing in a habitat with limited resources show\ninitially a lag phase, followed by phases of acceleration and\ndeceleration and finally an asymptote, when the population density\nreaches the carrying capacity. A plot of N in relation to time (t)\nresults in a sigmoid curve. This type of population growth is called\nVerhulst-Pearl Logistic Growth (Figure 11.3) and is described by\nthe following equation:",
+          "bbox": {
+            "x_min": 0.1243,
+            "y_min": 0.7198,
+            "x_max": 0.6976,
+            "y_max": 0.844,
+            "width": 0.5733,
+            "height": 0.1243
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "rN",
+          "bbox": {
+            "x_min": 0.2761,
+            "y_min": 0.8646,
+            "x_max": 0.2954,
+            "y_max": 0.8749,
+            "width": 0.0193,
+            "height": 0.0103
+          },
+          "confidence": 0.9446
+        },
+        {
+          "text": "dN/dt = N(KN)",
+          "bbox": {
+            "x_min": 0.1985,
+            "y_min": 0.8548,
+            "x_max": 0.3666,
+            "y_max": 0.8856,
+            "width": 0.1681,
+            "height": 0.0308
+          },
+          "confidence": 0.7605
+        },
+        {
+          "text": "195",
+          "bbox": {
+            "x_min": 0.8546,
+            "y_min": 0.7918,
+            "x_max": 0.8978,
+            "y_max": 0.8055,
+            "width": 0.0432,
+            "height": 0.0137
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "196",
+          "bbox": {
+            "x_min": 0.1016,
+            "y_min": 0.7922,
+            "x_max": 0.1436,
+            "y_max": 0.8051,
+            "width": 0.042,
+            "height": 0.0129
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.864,
+            "y_min": 0.0805,
+            "x_max": 0.927,
+            "y_max": 0.0878,
+            "width": 0.063,
+            "height": 0.0073
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "Where N = Population density at time t",
+          "bbox": {
+            "x_min": 0.3543,
+            "y_min": 0.1135,
+            "x_max": 0.704,
+            "y_max": 0.1264,
+            "width": 0.3497,
+            "height": 0.0129
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "r = Intrinsic rate of natural increase\nK = Carrying capacity",
+          "bbox": {
+            "x_min": 0.4291,
+            "y_min": 0.1307,
+            "x_max": 0.7367,
+            "y_max": 0.162,
+            "width": 0.3076,
+            "height": 0.0313
+          },
+          "confidence": 0.9853
+        },
+        {
+          "text": "Since resources for growth for most animal populations are finite\nand become limiting sooner or later, the logistic growth model is\nconsidered a more realistic one.",
+          "bbox": {
+            "x_min": 0.3561,
+            "y_min": 0.1769,
+            "x_max": 0.927,
+            "y_max": 0.2232,
+            "width": 0.5709,
+            "height": 0.0463
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "Gather from Government Census data the population figures\nfor India for the last 100 years, plot them and check which growth\npattern is evident.",
+          "bbox": {
+            "x_min": 0.3532,
+            "y_min": 0.2301,
+            "x_max": 0.9282,
+            "y_max": 0.2785,
+            "width": 0.575,
+            "height": 0.0484
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "11.1.3 Life History Variation",
+          "bbox": {
+            "x_min": 0.3053,
+            "y_min": 0.2978,
+            "x_max": 0.6118,
+            "y_max": 0.3119,
+            "width": 0.3065,
+            "height": 0.0141
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "Populations evolve to maximise their reproductive fitness, also called\nDarwinian fitness (high r value), in the habitat in which they live. Under\na particular set of selection pressures, organisms evolve towards the most\nefficient reproductive strategy. Some organisms breed only once in their\nlifetime (Pacific salmon fish, bamboo) while others breed many times\nduring their lifetime (most birds and mammals). Some produce a large\nnumber of small-sized offspring (Oysters, pelagic fishes) while others\nproduce a small number of large-sized offspring (birds, mammals). So,\nwhich is desirable for maximising fitness? Ecologists suggest that life\nhistory traits of organisms have evolved in relation to the constraints\nimposed by the abiotic and biotic components of the habitat in which\nthey live. Evolution of life history traits in different species is currently an\nimportant area of research esearch being being conducted by ecologists.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.3248,
+            "x_max": 0.9282,
+            "y_max": 0.5557,
+            "width": 0.6264,
+            "height": 0.2309
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "11.1.4 Population Interactions",
+          "bbox": {
+            "x_min": 0.3053,
+            "y_min": 0.5737,
+            "x_max": 0.6334,
+            "y_max": 0.5874,
+            "width": 0.3281,
+            "height": 0.0137
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "Can you think of any natural habitat on earth that is inhabited just by a\nsingle species? There is no such habitat and such a situation is even\ninconceivable. For any species, the minimal requirement is one more\nspecies on which it can feed. Even a plant species, which makes its own\nfood, cannot survive alone; it needs soil microbes to break down the organic\nmatter in soil and return the inorganic nutrients for absorption. And then,\nhow will the plant manage pollination without an animal agent? It is\nobvious that in nature, animals, plants and microbes do not and cannot\nlive in isolation but interact in various ways to form a biological\ncommunity. Even in minimal communities, many interactive linkages\nexist, although all may not be readily apparent.",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.5998,
+            "x_max": 0.9282,
+            "y_max": 0.7948,
+            "width": 0.6252,
+            "height": 0.1949
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "Interspecific interactions arise from the interaction of populations of\ntwo different species. They could be beneficial, detrimental or neutral\n(neither harm nor benefit) to one of the species or both. Assigning a ‘+'\nsign for beneficial interaction, '-' sign for detrimental and 0 for neutral\ninteraction, let us look at all the possible outcomes of interspecific\ninteractions (Table11.1).",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.7986,
+            "x_max": 0.9294,
+            "y_max": 0.9027,
+            "width": 0.6258,
+            "height": 0.1041
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1938,
+            "y_min": 0.7069,
+            "x_max": 0.3316,
+            "y_max": 0.8175,
+            "width": 0.1378,
+            "height": 0.1105
+          },
+          "confidence": 0.9292
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "ORGANISMS AND POPULATIONS",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.0797,
+            "x_max": 0.2948,
+            "y_max": 0.0878,
+            "width": 0.223,
+            "height": 0.0081
+          },
+          "confidence": 0.9808
+        },
+        {
+          "text": "Table 11.1 : Population Interactions",
+          "bbox": {
+            "x_min": 0.1991,
+            "y_min": 0.1153,
+            "x_max": 0.5668,
+            "y_max": 0.1285,
+            "width": 0.3678,
+            "height": 0.0133
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "Species A",
+          "bbox": {
+            "x_min": 0.0987,
+            "y_min": 0.1448,
+            "x_max": 0.1839,
+            "y_max": 0.1551,
+            "width": 0.0852,
+            "height": 0.0103
+          },
+          "confidence": 0.9858
+        },
+        {
+          "text": "Species B",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.1448,
+            "x_max": 0.3859,
+            "y_max": 0.1551,
+            "width": 0.0841,
+            "height": 0.0103
+          },
+          "confidence": 0.9851
+        },
+        {
+          "text": "Name of Interaction",
+          "bbox": {
+            "x_min": 0.4594,
+            "y_min": 0.1448,
+            "x_max": 0.6451,
+            "y_max": 0.1534,
+            "width": 0.1856,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.1366,
+            "y_min": 0.1748,
+            "x_max": 0.1477,
+            "y_max": 0.1808,
+            "width": 0.0111,
+            "height": 0.006
+          },
+          "confidence": 0.9522
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.3392,
+            "y_min": 0.1748,
+            "x_max": 0.3503,
+            "y_max": 0.1808,
+            "width": 0.0111,
+            "height": 0.006
+          },
+          "confidence": 0.9518
+        },
+        {
+          "text": "Mutualism",
+          "bbox": {
+            "x_min": 0.5096,
+            "y_min": 0.1722,
+            "x_max": 0.5966,
+            "y_max": 0.1812,
+            "width": 0.087,
+            "height": 0.009
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.136,
+            "y_min": 0.2254,
+            "x_max": 0.1477,
+            "y_max": 0.2318,
+            "width": 0.0117,
+            "height": 0.0064
+          },
+          "confidence": 0.9514
+        },
+        {
+          "text": "Competition",
+          "bbox": {
+            "x_min": 0.5055,
+            "y_min": 0.1988,
+            "x_max": 0.6013,
+            "y_max": 0.2091,
+            "width": 0.0957,
+            "height": 0.0103
+          },
+          "confidence": 0.9842
+        },
+        {
+          "text": "Predation",
+          "bbox": {
+            "x_min": 0.5137,
+            "y_min": 0.2241,
+            "x_max": 0.5914,
+            "y_max": 0.2318,
+            "width": 0.0776,
+            "height": 0.0077
+          },
+          "confidence": 0.9829
+        },
+        {
+          "text": "Parasitism",
+          "bbox": {
+            "x_min": 0.5096,
+            "y_min": 0.2502,
+            "x_max": 0.5972,
+            "y_max": 0.2579,
+            "width": 0.0876,
+            "height": 0.0077
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "Commensalism",
+          "bbox": {
+            "x_min": 0.4915,
+            "y_min": 0.2746,
+            "x_max": 0.6147,
+            "y_max": 0.2832,
+            "width": 0.1232,
+            "height": 0.0086
+          },
+          "confidence": 0.9808
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.136,
+            "y_min": 0.2511,
+            "x_max": 0.1477,
+            "y_max": 0.2575,
+            "width": 0.0117,
+            "height": 0.0064
+          },
+          "confidence": 0.9532
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.136,
+            "y_min": 0.2763,
+            "x_max": 0.1477,
+            "y_max": 0.2828,
+            "width": 0.0117,
+            "height": 0.0064
+          },
+          "confidence": 0.9524
+        },
+        {
+          "text": "0",
+          "bbox": {
+            "x_min": 0.3392,
+            "y_min": 0.2751,
+            "x_max": 0.352,
+            "y_max": 0.2832,
+            "width": 0.0128,
+            "height": 0.0081
+          },
+          "confidence": 0.893
+        },
+        {
+          "text": "0",
+          "bbox": {
+            "x_min": 0.3386,
+            "y_min": 0.3003,
+            "x_max": 0.3514,
+            "y_max": 0.3081,
+            "width": 0.0128,
+            "height": 0.0077
+          },
+          "confidence": 0.8887
+        },
+        {
+          "text": "Amensalism",
+          "bbox": {
+            "x_min": 0.5015,
+            "y_min": 0.2999,
+            "x_max": 0.603,
+            "y_max": 0.3085,
+            "width": 0.1016,
+            "height": 0.0086
+          },
+          "confidence": 0.9833
+        },
+        {
+          "text": "Iblished",
+          "bbox": {
+            "x_min": 0.606,
+            "y_min": 0.3029,
+            "x_max": 0.8722,
+            "y_max": 0.5163,
+            "width": 0.2662,
+            "height": 0.2134
+          },
+          "confidence": 0.652
+        },
+        {
+          "text": "Both the species benefit in mutualism and both lose in competition in\ntheir interactions with each other. In both parasitism and predation only\none species benefits (parasite and predator, respectively) and the interaction\nis detrimental to the other species (host and prey, respectively).\nThe interaction where one species is benefitted and the other is neither\nbenefitted nor harmed is called commensalism. In amensalism on\nthe other hand one species is harmed whereas the other is\nunaffected. Predation, parasitism and commensalism share a common\ncharacteristic- the interacting species live closely together.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.3363,
+            "x_max": 0.6976,
+            "y_max": 0.4923,
+            "width": 0.6252,
+            "height": 0.156
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "(i) Predation: What would happen to all the energy fixed by\nautotrophic organisms if the community has no animals to eat the\nplants? You can think of predation as nature's way of transferring\nto higher trophic levels the energy fixed by plants. When we think\nof predator and prey, most probably it is the tiger and the deer that\nreadily come to our mind, but a sparrow eating any seed is no less\na predator. Although animals eating plants are categorised\nseparately as herbivores, they are, in a broad ecological context,\nnot very different from predators.",
+          "bbox": {
+            "x_min": 0.094,
+            "y_min": 0.5009,
+            "x_max": 0.7011,
+            "y_max": 0.6624,
+            "width": 0.6071,
+            "height": 0.1615
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "Besides acting as ‘conduits' for energy transfer across trophic\nlevels, predators play other important roles. They keep prey\npopulations under control. But for predators, prey species could\nachieve very high population densities and cause ecosystem\ninstability. When certain exotic species are introduced into a\ngeographical area, they become invasive and start spreading fast\nbecause the invaded land does not have its natural predators. The\nprickly pear cactus introduced into Australia in the early 1920's\ncaused havoc by spreading rapidly into millions of hectares of\nrangeland. Finally, the invasive cactus was brought under control\nonly after a cactus-feeding predator (a moth) from its natural habitat\nwas introduced into the country. Biological control methods adopted\nin agricultural pest control are based on the ability of the predator",
+          "bbox": {
+            "x_min": 0.1243,
+            "y_min": 0.668,
+            "x_max": 0.6982,
+            "y_max": 0.9023,
+            "width": 0.5738,
+            "height": 0.2344
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "197",
+          "bbox": {
+            "x_min": 0.8535,
+            "y_min": 0.7922,
+            "x_max": 0.8978,
+            "y_max": 0.8051,
+            "width": 0.0444,
+            "height": 0.0129
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "198",
+          "bbox": {
+            "x_min": 0.101,
+            "y_min": 0.7922,
+            "x_max": 0.1436,
+            "y_max": 0.8051,
+            "width": 0.0426,
+            "height": 0.0129
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8634,
+            "y_min": 0.0805,
+            "x_max": 0.927,
+            "y_max": 0.0883,
+            "width": 0.0636,
+            "height": 0.0077
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "to regulate prey population. Predators also help in maintaining\nspecies diversity in a community, by reducing the intensity of\ncompetition among competing prey species. In the rocky intertidal\ncommunities of the American Pacific Coast the starfish Pisaster is",
+          "bbox": {
+            "x_min": 0.3555,
+            "y_min": 0.1127,
+            "x_max": 0.9294,
+            "y_max": 0.1795,
+            "width": 0.5738,
+            "height": 0.0668
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "an important predator. In a field experiment, when all the starfish\nwere removed from an enclosed intertidal area, more than 10 species\nof invertebrates became extinct within a year, because of inter-\nspecific competition.",
+          "bbox": {
+            "x_min": 0.3543,
+            "y_min": 0.1872,
+            "x_max": 0.9276,
+            "y_max": 0.2558,
+            "width": 0.5733,
+            "height": 0.0686
+          },
+          "confidence": 0.9968
+        },
+        {
+          "text": "If a predator is too efficient and overexploits its prey, then the\nprey might become extinct and following it, the predator will also\nbecome extinct for lack of food. This is the reason why predators in\nnature are 'prudent'. Prey species have evolved various defenses to\nlessen the impact of predation. Some species of insects and frogs\nare cryptically-coloured (camouflaged) to avoid being detected easily\nby the predator. Some are poisonous and therefore avoided by the\npredators. The Monarch butterfly is highly distasteful to its predator\n(bird) because of a special chemical present in its body.\nInterestingly, the butterfly acquires this chemical during its\ncaterpillar stage by feeding on a poisonous weed.",
+          "bbox": {
+            "x_min": 0.3549,
+            "y_min": 0.2614,
+            "x_max": 0.9276,
+            "y_max": 0.4576,
+            "width": 0.5727,
+            "height": 0.1962
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "For plants, herbivores are the predators. Nearly 25 per cent of\nall insects are known to be phytophagous (feeding on plant sap\nand other parts of plants). The problem is particularly severe for\nplants because, unlike animals, they cannot run away from their\npredators. Plants therefore have evolved an astonishing variety of\nmorphological and chemical defences against herbivores. Thorns\n(Acacia, Cactus) are the most common morphological means of\ndefence. Many plants produce and store chemicals that make the\nherbivore sick when they are eaten, inhibit feeding or digestion,\ndisrupt its reproduction or even kill it. You must have seen the\nweed Calotropis growing in abandoned fields. The plant produces\nhighly poisonous cardiac glycosides and that is why you never see\nany cattle or goats browsing on this plant. A wide variety of chemical\nsubstances that we extract from plants on a commercial scale\n(nicotine, caffeine, quinine, strychnine, opium, etc.,) are produced\nby them actually as defences against grazers and browsers.",
+          "bbox": {
+            "x_min": 0.3543,
+            "y_min": 0.4619,
+            "x_max": 0.9294,
+            "y_max": 0.7421,
+            "width": 0.575,
+            "height": 0.2802
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "C",
+          "bbox": {
+            "x_min": 0.3071,
+            "y_min": 0.5775,
+            "x_max": 0.3579,
+            "y_max": 0.6144,
+            "width": 0.0508,
+            "height": 0.0368
+          },
+          "confidence": 0.5338
+        },
+        {
+          "text": "not t",
+          "bbox": {
+            "x_min": 0.1903,
+            "y_min": 0.6782,
+            "x_max": 0.3672,
+            "y_max": 0.8145,
+            "width": 0.1769,
+            "height": 0.1362
+          },
+          "confidence": 0.9575
+        },
+        {
+          "text": "(ii) Competition: When Darwin spoke of the struggle for existence and\nsurvival of the fittest in nature, he was convinced that interspecific\ncompetition is a potent force in organic evolution. It is generally\nbelieved that competition occurs when closely related species\ncompete for the same resources that are limiting, but this is not\nentirely true. Firstly, totally unrelated species could also compete\nfor the same resource. For instance, in some shallow South\nAmerican lakes, visiting flamingoes and resident fishes compete for\ntheir common food, the zooplankton in the lake. Secondly,",
+          "bbox": {
+            "x_min": 0.3199,
+            "y_min": 0.7451,
+            "x_max": 0.9282,
+            "y_max": 0.9015,
+            "width": 0.6083,
+            "height": 0.1564
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "ORGANISMS AND POPULATIONS",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.0793,
+            "x_max": 0.2954,
+            "y_max": 0.0878,
+            "width": 0.2236,
+            "height": 0.0086
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "resources need not be limiting for competition to occur; in\ninterference competition, the feeding efficiency of one species might\nbe reduced due to the interfering and inhibitory presence of the\nother species, even if resources (food and space) are abundant.\nTherefore, competition is best defined as a process in which the\nfitness of one species (measured in terms of its 'r' the intrinsic rate\nof increase) is significantly lower in the presence of another species.\nIt is relatively easy to demonstrate in laboratory experiments, as\nGause and other experimental ecologists did, when resources are\nlimited the competitively superior species will eventually eliminate\nthe other species, but evidence for such competitive exclusion\noccurring in nature is not always conclusive. Strong and persuasive\ncircumstantial evidence does exist however in some cases. The\nAbingdon tortoise in Galapagos Islands became extinct within a\ndecade after goats were introduced on the island, apparently due\nto the greater browsing efficiency of the goats. Another evidence for\nthe occurrence of competition in nature comes from what is called\n'competitive release'. A species whose distribution is restricted to a\nsmall geographical area because of the presence of a competitively\nsuperior species, is found to expand its distributional range\ndramatically when the competing species is experimentally removed.\nConnell's elegant field experiments showed that on the rocky sea\ncoasts of Scotland, the larger and competitively superior barnacle\nBalanus dominates the intertidal area, and excludes the smaller\nbarnacle Chathamalus from that zone. In general, herbivores and\nplants appear to be more adversely affected by competition than",
+          "bbox": {
+            "x_min": 0.1243,
+            "y_min": 0.1127,
+            "x_max": 0.6976,
+            "y_max": 0.5728,
+            "width": 0.5733,
+            "height": 0.4602
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "carnivores.",
+          "bbox": {
+            "x_min": 0.1255,
+            "y_min": 0.5801,
+            "x_max": 0.2183,
+            "y_max": 0.5883,
+            "width": 0.0928,
+            "height": 0.0081
+          },
+          "confidence": 0.9799
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6883,
+            "y_min": 0.3059,
+            "x_max": 0.8733,
+            "y_max": 0.4456,
+            "width": 0.1851,
+            "height": 0.1397
+          },
+          "confidence": 0.9805
+        },
+        {
+          "text": "Gause's 'Competitive Exclusion Principle' states that two closely\nrelated species competing for the same resources cannot co-exist\nindefinitely and the competitively inferior one will be eliminated\neventually. This may be true if resources are limiting, but not\notherwise. More recent studies do not support such gross\ngeneralisations about competition. While they do not rule out the\noccurrence of interspecific competition in nature, they point out\nthat species facing competition might evolve mechanisms that\npromote co-existence rather than exclusion. One such mechanism\nis 'resource partitioning'. If two species compete for the same\nresource, they could avoid competition by choosing, for instance,\ndifferent times for feeding or different foraging patterns. MacArthur\nshowed that five closely related species of warblers living on the\nsame tree were able to avoid competition and co-exist due to\nbehavioural differences in their foraging activities.",
+          "bbox": {
+            "x_min": 0.1243,
+            "y_min": 0.5968,
+            "x_max": 0.6982,
+            "y_max": 0.868,
+            "width": 0.5738,
+            "height": 0.2712
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "(iii) Parasitism: Considering that the parasitic mode of life ensures\nfree lodging and meals, it is not surprising that parasitism has",
+          "bbox": {
+            "x_min": 0.0841,
+            "y_min": 0.8736,
+            "x_max": 0.697,
+            "y_max": 0.9053,
+            "width": 0.613,
+            "height": 0.0317
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "199",
+          "bbox": {
+            "x_min": 0.8546,
+            "y_min": 0.7926,
+            "x_max": 0.8996,
+            "y_max": 0.8055,
+            "width": 0.045,
+            "height": 0.0129
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "200",
+          "bbox": {
+            "x_min": 0.0946,
+            "y_min": 0.7926,
+            "x_max": 0.1436,
+            "y_max": 0.8051,
+            "width": 0.049,
+            "height": 0.0124
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8634,
+            "y_min": 0.0805,
+            "x_max": 0.927,
+            "y_max": 0.0878,
+            "width": 0.0636,
+            "height": 0.0073
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "evolved in so many taxonomic groups from plants to higher\nvertebrates. Many parasites have evolved to be host-specific (they\ncan parasitise only a single species of host) in such a way that\nboth host and the parasite tend to co-evolve; that is, if the host\nevolves special mechanisms for rejecting or resisting the parasite,\nthe parasite has to evolve mechanisms to counteract and neutralise\nthem, in order to be successful with the same host species. In\naccordance with their life styles, parasites evolved special\nadaptations such as the loss of unnecessary sense organs, presence\nof adhesive organs or suckers to cling on to the host, loss of\ndigestive system and high reproductive capacity. The life cycles of\nparasites are often complex, involving one or two intermediate hosts\nor vectors to facilitate parasitisation of its primary host. The human\nliver fluke (a trematode parasite) depends on two intermediate\nhosts (a snail and a fish) to complete its life cycle. The malarial\nparasite needs a vector (mosquito) to spread to other hosts.\nMajority of the parasites harm the host; they may reduce the\nsurvival, growth and reproduction of the host and reduce its\npopulation density. They might render the host more vulnerable\nto predation by making it physically weak. Do you believe that\nan ideal parasite should be able to thrive within the host without\nharming it? Then why didn't natural selection lead to the\nevolution of such totally harmless parasites?",
+          "bbox": {
+            "x_min": 0.366,
+            "y_min": 0.1135,
+            "x_max": 0.9288,
+            "y_max": 0.5347,
+            "width": 0.5628,
+            "height": 0.4212
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "Parasites that feed on the external surface of the host organism\nare called ectoparasites. The most familiar examples of this group\nare the lice on humans and ticks on dogs. Many marine fish are\ninfested with ectoparasitic copepods. Cuscuta, a parasitic plant\nthat is commonly found growing on hedge plants, has lost its\nchlorophyll and leaves in the course of evolution. It derives its\nnutrition from the host plant which it parasitises. The female\nmosquito is not considered a parasite, although it needs our blood\nfor reproduction. Can you explain why?",
+          "bbox": {
+            "x_min": 0.366,
+            "y_min": 0.5398,
+            "x_max": 0.9264,
+            "y_max": 0.6997,
+            "width": 0.5604,
+            "height": 0.1598
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "In contrast, endoparasites are those that live inside the host\nbody at different sites (liver, kidney, lungs, red blood cells, etc.).\nThe life cycles of endoparasites are more complex because of their\nextreme specialisation. Their morphological and anatomical\nfeatures are greatly simplified while emphasising their reproductive\npotential.",
+          "bbox": {
+            "x_min": 0.3649,
+            "y_min": 0.7039,
+            "x_max": 0.9264,
+            "y_max": 0.8093,
+            "width": 0.5616,
+            "height": 0.1054
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "Brood parasitism in birds is a fascinating example of\nparasitism in which the parasitic bird lays its eggs in the nest of\nits host and lets the host incubate them. During the course of\nevolution, the eggs of the parasitic bird have evolved to resemble\nthe host's egg in size and colour to reduce the chances of the host",
+          "bbox": {
+            "x_min": 0.366,
+            "y_min": 0.8153,
+            "x_max": 0.9282,
+            "y_max": 0.9036,
+            "width": 0.5622,
+            "height": 0.0883
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "not to",
+          "bbox": {
+            "x_min": 0.1926,
+            "y_min": 0.6697,
+            "x_max": 0.3783,
+            "y_max": 0.8153,
+            "width": 0.1856,
+            "height": 0.1457
+          },
+          "confidence": 0.8863
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "ORGANISMS AND POPULATIONS",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.0793,
+            "x_max": 0.2954,
+            "y_max": 0.0878,
+            "width": 0.2236,
+            "height": 0.0086
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "bird detecting the foreign eggs and ejecting them from the nest. Try\nto follow the movements of the cuckoo (koel) and the crow in your\nneighborhood park during the breeding season (spring to summer)\nand watch brood parasitism in action.",
+          "bbox": {
+            "x_min": 0.1249,
+            "y_min": 0.1135,
+            "x_max": 0.6999,
+            "y_max": 0.1829,
+            "width": 0.575,
+            "height": 0.0694
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "(iv) Commensalism: This is the interaction in which one species benefits\nand the other is neither harmed nor benefited. An orchid growing\nas an epiphyte on a mango branch, and barnacles growing on the\nback of a whale benefit while neither the mango tree nor the whale\nderives any apparent benefit. The cattle egret and grazing cattle in\nclose association, a sight you are most likely to catch if you live in\nfarmed rural areas, is a classic example of commensalism. The\negrets always forage close to where the cattle are grazing because\nthe cattle, as they move, stir up and flush out insects from the\nvegetation that otherwise might be difficult for the egrets to find\nand catch. Another example of commensalism is the interaction\nbetween sea anemone that has stinging tentacles and the clown\nfish that lives among them. The fish gets protection from predators\nwhich stay away from the stinging tentacles. The anemone does not\nappear to derive any benefit by hosting the clown fish.",
+          "bbox": {
+            "x_min": 0.0846,
+            "y_min": 0.1885,
+            "x_max": 0.6999,
+            "y_max": 0.4662,
+            "width": 0.6153,
+            "height": 0.2776
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.2125,
+            "y_min": 0.6992,
+            "x_max": 0.2358,
+            "y_max": 0.7104,
+            "width": 0.0234,
+            "height": 0.0111
+          },
+          "confidence": 0.9698
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.596,
+            "y_min": 0.6997,
+            "x_max": 0.617,
+            "y_max": 0.7099,
+            "width": 0.021,
+            "height": 0.0103
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "plished",
+          "bbox": {
+            "x_min": 0.6019,
+            "y_min": 0.3106,
+            "x_max": 0.8862,
+            "y_max": 0.4974,
+            "width": 0.2843,
+            "height": 0.1868
+          },
+          "confidence": 0.7677
+        },
+        {
+          "text": "Figure 11.4 Mutual relationship between fig tree and wasp: (a) Fig flower is pollinated\nby wasp; (b) Wasp laying eggs in a fig fruit",
+          "bbox": {
+            "x_min": 0.0753,
+            "y_min": 0.7189,
+            "x_max": 0.8132,
+            "y_max": 0.7464,
+            "width": 0.7379,
+            "height": 0.0274
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "(v) Mutualism: This interaction confers benefits on both the interacting\nspecies. Lichens represent an intimate mutualistic relationship\nbetween a fungus and photosynthesising algae or cyanobacteria.\nSimilarly, the mycorrhizae are associations between fungi and the\nroots of higher plants. The fungi help the plant in the absorption of\nessential nutrients from the soil while the plant in turn provides the\nfungi with energy-yielding carbohydrates.",
+          "bbox": {
+            "x_min": 0.0905,
+            "y_min": 0.7785,
+            "x_max": 0.6982,
+            "y_max": 0.9049,
+            "width": 0.6077,
+            "height": 0.1264
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        },
+        {
+          "text": "201",
+          "bbox": {
+            "x_min": 0.8494,
+            "y_min": 0.7922,
+            "x_max": 0.8978,
+            "y_max": 0.8051,
+            "width": 0.0485,
+            "height": 0.0129
+          },
+          "confidence": 0.994
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8634,
+            "y_min": 0.0805,
+            "x_max": 0.927,
+            "y_max": 0.0883,
+            "width": 0.0636,
+            "height": 0.0077
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "The most spectacular and evolutionarily fascinating examples\nof mutualism are found in plant-animal relationships. Plants need\nthe help of animals for pollinating their flowers and dispersing their\nseeds. Animals obviously have to be paid 'fees' for the services that\nplants expect from them. Plants offer rewards or fees in the form of\npollen and nectar for pollinators and juicy and nutritious fruits for\nseed dispersers. But the mutually beneficial system should also\nbe safeguarded against ‘cheaters', for example, animals that try to\nsteal nectar without aiding in pollination. Now you can see why\nplant-animal interactions often involve co-evolution of the\nmutualists, that is, the evolutions of the flower and its pollinator\nspecies are tightly linked with one another. In many species of fig\ntrees, there is a tight one-to-one relationship with the pollinator\nspecies of wasp (Figure 11.4). It means that a given fig species can\nbe pollinated only by its 'partner' wasp species and no other species.\nThe female wasp uses the fruit not only as an oviposition (egg-laying)\nsite but uses the developing seeds within the fruit for nourishing",
+          "bbox": {
+            "x_min": 0.3543,
+            "y_min": 0.1135,
+            "x_max": 0.9294,
+            "y_max": 0.4216,
+            "width": 0.575,
+            "height": 0.3081
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "its larvae. The wasp pollinates the fig inflorescence while\nsearching for suitable egg-laying sites. In return for the\nfavour of pollination the fig offers the wasp some of its\ndeveloping seeds, as food for the developing wasp larvae.",
+          "bbox": {
+            "x_min": 0.4571,
+            "y_min": 0.4272,
+            "x_max": 0.9276,
+            "y_max": 0.4944,
+            "width": 0.4705,
+            "height": 0.0673
+          },
+          "confidence": 0.9971
+        },
+        {
+          "text": "Orchids show a bewildering diversity of floral\npatterns many of which have evolved to attract the right\npollinator insect (bees and bumblebees) and ensure\nguaranteed pollination by it (Figure 11.5). Not all\norchids offer rewards. The Mediterranean orchid Ophrys\nemploys 'sexual deceit' to get pollination done by a\nspecies of bee. One petal of its flower bears an uncanny\nresemblance to the female of the bee in size, colour and\nmarkings. The male bee is attracted to what it perceives\nas a female, ‘pseudocopulates' with the flower, and\nduring that process is dusted with pollen from the\nflower. When this same bee ‘pseudocopulates' with\nanother flower, it transfers pollen to it and thus,\npollinates the flower. Here you can see how co-evolution\noperates. If the female bee's colour patterns change even slightly for any\nreason during evolution, pollination success will be reduced unless the\norchid flower co-evolves to maintain the resemblance of its petal to the\nfemale bee.",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.4983,
+            "x_max": 0.9288,
+            "y_max": 0.8123,
+            "width": 0.6258,
+            "height": 0.3141
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "Figure 11.5 Showing bee-a pollinator",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.7027,
+            "x_max": 0.432,
+            "y_max": 0.7151,
+            "width": 0.3182,
+            "height": 0.0124
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "202",
+          "bbox": {
+            "x_min": 0.0957,
+            "y_min": 0.7926,
+            "x_max": 0.1454,
+            "y_max": 0.8055,
+            "width": 0.0496,
+            "height": 0.0129
+          },
+          "confidence": 0.9968
+        },
+        {
+          "text": "on orchid flower",
+          "bbox": {
+            "x_min": 0.2248,
+            "y_min": 0.7177,
+            "x_max": 0.3584,
+            "y_max": 0.7262,
+            "width": 0.1337,
+            "height": 0.0086
+          },
+          "confidence": 0.9864
+        },
+        {
+          "text": "no",
+          "bbox": {
+            "x_min": 0.1897,
+            "y_min": 0.7352,
+            "x_max": 0.3082,
+            "y_max": 0.8136,
+            "width": 0.1185,
+            "height": 0.0784
+          },
+          "confidence": 0.9289
+        },
+        {
+          "text": "flower",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.7121,
+            "x_max": 0.3637,
+            "y_max": 0.7318,
+            "width": 0.0601,
+            "height": 0.0197
+          },
+          "confidence": 0.9851
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "ORGANISMS AND POPULATIONS",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.0793,
+            "x_max": 0.2954,
+            "y_max": 0.0878,
+            "width": 0.2236,
+            "height": 0.0086
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "SUMMARY",
+          "bbox": {
+            "x_min": 0.3322,
+            "y_min": 0.1324,
+            "x_max": 0.4524,
+            "y_max": 0.1444,
+            "width": 0.1203,
+            "height": 0.012
+          },
+          "confidence": 0.9668
+        },
+        {
+          "text": "As a branch of biology, Ecology is the study of the relationships of\nliving organisms with the abiotic (physico-chemical factors) and biotic\ncomponents (other species) of their environment. It is concerned\nwith four levels of biological organisation-organisms, populations,\ncommunities and biomes.",
+          "bbox": {
+            "x_min": 0.1115,
+            "y_min": 0.168,
+            "x_max": 0.6725,
+            "y_max": 0.2412,
+            "width": 0.561,
+            "height": 0.0733
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "Evolutionary changes through natural selection take place at\nthe population level and hence, population ecology is an important\narea of ecology. A population is a group of individuals of a given\nspecies sharing or competing for similar resources in a defined\ngeographical area. Populations have attributes that individual\norganisms do not- birth rates and death rates, sex ratio and age\ndistribution. The proportion of different age groups of males and\nfemales in a population is often presented graphically as age\npyramid; its shape indicates whether a population is stationary,\ngrowing or declining.",
+          "bbox": {
+            "x_min": 0.1121,
+            "y_min": 0.2481,
+            "x_max": 0.6708,
+            "y_max": 0.4032,
+            "width": 0.5587,
+            "height": 0.1551
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "lished",
+          "bbox": {
+            "x_min": 0.6492,
+            "y_min": 0.3081,
+            "x_max": 0.8727,
+            "y_max": 0.4717,
+            "width": 0.2236,
+            "height": 0.1637
+          },
+          "confidence": 0.8455
+        },
+        {
+          "text": "Ecological effects of any factors on a population are generally\nreflected in its size (population density), which may be expressed in\ndifferent ways (numbers, biomass, per cent cover, etc.,) depending\non the species.",
+          "bbox": {
+            "x_min": 0.1127,
+            "y_min": 0.407,
+            "x_max": 0.6713,
+            "y_max": 0.4662,
+            "width": 0.5587,
+            "height": 0.0591
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "Populations grow through births and immigration and decline\nthrough deaths and emigration. When resources are unlimited,\nthe growth is usually exponential but when resources become\nprogressively limiting, the growth pattern turns logistic. In either\ncase, growth is ultimately limited by the carrying capacity of the\nenvironment. The intrinsic rate of natural increase (r) is a measure\nof the inherent potential of a population to grow.",
+          "bbox": {
+            "x_min": 0.1127,
+            "y_min": 0.47,
+            "x_max": 0.6708,
+            "y_max": 0.5784,
+            "width": 0.5581,
+            "height": 0.1084
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "In nature populations of different species in a habitat do not live\nin isolation but interact in many ways. Depending on the outcome,\nthese interactions between two species are classified as competition\n(both species suffer), predation and parasitism (one benefits and\nthe other suffers), commensalism (one benefits and the other is\nunaffected), amensalism (one is harmed, other unaffected) and\nmutualism (both species benefit). Predation is a very important\nprocess through which trophic energy transfer is facilitated and\nsome predators help in controlling their prey populations. Plants\nhave evolved diverse morphological and chemical defenses against\nherbivory. In competition, it is presumed that the superior\ncompetitor eliminates the inferior one (the Competitive Exclusion\nPrinciple), but many closely related species have evolved various\nmechanisms which facilitate their co-existence. Some of the most\nfascinating cases of mutualism in nature are seen in plant-pollinator\ninteractions.",
+          "bbox": {
+            "x_min": 0.1127,
+            "y_min": 0.5823,
+            "x_max": 0.6713,
+            "y_max": 0.8312,
+            "width": 0.5587,
+            "height": 0.2489
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "203",
+          "bbox": {
+            "x_min": 0.85,
+            "y_min": 0.7922,
+            "x_max": 0.8973,
+            "y_max": 0.8051,
+            "width": 0.0473,
+            "height": 0.0129
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "204",
+          "bbox": {
+            "x_min": 0.0957,
+            "y_min": 0.7922,
+            "x_max": 0.1442,
+            "y_max": 0.8051,
+            "width": 0.0485,
+            "height": 0.0129
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "EXERCISES",
+          "bbox": {
+            "x_min": 0.4927,
+            "y_min": 0.117,
+            "x_max": 0.7431,
+            "y_max": 0.1461,
+            "width": 0.2504,
+            "height": 0.0291
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8634,
+            "y_min": 0.0805,
+            "x_max": 0.927,
+            "y_max": 0.0883,
+            "width": 0.0636,
+            "height": 0.0077
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "1.",
+          "bbox": {
+            "x_min": 0.3164,
+            "y_min": 0.1735,
+            "x_max": 0.3269,
+            "y_max": 0.1859,
+            "width": 0.0105,
+            "height": 0.0124
+          },
+          "confidence": 0.97
+        },
+        {
+          "text": "2.",
+          "bbox": {
+            "x_min": 0.3147,
+            "y_min": 0.1915,
+            "x_max": 0.3287,
+            "y_max": 0.2044,
+            "width": 0.014,
+            "height": 0.0129
+          },
+          "confidence": 0.9773
+        },
+        {
+          "text": "List the attributes that populations possess but not individuals.",
+          "bbox": {
+            "x_min": 0.3479,
+            "y_min": 0.1735,
+            "x_max": 0.8844,
+            "y_max": 0.1864,
+            "width": 0.5365,
+            "height": 0.0129
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "If a population growing exponentially double in size in 3 years, what is\nthe intrinsic rate of increase (r) of the population?",
+          "bbox": {
+            "x_min": 0.3479,
+            "y_min": 0.1915,
+            "x_max": 0.9282,
+            "y_max": 0.2215,
+            "width": 0.5803,
+            "height": 0.03
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "3. Name important defence mechanisms in plants against herbivory.",
+          "bbox": {
+            "x_min": 0.3147,
+            "y_min": 0.2275,
+            "x_max": 0.9019,
+            "y_max": 0.2395,
+            "width": 0.5873,
+            "height": 0.012
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "4.",
+          "bbox": {
+            "x_min": 0.3141,
+            "y_min": 0.2446,
+            "x_max": 0.3275,
+            "y_max": 0.2579,
+            "width": 0.0134,
+            "height": 0.0133
+          },
+          "confidence": 0.9671
+        },
+        {
+          "text": "An orchid plant is growing on the branch of mango tree. How do you\ndescribe this interaction between the orchid and the mango tree?",
+          "bbox": {
+            "x_min": 0.3468,
+            "y_min": 0.2446,
+            "x_max": 0.9288,
+            "y_max": 0.2751,
+            "width": 0.582,
+            "height": 0.0304
+          },
+          "confidence": 0.997
+        },
+        {
+          "text": "5. What is the ecological principle behind the biological control method of",
+          "bbox": {
+            "x_min": 0.3152,
+            "y_min": 0.2802,
+            "x_max": 0.9299,
+            "y_max": 0.2931,
+            "width": 0.6147,
+            "height": 0.0129
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "managing with pest insects?",
+          "bbox": {
+            "x_min": 0.3485,
+            "y_min": 0.2986,
+            "x_max": 0.5879,
+            "y_max": 0.3106,
+            "width": 0.2393,
+            "height": 0.012
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "6.",
+          "bbox": {
+            "x_min": 0.3141,
+            "y_min": 0.3158,
+            "x_max": 0.3281,
+            "y_max": 0.329,
+            "width": 0.014,
+            "height": 0.0133
+          },
+          "confidence": 0.9824
+        },
+        {
+          "text": "Define population and community.",
+          "bbox": {
+            "x_min": 0.3479,
+            "y_min": 0.3158,
+            "x_max": 0.6369,
+            "y_max": 0.329,
+            "width": 0.289,
+            "height": 0.0133
+          },
+          "confidence": 0.9968
+        },
+        {
+          "text": "7.",
+          "bbox": {
+            "x_min": 0.3147,
+            "y_min": 0.3342,
+            "x_max": 0.3281,
+            "y_max": 0.3462,
+            "width": 0.0134,
+            "height": 0.012
+          },
+          "confidence": 0.9703
+        },
+        {
+          "text": "(a) Commensalism",
+          "bbox": {
+            "x_min": 0.3473,
+            "y_min": 0.3513,
+            "x_max": 0.5015,
+            "y_max": 0.3638,
+            "width": 0.1541,
+            "height": 0.0124
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "Define the following terms and give one example for each:",
+          "bbox": {
+            "x_min": 0.3485,
+            "y_min": 0.3342,
+            "x_max": 0.8266,
+            "y_max": 0.3462,
+            "width": 0.4781,
+            "height": 0.012
+          },
+          "confidence": 0.9969
+        },
+        {
+          "text": "(b) Parasitism",
+          "bbox": {
+            "x_min": 0.3462,
+            "y_min": 0.3693,
+            "x_max": 0.4635,
+            "y_max": 0.3809,
+            "width": 0.1173,
+            "height": 0.0116
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "(c) Camouflage",
+          "bbox": {
+            "x_min": 0.3473,
+            "y_min": 0.3869,
+            "x_max": 0.4711,
+            "y_max": 0.3993,
+            "width": 0.1238,
+            "height": 0.0124
+          },
+          "confidence": 0.9858
+        },
+        {
+          "text": "(d) Mutualism",
+          "bbox": {
+            "x_min": 0.3473,
+            "y_min": 0.4053,
+            "x_max": 0.4647,
+            "y_max": 0.4173,
+            "width": 0.1173,
+            "height": 0.012
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "(e) Interspecific competition",
+          "bbox": {
+            "x_min": 0.3479,
+            "y_min": 0.4233,
+            "x_max": 0.5785,
+            "y_max": 0.4353,
+            "width": 0.2306,
+            "height": 0.012
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "diagra",
+          "bbox": {
+            "x_min": 0.5639,
+            "y_min": 0.4207,
+            "x_max": 0.6252,
+            "y_max": 0.4636,
+            "width": 0.0613,
+            "height": 0.0428
+          },
+          "confidence": 0.9496
+        },
+        {
+          "text": "8. With the help of suitable diagram the logistic population",
+          "bbox": {
+            "x_min": 0.3147,
+            "y_min": 0.44,
+            "x_max": 0.9294,
+            "y_max": 0.4533,
+            "width": 0.6147,
+            "height": 0.0133
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "growth curve.",
+          "bbox": {
+            "x_min": 0.3473,
+            "y_min": 0.4589,
+            "x_max": 0.4635,
+            "y_max": 0.4704,
+            "width": 0.1162,
+            "height": 0.0116
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "describ",
+          "bbox": {
+            "x_min": 0.6486,
+            "y_min": 0.4272,
+            "x_max": 0.7175,
+            "y_max": 0.47,
+            "width": 0.0689,
+            "height": 0.0428
+          },
+          "confidence": 0.857
+        },
+        {
+          "text": "9. Select the statement which explains best parasitism.",
+          "bbox": {
+            "x_min": 0.3147,
+            "y_min": 0.4769,
+            "x_max": 0.7922,
+            "y_max": 0.4889,
+            "width": 0.4775,
+            "height": 0.012
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "(a) One organism is benefited.",
+          "bbox": {
+            "x_min": 0.3479,
+            "y_min": 0.4936,
+            "x_max": 0.5954,
+            "y_max": 0.5064,
+            "width": 0.2475,
+            "height": 0.0129
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "(b) Both the organisms are benefited.",
+          "bbox": {
+            "x_min": 0.3485,
+            "y_min": 0.512,
+            "x_max": 0.6573,
+            "y_max": 0.5244,
+            "width": 0.3088,
+            "height": 0.0124
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "(c) One organism is benefited, other is not affected.",
+          "bbox": {
+            "x_min": 0.3479,
+            "y_min": 0.5296,
+            "x_max": 0.7717,
+            "y_max": 0.5424,
+            "width": 0.4238,
+            "height": 0.0129
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "(d) One organism is benefited, other is affected.",
+          "bbox": {
+            "x_min": 0.3479,
+            "y_min": 0.5471,
+            "x_max": 0.7402,
+            "y_max": 0.5596,
+            "width": 0.3923,
+            "height": 0.0124
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "10. List any three important characteristics of a population and explain.",
+          "bbox": {
+            "x_min": 0.3088,
+            "y_min": 0.566,
+            "x_max": 0.9229,
+            "y_max": 0.5784,
+            "width": 0.6141,
+            "height": 0.0124
+          },
+          "confidence": 0.9974
+        },
+        {
+          "text": "not to be",
+          "bbox": {
+            "x_min": 0.1862,
+            "y_min": 0.566,
+            "x_max": 0.526,
+            "y_max": 0.8209,
+            "width": 0.3398,
+            "height": 0.2549
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

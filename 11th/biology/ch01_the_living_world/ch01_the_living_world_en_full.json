@@ -1,0 +1,2253 @@
+{
+  "chapter_id": "11th_biology_ch01_the_living_world_ch01_the_living_world_en",
+  "total_pages": 9,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "UNIT 1",
+          "bbox": {
+            "x_min": 0.3123,
+            "y_min": 0.443,
+            "x_max": 0.4764,
+            "y_max": 0.485,
+            "width": 0.164,
+            "height": 0.042
+          },
+          "confidence": 0.9584
+        },
+        {
+          "text": "ublished",
+          "bbox": {
+            "x_min": 0.5692,
+            "y_min": 0.3111,
+            "x_max": 0.8722,
+            "y_max": 0.5274,
+            "width": 0.303,
+            "height": 0.2164
+          },
+          "confidence": 0.9262
+        },
+        {
+          "text": "DIVERSITY IN THE LIVING WORLD",
+          "bbox": {
+            "x_min": 0.3106,
+            "y_min": 0.5111,
+            "x_max": 0.725,
+            "y_max": 0.527,
+            "width": 0.4145,
+            "height": 0.0159
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "Chapter 1\nThe Living World",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.5686,
+            "x_max": 0.2107,
+            "y_max": 0.5994,
+            "width": 0.1389,
+            "height": 0.0308
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "Chapter 2",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.6221,
+            "x_max": 0.1611,
+            "y_max": 0.6345,
+            "width": 0.0881,
+            "height": 0.0124
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "Biological Classification",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.6401,
+            "x_max": 0.272,
+            "y_max": 0.6525,
+            "width": 0.2002,
+            "height": 0.0124
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "Chapter 3",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.6752,
+            "x_max": 0.1605,
+            "y_max": 0.6881,
+            "width": 0.0887,
+            "height": 0.0129
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "Plant Kingdom",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.6945,
+            "x_max": 0.1956,
+            "y_max": 0.7065,
+            "width": 0.1226,
+            "height": 0.012
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "Chapter 4",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.7288,
+            "x_max": 0.1611,
+            "y_max": 0.7412,
+            "width": 0.0893,
+            "height": 0.0124
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "Animal Kingdom",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.7476,
+            "x_max": 0.2102,
+            "y_max": 0.7605,
+            "width": 0.1395,
+            "height": 0.0129
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "Biology is the science of life forms and living processes. The living world\ncomprises an amazing diversity of living organisms. Early man could\neasily perceive the difference between inanimate matter and living\norganisms. Early man deified some of the inanimate matter (wind, sea,\nfire etc.) and some among the animals and plants. A common feature of\nall such forms of inanimate and animate objects was the sense of awe\nor fear that they evoked. The description of living organisms including\nhuman beings began much later in human history. Societies which\nindulged in anthropocentric view of biology could register limited\nprogress in biological knowledge. Systematic and monumental\ndescription of life forms brought in, out of necessity, detailed systems\nof identification, nomenclature and classification. The biggest spin off\nof such studies was the recognition of the sharing of similarities among\nliving organisms both horizontally and vertically. That all present day\nliving organisms are related to each other and also to all organisms\nthat ever lived on this earth, was a revelation which humbled man and\nled to cultural movements for conservation of biodiversity. In the\nfollowing chapters of this unit, you will get a description, including\nclassification, of animals and plants from a taxonomist's perspective.",
+          "bbox": {
+            "x_min": 0.3123,
+            "y_min": 0.569,
+            "x_max": 0.8967,
+            "y_max": 0.9023,
+            "width": 0.5844,
+            "height": 0.3333
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "no",
+          "bbox": {
+            "x_min": 0.1886,
+            "y_min": 0.7335,
+            "x_max": 0.3082,
+            "y_max": 0.8171,
+            "width": 0.1197,
+            "height": 0.0835
+          },
+          "confidence": 0.9568
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.9834
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "Ernst Mayr\n(1904–2004)",
+          "bbox": {
+            "x_min": 0.1862,
+            "y_min": 0.6414,
+            "x_max": 0.2983,
+            "y_max": 0.6667,
+            "width": 0.1121,
+            "height": 0.0253
+          },
+          "confidence": 0.9566
+        },
+        {
+          "text": "ed",
+          "bbox": {
+            "x_min": 0.7542,
+            "y_min": 0.3089,
+            "x_max": 0.8727,
+            "y_max": 0.3993,
+            "width": 0.1185,
+            "height": 0.0904
+          },
+          "confidence": 0.969
+        },
+        {
+          "text": "Born on 5 July 1904, in Kempten, Germany, ERNST MAYR, the\nHarvard University evolutionary biologist who has been called\n\"The Darwin of the 20th century', was one of the 100 greatest\nscientists of all time. Mayr joined Harvard's Faculty of Arts\nand Sciences in 1953 and retired in 1975, assuming the title\nAlexander Agassiz Professor of Zoology Emeritus. Throughout\nhis nearly 80-year career, his research spanned ornithology,\ntaxonomy, zoogeography, evolution, systematics, and the\nhistory and philosophy of biology. He almost single-handedly\nmade the origin of species diversity the central question of\nevolutionary biology that it is today. He also pioneered the\ncurrently accepted definition of a biological species. Mayr was\nawarded the three prizes widely regarded as the triple crown of\nbiology: the Balzan Prize in 1983, the International Prize for\nBiology in 1994, and the Crafoord Prize in 1999. Mayr died at\nthe age of 100 in the year 2004.",
+          "bbox": {
+            "x_min": 0.4162,
+            "y_min": 0.3865,
+            "x_max": 0.9282,
+            "y_max": 0.629,
+            "width": 0.512,
+            "height": 0.2425
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "not to b",
+          "bbox": {
+            "x_min": 0.1833,
+            "y_min": 0.6118,
+            "x_max": 0.4635,
+            "y_max": 0.8089,
+            "width": 0.2802,
+            "height": 0.1971
+          },
+          "confidence": 0.9668
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.9828
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "11080CH01",
+          "bbox": {
+            "x_min": 0.7998,
+            "y_min": 0.2125,
+            "x_max": 0.8441,
+            "y_max": 0.2177,
+            "width": 0.0444,
+            "height": 0.0051
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "1.1 Diversity in the",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.4516,
+            "x_max": 0.2393,
+            "y_max": 0.4644,
+            "width": 0.1658,
+            "height": 0.0129
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "Living World",
+          "bbox": {
+            "x_min": 0.1057,
+            "y_min": 0.4692,
+            "x_max": 0.2137,
+            "y_max": 0.4816,
+            "width": 0.108,
+            "height": 0.0124
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "1.2 Taxonomic",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.4953,
+            "x_max": 0.2014,
+            "y_max": 0.5043,
+            "width": 0.1284,
+            "height": 0.009
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "Categories",
+          "bbox": {
+            "x_min": 0.1062,
+            "y_min": 0.5133,
+            "x_max": 0.1979,
+            "y_max": 0.5249,
+            "width": 0.0917,
+            "height": 0.0116
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "CHAPTER 1",
+          "bbox": {
+            "x_min": 0.3053,
+            "y_min": 0.3235,
+            "x_max": 0.4839,
+            "y_max": 0.35,
+            "width": 0.1786,
+            "height": 0.0266
+          },
+          "confidence": 0.9632
+        },
+        {
+          "text": "THE LIVING WORLD",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.3749,
+            "x_max": 0.6293,
+            "y_max": 0.4045,
+            "width": 0.3252,
+            "height": 0.0296
+          },
+          "confidence": 0.9546
+        },
+        {
+          "text": "ing worke",
+          "bbox": {
+            "x_min": 0.495,
+            "y_min": 0.4422,
+            "x_max": 0.575,
+            "y_max": 0.4657,
+            "width": 0.08,
+            "height": 0.0236
+          },
+          "confidence": 0.8807
+        },
+        {
+          "text": "lished",
+          "bbox": {
+            "x_min": 0.6328,
+            "y_min": 0.3102,
+            "x_max": 0.8838,
+            "y_max": 0.4679,
+            "width": 0.251,
+            "height": 0.1577
+          },
+          "confidence": 0.9084
+        },
+        {
+          "text": "How wonderful is the living world! The wide range of living types is\namazing. The extraordinary habitats in which we find living organisms,\nbe it cold mountains, deciduous forests, oceans, fresh water lakes, deserts\nor hot springs, leave us speechless. The beauty of a galloping horse, of\nthe migrating birds, the valley of flowers or the attacking shark evokes\nawe and a deep sense of wonder. The ecological conflict and cooperation\namong members of a population and among populations of a community\nor even the molecular traffic inside a cell make us deeply reflect on – what\nindeed is life? This question has two implicit questions within it. The first\nis a technical one and seeks answer to what living is as opposed to the\nnon-living, and the second is a philosophical one, and seeks answer to\nwhat the purpose of life is. As scientists, we shall not attempt answering\nthe second question. We will try to reflect on – what is living?",
+          "bbox": {
+            "x_min": 0.2685,
+            "y_min": 0.4512,
+            "x_max": 0.8961,
+            "y_max": 0.6804,
+            "width": 0.6276,
+            "height": 0.2292
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "1.1 DIVERSITY IN THE LIVING WORLD",
+          "bbox": {
+            "x_min": 0.2726,
+            "y_min": 0.7048,
+            "x_max": 0.6439,
+            "y_max": 0.7168,
+            "width": 0.3713,
+            "height": 0.012
+          },
+          "confidence": 0.9797
+        },
+        {
+          "text": "no",
+          "bbox": {
+            "x_min": 0.1967,
+            "y_min": 0.7382,
+            "x_max": 0.2913,
+            "y_max": 0.8119,
+            "width": 0.0946,
+            "height": 0.0737
+          },
+          "confidence": 0.8681
+        },
+        {
+          "text": "If you look around you will see a large variety of living organisms, be it\npotted\npotted \nplants, insects, birds, your pets or other animals and plants. There\nare also several organisms that you cannot see with your naked eye but\nthey are all around you. If you were to increase the area that you make\nobservations in, the range and variety of organisms that you see would\nincrease. Obviously, if you were to visit a dense forest, you would probably\nsee a much greater number and kinds of living organisms in it. Each\ndifferent kind of plant, animal or organism that you see, represents a\nspecies. The number of species that are known and described range\nbetween 1.7-1.8 million. This refers to biodiversity or the number and",
+          "bbox": {
+            "x_min": 0.2691,
+            "y_min": 0.7262,
+            "x_max": 0.8949,
+            "y_max": 0.9036,
+            "width": 0.6258,
+            "height": 0.1774
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.9827
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "4",
+          "bbox": {
+            "x_min": 0.1168,
+            "y_min": 0.0844,
+            "x_max": 0.1349,
+            "y_max": 0.093,
+            "width": 0.0181,
+            "height": 0.0086
+          },
+          "confidence": 0.9675
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0689,
+            "height": 0.0094
+          },
+          "confidence": 0.9796
+        },
+        {
+          "text": "types of organisms present on earth. We should remember here that as\nwe explore new areas, and even old ones, new organisms are continuously\nbeing identified.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.1358,
+            "x_max": 0.9259,
+            "y_max": 0.1838,
+            "width": 0.6246,
+            "height": 0.048
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "As stated earlier, there are millions of plants and animals in the world;\nwe know the plants and animals in our own area by their local names.\nThese local names would vary from place to place, even within a country.\nProbably you would recognise the confusion that would be created if we\ndid not find ways and means to talk to each other, to refer to organisms\nwe are talking about.",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.1889,
+            "x_max": 0.9259,
+            "y_max": 0.2905,
+            "width": 0.6252,
+            "height": 0.1015
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "Hence, there is a need to standardise the naming of living organisms\nsuch that a particular organism is known by the same name all over the\nworld. This process is called nomenclature. Obviously, nomenclature\nor naming is only possible when the organism is described correctly and\nwe know to what organism the name is attached to. This is identification.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.2956,
+            "x_max": 0.9264,
+            "y_max": 0.3796,
+            "width": 0.6252,
+            "height": 0.084
+          },
+          "confidence": 0.9968
+        },
+        {
+          "text": "In order to facilitate the study, number of scientists have established\nprocedures to assign a scientific name to each known organism. This is\nacceptable to biologists all over the world. For plants, scientific names are\nbased on agreed principles and criteria, which are provided in International\nCode for Botanical Nomenclature (ICBN). You may ask, how are animals\nnamed? Animal taxonomists have evolved International Code of Zoological\nNomenclature (ICZN). The scientific names ensure that each organism\nhas only one name. Description of any organism should enable the people\n(in any part of the world) to arrive at the same name. They also ensure\nthat such a name has not been used for any other known organism.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.3835,
+            "x_max": 0.9264,
+            "y_max": 0.5561,
+            "width": 0.6252,
+            "height": 0.1727
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "Biologists follow universally accepted principles to provide scientific\nnames to known organisms. Each name has two components the\nGeneric name and the specific epithet. This system of providing a\nname with two components is called Binomial nomenclature. This\nnaming system given by Carolus Linnaeus is being practised by biologists\nall over the world. This naming system using a two word format was\nfound convenient. Let us take the example of mango to understand the\nway of providing scientific names better. The scientific name of mango is\nwritten as Mangifera indica. Let us see how it is a binomial name. In this\nname Mangifera represents the genus while indica, is a particular species,\nor a specific epithet. Other universal rules of nomenclature are as follows:",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.5608,
+            "x_max": 0.927,
+            "y_max": 0.7515,
+            "width": 0.6264,
+            "height": 0.1907
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "1.",
+          "bbox": {
+            "x_min": 0.3421,
+            "y_min": 0.7639,
+            "x_max": 0.359,
+            "y_max": 0.7738,
+            "width": 0.0169,
+            "height": 0.0099
+          },
+          "confidence": 0.9833
+        },
+        {
+          "text": "Biological names are generally in Latin and written in italics.\nThey are Latinised or derived from Latin irrespective of their\norigin.",
+          "bbox": {
+            "x_min": 0.3841,
+            "y_min": 0.7635,
+            "x_max": 0.9264,
+            "y_max": 0.8123,
+            "width": 0.5423,
+            "height": 0.0488
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "2. The first word in a biological name represents the genus while\nthe second component denotes the specific epithet.",
+          "bbox": {
+            "x_min": 0.3438,
+            "y_min": 0.8213,
+            "x_max": 0.9259,
+            "y_max": 0.8526,
+            "width": 0.582,
+            "height": 0.0313
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "3. Both the words in a biological name, when handwritten, are\nseparately underlined, or printed in italics to indicate their Latin\norigin.",
+          "bbox": {
+            "x_min": 0.3444,
+            "y_min": 0.862,
+            "x_max": 0.9259,
+            "y_max": 0.9109,
+            "width": 0.5814,
+            "height": 0.0488
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1874,
+            "y_min": 0.7112,
+            "x_max": 0.3234,
+            "y_max": 0.8132,
+            "width": 0.136,
+            "height": 0.102
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.9827
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "THE LIVING WORLD",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.0831,
+            "x_max": 0.2621,
+            "y_max": 0.0925,
+            "width": 0.1483,
+            "height": 0.0094
+          },
+          "confidence": 0.9753
+        },
+        {
+          "text": "ished",
+          "bbox": {
+            "x_min": 0.6702,
+            "y_min": 0.3068,
+            "x_max": 0.8722,
+            "y_max": 0.4593,
+            "width": 0.202,
+            "height": 0.1525
+          },
+          "confidence": 0.8699
+        },
+        {
+          "text": "4.",
+          "bbox": {
+            "x_min": 0.1115,
+            "y_min": 0.1362,
+            "x_max": 0.1296,
+            "y_max": 0.1452,
+            "width": 0.0181,
+            "height": 0.009
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "The first word denoting the genus starts with a capital letter\nwhile the specific epithet starts with a small letter. It can be\nillustrated with the example of Mangifera indica.",
+          "bbox": {
+            "x_min": 0.1547,
+            "y_min": 0.1354,
+            "x_max": 0.6976,
+            "y_max": 0.1842,
+            "width": 0.5429,
+            "height": 0.0488
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "Name of the author appears after the specific epithet, i.e., at the end of\nthe biological name and is written in an abbreviated form, e.g., Mangifera\nindica Linn. It indicates that this species was first described by Linnaeus.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.1967,
+            "x_max": 0.6994,
+            "y_max": 0.2446,
+            "width": 0.6264,
+            "height": 0.048
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "Since it is nearly impossible to study all the living organisms, it is\nnecessary to devise some means to make this possible. This process is\nclassification. Classification is the process by which anything is grouped\ninto convenient categories based on some easily observable characters.\nFor example, we easily recognise groups such as plants or animals or\ndogs, cats or insects. The moment we use any of these terms, we associate\ncertain characters with the organism in that group. What image do you\nsee when you think of a dog? Obviously, each one of us will see ‘dogs'\nand not 'cats'. Now, if we were to think of 'Alsatians' we know what we are\ntalking about. Similarly, suppose we were to say 'mammals', you would,\nof course, think of animals with external ears and body hair. Likewise, in\nplants, if we try to talk of ‘Wheat', the picture in each of our minds will be\nof wheat plants, not of rice or any other plant. Hence, all these - ‘Dogs',\n'Cats', 'Mammals', 'Wheat', 'Rice', 'Plants', ‘Animals', etc., are convenient\ncategories we use to study organisms. The scientific term for these\ncategories is taxa. Here you must recognise that taxa can indicate\ncategories at very different levels. ‘Plants' – also form a taxa. ‘Wheat' is\nalso a taxa. Similarly, ‘animals', ‘mammals', ‘dogs' are all taxa – but you\nknow that a dog is a mammal and mammals are animals. Therefore,\n'animals', 'mammals' and ‘dogs' represent taxa at different levels.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.2494,
+            "x_max": 0.6976,
+            "y_max": 0.5934,
+            "width": 0.6252,
+            "height": 0.344
+          },
+          "confidence": 0.9808
+        },
+        {
+          "text": "Hence, based on characteristics, all living organisms can be classified\ninto different taxa. This process of classification is taxonomy. External\nand internal structure, along with the structure of cell, development\nprocess and ecological information of organisms are essential and form\nthe basis of modern taxonomic studies.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.5981,
+            "x_max": 0.6976,
+            "y_max": 0.6782,
+            "width": 0.6246,
+            "height": 0.0801
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "Hence, characterisation, identification, classification and nomenclature\nare the processes that are basic to taxonomy.",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.6851,
+            "x_max": 0.6964,
+            "y_max": 0.7159,
+            "width": 0.6229,
+            "height": 0.0308
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "Taxonomy is not something new. Human beings have always been\ninterested in knowing more and more about the various kinds of\norganisms, particularly with reference to their own use. In early days,\nhuman beings needed to find sources for their basic needs of food, clothing\nand shelter. Hence, the earliest classifications were based on the 'uses' of\nvarious organisms.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.7202,
+            "x_max": 0.6988,
+            "y_max": 0.8205,
+            "width": 0.6264,
+            "height": 0.1003
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "Human beings were, since long, not only interested in knowing more\nabout different kinds of organisms and their diversities, but also the\nrelationships among them. This branch of study was referred to as\nsystematics. The word systematics is derived from the Latin word\n'systema' which means systematic arrangement of organisms. Linnaeus",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.8252,
+            "x_max": 0.6976,
+            "y_max": 0.9079,
+            "width": 0.6246,
+            "height": 0.0827
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.9827
+        },
+        {
+          "text": "5",
+          "bbox": {
+            "x_min": 0.8471,
+            "y_min": 0.0827,
+            "x_max": 0.8593,
+            "y_max": 0.093,
+            "width": 0.0123,
+            "height": 0.0103
+          },
+          "confidence": 0.9645
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "6",
+          "bbox": {
+            "x_min": 0.1185,
+            "y_min": 0.0844,
+            "x_max": 0.1331,
+            "y_max": 0.0925,
+            "width": 0.0146,
+            "height": 0.0081
+          },
+          "confidence": 0.9681
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0689,
+            "height": 0.0094
+          },
+          "confidence": 0.9804
+        },
+        {
+          "text": "used Systema Naturae as the title of his publication. The scope of\nsystematics was later enlarged to include identification, nomenclature\nand classification. Systematics takes into account evolutionary\nrelationships between organisms.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.1354,
+            "x_max": 0.9282,
+            "y_max": 0.2009,
+            "width": 0.6258,
+            "height": 0.0656
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "1.2",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.2224,
+            "x_max": 0.3386,
+            "y_max": 0.2335,
+            "width": 0.0368,
+            "height": 0.0111
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "TAXONOMIC CATEGORIES",
+          "bbox": {
+            "x_min": 0.3736,
+            "y_min": 0.2224,
+            "x_max": 0.6083,
+            "y_max": 0.2339,
+            "width": 0.2347,
+            "height": 0.0116
+          },
+          "confidence": 0.9754
+        },
+        {
+          "text": "Classification is not a single step process but involves hierarchy of steps\nin which each step represents a rank or category. Since the category is a\npart of overall taxonomic arrangement, it is called the taxonomic category\nand all categories together constitute the taxonomic hierarchy. Each\ncategory, referred to as a unit of classification, in fact, represents a rank\nand is commonly termed as taxon (pl.: taxa).",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.2502,
+            "x_max": 0.927,
+            "y_max": 0.353,
+            "width": 0.6252,
+            "height": 0.1028
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "represents a",
+          "bbox": {
+            "x_min": 0.7712,
+            "y_min": 0.3226,
+            "x_max": 0.8832,
+            "y_max": 0.3505,
+            "width": 0.1121,
+            "height": 0.0278
+          },
+          "confidence": 0.8462
+        },
+        {
+          "text": "Taxonomic categories and hierarchy can be illustrated by an example.\nInsects represent a group of organisms sharing common features like\nthree pairs of jointed legs. It means insects are recognisable concrete\nobjects which can be classified, and thus were given a rank or category.\nCan you name other such groups of organisms? Remember, groups\nrepresent category. Category further denotes rank. Each rank or taxon,\nin fact, represents a unit of classification. These taxonomic groups/\ncategories are distinct biological entities and not merely morphological\naggregates.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.3578,
+            "x_max": 0.9264,
+            "y_max": 0.5133,
+            "width": 0.6246,
+            "height": 0.1555
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "Taxonomical studies of all known organisms have led to the\ndevelopment of common categories such as kingdom, phylum or division\n(for plants), class, order, family, genus and species. All organisms,\nincluding those in the plant and animal kingdoms have species as the\nlowest category. Now the question you may ask is, how to place an\norganism in various categories? The basic requirement is the knowledge\nof characters of an individual or group of organisms. This helps in\nidentifying similarities and dissimilarities among the individuals of the\nsame kind of organisms as well as of other kinds of organisms.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.518,
+            "x_max": 0.927,
+            "y_max": 0.6748,
+            "width": 0.6252,
+            "height": 0.1568
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "1.2.1 Species",
+          "bbox": {
+            "x_min": 0.2995,
+            "y_min": 0.6838,
+            "x_max": 0.4635,
+            "y_max": 0.7087,
+            "width": 0.164,
+            "height": 0.0249
+          },
+          "confidence": 0.9688
+        },
+        {
+          "text": "Taxonomic studies consider a group of individual organisms with\nfun\nfundamental similarities as a species. One should be able to distinguish\none species from the other closely related species based on the distinct\nmorphological differences. Let us consider Mangifera indica, Solanum\ntuberosum (potato) and Panthera leo (lion). All the three names, indica,\ntuberosum and leo, represent the specific epithets, while the first words\nMangifera, Solanum and Panthera are genera and represents another\nhigher level of taxon or category. Each genus may have one or more than\none specific epithets representing different organisms, but having\nmorphological similarities. For example, Panthera has another specific\nepithet called tigris and Solanum includes species like nigrum and",
+          "bbox": {
+            "x_min": 0.2971,
+            "y_min": 0.7108,
+            "x_max": 0.9305,
+            "y_max": 0.9156,
+            "width": 0.6334,
+            "height": 0.2048
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "no",
+          "bbox": {
+            "x_min": 0.1967,
+            "y_min": 0.7356,
+            "x_max": 0.2983,
+            "y_max": 0.8123,
+            "width": 0.1016,
+            "height": 0.0767
+          },
+          "confidence": 0.9278
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.9827
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "THE LIVING WORLD",
+          "bbox": {
+            "x_min": 0.1133,
+            "y_min": 0.0831,
+            "x_max": 0.2621,
+            "y_max": 0.0925,
+            "width": 0.1489,
+            "height": 0.0094
+          },
+          "confidence": 0.9771
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6813,
+            "y_min": 0.3106,
+            "x_max": 0.8733,
+            "y_max": 0.449,
+            "width": 0.1921,
+            "height": 0.1384
+          },
+          "confidence": 0.9663
+        },
+        {
+          "text": "melongena. Human beings belong to the species sapiens which is grouped\nin the genus Homo. The scientific name thus, for human being, is written\nas Homo sapiens.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.1362,
+            "x_max": 0.697,
+            "y_max": 0.1838,
+            "width": 0.6241,
+            "height": 0.0476
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "1.2.2",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.1971,
+            "x_max": 0.1296,
+            "y_max": 0.2087,
+            "width": 0.0566,
+            "height": 0.0116
+          },
+          "confidence": 0.978
+        },
+        {
+          "text": "Genus",
+          "bbox": {
+            "x_min": 0.15,
+            "y_min": 0.1971,
+            "x_max": 0.2207,
+            "y_max": 0.2082,
+            "width": 0.0706,
+            "height": 0.0111
+          },
+          "confidence": 0.9789
+        },
+        {
+          "text": "Genus comprises a group of related species which has more characters\nin common in comparison to species of other genera. We can say that\ngenera are aggregates of closely related species. For example, potato and\nbrinjal are two different species but both belong to the genus Solanum.\nLion (Panthera leo), leopard (P. pardus) and tiger (P. tigris) with several\ncommon features, are all species of the genus Panthera. This genus differs\nfrom another genus Felis which includes cats.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.2194,
+            "x_max": 0.697,
+            "y_max": 0.338,
+            "width": 0.6252,
+            "height": 0.1187
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "1.2.3 Family",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.3505,
+            "x_max": 0.2248,
+            "y_max": 0.365,
+            "width": 0.15,
+            "height": 0.0146
+          },
+          "confidence": 0.9804
+        },
+        {
+          "text": "The next category, Family, has a group of related genera with still less\nnumber of similarities as compared to genus and species. Families are\ncharacterised on the basis of both vegetative and reproductive features of\nplant species. Among plants for example, three different genera Solanum,\nPetunia and Datura are placed in the family Solanaceae. Among animals\nfor example, genus Panthera, comprising lion, tiger, leopard is put along\nwith genus, Felis (cats) in the family Felidae. Similarly, if you observe the\nfeatures of a cat and a dog, you will find some similarities and some\ndifferences as well. They are separated into two different families – Felidae\nand Canidae, respectively.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.3728,
+            "x_max": 0.6982,
+            "y_max": 0.5454,
+            "width": 0.6258,
+            "height": 0.1727
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "1.2.4",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.5578,
+            "x_max": 0.1308,
+            "y_max": 0.5694,
+            "width": 0.0566,
+            "height": 0.0116
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "Order",
+          "bbox": {
+            "x_min": 0.1524,
+            "y_min": 0.5578,
+            "x_max": 0.2166,
+            "y_max": 0.5694,
+            "width": 0.0642,
+            "height": 0.0116
+          },
+          "confidence": 0.9811
+        },
+        {
+          "text": "N",
+          "bbox": {
+            "x_min": 0.3654,
+            "y_min": 0.5129,
+            "x_max": 0.4694,
+            "y_max": 0.5775,
+            "width": 0.1039,
+            "height": 0.0647
+          },
+          "confidence": 0.8947
+        },
+        {
+          "text": "ies, gem",
+          "bbox": {
+            "x_min": 0.4705,
+            "y_min": 0.5711,
+            "x_max": 0.5365,
+            "y_max": 0.5998,
+            "width": 0.066,
+            "height": 0.0287
+          },
+          "confidence": 0.8959
+        },
+        {
+          "text": "You have seen earlier that categories like species, genus and families are\nbased on a number of similar characters. Generally, order and other\nhigher taxonomic categories are identified based on the aggregates of\ncharacters. Order being a higher category, is the assemblage of families\nwhich exhibit a few similar characters. The similar characters are less in\nnumber as compared to different genera included in a family. Plant\nfamilies like Convolvulaceae, Solanaceae are included in the order\nPolymoniales mainly based on the floral characters. The animal order,\nCarnivora, includes families like Felidae and Canidae.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.5788,
+            "x_max": 0.6988,
+            "y_max": 0.7326,
+            "width": 0.627,
+            "height": 0.1538
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "1.2.5",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.7468,
+            "x_max": 0.129,
+            "y_max": 0.7592,
+            "width": 0.0549,
+            "height": 0.0124
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "Class",
+          "bbox": {
+            "x_min": 0.15,
+            "y_min": 0.7468,
+            "x_max": 0.2096,
+            "y_max": 0.7592,
+            "width": 0.0595,
+            "height": 0.0124
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "This category includes related orders. For example, order Primata\ncomprising monkey, gorilla and gibbon is placed in class Mammalia along\nwith order Carnivora that includes animals like tiger, cat and dog. Class\nMammalia has other orders also.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.7691,
+            "x_max": 0.6982,
+            "y_max": 0.8325,
+            "width": 0.6264,
+            "height": 0.0634
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "1.2.6 Phylum",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.847,
+            "x_max": 0.2353,
+            "y_max": 0.8616,
+            "width": 0.1605,
+            "height": 0.0146
+          },
+          "confidence": 0.9814
+        },
+        {
+          "text": "Classes comprising animals like fishes, amphibians, reptiles, birds along\nwith mammals constitute the next higher category called Phylum. All",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.8749,
+            "x_max": 0.6988,
+            "y_max": 0.9062,
+            "width": 0.627,
+            "height": 0.0313
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.9827
+        },
+        {
+          "text": "7",
+          "bbox": {
+            "x_min": 0.8453,
+            "y_min": 0.084,
+            "x_max": 0.8599,
+            "y_max": 0.0925,
+            "width": 0.0146,
+            "height": 0.0086
+          },
+          "confidence": 0.9686
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "8",
+          "bbox": {
+            "x_min": 0.1168,
+            "y_min": 0.0844,
+            "x_max": 0.1343,
+            "y_max": 0.0934,
+            "width": 0.0175,
+            "height": 0.009
+          },
+          "confidence": 0.9578
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0689,
+            "height": 0.0094
+          },
+          "confidence": 0.9794
+        },
+        {
+          "text": "Kingdom",
+          "bbox": {
+            "x_min": 0.1856,
+            "y_min": 0.1979,
+            "x_max": 0.2674,
+            "y_max": 0.2108,
+            "width": 0.0817,
+            "height": 0.0129
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "Phylum or Division",
+          "bbox": {
+            "x_min": 0.1442,
+            "y_min": 0.2438,
+            "x_max": 0.3129,
+            "y_max": 0.2566,
+            "width": 0.1687,
+            "height": 0.0129
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "Class",
+          "bbox": {
+            "x_min": 0.2043,
+            "y_min": 0.2905,
+            "x_max": 0.2516,
+            "y_max": 0.2995,
+            "width": 0.0473,
+            "height": 0.009
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "Order",
+          "bbox": {
+            "x_min": 0.2008,
+            "y_min": 0.3363,
+            "x_max": 0.2574,
+            "y_max": 0.3453,
+            "width": 0.0566,
+            "height": 0.009
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "Family",
+          "bbox": {
+            "x_min": 0.1979,
+            "y_min": 0.3817,
+            "x_max": 0.2604,
+            "y_max": 0.395,
+            "width": 0.0625,
+            "height": 0.0133
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "↑",
+          "bbox": {
+            "x_min": 0.2195,
+            "y_min": 0.3997,
+            "x_max": 0.2318,
+            "y_max": 0.4263,
+            "width": 0.0123,
+            "height": 0.0266
+          },
+          "confidence": 0.9287
+        },
+        {
+          "text": "Genus",
+          "bbox": {
+            "x_min": 0.1973,
+            "y_min": 0.428,
+            "x_max": 0.2569,
+            "y_max": 0.4374,
+            "width": 0.0595,
+            "height": 0.0094
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "Species",
+          "bbox": {
+            "x_min": 0.195,
+            "y_min": 0.4739,
+            "x_max": 0.2615,
+            "y_max": 0.4863,
+            "width": 0.0665,
+            "height": 0.0124
+          },
+          "confidence": 0.9847
+        },
+        {
+          "text": "Figure 1.1 Taxonomic\ncategories\nshowing\nhierarchial\narrangement\nin ascending\norder",
+          "bbox": {
+            "x_min": 0.1249,
+            "y_min": 0.509,
+            "x_max": 0.331,
+            "y_max": 0.605,
+            "width": 0.2061,
+            "height": 0.096
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "these, based on the common features like presence of notochord\nand dorsal hollow neural system, are included in phylum\nChordata. In case of plants, classes with a few similar characters\nare assigned to a higher category called Division.",
+          "bbox": {
+            "x_min": 0.3713,
+            "y_min": 0.1358,
+            "x_max": 0.9253,
+            "y_max": 0.2035,
+            "width": 0.554,
+            "height": 0.0677
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "1.2.7 Kingdom",
+          "bbox": {
+            "x_min": 0.373,
+            "y_min": 0.2219,
+            "x_max": 0.5406,
+            "y_max": 0.2365,
+            "width": 0.1675,
+            "height": 0.0146
+          },
+          "confidence": 0.9825
+        },
+        {
+          "text": "All animals belonging to various phyla are assigned to the\nhighest category called Kingdom Animalia in the classification\nsystem of animals. The Kingdom Plantae, on the other hand, is\ndistinct, and comprises all plants from various divisions.\nHenceforth, we will refer to these two groups as animal and\nplant kingdoms.",
+          "bbox": {
+            "x_min": 0.3701,
+            "y_min": 0.2494,
+            "x_max": 0.9259,
+            "y_max": 0.3522,
+            "width": 0.5558,
+            "height": 0.1028
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "The taxonomic categories from species to kingdom have been\nshown in ascending order starting with species in Figure 1.1.\nThese are broad categories. However, taxonomists have also\ndeveloped sub-categories in this hierarchy to facilitate more\nsound and scientific placement of various taxa.",
+          "bbox": {
+            "x_min": 0.3707,
+            "y_min": 0.3573,
+            "x_max": 0.9253,
+            "y_max": 0.4426,
+            "width": 0.5546,
+            "height": 0.0853
+          },
+          "confidence": 0.9968
+        },
+        {
+          "text": "Look at the hierarchy in Figure 1.1. Can you recall the basis\nof arrangement? Say, for example, as we go higher from species\nto kingdom, the number of common characteristics goes on\ndecreasing. Lower the taxa, more are the characteristics that the\nmembers within the taxon share. Higher the category, greater is",
+          "bbox": {
+            "x_min": 0.3719,
+            "y_min": 0.4477,
+            "x_max": 0.9253,
+            "y_max": 0.5334,
+            "width": 0.5534,
+            "height": 0.0857
+          },
+          "confidence": 0.9971
+        },
+        {
+          "text": "the difficulty of determining the relationship to other taxa at the\nsame level. Hence, the problem of classification becomes more\ncomplex.",
+          "bbox": {
+            "x_min": 0.3707,
+            "y_min": 0.5386,
+            "x_max": 0.9259,
+            "y_max": 0.5874,
+            "width": 0.5552,
+            "height": 0.0488
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "Table 1.1 indicates the taxonomic categories to which some\ncommon organisms like housefly, man, mango and wheat belong.",
+          "bbox": {
+            "x_min": 0.3713,
+            "y_min": 0.6003,
+            "x_max": 0.9259,
+            "y_max": 0.6311,
+            "width": 0.5546,
+            "height": 0.0308
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "TABLE 1.1 Organisms with their Taxonomic Categories",
+          "bbox": {
+            "x_min": 0.2732,
+            "y_min": 0.6482,
+            "x_max": 0.7618,
+            "y_max": 0.6607,
+            "width": 0.4886,
+            "height": 0.0124
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "Common Biological",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.6752,
+            "x_max": 0.2896,
+            "y_max": 0.6877,
+            "width": 0.1751,
+            "height": 0.0124
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "Name",
+          "bbox": {
+            "x_min": 0.1121,
+            "y_min": 0.6911,
+            "x_max": 0.164,
+            "y_max": 0.6988,
+            "width": 0.052,
+            "height": 0.0077
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "Name",
+          "bbox": {
+            "x_min": 0.2137,
+            "y_min": 0.6911,
+            "x_max": 0.2633,
+            "y_max": 0.6988,
+            "width": 0.0496,
+            "height": 0.0077
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "Genus",
+          "bbox": {
+            "x_min": 0.331,
+            "y_min": 0.6757,
+            "x_max": 0.387,
+            "y_max": 0.6847,
+            "width": 0.056,
+            "height": 0.009
+          },
+          "confidence": 0.9837
+        },
+        {
+          "text": "Family",
+          "bbox": {
+            "x_min": 0.4215,
+            "y_min": 0.6752,
+            "x_max": 0.4816,
+            "y_max": 0.6868,
+            "width": 0.0601,
+            "height": 0.0116
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "Order",
+          "bbox": {
+            "x_min": 0.5558,
+            "y_min": 0.6752,
+            "x_max": 0.6083,
+            "y_max": 0.6842,
+            "width": 0.0525,
+            "height": 0.009
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "Class",
+          "bbox": {
+            "x_min": 0.6544,
+            "y_min": 0.6757,
+            "x_max": 0.7011,
+            "y_max": 0.6847,
+            "width": 0.0467,
+            "height": 0.009
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "Phylum/\nDivision",
+          "bbox": {
+            "x_min": 0.805,
+            "y_min": 0.6752,
+            "x_max": 0.8821,
+            "y_max": 0.6992,
+            "width": 0.0771,
+            "height": 0.024
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "Man",
+          "bbox": {
+            "x_min": 0.1121,
+            "y_min": 0.7279,
+            "x_max": 0.15,
+            "y_max": 0.7356,
+            "width": 0.0379,
+            "height": 0.0077
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "Homo sapiens Homo",
+          "bbox": {
+            "x_min": 0.2096,
+            "y_min": 0.7275,
+            "x_max": 0.373,
+            "y_max": 0.7386,
+            "width": 0.1635,
+            "height": 0.0111
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "Hominidae",
+          "bbox": {
+            "x_min": 0.4215,
+            "y_min": 0.7271,
+            "x_max": 0.5085,
+            "y_max": 0.7356,
+            "width": 0.087,
+            "height": 0.0086
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "Primata Mammalia",
+          "bbox": {
+            "x_min": 0.5569,
+            "y_min": 0.7271,
+            "x_max": 0.742,
+            "y_max": 0.7361,
+            "width": 0.1851,
+            "height": 0.009
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "Chordata",
+          "bbox": {
+            "x_min": 0.8068,
+            "y_min": 0.7275,
+            "x_max": 0.8844,
+            "y_max": 0.7361,
+            "width": 0.0776,
+            "height": 0.0086
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "Housefly Musca",
+          "bbox": {
+            "x_min": 0.1121,
+            "y_min": 0.7635,
+            "x_max": 0.2609,
+            "y_max": 0.7755,
+            "width": 0.1489,
+            "height": 0.012
+          },
+          "confidence": 0.9848
+        },
+        {
+          "text": "Musca",
+          "bbox": {
+            "x_min": 0.3269,
+            "y_min": 0.7639,
+            "x_max": 0.38,
+            "y_max": 0.7725,
+            "width": 0.0531,
+            "height": 0.0086
+          },
+          "confidence": 0.98
+        },
+        {
+          "text": "Muscidae",
+          "bbox": {
+            "x_min": 0.4203,
+            "y_min": 0.7635,
+            "x_max": 0.4991,
+            "y_max": 0.7721,
+            "width": 0.0788,
+            "height": 0.0086
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "Diptera Insecta",
+          "bbox": {
+            "x_min": 0.554,
+            "y_min": 0.7639,
+            "x_max": 0.7157,
+            "y_max": 0.7742,
+            "width": 0.1617,
+            "height": 0.0103
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "Arthropoda",
+          "bbox": {
+            "x_min": 0.8074,
+            "y_min": 0.7635,
+            "x_max": 0.9002,
+            "y_max": 0.7751,
+            "width": 0.0928,
+            "height": 0.0116
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "domestica",
+          "bbox": {
+            "x_min": 0.2096,
+            "y_min": 0.7789,
+            "x_max": 0.2878,
+            "y_max": 0.7866,
+            "width": 0.0782,
+            "height": 0.0077
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "Mango",
+          "bbox": {
+            "x_min": 0.1103,
+            "y_min": 0.8149,
+            "x_max": 0.1681,
+            "y_max": 0.8252,
+            "width": 0.0578,
+            "height": 0.0103
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "Mangifera\nindica",
+          "bbox": {
+            "x_min": 0.2049,
+            "y_min": 0.8149,
+            "x_max": 0.2878,
+            "y_max": 0.8372,
+            "width": 0.0829,
+            "height": 0.0223
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "Mangifera Anacardiaceae Sapindales Dicotyledonae Angiospermae",
+          "bbox": {
+            "x_min": 0.3287,
+            "y_min": 0.8136,
+            "x_max": 0.9218,
+            "y_max": 0.826,
+            "width": 0.5931,
+            "height": 0.0124
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "Wheat",
+          "bbox": {
+            "x_min": 0.1115,
+            "y_min": 0.8655,
+            "x_max": 0.1664,
+            "y_max": 0.8732,
+            "width": 0.0549,
+            "height": 0.0077
+          },
+          "confidence": 0.9814
+        },
+        {
+          "text": "Triticum",
+          "bbox": {
+            "x_min": 0.2084,
+            "y_min": 0.865,
+            "x_max": 0.2732,
+            "y_max": 0.8736,
+            "width": 0.0648,
+            "height": 0.0086
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "Triticum Poaceae",
+          "bbox": {
+            "x_min": 0.3292,
+            "y_min": 0.865,
+            "x_max": 0.4869,
+            "y_max": 0.8736,
+            "width": 0.1576,
+            "height": 0.0086
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "Poales",
+          "bbox": {
+            "x_min": 0.5563,
+            "y_min": 0.8655,
+            "x_max": 0.6089,
+            "y_max": 0.8732,
+            "width": 0.0525,
+            "height": 0.0077
+          },
+          "confidence": 0.9851
+        },
+        {
+          "text": "Monocotyledonae Angiospermae",
+          "bbox": {
+            "x_min": 0.6573,
+            "y_min": 0.8642,
+            "x_max": 0.9235,
+            "y_max": 0.8766,
+            "width": 0.2662,
+            "height": 0.0124
+          },
+          "confidence": 0.9983
+        },
+        {
+          "text": "aestivum",
+          "bbox": {
+            "x_min": 0.2107,
+            "y_min": 0.8805,
+            "x_max": 0.2802,
+            "y_max": 0.8877,
+            "width": 0.0695,
+            "height": 0.0073
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.9827
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "THE LIVING WORLD",
+          "bbox": {
+            "x_min": 0.1121,
+            "y_min": 0.0827,
+            "x_max": 0.2621,
+            "y_max": 0.0925,
+            "width": 0.15,
+            "height": 0.0099
+          },
+          "confidence": 0.9772
+        },
+        {
+          "text": "9",
+          "bbox": {
+            "x_min": 0.8465,
+            "y_min": 0.084,
+            "x_max": 0.8611,
+            "y_max": 0.093,
+            "width": 0.0146,
+            "height": 0.009
+          },
+          "confidence": 0.9681
+        },
+        {
+          "text": "SUMMARY",
+          "bbox": {
+            "x_min": 0.3514,
+            "y_min": 0.1341,
+            "x_max": 0.4478,
+            "y_max": 0.1448,
+            "width": 0.0963,
+            "height": 0.0107
+          },
+          "confidence": 0.9629
+        },
+        {
+          "text": "The living world is rich in variety. Millions of plants and animals have been\nidentified and described but a large number still remains unknown. The\nvery range of organisms in terms of size, colour, habitat, physiological and\nmorphological features make us seek the defining characteristics of living\norganisms. In order to facilitate the study of kinds and diversity of organisms,\nbiologists have evolved certain rules and principles for identification,\nnomenclature and classification of organisms. The branch of knowledge\ndealing with these aspects is referred to as taxonomy. The taxonomic studies\nof various species of plants and animals are useful in agriculture, forestry,\nindustry and in general for knowing our bio-resources and their diversity.\nThe basics of taxonomy like identification, naming and classification of\norganisms are universally evolved under international codes. Based on the\nresemblances and distinct differences, each organism is identified and\nassigned a correct scientific/biological name comprising two words as per\nthe binomial system of nomenclature. An organism represents/occupies a\nplace or position in the system of classification. There are many categories/\nranks which are generally referred to as taxonomic categories or taxa. All\nthe categories constitute a taxonomic hierarchy.",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.1675,
+            "x_max": 0.6988,
+            "y_max": 0.4944,
+            "width": 0.6281,
+            "height": 0.3269
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "fication of india chanson Unished",
+          "bbox": {
+            "x_min": 0.2715,
+            "y_min": 0.3008,
+            "x_max": 0.9486,
+            "y_max": 0.6585,
+            "width": 0.6772,
+            "height": 0.3578
+          },
+          "confidence": 0.5213
+        },
+        {
+          "text": "EXERCISES",
+          "bbox": {
+            "x_min": 0.3479,
+            "y_min": 0.5124,
+            "x_max": 0.4518,
+            "y_max": 0.5236,
+            "width": 0.1039,
+            "height": 0.0111
+          },
+          "confidence": 0.981
+        },
+        {
+          "text": "1. Why are living organisms classified?",
+          "bbox": {
+            "x_min": 0.0835,
+            "y_min": 0.5398,
+            "x_max": 0.4186,
+            "y_max": 0.5523,
+            "width": 0.3351,
+            "height": 0.0124
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "2. Why are the classification systems changing every now and then?\nchoose",
+          "bbox": {
+            "x_min": 0.0817,
+            "y_min": 0.5523,
+            "x_max": 0.6684,
+            "y_max": 0.5925,
+            "width": 0.5867,
+            "height": 0.0403
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "3. What different criteria would you",
+          "bbox": {
+            "x_min": 0.0817,
+            "y_min": 0.5767,
+            "x_max": 0.3999,
+            "y_max": 0.5887,
+            "width": 0.3182,
+            "height": 0.012
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "meet often?",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.5934,
+            "x_max": 0.2102,
+            "y_max": 0.6024,
+            "width": 0.0963,
+            "height": 0.009
+          },
+          "confidence": 0.9841
+        },
+        {
+          "text": "would you ch",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.5758,
+            "x_max": 0.4232,
+            "y_max": 0.5951,
+            "width": 0.1191,
+            "height": 0.0193
+          },
+          "confidence": 0.8977
+        },
+        {
+          "text": "classify people that you",
+          "bbox": {
+            "x_min": 0.4933,
+            "y_min": 0.5771,
+            "x_max": 0.6964,
+            "y_max": 0.5895,
+            "width": 0.2032,
+            "height": 0.0124
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "4. What do we learn from and populations?",
+          "bbox": {
+            "x_min": 0.0806,
+            "y_min": 0.6114,
+            "x_max": 0.6883,
+            "y_max": 0.6243,
+            "width": 0.6077,
+            "height": 0.0129
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "5. Given below is the scientific name of Mango. Identify the correctly",
+          "bbox": {
+            "x_min": 0.0817,
+            "y_min": 0.6298,
+            "x_max": 0.6976,
+            "y_max": 0.6431,
+            "width": 0.6159,
+            "height": 0.0133
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "written name.",
+          "bbox": {
+            "x_min": 0.1121,
+            "y_min": 0.6478,
+            "x_max": 0.23,
+            "y_max": 0.6564,
+            "width": 0.1179,
+            "height": 0.0086
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "Mangifera Indica",
+          "bbox": {
+            "x_min": 0.1133,
+            "y_min": 0.6654,
+            "x_max": 0.2586,
+            "y_max": 0.6778,
+            "width": 0.1454,
+            "height": 0.0124
+          },
+          "confidence": 0.9984
+        },
+        {
+          "text": "Mangifera indica",
+          "bbox": {
+            "x_min": 0.1133,
+            "y_min": 0.6838,
+            "x_max": 0.2586,
+            "y_max": 0.6958,
+            "width": 0.1454,
+            "height": 0.012
+          },
+          "confidence": 0.9987
+        },
+        {
+          "text": "6. Define a taxon. Give some examples of taxa at different hierarchical\nlevels.",
+          "bbox": {
+            "x_min": 0.0806,
+            "y_min": 0.7022,
+            "x_max": 0.6964,
+            "y_max": 0.7284,
+            "width": 0.6159,
+            "height": 0.0261
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "7. Can you identify the correct sequence of taxonomical categories?",
+          "bbox": {
+            "x_min": 0.0817,
+            "y_min": 0.7374,
+            "x_max": 0.6637,
+            "y_max": 0.7502,
+            "width": 0.582,
+            "height": 0.0129
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.1103,
+            "y_min": 0.7549,
+            "x_max": 0.1343,
+            "y_max": 0.7674,
+            "width": 0.0239,
+            "height": 0.0124
+          },
+          "confidence": 0.9744
+        },
+        {
+          "text": "Species",
+          "bbox": {
+            "x_min": 0.171,
+            "y_min": 0.7562,
+            "x_max": 0.2341,
+            "y_max": 0.7678,
+            "width": 0.063,
+            "height": 0.0116
+          },
+          "confidence": 0.9773
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.1127,
+            "y_min": 0.7738,
+            "x_max": 0.1331,
+            "y_max": 0.7853,
+            "width": 0.0204,
+            "height": 0.0116
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "Genus",
+          "bbox": {
+            "x_min": 0.1687,
+            "y_min": 0.7738,
+            "x_max": 0.2242,
+            "y_max": 0.7836,
+            "width": 0.0555,
+            "height": 0.0099
+          },
+          "confidence": 0.9803
+        },
+        {
+          "text": "(c)",
+          "bbox": {
+            "x_min": 0.1115,
+            "y_min": 0.7918,
+            "x_max": 0.1331,
+            "y_max": 0.8029,
+            "width": 0.0216,
+            "height": 0.0111
+          },
+          "confidence": 0.9298
+        },
+        {
+          "text": "Species",
+          "bbox": {
+            "x_min": 0.1716,
+            "y_min": 0.7922,
+            "x_max": 0.2335,
+            "y_max": 0.8042,
+            "width": 0.0619,
+            "height": 0.012
+          },
+          "confidence": 0.9784
+        },
+        {
+          "text": "-",
+          "bbox": {
+            "x_min": 0.2668,
+            "y_min": 0.7965,
+            "x_max": 0.2802,
+            "y_max": 0.7986,
+            "width": 0.0134,
+            "height": 0.0021
+          },
+          "confidence": 0.8963
+        },
+        {
+          "text": "Order",
+          "bbox": {
+            "x_min": 0.3193,
+            "y_min": 0.7558,
+            "x_max": 0.3736,
+            "y_max": 0.7652,
+            "width": 0.0543,
+            "height": 0.0094
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "Species",
+          "bbox": {
+            "x_min": 0.3222,
+            "y_min": 0.7738,
+            "x_max": 0.3847,
+            "y_max": 0.7858,
+            "width": 0.0625,
+            "height": 0.012
+          },
+          "confidence": 0.9774
+        },
+        {
+          "text": "Genus",
+          "bbox": {
+            "x_min": 0.3193,
+            "y_min": 0.7918,
+            "x_max": 0.3759,
+            "y_max": 0.8016,
+            "width": 0.0566,
+            "height": 0.0099
+          },
+          "confidence": 0.9828
+        },
+        {
+          "text": "←",
+          "bbox": {
+            "x_min": 0.4168,
+            "y_min": 0.7952,
+            "x_max": 0.4402,
+            "y_max": 0.8003,
+            "width": 0.0234,
+            "height": 0.0051
+          },
+          "confidence": 0.949
+        },
+        {
+          "text": "Phylum",
+          "bbox": {
+            "x_min": 0.4641,
+            "y_min": 0.7549,
+            "x_max": 0.5277,
+            "y_max": 0.7682,
+            "width": 0.0636,
+            "height": 0.0133
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "Order",
+          "bbox": {
+            "x_min": 0.4623,
+            "y_min": 0.7738,
+            "x_max": 0.5161,
+            "y_max": 0.7832,
+            "width": 0.0537,
+            "height": 0.0094
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "Order",
+          "bbox": {
+            "x_min": 0.4623,
+            "y_min": 0.7922,
+            "x_max": 0.5161,
+            "y_max": 0.8012,
+            "width": 0.0537,
+            "height": 0.009
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "Kingdom",
+          "bbox": {
+            "x_min": 0.6153,
+            "y_min": 0.7558,
+            "x_max": 0.6894,
+            "y_max": 0.7682,
+            "width": 0.0741,
+            "height": 0.0124
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "Kingdom",
+          "bbox": {
+            "x_min": 0.6135,
+            "y_min": 0.7742,
+            "x_max": 0.6894,
+            "y_max": 0.7862,
+            "width": 0.0759,
+            "height": 0.012
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "Phylum",
+          "bbox": {
+            "x_min": 0.6147,
+            "y_min": 0.7918,
+            "x_max": 0.6801,
+            "y_max": 0.8046,
+            "width": 0.0654,
+            "height": 0.0129
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "8. Try to collect all the currently accepted meanings for the word 'species'.\nDiscuss with your teacher the meaning of species in case of higher\nplants and animals on one hand, and bacteria on the other hand.",
+          "bbox": {
+            "x_min": 0.0806,
+            "y_min": 0.8098,
+            "x_max": 0.697,
+            "y_max": 0.856,
+            "width": 0.6165,
+            "height": 0.0463
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "9. Define and understand the following terms:",
+          "bbox": {
+            "x_min": 0.0811,
+            "y_min": 0.862,
+            "x_max": 0.4769,
+            "y_max": 0.8745,
+            "width": 0.3958,
+            "height": 0.0124
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "(i) Phylum (ii) Class (iii) Family (iv) Order (v) Genus",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.8796,
+            "x_max": 0.5569,
+            "y_max": 0.8933,
+            "width": 0.4431,
+            "height": 0.0137
+          },
+          "confidence": 0.9753
+        },
+        {
+          "text": "10. Illustrate the taxonomical hierarchy with suitable examples of a plant\nand an animal.",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.8985,
+            "x_max": 0.6964,
+            "y_max": 0.9254,
+            "width": 0.6223,
+            "height": 0.027
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.9827
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

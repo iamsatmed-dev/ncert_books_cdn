@@ -1,0 +1,5760 @@
+{
+  "chapter_id": "11th_biology_ch04_animal_kingdom_ch04_animal_kingdom_en",
+  "total_pages": 18,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "11080CH04",
+          "bbox": {
+            "x_min": 0.7992,
+            "y_min": 0.2125,
+            "x_max": 0.8441,
+            "y_max": 0.2172,
+            "width": 0.045,
+            "height": 0.0047
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "4.1 Basis of",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.4524,
+            "x_max": 0.1763,
+            "y_max": 0.4636,
+            "width": 0.1057,
+            "height": 0.0111
+          },
+          "confidence": 0.9832
+        },
+        {
+          "text": "Classification",
+          "bbox": {
+            "x_min": 0.1062,
+            "y_min": 0.4717,
+            "x_max": 0.2172,
+            "y_max": 0.482,
+            "width": 0.1109,
+            "height": 0.0103
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "4.2 Classification of\nAnimals",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.4979,
+            "x_max": 0.2399,
+            "y_max": 0.5261,
+            "width": 0.1687,
+            "height": 0.0283
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "CHAPTER 4",
+          "bbox": {
+            "x_min": 0.3082,
+            "y_min": 0.3243,
+            "x_max": 0.4904,
+            "y_max": 0.35,
+            "width": 0.1821,
+            "height": 0.0257
+          },
+          "confidence": 0.9663
+        },
+        {
+          "text": "ANIMAL KINGDOM",
+          "bbox": {
+            "x_min": 0.3082,
+            "y_min": 0.3745,
+            "x_max": 0.6013,
+            "y_max": 0.4027,
+            "width": 0.2931,
+            "height": 0.0283
+          },
+          "confidence": 0.9006
+        },
+        {
+          "text": "ou will",
+          "bbox": {
+            "x_min": 0.4927,
+            "y_min": 0.4434,
+            "x_max": 0.5429,
+            "y_max": 0.4614,
+            "width": 0.0502,
+            "height": 0.018
+          },
+          "confidence": 0.6763
+        },
+        {
+          "text": "When you look around, you will observe different animals with different\nstructures and forms. As over a million species of animals have been\ndescribed till now, the need for classification becomes all the more\nimportant. The classification also helps in assigning a systematic position\nto newly described species.",
+          "bbox": {
+            "x_min": 0.268,
+            "y_min": 0.4507,
+            "x_max": 0.8943,
+            "y_max": 0.5351,
+            "width": 0.6264,
+            "height": 0.0844
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "BASIS OF CLASSIFICATOR MARTINENTished",
+          "bbox": {
+            "x_min": 0.2639,
+            "y_min": 0.3021,
+            "x_max": 0.937,
+            "y_max": 0.6328,
+            "width": 0.6731,
+            "height": 0.3308
+          },
+          "confidence": 0.617
+        },
+        {
+          "text": "4.1 OF",
+          "bbox": {
+            "x_min": 0.2691,
+            "y_min": 0.5613,
+            "x_max": 0.4227,
+            "y_max": 0.5741,
+            "width": 0.1535,
+            "height": 0.0129
+          },
+          "confidence": 0.9817
+        },
+        {
+          "text": "Inspite of differences in structure and form of different animals, there are\nfundamental features common to various individuals in relation to the\narrangement of cells, body symmetry, nature of coelom, patterns of\ndigestive, circulatory or reproductive systems. These features are used\nas the basis of animal classification and some of them are discussed here.",
+          "bbox": {
+            "x_min": 0.2703,
+            "y_min": 0.5968,
+            "x_max": 0.8961,
+            "y_max": 0.6782,
+            "width": 0.6258,
+            "height": 0.0814
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "4.1.1 Levels of Organisation",
+          "bbox": {
+            "x_min": 0.2703,
+            "y_min": 0.6997,
+            "x_max": 0.5844,
+            "y_max": 0.7142,
+            "width": 0.3141,
+            "height": 0.0146
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "no",
+          "bbox": {
+            "x_min": 0.1903,
+            "y_min": 0.7309,
+            "x_max": 0.2977,
+            "y_max": 0.8183,
+            "width": 0.1074,
+            "height": 0.0874
+          },
+          "confidence": 0.9209
+        },
+        {
+          "text": "Though all members of Animalia are multicellular, all of them do not\nexhibit the same pattern of organisation of cells. For example, in sponges,\nthe cells are arranged as loose cell aggregates, i.e., they exhibit cellular\nlevel of organisation. Some division of labour (activities) occur among\nthe cells. In coelenterates, the arrangement of cells is more complex. Here\nthe cells performing the same function are arranged into tissues, hence is\ncalled tissue level of organisation. A still higher level of organisation, i.e.,\norgan level is exhibited by members of Platyhelminthes and other higher\nphyla where tissues are grouped together to form organs, each specialised\nfor a particular function. In animals like Annelids, Arthropods, Molluscs,",
+          "bbox": {
+            "x_min": 0.2691,
+            "y_min": 0.7266,
+            "x_max": 0.8943,
+            "y_max": 0.9002,
+            "width": 0.6252,
+            "height": 0.1735
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "38",
+          "bbox": {
+            "x_min": 0.1162,
+            "y_min": 0.084,
+            "x_max": 0.1465,
+            "y_max": 0.093,
+            "width": 0.0304,
+            "height": 0.009
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0689,
+            "height": 0.0094
+          },
+          "confidence": 0.9794
+        },
+        {
+          "text": "Figure 4.1 (a) Radial symmetry",
+          "bbox": {
+            "x_min": 0.1658,
+            "y_min": 0.3436,
+            "x_max": 0.4378,
+            "y_max": 0.356,
+            "width": 0.272,
+            "height": 0.0124
+          },
+          "confidence": 0.9859
+        },
+        {
+          "text": "Echinoderms and Chordates, organs have\nassociated to form functional systems, each\nsystem concerned with a specific physiological\nfunction. This pattern is called organ system\nlevel of organisation. Organ systems in different\ngroups of animals exhibit various patterns of\ncomplexities. For example, the digestive system\nin Platyhelminthes has only a single opening\nto the outside of the body that serves as both\nmouth and anus, and is hence called\nincomplete. A complete digestive system has\ntwo openings, mouth and anus. Similarly, the\ncirculatory system may be of two types:",
+          "bbox": {
+            "x_min": 0.5306,
+            "y_min": 0.1358,
+            "x_max": 0.9282,
+            "y_max": 0.3629,
+            "width": 0.3975,
+            "height": 0.2271
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "(i) open type in which the blood is pumped\nout of the heart and the cells and tissues are\ndirectly bathed in it and",
+          "bbox": {
+            "x_min": 0.5318,
+            "y_min": 0.3706,
+            "x_max": 0.9259,
+            "y_max": 0.4199,
+            "width": 0.394,
+            "height": 0.0493
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "(ii) closed type in which the blood is circulated\nthrough a series of vessels of varying diameters\n(arteries, veins and capillaries).",
+          "bbox": {
+            "x_min": 0.5312,
+            "y_min": 0.4284,
+            "x_max": 0.9264,
+            "y_max": 0.4769,
+            "width": 0.3952,
+            "height": 0.0484
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "4.1.2 Symmetry",
+          "bbox": {
+            "x_min": 0.5318,
+            "y_min": 0.4961,
+            "x_max": 0.7198,
+            "y_max": 0.5107,
+            "width": 0.188,
+            "height": 0.0146
+          },
+          "confidence": 0.9819
+        },
+        {
+          "text": "er",
+          "bbox": {
+            "x_min": 0.4297,
+            "y_min": 0.5523,
+            "x_max": 0.5458,
+            "y_max": 0.6435,
+            "width": 0.1162,
+            "height": 0.0913
+          },
+          "confidence": 0.9717
+        },
+        {
+          "text": "Figure 4.1 (b) Bilateral symmetry",
+          "bbox": {
+            "x_min": 0.1699,
+            "y_min": 0.6255,
+            "x_max": 0.4548,
+            "y_max": 0.6384,
+            "width": 0.2849,
+            "height": 0.0129
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "-Ectoderm",
+          "bbox": {
+            "x_min": 0.2598,
+            "y_min": 0.6752,
+            "x_max": 0.3403,
+            "y_max": 0.6834,
+            "width": 0.0806,
+            "height": 0.0081
+          },
+          "confidence": 0.9628
+        },
+        {
+          "text": "Mesoglea",
+          "bbox": {
+            "x_min": 0.1249,
+            "y_min": 0.6829,
+            "x_max": 0.2026,
+            "y_max": 0.6941,
+            "width": 0.0776,
+            "height": 0.0111
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.1985,
+            "y_min": 0.8432,
+            "x_max": 0.2207,
+            "y_max": 0.8543,
+            "width": 0.0222,
+            "height": 0.0111
+          },
+          "confidence": 0.9755
+        },
+        {
+          "text": "Endoderm",
+          "bbox": {
+            "x_min": 0.2621,
+            "y_min": 0.7014,
+            "x_max": 0.3462,
+            "y_max": 0.7104,
+            "width": 0.0841,
+            "height": 0.009
+          },
+          "confidence": 0.9859
+        },
+        {
+          "text": "Mesoderm",
+          "bbox": {
+            "x_min": 0.2825,
+            "y_min": 0.8342,
+            "x_max": 0.3678,
+            "y_max": 0.8428,
+            "width": 0.0852,
+            "height": 0.0086
+          },
+          "confidence": 0.9803
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.4116,
+            "y_min": 0.841,
+            "x_max": 0.4308,
+            "y_max": 0.8518,
+            "width": 0.0193,
+            "height": 0.0107
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "Figure 4.2 Showing germinal layers :\n(a) Diploblastic (b) Triploblastic",
+          "bbox": {
+            "x_min": 0.1092,
+            "y_min": 0.8762,
+            "x_max": 0.4781,
+            "y_max": 0.904,
+            "width": 0.3689,
+            "height": 0.0278
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "Animals can be categorised on the basis of their\nsymmetry. Sponges are mostly asymmetrical,\ni.e.,\ni.e., \nany plane that passes through the centre\ndoes not divide them into equal halves. When\nany plane passing through the central axis of\nthe body divides the organism into two identical\nhalves, it is called radial symmetry.\nCoelenterates, ctenophores and echinoderms\nhave this kind of body plan (Figure 4.1a).\nAnimals like annelids, arthropods, etc., where\nthe body can be divided into identical left and\nright halves in only one plane, exhibit bilateral\nsymmetry (Figure 4.1b).",
+          "bbox": {
+            "x_min": 0.5242,
+            "y_min": 0.5223,
+            "x_max": 0.9288,
+            "y_max": 0.7429,
+            "width": 0.4046,
+            "height": 0.2207
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "4.1.3 Diploblastic and Triploblastic\nOrganisation",
+          "bbox": {
+            "x_min": 0.5306,
+            "y_min": 0.7601,
+            "x_max": 0.9264,
+            "y_max": 0.7939,
+            "width": 0.3958,
+            "height": 0.0338
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "Animals in which the cells are arranged in two\nembryonic layers, an external ectoderm and\nan internal endoderm, are called diploblastic\nanimals, e.g., coelenterates. An undifferentiated\nlayer, mesoglea, is present in between the\nectoderm and the endoderm (Figure 4.2a).",
+          "bbox": {
+            "x_min": 0.5295,
+            "y_min": 0.8055,
+            "x_max": 0.9259,
+            "y_max": 0.9049,
+            "width": 0.3964,
+            "height": 0.0994
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "ANIMAL KINGDOM",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.0827,
+            "x_max": 0.2043,
+            "y_max": 0.0925,
+            "width": 0.1343,
+            "height": 0.0099
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "39",
+          "bbox": {
+            "x_min": 0.8471,
+            "y_min": 0.0844,
+            "x_max": 0.8751,
+            "y_max": 0.0925,
+            "width": 0.028,
+            "height": 0.0081
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "Those animals in which the developing embryo has a third germinal layer,\nmesoderm, in between the ectoderm and endoderm, are called\ntriploblastic animals (platyhelminthes to chordates, Figure 4.2b).",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1358,
+            "x_max": 0.697,
+            "y_max": 0.1864,
+            "width": 0.6252,
+            "height": 0.0506
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "4.1.4 Coelom",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.2202,
+            "x_max": 0.2329,
+            "y_max": 0.2318,
+            "width": 0.1605,
+            "height": 0.0116
+          },
+          "confidence": 0.9764
+        },
+        {
+          "text": "Coelom",
+          "bbox": {
+            "x_min": 0.5219,
+            "y_min": 0.2099,
+            "x_max": 0.5838,
+            "y_max": 0.2181,
+            "width": 0.0619,
+            "height": 0.0081
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.5785,
+            "y_min": 0.3608,
+            "x_max": 0.6001,
+            "y_max": 0.3715,
+            "width": 0.0216,
+            "height": 0.0107
+          },
+          "confidence": 0.9753
+        },
+        {
+          "text": "Pseudocoelom",
+          "bbox": {
+            "x_min": 0.641,
+            "y_min": 0.2121,
+            "x_max": 0.756,
+            "y_max": 0.2211,
+            "width": 0.115,
+            "height": 0.009
+          },
+          "confidence": 0.9812
+        },
+        {
+          "text": "000",
+          "bbox": {
+            "x_min": 0.7385,
+            "y_min": 0.2691,
+            "x_max": 0.8628,
+            "y_max": 0.3068,
+            "width": 0.1243,
+            "height": 0.0377
+          },
+          "confidence": 0.9455
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.7933,
+            "y_min": 0.3629,
+            "x_max": 0.8144,
+            "y_max": 0.3732,
+            "width": 0.021,
+            "height": 0.0103
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "Presence or absence of a cavity between the body\nwall and the gut wall is very important in\nclassification. The body cavity, which is lined\nby mesoderm is called coelom. Animals\npossessing coelom are called coelomates, e.g.,\nannelids, molluscs, arthropods, echinoderms,\nhemichordates and chordates (Figure 4.3a). In\nsome animals, the body cavity is not lined by\nmesoderm, instead, the mesoderm is present as\nscattered pouches in between the ectoderm and\nendoderm. Such a body cavity is called\npseudocoelom and the animals possessing them\ncalled pseudocoelomates, e.g.,\naschelminthes (Figure 4.3b). The animals in\nwhich the body cavity is absent are called Figure 4.3 Diagrammatic sectional view of :\nacoelomates, e.g., platyhelminthes (Figure 4.3c).",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.2468,
+            "x_max": 0.8786,
+            "y_max": 0.5488,
+            "width": 0.8068,
+            "height": 0.3021
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "are",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.4799,
+            "x_max": 0.1045,
+            "y_max": 0.4867,
+            "width": 0.0321,
+            "height": 0.0069
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "4.1.5 Segmentation",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.5818,
+            "x_max": 0.3018,
+            "y_max": 0.5964,
+            "width": 0.2294,
+            "height": 0.0146
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "R",
+          "bbox": {
+            "x_min": 0.4939,
+            "y_min": 0.4152,
+            "x_max": 0.6095,
+            "y_max": 0.4867,
+            "width": 0.1156,
+            "height": 0.0716
+          },
+          "confidence": 0.9457
+        },
+        {
+          "text": "(c)",
+          "bbox": {
+            "x_min": 0.6836,
+            "y_min": 0.497,
+            "x_max": 0.7034,
+            "y_max": 0.5081,
+            "width": 0.0198,
+            "height": 0.0111
+          },
+          "confidence": 0.9383
+        },
+        {
+          "text": "(a) Coelomate (b) Pseudocoelomate\n(c) Acoelomate",
+          "bbox": {
+            "x_min": 0.6025,
+            "y_min": 0.5321,
+            "x_max": 0.8797,
+            "y_max": 0.5578,
+            "width": 0.2773,
+            "height": 0.0257
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "In some animals, the body\nexternally and internally divided into\nsegments with a serial repetition of at least some organs. For example, in\nearthworm, the body shows this pattern called metameric segmentation",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.6063,
+            "x_max": 0.6982,
+            "y_max": 0.6615,
+            "width": 0.6252,
+            "height": 0.0553
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "4.1.6 Notochord",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.6962,
+            "x_max": 0.2604,
+            "y_max": 0.7078,
+            "width": 0.1909,
+            "height": 0.0116
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "Notochord is a mesodermally derived rod-like structure formed on the\ndorsal side during embryonic development in some animals. Animals with\nnotochord are called chordates and those animals which do not form this\nstructure are called non-chordates, e.g., porifera to echinoderms.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.7232,
+            "x_max": 0.6976,
+            "y_max": 0.7922,
+            "width": 0.6252,
+            "height": 0.069
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "4.2 CLASSIFICATION OF ANIMALS",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.8183,
+            "x_max": 0.4005,
+            "y_max": 0.8295,
+            "width": 0.331,
+            "height": 0.0111
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "The broad classification of Animalia, based on common fundamental\nfeatures as mentioned in the preceding sections, is given in Figure 4.4.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.8535,
+            "x_max": 0.6976,
+            "y_max": 0.8847,
+            "width": 0.6258,
+            "height": 0.0313
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "40",
+          "bbox": {
+            "x_min": 0.1162,
+            "y_min": 0.0844,
+            "x_max": 0.1454,
+            "y_max": 0.0925,
+            "width": 0.0292,
+            "height": 0.0081
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "Kingdom",
+          "bbox": {
+            "x_min": 0.1529,
+            "y_min": 0.1457,
+            "x_max": 0.2259,
+            "y_max": 0.1568,
+            "width": 0.073,
+            "height": 0.0111
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "Levels of\nOrganisation",
+          "bbox": {
+            "x_min": 0.2802,
+            "y_min": 0.1427,
+            "x_max": 0.3812,
+            "y_max": 0.1675,
+            "width": 0.101,
+            "height": 0.0249
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "Symmetry",
+          "bbox": {
+            "x_min": 0.4361,
+            "y_min": 0.1495,
+            "x_max": 0.519,
+            "y_max": 0.1607,
+            "width": 0.0829,
+            "height": 0.0111
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "Body Cavity\nor Coelom",
+          "bbox": {
+            "x_min": 0.5809,
+            "y_min": 0.1461,
+            "x_max": 0.6783,
+            "y_max": 0.168,
+            "width": 0.0975,
+            "height": 0.0219
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "Phylum",
+          "bbox": {
+            "x_min": 0.7653,
+            "y_min": 0.1487,
+            "x_max": 0.8284,
+            "y_max": 0.1607,
+            "width": 0.063,
+            "height": 0.012
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "Cellular level",
+          "bbox": {
+            "x_min": 0.2761,
+            "y_min": 0.1778,
+            "x_max": 0.3771,
+            "y_max": 0.1864,
+            "width": 0.101,
+            "height": 0.0086
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "mostly\nasymmetrical",
+          "bbox": {
+            "x_min": 0.4221,
+            "y_min": 0.1782,
+            "x_max": 0.5248,
+            "y_max": 0.2022,
+            "width": 0.1027,
+            "height": 0.024
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "acoelomata",
+          "bbox": {
+            "x_min": 0.6054,
+            "y_min": 0.1782,
+            "x_max": 0.6912,
+            "y_max": 0.1868,
+            "width": 0.0858,
+            "height": 0.0086
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "Porifera",
+          "bbox": {
+            "x_min": 0.7612,
+            "y_min": 0.1795,
+            "x_max": 0.8208,
+            "y_max": 0.1868,
+            "width": 0.0595,
+            "height": 0.0073
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0689,
+            "height": 0.0094
+          },
+          "confidence": 0.9805
+        },
+        {
+          "text": "Animalia\n(multicellular)",
+          "bbox": {
+            "x_min": 0.1389,
+            "y_min": 0.2335,
+            "x_max": 0.2452,
+            "y_max": 0.2575,
+            "width": 0.1062,
+            "height": 0.024
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "Tissue/Organ/\nOrgan system",
+          "bbox": {
+            "x_min": 0.272,
+            "y_min": 0.2776,
+            "x_max": 0.3894,
+            "y_max": 0.3033,
+            "width": 0.1173,
+            "height": 0.0257
+          },
+          "confidence": 0.9818
+        },
+        {
+          "text": "Radial",
+          "bbox": {
+            "x_min": 0.4191,
+            "y_min": 0.2352,
+            "x_max": 0.4717,
+            "y_max": 0.2434,
+            "width": 0.0525,
+            "height": 0.0081
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "Bilateral",
+          "bbox": {
+            "x_min": 0.4197,
+            "y_min": 0.3316,
+            "x_max": 0.4851,
+            "y_max": 0.3393,
+            "width": 0.0654,
+            "height": 0.0077
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "acoelomata",
+          "bbox": {
+            "x_min": 0.5441,
+            "y_min": 0.2361,
+            "x_max": 0.6305,
+            "y_max": 0.2438,
+            "width": 0.0864,
+            "height": 0.0077
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "Without body cavity.\n(acoelomates)",
+          "bbox": {
+            "x_min": 0.5587,
+            "y_min": 0.2746,
+            "x_max": 0.7169,
+            "y_max": 0.2982,
+            "width": 0.1582,
+            "height": 0.0236
+          },
+          "confidence": 0.9684
+        },
+        {
+          "text": "With false coelom\n(pseudocoelomates)",
+          "bbox": {
+            "x_min": 0.5657,
+            "y_min": 0.3149,
+            "x_max": 0.714,
+            "y_max": 0.3402,
+            "width": 0.1483,
+            "height": 0.0253
+          },
+          "confidence": 0.9789
+        },
+        {
+          "text": "With true coelom\n(coelomates)",
+          "bbox": {
+            "x_min": 0.5645,
+            "y_min": 0.3728,
+            "x_max": 0.6999,
+            "y_max": 0.3976,
+            "width": 0.1354,
+            "height": 0.0249
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "Coelenterata\n(Cnidaria)",
+          "bbox": {
+            "x_min": 0.7566,
+            "y_min": 0.2057,
+            "x_max": 0.8541,
+            "y_max": 0.2292,
+            "width": 0.0975,
+            "height": 0.0236
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "Ctenophora",
+          "bbox": {
+            "x_min": 0.7542,
+            "y_min": 0.2464,
+            "x_max": 0.8488,
+            "y_max": 0.2584,
+            "width": 0.0946,
+            "height": 0.012
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "Platyhelminthes",
+          "bbox": {
+            "x_min": 0.7566,
+            "y_min": 0.2759,
+            "x_max": 0.8786,
+            "y_max": 0.2871,
+            "width": 0.122,
+            "height": 0.0111
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "Aschelminthes",
+          "bbox": {
+            "x_min": 0.7566,
+            "y_min": 0.3179,
+            "x_max": 0.8733,
+            "y_max": 0.3265,
+            "width": 0.1168,
+            "height": 0.0086
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "Annelida\nArthropoda\nMollusca",
+          "bbox": {
+            "x_min": 0.7601,
+            "y_min": 0.3475,
+            "x_max": 0.8511,
+            "y_max": 0.3822,
+            "width": 0.0911,
+            "height": 0.0347
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "*Echinodermata\nHemichordata\nChordata",
+          "bbox": {
+            "x_min": 0.7612,
+            "y_min": 0.3877,
+            "x_max": 0.8873,
+            "y_max": 0.422,
+            "width": 0.1261,
+            "height": 0.0343
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "*Echinodermata exhibits radial or bilateral symmetry depending on the stage.\nFigure 4.4 Broad classification of Kingdom Animalia based on common fundamental features",
+          "bbox": {
+            "x_min": 0.1197,
+            "y_min": 0.4413,
+            "x_max": 0.9142,
+            "y_max": 0.4713,
+            "width": 0.7945,
+            "height": 0.03
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.1489,
+            "y_min": 0.7296,
+            "x_max": 0.1699,
+            "y_max": 0.7412,
+            "width": 0.021,
+            "height": 0.0116
+          },
+          "confidence": 0.9728
+        },
+        {
+          "text": "Figure 4.5",
+          "bbox": {
+            "x_min": 0.1027,
+            "y_min": 0.8762,
+            "x_max": 0.1961,
+            "y_max": 0.8886,
+            "width": 0.0934,
+            "height": 0.0124
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "(c)",
+          "bbox": {
+            "x_min": 0.2995,
+            "y_min": 0.8535,
+            "x_max": 0.3211,
+            "y_max": 0.8646,
+            "width": 0.0216,
+            "height": 0.0111
+          },
+          "confidence": 0.9363
+        },
+        {
+          "text": "nimalia",
+          "bbox": {
+            "x_min": 0.5085,
+            "y_min": 0.4529,
+            "x_max": 0.5733,
+            "y_max": 0.4751,
+            "width": 0.0648,
+            "height": 0.0223
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "The important characteristic features of the\ndifferent phyla are described.",
+          "bbox": {
+            "x_min": 0.5108,
+            "y_min": 0.4824,
+            "x_max": 0.9259,
+            "y_max": 0.5133,
+            "width": 0.4151,
+            "height": 0.0308
+          },
+          "confidence": 0.9972
+        },
+        {
+          "text": "NCE",
+          "bbox": {
+            "x_min": 0.366,
+            "y_min": 0.4524,
+            "x_max": 0.5406,
+            "y_max": 0.5733,
+            "width": 0.1745,
+            "height": 0.1208
+          },
+          "confidence": 0.8792
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.3812,
+            "y_min": 0.7048,
+            "x_max": 0.4022,
+            "y_max": 0.7155,
+            "width": 0.021,
+            "height": 0.0107
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "Examples of Porifera : (a) Sycon\n(b) Euspongia (c) Spongilla",
+          "bbox": {
+            "x_min": 0.2189,
+            "y_min": 0.877,
+            "x_max": 0.4898,
+            "y_max": 0.9045,
+            "width": 0.2709,
+            "height": 0.0274
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "4.2.1 Phylum – Porifera",
+          "bbox": {
+            "x_min": 0.5108,
+            "y_min": 0.5266,
+            "x_max": 0.7817,
+            "y_max": 0.5407,
+            "width": 0.2709,
+            "height": 0.0141
+          },
+          "confidence": 0.9675
+        },
+        {
+          "text": "Members of this phylum are commonly known\nas sponges. They are generally marine and mostly\nasymmetrical animals (Figure 4.5). These are\nprimitive multicellular animals and have cellular\nlevel of organisation. Sponges have a water\ntransport or canal system. Water enters through\nminute pores (ostia) in the body wall into a central\ncavity, spongocoel, from where it goes out\nthrough the osculum. This pathway of water\ntransport is helpful in food gathering, respiratory\nexchange and removal of waste. Choanocytes\nor collar cells line the spongocoel and the canals.\nDigestion is intracellular. The body is supported\nby a skeleton made up of spicules or spongin\nfibres. Sexes are not separate (hermaphrodite),\ni.e., eggs and sperms are produced by the same\nindividual. Sponges reproduce asexually by\nfragmentation and sexually by formation of\ngametes. Fertilisation is internal and development\nis indirect having a larval stage which is\nmorphologically distinct from the adult.",
+          "bbox": {
+            "x_min": 0.5102,
+            "y_min": 0.5514,
+            "x_max": 0.9276,
+            "y_max": 0.9087,
+            "width": 0.4174,
+            "height": 0.3573
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "ANIMAL KINGDOM",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.0827,
+            "x_max": 0.2049,
+            "y_max": 0.0925,
+            "width": 0.1354,
+            "height": 0.0099
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "Examples: Sycon (Scypha), Spongilla (Fresh water sponge) and Euspongia\n(Bath sponge).",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.135,
+            "x_max": 0.7005,
+            "y_max": 0.1671,
+            "width": 0.6281,
+            "height": 0.0321
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "4.2.2 Phylum – Coelenterata (Cnidaria)",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.1851,
+            "x_max": 0.4962,
+            "y_max": 0.2001,
+            "width": 0.4238,
+            "height": 0.015
+          },
+          "confidence": 0.9837
+        },
+        {
+          "text": "They are aquatic, mostly marine, sessile or free-swimming, radially\nsymmetrical animals (Figure 4.6). The name cnidaria is derived from the",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.2121,
+            "x_max": 0.6982,
+            "y_max": 0.2425,
+            "width": 0.6258,
+            "height": 0.0304
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.2691,
+            "y_min": 0.5403,
+            "x_max": 0.2919,
+            "y_max": 0.5518,
+            "width": 0.0228,
+            "height": 0.0116
+          },
+          "confidence": 0.9734
+        },
+        {
+          "text": "NCERT",
+          "bbox": {
+            "x_min": 0.3503,
+            "y_min": 0.3933,
+            "x_max": 0.6299,
+            "y_max": 0.5848,
+            "width": 0.2796,
+            "height": 0.1915
+          },
+          "confidence": 0.9737
+        },
+        {
+          "text": "punished",
+          "bbox": {
+            "x_min": 0.5412,
+            "y_min": 0.3059,
+            "x_max": 0.8751,
+            "y_max": 0.5536,
+            "width": 0.3339,
+            "height": 0.2476
+          },
+          "confidence": 0.7421
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.6246,
+            "y_min": 0.5424,
+            "x_max": 0.6457,
+            "y_max": 0.5527,
+            "width": 0.021,
+            "height": 0.0103
+          },
+          "confidence": 0.9722
+        },
+        {
+          "text": "Figure 4.6 Examples of Coelenterata indicating outline of their body form :",
+          "bbox": {
+            "x_min": 0.1407,
+            "y_min": 0.5634,
+            "x_max": 0.8301,
+            "y_max": 0.5767,
+            "width": 0.6894,
+            "height": 0.0133
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "(a) Aurelia (Medusa) (b) Adamsia (Polyp)",
+          "bbox": {
+            "x_min": 0.2551,
+            "y_min": 0.5775,
+            "x_max": 0.5832,
+            "y_max": 0.5904,
+            "width": 0.3281,
+            "height": 0.0129
+          },
+          "confidence": 0.9826
+        },
+        {
+          "text": "cnidoblasts or cnidocytes (which contain the stinging capsules or\nnematocysts) present on the tentacles and the body. Cnidoblasts are used\nfor anchorage, defense and for the capture of prey (Figure 4.7). Cnidarians\nexhibit tissue level of organisation and are diploblastic. They have a central\ngastro-vascular cavity with a single opening, mouth on hypostome.\nDigestion is extracellular and intracellular. Some of the cnidarians, e.g.,\ncorals have a skeleton composed of calcium carbonate. Cnidarians exhibit\ntwo basic body forms called polyp and medusa (Figure 4.6). The former\nis a sessile and cylindrical form like Hydra, Adamsia, etc. whereas, the\nlatter is umbrella-shaped and free-swimming like Aurelia or jelly fish. Figure 4.7\nThose cnidarians which exist in both forms exhibit alternation of Diagrammatic view of\nCnidoblast\ngenerations (Metagenesis), i.e., polyps produce medusae asexually and",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.6165,
+            "x_max": 0.8885,
+            "y_max": 0.8342,
+            "width": 0.8167,
+            "height": 0.2177
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "medusae form the polyps sexually (e.g., Obelia).",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.8393,
+            "x_max": 0.4898,
+            "y_max": 0.853,
+            "width": 0.4162,
+            "height": 0.0137
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "Examples: Physalia (Portuguese man-of-war), Adamsia (Sea anemone),\nPennatula (Sea-pen), Gorgonia (Sea-fan) and Meandrina (Brain coral).",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.865,
+            "x_max": 0.6964,
+            "y_max": 0.8972,
+            "width": 0.6241,
+            "height": 0.0321
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "41",
+          "bbox": {
+            "x_min": 0.8447,
+            "y_min": 0.084,
+            "x_max": 0.8727,
+            "y_max": 0.093,
+            "width": 0.028,
+            "height": 0.009
+          },
+          "confidence": 0.9889
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "42",
+          "bbox": {
+            "x_min": 0.1162,
+            "y_min": 0.0844,
+            "x_max": 0.1465,
+            "y_max": 0.0925,
+            "width": 0.0304,
+            "height": 0.0081
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8581,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0671,
+            "height": 0.0094
+          },
+          "confidence": 0.9739
+        },
+        {
+          "text": "Figure 4.8 Example of\nCtenophora\n(Pleurobrachia)",
+          "bbox": {
+            "x_min": 0.1033,
+            "y_min": 0.4537,
+            "x_max": 0.3287,
+            "y_max": 0.4944,
+            "width": 0.2253,
+            "height": 0.0407
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "C",
+          "bbox": {
+            "x_min": 0.3071,
+            "y_min": 0.5746,
+            "x_max": 0.3695,
+            "y_max": 0.6178,
+            "width": 0.0625,
+            "height": 0.0433
+          },
+          "confidence": 0.9268
+        },
+        {
+          "text": "4.2.3 Phylum – Ctenophora",
+          "bbox": {
+            "x_min": 0.39,
+            "y_min": 0.1332,
+            "x_max": 0.7093,
+            "y_max": 0.1491,
+            "width": 0.3193,
+            "height": 0.0159
+          },
+          "confidence": 0.9664
+        },
+        {
+          "text": "Ctenophores, commonly known as sea walnuts or comb\njellies are exclusively marine, radially symmetrical, diploblastic\norganisms with tissue level of organisation. The body bears\neight external rows of ciliated comb plates, which help in\nlocomotion (Figure 4.8). Digestion is both extracellular and\nintracellular. Bioluminescence (the property of a living\norganism to emit light) is well-marked in ctenophores. Sexes\nare not separate. Reproduction takes place only by sexual\nmeans. Fertilisation is external with indirect development.",
+          "bbox": {
+            "x_min": 0.3888,
+            "y_min": 0.1607,
+            "x_max": 0.9264,
+            "y_max": 0.3106,
+            "width": 0.5377,
+            "height": 0.15
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "Examples: Pleurobrachia and Ctenoplana.",
+          "bbox": {
+            "x_min": 0.3905,
+            "y_min": 0.3205,
+            "x_max": 0.7612,
+            "y_max": 0.3325,
+            "width": 0.3707,
+            "height": 0.012
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "4.2.4 Phylum – Platyhelminthes",
+          "bbox": {
+            "x_min": 0.39,
+            "y_min": 0.3586,
+            "x_max": 0.749,
+            "y_max": 0.3736,
+            "width": 0.359,
+            "height": 0.015
+          },
+          "confidence": 0.9791
+        },
+        {
+          "text": "They have dorso-ventrally flattened body, hence are called\nflatworms (Figure 4.9). These are mostly endoparasites found\nin animals including human beings. Flatworms are bilaterally\nsymmetrical, triploblastic and acoelomate animals with organ\nlevel of organisation. Hooks and suckers are present in the\nparasitic forms. Some of them absorb nutrients from the host\ndirectly through their body surface. Specialised cells called\nflame cells help in osmoregulation and excretion. Sexes are not\nseparate. Fertilisation is internal and development is through\nmany larval stages. Some members like Planaria possess high\nregeneration capacity.",
+          "bbox": {
+            "x_min": 0.39,
+            "y_min": 0.3843,
+            "x_max": 0.9264,
+            "y_max": 0.5707,
+            "width": 0.5365,
+            "height": 0.1864
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "Examples: Taenia (Tapeworm), Fasciola (Liver fluke).",
+          "bbox": {
+            "x_min": 0.3905,
+            "y_min": 0.5793,
+            "x_max": 0.8529,
+            "y_max": 0.5917,
+            "width": 0.4623,
+            "height": 0.0124
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.188,
+            "y_min": 0.7099,
+            "x_max": 0.3263,
+            "y_max": 0.8141,
+            "width": 0.1384,
+            "height": 0.1041
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.4145,
+            "y_min": 0.8672,
+            "x_max": 0.4378,
+            "y_max": 0.8779,
+            "width": 0.0234,
+            "height": 0.0107
+          },
+          "confidence": 0.9659
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.7268,
+            "y_min": 0.8728,
+            "x_max": 0.7484,
+            "y_max": 0.883,
+            "width": 0.0216,
+            "height": 0.0103
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "Figure 4.9 Examples of Platyhelminthes : (a) Tape worm (b) Liver fluke",
+          "bbox": {
+            "x_min": 0.3193,
+            "y_min": 0.8916,
+            "x_max": 0.9083,
+            "y_max": 0.9036,
+            "width": 0.589,
+            "height": 0.012
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9739,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.009
+          },
+          "confidence": 0.9833
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "ANIMAL KINGDOM",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.0831,
+            "x_max": 0.2055,
+            "y_max": 0.0925,
+            "width": 0.1354,
+            "height": 0.0094
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "43",
+          "bbox": {
+            "x_min": 0.8447,
+            "y_min": 0.0844,
+            "x_max": 0.8739,
+            "y_max": 0.093,
+            "width": 0.0292,
+            "height": 0.0086
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "4.2.5 Phylum – Aschelminthes",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.1332,
+            "x_max": 0.4221,
+            "y_max": 0.1491,
+            "width": 0.3508,
+            "height": 0.0159
+          },
+          "confidence": 0.9748
+        },
+        {
+          "text": "The body of the aschelminthes is circular in\ncross-section, hence, the name roundworms\n(Figure 4.10). They may be freeliving, aquatic\nand terrestrial or parasitic in plants and animals.\nRoundworms have organ-system level of body\norganisation. They are bilaterally symmetrical,\ntriploblastic and pseudocoelomate animals.\nAlimentary canal is complete with a well-\ndeveloped muscular pharynx. An excretory\ntube removes body wastes from the body cavity\nthrough the excretory pore. Sexes are separate\n(dioecious), i.e., males and females are distinct.\nOften females are longer than males. Fertilisation\nis internal and development may be direct (the\nyoung ones resemble the adult) or indirect.\nExamples: Ascaris (Roundworm), Wuchereria\n(Filaria worm), Ancylostoma (Hookworm).",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1611,
+            "x_max": 0.4793,
+            "y_max": 0.4644,
+            "width": 0.4075,
+            "height": 0.3033
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "4.2.6 Phylum – Annelida",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.4829,
+            "x_max": 0.3508,
+            "y_max": 0.4979,
+            "width": 0.2785,
+            "height": 0.015
+          },
+          "confidence": 0.9747
+        },
+        {
+          "text": "Male",
+          "bbox": {
+            "x_min": 0.5937,
+            "y_min": 0.401,
+            "x_max": 0.6369,
+            "y_max": 0.4092,
+            "width": 0.0432,
+            "height": 0.0081
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "ed",
+          "bbox": {
+            "x_min": 0.7694,
+            "y_min": 0.3111,
+            "x_max": 0.871,
+            "y_max": 0.386,
+            "width": 0.1016,
+            "height": 0.075
+          },
+          "confidence": 0.9609
+        },
+        {
+          "text": "Female",
+          "bbox": {
+            "x_min": 0.718,
+            "y_min": 0.4015,
+            "x_max": 0.7793,
+            "y_max": 0.4087,
+            "width": 0.0613,
+            "height": 0.0073
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "Figure 4.10 Example of",
+          "bbox": {
+            "x_min": 0.6007,
+            "y_min": 0.4225,
+            "x_max": 0.8074,
+            "y_max": 0.434,
+            "width": 0.2067,
+            "height": 0.0116
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "ER",
+          "bbox": {
+            "x_min": 0.453,
+            "y_min": 0.4237,
+            "x_max": 0.5733,
+            "y_max": 0.5111,
+            "width": 0.1203,
+            "height": 0.0874
+          },
+          "confidence": 0.9288
+        },
+        {
+          "text": "rep",
+          "bbox": {
+            "x_min": 0.4892,
+            "y_min": 0.5021,
+            "x_max": 0.6211,
+            "y_max": 0.5977,
+            "width": 0.1319,
+            "height": 0.0955
+          },
+          "confidence": 0.8883
+        },
+        {
+          "text": "They may be aquatic (marine and fresh water) or\nterrestrial; free-living, and sometimes parasitic.\nThey exhibit organ-system level of body\norganisation and bilateral symmetry. They are\ntriploblastic, metamerically segmented and\ncoelomate animals. Their body surface is\ndistinctly marked out into segments or\nmetameres and, hence, the phylum name\nAnnelida (Latin, annulus : little ring) (Figure 4.11).\nThey possess longitudinal and circular muscles\nwhich help in locomotion. Aquatic annelids like\nNereis possess lateral appendages, parapodia,\nwhich help in swimming. A closed circulatory\nsystem is present. Nephridia (sing. nephridium)\nhelp in osmoregulation and excretion. Neural\nsystem consists of paired ganglia (sing. ganglion)\nconnected by lateral nerves to a double ventral\nnerve cord. Nereis, an aquatic form, is dioecious,\nbut earthworms and leeches are monoecious.\nReproduction is sexual.",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.5099,
+            "x_max": 0.4793,
+            "y_max": 0.862,
+            "width": 0.4081,
+            "height": 0.3522
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "Examples: Nereis, Pheretima (Earthworm) and\nHirudinaria (Blood sucking leech).",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.8749,
+            "x_max": 0.4781,
+            "y_max": 0.9049,
+            "width": 0.4057,
+            "height": 0.03
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "Aschelminthes:\nRoundworm",
+          "bbox": {
+            "x_min": 0.7116,
+            "y_min": 0.4366,
+            "x_max": 0.84,
+            "y_max": 0.4593,
+            "width": 0.1284,
+            "height": 0.0227
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "Figure 4.11 Examples of Annelida : (a) Nereis",
+          "bbox": {
+            "x_min": 0.5201,
+            "y_min": 0.8766,
+            "x_max": 0.8955,
+            "y_max": 0.8886,
+            "width": 0.3754,
+            "height": 0.012
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "(b) Hirudinaria",
+          "bbox": {
+            "x_min": 0.6363,
+            "y_min": 0.892,
+            "x_max": 0.7554,
+            "y_max": 0.9027,
+            "width": 0.1191,
+            "height": 0.0107
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "44",
+          "bbox": {
+            "x_min": 0.1162,
+            "y_min": 0.084,
+            "x_max": 0.1471,
+            "y_max": 0.093,
+            "width": 0.0309,
+            "height": 0.009
+          },
+          "confidence": 0.9735
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0683,
+            "height": 0.009
+          },
+          "confidence": 0.9742
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.2067,
+            "y_min": 0.2566,
+            "x_max": 0.2283,
+            "y_max": 0.2678,
+            "width": 0.0216,
+            "height": 0.0111
+          },
+          "confidence": 0.9744
+        },
+        {
+          "text": "(c)",
+          "bbox": {
+            "x_min": 0.2131,
+            "y_min": 0.4443,
+            "x_max": 0.2329,
+            "y_max": 0.455,
+            "width": 0.0198,
+            "height": 0.0107
+          },
+          "confidence": 0.9313
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.4162,
+            "y_min": 0.2609,
+            "x_max": 0.4367,
+            "y_max": 0.2712,
+            "width": 0.0204,
+            "height": 0.0103
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "(d)",
+          "bbox": {
+            "x_min": 0.4139,
+            "y_min": 0.4447,
+            "x_max": 0.4343,
+            "y_max": 0.4554,
+            "width": 0.0204,
+            "height": 0.0107
+          },
+          "confidence": 0.9835
+        },
+        {
+          "text": "000",
+          "bbox": {
+            "x_min": 0.4711,
+            "y_min": 0.1697,
+            "x_max": 0.4956,
+            "y_max": 0.1868,
+            "width": 0.0245,
+            "height": 0.0171
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "Figure 4.12 Examples of Arthropoda:\n(a) Locust (b) Butterfly\n(c) Scorpion (d) Prawn",
+          "bbox": {
+            "x_min": 0.1448,
+            "y_min": 0.4837,
+            "x_max": 0.4658,
+            "y_max": 0.524,
+            "width": 0.3211,
+            "height": 0.0403
+          },
+          "confidence": 0.9843
+        },
+        {
+          "text": "4.2.7 Phylum – Arthropoda",
+          "bbox": {
+            "x_min": 0.5306,
+            "y_min": 0.1341,
+            "x_max": 0.85,
+            "y_max": 0.1487,
+            "width": 0.3193,
+            "height": 0.0146
+          },
+          "confidence": 0.9644
+        },
+        {
+          "text": "This is the largest phylum of Animalia which\nincludes insects. Over two-thirds of all named\nspecies on earth are arthropods (Figure 4.12).\nThey have organ-system level of organisation.\nThey are bilaterally symmetrical, triploblastic,\nsegmented and coelomate animals. The body\nof arthropods is covered by chitinous\nexoskeleton. The body consists of head, thorax\nand abdomen. They have jointed appendages\n(arthros-joint, poda-appendages). Respiratory\norgans are gills, book gills, book lungs or\ntracheal system. Circulatory system is of open\ntype. Sensory organs like antennae, eyes\n(compound and simple), statocysts or\nbalancing organs are present. Excretion takes\nplace through malpighian tubules. They are\nmostly dioecious. Fertilisation is usually\ninternal. They are mostly oviparous.\nDevelopment may be direct or indirect.\nExamples: Economically important insects\nApis (Honey bee), Bombyx (Silkworm), Laccifer\n(Lac insect)",
+          "bbox": {
+            "x_min": 0.5295,
+            "y_min": 0.1577,
+            "x_max": 0.927,
+            "y_max": 0.5266,
+            "width": 0.3975,
+            "height": 0.3689
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "Vectors",
+          "bbox": {
+            "x_min": 0.5277,
+            "y_min": 0.5317,
+            "x_max": 0.6019,
+            "y_max": 0.5411,
+            "width": 0.0741,
+            "height": 0.0094
+          },
+          "confidence": 0.9822
+        },
+        {
+          "text": "Anopheles, Culex and Aedes",
+          "bbox": {
+            "x_min": 0.634,
+            "y_min": 0.5308,
+            "x_max": 0.9264,
+            "y_max": 0.5433,
+            "width": 0.2925,
+            "height": 0.0124
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "(Mosquitoes)\nGregarious pest – Locusta (Locust)\nLiving fossil - Limulus (King crab).",
+          "bbox": {
+            "x_min": 0.5312,
+            "y_min": 0.5476,
+            "x_max": 0.833,
+            "y_max": 0.5955,
+            "width": 0.3018,
+            "height": 0.048
+          },
+          "confidence": 0.98
+        },
+        {
+          "text": "4.2.8 Phylum – Mollusca",
+          "bbox": {
+            "x_min": 0.5301,
+            "y_min": 0.6084,
+            "x_max": 0.8091,
+            "y_max": 0.6234,
+            "width": 0.279,
+            "height": 0.015
+          },
+          "confidence": 0.965
+        },
+        {
+          "text": "ONCE",
+          "bbox": {
+            "x_min": 0.2989,
+            "y_min": 0.455,
+            "x_max": 0.5359,
+            "y_max": 0.6238,
+            "width": 0.237,
+            "height": 0.1688
+          },
+          "confidence": 0.7888
+        },
+        {
+          "text": "not to be r",
+          "bbox": {
+            "x_min": 0.1757,
+            "y_min": 0.545,
+            "x_max": 0.5581,
+            "y_max": 0.8098,
+            "width": 0.3824,
+            "height": 0.2648
+          },
+          "confidence": 0.9377
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.1985,
+            "y_min": 0.7151,
+            "x_max": 0.2201,
+            "y_max": 0.7266,
+            "width": 0.0216,
+            "height": 0.0116
+          },
+          "confidence": 0.9727
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.4127,
+            "y_min": 0.8569,
+            "x_max": 0.4326,
+            "y_max": 0.8672,
+            "width": 0.0198,
+            "height": 0.0103
+          },
+          "confidence": 0.9868
+        },
+        {
+          "text": "Figure 4.13 Examples of Mollusca:\n(a) Pila (b) Octopus",
+          "bbox": {
+            "x_min": 0.1454,
+            "y_min": 0.8766,
+            "x_max": 0.446,
+            "y_max": 0.9036,
+            "width": 0.3006,
+            "height": 0.027
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "This is the second largest animal phylum\n(Figure 4.13). Molluscs are terrestrial or aquatic\n(marine or fresh water) having an organ-system\nlevel of organisation. They are bilaterally\nsymmetrical, triploblastic and coelomate\nanimals. Body is covered by a calcareous shell\nand is unsegmented with a distinct head,\nmuscular foot and visceral hump. A soft and\nspongy layer of skin forms a mantle over the\nvisceral hump. The space between the hump\nand the mantle is called the mantle cavity in\nwhich feather like gills are present. They have\nrespiratory and excretory functions. The\nanterior head region has sensory tentacles. The\nmouth contains a file-like rasping organ for\nfeeding, called radula.",
+          "bbox": {
+            "x_min": 0.5301,
+            "y_min": 0.6328,
+            "x_max": 0.9264,
+            "y_max": 0.9032,
+            "width": 0.3964,
+            "height": 0.2704
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "ANIMAL KINGDOM",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.0831,
+            "x_max": 0.2055,
+            "y_max": 0.0925,
+            "width": 0.1354,
+            "height": 0.0094
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "They are usually dioecious and oviparous with indirect\ndevelopment.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.135,
+            "x_max": 0.5873,
+            "y_max": 0.165,
+            "width": 0.5155,
+            "height": 0.03
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "Examples: Pila (Apple snail), Pinctada (Pearl oyster), Sepia\n(Cuttlefish), Loligo (Squid), Octopus (Devil fish), Aplysia (Sea-\nhare), Dentalium (Tusk shell) and Chaetopleura (Chiton).",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.1701,
+            "x_max": 0.589,
+            "y_max": 0.2185,
+            "width": 0.5161,
+            "height": 0.0484
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "4.2.9 Phylum",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.2369,
+            "x_max": 0.2329,
+            "y_max": 0.2524,
+            "width": 0.1617,
+            "height": 0.0154
+          },
+          "confidence": 0.98
+        },
+        {
+          "text": "Echinodermata",
+          "bbox": {
+            "x_min": 0.2627,
+            "y_min": 0.2374,
+            "x_max": 0.4314,
+            "y_max": 0.2489,
+            "width": 0.1687,
+            "height": 0.0116
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.6503,
+            "y_min": 0.2562,
+            "x_max": 0.6719,
+            "y_max": 0.2674,
+            "width": 0.0216,
+            "height": 0.0111
+          },
+          "confidence": 0.9697
+        },
+        {
+          "text": "These animals have an endoskeleton of calcareous ossicles\nand, hence, the name Echinodermata (Spiny bodied, Figure\n4.14). All are marine with organ-system level of organisation.\nThe adult echinoderms are radially symmetrical but larvae\nare bilaterally symmetrical. They are triploblastic and\ncoelomate animals. Digestive system is complete with mouth\non the lower (ventral) side and anus on the upper (dorsal)\nside. The most distinctive feature of echinoderms is the\npresence of water vascular system which helps in\nlocomotion, capture and transport of food and respiration.\nAn excretory system is absent. Sexes are separate.\nReproduction is sexual. Fertilisation is usually external.\nDevelopment is indirect with free-swimming larva.\nExamples: Asterias (Star fish), Echinus (Sea urchin), Antedon\n(Sea lily), Cucumaria (Sea cucumber) and Ophiura (Brittle star).",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.2635,
+            "x_max": 0.589,
+            "y_max": 0.5278,
+            "width": 0.5178,
+            "height": 0.2644
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "republioned",
+          "bbox": {
+            "x_min": 0.4612,
+            "y_min": 0.2952,
+            "x_max": 0.8774,
+            "y_max": 0.6332,
+            "width": 0.4162,
+            "height": 0.338
+          },
+          "confidence": 0.8529
+        },
+        {
+          "text": "Echinodermata :\n(a) Asterias\n(b) Ophiura",
+          "bbox": {
+            "x_min": 0.7309,
+            "y_min": 0.4439,
+            "x_max": 0.8698,
+            "y_max": 0.4833,
+            "width": 0.1389,
+            "height": 0.0394
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "4.2.10 Phylum – Hemichordata",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.545,
+            "x_max": 0.4209,
+            "y_max": 0.56,
+            "width": 0.3491,
+            "height": 0.015
+          },
+          "confidence": 0.9755
+        },
+        {
+          "text": "Hemichordata was earlier considered as a sub-phylum\nphylum Chordata. But now it is placed as a separate phylum\nunder non-chordata. Hemichordates have a rudimentary\nstructure in the collar region called stomochord, a structure\nsimilar to notochord.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.5724,
+            "x_max": 0.5879,
+            "y_max": 0.6547,
+            "width": 0.5155,
+            "height": 0.0823
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "This phylum consists of a small group of worm-like\nmarine animals with organ-system level of organisation. They\nare bilaterally symmetrical, triploblastic and coelomate\nanimals. The body is cylindrical and is composed of an\nanterior proboscis, a collar and a long trunk (Figure 4.15).\nCirculatory system is of open type. Respiration takes place\nthrough gills. Excretory organ is proboscis gland. Sexes are\nseparate. Fertilisation is external. Development is indirect.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.662,
+            "x_max": 0.5884,
+            "y_max": 0.7999,
+            "width": 0.5161,
+            "height": 0.138
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "Examples: Balanoglossus and Saccoglossus.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.8119,
+            "x_max": 0.4717,
+            "y_max": 0.8252,
+            "width": 0.3987,
+            "height": 0.0133
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "4.2.11 Phylum – Chordata",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.8436,
+            "x_max": 0.3678,
+            "y_max": 0.8582,
+            "width": 0.296,
+            "height": 0.0146
+          },
+          "confidence": 0.9715
+        },
+        {
+          "text": "Animals belonging to phylum Chordata are fundamentally\ncharacterised by the presence of a notochord, a dorsal",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.871,
+            "x_max": 0.5879,
+            "y_max": 0.9019,
+            "width": 0.5155,
+            "height": 0.0308
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "Proboscis",
+          "bbox": {
+            "x_min": 0.7723,
+            "y_min": 0.5917,
+            "x_max": 0.8523,
+            "y_max": 0.6007,
+            "width": 0.08,
+            "height": 0.009
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "Collar",
+          "bbox": {
+            "x_min": 0.7793,
+            "y_min": 0.7147,
+            "x_max": 0.8325,
+            "y_max": 0.7228,
+            "width": 0.0531,
+            "height": 0.0081
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "Trunk",
+          "bbox": {
+            "x_min": 0.7752,
+            "y_min": 0.8003,
+            "x_max": 0.8295,
+            "y_max": 0.8085,
+            "width": 0.0543,
+            "height": 0.0081
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "Figure 4.15 Balanoglossus",
+          "bbox": {
+            "x_min": 0.6299,
+            "y_min": 0.8706,
+            "x_max": 0.8599,
+            "y_max": 0.883,
+            "width": 0.23,
+            "height": 0.0124
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "45",
+          "bbox": {
+            "x_min": 0.8459,
+            "y_min": 0.0831,
+            "x_max": 0.8733,
+            "y_max": 0.0943,
+            "width": 0.0274,
+            "height": 0.0111
+          },
+          "confidence": 0.9903
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "46",
+          "bbox": {
+            "x_min": 0.1168,
+            "y_min": 0.084,
+            "x_max": 0.1448,
+            "y_max": 0.093,
+            "width": 0.028,
+            "height": 0.009
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0683,
+            "height": 0.009
+          },
+          "confidence": 0.9811
+        },
+        {
+          "text": "Nerve cord Notochord",
+          "bbox": {
+            "x_min": 0.1471,
+            "y_min": 0.1375,
+            "x_max": 0.3433,
+            "y_max": 0.1465,
+            "width": 0.1961,
+            "height": 0.009
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "Post-anal part",
+          "bbox": {
+            "x_min": 0.3795,
+            "y_min": 0.2314,
+            "x_max": 0.4933,
+            "y_max": 0.2429,
+            "width": 0.1138,
+            "height": 0.0116
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "hollow nerve cord and paired pharyngeal\ngill slits (Figure 4.16). These are bilaterally\nsymmetrical, triploblastic, coelomate with\norgan-system level of organisation. They\npossess a post anal tail and a closed circulatory\nsystem.",
+          "bbox": {
+            "x_min": 0.526,
+            "y_min": 0.1345,
+            "x_max": 0.927,
+            "y_max": 0.2374,
+            "width": 0.4011,
+            "height": 0.1028
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "Gill slits",
+          "bbox": {
+            "x_min": 0.2428,
+            "y_min": 0.2511,
+            "x_max": 0.3112,
+            "y_max": 0.2596,
+            "width": 0.0683,
+            "height": 0.0086
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "Table 4.1 presents a comparison of salient\nfeatures of chordates and non-chordates.",
+          "bbox": {
+            "x_min": 0.5266,
+            "y_min": 0.2429,
+            "x_max": 0.927,
+            "y_max": 0.2712,
+            "width": 0.4005,
+            "height": 0.0283
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "Figure 4.16 Chordata characteristics",
+          "bbox": {
+            "x_min": 0.143,
+            "y_min": 0.2729,
+            "x_max": 0.4711,
+            "y_max": 0.2849,
+            "width": 0.3281,
+            "height": 0.012
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "TABLE 4.1 Comparison of Chordates and Non-chordates",
+          "bbox": {
+            "x_min": 0.2691,
+            "y_min": 0.2995,
+            "x_max": 0.7671,
+            "y_max": 0.3115,
+            "width": 0.498,
+            "height": 0.012
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "S.No. Chordates",
+          "bbox": {
+            "x_min": 0.1354,
+            "y_min": 0.3269,
+            "x_max": 0.2831,
+            "y_max": 0.3368,
+            "width": 0.1477,
+            "height": 0.0099
+          },
+          "confidence": 0.9787
+        },
+        {
+          "text": "1.",
+          "bbox": {
+            "x_min": 0.1349,
+            "y_min": 0.3483,
+            "x_max": 0.1489,
+            "y_max": 0.3573,
+            "width": 0.014,
+            "height": 0.009
+          },
+          "confidence": 0.9829
+        },
+        {
+          "text": "2.",
+          "bbox": {
+            "x_min": 0.1343,
+            "y_min": 0.371,
+            "x_max": 0.1494,
+            "y_max": 0.3792,
+            "width": 0.0152,
+            "height": 0.0081
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "3.",
+          "bbox": {
+            "x_min": 0.1337,
+            "y_min": 0.407,
+            "x_max": 0.1483,
+            "y_max": 0.4156,
+            "width": 0.0146,
+            "height": 0.0086
+          },
+          "confidence": 0.9815
+        },
+        {
+          "text": "4.",
+          "bbox": {
+            "x_min": 0.1319,
+            "y_min": 0.4306,
+            "x_max": 0.1494,
+            "y_max": 0.4383,
+            "width": 0.0175,
+            "height": 0.0077
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "5.",
+          "bbox": {
+            "x_min": 0.1349,
+            "y_min": 0.4512,
+            "x_max": 0.1489,
+            "y_max": 0.4606,
+            "width": 0.014,
+            "height": 0.0094
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "Notochord present.",
+          "bbox": {
+            "x_min": 0.1938,
+            "y_min": 0.3488,
+            "x_max": 0.3526,
+            "y_max": 0.3599,
+            "width": 0.1588,
+            "height": 0.0111
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "Central nervous system is dorsal,\nhollow and single.",
+          "bbox": {
+            "x_min": 0.195,
+            "y_min": 0.3706,
+            "x_max": 0.4752,
+            "y_max": 0.3967,
+            "width": 0.2802,
+            "height": 0.0261
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "Pharynx perforated by gill slits.\nHeart is ventral.",
+          "bbox": {
+            "x_min": 0.1932,
+            "y_min": 0.4066,
+            "x_max": 0.4536,
+            "y_max": 0.4387,
+            "width": 0.2604,
+            "height": 0.0321
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "A post-anal part (tail) is present.",
+          "bbox": {
+            "x_min": 0.1926,
+            "y_min": 0.4507,
+            "x_max": 0.4658,
+            "y_max": 0.4632,
+            "width": 0.2732,
+            "height": 0.0124
+          },
+          "confidence": 0.9864
+        },
+        {
+          "text": "Non-chordates",
+          "bbox": {
+            "x_min": 0.547,
+            "y_min": 0.3269,
+            "x_max": 0.676,
+            "y_max": 0.3363,
+            "width": 0.129,
+            "height": 0.0094
+          },
+          "confidence": 0.9768
+        },
+        {
+          "text": "Notochord absent.",
+          "bbox": {
+            "x_min": 0.547,
+            "y_min": 0.3479,
+            "x_max": 0.7005,
+            "y_max": 0.3573,
+            "width": 0.1535,
+            "height": 0.0094
+          },
+          "confidence": 0.9846
+        },
+        {
+          "text": "Central nervous system is ventral, solid",
+          "bbox": {
+            "x_min": 0.5493,
+            "y_min": 0.3702,
+            "x_max": 0.8827,
+            "y_max": 0.3822,
+            "width": 0.3333,
+            "height": 0.012
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "and double.",
+          "bbox": {
+            "x_min": 0.5493,
+            "y_min": 0.3852,
+            "x_max": 0.6462,
+            "y_max": 0.3946,
+            "width": 0.0969,
+            "height": 0.0094
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "Gill slits are are absent.",
+          "bbox": {
+            "x_min": 0.5476,
+            "y_min": 0.4075,
+            "x_max": 0.7163,
+            "y_max": 0.416,
+            "width": 0.1687,
+            "height": 0.0086
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "Heart is dorsal (if present).",
+          "bbox": {
+            "x_min": 0.5493,
+            "y_min": 0.4302,
+            "x_max": 0.7706,
+            "y_max": 0.4413,
+            "width": 0.2212,
+            "height": 0.0111
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "Post-anal tail is absent.",
+          "bbox": {
+            "x_min": 0.5487,
+            "y_min": 0.4516,
+            "x_max": 0.7461,
+            "y_max": 0.461,
+            "width": 0.1973,
+            "height": 0.0094
+          },
+          "confidence": 0.9836
+        },
+        {
+          "text": "Phylum Chordata is divided into three\nsubphyla: Urochordata or Tunicata,\nCephalochordata and Vertebrata.",
+          "bbox": {
+            "x_min": 0.5266,
+            "y_min": 0.4816,
+            "x_max": 0.9264,
+            "y_max": 0.5287,
+            "width": 0.3999,
+            "height": 0.0471
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "Subphyla",
+          "bbox": {
+            "x_min": 0.5575,
+            "y_min": 0.533,
+            "x_max": 0.6527,
+            "y_max": 0.5463,
+            "width": 0.0952,
+            "height": 0.0133
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "*",
+          "bbox": {
+            "x_min": 0.3643,
+            "y_min": 0.605,
+            "x_max": 0.3935,
+            "y_max": 0.6234,
+            "width": 0.0292,
+            "height": 0.0184
+          },
+          "confidence": 0.9152
+        },
+        {
+          "text": "NCE",
+          "bbox": {
+            "x_min": 0.366,
+            "y_min": 0.4503,
+            "x_max": 0.5353,
+            "y_max": 0.5767,
+            "width": 0.1693,
+            "height": 0.1264
+          },
+          "confidence": 0.9763
+        },
+        {
+          "text": "be",
+          "bbox": {
+            "x_min": 0.3876,
+            "y_min": 0.5861,
+            "x_max": 0.5026,
+            "y_max": 0.6645,
+            "width": 0.115,
+            "height": 0.0784
+          },
+          "confidence": 0.9756
+        },
+        {
+          "text": "Figure 4.17 Ascidia",
+          "bbox": {
+            "x_min": 0.2335,
+            "y_min": 0.8055,
+            "x_max": 0.4139,
+            "y_max": 0.8183,
+            "width": 0.1804,
+            "height": 0.0129
+          },
+          "confidence": 0.986
+        },
+        {
+          "text": "Urochordata",
+          "bbox": {
+            "x_min": 0.7081,
+            "y_min": 0.533,
+            "x_max": 0.8342,
+            "y_max": 0.5437,
+            "width": 0.1261,
+            "height": 0.0107
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "and",
+          "bbox": {
+            "x_min": 0.8891,
+            "y_min": 0.5334,
+            "x_max": 0.9264,
+            "y_max": 0.5433,
+            "width": 0.0374,
+            "height": 0.0099
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "Cephalochordata are often referred to as\nprotochordates (Figure 4.17) and are\nexclusively marine. In Urochordata, notochord\nis present only in larval tail, while in\nCephalochordata, it extends from head to tail\nregion and is persistent throughout their life.\nExamples: Urochordata Ascidia, Salpa,\nDoliolum; Cephalochordata – Branchiostoma\n(Amphioxus or Lancelet).",
+          "bbox": {
+            "x_min": 0.526,
+            "y_min": 0.5501,
+            "x_max": 0.9276,
+            "y_max": 0.7061,
+            "width": 0.4016,
+            "height": 0.156
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "The members of subphylum Vertebrata\npossess notochord during the embryonic\nperiod. The notochord is replaced by a\ncartilaginous or bony vertebral column in the\nadult. Thus all vertebrates are chordates but\nall chordates are not vertebrates. Besides the\nbasic chordate characters, vertebrates have a\nventral muscular heart with two, three or four\nchambers, kidneys for excretion and\nosmoregulation and paired appendages which\nmay be fins or limbs.",
+          "bbox": {
+            "x_min": 0.5248,
+            "y_min": 0.7104,
+            "x_max": 0.9264,
+            "y_max": 0.8967,
+            "width": 0.4016,
+            "height": 0.1864
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "ANIMAL KINGDOM",
+          "bbox": {
+            "x_min": 0.0683,
+            "y_min": 0.0831,
+            "x_max": 0.2055,
+            "y_max": 0.093,
+            "width": 0.1372,
+            "height": 0.0099
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "47",
+          "bbox": {
+            "x_min": 0.8447,
+            "y_min": 0.084,
+            "x_max": 0.8745,
+            "y_max": 0.0925,
+            "width": 0.0298,
+            "height": 0.0086
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "The subphylum Vertebrata is further divided as follows:",
+          "bbox": {
+            "x_min": 0.2697,
+            "y_min": 0.1354,
+            "x_max": 0.7554,
+            "y_max": 0.1482,
+            "width": 0.4857,
+            "height": 0.0129
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "Vertebrata\n|\nDivision",
+          "bbox": {
+            "x_min": 0.3911,
+            "y_min": 0.1748,
+            "x_max": 0.491,
+            "y_max": 0.2104,
+            "width": 0.0998,
+            "height": 0.0356
+          },
+          "confidence": 0.9641
+        },
+        {
+          "text": "Agnatha\n(lacks jaw)",
+          "bbox": {
+            "x_min": 0.2551,
+            "y_min": 0.2301,
+            "x_max": 0.3392,
+            "y_max": 0.2554,
+            "width": 0.0841,
+            "height": 0.0253
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "Gnathostomata\n(bears jaw)",
+          "bbox": {
+            "x_min": 0.526,
+            "y_min": 0.2279,
+            "x_max": 0.6532,
+            "y_max": 0.2541,
+            "width": 0.1273,
+            "height": 0.0261
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "Super Class",
+          "bbox": {
+            "x_min": 0.5429,
+            "y_min": 0.2644,
+            "x_max": 0.6392,
+            "y_max": 0.2755,
+            "width": 0.0963,
+            "height": 0.0111
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "Class",
+          "bbox": {
+            "x_min": 0.2744,
+            "y_min": 0.3338,
+            "x_max": 0.3205,
+            "y_max": 0.3419,
+            "width": 0.0461,
+            "height": 0.0081
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "1. Cyclostomata",
+          "bbox": {
+            "x_min": 0.2358,
+            "y_min": 0.3483,
+            "x_max": 0.3637,
+            "y_max": 0.3595,
+            "width": 0.1278,
+            "height": 0.0111
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "Pisces",
+          "bbox": {
+            "x_min": 0.4413,
+            "y_min": 0.2973,
+            "x_max": 0.4927,
+            "y_max": 0.3055,
+            "width": 0.0514,
+            "height": 0.0081
+          },
+          "confidence": 0.9826
+        },
+        {
+          "text": "(bear fins)",
+          "bbox": {
+            "x_min": 0.4273,
+            "y_min": 0.3106,
+            "x_max": 0.5073,
+            "y_max": 0.3218,
+            "width": 0.08,
+            "height": 0.0111
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "Class",
+          "bbox": {
+            "x_min": 0.4431,
+            "y_min": 0.3355,
+            "x_max": 0.4886,
+            "y_max": 0.3445,
+            "width": 0.0455,
+            "height": 0.009
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "1. Chondrichthyes\n2. Osteichthyes",
+          "bbox": {
+            "x_min": 0.4191,
+            "y_min": 0.35,
+            "x_max": 0.5668,
+            "y_max": 0.3762,
+            "width": 0.1477,
+            "height": 0.0261
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "Tetrapoda\n(bear limbs)",
+          "bbox": {
+            "x_min": 0.6632,
+            "y_min": 0.2961,
+            "x_max": 0.7577,
+            "y_max": 0.3192,
+            "width": 0.0946,
+            "height": 0.0231
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "Class",
+          "bbox": {
+            "x_min": 0.6836,
+            "y_min": 0.3329,
+            "x_max": 0.7291,
+            "y_max": 0.341,
+            "width": 0.0455,
+            "height": 0.0081
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "1. Amphibia",
+          "bbox": {
+            "x_min": 0.6661,
+            "y_min": 0.3466,
+            "x_max": 0.763,
+            "y_max": 0.3582,
+            "width": 0.0969,
+            "height": 0.0116
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "2. Reptilia",
+          "bbox": {
+            "x_min": 0.6643,
+            "y_min": 0.3616,
+            "x_max": 0.7466,
+            "y_max": 0.3719,
+            "width": 0.0823,
+            "height": 0.0103
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "3. Aves",
+          "bbox": {
+            "x_min": 0.6643,
+            "y_min": 0.3757,
+            "x_max": 0.7215,
+            "y_max": 0.3847,
+            "width": 0.0572,
+            "height": 0.009
+          },
+          "confidence": 0.9775
+        },
+        {
+          "text": "4. Mammals",
+          "bbox": {
+            "x_min": 0.6643,
+            "y_min": 0.3895,
+            "x_max": 0.763,
+            "y_max": 0.3989,
+            "width": 0.0987,
+            "height": 0.0094
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "ERT",
+          "bbox": {
+            "x_min": 0.4583,
+            "y_min": 0.3933,
+            "x_max": 0.613,
+            "y_max": 0.5094,
+            "width": 0.1547,
+            "height": 0.1161
+          },
+          "confidence": 0.9669
+        },
+        {
+          "text": "ublished",
+          "bbox": {
+            "x_min": 0.5645,
+            "y_min": 0.3046,
+            "x_max": 0.8821,
+            "y_max": 0.5278,
+            "width": 0.3176,
+            "height": 0.2232
+          },
+          "confidence": 0.9313
+        },
+        {
+          "text": "4.2.11.1 Class - Cyclostomata",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.4332,
+            "x_max": 0.3783,
+            "y_max": 0.446,
+            "width": 0.3065,
+            "height": 0.0129
+          },
+          "confidence": 0.9675
+        },
+        {
+          "text": "All living members of the class Cyclostomata are\nectoparasites on some fishes. They have an\nelongated body bearing 6-15 pairs of gill slits\nfor respiration. Cyclostomes have a sucking and\ncircular mouth without jaws (Fig. 4.18). Their\nbody is devoid of scales and paired fins.\nCranium and vertebral column are\ncartilaginous. Circulation is of closed type.\nCyclostomes are marine but migrate for\nspawning to fresh water. After spawning, within\na few days, they die. Their larvae, after\nmetamorphosis, return to the ocean.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.455,
+            "x_max": 0.4787,
+            "y_max": 0.6491,
+            "width": 0.4063,
+            "height": 0.1941
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "Examples: Petromyzon (Lamprey) and Myxine\n(Hagfish).",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.659,
+            "x_max": 0.4799,
+            "y_max": 0.6881,
+            "width": 0.4086,
+            "height": 0.0291
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "4.2.11.2 Class",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.7005,
+            "x_max": 0.2248,
+            "y_max": 0.7112,
+            "width": 0.1535,
+            "height": 0.0107
+          },
+          "confidence": 0.9824
+        },
+        {
+          "text": "mprey) and M",
+          "bbox": {
+            "x_min": 0.3147,
+            "y_min": 0.6517,
+            "x_max": 0.4349,
+            "y_max": 0.6911,
+            "width": 0.1203,
+            "height": 0.0394
+          },
+          "confidence": 0.806
+        },
+        {
+          "text": "Chondrichthyes",
+          "bbox": {
+            "x_min": 0.2557,
+            "y_min": 0.6997,
+            "x_max": 0.4051,
+            "y_max": 0.7138,
+            "width": 0.1494,
+            "height": 0.0141
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "They are marine animals with streamlined body\nand have cartilaginous endoskeleton\n(Figure 4.19). Mouth is located ventrally.\nNotochord is persistent throughout life. Gill\nslits are separate and without operculum (gill\ncover). The skin is tough, containing minute\nplacoid scales. Teeth are modified placoid\nscales which are backwardly directed. Their\njaws are very powerful. These animals are\npredaceous. Due to the absence of air bladder,\nthey have to swim constantly to avoid sinking.",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.7224,
+            "x_max": 0.4787,
+            "y_max": 0.901,
+            "width": 0.4075,
+            "height": 0.1787
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "Figure 4.18 A jawless vertebrate - Petromyzon",
+          "bbox": {
+            "x_min": 0.4962,
+            "y_min": 0.5947,
+            "x_max": 0.8908,
+            "y_max": 0.6071,
+            "width": 0.3946,
+            "height": 0.0124
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.6865,
+            "y_min": 0.7356,
+            "x_max": 0.7104,
+            "y_max": 0.7468,
+            "width": 0.0239,
+            "height": 0.0111
+          },
+          "confidence": 0.9725
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.7052,
+            "y_min": 0.8462,
+            "x_max": 0.7285,
+            "y_max": 0.8565,
+            "width": 0.0234,
+            "height": 0.0103
+          },
+          "confidence": 0.9829
+        },
+        {
+          "text": "Figure 4.19 Example of Cartilaginous fishes :\n(a) Scoliodon (b) Pristis",
+          "bbox": {
+            "x_min": 0.5032,
+            "y_min": 0.8757,
+            "x_max": 0.8938,
+            "y_max": 0.9015,
+            "width": 0.3905,
+            "height": 0.0257
+          },
+          "confidence": 0.982
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "48",
+          "bbox": {
+            "x_min": 0.1162,
+            "y_min": 0.0835,
+            "x_max": 0.1465,
+            "y_max": 0.093,
+            "width": 0.0304,
+            "height": 0.0094
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0689,
+            "height": 0.0094
+          },
+          "confidence": 0.9796
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.1763,
+            "y_min": 0.4366,
+            "x_max": 0.1991,
+            "y_max": 0.4473,
+            "width": 0.0228,
+            "height": 0.0107
+          },
+          "confidence": 0.9712
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.3479,
+            "y_min": 0.4379,
+            "x_max": 0.3695,
+            "y_max": 0.4482,
+            "width": 0.0216,
+            "height": 0.0103
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "Heart is two-chambered (one auricle and one ventricle).\nSome of them have electric organs (e.g., Torpedo) and\nsome possess poison sting (e.g., Trygon). They are\ncold-blooded (poikilothermous) animals, i.e., they lack\nthe capacity to regulate their body temperature. Sexes\nare separate. In males pelvic fins bear claspers. They\nhave internal fertilisation and many of them are\nviviparous.",
+          "bbox": {
+            "x_min": 0.4553,
+            "y_min": 0.135,
+            "x_max": 0.9264,
+            "y_max": 0.2635,
+            "width": 0.4711,
+            "height": 0.1285
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "Figure 4.20 Examples of Bony fishes :\n(a) Hippocampus (b) Catla",
+          "bbox": {
+            "x_min": 0.1039,
+            "y_min": 0.4666,
+            "x_max": 0.4355,
+            "y_max": 0.4931,
+            "width": 0.3316,
+            "height": 0.0266
+          },
+          "confidence": 0.9737
+        },
+        {
+          "text": "Examples: Scoliodon (Dog fish), Pristis (Saw fish),\nCarcharodon (Great white shark), Trygon (Sting ray).",
+          "bbox": {
+            "x_min": 0.4577,
+            "y_min": 0.2708,
+            "x_max": 0.9253,
+            "y_max": 0.3021,
+            "width": 0.4676,
+            "height": 0.0313
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "4.2.11.3 Class",
+          "bbox": {
+            "x_min": 0.4565,
+            "y_min": 0.3136,
+            "x_max": 0.6095,
+            "y_max": 0.3243,
+            "width": 0.1529,
+            "height": 0.0107
+          },
+          "confidence": 0.9836
+        },
+        {
+          "text": "Osteichthyes",
+          "bbox": {
+            "x_min": 0.6386,
+            "y_min": 0.3136,
+            "x_max": 0.7618,
+            "y_max": 0.3273,
+            "width": 0.1232,
+            "height": 0.0137
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "It includes both marine and fresh water fishes with bony\nendoskeleton. Their body is streamlined. Mouth is\nmostly terminal (Figure 4.20). They have four pairs of\ngills which are covered by an operculum on each side.\nSkin is covered with cycloid/ctenoid scales. Air bladder\nis present which regulates buoyancy. Heart is two-\nchambered (one auricle and one ventricle). They are\ncold-blooded animals. Sexes are separate. Fertilisation\nis usually external. They are mostly oviparous and\ndevelopment is direct.",
+          "bbox": {
+            "x_min": 0.4577,
+            "y_min": 0.3372,
+            "x_max": 0.9282,
+            "y_max": 0.5103,
+            "width": 0.4705,
+            "height": 0.1731
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "Examples: Marine",
+          "bbox": {
+            "x_min": 0.4577,
+            "y_min": 0.5193,
+            "x_max": 0.6439,
+            "y_max": 0.5321,
+            "width": 0.1862,
+            "height": 0.0129
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "ON",
+          "bbox": {
+            "x_min": 0.3736,
+            "y_min": 0.4726,
+            "x_max": 0.505,
+            "y_max": 0.5711,
+            "width": 0.1313,
+            "height": 0.0985
+          },
+          "confidence": 0.9349
+        },
+        {
+          "text": "Exocoetus (Flying fish),",
+          "bbox": {
+            "x_min": 0.6789,
+            "y_min": 0.5197,
+            "x_max": 0.9253,
+            "y_max": 0.533,
+            "width": 0.2464,
+            "height": 0.0133
+          },
+          "confidence": 0.9845
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.2469,
+            "y_min": 0.8188,
+            "x_max": 0.268,
+            "y_max": 0.829,
+            "width": 0.021,
+            "height": 0.0103
+          },
+          "confidence": 0.9856
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.265,
+            "y_min": 0.6508,
+            "x_max": 0.2884,
+            "y_max": 0.6624,
+            "width": 0.0234,
+            "height": 0.0116
+          },
+          "confidence": 0.9727
+        },
+        {
+          "text": "Hippocampus (Sea horse); Freshwater – Labeo (Rohu),\nCatla (Katla), Clarias (Magur); Aquarium",
+          "bbox": {
+            "x_min": 0.4583,
+            "y_min": 0.5373,
+            "x_max": 0.9253,
+            "y_max": 0.5677,
+            "width": 0.467,
+            "height": 0.0304
+          },
+          "confidence": 0.9817
+        },
+        {
+          "text": "(Fighting fish), Pterophyllum (Angel fish).",
+          "bbox": {
+            "x_min": 0.4594,
+            "y_min": 0.5724,
+            "x_max": 0.8097,
+            "y_max": 0.5853,
+            "width": 0.3503,
+            "height": 0.0129
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "4.2.11\n4.2.11.4 \nClass – Amphibia",
+          "bbox": {
+            "x_min": 0.4559,
+            "y_min": 0.5917,
+            "x_max": 0.7297,
+            "y_max": 0.626,
+            "width": 0.2738,
+            "height": 0.0343
+          },
+          "confidence": 0.9715
+        },
+        {
+          "text": "o be",
+          "bbox": {
+            "x_min": 0.3234,
+            "y_min": 0.5865,
+            "x_max": 0.4956,
+            "y_max": 0.7069,
+            "width": 0.1722,
+            "height": 0.1204
+          },
+          "confidence": 0.8847
+        },
+        {
+          "text": "Figure 4.21 Examples of Amphibia :",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.8552,
+            "x_max": 0.4244,
+            "y_max": 0.8668,
+            "width": 0.31,
+            "height": 0.0116
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "(a) Salamandra\n(b) Rana",
+          "bbox": {
+            "x_min": 0.2283,
+            "y_min": 0.8698,
+            "x_max": 0.3549,
+            "y_max": 0.8955,
+            "width": 0.1267,
+            "height": 0.0257
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "Betta",
+          "bbox": {
+            "x_min": 0.8768,
+            "y_min": 0.5557,
+            "x_max": 0.927,
+            "y_max": 0.5643,
+            "width": 0.0502,
+            "height": 0.0086
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "As the name indicates (Gr., Amphi : dual, bios, life),\namphibians can live in aquatic as well as terrestrial\nhabitats (Figure 4.21). Most of them have two pairs of\nlimbs. Body is divisible into head and trunk. Tail may\nbe present in some. The amphibian skin is moist\n(without scales). The eyes have eyelids. A tympanum\nrepresents the ear. Alimentary canal, urinary and\nreproductive tracts open into a common chamber called\ncloaca which opens to the exterior. Respiration is by\ngills, lungs and through skin. The heart is three-\nchambered (two auricles and one ventricle). These are\ncold-blooded animals. Sexes are separate. Fertilisation\nis external. They are oviparous and development\nis indirect.",
+          "bbox": {
+            "x_min": 0.4577,
+            "y_min": 0.6255,
+            "x_max": 0.9288,
+            "y_max": 0.8509,
+            "width": 0.4711,
+            "height": 0.2254
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "Examples: Bufo (Toad), Rana (Frog), Hyla (Tree frog),\nSalamandra (Salamander), Ichthyophis (Limbless\namphibia).",
+          "bbox": {
+            "x_min": 0.4577,
+            "y_min": 0.8612,
+            "x_max": 0.9259,
+            "y_max": 0.9079,
+            "width": 0.4682,
+            "height": 0.0467
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "ANIMAL KINGDOM",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.0831,
+            "x_max": 0.2049,
+            "y_max": 0.093,
+            "width": 0.1337,
+            "height": 0.0099
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "49",
+          "bbox": {
+            "x_min": 0.8447,
+            "y_min": 0.0835,
+            "x_max": 0.8757,
+            "y_max": 0.093,
+            "width": 0.0309,
+            "height": 0.0094
+          },
+          "confidence": 0.9868
+        },
+        {
+          "text": "己",
+          "bbox": {
+            "x_min": 0.6853,
+            "y_min": 0.165,
+            "x_max": 0.892,
+            "y_max": 0.3166,
+            "width": 0.2067,
+            "height": 0.1517
+          },
+          "confidence": 0.4523
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.1529,
+            "y_min": 0.3509,
+            "x_max": 0.1745,
+            "y_max": 0.362,
+            "width": 0.0216,
+            "height": 0.0111
+          },
+          "confidence": 0.9686
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.4016,
+            "y_min": 0.3496,
+            "x_max": 0.4232,
+            "y_max": 0.3599,
+            "width": 0.0216,
+            "height": 0.0103
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "(c)",
+          "bbox": {
+            "x_min": 0.6328,
+            "y_min": 0.3492,
+            "x_max": 0.6532,
+            "y_max": 0.3599,
+            "width": 0.0204,
+            "height": 0.0107
+          },
+          "confidence": 0.9431
+        },
+        {
+          "text": "Figure 4.22 Reptiles: (a) Chameleon (b) Crocodilus (c) Chelone (d) Naja",
+          "bbox": {
+            "x_min": 0.1804,
+            "y_min": 0.3787,
+            "x_max": 0.7846,
+            "y_max": 0.3967,
+            "width": 0.6042,
+            "height": 0.018
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "4.2.11.5 Class",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.4182,
+            "x_max": 0.2242,
+            "y_max": 0.4289,
+            "width": 0.1529,
+            "height": 0.0107
+          },
+          "confidence": 0.9851
+        },
+        {
+          "text": "Reptilia",
+          "bbox": {
+            "x_min": 0.251,
+            "y_min": 0.419,
+            "x_max": 0.3292,
+            "y_max": 0.431,
+            "width": 0.0782,
+            "height": 0.012
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "sed",
+          "bbox": {
+            "x_min": 0.6918,
+            "y_min": 0.3132,
+            "x_max": 0.8757,
+            "y_max": 0.4404,
+            "width": 0.1839,
+            "height": 0.1272
+          },
+          "confidence": 0.8822
+        },
+        {
+          "text": "Vaja",
+          "bbox": {
+            "x_min": 0.749,
+            "y_min": 0.3749,
+            "x_max": 0.791,
+            "y_max": 0.404,
+            "width": 0.042,
+            "height": 0.0291
+          },
+          "confidence": 0.809
+        },
+        {
+          "text": "The class name refers to their creeping or crawling mode of locomotion\n(Latin, repere or reptum, to creep or crawl). They are mostly terrestrial\nanimals and their body is covered by dry and cornified skin, epidermal\nscales or scutes (Fig. 4.22). They do not have external ear openings.\nTympanum represents ear. Limbs, when present, are two pairs. Heart is\nusually three-chambered, but four-chambered in crocodiles. Reptiles are\npoikilotherms. Snakes and lizards shed their scales as skin cast. Sexes\nare separate. Fertilisation is internal. They are oviparous and development\nis direct.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.4422,
+            "x_max": 0.6976,
+            "y_max": 0.5994,
+            "width": 0.6258,
+            "height": 0.1572
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "(C)",
+          "bbox": {
+            "x_min": 0.3076,
+            "y_min": 0.5835,
+            "x_max": 0.3748,
+            "y_max": 0.6123,
+            "width": 0.0671,
+            "height": 0.0287
+          },
+          "confidence": 0.7066
+        },
+        {
+          "text": "Examples: Chelone (Turtle), Testudo (Tortoise), Chameleon (Tree lizard),\nCalotes (Garden lizard), Crocodilus (Crocodile), Alligator (Alligator).\nHemidactylus (Wall lizard), Poisonous snakes – Naja (Cobra), Bangarus\n(Krait), Vipera (Viper).",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.6135,
+            "x_max": 0.6976,
+            "y_max": 0.6817,
+            "width": 0.6252,
+            "height": 0.0681
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "4.2.11.6 Class - Aves",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.6945,
+            "x_max": 0.2954,
+            "y_max": 0.7052,
+            "width": 0.2248,
+            "height": 0.0107
+          },
+          "confidence": 0.9489
+        },
+        {
+          "text": "to",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.6607,
+            "x_max": 0.4081,
+            "y_max": 0.7241,
+            "width": 0.1051,
+            "height": 0.0634
+          },
+          "confidence": 0.9497
+        },
+        {
+          "text": "The characteristic features of Aves (birds) are the presence of feathers\nand most of them can fly except flightless birds (e.g., Ostrich). They possess\nbeak (Figure 4.23). The forelimbs are modified into wings. The hind limbs\ngenerally have scales and are modified for walking, swimming or clasping\nthe tree branches. Skin is dry without glands except the oil gland at the\nbase of the tail. Endoskeleton is fully ossified (bony) and the long bones\nare hollow with air cavities (pneumatic). The digestive tract of birds has\nadditional chambers, the crop and gizzard. Heart is completely four-\nchambered. They are warm-blooded (homoiothermous) animals, i.e.,\nthey are able to maintain a constant body temperature. Respiration is by",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.7185,
+            "x_max": 0.6976,
+            "y_max": 0.8976,
+            "width": 0.6258,
+            "height": 0.1791
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "50",
+          "bbox": {
+            "x_min": 0.1197,
+            "y_min": 0.0827,
+            "x_max": 0.1477,
+            "y_max": 0.093,
+            "width": 0.028,
+            "height": 0.0103
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.1576,
+            "y_min": 0.3406,
+            "x_max": 0.1804,
+            "y_max": 0.3518,
+            "width": 0.0228,
+            "height": 0.0111
+          },
+          "confidence": 0.9698
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.3567,
+            "y_min": 0.3432,
+            "x_max": 0.3783,
+            "y_max": 0.3539,
+            "width": 0.0216,
+            "height": 0.0107
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "(c)",
+          "bbox": {
+            "x_min": 0.5493,
+            "y_min": 0.341,
+            "x_max": 0.5703,
+            "y_max": 0.3526,
+            "width": 0.021,
+            "height": 0.0116
+          },
+          "confidence": 0.9369
+        },
+        {
+          "text": "(d)",
+          "bbox": {
+            "x_min": 0.8219,
+            "y_min": 0.3398,
+            "x_max": 0.8488,
+            "y_max": 0.3513,
+            "width": 0.0269,
+            "height": 0.0116
+          },
+          "confidence": 0.9788
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8576,
+            "y_min": 0.0835,
+            "x_max": 0.9253,
+            "y_max": 0.0938,
+            "width": 0.0677,
+            "height": 0.0103
+          },
+          "confidence": 0.9783
+        },
+        {
+          "text": "Figure 4.23 Some birds : (a) Neophron (b) Struthio (c) Psittacula (d) Pavo",
+          "bbox": {
+            "x_min": 0.1868,
+            "y_min": 0.3787,
+            "x_max": 0.812,
+            "y_max": 0.392,
+            "width": 0.6252,
+            "height": 0.0133
+          },
+          "confidence": 0.9868
+        },
+        {
+          "text": "lungs. Air sacs connected to lungs supplement respiration. Sexes are\nseparate. Fertilisation is internal. They are oviparous and development is\ndirect.",
+          "bbox": {
+            "x_min": 0.3001,
+            "y_min": 0.4165,
+            "x_max": 0.9264,
+            "y_max": 0.4627,
+            "width": 0.6264,
+            "height": 0.0463
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "Examples: Corvus (Crow), Columba (Pigeon), Psittacula (Parrot), Struthio\n(Ostrich), Pavo (Peacock), Aptenodytes (Penguin), Neophron (Vulture).",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.4773,
+            "x_max": 0.9276,
+            "y_max": 0.5073,
+            "width": 0.6258,
+            "height": 0.03
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "4.2.11.7 Class",
+          "bbox": {
+            "x_min": 0.3001,
+            "y_min": 0.527,
+            "x_max": 0.453,
+            "y_max": 0.5373,
+            "width": 0.1529,
+            "height": 0.0103
+          },
+          "confidence": 0.9836
+        },
+        {
+          "text": "Mammalia",
+          "bbox": {
+            "x_min": 0.4799,
+            "y_min": 0.527,
+            "x_max": 0.5838,
+            "y_max": 0.5373,
+            "width": 0.1039,
+            "height": 0.0103
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "They are found in a variety of habitats – polar ice caps, deserts, mountains,\nforests, grasslands and dark caves. Some of them have adapted to fly or\nlive in water. The most unique mammalian characteristic is the presence\nof milk producing glands (mammary glands) by which the young ones\nare nourished. They have two pairs of limbs, adapted for walking, running,\nclimbing, burrowing, swimming or flying (Figure 4.24). The skin of",
+          "bbox": {
+            "x_min": 0.3001,
+            "y_min": 0.5493,
+            "x_max": 0.9282,
+            "y_max": 0.6448,
+            "width": 0.6281,
+            "height": 0.0955
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.2318,
+            "y_min": 0.7798,
+            "x_max": 0.2522,
+            "y_max": 0.7918,
+            "width": 0.0204,
+            "height": 0.012
+          },
+          "confidence": 0.9562
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.439,
+            "y_min": 0.8646,
+            "x_max": 0.4612,
+            "y_max": 0.8749,
+            "width": 0.0222,
+            "height": 0.0103
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "(c)",
+          "bbox": {
+            "x_min": 0.6778,
+            "y_min": 0.7549,
+            "x_max": 0.6999,
+            "y_max": 0.7656,
+            "width": 0.0222,
+            "height": 0.0107
+          },
+          "confidence": 0.9487
+        },
+        {
+          "text": "(d)",
+          "bbox": {
+            "x_min": 0.6748,
+            "y_min": 0.8445,
+            "x_max": 0.6976,
+            "y_max": 0.856,
+            "width": 0.0228,
+            "height": 0.0116
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "Figure 4.24 Some mammals: (a) Ornithorhynchus (b) Macropus (c) Pteropus (d) Balaenoptera",
+          "bbox": {
+            "x_min": 0.1168,
+            "y_min": 0.8843,
+            "x_max": 0.9136,
+            "y_max": 0.8959,
+            "width": 0.7968,
+            "height": 0.0116
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4501,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "ANIMAL KINGDOM",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.0831,
+            "x_max": 0.2049,
+            "y_max": 0.0925,
+            "width": 0.1349,
+            "height": 0.0094
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "mammals is unique in possessing hair. External ears or pinnae are\npresent. Different types of teeth are present in the jaw. Heart is four-\nchambered. They are homoiothermous. Respiration is by lungs. Sexes\nare separate and fertilisation is internal. They are viviparous with few\nexceptions and development is direct.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.1324,
+            "x_max": 0.6976,
+            "y_max": 0.2117,
+            "width": 0.6246,
+            "height": 0.0793
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "Examples: Oviparous-Ornithorhynchus (Platypus); Viviparous\nMacropus (Kangaroo), Pteropus (Flying fox), Camelus (Camel), Mасаса\n(Monkey), Rattus (Rat), Canis (Dog), Felis (Cat), Elephas (Elephant),\nEquus (Horse), Delphinus (Common dolphin), Balaenoptera (Blue whale),\nPanthera tigris (Tiger), Panthera leo (Lion).",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.2189,
+            "x_max": 0.6988,
+            "y_max": 0.2982,
+            "width": 0.627,
+            "height": 0.0793
+          },
+          "confidence": 0.9868
+        },
+        {
+          "text": "The salient distinguishing features of all phyla under animal kingdom\nis comprehensively given in the Table 4.2.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.3012,
+            "x_max": 0.697,
+            "y_max": 0.332,
+            "width": 0.6241,
+            "height": 0.0308
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "TABLE 4.2 Salient Features of Different Phyla in the Animal Kingdom",
+          "bbox": {
+            "x_min": 0.1693,
+            "y_min": 0.3475,
+            "x_max": 0.7922,
+            "y_max": 0.3603,
+            "width": 0.6229,
+            "height": 0.0129
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "Phylum",
+          "bbox": {
+            "x_min": 0.0782,
+            "y_min": 0.377,
+            "x_max": 0.1407,
+            "y_max": 0.3886,
+            "width": 0.0625,
+            "height": 0.0116
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "Organi-\nsation",
+          "bbox": {
+            "x_min": 0.1781,
+            "y_min": 0.3903,
+            "x_max": 0.2382,
+            "y_max": 0.4126,
+            "width": 0.0601,
+            "height": 0.0223
+          },
+          "confidence": 0.9836
+        },
+        {
+          "text": "Level of Symme- Coelom\ntry",
+          "bbox": {
+            "x_min": 0.1786,
+            "y_min": 0.3762,
+            "x_max": 0.4016,
+            "y_max": 0.4019,
+            "width": 0.223,
+            "height": 0.0257
+          },
+          "confidence": 0.9721
+        },
+        {
+          "text": "Segmen- Digestive\ntation System",
+          "bbox": {
+            "x_min": 0.4227,
+            "y_min": 0.377,
+            "x_max": 0.5721,
+            "y_max": 0.4023,
+            "width": 0.1494,
+            "height": 0.0253
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "dom",
+          "bbox": {
+            "x_min": 0.7513,
+            "y_min": 0.3496,
+            "x_max": 0.8021,
+            "y_max": 0.3668,
+            "width": 0.0508,
+            "height": 0.0171
+          },
+          "confidence": 0.6997
+        },
+        {
+          "text": "Distinctive",
+          "bbox": {
+            "x_min": 0.749,
+            "y_min": 0.3762,
+            "x_max": 0.8383,
+            "y_max": 0.3847,
+            "width": 0.0893,
+            "height": 0.0086
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "Features",
+          "bbox": {
+            "x_min": 0.7496,
+            "y_min": 0.3907,
+            "x_max": 0.8214,
+            "y_max": 0.398,
+            "width": 0.0718,
+            "height": 0.0073
+          },
+          "confidence": 0.9845
+        },
+        {
+          "text": "51",
+          "bbox": {
+            "x_min": 0.8482,
+            "y_min": 0.0831,
+            "x_max": 0.8745,
+            "y_max": 0.0934,
+            "width": 0.0263,
+            "height": 0.0103
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "Circu- Respi-",
+          "bbox": {
+            "x_min": 0.5949,
+            "y_min": 0.3757,
+            "x_max": 0.7227,
+            "y_max": 0.3865,
+            "width": 0.1278,
+            "height": 0.0107
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "latory ratory\nSystem System",
+          "bbox": {
+            "x_min": 0.596,
+            "y_min": 0.3903,
+            "x_max": 0.7326,
+            "y_max": 0.4152,
+            "width": 0.1366,
+            "height": 0.0249
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "Porifera",
+          "bbox": {
+            "x_min": 0.0782,
+            "y_min": 0.4473,
+            "x_max": 0.1384,
+            "y_max": 0.4542,
+            "width": 0.0601,
+            "height": 0.0069
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "Cellular Various",
+          "bbox": {
+            "x_min": 0.1792,
+            "y_min": 0.4456,
+            "x_max": 0.3176,
+            "y_max": 0.4546,
+            "width": 0.1384,
+            "height": 0.009
+          },
+          "confidence": 0.9805
+        },
+        {
+          "text": "Absent",
+          "bbox": {
+            "x_min": 0.3374,
+            "y_min": 0.4464,
+            "x_max": 0.3946,
+            "y_max": 0.4542,
+            "width": 0.0572,
+            "height": 0.0077
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "Absent Absent",
+          "bbox": {
+            "x_min": 0.4221,
+            "y_min": 0.4469,
+            "x_max": 0.5499,
+            "y_max": 0.455,
+            "width": 0.1278,
+            "height": 0.0081
+          },
+          "confidence": 0.9767
+        },
+        {
+          "text": "Absent",
+          "bbox": {
+            "x_min": 0.5937,
+            "y_min": 0.4464,
+            "x_max": 0.6492,
+            "y_max": 0.4542,
+            "width": 0.0555,
+            "height": 0.0077
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "Absent",
+          "bbox": {
+            "x_min": 0.6708,
+            "y_min": 0.4452,
+            "x_max": 0.725,
+            "y_max": 0.4537,
+            "width": 0.0543,
+            "height": 0.0086
+          },
+          "confidence": 0.9852
+        },
+        {
+          "text": "Body with pores",
+          "bbox": {
+            "x_min": 0.7507,
+            "y_min": 0.4404,
+            "x_max": 0.8867,
+            "y_max": 0.4516,
+            "width": 0.136,
+            "height": 0.0111
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "and canals in walls.",
+          "bbox": {
+            "x_min": 0.7496,
+            "y_min": 0.4546,
+            "x_max": 0.8873,
+            "y_max": 0.4627,
+            "width": 0.1378,
+            "height": 0.0081
+          },
+          "confidence": 0.9791
+        },
+        {
+          "text": "Coelenterata",
+          "bbox": {
+            "x_min": 0.0788,
+            "y_min": 0.4747,
+            "x_max": 0.1652,
+            "y_max": 0.482,
+            "width": 0.0864,
+            "height": 0.0073
+          },
+          "confidence": 0.9854
+        },
+        {
+          "text": "Cnidoblasts",
+          "bbox": {
+            "x_min": 0.7507,
+            "y_min": 0.4777,
+            "x_max": 0.8406,
+            "y_max": 0.4867,
+            "width": 0.0899,
+            "height": 0.009
+          },
+          "confidence": 0.9826
+        },
+        {
+          "text": "(Cnidaria) Tissue",
+          "bbox": {
+            "x_min": 0.0782,
+            "y_min": 0.4876,
+            "x_max": 0.2283,
+            "y_max": 0.4979,
+            "width": 0.15,
+            "height": 0.0103
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "Radial Absent",
+          "bbox": {
+            "x_min": 0.2592,
+            "y_min": 0.4871,
+            "x_max": 0.394,
+            "y_max": 0.4957,
+            "width": 0.1349,
+            "height": 0.0086
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "Absent",
+          "bbox": {
+            "x_min": 0.4197,
+            "y_min": 0.488,
+            "x_max": 0.4758,
+            "y_max": 0.4957,
+            "width": 0.056,
+            "height": 0.0077
+          },
+          "confidence": 0.985
+        },
+        {
+          "text": "Incomplete Absent",
+          "bbox": {
+            "x_min": 0.4985,
+            "y_min": 0.4871,
+            "x_max": 0.6486,
+            "y_max": 0.4987,
+            "width": 0.15,
+            "height": 0.0116
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "Absent",
+          "bbox": {
+            "x_min": 0.6702,
+            "y_min": 0.4867,
+            "x_max": 0.7256,
+            "y_max": 0.4944,
+            "width": 0.0555,
+            "height": 0.0077
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "present.",
+          "bbox": {
+            "x_min": 0.7472,
+            "y_min": 0.4927,
+            "x_max": 0.8109,
+            "y_max": 0.503,
+            "width": 0.0636,
+            "height": 0.0103
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "Tissue Radial Absent Absent",
+          "bbox": {
+            "x_min": 0.1763,
+            "y_min": 0.518,
+            "x_max": 0.4769,
+            "y_max": 0.5261,
+            "width": 0.3006,
+            "height": 0.0081
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "Ctenophora",
+          "bbox": {
+            "x_min": 0.0771,
+            "y_min": 0.5236,
+            "x_max": 0.167,
+            "y_max": 0.5338,
+            "width": 0.0899,
+            "height": 0.0103
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "Incomplete Absent",
+          "bbox": {
+            "x_min": 0.4985,
+            "y_min": 0.5176,
+            "x_max": 0.6492,
+            "y_max": 0.5291,
+            "width": 0.1506,
+            "height": 0.0116
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "Absent",
+          "bbox": {
+            "x_min": 0.6702,
+            "y_min": 0.5167,
+            "x_max": 0.725,
+            "y_max": 0.5253,
+            "width": 0.0549,
+            "height": 0.0086
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "Comb plates for\nlocomotion.",
+          "bbox": {
+            "x_min": 0.7501,
+            "y_min": 0.5159,
+            "x_max": 0.8885,
+            "y_max": 0.5377,
+            "width": 0.1384,
+            "height": 0.0219
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "Organ &",
+          "bbox": {
+            "x_min": 0.1775,
+            "y_min": 0.5437,
+            "x_max": 0.2423,
+            "y_max": 0.554,
+            "width": 0.0648,
+            "height": 0.0103
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "Platyhelm- Organ-",
+          "bbox": {
+            "x_min": 0.0806,
+            "y_min": 0.554,
+            "x_max": 0.2306,
+            "y_max": 0.5681,
+            "width": 0.15,
+            "height": 0.0141
+          },
+          "confidence": 0.9829
+        },
+        {
+          "text": "Bilateral Absent",
+          "bbox": {
+            "x_min": 0.2604,
+            "y_min": 0.5591,
+            "x_max": 0.394,
+            "y_max": 0.5677,
+            "width": 0.1337,
+            "height": 0.0086
+          },
+          "confidence": 0.9806
+        },
+        {
+          "text": "Absent",
+          "bbox": {
+            "x_min": 0.4197,
+            "y_min": 0.5596,
+            "x_max": 0.4769,
+            "y_max": 0.5677,
+            "width": 0.0572,
+            "height": 0.0081
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "Incomplete Absent",
+          "bbox": {
+            "x_min": 0.4985,
+            "y_min": 0.5596,
+            "x_max": 0.6497,
+            "y_max": 0.5707,
+            "width": 0.1512,
+            "height": 0.0111
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "Absent",
+          "bbox": {
+            "x_min": 0.6708,
+            "y_min": 0.5583,
+            "x_max": 0.725,
+            "y_max": 0.5668,
+            "width": 0.0543,
+            "height": 0.0086
+          },
+          "confidence": 0.9868
+        },
+        {
+          "text": "Flat body, suckers.",
+          "bbox": {
+            "x_min": 0.7496,
+            "y_min": 0.5574,
+            "x_max": 0.8873,
+            "y_max": 0.5677,
+            "width": 0.1378,
+            "height": 0.0103
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "inthes",
+          "bbox": {
+            "x_min": 0.08,
+            "y_min": 0.5686,
+            "x_max": 0.1273,
+            "y_max": 0.5763,
+            "width": 0.0473,
+            "height": 0.0077
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "system",
+          "bbox": {
+            "x_min": 0.1781,
+            "y_min": 0.5724,
+            "x_max": 0.23,
+            "y_max": 0.5814,
+            "width": 0.052,
+            "height": 0.009
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "Organ-",
+          "bbox": {
+            "x_min": 0.1775,
+            "y_min": 0.5887,
+            "x_max": 0.2306,
+            "y_max": 0.599,
+            "width": 0.0531,
+            "height": 0.0103
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "Pseudo",
+          "bbox": {
+            "x_min": 0.3398,
+            "y_min": 0.5857,
+            "x_max": 0.3946,
+            "y_max": 0.5938,
+            "width": 0.0549,
+            "height": 0.0081
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "Aschelmin-",
+          "bbox": {
+            "x_min": 0.0776,
+            "y_min": 0.5964,
+            "x_max": 0.1646,
+            "y_max": 0.6037,
+            "width": 0.087,
+            "height": 0.0073
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "system",
+          "bbox": {
+            "x_min": 0.1781,
+            "y_min": 0.6033,
+            "x_max": 0.2294,
+            "y_max": 0.6131,
+            "width": 0.0514,
+            "height": 0.0099
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "Bilateral coelo-",
+          "bbox": {
+            "x_min": 0.2615,
+            "y_min": 0.5977,
+            "x_max": 0.3859,
+            "y_max": 0.6097,
+            "width": 0.1243,
+            "height": 0.012
+          },
+          "confidence": 0.986
+        },
+        {
+          "text": "Absent",
+          "bbox": {
+            "x_min": 0.4197,
+            "y_min": 0.6015,
+            "x_max": 0.4764,
+            "y_max": 0.6088,
+            "width": 0.0566,
+            "height": 0.0073
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "Complete",
+          "bbox": {
+            "x_min": 0.4956,
+            "y_min": 0.602,
+            "x_max": 0.5698,
+            "y_max": 0.6118,
+            "width": 0.0741,
+            "height": 0.0099
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "Absent",
+          "bbox": {
+            "x_min": 0.5937,
+            "y_min": 0.6007,
+            "x_max": 0.6497,
+            "y_max": 0.6084,
+            "width": 0.056,
+            "height": 0.0077
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "Absent",
+          "bbox": {
+            "x_min": 0.6702,
+            "y_min": 0.599,
+            "x_max": 0.725,
+            "y_max": 0.608,
+            "width": 0.0549,
+            "height": 0.009
+          },
+          "confidence": 0.9864
+        },
+        {
+          "text": "thes",
+          "bbox": {
+            "x_min": 0.0788,
+            "y_min": 0.6101,
+            "x_max": 0.1121,
+            "y_max": 0.6178,
+            "width": 0.0333,
+            "height": 0.0077
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "mate",
+          "bbox": {
+            "x_min": 0.3403,
+            "y_min": 0.6114,
+            "x_max": 0.38,
+            "y_max": 0.6183,
+            "width": 0.0397,
+            "height": 0.0069
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "Organ-",
+          "bbox": {
+            "x_min": 0.1775,
+            "y_min": 0.6277,
+            "x_max": 0.2306,
+            "y_max": 0.638,
+            "width": 0.0531,
+            "height": 0.0103
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "Coelo-",
+          "bbox": {
+            "x_min": 0.3398,
+            "y_min": 0.629,
+            "x_max": 0.3911,
+            "y_max": 0.6367,
+            "width": 0.0514,
+            "height": 0.0077
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "Often worm-",
+          "bbox": {
+            "x_min": 0.7496,
+            "y_min": 0.587,
+            "x_max": 0.8453,
+            "y_max": 0.5951,
+            "width": 0.0957,
+            "height": 0.0081
+          },
+          "confidence": 0.981
+        },
+        {
+          "text": "shaped,\nelongated.",
+          "bbox": {
+            "x_min": 0.7484,
+            "y_min": 0.6007,
+            "x_max": 0.8272,
+            "y_max": 0.6234,
+            "width": 0.0788,
+            "height": 0.0227
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "Body segment-",
+          "bbox": {
+            "x_min": 0.7484,
+            "y_min": 0.6298,
+            "x_max": 0.8616,
+            "y_max": 0.6401,
+            "width": 0.1133,
+            "height": 0.0103
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "Annelida system",
+          "bbox": {
+            "x_min": 0.0771,
+            "y_min": 0.641,
+            "x_max": 0.2294,
+            "y_max": 0.6517,
+            "width": 0.1524,
+            "height": 0.0107
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "Bilateral mate",
+          "bbox": {
+            "x_min": 0.2604,
+            "y_min": 0.6418,
+            "x_max": 0.3789,
+            "y_max": 0.6508,
+            "width": 0.1185,
+            "height": 0.009
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "Present Complete",
+          "bbox": {
+            "x_min": 0.4244,
+            "y_min": 0.6427,
+            "x_max": 0.5698,
+            "y_max": 0.653,
+            "width": 0.1454,
+            "height": 0.0103
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "Present Absent",
+          "bbox": {
+            "x_min": 0.5978,
+            "y_min": 0.6405,
+            "x_max": 0.725,
+            "y_max": 0.6495,
+            "width": 0.1273,
+            "height": 0.009
+          },
+          "confidence": 0.972
+        },
+        {
+          "text": "ation like rings.",
+          "bbox": {
+            "x_min": 0.7513,
+            "y_min": 0.6435,
+            "x_max": 0.8704,
+            "y_max": 0.6538,
+            "width": 0.1191,
+            "height": 0.0103
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "Organ- Bilateral Coelo-",
+          "bbox": {
+            "x_min": 0.1775,
+            "y_min": 0.6654,
+            "x_max": 0.39,
+            "y_max": 0.6774,
+            "width": 0.2125,
+            "height": 0.012
+          },
+          "confidence": 0.9848
+        },
+        {
+          "text": "Present Complete",
+          "bbox": {
+            "x_min": 0.4244,
+            "y_min": 0.6701,
+            "x_max": 0.5692,
+            "y_max": 0.6804,
+            "width": 0.1448,
+            "height": 0.0103
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "Arthropoda system",
+          "bbox": {
+            "x_min": 0.0794,
+            "y_min": 0.6791,
+            "x_max": 0.23,
+            "y_max": 0.6919,
+            "width": 0.1506,
+            "height": 0.0129
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "mate",
+          "bbox": {
+            "x_min": 0.3398,
+            "y_min": 0.6808,
+            "x_max": 0.38,
+            "y_max": 0.6872,
+            "width": 0.0403,
+            "height": 0.0064
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "Organ- Bilateral Coelo-",
+          "bbox": {
+            "x_min": 0.1775,
+            "y_min": 0.7065,
+            "x_max": 0.3905,
+            "y_max": 0.7194,
+            "width": 0.2131,
+            "height": 0.0129
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "Absent",
+          "bbox": {
+            "x_min": 0.4197,
+            "y_min": 0.7112,
+            "x_max": 0.4769,
+            "y_max": 0.7189,
+            "width": 0.0572,
+            "height": 0.0077
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "Complete Present Present",
+          "bbox": {
+            "x_min": 0.4956,
+            "y_min": 0.7099,
+            "x_max": 0.7285,
+            "y_max": 0.7215,
+            "width": 0.2329,
+            "height": 0.0116
+          },
+          "confidence": 0.9782
+        },
+        {
+          "text": "Mollusca system",
+          "bbox": {
+            "x_min": 0.0771,
+            "y_min": 0.7207,
+            "x_max": 0.2294,
+            "y_max": 0.7314,
+            "width": 0.1524,
+            "height": 0.0107
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "mate",
+          "bbox": {
+            "x_min": 0.3398,
+            "y_min": 0.7211,
+            "x_max": 0.38,
+            "y_max": 0.7288,
+            "width": 0.0403,
+            "height": 0.0077
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "Echino- Organ- Radial\ndermata system",
+          "bbox": {
+            "x_min": 0.0776,
+            "y_min": 0.7618,
+            "x_max": 0.31,
+            "y_max": 0.7858,
+            "width": 0.2323,
+            "height": 0.024
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "Coelo- Absent Complete",
+          "bbox": {
+            "x_min": 0.3398,
+            "y_min": 0.7626,
+            "x_max": 0.5698,
+            "y_max": 0.7768,
+            "width": 0.23,
+            "height": 0.0141
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "mate",
+          "bbox": {
+            "x_min": 0.3398,
+            "y_min": 0.7763,
+            "x_max": 0.38,
+            "y_max": 0.7836,
+            "width": 0.0403,
+            "height": 0.0073
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "Hemi-",
+          "bbox": {
+            "x_min": 0.0776,
+            "y_min": 0.8085,
+            "x_max": 0.1243,
+            "y_max": 0.8162,
+            "width": 0.0467,
+            "height": 0.0077
+          },
+          "confidence": 0.977
+        },
+        {
+          "text": "chordata",
+          "bbox": {
+            "x_min": 0.0794,
+            "y_min": 0.8226,
+            "x_max": 0.1465,
+            "y_max": 0.8303,
+            "width": 0.0671,
+            "height": 0.0077
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "Organ-\nsystem",
+          "bbox": {
+            "x_min": 0.1775,
+            "y_min": 0.8025,
+            "x_max": 0.2294,
+            "y_max": 0.8273,
+            "width": 0.052,
+            "height": 0.0249
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "Bilateral Coelo-",
+          "bbox": {
+            "x_min": 0.2609,
+            "y_min": 0.8033,
+            "x_max": 0.3905,
+            "y_max": 0.8153,
+            "width": 0.1296,
+            "height": 0.012
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "Absent Complete Present Present",
+          "bbox": {
+            "x_min": 0.4232,
+            "y_min": 0.8076,
+            "x_max": 0.7291,
+            "y_max": 0.8179,
+            "width": 0.3059,
+            "height": 0.0103
+          },
+          "confidence": 0.9745
+        },
+        {
+          "text": "mate",
+          "bbox": {
+            "x_min": 0.3398,
+            "y_min": 0.8175,
+            "x_max": 0.38,
+            "y_max": 0.8248,
+            "width": 0.0403,
+            "height": 0.0073
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "Chordata Organ-\nsystem",
+          "bbox": {
+            "x_min": 0.0788,
+            "y_min": 0.8633,
+            "x_max": 0.23,
+            "y_max": 0.889,
+            "width": 0.1512,
+            "height": 0.0257
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "Bilateral Coelo-\nmate",
+          "bbox": {
+            "x_min": 0.2609,
+            "y_min": 0.8582,
+            "x_max": 0.39,
+            "y_max": 0.8805,
+            "width": 0.129,
+            "height": 0.0223
+          },
+          "confidence": 0.9846
+        },
+        {
+          "text": "Exoskeleton of cu-\nticle, jointed ap-\npendages.",
+          "bbox": {
+            "x_min": 0.7478,
+            "y_min": 0.6624,
+            "x_max": 0.8873,
+            "y_max": 0.6988,
+            "width": 0.1395,
+            "height": 0.0364
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "External skeleton\nof shell usually\npresent.",
+          "bbox": {
+            "x_min": 0.7478,
+            "y_min": 0.7061,
+            "x_max": 0.8873,
+            "y_max": 0.7442,
+            "width": 0.1395,
+            "height": 0.0381
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "Water vascular\nradial",
+          "bbox": {
+            "x_min": 0.749,
+            "y_min": 0.7566,
+            "x_max": 0.8879,
+            "y_max": 0.7785,
+            "width": 0.1389,
+            "height": 0.0219
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "system,\nsymmetry.",
+          "bbox": {
+            "x_min": 0.7496,
+            "y_min": 0.7712,
+            "x_max": 0.8301,
+            "y_max": 0.7952,
+            "width": 0.0806,
+            "height": 0.024
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "Worm-like with\nproboscis, collar\nand trunk.",
+          "bbox": {
+            "x_min": 0.7484,
+            "y_min": 0.8012,
+            "x_max": 0.8873,
+            "y_max": 0.8372,
+            "width": 0.1389,
+            "height": 0.036
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "Notochord, dorsal",
+          "bbox": {
+            "x_min": 0.749,
+            "y_min": 0.8492,
+            "x_max": 0.8873,
+            "y_max": 0.8586,
+            "width": 0.1384,
+            "height": 0.0094
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "Present Complete Present Present hollow nerve cord,\ngill slits with\nlimbs or fins.",
+          "bbox": {
+            "x_min": 0.4244,
+            "y_min": 0.8612,
+            "x_max": 0.8879,
+            "y_max": 0.8989,
+            "width": 0.4635,
+            "height": 0.0377
+          },
+          "confidence": 0.9816
+        },
+        {
+          "text": "Present Present",
+          "bbox": {
+            "x_min": 0.5978,
+            "y_min": 0.6688,
+            "x_max": 0.7285,
+            "y_max": 0.6774,
+            "width": 0.1308,
+            "height": 0.0086
+          },
+          "confidence": 0.9692
+        },
+        {
+          "text": "Present Present",
+          "bbox": {
+            "x_min": 0.5972,
+            "y_min": 0.7648,
+            "x_max": 0.7285,
+            "y_max": 0.7738,
+            "width": 0.1313,
+            "height": 0.009
+          },
+          "confidence": 0.971
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "52",
+          "bbox": {
+            "x_min": 0.1191,
+            "y_min": 0.0831,
+            "x_max": 0.1471,
+            "y_max": 0.0925,
+            "width": 0.028,
+            "height": 0.0094
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "SUMMARY",
+          "bbox": {
+            "x_min": 0.5657,
+            "y_min": 0.1341,
+            "x_max": 0.662,
+            "y_max": 0.1457,
+            "width": 0.0963,
+            "height": 0.0116
+          },
+          "confidence": 0.9574
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8576,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0677,
+            "height": 0.0094
+          },
+          "confidence": 0.9798
+        },
+        {
+          "text": "The basic fundamental features such as level of organisation, symmetry,\ncell organisation, coelom, segmentation, notochord, etc., have enabled us\nto broadly classify the animal kingdom. Besides the fundamental features,\nthere are many other distinctive characters which are specific for each\nphyla or class.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.1855,
+            "x_max": 0.9259,
+            "y_max": 0.2772,
+            "width": 0.6241,
+            "height": 0.0917
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "Porifera includes multicellular animals which exhibit cellular level of\norganisation and have characteristic flagellated choanocytes. The\ncoelenterates have tentacles and bear cnidoblasts. They are mostly aquatic,\nsessile or free-floating. The ctenophores are marine animals with comb\nplates. The platyhelminths have flat body and exhibit bilateral symmetry.\nThe parasitic forms show distinct suckers and hooks. Aschelminthes are\npseudocoelomates and include parasitic as well as non-parasitic\nroundworms.",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.2836,
+            "x_max": 0.9282,
+            "y_max": 0.4323,
+            "width": 0.6276,
+            "height": 0.1487
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "Annelids are metamerically segmented animals with a true coelom.\nThe arthropods are the most abundant group of animals characterised\nby the presence of jointed appendages. The molluscs have a soft body\nsurrounded by an external calcareous shell. The body is covered with\nexternal skeleton made of chitin. The echinoderms possess a spiny skin.\nTheir most distinctive feature is the presence of water vascular system.\nThe hemichordates are a small group of worm-like marine animals. They\nhave a cylindrical body with proboscis, collar and trunk.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.4422,
+            "x_max": 0.9264,
+            "y_max": 0.593,
+            "width": 0.6252,
+            "height": 0.1508
+          },
+          "confidence": 0.997
+        },
+        {
+          "text": "Phylum Chordata includes animals which possess a notochord either\nthroughout or during early embryonic life. Other common features\nobserved in the chordates are the dorsal, hollow nerve cord and paired\npharyngeal gill slits. Some of the vertebrates do not possess jaws (Agnatha)\nwhereas most of them possess jaws (Gnathostomata). Agnatha is\nrepresented by the class, Cyclostomata. They are the most primitive\nchordates and are ectoparasites on fishes. Gnathostomata has two super\nclasses, Pisces and Tetrapoda. Classes Chondrichthyes and Osteichthyes\nbear fins for locomotion and are grouped under Pisces. The\nChondrichthyes are fishes with cartilaginous endoskeleton and are marine.\nClasses, Amphibia, Reptilia, Aves and Mammalia have two pairs of limbs\nand are thus grouped under Tetrapoda. The amphibians have adapted\nto live both on land and water. Reptiles are characterised by the presence",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.5998,
+            "x_max": 0.927,
+            "y_max": 0.8496,
+            "width": 0.6258,
+            "height": 0.2498
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1926,
+            "y_min": 0.7104,
+            "x_max": 0.3246,
+            "y_max": 0.8119,
+            "width": 0.1319,
+            "height": 0.1015
+          },
+          "confidence": 0.9782
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "ANIMAL KINGDOM",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.0831,
+            "x_max": 0.2049,
+            "y_max": 0.0925,
+            "width": 0.1349,
+            "height": 0.0094
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "of dry and cornified skin. Limbs are absent in snakes. Fishes, amphibians\nand reptiles are poikilothermous (cold-blooded). Aves are warm-blooded\nanimals with feathers on their bodies and forelimbs modified into wings\nfor flying. Hind limbs are adapted for walking, swimming, perching or\nclasping. The unique features of mammals are the presence of mammary\nglands and hairs on the skin. They commonly exhibit viviparity.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.1371,
+            "x_max": 0.697,
+            "y_max": 0.2494,
+            "width": 0.6241,
+            "height": 0.1123
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "53",
+          "bbox": {
+            "x_min": 0.8482,
+            "y_min": 0.0827,
+            "x_max": 0.8733,
+            "y_max": 0.0925,
+            "width": 0.0251,
+            "height": 0.0099
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "EXERCISES",
+          "bbox": {
+            "x_min": 0.3473,
+            "y_min": 0.3063,
+            "x_max": 0.4518,
+            "y_max": 0.3179,
+            "width": 0.1045,
+            "height": 0.0116
+          },
+          "confidence": 0.9799
+        },
+        {
+          "text": "1. What are the difficulties that you would face in classification of animals,\nif common fundamental features are not taken into account?",
+          "bbox": {
+            "x_min": 0.0911,
+            "y_min": 0.3569,
+            "x_max": 0.6964,
+            "y_max": 0.3847,
+            "width": 0.6054,
+            "height": 0.0278
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "2. If you are given a specimen, what are the steps that you would follow to\nclassify it?",
+          "bbox": {
+            "x_min": 0.0881,
+            "y_min": 0.3976,
+            "x_max": 0.697,
+            "y_max": 0.428,
+            "width": 0.6089,
+            "height": 0.0304
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "3. How useful is the study of the nature of body cavity and coelom in the\nclassification of animals?",
+          "bbox": {
+            "x_min": 0.0887,
+            "y_min": 0.4387,
+            "x_max": 0.6976,
+            "y_max": 0.4662,
+            "width": 0.6089,
+            "height": 0.0274
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "4. Distinguish between intracellular and extracellular digestion?",
+          "bbox": {
+            "x_min": 0.0881,
+            "y_min": 0.4794,
+            "x_max": 0.6363,
+            "y_max": 0.4914,
+            "width": 0.5482,
+            "height": 0.012
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "5. What is the difference between direct and indirect development?",
+          "bbox": {
+            "x_min": 0.0881,
+            "y_min": 0.5021,
+            "x_max": 0.6532,
+            "y_max": 0.5146,
+            "width": 0.5651,
+            "height": 0.0124
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "Valberedublished",
+          "bbox": {
+            "x_min": 0.2755,
+            "y_min": 0.2905,
+            "x_max": 0.8739,
+            "y_max": 0.7639,
+            "width": 0.5984,
+            "height": 0.4734
+          },
+          "confidence": 0.6349
+        },
+        {
+          "text": "6. What are the peculiar features that you find in parasitic\nplatyhelminthes?",
+          "bbox": {
+            "x_min": 0.0881,
+            "y_min": 0.5249,
+            "x_max": 0.697,
+            "y_max": 0.5557,
+            "width": 0.6089,
+            "height": 0.0308
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "7. What are the reasons that you can think of for the arthropods to\nconstitute the largest group of the animal kingdom?",
+          "bbox": {
+            "x_min": 0.0881,
+            "y_min": 0.5656,
+            "x_max": 0.6964,
+            "y_max": 0.5964,
+            "width": 0.6083,
+            "height": 0.0308
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "8. Water vascular system is the characteristic of which group of the\nfollowing:",
+          "bbox": {
+            "x_min": 0.0887,
+            "y_min": 0.605,
+            "x_max": 0.697,
+            "y_max": 0.6375,
+            "width": 0.6083,
+            "height": 0.0326
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "(a) Porifera (b) Ctenophora (c) Echinodermata (d) Chordata",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.6474,
+            "x_max": 0.6211,
+            "y_max": 0.6598,
+            "width": 0.5067,
+            "height": 0.0124
+          },
+          "confidence": 0.9864
+        },
+        {
+          "text": "9. \"All vertebrates are chordates but all chordates are not vertebrates\".\nJustify the statement.",
+          "bbox": {
+            "x_min": 0.0881,
+            "y_min": 0.6701,
+            "x_max": 0.6959,
+            "y_max": 0.7009,
+            "width": 0.6077,
+            "height": 0.0308
+          },
+          "confidence": 0.9845
+        },
+        {
+          "text": "10. How important is the presence of air bladder in Pisces?",
+          "bbox": {
+            "x_min": 0.0806,
+            "y_min": 0.7112,
+            "x_max": 0.5768,
+            "y_max": 0.7232,
+            "width": 0.4962,
+            "height": 0.012
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "11. What are the modifications that are observed in birds that help them\nfly?",
+          "bbox": {
+            "x_min": 0.0806,
+            "y_min": 0.7344,
+            "x_max": 0.6976,
+            "y_max": 0.7635,
+            "width": 0.617,
+            "height": 0.0291
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "12. Could the number of eggs or young ones produced by an oviparous and\nviviparous mother be equal? Why?",
+          "bbox": {
+            "x_min": 0.08,
+            "y_min": 0.7746,
+            "x_max": 0.697,
+            "y_max": 0.8051,
+            "width": 0.617,
+            "height": 0.0304
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "13. Segmentation in the body is first observed in which of the following:",
+          "bbox": {
+            "x_min": 0.08,
+            "y_min": 0.8153,
+            "x_max": 0.6783,
+            "y_max": 0.8282,
+            "width": 0.5984,
+            "height": 0.0129
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "(a) Platyhelminthes (b) Aschelminthes (c) Annelida (d) Arthropoda",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.8385,
+            "x_max": 0.6807,
+            "y_max": 0.8509,
+            "width": 0.5663,
+            "height": 0.0124
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 18,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "54",
+          "bbox": {
+            "x_min": 0.1185,
+            "y_min": 0.0831,
+            "x_max": 0.1477,
+            "y_max": 0.0934,
+            "width": 0.0292,
+            "height": 0.0103
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8576,
+            "y_min": 0.0835,
+            "x_max": 0.9253,
+            "y_max": 0.0938,
+            "width": 0.0677,
+            "height": 0.0103
+          },
+          "confidence": 0.9788
+        },
+        {
+          "text": "(a) Operculum",
+          "bbox": {
+            "x_min": 0.3468,
+            "y_min": 0.1602,
+            "x_max": 0.4699,
+            "y_max": 0.1722,
+            "width": 0.1232,
+            "height": 0.012
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "14. Match the following:",
+          "bbox": {
+            "x_min": 0.3088,
+            "y_min": 0.1375,
+            "x_max": 0.5114,
+            "y_max": 0.1495,
+            "width": 0.2026,
+            "height": 0.012
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "(i) Ctenophora",
+          "bbox": {
+            "x_min": 0.5388,
+            "y_min": 0.1598,
+            "x_max": 0.6667,
+            "y_max": 0.1718,
+            "width": 0.1278,
+            "height": 0.012
+          },
+          "confidence": 0.982
+        },
+        {
+          "text": "(b) Parapodia",
+          "bbox": {
+            "x_min": 0.3468,
+            "y_min": 0.1817,
+            "x_max": 0.4606,
+            "y_max": 0.1937,
+            "width": 0.1138,
+            "height": 0.012
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "(ii) Mollusca",
+          "bbox": {
+            "x_min": 0.533,
+            "y_min": 0.1812,
+            "x_max": 0.6427,
+            "y_max": 0.1932,
+            "width": 0.1097,
+            "height": 0.012
+          },
+          "confidence": 0.9802
+        },
+        {
+          "text": "(c) Scales",
+          "bbox": {
+            "x_min": 0.3462,
+            "y_min": 0.2027,
+            "x_max": 0.4291,
+            "y_max": 0.2142,
+            "width": 0.0829,
+            "height": 0.0116
+          },
+          "confidence": 0.9813
+        },
+        {
+          "text": "(iii) Porifera",
+          "bbox": {
+            "x_min": 0.5277,
+            "y_min": 0.2027,
+            "x_max": 0.6322,
+            "y_max": 0.2147,
+            "width": 0.1045,
+            "height": 0.012
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "(d) Comb plates",
+          "bbox": {
+            "x_min": 0.3473,
+            "y_min": 0.2249,
+            "x_max": 0.4799,
+            "y_max": 0.2378,
+            "width": 0.1325,
+            "height": 0.0129
+          },
+          "confidence": 0.9851
+        },
+        {
+          "text": "(iv) Reptilia",
+          "bbox": {
+            "x_min": 0.5295,
+            "y_min": 0.2254,
+            "x_max": 0.6316,
+            "y_max": 0.2374,
+            "width": 0.1022,
+            "height": 0.012
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "(e) Radula",
+          "bbox": {
+            "x_min": 0.3468,
+            "y_min": 0.2468,
+            "x_max": 0.4361,
+            "y_max": 0.2584,
+            "width": 0.0893,
+            "height": 0.0116
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "(f) Hairs",
+          "bbox": {
+            "x_min": 0.3468,
+            "y_min": 0.2686,
+            "x_max": 0.4203,
+            "y_max": 0.2802,
+            "width": 0.0736,
+            "height": 0.0116
+          },
+          "confidence": 0.9853
+        },
+        {
+          "text": "(g) Choanocytes",
+          "bbox": {
+            "x_min": 0.3473,
+            "y_min": 0.2896,
+            "x_max": 0.4828,
+            "y_max": 0.3021,
+            "width": 0.1354,
+            "height": 0.0124
+          },
+          "confidence": 0.9831
+        },
+        {
+          "text": "(h) Gill slits",
+          "bbox": {
+            "x_min": 0.3468,
+            "y_min": 0.3111,
+            "x_max": 0.4442,
+            "y_max": 0.3235,
+            "width": 0.0975,
+            "height": 0.0124
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "(v) Annelida",
+          "bbox": {
+            "x_min": 0.5347,
+            "y_min": 0.2464,
+            "x_max": 0.6421,
+            "y_max": 0.2588,
+            "width": 0.1074,
+            "height": 0.0124
+          },
+          "confidence": 0.9786
+        },
+        {
+          "text": "(vi) Cyclostomata and Chondrichthyes",
+          "bbox": {
+            "x_min": 0.5295,
+            "y_min": 0.2686,
+            "x_max": 0.8587,
+            "y_max": 0.2815,
+            "width": 0.3292,
+            "height": 0.0129
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "(vii) Mammalia",
+          "bbox": {
+            "x_min": 0.5231,
+            "y_min": 0.2892,
+            "x_max": 0.6556,
+            "y_max": 0.3016,
+            "width": 0.1325,
+            "height": 0.0124
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "(viii) Osteichthyes",
+          "bbox": {
+            "x_min": 0.5196,
+            "y_min": 0.3115,
+            "x_max": 0.6754,
+            "y_max": 0.3239,
+            "width": 0.1559,
+            "height": 0.0124
+          },
+          "confidence": 0.9843
+        },
+        {
+          "text": "15. Prepare a list of some animals that are found parasitic on human",
+          "bbox": {
+            "x_min": 0.31,
+            "y_min": 0.3333,
+            "x_max": 0.927,
+            "y_max": 0.3462,
+            "width": 0.617,
+            "height": 0.0129
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "beings.",
+          "bbox": {
+            "x_min": 0.3415,
+            "y_min": 0.3513,
+            "x_max": 0.4016,
+            "y_max": 0.3633,
+            "width": 0.0601,
+            "height": 0.012
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "© NCERT",
+          "bbox": {
+            "x_min": 0.2907,
+            "y_min": 0.3963,
+            "x_max": 0.6135,
+            "y_max": 0.6272,
+            "width": 0.3228,
+            "height": 0.2309
+          },
+          "confidence": 0.8871
+        },
+        {
+          "text": "not to be republished",
+          "bbox": {
+            "x_min": 0.1868,
+            "y_min": 0.2952,
+            "x_max": 0.8978,
+            "y_max": 0.8209,
+            "width": 0.711,
+            "height": 0.5257
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

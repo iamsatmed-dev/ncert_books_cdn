@@ -1,0 +1,3197 @@
+{
+  "chapter_id": "11th_biology_ch02_biological_classification_ch02_biological_classification_en",
+  "total_pages": 13,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "11080CH02",
+          "bbox": {
+            "x_min": 0.1559,
+            "y_min": 0.2125,
+            "x_max": 0.2002,
+            "y_max": 0.2172,
+            "width": 0.0444,
+            "height": 0.0047
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "CHAPTER 2",
+          "bbox": {
+            "x_min": 0.3374,
+            "y_min": 0.3235,
+            "x_max": 0.519,
+            "y_max": 0.35,
+            "width": 0.1816,
+            "height": 0.0266
+          },
+          "confidence": 0.9606
+        },
+        {
+          "text": "BIOLOGICAL",
+          "bbox": {
+            "x_min": 0.3339,
+            "y_min": 0.3745,
+            "x_max": 0.5336,
+            "y_max": 0.3997,
+            "width": 0.1996,
+            "height": 0.0253
+          },
+          "confidence": 0.9726
+        },
+        {
+          "text": "CLASSIFICATION ed",
+          "bbox": {
+            "x_min": 0.5032,
+            "y_min": 0.2506,
+            "x_max": 0.8897,
+            "y_max": 0.4957,
+            "width": 0.3865,
+            "height": 0.2451
+          },
+          "confidence": 0.9044
+        },
+        {
+          "text": "S",
+          "bbox": {
+            "x_min": 0.6953,
+            "y_min": 0.404,
+            "x_max": 0.7612,
+            "y_max": 0.4426,
+            "width": 0.066,
+            "height": 0.0386
+          },
+          "confidence": 0.8724
+        },
+        {
+          "text": "2.1 Kingdom Monera",
+          "bbox": {
+            "x_min": 0.1039,
+            "y_min": 0.4512,
+            "x_max": 0.2761,
+            "y_max": 0.4644,
+            "width": 0.1722,
+            "height": 0.0133
+          },
+          "confidence": 0.9868
+        },
+        {
+          "text": "2.2 Kingdom Protista",
+          "bbox": {
+            "x_min": 0.1033,
+            "y_min": 0.4769,
+            "x_max": 0.2779,
+            "y_max": 0.4893,
+            "width": 0.1745,
+            "height": 0.0124
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "2.3 Kingdom Fungi",
+          "bbox": {
+            "x_min": 0.1033,
+            "y_min": 0.5026,
+            "x_max": 0.2633,
+            "y_max": 0.515,
+            "width": 0.16,
+            "height": 0.0124
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "2.4 Kingdom Plantae",
+          "bbox": {
+            "x_min": 0.1033,
+            "y_min": 0.5278,
+            "x_max": 0.2773,
+            "y_max": 0.5403,
+            "width": 0.174,
+            "height": 0.0124
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "2.5 Kingdom\nAnimalia",
+          "bbox": {
+            "x_min": 0.1033,
+            "y_min": 0.554,
+            "x_max": 0.2125,
+            "y_max": 0.5801,
+            "width": 0.1092,
+            "height": 0.0261
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "2.6 Viruses, Viroids",
+          "bbox": {
+            "x_min": 0.1039,
+            "y_min": 0.5964,
+            "x_max": 0.2685,
+            "y_max": 0.6075,
+            "width": 0.1646,
+            "height": 0.0111
+          },
+          "confidence": 0.9801
+        },
+        {
+          "text": "and Lichens",
+          "bbox": {
+            "x_min": 0.1395,
+            "y_min": 0.6153,
+            "x_max": 0.2364,
+            "y_max": 0.6238,
+            "width": 0.0969,
+            "height": 0.0086
+          },
+          "confidence": 0.9825
+        },
+        {
+          "text": "isation, t",
+          "bbox": {
+            "x_min": 0.4945,
+            "y_min": 0.4456,
+            "x_max": 0.5674,
+            "y_max": 0.4623,
+            "width": 0.073,
+            "height": 0.0167
+          },
+          "confidence": 0.9091
+        },
+        {
+          "text": "Since the dawn of civilisation, there have been many attempts to classify\nliving organisms. It was done instinctively not using criteria that were\nscientific but borne out of a need to use organisms for our own use for\nfood, shelter and clothing. Aristotle was the earliest to attempt a more\nscientific basis for classification. He used simple morphological characters\nto classify plants into trees, shrubs and herbs. He also divided animals\ninto two groups, those which had red blood and those that did not.",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.4512,
+            "x_max": 0.9294,
+            "y_max": 0.5716,
+            "width": 0.6287,
+            "height": 0.1204
+          },
+          "confidence": 0.997
+        },
+        {
+          "text": "In Linnaeus' time a Two Kingdom system of classification with\nPlantae and Animalia kingdoms was developed that included all\nplants and animals respectively. This system did not distinguish between\nthe eukaryotes and prokaryotes, unicellular and multicellular organisms\nand photosynthetic (green algae) and non-photosynthetic (fungi)\norganisms. Classification of organisms into plants and animals was easily\ndone and was easy to understand, but, a large number of organisms\ndid not fall into either category. Hence the two kingdom classification\nused for a long time was found inadequate. Besides, gross morphology\nused\na need was also felt for including other characteristics like cell structure,\nnature of wall, mode of nutrition, habitat, methods of reproduction,\nevolutionary relationships, etc. Classification systems for the living\norganisms have hence, undergone several changes over the time.\nThough plant and animal kingdoms have been a constant under all\ndifferent systems, the understanding of what groups/organisms be\nincluded under these kingdoms have been changing; the number and\nnature of other kingdoms have also been understood differently by\ndifferent scientists over the time.",
+          "bbox": {
+            "x_min": 0.2942,
+            "y_min": 0.5716,
+            "x_max": 0.9288,
+            "y_max": 0.8912,
+            "width": 0.6346,
+            "height": 0.3196
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.195,
+            "y_min": 0.7078,
+            "x_max": 0.3275,
+            "y_max": 0.8149,
+            "width": 0.1325,
+            "height": 0.1071
+          },
+          "confidence": 0.9765
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOLOGICAL CLASSIFICATION",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.0823,
+            "x_max": 0.3222,
+            "y_max": 0.0934,
+            "width": 0.2072,
+            "height": 0.0111
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "TABLE 2.1 Characteristics of the Five Kingdoms",
+          "bbox": {
+            "x_min": 0.2668,
+            "y_min": 0.1375,
+            "x_max": 0.704,
+            "y_max": 0.1517,
+            "width": 0.4372,
+            "height": 0.0141
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "11",
+          "bbox": {
+            "x_min": 0.8471,
+            "y_min": 0.0835,
+            "x_max": 0.871,
+            "y_max": 0.0934,
+            "width": 0.0239,
+            "height": 0.0099
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "Characters",
+          "bbox": {
+            "x_min": 0.0829,
+            "y_min": 0.1855,
+            "x_max": 0.1821,
+            "y_max": 0.1954,
+            "width": 0.0992,
+            "height": 0.0099
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "Monera",
+          "bbox": {
+            "x_min": 0.2253,
+            "y_min": 0.2091,
+            "x_max": 0.2948,
+            "y_max": 0.2181,
+            "width": 0.0695,
+            "height": 0.009
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "Protista",
+          "bbox": {
+            "x_min": 0.3742,
+            "y_min": 0.2095,
+            "x_max": 0.4483,
+            "y_max": 0.2177,
+            "width": 0.0741,
+            "height": 0.0081
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "Prokaryotic",
+          "bbox": {
+            "x_min": 0.2265,
+            "y_min": 0.2318,
+            "x_max": 0.3228,
+            "y_max": 0.2429,
+            "width": 0.0963,
+            "height": 0.0111
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "Cell type",
+          "bbox": {
+            "x_min": 0.0823,
+            "y_min": 0.2314,
+            "x_max": 0.1576,
+            "y_max": 0.2425,
+            "width": 0.0753,
+            "height": 0.0111
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "Cell wall",
+          "bbox": {
+            "x_min": 0.0829,
+            "y_min": 0.2592,
+            "x_max": 0.1559,
+            "y_max": 0.2686,
+            "width": 0.073,
+            "height": 0.0094
+          },
+          "confidence": 0.975
+        },
+        {
+          "text": "Nuclear\nmembrane\nBody\norganisation",
+          "bbox": {
+            "x_min": 0.0806,
+            "y_min": 0.3209,
+            "x_max": 0.1891,
+            "y_max": 0.3757,
+            "width": 0.1086,
+            "height": 0.0548
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "Noncellulosic",
+          "bbox": {
+            "x_min": 0.2271,
+            "y_min": 0.2601,
+            "x_max": 0.3398,
+            "y_max": 0.2691,
+            "width": 0.1127,
+            "height": 0.009
+          },
+          "confidence": 0.9856
+        },
+        {
+          "text": "Five Kingdoms",
+          "bbox": {
+            "x_min": 0.4915,
+            "y_min": 0.171,
+            "x_max": 0.6246,
+            "y_max": 0.1838,
+            "width": 0.1331,
+            "height": 0.0129
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "Plantae",
+          "bbox": {
+            "x_min": 0.6497,
+            "y_min": 0.2082,
+            "x_max": 0.7198,
+            "y_max": 0.2172,
+            "width": 0.0701,
+            "height": 0.009
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "Fungi\nEukaryotic Eukaryotic",
+          "bbox": {
+            "x_min": 0.3759,
+            "y_min": 0.2091,
+            "x_max": 0.5879,
+            "y_max": 0.2434,
+            "width": 0.2119,
+            "height": 0.0343
+          },
+          "confidence": 0.9858
+        },
+        {
+          "text": "Present in Present",
+          "bbox": {
+            "x_min": 0.3765,
+            "y_min": 0.2596,
+            "x_max": 0.5604,
+            "y_max": 0.2699,
+            "width": 0.1839,
+            "height": 0.0103
+          },
+          "confidence": 0.9836
+        },
+        {
+          "text": "(Polysaccharide some",
+          "bbox": {
+            "x_min": 0.2283,
+            "y_min": 0.2746,
+            "x_max": 0.418,
+            "y_max": 0.2866,
+            "width": 0.1897,
+            "height": 0.012
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "+ amino acid)",
+          "bbox": {
+            "x_min": 0.2294,
+            "y_min": 0.2896,
+            "x_max": 0.3403,
+            "y_max": 0.3003,
+            "width": 0.1109,
+            "height": 0.0107
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "Absent",
+          "bbox": {
+            "x_min": 0.2242,
+            "y_min": 0.3239,
+            "x_max": 0.2878,
+            "y_max": 0.3325,
+            "width": 0.0636,
+            "height": 0.0086
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "Cellular",
+          "bbox": {
+            "x_min": 0.2271,
+            "y_min": 0.3526,
+            "x_max": 0.2966,
+            "y_max": 0.3612,
+            "width": 0.0695,
+            "height": 0.0086
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "Autotrophic",
+          "bbox": {
+            "x_min": 0.2259,
+            "y_min": 0.3843,
+            "x_max": 0.3275,
+            "y_max": 0.3955,
+            "width": 0.1016,
+            "height": 0.0111
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "(chemosyn-",
+          "bbox": {
+            "x_min": 0.2271,
+            "y_min": 0.398,
+            "x_max": 0.324,
+            "y_max": 0.41,
+            "width": 0.0969,
+            "height": 0.012
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "Present",
+          "bbox": {
+            "x_min": 0.373,
+            "y_min": 0.3213,
+            "x_max": 0.4402,
+            "y_max": 0.329,
+            "width": 0.0671,
+            "height": 0.0077
+          },
+          "confidence": 0.9798
+        },
+        {
+          "text": "Animalia",
+          "bbox": {
+            "x_min": 0.7659,
+            "y_min": 0.2078,
+            "x_max": 0.8482,
+            "y_max": 0.2172,
+            "width": 0.0823,
+            "height": 0.0094
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "Eukaryotic Eukaryotic",
+          "bbox": {
+            "x_min": 0.6521,
+            "y_min": 0.2301,
+            "x_max": 0.8593,
+            "y_max": 0.2421,
+            "width": 0.2072,
+            "height": 0.012
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "(cellulose) Absent",
+          "bbox": {
+            "x_min": 0.6503,
+            "y_min": 0.2729,
+            "x_max": 0.8272,
+            "y_max": 0.2849,
+            "width": 0.1769,
+            "height": 0.012
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "Present",
+          "bbox": {
+            "x_min": 0.6492,
+            "y_min": 0.2605,
+            "x_max": 0.7163,
+            "y_max": 0.2682,
+            "width": 0.0671,
+            "height": 0.0077
+          },
+          "confidence": 0.9803
+        },
+        {
+          "text": "with chitin",
+          "bbox": {
+            "x_min": 0.4956,
+            "y_min": 0.2759,
+            "x_max": 0.5838,
+            "y_max": 0.2841,
+            "width": 0.0881,
+            "height": 0.0081
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "Present",
+          "bbox": {
+            "x_min": 0.495,
+            "y_min": 0.3201,
+            "x_max": 0.5604,
+            "y_max": 0.3278,
+            "width": 0.0654,
+            "height": 0.0077
+          },
+          "confidence": 0.9796
+        },
+        {
+          "text": "Multiceullar/",
+          "bbox": {
+            "x_min": 0.4956,
+            "y_min": 0.3458,
+            "x_max": 0.6287,
+            "y_max": 0.3595,
+            "width": 0.1331,
+            "height": 0.0137
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "Present",
+          "bbox": {
+            "x_min": 0.6503,
+            "y_min": 0.3213,
+            "x_max": 0.7157,
+            "y_max": 0.329,
+            "width": 0.0654,
+            "height": 0.0077
+          },
+          "confidence": 0.981
+        },
+        {
+          "text": "Present",
+          "bbox": {
+            "x_min": 0.7659,
+            "y_min": 0.3213,
+            "x_max": 0.833,
+            "y_max": 0.329,
+            "width": 0.0671,
+            "height": 0.0077
+          },
+          "confidence": 0.9786
+        },
+        {
+          "text": "Cellular",
+          "bbox": {
+            "x_min": 0.3748,
+            "y_min": 0.3496,
+            "x_max": 0.4448,
+            "y_max": 0.3582,
+            "width": 0.0701,
+            "height": 0.0086
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "Tissue/",
+          "bbox": {
+            "x_min": 0.6515,
+            "y_min": 0.3466,
+            "x_max": 0.718,
+            "y_max": 0.3599,
+            "width": 0.0665,
+            "height": 0.0133
+          },
+          "confidence": 0.9845
+        },
+        {
+          "text": "Tissue/organ/",
+          "bbox": {
+            "x_min": 0.7671,
+            "y_min": 0.3488,
+            "x_max": 0.8908,
+            "y_max": 0.3603,
+            "width": 0.1238,
+            "height": 0.0116
+          },
+          "confidence": 0.9854
+        },
+        {
+          "text": "loose tissue",
+          "bbox": {
+            "x_min": 0.4968,
+            "y_min": 0.362,
+            "x_max": 0.5937,
+            "y_max": 0.371,
+            "width": 0.0969,
+            "height": 0.009
+          },
+          "confidence": 0.9809
+        },
+        {
+          "text": "organ",
+          "bbox": {
+            "x_min": 0.6515,
+            "y_min": 0.3663,
+            "x_max": 0.7005,
+            "y_max": 0.3757,
+            "width": 0.049,
+            "height": 0.0094
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "Autotrophic",
+          "bbox": {
+            "x_min": 0.3736,
+            "y_min": 0.3933,
+            "x_max": 0.4746,
+            "y_max": 0.4049,
+            "width": 0.101,
+            "height": 0.0116
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "Heterotrophic",
+          "bbox": {
+            "x_min": 0.4962,
+            "y_min": 0.3907,
+            "x_max": 0.6299,
+            "y_max": 0.4023,
+            "width": 0.1337,
+            "height": 0.0116
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "organ system",
+          "bbox": {
+            "x_min": 0.7688,
+            "y_min": 0.3646,
+            "x_max": 0.8809,
+            "y_max": 0.3757,
+            "width": 0.1121,
+            "height": 0.0111
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "Heterotrophic",
+          "bbox": {
+            "x_min": 0.7688,
+            "y_min": 0.3929,
+            "x_max": 0.8908,
+            "y_max": 0.4045,
+            "width": 0.122,
+            "height": 0.0116
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "Autotrophic He",
+          "bbox": {
+            "x_min": 0.6509,
+            "y_min": 0.3899,
+            "x_max": 0.7904,
+            "y_max": 0.407,
+            "width": 0.1395,
+            "height": 0.0171
+          },
+          "confidence": 0.9711
+        },
+        {
+          "text": "phytic (Ph",
+          "bbox": {
+            "x_min": 0.5622,
+            "y_min": 0.3955,
+            "x_max": 0.683,
+            "y_max": 0.4246,
+            "width": 0.1208,
+            "height": 0.0291
+          },
+          "confidence": 0.6201
+        },
+        {
+          "text": "(Photosyn- (Holozoic/",
+          "bbox": {
+            "x_min": 0.6527,
+            "y_min": 0.4057,
+            "x_max": 0.8903,
+            "y_max": 0.4195,
+            "width": 0.2376,
+            "height": 0.0137
+          },
+          "confidence": 0.9835
+        },
+        {
+          "text": "(Saprophytic/ (Photosyn-",
+          "bbox": {
+            "x_min": 0.3742,
+            "y_min": 0.4053,
+            "x_max": 0.6632,
+            "y_max": 0.4199,
+            "width": 0.289,
+            "height": 0.0146
+          },
+          "confidence": 0.9851
+        },
+        {
+          "text": "photosynthetic) thetic) and",
+          "bbox": {
+            "x_min": 0.2277,
+            "y_min": 0.4216,
+            "x_max": 0.467,
+            "y_max": 0.4396,
+            "width": 0.2393,
+            "height": 0.018
+          },
+          "confidence": 0.98
+        },
+        {
+          "text": "thetic and",
+          "bbox": {
+            "x_min": 0.2283,
+            "y_min": 0.413,
+            "x_max": 0.3141,
+            "y_max": 0.4216,
+            "width": 0.0858,
+            "height": 0.0086
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "Mode of\nnutrition",
+          "bbox": {
+            "x_min": 0.0811,
+            "y_min": 0.4225,
+            "x_max": 0.1588,
+            "y_max": 0.4452,
+            "width": 0.0776,
+            "height": 0.0227
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "and Hetero-",
+          "bbox": {
+            "x_min": 0.2288,
+            "y_min": 0.4422,
+            "x_max": 0.3257,
+            "y_max": 0.4512,
+            "width": 0.0969,
+            "height": 0.009
+          },
+          "confidence": 0.9845
+        },
+        {
+          "text": "phytic/para-\nsitic)",
+          "bbox": {
+            "x_min": 0.2271,
+            "y_min": 0.4704,
+            "x_max": 0.3351,
+            "y_max": 0.4961,
+            "width": 0.108,
+            "height": 0.0257
+          },
+          "confidence": 0.9764
+        },
+        {
+          "text": "trophic (sapro-",
+          "bbox": {
+            "x_min": 0.2265,
+            "y_min": 0.4512,
+            "x_max": 0.3514,
+            "y_max": 0.4683,
+            "width": 0.1249,
+            "height": 0.0171
+          },
+          "confidence": 0.9694
+        },
+        {
+          "text": "Hetero-",
+          "bbox": {
+            "x_min": 0.373,
+            "y_min": 0.4374,
+            "x_max": 0.4361,
+            "y_max": 0.4456,
+            "width": 0.063,
+            "height": 0.0081
+          },
+          "confidence": 0.9802
+        },
+        {
+          "text": "trophic",
+          "bbox": {
+            "x_min": 0.3759,
+            "y_min": 0.4512,
+            "x_max": 0.4349,
+            "y_max": 0.4679,
+            "width": 0.059,
+            "height": 0.0167
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "Parasitic)",
+          "bbox": {
+            "x_min": 0.4968,
+            "y_min": 0.4195,
+            "x_max": 0.5744,
+            "y_max": 0.4306,
+            "width": 0.0776,
+            "height": 0.0111
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "thetic)",
+          "bbox": {
+            "x_min": 0.6521,
+            "y_min": 0.4212,
+            "x_max": 0.7034,
+            "y_max": 0.4327,
+            "width": 0.0514,
+            "height": 0.0116
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "b",
+          "bbox": {
+            "x_min": 0.6077,
+            "y_min": 0.4447,
+            "x_max": 0.6883,
+            "y_max": 0.5021,
+            "width": 0.0806,
+            "height": 0.0574
+          },
+          "confidence": 0.9063
+        },
+        {
+          "text": "Saprophytic",
+          "bbox": {
+            "x_min": 0.7694,
+            "y_min": 0.4216,
+            "x_max": 0.8903,
+            "y_max": 0.434,
+            "width": 0.1208,
+            "height": 0.0124
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "etc.)",
+          "bbox": {
+            "x_min": 0.7677,
+            "y_min": 0.4366,
+            "x_max": 0.8009,
+            "y_max": 0.4469,
+            "width": 0.0333,
+            "height": 0.0103
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "R.H. Whittaker (1969) proposed a Five Kingdom Classification. The\nkingdoms defined by him were named Monera, Protista, Fungi, Plantae\nand Animalia. The main criteria for classification used by him include cell\nstructure, body organisation, mode of nutrition, reproduction and\nphylogenetic relationships. Table 2.1 gives a comparative account of different\ncharacteristics of the five kingdoms.",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.5193,
+            "x_max": 0.6994,
+            "y_max": 0.6187,
+            "width": 0.6252,
+            "height": 0.0994
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "The three-domain system has also been proposed that divides the Kingdom\nMonera into two domains, leaving the remaining eukaryotic kingdoms in the\nthird domain and thereby a six kingdom classification. You will learn about\nthis system in detail in higher classes.",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.6225,
+            "x_max": 0.6994,
+            "y_max": 0.6877,
+            "width": 0.6246,
+            "height": 0.0651
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "Let us look at this five kingdom classification to understand the issues\nand considerations that influenced the classification system. Earlier\nclassification systems included bacteria, blue green algae, fungi, mosses,\nferns, gymnosperms and the angiosperms under ‘Plants'. The character\nthat unified this whole kingdom was that all the organisms included had a\ncell wall in their cells. This placed together groups which widely differed in\nother characteristics. It brought together the prokaryotic bacteria and the\nblue green algae (cyanobacteria) with other groups which were eukaryotic.\nIt also grouped together the unicellular organisms and the multicellular\nones, say, for example, Chlamydomonas and Spirogyra were placed together\nunder algae. The classification did not differentiate between the heterotrophic\ngroup - fungi, and the autotrophic green plants, though they also showed\na characteristic difference in their walls composition – the fungi had chitin",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.6915,
+            "x_max": 0.6994,
+            "y_max": 0.9126,
+            "width": 0.6264,
+            "height": 0.2211
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "12",
+          "bbox": {
+            "x_min": 0.1214,
+            "y_min": 0.0835,
+            "x_max": 0.1436,
+            "y_max": 0.093,
+            "width": 0.0222,
+            "height": 0.0094
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0683,
+            "height": 0.009
+          },
+          "confidence": 0.9813
+        },
+        {
+          "text": "in their walls while the green plants had a cellulosic cell wall. When such\ncharacteristics were considered, the fungi were placed in a separate\nkingdom - Kingdom Fungi. All prokaryotic organisms were grouped\ntogether under Kingdom Monera and the unicellular eukaryotic organisms\nwere placed in Kingdom Protista. Kingdom Protista has brought together\nChlamydomonas, Chlorella (earlier placed in Algae within Plants and both\nhaving cell walls) with Paramoecium and Amoeba (which were earlier placed\nin the animal kingdom which lack cell wall). It has put together organisms\nwhich, in earlier classifications, were placed in different kingdoms. This\nhappened because the criteria for classification changed. This kind of\nchanges will take place in future too depending on the improvement in our\nunderstanding of characteristics and evolutionary relationships. Over time,\nan attempt has been made to evolve a classification system which reflects\nnot only the morphological, physiological and reproductive similarities,\nbut is also phylogenetic, i.e., is based on evolutionary relationships.",
+          "bbox": {
+            "x_min": 0.2989,
+            "y_min": 0.1358,
+            "x_max": 0.9264,
+            "y_max": 0.3985,
+            "width": 0.6276,
+            "height": 0.2626
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "In this chapter we will study characteristics of Kingdoms Monera,\nProtista and Fungi of the Whittaker system of classification. The Kingdoms\nPlantae and Animalia, commonly referred to as plant and animal\nkingdoms, respectively, will be dealt separately in chapters 3 and 4.",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.4027,
+            "x_max": 0.9241,
+            "y_max": 0.47,
+            "width": 0.6235,
+            "height": 0.0673
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "2.1 KINGDOM MONERA",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.4863,
+            "x_max": 0.54,
+            "y_max": 0.4983,
+            "width": 0.2388,
+            "height": 0.012
+          },
+          "confidence": 0.9566
+        },
+        {
+          "text": "Bacteria are the sole members of the Kingdom Monera. They are the most\nabundant micro-organisms. Bacteria occur almost everywhere. Hundreds\nof bacteria are present in a handful of soil. They also live in extreme habitats\nsuch as hot springs, deserts, snow and deep oceans where very few other\nlife forms can survive. Many of them live in or on other organisms as\nparasites.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.5219,
+            "x_max": 0.9264,
+            "y_max": 0.6234,
+            "width": 0.6252,
+            "height": 0.1015
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "Bacteria are grouped under four categories based on their shape: the\nspherical Coccus (pl.: cocci), the rod-shaped Bacillus (pl.: bacilli), the\ncomma-shaped Vibrium (pl.: vibrio) and the spiral Spirillum (pl.: spirilla)\n(Figure 2.1).",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.6285,
+            "x_max": 0.9264,
+            "y_max": 0.6958,
+            "width": 0.6241,
+            "height": 0.0673
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "not t",
+          "bbox": {
+            "x_min": 0.1705,
+            "y_min": 0.6838,
+            "x_max": 0.383,
+            "y_max": 0.8175,
+            "width": 0.2125,
+            "height": 0.1337
+          },
+          "confidence": 0.8734
+        },
+        {
+          "text": "Cocci",
+          "bbox": {
+            "x_min": 0.1168,
+            "y_min": 0.8385,
+            "x_max": 0.1629,
+            "y_max": 0.8466,
+            "width": 0.0461,
+            "height": 0.0081
+          },
+          "confidence": 0.9843
+        },
+        {
+          "text": "Bacilli",
+          "bbox": {
+            "x_min": 0.3053,
+            "y_min": 0.8436,
+            "x_max": 0.3584,
+            "y_max": 0.8513,
+            "width": 0.0531,
+            "height": 0.0077
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "Spore",
+          "bbox": {
+            "x_min": 0.4127,
+            "y_min": 0.7481,
+            "x_max": 0.4618,
+            "y_max": 0.7592,
+            "width": 0.049,
+            "height": 0.0111
+          },
+          "confidence": 0.9846
+        },
+        {
+          "text": "Spirilla",
+          "bbox": {
+            "x_min": 0.5347,
+            "y_min": 0.835,
+            "x_max": 0.5937,
+            "y_max": 0.8462,
+            "width": 0.059,
+            "height": 0.0111
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "Flagellum",
+          "bbox": {
+            "x_min": 0.7005,
+            "y_min": 0.7451,
+            "x_max": 0.7805,
+            "y_max": 0.7571,
+            "width": 0.08,
+            "height": 0.012
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "Vibrio",
+          "bbox": {
+            "x_min": 0.8313,
+            "y_min": 0.8526,
+            "x_max": 0.8827,
+            "y_max": 0.8608,
+            "width": 0.0514,
+            "height": 0.0081
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "Figure 2.1 Bacteria of different shapes",
+          "bbox": {
+            "x_min": 0.3538,
+            "y_min": 0.883,
+            "x_max": 0.6824,
+            "y_max": 0.8955,
+            "width": 0.3287,
+            "height": 0.0124
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOLOGICAL CLASSIFICATION",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.0827,
+            "x_max": 0.3228,
+            "y_max": 0.093,
+            "width": 0.209,
+            "height": 0.0103
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "13",
+          "bbox": {
+            "x_min": 0.8482,
+            "y_min": 0.0835,
+            "x_max": 0.871,
+            "y_max": 0.093,
+            "width": 0.0228,
+            "height": 0.0094
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "Though the bacterial structure is very simple, they are very complex\nin behaviour. Compared to many other organisms, bacteria as a group\nshow the most extensive metabolic diversity. Some of the bacteria are\nautotrophic, i.e., they synthesise their own food from inorganic substrates.\nThey may be photosynthetic autotrophic or chemosynthetic autotrophic.\nThe vast majority of bacteria are heterotrophs, i.e., they depend on other\norganisms or on dead organic matter for food.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1354,
+            "x_max": 0.6976,
+            "y_max": 0.2554,
+            "width": 0.6258,
+            "height": 0.12
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "2.1.1 Archaebacteria",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.2738,
+            "x_max": 0.3065,
+            "y_max": 0.2858,
+            "width": 0.2347,
+            "height": 0.012
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "These bacteria are special since they live in some of the most harsh habitats\nsuch as extreme salty areas (halophiles), hot springs (thermoacidophiles)\nand marshy areas (methanogens). Archaebacteria differ from other bacteria\nin having a different cell wall structure and this feature is responsible for\ntheir survival in extreme conditions. Methanogens are present in the gut\nof several ruminant animals such as cows and buffaloes and they are\nresponsible for the production of methane (biogas) from \nanimals.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.3012,
+            "x_max": 0.697,
+            "y_max": 0.4357,
+            "width": 0.6246,
+            "height": 0.1345
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "ve dung of these",
+          "bbox": {
+            "x_min": 0.5534,
+            "y_min": 0.3985,
+            "x_max": 0.697,
+            "y_max": 0.4302,
+            "width": 0.1436,
+            "height": 0.0317
+          },
+          "confidence": 0.902
+        },
+        {
+          "text": "2.1.2 Eubacteria",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.47,
+            "x_max": 0.2615,
+            "y_max": 0.4824,
+            "width": 0.1891,
+            "height": 0.0124
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "ERT",
+          "bbox": {
+            "x_min": 0.4513,
+            "y_min": 0.404,
+            "x_max": 0.606,
+            "y_max": 0.5137,
+            "width": 0.1547,
+            "height": 0.1097
+          },
+          "confidence": 0.9605
+        },
+        {
+          "text": "epublished",
+          "bbox": {
+            "x_min": 0.4991,
+            "y_min": 0.3012,
+            "x_max": 0.8774,
+            "y_max": 0.5878,
+            "width": 0.3783,
+            "height": 0.2866
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "There are thousands of different eubacteria or 'true\nbacteria'. They are characterised by the presence of a\nrigid cell wall, and if motile, a flagellum. The\ncyanobacteria (also referred to as blue-green algae)\nhave chlorophyll a similar to green plants and are\nphotosynthetic autotrophs (Figure 2.2). The\ncyanobacteria are unicellular, colonial or filamentous,\nfreshwater/marine or terrestrial algae. The colonies\nare generally surrounded by gelatinous sheath. They\noften form blooms in polluted water bodies. Some of\nthese organisms can fix atmospheric nitrogen in\nspecialised cells called heterocysts, e.g., Nostoc and\nAnabaena. Chemosynthetic autotrophic bacteria\noxidise various inorganic substances such as\nnitrates, nitrites and ammonia and use the released\nenergy for their ATP production. They play a great role\nin recycling nutrients like nitrogen, phosphorous,\niron and sulphur.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.4966,
+            "x_max": 0.5161,
+            "y_max": 0.8132,
+            "width": 0.4442,
+            "height": 0.3166
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "Heterotrophic bacteria are most abundant in\nnature. The majority are important decomposers.\nMany of them have a significant impact on human\naffairs. They are helpful in making curd from milk,\nproduction of antibiotics, fixing nitrogen in legume",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.8183,
+            "x_max": 0.5149,
+            "y_max": 0.9053,
+            "width": 0.4437,
+            "height": 0.087
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "::",
+          "bbox": {
+            "x_min": 0.7332,
+            "y_min": 0.5968,
+            "x_max": 0.7542,
+            "y_max": 0.6084,
+            "width": 0.021,
+            "height": 0.0116
+          },
+          "confidence": 0.8702
+        },
+        {
+          "text": "Heterocyst",
+          "bbox": {
+            "x_min": 0.6959,
+            "y_min": 0.632,
+            "x_max": 0.7828,
+            "y_max": 0.6422,
+            "width": 0.087,
+            "height": 0.0103
+          },
+          "confidence": 0.9837
+        },
+        {
+          "text": "Mucilagenous\nsheath",
+          "bbox": {
+            "x_min": 0.7519,
+            "y_min": 0.6735,
+            "x_max": 0.8681,
+            "y_max": 0.6958,
+            "width": 0.1162,
+            "height": 0.0223
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "Figure 2.2 A filamentous blue-green\nalgae - Nostoc",
+          "bbox": {
+            "x_min": 0.54,
+            "y_min": 0.8612,
+            "x_max": 0.8541,
+            "y_max": 0.8873,
+            "width": 0.3141,
+            "height": 0.0261
+          },
+          "confidence": 0.976
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "14",
+          "bbox": {
+            "x_min": 0.1191,
+            "y_min": 0.0835,
+            "x_max": 0.1459,
+            "y_max": 0.0934,
+            "width": 0.0269,
+            "height": 0.0099
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0683,
+            "height": 0.009
+          },
+          "confidence": 0.9813
+        },
+        {
+          "text": "Cell wall",
+          "bbox": {
+            "x_min": 0.1156,
+            "y_min": 0.1427,
+            "x_max": 0.1862,
+            "y_max": 0.1517,
+            "width": 0.0706,
+            "height": 0.009
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "Cell\nmembrane",
+          "bbox": {
+            "x_min": 0.1956,
+            "y_min": 0.1375,
+            "x_max": 0.2808,
+            "y_max": 0.1598,
+            "width": 0.0852,
+            "height": 0.0223
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "DNA",
+          "bbox": {
+            "x_min": 0.3275,
+            "y_min": 0.1885,
+            "x_max": 0.3649,
+            "y_max": 0.1962,
+            "width": 0.0374,
+            "height": 0.0077
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "Figure 2.3 A dividing bacterium",
+          "bbox": {
+            "x_min": 0.1576,
+            "y_min": 0.3299,
+            "x_max": 0.4302,
+            "y_max": 0.3419,
+            "width": 0.2726,
+            "height": 0.012
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "roots, etc. Some are pathogens causing damage\nto human beings, crops, farm animals and pets.\nCholera, typhoid, tetanus, citrus canker are well\nknown diseases caused by different bacteria.",
+          "bbox": {
+            "x_min": 0.505,
+            "y_min": 0.1388,
+            "x_max": 0.9264,
+            "y_max": 0.2095,
+            "width": 0.4215,
+            "height": 0.0707
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "Bacteria reproduce mainly by fission (Figure\n2.3). Sometimes, under unfavourable conditions,\nthey produce spores. They also reproduce by a\nsort of sexual reproduction by adopting a\nprimitive type of DNA transfer from one bacterium\nto the other.",
+          "bbox": {
+            "x_min": 0.5055,
+            "y_min": 0.2159,
+            "x_max": 0.927,
+            "y_max": 0.3209,
+            "width": 0.4215,
+            "height": 0.105
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "The Mycoplasma are organisms that\ncompletely lack a cell wall. They are the smallest",
+          "bbox": {
+            "x_min": 0.505,
+            "y_min": 0.3295,
+            "x_max": 0.9264,
+            "y_max": 0.3633,
+            "width": 0.4215,
+            "height": 0.0338
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "living cells known and can survive without oxygen. Many mycoplasma\nare pathogenic in animals and plants.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.3685,
+            "x_max": 0.927,
+            "y_max": 0.4002,
+            "width": 0.6246,
+            "height": 0.0317
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "2.2 KINGDOM PROTISTA",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.4276,
+            "x_max": 0.5435,
+            "y_max": 0.44,
+            "width": 0.2423,
+            "height": 0.0124
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "lish",
+          "bbox": {
+            "x_min": 0.648,
+            "y_min": 0.3672,
+            "x_max": 0.8056,
+            "y_max": 0.4657,
+            "width": 0.1576,
+            "height": 0.0985
+          },
+          "confidence": 0.9322
+        },
+        {
+          "text": "All single-celled eukaryotes are placed under Protista, but the boundaries\nof this kingdom are not well defined. What may be 'a photosynthetic\nprotistan' to one biologist may be 'a plant' to another. In this book we\ninclude Chrysophytes, Dinoflagellates, Euglenoids, Slime moulds and\nProtozoans under Protista. Members of Protista are primarily aquatic.\nThis kingdom forms a link with the others dealing with plants, animals\nand fungi. Being eukaryotes, the protistan cell body contains a well defined\nnucleus and other membrane-bound organelles. Some have flagella or\ncilia. Protists reproduce asexually and sexually by a process involving\ncell fusion and zygote formation.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.4636,
+            "x_max": 0.9264,
+            "y_max": 0.6487,
+            "width": 0.6252,
+            "height": 0.1851
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "2.2.1 Chrysophytes",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.6684,
+            "x_max": 0.5254,
+            "y_max": 0.6842,
+            "width": 0.2224,
+            "height": 0.0159
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1932,
+            "y_min": 0.7087,
+            "x_max": 0.3252,
+            "y_max": 0.8123,
+            "width": 0.1319,
+            "height": 0.1037
+          },
+          "confidence": 0.977
+        },
+        {
+          "text": "This group includes diatoms and golden algae (desmids). They are found\nin fresh water as well as in marine environments. They are microscopic\nand float passively in water currents (plankton). Most of them are\nphotosynthetic. In diatoms the cell walls form two thin overlapping shells,\nwhich fit together as in a soap box. The walls are embedded with silica\nand thus the walls are indestructible. Thus, diatoms have left behind\nlarge amount of cell wall deposits in their habitat; this accumulation over\nbillions of years is referred to as ‘diatomaceous earth'. Being gritty this\nsoil is used in polishing, filtration of oils and syrups. Diatoms are the\nchief 'producers' in the oceans.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.6971,
+            "x_max": 0.927,
+            "y_max": 0.8817,
+            "width": 0.6258,
+            "height": 0.1847
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOLOGICAL CLASSIFICATION",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.0827,
+            "x_max": 0.3228,
+            "y_max": 0.0934,
+            "width": 0.209,
+            "height": 0.0107
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "15",
+          "bbox": {
+            "x_min": 0.8488,
+            "y_min": 0.0827,
+            "x_max": 0.8704,
+            "y_max": 0.0943,
+            "width": 0.0216,
+            "height": 0.0116
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "2.2.2 Dinoflagellates",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.1341,
+            "x_max": 0.3006,
+            "y_max": 0.1491,
+            "width": 0.2271,
+            "height": 0.015
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "These organisms are mostly marine and photosynthetic.\nThey appear yellow, green, brown, blue or red depending\non the main pigments present in their cells. The cell wall\nhas stiff cellulose plates on the outer surface. Most of\nthem have two flagella; one lies longitudinally and the\nother transversely in a furrow between the wall plates.\nVery often, red dinoflagellates (Example: Gonyaulax)\nundergo such rapid multiplication that they make the\nsea appear red (red tides). Toxins released by such large\nnumbers may even kill other marine animals such as\nfishes.",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.1611,
+            "x_max": 0.5558,
+            "y_max": 0.3492,
+            "width": 0.4845,
+            "height": 0.1881
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "2.2.3 Euglenoids",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.3706,
+            "x_max": 0.2627,
+            "y_max": 0.3865,
+            "width": 0.1897,
+            "height": 0.0159
+          },
+          "confidence": 0.9836
+        },
+        {
+          "text": "republished",
+          "bbox": {
+            "x_min": 0.4635,
+            "y_min": 0.2995,
+            "x_max": 0.8984,
+            "y_max": 0.605,
+            "width": 0.4349,
+            "height": 0.3055
+          },
+          "confidence": 0.7228
+        },
+        {
+          "text": "Majority of them are fresh water organisms found in\nstagnant water. Instead of a cell wall, they have a protein\nrich layer called pellicle which makes their body flexible.\nThey have two flagella, a short and a long one. Though\nthey are photosynthetic in the presence of sunlight, when\ndeprived of sunlight they behave like heterotrophs by\npredating on other smaller organisms. Interestingly, the\npigments of euglenoids are identical to those present in\nhigher plants. Example: Euglena (Figure 2.4b).",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.3972,
+            "x_max": 0.5558,
+            "y_max": 0.5484,
+            "width": 0.4839,
+            "height": 0.1512
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "2.2.4 Slime Moulds",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.5664,
+            "x_max": 0.2884,
+            "y_max": 0.5793,
+            "width": 0.216,
+            "height": 0.0129
+          },
+          "confidence": 0.9835
+        },
+        {
+          "text": "body",
+          "bbox": {
+            "x_min": 0.4495,
+            "y_min": 0.5865,
+            "x_max": 0.4962,
+            "y_max": 0.6118,
+            "width": 0.0467,
+            "height": 0.0253
+          },
+          "confidence": 0.9821
+        },
+        {
+          "text": "Slime moulds are saprophytic protists. The body moves\nalong decaying twigs and leaves engulfing organic\nmaterial. Under suitable conditions, they form an\naggregation called plasmodium which may grow and\nspread over several feet. During unfavourable conditions,\nthe plasmodium differentiates and forms fruiting bodies\nbearing spores at their tips. The spores possess true walls.\nThey are extremely resistant and survive for many years,\neven under adverse conditions. The spores are dispersed\nby air currents.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.5934,
+            "x_max": 0.5552,
+            "y_max": 0.7674,
+            "width": 0.4834,
+            "height": 0.174
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "2.2.5 Protozoans",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.7858,
+            "x_max": 0.2644,
+            "y_max": 0.7978,
+            "width": 0.1926,
+            "height": 0.012
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "All protozoans are heterotrophs and live as predators or\nparasites. They are believed to be primitive relatives of\nanimals. There are four major groups of protozoans.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.8128,
+            "x_max": 0.5563,
+            "y_max": 0.862,
+            "width": 0.4839,
+            "height": 0.0493
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "Amoeboid protozoans: These organisms live in fresh\nwater, sea water or moist soil. They move and capture",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.8736,
+            "x_max": 0.5546,
+            "y_max": 0.9049,
+            "width": 0.4822,
+            "height": 0.0313
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.7069,
+            "y_min": 0.7819,
+            "x_max": 0.7198,
+            "y_max": 0.7892,
+            "width": 0.0128,
+            "height": 0.0073
+          },
+          "confidence": 0.8742
+        },
+        {
+          "text": "(d)",
+          "bbox": {
+            "x_min": 0.7297,
+            "y_min": 0.8136,
+            "x_max": 0.7542,
+            "y_max": 0.8252,
+            "width": 0.0245,
+            "height": 0.0116
+          },
+          "confidence": 0.9835
+        },
+        {
+          "text": "(c)",
+          "bbox": {
+            "x_min": 0.7858,
+            "y_min": 0.653,
+            "x_max": 0.8056,
+            "y_max": 0.6641,
+            "width": 0.0198,
+            "height": 0.0111
+          },
+          "confidence": 0.947
+        },
+        {
+          "text": "Figure 2.4 (a) Dinoflagellates",
+          "bbox": {
+            "x_min": 0.606,
+            "y_min": 0.8479,
+            "x_max": 0.8576,
+            "y_max": 0.8599,
+            "width": 0.2516,
+            "height": 0.012
+          },
+          "confidence": 0.9848
+        },
+        {
+          "text": "(b) Euglena\n(c) Slime mould\n(d) Paramoecium",
+          "bbox": {
+            "x_min": 0.7093,
+            "y_min": 0.8625,
+            "x_max": 0.8459,
+            "y_max": 0.9027,
+            "width": 0.1366,
+            "height": 0.0403
+          },
+          "confidence": 0.963
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "16",
+          "bbox": {
+            "x_min": 0.1203,
+            "y_min": 0.084,
+            "x_max": 0.1448,
+            "y_max": 0.093,
+            "width": 0.0245,
+            "height": 0.009
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0689,
+            "height": 0.0094
+          },
+          "confidence": 0.9794
+        },
+        {
+          "text": "their prey by putting out pseudopodia (false feet) as in Amoeba. Marine\nforms have silica shells on their surface. Some of them such as Entamoeba\nare parasites.",
+          "bbox": {
+            "x_min": 0.3047,
+            "y_min": 0.1345,
+            "x_max": 0.9288,
+            "y_max": 0.1825,
+            "width": 0.6241,
+            "height": 0.048
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "Flagellated protozoans: The members of this group are either free-living\nor parasitic. They have flagella. The parasitic forms cause diaseases such\nas sleeping sickness. Example: Trypanosoma.",
+          "bbox": {
+            "x_min": 0.3047,
+            "y_min": 0.1945,
+            "x_max": 0.9282,
+            "y_max": 0.2429,
+            "width": 0.6235,
+            "height": 0.0484
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "Ciliated protozoans: These are aquatic, actively moving organisms because\nof the presence of thousands of cilia. They have a cavity (gullet) that opens\nto the outside of the cell surface. The coordinated movement of rows of\ncilia causes the water laden with food to be steered into the gullet. Example:\nParamoecium (Figure 2.4d).",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.2545,
+            "x_max": 0.9305,
+            "y_max": 0.3363,
+            "width": 0.6264,
+            "height": 0.0818
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "Sporozoans: This includes diverse organisms that have an infectious\nspore-like stage in their life cycle. The most notorious is Plasmodium\n(malarial parasite) which causes malaria, a disease which has a staggering\neffect on human population.",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.3483,
+            "x_max": 0.9294,
+            "y_max": 0.4139,
+            "width": 0.6252,
+            "height": 0.0656
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "2.3 KINGDOM FUNGI",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.4396,
+            "x_max": 0.5184,
+            "y_max": 0.452,
+            "width": 0.2148,
+            "height": 0.0124
+          },
+          "confidence": 0.9767
+        },
+        {
+          "text": "a un",
+          "bbox": {
+            "x_min": 0.4822,
+            "y_min": 0.4756,
+            "x_max": 0.5178,
+            "y_max": 0.4863,
+            "width": 0.0356,
+            "height": 0.0107
+          },
+          "confidence": 0.9055
+        },
+        {
+          "text": "allis",
+          "bbox": {
+            "x_min": 0.6106,
+            "y_min": 0.3847,
+            "x_max": 0.7729,
+            "y_max": 0.4893,
+            "width": 0.1623,
+            "height": 0.1045
+          },
+          "confidence": 0.5665
+        },
+        {
+          "text": "The fungi constitute a unique kingdom of heterotrophic organisms. They\nshow a great diversity in morphology and habitat. You must have seen\nfungi on a moist bread and rotten fruits. The common mushroom you eat\nand toadstools are also fungi. White spots seen on mustard leaves are due\nto a parasitic fungus. Some unicellular fungi, e.g., yeast are used to make\nbread and beer. Other fungi cause diseases in plants and animals; wheat\nrust-causing Puccinia is an important example. Some are the source of\nantibiotics, e.g., Penicillium. Fungi are cosmopolitan and occur in air, water,\nsoil and on animals and plants. They prefer to grow in warm and humid\nplaces. Have you ever wondered why we keep food in the refrigerator? Yes,\nit is to prevent food from going bad due to bacterial or fungal infections.",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.4747,
+            "x_max": 0.9294,
+            "y_max": 0.6692,
+            "width": 0.6258,
+            "height": 0.1945
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "With the exception of yeasts which are unicellular, fungi are\nfilamentous. Their bodies consist of long, slender thread-like structures\ncalled hyphae. The network of hyphae is known as mycelium. Some hyphae\nare continuous tubes filled with multinucleated cytoplasm – these are\ncalled coenocytic hyphae. Others have septae or cross walls in their\nhyphae. The cell walls of fungi are composed of chitin and polysaccharides.",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.674,
+            "x_max": 0.9288,
+            "y_max": 0.7781,
+            "width": 0.6252,
+            "height": 0.1041
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "Most fungi are heterotrophic and absorb soluble organic matter from\ndead substrates and hence are called saprophytes. Those that depend\non living plants and animals are called parasites. They can also live as\nsymbionts – in association with algae as lichens and with roots of higher\nplants as mycorrhiza.",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.7828,
+            "x_max": 0.9288,
+            "y_max": 0.8676,
+            "width": 0.6258,
+            "height": 0.0848
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "Reproduction in fungi can take place by vegetative means\nfragmentation, fission and budding. Asexual reproduction is by spores",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.8728,
+            "x_max": 0.9276,
+            "y_max": 0.9045,
+            "width": 0.6235,
+            "height": 0.0317
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1932,
+            "y_min": 0.7112,
+            "x_max": 0.3252,
+            "y_max": 0.8128,
+            "width": 0.1319,
+            "height": 0.1015
+          },
+          "confidence": 0.9815
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOLOGICAL CLASSIFICATION",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.0823,
+            "x_max": 0.3222,
+            "y_max": 0.0934,
+            "width": 0.2072,
+            "height": 0.0111
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "17",
+          "bbox": {
+            "x_min": 0.8482,
+            "y_min": 0.0835,
+            "x_max": 0.8727,
+            "y_max": 0.093,
+            "width": 0.0245,
+            "height": 0.0094
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "called conidia or sporangiospores or zoospores, and sexual reproduction\nis by oospores, ascospores and basidiospores. The various spores are\nproduced in distinct structures called fruiting bodies. The sexual cycle\ninvolves the following three steps:",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.1354,
+            "x_max": 0.6982,
+            "y_max": 0.2022,
+            "width": 0.6258,
+            "height": 0.0668
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "(i)",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.2112,
+            "x_max": 0.087,
+            "y_max": 0.2237,
+            "width": 0.0152,
+            "height": 0.0124
+          },
+          "confidence": 0.9636
+        },
+        {
+          "text": "Fusion of protoplasms between two motile or non-motile gametes\ncalled plasmogamy.",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.2117,
+            "x_max": 0.697,
+            "y_max": 0.2434,
+            "width": 0.5826,
+            "height": 0.0317
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "(ii) Fusion of two nuclei called karyogamy.\n(iii) Meiosis in zygote resulting in haploid spores.",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.2524,
+            "x_max": 0.5067,
+            "y_max": 0.2896,
+            "width": 0.4332,
+            "height": 0.0373
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "When a fungus reproduces sexually, two haploid\nhyphae of compatible mating types come together and\nfuse. In some fungi the fusion of two haploid cells\nimmediately results in diploid cells (2n). However, in other\nfungi (ascomycetes and basidiomycetes), an intervening\ndikaryotic stage (n + n, i.e., two nuclei per cell) occurs;\nsuch a condition is called a dikaryon and the phase is\ncalled dikaryophase of fungus. Later, the parental nuclei\nfuse and the cells become diploid. The fungi form fruiting\nbodies in which reduction division occurs, leading to",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.2986,
+            "x_max": 0.5604,
+            "y_max": 0.4722,
+            "width": 0.4892,
+            "height": 0.1735
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "formation of haploid spores.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.4769,
+            "x_max": 0.3158,
+            "y_max": 0.4901,
+            "width": 0.2428,
+            "height": 0.0133
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "The morphology of the mycelium, mode of spore\nformation and fruiting bodies form the basis for the\ndivision of the kingdom into various classes.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.494,
+            "x_max": 0.5598,
+            "y_max": 0.5437,
+            "width": 0.4874,
+            "height": 0.0497
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "2.3.1 Phycomycetes",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.5626,
+            "x_max": 0.3006,
+            "y_max": 0.5771,
+            "width": 0.2277,
+            "height": 0.0146
+          },
+          "confidence": 0.9832
+        },
+        {
+          "text": "Members of phycomycetes are found in aquatic habitats\nand on decaying wood in moist and damp places or as\nobligate parasites on plants. The mycelium is aseptate\nand coenocytic. Asexual reproduction takes place by\nzoospores (motile) or by aplanospores (non-motile). These\nspores are endogenously produced in sporangium. A\nzygospore is formed by fusion of two gametes. These\ngametes are similar in morphology (isogamous) or\ndissimilar (anisogamous or oogamous). Some common\nexamples are Mucor (Figure 2.5a), Rhizopus (the bread\nmould mentioned earlier) and Albugo (the parasitic fungi\non mustard).",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.5887,
+            "x_max": 0.5604,
+            "y_max": 0.7905,
+            "width": 0.488,
+            "height": 0.2018
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "2.3.2 Ascomycetes",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.8106,
+            "x_max": 0.2849,
+            "y_max": 0.8252,
+            "width": 0.2119,
+            "height": 0.0146
+          },
+          "confidence": 0.9839
+        },
+        {
+          "text": "Commonly known as sac-fungi, the ascomycetes are mostly",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.8359,
+            "x_max": 0.5604,
+            "y_max": 0.85,
+            "width": 0.488,
+            "height": 0.0141
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "multicellular, e.g., Penicillium, or rarely unicellular, e.g., yeast",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.8535,
+            "x_max": 0.5598,
+            "y_max": 0.8672,
+            "width": 0.4869,
+            "height": 0.0137
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.697,
+            "y_min": 0.4546,
+            "x_max": 0.721,
+            "y_max": 0.4657,
+            "width": 0.0239,
+            "height": 0.0111
+          },
+          "confidence": 0.9704
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.6941,
+            "y_min": 0.6161,
+            "x_max": 0.7151,
+            "y_max": 0.6268,
+            "width": 0.021,
+            "height": 0.0107
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "(c)",
+          "bbox": {
+            "x_min": 0.6883,
+            "y_min": 0.8406,
+            "x_max": 0.7099,
+            "y_max": 0.8518,
+            "width": 0.0216,
+            "height": 0.0111
+          },
+          "confidence": 0.9436
+        },
+        {
+          "text": "(Saccharomyces). They are saprophytic, decomposers, Figure 2.5 Fungi: (a) Mucor",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.871,
+            "x_max": 0.8126,
+            "y_max": 0.8843,
+            "width": 0.7402,
+            "height": 0.0133
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "parasitic or coprophilous (growing on dung). Mycelium",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.8869,
+            "x_max": 0.5598,
+            "y_max": 0.901,
+            "width": 0.4869,
+            "height": 0.0141
+          },
+          "confidence": 0.986
+        },
+        {
+          "text": "(b) Aspergillus (c) Agaricus",
+          "bbox": {
+            "x_min": 0.6772,
+            "y_min": 0.8865,
+            "x_max": 0.892,
+            "y_max": 0.8989,
+            "width": 0.2148,
+            "height": 0.0124
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "18",
+          "bbox": {
+            "x_min": 0.1203,
+            "y_min": 0.0835,
+            "x_max": 0.1454,
+            "y_max": 0.093,
+            "width": 0.0251,
+            "height": 0.0094
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.0835,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0683,
+            "height": 0.0094
+          },
+          "confidence": 0.9765
+        },
+        {
+          "text": "is branched and septate. The asexual spores are conidia produced\nexogenously on the special mycelium called conidiophores. Conidia on\ngermination produce mycelium. Sexual spores are called ascospores\nwhich are produced endogenously in sac like asci (singular ascus). These\nasci are arranged in different types of fruiting bodies called ascocarps.\nSome examples are Aspergillus (Figure 2.5b), Claviceps and Neurospora.\nNeurospora is used extensively in biochemical and genetic work. Many\nmembers like morels and truffles are edible and are considered delicacies.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.1362,
+            "x_max": 0.9264,
+            "y_max": 0.2811,
+            "width": 0.6252,
+            "height": 0.1448
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "2.3.3 Basidiomycetes",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.3033,
+            "x_max": 0.5435,
+            "y_max": 0.3175,
+            "width": 0.2411,
+            "height": 0.0141
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "Commonly known forms of basidiomycetes are mushrooms, bracket\nfungi or puffballs. They grow in soil, on logs and tree stumps and in\nliving plant bodies as parasites, e.g., rusts and smuts. The mycelium is\nbranched and septate. The asexual spores are generally not found, but\nvegetative reproduction by fragmentation is common. The sex organs\nare absent, but plasmogamy is brought about by fusion of two vegetative\nor somatic cells of different strains or genotypes. The resultant structure\nis dikaryotic which ultimately gives rise to basidium. Karyogamy and\nmeiosis take place in the basidium producing four basidiospores. The\nbasidiospores are exogenously produced on the basidium (pl.: basidia).\nThe basidia are arranged in fruiting bodies called basidiocarps. Some\ncommon members are Agaricus (mushroom) (Figure 2.5c), Ustilago (smut)\nand Puccinia (rust fungus).",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.3308,
+            "x_max": 0.9264,
+            "y_max": 0.5741,
+            "width": 0.6252,
+            "height": 0.2434
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "2.3.4 Deuteromycetes",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.5947,
+            "x_max": 0.5517,
+            "y_max": 0.6088,
+            "width": 0.2493,
+            "height": 0.0141
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "Commonly known as imperfect fungi because only the asexual or\nvegetative phases of these fungi are known. When the sexual forms of\nthese fungi were discovered they were moved into classes they rightly\nbelong to. It is also possible that the asexual and vegetative stage have\nbeen given one name (and placed under deuteromycetes) and the sexual\nstage another (and placed under another class). Later when the linkages\nwere established, the fungi were correctly identified and moved out of\ndeuteromycetes. Once perfect (sexual) stages of members of\ndueteromycetes were discovered, they were often moved to ascomycetes\nand basidiomycetes. The deuteromycetes reproduce only by asexual spores\nknown as conidia. The mycelium is septate and branched. Some members\nare saprophytes or parasites while a large number of them are\ndecomposers of litter and help in mineral cycling. Some examples are\nAlternaria, Colletotrichum and Trichoderma.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.6213,
+            "x_max": 0.9294,
+            "y_max": 0.8822,
+            "width": 0.6281,
+            "height": 0.2609
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1915,
+            "y_min": 0.7082,
+            "x_max": 0.3298,
+            "y_max": 0.8166,
+            "width": 0.1384,
+            "height": 0.1084
+          },
+          "confidence": 0.9711
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOLOGICAL CLASSIFICATION",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.0823,
+            "x_max": 0.3222,
+            "y_max": 0.0925,
+            "width": 0.2072,
+            "height": 0.0103
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "19",
+          "bbox": {
+            "x_min": 0.8476,
+            "y_min": 0.0835,
+            "x_max": 0.8722,
+            "y_max": 0.0934,
+            "width": 0.0245,
+            "height": 0.0099
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "2.4 KINGDOM PLANTAE",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1337,
+            "x_max": 0.3106,
+            "y_max": 0.1457,
+            "width": 0.2388,
+            "height": 0.012
+          },
+          "confidence": 0.9787
+        },
+        {
+          "text": "Kingdom Plantae includes all eukaryotic chlorophyll-containing\norganisms commonly called plants. A few members are partially\nheterotrophic such as the insectivorous plants or parasites. Bladderwort\nand Venus fly trap are examples of insectivorous plants and Cuscuta is a\nparasite. The plant cells have an eukaryotic structure with prominent\nchloroplasts and cell wall mainly made of cellulose. You will study the\neukaryotic cell structure in detail in Chapter 8. Plantae includes algae,\nbryophytes, pteridophytes, gymnosperms and angiosperms.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.1688,
+            "x_max": 0.6982,
+            "y_max": 0.3068,
+            "width": 0.6258,
+            "height": 0.138
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "Life cycle of plants has two distinct phases – the diploid sporophytic\nand the haploid gametophytic – that alternate with each other. The lengths\nof the haploid and diploid phases, and whether these phases are free-\nliving or dependent on others, vary among different groups in plants.\nThis phenomenon is called alternation of generations. You will study\nfurther details of this kingdom in Chapter 3.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.3102,
+            "x_max": 0.6976,
+            "y_max": 0.4139,
+            "width": 0.6258,
+            "height": 0.1037
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "2.5 KINGDOM ANIMALIA",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.4392,
+            "x_max": 0.3158,
+            "y_max": 0.452,
+            "width": 0.244,
+            "height": 0.0129
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "RT",
+          "bbox": {
+            "x_min": 0.491,
+            "y_min": 0.3916,
+            "x_max": 0.6159,
+            "y_max": 0.4863,
+            "width": 0.1249,
+            "height": 0.0947
+          },
+          "confidence": 0.9808
+        },
+        {
+          "text": "lished",
+          "bbox": {
+            "x_min": 0.6492,
+            "y_min": 0.3055,
+            "x_max": 0.8762,
+            "y_max": 0.4666,
+            "width": 0.2271,
+            "height": 0.1611
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "that are multicellular and their cells lack cell walls. They directly or\nindirectly depend on plants for food. They digest their food in an internal\ncavity and store food reserves as glycogen or fat. Their mode of nutrition\nis holozoic – by ingestion of food. They follow a definite growth pattern\nand grow into adults that have a definite shape and size. Higher forms\nshow elaborate sensory and neuromotor mechanism. Most of them are\ncapable of locomotion.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.4923,
+            "x_max": 0.6982,
+            "y_max": 0.6118,
+            "width": 0.6258,
+            "height": 0.1195
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "The sexual reproduction is by copulation of male and female followed\nby embryological development. Salient features of various phyla are\ndescribed in Chapter 4.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.617,
+            "x_max": 0.6964,
+            "y_max": 0.6654,
+            "width": 0.6235,
+            "height": 0.0484
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "In the five kingdom classification of Whittaker there is no mention of lichens\nand some acellular organisms like viruses, viroids and prions. These are\nbriefly introduced here.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.7262,
+            "x_max": 0.697,
+            "y_max": 0.7751,
+            "width": 0.6246,
+            "height": 0.0488
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "All of us who have suffered the ill effects of common cold or 'flu' know\nwhat effects viruses can have on us, even if we do not associate it with our\ncondition. Viruses did not find a place in classification since they are not\nconsidered truly 'living', if we understand living as those organisms that\nhave a cell structure. The viruses are non-cellular organisms that are\ncharacterised by having an inert crystalline structure outside the living cell.",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.7793,
+            "x_max": 0.6976,
+            "y_max": 0.8826,
+            "width": 0.6264,
+            "height": 0.1033
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "20",
+          "bbox": {
+            "x_min": 0.1179,
+            "y_min": 0.084,
+            "x_max": 0.1442,
+            "y_max": 0.093,
+            "width": 0.0263,
+            "height": 0.009
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "RNA",
+          "bbox": {
+            "x_min": 0.1652,
+            "y_min": 0.356,
+            "x_max": 0.2032,
+            "y_max": 0.3633,
+            "width": 0.0379,
+            "height": 0.0073
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "Capsid",
+          "bbox": {
+            "x_min": 0.2604,
+            "y_min": 0.3556,
+            "x_max": 0.3176,
+            "y_max": 0.3659,
+            "width": 0.0572,
+            "height": 0.0103
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.2872,
+            "y_min": 0.4053,
+            "x_max": 0.3094,
+            "y_max": 0.4173,
+            "width": 0.0222,
+            "height": 0.012
+          },
+          "confidence": 0.9755
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.0835,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0683,
+            "height": 0.0099
+          },
+          "confidence": 0.9745
+        },
+        {
+          "text": "Head",
+          "bbox": {
+            "x_min": 0.8494,
+            "y_min": 0.1731,
+            "x_max": 0.8949,
+            "y_max": 0.1812,
+            "width": 0.0455,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        },
+        {
+          "text": "Collar",
+          "bbox": {
+            "x_min": 0.8511,
+            "y_min": 0.2258,
+            "x_max": 0.9013,
+            "y_max": 0.2335,
+            "width": 0.0502,
+            "height": 0.0077
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "Sheath",
+          "bbox": {
+            "x_min": 0.5417,
+            "y_min": 0.2446,
+            "x_max": 0.5984,
+            "y_max": 0.2532,
+            "width": 0.0566,
+            "height": 0.0086
+          },
+          "confidence": 0.9811
+        },
+        {
+          "text": "Tail fibres",
+          "bbox": {
+            "x_min": 0.6632,
+            "y_min": 0.3787,
+            "x_max": 0.7431,
+            "y_max": 0.3877,
+            "width": 0.08,
+            "height": 0.009
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.7262,
+            "y_min": 0.4045,
+            "x_max": 0.7461,
+            "y_max": 0.4156,
+            "width": 0.0198,
+            "height": 0.0111
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "Figure 2.6 (a) Tobacco Mosaic Virus (TMV) (b) Bacteriophage",
+          "bbox": {
+            "x_min": 0.2545,
+            "y_min": 0.452,
+            "x_max": 0.7758,
+            "y_max": 0.464,
+            "width": 0.5213,
+            "height": 0.012
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "Bacte",
+          "bbox": {
+            "x_min": 0.655,
+            "y_min": 0.4413,
+            "x_max": 0.7034,
+            "y_max": 0.4683,
+            "width": 0.0485,
+            "height": 0.027
+          },
+          "confidence": 0.9618
+        },
+        {
+          "text": "Once they infect a cell, they take over the machinery of the host cell to\nreplicate themselves, killing the host. Would you call viruses living or non-\nliving?",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.4897,
+            "x_max": 0.9264,
+            "y_max": 0.5364,
+            "width": 0.6246,
+            "height": 0.0467
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "Virus means venom or poisonous fluid. Dmitri Ivanowsky (1892)\nrecognised certain microbes as causal organism of the mosaic disease of\ntobacco (Figure 2.6a). These were found to be smaller than bacteria\nbecause they passed through bacteria-proof filters. M.W. Beijerinck\n(1898) demonstrated that the extract of the infected plants of tobacco\ncould cause infection in healthy plants and named the new pathogen\n“virus” and called the fluid as Contagium vivum fluidum (infectious living\nfluid). W.M. Stanley (1935) showed that viruses could be crystallised\nand crystals consist largely of proteins. They are inert outside their specific\nhost cell. Viruses are obligate parasites.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.5403,
+            "x_max": 0.9282,
+            "y_max": 0.7065,
+            "width": 0.6258,
+            "height": 0.1662
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "In addition to proteins, viruses also contain genetic material, that could\nbe either RNA or DNA. No virus contains both RNA and DNA. A virus is\na nucleoprotein and the genetic material is infectious. In general, viruses\nthat infect plants have single stranded RNA and viruses that infect animals\nhave either single or double stranded RNA or double stranded DNA.\nBacterial viruses or bacteriophages (viruses that infect the bacteria) are\nusually double stranded DNA viruses (Figure 2.6b). The protein coat\ncalled capsid made of small subunits called capsomeres, protects the\nnucleic acid. These capsomeres are arranged in helical or polyhedral\ngeometric forms. Viruses cause diseases like mumps, small pox, herpes\nand influenza. AIDS in humans is also caused by a virus. In plants, the\nsymptoms can be mosaic formation, leaf rolling and curling, yellowing",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.7095,
+            "x_max": 0.927,
+            "y_max": 0.91,
+            "width": 0.6258,
+            "height": 0.2005
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1915,
+            "y_min": 0.7074,
+            "x_max": 0.3269,
+            "y_max": 0.8128,
+            "width": 0.1354,
+            "height": 0.1054
+          },
+          "confidence": 0.9671
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOLOGICAL CLASSIFICATION",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.0823,
+            "x_max": 0.3222,
+            "y_max": 0.093,
+            "width": 0.2084,
+            "height": 0.0107
+          },
+          "confidence": 0.9837
+        },
+        {
+          "text": "21",
+          "bbox": {
+            "x_min": 0.8459,
+            "y_min": 0.0835,
+            "x_max": 0.8698,
+            "y_max": 0.0925,
+            "width": 0.0239,
+            "height": 0.009
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "and vein clearing, dwarfing and stunted growth.\nViroids: In 1971, T.O. Diener discovered a new infectious agent that\nwas smaller than viruses and caused potato spindle tuber disease. It was\nfound to be a free RNA; it lacked the protein coat that is found in viruses,\nhence the name viroid. The RNA of the viroid was of low molecular weight.\nPrions: In modern medicine certain infectious neurological diseases\nwere found to be transmitted by an agent consisting of abnormally folded\nprotein. The agent was similar in size to viruses. These agents were called\nprions. The most notable diseases caused by prions are bovine spongiform\nencephalopathy (BSE) commonly called mad cow disease in cattle and\nits analogous variant Creutzfeldt-Jacob disease (CJD) in humans.\nLichens: Lichens are symbiotic associations i.e. mutually useful\nassociations, between algae and fungi. The algal component is known as\nphycobiont and fungal component as mycobiont, which are autotrophic\nand heterotrophic, respectively. Algae prepare food for fungi and fungi\nprovide shelter and absorb mineral nutrients and water for its partner.\nSo close is their association that if one saw a lichen in nature one would\nnever imagine that they had two different organisms within them. Lichens",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1332,
+            "x_max": 0.697,
+            "y_max": 0.4353,
+            "width": 0.6252,
+            "height": 0.3021
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "ublished",
+          "bbox": {
+            "x_min": 0.5639,
+            "y_min": 0.3102,
+            "x_max": 0.8727,
+            "y_max": 0.5283,
+            "width": 0.3088,
+            "height": 0.2181
+          },
+          "confidence": 0.7267
+        },
+        {
+          "text": "are very good pollution indicators – they do not grow in polluted areas.",
+          "bbox": {
+            "x_min": 0.1354,
+            "y_min": 0.4524,
+            "x_max": 0.7682,
+            "y_max": 0.467,
+            "width": 0.6328,
+            "height": 0.0146
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "SUMMARY",
+          "bbox": {
+            "x_min": 0.4536,
+            "y_min": 0.488,
+            "x_max": 0.5476,
+            "y_max": 0.4996,
+            "width": 0.094,
+            "height": 0.0116
+          },
+          "confidence": 0.9637
+        },
+        {
+          "text": "Biological classification of plants and animals was first proposed by Aristotle on\nthe basis of simple morphological characters. Linnaeus later classified all living\norganisms into two kingdoms – Plantae and Animalia. Whittaker proposed an\nelaborate five kingdom classification – Monera, Protista, Fungi, Plantae and\nAnimalia. The main criteria of the five kingdom classification were cell structure,\nbody organisation, mode of nutrition and reproduction, and phylogenetic\nrelationships.",
+          "bbox": {
+            "x_min": 0.1337,
+            "y_min": 0.5257,
+            "x_max": 0.833,
+            "y_max": 0.6448,
+            "width": 0.6994,
+            "height": 0.1191
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "In the five kingdom classification, bacteria are included in Kingdom Monera.\nBacteria are cosmopolitan in distribution. These organisms show the most extensive\nmetabolic diversity. Bacteria may be autotrophic or heterotrophic in their mode of\nnutrition. Kingdom Protista includes all single-celled eukaryotes such as\nChrysophytes, Dinoflagellates, Euglenoids, Slime-moulds and Protozoans. Protists\nhave defined nucleus and other membrane bound organelles. They reproduce\nboth asexually and sexually. Members of Kingdom Fungi show a great diversity\nin structures and habitat. Most fungi are saprophytic in their mode of nutrition.\nThey show asexual and sexual reproduction. Phycomycetes, Ascomycetes,\nBasidiomycetes and Deuteromycetes are the four classes under this kingdom.\nThe plantae includes all eukaryotic chlorophyll-containing organisms. Algae,\nbryophytes, pteridophytes, gymnosperms and angiosperms are included in this\ngroup. The life cycle of plants exhibit alternation of generations – gametophytic\nand sporophytic generations. The heterotrophic eukaryotic, multicellular\norganisms lacking a cell wall are included in the Kingdom Animalia. The mode of",
+          "bbox": {
+            "x_min": 0.1343,
+            "y_min": 0.65,
+            "x_max": 0.8342,
+            "y_max": 0.9135,
+            "width": 0.6999,
+            "height": 0.2635
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "22",
+          "bbox": {
+            "x_min": 0.1173,
+            "y_min": 0.084,
+            "x_max": 0.1465,
+            "y_max": 0.093,
+            "width": 0.0292,
+            "height": 0.009
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "EXERCISES",
+          "bbox": {
+            "x_min": 0.4781,
+            "y_min": 0.1341,
+            "x_max": 0.582,
+            "y_max": 0.1457,
+            "width": 0.1039,
+            "height": 0.0116
+          },
+          "confidence": 0.977
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8576,
+            "y_min": 0.084,
+            "x_max": 0.9247,
+            "y_max": 0.093,
+            "width": 0.0671,
+            "height": 0.009
+          },
+          "confidence": 0.9779
+        },
+        {
+          "text": "1. Discuss how classification systems have undergone several changes over a\nperiod of time?",
+          "bbox": {
+            "x_min": 0.1798,
+            "y_min": 0.1842,
+            "x_max": 0.8646,
+            "y_max": 0.2147,
+            "width": 0.6848,
+            "height": 0.0304
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "2. State two economically important uses of:",
+          "bbox": {
+            "x_min": 0.1769,
+            "y_min": 0.2249,
+            "x_max": 0.5546,
+            "y_max": 0.2374,
+            "width": 0.3777,
+            "height": 0.0124
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "(a) heterotrophic bacteria",
+          "bbox": {
+            "x_min": 0.2078,
+            "y_min": 0.2476,
+            "x_max": 0.4215,
+            "y_max": 0.2605,
+            "width": 0.2137,
+            "height": 0.0129
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "(b) archaebacteria",
+          "bbox": {
+            "x_min": 0.2084,
+            "y_min": 0.2708,
+            "x_max": 0.3614,
+            "y_max": 0.2823,
+            "width": 0.1529,
+            "height": 0.0116
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "3. What is the nature of cell-walls in diatoms?",
+          "bbox": {
+            "x_min": 0.1775,
+            "y_min": 0.2939,
+            "x_max": 0.5727,
+            "y_max": 0.3042,
+            "width": 0.3952,
+            "height": 0.0103
+          },
+          "confidence": 0.9816
+        },
+        {
+          "text": "4. Find out what do the terms ‘algal bloom' and ‘red-tides' signify.",
+          "bbox": {
+            "x_min": 0.1763,
+            "y_min": 0.3171,
+            "x_max": 0.7332,
+            "y_max": 0.3295,
+            "width": 0.5569,
+            "height": 0.0124
+          },
+          "confidence": 0.9606
+        },
+        {
+          "text": "5. How are viroids different from viruses?",
+          "bbox": {
+            "x_min": 0.1775,
+            "y_min": 0.3398,
+            "x_max": 0.5301,
+            "y_max": 0.3496,
+            "width": 0.3526,
+            "height": 0.0099
+          },
+          "confidence": 0.9814
+        },
+        {
+          "text": "6. Describe briefly the four major groups of Protozoa.",
+          "bbox": {
+            "x_min": 0.1769,
+            "y_min": 0.3629,
+            "x_max": 0.6246,
+            "y_max": 0.3757,
+            "width": 0.4478,
+            "height": 0.0129
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "7. Plants are autotrophic. Can you think of some plants that are partially",
+          "bbox": {
+            "x_min": 0.1769,
+            "y_min": 0.3852,
+            "x_max": 0.864,
+            "y_max": 0.3993,
+            "width": 0.6871,
+            "height": 0.0141
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "heterotrophic?",
+          "bbox": {
+            "x_min": 0.2084,
+            "y_min": 0.4036,
+            "x_max": 0.331,
+            "y_max": 0.4152,
+            "width": 0.1226,
+            "height": 0.0116
+          },
+          "confidence": 0.9814
+        },
+        {
+          "text": "8. What do the terms phycobiont and mycobiont signify?",
+          "bbox": {
+            "x_min": 0.1769,
+            "y_min": 0.4267,
+            "x_max": 0.6591,
+            "y_max": 0.4396,
+            "width": 0.4822,
+            "height": 0.0129
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "Kingdom Fungi under the following:",
+          "bbox": {
+            "x_min": 0.5715,
+            "y_min": 0.4486,
+            "x_max": 0.8628,
+            "y_max": 0.4623,
+            "width": 0.2913,
+            "height": 0.0137
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "9. Give a comparative account of the classes of Kingdom Fi",
+          "bbox": {
+            "x_min": 0.1775,
+            "y_min": 0.4464,
+            "x_max": 0.6637,
+            "y_max": 0.4644,
+            "width": 0.4863,
+            "height": 0.018
+          },
+          "confidence": 0.9659
+        },
+        {
+          "text": "(i) mode of nutrition",
+          "bbox": {
+            "x_min": 0.2131,
+            "y_min": 0.4722,
+            "x_max": 0.3824,
+            "y_max": 0.4837,
+            "width": 0.1693,
+            "height": 0.0116
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "(ii) mode of reproduction",
+          "bbox": {
+            "x_min": 0.2078,
+            "y_min": 0.4949,
+            "x_max": 0.4145,
+            "y_max": 0.5073,
+            "width": 0.2067,
+            "height": 0.0124
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "10. What are the characteristic features of Euglenoids?",
+          "bbox": {
+            "x_min": 0.1681,
+            "y_min": 0.5184,
+            "x_max": 0.6404,
+            "y_max": 0.5304,
+            "width": 0.4723,
+            "height": 0.012
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "11. Give a brief account of viruses with respect to their structure and nature of\ngenetic material. Also name four common viral diseases.",
+          "bbox": {
+            "x_min": 0.1687,
+            "y_min": 0.5411,
+            "x_max": 0.8651,
+            "y_max": 0.5716,
+            "width": 0.6964,
+            "height": 0.0304
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "not to be published",
+          "bbox": {
+            "x_min": 0.1856,
+            "y_min": 0.3046,
+            "x_max": 0.8757,
+            "y_max": 0.8179,
+            "width": 0.69,
+            "height": 0.5133
+          },
+          "confidence": 0.863
+        },
+        {
+          "text": "-",
+          "bbox": {
+            "x_min": 0.6293,
+            "y_min": 0.5874,
+            "x_max": 0.6386,
+            "y_max": 0.5887,
+            "width": 0.0093,
+            "height": 0.0013
+          },
+          "confidence": 0.8187
+        },
+        {
+          "text": "12. Organise a discussion in your class on the topic – Are viruses living or non-\nliving?",
+          "bbox": {
+            "x_min": 0.1681,
+            "y_min": 0.5818,
+            "x_max": 0.8634,
+            "y_max": 0.6123,
+            "width": 0.6953,
+            "height": 0.0304
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

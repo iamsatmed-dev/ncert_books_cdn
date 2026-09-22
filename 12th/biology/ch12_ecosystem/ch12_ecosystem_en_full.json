@@ -1,0 +1,2995 @@
+{
+  "chapter_id": "12th_biology_ch12_ecosystem_ch12_ecosystem_en",
+  "total_pages": 11,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "CHAPTER 12",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.2142,
+            "x_max": 0.3322,
+            "y_max": 0.2395,
+            "width": 0.2592,
+            "height": 0.0253
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "ECOSYSTEM",
+          "bbox": {
+            "x_min": 0.0753,
+            "y_min": 0.2858,
+            "x_max": 0.3666,
+            "y_max": 0.3141,
+            "width": 0.2913,
+            "height": 0.0283
+          },
+          "confidence": 0.9618
+        },
+        {
+          "text": "12083CH14",
+          "bbox": {
+            "x_min": 0.5102,
+            "y_min": 0.2404,
+            "x_max": 0.5569,
+            "y_max": 0.2455,
+            "width": 0.0467,
+            "height": 0.0051
+          },
+          "confidence": 0.9847
+        },
+        {
+          "text": "blished",
+          "bbox": {
+            "x_min": 0.5937,
+            "y_min": 0.3033,
+            "x_max": 0.8809,
+            "y_max": 0.5004,
+            "width": 0.2872,
+            "height": 0.1971
+          },
+          "confidence": 0.9426
+        },
+        {
+          "text": "12.1 Ecosystem–Structure\nand Function",
+          "bbox": {
+            "x_min": 0.0852,
+            "y_min": 0.4499,
+            "x_max": 0.2983,
+            "y_max": 0.4769,
+            "width": 0.2131,
+            "height": 0.027
+          },
+          "confidence": 0.9708
+        },
+        {
+          "text": "12.2. Productivity",
+          "bbox": {
+            "x_min": 0.0852,
+            "y_min": 0.5004,
+            "x_max": 0.2329,
+            "y_max": 0.5129,
+            "width": 0.1477,
+            "height": 0.0124
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "12.3 Decomposition",
+          "bbox": {
+            "x_min": 0.0846,
+            "y_min": 0.5343,
+            "x_max": 0.2539,
+            "y_max": 0.5458,
+            "width": 0.1693,
+            "height": 0.0116
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "12.4 Energy Flow",
+          "bbox": {
+            "x_min": 0.0835,
+            "y_min": 0.5673,
+            "x_max": 0.2347,
+            "y_max": 0.5784,
+            "width": 0.1512,
+            "height": 0.0111
+          },
+          "confidence": 0.9848
+        },
+        {
+          "text": "12.5 Ecological Pyramids",
+          "bbox": {
+            "x_min": 0.0846,
+            "y_min": 0.6003,
+            "x_max": 0.2983,
+            "y_max": 0.6131,
+            "width": 0.2137,
+            "height": 0.0129
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "An ecosystem can be visualised as a functional unit of\nnature, where living organisms interact among themselves\nand also with the surrounding physical environment.\nEcosystem varies greatly in size from a small pond to a\nlarge forest or a sea. Many ecologists regard the entire\nbiosphere as a global ecosystem, as a composite of all\nlocal ecosystems on Earth. Since this system is too much\nbig and complex to be studied at one time, it is convenient\nto divide it into two basic categories, namely terrestrial\nand aquatic. Forest, grassland and desert are some\nexamples of terrestrial ecosystems; pond, lake, wetland,\nriver and estuary are some examples of aquatic\necosystems. Crop fields and an aquarium may also be\nconsidered as man-made ecosystems.",
+          "bbox": {
+            "x_min": 0.4046,
+            "y_min": 0.4803,
+            "x_max": 0.8967,
+            "y_max": 0.7326,
+            "width": 0.4921,
+            "height": 0.2524
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "not to",
+          "bbox": {
+            "x_min": 0.1909,
+            "y_min": 0.6534,
+            "x_max": 0.4005,
+            "y_max": 0.8136,
+            "width": 0.2096,
+            "height": 0.1602
+          },
+          "confidence": 0.9688
+        },
+        {
+          "text": "We will first look at the structure of the ecosystem, in\norder to appreciate the input (productivity), transfer of\nenergy (food chain/web, nutrient cycling) and the output\n(degradation and energy loss). We will also look at the\nrelationships – cycles, chains, webs – that are created as\na result of these energy flows within the system and their\ninter- relationship.",
+          "bbox": {
+            "x_min": 0.4063,
+            "y_min": 0.7386,
+            "x_max": 0.8967,
+            "y_max": 0.8633,
+            "width": 0.4904,
+            "height": 0.1247
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "206",
+          "bbox": {
+            "x_min": 0.0957,
+            "y_min": 0.7922,
+            "x_max": 0.1442,
+            "y_max": 0.8046,
+            "width": 0.0485,
+            "height": 0.0124
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.864,
+            "y_min": 0.0801,
+            "x_max": 0.9276,
+            "y_max": 0.0878,
+            "width": 0.0636,
+            "height": 0.0077
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "12.1 ECOSYSTEM – STRUCTURE AND FUNCTION",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.1114,
+            "x_max": 0.7858,
+            "y_max": 0.1247,
+            "width": 0.4816,
+            "height": 0.0133
+          },
+          "confidence": 0.9393
+        },
+        {
+          "text": "In earlier classes, you have looked at the various components of the\nenvironment- abiotic and biotic. You studied how the individual biotic\nand abiotic factors affected each other and their surrounding. Let us look\nat these components in a more integrated manner and see how the flow of\nenergy takes place within these components of the ecosystem.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.1401,
+            "x_max": 0.9276,
+            "y_max": 0.2262,
+            "width": 0.6252,
+            "height": 0.0861
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "Interaction of biotic and abiotic components result in a physical\nstructure that is characteristic for each type of ecosystem. Identification\nand enumeration of plant and animal species of an ecosystem gives its\nspecies composition. Vertical distribution of different species occupying\ndifferent levels is called stratification. For example, trees occupy top\nvertical strata or layer of a forest, shrubs the second and herbs and grasses\noccupy the bottom layers.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.2305,
+            "x_max": 0.927,
+            "y_max": 0.3518,
+            "width": 0.6252,
+            "height": 0.1213
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "The components of the ecosystem are seen to function as a unit when\nyou consider the following aspects:",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.3565,
+            "x_max": 0.927,
+            "y_max": 0.389,
+            "width": 0.6258,
+            "height": 0.0326
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "(i) Productivity;",
+          "bbox": {
+            "x_min": 0.3357,
+            "y_min": 0.3937,
+            "x_max": 0.4705,
+            "y_max": 0.4066,
+            "width": 0.1349,
+            "height": 0.0129
+          },
+          "confidence": 0.9815
+        },
+        {
+          "text": "(ii) Decomposition;",
+          "bbox": {
+            "x_min": 0.3304,
+            "y_min": 0.4117,
+            "x_max": 0.4939,
+            "y_max": 0.4246,
+            "width": 0.1635,
+            "height": 0.0129
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "RT",
+          "bbox": {
+            "x_min": 0.4834,
+            "y_min": 0.3925,
+            "x_max": 0.6153,
+            "y_max": 0.4871,
+            "width": 0.1319,
+            "height": 0.0947
+          },
+          "confidence": 0.9416
+        },
+        {
+          "text": "alishe",
+          "bbox": {
+            "x_min": 0.6054,
+            "y_min": 0.3329,
+            "x_max": 0.85,
+            "y_max": 0.497,
+            "width": 0.2446,
+            "height": 0.1641
+          },
+          "confidence": 0.7915
+        },
+        {
+          "text": "(iii) Energy flow; and",
+          "bbox": {
+            "x_min": 0.3252,
+            "y_min": 0.4289,
+            "x_max": 0.5055,
+            "y_max": 0.4426,
+            "width": 0.1804,
+            "height": 0.0137
+          },
+          "confidence": 0.9812
+        },
+        {
+          "text": "(iv) Nutrient cycling.",
+          "bbox": {
+            "x_min": 0.3257,
+            "y_min": 0.4473,
+            "x_max": 0.5015,
+            "y_max": 0.4606,
+            "width": 0.1757,
+            "height": 0.0133
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "To understand the ethos of an aquatic ecosystem let us take a small\npond as an example. This is fairly a self-sustainable unit and rather simple\nexample that explain even the complex interactions that exist in an aquatic\necosystem. A pond is a shallow water body in which all the above\nmentioned four basic components of an ecosystem are well exhibited.\nThe abiotic component is the water with all the dissolved inorganic and\norganic substances and the rich soil deposit at the bottom of the pond.\nThe solar input, the cycle of temperature, day-length and other climatic\nconditions regulate the rate of function of the entire pond. The autotrophic\ncomponents include the phytoplankton, some algae and the floating,\nsubmerged and marginal plants found at the edges. The consumers are\nrepresented by the zooplankton, the free swimming and bottom dwelling\nforms. The decomposers are the fungi, bacteria and flagellates especially\nabundant in the bottom of the pond. This system performs all the functions\nof any ecosystem and of the biosphere as a whole, i.e., conversion of\ninorganic into organic material with the help of the radiant energy of the\nsun by the autotrophs; consumption of the autotrophs by heterotrophs;\ndecomposition and mineralisation of the dead matter to release them back\nfor reuse by the autotrophs, these event are repeated over and over again.\nThere is unidirectional movement of energy towards the higher trophic\nlevels and its dissipation and loss as heat to the environment.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.4657,
+            "x_max": 0.9276,
+            "y_max": 0.8299,
+            "width": 0.6264,
+            "height": 0.3642
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "12.2 PRODUCTIVITY",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.8483,
+            "x_max": 0.5184,
+            "y_max": 0.862,
+            "width": 0.2142,
+            "height": 0.0137
+          },
+          "confidence": 0.9848
+        },
+        {
+          "text": "A constant input of solar energy is the basic requirement for any ecosystem\nto function and sustain. Primary production is defined as the amount of",
+          "bbox": {
+            "x_min": 0.2989,
+            "y_min": 0.877,
+            "x_max": 0.9276,
+            "y_max": 0.9079,
+            "width": 0.6287,
+            "height": 0.0308
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1821,
+            "y_min": 0.7087,
+            "x_max": 0.3263,
+            "y_max": 0.8196,
+            "width": 0.1442,
+            "height": 0.111
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "ECOSYSTEM",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.0788,
+            "x_max": 0.1547,
+            "y_max": 0.087,
+            "width": 0.0823,
+            "height": 0.0081
+          },
+          "confidence": 0.9792
+        },
+        {
+          "text": "biomass or organic matter produced per unit area over a time period by\nplants during photosynthesis. It is expressed in terms of weight (gm¯²) or\nenergy (kcal m¯²). The rate of biomass production is called productivity.\nIt is expressed in terms of gm-2 yr¯¹ or (kcal m¯²) yr¯¹ to compare the\nproductivity of different ecosystems. It can be divided into gross primary\nproductivity (GPP) and net primary productivity (NPP). Gross primary\nproductivity of an ecosystem is the rate of production of organic matter\nduring photosynthesis. A considerable amount of GPP is utilised by plants\nin respiration. Gross primary productivity minus respiration losses (R),\nis the net primary productivity (NPP).",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.1127,
+            "x_max": 0.6976,
+            "y_max": 0.2858,
+            "width": 0.6252,
+            "height": 0.1731
+          },
+          "confidence": 0.9833
+        },
+        {
+          "text": "GPP - R = NPP",
+          "bbox": {
+            "x_min": 0.3363,
+            "y_min": 0.2909,
+            "x_max": 0.4635,
+            "y_max": 0.3008,
+            "width": 0.1273,
+            "height": 0.0099
+          },
+          "confidence": 0.9423
+        },
+        {
+          "text": "Net primary productivity is the available biomass for the consumption\nto heterotrophs (herbiviores and decomposers). Secondary productivity\nis defined as the rate of formation of new organic matter by",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.3093,
+            "x_max": 0.6976,
+            "y_max": 0.3573,
+            "width": 0.6246,
+            "height": 0.048
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "consumers.",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.3659,
+            "x_max": 0.1728,
+            "y_max": 0.3728,
+            "width": 0.0992,
+            "height": 0.0069
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "Primary productivity depends on the plant species inhabiting a\nparticular area. It also depends on a variety of environmental factors,\navailability of nutrients and photosynthetic capacity of plants. Therefore,\nit varies in different types of ecosystems. The annual net primary\nproductivity of the whole biosphere is approximately 170 billion tons\n(dry weight) of organic matter. Of this, despite occupying about\ncent of the surface, the productivity of the oceans are only 55 billion tons.\nRest of course, is on land. Discuss the main reason for the low\nproductivity of ocean with your teacher.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.38,
+            "x_max": 0.6976,
+            "y_max": 0.5364,
+            "width": 0.6252,
+            "height": 0.1564
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "12.3 DECOMPOSITION",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.5531,
+            "x_max": 0.2989,
+            "y_max": 0.5664,
+            "width": 0.2248,
+            "height": 0.0133
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "NG",
+          "bbox": {
+            "x_min": 0.3608,
+            "y_min": 0.4914,
+            "x_max": 0.5044,
+            "y_max": 0.5827,
+            "width": 0.1436,
+            "height": 0.0913
+          },
+          "confidence": 0.8023
+        },
+        {
+          "text": "repished",
+          "bbox": {
+            "x_min": 0.4448,
+            "y_min": 0.3068,
+            "x_max": 0.9054,
+            "y_max": 0.6007,
+            "width": 0.4606,
+            "height": 0.2939
+          },
+          "confidence": 0.8672
+        },
+        {
+          "text": "70 per",
+          "bbox": {
+            "x_min": 0.641,
+            "y_min": 0.4696,
+            "x_max": 0.697,
+            "y_max": 0.4816,
+            "width": 0.056,
+            "height": 0.012
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "You may have heard of the earthworm being referred to as the farmer's\n'friend'. This is so because they help in the breakdown of complex organic\nmatter as well as in loosening of the soil. Similarly, decomposers break\ndown complex organic matter into inorganic substances like carbon\ndioxide, water and nutrients and the process is called decomposition.\nDead plant remains such as leaves, bark, flowers and dead remains of\nanimals, including fecal matter, constitute detritus, which is the raw\nmaterial for decomposition. The important steps in the process of\ndecomposition are fragmentation, leaching, catabolism, humification and\nmineralisation.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.581,
+            "x_max": 0.6994,
+            "y_max": 0.7524,
+            "width": 0.6276,
+            "height": 0.1714
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "Detritivores (e.g., earthworm) break down detritus into smaller particles.\nThis process is called fragmentation. By the process of leaching, water-\nsoluble inorganic nutrients go down into the soil horizon and get precipitated\nas unavailable salts. Bacterial and fungal enzymes degrade detritus into\nsimpler inorganic substances. This process is called as catabolism.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.7592,
+            "x_max": 0.6976,
+            "y_max": 0.8449,
+            "width": 0.6258,
+            "height": 0.0857
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "It is important to note that all the above steps in decomposition operate\nsimultaneously on the detritus (Figure 12.1). Humification and\nmineralisation occur during decomposition in the soil. Humification leads",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.8513,
+            "x_max": 0.697,
+            "y_max": 0.9027,
+            "width": 0.6241,
+            "height": 0.0514
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "207",
+          "bbox": {
+            "x_min": 0.85,
+            "y_min": 0.7922,
+            "x_max": 0.899,
+            "y_max": 0.8046,
+            "width": 0.049,
+            "height": 0.0124
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "سله",
+          "bbox": {
+            "x_min": 0.1956,
+            "y_min": 0.1915,
+            "x_max": 0.2242,
+            "y_max": 0.2074,
+            "width": 0.0286,
+            "height": 0.0159
+          },
+          "confidence": 0.6728
+        },
+        {
+          "text": "чил",
+          "bbox": {
+            "x_min": 0.1915,
+            "y_min": 0.2061,
+            "x_max": 0.2253,
+            "y_max": 0.2202,
+            "width": 0.0339,
+            "height": 0.0141
+          },
+          "confidence": 0.6786
+        },
+        {
+          "text": "A tree grows in the soil",
+          "bbox": {
+            "x_min": 0.3193,
+            "y_min": 0.1624,
+            "x_max": 0.5073,
+            "y_max": 0.1748,
+            "width": 0.188,
+            "height": 0.0124
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "Some are eaten\nby insects and other\nanimals. Nutrients and\nenergy enter food web.",
+          "bbox": {
+            "x_min": 0.5581,
+            "y_min": 0.1877,
+            "x_max": 0.7431,
+            "y_max": 0.2408,
+            "width": 0.1851,
+            "height": 0.0531
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "Leaves partially consumed\nby decomposers such as fungi\nand bacteria. They begin to\nlose form and become litter.",
+          "bbox": {
+            "x_min": 0.1745,
+            "y_min": 0.3518,
+            "x_max": 0.4191,
+            "y_max": 0.4032,
+            "width": 0.2446,
+            "height": 0.0514
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "A green leaf falls\nto the ground",
+          "bbox": {
+            "x_min": 0.4227,
+            "y_min": 0.2866,
+            "x_max": 0.5569,
+            "y_max": 0.3119,
+            "width": 0.1343,
+            "height": 0.0253
+          },
+          "confidence": 0.9898
+        },
+        {
+          "text": "binh",
+          "bbox": {
+            "x_min": 0.4186,
+            "y_min": 0.4512,
+            "x_max": 0.4676,
+            "y_max": 0.4944,
+            "width": 0.049,
+            "height": 0.0433
+          },
+          "confidence": 0.7565
+        },
+        {
+          "text": "Further",
+          "bbox": {
+            "x_min": 0.3047,
+            "y_min": 0.4876,
+            "x_max": 0.3713,
+            "y_max": 0.4953,
+            "width": 0.0665,
+            "height": 0.0077
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "decomposition by\nearthworms, bacteria,\nsoil,mites, fungi,etc.",
+          "bbox": {
+            "x_min": 0.3059,
+            "y_min": 0.5013,
+            "x_max": 0.4764,
+            "y_max": 0.5403,
+            "width": 0.1705,
+            "height": 0.039
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.864,
+            "y_min": 0.0801,
+            "x_max": 0.9276,
+            "y_max": 0.0878,
+            "width": 0.0636,
+            "height": 0.0077
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "blished",
+          "bbox": {
+            "x_min": 0.6071,
+            "y_min": 0.3145,
+            "x_max": 0.8692,
+            "y_max": 0.5013,
+            "width": 0.2621,
+            "height": 0.1868
+          },
+          "confidence": 0.9347
+        },
+        {
+          "text": "Some nutrients leach",
+          "bbox": {
+            "x_min": 0.6999,
+            "y_min": 0.3929,
+            "x_max": 0.8704,
+            "y_max": 0.4032,
+            "width": 0.1705,
+            "height": 0.0103
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "into soil by",
+          "bbox": {
+            "x_min": 0.7834,
+            "y_min": 0.4075,
+            "x_max": 0.871,
+            "y_max": 0.419,
+            "width": 0.0876,
+            "height": 0.0116
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "chemical action",
+          "bbox": {
+            "x_min": 0.7455,
+            "y_min": 0.422,
+            "x_max": 0.8704,
+            "y_max": 0.4306,
+            "width": 0.1249,
+            "height": 0.0086
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "Organic rich soil",
+          "bbox": {
+            "x_min": 0.4227,
+            "y_min": 0.5531,
+            "x_max": 0.5482,
+            "y_max": 0.5651,
+            "width": 0.1255,
+            "height": 0.012
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "Figure 12.1 Diagrammatic representation of decomposition cycle in a terrestrial ecosystem",
+          "bbox": {
+            "x_min": 0.1319,
+            "y_min": 0.6144,
+            "x_max": 0.899,
+            "y_max": 0.6268,
+            "width": 0.7671,
+            "height": 0.0124
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "208",
+          "bbox": {
+            "x_min": 0.0952,
+            "y_min": 0.7926,
+            "x_max": 0.1459,
+            "y_max": 0.8051,
+            "width": 0.0508,
+            "height": 0.0124
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "to accumulation of a dark coloured amorphous substance called humus\nthat is highly resistant to microbial action and undergoes decomposition\nat an extremely slow rate. Being colloidal in nature it serves as a reservoir\nof nutrients. The humus is further degraded by some microbes and release\nof inorganic nutrients occur by the process known as mineralisation.\nDecomposition is largely an oxygen-requiring process. The rate of\ndecomposition is controlled by chemical composition of detritus and\nclimatic factors. In a particular climatic condition, decomposition rate\nis slower if detritus is rich in lignin and chitin, and quicker, if detritus is\nrich in nitrogen and water-soluble substances like sugars. Temperature\nand soil moisture are the most important climatic factors that regulate\ndecomposition through their effects on the activities of soil microbes.\nWarm and moist environment favour decomposition whereas low\ntemperature and anaerobiosis inhibit decomposition resulting in build\nup of organic materials.",
+          "bbox": {
+            "x_min": 0.3001,
+            "y_min": 0.6457,
+            "x_max": 0.9282,
+            "y_max": 0.9049,
+            "width": 0.6281,
+            "height": 0.2592
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1903,
+            "y_min": 0.7095,
+            "x_max": 0.3281,
+            "y_max": 0.8158,
+            "width": 0.1378,
+            "height": 0.1063
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "ECOSYSTEM",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.0788,
+            "x_max": 0.1547,
+            "y_max": 0.087,
+            "width": 0.0823,
+            "height": 0.0081
+          },
+          "confidence": 0.9792
+        },
+        {
+          "text": "12.4 ENERGY FLOW",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.1114,
+            "x_max": 0.2843,
+            "y_max": 0.1243,
+            "width": 0.2096,
+            "height": 0.0129
+          },
+          "confidence": 0.9725
+        },
+        {
+          "text": "Except for the deep sea hydro-thermal ecosystem, sun is the only source\nof energy for all ecosystems on Earth. Of the incident solar radiation less\nthan 50 per cent of it is photosynthetically active radiation (PAR). We\nknow that plants and photosynthetic bacteria (autotrophs), fix Sun's\nradiant energy to make food from simple inorganic materials. Plants\ncapture only 2-10 per cent of the PAR and this small amount of energy\nsustains the entire living world. So, it is very important to know how the\nsolar energy captured by plants flows through different organisms of an\necosystem. All organisms are dependent for their food on producers, either\ndirectly or indirectly. So you find unidirectional flow of energy from the\nsun to producers and then to consumers. Is this in keeping with the first\nlaw of thermodynamics?",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.1388,
+            "x_max": 0.697,
+            "y_max": 0.3458,
+            "width": 0.6246,
+            "height": 0.2069
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "ished",
+          "bbox": {
+            "x_min": 0.6626,
+            "y_min": 0.3042,
+            "x_max": 0.8716,
+            "y_max": 0.4722,
+            "width": 0.209,
+            "height": 0.168
+          },
+          "confidence": 0.8732
+        },
+        {
+          "text": "Further, ecosystems are not exempt from the Second Law of\nthermodynamics. They need a constant supply of energy to synthesise\nthe molecules they require, to counteract the universal tendency toward\nincreasing disorderliness.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.35,
+            "x_max": 0.697,
+            "y_max": 0.4156,
+            "width": 0.6241,
+            "height": 0.0656
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "The green plant in the ecosystem are called producers. In a terrestrial\necosystem, major producers are herbaceous and woody plants. Likewise,\nproducers in an aquatic ecosystem are various species like phytoplankton,\nalgae and higher plants.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.4203,
+            "x_max": 0.6953,
+            "y_max": 0.4867,
+            "width": 0.6223,
+            "height": 0.0664
+          },
+          "confidence": 0.9973
+        },
+        {
+          "text": "You have read about the food chains and webs that exist in nature.\nStarting from the plants (or producers) food chains or rather webs are\nformed such that an animal feeds on a plant or on another animal and in\nturn is food for another. The chain or web is formed because of this\ninterdependency. No energy that is trapped into an organism remains in\nit for ever. The energy trapped by the producer, hence, is either passed on\nto a consumer or the organism dies. Death of organism is the beginning\nof the detritus food chain/web.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.491,
+            "x_max": 0.6959,
+            "y_max": 0.626,
+            "width": 0.6229,
+            "height": 0.135
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "All animals depend on plants (directly or indirectly) for their food needs.\nThey are hence called consumers and also heterotrophs. If they feed on\nthe producers, the plants, they are called primary consumers, and if the\nanimals eat other animals which in turn eat the plants (or their produce)\nthey are called secondary consumers. Likewise, you could have tertiary\nconsumers too. Obviously the primary consumers will be herbivores.\nSome common herbivores are insects, birds and mammals in terrestrial\necosystem and molluscs in aquatic ecosystem.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.6315,
+            "x_max": 0.6953,
+            "y_max": 0.7682,
+            "width": 0.6235,
+            "height": 0.1367
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "The consumers that feed on these herbivores are carnivores, or more\ncorrectly primary carnivores (though secondary consumers). Those\nanimals that depend on the primary carnivores for food are labelled\nsecondary carnivores. A simple grazing food chain (GFC) is depicted\nbelow:",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.7721,
+            "x_max": 0.6953,
+            "y_max": 0.853,
+            "width": 0.6252,
+            "height": 0.081
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "Man",
+          "bbox": {
+            "x_min": 0.4997,
+            "y_min": 0.8723,
+            "x_max": 0.5423,
+            "y_max": 0.8817,
+            "width": 0.0426,
+            "height": 0.0094
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "209",
+          "bbox": {
+            "x_min": 0.8494,
+            "y_min": 0.7922,
+            "x_max": 0.9002,
+            "y_max": 0.8046,
+            "width": 0.0508,
+            "height": 0.0124
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "Grass",
+          "bbox": {
+            "x_min": 0.101,
+            "y_min": 0.8723,
+            "x_max": 0.1553,
+            "y_max": 0.8817,
+            "width": 0.0543,
+            "height": 0.0094
+          },
+          "confidence": 0.9851
+        },
+        {
+          "text": "(Producer)",
+          "bbox": {
+            "x_min": 0.1173,
+            "y_min": 0.8946,
+            "x_max": 0.209,
+            "y_max": 0.9075,
+            "width": 0.0917,
+            "height": 0.0129
+          },
+          "confidence": 0.9858
+        },
+        {
+          "text": "Goat",
+          "bbox": {
+            "x_min": 0.2983,
+            "y_min": 0.8723,
+            "x_max": 0.3444,
+            "y_max": 0.8813,
+            "width": 0.0461,
+            "height": 0.009
+          },
+          "confidence": 0.9839
+        },
+        {
+          "text": "(Primary Consumer) (Secondary consumer)",
+          "bbox": {
+            "x_min": 0.2983,
+            "y_min": 0.895,
+            "x_max": 0.6935,
+            "y_max": 0.9083,
+            "width": 0.3952,
+            "height": 0.0133
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "210",
+          "bbox": {
+            "x_min": 0.0952,
+            "y_min": 0.7918,
+            "x_max": 0.1442,
+            "y_max": 0.8051,
+            "width": 0.049,
+            "height": 0.0133
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.864,
+            "y_min": 0.0797,
+            "x_max": 0.9276,
+            "y_max": 0.0874,
+            "width": 0.0636,
+            "height": 0.0077
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "The detritus food chain (DFC) begins with dead organic matter. It is\nmade up of decomposers which are heterotrophic organisms, mainly\nfungi and bacteria. They meet their energy and nutrient requirements by\ndegrading dead organic matter or detritus. These are also known as\nsaprotrophs (sapro: to decompose). Decomposers secrete digestive\nenzymes that breakdown dead and waste materials into simple, inorganic\nmaterials, which are subsequently absorbed by them.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.1153,
+            "x_max": 0.9264,
+            "y_max": 0.2352,
+            "width": 0.6252,
+            "height": 0.12
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "In an aquatic ecosystem, GFC is the major conduit for energy flow.\nAs against this, in a terrestrial ecosystem, a much larger fraction of energy\nflows through the detritus food chain than through the GFC. Detritus\nfood chain may be connected with the grazing food chain at some levels:\nsome of the organisms of DFC are prey to the GFC animals, and in a natural\necosystem, some animals like cockroaches, crows, etc., are omnivores.\nThese natural interconnection of food chains make it a food web. How\nwould you classify human beings!",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.2399,
+            "x_max": 0.9264,
+            "y_max": 0.3783,
+            "width": 0.6258,
+            "height": 0.1384
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "Organisms occupy a place in the natural surroundings or in a\ncommunity according to their feeding relationship with other organisms.\nBased on the source of their nutrition or food, organisms occupy a specific\nplace in the food chain that is known as their trophic level. Producers\nbelong to the first trophic level, herbivores (primary consumer) to the\nsecond and carnivores (secondary consumer) to the third (Figure 12.2).",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.3822,
+            "x_max": 0.9264,
+            "y_max": 0.485,
+            "width": 0.6246,
+            "height": 0.1028
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "Examples",
+          "bbox": {
+            "x_min": 0.6386,
+            "y_min": 0.5274,
+            "x_max": 0.7215,
+            "y_max": 0.5386,
+            "width": 0.0829,
+            "height": 0.0111
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "Tertiary\nConsumer",
+          "bbox": {
+            "x_min": 0.2627,
+            "y_min": 0.5591,
+            "x_max": 0.3462,
+            "y_max": 0.5818,
+            "width": 0.0835,
+            "height": 0.0227
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "Fourth Trophic level\n(Top Carnivore)",
+          "bbox": {
+            "x_min": 0.4623,
+            "y_min": 0.5574,
+            "x_max": 0.6241,
+            "y_max": 0.5835,
+            "width": 0.1617,
+            "height": 0.0261
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "Man, lion",
+          "bbox": {
+            "x_min": 0.7507,
+            "y_min": 0.5578,
+            "x_max": 0.8284,
+            "y_max": 0.5673,
+            "width": 0.0776,
+            "height": 0.0094
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "↑",
+          "bbox": {
+            "x_min": 0.2954,
+            "y_min": 0.5973,
+            "x_max": 0.3117,
+            "y_max": 0.6285,
+            "width": 0.0163,
+            "height": 0.0313
+          },
+          "confidence": 0.9118
+        },
+        {
+          "text": "Secondary\nConsumer",
+          "bbox": {
+            "x_min": 0.2609,
+            "y_min": 0.6444,
+            "x_max": 0.3473,
+            "y_max": 0.6675,
+            "width": 0.0864,
+            "height": 0.0231
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "Third trophic\nlevel\n(Carnivore)",
+          "bbox": {
+            "x_min": 0.4886,
+            "y_min": 0.6461,
+            "x_max": 0.5972,
+            "y_max": 0.6847,
+            "width": 0.1086,
+            "height": 0.0386
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "Birds, fishes\nwolf",
+          "bbox": {
+            "x_min": 0.7396,
+            "y_min": 0.6461,
+            "x_max": 0.8406,
+            "y_max": 0.6684,
+            "width": 0.101,
+            "height": 0.0223
+          },
+          "confidence": 0.9854
+        },
+        {
+          "text": "Primary\nConsumer",
+          "bbox": {
+            "x_min": 0.2627,
+            "y_min": 0.7314,
+            "x_max": 0.3462,
+            "y_max": 0.7541,
+            "width": 0.0835,
+            "height": 0.0227
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "Second trophic\nlevel\n(Herbivore)",
+          "bbox": {
+            "x_min": 0.4828,
+            "y_min": 0.7305,
+            "x_max": 0.6036,
+            "y_max": 0.7695,
+            "width": 0.1208,
+            "height": 0.039
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "Zooplankton, grasshopper",
+          "bbox": {
+            "x_min": 0.6848,
+            "y_min": 0.7309,
+            "x_max": 0.8967,
+            "y_max": 0.7416,
+            "width": 0.2119,
+            "height": 0.0107
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "and cow",
+          "bbox": {
+            "x_min": 0.7595,
+            "y_min": 0.7451,
+            "x_max": 0.8272,
+            "y_max": 0.7536,
+            "width": 0.0677,
+            "height": 0.0086
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "Producer",
+          "bbox": {
+            "x_min": 0.2668,
+            "y_min": 0.8243,
+            "x_max": 0.3438,
+            "y_max": 0.832,
+            "width": 0.0771,
+            "height": 0.0077
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "First Trophic level\n(Plants)",
+          "bbox": {
+            "x_min": 0.4705,
+            "y_min": 0.8158,
+            "x_max": 0.6153,
+            "y_max": 0.841,
+            "width": 0.1448,
+            "height": 0.0253
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "Phytoplankton, grass, trees",
+          "bbox": {
+            "x_min": 0.6807,
+            "y_min": 0.8166,
+            "x_max": 0.9008,
+            "y_max": 0.8273,
+            "width": 0.2201,
+            "height": 0.0107
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "Figure 12.2 Diagrammatic representation of trophic levels in an ecosystem",
+          "bbox": {
+            "x_min": 0.2405,
+            "y_min": 0.8877,
+            "x_max": 0.8745,
+            "y_max": 0.9002,
+            "width": 0.634,
+            "height": 0.0124
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9739,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.009
+          },
+          "confidence": 0.9829
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "ECOSYSTEM",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.0784,
+            "x_max": 0.1547,
+            "y_max": 0.087,
+            "width": 0.0823,
+            "height": 0.0086
+          },
+          "confidence": 0.9792
+        },
+        {
+          "text": "The important point to note is that the amount of energy decreases at\nsuccessive trophic levels. When any organism dies it is converted to\ndetritus or dead biomass that serves as an energy source for decomposers.\nOrganisms at each trophic level depend on those at the lower trophic level\nfor their energy demands.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.1127,
+            "x_max": 0.6976,
+            "y_max": 0.1975,
+            "width": 0.6246,
+            "height": 0.0848
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "Each trophic level has a certain mass of living material at a particular\ntime called as the standing crop. The standing crop is measured as the\nmass of living organisms (biomass) or the number in a unit area. The\nbiomass of a species is expressed in terms of fresh or dry weight.\nMeasurement of biomass in terms of dry weight is more accurate. Why?",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.2022,
+            "x_max": 0.6982,
+            "y_max": 0.2862,
+            "width": 0.6264,
+            "height": 0.084
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "The number of trophic levels in the grazing food chain is restricted as\nthe transfer of energy follows 10 per cent law – only 10 per cent of the\nenergy is transferred to each trophic level from the lower trophic level. In\nnature, it is possible to have so many levels – producer, herbivore, primary\ncarnivore, secondary carnivore in the grazing food chain (Figure 12.3) .\nDo you think there is any such limitation in a detritus food chain?",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.2913,
+            "x_max": 0.6982,
+            "y_max": 0.3933,
+            "width": 0.6252,
+            "height": 0.102
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "Sun",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.5107,
+            "x_max": 0.1483,
+            "y_max": 0.5193,
+            "width": 0.0333,
+            "height": 0.0086
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "Heat",
+          "bbox": {
+            "x_min": 0.2195,
+            "y_min": 0.4584,
+            "x_max": 0.2574,
+            "y_max": 0.467,
+            "width": 0.0379,
+            "height": 0.0086
+          },
+          "confidence": 0.9841
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6778,
+            "y_min": 0.3076,
+            "x_max": 0.8792,
+            "y_max": 0.4546,
+            "width": 0.2014,
+            "height": 0.147
+          },
+          "confidence": 0.8332
+        },
+        {
+          "text": "First trophic\nlevel producers\n(plants)",
+          "bbox": {
+            "x_min": 0.2709,
+            "y_min": 0.458,
+            "x_max": 0.3923,
+            "y_max": 0.497,
+            "width": 0.1214,
+            "height": 0.039
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "Second trophic level\nprimary consumers\n(Herbivores)",
+          "bbox": {
+            "x_min": 0.4232,
+            "y_min": 0.4537,
+            "x_max": 0.5849,
+            "y_max": 0.4923,
+            "width": 0.1617,
+            "height": 0.0386
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "Heat",
+          "bbox": {
+            "x_min": 0.4028,
+            "y_min": 0.5,
+            "x_max": 0.4425,
+            "y_max": 0.509,
+            "width": 0.0397,
+            "height": 0.009
+          },
+          "confidence": 0.9773
+        },
+        {
+          "text": "Third trophic",
+          "bbox": {
+            "x_min": 0.617,
+            "y_min": 0.4537,
+            "x_max": 0.7239,
+            "y_max": 0.4653,
+            "width": 0.1068,
+            "height": 0.0116
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "Fourth trophic",
+          "bbox": {
+            "x_min": 0.7548,
+            "y_min": 0.4542,
+            "x_max": 0.8727,
+            "y_max": 0.4653,
+            "width": 0.1179,
+            "height": 0.0111
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "level secondary level tertiary",
+          "bbox": {
+            "x_min": 0.6065,
+            "y_min": 0.4679,
+            "x_max": 0.864,
+            "y_max": 0.479,
+            "width": 0.2574,
+            "height": 0.0111
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "consumers",
+          "bbox": {
+            "x_min": 0.627,
+            "y_min": 0.4846,
+            "x_max": 0.7122,
+            "y_max": 0.4906,
+            "width": 0.0852,
+            "height": 0.006
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "consumers",
+          "bbox": {
+            "x_min": 0.77,
+            "y_min": 0.4846,
+            "x_max": 0.8564,
+            "y_max": 0.491,
+            "width": 0.0864,
+            "height": 0.0064
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "(carnivores) (top carnivores)",
+          "bbox": {
+            "x_min": 0.6223,
+            "y_min": 0.4949,
+            "x_max": 0.8739,
+            "y_max": 0.5069,
+            "width": 0.2516,
+            "height": 0.012
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "not to",
+          "bbox": {
+            "x_min": 0.181,
+            "y_min": 0.6547,
+            "x_max": 0.411,
+            "y_max": 0.8119,
+            "width": 0.23,
+            "height": 0.1572
+          },
+          "confidence": 0.9257
+        },
+        {
+          "text": "Heat",
+          "bbox": {
+            "x_min": 0.4116,
+            "y_min": 0.7249,
+            "x_max": 0.4501,
+            "y_max": 0.7331,
+            "width": 0.0385,
+            "height": 0.0081
+          },
+          "confidence": 0.9819
+        },
+        {
+          "text": "Heat",
+          "bbox": {
+            "x_min": 0.5663,
+            "y_min": 0.5073,
+            "x_max": 0.6054,
+            "y_max": 0.5171,
+            "width": 0.0391,
+            "height": 0.0099
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "(Heat",
+          "bbox": {
+            "x_min": 0.7169,
+            "y_min": 0.5201,
+            "x_max": 0.7572,
+            "y_max": 0.5296,
+            "width": 0.0403,
+            "height": 0.0094
+          },
+          "confidence": 0.8615
+        },
+        {
+          "text": "Heat",
+          "bbox": {
+            "x_min": 0.4729,
+            "y_min": 0.644,
+            "x_max": 0.5126,
+            "y_max": 0.653,
+            "width": 0.0397,
+            "height": 0.009
+          },
+          "confidence": 0.9856
+        },
+        {
+          "text": "Heat",
+          "bbox": {
+            "x_min": 0.7075,
+            "y_min": 0.6457,
+            "x_max": 0.7461,
+            "y_max": 0.6538,
+            "width": 0.0385,
+            "height": 0.0081
+          },
+          "confidence": 0.9773
+        },
+        {
+          "text": "Heat",
+          "bbox": {
+            "x_min": 0.791,
+            "y_min": 0.7232,
+            "x_max": 0.8301,
+            "y_max": 0.7318,
+            "width": 0.0391,
+            "height": 0.0086
+          },
+          "confidence": 0.9826
+        },
+        {
+          "text": "Figure 12.3 Energy flow through different trophic levels",
+          "bbox": {
+            "x_min": 0.2493,
+            "y_min": 0.7798,
+            "x_max": 0.7198,
+            "y_max": 0.7922,
+            "width": 0.4705,
+            "height": 0.0124
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "211",
+          "bbox": {
+            "x_min": 0.8488,
+            "y_min": 0.7909,
+            "x_max": 0.8938,
+            "y_max": 0.8051,
+            "width": 0.045,
+            "height": 0.0141
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "12.5 ECOLOGICAL PYRAMIDS",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.8201,
+            "x_max": 0.3695,
+            "y_max": 0.8346,
+            "width": 0.2954,
+            "height": 0.0146
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "You must be familiar with the shape of a pyramid. The base of a pyramid\nis broad and it narrows towards the apex. One gets a similar shape,\nwhether you express the food or energy relationship between organisms",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.8569,
+            "x_max": 0.697,
+            "y_max": 0.9057,
+            "width": 0.6252,
+            "height": 0.0488
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "Trophic level",
+          "bbox": {
+            "x_min": 0.1897,
+            "y_min": 0.2412,
+            "x_max": 0.3012,
+            "y_max": 0.2536,
+            "width": 0.1115,
+            "height": 0.0124
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.864,
+            "y_min": 0.0797,
+            "x_max": 0.9276,
+            "y_max": 0.0874,
+            "width": 0.0636,
+            "height": 0.0077
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "at different trophic levels. This, relationship is expressed in terms of\nnumber, biomass or energy. The base of each pyramid represents the\nproducers or the first trophic level while the apex represents tertiary or\ntop level consumer. The three types of ecological pyramids that are usually\nstudied are (a) pyramid of number; (b) pyramid of biomass and (c) pyramid\nof energy. For detail (see Figure 12.4 a, b, c and d).",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.1148,
+            "x_max": 0.9282,
+            "y_max": 0.2155,
+            "width": 0.6264,
+            "height": 0.1007
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "Number of individuals",
+          "bbox": {
+            "x_min": 0.6521,
+            "y_min": 0.2416,
+            "x_max": 0.8412,
+            "y_max": 0.2519,
+            "width": 0.1891,
+            "height": 0.0103
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "TC (Tertiary consumer)",
+          "bbox": {
+            "x_min": 0.1891,
+            "y_min": 0.2982,
+            "x_max": 0.3736,
+            "y_max": 0.3093,
+            "width": 0.1845,
+            "height": 0.0111
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "SC (Secondary consumer)",
+          "bbox": {
+            "x_min": 0.1886,
+            "y_min": 0.3518,
+            "x_max": 0.394,
+            "y_max": 0.3638,
+            "width": 0.2055,
+            "height": 0.012
+          },
+          "confidence": 0.9868
+        },
+        {
+          "text": "PC (Primary consumer)",
+          "bbox": {
+            "x_min": 0.1891,
+            "y_min": 0.3822,
+            "x_max": 0.3736,
+            "y_max": 0.3937,
+            "width": 0.1845,
+            "height": 0.0116
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "P (Producer)",
+          "bbox": {
+            "x_min": 0.188,
+            "y_min": 0.413,
+            "x_max": 0.2849,
+            "y_max": 0.4233,
+            "width": 0.0969,
+            "height": 0.0103
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "3",
+          "bbox": {
+            "x_min": 0.7455,
+            "y_min": 0.3008,
+            "x_max": 0.7595,
+            "y_max": 0.3085,
+            "width": 0.014,
+            "height": 0.0077
+          },
+          "confidence": 0.9691
+        },
+        {
+          "text": "pausi",
+          "bbox": {
+            "x_min": 0.6772,
+            "y_min": 0.3051,
+            "x_max": 0.8757,
+            "y_max": 0.4627,
+            "width": 0.1985,
+            "height": 0.1577
+          },
+          "confidence": 0.6471
+        },
+        {
+          "text": "nly three top-carnivores are",
+          "bbox": {
+            "x_min": 0.6766,
+            "y_min": 0.446,
+            "x_max": 0.9171,
+            "y_max": 0.4704,
+            "width": 0.2405,
+            "height": 0.0244
+          },
+          "confidence": 0.9789
+        },
+        {
+          "text": "Figure 12.4 (a) Pyramid of numbers in a grassland ecosystem. Only",
+          "bbox": {
+            "x_min": 0.1103,
+            "y_min": 0.4529,
+            "x_max": 0.7029,
+            "y_max": 0.4653,
+            "width": 0.5925,
+            "height": 0.0124
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "supported in an ecosystem based on production of nearly 6 millions plants",
+          "bbox": {
+            "x_min": 0.2481,
+            "y_min": 0.4674,
+            "x_max": 0.8727,
+            "y_max": 0.4807,
+            "width": 0.6246,
+            "height": 0.0133
+          },
+          "confidence": 0.9969
+        },
+        {
+          "text": "Trophic level",
+          "bbox": {
+            "x_min": 0.2405,
+            "y_min": 0.5039,
+            "x_max": 0.3724,
+            "y_max": 0.5154,
+            "width": 0.1319,
+            "height": 0.0116
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "Dry weight (kg m³)",
+          "bbox": {
+            "x_min": 0.6678,
+            "y_min": 0.5039,
+            "x_max": 0.8564,
+            "y_max": 0.5176,
+            "width": 0.1886,
+            "height": 0.0137
+          },
+          "confidence": 0.9418
+        },
+        {
+          "text": "TC",
+          "bbox": {
+            "x_min": 0.2983,
+            "y_min": 0.5647,
+            "x_max": 0.324,
+            "y_max": 0.5733,
+            "width": 0.0257,
+            "height": 0.0086
+          },
+          "confidence": 0.9296
+        },
+        {
+          "text": "not to be repu",
+          "bbox": {
+            "x_min": 0.1868,
+            "y_min": 0.4687,
+            "x_max": 0.6632,
+            "y_max": 0.8179,
+            "width": 0.4764,
+            "height": 0.3492
+          },
+          "confidence": 0.8948
+        },
+        {
+          "text": "1.5",
+          "bbox": {
+            "x_min": 0.7536,
+            "y_min": 0.5634,
+            "x_max": 0.7823,
+            "y_max": 0.5733,
+            "width": 0.0286,
+            "height": 0.0099
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "11",
+          "bbox": {
+            "x_min": 0.7572,
+            "y_min": 0.6118,
+            "x_max": 0.7799,
+            "y_max": 0.6195,
+            "width": 0.0228,
+            "height": 0.0077
+          },
+          "confidence": 0.983
+        },
+        {
+          "text": "37",
+          "bbox": {
+            "x_min": 0.7542,
+            "y_min": 0.6495,
+            "x_max": 0.7799,
+            "y_max": 0.6568,
+            "width": 0.0257,
+            "height": 0.0073
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "809",
+          "bbox": {
+            "x_min": 0.7484,
+            "y_min": 0.6799,
+            "x_max": 0.7852,
+            "y_max": 0.6877,
+            "width": 0.0368,
+            "height": 0.0077
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "Figure 12.4 (b) Pyramid of biomass shows a sharp decrease in biomass at higher trophic levels",
+          "bbox": {
+            "x_min": 0.1133,
+            "y_min": 0.7211,
+            "x_max": 0.9142,
+            "y_max": 0.7339,
+            "width": 0.8009,
+            "height": 0.0129
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "212",
+          "bbox": {
+            "x_min": 0.0952,
+            "y_min": 0.7918,
+            "x_max": 0.1465,
+            "y_max": 0.8046,
+            "width": 0.0514,
+            "height": 0.0129
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "PC",
+          "bbox": {
+            "x_min": 0.3981,
+            "y_min": 0.7883,
+            "x_max": 0.4203,
+            "y_max": 0.7956,
+            "width": 0.0222,
+            "height": 0.0073
+          },
+          "confidence": 0.9429
+        },
+        {
+          "text": "P",
+          "bbox": {
+            "x_min": 0.4653,
+            "y_min": 0.8188,
+            "x_max": 0.4816,
+            "y_max": 0.8269,
+            "width": 0.0163,
+            "height": 0.0081
+          },
+          "confidence": 0.9549
+        },
+        {
+          "text": "4",
+          "bbox": {
+            "x_min": 0.6176,
+            "y_min": 0.8183,
+            "x_max": 0.634,
+            "y_max": 0.8265,
+            "width": 0.0163,
+            "height": 0.0081
+          },
+          "confidence": 0.9691
+        },
+        {
+          "text": "21",
+          "bbox": {
+            "x_min": 0.6772,
+            "y_min": 0.7883,
+            "x_max": 0.6999,
+            "y_max": 0.7956,
+            "width": 0.0228,
+            "height": 0.0073
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "Figure 12.4 (c) Inverted pyramid of biomass-small standing crop of phytoplankton supports large\nstanding crop of zooplankton",
+          "bbox": {
+            "x_min": 0.1121,
+            "y_min": 0.8693,
+            "x_max": 0.913,
+            "y_max": 0.8967,
+            "width": 0.8009,
+            "height": 0.0274
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "ECOSYSTEM",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.0784,
+            "x_max": 0.1547,
+            "y_max": 0.087,
+            "width": 0.0823,
+            "height": 0.0086
+          },
+          "confidence": 0.9792
+        },
+        {
+          "text": "TC",
+          "bbox": {
+            "x_min": 0.2055,
+            "y_min": 0.1487,
+            "x_max": 0.2288,
+            "y_max": 0.1568,
+            "width": 0.0234,
+            "height": 0.0081
+          },
+          "confidence": 0.9364
+        },
+        {
+          "text": "10 J",
+          "bbox": {
+            "x_min": 0.6112,
+            "y_min": 0.1478,
+            "x_max": 0.6468,
+            "y_max": 0.1568,
+            "width": 0.0356,
+            "height": 0.009
+          },
+          "confidence": 0.9729
+        },
+        {
+          "text": "SC",
+          "bbox": {
+            "x_min": 0.209,
+            "y_min": 0.2052,
+            "x_max": 0.2323,
+            "y_max": 0.2129,
+            "width": 0.0234,
+            "height": 0.0077
+          },
+          "confidence": 0.9793
+        },
+        {
+          "text": "PC",
+          "bbox": {
+            "x_min": 0.2067,
+            "y_min": 0.2369,
+            "x_max": 0.2288,
+            "y_max": 0.2446,
+            "width": 0.0222,
+            "height": 0.0077
+          },
+          "confidence": 0.944
+        },
+        {
+          "text": "P",
+          "bbox": {
+            "x_min": 0.2119,
+            "y_min": 0.2691,
+            "x_max": 0.2277,
+            "y_max": 0.2772,
+            "width": 0.0158,
+            "height": 0.0081
+          },
+          "confidence": 0.9552
+        },
+        {
+          "text": "100 J",
+          "bbox": {
+            "x_min": 0.606,
+            "y_min": 0.2039,
+            "x_max": 0.6509,
+            "y_max": 0.2129,
+            "width": 0.045,
+            "height": 0.009
+          },
+          "confidence": 0.9736
+        },
+        {
+          "text": "1000 J",
+          "bbox": {
+            "x_min": 0.6013,
+            "y_min": 0.2365,
+            "x_max": 0.6567,
+            "y_max": 0.2451,
+            "width": 0.0555,
+            "height": 0.0086
+          },
+          "confidence": 0.9728
+        },
+        {
+          "text": "10,000 J",
+          "bbox": {
+            "x_min": 0.5937,
+            "y_min": 0.2678,
+            "x_max": 0.6637,
+            "y_max": 0.2781,
+            "width": 0.0701,
+            "height": 0.0103
+          },
+          "confidence": 0.9796
+        },
+        {
+          "text": "1,000,000 J of Sunlight",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.2986,
+            "x_max": 0.5079,
+            "y_max": 0.3111,
+            "width": 0.2055,
+            "height": 0.0124
+          },
+          "confidence": 0.973
+        },
+        {
+          "text": "Figure 12.4 (d) An ideal pyramid of energy. Observe that primary producers convert only 1% of\nthe energy in the sunlight available to them into NPP",
+          "bbox": {
+            "x_min": 0.0829,
+            "y_min": 0.3368,
+            "x_max": 0.8821,
+            "y_max": 0.3642,
+            "width": 0.7992,
+            "height": 0.0274
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "ished",
+          "bbox": {
+            "x_min": 0.6649,
+            "y_min": 0.3021,
+            "x_max": 0.8803,
+            "y_max": 0.4589,
+            "width": 0.2154,
+            "height": 0.1568
+          },
+          "confidence": 0.8541
+        },
+        {
+          "text": "Any calculations of energy content, biomass or numbers, has to include\nall organisms at that trophic level. No generalisations we make will be\ntrue if we take only a few individuals at any trophic level into account.\nAlso a given organism may occupy more than one trophic level\nsimultaneously. One must remember that the trophic level represents a\nfunctional level, not a species as such. A given species may occupy more\nthan one trophic level in the same ecosystem at the same time; for example,\na sparrow is a primary consumer when it eats seeds, fruits, peas, and a\nsecondary consumer when it eats insects and worms. Can you work out\nhow many trophic levels human beings function at in a food chain?",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.4092,
+            "x_max": 0.6982,
+            "y_max": 0.5835,
+            "width": 0.627,
+            "height": 0.1744
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "In most ecosystems, all the pyramids, of number, of energy and\nbiomass are upright, i.e., producers are more in number and biomass\nthan the herbivores, and herbivores are more in number and biomass\nthan the carnivores. Also energy at a lower trophic level is always more\nthan at a higher level.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.5878,
+            "x_max": 0.697,
+            "y_max": 0.6718,
+            "width": 0.6241,
+            "height": 0.084
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "There are exceptions to this generalisation: If you were to count the\nnumber of insects feeding on a big tree what kind of pyramid would you\nget? Now add an estimate of the number of small birds depending on the\ninsects, as also the number of larger birds eating the smaller. Draw the\nshape you would get.",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.6774,
+            "x_max": 0.6976,
+            "y_max": 0.7622,
+            "width": 0.6241,
+            "height": 0.0848
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "The pyramid of biomass in sea is generally inverted because the\nbiomass of fishes far exceeds that of phytoplankton. Isn't that a paradox?\nHow would you explain this?",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.7661,
+            "x_max": 0.6999,
+            "y_max": 0.8158,
+            "width": 0.6276,
+            "height": 0.0497
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "Pyramid of energy is always upright, can never be inverted, because\nwhen energy flows from a particular trophic level to the next trophic level,\nsome energy is always lost as heat at each step. Each bar in the energy\npyramid indicates the amount of energy present at each trophic level in a\ngiven time or annually per unit area.",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.8188,
+            "x_max": 0.697,
+            "y_max": 0.904,
+            "width": 0.6264,
+            "height": 0.0853
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "213",
+          "bbox": {
+            "x_min": 0.8506,
+            "y_min": 0.7913,
+            "x_max": 0.899,
+            "y_max": 0.8051,
+            "width": 0.0485,
+            "height": 0.0137
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "214",
+          "bbox": {
+            "x_min": 0.0952,
+            "y_min": 0.7918,
+            "x_max": 0.1465,
+            "y_max": 0.8051,
+            "width": 0.0514,
+            "height": 0.0133
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.864,
+            "y_min": 0.0797,
+            "x_max": 0.9276,
+            "y_max": 0.0874,
+            "width": 0.0636,
+            "height": 0.0077
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "However, there are certain limitations of ecological pyramids such as\nit does not take into account the same species belonging to two or more\ntrophic levels. It assumes a simple food chain, something that almost\nnever exists in nature; it does not accommodate a food web. Moreover,\nsaprophytes are not given any place in ecological pyramids even though\nthey play a vital role in the ecosystem.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.1131,
+            "x_max": 0.9264,
+            "y_max": 0.2207,
+            "width": 0.6246,
+            "height": 0.1075
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "SUMMARY",
+          "bbox": {
+            "x_min": 0.5528,
+            "y_min": 0.2481,
+            "x_max": 0.6731,
+            "y_max": 0.2601,
+            "width": 0.1203,
+            "height": 0.012
+          },
+          "confidence": 0.9792
+        },
+        {
+          "text": "An ecosystem is a structural and functional unit of nature and it\ncomprises abiotic and biotic components. Abiotic components are\ninorganic materials- air, water and soil, whereas biotic components\nare producers, consumers and decomposers. Each ecosystem has\ncharacteristic physical structure resulting from interaction amongst\nabiotic and biotic components. Species composition and stratification\nare the two main structural features of an ecosystem. Based on source\nof nutrition every organism occupies a place in an ecosystem.",
+          "bbox": {
+            "x_min": 0.3199,
+            "y_min": 0.2776,
+            "x_max": 0.9037,
+            "y_max": 0.3912,
+            "width": 0.5838,
+            "height": 0.1135
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "Productivity, decomposition, energy flow, and nutrient cycling are\nthe four important components of an ecosystem. Primary productivity\nis the rate of capture of solar energy or biomass production of the\nproducers. It is divided into two types: gross primary productivity (GPP)\nand net primary productivity (NPP). Rate of capture of solar energy or\ntotal production of organic matter is called as GPP. NPP is the remaining\nbiomass or the energy left after utilisation of producers. Secondary\nproductivity is the rate of assimilation of food energy by the consumers.\nIn decomposition, complex organic compounds of detritus are converted\nto carbon dioxide, water and inorganic nutrients by the decomposers.\nDecomposition involves three processes, namely fragmentation of\ndetritus, leaching and catabolism.",
+          "bbox": {
+            "x_min": 0.3211,
+            "y_min": 0.3937,
+            "x_max": 0.9048,
+            "y_max": 0.5651,
+            "width": 0.5838,
+            "height": 0.1714
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "Energy flow is unidirectional. First, plants capture solar energy\nand then, food is transferred from the producers to decomposers.\nOrganisms of different trophic levels in nature are connected to each\nother for food or energy relationship forming a food chain. The storage\nand movement of nutrient elements through the various components\nof the ecosystem is called nutrient cycling; nutrients are repeatedly\nused through this process. Nutrient cycling is of two types-gaseous\nand sedimentary. Atmosphere or hydrosphere is the reservoir for the\ngaseous type of cycle (carbon), whereas Earth's crust is the reservoir\nfor sedimentary type (phosphorus). Products of ecosystem processes\nare named as ecosystem services, e.g., purification of air and water by\nforests.",
+          "bbox": {
+            "x_min": 0.3205,
+            "y_min": 0.5686,
+            "x_max": 0.9048,
+            "y_max": 0.7365,
+            "width": 0.5844,
+            "height": 0.168
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1868,
+            "y_min": 0.7039,
+            "x_max": 0.3327,
+            "y_max": 0.8149,
+            "width": 0.1459,
+            "height": 0.111
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "EXERCISES",
+          "bbox": {
+            "x_min": 0.4898,
+            "y_min": 0.7691,
+            "x_max": 0.7402,
+            "y_max": 0.7999,
+            "width": 0.2504,
+            "height": 0.0308
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "1. Fill in the blanks.",
+          "bbox": {
+            "x_min": 0.3117,
+            "y_min": 0.8308,
+            "x_max": 0.491,
+            "y_max": 0.8406,
+            "width": 0.1792,
+            "height": 0.0099
+          },
+          "confidence": 0.9832
+        },
+        {
+          "text": "(a) Plants are called as",
+          "bbox": {
+            "x_min": 0.3433,
+            "y_min": 0.8483,
+            "x_max": 0.54,
+            "y_max": 0.8603,
+            "width": 0.1967,
+            "height": 0.012
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "because they fix carbon dioxide.",
+          "bbox": {
+            "x_min": 0.617,
+            "y_min": 0.8492,
+            "x_max": 0.8897,
+            "y_max": 0.8612,
+            "width": 0.2726,
+            "height": 0.012
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "(b) In an ecosystem dominated by trees, the pyramid (of numbers)",
+          "bbox": {
+            "x_min": 0.3438,
+            "y_min": 0.8663,
+            "x_max": 0.9264,
+            "y_max": 0.8792,
+            "width": 0.5826,
+            "height": 0.0129
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "is",
+          "bbox": {
+            "x_min": 0.3736,
+            "y_min": 0.8852,
+            "x_max": 0.3894,
+            "y_max": 0.8933,
+            "width": 0.0158,
+            "height": 0.0081
+          },
+          "confidence": 0.9847
+        },
+        {
+          "text": "_type.",
+          "bbox": {
+            "x_min": 0.4653,
+            "y_min": 0.8856,
+            "x_max": 0.5096,
+            "y_max": 0.8967,
+            "width": 0.0444,
+            "height": 0.0111
+          },
+          "confidence": 0.8728
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "ECOSYSTEM",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.0788,
+            "x_max": 0.1547,
+            "y_max": 0.087,
+            "width": 0.0823,
+            "height": 0.0081
+          },
+          "confidence": 0.9792
+        },
+        {
+          "text": "(c) In aquatic ecosystems, the limiting factor for the productivity",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.1131,
+            "x_max": 0.6982,
+            "y_max": 0.1255,
+            "width": 0.5844,
+            "height": 0.0124
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "is",
+          "bbox": {
+            "x_min": 0.1442,
+            "y_min": 0.1324,
+            "x_max": 0.1605,
+            "y_max": 0.1405,
+            "width": 0.0163,
+            "height": 0.0081
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "(d) Common detritivores in our ecosystem are",
+          "bbox": {
+            "x_min": 0.1133,
+            "y_min": 0.1495,
+            "x_max": 0.505,
+            "y_max": 0.1615,
+            "width": 0.3917,
+            "height": 0.012
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "(e) The major reservoir of carbon on earth is",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.1667,
+            "x_max": 0.4956,
+            "y_max": 0.1787,
+            "width": 0.3818,
+            "height": 0.012
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "2. Which one of the following has the largest population in a food chain?",
+          "bbox": {
+            "x_min": 0.0811,
+            "y_min": 0.1877,
+            "x_max": 0.6976,
+            "y_max": 0.1992,
+            "width": 0.6165,
+            "height": 0.0116
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "(a) Producers",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.2048,
+            "x_max": 0.2288,
+            "y_max": 0.2159,
+            "width": 0.115,
+            "height": 0.0111
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "(b) Primary consumers",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.2232,
+            "x_max": 0.3082,
+            "y_max": 0.2348,
+            "width": 0.1944,
+            "height": 0.0116
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "(c) Secondary consumers",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.2408,
+            "x_max": 0.3298,
+            "y_max": 0.2532,
+            "width": 0.216,
+            "height": 0.0124
+          },
+          "confidence": 0.9842
+        },
+        {
+          "text": "(d) Decomposers",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.2588,
+            "x_max": 0.2545,
+            "y_max": 0.2704,
+            "width": 0.1407,
+            "height": 0.0116
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "3. The second trophic level in a lake is",
+          "bbox": {
+            "x_min": 0.0806,
+            "y_min": 0.2789,
+            "x_max": 0.4139,
+            "y_max": 0.2909,
+            "width": 0.3333,
+            "height": 0.012
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "(a) Phytoplankton",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.2965,
+            "x_max": 0.2668,
+            "y_max": 0.3089,
+            "width": 0.1529,
+            "height": 0.0124
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "(b) Zooplankton",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.3149,
+            "x_max": 0.2487,
+            "y_max": 0.3269,
+            "width": 0.1349,
+            "height": 0.012
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "(c) Benthos",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.3325,
+            "x_max": 0.2142,
+            "y_max": 0.3436,
+            "width": 0.1004,
+            "height": 0.0111
+          },
+          "confidence": 0.9838
+        },
+        {
+          "text": "(d) Fishes",
+          "bbox": {
+            "x_min": 0.1133,
+            "y_min": 0.3505,
+            "x_max": 0.1985,
+            "y_max": 0.3612,
+            "width": 0.0852,
+            "height": 0.0107
+          },
+          "confidence": 0.9824
+        },
+        {
+          "text": "4. Secondary producers are",
+          "bbox": {
+            "x_min": 0.08,
+            "y_min": 0.371,
+            "x_max": 0.324,
+            "y_max": 0.3826,
+            "width": 0.244,
+            "height": 0.0116
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "(a) Herbivores",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.3886,
+            "x_max": 0.2347,
+            "y_max": 0.4002,
+            "width": 0.1208,
+            "height": 0.0116
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "(b) Producers",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.4066,
+            "x_max": 0.2283,
+            "y_max": 0.4173,
+            "width": 0.1144,
+            "height": 0.0107
+          },
+          "confidence": 0.9853
+        },
+        {
+          "text": "(c) Carnivores",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.4242,
+            "x_max": 0.2364,
+            "y_max": 0.4353,
+            "width": 0.1226,
+            "height": 0.0111
+          },
+          "confidence": 0.9788
+        },
+        {
+          "text": "(d) None of the above",
+          "bbox": {
+            "x_min": 0.1133,
+            "y_min": 0.4422,
+            "x_max": 0.2925,
+            "y_max": 0.4537,
+            "width": 0.1792,
+            "height": 0.0116
+          },
+          "confidence": 0.9842
+        },
+        {
+          "text": "5. What is the percentage of photosynthetically active radiation (PAR) in",
+          "bbox": {
+            "x_min": 0.0811,
+            "y_min": 0.4619,
+            "x_max": 0.6982,
+            "y_max": 0.4751,
+            "width": 0.617,
+            "height": 0.0133
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "and detritus",
+          "bbox": {
+            "x_min": 0.3082,
+            "y_min": 0.5831,
+            "x_max": 0.4081,
+            "y_max": 0.6058,
+            "width": 0.0998,
+            "height": 0.0227
+          },
+          "confidence": 0.9738
+        },
+        {
+          "text": "NCERT",
+          "bbox": {
+            "x_min": 0.3614,
+            "y_min": 0.3972,
+            "x_max": 0.6194,
+            "y_max": 0.5758,
+            "width": 0.258,
+            "height": 0.1787
+          },
+          "confidence": 0.9836
+        },
+        {
+          "text": "be republished",
+          "bbox": {
+            "x_min": 0.3584,
+            "y_min": 0.3106,
+            "x_max": 0.8873,
+            "y_max": 0.6761,
+            "width": 0.5289,
+            "height": 0.3655
+          },
+          "confidence": 0.9612
+        },
+        {
+          "text": "the incident solar radiation?",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.4803,
+            "x_max": 0.3526,
+            "y_max": 0.4901,
+            "width": 0.2388,
+            "height": 0.0099
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "(a) 100%",
+          "bbox": {
+            "x_min": 0.1127,
+            "y_min": 0.4983,
+            "x_max": 0.1897,
+            "y_max": 0.5099,
+            "width": 0.0771,
+            "height": 0.0116
+          },
+          "confidence": 0.9729
+        },
+        {
+          "text": "(b) 50%",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.5159,
+            "x_max": 0.1851,
+            "y_max": 0.527,
+            "width": 0.0712,
+            "height": 0.0111
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "(c) 1-5%",
+          "bbox": {
+            "x_min": 0.1127,
+            "y_min": 0.5334,
+            "x_max": 0.1862,
+            "y_max": 0.545,
+            "width": 0.0736,
+            "height": 0.0116
+          },
+          "confidence": 0.9729
+        },
+        {
+          "text": "(d) 2-10%",
+          "bbox": {
+            "x_min": 0.1133,
+            "y_min": 0.5518,
+            "x_max": 0.1967,
+            "y_max": 0.5626,
+            "width": 0.0835,
+            "height": 0.0107
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "6. Distinguish between",
+          "bbox": {
+            "x_min": 0.0806,
+            "y_min": 0.5724,
+            "x_max": 0.2843,
+            "y_max": 0.5835,
+            "width": 0.2037,
+            "height": 0.0111
+          },
+          "confidence": 0.9904
+        },
+        {
+          "text": "7.",
+          "bbox": {
+            "x_min": 0.0811,
+            "y_min": 0.6997,
+            "x_max": 0.0946,
+            "y_max": 0.7117,
+            "width": 0.0134,
+            "height": 0.012
+          },
+          "confidence": 0.9706
+        },
+        {
+          "text": "(a) Grazing food chain",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.5904,
+            "x_max": 0.3094,
+            "y_max": 0.6015,
+            "width": 0.1956,
+            "height": 0.0111
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "(b) Production and decomposition",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.608,
+            "x_max": 0.3987,
+            "y_max": 0.6195,
+            "width": 0.2849,
+            "height": 0.0116
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "(c) Upright and inverted pyramid",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.6255,
+            "x_max": 0.3935,
+            "y_max": 0.638,
+            "width": 0.2796,
+            "height": 0.0124
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "(d) Food chain and Food web",
+          "bbox": {
+            "x_min": 0.1133,
+            "y_min": 0.6431,
+            "x_max": 0.3549,
+            "y_max": 0.6547,
+            "width": 0.2417,
+            "height": 0.0116
+          },
+          "confidence": 0.9826
+        },
+        {
+          "text": "(e) Litter and detritus",
+          "bbox": {
+            "x_min": 0.1133,
+            "y_min": 0.6615,
+            "x_max": 0.2995,
+            "y_max": 0.6727,
+            "width": 0.1862,
+            "height": 0.0111
+          },
+          "confidence": 0.9879
+        },
+        {
+          "text": "(f) Primary and secondary productivity",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.6795,
+            "x_max": 0.4454,
+            "y_max": 0.6915,
+            "width": 0.331,
+            "height": 0.012
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "Describe the components of an ecosystem.",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.6997,
+            "x_max": 0.4676,
+            "y_max": 0.7117,
+            "width": 0.3532,
+            "height": 0.012
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "8. Define ecological pyramids and describe with examples, pyramids of\nnumber and biomass.",
+          "bbox": {
+            "x_min": 0.08,
+            "y_min": 0.7202,
+            "x_max": 0.6994,
+            "y_max": 0.7472,
+            "width": 0.6194,
+            "height": 0.027
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "9. What is primary productivity? Give brief description of factors that affect\nprimary productivity.",
+          "bbox": {
+            "x_min": 0.0811,
+            "y_min": 0.7584,
+            "x_max": 0.6964,
+            "y_max": 0.7883,
+            "width": 0.6153,
+            "height": 0.03
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "10. Define decomposition and describe the processes and products of\ndecomposition.",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.7969,
+            "x_max": 0.6999,
+            "y_max": 0.826,
+            "width": 0.6252,
+            "height": 0.0291
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "11. Give an account of energy flow in an ecosystem.",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.835,
+            "x_max": 0.5126,
+            "y_max": 0.847,
+            "width": 0.4384,
+            "height": 0.012
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "215",
+          "bbox": {
+            "x_min": 0.8517,
+            "y_min": 0.7913,
+            "x_max": 0.8978,
+            "y_max": 0.8059,
+            "width": 0.0461,
+            "height": 0.0146
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

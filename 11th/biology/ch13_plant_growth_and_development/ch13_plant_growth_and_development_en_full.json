@@ -1,0 +1,3483 @@
+{
+  "chapter_id": "11th_biology_ch13_plant_growth_and_development_ch13_plant_growth_and_development_en",
+  "total_pages": 15,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "11080CH15",
+          "bbox": {
+            "x_min": 0.8319,
+            "y_min": 0.2125,
+            "x_max": 0.8774,
+            "y_max": 0.2168,
+            "width": 0.0455,
+            "height": 0.0043
+          },
+          "confidence": 0.9886
+        },
+        {
+          "text": "13.1 Growth",
+          "bbox": {
+            "x_min": 0.1045,
+            "y_min": 0.4387,
+            "x_max": 0.2131,
+            "y_max": 0.4482,
+            "width": 0.1086,
+            "height": 0.0094
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "13.2 Differentiation,\nDedifferentiation",
+          "bbox": {
+            "x_min": 0.1057,
+            "y_min": 0.4644,
+            "x_max": 0.2866,
+            "y_max": 0.494,
+            "width": 0.181,
+            "height": 0.0296
+          },
+          "confidence": 0.9856
+        },
+        {
+          "text": "and",
+          "bbox": {
+            "x_min": 0.1489,
+            "y_min": 0.5,
+            "x_max": 0.1845,
+            "y_max": 0.509,
+            "width": 0.0356,
+            "height": 0.009
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "Redifferentiation",
+          "bbox": {
+            "x_min": 0.1506,
+            "y_min": 0.5189,
+            "x_max": 0.2913,
+            "y_max": 0.5287,
+            "width": 0.1407,
+            "height": 0.0099
+          },
+          "confidence": 0.9847
+        },
+        {
+          "text": "13.3 Development",
+          "bbox": {
+            "x_min": 0.1051,
+            "y_min": 0.5437,
+            "x_max": 0.2598,
+            "y_max": 0.5553,
+            "width": 0.1547,
+            "height": 0.0116
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "13.4 Plant Growth\nRegulators",
+          "bbox": {
+            "x_min": 0.1045,
+            "y_min": 0.569,
+            "x_max": 0.2627,
+            "y_max": 0.5985,
+            "width": 0.1582,
+            "height": 0.0296
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "CHAPTER 13",
+          "bbox": {
+            "x_min": 0.3345,
+            "y_min": 0.3093,
+            "x_max": 0.5499,
+            "y_max": 0.3368,
+            "width": 0.2154,
+            "height": 0.0274
+          },
+          "confidence": 0.965
+        },
+        {
+          "text": "PLANT GROWTH AND",
+          "bbox": {
+            "x_min": 0.3403,
+            "y_min": 0.3586,
+            "x_max": 0.6848,
+            "y_max": 0.3865,
+            "width": 0.3444,
+            "height": 0.0278
+          },
+          "confidence": 0.9298
+        },
+        {
+          "text": "SHOWTH",
+          "bbox": {
+            "x_min": 0.4658,
+            "y_min": 0.371,
+            "x_max": 0.6188,
+            "y_max": 0.431,
+            "width": 0.1529,
+            "height": 0.06
+          },
+          "confidence": 0.5193
+        },
+        {
+          "text": "DEVELOPMENT",
+          "bbox": {
+            "x_min": 0.6824,
+            "y_min": 0.3642,
+            "x_max": 0.9218,
+            "y_max": 0.3903,
+            "width": 0.2393,
+            "height": 0.0261
+          },
+          "confidence": 0.8867
+        },
+        {
+          "text": "THE AND",
+          "bbox": {
+            "x_min": 0.5581,
+            "y_min": 0.359,
+            "x_max": 0.6988,
+            "y_max": 0.446,
+            "width": 0.1407,
+            "height": 0.087
+          },
+          "confidence": 0.6969
+        },
+        {
+          "text": "a",
+          "bbox": {
+            "x_min": 0.6918,
+            "y_min": 0.4392,
+            "x_max": 0.7011,
+            "y_max": 0.4486,
+            "width": 0.0093,
+            "height": 0.0094
+          },
+          "confidence": 0.4772
+        },
+        {
+          "text": "You have already studied the organisation of a flowering plant in Chapter\n5. Have you ever thought about where and how the structures like roots,\nstems, leaves, flowers, fruits and seeds arise and that too in an orderly\nsequence? You are, by now, aware of the terms seed, seedling, plantlet,\nmature plant. You have also seen that trees continue to increase in height\nor girth over a period of time. However, the leaves, flowers and fruits of the\nsame tree not only have limited dimensions but also appear and fall\nperiodically and some time repeatedly. Why does vegetative phase precede\nflowering in a plant? All plant organs are made up of a variety of tissues; is\nthere any relationship between the structure of a cell, a tissue, an organ\nand the function they perform? Can the structure and the function of these\nbe altered? All cells of a plant are descendents of the zygote. The question\nis, then, why and how do they have different structural and functional\nattributes? Development is the sum of two processes: growth and\ndifferentiation. To begin with, it is essential and sufficient to know that the\ndevelopment of a mature plant from a zygote (fertilised egg) follow a precise\nand highly ordered succession of events. During this process a complex\nbody organisation is formed that produces roots, leaves, branches, flowers,\nfruits, and seeds, and eventually they die (Figure 13.1). The first step in the\nprocess of plant growth is seed germination. The seed germinates when\nfavourable conditions for growth exist in the environment. In absence of\nsuch favourable conditions the seeds do not germinate and goes into a\nperiod of suspended growth or rest. Once favourable conditions return,\nthe seeds resume metabolic activities and growth takes place.",
+          "bbox": {
+            "x_min": 0.2995,
+            "y_min": 0.4374,
+            "x_max": 0.927,
+            "y_max": 0.8548,
+            "width": 0.6276,
+            "height": 0.4173
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1932,
+            "y_min": 0.7095,
+            "x_max": 0.3252,
+            "y_max": 0.8128,
+            "width": 0.1319,
+            "height": 0.1033
+          },
+          "confidence": 0.9749
+        },
+        {
+          "text": "In this chapter, you shall also study some of the factors which\ngovern and control these developmental processes. These factors are both\nintrinsic (internal) and extrinsic (external) to the plant.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.859,
+            "x_max": 0.9247,
+            "y_max": 0.907,
+            "width": 0.6235,
+            "height": 0.048
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "PLANT GROWTH AND DEVELOPMENT",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.0827,
+            "x_max": 0.3806,
+            "y_max": 0.0925,
+            "width": 0.2656,
+            "height": 0.0099
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "Epicotyl\nhook",
+          "bbox": {
+            "x_min": 0.3345,
+            "y_min": 0.1791,
+            "x_max": 0.4022,
+            "y_max": 0.2009,
+            "width": 0.0677,
+            "height": 0.0219
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "Seed coat-",
+          "bbox": {
+            "x_min": 0.1559,
+            "y_min": 0.2198,
+            "x_max": 0.2353,
+            "y_max": 0.2284,
+            "width": 0.0794,
+            "height": 0.0086
+          },
+          "confidence": 0.9374
+        },
+        {
+          "text": "Epicotyl",
+          "bbox": {
+            "x_min": 0.5458,
+            "y_min": 0.2545,
+            "x_max": 0.6141,
+            "y_max": 0.2665,
+            "width": 0.0683,
+            "height": 0.012
+          },
+          "confidence": 0.9811
+        },
+        {
+          "text": "Cotyledons",
+          "bbox": {
+            "x_min": 0.3555,
+            "y_min": 0.2699,
+            "x_max": 0.4442,
+            "y_max": 0.2806,
+            "width": 0.0887,
+            "height": 0.0107
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "Soil line Cotyledon",
+          "bbox": {
+            "x_min": 0.0946,
+            "y_min": 0.2768,
+            "x_max": 0.2715,
+            "y_max": 0.2883,
+            "width": 0.1769,
+            "height": 0.0116
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "Hypocotyl",
+          "bbox": {
+            "x_min": 0.2283,
+            "y_min": 0.3278,
+            "x_max": 0.3071,
+            "y_max": 0.3389,
+            "width": 0.0788,
+            "height": 0.0111
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "Hypocotyl",
+          "bbox": {
+            "x_min": 0.5703,
+            "y_min": 0.3175,
+            "x_max": 0.6492,
+            "y_max": 0.3286,
+            "width": 0.0788,
+            "height": 0.0111
+          },
+          "confidence": 0.985
+        },
+        {
+          "text": "ed",
+          "bbox": {
+            "x_min": 0.7706,
+            "y_min": 0.3145,
+            "x_max": 0.8716,
+            "y_max": 0.3873,
+            "width": 0.101,
+            "height": 0.0728
+          },
+          "confidence": 0.9682
+        },
+        {
+          "text": "13.1 GROWTH",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.521,
+            "x_max": 0.2271,
+            "y_max": 0.5334,
+            "width": 0.1541,
+            "height": 0.0124
+          },
+          "confidence": 0.9779
+        },
+        {
+          "text": "Figure 13.1 Germination and seedling development in bean",
+          "bbox": {
+            "x_min": 0.2318,
+            "y_min": 0.4811,
+            "x_max": 0.7396,
+            "y_max": 0.4944,
+            "width": 0.5079,
+            "height": 0.0133
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "NCE",
+          "bbox": {
+            "x_min": 0.3619,
+            "y_min": 0.4537,
+            "x_max": 0.533,
+            "y_max": 0.5801,
+            "width": 0.171,
+            "height": 0.1264
+          },
+          "confidence": 0.9467
+        },
+        {
+          "text": "inde",
+          "bbox": {
+            "x_min": 0.5143,
+            "y_min": 0.4559,
+            "x_max": 0.6824,
+            "y_max": 0.587,
+            "width": 0.1681,
+            "height": 0.1311
+          },
+          "confidence": 0.7336
+        },
+        {
+          "text": "Growth is regarded as one of the most fundamental and conspicuous\ncharacteristics of a living being. What is growth? Growth can be defined\nas an irreversible permanent increase in size of an organ or its parts or\neven of an individual cell. Generally, growth is accompanied by metabolic\nprocesses (both anabolic and catabolic), that occur at the expense of\nenergy. Therefore, for example, expansion of a leaf is growth. How would\nyou describe the swelling of piece of wood when placed in water?",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.5566,
+            "x_max": 0.6982,
+            "y_max": 0.6731,
+            "width": 0.6264,
+            "height": 0.1165
+          },
+          "confidence": 0.9968
+        },
+        {
+          "text": "13.1.1 Plant Growth Generally is Indeterminate",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.6911,
+            "x_max": 0.6077,
+            "y_max": 0.7061,
+            "width": 0.533,
+            "height": 0.015
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "Plant growth is unique because plants retain the capacity for unlimited\ngrowth throughout their life. This ability of the plants is due to the presence\nof meristems at certain locations in their body. The cells of such meristems\nhave the capacity to divide and self-perpetuate. The product, however,\nsoon loses the capacity to divide and such cells make up the plant body.\nThis form of growth wherein new cells are always being added to the\nplant body by the activity of the meristem is called the open form of growth.\nWhat would happen if the meristem ceases to divide? Does this ever\nhappen?",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.7177,
+            "x_max": 0.697,
+            "y_max": 0.868,
+            "width": 0.6264,
+            "height": 0.1504
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "In earlier classes, you have studied about the root apical meristem\nand the shoot apical meristem. You know that they are responsible for",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.8736,
+            "x_max": 0.6976,
+            "y_max": 0.904,
+            "width": 0.6241,
+            "height": 0.0304
+          },
+          "confidence": 0.9973
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "167",
+          "bbox": {
+            "x_min": 0.8465,
+            "y_min": 0.0835,
+            "x_max": 0.8844,
+            "y_max": 0.093,
+            "width": 0.0379,
+            "height": 0.0094
+          },
+          "confidence": 0.9924
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "168",
+          "bbox": {
+            "x_min": 0.1185,
+            "y_min": 0.084,
+            "x_max": 0.16,
+            "y_max": 0.093,
+            "width": 0.0414,
+            "height": 0.009
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0683,
+            "height": 0.009
+          },
+          "confidence": 0.9804
+        },
+        {
+          "text": "Shoot",
+          "bbox": {
+            "x_min": 0.1816,
+            "y_min": 0.2305,
+            "x_max": 0.2306,
+            "y_max": 0.2386,
+            "width": 0.049,
+            "height": 0.0081
+          },
+          "confidence": 0.9856
+        },
+        {
+          "text": "Root",
+          "bbox": {
+            "x_min": 0.1886,
+            "y_min": 0.362,
+            "x_max": 0.2283,
+            "y_max": 0.3693,
+            "width": 0.0397,
+            "height": 0.0073
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "Shoot apical\nmeristem",
+          "bbox": {
+            "x_min": 0.324,
+            "y_min": 0.1388,
+            "x_max": 0.425,
+            "y_max": 0.1611,
+            "width": 0.101,
+            "height": 0.0223
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "Vascular\ncambium",
+          "bbox": {
+            "x_min": 0.3176,
+            "y_min": 0.2365,
+            "x_max": 0.3952,
+            "y_max": 0.2592,
+            "width": 0.0776,
+            "height": 0.0227
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "Vascular\ncambium",
+          "bbox": {
+            "x_min": 0.3228,
+            "y_min": 0.3453,
+            "x_max": 0.4011,
+            "y_max": 0.3676,
+            "width": 0.0782,
+            "height": 0.0223
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "-Root apical",
+          "bbox": {
+            "x_min": 0.3152,
+            "y_min": 0.4473,
+            "x_max": 0.4081,
+            "y_max": 0.4584,
+            "width": 0.0928,
+            "height": 0.0111
+          },
+          "confidence": 0.9347
+        },
+        {
+          "text": "meristem",
+          "bbox": {
+            "x_min": 0.3263,
+            "y_min": 0.4623,
+            "x_max": 0.4016,
+            "y_max": 0.4696,
+            "width": 0.0753,
+            "height": 0.0073
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "Figure 13.2 Diagrammatic representation of\nlocations of root apical meristem,\nshoot aplical meristem and\nvascular cambium. Arrows exhibit\nthe direction of growth of cells and\norgan",
+          "bbox": {
+            "x_min": 0.1027,
+            "y_min": 0.482,
+            "x_max": 0.4997,
+            "y_max": 0.5664,
+            "width": 0.397,
+            "height": 0.0844
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "be",
+          "bbox": {
+            "x_min": 0.3736,
+            "y_min": 0.5823,
+            "x_max": 0.5131,
+            "y_max": 0.6731,
+            "width": 0.1395,
+            "height": 0.0908
+          },
+          "confidence": 0.9808
+        },
+        {
+          "text": "GFE D C",
+          "bbox": {
+            "x_min": 0.3964,
+            "y_min": 0.7095,
+            "x_max": 0.4098,
+            "y_max": 0.7815,
+            "width": 0.0134,
+            "height": 0.072
+          },
+          "confidence": 0.8896
+        },
+        {
+          "text": "B",
+          "bbox": {
+            "x_min": 0.3911,
+            "y_min": 0.8025,
+            "x_max": 0.4063,
+            "y_max": 0.8098,
+            "width": 0.0152,
+            "height": 0.0073
+          },
+          "confidence": 0.9583
+        },
+        {
+          "text": "A",
+          "bbox": {
+            "x_min": 0.387,
+            "y_min": 0.826,
+            "x_max": 0.404,
+            "y_max": 0.8338,
+            "width": 0.0169,
+            "height": 0.0077
+          },
+          "confidence": 0.9557
+        },
+        {
+          "text": "Figure 13.3 Detection of zones of elongation by\nthe parallel line technique. Zones\nA, B, C, D immediately behind the\napex have elongated most.",
+          "bbox": {
+            "x_min": 0.108,
+            "y_min": 0.8445,
+            "x_max": 0.4997,
+            "y_max": 0.9036,
+            "width": 0.3917,
+            "height": 0.0591
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "the primary growth of the plants and principally\ncontribute to the elongation of the plants along\ntheir axis. You also know that in dicotyledonous\nplants and gymnosperms, the lateral meristems,\nvascular cambium and cork-cambium appear\nlater in life. These are the meristems that cause\nthe increase in the girth of the organs in which\nthey are active. This is known as secondary\ngrowth of the plant (see Figure 13.2).",
+          "bbox": {
+            "x_min": 0.5201,
+            "y_min": 0.1328,
+            "x_max": 0.9264,
+            "y_max": 0.2888,
+            "width": 0.4063,
+            "height": 0.156
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "13.1.2 Growth is Measurable",
+          "bbox": {
+            "x_min": 0.5213,
+            "y_min": 0.3068,
+            "x_max": 0.8453,
+            "y_max": 0.3192,
+            "width": 0.324,
+            "height": 0.0124
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "Growth, at a cellular level, is principally a\nconsequence of increase in the amount of\nprotoplasm. Since increase in protoplasm is\ndifficult to measure directly, one generally\nmeasures some quantity which is more or less\nproportional to it. Growth is, therefore,\nmeasured by a variety of parameters some of\nwhich are: increase in fresh weight, dry weight,\nlength, area, volume and cell number. You may\nfind it amazing to know that one single maize\nroot apical mersitem can give rise to more than\n17,500 new cells per hour, whereas cells in a\nwatermelon may increase in size by upto\n3,50,000 times. In the former, growth is\nexpressed as increase in cell number; the latter\nexpresses growth as increase in size of the cell.\nWhile the growth of a pollen tube is measured\nin terms of its length, an increase in surface area\ndenotes the growth in a dorsiventral leaf.",
+          "bbox": {
+            "x_min": 0.519,
+            "y_min": 0.3338,
+            "x_max": 0.9282,
+            "y_max": 0.6444,
+            "width": 0.4092,
+            "height": 0.3106
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "13.1.3 Phases of Growth",
+          "bbox": {
+            "x_min": 0.5225,
+            "y_min": 0.6628,
+            "x_max": 0.7974,
+            "y_max": 0.6752,
+            "width": 0.275,
+            "height": 0.0124
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "The period of growth is generally divided into\nthree phases, namely, meristematic, elongation\nand maturation (Figure 13.3). Let us\nunderstand this by looking at the root tips. The\nconstantly dividing cells, both at the root apex\nand the shoot apex, represent the meristematic\nphase of growth. The cells in this region are rich\nin protoplasm, possess large conspicuous\nnuclei. Their cell walls are primary in nature,\nthin and cellulosic with abundant\nplasmodesmatal connections. The cells\nproximal (just next, away from the tip) to the",
+          "bbox": {
+            "x_min": 0.5201,
+            "y_min": 0.6898,
+            "x_max": 0.927,
+            "y_max": 0.892,
+            "width": 0.4069,
+            "height": 0.2022
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "PLANT GROWTH AND DEVELOPMENT",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.0827,
+            "x_max": 0.3812,
+            "y_max": 0.0925,
+            "width": 0.2662,
+            "height": 0.0099
+          },
+          "confidence": 0.9852
+        },
+        {
+          "text": "meristematic zone represent the phase of elongation. Increased\nvacuolation, cell enlargement and new cell wall deposition are the\ncharacteristics of the cells in this phase. Further away from the apex, i.e.,\nmore proximal to the phase of elongation, lies the portion of axis which is\nundergoing the phase of maturation. The cells of this zone, attain their\nmaximal size in terms of wall thickening and protoplasmic modifications.\nMost of the tissues and cell types you have studied in earlier classes\nrepresent this phase.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1354,
+            "x_max": 0.697,
+            "y_max": 0.2682,
+            "width": 0.6252,
+            "height": 0.1328
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "13.1.4 Growth Rates",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.2871,
+            "x_max": 0.3094,
+            "y_max": 0.2995,
+            "width": 0.2364,
+            "height": 0.0124
+          },
+          "confidence": 0.984
+        },
+        {
+          "text": "The increased growth per unit time is termed as growth rate. Thus, rate\nof growth can be expressed mathematically. An organism, or a part of the\norganism can produce more cells in a variety of ways.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.3141,
+            "x_max": 0.6964,
+            "y_max": 0.3633,
+            "width": 0.6241,
+            "height": 0.0493
+          },
+          "confidence": 0.9969
+        },
+        {
+          "text": "(a) Arithmetic",
+          "bbox": {
+            "x_min": 0.1617,
+            "y_min": 0.4079,
+            "x_max": 0.2884,
+            "y_max": 0.4229,
+            "width": 0.1267,
+            "height": 0.015
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "(c)",
+          "bbox": {
+            "x_min": 0.2971,
+            "y_min": 0.5643,
+            "x_max": 0.3158,
+            "y_max": 0.5741,
+            "width": 0.0187,
+            "height": 0.0099
+          },
+          "confidence": 0.927
+        },
+        {
+          "text": "(b) Geometric",
+          "bbox": {
+            "x_min": 0.4402,
+            "y_min": 0.4109,
+            "x_max": 0.5639,
+            "y_max": 0.4254,
+            "width": 0.1238,
+            "height": 0.0146
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "not tobe rublished",
+          "bbox": {
+            "x_min": 0.1833,
+            "y_min": 0.3033,
+            "x_max": 0.8704,
+            "y_max": 0.8243,
+            "width": 0.6871,
+            "height": 0.521
+          },
+          "confidence": 0.8303
+        },
+        {
+          "text": "Geometric phase:\nall cells divide",
+          "bbox": {
+            "x_min": 0.4729,
+            "y_min": 0.6825,
+            "x_max": 0.6328,
+            "y_max": 0.7082,
+            "width": 0.16,
+            "height": 0.0257
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "= Cells capable of division\n= Cells that lose capacity to divide",
+          "bbox": {
+            "x_min": 0.4839,
+            "y_min": 0.7965,
+            "x_max": 0.7928,
+            "y_max": 0.8308,
+            "width": 0.3088,
+            "height": 0.0343
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "Figure13.4 Diagrammatic representation of : (a) Arithmetic (b) Geometric growth and\n(c) Stages during embryo development showing geometric and arithematic\nphases",
+          "bbox": {
+            "x_min": 0.1296,
+            "y_min": 0.865,
+            "x_max": 0.8377,
+            "y_max": 0.9057,
+            "width": 0.7081,
+            "height": 0.0407
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "169",
+          "bbox": {
+            "x_min": 0.8465,
+            "y_min": 0.0831,
+            "x_max": 0.885,
+            "y_max": 0.093,
+            "width": 0.0385,
+            "height": 0.0099
+          },
+          "confidence": 0.9912
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "170",
+          "bbox": {
+            "x_min": 0.1191,
+            "y_min": 0.0844,
+            "x_max": 0.157,
+            "y_max": 0.093,
+            "width": 0.0379,
+            "height": 0.0086
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0683,
+            "height": 0.009
+          },
+          "confidence": 0.9813
+        },
+        {
+          "text": "Height of the plant",
+          "bbox": {
+            "x_min": 0.1115,
+            "y_min": 0.2181,
+            "x_max": 0.1273,
+            "y_max": 0.329,
+            "width": 0.0158,
+            "height": 0.111
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "Time",
+          "bbox": {
+            "x_min": 0.2825,
+            "y_min": 0.4443,
+            "x_max": 0.324,
+            "y_max": 0.4524,
+            "width": 0.0414,
+            "height": 0.0081
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "Figure 13.5 Constant linear growth, a plot\nof length L against time t",
+          "bbox": {
+            "x_min": 0.1045,
+            "y_min": 0.4679,
+            "x_max": 0.4588,
+            "y_max": 0.4949,
+            "width": 0.3543,
+            "height": 0.027
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "Stationary phase",
+          "bbox": {
+            "x_min": 0.3117,
+            "y_min": 0.602,
+            "x_max": 0.4548,
+            "y_max": 0.6148,
+            "width": 0.143,
+            "height": 0.0129
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "The growth rate shows an increase that may be\narithmetic or geometrical (Figure 13.4).",
+          "bbox": {
+            "x_min": 0.4933,
+            "y_min": 0.1371,
+            "x_max": 0.9288,
+            "y_max": 0.1675,
+            "width": 0.4355,
+            "height": 0.0304
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "In arithmetic growth, following mitotic cell\ndivision, only one daughter cell continues to divide\nwhile the other differentiates and matures. The\nsimplest expression of arithmetic growth is\nexemplified by a root elongating at a constant rate.\nLook at Figure 13.5. On plotting the length of the\norgan against time, a linear curve is obtained.\nMathematically, it is expressed as",
+          "bbox": {
+            "x_min": 0.491,
+            "y_min": 0.1718,
+            "x_max": 0.9288,
+            "y_max": 0.3102,
+            "width": 0.4378,
+            "height": 0.1384
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "L₁ = L + rt",
+          "bbox": {
+            "x_min": 0.4921,
+            "y_min": 0.3209,
+            "x_max": 0.5785,
+            "y_max": 0.335,
+            "width": 0.0864,
+            "height": 0.0141
+          },
+          "confidence": 0.8462
+        },
+        {
+          "text": "L₁ = length at time ‘t’",
+          "bbox": {
+            "x_min": 0.4921,
+            "y_min": 0.3428,
+            "x_max": 0.6649,
+            "y_max": 0.3573,
+            "width": 0.1728,
+            "height": 0.0146
+          },
+          "confidence": 0.9076
+        },
+        {
+          "text": "L = length at time ‘zero’",
+          "bbox": {
+            "x_min": 0.4921,
+            "y_min": 0.3659,
+            "x_max": 0.6976,
+            "y_max": 0.3796,
+            "width": 0.2055,
+            "height": 0.0137
+          },
+          "confidence": 0.9576
+        },
+        {
+          "text": "r",
+          "bbox": {
+            "x_min": 0.491,
+            "y_min": 0.3925,
+            "x_max": 0.5015,
+            "y_max": 0.3985,
+            "width": 0.0105,
+            "height": 0.006
+          },
+          "confidence": 0.965
+        },
+        {
+          "text": "=",
+          "bbox": {
+            "x_min": 0.5184,
+            "y_min": 0.392,
+            "x_max": 0.5289,
+            "y_max": 0.3963,
+            "width": 0.0105,
+            "height": 0.0043
+          },
+          "confidence": 0.9487
+        },
+        {
+          "text": "ed",
+          "bbox": {
+            "x_min": 0.7443,
+            "y_min": 0.3029,
+            "x_max": 0.8797,
+            "y_max": 0.3997,
+            "width": 0.1354,
+            "height": 0.0968
+          },
+          "confidence": 0.976
+        },
+        {
+          "text": "growth rate / elongation per unit time.",
+          "bbox": {
+            "x_min": 0.5347,
+            "y_min": 0.3895,
+            "x_max": 0.8704,
+            "y_max": 0.4019,
+            "width": 0.3357,
+            "height": 0.0124
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "Let us now see what happens in geometrical",
+          "bbox": {
+            "x_min": 0.5236,
+            "y_min": 0.4117,
+            "x_max": 0.9288,
+            "y_max": 0.4259,
+            "width": 0.4051,
+            "height": 0.0141
+          },
+          "confidence": 0.9976
+        },
+        {
+          "text": "growth. In most systems, the initial growth is slow\n(lag phase), and it increases rapidly thereafter – at",
+          "bbox": {
+            "x_min": 0.4921,
+            "y_min": 0.4289,
+            "x_max": 0.9294,
+            "y_max": 0.4606,
+            "width": 0.4372,
+            "height": 0.0317
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "an",
+          "bbox": {
+            "x_min": 0.491,
+            "y_min": 0.4687,
+            "x_max": 0.5137,
+            "y_max": 0.4756,
+            "width": 0.0228,
+            "height": 0.0069
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "phase). Here",
+          "bbox": {
+            "x_min": 0.8132,
+            "y_min": 0.4627,
+            "x_max": 0.9229,
+            "y_max": 0.4867,
+            "width": 0.1097,
+            "height": 0.024
+          },
+          "confidence": 0.8523
+        },
+        {
+          "text": "both the progeny cells following mitotic cell division\nretain the ability to divide and continue to do so.\nHowever, with limited nutrient supply, the growth\nslows down leading to a stationary phase. If we plot\nthe parameter of growth against time, we get a typical\nsigmoid or S-curve (Figure 13.6). A sigmoid curve\nis\nis \na characteristic of living organism growing in a\nnatural environment. It is typical for all cells, tissues\nand organs of a plant. Can you think of more similar\nexamples? What kind of a curve can you expect in\na tree showing seasonal activities?",
+          "bbox": {
+            "x_min": 0.4822,
+            "y_min": 0.479,
+            "x_max": 0.9323,
+            "y_max": 0.6769,
+            "width": 0.4501,
+            "height": 0.1979
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "Exponential phase",
+          "bbox": {
+            "x_min": 0.2148,
+            "y_min": 0.6504,
+            "x_max": 0.3117,
+            "y_max": 0.7571,
+            "width": 0.0969,
+            "height": 0.1067
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "not to b",
+          "bbox": {
+            "x_min": 0.1868,
+            "y_min": 0.6054,
+            "x_max": 0.4746,
+            "y_max": 0.8213,
+            "width": 0.2878,
+            "height": 0.2159
+          },
+          "confidence": 0.8411
+        },
+        {
+          "text": "NCE",
+          "bbox": {
+            "x_min": 0.3596,
+            "y_min": 0.4473,
+            "x_max": 0.5371,
+            "y_max": 0.5784,
+            "width": 0.1775,
+            "height": 0.1311
+          },
+          "confidence": 0.7754
+        },
+        {
+          "text": "Size/weight of the organ",
+          "bbox": {
+            "x_min": 0.1226,
+            "y_min": 0.6341,
+            "x_max": 0.1407,
+            "y_max": 0.7849,
+            "width": 0.0181,
+            "height": 0.1508
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "The exponential growth can be expressed as\nW₁ = Woert",
+          "bbox": {
+            "x_min": 0.4904,
+            "y_min": 0.6799,
+            "x_max": 0.8762,
+            "y_max": 0.7172,
+            "width": 0.3859,
+            "height": 0.0373
+          },
+          "confidence": 0.9689
+        },
+        {
+          "text": "1",
+          "bbox": {
+            "x_min": 0.5085,
+            "y_min": 0.7095,
+            "x_max": 0.5178,
+            "y_max": 0.7164,
+            "width": 0.0093,
+            "height": 0.0069
+          },
+          "confidence": 0.9618
+        },
+        {
+          "text": "W₁ = final size (weight, height, number etc.)",
+          "bbox": {
+            "x_min": 0.491,
+            "y_min": 0.7258,
+            "x_max": 0.864,
+            "y_max": 0.7399,
+            "width": 0.373,
+            "height": 0.0141
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "W = initial size at the beginning of the period",
+          "bbox": {
+            "x_min": 0.4915,
+            "y_min": 0.7485,
+            "x_max": 0.8844,
+            "y_max": 0.7614,
+            "width": 0.3929,
+            "height": 0.0129
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "r",
+          "bbox": {
+            "x_min": 0.4892,
+            "y_min": 0.7751,
+            "x_max": 0.5015,
+            "y_max": 0.7811,
+            "width": 0.0123,
+            "height": 0.006
+          },
+          "confidence": 0.9712
+        },
+        {
+          "text": "= growth rate",
+          "bbox": {
+            "x_min": 0.5254,
+            "y_min": 0.7725,
+            "x_max": 0.6416,
+            "y_max": 0.7841,
+            "width": 0.1162,
+            "height": 0.0116
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "t",
+          "bbox": {
+            "x_min": 0.4898,
+            "y_min": 0.7948,
+            "x_max": 0.5015,
+            "y_max": 0.8038,
+            "width": 0.0117,
+            "height": 0.009
+          },
+          "confidence": 0.9736
+        },
+        {
+          "text": "= time of growth",
+          "bbox": {
+            "x_min": 0.5242,
+            "y_min": 0.7939,
+            "x_max": 0.6643,
+            "y_max": 0.8072,
+            "width": 0.1401,
+            "height": 0.0133
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "e",
+          "bbox": {
+            "x_min": 0.4904,
+            "y_min": 0.8205,
+            "x_max": 0.502,
+            "y_max": 0.8265,
+            "width": 0.0117,
+            "height": 0.006
+          },
+          "confidence": 0.9533
+        },
+        {
+          "text": "= base of natural logarithms",
+          "bbox": {
+            "x_min": 0.5213,
+            "y_min": 0.8175,
+            "x_max": 0.7665,
+            "y_max": 0.8299,
+            "width": 0.2452,
+            "height": 0.0124
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "Time",
+          "bbox": {
+            "x_min": 0.2598,
+            "y_min": 0.8239,
+            "x_max": 0.303,
+            "y_max": 0.8325,
+            "width": 0.0432,
+            "height": 0.0086
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "Figure 13.6 An idealised sigmoid growth\ncurve typical of cells in culture,\nand many higher plants and\nplant organs",
+          "bbox": {
+            "x_min": 0.1115,
+            "y_min": 0.8453,
+            "x_max": 0.4758,
+            "y_max": 0.901,
+            "width": 0.3643,
+            "height": 0.0557
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "Here, r is the relative growth rate and is also the\nmeasure of the ability of the plant to produce new\nplant material, referred to as efficiency index. Hence,\nthe final size of W₁ depends on the initial size, W.",
+          "bbox": {
+            "x_min": 0.4915,
+            "y_min": 0.8398,
+            "x_max": 0.9294,
+            "y_max": 0.9075,
+            "width": 0.4378,
+            "height": 0.0677
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "PLANT GROWTH AND DEVELOPMENT",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.0827,
+            "x_max": 0.3806,
+            "y_max": 0.0925,
+            "width": 0.2656,
+            "height": 0.0099
+          },
+          "confidence": 0.9857
+        },
+        {
+          "text": "1",
+          "bbox": {
+            "x_min": 0.3275,
+            "y_min": 0.1967,
+            "x_max": 0.3339,
+            "y_max": 0.2014,
+            "width": 0.0064,
+            "height": 0.0047
+          },
+          "confidence": 0.9676
+        },
+        {
+          "text": "A",
+          "bbox": {
+            "x_min": 0.3117,
+            "y_min": 0.1992,
+            "x_max": 0.3374,
+            "y_max": 0.2091,
+            "width": 0.0257,
+            "height": 0.0099
+          },
+          "confidence": 0.943
+        },
+        {
+          "text": "10 cm",
+          "bbox": {
+            "x_min": 0.3409,
+            "y_min": 0.2224,
+            "x_max": 0.3917,
+            "y_max": 0.2309,
+            "width": 0.0508,
+            "height": 0.0086
+          },
+          "confidence": 0.9783
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.3894,
+            "y_min": 0.2185,
+            "x_max": 0.3981,
+            "y_max": 0.2232,
+            "width": 0.0088,
+            "height": 0.0047
+          },
+          "confidence": 0.9742
+        },
+        {
+          "text": "5 cm",
+          "bbox": {
+            "x_min": 0.31,
+            "y_min": 0.3136,
+            "x_max": 0.3491,
+            "y_max": 0.3226,
+            "width": 0.0391,
+            "height": 0.009
+          },
+          "confidence": 0.9566
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.3479,
+            "y_min": 0.3098,
+            "x_max": 0.3579,
+            "y_max": 0.3145,
+            "width": 0.0099,
+            "height": 0.0047
+          },
+          "confidence": 0.9757
+        },
+        {
+          "text": "A",
+          "bbox": {
+            "x_min": 0.3614,
+            "y_min": 0.3642,
+            "x_max": 0.3783,
+            "y_max": 0.3728,
+            "width": 0.0169,
+            "height": 0.0086
+          },
+          "confidence": 0.9584
+        },
+        {
+          "text": "B",
+          "bbox": {
+            "x_min": 0.662,
+            "y_min": 0.1645,
+            "x_max": 0.6766,
+            "y_max": 0.1727,
+            "width": 0.0146,
+            "height": 0.0081
+          },
+          "confidence": 0.7913
+        },
+        {
+          "text": "50 cm",
+          "bbox": {
+            "x_min": 0.6223,
+            "y_min": 0.2969,
+            "x_max": 0.6719,
+            "y_max": 0.3068,
+            "width": 0.0496,
+            "height": 0.0099
+          },
+          "confidence": 0.9757
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.6696,
+            "y_min": 0.2935,
+            "x_max": 0.6824,
+            "y_max": 0.2991,
+            "width": 0.0128,
+            "height": 0.0056
+          },
+          "confidence": 0.9606
+        },
+        {
+          "text": "1",
+          "bbox": {
+            "x_min": 0.6772,
+            "y_min": 0.162,
+            "x_max": 0.6824,
+            "y_max": 0.1662,
+            "width": 0.0053,
+            "height": 0.0043
+          },
+          "confidence": 0.9622
+        },
+        {
+          "text": "55 cm",
+          "bbox": {
+            "x_min": 0.6964,
+            "y_min": 0.2382,
+            "x_max": 0.7472,
+            "y_max": 0.2468,
+            "width": 0.0508,
+            "height": 0.0086
+          },
+          "confidence": 0.9771
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.7455,
+            "y_min": 0.2344,
+            "x_max": 0.7554,
+            "y_max": 0.2395,
+            "width": 0.0099,
+            "height": 0.0051
+          },
+          "confidence": 0.9741
+        },
+        {
+          "text": "B",
+          "bbox": {
+            "x_min": 0.6959,
+            "y_min": 0.3226,
+            "x_max": 0.711,
+            "y_max": 0.3303,
+            "width": 0.0152,
+            "height": 0.0077
+          },
+          "confidence": 0.9572
+        },
+        {
+          "text": "171",
+          "bbox": {
+            "x_min": 0.8476,
+            "y_min": 0.084,
+            "x_max": 0.8838,
+            "y_max": 0.093,
+            "width": 0.0362,
+            "height": 0.009
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "Figure13.7 Diagrammatic comparison of absolute and",
+          "bbox": {
+            "x_min": 0.1459,
+            "y_min": 0.3955,
+            "x_max": 0.6054,
+            "y_max": 0.4075,
+            "width": 0.4594,
+            "height": 0.012
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "ive growth rates",
+          "bbox": {
+            "x_min": 0.6445,
+            "y_min": 0.3809,
+            "x_max": 0.7828,
+            "y_max": 0.4263,
+            "width": 0.1384,
+            "height": 0.0454
+          },
+          "confidence": 0.8149
+        },
+        {
+          "text": "Both\nleaves A and B have increased their area by 5 cm² in a given time to\nproduce A¹, B¹ leaves.",
+          "bbox": {
+            "x_min": 0.2604,
+            "y_min": 0.3955,
+            "x_max": 0.8272,
+            "y_max": 0.4362,
+            "width": 0.5668,
+            "height": 0.0407
+          },
+          "confidence": 0.9786
+        },
+        {
+          "text": "Quantitative comparisons between the growth of living system can\nalso be made in two ways : (i) measurement and the comparison of total\ngrowth per unit time is called the absolute growth rate. (ii) The growth of\nthe given system per unit time expressed on a common basis, e.g., per\nunit initial parameter is called the relative growth rate. In Figure 13.7\ntwo leaves, A and B, are drawn that are of different sizes but shows\nabsolute increase in area in the given time to give leaves, A¹ and B¹. However,\none of them shows much higher relative growth rate. Which one and why?",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.4546,
+            "x_max": 0.6959,
+            "y_max": 0.5968,
+            "width": 0.6252,
+            "height": 0.1422
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "13.1.5 Conditions for Growth",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.6157,
+            "x_max": 0.3987,
+            "y_max": 0.6281,
+            "width": 0.3292,
+            "height": 0.0124
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "e",
+          "bbox": {
+            "x_min": 0.4349,
+            "y_min": 0.5925,
+            "x_max": 0.5055,
+            "y_max": 0.6388,
+            "width": 0.0706,
+            "height": 0.0463
+          },
+          "confidence": 0.9403
+        },
+        {
+          "text": "Why do you not try to write down what you think are necessary conditions\nfor growth? This list may have water, oxygen and nutrients as very essential\nelements for growth. The plant cells grow in size by cell enlargement which\nin turn requires water. Turgidity of cells helps in extension growth. Thus,\nplant growth and further development is intimately linked to the water\nstatus of the plant. Water also provides the medium for enzymatic activities\nneeded for growth. Oxygen helps in releasing metabolic energy essential\nfor growth activities. Nutrients (macro and micro essential elements) are\nrequired by plants for the synthesis of protoplasm and act as source of\nenergy.",
+          "bbox": {
+            "x_min": 0.0671,
+            "y_min": 0.644,
+            "x_max": 0.6959,
+            "y_max": 0.8226,
+            "width": 0.6287,
+            "height": 0.1787
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "In addition, every plant organism has an optimum temperature range\nbest suited for its growth. Any deviation from this range could be\ndetrimental to its survival. Environmental signals such as light and gravity\nalso affect certain phases/stages of growth.",
+          "bbox": {
+            "x_min": 0.0689,
+            "y_min": 0.8286,
+            "x_max": 0.6947,
+            "y_max": 0.8967,
+            "width": 0.6258,
+            "height": 0.0681
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "172",
+          "bbox": {
+            "x_min": 0.1208,
+            "y_min": 0.0835,
+            "x_max": 0.1565,
+            "y_max": 0.093,
+            "width": 0.0356,
+            "height": 0.0094
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8576,
+            "y_min": 0.084,
+            "x_max": 0.9247,
+            "y_max": 0.093,
+            "width": 0.0671,
+            "height": 0.009
+          },
+          "confidence": 0.9781
+        },
+        {
+          "text": "13.2 DIFFERENTIATION, DEDIFFERENTIATION AND",
+          "bbox": {
+            "x_min": 0.3065,
+            "y_min": 0.1307,
+            "x_max": 0.7869,
+            "y_max": 0.144,
+            "width": 0.4804,
+            "height": 0.0133
+          },
+          "confidence": 0.923
+        },
+        {
+          "text": "REDIFFERENTIATION",
+          "bbox": {
+            "x_min": 0.3754,
+            "y_min": 0.1504,
+            "x_max": 0.5622,
+            "y_max": 0.1624,
+            "width": 0.1868,
+            "height": 0.012
+          },
+          "confidence": 0.9676
+        },
+        {
+          "text": "The cells derived from root apical and shoot-apical meristems and\ncambium differentiate and mature to perform specific functions. This act\nleading to maturation is termed as differentiation. During differentiation,\ncells undergo few to major structural changes both in their cell walls and\nprotoplasm. For example, to form a tracheary element, the cells would\nlose their protoplasm. They also develop a very strong, elastic,\nlignocellulosic secondary cell walls, to carry water to long distances even\nunder extreme tension. Try to correlate the various anatomical features\nyou encounter in plants to the functions they perform.",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.1859,
+            "x_max": 0.9288,
+            "y_max": 0.3423,
+            "width": 0.6252,
+            "height": 0.1564
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "Plants show another interesting phenomenon. The living differentiated\ncells, that by now have lost the capacity to divide can regain the capacity\nof division under certain conditions. This phenomenon is termed as\ndedifferentiation. For example, formation of meristems – interfascicular\ncambium and cork cambium from fully differentiated parenchyma cells.\nWhile doing so, such meristems/tissues are able to divide and produce\ncells that once again lose the capacity to divide but mature to perform\nspecific functions, i.e., get redifferentiated. List some of the tissues in a\nwoody dicotyledenous plant that are the products of redifferentiation.\nHow would you describe a tumour? What would you call the parenchyma\ncells that are made to divide under controlled laboratory conditions during\nplant tissue culture?",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.3458,
+            "x_max": 0.9299,
+            "y_max": 0.5553,
+            "width": 0.6276,
+            "height": 0.2095
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "Recall, in Section 13.1.1, we have mentioned that the growth in plants\nis open, i.e., it can be indeterminate or determinate. Now, we may say that\neven differentiation in plants is open, because cells/tissues arising out of\nthe same meristem have different structures at maturity. The final\nstructure at maturity of a cell/tissue is also determined by the location of\nthe cell within. For example, cells positioned away from root apical\nmeristems differentiate as root-cap cells, while those pushed to the\nperiphery mature as epidermis. Can you add a few more examples of\nopen differentiation correlating the position of a cell to its position in an\norgan?",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.5613,
+            "x_max": 0.9305,
+            "y_max": 0.7339,
+            "width": 0.6264,
+            "height": 0.1727
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "13.3 DEVELOPMENT",
+          "bbox": {
+            "x_min": 0.3059,
+            "y_min": 0.7614,
+            "x_max": 0.5219,
+            "y_max": 0.7738,
+            "width": 0.216,
+            "height": 0.0124
+          },
+          "confidence": 0.9733
+        },
+        {
+          "text": "Development is a term that includes all changes that an organism goes\nthrough during its life cycle from germination of the seed to senescence.\nDiagrammatic representation of the sequence of processes which\nconstitute the development of a cell of a higher plant is given in Figure\n13.8. It is also applicable to tissues/organs.",
+          "bbox": {
+            "x_min": 0.3047,
+            "y_min": 0.7973,
+            "x_max": 0.9288,
+            "y_max": 0.8817,
+            "width": 0.6241,
+            "height": 0.0844
+          },
+          "confidence": 0.9968
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1897,
+            "y_min": 0.7104,
+            "x_max": 0.3263,
+            "y_max": 0.8145,
+            "width": 0.1366,
+            "height": 0.1041
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "PLANT GROWTH AND DEVELOPMENT",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.0827,
+            "x_max": 0.3812,
+            "y_max": 0.0925,
+            "width": 0.2662,
+            "height": 0.0099
+          },
+          "confidence": 0.9852
+        },
+        {
+          "text": "Cell Division",
+          "bbox": {
+            "x_min": 0.2598,
+            "y_min": 0.1367,
+            "x_max": 0.366,
+            "y_max": 0.1457,
+            "width": 0.1062,
+            "height": 0.009
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "Death",
+          "bbox": {
+            "x_min": 0.6071,
+            "y_min": 0.1362,
+            "x_max": 0.6614,
+            "y_max": 0.1448,
+            "width": 0.0543,
+            "height": 0.0086
+          },
+          "confidence": 0.9842
+        },
+        {
+          "text": "SENESCENCE",
+          "bbox": {
+            "x_min": 0.7023,
+            "y_min": 0.1804,
+            "x_max": 0.8237,
+            "y_max": 0.1898,
+            "width": 0.1214,
+            "height": 0.0094
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "173",
+          "bbox": {
+            "x_min": 0.8465,
+            "y_min": 0.0844,
+            "x_max": 0.8838,
+            "y_max": 0.093,
+            "width": 0.0374,
+            "height": 0.0086
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "Plasmatic growth",
+          "bbox": {
+            "x_min": 0.3065,
+            "y_min": 0.2395,
+            "x_max": 0.4513,
+            "y_max": 0.2502,
+            "width": 0.1448,
+            "height": 0.0107
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "Differentiation",
+          "bbox": {
+            "x_min": 0.5143,
+            "y_min": 0.2382,
+            "x_max": 0.6375,
+            "y_max": 0.2468,
+            "width": 0.1232,
+            "height": 0.0086
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "MERISTEMATIC\nCELL",
+          "bbox": {
+            "x_min": 0.1232,
+            "y_min": 0.2506,
+            "x_max": 0.2592,
+            "y_max": 0.2746,
+            "width": 0.136,
+            "height": 0.024
+          },
+          "confidence": 0.9829
+        },
+        {
+          "text": "Expansion\n(Elongation)",
+          "bbox": {
+            "x_min": 0.4098,
+            "y_min": 0.2995,
+            "x_max": 0.5108,
+            "y_max": 0.3256,
+            "width": 0.101,
+            "height": 0.0261
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "Maturation",
+          "bbox": {
+            "x_min": 0.5978,
+            "y_min": 0.2982,
+            "x_max": 0.6935,
+            "y_max": 0.3063,
+            "width": 0.0957,
+            "height": 0.0081
+          },
+          "confidence": 0.9864
+        },
+        {
+          "text": "MATURE\nCELL",
+          "bbox": {
+            "x_min": 0.763,
+            "y_min": 0.2811,
+            "x_max": 0.8389,
+            "y_max": 0.3046,
+            "width": 0.0759,
+            "height": 0.0236
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "ished",
+          "bbox": {
+            "x_min": 0.6708,
+            "y_min": 0.3033,
+            "x_max": 0.8786,
+            "y_max": 0.4662,
+            "width": 0.2078,
+            "height": 0.1628
+          },
+          "confidence": 0.9271
+        },
+        {
+          "text": "Figure 13.8 Sequence of the developmental process in a plant cell",
+          "bbox": {
+            "x_min": 0.1991,
+            "y_min": 0.3689,
+            "x_max": 0.7665,
+            "y_max": 0.3826,
+            "width": 0.5674,
+            "height": 0.0137
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "Plants follow different pathways in response to environment or phases\nof life to form different kinds of structures. This ability is called plasticity,\ne.g., heterophylly in cotton, coriander and larkspur. In such plants, the\nleaves of the juvenile plant are different in shape from those in mature\nplants. On the other hand, difference in shapes of leaves produced in air\nand those produced in water in buttercup also represent the\nheterophyllous development due to environment (Figure 13.9). This\nphenomenon of heterophylly is an example of plasticity.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.4023,
+            "x_max": 0.6976,
+            "y_max": 0.536,
+            "width": 0.6252,
+            "height": 0.1337
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "be",
+          "bbox": {
+            "x_min": 0.3812,
+            "y_min": 0.5793,
+            "x_max": 0.509,
+            "y_max": 0.6701,
+            "width": 0.1278,
+            "height": 0.0908
+          },
+          "confidence": 0.9767
+        },
+        {
+          "text": "Juvenile",
+          "bbox": {
+            "x_min": 0.3339,
+            "y_min": 0.6782,
+            "x_max": 0.4005,
+            "y_max": 0.6859,
+            "width": 0.0665,
+            "height": 0.0077
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "Adult",
+          "bbox": {
+            "x_min": 0.5382,
+            "y_min": 0.6765,
+            "x_max": 0.5873,
+            "y_max": 0.6851,
+            "width": 0.049,
+            "height": 0.0086
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "(a)",
+          "bbox": {
+            "x_min": 0.4536,
+            "y_min": 0.6842,
+            "x_max": 0.4746,
+            "y_max": 0.6958,
+            "width": 0.021,
+            "height": 0.0116
+          },
+          "confidence": 0.9757
+        },
+        {
+          "text": "Water habitat",
+          "bbox": {
+            "x_min": 0.6357,
+            "y_min": 0.8402,
+            "x_max": 0.7466,
+            "y_max": 0.8492,
+            "width": 0.1109,
+            "height": 0.009
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "Terrestrial habitat",
+          "bbox": {
+            "x_min": 0.2253,
+            "y_min": 0.8629,
+            "x_max": 0.3724,
+            "y_max": 0.8719,
+            "width": 0.1471,
+            "height": 0.009
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "(b)",
+          "bbox": {
+            "x_min": 0.4577,
+            "y_min": 0.8642,
+            "x_max": 0.4787,
+            "y_max": 0.8745,
+            "width": 0.021,
+            "height": 0.0103
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "Figure 13.9 Heterophylly in (a) larkspur and (b) buttercup",
+          "bbox": {
+            "x_min": 0.2446,
+            "y_min": 0.892,
+            "x_max": 0.7431,
+            "y_max": 0.9045,
+            "width": 0.4985,
+            "height": 0.0124
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "174",
+          "bbox": {
+            "x_min": 0.1203,
+            "y_min": 0.0835,
+            "x_max": 0.1582,
+            "y_max": 0.093,
+            "width": 0.0379,
+            "height": 0.0094
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0683,
+            "height": 0.009
+          },
+          "confidence": 0.9804
+        },
+        {
+          "text": "a",
+          "bbox": {
+            "x_min": 0.1214,
+            "y_min": 0.8239,
+            "x_max": 0.1331,
+            "y_max": 0.8295,
+            "width": 0.0117,
+            "height": 0.0056
+          },
+          "confidence": 0.9666
+        },
+        {
+          "text": "b",
+          "bbox": {
+            "x_min": 0.2393,
+            "y_min": 0.8205,
+            "x_max": 0.2528,
+            "y_max": 0.8286,
+            "width": 0.0134,
+            "height": 0.0081
+          },
+          "confidence": 0.9654
+        },
+        {
+          "text": "C",
+          "bbox": {
+            "x_min": 0.3001,
+            "y_min": 0.8235,
+            "x_max": 0.3094,
+            "y_max": 0.829,
+            "width": 0.0093,
+            "height": 0.0056
+          },
+          "confidence": 0.6891
+        },
+        {
+          "text": "Thus, growth, differentiation and development are very closely related\nevents in the life of a plant. Broadly, development is considered as the\nsum of growth and differentiation. Development in plants (i.e., both growth\nand differentiation) is under the control of intrinsic and extrinsic factors.\nThe former includes both intracellular (genetic) or intercellular factors\n(chemicals such as plant growth regulators) while the latter includes light,\ntemperature, water, oxygen, nutrition, etc.",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.1341,
+            "x_max": 0.9294,
+            "y_max": 0.2498,
+            "width": 0.6252,
+            "height": 0.1157
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "13.4 PLANT GROWTH REGULATORS",
+          "bbox": {
+            "x_min": 0.3059,
+            "y_min": 0.2738,
+            "x_max": 0.6556,
+            "y_max": 0.2853,
+            "width": 0.3497,
+            "height": 0.0116
+          },
+          "confidence": 0.9513
+        },
+        {
+          "text": "13.4.1 Characteristics",
+          "bbox": {
+            "x_min": 0.3065,
+            "y_min": 0.3029,
+            "x_max": 0.554,
+            "y_max": 0.3149,
+            "width": 0.2475,
+            "height": 0.012
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "The plant growth regulators (PGRs) are small, simple molecules of diverse\nchemical composition. They could be indole compounds (indole-3-acetic\nacid, IAA); adenine derivatives (N6-furfurylamino purine, kinetin),\nderivatives of carotenoids (abscisic acid, ABA); terpenes (gibberellic acid,\nGA) or gases (ethylene, C₂H₄). Plant growth regulators are variously\ndescribed as plant growth substances, plant hormones or phytohormones\nin literature.",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.329,
+            "x_max": 0.9294,
+            "y_max": 0.4417,
+            "width": 0.6252,
+            "height": 0.1127
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "The PGRs can be broadly divided into two groups based on their\nfunctions in a living plant body. One group of PGRs are involved in growth\npromoting activities, such as cell division, cell enlargement, pattern\nformation, tropic growth, flowering, fruiting and seed formation. These\nare also called plant growth promoters, e.g., auxins, gibberellins and\ncytokinins. The PGRs of the other group play an important role in plant\nresponses to wounds and stresses of biotic and abiotic origin. They are\nalso involved in various growth inhibiting activities such as dormancy\nand abscission. The PGR abscisic acid belongs to this group. The gaseous\nPGR, ethylene, could fit either of the groups, but it is largely an inhibitor\nof growth activities.",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.449,
+            "x_max": 0.9294,
+            "y_max": 0.632,
+            "width": 0.6252,
+            "height": 0.1829
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "13.4.2 The Discovery of Plant Growth Regulators",
+          "bbox": {
+            "x_min": 0.3065,
+            "y_min": 0.6512,
+            "x_max": 0.8541,
+            "y_max": 0.6658,
+            "width": 0.5476,
+            "height": 0.0146
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "d",
+          "bbox": {
+            "x_min": 0.359,
+            "y_min": 0.8209,
+            "x_max": 0.3736,
+            "y_max": 0.8295,
+            "width": 0.0146,
+            "height": 0.0086
+          },
+          "confidence": 0.9632
+        },
+        {
+          "text": "Figure 13.10 Experiment used to demonstrate\nthat tip of the coleoptile is the\nsource of auxin. Arrows indicate\ndirection of light",
+          "bbox": {
+            "x_min": 0.1033,
+            "y_min": 0.8492,
+            "x_max": 0.4985,
+            "y_max": 0.9045,
+            "width": 0.3952,
+            "height": 0.0553
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "Interestingly, the discovery of each of the five\nmajor groups of PGRs have been accidental.\nAll this started with the observation of Charles\nDarwin and his son Francis Darwin when they\nobserved that the coleoptiles of canary grass\nresponded to unilateral illumination by\ngrowing towards the light source\n(phototropism). After a series of experiments,\nit was concluded that the tip of coleoptile was\nthe site of transmittable influence that caused\nthe bending of the entire coleoptile (Figure\n13.10). Auxin was isolated by F.W. Went from\ntips of coleoptiles of oat seedlings.",
+          "bbox": {
+            "x_min": 0.5336,
+            "y_min": 0.6774,
+            "x_max": 0.9294,
+            "y_max": 0.8976,
+            "width": 0.3958,
+            "height": 0.2202
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "PLANT GROWTH AND DEVELOPMENT",
+          "bbox": {
+            "x_min": 0.1133,
+            "y_min": 0.0823,
+            "x_max": 0.3818,
+            "y_max": 0.0925,
+            "width": 0.2685,
+            "height": 0.0103
+          },
+          "confidence": 0.9804
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6859,
+            "y_min": 0.3085,
+            "x_max": 0.8727,
+            "y_max": 0.4443,
+            "width": 0.1868,
+            "height": 0.1358
+          },
+          "confidence": 0.9477
+        },
+        {
+          "text": "The 'bakanae' (foolish seedling) disease of rice seedlings, was caused\nby a fungal pathogen Gibberella fujikuroi. E. Kurosawa (1926) reported\nthe appearance of symptoms of the disease in rice seedlings when they\nwere treated with sterile filtrates of the fungus. The active substances\nwere later identified as gibberellic acid.",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.135,
+            "x_max": 0.6976,
+            "y_max": 0.2202,
+            "width": 0.627,
+            "height": 0.0853
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "F. Skoog and his co-workers observed that from the internodal\nsegments of tobacco stems, the callus (a mass of undifferentiated cells)\nproliferated only if, in addition to auxins the nutrients medium was\nsupplemented with one of the following: extracts of vascular tissues, yeast\nextract, coconut milk or DNA. Miller et al. (1955), later identified and\ncrystallised the cytokinesis promoting active substance that they\ntermed kinetin.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.2245,
+            "x_max": 0.697,
+            "y_max": 0.3419,
+            "width": 0.6241,
+            "height": 0.1174
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "During mid-1960s, three independent researches reported the\npurification and chemical characterisation of three different kinds of\ninhibitors: inhibitor-B, abscission II and dormin. Later all the three were\nproved to be chemically identical. It was named abscisic acid (ABA).",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.3492,
+            "x_max": 0.6982,
+            "y_max": 0.416,
+            "width": 0.6252,
+            "height": 0.0668
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "H.H. Cousins (1910) confirmed the release of a volatile substance from\nripened oranges that hastened the ripening of stored unripened bananas.\nLater this volatile substance was identified as ethylene, a gaseous PGR.",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.4203,
+            "x_max": 0.697,
+            "y_max": 0.47,
+            "width": 0.6235,
+            "height": 0.0497
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "Let us study some of the physiological effects of these five categories\nof PGRs in the next section.",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.4743,
+            "x_max": 0.6964,
+            "y_max": 0.5026,
+            "width": 0.6229,
+            "height": 0.0283
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "13.4.3 Physiological Effects of Plant Growth Regulators",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.5227,
+            "x_max": 0.6929,
+            "y_max": 0.5403,
+            "width": 0.6182,
+            "height": 0.0176
+          },
+          "confidence": 0.9861
+        },
+        {
+          "text": "13.4.3.1 Auxins",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.5523,
+            "x_max": 0.2236,
+            "y_max": 0.5621,
+            "width": 0.1494,
+            "height": 0.0099
+          },
+          "confidence": 0.9751
+        },
+        {
+          "text": "Auxins (from Greek ‘auxein' : to grow) was first isolated from human\nurine. The term 'auxin' is applied to the indole-3-acetic acid (IAA), and\nto other natural and synthetic compounds having certain growth\nregulating properties. They are generally produced by the growing apices\nof the stems and roots, from where they migrate to the regions of their\naction. Auxins like IAA and indole butyric acid (IBA) have been isolated\nfrom plants. NAA (naphthalene acetic acid) and 2, 4-D (2, 4-\ndichlorophenoxyacetic) are synthetic auxins. All these auxins have been\nused extensively in agricultural and horticultural practices.",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.5767,
+            "x_max": 0.697,
+            "y_max": 0.7335,
+            "width": 0.6258,
+            "height": 0.1568
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "They help to initiate rooting in stem cuttings, an application widely\nused for plant propagation. Auxins promote flowering e.g. in pineapples.\nThey help to prevent fruit and leaf drop at early stages but promote the\nabscission of older mature leaves and fruits.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.7374,
+            "x_max": 0.697,
+            "y_max": 0.8021,
+            "width": 0.6252,
+            "height": 0.0647
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "In most higher plants, the growing apical bud inhibits the growth of\nthe lateral (axillary) buds, a phenomenon called apical dominance.\nRemoval of shoot tips (decapitation) usually results in the growth of lateral\nbuds (Figure 13.11). It is widely applied in tea plantations and\nhedge-making. Can you explain why?",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.8093,
+            "x_max": 0.6994,
+            "y_max": 0.8937,
+            "width": 0.627,
+            "height": 0.0844
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "175",
+          "bbox": {
+            "x_min": 0.8476,
+            "y_min": 0.0823,
+            "x_max": 0.8844,
+            "y_max": 0.093,
+            "width": 0.0368,
+            "height": 0.0107
+          },
+          "confidence": 0.9945
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "176",
+          "bbox": {
+            "x_min": 0.1191,
+            "y_min": 0.0844,
+            "x_max": 0.157,
+            "y_max": 0.093,
+            "width": 0.0379,
+            "height": 0.0086
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0683,
+            "height": 0.009
+          },
+          "confidence": 0.9813
+        },
+        {
+          "text": "(a)7",
+          "bbox": {
+            "x_min": 0.1424,
+            "y_min": 0.341,
+            "x_max": 0.1798,
+            "y_max": 0.3548,
+            "width": 0.0374,
+            "height": 0.0137
+          },
+          "confidence": 0.9277
+        },
+        {
+          "text": "(b)\nFigure 13.11 Apical dominance in plants :\n(a) A plant with apical bud intact\n(b) A plant with apical bud removed\nNote the growth of lateral buds into\nbranches after decapitation.",
+          "bbox": {
+            "x_min": 0.1022,
+            "y_min": 0.344,
+            "x_max": 0.5067,
+            "y_max": 0.4422,
+            "width": 0.4046,
+            "height": 0.0981
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "Auxins also induce parthenocarpy, e.g., in\ntomatoes. They are widely used as herbicides.\n2, 4-D, widely used to kill dicotyledonous\nweeds, does not affect mature\nmonocotyledonous plants. It is used to prepare\nweed-free lawns by gardeners. Auxin also\ncontrols xylem differentiation and helps in cell\ndivision.",
+          "bbox": {
+            "x_min": 0.5295,
+            "y_min": 0.1341,
+            "x_max": 0.927,
+            "y_max": 0.2686,
+            "width": 0.3975,
+            "height": 0.1345
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "13.4.3.2 Gibberellins",
+          "bbox": {
+            "x_min": 0.533,
+            "y_min": 0.2841,
+            "x_max": 0.7332,
+            "y_max": 0.2948,
+            "width": 0.2002,
+            "height": 0.0107
+          },
+          "confidence": 0.9782
+        },
+        {
+          "text": "Gibberellins are another kind of promotory\nPGR. There are more than 100 gibberellins\nreported from widely different organisms such\nas fungi and higher plants. They are denoted\nas GA, GA, GA, and so on. However,\nGibberellic acid (GA) was one of the first\ngibberellins to be discovered and remains the\nmost intensively studied form. All GAs are",
+          "bbox": {
+            "x_min": 0.5324,
+            "y_min": 0.3119,
+            "x_max": 0.927,
+            "y_max": 0.464,
+            "width": 0.3946,
+            "height": 0.1521
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "acidic. They produce a wide range of physiological responses in the plants.\nTheir ability to cause an increase in length of axis is used to increase the\nlength of grapes stalks. Gibberellins, cause fruits like apple to elongate\nand improve its shape. They also delay senescence. Thus, the fruits can\nbe left on the tree longer so as to extend the market period. GA₃ is used to\nspeed up the malting process in brewing industry.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.4709,
+            "x_max": 0.9259,
+            "y_max": 0.5831,
+            "width": 0.6241,
+            "height": 0.1123
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "Sugarcane stores carbohydrate as sugar in their stems. Spraying\nsugarcane crop with gibberellins increases the length of the stem, thus\nincreasing the yield by as much as 20 tonnes per acre.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.59,
+            "x_max": 0.927,
+            "y_max": 0.6427,
+            "width": 0.6246,
+            "height": 0.0527
+          },
+          "confidence": 0.9974
+        },
+        {
+          "text": "Spraying juvenile conifers with GAs hastens the maturity period, thus\nleading to early seed production. Gibberellins also promotes bolting\n(internode elongation just prior to flowering) in beet, cabbages and many\nplants with rosette habit.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.6487,
+            "x_max": 0.927,
+            "y_max": 0.7224,
+            "width": 0.6252,
+            "height": 0.0737
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "13.4.3.3 Cytokinins",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.7365,
+            "x_max": 0.4898,
+            "y_max": 0.7498,
+            "width": 0.1874,
+            "height": 0.0133
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1897,
+            "y_min": 0.7074,
+            "x_max": 0.3252,
+            "y_max": 0.8145,
+            "width": 0.1354,
+            "height": 0.1071
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "Cytokinins have specific effects on cytokinesis, and were discovered as\nkinetin (a modified form of adenine, a purine) from the autoclaved herring\nsperm DNA. Kinetin does not occur naturally in plants. Search for natural\nsubstances with cytokinin-like activities led to the isolation of zeatin from\ncorn-kernels and coconut milk. Since the discovery of zeatin, several\nnaturally occurring cytokinins, and some synthetic compounds with cell\ndivision promoting activity, have been identified. Natural cytokinins are",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.7644,
+            "x_max": 0.9264,
+            "y_max": 0.8972,
+            "width": 0.6252,
+            "height": 0.1328
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "PLANT GROWTH AND DEVELOPMENT",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.0827,
+            "x_max": 0.3812,
+            "y_max": 0.0925,
+            "width": 0.2662,
+            "height": 0.0099
+          },
+          "confidence": 0.9852
+        },
+        {
+          "text": "ished",
+          "bbox": {
+            "x_min": 0.6748,
+            "y_min": 0.3059,
+            "x_max": 0.8722,
+            "y_max": 0.4542,
+            "width": 0.1973,
+            "height": 0.1482
+          },
+          "confidence": 0.9864
+        },
+        {
+          "text": "synthesised in regions where rapid cell division occurs, for example, root\napices, developing shoot buds, young fruits etc. It helps to produce new\nleaves, chloroplasts in leaves, lateral shoot growth and adventitious shoot\nformation. Cytokinins help overcome the apical dominance. They promote\nnutrient mobilisation which helps in the delay of leaf senescence.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.1401,
+            "x_max": 0.697,
+            "y_max": 0.2322,
+            "width": 0.6246,
+            "height": 0.0921
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "13.4.3.4 Ethylene",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.2468,
+            "x_max": 0.2434,
+            "y_max": 0.2605,
+            "width": 0.1699,
+            "height": 0.0137
+          },
+          "confidence": 0.9819
+        },
+        {
+          "text": "Ethylene is a simple gaseous PGR. It is synthesised in large amounts\nby tissues undergoing senescence and ripening fruits. Influences of\nethylene on plants include horizontal growth of seedlings, swelling of\nthe axis and apical hook formation in dicot seedlings. Ethylene promotes\nsenescence and abscission of plant organs especially of leaves and\nflowers. Ethylene is highly effective in fruit ripening. It enhances the\nrespiration rate during ripening of the fruits. This rise in rate of\nrespiration is called respiratory climactic.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.2746,
+            "x_max": 0.6988,
+            "y_max": 0.4267,
+            "width": 0.6258,
+            "height": 0.1521
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "Ethylene breaks seed and bud dormancy, initiates germination in\npeanut seeds, sprouting of potato tubers. Ethylene promotes rapid\ninternode/petiole elongation in deep water rice plants. It helps leaves/\nupper parts of the shoot to remain above water. Ethylene also promotes\nroot growth and root hair formation, thus helping the plants to increase\ntheir absorption surface.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.4336,
+            "x_max": 0.697,
+            "y_max": 0.5454,
+            "width": 0.6241,
+            "height": 0.1118
+          },
+          "confidence": 0.9969
+        },
+        {
+          "text": "Ethylene is used to initiate flowering and for synchronising fruit-set\nin pineapples. It also induces flowering in mango. Since ethylene regulates\nso many physiological processes, it is one of the most widely used PGR in\nagriculture. The most widely used compound as source of ethylene is\nethephon. Ethephon in an aqueous solution is readily absorbed and\ntransported within the plant and releases ethylene slowly. Ethephon\nhastens fruit ripening in tomatoes and apples and accelerates abscission\nin flowers and fruits (thinning of cotton, cherry, walnut). It promotes female\nflowers in cucumbers thereby increasing the yield.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.5527,
+            "x_max": 0.697,
+            "y_max": 0.7249,
+            "width": 0.6241,
+            "height": 0.1722
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "13.4.3.5 Abscisic acid",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.7391,
+            "x_max": 0.2849,
+            "y_max": 0.7494,
+            "width": 0.2119,
+            "height": 0.0103
+          },
+          "confidence": 0.9835
+        },
+        {
+          "text": "As mentioned earlier, abscisic acid (ABA) was discovered for its role in\nregulating abscission and dormancy. But like other PGRs, it also has\nother wide ranging effects on plant growth and development. It acts as a\ngeneral plant growth inhibitor and an inhibitor of plant metabolism.\nABA inhibits seed germination. ABA stimulates the closure of stomata\nand increases the tolerance of plants to various kinds of stresses.\nTherefore, it is also called the stress hormone. ABA plays an important",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.7669,
+            "x_max": 0.697,
+            "y_max": 0.8989,
+            "width": 0.6252,
+            "height": 0.132
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "177",
+          "bbox": {
+            "x_min": 0.8482,
+            "y_min": 0.084,
+            "x_max": 0.8844,
+            "y_max": 0.0925,
+            "width": 0.0362,
+            "height": 0.0086
+          },
+          "confidence": 0.9923
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "178",
+          "bbox": {
+            "x_min": 0.1191,
+            "y_min": 0.084,
+            "x_max": 0.1582,
+            "y_max": 0.093,
+            "width": 0.0391,
+            "height": 0.009
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0689,
+            "height": 0.0094
+          },
+          "confidence": 0.9796
+        },
+        {
+          "text": "role in seed development, maturation and dormancy. By inducing\ndormancy, ABA helps seeds to withstand desiccation and other factors\nunfavourable for growth. In most situations, ABA acts as an antagonist\nto GAs.",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.1341,
+            "x_max": 0.9294,
+            "y_max": 0.2039,
+            "width": 0.6252,
+            "height": 0.0698
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "We may summarise that for any and every phase of growth,\ndifferentiation and development of plants, one or the other PGR has some\nrole to play. Such roles could be complimentary or antagonistic. These\ncould be individualistic or synergistic.",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.2121,
+            "x_max": 0.9288,
+            "y_max": 0.2789,
+            "width": 0.6246,
+            "height": 0.0668
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "Similarly, there are a number of events in the life of a plant where\nmore than one PGR interact to affect that event, e.g., dormancy in seeds/\nbuds, abscission, senescence, apical dominance, etc.",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.2836,
+            "x_max": 0.9288,
+            "y_max": 0.332,
+            "width": 0.6246,
+            "height": 0.0484
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "Remember, the role of PGR is of only one kind of intrinsic control.\nAlong with genomic control and extrinsic factors, they play an important\nrole in plant growth and development. Many of the extrinsic factors such\nas temperature and light, control plant growth and development via PGR.\nSome of such events could be: vernalisation, flowering, dormancy, seed\ngermination, plant movements, etc.",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.3372,
+            "x_max": 0.9288,
+            "y_max": 0.4392,
+            "width": 0.6252,
+            "height": 0.102
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "We shall discuss briefly the role of light and temperature (both of them,",
+          "bbox": {
+            "x_min": 0.3333,
+            "y_min": 0.4434,
+            "x_max": 0.9276,
+            "y_max": 0.4567,
+            "width": 0.5943,
+            "height": 0.0133
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "the extrinsic factors) on initiation of flowering.",
+          "bbox": {
+            "x_min": 0.3047,
+            "y_min": 0.4619,
+            "x_max": 0.6994,
+            "y_max": 0.4751,
+            "width": 0.3946,
+            "height": 0.0133
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "initiati",
+          "bbox": {
+            "x_min": 0.512,
+            "y_min": 0.4529,
+            "x_max": 0.5709,
+            "y_max": 0.4751,
+            "width": 0.059,
+            "height": 0.0223
+          },
+          "confidence": 0.6961
+        },
+        {
+          "text": "NCE",
+          "bbox": {
+            "x_min": 0.3602,
+            "y_min": 0.4554,
+            "x_max": 0.5406,
+            "y_max": 0.5814,
+            "width": 0.1804,
+            "height": 0.126
+          },
+          "confidence": 0.8316
+        },
+        {
+          "text": "flowering.",
+          "bbox": {
+            "x_min": 0.6112,
+            "y_min": 0.4507,
+            "x_max": 0.7058,
+            "y_max": 0.4859,
+            "width": 0.0946,
+            "height": 0.0351
+          },
+          "confidence": 0.8651
+        },
+        {
+          "text": "☑ SUMMARY",
+          "bbox": {
+            "x_min": 0.5178,
+            "y_min": 0.494,
+            "x_max": 0.6696,
+            "y_max": 0.5711,
+            "width": 0.1518,
+            "height": 0.0771
+          },
+          "confidence": 0.8225
+        },
+        {
+          "text": "Growth is one of the most conspicuous events in any living organism. It is\nan irreversible increase expressed in parameters such as size, area, length,\nheight, volume, cell number etc. It conspicuously involves increased\nprotoplasmic material. In plants, meristems are the sites of growth. Root\nand shoot apical meristems sometimes alongwith intercalary meristem,\ncontribute to the elongation growth of plant axes. Growth is indeterminate\nin higher plants. Following cell division in root and shoot apical meristem\ncells, the growth could be arithmetic or geometrical. Growth may not be\nand generally is not sustained at a high rate throughout the life of cell/\ntissue/orga\ntissue/organ\n/organism. One can define three principle phases of growth",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.5698,
+            "x_max": 0.9299,
+            "y_max": 0.7472,
+            "width": 0.6276,
+            "height": 0.1774
+          },
+          "confidence": 0.997
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1903,
+            "y_min": 0.7074,
+            "x_max": 0.331,
+            "y_max": 0.8179,
+            "width": 0.1407,
+            "height": 0.1105
+          },
+          "confidence": 0.9784
+        },
+        {
+          "text": "– the lag, the log and the senescent phase. When a cell loses the capacity\nto divide, it leads to differentiation. Differentiation results in development\nof structures that is commensurate with the function the cells finally has\nto perform. General principles for differentiation for cell, tissues and organs\nare similar. A differentiated cell may dedifferentiate and then redifferentiate.\nSince differentiation in plants is open, the development could also be\nflexible, i.e., the development is the sum of growth and differentiation.\nPlant exhibit plasticity in development.",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.7502,
+            "x_max": 0.9299,
+            "y_max": 0.8882,
+            "width": 0.6258,
+            "height": 0.138
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "PLANT GROWTH AND DEVELOPMENT",
+          "bbox": {
+            "x_min": 0.115,
+            "y_min": 0.0827,
+            "x_max": 0.3812,
+            "y_max": 0.0925,
+            "width": 0.2662,
+            "height": 0.0099
+          },
+          "confidence": 0.9852
+        },
+        {
+          "text": "Plant growth and development are under the control of both intrinsic\nand extrinsic factors. Intercellular intrinsic factors are the chemical\nsubstances, called plant growth regulators (PGR). There are diverse groups\nof PGRs in plants, principally belonging to five groups: auxins, gibberellins,\ncytokinins, abscisic acid and ethylene. These PGRs are synthesised in\nvarious parts of the plant; they control different differentiation and\ndevelopmental events. Any PGR has diverse physiological effects on plants.\nDiverse PGRs also manifest similar effects. PGRs may act synergistically\nor antagonistically. Plant growth and development is also affected by light,\ntemperature, nutrition, oxygen status, gravity and such external factors.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.1367,
+            "x_max": 0.6976,
+            "y_max": 0.3106,
+            "width": 0.6252,
+            "height": 0.174
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "179",
+          "bbox": {
+            "x_min": 0.8476,
+            "y_min": 0.0835,
+            "x_max": 0.8844,
+            "y_max": 0.093,
+            "width": 0.0368,
+            "height": 0.0094
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "EXERCISES",
+          "bbox": {
+            "x_min": 0.3456,
+            "y_min": 0.3535,
+            "x_max": 0.4524,
+            "y_max": 0.3642,
+            "width": 0.1068,
+            "height": 0.0107
+          },
+          "confidence": 0.9778
+        },
+        {
+          "text": "1. Define growth, differentiation, development, dedifferentiation,\nredifferentiation, determinate growth, meristem and growth rate.",
+          "bbox": {
+            "x_min": 0.0852,
+            "y_min": 0.4023,
+            "x_max": 0.6959,
+            "y_max": 0.4323,
+            "width": 0.6106,
+            "height": 0.03
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "2. Why is not any one parameter good enough to demonstrate growth",
+          "bbox": {
+            "x_min": 0.0835,
+            "y_min": 0.4417,
+            "x_max": 0.6964,
+            "y_max": 0.4567,
+            "width": 0.613,
+            "height": 0.015
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "throughout the life of a flowering plant?",
+          "bbox": {
+            "x_min": 0.1197,
+            "y_min": 0.461,
+            "x_max": 0.453,
+            "y_max": 0.4734,
+            "width": 0.3333,
+            "height": 0.0124
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "3. Describe briefly:",
+          "bbox": {
+            "x_min": 0.0835,
+            "y_min": 0.4841,
+            "x_max": 0.2534,
+            "y_max": 0.497,
+            "width": 0.1699,
+            "height": 0.0129
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "(a) Arithmetic growth",
+          "bbox": {
+            "x_min": 0.1185,
+            "y_min": 0.5017,
+            "x_max": 0.296,
+            "y_max": 0.5141,
+            "width": 0.1775,
+            "height": 0.0124
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "(b) Geometric growth",
+          "bbox": {
+            "x_min": 0.1185,
+            "y_min": 0.5197,
+            "x_max": 0.2919,
+            "y_max": 0.5326,
+            "width": 0.1734,
+            "height": 0.0129
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "NCER",
+          "bbox": {
+            "x_min": 0.3614,
+            "y_min": 0.4349,
+            "x_max": 0.5686,
+            "y_max": 0.5741,
+            "width": 0.2072,
+            "height": 0.1392
+          },
+          "confidence": 0.8749
+        },
+        {
+          "text": "be republished",
+          "bbox": {
+            "x_min": 0.373,
+            "y_min": 0.3072,
+            "x_max": 0.892,
+            "y_max": 0.6692,
+            "width": 0.519,
+            "height": 0.362
+          },
+          "confidence": 0.8967
+        },
+        {
+          "text": "(c) Sigmoid growth curve",
+          "bbox": {
+            "x_min": 0.1191,
+            "y_min": 0.5381,
+            "x_max": 0.3246,
+            "y_max": 0.5506,
+            "width": 0.2055,
+            "height": 0.0124
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "(d) Absolute and relative growth rates",
+          "bbox": {
+            "x_min": 0.1191,
+            "y_min": 0.5557,
+            "x_max": 0.4337,
+            "y_max": 0.5677,
+            "width": 0.3147,
+            "height": 0.012
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "4. List five main groups of natural plant growth regulators. Write a note",
+          "bbox": {
+            "x_min": 0.0823,
+            "y_min": 0.578,
+            "x_max": 0.6964,
+            "y_max": 0.5921,
+            "width": 0.6141,
+            "height": 0.0141
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "and agricul",
+          "bbox": {
+            "x_min": 0.4413,
+            "y_min": 0.5955,
+            "x_max": 0.5353,
+            "y_max": 0.6105,
+            "width": 0.094,
+            "height": 0.015
+          },
+          "confidence": 0.9714
+        },
+        {
+          "text": "on discovery, physiological functions and agricultural/horticultural\napplications of any one of them.",
+          "bbox": {
+            "x_min": 0.1203,
+            "y_min": 0.5968,
+            "x_max": 0.6964,
+            "y_max": 0.6272,
+            "width": 0.5762,
+            "height": 0.0304
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "5. Why is abscisic acid also known as stress hormone?",
+          "bbox": {
+            "x_min": 0.0841,
+            "y_min": 0.6375,
+            "x_max": 0.5587,
+            "y_max": 0.6508,
+            "width": 0.4746,
+            "height": 0.0133
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "6. 'Both growth and differentiation in higher plants are open'. Comment.",
+          "bbox": {
+            "x_min": 0.0835,
+            "y_min": 0.6615,
+            "x_max": 0.6959,
+            "y_max": 0.674,
+            "width": 0.6124,
+            "height": 0.0124
+          },
+          "confidence": 0.9757
+        },
+        {
+          "text": "7. 'Both a short day plant and a long day plant can produce can flower\nsimultaneously in a given place'. Explain.",
+          "bbox": {
+            "x_min": 0.0841,
+            "y_min": 0.6842,
+            "x_max": 0.697,
+            "y_max": 0.7151,
+            "width": 0.613,
+            "height": 0.0308
+          },
+          "confidence": 0.9805
+        },
+        {
+          "text": "8. Which one of the plant growth regulators would you use if you are\nasked to:",
+          "bbox": {
+            "x_min": 0.0835,
+            "y_min": 0.7262,
+            "x_max": 0.697,
+            "y_max": 0.7528,
+            "width": 0.6135,
+            "height": 0.0266
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "(a) induce rooting in a twig",
+          "bbox": {
+            "x_min": 0.1203,
+            "y_min": 0.7614,
+            "x_max": 0.3433,
+            "y_max": 0.7738,
+            "width": 0.223,
+            "height": 0.0124
+          },
+          "confidence": 0.9968
+        },
+        {
+          "text": "(b) quickly ripen a fruit",
+          "bbox": {
+            "x_min": 0.1197,
+            "y_min": 0.7793,
+            "x_max": 0.3129,
+            "y_max": 0.7922,
+            "width": 0.1932,
+            "height": 0.0129
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "(c) delay leaf senescence",
+          "bbox": {
+            "x_min": 0.1185,
+            "y_min": 0.7973,
+            "x_max": 0.3246,
+            "y_max": 0.8089,
+            "width": 0.2061,
+            "height": 0.0116
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "(d) induce growth in axillary buds",
+          "bbox": {
+            "x_min": 0.1191,
+            "y_min": 0.8141,
+            "x_max": 0.3999,
+            "y_max": 0.8278,
+            "width": 0.2808,
+            "height": 0.0137
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "(e) 'bolt' a rosette plant",
+          "bbox": {
+            "x_min": 0.1197,
+            "y_min": 0.8325,
+            "x_max": 0.3106,
+            "y_max": 0.8449,
+            "width": 0.1909,
+            "height": 0.0124
+          },
+          "confidence": 0.9699
+        },
+        {
+          "text": "(f) induce immediate stomatal closure in leaves.",
+          "bbox": {
+            "x_min": 0.1191,
+            "y_min": 0.85,
+            "x_max": 0.5166,
+            "y_max": 0.8625,
+            "width": 0.3975,
+            "height": 0.0124
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "9. Would a defoliated plant respond to photoperiodic cycle? Why?",
+          "bbox": {
+            "x_min": 0.0835,
+            "y_min": 0.8732,
+            "x_max": 0.641,
+            "y_max": 0.8865,
+            "width": 0.5575,
+            "height": 0.0133
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "180",
+          "bbox": {
+            "x_min": 0.1197,
+            "y_min": 0.0835,
+            "x_max": 0.1576,
+            "y_max": 0.093,
+            "width": 0.0379,
+            "height": 0.0094
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "10. What would be expected to happen if:",
+          "bbox": {
+            "x_min": 0.3065,
+            "y_min": 0.1358,
+            "x_max": 0.662,
+            "y_max": 0.1478,
+            "width": 0.3555,
+            "height": 0.012
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "(a) GA is applied to rice seedlings",
+          "bbox": {
+            "x_min": 0.3508,
+            "y_min": 0.1542,
+            "x_max": 0.6346,
+            "y_max": 0.1671,
+            "width": 0.2837,
+            "height": 0.0129
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "(b) dividing cells stop differentiating",
+          "bbox": {
+            "x_min": 0.3514,
+            "y_min": 0.1714,
+            "x_max": 0.6515,
+            "y_max": 0.1842,
+            "width": 0.3001,
+            "height": 0.0129
+          },
+          "confidence": 0.9958
+        },
+        {
+          "text": "(c) a rotten fruit gets mixed with unripe fruits",
+          "bbox": {
+            "x_min": 0.3508,
+            "y_min": 0.1889,
+            "x_max": 0.7297,
+            "y_max": 0.2018,
+            "width": 0.3789,
+            "height": 0.0129
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "(d) you forget to add cytokinin to the culture medium.",
+          "bbox": {
+            "x_min": 0.3503,
+            "y_min": 0.2069,
+            "x_max": 0.7963,
+            "y_max": 0.2202,
+            "width": 0.446,
+            "height": 0.0133
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "© NCERT",
+          "bbox": {
+            "x_min": 0.2936,
+            "y_min": 0.3959,
+            "x_max": 0.6112,
+            "y_max": 0.6277,
+            "width": 0.3176,
+            "height": 0.2318
+          },
+          "confidence": 0.9049
+        },
+        {
+          "text": "not to be republished",
+          "bbox": {
+            "x_min": 0.1845,
+            "y_min": 0.3081,
+            "x_max": 0.8815,
+            "y_max": 0.8171,
+            "width": 0.697,
+            "height": 0.509
+          },
+          "confidence": 0.9976
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8576,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0677,
+            "height": 0.0094
+          },
+          "confidence": 0.9781
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

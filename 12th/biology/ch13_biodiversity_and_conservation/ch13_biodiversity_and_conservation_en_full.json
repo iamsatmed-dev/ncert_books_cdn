@@ -1,0 +1,2093 @@
+{
+  "chapter_id": "12th_biology_ch13_biodiversity_and_conservation_ch13_biodiversity_and_conservation_en",
+  "total_pages": 13,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "CHAPTER 13",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.2142,
+            "x_max": 0.3281,
+            "y_max": 0.2395,
+            "width": 0.258,
+            "height": 0.0253
+          },
+          "confidence": 0.9854
+        },
+        {
+          "text": "BIODIVERSITY AND\nCONSERVATION",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.2849,
+            "x_max": 0.5225,
+            "y_max": 0.3612,
+            "width": 0.4524,
+            "height": 0.0763
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "13.1 Biodiversity",
+          "bbox": {
+            "x_min": 0.1162,
+            "y_min": 0.4494,
+            "x_max": 0.258,
+            "y_max": 0.4619,
+            "width": 0.1419,
+            "height": 0.0124
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "12083CH15",
+          "bbox": {
+            "x_min": 0.5458,
+            "y_min": 0.2434,
+            "x_max": 0.5931,
+            "y_max": 0.2481,
+            "width": 0.0473,
+            "height": 0.0047
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "Invertebrates",
+          "bbox": {
+            "x_min": 0.7064,
+            "y_min": 0.1345,
+            "x_max": 0.7484,
+            "y_max": 0.1474,
+            "width": 0.042,
+            "height": 0.0129
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "Vertebrates",
+          "bbox": {
+            "x_min": 0.7863,
+            "y_min": 0.1204,
+            "x_max": 0.8225,
+            "y_max": 0.132,
+            "width": 0.0362,
+            "height": 0.0116
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "Plants",
+          "bbox": {
+            "x_min": 0.7717,
+            "y_min": 0.1795,
+            "x_max": 0.7933,
+            "y_max": 0.1877,
+            "width": 0.0216,
+            "height": 0.0081
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "13.2 Biodiversity Conservation",
+          "bbox": {
+            "x_min": 0.1162,
+            "y_min": 0.4829,
+            "x_max": 0.3695,
+            "y_max": 0.4953,
+            "width": 0.2534,
+            "height": 0.0124
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "NO",
+          "bbox": {
+            "x_min": 0.2884,
+            "y_min": 0.5047,
+            "x_max": 0.4769,
+            "y_max": 0.6311,
+            "width": 0.1886,
+            "height": 0.1264
+          },
+          "confidence": 0.8465
+        },
+        {
+          "text": "If an alien from a distant galaxy were to visit our planet\nEarth, the first thing that would amaze and baffle him\nwould most probably be the enormous diversity of life\nthat he would encounter. Even for humans, the rich variety\nof living organisms with which they share this planet never\nceases to astonish and fascinate us. The common man\nwould find it hard to believe that there are more than\n20,000 species of ants, 3,00,000 species of beetles, 28,000\nspecies of fishes and nearly 20,000 species of orchids.\nEcologists and evolutionary biologists have been trying\nto understand the significance of such diversity by asking\nimportant questions- Why are there so many species?\nDid such great diversity exist throughout earth's history?\nHow did this diversification come about? How and why\nis this diversity important to the biosphere? Would it\nfunction any differently if the diversity was much less?\nHow do humans benefit from the diversity of life?",
+          "bbox": {
+            "x_min": 0.4361,
+            "y_min": 0.4794,
+            "x_max": 0.9294,
+            "y_max": 0.7785,
+            "width": 0.4933,
+            "height": 0.2991
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "not to h",
+          "bbox": {
+            "x_min": 0.1763,
+            "y_min": 0.6114,
+            "x_max": 0.467,
+            "y_max": 0.8115,
+            "width": 0.2907,
+            "height": 0.2001
+          },
+          "confidence": 0.9087
+        },
+        {
+          "text": "13.1 BIODIVERSITY",
+          "bbox": {
+            "x_min": 0.4396,
+            "y_min": 0.7956,
+            "x_max": 0.6392,
+            "y_max": 0.8085,
+            "width": 0.1996,
+            "height": 0.0129
+          },
+          "confidence": 0.9889
+        },
+        {
+          "text": "In our biosphere immense diversity (or heterogeneity)\nexists not only at the species level but at all levels of\nbiological organisation ranging from macromolecules\nwithin cells to biomes. Biodiversity is the term popularised\nby the sociobiologist Edward Wilson to describe the",
+          "bbox": {
+            "x_min": 0.4372,
+            "y_min": 0.8235,
+            "x_max": 0.9282,
+            "y_max": 0.9083,
+            "width": 0.491,
+            "height": 0.0848
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIODIVERSITY AND CONSERVATION",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.0788,
+            "x_max": 0.3135,
+            "y_max": 0.0878,
+            "width": 0.2411,
+            "height": 0.009
+          },
+          "confidence": 0.9805
+        },
+        {
+          "text": "combined diversity at all the levels of biological organisation.\nThe most important of them are–",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1135,
+            "x_max": 0.5984,
+            "y_max": 0.1444,
+            "width": 0.5266,
+            "height": 0.0308
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "(i) Genetic diversity: A single species might show high diversity at\nthe genetic level over its distributional range. The genetic variation\nshown by the medicinal plant Rauwolfia vomitoria growing in\ndifferent Himalayan ranges might be in terms of the potency and\nconcentration of the active chemical (reserpine) that the plant\nproduces. India has more than 50,000 genetically different strains\nof rice, and 1,000 varieties of mango.",
+          "bbox": {
+            "x_min": 0.0946,
+            "y_min": 0.1534,
+            "x_max": 0.697,
+            "y_max": 0.2763,
+            "width": 0.6025,
+            "height": 0.123
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "(ii) Species diversity: The diversity at the species level, for example,\nthe Western Ghats have a greater amphibian species diversity than\nthe Eastern Ghats.",
+          "bbox": {
+            "x_min": 0.0887,
+            "y_min": 0.2858,
+            "x_max": 0.6964,
+            "y_max": 0.3325,
+            "width": 0.6077,
+            "height": 0.0467
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "shed",
+          "bbox": {
+            "x_min": 0.6894,
+            "y_min": 0.3081,
+            "x_max": 0.8704,
+            "y_max": 0.4439,
+            "width": 0.181,
+            "height": 0.1358
+          },
+          "confidence": 0.9852
+        },
+        {
+          "text": "(iii) Ecological diversity: At the ecosystem level, India, for instance,\nwith its deserts, rain forests, mangroves, coral reefs, wetlands,\nestuaries, and alpine meadows has a greater ecosystem diversity\nthan a Scandinavian country like Norway.",
+          "bbox": {
+            "x_min": 0.0841,
+            "y_min": 0.344,
+            "x_max": 0.6988,
+            "y_max": 0.4126,
+            "width": 0.6147,
+            "height": 0.0686
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "It has taken millions of years of evolution, to accumulate this rich\ndiversity in nature, but we could lose all that wealth in less than two\ncenturies if the present rates of species losses continue. Biodiversity and\nits conservation are now vital environmental issues of international concern\nas more and more people around the world begin to realise the critical\nimportance of biodiversity for our survival and well- being on this planet.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.4216,
+            "x_max": 0.697,
+            "y_max": 0.527,
+            "width": 0.6241,
+            "height": 0.1054
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "13.1.1 How Many Species are there on Earth and How Many\nin India?",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.5458,
+            "x_max": 0.6976,
+            "y_max": 0.5758,
+            "width": 0.6229,
+            "height": 0.03
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "Since there are published records of all the species discovered and named,\nwe know how many species in all have been recorded so far, but it is not\neasy to answer the question of how many species there are on earth.\nAccording to the International Union for Conservation of Nature and\nNatural Resources (IUCN) (2004), the total number of plant and animal\nspecies described so far is slightly more than 1.5 million, but we have no\nclear idea of how many species are yet to be discovered and described.\nEstimates vary widely and many of them are only educated guesses. For\nmany taxonomic groups, species inventories are more complete in\ntemperate than in tropical countries. Considering that an overwhelmingly\nlarge proportion of the species waiting to be discovered are in the tropics,\nbiologists make a statistical comparison of the temperate-tropical species\nrichness of an exhaustively studied group of insects and extrapolate this\nratio to other groups of animals and plants to come up with a gross\nestimate of the total number of species on earth. Some extreme estimates\nrange from 20 to 50 million, but a more conservative and scientifically\nsound estimate made by Robert May places the global species diversity\nat about 7 million.",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.5917,
+            "x_max": 0.6982,
+            "y_max": 0.9057,
+            "width": 0.627,
+            "height": 0.3141
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "217",
+          "bbox": {
+            "x_min": 0.8494,
+            "y_min": 0.7931,
+            "x_max": 0.899,
+            "y_max": 0.8051,
+            "width": 0.0496,
+            "height": 0.012
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8628,
+            "y_min": 0.0801,
+            "x_max": 0.9276,
+            "y_max": 0.0878,
+            "width": 0.0648,
+            "height": 0.0077
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "Let us look at some interesting aspects about earth's biodiversity based\non the currently available species inventories. More than 70 per cent of\nall the species recorded are animals, while plants (including algae, fungi,\nbryophytes, gymnosperms and angiosperms) comprise no more than 22\nper cent of the total. Among animals, insects are the most species-rich\ntaxonomic group, making up more than 70 per cent of the total. That\nmeans, out of every 10 animals on this planet, 7 are insects. Again, how\ndo we explain this enormous diversification of insects? The number of\nfungi species in the world is more than the combined total of the species\nof fishes, amphibians, reptiles and mammals. In Figure 13.1, biodiversity\nis depicted showing species number of major taxa.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.1131,
+            "x_max": 0.9288,
+            "y_max": 0.3012,
+            "width": 0.6264,
+            "height": 0.1881
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "Invertebrates",
+          "bbox": {
+            "x_min": 0.4308,
+            "y_min": 0.332,
+            "x_max": 0.5441,
+            "y_max": 0.3419,
+            "width": 0.1133,
+            "height": 0.0099
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "Other animal groups",
+          "bbox": {
+            "x_min": 0.3438,
+            "y_min": 0.3612,
+            "x_max": 0.512,
+            "y_max": 0.3728,
+            "width": 0.1681,
+            "height": 0.0116
+          },
+          "confidence": 0.9838
+        },
+        {
+          "text": "Crustaceans",
+          "bbox": {
+            "x_min": 0.3269,
+            "y_min": 0.3839,
+            "x_max": 0.4267,
+            "y_max": 0.3916,
+            "width": 0.0998,
+            "height": 0.0077
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "Molluscs",
+          "bbox": {
+            "x_min": 0.3304,
+            "y_min": 0.4092,
+            "x_max": 0.4022,
+            "y_max": 0.4177,
+            "width": 0.0718,
+            "height": 0.0086
+          },
+          "confidence": 0.9742
+        },
+        {
+          "text": "Insects-",
+          "bbox": {
+            "x_min": 0.3327,
+            "y_min": 0.4589,
+            "x_max": 0.4063,
+            "y_max": 0.4674,
+            "width": 0.0736,
+            "height": 0.0086
+          },
+          "confidence": 0.9072
+        },
+        {
+          "text": "*",
+          "bbox": {
+            "x_min": 0.4349,
+            "y_min": 0.4512,
+            "x_max": 0.4828,
+            "y_max": 0.4893,
+            "width": 0.0479,
+            "height": 0.0381
+          },
+          "confidence": 0.3948
+        },
+        {
+          "text": "ONCL",
+          "bbox": {
+            "x_min": 0.2872,
+            "y_min": 0.458,
+            "x_max": 0.5452,
+            "y_max": 0.6213,
+            "width": 0.258,
+            "height": 0.1632
+          },
+          "confidence": 0.6231
+        },
+        {
+          "text": "Fishes",
+          "bbox": {
+            "x_min": 0.6457,
+            "y_min": 0.3856,
+            "x_max": 0.6976,
+            "y_max": 0.3933,
+            "width": 0.052,
+            "height": 0.0077
+          },
+          "confidence": 0.9859
+        },
+        {
+          "text": "Ferns and",
+          "bbox": {
+            "x_min": 0.6252,
+            "y_min": 0.5544,
+            "x_max": 0.7064,
+            "y_max": 0.5638,
+            "width": 0.0811,
+            "height": 0.0094
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "Vertebrates",
+          "bbox": {
+            "x_min": 0.7081,
+            "y_min": 0.335,
+            "x_max": 0.8062,
+            "y_max": 0.344,
+            "width": 0.0981,
+            "height": 0.009
+          },
+          "confidence": 0.984
+        },
+        {
+          "text": "Mammals",
+          "bbox": {
+            "x_min": 0.7881,
+            "y_min": 0.3723,
+            "x_max": 0.8675,
+            "y_max": 0.3809,
+            "width": 0.0794,
+            "height": 0.0086
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "Birds",
+          "bbox": {
+            "x_min": 0.85,
+            "y_min": 0.4096,
+            "x_max": 0.8949,
+            "y_max": 0.4173,
+            "width": 0.045,
+            "height": 0.0077
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "Reptiles",
+          "bbox": {
+            "x_min": 0.8377,
+            "y_min": 0.4833,
+            "x_max": 0.9037,
+            "y_max": 0.494,
+            "width": 0.066,
+            "height": 0.0107
+          },
+          "confidence": 0.9883
+        },
+        {
+          "text": "Amphibians",
+          "bbox": {
+            "x_min": 0.7764,
+            "y_min": 0.5146,
+            "x_max": 0.8762,
+            "y_max": 0.5257,
+            "width": 0.0998,
+            "height": 0.0111
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "of to be repubish",
+          "bbox": {
+            "x_min": 0.223,
+            "y_min": 0.3625,
+            "x_max": 0.8062,
+            "y_max": 0.7853,
+            "width": 0.5832,
+            "height": 0.4229
+          },
+          "confidence": 0.8713
+        },
+        {
+          "text": "Fungi",
+          "bbox": {
+            "x_min": 0.4577,
+            "y_min": 0.6397,
+            "x_max": 0.505,
+            "y_max": 0.6512,
+            "width": 0.0473,
+            "height": 0.0116
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "Mosses allies",
+          "bbox": {
+            "x_min": 0.5493,
+            "y_min": 0.5643,
+            "x_max": 0.6661,
+            "y_max": 0.5784,
+            "width": 0.1168,
+            "height": 0.0141
+          },
+          "confidence": 0.9841
+        },
+        {
+          "text": "Angiosperms",
+          "bbox": {
+            "x_min": 0.6999,
+            "y_min": 0.6401,
+            "x_max": 0.8068,
+            "y_max": 0.6512,
+            "width": 0.1068,
+            "height": 0.0111
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "218",
+          "bbox": {
+            "x_min": 0.0946,
+            "y_min": 0.7918,
+            "x_max": 0.1436,
+            "y_max": 0.8055,
+            "width": 0.049,
+            "height": 0.0137
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "Algae Lichens",
+          "bbox": {
+            "x_min": 0.5458,
+            "y_min": 0.7134,
+            "x_max": 0.6772,
+            "y_max": 0.7249,
+            "width": 0.1313,
+            "height": 0.0116
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "Figure 13.1 Representing global biodiversity: proportionate number of\nspecies of major taxa of plants, invertebrates and vertebrates",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.7434,
+            "x_max": 0.9299,
+            "y_max": 0.7708,
+            "width": 0.6281,
+            "height": 0.0274
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "It should be noted that these estimates do not give any figures for\nprokaryotes. Biologists are not sure about how many prokaryotic species\nthere might be. The problem is that conventional taxonomic methods are\nnot suitable for identifying microbial species and many species are simply\nnot culturable under laboratory conditions. If we accept biochemical or\nmolecular criteria for delineating species for this group, then their diversity\nalone might run into millions.",
+          "bbox": {
+            "x_min": 0.3059,
+            "y_min": 0.7896,
+            "x_max": 0.9276,
+            "y_max": 0.9092,
+            "width": 0.6217,
+            "height": 0.1195
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIODIVERSITY AND CONSERVATION",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.0793,
+            "x_max": 0.3135,
+            "y_max": 0.0878,
+            "width": 0.2411,
+            "height": 0.0086
+          },
+          "confidence": 0.9805
+        },
+        {
+          "text": "Although India has only 2.4 per cent of the world's land area, its share\nof the global species diversity is an impressive 8.1 per cent. That is what\nmakes our country one of the 12 mega diversity countries of the world.\nNearly 45,000 species of plants and twice as many of animals have been\nrecorded from India. How many living species are actually there waiting\nto be discovered and named? If we accept May's global estimates, only\n22 per cent of the total species have been recorded so far. Applying this\nproportion to India's diversity figures, we estimate that there are probably\nmore than 1,00,000 plant species and more than 3,00,000 animal species\nyet to be discovered and described. Would we ever be able to complete\nthe inventory of the biological wealth of our country? Consider the immense\ntrained manpower (taxonomists) and the time required to complete the\njob. The situation appears more hopeless when we realise that a large\nfraction of these species faces the threat of becoming extinct even before\nwe discover them. Nature's biological library is burning even before we\ncatalogued the titles of all the books stocked there.",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.1123,
+            "x_max": 0.6982,
+            "y_max": 0.389,
+            "width": 0.6276,
+            "height": 0.2768
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "13.1.2 Patterns of Biodiversity",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.4079,
+            "x_max": 0.4046,
+            "y_max": 0.422,
+            "width": 0.3298,
+            "height": 0.0141
+          },
+          "confidence": 0.9973
+        },
+        {
+          "text": "ished",
+          "bbox": {
+            "x_min": 0.6322,
+            "y_min": 0.3038,
+            "x_max": 0.8827,
+            "y_max": 0.4692,
+            "width": 0.2504,
+            "height": 0.1654
+          },
+          "confidence": 0.9766
+        },
+        {
+          "text": "(i) Latitudinal gradients: The diversity of plants and animals is\nnot uniform throughout the world but shows a rather uneven\ndistribution. For many group of animals or plants, there are\ninteresting patterns in diversity, the most well- known being the\nlatitudinal gradient in diversity. In general, species diversity\ndecreases as we move away from the equator towards the poles.\nWith very few exceptions, tropics (latitudinal range of 23.5° N to\n23.5° S) harbour more species than temperate or polar areas.\nColombia located near the equator has nearly 1,400 species of birds\nwhile New York at 41° N has 105 species and Greenland at 71°N\nonly 56 species. India, with much of its land area in the tropical\nlatitudes, has more than 1,200 species of birds. A forest in a tropical\nregion like Equador has up to 10 times as many species of vascular\nplants as a forest of equal area in a temperate region like the Midwest\nof the USA. The largely tropical Amazonian rain forest in South\nAmerica has the greatest biodiversity on earth- it is home to more\nthan 40,000 species of plants, 3,000 of fishes, 1,300 of birds, 427\nof mammals, 427 of amphibians, 378 of reptiles and of more than\n1,25,000 invertebrates. Scientists estimate that in these rain forests\nthere might be at least two million insect species waiting to be\ndiscovered and named.",
+          "bbox": {
+            "x_min": 0.094,
+            "y_min": 0.4344,
+            "x_max": 0.6976,
+            "y_max": 0.7965,
+            "width": 0.6036,
+            "height": 0.362
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "What is so special about tropics that might account for their greater\nbiological diversity? Ecologists and evolutionary biologists have\nproposed various hypotheses; some important ones are (a) Speciation\nis generally a function of time, unlike temperate regions subjected\nto frequent glaciations in the past, tropical latitudes have remained\nrelatively undisturbed for millions of years and thus, had a long",
+          "bbox": {
+            "x_min": 0.1249,
+            "y_min": 0.8042,
+            "x_max": 0.6988,
+            "y_max": 0.9053,
+            "width": 0.5738,
+            "height": 0.1011
+          },
+          "confidence": 0.9966
+        },
+        {
+          "text": "219",
+          "bbox": {
+            "x_min": 0.8494,
+            "y_min": 0.7922,
+            "x_max": 0.9008,
+            "y_max": 0.8051,
+            "width": 0.0514,
+            "height": 0.0129
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8628,
+            "y_min": 0.0801,
+            "x_max": 0.9276,
+            "y_max": 0.0878,
+            "width": 0.0648,
+            "height": 0.0077
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "Species richness →",
+          "bbox": {
+            "x_min": 0.1506,
+            "y_min": 0.3642,
+            "x_max": 0.1675,
+            "y_max": 0.5086,
+            "width": 0.0169,
+            "height": 0.1444
+          },
+          "confidence": 0.9695
+        },
+        {
+          "text": "log-log scale",
+          "bbox": {
+            "x_min": 0.2341,
+            "y_min": 0.4323,
+            "x_max": 0.3345,
+            "y_max": 0.4923,
+            "width": 0.1004,
+            "height": 0.06
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "Area",
+          "bbox": {
+            "x_min": 0.2656,
+            "y_min": 0.5338,
+            "x_max": 0.3112,
+            "y_max": 0.5437,
+            "width": 0.0455,
+            "height": 0.0099
+          },
+          "confidence": 0.9841
+        },
+        {
+          "text": "evolutionary time for species diversification, (b) Tropical environments,\nunlike temperate ones, are less seasonal, relatively more constant\nand predictable. Such constant environments promote niche\nspecialisation and lead to a greater species diversity and (c) There\nis more solar energy available in the tropics, which contributes to\nhigher productivity; this in turn might contribute indirectly to greater\ndiversity.",
+          "bbox": {
+            "x_min": 0.3567,
+            "y_min": 0.1131,
+            "x_max": 0.9299,
+            "y_max": 0.2339,
+            "width": 0.5733,
+            "height": 0.1208
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "(ii) Species-Area relationships : During his pioneering and extensive\nexplorations in the wilderness of South American jungles, the great\nGerman naturalist and geographer Alexander von Humboldt",
+          "bbox": {
+            "x_min": 0.3217,
+            "y_min": 0.2391,
+            "x_max": 0.9305,
+            "y_max": 0.2888,
+            "width": 0.6089,
+            "height": 0.0497
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "►S = CA²",
+          "bbox": {
+            "x_min": 0.3514,
+            "y_min": 0.3603,
+            "x_max": 0.4244,
+            "y_max": 0.3732,
+            "width": 0.073,
+            "height": 0.0129
+          },
+          "confidence": 0.7399
+        },
+        {
+          "text": "Z",
+          "bbox": {
+            "x_min": 0.418,
+            "y_min": 0.3612,
+            "x_max": 0.4262,
+            "y_max": 0.3655,
+            "width": 0.0082,
+            "height": 0.0043
+          },
+          "confidence": 0.8081
+        },
+        {
+          "text": "Log S = log C + Z log A",
+          "bbox": {
+            "x_min": 0.3689,
+            "y_min": 0.3937,
+            "x_max": 0.5336,
+            "y_max": 0.4049,
+            "width": 0.1646,
+            "height": 0.0111
+          },
+          "confidence": 0.9507
+        },
+        {
+          "text": "observed that within a region species\nrichness increased with increasing\nexplored area, but only up to a limit. In\nfact, the relation between species richness\nand area for a wide variety of taxa\n(angiosperm plants, birds, bats,\nfreshwater fishes) turns out to be a\nrectangular hyperbola (Figure13.2). On\na logarithmic scale, the relationship is a\nstraight line described by the equation",
+          "bbox": {
+            "x_min": 0.5849,
+            "y_min": 0.2948,
+            "x_max": 0.9311,
+            "y_max": 0.4696,
+            "width": 0.3462,
+            "height": 0.1748
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "log S = log C + Z log A\nwhere",
+          "bbox": {
+            "x_min": 0.6165,
+            "y_min": 0.4674,
+            "x_max": 0.8149,
+            "y_max": 0.5073,
+            "width": 0.1985,
+            "height": 0.0398
+          },
+          "confidence": 0.9754
+        },
+        {
+          "text": "S= Species richness A= Area\nZ = slope of the line (regression\ncoefficient)",
+          "bbox": {
+            "x_min": 0.6176,
+            "y_min": 0.5116,
+            "x_max": 0.8844,
+            "y_max": 0.5587,
+            "width": 0.2668,
+            "height": 0.0471
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "NCER",
+          "bbox": {
+            "x_min": 0.3543,
+            "y_min": 0.4254,
+            "x_max": 0.575,
+            "y_max": 0.5784,
+            "width": 0.2207,
+            "height": 0.153
+          },
+          "confidence": 0.9239
+        },
+        {
+          "text": "brep",
+          "bbox": {
+            "x_min": 0.373,
+            "y_min": 0.5039,
+            "x_max": 0.627,
+            "y_max": 0.6761,
+            "width": 0.2539,
+            "height": 0.1722
+          },
+          "confidence": 0.8418
+        },
+        {
+          "text": "Figure 13.2 Showing species ar",
+          "bbox": {
+            "x_min": 0.1173,
+            "y_min": 0.5943,
+            "x_max": 0.4086,
+            "y_max": 0.6075,
+            "width": 0.2913,
+            "height": 0.0133
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "Note that on log scale the\nbecomes linear",
+          "bbox": {
+            "x_min": 0.2294,
+            "y_min": 0.6093,
+            "x_max": 0.4495,
+            "y_max": 0.6328,
+            "width": 0.2201,
+            "height": 0.0236
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "220",
+          "bbox": {
+            "x_min": 0.0946,
+            "y_min": 0.7926,
+            "x_max": 0.1459,
+            "y_max": 0.8051,
+            "width": 0.0514,
+            "height": 0.0124
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "C = Y-intercept",
+          "bbox": {
+            "x_min": 0.6176,
+            "y_min": 0.5656,
+            "x_max": 0.7472,
+            "y_max": 0.578,
+            "width": 0.1296,
+            "height": 0.0124
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "Ecologists have discovered that the\nvalue of Z lies in the range of 0.1 to 0.2,\nregardless of the taxonomic group or the\nregion (whether it is the plants in Britain,",
+          "bbox": {
+            "x_min": 0.5855,
+            "y_min": 0.5835,
+            "x_max": 0.9294,
+            "y_max": 0.6508,
+            "width": 0.3438,
+            "height": 0.0673
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "line are amazingly similar). But, if you analyse the species-area\nrelationships among very large areas like the entire continents, you will\nfind that the slope of the line to be much steeper (Z values in the range\nof 0.6 to 1.2). For example, for frugivorous (fruit-eating) birds and\nmammals in the tropical forests of different continents, the slope is found\nto be 1.15. What do steeper slopes mean in this context?",
+          "bbox": {
+            "x_min": 0.3047,
+            "y_min": 0.6735,
+            "x_max": 0.9299,
+            "y_max": 0.7776,
+            "width": 0.6252,
+            "height": 0.1041
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1839,
+            "y_min": 0.7048,
+            "x_max": 0.3322,
+            "y_max": 0.8218,
+            "width": 0.1483,
+            "height": 0.117
+          },
+          "confidence": 0.9736
+        },
+        {
+          "text": "13.1.3 The importance of Species Diversity to the Ecosystem\nDoes the number of species in a community really matter to the functioning\nof the ecosystem?This is a question for which ecologists have not been\nable to give a definitive answer. For many decades, ecologists believed\nthat communities with more species, generally, tend to be more stable\nthan those with less species. What exactly is stability for a biological",
+          "bbox": {
+            "x_min": 0.3053,
+            "y_min": 0.7956,
+            "x_max": 0.9305,
+            "y_max": 0.9092,
+            "width": 0.6252,
+            "height": 0.1135
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIODIVERSITY AND CONSERVATION",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.0788,
+            "x_max": 0.3135,
+            "y_max": 0.0878,
+            "width": 0.2411,
+            "height": 0.009
+          },
+          "confidence": 0.9805
+        },
+        {
+          "text": "community? A stable community should not show too much variation\nin productivity from year to year; it must be either resistant or resilient to\noccasional disturbances (natural or man-made), and it must also be\nresistant to invasions by alien species. We don't know how these attributes\nare linked to species richness in a community, but David Tilman's\nlong-term ecosystem experiments using outdoor plots provide some\ntentative answers. Tilman found that plots with more species showed\nless year-to-year variation in total biomass. He also showed that in his\nexperiments, increased diversity contributed to higher productivity.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.1123,
+            "x_max": 0.697,
+            "y_max": 0.2695,
+            "width": 0.6241,
+            "height": 0.1572
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "Although, we may not understand completely how species richness\ncontributes to the well-being of an ecosystem, we know enough to realise\nthat rich biodiversity is not only essential for ecosystem health but\nimperative for the very survival of the human race on this planet. At a\ntime when we are losing species at an alarming pace, one might ask-\nDoes it really matter to us if a few species become extinct? Would Western\nGhats ecosystems be less functional if one of its tree frog species is lost\nforever? How is our quality of life affected if, say, instead of 20,000 we\nhave only 15,000 species of ants on earth?",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.2738,
+            "x_max": 0.6976,
+            "y_max": 0.4302,
+            "width": 0.6258,
+            "height": 0.1564
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "ished",
+          "bbox": {
+            "x_min": 0.6778,
+            "y_min": 0.3085,
+            "x_max": 0.8698,
+            "y_max": 0.452,
+            "width": 0.1921,
+            "height": 0.1435
+          },
+          "confidence": 0.9786
+        },
+        {
+          "text": "There are no direct answers to such näive questions but we can develop\na proper perspective through an analogy (the ‘rivet popper hypothesis')\nused by Stanford ecologist Paul Ehrlich. In an airplane (ecosystem) all\nparts are joined together using thousands of rivets (species). If every\npassenger travelling in it starts popping a rivet to take home (causing a\nspecies to become extinct), it may not affect flight safety (proper functioning\nof the ecosystem) initially, but as more and more rivets are removed, the\nplane becomes dangerously weak over a period of time. Furthermore,\nwhich rivet is removed may also be critical. Loss of rivets on the wings\n(key species that drive major ecosystem functions) is obviously a more\nserious threat to flight safety than loss of a few rivets on the seats or\nwindows inside the plane.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.4332,
+            "x_max": 0.6976,
+            "y_max": 0.6457,
+            "width": 0.6258,
+            "height": 0.2125
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "13.1.4 Loss of Biodiversity Biodiversity",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.6637,
+            "x_max": 0.3625,
+            "y_max": 0.6812,
+            "width": 0.2878,
+            "height": 0.0176
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "While it is doubtful if any new species are being added (through speciation)\ninto the earth's treasury of species, there is no doubt about their continuing\nlosses. The biological wealth of our planet has been declining rapidly\nand the accusing finger is clearly pointing to human activities. The\ncolonisation of tropical Pacific Islands by humans is said to have led to\nthe extinction of more than 2,000 species of native birds. The IUCN Red\nList (2004) documents the extinction of 784 species (including 338\nvertebrates, 359 invertebrates and 87 plants) in the last 500 years. Some\nexamples of recent extinctions include the dodo (Mauritius), quagga\n(Africa), thylacine (Australia), Steller's Sea Cow (Russia) and three\nsubspecies (Bali, Javan, Caspian) of tiger. The last twenty years alone\nhave witnessed the disappearance of 27 species. Careful analysis of records",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.6919,
+            "x_max": 0.6982,
+            "y_max": 0.904,
+            "width": 0.6276,
+            "height": 0.2121
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "221",
+          "bbox": {
+            "x_min": 0.85,
+            "y_min": 0.7922,
+            "x_max": 0.8943,
+            "y_max": 0.8055,
+            "width": 0.0444,
+            "height": 0.0133
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "222",
+          "bbox": {
+            "x_min": 0.0969,
+            "y_min": 0.7922,
+            "x_max": 0.1459,
+            "y_max": 0.8051,
+            "width": 0.049,
+            "height": 0.0129
+          },
+          "confidence": 0.9952
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.864,
+            "y_min": 0.0805,
+            "x_max": 0.927,
+            "y_max": 0.0883,
+            "width": 0.063,
+            "height": 0.0077
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "shows that extinctions across taxa are not random; some groups like\namphibians appear to be more vulnerable to extinction. Adding to the\ngrim scenario of extinctions is the fact that more than 15,500 species\nworld-wide are facing the threat of extinction. Presently, 12 per cent of\nall bird species, 23 per cent of all mammal species, 32 per cent of all\namphibian species and 31per cent of all gymnosperm species in the world\nface the threat of extinction.",
+          "bbox": {
+            "x_min": 0.3059,
+            "y_min": 0.1135,
+            "x_max": 0.9288,
+            "y_max": 0.2305,
+            "width": 0.6229,
+            "height": 0.117
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "From a study of the history of life on earth through fossil records, we\nlearn that large-scale loss of species like the one we are currently\nwitnessing have also happened earlier, even before humans appeared on\nthe scene. During the long period (> 3 billion years) since the origin and\ndiversification of life on earth there were five episodes of mass extinction\nof species. How is the 'Sixth Extinction' presently in progress different\nfrom the previous episodes? The difference is in the rates; the current\nspecies extinction rates are estimated to be 100 to 1,000 times faster\nthan in the pre-human times and our activities are responsible for the\nfaster rates. Ecologists warn that if the present trends continue,\nnearly half of all the species on earth might be wiped out within the next\n100 years.",
+          "bbox": {
+            "x_min": 0.3059,
+            "y_min": 0.2382,
+            "x_max": 0.9282,
+            "y_max": 0.4469,
+            "width": 0.6223,
+            "height": 0.2087
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "In general, loss of biodiversity in a region may lead to (a) decline in\nplant production, (b) lowered resistance to environmental perturbations\nsuch as drought and (c) increased variability in certain ecosystem processes\nsuch as plant productivity, water use, and pest and disease cycles.\nCauses of biodiversity losses: The accelerated rates of species\nextinctions that the world is facing now are largely due to human\nactivities. There are four major causes ('The Evil Quartet' is the sobriquet\nused to describe them).",
+          "bbox": {
+            "x_min": 0.3059,
+            "y_min": 0.4524,
+            "x_max": 0.9276,
+            "y_max": 0.5891,
+            "width": 0.6217,
+            "height": 0.1367
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "(i) Habitat loss and fragmentation: This is the most important\ncause driving animals and plants to extinction. The most dramatic\nexamples of habitat loss come from tropical rain forests. Once\ncovering more than 14 per cent of the earth's land surface, these\nrain forests now cover no more than 6 per cent. They are being\ndestroyed fast. By the time you finish reading this chapter, 1000\nmore hectares of rain forest would have been lost. The Amazon\nrain forest (it is so huge that it is called the 'lungs of the planet')\nharbouring probably millions of species is being cut and cleared\nfor cultivating soya beans or for conversion to grasslands for raising\nbeef cattle. Besides total loss, the degradation of many habitats by\npollution also threatens the survival of many species. When large\nhabitats are broken up into small fragments due to various human\nactivities, mammals and birds requiring large territories and certain\nanimals with migratory habits are badly affected, leading to\npopulation declines.",
+          "bbox": {
+            "x_min": 0.3275,
+            "y_min": 0.5947,
+            "x_max": 0.9282,
+            "y_max": 0.8757,
+            "width": 0.6007,
+            "height": 0.2811
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "not t",
+          "bbox": {
+            "x_min": 0.1909,
+            "y_min": 0.6774,
+            "x_max": 0.3713,
+            "y_max": 0.8141,
+            "width": 0.1804,
+            "height": 0.1367
+          },
+          "confidence": 0.9774
+        },
+        {
+          "text": "(ii) Over-exploitation: Humans have always depended on nature for\nfood and shelter, but when ‘need' turns to 'greed', it leads to",
+          "bbox": {
+            "x_min": 0.3228,
+            "y_min": 0.88,
+            "x_max": 0.927,
+            "y_max": 0.9113,
+            "width": 0.6042,
+            "height": 0.0313
+          },
+          "confidence": 0.9738
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIODIVERSITY AND CONSERVATION",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.0788,
+            "x_max": 0.3135,
+            "y_max": 0.0878,
+            "width": 0.2411,
+            "height": 0.009
+          },
+          "confidence": 0.9805
+        },
+        {
+          "text": "over-exploitation of natural resources. Many species extinctions\nin the last 500 years (Steller's sea cow, passenger pigeon) were due\nto overexploitation by humans. Presently many marine fish\npopulations around the world are over harvested, endangering the\ncontinued existence of some commercially important species.",
+          "bbox": {
+            "x_min": 0.1249,
+            "y_min": 0.1127,
+            "x_max": 0.697,
+            "y_max": 0.1971,
+            "width": 0.5721,
+            "height": 0.0844
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "(iii) Alien species invasions: When alien species are introduced\nunintentionally or deliberately for whatever purpose, some of them\nturn invasive, and cause decline or extinction of indigenous species.\nThe Nile perch introduced into Lake Victoria in east Africa led\neventually to the extinction of an ecologically unique assemblage of\nmore than 200 species of cichlid fish in the lake. You must be\nfamiliar with the environmental damage caused and threat posed\nto our native species by invasive weed species like carrot grass\n(Parthenium), Lantana and water hyacinth (Eicchornia). The recent\nillegal introduction of the African catfish Clarias gariepinus for\naquaculture purposes is posing a threat to the indigenous catfishes\nin our rivers.",
+          "bbox": {
+            "x_min": 0.0841,
+            "y_min": 0.2014,
+            "x_max": 0.6988,
+            "y_max": 0.4083,
+            "width": 0.6147,
+            "height": 0.2069
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "epished",
+          "bbox": {
+            "x_min": 0.488,
+            "y_min": 0.3085,
+            "x_max": 0.8873,
+            "y_max": 0.5883,
+            "width": 0.3993,
+            "height": 0.2798
+          },
+          "confidence": 0.8852
+        },
+        {
+          "text": "(iv) Co-extinctions: When a species becomes extinct, the plant and\nanimal species associated with it in an obligatory way also become\nextinct. When a host fish species becomes extinct, its unique\nassemblage of parasites also meets the same fate. Another example\nis the case of a coevolved plant-pollinator mutualism where\nextinction of one invariably leads to the extinction of the other.",
+          "bbox": {
+            "x_min": 0.0852,
+            "y_min": 0.4152,
+            "x_max": 0.697,
+            "y_max": 0.518,
+            "width": 0.6118,
+            "height": 0.1028
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "13.2 BIODIVERSITY CONSERVATION",
+          "bbox": {
+            "x_min": 0.0753,
+            "y_min": 0.5351,
+            "x_max": 0.4279,
+            "y_max": 0.5488,
+            "width": 0.3526,
+            "height": 0.0137
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "13.2.1 Why Should We Conserve Biodiversity? Biodiversity?",
+          "bbox": {
+            "x_min": 0.0753,
+            "y_min": 0.5664,
+            "x_max": 0.5727,
+            "y_max": 0.5861,
+            "width": 0.4974,
+            "height": 0.0197
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "There are many reasons, some obvious and others not so obvious, but all\nequally important. They can be grouped into three categories: narrowly\nutilitarian, broadly utilitarian, and ethical.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.5964,
+            "x_max": 0.6976,
+            "y_max": 0.6444,
+            "width": 0.6252,
+            "height": 0.048
+          },
+          "confidence": 0.9967
+        },
+        {
+          "text": "The narrowly utilitarian arguments for conserving biodiversity are\nobvious; humans derive countless direct economic benefits from nature-\nfood (cereals, pulses, fruits), firewood, fibre, construction material,\nindustrial products (tannins, lubricants, dyes, resins, perfumes ) and\nproducts of medicinal importance. More than 25 per cent of the drugs\ncurrently sold in the market worldwide are derived from plants and 25,000\nspecies of plants contribute to the traditional medicines used by native\npeoples around the world. Nobody knows how many more medicinally\nuseful plants there are in tropical rain forests waiting to be explored.\nWith increasing resources put into ‘bioprospecting' (exploring molecular,\ngenetic and species-level diversity for products of economic importance),\nnations endowed with rich biodiversity can expect to reap enormous\nbenefits.",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.6482,
+            "x_max": 0.6976,
+            "y_max": 0.8693,
+            "width": 0.6276,
+            "height": 0.2211
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "The broadly utilitarian argument says that biodiversity plays a\nmajor role in many ecosystem services that nature provides. The fast-",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.877,
+            "x_max": 0.6976,
+            "y_max": 0.9092,
+            "width": 0.6246,
+            "height": 0.0321
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "223",
+          "bbox": {
+            "x_min": 0.8506,
+            "y_min": 0.7931,
+            "x_max": 0.899,
+            "y_max": 0.8051,
+            "width": 0.0485,
+            "height": 0.012
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "224",
+          "bbox": {
+            "x_min": 0.0963,
+            "y_min": 0.7922,
+            "x_max": 0.1436,
+            "y_max": 0.8051,
+            "width": 0.0473,
+            "height": 0.0129
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.864,
+            "y_min": 0.0805,
+            "x_max": 0.927,
+            "y_max": 0.0883,
+            "width": 0.063,
+            "height": 0.0077
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "dwindling Amazon forest is estimated to produce, through\nphotosynthesis, 20 per cent of the total oxygen in the earth's atmosphere.\nCan we put an economic value on this service by nature? You can get\nsome idea by finding out how much your neighborhood hospital spends\non a cylinder of oxygen. Pollination (without which plants cannot give\nus fruits or seeds) is another service, ecosystems provide through\npollinators layer – bees, bumblebees, birds and bats. What will be the\ncosts of accomplishing pollination without help from natural\npollinators? There are other intangible benefits – that we derive from\nnature-the aesthetic pleasures of walking through thick woods, watching\nspring flowers in full bloom or waking up to a bulbul's song in the\nmorning. Can we put a price tag on such things?",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.1131,
+            "x_max": 0.9288,
+            "y_max": 0.3278,
+            "width": 0.6264,
+            "height": 0.2147
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "The ethical argument for conserving biodiversity relates to what we\nowe to millions of plant, animal and microbe species with whom we share\nthis planet. Philosophically or spiritually, we need to realise that every\nspecies has an intrinsic value, even if it may not be of current or any\neconomic value to us. We have a moral duty to care for their well-being\nand pass on our biological legacy in good order to future generations.",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.3316,
+            "x_max": 0.9276,
+            "y_max": 0.437,
+            "width": 0.6246,
+            "height": 0.1054
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "13.2.2 How do we conserve Biodiversity?",
+          "bbox": {
+            "x_min": 0.3047,
+            "y_min": 0.4559,
+            "x_max": 0.7478,
+            "y_max": 0.47,
+            "width": 0.4431,
+            "height": 0.0141
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "When we conserve and protect the whole ecosystem, its biodiversity at all\nlevels is protected - we save the entire forest to save the tiger. This approach\nis called in situ (on site) conservation. However, when there are situations\nwhere an animal or plant is endangered or threatened (organisms facing\na very high risk of extinction in the wild in the near future) and needs\nurgent measures to save it from extinction, ex situ (off site) conservation\nis the desirable approach.",
+          "bbox": {
+            "x_min": 0.3001,
+            "y_min": 0.4824,
+            "x_max": 0.9276,
+            "y_max": 0.6028,
+            "width": 0.6276,
+            "height": 0.1204
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "In situ conservation– Faced with the conflict between development and\nconservation, many nations find it unrealistic and economically not feasible\nto conserve all their biological wealth. Invariably, the number of species\nwaiting to be saved from extinction far exceeds the conservation resources\navailable. On a global basis, this problem has been addressed by eminent\nconservationists. They identified for maximum protection certain\n‘biodiversity hotspots' regions with very high levels of species richness\nand\nand \nhigh degree of endemism (that is, species confined to that region\nand not found anywhere else). Initially 25 biodiversity hotspots were\nidentified but subsequently nine more have been added to the list,\nbringing the total number of biodiversity hotspots in the world to 34.\nThese hotspots are also regions of accelerated habitat loss. Three of\nthese hotspots Western Ghats and Sri Lanka, Indo-Burma and\nHimalaya - cover our country's exceptionally high biodiversity regions.\nAlthough all the biodiversity hotspots put together cover less than\n2 per cent of the earth's land area, the number of species they collectively",
+          "bbox": {
+            "x_min": 0.2966,
+            "y_min": 0.6041,
+            "x_max": 0.9294,
+            "y_max": 0.8912,
+            "width": 0.6328,
+            "height": 0.2871
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1938,
+            "y_min": 0.7069,
+            "x_max": 0.3252,
+            "y_max": 0.8162,
+            "width": 0.1313,
+            "height": 0.1093
+          },
+          "confidence": 0.9547
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIODIVERSITY AND CONSERVATION",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.0788,
+            "x_max": 0.3135,
+            "y_max": 0.0878,
+            "width": 0.2411,
+            "height": 0.009
+          },
+          "confidence": 0.9805
+        },
+        {
+          "text": "harbour is extremely high and strict protection of these hotspots could\nreduce the ongoing mass extinctions by almost 30 per cent.",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.1127,
+            "x_max": 0.697,
+            "y_max": 0.1435,
+            "width": 0.6235,
+            "height": 0.0308
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "In India, ecologically unique and biodiversity-rich regions are legally\nprotected as biosphere reserves, national parks and sanctuaries. India\nnow has 14 biosphere reserves, 90 national parks and 448 wildlife\nsanctuaries. India has also a history of religious and cultural traditions\nthat emphasised protection of nature. In many cultures, tracts of forest\nwere set aside, and all the trees and wildlife within were venerated and\ngiven total protection. Such sacred groves are found in Khasi and Jaintia\nHills in Meghalaya, Aravalli Hills of Rajasthan, Western Ghat regions of\nKarnataka and Maharashtra and the Sarguja, Chanda and Bastar areas\nof Madhya Pradesh. In Meghalaya, the sacred groves are the last refuges\nfor a large number of rare and threatened plants.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.1478,
+            "x_max": 0.6988,
+            "y_max": 0.3393,
+            "width": 0.627,
+            "height": 0.1915
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "ished",
+          "bbox": {
+            "x_min": 0.6673,
+            "y_min": 0.3072,
+            "x_max": 0.8716,
+            "y_max": 0.4614,
+            "width": 0.2043,
+            "height": 0.1542
+          },
+          "confidence": 0.8618
+        },
+        {
+          "text": "Ex situ Conservation– In this approach, threatened animals and plants\nare taken out from their natural habitat and placed in special setting\nwhere they can be protected and given special care. Zoological parks,\nbotanical gardens and wildlife safari parks serve this purpose. There are\nmany animals that have become extinct in the wild but continue to be\nmaintained in zoological parks. In recent years ex situ conservation has\nadvanced beyond keeping threatened species in enclosures. Now gametes\nof threatened species can be preserved in viable and fertile condition for\nlong periods using cryopreservation techniques, eggs can be fertilised in\nvitro, and plants can be propagated using tissue culture methods. Seeds\nof different genetic strains of commercially important plants can be kept\nfor long periods in seed banks.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.3518,
+            "x_max": 0.6982,
+            "y_max": 0.5596,
+            "width": 0.6264,
+            "height": 0.2078
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "Biodiversity knows no political boundaries and its conservation is\ntherefore a collective responsibility of all nations. The historic Convention\non Biological Diversity (“The Earth Summit') held in Rio de Janeiro in\n1992, called upon all nations to take appropriate measures for\nconservation of biodiversity and sustainable utilisation of its benefits. In\na follow-up, the World Summit on Sustainable Development held in 2002\nin Johannesburg, South Africa, 190 countries pledged their commitment\nto achieve by 2010, a significant reduction in the current rate of biodiversity\nloss at global, regional and local levels.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.5647,
+            "x_max": 0.6976,
+            "y_max": 0.7202,
+            "width": 0.6252,
+            "height": 0.1555
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "SUMMARY",
+          "bbox": {
+            "x_min": 0.3281,
+            "y_min": 0.7438,
+            "x_max": 0.4495,
+            "y_max": 0.7554,
+            "width": 0.1214,
+            "height": 0.0116
+          },
+          "confidence": 0.967
+        },
+        {
+          "text": "Since life originated on earth nearly 3.8 billion years ago, there had\nbeen enormous diversification of life forms on earth. Biodiversity refers\nto the sum total of diversity that exists at all levels of biological\norganisation. Of particular importance is the diversity at genetic, species\nand ecosystem levels and conservation efforts are aimed at protecting\ndiversity at all these levels.",
+          "bbox": {
+            "x_min": 0.0969,
+            "y_min": 0.7729,
+            "x_max": 0.6801,
+            "y_max": 0.8578,
+            "width": 0.5832,
+            "height": 0.0848
+          },
+          "confidence": 0.9938
+        },
+        {
+          "text": "More than 1.5 million species have been recorded in the world, but\nthere might still be nearly 6 million species on earth waiting to be",
+          "bbox": {
+            "x_min": 0.0969,
+            "y_min": 0.8599,
+            "x_max": 0.6795,
+            "y_max": 0.8869,
+            "width": 0.5826,
+            "height": 0.027
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "225",
+          "bbox": {
+            "x_min": 0.8511,
+            "y_min": 0.7926,
+            "x_max": 0.8978,
+            "y_max": 0.8051,
+            "width": 0.0467,
+            "height": 0.0124
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "226",
+          "bbox": {
+            "x_min": 0.0957,
+            "y_min": 0.7926,
+            "x_max": 0.1436,
+            "y_max": 0.8051,
+            "width": 0.0479,
+            "height": 0.0124
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "no",
+          "bbox": {
+            "x_min": 0.1874,
+            "y_min": 0.7335,
+            "x_max": 0.3147,
+            "y_max": 0.8158,
+            "width": 0.1273,
+            "height": 0.0823
+          },
+          "confidence": 0.9679
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.864,
+            "y_min": 0.0805,
+            "x_max": 0.927,
+            "y_max": 0.0883,
+            "width": 0.063,
+            "height": 0.0077
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "discovered and named. Of the named species, > 70 per cent are animals,\nof which 70 per cent are insects. The group Fungi has more species\nthan all the vertebrate species combined. India, with about 45,000\nspecies of plants and twice as many species of animals, is one of the 12\nmega diversity countries of the world.",
+          "bbox": {
+            "x_min": 0.3176,
+            "y_min": 0.1268,
+            "x_max": 0.9002,
+            "y_max": 0.1975,
+            "width": 0.5826,
+            "height": 0.0707
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "Species diversity on earth is not uniformly distributed but shows\ninteresting patterns. It is generally highest in the tropics and decreases\ntowards the poles. Important explanations for the species richness of\nthe tropics are: Tropics had more evolutionary time; they provide a\nrelatively constant environment and, they receive more solar energy\nwhich contributes to greater productivity. Species richness is also\nfunction of the area of a region; the species-area relationship is generally\na rectangular hyperbolic function.",
+          "bbox": {
+            "x_min": 0.3164,
+            "y_min": 0.1992,
+            "x_max": 0.9025,
+            "y_max": 0.3128,
+            "width": 0.5861,
+            "height": 0.1135
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "It is believed that communities with high diversity tend to be less\nvariable, more productive and more resistant to biological invasions.\nEarth's fossil history reveals incidence of mass extinctions in the past,\nbut the present rates of extinction, largely attributed to human activities,\nare 100 to 1000 times higher. Nearly 700 species have become extinct\nin recent times and more than 15,500 species (of which > 650 are from\nIndia) currently face the threat of extinction. The causes of high\nextinction rates at present include habitat (particularly forests) loss\nand fragmentation, over-exploitation, biological invasions and",
+          "bbox": {
+            "x_min": 0.3176,
+            "y_min": 0.3158,
+            "x_max": 0.9013,
+            "y_max": 0.4439,
+            "width": 0.5838,
+            "height": 0.1281
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "co-extinctions.",
+          "bbox": {
+            "x_min": 0.3182,
+            "y_min": 0.4473,
+            "x_max": 0.4419,
+            "y_max": 0.4554,
+            "width": 0.1238,
+            "height": 0.0081
+          },
+          "confidence": 0.9816
+        },
+        {
+          "text": "Earth's rich biodiversity is vital for the very survival of mankind.\nThe reasons for conserving biodiversity are narrowly utilitarian, broadly\nutilitarian and ethical. Besides the direct benefits (food, fibre, firewood,\npharmaceuticals, etc.), there are many indirect benefits we receive\nthrough ecosystem services such as pollination, pest control, climate\nmoderation and flood control. We also have a moral responsibility to\ntake good care of earth's biodiversity and pass it on in good order to our\nnext generation.",
+          "bbox": {
+            "x_min": 0.3164,
+            "y_min": 0.4602,
+            "x_max": 0.9013,
+            "y_max": 0.5741,
+            "width": 0.5849,
+            "height": 0.114
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "Biodiversity conservation may be in situ as well as ex situ. In in situ\nconservation, the endangered species are protected in their natural\nhabitat so that the entire ecosystem is protected. Recently, 34\n'biodiversity hotspots' in the world have been proposed for intensive\nconservation efforts. Of these, three (Western Ghats-Sri Lanka,\nHimalaya and Indo-Burma) cover India's rich biodiversity regions. Our\ncountry's in situ conservation efforts are reflected in its 14 biosphere\nreserves, 90 national parks, > 450 wildlife sanctuaries and many sacred\ngroves. Ex situ conservation methods include protective maintenance\nof threatened species in zoological parks and botanical gardens, in vitro\nfertilisation, tissue culture propagation and cryopreservation of\ngametes.",
+          "bbox": {
+            "x_min": 0.3152,
+            "y_min": 0.5775,
+            "x_max": 0.9025,
+            "y_max": 0.7481,
+            "width": 0.5873,
+            "height": 0.1705
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "EXERCISES",
+          "bbox": {
+            "x_min": 0.488,
+            "y_min": 0.7973,
+            "x_max": 0.7396,
+            "y_max": 0.8273,
+            "width": 0.2516,
+            "height": 0.03
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "1. Name the three important components of biodiversity.",
+          "bbox": {
+            "x_min": 0.3123,
+            "y_min": 0.8616,
+            "x_max": 0.7939,
+            "y_max": 0.8732,
+            "width": 0.4816,
+            "height": 0.0116
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "2. How do ecologists estimate the total number of species present in the\nworld?",
+          "bbox": {
+            "x_min": 0.3106,
+            "y_min": 0.8796,
+            "x_max": 0.9259,
+            "y_max": 0.9062,
+            "width": 0.6153,
+            "height": 0.0266
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0086
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "BIODIVERSITY AND CONSERVATION",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.0788,
+            "x_max": 0.3135,
+            "y_max": 0.0878,
+            "width": 0.2411,
+            "height": 0.009
+          },
+          "confidence": 0.9805
+        },
+        {
+          "text": "3. Give three hypotheses for explaining why tropics show greatest levels\nof species richness.",
+          "bbox": {
+            "x_min": 0.0841,
+            "y_min": 0.1131,
+            "x_max": 0.6982,
+            "y_max": 0.1427,
+            "width": 0.6141,
+            "height": 0.0296
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "4. What is the significance of the slope of regression in a species area\nrelationship?",
+          "bbox": {
+            "x_min": 0.0829,
+            "y_min": 0.1495,
+            "x_max": 0.6988,
+            "y_max": 0.1778,
+            "width": 0.6159,
+            "height": 0.0283
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "5. What are the major causes of species losses in a geographical region?",
+          "bbox": {
+            "x_min": 0.0841,
+            "y_min": 0.1851,
+            "x_max": 0.6994,
+            "y_max": 0.1971,
+            "width": 0.6153,
+            "height": 0.012
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "6. How is biodiversity important for ecosystem functioning?",
+          "bbox": {
+            "x_min": 0.0829,
+            "y_min": 0.2027,
+            "x_max": 0.5902,
+            "y_max": 0.2147,
+            "width": 0.5073,
+            "height": 0.012
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "7. What are sacred groves? What is their role in conservation?",
+          "bbox": {
+            "x_min": 0.0835,
+            "y_min": 0.2207,
+            "x_max": 0.6176,
+            "y_max": 0.2326,
+            "width": 0.5342,
+            "height": 0.012
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "8. Among the ecosystem services are control of floods and soil erosion.",
+          "bbox": {
+            "x_min": 0.0829,
+            "y_min": 0.2378,
+            "x_max": 0.697,
+            "y_max": 0.2506,
+            "width": 0.6141,
+            "height": 0.0129
+          },
+          "confidence": 0.9868
+        },
+        {
+          "text": "How is this achieved by the biotic components of the ecosystem?",
+          "bbox": {
+            "x_min": 0.1162,
+            "y_min": 0.2562,
+            "x_max": 0.655,
+            "y_max": 0.2686,
+            "width": 0.5388,
+            "height": 0.0124
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "9. The species diversity of plants (22 per cent) is much less than that of\nanimals (72 per cent). What could be the explanations to how animals\nachieved greater diversification?",
+          "bbox": {
+            "x_min": 0.0835,
+            "y_min": 0.2738,
+            "x_max": 0.6999,
+            "y_max": 0.3209,
+            "width": 0.6165,
+            "height": 0.0471
+          },
+          "confidence": 0.9924
+        },
+        {
+          "text": "10. Can you think of a situation where we deliberately want to make a\nspecies extinct? How would you justify it?",
+          "bbox": {
+            "x_min": 0.0771,
+            "y_min": 0.3273,
+            "x_max": 0.6988,
+            "y_max": 0.3582,
+            "width": 0.6217,
+            "height": 0.0308
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "© NCERT",
+          "bbox": {
+            "x_min": 0.289,
+            "y_min": 0.3955,
+            "x_max": 0.6135,
+            "y_max": 0.6272,
+            "width": 0.3246,
+            "height": 0.2318
+          },
+          "confidence": 0.8773
+        },
+        {
+          "text": "not to be republished",
+          "bbox": {
+            "x_min": 0.1833,
+            "y_min": 0.3072,
+            "x_max": 0.8827,
+            "y_max": 0.8179,
+            "width": 0.6994,
+            "height": 0.5107
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9747,
+            "x_max": 0.5487,
+            "y_max": 0.9829,
+            "width": 0.0981,
+            "height": 0.0081
+          },
+          "confidence": 0.984
+        },
+        {
+          "text": "227",
+          "bbox": {
+            "x_min": 0.8517,
+            "y_min": 0.7922,
+            "x_max": 0.8973,
+            "y_max": 0.8051,
+            "width": 0.0455,
+            "height": 0.0129
+          },
+          "confidence": 0.9936
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "dimension": {
+        "width": 2861.0,
+        "height": 2862.0
+      },
+      "paragraphs": [
+        {
+          "text": "NOTES",
+          "bbox": {
+            "x_min": 0.7298,
+            "y_min": 0.2977,
+            "x_max": 0.7983,
+            "y_max": 0.3662,
+            "width": 0.0685,
+            "height": 0.0685
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "© NCERT",
+          "bbox": {
+            "x_min": 0.3583,
+            "y_min": 0.4672,
+            "x_max": 0.5886,
+            "y_max": 0.5059,
+            "width": 0.2303,
+            "height": 0.0388
+          },
+          "confidence": 0.9016
+        },
+        {
+          "text": "not to be republished",
+          "bbox": {
+            "x_min": 0.208,
+            "y_min": 0.5248,
+            "x_max": 0.749,
+            "y_max": 0.5748,
+            "width": 0.5411,
+            "height": 0.05
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.201,
+            "y_min": 0.7533,
+            "x_max": 0.2471,
+            "y_max": 0.7994,
+            "width": 0.0461,
+            "height": 0.0461
+          },
+          "confidence": 0.984
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

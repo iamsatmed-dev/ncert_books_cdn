@@ -1,0 +1,2541 @@
+{
+  "chapter_id": "11th_biology_ch18_neural_control_and_coordination_ch18_neural_control_and_coordination_en",
+  "total_pages": 9,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "11080CH2T",
+          "bbox": {
+            "x_min": 0.1541,
+            "y_min": 0.2121,
+            "x_max": 0.2008,
+            "y_max": 0.2181,
+            "width": 0.0467,
+            "height": 0.006
+          },
+          "confidence": 0.9386
+        },
+        {
+          "text": "18.1 Neural System",
+          "bbox": {
+            "x_min": 0.1051,
+            "y_min": 0.4841,
+            "x_max": 0.2761,
+            "y_max": 0.4953,
+            "width": 0.171,
+            "height": 0.0111
+          },
+          "confidence": 0.9866
+        },
+        {
+          "text": "18.2 Human Neural\nSystem",
+          "bbox": {
+            "x_min": 0.1057,
+            "y_min": 0.5094,
+            "x_max": 0.2779,
+            "y_max": 0.539,
+            "width": 0.1722,
+            "height": 0.0296
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "18.3 Neuron as\nStructural and\nFunctional Unit",
+          "bbox": {
+            "x_min": 0.1045,
+            "y_min": 0.554,
+            "x_max": 0.2755,
+            "y_max": 0.5981,
+            "width": 0.171,
+            "height": 0.0441
+          },
+          "confidence": 0.983
+        },
+        {
+          "text": "of Neural\nSystem",
+          "bbox": {
+            "x_min": 0.1494,
+            "y_min": 0.6075,
+            "x_max": 0.2265,
+            "y_max": 0.6362,
+            "width": 0.0771,
+            "height": 0.0287
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "CHAPTER 18",
+          "bbox": {
+            "x_min": 0.3374,
+            "y_min": 0.3226,
+            "x_max": 0.5499,
+            "y_max": 0.3513,
+            "width": 0.2125,
+            "height": 0.0287
+          },
+          "confidence": 0.9678
+        },
+        {
+          "text": "blished",
+          "bbox": {
+            "x_min": 0.6089,
+            "y_min": 0.3085,
+            "x_max": 0.8757,
+            "y_max": 0.5,
+            "width": 0.2668,
+            "height": 0.1915
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "NEURAL CONTROL AND",
+          "bbox": {
+            "x_min": 0.3386,
+            "y_min": 0.3728,
+            "x_max": 0.7093,
+            "y_max": 0.4057,
+            "width": 0.3707,
+            "height": 0.033
+          },
+          "confidence": 0.9591
+        },
+        {
+          "text": "COORDINATION",
+          "bbox": {
+            "x_min": 0.3403,
+            "y_min": 0.4195,
+            "x_max": 0.5779,
+            "y_max": 0.4469,
+            "width": 0.2376,
+            "height": 0.0274
+          },
+          "confidence": 0.9701
+        },
+        {
+          "text": "As you know, the functions of the organs/organ systems in our body\nmust be coordinated to maintain homeostasis. Coordination is the\nprocess through which two or more organs interact and complement the\nfunctions of one another. For example, when we do physical exercises,\nthe energy demand is increased for maintaining an increased muscular\nactivity. The supply of oxygen is also increased. The increased supply of\noxygen necessitates an increase in the rate of respiration, heart beat and\nincreased blood flow via blood vessels. When physical exercise is stopped,\nthe activities of nerves, lungs, heart and kidney gradually return to their",
+          "bbox": {
+            "x_min": 0.3001,
+            "y_min": 0.4799,
+            "x_max": 0.927,
+            "y_max": 0.6418,
+            "width": 0.627,
+            "height": 0.162
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "18.4 Central Neural normal conditions. Thus, the functions of muscles, lungs, heart, blood",
+          "bbox": {
+            "x_min": 0.1051,
+            "y_min": 0.647,
+            "x_max": 0.9247,
+            "y_max": 0.6602,
+            "width": 0.8196,
+            "height": 0.0133
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "System",
+          "bbox": {
+            "x_min": 0.15,
+            "y_min": 0.6684,
+            "x_max": 0.2137,
+            "y_max": 0.6791,
+            "width": 0.0636,
+            "height": 0.0107
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "vessels, kidney and other organs are coordinated while performing physical\nexercises. In our body the neural system and the endocrine system jointly\ncoordinate and integrate all the activities of the organs so that they function\nin a synchronised fashion.",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.665,
+            "x_max": 0.9259,
+            "y_max": 0.7344,
+            "width": 0.6252,
+            "height": 0.0694
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1932,
+            "y_min": 0.7104,
+            "x_max": 0.3281,
+            "y_max": 0.8128,
+            "width": 0.1349,
+            "height": 0.1024
+          },
+          "confidence": 0.9846
+        },
+        {
+          "text": "The neural system provides an organised network of point-to-point\nconnections for a quick coordination. The endocrine system provides\nchemical integration through hormones. In this chapter, you will learn\nabout the neural system of human, mechanisms of neural coordination\nlike transmission of nerve impulse and impulse conduction across\na synapse.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.7391,
+            "x_max": 0.927,
+            "y_max": 0.8445,
+            "width": 0.6258,
+            "height": 0.1054
+          },
+          "confidence": 0.9949
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "NEURAL CONTROL AND COORDINATION",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.0827,
+            "x_max": 0.3993,
+            "y_max": 0.0925,
+            "width": 0.2849,
+            "height": 0.0099
+          },
+          "confidence": 0.982
+        },
+        {
+          "text": "231",
+          "bbox": {
+            "x_min": 0.8447,
+            "y_min": 0.084,
+            "x_max": 0.8856,
+            "y_max": 0.093,
+            "width": 0.0409,
+            "height": 0.009
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "18.1 NEURAL SYSTEM",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.135,
+            "x_max": 0.303,
+            "y_max": 0.147,
+            "width": 0.2283,
+            "height": 0.012
+          },
+          "confidence": 0.9817
+        },
+        {
+          "text": "The neural system of all animals is composed of highly specialised cells called\nneurons which can detect, receive and transmit different kinds of stimuli.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.171,
+            "x_max": 0.6964,
+            "y_max": 0.2005,
+            "width": 0.6246,
+            "height": 0.0296
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "The neural organisation is very simple in lower invertebrates. For\nexample, in Hydra it is composed of a network of neurons. The neural\nsystem is better organised in insects, where a brain is present along with\na number of ganglia and neural tissues. The vertebrates have a more\ndeveloped neural system.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.2061,
+            "x_max": 0.6964,
+            "y_max": 0.2909,
+            "width": 0.6235,
+            "height": 0.0848
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "18.2 HUMAN NEURAL SYSTEM",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.3175,
+            "x_max": 0.3806,
+            "y_max": 0.3299,
+            "width": 0.3065,
+            "height": 0.0124
+          },
+          "confidence": 0.9774
+        },
+        {
+          "text": "The human neural system is divided into two parts :",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.3539,
+            "x_max": 0.5277,
+            "y_max": 0.3668,
+            "width": 0.4559,
+            "height": 0.0129
+          },
+          "confidence": 0.9973
+        },
+        {
+          "text": "(i) the central neural system (CNS)",
+          "bbox": {
+            "x_min": 0.1051,
+            "y_min": 0.371,
+            "x_max": 0.4238,
+            "y_max": 0.3839,
+            "width": 0.3187,
+            "height": 0.0129
+          },
+          "confidence": 0.9881
+        },
+        {
+          "text": "(ii) the peripheral neural system (PNS)",
+          "bbox": {
+            "x_min": 0.1045,
+            "y_min": 0.3886,
+            "x_max": 0.4513,
+            "y_max": 0.4023,
+            "width": 0.3468,
+            "height": 0.0137
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "bished",
+          "bbox": {
+            "x_min": 0.6054,
+            "y_min": 0.3076,
+            "x_max": 0.8757,
+            "y_max": 0.5004,
+            "width": 0.2703,
+            "height": 0.1928
+          },
+          "confidence": 0.8007
+        },
+        {
+          "text": "The CNS includes the brain and the spinal cord and is the site of\ninformation processing and control. The PNS comprises of all the \nof the body associated with the CNS (brain and spinal cord). The nerv\nfibres of the PNS are of two types :",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.4105,
+            "x_max": 0.6988,
+            "y_max": 0.4777,
+            "width": 0.6258,
+            "height": 0.0673
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "(a) afferent fibres",
+          "bbox": {
+            "x_min": 0.1045,
+            "y_min": 0.482,
+            "x_max": 0.2586,
+            "y_max": 0.4949,
+            "width": 0.1541,
+            "height": 0.0129
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "(b) efferent fibres",
+          "bbox": {
+            "x_min": 0.1045,
+            "y_min": 0.4996,
+            "x_max": 0.2604,
+            "y_max": 0.5129,
+            "width": 0.1559,
+            "height": 0.0133
+          },
+          "confidence": 0.9895
+        },
+        {
+          "text": "CE",
+          "bbox": {
+            "x_min": 0.4139,
+            "y_min": 0.4584,
+            "x_max": 0.5318,
+            "y_max": 0.5343,
+            "width": 0.1179,
+            "height": 0.0758
+          },
+          "confidence": 0.9048
+        },
+        {
+          "text": "The afferent nerve fibres transmit impulses from tissues/organs to\nthe CNS and the efferent fibres transmit regulatory impulses from the\nCNS to the concerned peripheral tissues/organs.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.521,
+            "x_max": 0.697,
+            "y_max": 0.5698,
+            "width": 0.6246,
+            "height": 0.0488
+          },
+          "confidence": 0.9973
+        },
+        {
+          "text": "organsory impulses",
+          "bbox": {
+            "x_min": 0.4343,
+            "y_min": 0.5411,
+            "x_max": 0.6147,
+            "y_max": 0.5703,
+            "width": 0.1804,
+            "height": 0.0291
+          },
+          "confidence": 0.7458
+        },
+        {
+          "text": "The PNS is divided into two divisions called somatic neural system\nand autonomic neural system. The somatic neural system relays\nimpulses from the CNS to skeletal muscles while the autonomic neural\nsystem transmits impulses from the CNS to the involuntary organs and\nsmooth muscles of the body. The autonomic neural system is further\nclassified into sympathetic neural system and parasympathetic neural\nsystem.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.5741,
+            "x_max": 0.6976,
+            "y_max": 0.6919,
+            "width": 0.6246,
+            "height": 0.1178
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "Visceral nervous system is the part of the peripheral nervous system\nthat comprises the whole complex of nerves, fibres, ganglia, and plexuses\nby which impulses travel from the central nervous system to the viscera\nand from the viscera to the central nervous system.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.6958,
+            "x_max": 0.6976,
+            "y_max": 0.7618,
+            "width": 0.6252,
+            "height": 0.066
+          },
+          "confidence": 0.997
+        },
+        {
+          "text": "18.3 NEURON AS STRUCTURAL AND FUNCTIONAL UNIT OF",
+          "bbox": {
+            "x_min": 0.0753,
+            "y_min": 0.7811,
+            "x_max": 0.6346,
+            "y_max": 0.8046,
+            "width": 0.5593,
+            "height": 0.0236
+          },
+          "confidence": 0.8778
+        },
+        {
+          "text": "NEURAL SYSTEM",
+          "bbox": {
+            "x_min": 0.1448,
+            "y_min": 0.8051,
+            "x_max": 0.2995,
+            "y_max": 0.8166,
+            "width": 0.1547,
+            "height": 0.0116
+          },
+          "confidence": 0.9697
+        },
+        {
+          "text": "A neuron is a microscopic structure composed of three major parts, namely,\ncell body, dendrites and axon (Figure 18.1). The cell body contains cytoplasm\nwith typical cell organelles and certain granular bodies called Nissl's granules.\nShort fibres which branch repeatedly and project out of the cell body also",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.8393,
+            "x_max": 0.6964,
+            "y_max": 0.9053,
+            "width": 0.6258,
+            "height": 0.066
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "232",
+          "bbox": {
+            "x_min": 0.1179,
+            "y_min": 0.084,
+            "x_max": 0.16,
+            "y_max": 0.093,
+            "width": 0.042,
+            "height": 0.009
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9259,
+            "y_max": 0.0934,
+            "width": 0.0695,
+            "height": 0.0094
+          },
+          "confidence": 0.978
+        },
+        {
+          "text": "Dendrites",
+          "bbox": {
+            "x_min": 0.1494,
+            "y_min": 0.1594,
+            "x_max": 0.2294,
+            "y_max": 0.168,
+            "width": 0.08,
+            "height": 0.0086
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "Nissl's granules",
+          "bbox": {
+            "x_min": 0.1039,
+            "y_min": 0.1889,
+            "x_max": 0.23,
+            "y_max": 0.2014,
+            "width": 0.1261,
+            "height": 0.0124
+          },
+          "confidence": 0.9868
+        },
+        {
+          "text": "Cell body",
+          "bbox": {
+            "x_min": 0.1547,
+            "y_min": 0.2309,
+            "x_max": 0.2318,
+            "y_max": 0.2421,
+            "width": 0.0771,
+            "height": 0.0111
+          },
+          "confidence": 0.985
+        },
+        {
+          "text": "Nucleus",
+          "bbox": {
+            "x_min": 0.1617,
+            "y_min": 0.2618,
+            "x_max": 0.2288,
+            "y_max": 0.2699,
+            "width": 0.0671,
+            "height": 0.0081
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "Schwan cell",
+          "bbox": {
+            "x_min": 0.1349,
+            "y_min": 0.3359,
+            "x_max": 0.23,
+            "y_max": 0.3449,
+            "width": 0.0952,
+            "height": 0.009
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "Axon",
+          "bbox": {
+            "x_min": 0.1856,
+            "y_min": 0.3856,
+            "x_max": 0.23,
+            "y_max": 0.3946,
+            "width": 0.0444,
+            "height": 0.009
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "Myelin\nsheath",
+          "bbox": {
+            "x_min": 0.1716,
+            "y_min": 0.428,
+            "x_max": 0.2306,
+            "y_max": 0.4507,
+            "width": 0.059,
+            "height": 0.0227
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "Node of\nRanvier",
+          "bbox": {
+            "x_min": 0.1664,
+            "y_min": 0.4649,
+            "x_max": 0.2335,
+            "y_max": 0.4871,
+            "width": 0.0671,
+            "height": 0.0223
+          },
+          "confidence": 0.9852
+        },
+        {
+          "text": "Axon\nterminal",
+          "bbox": {
+            "x_min": 0.1547,
+            "y_min": 0.5094,
+            "x_max": 0.2248,
+            "y_max": 0.533,
+            "width": 0.0701,
+            "height": 0.0236
+          },
+          "confidence": 0.9915
+        },
+        {
+          "text": "Synaptic\nknob",
+          "bbox": {
+            "x_min": 0.1576,
+            "y_min": 0.551,
+            "x_max": 0.2288,
+            "y_max": 0.5728,
+            "width": 0.0712,
+            "height": 0.0219
+          },
+          "confidence": 0.9928
+        },
+        {
+          "text": "Figure 18.1 Structure of a neuron",
+          "bbox": {
+            "x_min": 0.143,
+            "y_min": 0.5913,
+            "x_max": 0.4378,
+            "y_max": 0.6045,
+            "width": 0.2948,
+            "height": 0.0133
+          },
+          "confidence": 0.9942
+        },
+        {
+          "text": "contain Nissl's granules and are called dendrites. These\nfibres transmit impulses towards the cell body. The\naxon is a long fibre, the distal end of which is branched.\nEach branch terminates as a bulb-like structure called\nsynaptic knob which possess synaptic vesicles\ncontaining chemicals called neurotransmitters. The\naxons transmit nerve impulses away from the cell body\nto a synapse or to a neuro-muscular junction. Based\non the number of axon and dendrites, the neurons are\ndivided into three types, i.e., multipolar (with one axon\nand two or more dendrites; found in the cerebral cortex),\nbipolar (with one axon and one dendrite, found in the\nretina of eye) and unipolar (cell body with one axon\nonly; found usually in the embryonic stage). There are\ntwo types of axons, namely, myelinated and non-\nmyelinated. The myelinated nerve fibres are enveloped\nwith Schwann cells, which form a myelin sheath\naround the axon. The gaps between two adjacent\nmyelin sheaths are called nodes of Ranvier.\nMyelinated nerve fibres are found in spinal and cranial\nnerves. Unmyelinated nerve fibre is enclosed by a\nSchwann cell that does not form a myelin sheath\naround the axon, and is commonly found in\nautonomous and the somatic neural systems.",
+          "bbox": {
+            "x_min": 0.488,
+            "y_min": 0.1354,
+            "x_max": 0.9276,
+            "y_max": 0.5591,
+            "width": 0.4396,
+            "height": 0.4237
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "18.3.1 Generation and Conduction of",
+          "bbox": {
+            "x_min": 0.4898,
+            "y_min": 0.5771,
+            "x_max": 0.9241,
+            "y_max": 0.5895,
+            "width": 0.4343,
+            "height": 0.0124
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "Nerve Impulse",
+          "bbox": {
+            "x_min": 0.5867,
+            "y_min": 0.596,
+            "x_max": 0.7443,
+            "y_max": 0.611,
+            "width": 0.1576,
+            "height": 0.015
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "Neurons are excitable cells because their membranes are in a polarised\nstate. Do you know why the membrane of a neuron is polarised? Different\ntypes of ion channels are present on the neural membrane. These ion\nchannels are selectively permeable to different ions. When a neuron is not\nconducting any impulse, i.e., resting, the axonal membrane is\ncomparatively more permeable to potassium ions (K) and nearly\nimpe\nimpermeable to sodium ions (Na+). Similarly, the membrane is\nimpermeable to negatively charged proteins present in the axoplasm.\nConsequently, the axoplasm inside the axon contains high concentration\nof K⁺ and negatively charged proteins and low concentration of Na⁺. In\ncontrast, the fluid outside the axon contains a low concentration of K⁺, a\nhigh concentration of Na⁺ and thus form a concentration gradient. These\nionic gradients across the resting membrane are maintained by the active\ntransport of ions by the sodium-potassium pump which transports 3\nNa outwards for 2 K⁺ into the cell. As a result, the outer surface of the\naxonal membrane possesses a positive charge while its inner surface",
+          "bbox": {
+            "x_min": 0.2989,
+            "y_min": 0.6213,
+            "x_max": 0.9276,
+            "y_max": 0.9062,
+            "width": 0.6287,
+            "height": 0.2849
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1921,
+            "y_min": 0.7069,
+            "x_max": 0.3287,
+            "y_max": 0.8158,
+            "width": 0.1366,
+            "height": 0.1088
+          },
+          "confidence": 0.8922
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "NEURAL CONTROL AND COORDINATION",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.0823,
+            "x_max": 0.3993,
+            "y_max": 0.093,
+            "width": 0.2849,
+            "height": 0.0107
+          },
+          "confidence": 0.9761
+        },
+        {
+          "text": "A\nNa",
+          "bbox": {
+            "x_min": 0.2002,
+            "y_min": 0.1474,
+            "x_max": 0.2265,
+            "y_max": 0.1697,
+            "width": 0.0263,
+            "height": 0.0223
+          },
+          "confidence": 0.9777
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.2866,
+            "y_min": 0.1795,
+            "x_max": 0.2983,
+            "y_max": 0.1855,
+            "width": 0.0117,
+            "height": 0.006
+          },
+          "confidence": 0.9496
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.3187,
+            "y_min": 0.1799,
+            "x_max": 0.3298,
+            "y_max": 0.1859,
+            "width": 0.0111,
+            "height": 0.006
+          },
+          "confidence": 0.9489
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.3619,
+            "y_min": 0.1799,
+            "x_max": 0.3736,
+            "y_max": 0.1859,
+            "width": 0.0117,
+            "height": 0.006
+          },
+          "confidence": 0.9494
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.4028,
+            "y_min": 0.1799,
+            "x_max": 0.4145,
+            "y_max": 0.1859,
+            "width": 0.0117,
+            "height": 0.006
+          },
+          "confidence": 0.9495
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.4402,
+            "y_min": 0.1795,
+            "x_max": 0.4518,
+            "y_max": 0.1859,
+            "width": 0.0117,
+            "height": 0.0064
+          },
+          "confidence": 0.9499
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.4828,
+            "y_min": 0.1791,
+            "x_max": 0.495,
+            "y_max": 0.1855,
+            "width": 0.0123,
+            "height": 0.0064
+          },
+          "confidence": 0.954
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.5248,
+            "y_min": 0.1795,
+            "x_max": 0.5365,
+            "y_max": 0.1855,
+            "width": 0.0117,
+            "height": 0.006
+          },
+          "confidence": 0.9494
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.5651,
+            "y_min": 0.1804,
+            "x_max": 0.5768,
+            "y_max": 0.1864,
+            "width": 0.0117,
+            "height": 0.006
+          },
+          "confidence": 0.9495
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.6246,
+            "y_min": 0.1804,
+            "x_max": 0.6357,
+            "y_max": 0.1864,
+            "width": 0.0111,
+            "height": 0.006
+          },
+          "confidence": 0.9485
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.3433,
+            "y_min": 0.1847,
+            "x_max": 0.3538,
+            "y_max": 0.1937,
+            "width": 0.0105,
+            "height": 0.009
+          },
+          "confidence": 0.9128
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.5919,
+            "y_min": 0.1838,
+            "x_max": 0.6025,
+            "y_max": 0.1919,
+            "width": 0.0105,
+            "height": 0.0081
+          },
+          "confidence": 0.9247
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.1821,
+            "y_min": 0.2014,
+            "x_max": 0.1926,
+            "y_max": 0.2074,
+            "width": 0.0105,
+            "height": 0.006
+          },
+          "confidence": 0.9493
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.2428,
+            "y_min": 0.2005,
+            "x_max": 0.2539,
+            "y_max": 0.2065,
+            "width": 0.0111,
+            "height": 0.006
+          },
+          "confidence": 0.9504
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.181,
+            "y_min": 0.2228,
+            "x_max": 0.1921,
+            "y_max": 0.2288,
+            "width": 0.0111,
+            "height": 0.006
+          },
+          "confidence": 0.9494
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.2393,
+            "y_min": 0.2232,
+            "x_max": 0.2504,
+            "y_max": 0.2296,
+            "width": 0.0111,
+            "height": 0.0064
+          },
+          "confidence": 0.9546
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.3147,
+            "y_min": 0.2416,
+            "x_max": 0.3263,
+            "y_max": 0.2481,
+            "width": 0.0117,
+            "height": 0.0064
+          },
+          "confidence": 0.9529
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.3602,
+            "y_min": 0.2421,
+            "x_max": 0.3689,
+            "y_max": 0.2476,
+            "width": 0.0088,
+            "height": 0.0056
+          },
+          "confidence": 0.9467
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.3987,
+            "y_min": 0.2412,
+            "x_max": 0.4104,
+            "y_max": 0.2472,
+            "width": 0.0117,
+            "height": 0.006
+          },
+          "confidence": 0.9482
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.4367,
+            "y_min": 0.2412,
+            "x_max": 0.4483,
+            "y_max": 0.2472,
+            "width": 0.0117,
+            "height": 0.006
+          },
+          "confidence": 0.9524
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.4997,
+            "y_min": 0.2399,
+            "x_max": 0.5114,
+            "y_max": 0.2459,
+            "width": 0.0117,
+            "height": 0.006
+          },
+          "confidence": 0.9523
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.5306,
+            "y_min": 0.2391,
+            "x_max": 0.5429,
+            "y_max": 0.2451,
+            "width": 0.0123,
+            "height": 0.006
+          },
+          "confidence": 0.9485
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.5698,
+            "y_min": 0.2404,
+            "x_max": 0.5809,
+            "y_max": 0.2464,
+            "width": 0.0111,
+            "height": 0.006
+          },
+          "confidence": 0.9482
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.6264,
+            "y_min": 0.2386,
+            "x_max": 0.6381,
+            "y_max": 0.2451,
+            "width": 0.0117,
+            "height": 0.0064
+          },
+          "confidence": 0.9489
+        },
+        {
+          "text": "+\nNa",
+          "bbox": {
+            "x_min": 0.1996,
+            "y_min": 0.2485,
+            "x_max": 0.2253,
+            "y_max": 0.2661,
+            "width": 0.0257,
+            "height": 0.0176
+          },
+          "confidence": 0.9746
+        },
+        {
+          "text": "233",
+          "bbox": {
+            "x_min": 0.8459,
+            "y_min": 0.0835,
+            "x_max": 0.8838,
+            "y_max": 0.0934,
+            "width": 0.0379,
+            "height": 0.0099
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "B",
+          "bbox": {
+            "x_min": 0.3287,
+            "y_min": 0.2969,
+            "x_max": 0.3438,
+            "y_max": 0.3046,
+            "width": 0.0152,
+            "height": 0.0077
+          },
+          "confidence": 0.9525
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.2866,
+            "y_min": 0.3085,
+            "x_max": 0.2983,
+            "y_max": 0.3145,
+            "width": 0.0117,
+            "height": 0.006
+          },
+          "confidence": 0.9495
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.3176,
+            "y_min": 0.3085,
+            "x_max": 0.3304,
+            "y_max": 0.3149,
+            "width": 0.0128,
+            "height": 0.0064
+          },
+          "confidence": 0.9534
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.3614,
+            "y_min": 0.3085,
+            "x_max": 0.3742,
+            "y_max": 0.3149,
+            "width": 0.0128,
+            "height": 0.0064
+          },
+          "confidence": 0.9538
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.4022,
+            "y_min": 0.3085,
+            "x_max": 0.4139,
+            "y_max": 0.3145,
+            "width": 0.0117,
+            "height": 0.006
+          },
+          "confidence": 0.9494
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.4402,
+            "y_min": 0.3085,
+            "x_max": 0.4518,
+            "y_max": 0.3149,
+            "width": 0.0117,
+            "height": 0.0064
+          },
+          "confidence": 0.9491
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.4828,
+            "y_min": 0.3085,
+            "x_max": 0.4945,
+            "y_max": 0.3141,
+            "width": 0.0117,
+            "height": 0.0056
+          },
+          "confidence": 0.9501
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.5248,
+            "y_min": 0.3085,
+            "x_max": 0.5365,
+            "y_max": 0.3145,
+            "width": 0.0117,
+            "height": 0.006
+          },
+          "confidence": 0.9498
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.5651,
+            "y_min": 0.3093,
+            "x_max": 0.5768,
+            "y_max": 0.3158,
+            "width": 0.0117,
+            "height": 0.0064
+          },
+          "confidence": 0.9547
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.6241,
+            "y_min": 0.3093,
+            "x_max": 0.6357,
+            "y_max": 0.3153,
+            "width": 0.0117,
+            "height": 0.006
+          },
+          "confidence": 0.949
+        },
+        {
+          "text": "++",
+          "bbox": {
+            "x_min": 0.5931,
+            "y_min": 0.3128,
+            "x_max": 0.6147,
+            "y_max": 0.3218,
+            "width": 0.0216,
+            "height": 0.009
+          },
+          "confidence": 0.5831
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.1821,
+            "y_min": 0.3308,
+            "x_max": 0.1921,
+            "y_max": 0.3363,
+            "width": 0.0099,
+            "height": 0.0056
+          },
+          "confidence": 0.9531
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.2388,
+            "y_min": 0.3526,
+            "x_max": 0.2499,
+            "y_max": 0.3582,
+            "width": 0.0111,
+            "height": 0.0056
+          },
+          "confidence": 0.9501
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.3147,
+            "y_min": 0.3698,
+            "x_max": 0.3263,
+            "y_max": 0.3762,
+            "width": 0.0117,
+            "height": 0.0064
+          },
+          "confidence": 0.9497
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.3584,
+            "y_min": 0.3702,
+            "x_max": 0.3701,
+            "y_max": 0.3762,
+            "width": 0.0117,
+            "height": 0.006
+          },
+          "confidence": 0.9492
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.3987,
+            "y_min": 0.3702,
+            "x_max": 0.4104,
+            "y_max": 0.3766,
+            "width": 0.0117,
+            "height": 0.0064
+          },
+          "confidence": 0.9534
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.4361,
+            "y_min": 0.3702,
+            "x_max": 0.4483,
+            "y_max": 0.3762,
+            "width": 0.0123,
+            "height": 0.006
+          },
+          "confidence": 0.9479
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.4991,
+            "y_min": 0.3685,
+            "x_max": 0.5108,
+            "y_max": 0.3745,
+            "width": 0.0117,
+            "height": 0.006
+          },
+          "confidence": 0.9494
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.5698,
+            "y_min": 0.3693,
+            "x_max": 0.5809,
+            "y_max": 0.3749,
+            "width": 0.0111,
+            "height": 0.0056
+          },
+          "confidence": 0.9493
+        },
+        {
+          "text": "+",
+          "bbox": {
+            "x_min": 0.6264,
+            "y_min": 0.3668,
+            "x_max": 0.6381,
+            "y_max": 0.3732,
+            "width": 0.0117,
+            "height": 0.0064
+          },
+          "confidence": 0.9493
+        },
+        {
+          "text": "Figure 18.2 Diagrammatic representation of impulse conduction through an axon",
+          "bbox": {
+            "x_min": 0.1016,
+            "y_min": 0.4015,
+            "x_max": 0.7986,
+            "y_max": 0.4147,
+            "width": 0.697,
+            "height": 0.0133
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "(at points A and B)",
+          "bbox": {
+            "x_min": 0.2154,
+            "y_min": 0.4169,
+            "x_max": 0.3713,
+            "y_max": 0.4289,
+            "width": 0.1559,
+            "height": 0.012
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "lished",
+          "bbox": {
+            "x_min": 0.6381,
+            "y_min": 0.3085,
+            "x_max": 0.8762,
+            "y_max": 0.4764,
+            "width": 0.2382,
+            "height": 0.168
+          },
+          "confidence": 0.8584
+        },
+        {
+          "text": "becomes negatively charged and, therefore is, polarised. The electrical\npotential difference across the resting plasma membrane is called as the\nresting potential.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.4464,
+            "x_max": 0.697,
+            "y_max": 0.4949,
+            "width": 0.6246,
+            "height": 0.0484
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "You might be curious to know about the mechanisms of generation\nof nerve impulse and its conduction along an axon. When a stimulus is\napplied at a site (Figure 18.2 e.g., point A) on the polarised membrane,\nthe membrane at the site A becomes freely permeable to Na⁺. This leads\nto a rapid influx of Na+ followed by the reversal of the polarity at that site,\ni.e., the outer surface of the membrane becomes negatively charged and\nthe inner side becomes positively charged. The polarity of the membrane\nat the site A is thus reversed and hence depolarised. The electrical potential\ndifference across the plasma membrane at the site A is called the\naction potential, which is in fact termed as a nerve impulse. At sites\nimmediately ahead, the axon (e.g., site B) membrane has a positive charge\non the outer surface and a negative charge on its inner surface. As a\nresult, a current flows on the inner surface from site A to site B. On the\nouter surface current flows from site B to site A (Figure 18.2) to complete\nthe circuit of current flow. Hence, the polarity at the site is reversed, and\nan action potential is generated at site B. Thus, the impulse (action\npotential) generated at site A arrives at site B. The sequence is repeated\nalong the length of the axon and consequently the impulse is conducted.\nThe rise in the stimulus-induced permeability to Na+ is extremely short-\nlived. It is quickly followed by a rise in permeability to K+. Within a fraction\nof a second, K+ diffuses outside the membrane and restores the resting\npotential of the membrane at the site of excitation and the fibre becomes\nonce more responsive to further stimulation.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.4996,
+            "x_max": 0.6976,
+            "y_max": 0.9049,
+            "width": 0.6258,
+            "height": 0.4053
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "234",
+          "bbox": {
+            "x_min": 0.1173,
+            "y_min": 0.084,
+            "x_max": 0.16,
+            "y_max": 0.093,
+            "width": 0.0426,
+            "height": 0.009
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8581,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0671,
+            "height": 0.0094
+          },
+          "confidence": 0.9739
+        },
+        {
+          "text": "18.3.2 Transmission of Impulses",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.1341,
+            "x_max": 0.669,
+            "y_max": 0.1491,
+            "width": 0.3649,
+            "height": 0.015
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "A nerve impulse is transmitted from one neuron to another through\njunctions called synapses. A synapse is formed by the membranes of a\npre-synaptic neuron and a post-synaptic neuron, which may or may not\nbe separated by a gap called synaptic cleft. There are two types of\nsynapses, namely, electrical synapses and chemical synapses. At electrical\nsynapses, the membranes of pre- and post-synaptic neurons are in very\nclose proximity. Electrical current can flow directly from one neuron into\nthe other across these synapses. Transmission of an impulse across\nelectrical synapses is very similar to impulse conduction along a single\naxon. Impulse transmission across an electrical synapse is always faster\nthan that across a chemical synapse. Electrical synapses are rare in our\nsystem.",
+          "bbox": {
+            "x_min": 0.2995,
+            "y_min": 0.1615,
+            "x_max": 0.9276,
+            "y_max": 0.3706,
+            "width": 0.6281,
+            "height": 0.2091
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "At a chemical synapse, the membranes of the pre- and post-synaptic\nneurons are separated by a fluid-filled space called synaptic cleft\n(Figure 18.3). Do you know how the pre-synaptic neuron transmits an\nimpulse (action potential) across the synaptic cleft to the post-synaptic\nneuron? Chemicals called neurotransmitters are involved in the\ntransmission of impulses at these synapses. The axon terminals contain\nvesicles filled with these neurotransmitters. When an impulse (action\npotential) arrives at the axon terminal, it stimulates the movement of the\nsynaptic vesicles towards the membrane where they fuse with the plasma",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.3757,
+            "x_max": 0.927,
+            "y_max": 0.5313,
+            "width": 0.6252,
+            "height": 0.1555
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "Neurotransmitters",
+          "bbox": {
+            "x_min": 0.2849,
+            "y_min": 0.853,
+            "x_max": 0.4332,
+            "y_max": 0.8612,
+            "width": 0.1483,
+            "height": 0.0081
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "Axon",
+          "bbox": {
+            "x_min": 0.6929,
+            "y_min": 0.59,
+            "x_max": 0.7379,
+            "y_max": 0.5981,
+            "width": 0.045,
+            "height": 0.0081
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "Axon",
+          "bbox": {
+            "x_min": 0.6929,
+            "y_min": 0.6307,
+            "x_max": 0.7367,
+            "y_max": 0.6392,
+            "width": 0.0438,
+            "height": 0.0086
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "terminal",
+          "bbox": {
+            "x_min": 0.6959,
+            "y_min": 0.644,
+            "x_max": 0.7647,
+            "y_max": 0.6525,
+            "width": 0.0689,
+            "height": 0.0086
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "Synaptic\nvesicles",
+          "bbox": {
+            "x_min": 0.6982,
+            "y_min": 0.6761,
+            "x_max": 0.7688,
+            "y_max": 0.6988,
+            "width": 0.0706,
+            "height": 0.0227
+          },
+          "confidence": 0.989
+        },
+        {
+          "text": "Pre-synaptic\nmembrane",
+          "bbox": {
+            "x_min": 0.6912,
+            "y_min": 0.7177,
+            "x_max": 0.7933,
+            "y_max": 0.7395,
+            "width": 0.1022,
+            "height": 0.0219
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "Synaptic cleft",
+          "bbox": {
+            "x_min": 0.6906,
+            "y_min": 0.7562,
+            "x_max": 0.7992,
+            "y_max": 0.7674,
+            "width": 0.1086,
+            "height": 0.0111
+          },
+          "confidence": 0.9896
+        },
+        {
+          "text": "Post-synaptic\nmembrane",
+          "bbox": {
+            "x_min": 0.6906,
+            "y_min": 0.7871,
+            "x_max": 0.7998,
+            "y_max": 0.8085,
+            "width": 0.1092,
+            "height": 0.0214
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "Receptors",
+          "bbox": {
+            "x_min": 0.6959,
+            "y_min": 0.8376,
+            "x_max": 0.7758,
+            "y_max": 0.8475,
+            "width": 0.08,
+            "height": 0.0099
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "Figure 18.3 Diagram showing axon terminal and synapse",
+          "bbox": {
+            "x_min": 0.2703,
+            "y_min": 0.8882,
+            "x_max": 0.7607,
+            "y_max": 0.9002,
+            "width": 0.4904,
+            "height": 0.012
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "Synapse",
+          "bbox": {
+            "x_min": 0.8138,
+            "y_min": 0.7528,
+            "x_max": 0.8278,
+            "y_max": 0.8029,
+            "width": 0.014,
+            "height": 0.0501
+          },
+          "confidence": 0.9908
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "NEURAL CONTROL AND COORDINATION",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.0827,
+            "x_max": 0.3993,
+            "y_max": 0.0925,
+            "width": 0.2849,
+            "height": 0.0099
+          },
+          "confidence": 0.982
+        },
+        {
+          "text": "235",
+          "bbox": {
+            "x_min": 0.8459,
+            "y_min": 0.0827,
+            "x_max": 0.8832,
+            "y_max": 0.0934,
+            "width": 0.0374,
+            "height": 0.0107
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "membrane and release their neurotransmitters in the synaptic cleft. The\nreleased neurotransmitters bind to their specific receptors, present on\nthe post-synaptic membrane. This binding opens ion channels allowing\nthe entry of ions which can generate a new potential in the post-synaptic\nneuron. The new potential developed may be either excitatory or\ninhibitory.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.1354,
+            "x_max": 0.6976,
+            "y_max": 0.2382,
+            "width": 0.6252,
+            "height": 0.1028
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "18.4 CENTRAL NEURAL SYSTEM",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.2652,
+            "x_max": 0.3952,
+            "y_max": 0.2772,
+            "width": 0.3211,
+            "height": 0.012
+          },
+          "confidence": 0.9704
+        },
+        {
+          "text": "The brain is the central information processing organ of our body, and\nacts as the 'command and control system'. It controls the voluntary\nmovements, balance of the body, functioning of vital involuntary organs\n(e.g., lungs, heart, kidneys, etc.), thermoregulation, hunger and thirst,\ncircadian (24-hour) rhythms of our body, activities of several endocrine\nglands and human behaviour. It is also the site for processing of vision,\nhearing, speech, memory, intelligence, emotions and thoughts.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.3003,
+            "x_max": 0.697,
+            "y_max": 0.4203,
+            "width": 0.6252,
+            "height": 0.12
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "Cerebral hemisphere",
+          "bbox": {
+            "x_min": 0.5126,
+            "y_min": 0.5775,
+            "x_max": 0.6795,
+            "y_max": 0.5887,
+            "width": 0.167,
+            "height": 0.0111
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "repished",
+          "bbox": {
+            "x_min": 0.4921,
+            "y_min": 0.3021,
+            "x_max": 0.878,
+            "y_max": 0.6054,
+            "width": 0.3859,
+            "height": 0.3033
+          },
+          "confidence": 0.8449
+        },
+        {
+          "text": "The human brain is well protected by the skull. Inside the skull, the\nbrain is covered by cranial meninges consisting of an outer layer called\ndura mater, a very thin middle layer called arachnoid and an inner layer\n(which is in contact with the brain tissue) called pia mater. The brain can\nbe divided into three major parts: (i) forebrain, (ii) midbrain, and\n(iii) hindbrain (Figure 18.4).",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.4259,
+            "x_max": 0.6976,
+            "y_max": 0.5274,
+            "width": 0.6252,
+            "height": 0.1015
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "Cerebrum-",
+          "bbox": {
+            "x_min": 0.167,
+            "y_min": 0.6302,
+            "x_max": 0.2534,
+            "y_max": 0.6388,
+            "width": 0.0864,
+            "height": 0.0086
+          },
+          "confidence": 0.9802
+        },
+        {
+          "text": "ebrain,",
+          "bbox": {
+            "x_min": 0.4518,
+            "y_min": 0.4897,
+            "x_max": 0.5219,
+            "y_max": 0.5159,
+            "width": 0.0701,
+            "height": 0.0261
+          },
+          "confidence": 0.91
+        },
+        {
+          "text": "-Corpus callosum",
+          "bbox": {
+            "x_min": 0.5972,
+            "y_min": 0.6174,
+            "x_max": 0.7379,
+            "y_max": 0.6298,
+            "width": 0.1407,
+            "height": 0.0124
+          },
+          "confidence": 0.949
+        },
+        {
+          "text": "Forebrain",
+          "bbox": {
+            "x_min": 0.1284,
+            "y_min": 0.6692,
+            "x_max": 0.1395,
+            "y_max": 0.7296,
+            "width": 0.0111,
+            "height": 0.0604
+          },
+          "confidence": 0.9901
+        },
+        {
+          "text": "Midbrain",
+          "bbox": {
+            "x_min": 0.2061,
+            "y_min": 0.7939,
+            "x_max": 0.2802,
+            "y_max": 0.8025,
+            "width": 0.0741,
+            "height": 0.0086
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "Hindbrain-",
+          "bbox": {
+            "x_min": 0.1961,
+            "y_min": 0.8222,
+            "x_max": 0.282,
+            "y_max": 0.8316,
+            "width": 0.0858,
+            "height": 0.0094
+          },
+          "confidence": 0.9301
+        },
+        {
+          "text": "Thalamus\nHypothalamus",
+          "bbox": {
+            "x_min": 0.2755,
+            "y_min": 0.7506,
+            "x_max": 0.3917,
+            "y_max": 0.7785,
+            "width": 0.1162,
+            "height": 0.0278
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "Spinal cord",
+          "bbox": {
+            "x_min": 0.1973,
+            "y_min": 0.8543,
+            "x_max": 0.2919,
+            "y_max": 0.8655,
+            "width": 0.0946,
+            "height": 0.0111
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "Pons\nCerebellum",
+          "bbox": {
+            "x_min": 0.3514,
+            "y_min": 0.8068,
+            "x_max": 0.4442,
+            "y_max": 0.8308,
+            "width": 0.0928,
+            "height": 0.024
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "-Medulla",
+          "bbox": {
+            "x_min": 0.3631,
+            "y_min": 0.8385,
+            "x_max": 0.439,
+            "y_max": 0.8488,
+            "width": 0.0759,
+            "height": 0.0103
+          },
+          "confidence": 0.9272
+        },
+        {
+          "text": "Cerebral aqueduct",
+          "bbox": {
+            "x_min": 0.6112,
+            "y_min": 0.7605,
+            "x_max": 0.7595,
+            "y_max": 0.7721,
+            "width": 0.1483,
+            "height": 0.0116
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "Figure 18.4 Diagram showing sagital section of the human brain",
+          "bbox": {
+            "x_min": 0.1629,
+            "y_min": 0.8873,
+            "x_max": 0.7157,
+            "y_max": 0.8993,
+            "width": 0.5528,
+            "height": 0.012
+          },
+          "confidence": 0.987
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "236",
+          "bbox": {
+            "x_min": 0.1173,
+            "y_min": 0.084,
+            "x_max": 0.1582,
+            "y_max": 0.0925,
+            "width": 0.0409,
+            "height": 0.0086
+          },
+          "confidence": 0.9933
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8581,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0671,
+            "height": 0.0094
+          },
+          "confidence": 0.9738
+        },
+        {
+          "text": "18.4.1 Forebrain",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.1341,
+            "x_max": 0.4927,
+            "y_max": 0.1461,
+            "width": 0.1903,
+            "height": 0.012
+          },
+          "confidence": 0.9831
+        },
+        {
+          "text": "The forebrain consists of cerebrum, thalamus and hypothalamus\n(Figure 18.4). Cerebrum forms the major part of the human brain. A deep\ncleft divides the cerebrum longitudinally into two halves, which are termed\nas the left and right cerebral hemispheres. The hemispheres are\nconnected by a tract of nerve fibres called corpus callosum. The layer of\ncells which covers the cerebral hemisphere is called cerebral cortex and is\nthrown into prominent folds. The cerebral cortex is referred to as the grey\nmatter due to its greyish appearance. The neuron cell bodies are\nconcentrated here giving the colour. The cerebral cortex contains motor\nareas, sensory areas and large regions that are neither clearly sensory\nnor motor in function. These regions called as the association areas are\nresponsible for complex functions like intersensory associations, memory\nand communication. Fibres of the tracts are covered with the myelin sheath,\nwhich constitute the inner part of cerebral hemisphere. They give an\nopaque white appearance to the layer and, hence, is called the white matter.\nThe cerebrum wraps around a structure called thalamus, which is a major\ncoordinating centre for sensory and motor signaling. Another very\nimportant part of the brain called hypothalamus lies at the base of the\nthalamus. The hypothalamus contains a number of centres which control\nbody temperature, urge for eating and drinking. It also contains several\ngroups of neurosecretory cells, which secrete hormones called\nhypothalamic hormones. The inner parts of cerebral hemispheres and a\ngroup of associated deep structures like amygdala, hippocampus, etc.,\nform a complex structure called the limbic lobe or limbic system. Along\nwith the hypothalamus, it is involved in the regulation of sexual behaviour,\nexpression of emotional reactions (e.g., excitement, pleasure, rage and\nfear), and motivation.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.1615,
+            "x_max": 0.9276,
+            "y_max": 0.6114,
+            "width": 0.6264,
+            "height": 0.4499
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "18.4.2 Midbrain",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.6311,
+            "x_max": 0.4834,
+            "y_max": 0.6431,
+            "width": 0.1798,
+            "height": 0.012
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "The midbrain is located between the thalamus/hypothalamus of the\nforebrain and pons of the hindbrain. A canal called the cerebral aqueduct\npassess through the midbrain. The dorsal portion of the midbrain consists\nmainly of four round swellings (lobes) called corpora quadrigemina.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.6547,
+            "x_max": 0.927,
+            "y_max": 0.7211,
+            "width": 0.6258,
+            "height": 0.0664
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "18.4.3 Hindbrain",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.7395,
+            "x_max": 0.4956,
+            "y_max": 0.7528,
+            "width": 0.1938,
+            "height": 0.0133
+          },
+          "confidence": 0.9801
+        },
+        {
+          "text": "The hindbrain comprises pons, cerebellum and medulla (also called\nthe medulla oblongata). Pons consists of fibre tracts that interconnect\ndifferent regions of the brain. Cerebellum has very convoluted surface in\norder to provide the additional space for many more neurons. The medulla\nof the brain is connected to the spinal cord. The medulla contains centres\nwhich control respiration, cardiovascular reflexes and gastric secretions.",
+          "bbox": {
+            "x_min": 0.2989,
+            "y_min": 0.7622,
+            "x_max": 0.927,
+            "y_max": 0.8573,
+            "width": 0.6281,
+            "height": 0.0951
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "Three major regions make up the brain stem; mid brain, pons\nand medulla oblongata. Brain stem forms the connections between\nthe brain and spinal cord.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.8608,
+            "x_max": 0.927,
+            "y_max": 0.9075,
+            "width": 0.6246,
+            "height": 0.0467
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1926,
+            "y_min": 0.7108,
+            "x_max": 0.3252,
+            "y_max": 0.8128,
+            "width": 0.1325,
+            "height": 0.102
+          },
+          "confidence": 0.9718
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "NEURAL CONTROL AND COORDINATION",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.0827,
+            "x_max": 0.3993,
+            "y_max": 0.0925,
+            "width": 0.2849,
+            "height": 0.0099
+          },
+          "confidence": 0.982
+        },
+        {
+          "text": "237",
+          "bbox": {
+            "x_min": 0.8441,
+            "y_min": 0.084,
+            "x_max": 0.8838,
+            "y_max": 0.093,
+            "width": 0.0397,
+            "height": 0.009
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "SUMMARY",
+          "bbox": {
+            "x_min": 0.4355,
+            "y_min": 0.1354,
+            "x_max": 0.5306,
+            "y_max": 0.1465,
+            "width": 0.0952,
+            "height": 0.0111
+          },
+          "confidence": 0.9549
+        },
+        {
+          "text": "The neural system coordinates and integrates functions as well as metabolic\nand homeostatic activities of all the organs. Neurons, the functional units of\nneural system are excitable cells due to a differential concentration gradient of\nions across the membrane. The electrical potential difference across the resting\nneural membrane is called the 'resting potential'. The nerve impulse is conducted\nalong the axon membrane in the form of a wave of depolarisation and\nrepolarisation. A synapse is formed by the membranes of a pre-synaptic neuron\nand a post-synaptic neuron which may or may not be separated by a gap called\nsynaptic cleft. Chemicals involved in the transmission of impulses at chemical\nsynapses are called neurotransmitters.",
+          "bbox": {
+            "x_min": 0.1331,
+            "y_min": 0.1791,
+            "x_max": 0.8342,
+            "y_max": 0.3582,
+            "width": 0.7011,
+            "height": 0.1791
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "Human neural system consists of two parts : (i) central neural system (CNS)\nand (ii) the peripheral neural system. The CNS consists of the brain and spiral\ncord. The brain can be divided into three major parts : (i) forebrain, (ii) midbrain\nand (iii) hindbrain. The forebrain consists of cerebrum, thalamus and\nhypothalamus. The cerebrum is longitudinally divided into two halves that are\nconnected by the corpus callosum. A very important part of the forebrain called\nhypothalamus controls the body temperature, eating and drinking. Inner parts\nof cerebral hemispheres and a group of associated deep structures form a complex\nstructure called limbic system which is concerned with olfaction, autonomic\nresponses, regulation of sexual behaviour, expression of emotional reactions,\nand motivation. The midbrain receives and integrates visual, tactile and auditory\ninputs. The hindbrain comprises pons, cerebellum and medulla. The cerebellum\nintegrates information received from the semicircular canals of the ear and the\nauditory system. The medulla contains centres, which control respiration,\ncardiovascular reflexes, and gastric secretions. Pons consist of fibre tracts that\ninterconnect different regions of the brain.",
+          "bbox": {
+            "x_min": 0.1337,
+            "y_min": 0.3638,
+            "x_max": 0.8336,
+            "y_max": 0.6538,
+            "width": 0.6999,
+            "height": 0.2901
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "+to",
+          "bbox": {
+            "x_min": 0.2604,
+            "y_min": 0.6581,
+            "x_max": 0.4086,
+            "y_max": 0.7515,
+            "width": 0.1483,
+            "height": 0.0934
+          },
+          "confidence": 0.7812
+        },
+        {
+          "text": "of the",
+          "bbox": {
+            "x_min": 0.3975,
+            "y_min": 0.635,
+            "x_max": 0.4501,
+            "y_max": 0.6581,
+            "width": 0.0525,
+            "height": 0.0231
+          },
+          "confidence": 0.9914
+        },
+        {
+          "text": "EXERCISES",
+          "bbox": {
+            "x_min": 0.4454,
+            "y_min": 0.6971,
+            "x_max": 0.5505,
+            "y_max": 0.7087,
+            "width": 0.1051,
+            "height": 0.0116
+          },
+          "confidence": 0.9807
+        },
+        {
+          "text": "1. Briefly describe the structure of the Brain",
+          "bbox": {
+            "x_min": 0.1401,
+            "y_min": 0.7399,
+            "x_max": 0.526,
+            "y_max": 0.7536,
+            "width": 0.3859,
+            "height": 0.0137
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "2. Compare the following:",
+          "bbox": {
+            "x_min": 0.1378,
+            "y_min": 0.7652,
+            "x_max": 0.3649,
+            "y_max": 0.7776,
+            "width": 0.2271,
+            "height": 0.0124
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "(a) Central neural system (CNS) and Peripheral neural system (PNS)",
+          "bbox": {
+            "x_min": 0.1664,
+            "y_min": 0.7836,
+            "x_max": 0.7519,
+            "y_max": 0.7973,
+            "width": 0.5855,
+            "height": 0.0137
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "(b) Resting potential and action potential",
+          "bbox": {
+            "x_min": 0.1675,
+            "y_min": 0.8029,
+            "x_max": 0.5207,
+            "y_max": 0.8162,
+            "width": 0.3532,
+            "height": 0.0133
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "3. Explain the following processes:",
+          "bbox": {
+            "x_min": 0.1378,
+            "y_min": 0.8252,
+            "x_max": 0.4437,
+            "y_max": 0.8385,
+            "width": 0.3059,
+            "height": 0.0133
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "(a) Polarisation of the membrane of a nerve fibre",
+          "bbox": {
+            "x_min": 0.1664,
+            "y_min": 0.8445,
+            "x_max": 0.5809,
+            "y_max": 0.8569,
+            "width": 0.4145,
+            "height": 0.0124
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "(b) Depolarisation of the membrane of a nerve fibre",
+          "bbox": {
+            "x_min": 0.167,
+            "y_min": 0.8646,
+            "x_max": 0.606,
+            "y_max": 0.8775,
+            "width": 0.439,
+            "height": 0.0129
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "(c) Transmission of a nerve impulse across a chemical synapse",
+          "bbox": {
+            "x_min": 0.167,
+            "y_min": 0.8835,
+            "x_max": 0.7099,
+            "y_max": 0.8967,
+            "width": 0.5429,
+            "height": 0.0133
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "238",
+          "bbox": {
+            "x_min": 0.1168,
+            "y_min": 0.084,
+            "x_max": 0.1588,
+            "y_max": 0.093,
+            "width": 0.042,
+            "height": 0.009
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8576,
+            "y_min": 0.0835,
+            "x_max": 0.9253,
+            "y_max": 0.0938,
+            "width": 0.0677,
+            "height": 0.0103
+          },
+          "confidence": 0.9783
+        },
+        {
+          "text": "4. Draw labelled diagrams of the following:",
+          "bbox": {
+            "x_min": 0.1681,
+            "y_min": 0.1362,
+            "x_max": 0.5452,
+            "y_max": 0.1491,
+            "width": 0.3771,
+            "height": 0.0129
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "(a) Neuron (b) Brain",
+          "bbox": {
+            "x_min": 0.1961,
+            "y_min": 0.1555,
+            "x_max": 0.3999,
+            "y_max": 0.168,
+            "width": 0.2037,
+            "height": 0.0124
+          },
+          "confidence": 0.9892
+        },
+        {
+          "text": "5. Write short notes on the following:",
+          "bbox": {
+            "x_min": 0.1751,
+            "y_min": 0.1787,
+            "x_max": 0.5003,
+            "y_max": 0.1911,
+            "width": 0.3252,
+            "height": 0.0124
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "(a) Neural coordination (b) Forebrain (c) Midbrain\n(d) Hindbrain",
+          "bbox": {
+            "x_min": 0.2067,
+            "y_min": 0.1971,
+            "x_max": 0.6445,
+            "y_max": 0.2292,
+            "width": 0.4378,
+            "height": 0.0321
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "(e) Synapse",
+          "bbox": {
+            "x_min": 0.3514,
+            "y_min": 0.2172,
+            "x_max": 0.4507,
+            "y_max": 0.2301,
+            "width": 0.0992,
+            "height": 0.0129
+          },
+          "confidence": 0.9894
+        },
+        {
+          "text": "6. Give a brief account of Mechanism of synaptic transmission.",
+          "bbox": {
+            "x_min": 0.1745,
+            "y_min": 0.2399,
+            "x_max": 0.7285,
+            "y_max": 0.2528,
+            "width": 0.554,
+            "height": 0.0129
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "7. Explain the role of Na⁺ in the generation of action potential.",
+          "bbox": {
+            "x_min": 0.1745,
+            "y_min": 0.2635,
+            "x_max": 0.7175,
+            "y_max": 0.2772,
+            "width": 0.5429,
+            "height": 0.0137
+          },
+          "confidence": 0.9807
+        },
+        {
+          "text": "8.",
+          "bbox": {
+            "x_min": 0.1745,
+            "y_min": 0.2883,
+            "x_max": 0.1886,
+            "y_max": 0.2982,
+            "width": 0.014,
+            "height": 0.0099
+          },
+          "confidence": 0.9753
+        },
+        {
+          "text": "Differentiate between:",
+          "bbox": {
+            "x_min": 0.2067,
+            "y_min": 0.2883,
+            "x_max": 0.3917,
+            "y_max": 0.2982,
+            "width": 0.1851,
+            "height": 0.0099
+          },
+          "confidence": 0.9873
+        },
+        {
+          "text": "(a) Myelinated and non-myelinated axons",
+          "bbox": {
+            "x_min": 0.2067,
+            "y_min": 0.3068,
+            "x_max": 0.5668,
+            "y_max": 0.3205,
+            "width": 0.3602,
+            "height": 0.0137
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "(b) Dendrites and axons",
+          "bbox": {
+            "x_min": 0.2067,
+            "y_min": 0.326,
+            "x_max": 0.4139,
+            "y_max": 0.338,
+            "width": 0.2072,
+            "height": 0.012
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "(c) Thalamus and Hypothalamus",
+          "bbox": {
+            "x_min": 0.2061,
+            "y_min": 0.3453,
+            "x_max": 0.4933,
+            "y_max": 0.3586,
+            "width": 0.2872,
+            "height": 0.0133
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "(d) Cerebrum and Cerebellum",
+          "bbox": {
+            "x_min": 0.2067,
+            "y_min": 0.3642,
+            "x_max": 0.467,
+            "y_max": 0.3766,
+            "width": 0.2604,
+            "height": 0.0124
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "9. Answer the following:",
+          "bbox": {
+            "x_min": 0.1745,
+            "y_min": 0.3877,
+            "x_max": 0.3911,
+            "y_max": 0.4002,
+            "width": 0.2166,
+            "height": 0.0124
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "(a) Which part of the human brain is the most developed?",
+          "bbox": {
+            "x_min": 0.2067,
+            "y_min": 0.407,
+            "x_max": 0.7069,
+            "y_max": 0.4203,
+            "width": 0.5003,
+            "height": 0.0133
+          },
+          "confidence": 0.9917
+        },
+        {
+          "text": "(b) Which part of our central neural system acts as a master",
+          "bbox": {
+            "x_min": 0.2072,
+            "y_min": 0.4259,
+            "x_max": 0.7338,
+            "y_max": 0.4387,
+            "width": 0.5266,
+            "height": 0.0129
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "10. Distinguish between:",
+          "bbox": {
+            "x_min": 0.167,
+            "y_min": 0.4494,
+            "x_max": 0.3882,
+            "y_max": 0.4619,
+            "width": 0.2212,
+            "height": 0.0124
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "(a) afferent neurons and efferent neurons",
+          "bbox": {
+            "x_min": 0.2067,
+            "y_min": 0.4679,
+            "x_max": 0.561,
+            "y_max": 0.4799,
+            "width": 0.3543,
+            "height": 0.012
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "clock?",
+          "bbox": {
+            "x_min": 0.7385,
+            "y_min": 0.4254,
+            "x_max": 0.7945,
+            "y_max": 0.4362,
+            "width": 0.056,
+            "height": 0.0107
+          },
+          "confidence": 0.9817
+        },
+        {
+          "text": "(b) impulse conduction in a myelinated nerve fibre and unmyelinated nerve",
+          "bbox": {
+            "x_min": 0.2067,
+            "y_min": 0.4863,
+            "x_max": 0.864,
+            "y_max": 0.5009,
+            "width": 0.6573,
+            "height": 0.0146
+          },
+          "confidence": 0.9974
+        },
+        {
+          "text": "fibre",
+          "bbox": {
+            "x_min": 0.2049,
+            "y_min": 0.5064,
+            "x_max": 0.2458,
+            "y_max": 0.5154,
+            "width": 0.0409,
+            "height": 0.009
+          },
+          "confidence": 0.994
+        },
+        {
+          "text": "(f) cranial nerves and spinal nerves.",
+          "bbox": {
+            "x_min": 0.2072,
+            "y_min": 0.5249,
+            "x_max": 0.5108,
+            "y_max": 0.5381,
+            "width": 0.3036,
+            "height": 0.0133
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "C",
+          "bbox": {
+            "x_min": 0.3147,
+            "y_min": 0.5758,
+            "x_max": 0.3689,
+            "y_max": 0.6157,
+            "width": 0.0543,
+            "height": 0.0398
+          },
+          "confidence": 0.7466
+        },
+        {
+          "text": "not to be republished",
+          "bbox": {
+            "x_min": 0.1792,
+            "y_min": 0.3046,
+            "x_max": 0.8821,
+            "y_max": 0.8205,
+            "width": 0.7029,
+            "height": 0.5159
+          },
+          "confidence": 0.9137
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}

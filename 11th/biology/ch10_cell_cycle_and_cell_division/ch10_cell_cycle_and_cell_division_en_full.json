@@ -1,0 +1,2995 @@
+{
+  "chapter_id": "11th_biology_ch10_cell_cycle_and_cell_division_ch10_cell_cycle_and_cell_division_en",
+  "total_pages": 11,
+  "pages": [
+    {
+      "page_number": 1,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "11080CH10",
+          "bbox": {
+            "x_min": 0.1553,
+            "y_min": 0.2125,
+            "x_max": 0.2002,
+            "y_max": 0.2177,
+            "width": 0.045,
+            "height": 0.0051
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "CHAPTER 10",
+          "bbox": {
+            "x_min": 0.3368,
+            "y_min": 0.3231,
+            "x_max": 0.5458,
+            "y_max": 0.3518,
+            "width": 0.209,
+            "height": 0.0287
+          },
+          "confidence": 0.9626
+        },
+        {
+          "text": "CELL",
+          "bbox": {
+            "x_min": 0.338,
+            "y_min": 0.3732,
+            "x_max": 0.4378,
+            "y_max": 0.4006,
+            "width": 0.0998,
+            "height": 0.0274
+          },
+          "confidence": 0.9498
+        },
+        {
+          "text": "CYCLE AND CELL DIVISI",
+          "bbox": {
+            "x_min": 0.4384,
+            "y_min": 0.3655,
+            "x_max": 0.8342,
+            "y_max": 0.4075,
+            "width": 0.3958,
+            "height": 0.042
+          },
+          "confidence": 0.9126
+        },
+        {
+          "text": "10.1 Cell Cycle",
+          "bbox": {
+            "x_min": 0.1045,
+            "y_min": 0.4512,
+            "x_max": 0.2189,
+            "y_max": 0.4614,
+            "width": 0.1144,
+            "height": 0.0103
+          },
+          "confidence": 0.9867
+        },
+        {
+          "text": "10.2 M Phase",
+          "bbox": {
+            "x_min": 0.1057,
+            "y_min": 0.476,
+            "x_max": 0.2078,
+            "y_max": 0.4841,
+            "width": 0.1022,
+            "height": 0.0081
+          },
+          "confidence": 0.9731
+        },
+        {
+          "text": "10.3 Significance of",
+          "bbox": {
+            "x_min": 0.1045,
+            "y_min": 0.5004,
+            "x_max": 0.2545,
+            "y_max": 0.5111,
+            "width": 0.15,
+            "height": 0.0107
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "Mitosis",
+          "bbox": {
+            "x_min": 0.143,
+            "y_min": 0.5184,
+            "x_max": 0.1967,
+            "y_max": 0.5253,
+            "width": 0.0537,
+            "height": 0.0069
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "10.4 Meiosis",
+          "bbox": {
+            "x_min": 0.1039,
+            "y_min": 0.5433,
+            "x_max": 0.1991,
+            "y_max": 0.551,
+            "width": 0.0952,
+            "height": 0.0077
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "10.5 Significance of",
+          "bbox": {
+            "x_min": 0.1057,
+            "y_min": 0.5668,
+            "x_max": 0.2557,
+            "y_max": 0.578,
+            "width": 0.15,
+            "height": 0.0111
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "Meiosis",
+          "bbox": {
+            "x_min": 0.143,
+            "y_min": 0.5857,
+            "x_max": 0.1979,
+            "y_max": 0.5925,
+            "width": 0.0549,
+            "height": 0.0069
+          },
+          "confidence": 0.9828
+        },
+        {
+          "text": "Are you aware that all organisms, even the largest, start their life from a\nsingle cell? You may wonder how a single cell then goes on to form such\nlarge organisms. Growth and reproduction are characteristics of cells,\nindeed of all living organisms. All cells reproduce by dividing into two,\nwith each parental cell giving rise to two daughter cells each time they\ndivide. These newly formed daughter cells can themselves grow and divide,\ngiving rise to a new cell population that is formed by the growth and\ndivision of a single parental cell and its progeny. In other words, such\ncycles of growth and division allow a single cell to form a structure\nconsisting of millions of cells.",
+          "bbox": {
+            "x_min": 0.2948,
+            "y_min": 0.4516,
+            "x_max": 0.9206,
+            "y_max": 0.6247,
+            "width": 0.6258,
+            "height": 0.1731
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "10.1 CELL CYCLE",
+          "bbox": {
+            "x_min": 0.2977,
+            "y_min": 0.6521,
+            "x_max": 0.4874,
+            "y_max": 0.6645,
+            "width": 0.1897,
+            "height": 0.0124
+          },
+          "confidence": 0.9608
+        },
+        {
+          "text": "no",
+          "bbox": {
+            "x_min": 0.195,
+            "y_min": 0.7344,
+            "x_max": 0.2989,
+            "y_max": 0.8141,
+            "width": 0.1039,
+            "height": 0.0797
+          },
+          "confidence": 0.941
+        },
+        {
+          "text": "Cell division is a very important process in all living organisms. During\nthe division of a cell, DNA replication and cell growth also take place. All\nthese\nthese \nprocesses, i.e., cell division, DNA replication, and cell growth, hence,\nhave to take place in a coordinated way to ensure correct division and\nformation of progeny cells containing intact genomes. The sequence of\nevents by which a cell duplicates its genome, synthesises the other\nconstituents of the cell and eventually divides into two daughter cells is\ntermed cell cycle. Although cell growth (in terms of cytoplasmic increase)\nis a continuous process, DNA synthesis occurs only during one specific\nstage in the cell cycle. The replicated chromosomes (DNA) are then\ndistributed to daughter nuclei by a complex series of events during cell\ndivision. These events are themselves under genetic control.",
+          "bbox": {
+            "x_min": 0.2872,
+            "y_min": 0.6842,
+            "x_max": 0.9235,
+            "y_max": 0.9002,
+            "width": 0.6363,
+            "height": 0.2159
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "CELL CYCLE AND CELL DIVISION",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.0823,
+            "x_max": 0.3602,
+            "y_max": 0.0925,
+            "width": 0.2464,
+            "height": 0.0103
+          },
+          "confidence": 0.9724
+        },
+        {
+          "text": "121",
+          "bbox": {
+            "x_min": 0.8482,
+            "y_min": 0.0835,
+            "x_max": 0.8827,
+            "y_max": 0.093,
+            "width": 0.0344,
+            "height": 0.0094
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "10.1.1 Phases of Cell Cycle",
+          "bbox": {
+            "x_min": 0.0753,
+            "y_min": 0.135,
+            "x_max": 0.3759,
+            "y_max": 0.1491,
+            "width": 0.3006,
+            "height": 0.0141
+          },
+          "confidence": 0.9897
+        },
+        {
+          "text": "A typical eukaryotic cell cycle is illustrated by\nhuman cells in culture. These cells divide once\nin approximately every 24 hours (Figure 10.1).\nHowever, this duration of cell cycle can vary from\norganism to organism and also from cell type\nto cell type. Yeast for example, can progress\nthrough the cell cycle in only about 90 minutes.\nThe cell cycle is divided into two basic",
+          "bbox": {
+            "x_min": 0.0695,
+            "y_min": 0.1607,
+            "x_max": 0.4769,
+            "y_max": 0.2948,
+            "width": 0.4075,
+            "height": 0.1341
+          },
+          "confidence": 0.9907
+        },
+        {
+          "text": "phases:",
+          "bbox": {
+            "x_min": 0.0701,
+            "y_min": 0.2986,
+            "x_max": 0.136,
+            "y_max": 0.3119,
+            "width": 0.066,
+            "height": 0.0133
+          },
+          "confidence": 0.9847
+        },
+        {
+          "text": "•",
+          "bbox": {
+            "x_min": 0.0934,
+            "y_min": 0.3248,
+            "x_max": 0.1057,
+            "y_max": 0.3316,
+            "width": 0.0123,
+            "height": 0.0069
+          },
+          "confidence": 0.9131
+        },
+        {
+          "text": "Interphase",
+          "bbox": {
+            "x_min": 0.1284,
+            "y_min": 0.3231,
+            "x_max": 0.2294,
+            "y_max": 0.3355,
+            "width": 0.101,
+            "height": 0.0124
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "• M Phase (Mitosis phase)",
+          "bbox": {
+            "x_min": 0.0928,
+            "y_min": 0.3462,
+            "x_max": 0.3503,
+            "y_max": 0.3595,
+            "width": 0.2574,
+            "height": 0.0133
+          },
+          "confidence": 0.9838
+        },
+        {
+          "text": "The M Phase represents the phase when the\nactual cell division or mitosis occurs and the",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.3706,
+            "x_max": 0.4758,
+            "y_max": 0.3989,
+            "width": 0.4028,
+            "height": 0.0283
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "interphase represents the phase between two",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.4053,
+            "x_max": 0.4758,
+            "y_max": 0.4182,
+            "width": 0.4022,
+            "height": 0.0129
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "M Phase",
+          "bbox": {
+            "x_min": 0.5295,
+            "y_min": 0.2476,
+            "x_max": 0.5417,
+            "y_max": 0.3025,
+            "width": 0.0123,
+            "height": 0.0548
+          },
+          "confidence": 0.9772
+        },
+        {
+          "text": "G",
+          "bbox": {
+            "x_min": 0.7081,
+            "y_min": 0.2237,
+            "x_max": 0.7245,
+            "y_max": 0.2301,
+            "width": 0.0163,
+            "height": 0.0064
+          },
+          "confidence": 0.9658
+        },
+        {
+          "text": "Cytokinesis",
+          "bbox": {
+            "x_min": 0.6077,
+            "y_min": 0.2305,
+            "x_max": 0.669,
+            "y_max": 0.2656,
+            "width": 0.0613,
+            "height": 0.0351
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "Telophase",
+          "bbox": {
+            "x_min": 0.5949,
+            "y_min": 0.2511,
+            "x_max": 0.6532,
+            "y_max": 0.2755,
+            "width": 0.0584,
+            "height": 0.0244
+          },
+          "confidence": 0.9927
+        },
+        {
+          "text": "Anaphase",
+          "bbox": {
+            "x_min": 0.5902,
+            "y_min": 0.2686,
+            "x_max": 0.648,
+            "y_max": 0.2858,
+            "width": 0.0578,
+            "height": 0.0171
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "Metaphase",
+          "bbox": {
+            "x_min": 0.5873,
+            "y_min": 0.2871,
+            "x_max": 0.6486,
+            "y_max": 0.2961,
+            "width": 0.0613,
+            "height": 0.009
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "Prophase",
+          "bbox": {
+            "x_min": 0.5972,
+            "y_min": 0.2973,
+            "x_max": 0.6515,
+            "y_max": 0.3179,
+            "width": 0.0543,
+            "height": 0.0206
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "G2",
+          "bbox": {
+            "x_min": 0.6807,
+            "y_min": 0.3355,
+            "x_max": 0.6988,
+            "y_max": 0.3453,
+            "width": 0.0181,
+            "height": 0.0099
+          },
+          "confidence": 0.8139
+        },
+        {
+          "text": "diagrammat",
+          "bbox": {
+            "x_min": 0.6252,
+            "y_min": 0.4143,
+            "x_max": 0.7291,
+            "y_max": 0.4417,
+            "width": 0.1039,
+            "height": 0.0274
+          },
+          "confidence": 0.9609
+        },
+        {
+          "text": "Go",
+          "bbox": {
+            "x_min": 0.7455,
+            "y_min": 0.1637,
+            "x_max": 0.7601,
+            "y_max": 0.1697,
+            "width": 0.0146,
+            "height": 0.006
+          },
+          "confidence": 0.6848
+        },
+        {
+          "text": "S",
+          "bbox": {
+            "x_min": 0.7752,
+            "y_min": 0.3063,
+            "x_max": 0.784,
+            "y_max": 0.3119,
+            "width": 0.0088,
+            "height": 0.0056
+          },
+          "confidence": 0.9594
+        },
+        {
+          "text": "successive M phases. It is significant to note that Figure 10.1 A view of cell cycle\nin the 24 hour average duration of cell cycle of a",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.4229,
+            "x_max": 0.8914,
+            "y_max": 0.4529,
+            "width": 0.8184,
+            "height": 0.03
+          },
+          "confidence": 0.9912
+        },
+        {
+          "text": "human cell, cell division proper lasts for only\nabout an hour. The interphase lasts more than\n95% of the duration of cell cycle.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.4572,
+            "x_max": 0.4804,
+            "y_max": 0.5047,
+            "width": 0.4081,
+            "height": 0.0476
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "indicating formation of two cells\nfrom one cell",
+          "bbox": {
+            "x_min": 0.6089,
+            "y_min": 0.4383,
+            "x_max": 0.8897,
+            "y_max": 0.4623,
+            "width": 0.2808,
+            "height": 0.024
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "The M Phase starts with the nuclear division, corresponding to the\nseparation of daughter chromosomes (karyokinesis) and usually ends\nwith division of cytoplasm (cytokinesis). The interphase, though called\nthe resting phase, is the time during which the cell is preparing for division\nby undergoing both cell growth and DNA replication in an orderly manner.\nThe interphase is divided into three further phases:",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.5086,
+            "x_max": 0.6982,
+            "y_max": 0.608,
+            "width": 0.6264,
+            "height": 0.0994
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "•",
+          "bbox": {
+            "x_min": 0.0928,
+            "y_min": 0.6213,
+            "x_max": 0.1051,
+            "y_max": 0.6277,
+            "width": 0.0123,
+            "height": 0.0064
+          },
+          "confidence": 0.9008
+        },
+        {
+          "text": "•",
+          "bbox": {
+            "x_min": 0.0934,
+            "y_min": 0.6418,
+            "x_max": 0.1057,
+            "y_max": 0.6482,
+            "width": 0.0123,
+            "height": 0.0064
+          },
+          "confidence": 0.9118
+        },
+        {
+          "text": "•",
+          "bbox": {
+            "x_min": 0.0934,
+            "y_min": 0.6632,
+            "x_max": 0.1057,
+            "y_max": 0.6701,
+            "width": 0.0123,
+            "height": 0.0069
+          },
+          "confidence": 0.9154
+        },
+        {
+          "text": "G₁ phase (Gap 1)",
+          "bbox": {
+            "x_min": 0.1349,
+            "y_min": 0.6178,
+            "x_max": 0.2866,
+            "y_max": 0.6332,
+            "width": 0.1518,
+            "height": 0.0154
+          },
+          "confidence": 0.9438
+        },
+        {
+          "text": "S phase (Synthesis)",
+          "bbox": {
+            "x_min": 0.136,
+            "y_min": 0.6397,
+            "x_max": 0.3222,
+            "y_max": 0.653,
+            "width": 0.1862,
+            "height": 0.0133
+          },
+          "confidence": 0.9793
+        },
+        {
+          "text": "G₂ phase (Gap 2)",
+          "bbox": {
+            "x_min": 0.1337,
+            "y_min": 0.6607,
+            "x_max": 0.2872,
+            "y_max": 0.6752,
+            "width": 0.1535,
+            "height": 0.0146
+          },
+          "confidence": 0.928
+        },
+        {
+          "text": "G₁ phase corresponds to the interval between mitosis and initiation\nof DNA replication. During G₁ phase, the cell is metabolically active and\ncontinuously grows but does not replicate its DNA. S or synthesis phase\nmarks the period during which DNA synthesis or replication takes place.\nDuring this time the amount of DNA per cell doubles. If the initial amount\nof DNA is denoted as 2C then it increases to 4C. However, there is no\nincrease in the chromosome number; if the cell had diploid or 2n number\nof chromosomes at G₁, even after S phase the number of chromosomes",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.6851,
+            "x_max": 0.6982,
+            "y_max": 0.8196,
+            "width": 0.6258,
+            "height": 0.1345
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "remains the same, i.e., 2n.",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.8231,
+            "x_max": 0.2983,
+            "y_max": 0.8342,
+            "width": 0.2248,
+            "height": 0.0111
+          },
+          "confidence": 0.9769
+        },
+        {
+          "text": "In animal cells, during the S phase, DNA replication begins in the\nnucleus, and the centriole duplicates in the cytoplasm. During the G₂\nphase, proteins are synthesised in preparation for mitosis while cell growth",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.8402,
+            "x_max": 0.697,
+            "y_max": 0.8882,
+            "width": 0.6241,
+            "height": 0.048
+          },
+          "confidence": 0.9911
+        },
+        {
+          "text": "continues.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.8929,
+            "x_max": 0.1617,
+            "y_max": 0.9019,
+            "width": 0.0887,
+            "height": 0.009
+          },
+          "confidence": 0.9864
+        },
+        {
+          "text": "2",
+          "bbox": {
+            "x_min": 0.6894,
+            "y_min": 0.8668,
+            "x_max": 0.6994,
+            "y_max": 0.8719,
+            "width": 0.0099,
+            "height": 0.0051
+          },
+          "confidence": 0.9734
+        },
+        {
+          "text": "How do plants and\nanimals continue to",
+          "bbox": {
+            "x_min": 0.7157,
+            "y_min": 0.6564,
+            "x_max": 0.8862,
+            "y_max": 0.6799,
+            "width": 0.1705,
+            "height": 0.0236
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "grow all their lives?\nDo all cells in a plant",
+          "bbox": {
+            "x_min": 0.7145,
+            "y_min": 0.6851,
+            "x_max": 0.8873,
+            "y_max": 0.7159,
+            "width": 0.1728,
+            "height": 0.0308
+          },
+          "confidence": 0.9906
+        },
+        {
+          "text": "divide all the time?\nDo you think all cells\ncontinue to divide in",
+          "bbox": {
+            "x_min": 0.7151,
+            "y_min": 0.7138,
+            "x_max": 0.8867,
+            "y_max": 0.7528,
+            "width": 0.1716,
+            "height": 0.039
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "all plants and\nanimals? Can you\ntell the name and the\nlocation of tissues\nhaving cells that\ndivide all their life in",
+          "bbox": {
+            "x_min": 0.714,
+            "y_min": 0.7541,
+            "x_max": 0.8873,
+            "y_max": 0.8402,
+            "width": 0.1734,
+            "height": 0.0861
+          },
+          "confidence": 0.988
+        },
+        {
+          "text": "higher plants? Do\nanimals have similar\nmeristematic",
+          "bbox": {
+            "x_min": 0.7145,
+            "y_min": 0.8402,
+            "x_max": 0.8862,
+            "y_max": 0.8877,
+            "width": 0.1716,
+            "height": 0.0476
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "tissues?",
+          "bbox": {
+            "x_min": 0.7151,
+            "y_min": 0.8886,
+            "x_max": 0.784,
+            "y_max": 0.8976,
+            "width": 0.0689,
+            "height": 0.009
+          },
+          "confidence": 0.9837
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "122",
+          "bbox": {
+            "x_min": 0.1214,
+            "y_min": 0.0835,
+            "x_max": 0.1565,
+            "y_max": 0.093,
+            "width": 0.035,
+            "height": 0.0094
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.857,
+            "y_min": 0.0835,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0683,
+            "height": 0.0094
+          },
+          "confidence": 0.9765
+        },
+        {
+          "text": "You have studied\nmitosis in onion root",
+          "bbox": {
+            "x_min": 0.1115,
+            "y_min": 0.1414,
+            "x_max": 0.2837,
+            "y_max": 0.1658,
+            "width": 0.1722,
+            "height": 0.0244
+          },
+          "confidence": 0.9855
+        },
+        {
+          "text": "tip cells. It has 16\nchromosomes in",
+          "bbox": {
+            "x_min": 0.1127,
+            "y_min": 0.1662,
+            "x_max": 0.2837,
+            "y_max": 0.1971,
+            "width": 0.171,
+            "height": 0.0308
+          },
+          "confidence": 0.9847
+        },
+        {
+          "text": "each cell. Can you",
+          "bbox": {
+            "x_min": 0.1127,
+            "y_min": 0.1979,
+            "x_max": 0.2831,
+            "y_max": 0.2125,
+            "width": 0.1705,
+            "height": 0.0146
+          },
+          "confidence": 0.9816
+        },
+        {
+          "text": "tell how many\nchromosomes will",
+          "bbox": {
+            "x_min": 0.1103,
+            "y_min": 0.2142,
+            "x_max": 0.2837,
+            "y_max": 0.2438,
+            "width": 0.1734,
+            "height": 0.0296
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "the cell have at G₁\nphase, after S phase,\nand after M phase?\nAlso, what will be the",
+          "bbox": {
+            "x_min": 0.1097,
+            "y_min": 0.2434,
+            "x_max": 0.2843,
+            "y_max": 0.2978,
+            "width": 0.1745,
+            "height": 0.0544
+          },
+          "confidence": 0.9778
+        },
+        {
+          "text": "DNA content of the",
+          "bbox": {
+            "x_min": 0.1121,
+            "y_min": 0.3016,
+            "x_max": 0.2837,
+            "y_max": 0.3111,
+            "width": 0.1716,
+            "height": 0.0094
+          },
+          "confidence": 0.9877
+        },
+        {
+          "text": "cells at G₁, after S\nand at G₂, if the",
+          "bbox": {
+            "x_min": 0.1127,
+            "y_min": 0.3162,
+            "x_max": 0.2837,
+            "y_max": 0.3449,
+            "width": 0.171,
+            "height": 0.0287
+          },
+          "confidence": 0.9395
+        },
+        {
+          "text": "content after M\nphase is 2C?",
+          "bbox": {
+            "x_min": 0.1127,
+            "y_min": 0.344,
+            "x_max": 0.2837,
+            "y_max": 0.3719,
+            "width": 0.171,
+            "height": 0.0278
+          },
+          "confidence": 0.9844
+        },
+        {
+          "text": "1",
+          "bbox": {
+            "x_min": 0.279,
+            "y_min": 0.2524,
+            "x_max": 0.2849,
+            "y_max": 0.2566,
+            "width": 0.0058,
+            "height": 0.0043
+          },
+          "confidence": 0.9627
+        },
+        {
+          "text": "Some cells in the adult animals do not appear to exhibit division\n(e.g., heart cells) and many other cells divide only occasionally, as needed\nto replace cells that have been lost because of injury or cell death.\nThese cells that do not divide further exit G₁ phase to enter an inactive\nstage called quiescent stage (G) of the cell cycle. Cells in this stage\nremain metabolically active but no longer proliferate unless called on to\ndo so depending on the requirement of the organism.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.1345,
+            "x_max": 0.927,
+            "y_max": 0.2442,
+            "width": 0.6258,
+            "height": 0.1097
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "In animals, mitotic cell division is only seen in the diploid somatic\ncells. However, there are few exceptions to this where haploid cells divide\nby mitosis, for example, male honey bees. Against this, the plants can\nshow mitotic divisions in both haploid and diploid cells. From your\nrecollection of examples of alternation of generations in plants (Chapter 3)\nidentify plant species and stages at which mitosis is seen in haploid cells.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.2464,
+            "x_max": 0.927,
+            "y_max": 0.3445,
+            "width": 0.6258,
+            "height": 0.0981
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "10.2 M PHASE",
+          "bbox": {
+            "x_min": 0.3036,
+            "y_min": 0.3599,
+            "x_max": 0.4664,
+            "y_max": 0.3723,
+            "width": 0.1629,
+            "height": 0.0124
+          },
+          "confidence": 0.9653
+        },
+        {
+          "text": "This is the most dramatic period of the cell cycle, involv involving a major\nreorganisation of virtually all components of the cell. Since the number of\nchromosomes in the parent and progeny cells is the same, it is also called as\nequational division. Though for convenience mitosis has been divided\ninto four stages of nuclear division (karyokinesis), it is very essential to\nunderstand that cell division is a progressive process and very clear-cut\nlines cannot be drawn between various stages. Karyokinesis involves\nfollowing four stages:",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.386,
+            "x_max": 0.9276,
+            "y_max": 0.5146,
+            "width": 0.627,
+            "height": 0.1285
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "•",
+          "bbox": {
+            "x_min": 0.3228,
+            "y_min": 0.5463,
+            "x_max": 0.3351,
+            "y_max": 0.5531,
+            "width": 0.0123,
+            "height": 0.0069
+          },
+          "confidence": 0.9185
+        },
+        {
+          "text": "Prophase\nMetaphase\nAnaphase",
+          "bbox": {
+            "x_min": 0.3637,
+            "y_min": 0.5253,
+            "x_max": 0.4723,
+            "y_max": 0.578,
+            "width": 0.1086,
+            "height": 0.0527
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "ous stage",
+          "bbox": {
+            "x_min": 0.6235,
+            "y_min": 0.4829,
+            "x_max": 0.7058,
+            "y_max": 0.5026,
+            "width": 0.0823,
+            "height": 0.0197
+          },
+          "confidence": 0.9885
+        },
+        {
+          "text": "note repte",
+          "bbox": {
+            "x_min": 0.1623,
+            "y_min": 0.3333,
+            "x_max": 0.8646,
+            "y_max": 0.8183,
+            "width": 0.7023,
+            "height": 0.485
+          },
+          "confidence": 0.8827
+        },
+        {
+          "text": "Telophase",
+          "bbox": {
+            "x_min": 0.3649,
+            "y_min": 0.5853,
+            "x_max": 0.4653,
+            "y_max": 0.5968,
+            "width": 0.1004,
+            "height": 0.0116
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "10.2.1",
+          "bbox": {
+            "x_min": 0.3053,
+            "y_min": 0.6238,
+            "x_max": 0.387,
+            "y_max": 0.638,
+            "width": 0.0817,
+            "height": 0.0141
+          },
+          "confidence": 0.9926
+        },
+        {
+          "text": "Prophas",
+          "bbox": {
+            "x_min": 0.383,
+            "y_min": 0.6114,
+            "x_max": 0.4845,
+            "y_max": 0.6444,
+            "width": 0.1016,
+            "height": 0.033
+          },
+          "confidence": 0.9291
+        },
+        {
+          "text": "Prophase which is the first stage of karyokinesis of mitosis follows the\nS and G₂ phases of interphase. In the S and G₂ phases, the new DNA\nmolecules formed are not distinct but intertwined. Prophase is marked\nby the initiation of condensation of chromosomal material. The\nchromosomal material becomes untangled during the process of\nchromatin condensation (Figure 10.2 a). The centrosome, which had\nundergone duplication during S phase of interphase, now begins to move\ntowards opposite poles of the cell. The completion of prophase can thus\nbe marked by the following characteristic events:",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.6491,
+            "x_max": 0.9282,
+            "y_max": 0.7913,
+            "width": 0.6264,
+            "height": 0.1422
+          },
+          "confidence": 0.9925
+        },
+        {
+          "text": "• Chromosomal material condenses to form compact mitotic\nchromosomes. Chromosomes are seen to be composed of two\nchromatids attached together at the centromere.",
+          "bbox": {
+            "x_min": 0.3339,
+            "y_min": 0.7961,
+            "x_max": 0.9264,
+            "y_max": 0.8415,
+            "width": 0.5925,
+            "height": 0.0454
+          },
+          "confidence": 0.9909
+        },
+        {
+          "text": "•",
+          "bbox": {
+            "x_min": 0.3333,
+            "y_min": 0.8496,
+            "x_max": 0.3456,
+            "y_max": 0.8556,
+            "width": 0.0123,
+            "height": 0.006
+          },
+          "confidence": 0.9056
+        },
+        {
+          "text": "Centrosome which had undergone duplication during interphase,\nbegins to move towards opposite poles of the cell. Each centrosome\nradiates out microtubules called asters. The two asters together\nwith spindle fibres forms mitotic apparatus.",
+          "bbox": {
+            "x_min": 0.3631,
+            "y_min": 0.8475,
+            "x_max": 0.927,
+            "y_max": 0.9096,
+            "width": 0.5639,
+            "height": 0.0621
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "CELL CYCLE AND CELL DIVISION",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.0823,
+            "x_max": 0.3602,
+            "y_max": 0.0925,
+            "width": 0.2464,
+            "height": 0.0103
+          },
+          "confidence": 0.9724
+        },
+        {
+          "text": "123",
+          "bbox": {
+            "x_min": 0.8476,
+            "y_min": 0.0831,
+            "x_max": 0.8844,
+            "y_max": 0.0934,
+            "width": 0.0368,
+            "height": 0.0103
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "Cells at the end of prophase, when viewed under the\nmicroscope, do not show golgi complexes, endoplasmic\nreticulum, nucleolus and the nuclear envelope.",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.1354,
+            "x_max": 0.5773,
+            "y_max": 0.1838,
+            "width": 0.5044,
+            "height": 0.0484
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "10.2.2 Metaphase",
+          "bbox": {
+            "x_min": 0.0736,
+            "y_min": 0.2009,
+            "x_max": 0.2697,
+            "y_max": 0.2151,
+            "width": 0.1961,
+            "height": 0.0141
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "The complete disintegration of the nuclear envelope marks\nthe start of the second phase of mitosis, hence the\nchromosomes are spread through the cytoplasm of the cell.\nBy this stage, condensation of chromosomes is completed\nand they can be observed clearly under the microscope. This\nthen, is the stage at which morphology of chromosomes is\nmost easily studied. At this stage, metaphase chromosome\nis made up of two sister chromatids, which are held together\nby the centromere (Figure 10.2 b). Small disc-shaped\nstructures at the surface of the centromeres are called\nkinetochores. These structures serve as the sites of\nattachment of spindle fibres to the chromosomes that are\nmoved into position at the centre of the cell. Hence, the\nmetaphase is characterised by all the chromosomes coming\nto lie at the equator with one chromatid of each chromosome\nconnected by its kinetochore to spindle fibres from one\npole and its sister chromatid connected by its kinetochore\nto spindle fibres from the opposite pole (Figure 10.2 b).\nThe plane of alignment of the chromosomes at metaphase\nis referred to as the metaphase plate. The key features\nof metaphase are:",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.2275,
+            "x_max": 0.5791,
+            "y_max": 0.5977,
+            "width": 0.5079,
+            "height": 0.3702
+          },
+          "confidence": 0.9932
+        },
+        {
+          "text": "Early Prophase",
+          "bbox": {
+            "x_min": 0.6743,
+            "y_min": 0.2849,
+            "x_max": 0.7986,
+            "y_max": 0.2961,
+            "width": 0.1243,
+            "height": 0.0111
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "Late Prophase\n(a)",
+          "bbox": {
+            "x_min": 0.6778,
+            "y_min": 0.4499,
+            "x_max": 0.7922,
+            "y_max": 0.4829,
+            "width": 0.1144,
+            "height": 0.033
+          },
+          "confidence": 0.9871
+        },
+        {
+          "text": "rand",
+          "bbox": {
+            "x_min": 0.5388,
+            "y_min": 0.4203,
+            "x_max": 0.7169,
+            "y_max": 0.5656,
+            "width": 0.1781,
+            "height": 0.1452
+          },
+          "confidence": 0.8039
+        },
+        {
+          "text": "• Spindle fibres attach to kinetochores of\nchromosomes.",
+          "bbox": {
+            "x_min": 0.1051,
+            "y_min": 0.6075,
+            "x_max": 0.5797,
+            "y_max": 0.6354,
+            "width": 0.4746,
+            "height": 0.0278
+          },
+          "confidence": 0.9843
+        },
+        {
+          "text": "• Chromosomes are moved to\nand get\naligned along metaphase plate through spindle fibres",
+          "bbox": {
+            "x_min": 0.1051,
+            "y_min": 0.647,
+            "x_max": 0.5762,
+            "y_max": 0.6795,
+            "width": 0.4711,
+            "height": 0.0326
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "to both poles.",
+          "bbox": {
+            "x_min": 0.1349,
+            "y_min": 0.6842,
+            "x_max": 0.2469,
+            "y_max": 0.6971,
+            "width": 0.1121,
+            "height": 0.0129
+          },
+          "confidence": 0.991
+        },
+        {
+          "text": "10.2.3 Anaphase",
+          "bbox": {
+            "x_min": 0.0759,
+            "y_min": 0.7164,
+            "x_max": 0.258,
+            "y_max": 0.7305,
+            "width": 0.1821,
+            "height": 0.0141
+          },
+          "confidence": 0.9869
+        },
+        {
+          "text": "Plate pindle equ",
+          "bbox": {
+            "x_min": 0.3403,
+            "y_min": 0.6264,
+            "x_max": 0.4729,
+            "y_max": 0.6997,
+            "width": 0.1325,
+            "height": 0.0733
+          },
+          "confidence": 0.7555
+        },
+        {
+          "text": "At the onset of anaphase, each chromosome arranged at the\nmetaphase plate is split simultaneously and the two daughter\nchromatids, now referred to as daughter chromosomes of\nthe future daughter nuclei, begin their migration towards\nthe two opposite poles. As each chromosome moves away\nfrom the equatorial plate, the centromere of each chromosome\nremains directed towards the pole and hence at the leading\nedge, with the arms of the chromosome trailing behind\n(Figure 10.2 c). Thus, anaphase stage is characterised by",
+          "bbox": {
+            "x_min": 0.0706,
+            "y_min": 0.7429,
+            "x_max": 0.5791,
+            "y_max": 0.9036,
+            "width": 0.5085,
+            "height": 0.1607
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "Transition to\nMetaphase",
+          "bbox": {
+            "x_min": 0.6853,
+            "y_min": 0.6388,
+            "x_max": 0.791,
+            "y_max": 0.6632,
+            "width": 0.1057,
+            "height": 0.0244
+          },
+          "confidence": 0.9893
+        },
+        {
+          "text": "Metaphase\n(b)",
+          "bbox": {
+            "x_min": 0.6877,
+            "y_min": 0.8162,
+            "x_max": 0.7799,
+            "y_max": 0.8449,
+            "width": 0.0922,
+            "height": 0.0287
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "d",
+          "bbox": {
+            "x_min": 0.8044,
+            "y_min": 0.3025,
+            "x_max": 0.8815,
+            "y_max": 0.3633,
+            "width": 0.0771,
+            "height": 0.0608
+          },
+          "confidence": 0.8996
+        },
+        {
+          "text": "Figure 10.2 a and b : A diagrammatic\nview of stages in mitosis",
+          "bbox": {
+            "x_min": 0.5919,
+            "y_min": 0.8766,
+            "x_max": 0.8949,
+            "y_max": 0.9032,
+            "width": 0.303,
+            "height": 0.0266
+          },
+          "confidence": 0.9817
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "124",
+          "bbox": {
+            "x_min": 0.1203,
+            "y_min": 0.084,
+            "x_max": 0.1576,
+            "y_max": 0.093,
+            "width": 0.0374,
+            "height": 0.009
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8576,
+            "y_min": 0.084,
+            "x_max": 0.9247,
+            "y_max": 0.0934,
+            "width": 0.0671,
+            "height": 0.0094
+          },
+          "confidence": 0.9785
+        },
+        {
+          "text": "albe",
+          "bbox": {
+            "x_min": 0.1991,
+            "y_min": 0.2459,
+            "x_max": 0.2948,
+            "y_max": 0.2823,
+            "width": 0.0957,
+            "height": 0.0364
+          },
+          "confidence": 0.7009
+        },
+        {
+          "text": "Anaphase\n(c)",
+          "bbox": {
+            "x_min": 0.1979,
+            "y_min": 0.3299,
+            "x_max": 0.2855,
+            "y_max": 0.3608,
+            "width": 0.0876,
+            "height": 0.0308
+          },
+          "confidence": 0.9805
+        },
+        {
+          "text": "Telophase\n(d)",
+          "bbox": {
+            "x_min": 0.1985,
+            "y_min": 0.5716,
+            "x_max": 0.286,
+            "y_max": 0.602,
+            "width": 0.0876,
+            "height": 0.0304
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "Interphase\n(e)",
+          "bbox": {
+            "x_min": 0.2002,
+            "y_min": 0.8068,
+            "x_max": 0.2907,
+            "y_max": 0.8372,
+            "width": 0.0905,
+            "height": 0.0304
+          },
+          "confidence": 0.9884
+        },
+        {
+          "text": "to",
+          "bbox": {
+            "x_min": 0.3071,
+            "y_min": 0.653,
+            "x_max": 0.4057,
+            "y_max": 0.7254,
+            "width": 0.0987,
+            "height": 0.0724
+          },
+          "confidence": 0.9876
+        },
+        {
+          "text": "Figure 10.2 c to e : A diagrammatic\nview of stages in Mitosis",
+          "bbox": {
+            "x_min": 0.1062,
+            "y_min": 0.8655,
+            "x_max": 0.4005,
+            "y_max": 0.892,
+            "width": 0.2942,
+            "height": 0.0266
+          },
+          "confidence": 0.9887
+        },
+        {
+          "text": "the following key events:",
+          "bbox": {
+            "x_min": 0.4151,
+            "y_min": 0.1358,
+            "x_max": 0.6217,
+            "y_max": 0.1487,
+            "width": 0.2067,
+            "height": 0.0129
+          },
+          "confidence": 0.9934
+        },
+        {
+          "text": "•",
+          "bbox": {
+            "x_min": 0.4145,
+            "y_min": 0.1611,
+            "x_max": 0.4273,
+            "y_max": 0.1671,
+            "width": 0.0128,
+            "height": 0.006
+          },
+          "confidence": 0.9152
+        },
+        {
+          "text": "Centromeres split and chromatids separate.",
+          "bbox": {
+            "x_min": 0.4466,
+            "y_min": 0.1585,
+            "x_max": 0.826,
+            "y_max": 0.171,
+            "width": 0.3795,
+            "height": 0.0124
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "• Chromatids move to opposite poles.",
+          "bbox": {
+            "x_min": 0.4139,
+            "y_min": 0.1821,
+            "x_max": 0.756,
+            "y_max": 0.1945,
+            "width": 0.3421,
+            "height": 0.0124
+          },
+          "confidence": 0.9903
+        },
+        {
+          "text": "10.2.4 Telophase",
+          "bbox": {
+            "x_min": 0.4162,
+            "y_min": 0.2211,
+            "x_max": 0.6048,
+            "y_max": 0.2352,
+            "width": 0.1886,
+            "height": 0.0141
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "At the beginning of the final stage of karyokinesis, i.e.,\ntelophase, the chromosomes that have reached their\nrespective poles decondense and lose their individuality. The\nindividual chromosomes can no longer be seen and each set\nof chromatin material tends to collect at each of the two poles\n(Figure 10.2 d). This is the stage which shows the following\nkey events:",
+          "bbox": {
+            "x_min": 0.4139,
+            "y_min": 0.2485,
+            "x_max": 0.927,
+            "y_max": 0.3685,
+            "width": 0.5131,
+            "height": 0.12
+          },
+          "confidence": 0.9941
+        },
+        {
+          "text": "•",
+          "bbox": {
+            "x_min": 0.4145,
+            "y_min": 0.3835,
+            "x_max": 0.4262,
+            "y_max": 0.3895,
+            "width": 0.0117,
+            "height": 0.006
+          },
+          "confidence": 0.9001
+        },
+        {
+          "text": "Chromosomes cluster at opposite spindle poles and their\nidentity is lost as discrete elements.",
+          "bbox": {
+            "x_min": 0.4466,
+            "y_min": 0.3809,
+            "x_max": 0.927,
+            "y_max": 0.4117,
+            "width": 0.4804,
+            "height": 0.0308
+          },
+          "confidence": 0.9963
+        },
+        {
+          "text": "• Nuclear envelope develops around the chromosome\nclusters at each pole forming two daughter nuclei.",
+          "bbox": {
+            "x_min": 0.4156,
+            "y_min": 0.4246,
+            "x_max": 0.9264,
+            "y_max": 0.4546,
+            "width": 0.5108,
+            "height": 0.03
+          },
+          "confidence": 0.9939
+        },
+        {
+          "text": "• Nucleolus, golgi complex and ER reform.",
+          "bbox": {
+            "x_min": 0.4151,
+            "y_min": 0.4674,
+            "x_max": 0.7998,
+            "y_max": 0.4799,
+            "width": 0.3847,
+            "height": 0.0124
+          },
+          "confidence": 0.9875
+        },
+        {
+          "text": "10.2.5 Cytokinesis",
+          "bbox": {
+            "x_min": 0.4168,
+            "y_min": 0.4996,
+            "x_max": 0.6252,
+            "y_max": 0.5141,
+            "width": 0.2084,
+            "height": 0.0146
+          },
+          "confidence": 0.9918
+        },
+        {
+          "text": "Mitosis accomplishes not only the segregation of duplicated\nchromosomes into daughter nuclei (karyokinesis), but the\ncell itself is divided into two daughter cells by the separation\nof cytoplasm called cytokinesis at the end of which cell\ndivision gets completed (Figure 10.2 e). In an animal cell,\nthis is achieved by the appearance of a furrow in the plasma\nmembrane. The furrow gradually deepens and ultimately\njoins in the centre dividing the cell cytoplasm into two. Plant\ncells however, are enclosed by a relatively inextensible cell\nwall, thererfore they undergo cytokinesis by a different\nmechanism. In plant cells, wall formation starts in the centre\nof the cell and grows outward to meet the existing lateral\nwalls. The formation of the new cell wall begins with the\nformation of a simple precursor, called the cell-plate that\nrepresents the middle lamella between the walls of two\nadjacent cells. At the time of cytoplasmic division, organelles\nlike mitochondria and plastids get distributed between the\ntwo daughter cells. In some organisms karyokinesis is not\nfollowed by cytokinesis as a result of which multinucleate\ncondition arises leading to the formation of syncytium (e.g.,\nliquid endosperm in coconut).",
+          "bbox": {
+            "x_min": 0.4127,
+            "y_min": 0.5261,
+            "x_max": 0.9264,
+            "y_max": 0.8907,
+            "width": 0.5137,
+            "height": 0.3646
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "CELL CYCLE AND CELL DIVISION",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.0827,
+            "x_max": 0.3602,
+            "y_max": 0.0925,
+            "width": 0.2464,
+            "height": 0.0099
+          },
+          "confidence": 0.978
+        },
+        {
+          "text": "125",
+          "bbox": {
+            "x_min": 0.8476,
+            "y_min": 0.0827,
+            "x_max": 0.8838,
+            "y_max": 0.0934,
+            "width": 0.0362,
+            "height": 0.0107
+          },
+          "confidence": 0.9956
+        },
+        {
+          "text": "10.3 Significance of Mitosis",
+          "bbox": {
+            "x_min": 0.0747,
+            "y_min": 0.1337,
+            "x_max": 0.3888,
+            "y_max": 0.1495,
+            "width": 0.3141,
+            "height": 0.0159
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "Mitosis or the equational division is usually restricted to the diploid cells\nonly. However, in some lower plants and in some social insects haploid\ncells also divide by mitosis. It is very essential to understand the\nsignificance of this division in the life of an organism. Are you aware of\nsome examples where you have studied about haploid and diploid insects?",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.1611,
+            "x_max": 0.6988,
+            "y_max": 0.2399,
+            "width": 0.6258,
+            "height": 0.0788
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "Mitosis usually results in the production of diploid daughter cells\nwith identical genetic complement. The growth of multicellular organisms\nis due to mitosis. Cell growth results in disturbing the ratio between the\nnucleus and the cytoplasm. It therefore becomes essential for the cell to\ndivide to restore the nucleo-cytoplasmic ratio. A very significant\ncontribution of mitosis is cell repair. The cells of the upper layer of the\nepidermis, cells of the lining of the gut, and blood cells are being constantly\nreplaced. Mitotic divisions in the meristematic tissues – the apical and\nthe lateral cambium, result in a continuous growth of plants throughout\ntheir life.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.2434,
+            "x_max": 0.6982,
+            "y_max": 0.4027,
+            "width": 0.6264,
+            "height": 0.1594
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "The production of offspring by sexual reproduction includes the fuelushed",
+          "bbox": {
+            "x_min": 0.0648,
+            "y_min": 0.3162,
+            "x_max": 0.8821,
+            "y_max": 0.5021,
+            "width": 0.8173,
+            "height": 0.1859
+          },
+          "confidence": 0.9518
+        },
+        {
+          "text": "10.4 ΜΕΙOSIS",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.4327,
+            "x_max": 0.2253,
+            "y_max": 0.4452,
+            "width": 0.1512,
+            "height": 0.0124
+          },
+          "confidence": 0.9435
+        },
+        {
+          "text": "RT",
+          "bbox": {
+            "x_min": 0.4834,
+            "y_min": 0.3907,
+            "x_max": 0.6211,
+            "y_max": 0.4833,
+            "width": 0.1378,
+            "height": 0.0925
+          },
+          "confidence": 0.9412
+        },
+        {
+          "text": "of two gametes, each with a complete haploid set of chromosomes. Gametes\nare formed from specialised diploid cells. This specialised kind of cell\ndivision that reduces the chromosome number by half results in the\nproduction of haploid daughter cells. This kind of division is called\nmeiosis. Meiosis ensures the production of haploid phase in the life cycle\nof sexually reproducing organisms whereas fertilisation restores the diploid\nphase. We come across meiosis during gametogenesis in plants and\nanimals. This leads to the formation of haploid gametes. The key features\nof meiosis are as follows:",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.4841,
+            "x_max": 0.697,
+            "y_max": 0.6268,
+            "width": 0.6241,
+            "height": 0.1427
+          },
+          "confidence": 0.9954
+        },
+        {
+          "text": "•",
+          "bbox": {
+            "x_min": 0.073,
+            "y_min": 0.6427,
+            "x_max": 0.0846,
+            "y_max": 0.6491,
+            "width": 0.0117,
+            "height": 0.0064
+          },
+          "confidence": 0.9177
+        },
+        {
+          "text": "•",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.6778,
+            "x_max": 0.0852,
+            "y_max": 0.6842,
+            "width": 0.0128,
+            "height": 0.0064
+          },
+          "confidence": 0.9128
+        },
+        {
+          "text": "•",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.7121,
+            "x_max": 0.0852,
+            "y_max": 0.7185,
+            "width": 0.0128,
+            "height": 0.0064
+          },
+          "confidence": 0.9128
+        },
+        {
+          "text": "•",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.7618,
+            "x_max": 0.0852,
+            "y_max": 0.7682,
+            "width": 0.0128,
+            "height": 0.0064
+          },
+          "confidence": 0.9191
+        },
+        {
+          "text": "Meiosis involves two sequential cycles of nuclear and cell division called\nmeiosis I and meiosis II but only a single cycle of DNA replication.\nMeiosis I is initiated after the parental chromosomes have replicated\nto produce identical sister chromatids at the S phase.",
+          "bbox": {
+            "x_min": 0.1039,
+            "y_min": 0.6401,
+            "x_max": 0.697,
+            "y_max": 0.7035,
+            "width": 0.5931,
+            "height": 0.0634
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "Meiosis involves pairing of homologous chromosomes and\nrecombination between non-sister chromatids of homologous\nchromosomes.",
+          "bbox": {
+            "x_min": 0.1033,
+            "y_min": 0.7099,
+            "x_max": 0.6976,
+            "y_max": 0.7506,
+            "width": 0.5943,
+            "height": 0.0407
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "Four haploid cells are formed at the end of meiosis II.",
+          "bbox": {
+            "x_min": 0.1045,
+            "y_min": 0.7596,
+            "x_max": 0.5657,
+            "y_max": 0.7725,
+            "width": 0.4612,
+            "height": 0.0129
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "Meiotic events can be grouped under the following phases:",
+          "bbox": {
+            "x_min": 0.1045,
+            "y_min": 0.7798,
+            "x_max": 0.6124,
+            "y_max": 0.7926,
+            "width": 0.5079,
+            "height": 0.0129
+          },
+          "confidence": 0.9961
+        },
+        {
+          "text": "Meiosis I",
+          "bbox": {
+            "x_min": 0.2621,
+            "y_min": 0.8085,
+            "x_max": 0.3433,
+            "y_max": 0.8179,
+            "width": 0.0811,
+            "height": 0.0094
+          },
+          "confidence": 0.9826
+        },
+        {
+          "text": "Meiosis II",
+          "bbox": {
+            "x_min": 0.4227,
+            "y_min": 0.8085,
+            "x_max": 0.509,
+            "y_max": 0.8179,
+            "width": 0.0864,
+            "height": 0.0094
+          },
+          "confidence": 0.9624
+        },
+        {
+          "text": "Prophase I",
+          "bbox": {
+            "x_min": 0.2633,
+            "y_min": 0.8295,
+            "x_max": 0.3514,
+            "y_max": 0.8398,
+            "width": 0.0881,
+            "height": 0.0103
+          },
+          "confidence": 0.9839
+        },
+        {
+          "text": "Prophase II",
+          "bbox": {
+            "x_min": 0.4227,
+            "y_min": 0.829,
+            "x_max": 0.5161,
+            "y_max": 0.8398,
+            "width": 0.0934,
+            "height": 0.0107
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "Metaphase I",
+          "bbox": {
+            "x_min": 0.2621,
+            "y_min": 0.8488,
+            "x_max": 0.3654,
+            "y_max": 0.8595,
+            "width": 0.1033,
+            "height": 0.0107
+          },
+          "confidence": 0.9818
+        },
+        {
+          "text": "Metaphase II",
+          "bbox": {
+            "x_min": 0.4209,
+            "y_min": 0.8492,
+            "x_max": 0.5301,
+            "y_max": 0.8595,
+            "width": 0.1092,
+            "height": 0.0103
+          },
+          "confidence": 0.9852
+        },
+        {
+          "text": "Anaphase I",
+          "bbox": {
+            "x_min": 0.2609,
+            "y_min": 0.868,
+            "x_max": 0.3573,
+            "y_max": 0.8787,
+            "width": 0.0963,
+            "height": 0.0107
+          },
+          "confidence": 0.9865
+        },
+        {
+          "text": "Anaphase II",
+          "bbox": {
+            "x_min": 0.4197,
+            "y_min": 0.8685,
+            "x_max": 0.5231,
+            "y_max": 0.8787,
+            "width": 0.1033,
+            "height": 0.0103
+          },
+          "confidence": 0.9831
+        },
+        {
+          "text": "Telophase I",
+          "bbox": {
+            "x_min": 0.2627,
+            "y_min": 0.8877,
+            "x_max": 0.3579,
+            "y_max": 0.8985,
+            "width": 0.0952,
+            "height": 0.0107
+          },
+          "confidence": 0.9858
+        },
+        {
+          "text": "Telophase II",
+          "bbox": {
+            "x_min": 0.4215,
+            "y_min": 0.8873,
+            "x_max": 0.5231,
+            "y_max": 0.898,
+            "width": 0.1016,
+            "height": 0.0107
+          },
+          "confidence": 0.9849
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "126",
+          "bbox": {
+            "x_min": 0.1191,
+            "y_min": 0.0831,
+            "x_max": 0.1576,
+            "y_max": 0.0934,
+            "width": 0.0385,
+            "height": 0.0103
+          },
+          "confidence": 0.9937
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8576,
+            "y_min": 0.0835,
+            "x_max": 0.9253,
+            "y_max": 0.093,
+            "width": 0.0677,
+            "height": 0.0094
+          },
+          "confidence": 0.9759
+        },
+        {
+          "text": "10.4.1 Meiosis I",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.1337,
+            "x_max": 0.4816,
+            "y_max": 0.1465,
+            "width": 0.1792,
+            "height": 0.0129
+          },
+          "confidence": 0.978
+        },
+        {
+          "text": "Prophase I: Prophase of the first meiotic division is typically longer and\nmore complex when compared to prophase of mitosis. It has been further\nsubdivided into the following five phases based on chromosomal\nbehaviour, i.e., Leptotene, Zygotene, Pachytene, Diplotene and Diakinesis.",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.1607,
+            "x_max": 0.9264,
+            "y_max": 0.2279,
+            "width": 0.6258,
+            "height": 0.0673
+          },
+          "confidence": 0.9923
+        },
+        {
+          "text": "During leptotene stage the chromosomes become gradually visible\nunder the light microscope. The compaction of chromosomes continues\nthroughout leptotene. This is followed by the second stage of prophase\nI called zygotene. During this stage, chromosomes start pairing\ntogether and this process of association is called synapsis. Such paired\nchromosomes are called homologous chromosomes. Electron\nmicrographs of this stage, indicate that chromosome synapsis is\naccompanied by the formation of complex structure called\nsynaptonemal complex. The complex formed by a pair of synapsed\nhomologous chromosomes is called a bivalent or a tetrad. However,\nthese are more clearly visible at the next stage. The first two stages of\nprophase I are relatively short-lived compared to the next stage that is\npachytene. During this stage, the four chromatids of each bivalent\nchromosomes becomes distinct and clearly appear as tetrads. This\nstage is characterised by the appearance of recombination nodules,\nthe sites at which crossing over occurs between non-sister chromatids\nof the homologous chromosomes. Crossing over is the exchange of\ngenetic material between two homologous chromosomes. Crossing over\nis also an enzyme-mediated process and the enzyme involved is called\nrecombinase. Crossing over leads to recombination of genetic material\non the two chromosomes. Recombination between homologous\nchromosomes is completed by the end of pachytene, leaving the\nchromosomes linked at the sites of crossing over.",
+          "bbox": {
+            "x_min": 0.3012,
+            "y_min": 0.2322,
+            "x_max": 0.9282,
+            "y_max": 0.6384,
+            "width": 0.627,
+            "height": 0.4062
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "The beginning of diplotene is recognised by the dissolution of the\nsynaptonemal complex and the tendency of the recombined\nhomologous chromosomes of the bivalents to separate from each other\nexcept at the sites of crossovers. These X-shaped structures, are called\nchiasmata. In oocytes of some vertebrates, diplotene can last for\nmonths or years.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.6427,
+            "x_max": 0.927,
+            "y_max": 0.7451,
+            "width": 0.6246,
+            "height": 0.1024
+          },
+          "confidence": 0.9959
+        },
+        {
+          "text": "The final stage of meiotic prophase I is diakinesis. This is marked by\nterminalisation of chiasmata. During this phase the chromosomes are\nfully condensed and the meiotic spindle is assembled to prepare the\nhomologous chromosomes for separation. By the end of diakinesis, the\nnucleolus disappears and the nuclear envelope also breaks down.\nDiakinesis represents transition to metaphase.",
+          "bbox": {
+            "x_min": 0.3006,
+            "y_min": 0.7494,
+            "x_max": 0.9264,
+            "y_max": 0.8522,
+            "width": 0.6258,
+            "height": 0.1028
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "Metaphase I: The bivalent chromosomes align on the equatorial plate\n(Figure 10.3). The microtubules from the opposite poles of the spindle\nattach to the kinetochore of homologous chromosomes.",
+          "bbox": {
+            "x_min": 0.3018,
+            "y_min": 0.8565,
+            "x_max": 0.9264,
+            "y_max": 0.9057,
+            "width": 0.6246,
+            "height": 0.0493
+          },
+          "confidence": 0.9955
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1932,
+            "y_min": 0.7104,
+            "x_max": 0.3257,
+            "y_max": 0.8123,
+            "width": 0.1325,
+            "height": 0.102
+          },
+          "confidence": 0.9784
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "CELL CYCLE AND CELL DIVISION",
+          "bbox": {
+            "x_min": 0.1144,
+            "y_min": 0.0823,
+            "x_max": 0.3602,
+            "y_max": 0.0925,
+            "width": 0.2458,
+            "height": 0.0103
+          },
+          "confidence": 0.9742
+        },
+        {
+          "text": "P",
+          "bbox": {
+            "x_min": 0.4267,
+            "y_min": 0.2181,
+            "x_max": 0.4361,
+            "y_max": 0.2224,
+            "width": 0.0093,
+            "height": 0.0043
+          },
+          "confidence": 0.7406
+        },
+        {
+          "text": "P",
+          "bbox": {
+            "x_min": 0.7496,
+            "y_min": 0.1705,
+            "x_max": 0.7601,
+            "y_max": 0.1752,
+            "width": 0.0105,
+            "height": 0.0047
+          },
+          "confidence": 0.8198
+        },
+        {
+          "text": "Prophase I",
+          "bbox": {
+            "x_min": 0.1961,
+            "y_min": 0.3295,
+            "x_max": 0.2726,
+            "y_max": 0.3419,
+            "width": 0.0765,
+            "height": 0.0124
+          },
+          "confidence": 0.9862
+        },
+        {
+          "text": "Metaphase 1",
+          "bbox": {
+            "x_min": 0.3876,
+            "y_min": 0.3278,
+            "x_max": 0.474,
+            "y_max": 0.3393,
+            "width": 0.0864,
+            "height": 0.0116
+          },
+          "confidence": 0.9874
+        },
+        {
+          "text": "Anaphase 1",
+          "bbox": {
+            "x_min": 0.5604,
+            "y_min": 0.3428,
+            "x_max": 0.6445,
+            "y_max": 0.3543,
+            "width": 0.0841,
+            "height": 0.0116
+          },
+          "confidence": 0.9882
+        },
+        {
+          "text": "Telophase 1",
+          "bbox": {
+            "x_min": 0.714,
+            "y_min": 0.3548,
+            "x_max": 0.8009,
+            "y_max": 0.377,
+            "width": 0.087,
+            "height": 0.0223
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "Figure 10.3 Stages of Meiosis I",
+          "bbox": {
+            "x_min": 0.352,
+            "y_min": 0.4259,
+            "x_max": 0.6135,
+            "y_max": 0.4379,
+            "width": 0.2615,
+            "height": 0.012
+          },
+          "confidence": 0.9921
+        },
+        {
+          "text": "lished",
+          "bbox": {
+            "x_min": 0.6497,
+            "y_min": 0.3068,
+            "x_max": 0.8827,
+            "y_max": 0.4696,
+            "width": 0.2329,
+            "height": 0.1628
+          },
+          "confidence": 0.9339
+        },
+        {
+          "text": "Anaphase I: The homologous chromosomes separate, while sister\nchromatids remain associated at their centromeres (Figure 10.3).",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.4572,
+            "x_max": 0.6982,
+            "y_max": 0.4901,
+            "width": 0.6258,
+            "height": 0.033
+          },
+          "confidence": 0.9946
+        },
+        {
+          "text": "Telophase I: The nuclear membrane and nucleolus reappear,\ncytokinesis follows and this is called as dyad of cells (Figure 10.3).\nAlthough in many cases the chromosomes do undergo some dispersion,\nthey do not reach the extremely extended state of the interphase nucleus.\nThe stage between the two meiotic divisions is called interkinesis and is\ngenerally short lived. There is no replication of DNA during interkinesis.\nInterkinesis is followed by prophase II, a much simpler prophase than\nprophase I.",
+          "bbox": {
+            "x_min": 0.0712,
+            "y_min": 0.5026,
+            "x_max": 0.697,
+            "y_max": 0.6457,
+            "width": 0.6258,
+            "height": 0.1431
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "10.4.2 Meiosis II",
+          "bbox": {
+            "x_min": 0.0741,
+            "y_min": 0.665,
+            "x_max": 0.258,
+            "y_max": 0.6761,
+            "width": 0.1839,
+            "height": 0.0111
+          },
+          "confidence": 0.9818
+        },
+        {
+          "text": "ted imm",
+          "bbox": {
+            "x_min": 0.3415,
+            "y_min": 0.6881,
+            "x_max": 0.4046,
+            "y_max": 0.7031,
+            "width": 0.063,
+            "height": 0.015
+          },
+          "confidence": 0.9629
+        },
+        {
+          "text": "Prophase II: Meiosis II is initiated immediately after cytokinesis, usually\nbefore the chromosomes have fully elongated. In contrast to meiosis I,\nmeiosis II resembles a normal mitosis. The nuclear membrane disappears\nby the end of prophase II (Figure 10.4). The chromosomes again become\ncompact.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.6924,
+            "x_max": 0.6976,
+            "y_max": 0.7789,
+            "width": 0.6252,
+            "height": 0.0865
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "Metaphase II: At this stage, the chromosomes align at the equator and\nthe microtubules from opposite poles of the spindle get attached to the\nkinetochores (Figure 10.4) of sister chromatids.",
+          "bbox": {
+            "x_min": 0.0724,
+            "y_min": 0.7883,
+            "x_max": 0.697,
+            "y_max": 0.8393,
+            "width": 0.6246,
+            "height": 0.051
+          },
+          "confidence": 0.9951
+        },
+        {
+          "text": "Anaphase II: It begins with the simultaneous splitting of the centromere\nof each chromosome (which was holding the sister chromatids together),\nallowing them to move toward opposite poles of the cell (Figure 10.4) by\nshortening of microtubules attached to kinetochores.",
+          "bbox": {
+            "x_min": 0.0718,
+            "y_min": 0.8505,
+            "x_max": 0.6976,
+            "y_max": 0.9186,
+            "width": 0.6258,
+            "height": 0.0681
+          },
+          "confidence": 0.9936
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "127",
+          "bbox": {
+            "x_min": 0.8476,
+            "y_min": 0.0831,
+            "x_max": 0.8838,
+            "y_max": 0.093,
+            "width": 0.0362,
+            "height": 0.0099
+          },
+          "confidence": 0.9933
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "128",
+          "bbox": {
+            "x_min": 0.1191,
+            "y_min": 0.0831,
+            "x_max": 0.1582,
+            "y_max": 0.093,
+            "width": 0.0391,
+            "height": 0.0099
+          },
+          "confidence": 0.9945
+        },
+        {
+          "text": "↑↑↑",
+          "bbox": {
+            "x_min": 0.7303,
+            "y_min": 0.1697,
+            "x_max": 0.7916,
+            "y_max": 0.3316,
+            "width": 0.0613,
+            "height": 0.162
+          },
+          "confidence": 0.7169
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8564,
+            "y_min": 0.084,
+            "x_max": 0.9253,
+            "y_max": 0.0934,
+            "width": 0.0689,
+            "height": 0.0094
+          },
+          "confidence": 0.9804
+        },
+        {
+          "text": "Anaphase II",
+          "bbox": {
+            "x_min": 0.6141,
+            "y_min": 0.4207,
+            "x_max": 0.7081,
+            "y_max": 0.4443,
+            "width": 0.094,
+            "height": 0.0236
+          },
+          "confidence": 0.9814
+        },
+        {
+          "text": "Telophase II",
+          "bbox": {
+            "x_min": 0.8085,
+            "y_min": 0.4387,
+            "x_max": 0.9013,
+            "y_max": 0.4499,
+            "width": 0.0928,
+            "height": 0.0111
+          },
+          "confidence": 0.9891
+        },
+        {
+          "text": "Prophase II",
+          "bbox": {
+            "x_min": 0.2166,
+            "y_min": 0.4147,
+            "x_max": 0.303,
+            "y_max": 0.4254,
+            "width": 0.0864,
+            "height": 0.0107
+          },
+          "confidence": 0.9872
+        },
+        {
+          "text": "Metaphase II",
+          "bbox": {
+            "x_min": 0.4197,
+            "y_min": 0.4152,
+            "x_max": 0.5213,
+            "y_max": 0.4259,
+            "width": 0.1016,
+            "height": 0.0107
+          },
+          "confidence": 0.9863
+        },
+        {
+          "text": "Figure 10.4 Stages of is",
+          "bbox": {
+            "x_min": 0.38,
+            "y_min": 0.4512,
+            "x_max": 0.6322,
+            "y_max": 0.4781,
+            "width": 0.2522,
+            "height": 0.027
+          },
+          "confidence": 0.8713
+        },
+        {
+          "text": "osis Il",
+          "bbox": {
+            "x_min": 0.6013,
+            "y_min": 0.4584,
+            "x_max": 0.6492,
+            "y_max": 0.4816,
+            "width": 0.0479,
+            "height": 0.0231
+          },
+          "confidence": 0.9075
+        },
+        {
+          "text": "II",
+          "bbox": {
+            "x_min": 0.6398,
+            "y_min": 0.464,
+            "x_max": 0.6503,
+            "y_max": 0.4751,
+            "width": 0.0105,
+            "height": 0.0111
+          },
+          "confidence": 0.9804
+        },
+        {
+          "text": "Telophase II: Meiosis ends with telophase II, in which the two\ngroups of chromosomes once again get enclosed by a nuclear\nenvelope; cytokinesis follows resulting in the formation of tetrad\nof cells i.e., four haploid daughter cells (Figure 10.4).",
+          "bbox": {
+            "x_min": 0.303,
+            "y_min": 0.4953,
+            "x_max": 0.864,
+            "y_max": 0.5638,
+            "width": 0.561,
+            "height": 0.0686
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "10.5 SIGNIFICANCE OF MEIOSIS",
+          "bbox": {
+            "x_min": 0.3041,
+            "y_min": 0.5908,
+            "x_max": 0.6205,
+            "y_max": 0.6033,
+            "width": 0.3164,
+            "height": 0.0124
+          },
+          "confidence": 0.9768
+        },
+        {
+          "text": "Meiosis is the mechanism by which conservation of specific\nchromosome number of each species is achieved across\ngenerations in sexually reproducing organisms, even though the\nprocess, per se, paradoxically, results in reduction of chromosome\nnumber by half. It also increases the genetic variability in the\npopulation of organisms from one generation to the next. Variations\nare very important for the process of evolution.",
+          "bbox": {
+            "x_min": 0.3024,
+            "y_min": 0.6195,
+            "x_max": 0.8651,
+            "y_max": 0.7395,
+            "width": 0.5628,
+            "height": 0.12
+          },
+          "confidence": 0.9965
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1874,
+            "y_min": 0.7099,
+            "x_max": 0.3263,
+            "y_max": 0.8136,
+            "width": 0.1389,
+            "height": 0.1037
+          },
+          "confidence": 0.99
+        },
+        {
+          "text": "SUMMARY",
+          "bbox": {
+            "x_min": 0.4676,
+            "y_min": 0.7841,
+            "x_max": 0.5587,
+            "y_max": 0.7952,
+            "width": 0.0911,
+            "height": 0.0111
+          },
+          "confidence": 0.957
+        },
+        {
+          "text": "According to the cell theory, cells arise from preexisting cells. The process by\nwhich this occurs is called cell division. Any sexually reproducing organism\nstarts its life cycle from a single-celled zygote. Cell division does not stop with\nthe formation of the mature organism but continues throughout its life cycle.",
+          "bbox": {
+            "x_min": 0.1635,
+            "y_min": 0.8346,
+            "x_max": 0.8622,
+            "y_max": 0.901,
+            "width": 0.6988,
+            "height": 0.0664
+          },
+          "confidence": 0.9964
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "CELL CYCLE AND CELL DIVISION",
+          "bbox": {
+            "x_min": 0.1138,
+            "y_min": 0.0827,
+            "x_max": 0.3602,
+            "y_max": 0.0925,
+            "width": 0.2464,
+            "height": 0.0099
+          },
+          "confidence": 0.978
+        },
+        {
+          "text": "a",
+          "bbox": {
+            "x_min": 0.8219,
+            "y_min": 0.1572,
+            "x_max": 0.8336,
+            "y_max": 0.1632,
+            "width": 0.0117,
+            "height": 0.006
+          },
+          "confidence": 0.9659
+        },
+        {
+          "text": "The stages through which a cell passes from one division to the next is called\nthe cell cycle. Cell cycle is divided into two phases called (i) Interphase\nperiod of preparation for cell division, and (ii) Mitosis (M phase) – the actual\nperiod of cell division. Interphase is further subdivided into G₁, S and G2. G₁\nphase is the period when the cell grows and carries out normal metabolism.\nMost of the organelle duplication also occurs during this phase. S phase marks\nthe phase of DNA replication and chromosome duplication. G₂ phase is the\nperiod of cytoplasmic growth. Mitosis is also divided into four stages namely\nprophase, metaphase, anaphase and telophase. Chromosome condensation\noccurs during prophase. Simultaneously, the centrioles move to the opposite\npoles. The nuclear envelope and the nucleolus disappear and the spindle\nfibres start appearing. Metaphase is marked by the alignment of chromosomes\nat the equatorial plate. During anaphase the centromeres divide and the\nchromatids start moving towards the two opposite poles. Once the chromatids\nreach the two poles, the chromosomal elongation starts, nucleolus and the\nnuclear membrane reappear. This stage is called the telophase. Nuclear\ndivision is then followed by the cytoplasmic division and is called cytokinesis.\nMitosis thus, is the equational division in which the chromosome number of\nthe parent is conserved in the daughter cell.",
+          "bbox": {
+            "x_min": 0.1331,
+            "y_min": 0.1354,
+            "x_max": 0.8342,
+            "y_max": 0.4696,
+            "width": 0.7011,
+            "height": 0.3342
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "In contrast to mitosis, meiosis occurs in the diploid cells, which are destined to\nform gametes. It is called the reduction division since it reduces the chromosome\nnumber by half while making the gametes. In sexual reproduction when the two\ngametes fuse the chromosome number is restored to the value in the parent.\nMeiosis is divided into two phases – meiosis I and meiosis II. In the first meiotic\ndivision the homologous chromosomes pair to form bivalents, and undergo crossing\nover. Meiosis I has a long prophase, which is divided further into five phases.\nThese are leptotene, zygotene, pachytene, diplotene and diakinesis. During\nmetaphase I the bivalents arrange on the equatorial plate. This is followed by\nanaphase I in which homologous chromosomes move to the opposite poles with\nboth their chromatids. Each pole receives half the chromosome number of the\nparent cell. In telophase I, the nuclear membrane and nucleolus reappear. Meiosis\nII is similar to mitosis. During anaphase II the sister chromatids separate. Thus at\nthe end of meiosis four haploid cells are formed.",
+          "bbox": {
+            "x_min": 0.1331,
+            "y_min": 0.4743,
+            "x_max": 0.8336,
+            "y_max": 0.7198,
+            "width": 0.7005,
+            "height": 0.2455
+          },
+          "confidence": 0.9962
+        },
+        {
+          "text": "not",
+          "bbox": {
+            "x_min": 0.1874,
+            "y_min": 0.7074,
+            "x_max": 0.331,
+            "y_max": 0.8149,
+            "width": 0.1436,
+            "height": 0.1075
+          },
+          "confidence": 0.9899
+        },
+        {
+          "text": "EXERCISES",
+          "bbox": {
+            "x_min": 0.4308,
+            "y_min": 0.7699,
+            "x_max": 0.5342,
+            "y_max": 0.7815,
+            "width": 0.1033,
+            "height": 0.0116
+          },
+          "confidence": 0.9778
+        },
+        {
+          "text": "1. What is the average cell cycle span for a mammalian cell?",
+          "bbox": {
+            "x_min": 0.1465,
+            "y_min": 0.8196,
+            "x_max": 0.662,
+            "y_max": 0.832,
+            "width": 0.5155,
+            "height": 0.0124
+          },
+          "confidence": 0.9908
+        },
+        {
+          "text": "2. Distinguish cytokinesis from karyokinesis.",
+          "bbox": {
+            "x_min": 0.1448,
+            "y_min": 0.8398,
+            "x_max": 0.5306,
+            "y_max": 0.8522,
+            "width": 0.3859,
+            "height": 0.0124
+          },
+          "confidence": 0.9948
+        },
+        {
+          "text": "3. Describe the events taking place during interphase.",
+          "bbox": {
+            "x_min": 0.1448,
+            "y_min": 0.8599,
+            "x_max": 0.6095,
+            "y_max": 0.8728,
+            "width": 0.4647,
+            "height": 0.0129
+          },
+          "confidence": 0.9957
+        },
+        {
+          "text": "4. What is Go (quiescent phase) of cell cycle?",
+          "bbox": {
+            "x_min": 0.1442,
+            "y_min": 0.8805,
+            "x_max": 0.5266,
+            "y_max": 0.8942,
+            "width": 0.3824,
+            "height": 0.0137
+          },
+          "confidence": 0.9676
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        },
+        {
+          "text": "129",
+          "bbox": {
+            "x_min": 0.8459,
+            "y_min": 0.0835,
+            "x_max": 0.885,
+            "y_max": 0.093,
+            "width": 0.0391,
+            "height": 0.0094
+          },
+          "confidence": 0.9948
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "dimension": {
+        "width": 1713.0,
+        "height": 2334.0
+      },
+      "paragraphs": [
+        {
+          "text": "130",
+          "bbox": {
+            "x_min": 0.1197,
+            "y_min": 0.084,
+            "x_max": 0.1582,
+            "y_max": 0.093,
+            "width": 0.0385,
+            "height": 0.009
+          },
+          "confidence": 0.9943
+        },
+        {
+          "text": "BIOLOGY",
+          "bbox": {
+            "x_min": 0.8581,
+            "y_min": 0.0835,
+            "x_max": 0.9253,
+            "y_max": 0.0938,
+            "width": 0.0671,
+            "height": 0.0103
+          },
+          "confidence": 0.9733
+        },
+        {
+          "text": "5. Why is mitosis called equational division?",
+          "bbox": {
+            "x_min": 0.1757,
+            "y_min": 0.1341,
+            "x_max": 0.5563,
+            "y_max": 0.147,
+            "width": 0.3806,
+            "height": 0.0129
+          },
+          "confidence": 0.9902
+        },
+        {
+          "text": "6. Name the stage of cell cycle at which one of the following events occur:",
+          "bbox": {
+            "x_min": 0.1745,
+            "y_min": 0.1547,
+            "x_max": 0.7957,
+            "y_max": 0.1675,
+            "width": 0.6211,
+            "height": 0.0129
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "(i) Chromosomes are moved to spindle equator.",
+          "bbox": {
+            "x_min": 0.2154,
+            "y_min": 0.1744,
+            "x_max": 0.6083,
+            "y_max": 0.1872,
+            "width": 0.3929,
+            "height": 0.0129
+          },
+          "confidence": 0.9916
+        },
+        {
+          "text": "(ii) Centromere splits and chromatids separate.",
+          "bbox": {
+            "x_min": 0.2102,
+            "y_min": 0.1949,
+            "x_max": 0.6083,
+            "y_max": 0.2082,
+            "width": 0.3981,
+            "height": 0.0133
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "(iii) Pairing between homologous chromosomes takes place.",
+          "bbox": {
+            "x_min": 0.2072,
+            "y_min": 0.2155,
+            "x_max": 0.7005,
+            "y_max": 0.2292,
+            "width": 0.4933,
+            "height": 0.0137
+          },
+          "confidence": 0.9953
+        },
+        {
+          "text": "(iv) Crossing over between homologous chromosomes takes place.",
+          "bbox": {
+            "x_min": 0.2067,
+            "y_min": 0.2356,
+            "x_max": 0.756,
+            "y_max": 0.2489,
+            "width": 0.5493,
+            "height": 0.0133
+          },
+          "confidence": 0.9931
+        },
+        {
+          "text": "7. Describe the following:",
+          "bbox": {
+            "x_min": 0.1757,
+            "y_min": 0.2571,
+            "x_max": 0.3935,
+            "y_max": 0.2691,
+            "width": 0.2177,
+            "height": 0.012
+          },
+          "confidence": 0.9888
+        },
+        {
+          "text": "(a) synapsis (b) bivalent (c) chiasmata",
+          "bbox": {
+            "x_min": 0.2061,
+            "y_min": 0.2768,
+            "x_max": 0.5336,
+            "y_max": 0.2901,
+            "width": 0.3275,
+            "height": 0.0133
+          },
+          "confidence": 0.9853
+        },
+        {
+          "text": "Draw a diagram to illustrate your answer.",
+          "bbox": {
+            "x_min": 0.2067,
+            "y_min": 0.2982,
+            "x_max": 0.5552,
+            "y_max": 0.3102,
+            "width": 0.3485,
+            "height": 0.012
+          },
+          "confidence": 0.9935
+        },
+        {
+          "text": "8. How does cytokinesis in plant cells differ from that in animal cells?",
+          "bbox": {
+            "x_min": 0.1745,
+            "y_min": 0.3175,
+            "x_max": 0.7682,
+            "y_max": 0.3299,
+            "width": 0.5937,
+            "height": 0.0124
+          },
+          "confidence": 0.9922
+        },
+        {
+          "text": "9. Find examples where the four daughter cells from meiosis are equal in size and",
+          "bbox": {
+            "x_min": 0.1751,
+            "y_min": 0.338,
+            "x_max": 0.8634,
+            "y_max": 0.3509,
+            "width": 0.6883,
+            "height": 0.0129
+          },
+          "confidence": 0.9947
+        },
+        {
+          "text": "where they are found unequal in size.",
+          "bbox": {
+            "x_min": 0.2061,
+            "y_min": 0.3539,
+            "x_max": 0.5219,
+            "y_max": 0.3659,
+            "width": 0.3158,
+            "height": 0.012
+          },
+          "confidence": 0.996
+        },
+        {
+          "text": "10. Distinguish anaphase of mitosis from anaphase I of meiosis.",
+          "bbox": {
+            "x_min": 0.1675,
+            "y_min": 0.3736,
+            "x_max": 0.7099,
+            "y_max": 0.3865,
+            "width": 0.5423,
+            "height": 0.0129
+          },
+          "confidence": 0.9969
+        },
+        {
+          "text": "11. List the main differences between mitosis and meiosis.",
+          "bbox": {
+            "x_min": 0.1664,
+            "y_min": 0.3937,
+            "x_max": 0.6632,
+            "y_max": 0.4045,
+            "width": 0.4968,
+            "height": 0.0107
+          },
+          "confidence": 0.9878
+        },
+        {
+          "text": "12. What is the significance of meiosis?",
+          "bbox": {
+            "x_min": 0.1664,
+            "y_min": 0.4147,
+            "x_max": 0.505,
+            "y_max": 0.4272,
+            "width": 0.3386,
+            "height": 0.0124
+          },
+          "confidence": 0.9919
+        },
+        {
+          "text": "13. Discuss with your teacher about",
+          "bbox": {
+            "x_min": 0.1675,
+            "y_min": 0.4349,
+            "x_max": 0.4787,
+            "y_max": 0.4473,
+            "width": 0.3112,
+            "height": 0.0124
+          },
+          "confidence": 0.9913
+        },
+        {
+          "text": "(i) haploid insects and lower plants where cell-division occurs, and",
+          "bbox": {
+            "x_min": 0.216,
+            "y_min": 0.455,
+            "x_max": 0.7782,
+            "y_max": 0.4679,
+            "width": 0.5622,
+            "height": 0.0129
+          },
+          "confidence": 0.9929
+        },
+        {
+          "text": "(ii) some haploid cells in higher plants where cell-division does not occur.",
+          "bbox": {
+            "x_min": 0.2096,
+            "y_min": 0.4751,
+            "x_max": 0.8237,
+            "y_max": 0.4884,
+            "width": 0.6141,
+            "height": 0.0133
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "14. Can there be mitosis without DNA replication in ‘S' phase?",
+          "bbox": {
+            "x_min": 0.1664,
+            "y_min": 0.4961,
+            "x_max": 0.6994,
+            "y_max": 0.5086,
+            "width": 0.533,
+            "height": 0.0124
+          },
+          "confidence": 0.9772
+        },
+        {
+          "text": "15. Can there be DNA replication without cell division?",
+          "bbox": {
+            "x_min": 0.167,
+            "y_min": 0.5163,
+            "x_max": 0.6357,
+            "y_max": 0.5287,
+            "width": 0.4688,
+            "height": 0.0124
+          },
+          "confidence": 0.995
+        },
+        {
+          "text": "16. Analyse the events during every stage of cell cycle and notice how the following",
+          "bbox": {
+            "x_min": 0.167,
+            "y_min": 0.5364,
+            "x_max": 0.8646,
+            "y_max": 0.5493,
+            "width": 0.6976,
+            "height": 0.0129
+          },
+          "confidence": 0.9944
+        },
+        {
+          "text": "two parameters change",
+          "bbox": {
+            "x_min": 0.2067,
+            "y_min": 0.5523,
+            "x_max": 0.4022,
+            "y_max": 0.5638,
+            "width": 0.1956,
+            "height": 0.0116
+          },
+          "confidence": 0.993
+        },
+        {
+          "text": "not to 6 percer content shed",
+          "bbox": {
+            "x_min": 0.1751,
+            "y_min": 0.3042,
+            "x_max": 0.885,
+            "y_max": 0.8128,
+            "width": 0.7099,
+            "height": 0.5086
+          },
+          "confidence": 0.518
+        },
+        {
+          "text": "(i) number of chromosomes (N) per cell",
+          "bbox": {
+            "x_min": 0.216,
+            "y_min": 0.572,
+            "x_max": 0.54,
+            "y_max": 0.5848,
+            "width": 0.324,
+            "height": 0.0129
+          },
+          "confidence": 0.9905
+        },
+        {
+          "text": "(ii) amount of DNA content (C) per",
+          "bbox": {
+            "x_min": 0.2102,
+            "y_min": 0.593,
+            "x_max": 0.498,
+            "y_max": 0.6054,
+            "width": 0.2878,
+            "height": 0.0124
+          },
+          "confidence": 0.992
+        },
+        {
+          "text": "Reprint 2025-26",
+          "bbox": {
+            "x_min": 0.4507,
+            "y_min": 0.9743,
+            "x_max": 0.5493,
+            "y_max": 0.9829,
+            "width": 0.0987,
+            "height": 0.0086
+          },
+          "confidence": 0.9823
+        }
+      ],
+      "diagrams_visual_elements": [],
+      "tables": []
+    }
+  ]
+}
