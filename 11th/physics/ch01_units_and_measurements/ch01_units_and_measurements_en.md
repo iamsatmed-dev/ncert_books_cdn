@@ -58,22 +58,22 @@ graph TD
     Root --> B3["3. Errors & Sig Figs"]:::branch
     Root --> B4["4. Dimensional Analysis"]:::branch
 
-    B1 --> B1_1["SI Base Units (7)<br/>m, kg, s, A, K, mol, cd"]:::leaf
-    B1 --> B1_2["Supplementary Units (2)<br/>Plane Angle (rad), Solid Angle (sr)"]:::leaf
-    B1 --> B1_3["Astronomical Units<br/>1 AU, 1 ly, 1 pc"]:::leaf
+    B1 --> B1a["SI Base Units (7)<br/>m, kg, s, A, K, mol, cd"]:::leaf
+    B1 --> B1b["Supplementary Units (2)<br/>Plane Angle (rad), Solid Angle (sr)"]:::leaf
+    B1 --> B1c["Astronomical Units<br/>1 AU, 1 ly, 1 pc"]:::leaf
 
-    B2 --> B2_1["Vernier Calipers<br/>LC = 1 MSD - 1 VSD"]:::leaf
-    B2 --> B2_2["Screw Gauge<br/>LC = Pitch / Circular Divisions"]:::leaf
-    B2 --> B2_3["⚠️ Zero Error Rule<br/>True Reading = Observed - (± Zero Error)"]:::trap
+    B2 --> B2a["Vernier Calipers<br/>LC = 1 MSD - 1 VSD"]:::leaf
+    B2 --> B2b["Screw Gauge<br/>LC = Pitch / Circular Divisions"]:::leaf
+    B2 --> B2c["⚠️ Zero Error Rule<br/>True Reading = Observed - (± Zero Error)"]:::trap
 
-    B3 --> B3_1["Error Types<br/>Systematic vs Random Errors"]:::leaf
-    B3 --> B3_2["⚠️ Error Propagation<br/>Z = A^p B^q / C^r ➔ ΔZ/Z = p(ΔA/A) + q(ΔB/B) + r(ΔC/C)"]:::trap
-    B3 --> B3_3["Significant Figures<br/>Non-zero, Trapped, Trailing Zeros"]:::leaf
-    B3 --> B3_4["Rounding Off<br/>>5, <5, =5 Even/Odd Rule"]:::leaf
+    B3 --> B3a["Error Types<br/>Systematic vs Random Errors"]:::leaf
+    B3 --> B3b["⚠️ Error in Powers<br/>Fractional errors always add: p(ΔA/A) + q(ΔB/B) + r(ΔC/C)"]:::trap
+    B3 --> B3c["Significant Figures<br/>Non-zero, Trapped, Trailing Zeros"]:::leaf
+    B3 --> B3d["Rounding Off Rules<br/>Greater than 5, Less than 5, Even-Odd Rule"]:::leaf
 
-    B4 --> B4_1["Principle of Homogeneity<br/>Dimensions of LHS = Dimensions of RHS"]:::leaf
-    B4 --> B4_2["3 Applications<br/>Equation check, Unit conversion, Deducing formula"]:::leaf
-    B4 --> B4_3["⚠️ Limitations<br/>Cannot find dimensionless constants (k, 2π), sinθ, e^x, ln(x)"]:::trap
+    B4 --> B4a["Principle of Homogeneity<br/>Dimensions of LHS = Dimensions of RHS"]:::leaf
+    B4 --> B4b["3 Applications<br/>Equation check, Unit conversion, Deducing formula"]:::leaf
+    B4 --> B4c["⚠️ Limitations<br/>Cannot find dimensionless constants (k, 2π), sinθ, e^x, ln(x)"]:::trap
 ```
 
 ---
