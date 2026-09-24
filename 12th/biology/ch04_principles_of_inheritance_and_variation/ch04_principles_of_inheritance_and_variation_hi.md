@@ -231,9 +231,9 @@ republished
 (ट्रेट) प्रदर्शित करता है। मंडल ने मटर की 14 तद्रूप
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_hi.png" alt="चित्र 4" onclick="openImageModal(this.src, 'चित्र 4: mUuhloha lnh osQ e?; osQ o&quot;kks± esa gh vkuqoaf&#39;kdrk dks le>us osQ laca/...')">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_hi.png" alt="चित्र 4" onclick="openImageModal(this.src, 'चित्र 4ः उननीसवीं सदी के मघ्य के व&ुनवजयाो्य में ही आनुवं&ि#39याकता को सम>ने के संबंधण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4</strong> mUuhloha lnh osQ e?; osQ o"kks± esa gh vkuqoaf'kdrk dks le>us osQ laca/ esa izxfr gks ldhA xzhxksj esaMy us m|ku eVj osQ ikS/s esa lkr o"kks± (1856&1863) rd ladj.k osQ iz;ksx fd, rFkk muosQ vk/kj ij thoksa dh oa'kkxfr fu;e dks izLrkfor fd;kA lka[;dh; fo'ys"k.kksa vkSj xf.krh; roZQ'kkL=k dk tho foKku dh leL;kvksa osQ lek/ku gsrq izFke mi;ksx Hkh esaMy }kjk oa'kkxr vaos"k.kksa osQ nkSjku gh fd;k x;kA muosQ iz;ksxksa esa uewuksa dh fo'kky la[;k us muosQ vk¡dM+ksa oQks fo'oluh;rk iznku dhA lkFk gh muosQ ijh{kk/hu ikS/ksa dh mÙkjksÙkj ihf<+;ksa ij fd, x, iz;ksx rFkk muosQ liQy fu"d"kks± us fl¼ fd;k fd esaMy osQ oa'kkxfr fu;eksa esa O;kidrk Fkh vkSj os osQoy viq"V fopkj ugha FksA esaMy us eVj osQ ikS/s osQ mu y{k.kksa ij fopkj fd;k tks loZFkk foijhrkFkZ Fks_ tSls yacs ;k ckSus ikS/s] ihys ;k gjs chtA blosQ dkj.k mls oa'kkxfr fu;eksa dk vk/kjHkwr <k¡pk rS;kj djus esa lgk;rk feyhA ckn osQ oSKkfudkas us bls foLrkj fn;k ftlls fofo/ uSlfxZd ?kVukvksa vkSj muesa fufgr tfVyrk dk Li"Vhdj.k fd;k tk ldkA esaMy us vusd rnzwi&iztuu&le] eVj osQ 'kq¼ oa'kozQeksa dks ysdj Ñf=ke ijkx.k@ij&ijkx.k osQ iz;ksx fd,A rnzwi& iztuu&le (Vª™ czhfMax) oa'kozQe og gksrk gS] tks dbZ ihf<+;ksa rd Loijkx.k osQ iQyLo:i LFkk;h fo'ks"kd (VsªV) iznf'kZr djrk gSA esaMy us eVj dh 14 rnzwi iztuuh eVj dh fdLeksa dks N¡kVk vFkkZr~ lkr tksM+s foijhr y{k.kksa dks fy;k] buosQ vU; y{k.k leku FksA buesa ls oqQN mnkgj.k bl izdkj gSa — fpdus ;k >qjhZnkj cht] ihys ;k gjs cht] iwQyh gqbZ ;k floqQM+h gqbZ iQfy;k¡] gjh ;k ihyh iQfy;k¡] yacs ;k ckSus ikS/s (fp=k 4-1] o rkfydk 4-1)A</span>
+    <span class="diagram-caption-text"><strong>चित्र 4</strong> उननीसवीं सदी के मघ्य के वषो्य में ही आनुवंशिकता को सम>ने के संबंध में पzगति हो सकी। गzीगोर मेंडल ने उ।ान मटर के पौधे में सात वषो्य (1856&1863) तक संकरण के पzयोग किए तथा उनके आधार पर जीवों की वंशागति नियम को पzस्तावित किया। सांख्यकीय विश्लेषणों और गणितीय तर्वफशास्=ा का जीव विज्ञान की समस्याओं के समाधान हेतु पzथम उपयोग भी मेंडल द्वारा वंशागत अंवेषणों के दौरान ही किया गया। उनके पzयोगों में नमूनों की विशाल संख्या ने उनके आँकड+ों वफो विश्वसनीयता पzदान की। साथ ही उनके परी{ााधीन पौधों की उÙारोÙार पी<ि+यों पर किए गए पzयोग तथा उनके सपफल निष्कषो्य ने सि¼ किया कि मेंडल के वंशागति नियमों में व्यापकता थी और वे केवल अपुष्ट विचार नहीं थे। मेंडल ने मटर के पौधे के उन ल{ाणों पर विचार किया जो सर्वथा विपरीतार्थ थे_ जैसे लंबे या बौने पौधेए पीले या हरे बीज। इसके कारण उसे वंशागति नियमों का आधारभूत <ाँचा तैयार करने में सहायता मिली। बाद के वैKानिकांे ने इसे विस्तार दयिा जिससे विविध नैसर्गिक घटनाओं और उनमें निहित जटिलता का स्पष्टीकरण किया जा सका। मेंडल ने अनेक तदzूप&पzजनन&समए मटर के शु¼ वंशवzफमों को लेकर Ñ=िाम परागण@पर&परागण के पzयोग किए। तदzूप& पzजनन&सम (टªत्र बzीडिंग) वंशवzफम वह होता हैए जो कर्इ पी<ि+यों तक स्वपरागण के पफलस्वरूप स्थायी विशेषक (टेªट) पzदर्शित करता है। मेंडल ने मटर की 14 तदzूप पzजननी मटर की किस्मों को छँाटा अर्थात~ सात जोड+े विपरीत ल{ाणों को लियाए इनके अनय ल{ाण समान थे। इनमें से कुछ उदाहरण इस प्रकार हैं — चिकने या >ुर्रीदार बीजए पीले या हरे बीजए पूफली हुर्इ या सिवुफड+ी हुर्इ पफलियाँए हरी या पीली पफलियाँए लंबे या बौने पौधे (चित्र 4.1ए व तालिका 4-1)।</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -250,9 +250,9 @@ republished
 पीले या हरे बीज, फूली हुई या सिकुड़ी हुई फलियाँ, हरी या पीली फलियाँ, लंबे या
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_1_hi.png" alt="चित्र 4.1" onclick="openImageModal(this.src, 'चित्र 4.1: fp=k 4.1 esaMy }kjk v?;;u fd, x, eVj osQ ikS/s osQ foi;kZl fo&#39;ks&quot;kdkas ...')">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_1_hi.png" alt="चित्र 4.1" onclick="openImageModal(this.src, 'चित्र 4.1ः चित्र 4.1 मेंडल द्वारा अघ्ययन किए गए मटर के पौधे के विपर्यास वि&#39यो&ुनवजयाकांे ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.1</strong> fp=k 4.1 esaMy }kjk v?;;u fd, x, eVj osQ ikS/s osQ foi;kZl fo'ks"kdkas osQ lkr tksM+sA</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.1</strong> चित्र 4.1 मेंडल द्वारा अघ्ययन किए गए मटर के पौधे के विपर्यास विशेषकांे के सात जोड+े।</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -352,9 +352,9 @@ republished
 प्रयोग द्वारा एक जीन का आनुवंशिक अध्ययन किया
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_2_hi.png" alt="चित्र 4.2" onclick="openImageModal(this.src, 'चित्र 4.2: fp=k 4.2 eVj esa ladj.k osQ pj.k...')">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_2_hi.png" alt="चित्र 4.2" onclick="openImageModal(this.src, 'चित्र 4.2ः चित्र 4.2 मटर में संकरण के चरणण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.2</strong> fp=k 4.2 eVj esa ladj.k osQ pj.k</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.2</strong> चित्र 4.2 मटर में संकरण के चरण</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>
@@ -375,9 +375,9 @@ F, पीढ़ी के सभी पौधे लंबे थे अर्�
 जनक के समान थे, कोई पौधा बौना नहीं था (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_3_hi.png" alt="चित्र 4.3" onclick="openImageModal(this.src, 'चित्र 4.3: fp=k 4.3 ,d&ladj Økl dk vkjs[kh; fu:i.k...')">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_3_hi.png" alt="चित्र 4.3" onclick="openImageModal(this.src, 'चित्र 4.3ः चित्र 4.3 एक&संकर Øास का आरेखीय निरूपणण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.3</strong> fp=k 4.3 ,d&ladj Økl dk vkjs[kh; fu:i.k</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.3</strong> चित्र 4.3 एक&संकर Øास का आरेखीय निरूपण</span>
     <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
   </div>
 </div>
@@ -538,9 +538,9 @@ Tt
 T
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_4_hi.png" alt="चित्र 4.4" onclick="openImageModal(this.src, 'चित्र 4.4: fp=k 4.4 esaMy }kjk ladfjr &#39;kq¼ oa&#39;kØe yacs rFkk &#39;kq¼ oa&#39;kØe ckS...')">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_4_hi.png" alt="चित्र 4.4" onclick="openImageModal(this.src, 'चित्र 4.4ः चित्र 4.4 मेंडल द्वारा संकरित &#39याु¼ वं&#39याØम लंबे तथा &#39याु¼ वं&#39याØम बौण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.4</strong> fp=k 4.4 esaMy }kjk ladfjr 'kq¼ oa'kØe yacs rFkk 'kq¼ oa'kØe ckSus ikS/ksa dh ØkWl dks le>us osQ fy, iusV oxZ dk mi;ksx</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.4</strong> चित्र 4.4 मेंडल द्वारा संकरित शु¼ वंशØम लंबे तथा शु¼ वंशØम बौने पौधों की Øाॅस को सम>ने के लिए पनेट वर्ग का उपयोग</span>
     <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
   </div>
 </div>
@@ -655,9 +655,9 @@ F₂ के लंबे पौधे के जीनोटाइप-निर�
 संकरण की संततियों का विश्लेषण किया जा सकता है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_5_hi.png" alt="चित्र 4.5" onclick="openImageModal(this.src, 'चित्र 4.5: fp=k 4.5 ijh{kkFkZ ladj dk vkjs[kh izfr:i.k...')">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_5_hi.png" alt="चित्र 4.5" onclick="openImageModal(this.src, 'चित्र 4.5ः चित्र 4.5 परी{ाार्थ संकर का आरेखी पzतिरूपणण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.5</strong> fp=k 4.5 ijh{kkFkZ ladj dk vkjs[kh izfr:i.k</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.5</strong> चित्र 4.5 परी{ाार्थ संकर का आरेखी पzतिरूपण</span>
     <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
   </div>
 </div>
@@ -811,9 +811,9 @@ not
 पीढ़ी गुलाबी फूलों (Rr) वाली प्राप्त हुई। (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_6_hi.png" alt="चित्र 4.6" onclick="openImageModal(this.src, 'चित्र 4.6: fp=k 4.6 &#39;oku iq&quot;i uked ikS/ksa esa ,dladj ladj.k osQ ifj.kke ;gk¡ ij ,...')">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_6_hi.png" alt="चित्र 4.6" onclick="openImageModal(this.src, 'चित्र 4.6ः चित्र 4.6 &#39यवान पु&ुनवजयप नामक पौधों में एकसंकर संकरण के परिणाम यहाँ पर एण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.6</strong> fp=k 4.6 'oku iq"i uked ikS/ksa esa ,dladj ladj.k osQ ifj.kke ;gk¡ ij ,d vyhy nwljs osQ mQij viw.kZr% izHkkoh gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.6</strong> चित्र 4.6 श्वान पुष्प नामक पौधों में एकसंकर संकरण के परिणाम यहाँ पर एक अलील दूसरे के उफपर अपूर्णत% पzभावी है।</span>
     <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
   </div>
 </div>
@@ -1061,9 +1061,9 @@ shed
 गोल बीज वाले पौधों का क्रॉस हरे और झुर्रीदार बीज वाले पौधों से किया। (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_7_hi.png" alt="चित्र 4.7" onclick="openImageModal(this.src, 'चित्र 4.7: fp=k 4.7 f}ladj ØkWl osQ ifj.kke ftuesa tud nks tksM+s foijhr fo&#39;ks&quot;kdk...')">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_7_hi.png" alt="चित्र 4.7" onclick="openImageModal(this.src, 'चित्र 4.7ः चित्र 4.7 ।िसंकर Øाॅस के परिणाम जिनमें जनक दो जोड+े विपरीत वि&#39यो&ुनवजयाकाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.7</strong> fp=k 4.7 f}ladj ØkWl osQ ifj.kke ftuesa tud nks tksM+s foijhr fo'ks"kdksa esa fHkUu Fks & tSls cht</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.7</strong> चित्र 4.7 ।िसंकर Øाॅस के परिणाम जिनमें जनक दो जोड+े विपरीत विशेषकों में भिनन थे & जैसे बीज</span>
     <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
   </div>
 </div>
@@ -1313,9 +1313,9 @@ nott
 ## 📄 Page 16
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_8_hi.png" alt="चित्र 4.8" onclick="openImageModal(this.src, 'चित्र 4.8: fp=k 4.8 pkj Øksekslkse okyh dksf&#39;kdk esa v/Zlw=k.k vkSj tuu dksf&#39;kdk mR...')">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_8_hi.png" alt="चित्र 4.8" onclick="openImageModal(this.src, 'चित्र 4.8ः चित्र 4.8 चार Øोमोसोम वाली को&ि#39याका में अर्धसू=ाण और जनन को&ि#39याका उत्ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.8</strong> fp=k 4.8 pkj Øksekslkse okyh dksf'kdk esa v/Zlw=k.k vkSj tuu dksf'kdk mRiknu ns[k ldrs gks fd</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.8</strong> चित्र 4.8 चार Øोमोसोम वाली कोशिका में अर्धसू=ाण और जनन कोशिका उत्पादन देख सकते हो कि</span>
     <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
   </div>
 </div>
@@ -1365,9 +1365,9 @@ to
 से स्वतंत्र रूप से पंक्तिबद्ध हो सकते हैं (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_9_hi.png" alt="चित्र 4.9" onclick="openImageModal(this.src, 'चित्र 4.9: fp=k 4.9 Øksekslkseksa dk Lora=k laO;wgu...')">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_9_hi.png" alt="चित्र 4.9" onclick="openImageModal(this.src, 'चित्र 4.9ः चित्र 4.9 Øोमोसोमों का स्वतंत्र संव्यूहनण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.9</strong> fp=k 4.9 Øksekslkseksa dk Lora=k laO;wgu</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.9</strong> चित्र 4.9 Øोमोसोमों का स्वतंत्र संव्यूहन</span>
     <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
   </div>
 </div>
@@ -1430,9 +1430,9 @@ epub
 उसके साथियों ने वंशागति का क्रोमोसोम-वाद या सिद्धांत के प्रयोगात्मक सत्यापन
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_10_hi.png" alt="चित्र 4.10" onclick="openImageModal(this.src, 'चित्र 4.10: eksjxu us iQy&efD[k;ksa (izwQVÝykbZ & MªkslksfiQyk esyuksxSLVj) ij dke fd;k] tks...')">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_10_hi.png" alt="चित्र 4.10" onclick="openImageModal(this.src, 'चित्र 4.10ः मोरगन ने पफल&मक्खियों (पzूफटÝलार्इ & डªोसोपिफला मेलनोगैस्टर) पर काम कियाए जोण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.10</strong> eksjxu us iQy&efD[k;ksa (izwQVÝykbZ & MªkslksfiQyk esyuksxSLVj) ij dke fd;k] tks ;s ,sls vè;;uksa osQ fy, mi;qZDr ikbZ x;h (fp=k 4.10)A bUgsa iz;ksx'kkyk esa ljy Ñf=ke ekè;eksa ij j[kk tk ldrk FkkA ;s viuk iwjk thou pØ nks lIrkg esa iwjk dj ldrh Fkha vkSj buesa ,dy eSFkqu ls fo'kky la[;k esa larfr efD[k;ksa dk mRiknu laHko FkkA lkFk gh fyaxksa dk foHksnu Li"V FkkA uj vkSj eknk dh vklkuh ls igpku dh tk ldrh FkhA lkFk gh blesa vkuqoaf'kd fofo/rkvksa osQ vusd izdkj Fks tks de {kerk okys ekbØksLdksi ls ns[ks tk ldrs FksA</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.10</strong> मोरगन ने पफल&मक्खियों (पzूफटÝलार्इ & डªोसोपिफला मेलनोगैस्टर) पर काम कियाए जो ये एेसे अèययनों के लिए उपर्युक्त पार्इ गयी (चित्र 4.10)। इनहें पzयोगशाला में सरल Ñ=िाम माèयमों पर रखा जा सकता था। ये अपना पूरा जीवन चक्र दो सप्ताह में पूरा कर सकती थीं और इनमें एकल मैथुन से विशाल संख्या में संतति मक्खियों का उत्पादन संभव था। साथ ही लिंगों का विभेदन स्पष्ट था। नर और मादा की आसानी से पहचान की जा सकती थी। साथ ही इसमें आनुवंशिक विविधताओं के अनेक प्रकार थे जो कम {ामता वाले माइØोस्कोप से देखे जा सकते थे।</span>
     <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
   </div>
 </div>
@@ -1622,9 +1622,9 @@ m
 y w
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_11_hi.png" alt="चित्र 4.11" onclick="openImageModal(this.src, 'चित्र 4.11: fp=k 4.11 lgyXurk&ekSle }kjk fd, x, nks f}ladj ØkWlksa osQ ifj.kke] ØkWl A esa t...')">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_11_hi.png" alt="चित्र 4.11" onclick="openImageModal(this.src, 'चित्र 4.11ः चित्र 4.11 सहलग्नता&मौसम द्वारा किए गए दो ।िसंकर Øाॅसों के परिणामए Øाॅस । में जण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.11</strong> fp=k 4.11 lgyXurk&ekSle }kjk fd, x, nks f}ladj ØkWlksa osQ ifj.kke] ØkWl A esa thu y vkSj w osQ chp ladj.k fn[kyk;k</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.11</strong> चित्र 4.11 सहलग्नता&मौसम द्वारा किए गए दो ।िसंकर Øाॅसों के परिणामए Øाॅस । में जीन ल और ू के बीच संकरण दखिलाया</span>
     <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
   </div>
 </div>
@@ -1747,9 +1747,9 @@ Cublished
 ## 📄 Page 21
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_12_hi.png" alt="चित्र 4.12" onclick="openImageModal(this.src, 'चित्र 4.12: fp=k 4.12 Øksekslkse fHkUurkvksa osQ }kjk fyax fu/kZj.k (v]c) ekuo rFkk Mªkslksf...')">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_12_hi.png" alt="चित्र 4.12" onclick="openImageModal(this.src, 'चित्र 4.12ः चित्र 4.12 Øोमोसोम भिननताओं के द्वारा लिंग निर्धारण (अए ब) मानव तथा डªोसोण्ण्ण्ि')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.12</strong> fp=k 4.12 Øksekslkse fHkUurkvksa osQ }kjk fyax fu/kZj.k (v]c) ekuo rFkk MªkslksfiQyk] eknk esa XX Øksekslkse (le;qXedh) rFkk uj esa XY (fo"ke;qXedh) fLFkfrA (l) vusd if{k;ksa esa eknk esa vleku Øksekslkse ZW rFkk uj esa leku Øksekslkse ZZ A</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.12</strong> चित्र 4.12 Øोमोसोम भिननताओं के द्वारा लिंग निर्धारण (अए ब) मानव तथा डªोसोपिफलाए मादा में ग्ग् Øोमोसोम (समयुग्मकी) तथा नर में ग्ल् (विषमयुग्मकी) स्थिति। (स) अनेक प{िायों में मादा में असमान Øोमोसोमर् ॅ तथा नर में समान Øोमोसोमर्र् ।</span>
     <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
   </div>
 </div>
@@ -1934,9 +1934,9 @@ F, पीढ़ी
 उत्परिवर्तजन उत्पन्न करते हैं (अगले अध्याय में वर्णित)।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_14_hi.png" alt="चित्र 4.14" onclick="openImageModal(this.src, 'चित्र 4.14: fp=k 4.14 ekuo oa&#39;kkoyh fo&#39;ys&quot;k.k esa iz;qDr izrhd...')">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_14_hi.png" alt="चित्र 4.14" onclick="openImageModal(this.src, 'चित्र 4.14ः चित्र 4.14 मानव वं&#39याावली वि&#39यले&ुनवजयाण में पzयुक्त पzतीकण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.14</strong> fp=k 4.14 ekuo oa'kkoyh fo'ys"k.k esa iz;qDr izrhd</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.14</strong> चित्र 4.14 मानव वंशावली विश्लेषण में पzयुक्त पzतीक</span>
     <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
   </div>
 </div>
@@ -1999,9 +1999,9 @@ F, पीढ़ी
 मादा (कैरियर मदर) से नर संतति को प्राप्त होता है। इस वंशावली का नमूना
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_15_hi.png" alt="चित्र 4.15" onclick="openImageModal(this.src, 'चित्र 4.15: fp=k 4.15 izrhdkRed oa&#39;kkoyh fo&#39;ys&quot;k.k (v) vfyaxh Øksekslkse ij izH...')">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_15_hi.png" alt="चित्र 4.15" onclick="openImageModal(this.src, 'चित्र 4.15ः चित्र 4.15 पzतीकात्मक वं&#39याावली वि&#39यले&ुनवजयाण (अ) अलिंगी Øोमोसोम पर पzभ्ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.15</strong> fp=k 4.15 izrhdkRed oa'kkoyh fo'ys"k.k (v) vfyaxh Øksekslkse ij izHkkoh fo'ks"kd tSls ek;ksVksfud nq"iks"k.k (fMLVªksiQh)] (c) vkyaxh&Øksekslkse ij&vizHkkoh fo'ks"kd tSls nk=k dksf'kdk vjDrrk (fldy lsy ,fufe;k)</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.15</strong> चित्र 4.15 पzतीकात्मक वंशावली विश्लेषण (अ) अलिंगी Øोमोसोम पर पzभावी विशेषक जैसे मायोटोनिक दुष्पोषण (डिस्टªोपफी)ए (ब) आलंगी&Øोमोसोम पर&अपzभावी विशेषक जैसे दा=ा कोशिका अरक्तता (सिकल सेल एनिमिया)</span>
     <button class="icon-btn" onclick="goToPdfPage(24)">📄 View in PDF (Page 24)</button>
   </div>
 </div>
@@ -2065,9 +2065,9 @@ shed
 उत्परिवर्तित जीन के संतति में पहुँचने की 50 प्रतिशत संभावना (अर्थात् दात्र कोशिका
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_16_hi.png" alt="चित्र 4.16" onclick="openImageModal(this.src, 'चित्र 4.16: fp=k 4.16 gheksXyksfcu dh B Ük`a[kyk osQ laxr va&#39;kksa osQ vehuks vEy la?kVu ...')">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_16_hi.png" alt="चित्र 4.16" onclick="openImageModal(this.src, 'चित्र 4.16ः चित्र 4.16 हीमोग्लोबिन की झ् Üाृंखला के संगत अं&#39याों के अमीनो अम्ल संघटन ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.16</strong> fp=k 4.16 gheksXyksfcu dh B Ük`a[kyk osQ laxr va'kksa osQ vehuks vEy la?kVu vkSj yky #f/j dksf'kdk osQ lw{e&vkjs[k (v) lkekU;</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.16</strong> चित्र 4.16 हीमोग्लोबिन की झ् Üाृंखला के संगत अंशों के अमीनो अम्ल संघटन और लाल #धरि कोशिका के सू{म&आरेख (अ) सामानय</span>
     <button class="icon-btn" onclick="goToPdfPage(26)">📄 View in PDF (Page 26)</button>
   </div>
 </div>
@@ -2175,9 +2175,9 @@ republished
 (23 जोड़े) हैं। इनमें से 22 जोड़े अलिंग सूत्र होते हैं और एक जोड़ा लिंग सूत्रों का।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_17_hi.png" alt="चित्र 4.17" onclick="openImageModal(this.src, 'चित्र 4.17: fp=k 4.17 fu:id fp=k ftlesa Mkmu flaMªkse dk jksxh rFkk ml O;fDr osQ rnuq:i Økse...')">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_17_hi.png" alt="चित्र 4.17" onclick="openImageModal(this.src, 'चित्र 4.17ः चित्र 4.17 निरूपक चित्र जिसमें डाउन सिंडªोम का रोगी तथा उस व्यक्ति के तदनुरूप Øोमण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.17</strong> fp=k 4.17 fu:id fp=k ftlesa Mkmu flaMªkse dk jksxh rFkk ml O;fDr osQ rnuq:i Øksekslkse n'kkZ, x, gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.17</strong> चित्र 4.17 निरूपक चित्र जिसमें डाउन सिंडªोम का रोगी तथा उस व्यक्ति के तदनुरूप Øोमोसोम दर्शाए गए हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(27)">📄 View in PDF (Page 27)</button>
   </div>
 </div>
@@ -2212,9 +2212,9 @@ republished
 का वर्धन) भी व्यक्त हो जाते हैं (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_18_hi.png" alt="चित्र 4.18" onclick="openImageModal(this.src, 'चित्र 4.18: fp=k 4.18 ekuo esa lsDl Øksekslkseksa dh cukoV osQ...')">
+  <img src="data/diagrams/12th_biology_ch04_principles_of_inheritance_and_variation_fig_4_18_hi.png" alt="चित्र 4.18" onclick="openImageModal(this.src, 'चित्र 4.18ः चित्र 4.18 मानव में सेक्स Øोमोसोमों की बनावट केण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.18</strong> fp=k 4.18 ekuo esa lsDl Øksekslkseksa dh cukoV osQ</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.18</strong> चित्र 4.18 मानव में सेक्स Øोमोसोमों की बनावट के</span>
     <button class="icon-btn" onclick="goToPdfPage(28)">📄 View in PDF (Page 28)</button>
   </div>
 </div>

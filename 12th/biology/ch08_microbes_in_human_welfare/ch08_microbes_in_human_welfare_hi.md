@@ -53,9 +53,9 @@ blished
 हैं। विषाणु, विरायड तथा प्रायोन भी प्रोटीनीय संक्रमित कारक हैं। कुछ
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_hi.png" alt="चित्र 8" onclick="openImageModal(this.src, 'चित्र 8: vlw{e ikniksa rFkk izkf.k;ksa osQ vfrfjDr bl i`Foh ij tho foKkuh ra=k osQ izeq[k...')">
+  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_hi.png" alt="चित्र 8" onclick="openImageModal(this.src, 'चित्र 8ः असू{म पादपों तथा पzाणियों के अतिरिक्त इस पृथ्वी पर जीव विज्ञानी तंत्र के पzमुखण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8</strong> vlw{e ikniksa rFkk izkf.k;ksa osQ vfrfjDr bl i`Foh ij tho foKkuh ra=k osQ izeq[k ?kVd lw{etho gSaA d{kk 11 esa vkius thfor thoksa esa ikbZ tkus okyh fofo/rk osQ ckjs esa vè;;u fd;k gksxkA D;k vkidks ;kn gS_ thfor thoksa esa dkSu ls txr osQ varxZr lw{ethoh tho vkrs gSa\ os dkSu ls tho gSa] ftUgsa osQoy lw{en'khZ; ekuk tk,\ lw{etho loZO;kih gksrs gaSA ;g e`nk] ty] ok;q] gekjs 'kjhj osQ vanj rFkk vU; izdkj osQ izkf.k;ksa rFkk ikniksa esa ik, tkrs gSaA tgk¡ fdlh izdkj thou laHko ugha gS tSls — xh”kj osQ Hkhrj xgjkbZ rd (rkih; fpeuh) tgk¡ rki 100OC rd c<+k gqvk jgrk gS] e`nk esa xgjkbZ rd] ciZQ dh irks± osQ dbZ ehVj uhps rFkk mPp vEyh; i;kZoj.k tSls LFkkuksa ij Hkh ik, tkrs gSaA lw{etho fofo/ :ikf;r& izksVkstksvk] thok.kq] dod rFkk lw{en'khZ; ikniksa ,oa izkf.k;ksa ls gksrs gSaA fo"kk.kq] fojk;M rFkk izk;ksu Hkh izksVhuh; laØfer dkjd gSaA oqQN lw{ethfo;ksa dks fp=k 8-1 rFkk 8-2 esa fn[kk;k x;k gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 8</strong> असू{म पादपों तथा पzाणियों के अतिरिक्त इस पृथ्वी पर जीव विज्ञानी तंत्र के पzमुख घटक सू{मजीव हैं। क{ाा 11 में आपने जीवित जीवों में पार्इ जाने वाली विविधता के बारे में अèययन किया होगा। क्या आपको याद है_ जीवित जीवों में कौन से जगत के अंतर्गत सू{मजीवी जीव आते हैं। वे कौन से जीव हैंए जिनहें केवल सू{मदर्शीय माना जाए। सू{मजीव सर्वव्यापी होते हंै। यह मृदाए जलए वायुए हमारे शरीर के अंदर तथा अनय प्रकार के पzाणियों तथा पादपों में पाए जाते हैं। जहाँ किसी प्रकार जीवन संभव नहीं है जैसे — गीद्घार के भीतर गहरार्इ तक (तापीय चिमनी) जहाँ ताप 100व्ऋ तक ब<+ा हुआ रहता हैए मृदा में गहरार्इ तकए बर्पफ की पतो्य के कर्इ मीटर नीचे तथा उच्च अम्लीय पर्यावरण जैसे स्थानों पर भी पाए जाते हैं। सू{मजीव विविध रूपायित& पzोटोजोआए जीवाणुए कवक तथा सू{मदर्शीय पादपों एवं पzाणियों से होते हैं। विषाणुए विरायड तथा पzायोन भी पzोटीनीय संØमित कारक हैं। कुछ सू{मजीवियों को चित्र 8.1 तथा 8-2 में दखिाया गया है।</span>
     <button class="icon-btn" onclick="goToPdfPage(1)">📄 View in PDF (Page 1)</button>
   </div>
 </div>
@@ -75,9 +75,9 @@ not to b
 ## 📄 Page 2
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_1_hi.png" alt="चित्र 8.1" onclick="openImageModal(this.src, 'चित्र 8.1: (l) fp=k 8.1 thok.kq (cSDVhfj;k) (v) naMkdkj (vkof/Zr :i 1500 x) (c) xksykdkj vk...')">
+  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_1_hi.png" alt="चित्र 8.1" onclick="openImageModal(this.src, 'चित्र 8.1ः (स) चित्र 8.1 जीवाणु (बैक्टीरिया) (अ) दंडाकार (आवर्धित रूप 1500 ग) (ब) गोलाकार आण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8.1</strong> (l) fp=k 8.1 thok.kq (cSDVhfj;k) (v) naMkdkj (vkof/Zr :i 1500 x) (c) xksykdkj vkof/Zr 1500 x (l) d'kkfHkdk iznf'kZr djrs gq, 50,000 x vkofèkZr naMkdkj cSDVhfj;e</span>
+    <span class="diagram-caption-text"><strong>चित्र 8.1</strong> (स) चित्र 8.1 जीवाणु (बैक्टीरिया) (अ) दंडाकार (आवर्धित रूप 1500 ग) (ब) गोलाकार आवर्धित 1500 ग (स) कशाभिका पzदर्शित करते हुए 50ए000 ग आवर्धित दंडाकार बैक्टीरियम</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>
@@ -87,9 +87,9 @@ not to b
 प्रदर्शित करते हुए 50,000 x आवर्धित
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_2_hi.png" alt="चित्र 8.2" onclick="openImageModal(this.src, 'चित्र 8.2: fp=k 8.2 fo&quot;kk.kq (v) thok.kqHkksth (c) ,sMhuksok;jl tks &#39;oluh; laØe.k ...')">
+  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_2_hi.png" alt="चित्र 8.2" onclick="openImageModal(this.src, 'चित्र 8.2ः चित्र 8.2 वि&ुनवजयााणु (अ) जीवाणुभोजी (ब) एेडीनोवायरस जो &#39यवसनीय संØमण ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8.2</strong> fp=k 8.2 fo"kk.kq (v) thok.kqHkksth (c) ,sMhuksok;jl tks 'oluh; laØe.k mRiUu djrk gS (l) naMkdkj VkscSdks ekstsd ok;jl (Vh,eoh) 100,000-15,00,000 rd vkof/Zr</span>
+    <span class="diagram-caption-text"><strong>चित्र 8.2</strong> चित्र 8.2 विषाणु (अ) जीवाणुभोजी (ब) एेडीनोवायरस जो श्वसनीय संØमण उत्पनन करता है (स) दंडाकार टोबैको मोजेक वायरस (टीएमवी) 100ए000-15ए00ए000 तक आवर्धित</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>
@@ -186,9 +186,9 @@ not
 आवश्यकता होती है जिसे फरमैंटर या किण्वक कहते
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_4_hi.png" alt="चित्र 8.4" onclick="openImageModal(this.src, 'चित्र 8.4: fp=k 8.4 fd.od (iQjeSaVj)...')">
+  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_4_hi.png" alt="चित्र 8.4" onclick="openImageModal(this.src, 'चित्र 8.4ः चित्र 8.4 किण्वक (पफरमैंटर)ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8.4</strong> fp=k 8.4 fd.od (iQjeSaVj)</span>
+    <span class="diagram-caption-text"><strong>चित्र 8.4</strong> चित्र 8.4 किण्वक (पफरमैंटर)</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -210,9 +210,9 @@ not
 रस के आसवन द्वारा तैयार किए जाते हैं। किण्वन संयंत्र
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_5_hi.png" alt="चित्र 8.5" onclick="openImageModal(this.src, 'चित्र 8.5: fp=k 8.5 fd.ou la;a=k...')">
+  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_5_hi.png" alt="चित्र 8.5" onclick="openImageModal(this.src, 'चित्र 8.5ः चित्र 8.5 किण्वन संयं=ाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8.5</strong> fp=k 8.5 fd.ou la;a=k</span>
+    <span class="diagram-caption-text"><strong>चित्र 8.5</strong> चित्र 8.5 किण्वन संयं=ा</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -314,9 +314,9 @@ not
 अथवा शहरी व्यर्थजल का रोजाना निपटान कैसे होता
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_6_hi.png" alt="चित्र 8.6" onclick="openImageModal(this.src, 'चित्र 8.6: fp=k 8.6 okfgr ey mipkj la;a=k dk ok;qoh; VSad...')">
+  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_6_hi.png" alt="चित्र 8.6" onclick="openImageModal(this.src, 'चित्र 8.6ः चित्र 8.6 वाहित मल उपचार संयं=ा का वायुवीय टैंकण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8.6</strong> fp=k 8.6 okfgr ey mipkj la;a=k dk ok;qoh; VSad</span>
+    <span class="diagram-caption-text"><strong>चित्र 8.6</strong> चित्र 8.6 वाहित मल उपचार संयं=ा का वायुवीय टैंक</span>
     <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
   </div>
 </div>
@@ -359,9 +359,9 @@ she
 ## 📄 Page 7
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_7_hi.png" alt="चित्र 8.7" onclick="openImageModal(this.src, 'चित्र 8.7: fp=k 8.7 okfgr ey mipkj la;a=k dk vkdk&#39;kh fp=k...')">
+  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_7_hi.png" alt="चित्र 8.7" onclick="openImageModal(this.src, 'चित्र 8.7ः चित्र 8.7 वाहित मल उपचार संयं=ा का आका&#39याी चित्रण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8.7</strong> fp=k 8.7 okfgr ey mipkj la;a=k dk vkdk'kh fp=k</span>
+    <span class="diagram-caption-text"><strong>चित्र 8.7</strong> चित्र 8.7 वाहित मल उपचार संयं=ा का आकाशी चित्र</span>
     <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
   </div>
 </div>
@@ -468,9 +468,9 @@ blished
 संग्रहीत एवं गोबर की कर्दम (स्तरी)
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_8_hi.png" alt="चित्र 8.8" onclick="openImageModal(this.src, 'चित्र 8.8: fp=k 8.8 la;a=k dk ,d izk:i ck;ksxSl...')">
+  <img src="data/diagrams/12th_biology_ch08_microbes_in_human_welfare_fig_8_8_hi.png" alt="चित्र 8.8" onclick="openImageModal(this.src, 'चित्र 8.8ः चित्र 8.8 संयं=ा का एक पzारूप बायोगैसण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8.8</strong> fp=k 8.8 la;a=k dk ,d izk:i ck;ksxSl</span>
+    <span class="diagram-caption-text"><strong>चित्र 8.8</strong> चित्र 8.8 संयं=ा का एक पzारूप बायोगैस</span>
     <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
   </div>
 </div>

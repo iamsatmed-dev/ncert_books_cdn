@@ -96,9 +96,9 @@ republished
 व ग्रीष्म निष्क्रियता (aestivation) कहते हैं।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_biology_ch07_structural_organisation_in_animals_fig_7_hi.png" alt="चित्र 7" onclick="openImageModal(this.src, 'चित्र 7: fp=k 7-1 esa<d dk cká fp=k...')">
+  <img src="data/diagrams/11th_biology_ch07_structural_organisation_in_animals_fig_7_hi.png" alt="चित्र 7" onclick="openImageModal(this.src, 'चित्र 7ः चित्र 7.1 में<क का बाá चित्रण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7</strong> fp=k 7-1 esa<d dk cká fp=k</span>
+    <span class="diagram-caption-text"><strong>चित्र 7</strong> चित्र 7.1 में<क का बाá चित्र</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>

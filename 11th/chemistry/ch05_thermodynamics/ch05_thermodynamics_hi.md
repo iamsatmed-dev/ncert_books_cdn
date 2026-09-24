@@ -167,9 +167,9 @@ AU एवं ∆H का प्रायोगिक मापन कर
 (जिसमें बीकर है) परिवेश का कार्य करेगा (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_chemistry_ch05_thermodynamics_fig_5_hi.png" alt="चित्र 5" onclick="openImageModal(this.src, 'चित्र 5: mnkgj.k osQ fy,µ ;fn ge ,d chdj esa mifLFkr nks inkFkks± A ,oa B dh vfHkfØ;k dk ...')">
+  <img src="data/diagrams/11th_chemistry_ch05_thermodynamics_fig_5_hi.png" alt="चित्र 5" onclick="openImageModal(this.src, 'चित्र 5ः उदाहरण के लिएष्ट यद िहम एक बीकर में उपस्थित दो पदाथो्य । एवं झ् की अभिØिया का ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5</strong> mnkgj.k osQ fy,µ ;fn ge ,d chdj esa mifLFkr nks inkFkks± A ,oa B dh vfHkfØ;k dk vè;;u dj jgs gksa] rks chdj (ftlesa vfHkfØ;k&feJ.k gS) fudk;* gksxk ,oa dejk (ftlesa chdj gS) ifjos'k dk dk;Z djsxk (fp=k 5-1)A</span>
+    <span class="diagram-caption-text"><strong>चित्र 5</strong> उदाहरण के लिएष्ट यद िहम एक बीकर में उपस्थित दो पदाथो्य । एवं झ् की अभिØिया का अèययन कर रहे होंए तो बीकर (जिसमें अभिØिया&मिJण है) निकाय* होगा एवं कमरा (जिसमें बीकर है) परिवेश का कार्य करेगा (चित्र 5.1)।</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>
@@ -3100,9 +3100,9 @@ H2(g) + O2(g) → H2O(l) ;
 उत्पादों के बनने पर एन्थैल्पी में आई कमी को एक एन्थैल्पी
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_chemistry_ch05_thermodynamics_fig_5_10_hi.png" alt="चित्र 5.10" onclick="openImageModal(this.src, 'चित्र 5.10: ;s vfHkfØ;k,a Lor%izo£rr çØe ,oa Å&quot;ek&#39;kks&quot;kh gSaA ,UFkSYih esa o`f...')">
+  <img src="data/diagrams/11th_chemistry_ch05_thermodynamics_fig_5_10_hi.png" alt="चित्र 5.10" onclick="openImageModal(this.src, 'चित्र 5.10ः ये अभिØियाएं स्वत%पzव£तत çØम एवं ऊ&ुनवजयमा&#39याो&ुनवजयाी हैं। एनथैल्पी में वृण्ण्ण्ि')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.10</strong> ;s vfHkfØ;k,a Lor%izo£rr çØe ,oa Å"ek'kks"kh gSaA ,UFkSYih esa o`f¼ dks ,d ,UFkSYih&vkjs[k }kjk n'kkZ;k x;k gS (fp=k 5.10 ([k))</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.10</strong> ये अभिØियाएं स्वत%पzव£तत çØम एवं ऊष्माशोषी हैं। एनथैल्पी में वृ¼ि को एक एनथैल्पी&आरेख द्वारा दर्शाया गया है (चित्र 5.10 (ख))</span>
     <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
   </div>
 </div>

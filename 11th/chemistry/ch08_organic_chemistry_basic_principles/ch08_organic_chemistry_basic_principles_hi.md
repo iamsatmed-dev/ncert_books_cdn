@@ -553,9 +553,9 @@ CH3
 साधारण रेखा (-) द्वारा प्रदर्शित किया जाता है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_chemistry_ch08_organic_chemistry_basic_principles_fig_8_hi.png" alt="चित्र 8" onclick="openImageModal(this.src, 'चित्र 8: dkxt ij dkcZfud ;kSfxdksa osQ f=kfoeh (3D) lw=k esa oqQN i¼fr;ksa dk iz;ksx fd;k...')">
+  <img src="data/diagrams/11th_chemistry_ch08_organic_chemistry_basic_principles_fig_8_hi.png" alt="चित्र 8" onclick="openImageModal(this.src, 'चित्र 8ः कागज पर कार्बनिक यौगिकों के =िाविमी (3क्) सू=ा में कुछ प¼तियों का पzयोग कियाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8</strong> dkxt ij dkcZfud ;kSfxdksa osQ f=kfoeh (3D) lw=k esa oqQN i¼fr;ksa dk iz;ksx fd;k tkrk gSA mnkgj.kkFkZµf}foeh lajpuk dks f=kfoeh lajpuk esa ns[kus osQ fy, Bksl rFkk MS'k ost lw=k dk mi;ksx fd;k tkrk gSA bu lw=kksa esa Bksl ost ml vkcaèk dks n'kkZrk gS] tks dkxt osQ ry ls n'kZd dh vksj iz{ksih gS vkSj MS'k ost foijhr fn'kk esa] vFkkZr~ n'kZd osQ nwj tkus okys vkcaèk dks n'kkZrk gSA dkxt osQ ry esa fLFkr vkcaèk dks lkèkkj.k js[kk (µ) }kjk izn£'kr fd;k tkrk gSA fp=k 8-1 esa esFkSu v.kq dk f=kfoeh lw=k n'kkZ;k x;k gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 8</strong> कागज पर कार्बनिक यौगिकों के =िाविमी (3क्) सू=ा में कुछ प¼तियों का पzयोग किया जाता है। उदाहरणार्थष्ट।िविमी संरचना को =िाविमी संरचना में देखने के लिए झ्ोस तथा डैश वेज सू=ा का उपयोग किया जाता है। इन सू=ाों में झ्ोस वेज उस आबंèा को दर्शाता हैए जो कागज के तल से दर्शक की आेर पz{ोपी है और डैश वेज विपरीत दशिा मेंए अर्थात~ दर्शक के दूर जाने वाले आबंèा को दर्शाता है। कागज के तल में स्थित आबंèा को साèाारण रेखा (ष्ट) द्वारा पzद£शत किया जाता है। चित्र 8.1 में मेथैन अणु का =िाविमी सू=ा दर्शाया गया है।</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>

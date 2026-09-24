@@ -60,15 +60,15 @@ NGERT
   <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_1_hi.png" alt="
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_hi.png" alt="चित्र 6" onclick="openImageModal(this.src, 'चित्र 6: ;fn {ks=kiQy A okys lery dks ,dleku pqacdh; {ks=k B (fp=k 6-4) esa j[kk tkrk gS ...')">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_hi.png" alt="चित्र 6" onclick="openImageModal(this.src, 'चित्र 6ः यद िक्षेत्रपफल । वाले समतल को एकसमान चुंबकीय क्षेत्र झ् (चित्र 6.4) में रखा जाता है ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6</strong> ;fn {ks=kiQy A okys lery dks ,dleku pqacdh; {ks=k B (fp=k 6-4) esa j[kk tkrk gS rks pqacdh; ÝyDl dks O;Dr fd;k tk ldrk gS µ</span>
+    <span class="diagram-caption-text"><strong>चित्र 6</strong> यद िक्षेत्रपफल । वाले समतल को एकसमान चुंबकीय क्षेत्र झ् (चित्र 6.4) में रखा जाता है तो चुंबकीय Ýलक्स को व्यक्त किया जा सकता है ष्ट</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
 
 <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.1</strong> fp=k 6.1 esa èkkjkekih G ls tqM+h gqbZ ,d oaqQMyh C1* n'kkZ;h xbZ gSA tc ,d naM pqacd osQ mÙkjh èkzqo dks bl oqaQMyh dh vksj èkosQyk tkrk gS rks èkkjkekih dk laosQrd fo{ksfir gksrk gS tks oqaQMyh esa fo|qr èkkjk dh mifLFkfr dks n'kkZrk gSA ;g fo{ksi rHkh rd jgrk gS tc rd naM pqacd xfr esa jgrk gSA tc pqacd fLFkj gksrk gS rks èkkjkekih dksbZ fo{ksi ugha n'kkZrkA tc pqacd dks oqaQMyh ls nwj ys tkrs gSa rks èkkjkekih foijhr fn'kk esa fo{ksi n'kkZrk gS] tks èkkjk izokg dh fn'kk osQ foijhr gksus dks n'kkZrk gSA blosQ vfrfjDr] tc naM pqacd osQ nf{k.kh èkqzo dks oqaQMyh dh vksj ;k blls nwj ys tkrs gSa rks èkkjkekih esa fo{ksi dh fn'kk,a¡ mÙkjh èkqzo dh blh izdkj dh xfr dh vis{kk foijhr gks tkrh gSaA blosQ vfrfjDr] tc pqacd dks oqaQMyh dh vksj ;k blls nwj rsth ls xfreku fd;k tkrk gS rks fo{ksi vkSj blfy, èkkjk vfèkd izkIr gksrk gSA ;g Hkh ns[kk x;k gS fd ;fn naM pqacd dks fLFkj j[kk tk, rFkk blosQ ctk; oqaQMyh C1 dks pqacd dh vksj ;k blls nwj xfreku fd;k tk, rks Hkh blh izdkj dk izHkko mRiUu gksrk gSA ;g n'kkZrk gS fd oqaQMyh esa fo|qr èkkjk dh mRifÙk (izsj.k) pqacd rFkk oqaQMyh osQ eè; lkis{k xfr dk izfriQy gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.1</strong> चित्र 6.1 में èाारामापी G से जुड+ी हुर्इ एक वंुफडली ऋ1* दर्शायी गर्इ है। जब एक दंड चुंबक के उÙारी èाzुव को इस वुंफडली की आेर èाकेला जाता है तो èाारामापी का संकेतक वि{ोपित होता है जो वुंफडली में वि।ुत èाारा की उपस्थिति को दर्शाता है। यह वि{ोप तभी तक रहता है जब तक दंड चुंबक गति में रहता है। जब चुंबक स्थिर होता है तो èाारामापी कोर्इ वि{ोप नहीं दर्शाता। जब चुंबक को वुंफडली से दूर ले जाते हैं तो èाारामापी विपरीत दशिा में वि{ोप दर्शाता हैए जो èाारा पzवाह की दशिा के विपरीत होने को दर्शाता है। इसके अतिरिक्तए जब दंड चुंबक के द{िाणी èाुzव को वुंफडली की आेर या इससे दूर ले जाते हैं तो èाारामापी में वि{ोप की दशिाएंँ उÙारी èाुzव की इसी प्रकार की गति की अपे{ाा विपरीत हो जाती हैं। इसके अतिरिक्तए जब चुंबक को वुंफडली की आेर या इससे दूर तेजी से गतिमान किया जाता है तो वि{ोप और इसलिए èाारा अèिाक पzाप्त होता है। यह भी देखा गया है कि यद िदंड चुंबक को स्थिर रखा जाए तथा इसके बजाय वुंफडली ऋ1 को चुंबक की आेर या इससे दूर गतिमान किया जाए तो भी इसी प्रकार का पzभाव उत्पनन होता है। यह दर्शाता है कि वुंफडली में वि।ुत èाारा की उत्पÙिा (पzेरण) चुंबक तथा वुंफडली के मèय सापे{ा गति का पzतिपफल है।</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>
@@ -90,9 +90,9 @@ C₁ को चुंबक की ओर या इससे दूर गत�
 उत्पत्ति (प्रेरण) चुंबक तथा कुंडली के मध्य सापेक्ष गति का प्रतिफल है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_2_hi.png" alt="चित्र 6.2" onclick="openImageModal(this.src, 'चित्र 6.2: fp=k 6.2 esa naM pqacd dks cSVjh ls tqM+h gqbZ ,d nwljh oaqQMyh C2 ls izfrLFkkfi...')">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_2_hi.png" alt="चित्र 6.2" onclick="openImageModal(this.src, 'चित्र 6.2ः चित्र 6.2 में दंड चुंबक को बैटरी से जुड+ी हुर्इ एक दूसरी वंुफडली ऋ2 से पzतिस्थापिण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.2</strong> fp=k 6.2 esa naM pqacd dks cSVjh ls tqM+h gqbZ ,d nwljh oaqQMyh C2 ls izfrLFkkfir fd;k x;k gSA oqaQMyh C2 esa vifjorhZ èkkjk vifjorhZ paqcdh; {ks=k mRiUu djrh gSA tSls gh oqaQMyh C2 dks oqaQMyh C1 dh vksj ykrs gSa] èkkjkekih ,d fo{ksi n'kkZrk gSA ;g oqaQMyh C1 esa izsfjr fo|qr èkkjk dks fun£'kr djrk gSA tc C2 dks nwj ys tkrs gSa rks èkkjkekih fiQj ls fo{ksi n'kkZrk gS] ysfdu bl ckj ;g fo{ksi foijhr fn'kk esa gksrk gSA ;g fo{ksi rHkh rd jgrk gS tc rd oqaQMyh C2 xfr esa jgrh gSA tc oqaQMyh C2 dks</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.2</strong> चित्र 6.2 में दंड चुंबक को बैटरी से जुड+ी हुर्इ एक दूसरी वंुफडली ऋ2 से पzतिस्थापित किया गया है। वुंफडली ऋ2 में अपरिवर्ती èाारा अपरिवर्ती चंुबकीय क्षेत्र उत्पनन करती है। जैसे ही वुंफडली ऋ2 को वुंफडली ऋ1 की आेर लाते हैंए èाारामापी एक वि{ोप दर्शाता है। यह वुंफडली ऋ1 में पzेरित वि।ुत èाारा को निद£शत करता है। जब ऋ2 को दूर ले जाते हैं तो èाारामापी पिफर से वि{ोप दर्शाता हैए लेकिन इस बार यह वि{ोप विपरीत दशिा में होता है। यह वि{ोप तभी तक रहता है जब तक वुंफडली ऋ2 गति में रहती है। जब वुंफडली ऋ2 को</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>
@@ -174,9 +174,9 @@ C
 कोई अति आवश्यक अनिवार्यता नहीं है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_3_hi.png" alt="चित्र 6.3" onclick="openImageModal(this.src, 'चित्र 6.3: mijksDr nksuksa iz;ksxksa esa pqacd rFkk oaqQMyh osQ chp rFkk nks oqaQMfy;ksa os...')">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_3_hi.png" alt="चित्र 6.3" onclick="openImageModal(this.src, 'चित्र 6ण्3ः उपरोक्त दोनों पzयोगों में चुंबक तथा वंुफडली के बीच तथा दो वुंफडलियों वेण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.3</strong> mijksDr nksuksa iz;ksxksa esa pqacd rFkk oaqQMyh osQ chp rFkk nks oqaQMfy;ksa osQ chp lkis{k xfr 'kkfey gSA ,d vU; iz;ksx }kjk iSQjkMs us n'kkZ;k fd ;g lkis{k xfr dksbZ vfr vko';d vfuok;Zrk ugha gSA fp=k 6.3 esa nks oqaQMfy;k¡ C1 rFkk C2 n'kkZ;h xbZ gSa tks fLFkj j[kh xbZ gSaA oqaQMyh C1 dks ,d èkkjkekih G ls tksM+k x;k gS tcfd nwljh oaqQMyh C2 dks ,d nkc&oaqQth K ls gksdj ,d cSVjh ls tksM+k tkrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.3</strong> उपरोक्त दोनों पzयोगों में चुंबक तथा वंुफडली के बीच तथा दो वुंफडलियों के बीच सापे{ा गति शामिल है। एक अनय पzयोग द्वारा पैफराडे ने दर्शाया कि यह सापे{ा गति कोर्इ अति आवश्यक अनिवार्यता नहीं है। चित्र 6.3 में दो वुंफडलियाँ ऋ1 तथा ऋ2 दर्शायी गर्इ हैं जो स्थिर रखी गर्इ हैं। वुंफडली ऋ1 को एक èाारामापी G से जोड+ा गया है जबकि दूसरी वंुफडली ऋ2 को एक दाब&वंुफजी K से होकर एक बैटरी से जोड+ा जाता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>
@@ -224,9 +224,9 @@ K
 यदि क्षेत्रफल A वाले समतल को एकसमान चुंबकीय क्षेत्र B (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_4_hi.png" alt="चित्र 6.4" onclick="openImageModal(this.src, 'चित्र 6.4: fp=k 6.4 ,dleku paqcdh; {ks=k...')">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_4_hi.png" alt="चित्र 6.4" onclick="openImageModal(this.src, 'चित्र 6.4ः चित्र 6.4 एकसमान चंुबकीय क्षेत्रण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.4</strong> fp=k 6.4 ,dleku paqcdh; {ks=k</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.4</strong> चित्र 6.4 एकसमान चंुबकीय क्षेत्र</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -244,9 +244,9 @@ B
 पृष्ठों एवं असमान क्षेत्रों के लिए विस्तारित किया जा सकता है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_5_hi.png" alt="चित्र 6.5" onclick="openImageModal(this.src, 'चित्र 6.5: ;fn fp=k 6.5 esa n&#39;kkZ, vuqlkj fdlh lrg osQ fofHkUu Hkkxksa ij pqacdh; {ks=k...')">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_5_hi.png" alt="चित्र 6.5" onclick="openImageModal(this.src, 'चित्र 6.5ः यद िचित्र 6.5 में द&#39र्यााए अनुसार किसी सतह के विभिन्न भागों पर चुंबकीय क्षेत्रण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.5</strong> ;fn fp=k 6.5 esa n'kkZ, vuqlkj fdlh lrg osQ fofHkUu Hkkxksa ij pqacdh; {ks=k osQ ifjek.k rFkk fn'kk,¡ fHkUu&fHkUu gksa] rks lrg ls gksdj xqtjus okyk pqacdh; ÝyDl gksxk</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.5</strong> यद िचित्र 6.5 में दर्शाए अनुसार किसी सतह के विभिन्न भागों पर चुंबकीय क्षेत्र के परिमाण तथा दशिाएँ भिनन&भिनन होंए तो सतह से होकर गुजरने वाला चुंबकीय Ýलक्स होगा</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -558,9 +558,9 @@ ed
 ## 📄 Page 7
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_6_hi.png" alt="चित्र 6.6" onclick="openImageModal(this.src, 'चित्र 6.6: izsfjr fo|qr okgd cy dh fn&#39;kk ysat osQ fu;e dk mi;ksx djosQ Kkr dh tk ldrh g...')">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_6_hi.png" alt="चित्र 6.6" onclick="openImageModal(this.src, 'चित्र 6ण्6ः पzेरित वि।ुत वाहक बल की द&ि#39याा लेंज के नियम का उपयोग करके Kात की जा सकती हण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.6</strong> izsfjr fo|qr okgd cy dh fn'kk ysat osQ fu;e dk mi;ksx djosQ Kkr dh tk ldrh gSA fp=k 6.6 (a) rFkk (b) ij fopkj djsaA ;s izsfjr èkkjkvksa dh fn'kk dks le>us osQ fy, ,d ljy fofèk lq>krs gSaA è;ku nhft, fd rFkk }kjk n'kkZ;h xbZ fn'kk,¡ izsfjr èkkjk dh fn'kk,¡ fu:fir djrh gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.6</strong> पzेरित वि।ुत वाहक बल की दशिा लेंज के नियम का उपयोग करके Kात की जा सकती है। चित्र 6.6 (ं) तथा (इ) पर विचार करें। ये पzेरित èााराओं की दशिा को सम>ने के लिए एक सरल विèिा सुझते हैं। èयान दीजिए कि तथा द्वारा दर्शायी गर्इ दशिाएँ पzेरित èाारा की दशिाएँ निरूपित करती हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
   </div>
 </div>
@@ -619,9 +619,9 @@ ed
 ## 📄 Page 8
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_7_hi.png" alt="चित्र 6.7" onclick="openImageModal(this.src, 'चित्र 6.7: mnkgj.k 6.4 fp=k 6.7 esa fofHkUu vkdkj osQ lery ywi tks pqacdh; {ks=k esa izos&#...')">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_7_hi.png" alt="चित्र 6.7" onclick="openImageModal(this.src, 'चित्र 6.7ः उदाहरण 6.4 चित्र 6.7 में विभिन्न आकार के समतल लूप जो चुंबकीय क्षेत्र में पzवे&#ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.7</strong> mnkgj.k 6.4 fp=k 6.7 esa fofHkUu vkdkj osQ lery ywi tks pqacdh; {ks=k esa izos'k dj jgs gSa vFkok {ks=k ls ckgj fudy jgs gSa] fn[kk, x, gSaA pqacdh; {ks=k ywi osQ ry osQ vfHkyacor ¯drq izs{kd ls nwj tkrs gq, gSaA ysat osQ fu;e dk mi;ksx djrs gq, izR;sd ywi esa izsfjr fo|qr èkkjk dh fn'kk Kkr dhft,A</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.7</strong> उदाहरण 6.4 चित्र 6.7 में विभिन्न आकार के समतल लूप जो चुंबकीय क्षेत्र में पzवेश कर रहे हैं अथवा क्षेत्र से बाहर निकल रहे हैंए दखिाए गए हैं। चुंबकीय क्षेत्र लूप के तल के अभिलंबवत ¯कतु पzे{ाक से दूर जाते हुए हैं। लेंज के नियम का उपयोग करते हुए पzत्येक लूप में पzेरित वि।ुत èाारा की दशिा Kात कीजिए।</span>
     <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
   </div>
 </div>
@@ -769,9 +769,9 @@ X
 (c) एक आयताकार लूप एवं एक वृत्ताकार लूप एकसमान चुंबकीय क्षेत्र में से (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_8_hi.png" alt="चित्र 6.8" onclick="openImageModal(this.src, 'चित्र 6.8: (c) ,d vk;rkdkj ywi ,oa ,d o`Ùkkdkj ywi ,dleku pqacdh; {ks=k esa ls (fp=k 6.8) {...')">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_8_hi.png" alt="चित्र 6.8" onclick="openImageModal(this.src, 'चित्र 6.8ः (ब) एक आयताकार लूप एवं एक वृÙााकार लूप एकसमान चुंबकीय क्षेत्र में से (चित्र 6.8) {ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.8</strong> (c) ,d vk;rkdkj ywi ,oa ,d o`Ùkkdkj ywi ,dleku pqacdh; {ks=k esa ls (fp=k 6.8) {ks=k</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.8</strong> (ब) एक आयताकार लूप एवं एक वृÙााकार लूप एकसमान चुंबकीय क्षेत्र में से (चित्र 6.8) क्षेत्र</span>
     <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
   </div>
 </div>
@@ -853,9 +853,9 @@ X
 X
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_9_hi.png" alt="चित्र 6.9" onclick="openImageModal(this.src, 'चित्र 6.9: (d) fp=k 6.9 esa o£.kr fLFkfr osQ fy, laèkkfj=k dh èkzqork dh izkxqfDr (Predict)...')">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_9_hi.png" alt="चित्र 6.9" onclick="openImageModal(this.src, 'चित्र 6.9ः (क) चित्र 6.9 में व£णत स्थिति के लिए संèाारि=ा की èाzुवता की पzागुक्ति (च्तमकपबज)ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.9</strong> (d) fp=k 6.9 esa o£.kr fLFkfr osQ fy, laèkkfj=k dh èkzqork dh izkxqfDr (Predict) dhft,A</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.9</strong> (क) चित्र 6.9 में व£णत स्थिति के लिए संèाारि=ा की èाzुवता की पzागुक्ति (च्तमकपबज) कीजिए।</span>
     <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
   </div>
 </div>
@@ -897,9 +897,9 @@ N
 किसी एकसमान, काल स्वतंत्र (time independent) चुंबकीय क्षेत्र में एक गतिमान ऋजु चालक
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_10_hi.png" alt="चित्र 6.10" onclick="openImageModal(this.src, 'चित्र 6.10: fdlh ,dleku] dky Lora=k (time independent) pqacdh; {ks=k esa ,d xfreku ½tq pkyd ...')">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_10_hi.png" alt="चित्र 6.10" onclick="openImageModal(this.src, 'चित्र 6.10ः किसी एकसमानए काल स्वतंत्र (जपउम पदकमचमदकमदज) चुंबकीय क्षेत्र में एक गतिमान ½जु चालक ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.10</strong> fdlh ,dleku] dky Lora=k (time independent) pqacdh; {ks=k esa ,d xfreku ½tq pkyd ij fopkj dhft,A fp=k 6.10 esa ,d vk;rkdkj pkyd PQRS n'kkZ;k x;k gS ftlesa pkyd</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.10</strong> किसी एकसमानए काल स्वतंत्र (जपउम पदकमचमदकमदज) चुंबकीय क्षेत्र में एक गतिमान ½जु चालक पर विचार कीजिए। चित्र 6.10 में एक आयताकार चालक च्फत्ै दर्शाया गया है जिसमें चालक</span>
     <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
   </div>
 </div>
@@ -1125,9 +1125,9 @@ F = q (E + v × B) = qE
 जाने वाले तथा वलय के तल में अभिलंबवत अक्ष के परित: है (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_11_hi.png" alt="चित्र 6.11" onclick="openImageModal(this.src, 'चित्र 6.11: fp=k 6.11 gy izFke fofèk % tc NM+ ?kw.kZu djrh gS rks NM+ esa eqDr bysDVªkWu yks...')">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_11_hi.png" alt="चित्र 6.11" onclick="openImageModal(this.src, 'चित्र 6.11ः चित्र 6.11 हल पzथम विèिा % जब छड+ घूर्णन करती है तो छड+ में मुक्त इलेक्टªाॅन लोण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.11</strong> fp=k 6.11 gy izFke fofèk % tc NM+ ?kw.kZu djrh gS rks NM+ esa eqDr bysDVªkWu yksjsat cy osQ dkj.k ckgjh fljs dh vksj xfr djrs gSa rFkk oy; osQ Åij forfjr gks tkrs gSaA bl izdkj] vkos'kksa osQ ifj.kkeh i`FkDdj.k osQ dkj.k NM+ osQ fljksa osQ chp ,d fo|qr okgd cy mRiUu gksrk gSA fo|qr okgd cy osQ ,d fuf'pr eku osQ fy, bysDVªkWuksa dk vkSj vfèkd izokg ugha gksrk rFkk ,d LFkk;h n'kk igq¡p tkrh gSA lehdj.k (6-5) dk mi;ksx djus ij] tc NM+ pqacdh; {ks=k osQ yacor xfreku gS rks bldh yackbZ dr osQ vkj&ikj mRiUu fo|qr okgd cy dk ifjek.k izkIr gksxk</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.11</strong> चित्र 6.11 हल पzथम विèिा % जब छड+ घूर्णन करती है तो छड+ में मुक्त इलेक्टªाॅन लोरेंज बल के कारण बाहरी सिरे की आेर गति करते हैं तथा वलय के ऊपर वितरित हो जाते हैं। इस प्रकारए आवेशों के परिणामी पृथक्करण के कारण छड+ के सिरों के बीच एक वि।ुत वाहक बल उत्पनन होता है। वि।ुत वाहक बल के एक निश्चित मान के लिए इलेक्टªाॅनों का और अèिाक पzवाह नहीं होता तथा एक स्थायी दशा पहुँच जाती है। समीकरण (6-5) का उपयोग करने परए जब छड+ चुंबकीय क्षेत्र के लंबवत गतिमान है तो इसकी लंबार्इ कत के आर&पार उत्पनन वि।ुत वाहक बल का परिमाण पzाप्त होगा</span>
     <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
   </div>
 </div>
@@ -1446,9 +1446,9 @@ B
 के वैज्ञानिक फैराडे से अलग अमेरिका में वैद्युत चुंबकीय प्रेरण की खोज की।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_12_hi.png" alt="चित्र 6.12" onclick="openImageModal(this.src, 'चित्र 6.12: 6.7.1 vU;ksU; izsjdRo fp=k 6.12 esa n&#39;kkZ;h xbZ nks yach lek{kh (co-axial) i...')">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_12_hi.png" alt="चित्र 6.12" onclick="openImageModal(this.src, 'चित्र 6.12ः 6.7.्1 अनयोनय पzेरकत्व चित्र 6.12 में द&#39र्याायी गर्इ दो लंबी समा{ाी (बव-ंगपंस) पण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.12</strong> 6.7.1 vU;ksU; izsjdRo fp=k 6.12 esa n'kkZ;h xbZ nks yach lek{kh (co-axial) ifjukfydkvksa (solenoids) ftudh izR;sd dh yackbZ l gS] ij fopkj dhft,A ge var% ifjukfydk S1</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.12</strong> 6.7.्1 अनयोनय पzेरकत्व चित्र 6.12 में दर्शायी गर्इ दो लंबी समा{ाी (बव-ंगपंस) परिनालिकाओं (ेवसमदवपके) जिनकी पzत्येक की लंबार्इ स हैए पर विचार कीजिए। हम अंत% परिनालिका ै1</span>
     <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
   </div>
 </div>
@@ -1985,9 +1985,9 @@ E
 अथवा/और विद्युतीय क्षेत्र विद्यमान है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_13_hi.png" alt="चित्र 6.13" onclick="openImageModal(this.src, 'चित्र 6.13: izR;korhZ èkkjk tfu=k osQ ewy vo;o fp=k 6.13 esa n&#39;kkZ, x, gSaA blesa ,d oqa...')">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_13_hi.png" alt="चित्र 6.13" onclick="openImageModal(this.src, 'चित्र 6.13ः पzत्यावर्ती èाारा जनि=ा के मूल अवयव चित्र 6.13 में द&#39र्यााए गए हैं। इसमें एक वुंण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.13</strong> izR;korhZ èkkjk tfu=k osQ ewy vo;o fp=k 6.13 esa n'kkZ, x, gSaA blesa ,d oqaQMyh gksrh gS tks jksVj 'kSÝV (roter shaft) ij</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.13</strong> पzत्यावर्ती èाारा जनि=ा के मूल अवयव चित्र 6.13 में दर्शाए गए हैं। इसमें एक वुंफडली होती है जो रोटर शैÝट (तवजमत ेींजि) पर</span>
     <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
   </div>
 </div>
@@ -2064,9 +2064,9 @@ Published
 बल का चिह्न या ध्रुवता समय के साथ परिवर्तित होता है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_14_hi.png" alt="चित्र 6.14" onclick="openImageModal(this.src, 'चित्र 6.14: ε = ε0 sin ωt (6.20) D;ksafd T;k iQyu (sine function) dk eku +1 ls –1 osQ chp cn...')">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_14_hi.png" alt="चित्र 6.14" onclick="openImageModal(this.src, 'चित्र 6ण्14ः ε = ε0 ेपद ωज (6ण्20) क्योंकि ज्या पफलन (ेपदम निदबजपवद) का मान +1 से –1 के बीच बदण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.14</strong> ε = ε0 sin ωt (6.20) D;ksafd T;k iQyu (sine function) dk eku +1 ls –1 osQ chp cnyrk gS] fo|qr okgd cy dk fpÉ ;k èkzqork le; osQ lkFk ifjo£rr gksrk gSA fp=k 6.14 ls uksV dhft, fd tc θ = 90° ;k θ = 270° gksrk gS rks fo|qr okgd cy vius pje eku ij gksrk gS D;ksafd bu ¯cnqvksa ij ÝyDl esa ifjorZu vfèkdre gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.14</strong> ε = ε0 ेपद ωज (6.20) क्योंकि ज्या पफलन (ेपदम निदबजपवद) का मान +1 से –1 के बीच बदलता हैए वि।ुत वाहक बल का चि् या èाzुवता समय के साथ परिव£तत होता है। चित्र 6.14 से नोट कीजिए कि जब θ = 90त्त या θ = 270त्त होता है तो वि।ुत वाहक बल अपने चरम मान पर होता है क्योंकि इन ¯बदुओं पर Ýलक्स में परिवर्तन अèिाकतम है।</span>
     <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
   </div>
 </div>
@@ -2431,9 +2431,9 @@ q (v × B) पद क्रियात्मक नहीं है] तब भ
 होते हैं। यह फैराडे के नियम के लिए सापेक्षता के सिद्धांत की प्रासंगिकता पर पर ललचाने वाला
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_15_hi.png" alt="चित्र 6.15" onclick="openImageModal(this.src, 'चित्र 6.15: 6.1 fp=k 6.15 (a) ls (f) esa o£.kr fLFkfr;ksa osQ fy, izsfjr /kjk dh fn&#39;kk d...')">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_15_hi.png" alt="चित्र 6.15" onclick="openImageModal(this.src, 'चित्र 6.15ः 6.1 चित्र 6.15 (ं) से ()ि में व£णत स्थितियों के लिए पzेरित धारा की द&ि#39याा कण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.15</strong> 6.1 fp=k 6.15 (a) ls (f) esa o£.kr fLFkfr;ksa osQ fy, izsfjr /kjk dh fn'kk dh izkxqfDr (predict) dhft,A</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.15</strong> 6.1 चित्र 6.15 (ं) से ()ि में व£णत स्थितियों के लिए पzेरित धारा की दशिा की पzागुक्ति (चतमकपबज) कीजिए।</span>
     <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
   </div>
 </div>
@@ -2514,9 +2514,9 @@ Z
 ## 📄 Page 22
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_16_hi.png" alt="चित्र 6.16" onclick="openImageModal(this.src, 'चित्र 6.16: 6.2 fp=k 6.16 esa o£.kr fLFkfr;ksa osQ fy, ysat osQ fu;e dk mi;ksx djrs gq, izsf...')">
+  <img src="data/diagrams/12th_physics_ch06_electromagnetic_induction_fig_6_16_hi.png" alt="चित्र 6.16" onclick="openImageModal(this.src, 'चित्र 6.16ः 6.2 चित्र 6.16 में व£णत स्थितियों के लिए लेंज के नियम का उपयोग करते हुए पzेण्ण्ण्ि')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.16</strong> 6.2 fp=k 6.16 esa o£.kr fLFkfr;ksa osQ fy, ysat osQ fu;e dk mi;ksx djrs gq, izsfjr fo|qr /kjk dh fn'kk Kkr dhft,A (a) tc vfu;fer vkdkj dk rkj o`Ùkkdkj ywi esa cny jgk gks_ (b) tc ,d o`Ùkkdkj ywi ,d lh/s ckjhd rkj esa fo:fir fd;k tk jgk gksA</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.16</strong> 6.2 चित्र 6.16 में व£णत स्थितियों के लिए लेंज के नियम का उपयोग करते हुए पzेरित वि।ुत धारा की दशिा Kात कीजिए। (ं) जब अनियमित आकार का तार वृÙााकार लूप में बदल रहा हो_ (इ) जब एक वृÙााकार लूप एक सीधे बारीक तार में विरूपित किया जा रहा हो।</span>
     <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
   </div>
 </div>

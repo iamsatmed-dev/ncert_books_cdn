@@ -183,17 +183,17 @@ shed
 कपास के मुकुल कृमि को नियंत्रित करते हैं (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch10_biotechnology_and_its_applications_fig_10_hi.png" alt="चित्र 10" onclick="openImageModal(this.src, 'चित्र 10: fof&#39;k&quot;V chVh tho fo&quot;k thal cSlhyl Fkqjhuft,afll ls i`Fkd dj dbZ iQ...')">
+  <img src="data/diagrams/12th_biology_ch10_biotechnology_and_its_applications_fig_10_hi.png" alt="चित्र 10" onclick="openImageModal(this.src, 'चित्र 10ः वि&ि#39या&ुनवजयट बीटी जीव वि&ुनवजया जींस बैसीलस थुरीनजिएंसिस से पृथक कर कर्इ पफण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 10</strong> fof'k"V chVh tho fo"k thal cSlhyl Fkqjhuft,afll ls i`Fkd dj dbZ iQlyksa tSls dikl esa lekfo"V fd;k tk pqdk gSA thal dk pquko iQly o fu/kZfjr dhV ij fuHkZj djrk gS] tcfd lokZf/d chVh tho fo"k dhV&lewg fof'k"Vrk ij fuHkZj djrs gSaA tho fo"k ftl thu }kjk owQVc¼ gksrs gaS mls ØkbZ dgrs gSaA ;s dbZ izdkj osQ gksrs gSaA mnkgj.kLo:i — tks izksVhal thu ØkbZ 1 ,lh o ØkbZ 2 ,ch }kjk owQVc¼ gksrs gSa os dikl osQ eqoqQy Ñfe dks fu;af=kr djrs gSa (fp=k 10-1) tcfd ØkbZ 1 ,ch eDdk Nsnd dks fu;af=kr djrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 10</strong> विशिष्ट बीटी जीव विष जींस बैसीलस थुरीनजिएंसिस से पृथक कर कर्इ पफसलों जैसे कपास में समाविष्ट किया जा चुका है। जींस का चुनाव पफसल व निर्धारित कीट पर निर्भर करता हैए जबकि सर्वाधकि बीटी जीव विष कीट&समूह विशिष्टता पर निर्भर करते हैं। जीव विष जिस जीन द्वारा वूफटब¼ होते हंै उसे Øार्इ कहते हैं। ये कर्इ प्रकार के होते हैं। उदाहरणस्वरूप — जो पzोटींस जीन Øार्इ 1 एसी व Øार्इ 2 एबी द्वारा वूफटब¼ होते हैं वे कपास के मुवुफल Ñमि को नियं=िात करते हैं (चित्र 10.1) जबकि Øार्इ 1 एबी मक्का छेदक को नियं=िात करता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch10_biotechnology_and_its_applications_fig_10_1_hi.png" alt="चित्र 10.1" onclick="openImageModal(this.src, 'चित्र 10.1: fp=k 10.1 dikl (v) xksyd &#39;kyHk Ñfe }kjk u&quot;V o (c) iw.kZr;k ifjiDo dikl ...')">
+  <img src="data/diagrams/12th_biology_ch10_biotechnology_and_its_applications_fig_10_1_hi.png" alt="चित्र 10.1" onclick="openImageModal(this.src, 'चित्र 10.1ः चित्र 10.1 कपास (अ) गोलक &#39यालभ Ñमि द्वारा न&ुनवजयट व (ब) पूर्णतया परिपक्व कपास ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 10.1</strong> fp=k 10.1 dikl (v) xksyd 'kyHk Ñfe }kjk u"V o (c) iw.kZr;k ifjiDo dikl xksyd</span>
+    <span class="diagram-caption-text"><strong>चित्र 10.1</strong> चित्र 10.1 कपास (अ) गोलक शलभ Ñमि द्वारा नष्ट व (ब) पूर्णतया परिपक्व कपास गोलक</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -212,9 +212,9 @@ shed
 एग्रोबैक्टिरियम संवाहकों का उपयोग कर सूत्रकृमि विशिष्ट जीनों को परपोषी पौधों में
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch10_biotechnology_and_its_applications_fig_10_2_hi.png" alt="चित्र 10.2" onclick="openImageModal(this.src, 'चित्र 10.2: fp=k 10.2 iks&quot;kh ikni tfur ds vkj,u, }kjk lw=kÑfe xzlu osQ fo:¼ lqj{kk esa ...')">
+  <img src="data/diagrams/12th_biology_ch10_biotechnology_and_its_applications_fig_10_2_hi.png" alt="चित्र 10.2" onclick="openImageModal(this.src, 'चित्र 10.2ः चित्र 10.2 पो&ुनवजयाी पादप जनित के आरएनए द्वारा सू=ाÑमि गzसन के विः¼ सुर{ाा में ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 10.2</strong> fp=k 10.2 iks"kh ikni tfur ds vkj,u, }kjk lw=kÑfe xzlu osQ fo:¼ lqj{kk esa o`f¼ (v) izk:ih fu;af=kr ikni ewysa (c) ik¡p fnuksa rd tkucw>dj lw=kÑfe }kjk ikjthoh ikni dh tM+ksa dk laØe.k rFkk lkFk gh uohu fof/ }kjk lqj{kk</span>
+    <span class="diagram-caption-text"><strong>चित्र 10.2</strong> चित्र 10.2 पोषी पादप जनित के आरएनए द्वारा सू=ाÑमि गzसन के विः¼ सुर{ाा में वृ¼ि (अ) पzारूपी नियं=िात पादप मूलें (ब) पाँच दनिों तक जानबू>कर सू=ाÑमि द्वारा पारजीवी पादप की जड+ों का संØमण तथा साथ ही नवीन विध िद्वारा सुर{ाा</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>
@@ -283,9 +283,9 @@ not
 सकते हो। सोचो क्या इंसुलीन मधुमेही लोगों को मुख से दिया जा
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch10_biotechnology_and_its_applications_fig_10_3_hi.png" alt="चित्र 10.3" onclick="openImageModal(this.src, 'चित्र 10.3: fp=k 10.3 izkd&balqfyu dk lh&isIVkbM...')">
+  <img src="data/diagrams/12th_biology_ch10_biotechnology_and_its_applications_fig_10_3_hi.png" alt="चित्र 10.3" onclick="openImageModal(this.src, 'चित्र 10.3ः चित्र 10.3 पzाक&इंसुलिन का सी&पेप्टाइडण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 10.3</strong> fp=k 10.3 izkd&balqfyu dk lh&isIVkbM</span>
+    <span class="diagram-caption-text"><strong>चित्र 10.3</strong> चित्र 10.3 पzाक&इंसुलिन का सी&पेप्टाइड</span>
     <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
   </div>
 </div>

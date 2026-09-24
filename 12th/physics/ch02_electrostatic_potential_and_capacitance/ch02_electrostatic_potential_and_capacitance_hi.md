@@ -45,15 +45,15 @@ not
   <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_1_hi.png" alt="
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_hi.png" alt="चित्र 2" onclick="openImageModal(this.src, 'चित्र 2: mnkgj.k 2.10 (a) 900 pF osQ fdlh laèkkfj=k dks 100 V cSVjh ls vkosf&#39;kr fd;k ...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_hi.png" alt="चित्र 2" onclick="openImageModal(this.src, 'चित्र 2ः उदाहरण 2.10 (ं) 900 चथ् के किसी संèाारि=ा को 100 ट बैटरी से आवे&ि#39यात किया ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2</strong> mnkgj.k 2.10 (a) 900 pF osQ fdlh laèkkfj=k dks 100 V cSVjh ls vkosf'kr fd;k x;k [fp=k 2-31(a)]A laèkkfj=k esa lafpr oqQy fLFkjoS|qr ÅtkZ fdruh gS\ (b) bl laèkkfj=k dks cSVjh ls fo;ksftr djosQ fdlh vU; 900 pF osQ laèkkfj=k ls la;ksftr fd;k x;kA fudk; }kjk lafpr fLFkjoS|qr ÅtkZ fdruh gS\</span>
+    <span class="diagram-caption-text"><strong>चित्र 2</strong> उदाहरण 2.10 (ं) 900 चथ् के किसी संèाारि=ा को 100 ट बैटरी से आवेशित किया गया ख्चित्र 2.31(ं)ए । संèाारि=ा में संचित वुफल स्थिरवै।ुत ऊर्जा कितनी है। (इ) इस संèाारि=ा को बैटरी से वियोजित करके किसी अनय 900 चथ् के संèाारि=ा से संयोजित किया गया। निकाय द्वारा संचित स्थिरवै।ुत ऊर्जा कितनी है।</span>
     <button class="icon-btn" onclick="goToPdfPage(31)">📄 View in PDF (Page 31)</button>
   </div>
 </div>
 
 <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.1</strong> vkos'k foU;kl osQ dkj.k fdlh fLFkjoS|qr {ks=k E ij fopkj dhft,A ljyrk dh n`f"V ls igys ewy ¯cnq ij fLFkr fdlh vkos'k Q osQ dkj.k {ks=k E ij fopkj djrs gSaA dYiuk dhft, fd ge dksbZ ijh{k.k vkos'k q dks vkos'k Q osQ dkj.k vkos'k q ij yxs çfrd"khZ cy osQ fo#¼] ¯cnq R ls ¯cnq P rd ykrs gSaA fp=k 2.1 osQ lanHkZ esa ,slk rHkh gksxk tc Q rFkk q nksuksa èkukRed gksa vFkok nksuksa ½.kkRed gksaA lqfuf'pr djus osQ fy,] ge Q, q > 0 ekurs gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.1</strong> आवेश विनयास के कारण किसी स्थिरवै।ुत क्षेत्र म् पर विचार कीजिए। सरलता की दृष्टि से पहले मूल ¯बदु पर स्थित किसी आवेश फ के कारण क्षेत्र म् पर विचार करते हैं। कल्पना कीजिए कि हम कोर्इ परी{ाण आवेश ु को आवेश फ के कारण आवेश ु पर लगे çतिकर्षी बल के वि#¼ए ¯बदु त् से ¯बदु च् तक लाते हैं। चित्र 2.1 के संदर्भ में एेसा तभी होगा जब फ तथा ु दोनों èानात्मक हों अथवा दोनों ½णात्मक हों। सुनिश्चित करने के लिएए हम फए ु > 0 मानते हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(1)">📄 View in PDF (Page 1)</button>
   </div>
 </div>
@@ -166,9 +166,9 @@ b
 पर निर्भर करता है, उस पथ पर निर्भर नहीं करता जिससे होकर वह आवेश एक बिंदु से दूसरे
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_2_hi.png" alt="चित्र 2.2" onclick="openImageModal(this.src, 'चित्र 2.2: djrk gSA bldk vFkZ ;g gS fd fdlh fLFkjoS|qr {ks=k }kjk fdlh vkos&#39;k dks ,d ¯c...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_2_hi.png" alt="चित्र 2.2" onclick="openImageModal(this.src, 'चित्र 2.2ः करता है। इसका अर्थ यह है कि किसी स्थिरवै।ुत क्षेत्र द्वारा किसी आवे&#39या को एक ¯बण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.2</strong> djrk gSA bldk vFkZ ;g gS fd fdlh fLFkjoS|qr {ks=k }kjk fdlh vkos'k dks ,d ¯cnq ls nwljs ¯cnq rd ys tkus esa fd;k x;k dk;Z osQoy vkjafHkd rFkk vafre fLFkfr;ksa (¯cnqvksa) ij fuHkZj djrk gS] ml iFk ij fuHkZj ugha djrk ftlls gksdj og vkos'k ,d ¯cnq ls nwljs ¯cnq rd tkrk gS (fp=k 2.2)A ;g fdlh laj{kh cy dk ewy vfHky{k.k gSA fLFkfrt ÅtkZ dh èkkj.kk vFkZiw.kZ ugha jgsxh] ;fn fd;k x;k dk;Z iFk ij fuHkZj gks tk,xkA fdlh fLFkjoS|qr {ks=k }kjk fd, x, dk;Z dk iFk ij fuHkZj u gksuk owQykWe osQ fu;e }kjk fl¼ fd;k tk ldrk gSA bldh miifÙk ge ;gk¡ NksM+ jgs gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.2</strong> करता है। इसका अर्थ यह है कि किसी स्थिरवै।ुत क्षेत्र द्वारा किसी आवेश को एक ¯बदु से दूसरे ¯बदु तक ले जाने में किया गया कार्य केवल आरंभिक तथा अंतिम स्थितियों (¯बदुओं) पर निर्भर करता हैए उस पथ पर निर्भर नहीं करता जिससे होकर वह आवेश एक ¯बदु से दूसरे ¯बदु तक जाता है (चित्र 2.2)। यह किसी संर{ाी बल का मूल अभिल{ाण है। स्थितिज ऊर्जा की èाारणा अर्थपूर्ण नहीं रहेगीए यद िकिया गया कार्य पथ पर निर्भर हो जाएगा। किसी स्थिरवै।ुत क्षेत्र द्वारा किए गए कार्य का पथ पर निर्भर न होना वूफलाॅम के नियम द्वारा सि¼ किया जा सकता है। इसकी उपपÙिा हम यहाँ छोड+ रहे हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>
@@ -311,9 +311,9 @@ shed
 मूल बिंदु पर स्थित किसी बिंद आवेश पर विचार कीजिए (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_3_hi.png" alt="चित्र 2.3" onclick="openImageModal(this.src, 'चित्र 2.3: ewy ¯cnq ij fLFkr fdlh ¯cnq vkos&#39;k Q ij fopkj dhft, (fp=k 2.3)A lqLi&quot;Vr...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_3_hi.png" alt="चित्र 2.3" onclick="openImageModal(this.src, 'चित्र 2.3ः मूल ¯बदु पर स्थित किसी ¯बदु आवे&#39या फ पर विचार कीजिए (चित्र 2.3)। सुस्प&ुनवजयटतण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.3</strong> ewy ¯cnq ij fLFkr fdlh ¯cnq vkos'k Q ij fopkj dhft, (fp=k 2.3)A lqLi"Vrk dh n`f"V ls Q dks èkukRed yhft,A ge ¯cnq P ij ewy ¯cnq ls fLFkfr lfn'k r osQ lkFk foHko fuèkkZfjr djuk pkgrs gSaA blosQ fy, gesa ,dkad èkukos'k dks vuar ls ml ¯cnq rd ykus esa fd;k x;k dk;Z ifjdfyr djuk pkfg,A</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.3</strong> मूल ¯बदु पर स्थित किसी ¯बदु आवेश फ पर विचार कीजिए (चित्र 2.3)। सुस्पष्टता की दृष्टि से फ को èानात्मक लीजिए। हम ¯बदु च् पर मूल ¯बदु से स्थिति सदशि त के साथ विभव निर्èाारित करना चाहते हैं। इसके लिए हमें एकांक èानावेश को अनंत से उस ¯बदु तक लाने में किया गया कार्य परिकलित करना चाहिए।</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -459,9 +459,9 @@ V
 ### 4.5
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_4_hi.png" alt="चित्र 2.4" onclick="openImageModal(this.src, 'चित्र 2.4: fp=k 2.4 fdlh ¯cnq vkos&#39;k Q osQ fy, nwjh r esa ifjorZu osQ lkFk foHko esa...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_4_hi.png" alt="चित्र 2.4" onclick="openImageModal(this.src, 'चित्र 2.4ः चित्र 2.4 किसी ¯बदु आवे&#39या फ के लिए दूरी त में परिवर्तन के साथ विभव मेंण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.4</strong> fp=k 2.4 fdlh ¯cnq vkos'k Q osQ fy, nwjh r esa ifjorZu osQ lkFk foHko esa</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.4</strong> चित्र 2.4 किसी ¯बदु आवेश फ के लिए दूरी त में परिवर्तन के साथ विभव में</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>
@@ -537,9 +537,9 @@ V<0 के लिए, अर्थात् अनंत से उस बिं
 है, के अभिलाक्षणिक गुण द्वारा प्रकट किया जाता है (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_5_hi.png" alt="चित्र 2.5" onclick="openImageModal(this.src, 'चित्र 2.5: tSlk fd ge fiNys vè;k; esa tku gh pqosQ gSa fd oS|qr f}èkzqo nks ¯cnq vkos&#39;k...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_5_hi.png" alt="चित्र 2.5" onclick="openImageModal(this.src, 'चित्र 2.5ः जैसा कि हम पिछले अèयाय में जान ही चुके हैं कि वै।ुत ।िèाzुव दो ¯बदु आवे&#39याण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.5</strong> tSlk fd ge fiNys vè;k; esa tku gh pqosQ gSa fd oS|qr f}èkzqo nks ¯cnq vkos'kksa q rFkk −q ls feydj curk gS rFkk bu vkos'kksa osQ chp (y?kq) i`Fkdu 2a gksrk gSA bldk oqQy vkos'k 'kwU; gksrk gS rFkk ;g f}èkzqo lfn'k p ftldk ifjek.k q × 2a rFkk fn'kk –q ls q osQ vuqfn'k gksrh gS] osQ vfHkyk{kf.kd xq.k }kjk çdV fd;k tkrk gS (fp=k 2.5)A geus ;g Hkh ns[kk fd fdlh ¯cnq ij oS|qr f}èkqzo dk fLFkfr lfn'k r lfgr fo|qr {ks=k ek=k r osQ ifjek.k ij gh fuHkZj ugha</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.5</strong> जैसा कि हम पिछले अèयाय में जान ही चुके हैं कि वै।ुत ।िèाzुव दो ¯बदु आवेशों ु तथा −ु से मिलकर बनता है तथा इन आवेशों के बीच (लघु) पृथकन 2ं होता है। इसका वुफल आवेश शूनय होता है तथा यह ।िèाzुव सदशि च जिसका परिमाण ु × 2ं तथा दशिा –ु से ु के अनुदशि होती हैए के अभिला{ाणिक गुण द्वारा çकट किया जाता है (चित्र 2.5)। हमने यह भी देखा कि किसी ¯बदु पर वै।ुत ।िèाुzव का स्थिति सदशि त सहित वि।ुत क्षेत्र मा=ा त के परिमाण पर ही निर्भर नहीं</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>
@@ -785,9 +785,9 @@ r तथा द्विध्रुव आघूर्ण p के बीच �
 स्थिति सदिश क्रमशः r₁, r₂,..., r हैं (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_6_hi.png" alt="चित्र 2.6" onclick="openImageModal(this.src, 'चित्र 2.6: fp=k 2.6 fdlh ¯cnq ij vkos&#39;kksa osQ fudk; osQ dkj.k foHko...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_6_hi.png" alt="चित्र 2.6" onclick="openImageModal(this.src, 'चित्र 2.6ः चित्र 2.6 किसी ¯बदु पर आवे&#39याों के निकाय के कारण विभवण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.6</strong> fp=k 2.6 fdlh ¯cnq ij vkos'kksa osQ fudk; osQ dkj.k foHko</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.6</strong> चित्र 2.6 किसी ¯बदु पर आवेशों के निकाय के कारण विभव</span>
     <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
   </div>
 </div>
@@ -915,9 +915,9 @@ RT
 x-अक्ष है; तथा ऋणावेश मूल बिंदु के दाईं ओर रखा है (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_7_hi.png" alt="चित्र 2.7" onclick="openImageModal(this.src, 'चित्र 2.7: x-v{k gS_ rFkk ½.kkos&#39;k ewy ¯cnq osQ nkbZ± vksj j[kk gS (fp=k 2.7 nsf[k,)A...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_7_hi.png" alt="चित्र 2.7" onclick="openImageModal(this.src, 'चित्र 2.7ः ग-अ{ा है_ तथा ½णावे&#39या मूल ¯बदु के दार्इ्य आेर रखा है (चित्र 2.7 देखिए)। ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.7</strong> x-v{k gS_ rFkk ½.kkos'k ewy ¯cnq osQ nkbZ± vksj j[kk gS (fp=k 2.7 nsf[k,)A</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.7</strong> ग-अ{ा है_ तथा ½णावेश मूल ¯बदु के दार्इ्य आेर रखा है (चित्र 2.7 देखिए)।</span>
     <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
   </div>
 </div>
@@ -1020,9 +1020,9 @@ X
 उदाहरण 2.3 (a) तथा (b) में क्रमशः एकल धन तथा ऋण आवेशों की क्षेत्र रेखाएँ दर्शायी
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_8_hi.png" alt="चित्र 2.8" onclick="openImageModal(this.src, 'चित्र 2.8: fp=k 2.8...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_8_hi.png" alt="चित्र 2.8" onclick="openImageModal(this.src, 'चित्र 2.8ः चित्र 2.8.्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.8</strong> fp=k 2.8</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.8</strong> चित्र 2.8</span>
     <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
   </div>
 </div>
@@ -1082,9 +1082,9 @@ B
 ## 📄 Page 10
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_9_hi.png" alt="चित्र 2.9" onclick="openImageModal(this.src, 'चित्र 2.9: fp=k 2.9 fdlh ,dy vkos&#39;k...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_9_hi.png" alt="चित्र 2.9" onclick="openImageModal(this.src, 'चित्र 2.9ः चित्र 2.9 किसी एकल आवे&#39याण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.9</strong> fp=k 2.9 fdlh ,dy vkos'k</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.9</strong> चित्र 2.9 किसी एकल आवेश</span>
     <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
   </div>
 </div>
@@ -1123,9 +1123,9 @@ V =
 वैकल्पिक दृश्य प्रस्तुत करते हैं।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_10_hi.png" alt="चित्र 2.10" onclick="openImageModal(this.src, 'चित्र 2.10: fp=k 2.10 fdlh ,dleku fo|qr {ks=k osQ fy, lefoHko i`&quot;BA...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_10_hi.png" alt="चित्र 2.10" onclick="openImageModal(this.src, 'चित्र 2.10ः चित्र 2.10 किसी एकसमान वि।ुत क्षेत्र के लिए समविभव पृ&ुनवजयझ्। ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.10</strong> fp=k 2.10 fdlh ,dleku fo|qr {ks=k osQ fy, lefoHko i`"BA</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.10</strong> चित्र 2.10 किसी एकसमान वि।ुत क्षेत्र के लिए समविभव पृष्झ्।</span>
     <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
   </div>
 </div>
@@ -1134,9 +1134,9 @@ V =
 लिए, समविभव पृष्ठ x-अक्ष के अभिलंबवत, अर्थात y-z तल के समांतर तल होते हैं (चित्र
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_11_hi.png" alt="चित्र 2.11" onclick="openImageModal(this.src, 'चित्र 2.11: fp=k 2.11(a) fdlh oS|qr f}èkqzo rFkk...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_11_hi.png" alt="चित्र 2.11" onclick="openImageModal(this.src, 'चित्र 2.11ः चित्र 2.11(ं) किसी वै।ुत ।िèाुzव तथाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.11</strong> fp=k 2.11(a) fdlh oS|qr f}èkqzo rFkk</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.11</strong> चित्र 2.11(ं) किसी वै।ुत ।िèाुzव तथा</span>
     <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
   </div>
 </div>
@@ -1179,9 +1179,9 @@ V
 एक-दूसरे के पास रखे दो समविभव पृष्ठों A तथा B (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_12_hi.png" alt="चित्र 2.12" onclick="openImageModal(this.src, 'चित्र 2.12: ,d&nwljs osQ ikl j[ks nks lefoHko i`&quot;Bksa A rFkk B (fp=k 2.12) ftuosQ foHko...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_12_hi.png" alt="चित्र 2.12" onclick="openImageModal(this.src, 'चित्र 2.12ः एक&दूसरे के पास रखे दो समविभव पृ&ुनवजयझ्ों । तथा झ् (चित्र 2.12) जिनके विभवण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.12</strong> ,d&nwljs osQ ikl j[ks nks lefoHko i`"Bksa A rFkk B (fp=k 2.12) ftuosQ foHkoksa osQ eku Øe'k%</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.12</strong> एक&दूसरे के पास रखे दो समविभव पृष्झ्ों । तथा झ् (चित्र 2.12) जिनके विभवों के मान Øमश%</span>
     <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
   </div>
 </div>
@@ -1289,9 +1289,9 @@ q₂ पर किया गया कार्य
 में संचित हो जाता है। अतः दो आवेशों q₁ तथा qक के निकाय की स्थितिज ऊर्जा
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_13_hi.png" alt="चित्र 2.13" onclick="openImageModal(this.src, 'चित्र 2.13: fp=k 2.13 vkos&#39;kksa q1 rFkk q2 osQ fudk; dh...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_13_hi.png" alt="चित्र 2.13" onclick="openImageModal(this.src, 'चित्र 2.13ः चित्र 2.13 आवे&#39याों ु1 तथा ु2 के निकाय कीण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.13</strong> fp=k 2.13 vkos'kksa q1 rFkk q2 osQ fudk; dh</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.13</strong> चित्र 2.13 आवेशों ु1 तथा ु2 के निकाय की</span>
     <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
   </div>
 </div>
@@ -1395,9 +1395,9 @@ U =
 गया है, उसके क्रम पर निर्भर नहीं करता। स्थितिज ऊर्जा विन्यास की
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_14_hi.png" alt="चित्र 2.14" onclick="openImageModal(this.src, 'चित्र 2.14: fp=k 2.14 fp=k esa fn, x, laosQrksa lfgr lehdj.k...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_14_hi.png" alt="चित्र 2.14" onclick="openImageModal(this.src, 'चित्र 2.14ः चित्र 2.14 चित्र में दएि गए संकेतों सहित समीकरणण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.14</strong> fp=k 2.14 fp=k esa fn, x, laosQrksa lfgr lehdj.k</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.14</strong> चित्र 2.14 चित्र में दएि गए संकेतों सहित समीकरण</span>
     <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
   </div>
 </div>
@@ -1423,9 +1423,9 @@ U =
 को किस प्रकार प्राप्त किया गया है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_15_hi.png" alt="चित्र 2.15" onclick="openImageModal(this.src, 'चित्र 2.15: mnkgj.k 2.4 fp=k 2.15 esa n&#39;kkZ, vuqlkj pkj vkos&#39;k Hkqtk d okys fdlh oxZ...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_15_hi.png" alt="चित्र 2.15" onclick="openImageModal(this.src, 'चित्र 2.15ः उदाहरण 2.4 चित्र 2.15 में द&#39र्यााए अनुसार चार आवे&#39या भुजा क वाले किसी वर्गण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.15</strong> mnkgj.k 2.4 fp=k 2.15 esa n'kkZ, vuqlkj pkj vkos'k Hkqtk d okys fdlh oxZ ABCD osQ 'kh"kks± ij O;ofLFkr fd, x, gSaA (a) bl O;oLFkk dks ,d lkFk cukus esa fd;k x;k dk;Z Kkr dhft,A (b) dksbZ vkos'k q0 oxZ osQ osaQnz E ij yk;k tkrk gS rFkk pkjksa vkos'k vius 'kh"kks± ij n`<+ jgrs gSaA ,slk djus osQ fy, fdruk vfrfjDr dk;Z djuk iM+rk gS\</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.15</strong> उदाहरण 2.4 चित्र 2.15 में दर्शाए अनुसार चार आवेश भुजा क वाले किसी वर्ग । झ्ऋक् के शीषो्य पर व्यवस्थित किए गए हैं। (ं) इस व्यवस्था को एक साथ बनाने में किया गया कार्य Kात कीजिए। (इ) कोर्इ आवेश ु0 वर्ग के वेंफदz म् पर लाया जाता है तथा चारों आवेश अपने शीषो्य पर दृ<+ रहते हैं। एेसा करने के लिए कितना अतिरिक्त कार्य करना पड+ता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
   </div>
 </div>
@@ -1761,9 +1761,9 @@ q₁V (r₁) + q2V (12) + 9192
 ### 2.8.3 बाह्य क्षेत्र में द्विध्रुव की स्थितिज ऊर्जा
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_16_hi.png" alt="चित्र 2.16" onclick="openImageModal(this.src, 'चित्र 2.16: fp=k 2.16 eas n&#39;kkZ, vuqlkj fdlh ,dleku fo|qr {ks=k E esa j[ks vkos&#39;kksa...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_16_hi.png" alt="चित्र 2.16" onclick="openImageModal(this.src, 'चित्र 2.16ः चित्र 2.16 मंे द&#39र्यााए अनुसार किसी एकसमान वि।ुत क्षेत्र म् में रखे आवे&#39याोंण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.16</strong> fp=k 2.16 eas n'kkZ, vuqlkj fdlh ,dleku fo|qr {ks=k E esa j[ks vkos'kksa q1 = +q rFkk</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.16</strong> चित्र 2.16 मंे दर्शाए अनुसार किसी एकसमान वि।ुत क्षेत्र म् में रखे आवेशों ु1 = +ु तथा</span>
     <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
   </div>
 </div>
@@ -2022,9 +2022,9 @@ E = n
 इस परिणाम को व्युत्पन्न करने के लिए, कोई डिबिया (एक छोटा बेलनाकार खोखला बर्तन)
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_17_hi.png" alt="चित्र 2.17" onclick="openImageModal(this.src, 'चित्र 2.17: bl ifj.kke dks O;qRiUu djus osQ fy,] dksbZ fMfc;k (,d NksVk csyukdkj [kks[kyk cr...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_17_hi.png" alt="चित्र 2.17" onclick="openImageModal(this.src, 'चित्र 2.17ः इस परिणाम को व्युत्पनन करने के लिएए कोर्इ डिबिया (एक छोटा बेलनाकार खोखला बतण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.17</strong> bl ifj.kke dks O;qRiUu djus osQ fy,] dksbZ fMfc;k (,d NksVk csyukdkj [kks[kyk crZu) fp=k 2.17 esa n'kkZ, vuqlkj] i`"B osQ fdlh ¯cnq P osQ ifjr% xkmlh; i`"B osQ :i esa pqfu,A bl fMfc;k dk oqQN Hkkx pkyd osQ i`"B osQ ckgj rFkk oqQN Hkkx pkyd osQ i`"B osQ Hkhrj gSA bldh vuqçLFk dkV dk {ks=kiQy δS cgqr NksVk rFkk bldh Å¡pkbZ ux.; gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.17</strong> इस परिणाम को व्युत्पनन करने के लिएए कोर्इ डिबिया (एक छोटा बेलनाकार खोखला बर्तन) चित्र 2.17 में दर्शाए अनुसारए पृष्झ् के किसी ¯बदु च् के परित% गाउसीय पृष्झ् के रूप में चुनिए। इस डिबिया का कुछ भाग चालक के पृष्झ् के बाहर तथा कुछ भाग चालक के पृष्झ् के भीतर है। इसकी अनुçस्थ काट का क्षेत्रपफल δै बहुत छोटा तथा इसकी ऊँचार्इ नगण्य है।</span>
     <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
   </div>
 </div>
@@ -2096,9 +2096,9 @@ E =
 ## 📄 Page 20
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_18_hi.png" alt="चित्र 2.18" onclick="openImageModal(this.src, 'चित्र 2.18: fp=k 2.18 fdlh Hkh pkyd dh dksVj (xqgk) osQ...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_18_hi.png" alt="चित्र 2.18" onclick="openImageModal(this.src, 'चित्र 2.18ः चित्र 2.18 किसी भी चालक की कोटर (गुहा) केण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.18</strong> fp=k 2.18 fdlh Hkh pkyd dh dksVj (xqgk) osQ</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.18</strong> चित्र 2.18 किसी भी चालक की कोटर (गुहा) के</span>
     <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
   </div>
 </div>
@@ -2111,9 +2111,9 @@ E =
 उपकरणों को बाह्य विद्युत प्रभावों से बचाने में किया जाता है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_19_hi.png" alt="चित्र 2.19" onclick="openImageModal(this.src, 'चित्र 2.19: fp=k 2.19 fdlh pkyd osQ oqQN egRoiw.kZ fLFkjoS|qr xq.kèkeZA...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_19_hi.png" alt="चित्र 2.19" onclick="openImageModal(this.src, 'चित्र 2.19ः चित्र 2.19 किसी चालक के कुछ महत्वपूर्ण स्थिरवै।ुत गुणèार्म। ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.19</strong> fp=k 2.19 fdlh pkyd osQ oqQN egRoiw.kZ fLFkjoS|qr xq.kèkeZA</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.19</strong> चित्र 2.19 किसी चालक के कुछ महत्वपूर्ण स्थिरवै।ुत गुणèार्म।</span>
     <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
   </div>
 </div>
@@ -2306,9 +2306,9 @@ E。
 के के लिए हमें किसी परावैद्युत पदार्थ में आण्विक स्तर पर आवेश वितरण
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_20_hi.png" alt="चित्र 2.20" onclick="openImageModal(this.src, 'चित्र 2.20: fp=k 2.20 fdlh cká fo|qr {ks=k esa fdlh pkyd rFkk...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_20_hi.png" alt="चित्र 2.20" onclick="openImageModal(this.src, 'चित्र 2.20ः चित्र 2.20 किसी बाá वि।ुत क्षेत्र में किसी चालक तथाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.20</strong> fp=k 2.20 fdlh cká fo|qr {ks=k esa fdlh pkyd rFkk</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.20</strong> चित्र 2.20 किसी बाá वि।ुत क्षेत्र में किसी चालक तथा</span>
     <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
   </div>
 </div>
@@ -2318,9 +2318,9 @@ E。
 H
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_21_hi.png" alt="चित्र 2.21" onclick="openImageModal(this.src, 'चित्र 2.21: fp=k 2.21 èkzqoh rFkk vèkzqoh v.kqvksa osQ oqQN mnkgj.kA...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_21_hi.png" alt="चित्र 2.21" onclick="openImageModal(this.src, 'चित्र 2.21ः चित्र 2.21 èाzुवी तथा अèाzुवी अणुओं के कुछ उदाहरण। ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.21</strong> fp=k 2.21 èkzqoh rFkk vèkzqoh v.kqvksa osQ oqQN mnkgj.kA</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.21</strong> चित्र 2.21 èाzुवी तथा अèाzुवी अणुओं के कुछ उदाहरण।</span>
     <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
   </div>
 </div>
@@ -2420,9 +2420,9 @@ E≠ 0
 +
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_22_hi.png" alt="चित्र 2.22" onclick="openImageModal(this.src, 'चित्र 2.22: fp=k 2.22 fdlh cká fo|qr {ks=k esa dksbZ ijkoS|qr fdl çdkj ,d usV...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_22_hi.png" alt="चित्र 2.22" onclick="openImageModal(this.src, 'चित्र 2.22ः चित्र 2.22 किसी बाá वि।ुत क्षेत्र में कोर्इ परावै।ुत किस çकार एक नेटण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.22</strong> fp=k 2.22 fdlh cká fo|qr {ks=k esa dksbZ ijkoS|qr fdl çdkj ,d usV</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.22</strong> चित्र 2.22 किसी बाá वि।ुत क्षेत्र में कोर्इ परावै।ुत किस çकार एक नेट</span>
     <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
   </div>
 </div>
@@ -2508,9 +2508,9 @@ d
 +
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_23_hi.png" alt="चित्र 2.23" onclick="openImageModal(this.src, 'चित्र 2.23: vkf.od f}èkzqo gksrs gSaA ijkoS|qr ds Hkhrj fdlh Hkh LFkku ij vk;ru vYika&#39;k ...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_23_hi.png" alt="चित्र 2.23" onclick="openImageModal(this.src, 'चित्र 2.23ः आण्विक ।िèाzुव होते हैं। परावै।ुत के भीतर किसी भी स्थान पर आयतन अल्पां&#39या ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.23</strong> vkf.od f}èkzqo gksrs gSaA ijkoS|qr ds Hkhrj fdlh Hkh LFkku ij vk;ru vYika'k ∆v ij dksbZ usV vkos'k ugha gksrk (;|fi bldk usV f}èkzqo vk?kw.kZ gksrk gS)A bldk dkj.k ;g gS fd ,d f}èkzqo osQ èkukos'k vius ls layXu f}èkzqo osQ ½.kkos'k osQ fudV gksrs gSaA ijarq] ijkoS|qr osQ i`"B ij fo|qr {ks=k osQ vfHkyacor Li"V :i ls ,d usV vkos'k ?kuRo gksrk gSA tSlk fd fp=k 2.23 esa n'kkZ;k x;k gS] nk,¡ i`"B ij f}èkzqoksa osQ èkukRed fljs rFkk ck,¡ i`"B ij f}èkqzoksa osQ ½.kkRed fljs vuqnkflr jg tkrs gSaA vlarqfyr vkos'k cká {ks=k osQ dkj.k çsfjr vkos'k gksrs gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.23</strong> आण्विक ।िèाzुव होते हैं। परावै।ुत के भीतर किसी भी स्थान पर आयतन अल्पांश ∆अ पर कोर्इ नेट आवेश नहीं होता (य।पि इसका नेट ।िèाzुव आघूर्ण होता है)। इसका कारण यह है कि एक ।िèाzुव के èानावेश अपने से संलग्न ।िèाzुव के ½णावेश के निकट होते हैं। परंतुए परावै।ुत के पृष्झ् पर वि।ुत क्षेत्र के अभिलंबवत स्पष्ट रूप से एक नेट आवेश घनत्व होता है। जैसा कि चित्र 2.23 में दर्शाया गया हैए दाएँ पृष्झ् पर ।िèाzुवों के èानात्मक सिरे तथा बाएँ पृष्झ् पर ।िèाुzवों के ½णात्मक सिरे अनुदासित रह जाते हैं। असंतुलित आवेश बाá क्षेत्र के कारण çेरित आवेश होते हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
   </div>
 </div>
@@ -2540,9 +2540,9 @@ P जाते हैं। असंतुलित आवेश बाह्�
 कोई संधारित्र विद्युतरोधी द्वारा पृथक दो चालकों का एक निकाय होता है (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_24_hi.png" alt="चित्र 2.24" onclick="openImageModal(this.src, 'चित्र 2.24: dksbZ laèkkfj=k fo|qrjksèkh }kjk i`Fkd nks pkydksa dk ,d fudk; gksrk gS (fp=k 2....')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_24_hi.png" alt="चित्र 2.24" onclick="openImageModal(this.src, 'चित्र 2.24ः कोर्इ संèाारि=ा वि।ुतरोèाी द्वारा पृथक दो चालकों का एक निकाय होता है (चित्र 2.्ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.24</strong> dksbZ laèkkfj=k fo|qrjksèkh }kjk i`Fkd nks pkydksa dk ,d fudk; gksrk gS (fp=k 2.24)A pkydksa ij vkos'k Q1 rFkk Q2 rFkk muosQ foHko Øe'k% V1 rFkk V2 gSaA çk;%] O;ogkj esa] nks pkydksa ij vkos'k Q rFkk −Q gksrs gSa rFkk muesa foHkokarj V = V1 − V2 gksrk gSA ge osQoy blh çdkj osQ foU;kl osQ laèkkfj=k ij fopkj djsaxsA (,d ljy pkyd dks Hkh la/kfj=k dh Hkk¡fr iz;ksx fd;k tk ldrk gS] ;fn nwljs dks vuar ij ekus) nksuksa pkydksa dks fdlh cSVjh osQ nks VfeZuyksa ls la;ksftr djosQ vkosf'kr djk;k tk ldrk gSA Q dks laèkkfj=k dk vkos'k dgrs gSa] ;|fi] okLro esa ;g laèkkfj=k osQ ,d pkyd ij vkos'k gksrk gSµlaèkkfj=k dk oqQy vkos'k 'kwU; gksrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.24</strong> कोर्इ संèाारि=ा वि।ुतरोèाी द्वारा पृथक दो चालकों का एक निकाय होता है (चित्र 2.24)। चालकों पर आवेश फ1 तथा फ2 तथा उनके विभव Øमश% ट1 तथा ट2 हैं। çाय%ए व्यवहार मेंए दो चालकों पर आवेश फ तथा −फ होते हैं तथा उनमें विभवांतर ट = ट1 − ट2 होता है। हम केवल इसी çकार के विनयास के संèाारि=ा पर विचार करेंगे। (एक सरल चालक को भी संधारि=ा की भाँति पzयोग किया जा सकता हैए यद िदूसरे को अनंत पर माने) दोनों चालकों को किसी बैटरी के दो टर्मिनलों से संयोजित करके आवेशित कराया जा सकता है। फ को संèाारि=ा का आवेश कहते हैंए य।पिए वास्तव में यह संèाारि=ा के एक चालक पर आवेश होता हैष्टसंèाारि=ा का वुफल आवेश शूनय होता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
   </div>
 </div>
@@ -2633,9 +2633,9 @@ Shed
 किसी समांतर पट्टिका संधारित्र में दो बड़ी समतल एक- एक-दूसरे के समांतर चार चालक पट्टिकाएँ होती हैं,
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_25_hi.png" alt="चित्र 2.25" onclick="openImageModal(this.src, 'चित्र 2.25: fdlh lekarj ifêðdk laèkkfj=k esa nks cM+h lery ,d-nwljs osQ lekarj pkyd ifêðdk,¡...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_25_hi.png" alt="चित्र 2.25" onclick="openImageModal(this.src, 'चित्र 2.25ः किसी समांतर पêिðका संèाारि=ा में दो बड+ी समतल एक-दूसरे के समांतर चालक पêिðकाएँण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.25</strong> fdlh lekarj ifêðdk laèkkfj=k esa nks cM+h lery ,d-nwljs osQ lekarj pkyd ifêðdk,¡ gksrh gSa] ftuosQ chp i`Fkdu de gksrk gS (fp=k 2.25)A ge loZçFke nks ifêðdkvksa osQ chp ekè;e osQ :i esa fuokZr dks ysrs gSaA vxys vuqHkkx esa ifêðdkvksa osQ chp ijkoS|qr ekè;e osQ çHkko dk o.kZu fd;k x;k gSA eku yhft, çR;sd ifêðdk dk {ks=kiQy A rFkk muosQ chp i`Fkdu d gSA nksuksa ifêðdkvksa ij vkos'k Q rFkk −Q gSA pw¡fd ifêðdkvksa dh jSf[kd foekvksa dh rqyuk esa d cgqr NksVk gS (d2 << A), ge ,dleku vkosf'kr i`"Bh; ?kuRo σ dh vuar lery pknj osQ fo|qr {ks=k osQ ifj.kke dk mi;ksx dj ldrs gSa (nsf[k, vuqHkkx 1.15)A ifêðdk 1 dk i`"Bh;</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.25</strong> किसी समांतर पêिðका संèाारि=ा में दो बड+ी समतल एक-दूसरे के समांतर चालक पêिðकाएँ होती हैंए जिनके बीच पृथकन कम होता है (चित्र 2.25)। हम सर्वçथम दो पêिðकाओं के बीच माèयम के रूप में निर्वात को लेते हैं। अगले अनुभाग में पêिðकाओं के बीच परावै।ुत माèयम के çभाव का वर्णन किया गया है। मान लीजिए çत्येक पêिðका का क्षेत्रपफल । तथा उनके बीच पृथकन क है। दोनों पêिðकाओं पर आवेश फ तथा −फ है। चूँकि पêिðकाओं की रैखिक विमाओं की तुलना में क बहुत छोटा है (क2 << । )ए हम एकसमान आवेशित पृष्झ्ीय घनत्व σ की अनंत समतल चादर के वि।ुत क्षेत्र के परिणाम का उपयोग कर सकते हैं (देखिए अनुभाग 1.15)। पêिðका 1 का पृष्झ्ीय</span>
     <button class="icon-btn" onclick="goToPdfPage(24)">📄 View in PDF (Page 24)</button>
   </div>
 </div>
@@ -3012,9 +3012,9 @@ VK+3VK+3
 ### 2.14.1 संधारित्रों का श्रेणीक्रम संयोजन
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_26_hi.png" alt="चित्र 2.26" onclick="openImageModal(this.src, 'चित्र 2.26: fp=k 2.26 nks laèkkfj=kksa dk Js.khØe la;kstuA...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_26_hi.png" alt="चित्र 2.26" onclick="openImageModal(this.src, 'चित्र 2.26ः चित्र 2.26 दो संèाारि=ाों का JेणीØम संयोजन। ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.26</strong> fp=k 2.26 nks laèkkfj=kksa dk Js.khØe la;kstuA</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.26</strong> चित्र 2.26 दो संèाारि=ाों का JेणीØम संयोजन।</span>
     <button class="icon-btn" onclick="goToPdfPage(27)">📄 View in PDF (Page 27)</button>
   </div>
 </div>
@@ -3204,9 +3204,9 @@ C
 ### 2.14.2 संधारित्रों का पार्श्वक्रम संयोजन
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_28_hi.png" alt="चित्र 2.28" onclick="openImageModal(this.src, 'चित्र 2.28: 2.14.2 la/kfj=kksa dk ik&#39;oZØe la;kstu fp=k 2.28(a) esa nks laèkkfj=k ik&#39;...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_28_hi.png" alt="चित्र 2.28" onclick="openImageModal(this.src, 'चित्र 2.28ः 2.14.्2 संधारि=ाों का पा&#39यर्वØम संयोजन चित्र 2.28(ं) में दो संèाारि=ा पा&#39यण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.28</strong> 2.14.2 la/kfj=kksa dk ik'oZØe la;kstu fp=k 2.28(a) esa nks laèkkfj=k ik'oZØe esa la;ksftr n'kkZ, x, gSaA bl çdj.k esa nksuksa laèkkfj=kksa ij leku foHkokarj vuqç;qDr fd;k x;k gSA ijarq laèkkfj=k</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.28</strong> 2.14.्2 संधारि=ाों का पाश्र्वØम संयोजन चित्र 2.28(ं) में दो संèाारि=ा पाश्र्वØम में संयोजित दर्शाए गए हैं। इस çकरण में दोनों संèाारि=ाों पर समान विभवांतर अनुçयुक्त किया गया है। परंतु संèाारि=ा</span>
     <button class="icon-btn" onclick="goToPdfPage(28)">📄 View in PDF (Page 28)</button>
   </div>
 </div>
@@ -3216,9 +3216,9 @@ C
 आवेश (± Q₂) के समान होना आवश्यक नहीं है :
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_27_hi.png" alt="चित्र 2.27" onclick="openImageModal(this.src, 'चित्र 2.27: fp=k 2.27 n laèkkfj=kksa dk Js.khØe la;kstuA...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_27_hi.png" alt="चित्र 2.27" onclick="openImageModal(this.src, 'चित्र 2.27ः चित्र 2.27 द संèाारि=ाों का JेणीØम संयोजन। ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.27</strong> fp=k 2.27 n laèkkfj=kksa dk Js.khØe la;kstuA</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.27</strong> चित्र 2.27 द संèाारि=ाों का JेणीØम संयोजन।</span>
     <button class="icon-btn" onclick="goToPdfPage(28)">📄 View in PDF (Page 28)</button>
   </div>
 </div>
@@ -3320,9 +3320,9 @@ C = C₁ + C₂ + ... Cn
 चित्र 2.28 (a) दो संधारित्रों, (b) n संधारित्रों का
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_29_hi.png" alt="चित्र 2.29" onclick="openImageModal(this.src, 'चित्र 2.29: mnkgj.k 2.9 fp=k 2.29 esa n&#39;kkZ, vuqlkj 10 µF osQ pkj laèkkfj=kksa osQ fdlh ...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_29_hi.png" alt="चित्र 2.29" onclick="openImageModal(this.src, 'चित्र 2.29ः उदाहरण 2.9 चित्र 2.29 में द&#39र्यााए अनुसार 10 ष्टथ् के चार संèाारि=ाों के किसी ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.29</strong> mnkgj.k 2.9 fp=k 2.29 esa n'kkZ, vuqlkj 10 µF osQ pkj laèkkfj=kksa osQ fdlh usVooZQ dks 500 V osQ Ïksr ls la;ksftr fd;k x;k gSA (a) usVooZQ dh rqY; èkkfjrk] rFkk (b) çR;sd laèkkfj=k ij vkos'k Kkr dhft,A (uksV% fdlh laèkkfj=k ij vkos'k mldh mPp</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.29</strong> उदाहरण 2.9 चित्र 2.29 में दर्शाए अनुसार 10 ष्टथ् के चार संèाारि=ाों के किसी नेटवर्वफ को 500 ट के Ïोत से संयोजित किया गया है। (ं) नेटवर्वफ की तुल्य èाारिताए तथा (इ) çत्येक संèाारि=ा पर आवेश Kात कीजिए। (नोट% किसी संèाारि=ा पर आवेश उसकी उच्च</span>
     <button class="icon-btn" onclick="goToPdfPage(28)">📄 View in PDF (Page 28)</button>
   </div>
 </div>
@@ -3448,9 +3448,9 @@ Q' = 500 V × 10 μF = 5.0×10¯³ С
 कीजिए, ताकि अंत में चालक 1 पर आवेश आ जाए। आवेश संरक्षण नियम के अनुसार अंत में
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_30_hi.png" alt="चित्र 2.30" onclick="openImageModal(this.src, 'चित्र 2.30: tSlk fd geus Åij ppkZ esa vè;;u fd;k] laèkkfj=k nks pkydksa dk ,d ,slk fudk; gks...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_30_hi.png" alt="चित्र 2.30" onclick="openImageModal(this.src, 'चित्र 2.30ः जैसा कि हमने ऊपर चर्चा में अèययन कियाए संèाारि=ा दो चालकों का एक एेसा निकाय होण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.30</strong> tSlk fd geus Åij ppkZ esa vè;;u fd;k] laèkkfj=k nks pkydksa dk ,d ,slk fudk; gksrk gS ftl ij vkos'k Q rFkk −Q gksrs gSa rFkk ftuesa oqQN i`Fkdu gksrk gSA bl foU;kl esa lafpr ÅtkZ Kkr djus osQ fy, vkjaHk esa nks vukosf'kr pkydksa 1 rFkk 2 ij fopkj dhft,A vc pkyd 2 ls pkyd 1 ij vkos'k dks NksVs&NksVs VqdM+ksa esa LFkkukarfjr djus dh fdlh çfØ;k dh dYiuk dhft,] rkfd var esa pkyd 1 ij Q vkos'k vk tk,A vkos'k laj{k.k fu;e osQ vuqlkj var esa pkyd 2 ij −Q vkos'k gksrk gS (fp=k 2.30)A</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.30</strong> जैसा कि हमने ऊपर चर्चा में अèययन कियाए संèाारि=ा दो चालकों का एक एेसा निकाय होता है जिस पर आवेश फ तथा −फ होते हैं तथा जिनमें कुछ पृथकन होता है। इस विनयास में संचित ऊर्जा Kात करने के लिए आरंभ में दो अनावेशित चालकों 1 तथा 2 पर विचार कीजिए। अब चालक 2 से चालक 1 पर आवेश को छोटे&छोटे टुकड+ों में स्थानांतरित करने की किसी çØिया की कल्पना कीजिएए ताकि अंत में चालक 1 पर फ आवेश आ जाए। आवेश संर{ाण नियम के अनुसार अंत में चालक 2 पर −फ आवेश होता है (चित्र 2.30)।</span>
     <button class="icon-btn" onclick="goToPdfPage(29)">📄 View in PDF (Page 29)</button>
   </div>
 </div>
@@ -3658,9 +3658,9 @@ U = (1/2) E² × Ad
 उदाहरण 2.10 (a) 900 pF के किसी संधारित्र को 100V बैटरी से आवेशित किया
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_31_hi.png" alt="चित्र 2.31" onclick="openImageModal(this.src, 'चित्र 2.31: fp=k 2.31 gy...')">
+  <img src="data/diagrams/12th_physics_ch02_electrostatic_potential_and_capacitance_fig_2_31_hi.png" alt="चित्र 2.31" onclick="openImageModal(this.src, 'चित्र 2.31ः चित्र 2.31 हलण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.31</strong> fp=k 2.31 gy</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.31</strong> चित्र 2.31 हल</span>
     <button class="icon-btn" onclick="goToPdfPage(31)">📄 View in PDF (Page 31)</button>
   </div>
 </div>

@@ -102,9 +102,9 @@ CH3
 है। उदाहरण के लिए यह कोण ट्राईमेथिलऐमीन में 108° होता है जैसा कि
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch09_amines_fig_9_hi.png" alt="चित्र 9" onclick="openImageModal(this.src, 'चित्र 9: dh mifLFkfr osQ dkj.k C–N–E dks.k (tgk¡ E = C vFkok H gS)] 109.5° ls de gksrk gS...')">
+  <img src="data/diagrams/12th_chemistry_ch09_amines_fig_9_hi.png" alt="चित्र 9" onclick="openImageModal(this.src, 'चित्र 9ः की उपस्थिति के कारण ऋ–छ–म् कोण (जहाँ म् = ऋ अथवा भ् है), 109ण्5त्त से कम होता हैण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 9</strong> dh mifLFkfr osQ dkj.k C–N–E dks.k (tgk¡ E = C vFkok H gS)] 109.5° ls de gksrk gSA mnkgj.k osQ fy, ;g dks.k VªkbZesfFky,sehu esa 108° gksrk gS tSlk fd fp=k 9-1 esa n'kkZ;k x;k gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 9</strong> की उपस्थिति के कारण ऋ–छ–म् कोण (जहाँ म् = ऋ अथवा भ् है)ए 109.5त्त से कम होता है। उदाहरण के लिए यह कोण टªार्इमेथिलएेमीन में 108त्त होता है जैसा कि चित्र 9.1 में दर्शाया गया है।</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>

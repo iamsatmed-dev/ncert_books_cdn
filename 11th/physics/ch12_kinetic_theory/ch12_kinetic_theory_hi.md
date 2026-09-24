@@ -297,9 +297,9 @@ T₁> T2>T>
 0.8
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_hi.png" alt="चित्र 12" onclick="openImageModal(this.src, 'चित्र 12: fp=k 12 12 12 12 12.3 .3 .3 .3 .3 rhu fHkUu nkcksa osQ fy, CO2 osQ izk;ksfxd...')">
+  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_hi.png" alt="चित्र 12" onclick="openImageModal(this.src, 'चित्र 12ः चित्र 12 12 12 12 12.3 ण्3 ण्3 ण्3 ण्3 तीन भिनन दाबों के लिए ऋव्2 के पzायोगिकण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 12</strong> fp=k 12 12 12 12 12.3 .3 .3 .3 .3 rhu fHkUu nkcksa osQ fy, CO2 osQ izk;ksfxd</span>
+    <span class="diagram-caption-text"><strong>चित्र 12</strong> चित्र 12 12 12 12 12.3 ण्3 ण्3 ण्3 ण्3 तीन भिनन दाबों के लिए ऋव्2 के पzायोगिक</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -324,9 +324,9 @@ V
 संख्या है। k उपरिवर्णित बोल्ट्ज़मान नियतांक हैं। SI मात्रकों में
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_2_hi.png" alt="चित्र 12.2" onclick="openImageModal(this.src, 'चित्र 12.2: fp=k 12.2 12.2 12.2 12.2 12.2 Hkki osQ fy,] rhu fHkUu rkiksa ij izk;ksfxd P-V oØ...')">
+  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_2_hi.png" alt="चित्र 12.2" onclick="openImageModal(this.src, 'चित्र 12.2ः चित्र 12.2 12.2 12.2 12.2 12.2 भाप के लिएए तीन भिनन तापों पर पzायोगिक च्-ट वØण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 12.2</strong> fp=k 12.2 12.2 12.2 12.2 12.2 Hkki osQ fy,] rhu fHkUu rkiksa ij izk;ksfxd P-V oØksa</span>
+    <span class="diagram-caption-text"><strong>चित्र 12.2</strong> चित्र 12.2 12.2 12.2 12.2 12.2 भाप के लिएए तीन भिनन तापों पर पzायोगिक च्-ट वØों</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -359,9 +359,9 @@ Mo
 वास्तविक गैस सही अर्थों में आदर्श गैस नहीं होती।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_1_hi.png" alt="चित्र 12.1" onclick="openImageModal(this.src, 'चित्र 12.1: fp=k 12.1 12.1 12.1 12.1 12.1 fuEu nkc vkSj mPp rkiksa ij okLrfod xSlksa dk O;og...')">
+  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_1_hi.png" alt="चित्र 12.1" onclick="openImageModal(this.src, 'चित्र 12.1ः चित्र 12.1 12.1 12.1 12.1 12.1 निम्न दाब और उच्च तापों पर वास्तविक गैसों का व्यवहण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 12.1</strong> fp=k 12.1 12.1 12.1 12.1 12.1 fuEu nkc vkSj mPp rkiksa ij okLrfod xSlksa dk O;ogkj vkn'kZ xSlksa osQ ln`'k gksus yxrk gSA tgk¡ n la[;k ?kuRo] vFkkZr~ izfr ,dkad vk;ru esa v.kqvksa dh la[;k gSA kB mifjo£.kr cksYV~”keku fu;rkad gSaA SI ek=kdksa esa bldk eku 1-38 × 10&23 J K–1 gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 12.1</strong> चित्र 12.1 12.1 12.1 12.1 12.1 निम्न दाब और उच्च तापों पर वास्तविक गैसों का व्यवहार आदर्श गैसों के सदृश होने लगता है। जहाँ द संख्या घनत्वए अर्थात~ पzति एकांक आयतन में अणुओं की संख्या है। ाझ् उपरिव£णत बोल्ट~द्घामान नियतांक हैं। ैप् मा=ाकों में इसका मान 1-38 × 10&23 J K–1 है।</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -625,9 +625,9 @@ M2
 माना कि । भुजा के किसी घनाकार बर्तन में कोई आदर्श गैस
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_4_hi.png" alt="चित्र 12.4" onclick="openImageModal(this.src, 'चित्र 12.4: fp=k 12.4 12.4 12.4 12.4 12.4 xSl osQ ,d v.kq dk /kjd dh nhokj ls izR;kLFk la?kê...')">
+  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_4_hi.png" alt="चित्र 12.4" onclick="openImageModal(this.src, 'चित्र 12.4ः चित्र 12.4 12.4 12.4 12.4 12.4 गैस के एक अणु का धारक की दीवार से पzत्यास्थ संघêण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 12.4</strong> fp=k 12.4 12.4 12.4 12.4 12.4 xSl osQ ,d v.kq dk /kjd dh nhokj ls izR;kLFk la?kêðA</span>
+    <span class="diagram-caption-text"><strong>चित्र 12.4</strong> चित्र 12.4 12.4 12.4 12.4 12.4 गैस के एक अणु का धारक की दीवार से पzत्यास्थ संघêð।</span>
     <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
   </div>
 </div>
@@ -1008,9 +1008,9 @@ V
 सरंध्र सिलिंडर के बाहर हलके अणु अधिक मात्रा में पाए जाएँगे
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_5_hi.png" alt="चित्र 12.5" onclick="openImageModal(this.src, 'चित्र 12.5: 235U og leLFkkfud gS ftldh vko&#39;;drk ukfHkdh; fo[kaMu esa gksrh gSA bldks vf/...')">
+  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_5_hi.png" alt="चित्र 12.5" onclick="openImageModal(this.src, 'चित्र 12.5ः 235न वह समस्थानिक है जिसकी आव&#39ययकता नाभिकीय विखंडन में होती है। इसको अधण्ण्ण्ि')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 12.5</strong> 235U og leLFkkfud gS ftldh vko';drk ukfHkdh; fo[kaMu esa gksrh gSA bldks vf/d ek=kk esa ik, tkus okys leLFkkfud 238U ls i`Fkd djus osQ fy, feJ.k dks ,d lja/z fl¯yMj }kjk pkjksa vksj ls ?ksj nsrs gSaA lja/z fl¯yMj eksVh nhokj dk ysfdu ladjk gksuk pkfg, rkfd v.kq yacs ja/zksa dh nhokjksa ls la?kêð djrs gq, ,d ,d dj tk losaQA èkhes v.kqvksa dh rqyuk esa rhozxfr ls pyus okys v.kq vf/d la[;k esa fjl dj ckgj vk,axs vkSj bl izdkj lja/z fl¯yMj osQ ckgj gyosQ v.kq vf/d ek=kk esa ik, tk,¡xs (lao/Zu) (nsf[k, fp=k 12.5)A ;g fof/ vR;ar izHkkoh ugha gS vkSj i;kZIr lao/Zu osQ fy, bls dbZ ckj nksgjkuk iM+rk gSA ◁</span>
+    <span class="diagram-caption-text"><strong>चित्र 12.5</strong> 235न वह समस्थानिक है जिसकी आवश्यकता नाभिकीय विखंडन में होती है। इसको अधकि मा=ाा में पाए जाने वाले समस्थानिक 238न से पृथक करने के लिए मिJण को एक सरंधz सि¯लडर द्वारा चारों आेर से घेर देते हैं। सरंधz सि¯लडर मोटी दीवार का लेकिन संकरा होना चाहिए ताकि अणु लंबे रंधzों की दीवारों से संघêð करते हुए एक एक कर जा सवेंफ। èाीमे अणुओं की तुलना में तीवzगति से चलने वाले अणु अधकि संख्या में रिस कर बाहर आएंगे और इस प्रकार सरंधz सि¯लडर के बाहर हलके अणु अधकि मा=ाा में पाए जाएँगे (संवर्धन) (देखिए चित्र 12.5)। यह विध िअत्यंत पzभावी नहीं है और पर्याप्त संवर्धन के लिए इसे कर्इ बार दोहराना पड+ता है। ◁</span>
     <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
   </div>
 </div>
@@ -1188,9 +1188,9 @@ y
 अतिरिक्त यह अणु अपने द्रव्यमान केंद्र के परितः घूर्णन गति भी
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_6_hi.png" alt="चित्र 12.6" onclick="openImageModal(this.src, 'चित्र 12.6: vkxZu tSlh ,dijek.kqd xSl osQ v.kqvksa esa osQoy LFkkukarjh; Lokra=; dksfV gksrh...')">
+  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_6_hi.png" alt="चित्र 12.6" onclick="openImageModal(this.src, 'चित्र 12.6ः आर्गन जैसी एकपरमाणुक गैस के अणुओं में केवल स्थानांतरीय स्वातं=य कोटि होतीण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 12.6</strong> vkxZu tSlh ,dijek.kqd xSl osQ v.kqvksa esa osQoy LFkkukarjh; Lokra=; dksfV gksrh gSA ysfdu O2 ;k N2 tSlh f}ijek.kqd xSlksa osQ fo"k; esa D;k dg ldrs gSa\ O2 osQ v.kq esa 3 LFkkukarjh; Lokra=; dksfV rks gksrh gh gSa] ij] buosQ vfrfjDr ;g v.kq vius nzO;eku osaQnz osQ ifjr% ?kw.kZu xfr Hkh dj ldrs gSaA fp=k 12.6 esa] vkWDlhtu osQ nks ijek.kqvksa dks tksM+us okyh js[kk osQ yacor~ nks Lora=k ?kw.kZu v{k 1 ,oa 2 n'kkZ, x, gSa ftuosQ ifjr% v.kq ?kw.kZu xfr dj ldrk gS*A vr% bu v.kqvksa esa izR;sd dh nks ?kw.khZ Lokra=; dksfV gksrh gSaA bl izdkj oqQy ÅtkZ esa LFkkukarjh; ÅtkZ tε ,oa ?kw.khZ ÅtkZ εr nksuksa dk ;ksxnku gksrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 12.6</strong> आर्गन जैसी एकपरमाणुक गैस के अणुओं में केवल स्थानांतरीय स्वातं=य कोटि होती है। लेकिन व्2 या छ2 जैसी ।िपरमाणुक गैसों के विषय में क्या कह सकते हैं। व्2 के अणु में 3 स्थानांतरीय स्वातं=य कोटि तो होती ही हैंए परए इनके अतिरिक्त यह अणु अपने दzव्यमान वेंफदz के परित% घूर्णन गति भी कर सकते हैं। चित्र 12.6 मेंए ऑक्सीजन के दो परमाणुओं को जोड+ने वाली रेखा के लंबवत~ दो स्वतंत्र घूर्णन अ{ा 1 एवं 2 दर्शाए गए हैं जिनके परित% अणु घूर्णन गति कर सकता है*। अत% इन अणुओं में पzत्येक की दो घूर्णी स्वातं=य कोटि होती हैं। इस प्रकार वुफल ऊर्जा में स्थानांतरीय ऊर्जा जε एवं घूर्णी ऊर्जा εत दोनों का योगदान होता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
   </div>
 </div>
@@ -1743,9 +1743,9 @@ Cp = (5/2) R है। क्योंकि बर्तन का आयतन
 ## 📄 Page 13
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_7_hi.png" alt="चित्र 12.7" onclick="openImageModal(this.src, 'चित्र 12.7: fp=k 12.7 12.7 12.7 12.7 12.7 ∆t le; esa fdlh v.kq }kjk izl£ir vk;ru ftleas...')">
+  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_7_hi.png" alt="चित्र 12.7" onclick="openImageModal(this.src, 'चित्र 12.7ः चित्र 12.7 12.7 12.7 12.7 12.7 ∆ज समय में किसी अणु द्वारा पzस£पत आयतन जिसमंेण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 12.7</strong> fp=k 12.7 12.7 12.7 12.7 12.7 ∆t le; esa fdlh v.kq }kjk izl£ir vk;ru ftleas</span>
+    <span class="diagram-caption-text"><strong>चित्र 12.7</strong> चित्र 12.7 12.7 12.7 12.7 12.7 ∆ज समय में किसी अणु द्वारा पzस£पत आयतन जिसमंे</span>
     <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
   </div>
 </div>
@@ -2025,9 +2025,9 @@ B
 0°C)। दर्शाइये कि यह 22.4 लीटर है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_8_hi.png" alt="चित्र 12.8" onclick="openImageModal(this.src, 'चित्र 12.8: 12.3 fp=k 12.8 esa vkWDlhtu osQ 1.00×10–3 kg nzO;eku osQ fy, PV/T ,oa P eas] nks...')">
+  <img src="data/diagrams/11th_physics_ch12_kinetic_theory_fig_12_8_hi.png" alt="चित्र 12.8" onclick="openImageModal(this.src, 'चित्र 12.8ः 12.3 चित्र 12.8 में ऑक्सीजन के 1.00×10–3 ाह दzव्यमान के लिए च्टधज् एवं च् मंेए दोण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 12.8</strong> 12.3 fp=k 12.8 esa vkWDlhtu osQ 1.00×10–3 kg nzO;eku osQ fy, PV/T ,oa P eas] nks vyx&vyx rkiksa ij xzkiQ n'kkZ;s x, gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 12.8</strong> 12.3 चित्र 12.8 में ऑक्सीजन के 1.00×10–3 ाह दzव्यमान के लिए च्टधज् एवं च् मंेए दो अलग&अलग तापों पर गzापफ दर्शाये गए हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
   </div>
 </div>

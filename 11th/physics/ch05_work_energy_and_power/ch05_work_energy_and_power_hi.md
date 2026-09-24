@@ -95,9 +95,9 @@ A.B = AB cos 0
 यहाँ ७ दो सदिशों A तथा B के बीच का कोण है। इसे
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_hi.png" alt="चित्र 5" onclick="openImageModal(this.src, 'चित्र 5: F, fdlh m nzO;eku osQ fiaM ij yx jgk gS ftlosQ dkj.k fiaM dk èkUkkRed x-fn&#39;k...')">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_hi.png" alt="चित्र 5" onclick="openImageModal(this.src, 'चित्र 5ः थ्ए किसी उ दzव्यमान के पिंड पर लग रहा है जिसके कारण पिंड का èानाात्मक ग-द&ि#39याण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5</strong> F, fdlh m nzO;eku osQ fiaM ij yx jgk gS ftlosQ dkj.k fiaM dk èkUkkRed x-fn'kk esa gksus okyk foLFkkiu d gS tSlk fd fp=k 5-2 eas n'kkZ;k x;k gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 5</strong> थ्ए किसी उ दzव्यमान के पिंड पर लग रहा है जिसके कारण पिंड का èानाात्मक ग-दशिा में होने वाला विस्थापन क है जैसा कि चित्र 5.2 मंे दर्शाया गया है।</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>
@@ -216,9 +216,9 @@ F2 = F2 + F + F2
 16
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_1_hi.png" alt="चित्र 5.1" onclick="openImageModal(this.src, 'चित्र 5.1: A.B = A (B cos θ ) = B (A cos θ ) T;kfefr osQ vuqlkj B cos θ lfn&#39;k B dk lfn&...')">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_1_hi.png" alt="चित्र 5.1" onclick="openImageModal(this.src, 'चित्र 5.1ः । ण्झ् = । (झ् बवे θ ) = झ् (। बवे θ ) ज्यामिति के अनुसार झ् बवे θ सद&ि#39या झ् का सद&िण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.1</strong> A.B = A (B cos θ ) = B (A cos θ ) T;kfefr osQ vuqlkj B cos θ lfn'k B dk lfn'k A ij iz{ksi gS (fp=k 5.1b)A blh izdkj A cos θ lfn'k A dk lfn'k B ij iz{ksi gS (nsf[k, fp=k 5.1c)A bl izdkj A.B lfn'k A osQ ifjek.k rFkk B osQ vuqfn'k A osQ ?kVd osQ xq.kuiQy osQ cjkcj gksrk gSA nwljs rjhosQ ls ;g B osQ ifjek.k rFkk A dk lfn'k B osQ vuqfn'k ?kVd osQ xq.kuiQy osQ cjkcj gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.1</strong> । ण्झ् = । (झ् बवे θ ) = झ् (। बवे θ ) ज्यामिति के अनुसार झ् बवे θ सदशि झ् का सदशि । पर पz{ोप है (चित्र 5.1इ)। इसी प्रकार । बवे θ सदशि । का सदशि झ् पर पz{ोप है (देखिए चित्र 5.1ब)। इस प्रकार । ण्झ् सदशि । के परिमाण तथा झ् के अनुदशि । के घटक के गुणनपफल के बराबर होता है। दूसरे तरीके से यह झ् के परिमाण तथा । का सदशि झ् के अनुदशि घटक के गुणनपफल के बराबर है।</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>
@@ -1263,9 +1263,9 @@ A पर क्षैतिज वेग v इस प्रकार लगा�
 तय करता है कि डोरी केवल उच्चतम बिंदु C पर ढीली
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_6_hi.png" alt="चित्र 5.6" onclick="openImageModal(this.src, 'चित्र 5.6: A ij {kSfrt osx vo bl izdkj yxk;k tkrk gS fd ;g ÅèokZ/j ry eas v/Zo`Rrkdkj iz{ks...')">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_6_hi.png" alt="चित्र 5.6" onclick="openImageModal(this.src, 'चित्र 5.6ः । पर {ौतिज वेग अव इस प्रकार लगाया जाता है कि यह ऊèर्वाधर तल मंे अर्धवृत्ताकार पz{ोण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.6</strong> A ij {kSfrt osx vo bl izdkj yxk;k tkrk gS fd ;g ÅèokZ/j ry eas v/Zo`Rrkdkj iz{ksI; iFk dks bl izdkj r; djrk gS fd Mksjh osQoy mPPkre fcanq C ij <hyh gksrh gS tSlk fd fp=k 5.6 eas fn[kk;k x;k gSA fuEu jkf'k;ksa osQ fy, O;atd izkIr dhft, % (a) v0, (b) fcanqvksa B rFkk</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.6</strong> । पर {ौतिज वेग अव इस प्रकार लगाया जाता है कि यह ऊèर्वाधर तल मंे अर्धवृत्ताकार पz{ोप्य पथ को इस प्रकार तय करता है कि डोरी केवल उच्च्ातम बिंदु ऋ पर <ीली होती है जैसा कि चित्र 5.6 मंे दखिाया गया है। निम्न राशियों के लिए व्यंजक पzाप्त कीजिए % (ं) अ0ए (इ) बिंदुओं झ् तथा</span>
     <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
   </div>
 </div>
@@ -1470,9 +1470,9 @@ Kcmv
 कोई स्प्रिंग-बल एक परिवर्ती–बल का उदाहरण है जो संरक्षी होता है ।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_7_hi.png" alt="चित्र 5.7" onclick="openImageModal(this.src, 'चित्र 5.7: eku yhft, fd ge xqVosQ dks ckgj dh rjiQ] tSlk fd fp=k 5.7(b) esa fn[kk;k x;k gS]...')">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_7_hi.png" alt="चित्र 5.7" onclick="openImageModal(this.src, 'चित्र 5.7ः मान लीजिए कि हम गुटके को बाहर की तरपफए जैसा कि चित्र 5.7(इ) में दखिाया गया हैए ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.7</strong> eku yhft, fd ge xqVosQ dks ckgj dh rjiQ] tSlk fd fp=k 5.7(b) esa fn[kk;k x;k gS] èkheh vpj pky ls [khaprs gSa A ;fn fLizax dk f[kapko xm gS rks fLizax&cy }kjk fd;k dk;Z</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.7</strong> मान लीजिए कि हम गुटके को बाहर की तरपफए जैसा कि चित्र 5.7(इ) में दखिाया गया हैए èाीमी अचर चाल से खींचते हैं । यद िस्पिzंग का खिंचाव गउ है तो स्पिzंग&बल द्वारा किया कार्य</span>
     <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
   </div>
 </div>
@@ -2077,9 +2077,9 @@ m₁ चाल v₁₁ से गतिमान है जहाँ अधो�
 फ्रेम में द्रव्यमान m₁, दूसरे द्रव्यमान m₂ से जो विरामावस्था में
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_10_hi.png" alt="चित्र 5.10" onclick="openImageModal(this.src, 'चित्र 5.10: fp=k 5.10 fdlh nzO;eku m1 dk vU; fLFkj nzO;eku m2 ls la?kêðA...')">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_10_hi.png" alt="चित्र 5.10" onclick="openImageModal(this.src, 'चित्र 5.10ः चित्र 5.10 किसी दzव्यमान उ1 का अनय स्थिर दzव्यमान उ2 से संघêð। ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.10</strong> fp=k 5.10 fdlh nzO;eku m1 dk vU; fLFkj nzO;eku m2 ls la?kêðA</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.10</strong> चित्र 5.10 किसी दzव्यमान उ1 का अनय स्थिर दzव्यमान उ2 से संघêð।</span>
     <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
   </div>
 </div>
@@ -2800,9 +2800,9 @@ a
 bd
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_11_hi.png" alt="चित्र 5.11" onclick="openImageModal(this.src, 'चित्र 5.11: fp=k 5.11...')">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_11_hi.png" alt="चित्र 5.11" onclick="openImageModal(this.src, 'चित्र 5.11ः चित्र 5.11.्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.11</strong> fp=k 5.11</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.11</strong> चित्र 5.11</span>
     <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
   </div>
 </div>
@@ -2819,9 +2819,9 @@ V(x) = kx²/2 है, जहां k दोलक का बल नियता�
 Nm-¹के लिए V(x) व x के मध्य ग्राफ
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_12_hi.png" alt="चित्र 5.12" onclick="openImageModal(this.src, 'चित्र 5.12: 5.4 js[kh; ljy vkorZ xfr dj jgs fdlh d.k dk fLFkfrt mQtkZ iQyu V(x) = kx2/2 gS] ...')">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_12_hi.png" alt="चित्र 5.12" onclick="openImageModal(this.src, 'चित्र 5.12ः 5.4 रेखीय सरल आवर्त गति कर रहे किसी कण का स्थितिज उफर्जा पफलन ट(ग) = ाग2ध2 हैए ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.12</strong> 5.4 js[kh; ljy vkorZ xfr dj jgs fdlh d.k dk fLFkfrt mQtkZ iQyu V(x) = kx2/2 gS] tgka k nksyoQ dk cy fu;rkaoQ gS A k = 0.5 N m–1 osQ fy, V(x) o x osQ eè; xzkIkQ fp=k 5.12 eas fn[kk;k x;k gSA ;g fn[kkb, fd bl foHko osQ varxZr xfreku oqQy 1J mQtkZ okys d.k dks vo'; gh ^okfil vkuk* pkfg, tc ;g x = ± 2 m ij igqaprk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.12</strong> 5.4 रेखीय सरल आवर्त गति कर रहे किसी कण का स्थितिज उफर्जा पफलन ट(ग) = ाग2ध2 हैए जहां ा दोलवफ का बल नियतांवफ है । ा = 0.5 छ उ–1 के लिए ट(ग) व ग के मèय गzाप्ाफ चित्र 5.12 मंे दखिाया गया है। यह दखिाइए कि इस विभव के अंतर्गत गतिमान वुफल 1J उफर्जा वाले कण को अवश्य ही ^वापिस आना* चाहिए जब यह ग = ्य 2 उ पर पहुंचता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
   </div>
 </div>
@@ -2852,9 +2852,9 @@ V(x)
 उपग्रह पृथ्वी के समीप आता है तो उसकी चाल में लगातार
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_13_hi.png" alt="चित्र 5.13" onclick="openImageModal(this.src, 'चित्र 5.13: (d) fp=k 5.13(i) eas ,d O;fDr vius gkFkksa eas 15kg dk...')">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_13_hi.png" alt="चित्र 5.13" onclick="openImageModal(this.src, 'चित्र 5.13ः (क) चित्र 5.13(प) मंे एक व्यक्ति अपने हाथों मंे 15ाह काण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.13</strong> (d) fp=k 5.13(i) eas ,d O;fDr vius gkFkksa eas 15kg dk</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.13</strong> (क) चित्र 5.13(प) मंे एक व्यक्ति अपने हाथों मंे 15ाह का</span>
     <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
   </div>
 </div>
@@ -2966,9 +2966,9 @@ F = (-i + 2) + 3k) N
 है तो संघट्ट के पश्चात् निम्नलिखित (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_14_hi.png" alt="चित्र 5.14" onclick="openImageModal(this.src, 'चित्र 5.14: fp=k 5.14...')">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_14_hi.png" alt="चित्र 5.14" onclick="openImageModal(this.src, 'चित्र 5.14ः चित्र 5.14.्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.14</strong> fp=k 5.14</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.14</strong> चित्र 5.14</span>
     <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
   </div>
 </div>
@@ -3025,9 +3025,9 @@ V
 पर मेज पर, विरामावस्था में रखे दूसरे गोलक B से टकराता है जैसा कि
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_15_hi.png" alt="चित्र 5.15" onclick="openImageModal(this.src, 'चित्र 5.15: 5.17 fdlh yksyd osQ xksyd A dks] tks ÅèokZ/j ls 30° dk dks.k cukrk gS] NksM+s tk...')">
+  <img src="data/diagrams/11th_physics_ch05_work_energy_and_power_fig_5_15_hi.png" alt="चित्र 5.15" onclick="openImageModal(this.src, 'चित्र 5.15ः 5.17 किसी लोलक के गोलक । कोए जो ऊèर्वाधर से 30त्त का कोण बनाता हैए छोड+े जाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.15</strong> 5.17 fdlh yksyd osQ xksyd A dks] tks ÅèokZ/j ls 30° dk dks.k cukrk gS] NksM+s tkus ij est ij] fojkekoLFkk eas j[ks nwljs xksyd B ls Vdjkrk gS tSlk fd fp=k 5.15 eas iznf'kZr gSA Kkr dhft, fd la?kêð osQ i'pkr~ xksyd A fdruk maQpk mBrk gS\ xksydksa osQ vkdkjksa dh mis{kk dhft, vkSj eku yhft, fd la?kêð izR;kLFk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.15</strong> 5.17 किसी लोलक के गोलक । कोए जो ऊèर्वाधर से 30त्त का कोण बनाता हैए छोड+े जाने पर मेज परए विरामावस्था मंे रखे दूसरे गोलक झ् से टकराता है जैसा कि चित्र 5.15 मंे पzदर्शित है। Kात कीजिए कि संघêð के पश्चात~ गोलक । कितना उंफचा उझ्ता है। गोलकों के आकारों की उपे{ाा कीजिए और मान लीजिए कि संघêð पzत्यास्थ है।</span>
     <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
   </div>
 </div>

@@ -58,15 +58,15 @@ ac वोल्टता एवं ac धारा, ये वाक्यां
   <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_1_hi.png" alt="
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_hi.png" alt="चित्र 7" onclick="openImageModal(this.src, 'चित्र 7: fp=k 7-1 esa n&#39;kkZ, x, ifjiFk ij fdj[kksiQ dk ywi fu;e ε( )t = ∑ 0 , ([k.M 3...')">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_hi.png" alt="चित्र 7" onclick="openImageModal(this.src, 'चित्र 7ः चित्र 7.1 में द&#39र्यााए गए परिपथ पर किरखोपफ का लूप नियम ε( )ज = ∑ 0 ए (खण्ड 3.्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7</strong> fp=k 7-1 esa n'kkZ, x, ifjiFk ij fdj[kksiQ dk ywi fu;e ε( )t = ∑ 0 , ([k.M 3-12 ns[ksa) ykxw djrs gSa ftlls gesa izkIr gksrk gS %</span>
+    <span class="diagram-caption-text"><strong>चित्र 7</strong> चित्र 7.1 में दर्शाए गए परिपथ पर किरखोपफ का लूप नियम ε( )ज = ∑ 0 ए (खण्ड 3-12 देखें) लागू करते हैं जिससे हमें पzाप्त होता है %</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>
 
 <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.1</strong> fp=k 7.1 esa ac oksYVrk lzksr ε ls tqM+k izfrjks/d R n'kkZ;k x;k gSA ifjiFk vkjs[k esa ac lzksr dk laosQr fpÉ ~ gSA ;gk¡ ge ,d ,sls lzksr dh ckr dj jgs gSa tks vius fljksa osQ chp T;koØh; :i esa ifjorZu'khy foHkokarj mRiUu djrk gS] ekuk fd ;g foHkokarj ftls ac oksYVrk Hkh dgk tkrk gS] fuEufyf[kr izdkj ls O;Dr fd;k tk,</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.1</strong> चित्र 7.1 में ंब वोल्टता सzोत ε से जुड+ा पzतिरोधक त् दर्शाया गया है। परिपथ आरेख में ंब सzोत का संकेत चि् ~ है। यहाँ हम एक एेसे सzोत की बात कर रहे हैं जो अपने सिरों के बीच ज्यावØीय रूप में परिवर्तनशील विभवांतर उत्पनन करता हैए माना कि यह विभवांतर जिसे ंब वोल्टता भी कहा जाता हैए निम्नलिखित प्रकार से व्यक्त किया जाए</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>
@@ -163,9 +163,9 @@ m
 एवं इसमें प्रवाहित होने वाली धारा को
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_2_hi.png" alt="चित्र 7.2" onclick="openImageModal(this.src, 'चित्र 7.2: lehdj.k (7.3) vkse dk fu;e gS tks izfrjks/dksa osQ izdj.k esa ac ,oa dc nksuksa ...')">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_2_hi.png" alt="चित्र 7.2" onclick="openImageModal(this.src, 'चित्र 7ण्2ः समीकरण (7ण्3) आेम का नियम है जो पzतिरोधकों के पzकरण में ंब एवं कब दोनों ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.2</strong> lehdj.k (7.3) vkse dk fu;e gS tks izfrjks/dksa osQ izdj.k esa ac ,oa dc nksuksa izdkj dh oksYVrkvksa osQ fy, leku :i ls ykxw gksrk gSA lehdj.k (7.1) ,oa lehdj.k (7.2) }kjk O;Dr fdlh 'kq¼ izfrjks/d osQ fljksa osQ chp yxkbZ xbZ oksYVrk ,oa blesa izokfgr gksus okyh /kjk dks fp=k 7.2 esa le; osQ iQyu osQ :i esa vkysf[kr fd;k x;k gSA bl rF; ij fo'ks"k è;ku nhft, fd v ,oa i nksuksa gh 'kwU;] U;wure ,oa vf/dre ekuksa dh fLFkfr;k¡ lkFk&lkFk gh izkIr djrh gSaA vr% Li"V gS fd oksYVrk ,oa /kjk ,d nwljs osQ lkFk leku dyk esa gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.2</strong> समीकरण (7.3) आेम का नियम है जो पzतिरोधकों के पzकरण में ंब एवं कब दोनों प्रकार की वोल्टताओं के लिए समान रूप से लागू होता है। समीकरण (7.1) एवं समीकरण (7.2) द्वारा व्यक्त किसी शु¼ पzतिरोधक के सिरों के बीच लगार्इ गर्इ वोल्टता एवं इसमें पzवाहित होने वाली धारा को चित्र 7.2 में समय के पफलन के रूप में आलेखित किया गया है। इस तथ्य पर विशेष èयान दीजिए कि अ एवं प दोनों ही शूनयए नयूनतम एवं अधकितम मानों की स्थितियाँ साथ&साथ ही पzाप्त करती हैं। अत% स्पष्ट है कि वोल्टता एवं धारा एक दूसरे के साथ समान कला में हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>
@@ -279,9 +279,9 @@ ac शक्ति को उसी रूप में व्यक्त क�
 किया जाता है जिसे वर्ग माध्य मूल (rms) अथवा प्रभावी (effective) धारा
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_3_hi.png" alt="चित्र 7.3" onclick="openImageModal(this.src, 'चित्र 7.3: ac &#39;kfDr dks mlh :i esa O;Dr djus osQ fy, ftlesa dc &#39;kfDr (P = i2R) dks ...')">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_3_hi.png" alt="चित्र 7.3" onclick="openImageModal(this.src, 'चित्र 7ण्3ः ंब &#39याक्ति को उसी रूप में व्यक्त करने के लिए जिसमें कब &#39याक्ति (च् = प2त्) को ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.3</strong> ac 'kfDr dks mlh :i esa O;Dr djus osQ fy, ftlesa dc 'kfDr (P = i2R) dks O;Dr fd;k tkrk gS /kjk osQ ,d fof'k"V eku dk mi;ksx fd;k tkrk gS ftls oxZ ekè; ewy (rms) vFkok izHkkoh (effective) èkkjk (fp=k 7.3) dgrs gSa vkSj bls Irms vFkok I }kjk fu£n"V fd;k tkrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.3</strong> ंब शक्ति को उसी रूप में व्यक्त करने के लिए जिसमें कब शक्ति (च् = प2त्) को व्यक्त किया जाता है धारा के एक विशिष्ट मान का उपयोग किया जाता है जिसे वर्ग माèय मूल (तउे) अथवा पzभावी (मििमबजपअम) èाारा (चित्र 7.3) कहते हैं और इसे प्तउे अथवा प् द्वारा नि£दष्ट किया जाता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>
@@ -479,9 +479,9 @@ i
 के उपयोग से ac परिपथ का विश्लेषण सरलतापूर्वक हो जाता
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_4_hi.png" alt="चित्र 7.4" onclick="openImageModal(this.src, 'चित्र 7.4: gSA ac ifjiFk esa /kjk ,oa oksYVrk osQ chp dyk laca/ n&#39;kkZus osQ fy, ge isQt...')">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_4_hi.png" alt="चित्र 7.4" onclick="openImageModal(this.src, 'चित्र 7ण्4ः है। ंब परिपथ में धारा एवं वोल्टता के बीच कला संबंध द&#39र्यााने के लिए हम पेफजण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.4</strong> gSA ac ifjiFk esa /kjk ,oa oksYVrk osQ chp dyk laca/ n'kkZus osQ fy, ge isQtlZ dh /kj.kk dk mi;ksx djrs gSaA isQtj fp=k osQ mi;ksx ls ac ifjiFk dk fo'ys"k.k ljyrkiwoZd gks tkrk gSA isQtj* tSlk fd fp=k 7.4 esa n'kkZ;k x;k gS] ,d lfn'k gS tks ewy ¯cnq osQ ifjr% dks.kh; osx ω ls ?kw.kZu djrk gSA isQtlZ V ,oa I osQ ÅèokZ/j ?kVd T;koØh; :i ls ifjorZu'khy jkf'k;k¡ v ,oa i fu:fir djrs gSaA isQtlZ V ,oa I osQ ifjek.k bu nksyk;eku jkf'k;ksa osQ vk;ke vFkok f'k[kjeku vm ,oa im fu:fir djrs gSaA fp=k 7.4(a) fp=k 7.1 osQ laxr fdlh izfrjksèkd osQ fljksa ls tqM+h ac oksYVrk dh] fdlh {k.k t1 ij] oksYVrk ,oa /kjk osQ isQtlZ vkSj mudk ikjLifjd laca/ n'kkZrk gSA oksYVrk ,oa /kjk osQ ÅèokZ/j v{k ij iz{ksi vFkkZr vm sinω t ,oa im sin ω t, Øe'k%] ml {k.k fo'ks"k ij oksYVrk ,oa /kjk osQ eku fu:fir djrs gSaA T;ksa&T;ksa os vko`fÙk ω ls ?kw.kZu djrs gSa fp=k 7.4(b) esa n'kkZ, x, oØ tSls gksrs gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.4</strong> है। ंब परिपथ में धारा एवं वोल्टता के बीच कला संबंध दर्शाने के लिए हम पेफजर्स की धारणा का उपयोग करते हैं। पेफजर चित्र के उपयोग से ंब परिपथ का विश्लेषण सरलतापूर्वक हो जाता है। पेफजर* जैसा कि चित्र 7.4 में दर्शाया गया हैए एक सदशि है जो मूल ¯बदु के परित% कोणीय वेग ω से घूर्णन करता है। पेफजर्स ट एवं प् के ऊèर्वाधर घटक ज्यावØीय रूप से परिवर्तनशील राशियाँ अ एवं प निरूपित करते हैं। पेफजर्स ट एवं प् के परिमाण इन दोलायमान राशियों के आयाम अथवा शिखरमान अउ एवं पउ निरूपित करते हैं। चित्र 7.4(ं) चित्र 7.1 के संगत किसी पzतिरोèाक के सिरों से जुड+ी ंब वोल्टता कीए किसी {ाण ज1 परए वोल्टता एवं धारा के पेफजर्स और उनका पारस्परिक संबंध दर्शाता है। वोल्टता एवं धारा के ऊèर्वाधर अ{ा पर पz{ोप अर्थात अउ ेपदω ज एवं पउ ेपद ω जए Øमश%ए उस {ाण विशेष पर वोल्टता एवं धारा के मान निरूपित करते हैं। ज्यों&ज्यों वे आवृÙिा ω से घूर्णन करते हैं चित्र 7.4(इ) में दर्शाए गए वØ जैसे होते हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>
@@ -527,9 +527,9 @@ sinet एवं im sinat, क्रमशः, उस क्षण विशे�
 7.4 प्रेरक पर प्रयुक्त ac वोल्टता
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_5_hi.png" alt="चित्र 7.5" onclick="openImageModal(this.src, 'चित्र 7.5: fp=k 7.5 ,d iszjd osQ fljksa ij yxk ac lzksr n&#39;kkZrk gSA izk;% izsjd osQ yis...')">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_5_hi.png" alt="चित्र 7.5" onclick="openImageModal(this.src, 'चित्र 7.5ः चित्र 7.5 एक पेzरक के सिरों पर लगा ंब सzोत द&#39र्यााता है। पzाय% पzेरक के लपेण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.5</strong> fp=k 7.5 ,d iszjd osQ fljksa ij yxk ac lzksr n'kkZrk gSA izk;% izsjd osQ yisVksa esa yxs rkj dk</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.5</strong> चित्र 7.5 एक पेzरक के सिरों पर लगा ंब सzोत दर्शाता है। पzाय% पzेरक के लपेटों में लगे तार का</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>
@@ -678,9 +678,9 @@ ac परिपथ के अवयव, R, L तथा C एवं RLC श्र
 यह ज्ञात होता है कि धारा वोल्टता से 7/2 अथवा (1/4) चक्र पीछे रहती है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_6_hi.png" alt="चित्र 7.6" onclick="openImageModal(this.src, 'चित्र 7.6: lzksr oksYVrk ,oa izsjd esa izokfgr gksus okyh /kjk osQ lehdj.k (7.1) ,oa (7.12)...')">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_6_hi.png" alt="चित्र 7.6" onclick="openImageModal(this.src, 'चित्र 7ण्6ः सzोत वोल्टता एवं पzेरक में पzवाहित होने वाली धारा के समीकरण (7ण्1) एवं (7ण्12)ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.6</strong> lzksr oksYVrk ,oa izsjd esa izokfgr gksus okyh /kjk osQ lehdj.k (7.1) ,oa (7.12) dh rqyuk ls ;g Kkr gksrk gS fd /kjk oksYVrk ls π/2 vFkok (1/4) pØ ihNs jgrh gSA fp=k 7.6 (a) izLrqr izdj.k osQ t1 {k.k ij] oksYVrk ,oa /kjk isQtlZ n'kkZrk gSA /kjk isQtj I oksYVrk isQtj V ls π/2 ihNs gSA tc mUgsa ω vko`fÙk ls okekorZ fn'kk esa ?kw.kZu djkrs gSa rks ;s oksYVrk ,oa /kjk tfur djrs gSa tks Øe'k% lehdj.k (7.1) ,oa (7.12) }kjk O;Dr dh tkrh gS vkSj ftls fp=k 7.6 (b) esa n'kkZ;k x;k gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.6</strong> सzोत वोल्टता एवं पzेरक में पzवाहित होने वाली धारा के समीकरण (7.1) एवं (7.12) की तुलना से यह Kात होता है कि धारा वोल्टता से πध2 अथवा (1ध4) चक्र पीछे रहती है। चित्र 7.6 (ं) पzस्तुत पzकरण के ज1 {ाण परए वोल्टता एवं धारा पेफजर्स दर्शाता है। धारा पेफजर प् वोल्टता पेफजर ट से πध2 पीछे है। जब उनहें ω आवृÙिा से वामावर्त दशिा में घूर्णन कराते हैं तो ये वोल्टता एवं धारा जनित करते हैं जो Øमश% समीकरण (7.1) एवं (7.12) द्वारा व्यक्त की जाती है और जिसे चित्र 7.6 (इ) में दर्शाया गया है।</span>
     <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
   </div>
 </div>
@@ -823,9 +823,9 @@ XL
 7.5 संधारित्र पर प्रयुक्त ac वोल्टता
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_7_hi.png" alt="चित्र 7.7" onclick="openImageModal(this.src, 'चित्र 7.7: fp=k 7.7 esa ,d la/kfj=kh; ac ifjiFk n&#39;kkZ;k x;k gS ftlesa osQoy ,d la/kfj=k...')">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_7_hi.png" alt="चित्र 7.7" onclick="openImageModal(this.src, 'चित्र 7.7ः चित्र 7.7 में एक संधारि=ाीय ंब परिपथ द&#39र्यााया गया है जिसमें केवल एक संधारि=ाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.7</strong> fp=k 7.7 esa ,d la/kfj=kh; ac ifjiFk n'kkZ;k x;k gS ftlesa osQoy ,d la/kfj=k ,d ,sls ac lzksr ε ls tqM+k gS tks oksYVrk v = vm sin ωt iznku djrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.7</strong> चित्र 7.7 में एक संधारि=ाीय ंब परिपथ दर्शाया गया है जिसमें केवल एक संधारि=ा एक एेसे ंब सzोत ε से जुड+ा है जो वोल्टता अ = अउ ेपद ωज पzदान करता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
   </div>
 </div>
@@ -958,9 +958,9 @@ wt
 से तुलना करने पर हम पाते हैं कि धारा, वोल्टता से π/2
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_8_hi.png" alt="चित्र 7.8" onclick="openImageModal(this.src, 'चित्र 7.8: fp=k 7.8 (a) fp=k 7.7 esa n&#39;kkZ, x, ifjiFk dk isQtj vkjs[k...')">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_8_hi.png" alt="चित्र 7.8" onclick="openImageModal(this.src, 'चित्र 7.8ः चित्र 7.8 (ं) चित्र 7.7 में द&#39र्यााए गए परिपथ का पेफजर आरेखण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.8</strong> fp=k 7.8 (a) fp=k 7.7 esa n'kkZ, x, ifjiFk dk isQtj vkjs[k</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.8</strong> चित्र 7.8 (ं) चित्र 7.7 में दर्शाए गए परिपथ का पेफजर आरेख</span>
     <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
   </div>
 </div>
@@ -1050,9 +1050,9 @@ Xc =
 ## 📄 Page 10
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_9_hi.png" alt="चित्र 7.9" onclick="openImageModal(this.src, 'चित्र 7.9: fp=k 7.9 NM+ dks izfo&quot;V djkrs le; izdk&#39;k cYc dh ped (a) c<+rh gS (b) ?k...')">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_9_hi.png" alt="चित्र 7.9" onclick="openImageModal(this.src, 'चित्र 7.9ः चित्र 7.9 छड+ को पzवि&ुनवजयट कराते समय पzका&#39या बल्ब की चमक (ं) ब<+ती है (इ) घण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.9</strong> fp=k 7.9 NM+ dks izfo"V djkrs le; izdk'k cYc dh ped (a) c<+rh gS (b) ?kVrh gS (c) vifjo£rr jgrh gSA dkj.k lfgr mÙkj nhft,A gy tSls&tSls yksgs dh NM+ oqaQMyh esa izos'k djrh gS oqaQMyh osQ vanj dk pqacdh; {ks=k bls pqacfdr dj nsrk gS ftlls oqaQMyh osQ vanj pqacdh; {ks=k c<+ tkrk gSA vr% oqaQMyh dk izsjdRo c<+ tkrk gSA ifj.kker% oqaQMyh dk izsjdh; izfr?kkr c<+ tkrk gSA bl izdkj iz;qDr ac oksYVrk dk vf/dka'k Hkkx iszjd osQ fljksa osQ chp izHkkoh gks tkrk gS vkSj cYc osQ fljksa osQ chp oksYVrk de jg tkrh gSA vr% cYc dh nhfIr de gks tkrh gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.9</strong> चित्र 7.9 छड+ को पzविष्ट कराते समय पzकाश बल्ब की चमक (ं) ब<+ती है (इ) घटती है (ब) अपरिव£तत रहती है। कारण सहित उÙार दीजिए। हल जैसे&जैसे लोहे की छड+ वुंफडली में पzवेश करती है वुंफडली के अंदर का चुंबकीय क्षेत्र इसे चुंबकित कर देता है जिससे वुंफडली के अंदर चुंबकीय क्षेत्र ब<+ जाता है। अत% वुंफडली का पzेरकत्व ब<+ जाता है। परिणामत% वुंफडली का पzेरकीय पzतिघात ब<+ जाता है। इस प्रकार पzयुक्त ंब वोल्टता का अधकिांश भाग पेzरक के सिरों के बीच पzभावी हो जाता है और बल्ब के सिरों के बीच वोल्टता कम रह जाती है। अत% बल्ब की दीप्ति कम हो जाती है।</span>
     <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
   </div>
 </div>
@@ -1075,9 +1075,9 @@ Xc =
 7.6 श्रेणीबद्ध LCR परिपथ पर प्रयुक्त ac वोल्टता
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_10_hi.png" alt="चित्र 7.10" onclick="openImageModal(this.src, 'चित्र 7.10: fp=k 7.10, ac lzksr ε ls tqM+k Js.khc¼ LCR ifjiFk n&#39;kkZrk gSA igys dh gh Hkk...')">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_10_hi.png" alt="चित्र 7.10" onclick="openImageModal(this.src, 'चित्र 7.10ः चित्र 7.10ए ंब सzोत ε से जुड+ा Jेणीब¼ स्ऋत् परिपथ द&#39र्यााता है। पहले की ही भाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.10</strong> fp=k 7.10, ac lzksr ε ls tqM+k Js.khc¼ LCR ifjiFk n'kkZrk gSA igys dh gh Hkk¡fr ge ac lzksr dh oksYVrk v = vm sin ωt ysrs gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.10</strong> चित्र 7.10ए ंब सzोत ε से जुड+ा Jेणीब¼ स्ऋत् परिपथ दर्शाता है। पहले की ही भाँति हम ंब सzोत की वोल्टता अ = अउ ेपद ωज लेते हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
   </div>
 </div>
@@ -1187,9 +1187,9 @@ i = i sin(ωt+¢)
 से 7/2 रेडियन पीछे है तथा V₁, I से /2 रेडियन आगे है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_11_hi.png" alt="चित्र 7.11" onclick="openImageModal(this.src, 'चित्र 7.11: VL + VR + VC = V (7.24) bl laca/ dks fp=k 7.11 (b) esa izLrqr fd;k x;k gSA pw¡fd...')">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_11_hi.png" alt="चित्र 7.11" onclick="openImageModal(this.src, 'चित्र 7.11ः टस् + टत् + टऋ = ट (7.24) इस संबंध को चित्र 7.11 (इ) में पzस्तुत किया गया है। चूँकिण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.11</strong> VL + VR + VC = V (7.24) bl laca/ dks fp=k 7.11 (b) esa izLrqr fd;k x;k gSA pw¡fd]</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.11</strong> टस् + टत् + टऋ = ट (7.24) इस संबंध को चित्र 7.11 (इ) में पzस्तुत किया गया है। चूँकिए</span>
     <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
   </div>
 </div>
@@ -1332,9 +1332,9 @@ Z
 चूँकि फेजर I सदैव फेजर VR के समांतर होता है, कला कोण Ø VR एवं V के बीच
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_12_hi.png" alt="चित्र 7.12" onclick="openImageModal(this.src, 'चित्र 7.12: pw¡fd isQtj I lnSo isQtj VR osQ lekarj gksrk gS] dyk dks.k φ VR ,oa V osQ chp cu...')">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_12_hi.png" alt="चित्र 7.12" onclick="openImageModal(this.src, 'चित्र 7ण्12ः चूँकि पेफजर प् सदैव पेफजर टत् के समांतर होता है, कला कोण φ टत् एवं ट के बीच बनण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.12</strong> pw¡fd isQtj I lnSo isQtj VR osQ lekarj gksrk gS] dyk dks.k φ VR ,oa V osQ chp cuk dks.k gS vkSj fp=k 7.12 osQ vk/kj ij bldk eku Kkr fd;k tk ldrk gS</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.12</strong> चूँकि पेफजर प् सदैव पेफजर टत् के समांतर होता हैए कला कोण φ टत् एवं ट के बीच बना कोण है और चित्र 7.12 के आधार पर इसका मान Kात किया जा सकता है</span>
     <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
   </div>
 </div>
@@ -1374,9 +1374,9 @@ R
 तथा परिपथ का प्रेरकीय व्यवहार प्रमुख हो जाता है। परिणामतः परिपथ में धारा स्रोत वोल्टता से पश्च
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_13_hi.png" alt="चित्र 7.13" onclick="openImageModal(this.src, 'चित्र 7.13: fp=k 7.13, XC > XL osQ izdj.k osQ fy, isQtj vkjs[k gS vkSj ;g ω t osQ lkFk v ,oa...')">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_13_hi.png" alt="चित्र 7.13" onclick="openImageModal(this.src, 'चित्र 7.13ः चित्र 7.13ए ग्ऋ > ग्स् के पzकरण के लिए पेफजर आरेख है और यह ω ज के साथ अ एवंण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.13</strong> fp=k 7.13, XC > XL osQ izdj.k osQ fy, isQtj vkjs[k gS vkSj ;g ω t osQ lkFk v ,oa i esa gksus okys ifjorZu dks n'kkZrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.13</strong> चित्र 7.13ए ग्ऋ > ग्स् के पzकरण के लिए पेफजर आरेख है और यह ω ज के साथ अ एवं प में होने वाले परिवर्तन को दर्शाता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
   </div>
 </div>
@@ -1517,9 +1517,9 @@ Wo
 ### 2.0
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_14_hi.png" alt="चित्र 7.14" onclick="openImageModal(this.src, 'चित्र 7.14: fp=k 7.14 nks izdj.kksa (i) R = 100 Ω ,oa (ii) R = 200 Ω...')">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_14_hi.png" alt="चित्र 7.14" onclick="openImageModal(this.src, 'चित्र 7.14ः चित्र 7.14 दो पzकरणों (प) त् = 100 Ω एवं (पप) त् = 200 Ωण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.14</strong> fp=k 7.14 nks izdj.kksa (i) R = 100 Ω ,oa (ii) R = 200 Ω</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.14</strong> चित्र 7.14 दो पzकरणों (प) त् = 100 Ω एवं (पप) त् = 200 Ω</span>
     <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
   </div>
 </div>
@@ -1791,9 +1791,9 @@ q
 है, क्योंकि यह वोल्टता के साथ समान कला में है और इसी के साथ परिपथ में शक्ति क्षय होती है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_15_hi.png" alt="चित्र 7.15" onclick="openImageModal(this.src, 'चित्र 7.15: fp=k 7.15...')">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_15_hi.png" alt="चित्र 7.15" onclick="openImageModal(this.src, 'चित्र 7.15ः चित्र 7.15.्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.15</strong> fp=k 7.15</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.15</strong> चित्र 7.15</span>
     <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
   </div>
 </div>
@@ -1991,9 +1991,9 @@ shed
 पर लिपटी होती हैं। लपेटने की विधि या तो
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_16_hi.png" alt="चित्र 7.16" onclick="openImageModal(this.src, 'चित्र 7.16: VªkaliQkeZj esa nks oqaQMfy;k¡ gksrh gSa tks ,d nwljs ls fo|qr#¼ gksrh gSaA os ,...')">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_16_hi.png" alt="चित्र 7.16" onclick="openImageModal(this.src, 'चित्र 7ण्16ः टªांसपफार्मर में दो वुंफडलियाँ होती हैं जो एक दूसरे से वि।ुत#¼ होती हैं। वे एण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.16</strong> VªkaliQkeZj esa nks oqaQMfy;k¡ gksrh gSa tks ,d nwljs ls fo|qr#¼ gksrh gSaA os ,d dksey&ykSg&ØksM ij fyiVh gksrh gSaA yisVus dh fof/ ;k rks fp=k 7.16 (a) dh Hkk¡fr gksrh gS] ftlesa ,d oqaQMyh nwljh osQ Åij fyiVh gksrh gS] ;k fiQj fp=k 7.16 (b) dh Hkk¡fr ftlesa nksuksa oqaQMfy;k¡ ØksM dh vyx&vyx Hkqtkvksa ij fyiVh gksrh gSaA ,d oqaQMyh dks izkFkfed oqaQMyh (primary coil) dgrs gSa blesa Np yisVs gksrs gSaA nwljh oqaQMyh dks f}rh;d oqaQMyh (secondary coil) dgrs gSa] blesa Ns yisVs gksrs gSaA izk;% izkFkfed oqaQMyh fuos'kh oqaQMyh gksrh gS ,oa f}rh;d oqaQMyh VªkaliQkeZj dh fuxZr oqaQMyh gksrh gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.16</strong> टªांसपफार्मर में दो वुंफडलियाँ होती हैं जो एक दूसरे से वि।ुत#¼ होती हैं। वे एक कोमल&लौह&Øोड पर लिपटी होती हैं। लपेटने की विध िया तो चित्र 7.16 (ं) की भाँति होती हैए जिसमें एक वुंफडली दूसरी के ऊपर लिपटी होती हैए या पिफर चित्र 7.16 (इ) की भाँति जिसमें दोनों वुंफडलियाँ Øोड की अलग&अलग भुजाओं पर लिपटी होती हैं। एक वुंफडली को पzाथमिक वुंफडली (चतपउंतल बवपस) कहते हैं इसमें छच लपेटे होते हैं। दूसरी वुंफडली को ।ितीयक वुंफडली (ेमबवदकंतल बवपस) कहते हैंए इसमें छे लपेटे होते हैं। पzाय% पzाथमिक वुंफडली निवेशी वुंफडली होती है एवं ।ितीयक वुंफडली टªांसपफार्मर की निर्गत वुंफडली होती है।</span>
     <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
   </div>
 </div>
@@ -2655,9 +2655,9 @@ rms मान को ज्ञात कीजिए।
 मूल आवृत्ति के बराबर होती है तो एक पूरे चक्र में परिपथ को स्थानांतरित की गई माध्य शक्ति
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_17_hi.png" alt="चित्र 7.17" onclick="openImageModal(this.src, 'चित्र 7.17: fp=k 7.17...')">
+  <img src="data/diagrams/12th_physics_ch07_alternating_current_fig_7_17_hi.png" alt="चित्र 7.17" onclick="openImageModal(this.src, 'चित्र 7.17ः चित्र 7.17.्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.17</strong> fp=k 7.17</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.17</strong> चित्र 7.17</span>
     <button class="icon-btn" onclick="goToPdfPage(24)">📄 View in PDF (Page 24)</button>
   </div>
 </div>

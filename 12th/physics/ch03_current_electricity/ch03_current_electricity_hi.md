@@ -123,9 +123,9 @@ no
 है। अपने विचारों को केंद्रित करने के लिए R त्रिज्या के
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_hi.png" alt="चित्र 3" onclick="openImageModal(this.src, 'चित्र 3: vkb, vc ge ;g ns[ksa fd bl izdkj osQ pkyd osQ fdlh VqdM+s ij dksbZ fo|qr {ks=k v...')">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_hi.png" alt="चित्र 3" onclick="openImageModal(this.src, 'चित्र 3ः आइए अब हम यह देखें कि इस प्रकार के चालक के किसी टुकड+े पर कोर्इ वि।ुत क्षेत्र अण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3</strong> vkb, vc ge ;g ns[ksa fd bl izdkj osQ pkyd osQ fdlh VqdM+s ij dksbZ fo|qr {ks=k vuqiz;qDr djus ij D;k gksrk gSA vius fopkjksa dks osaQfnzr djus osQ fy, R f=kT;k osQ csyukdkj pkyd dh dYiuk dhft, (fp=k 3-1)A eku yhft, ijkoS|qr inkFkZ dh cuh nks iryh o`Ùkkdkj fMLd ysrs gSa ftudh f=kT;k,¡ pkyd osQ leku gSa vkSj ftuesa ,d ij /ukos'k +Q rFkk nwljs ij ½.kkos'k</span>
+    <span class="diagram-caption-text"><strong>चित्र 3</strong> आइए अब हम यह देखें कि इस प्रकार के चालक के किसी टुकड+े पर कोर्इ वि।ुत क्षेत्र अनुपzयुक्त करने पर क्या होता है। अपने विचारों को वेंफदzित करने के लिए त् =िाज्या के बेलनाकार चालक की कल्पना कीजिए (चित्र 3.1)। मान लीजिए परावै।ुत पदार्थ की बनी दो पतली वृÙााकार डिस्क लेते हैं जिनकी =िाज्याएँ चालक के समान हैं और जिनमें एक पर धनावेश +फ तथा दूसरे पर ½णावेश</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>
@@ -133,9 +133,9 @@ no
 लीजिए परावैद्युत पदार्थ की बनी दो पतली वृत्ताकार डिस्क लेते
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_1_hi.png" alt="चित्र 3.1" onclick="openImageModal(this.src, 'चित्र 3.1: fp=k 3.1 /kfRod csyu osQ fljksa ij j[ks +Q vkSj –Q vkos&#39;kA...')">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_1_hi.png" alt="चित्र 3.1" onclick="openImageModal(this.src, 'चित्र 3.1ः चित्र 3.1 धात्विक बेलन के सिरों पर रखे +फ और –फ आवे&#39या। ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.1</strong> fp=k 3.1 /kfRod csyu osQ fljksa ij j[ks +Q vkSj –Q vkos'kA</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.1</strong> चित्र 3.1 धात्विक बेलन के सिरों पर रखे +फ और –फ आवेश।</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>
@@ -186,9 +186,9 @@ V I
 समीकरण (3.3) को संतुष्ट करता है [
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_2_hi.png" alt="चित्र 3.2" onclick="openImageModal(this.src, 'चित्र 3.2: yackbZ l rFkk vuqizLFk dkV {ks=kiQy A dh fdlh vk;rkdkj flYyh ij fopkj dhft, tks ...')">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_2_hi.png" alt="चित्र 3.2" onclick="openImageModal(this.src, 'चित्र 3.2ः लंबार्इ स तथा अनुपzस्थ काट क्षेत्रपफल । की किसी आयताकार सिल्ली पर विचार कीजिए जो ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.2</strong> yackbZ l rFkk vuqizLFk dkV {ks=kiQy A dh fdlh vk;rkdkj flYyh ij fopkj dhft, tks lehdj.k (3.3) dks larq"V djrk gS [fp=k 3.2 ]A dYiuk dhft, ,slh nks loZle flfYy;k¡ fljs ls fljs dks feykrs gq, bl izdkj j[kh gqbZ gSa fd la;kstu dh yackbZ 2l gSA bl la;kstu ls mruh gh èkkjk izokfgr gksxh ftruh fd nksuksa esa ls fdlh ,d flYyh ls gksxhA ;fn igyh flYyh osQ</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.2</strong> लंबार्इ स तथा अनुपzस्थ काट क्षेत्रपफल । की किसी आयताकार सिल्ली पर विचार कीजिए जो समीकरण (3.3) को संतुष्ट करता है ख्चित्र 3.2 ए । कल्पना कीजिए एेसी दो सर्वसम सिल्लियाँ सिरे से सिरे को मिलाते हुए इस प्रकार रखी हुर्इ हैं कि संयोजन की लंबार्इ 2स है। इस संयोजन से उतनी ही èाारा पzवाहित होगी जितनी कि दोनों में से किसी एक सिल्ली से होगी। यद िपहली सिल्ली के</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>
@@ -368,9 +368,9 @@ t
 त्वरित हुआ था। सभी इलेक्ट्रॉनों का समय 1 पर औसत वेग सभी V, का औसत है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_3_hi.png" alt="चित्र 3.3" onclick="openImageModal(this.src, 'चित्र 3.3: fp=k 3.3 fdlh ¯cnq A ls nwljs ¯cnq B rd ckjEckj la?kêðksa osQ }kjk bysDVªkWu dh ...')">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_3_hi.png" alt="चित्र 3.3" onclick="openImageModal(this.src, 'चित्र 3.3ः चित्र 3.3 किसी ¯बदु । से दूसरे ¯बदु झ् तक बारम्बार संघêðों के द्वारा इलेक्टªाॅन की ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.3</strong> fp=k 3.3 fdlh ¯cnq A ls nwljs ¯cnq B rd ckjEckj la?kêðksa osQ }kjk bysDVªkWu dh xfr rFkk la?kêðksa osQ chp jSf[kd xfr dk vkjs[kh; fp=k.k (lrr js[kk,¡)A ;fn n'kkZ, vuqlkj dksbZ fo|qr {ks=k yxk;k tkrk gS rks bysDVªkWu B' ij #d tkrk gS (¯cnqÑr js[kk,¡)A fo|qr {ks=k osQ foijhr fn'kk esa ekewyh viokg fn[kykbZ ns jgk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.3</strong> चित्र 3.3 किसी ¯बदु । से दूसरे ¯बदु झ् तक बारम्बार संघêðों के द्वारा इलेक्टªाॅन की गति तथा संघêðों के बीच रैखिक गति का आरेखीय चित्रण (सतत रेखाएँ)। यद िदर्शाए अनुसार कोर्इ वि।ुत क्षेत्र लगाया जाता है तो इलेक्टªाॅन झ्श् पर #क जाता है (¯बदुÑत रेखाएँ)। वि।ुत क्षेत्र के विपरीत दशिा में मामूली अपवाह दखिलार्इ दे रहा है।</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>
@@ -496,9 +496,9 @@ A
 करता है। यह परिघटना अपवाह की है और समीकरण (3.17) का वेग v
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_4_hi.png" alt="चित्र 3.4" onclick="openImageModal(this.src, 'चित्र 3.4: viokg osQ dkj.k] fo|qr {ks=k E osQ yacor fdlh {ks=k ls gksdj vkos&#39;kksa dk us...')">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_4_hi.png" alt="चित्र 3.4" onclick="openImageModal(this.src, 'चित्र 3.4ः अपवाह के कारणए वि।ुत क्षेत्र म् के लंबवत किसी क्षेत्र से होकर आवे&#39याों का नेण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.4</strong> viokg osQ dkj.k] fo|qr {ks=k E osQ yacor fdlh {ks=k ls gksdj vkos'kksa dk usV ifjogu gksxkA pkyd osQ vanj ,d leryh; {ks=k ij fopkj djsa tks fd E osQ lekarj {ks=k ij vfHkyac gS (fp=k 3.4)A rc viokg osQ dkj.k] vR;.kq le; ∆t esa] {ks=k dh ck;ha vksj osQ lHkh bysDVªkWu |vd|∆t nwjh ikj dj fy, gksaxsA ;fn pkyd esa izfr ,dkad vk;ru eqDr bysDVªkWuksa dh la[;k n gS rks</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.4</strong> अपवाह के कारणए वि।ुत क्षेत्र म् के लंबवत किसी क्षेत्र से होकर आवेशों का नेट परिवहन होगा। चालक के अंदर एक समतलीय क्षेत्र पर विचार करें जो कि म् के समांतर क्षेत्र पर अभिलंब है (चित्र 3.4)। तब अपवाह के कारणए अत्यणु समय ∆ज मेंए क्षेत्र की बायीं आेर के सभी इलेक्टªाॅन ।अक।∆ज दूरी पार कर लिए होंगे। यद िचालक में पzति एकांक आयतन मुक्त इलेक्टªाॅनों की संख्या द है तो</span>
     <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
   </div>
 </div>
@@ -760,9 +760,9 @@ I
 यद्यपि ओम का नियम पदार्थों के विस्तृत वर्ग के लिए मान्य है, विद्युत परिपथों में
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_5_hi.png" alt="चित्र 3.5" onclick="openImageModal(this.src, 'चित्र 3.5: (a) V dh I ls vkuqikfrdrk lekIr gks tkrh gS (fp=k 3.5)...')">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_5_hi.png" alt="चित्र 3.5" onclick="openImageModal(this.src, 'चित्र 3.5ः (ं) ट की प् से आनुपातिकता समाप्त हो जाती है (चित्र 3.5)ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.5</strong> (a) V dh I ls vkuqikfrdrk lekIr gks tkrh gS (fp=k 3.5)</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.5</strong> (ं) ट की प् से आनुपातिकता समाप्त हो जाती है (चित्र 3.5)</span>
     <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
   </div>
 </div>
@@ -793,9 +793,9 @@ I है, तो V का परिमाण स्थिर रख कर
 समान परिमाण की धारा उत्पन्न नहीं होती है (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_6_hi.png" alt="चित्र 3.6" onclick="openImageModal(this.src, 'चित्र 3.6: /kjk I gS] rks V dk ifjek.k fLFkj j[k dj bldh fn&#39;kk cnyus ij] foijhr fn&#39;...')">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_6_hi.png" alt="चित्र 3.6" onclick="openImageModal(this.src, 'चित्र 3.6ः धारा प् हैए तो ट का परिमाण स्थिर रख कर इसकी द&ि#39याा बदलने परए विपरीत द&ि#39यण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.6</strong> /kjk I gS] rks V dk ifjek.k fLFkj j[k dj bldh fn'kk cnyus ij] foijhr fn'kk esa I osQ leku ifjek.k dh /kjk mRiUu ugha gksrh gS (fp=k 3.6)A mnkgj.k osQ fy,] Mk;ksM esa ,slk gksrk gS ftldk vè;;u ge vè;k; 14 esa djsaxsA</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.6</strong> धारा प् हैए तो ट का परिमाण स्थिर रख कर इसकी दशिा बदलने परए विपरीत दशिा में प् के समान परिमाण की धारा उत्पनन नहीं होती है (चित्र 3.6)। उदाहरण के लिएए डायोड में एेसा होता है जिसका अèययन हम अèयाय 14 में करेंगे।</span>
     <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
   </div>
 </div>
@@ -837,9 +837,9 @@ I
 वोल्टता तथा धारा के ऋण व धन मानों के लिए
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_7_hi.png" alt="चित्र 3.7" onclick="openImageModal(this.src, 'चित्र 3.7: vfèkd eku gks ldrs gSa (fp=k 3.7)A inkFkZ rFkk ;qfDr;k¡ tks lehdj.k (3.3) osQ :i...')">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_7_hi.png" alt="चित्र 3.7" onclick="openImageModal(this.src, 'चित्र 3.7ः अèिाक मान हो सकते हैं (चित्र 3.7)। पदार्थ तथा युक्तियाँ जो समीकरण (3.3) के रूपण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.7</strong> vfèkd eku gks ldrs gSa (fp=k 3.7)A inkFkZ rFkk ;qfDr;k¡ tks lehdj.k (3.3) osQ :i esa vkse osQ fu;e dk ikyu ugha djrh gSa] ;FkkFkZ esa] bysDVªkWfud ifjiFk esa O;kid :i ls mi;ksx dh tkrh gaSA rFkkfi bl vè;k; rFkk ijorhZ vè;k; esa] ge ml inkFkZ esa fo|qr /kjk dk vè;;u djasxs tks vkse osQ fu;e dk ikyu djrs gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.7</strong> अèिाक मान हो सकते हैं (चित्र 3.7)। पदार्थ तथा युक्तियाँ जो समीकरण (3.3) के रूप में आेम के नियम का पालन नहीं करती हैंए यथार्थ मेंए इलेक्टªाॅनिक परिपथ में व्यापक रूप से उपयोग की जाती हंै। तथापि इस अèयाय तथा परवर्ती अèयाय मेंए हम उस पदार्थ में वि।ुत धारा का अèययन करंेगे जो आेम के नियम का पालन करते हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
   </div>
 </div>
@@ -905,9 +905,9 @@ P₁ = ρο [1 + α (Τ−T)]
 कुछ पदार्थ जैसे कि निक्रोम (जो कि निकैल, लोहा तथा क्रोमियम की मिश्रातु है) बहुत दुर्बल
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_9_hi.png" alt="चित्र 3.9" onclick="openImageModal(this.src, 'चित्र 3.9: oqQN inkFkZ tSls fd fuØkse (tks fd fuoSQy] yksgk rFkk Øksfe;e dh feJkrq gS) cgqr...')">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_9_hi.png" alt="चित्र 3.9" onclick="openImageModal(this.src, 'चित्र 3.9ः कुछ पदार्थ जैसे कि निØोम (जो कि निवैफलए लोहा तथा Øोमियम की मिJातु है) बहुतण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.9</strong> oqQN inkFkZ tSls fd fuØkse (tks fd fuoSQy] yksgk rFkk Øksfe;e dh feJkrq gS) cgqr nqcZy rki&fuHkZjrk izn£'kr djrk gS (fp=k 3.9)A eSaxuhu rFkk dkalVsaVu esa Hkh blh izdkj osQ xq.k gaSA pw¡fd buosQ izfrjks/ dh rki&fuHkZjrk cgqr de gS] blfy, ;s inkFkZ rkj vkc¼ ekud izfrjksèkdksa osQ fuekZ.k esa O;kid :i ls mi;ksx fd, tkrs gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.9</strong> कुछ पदार्थ जैसे कि निØोम (जो कि निवैफलए लोहा तथा Øोमियम की मिJातु है) बहुत दुर्बल ताप&निर्भरता पzद£शत करता है (चित्र 3.9)। मैंगनीन तथा कांसटेंटन में भी इसी प्रकार के गुण हंै। चूँकि इनके पzतिरोध की ताप&निर्भरता बहुत कम हैए इसलिए ये पदार्थ तार आब¼ मानक पzतिरोèाकों के निर्माण में व्यापक रूप से उपयोग किए जाते हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
   </div>
 </div>
@@ -918,9 +918,9 @@ P₁ = ρο [1 + α (Τ−T)]
 धातुओं के विपरीत, अर्धचालकों की प्रतिरोधकता ताप में वृद्धि होने पर कम हो जाती है। इस
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_10_hi.png" alt="चित्र 3.10" onclick="openImageModal(this.src, 'चित्र 3.10: /krqvksa osQ foijhr] v/Zpkydksa dh izfrjks/drk rki esa o`f¼ gksus ij de gks tkrh...')">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_10_hi.png" alt="चित्र 3.10" onclick="openImageModal(this.src, 'चित्र 3.10ः धातुओं के विपरीतए अर्धचालकों की पzतिरोधकता ताप में वृ¼ि होने पर कम हो जातीण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.10</strong> /krqvksa osQ foijhr] v/Zpkydksa dh izfrjks/drk rki esa o`f¼ gksus ij de gks tkrh gSA bl izk:fid fuHkZjrk dks fp=k 3.10 esa n'kkZ;k x;k gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.10</strong> धातुओं के विपरीतए अर्धचालकों की पzतिरोधकता ताप में वृ¼ि होने पर कम हो जाती है। इस पzारूपिक निर्भरता को चित्र 3.10 में दर्शाया गया है।</span>
     <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
   </div>
 </div>
@@ -965,9 +965,9 @@ P=net
 ### 1.10
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_8_hi.png" alt="चित्र 3.8" onclick="openImageModal(this.src, 'चित्र 3.8: fp=k 3.8 rki T osQ iQyu...')">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_8_hi.png" alt="चित्र 3.8" onclick="openImageModal(this.src, 'चित्र 3.8ः चित्र 3.8 ताप ज् के पफलनण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.8</strong> fp=k 3.8 rki T osQ iQyu</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.8</strong> चित्र 3.8 ताप ज् के पफलन</span>
     <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
   </div>
 </div>
@@ -1195,9 +1195,9 @@ P = I2 R = V2/R
 उस चालक में प्रवाहित धारा तथा उसके सिरों पर वोल्टता पर किस प्रकार
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_11_hi.png" alt="चित्र 3.11" onclick="openImageModal(this.src, 'चित्र 3.11: fp=k 3.11 lsy osQ V£euyksa ls la;ksftr izfrjks/d esa...')">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_11_hi.png" alt="चित्र 3.11" onclick="openImageModal(this.src, 'चित्र 3.11ः चित्र 3.11 सेल के ट£मनलों से संयोजित पzतिरोधक मेंण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.11</strong> fp=k 3.11 lsy osQ V£euyksa ls la;ksftr izfrjks/d esa</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.11</strong> चित्र 3.11 सेल के ट£मनलों से संयोजित पzतिरोधक में</span>
     <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
   </div>
 </div>
@@ -1252,9 +1252,9 @@ C
 रखने के लिए एक सरल युक्ति है। जैसा कि
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_12_hi.png" alt="चित्र 3.12" onclick="openImageModal(this.src, 'चित्र 3.12: geus igys gh mYys[k fd;k gS fd fo|qr vi?kVuh lsy fo|qr ifjiFk esa LFkk;h èkkjk d...')">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_12_hi.png" alt="चित्र 3.12" onclick="openImageModal(this.src, 'चित्र 3.12ः हमने पहले ही उल्लेख किया है कि वि।ुत अपघटनी सेल वि।ुत परिपथ में स्थायी èाारा कण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.12</strong> geus igys gh mYys[k fd;k gS fd fo|qr vi?kVuh lsy fo|qr ifjiFk esa LFkk;h èkkjk dks cuk, j[kus osQ fy, ,d ljy ;qfDr gSA tSlk fd fp=k 3.12 esa fn[kk;k x;k gS] ewy :i ls ,d lsy osQ nks bySDVªksM gksrs gSa] tks fd èkukRed (P) rFkk ½.kkRed (N) dgykrs gSaA ;s ,d fo|qr</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.12</strong> हमने पहले ही उल्लेख किया है कि वि।ुत अपघटनी सेल वि।ुत परिपथ में स्थायी èाारा को बनाए रखने के लिए एक सरल युक्ति है। जैसा कि चित्र 3.12 में दखिाया गया हैए मूल रूप से एक सेल के दो इलैक्टªोड होते हैंए जो कि èानात्मक (च्) तथा ½णात्मक (छ) कहलाते हैं। ये एक वि।ुत</span>
     <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
   </div>
 </div>
@@ -1430,9 +1430,9 @@ I
 <
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_13_hi.png" alt="चित्र 3.13" onclick="openImageModal(this.src, 'चित्र 3.13: fp=k 3.13 fo|qr okgd cy ε1 rFkk ε2 osQ nks lsy Js.khØe esa la;ksftr gSaA r1 rFkk...')">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_13_hi.png" alt="चित्र 3.13" onclick="openImageModal(this.src, 'चित्र 3.13ः चित्र 3.13 वि।ुत वाहक बल ε1 तथा ε2 के दो सेल JेणीØम में संयोजित हैं। त1 तथाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.13</strong> fp=k 3.13 fo|qr okgd cy ε1 rFkk ε2 osQ nks lsy Js.khØe esa la;ksftr gSaA r1 rFkk r2 muosQ vkarfjd çfrjksèk gSaA A rFkk C osQ eè; lacaèku osQ fy, la;kstu dks fo|qr okgd cy εeq rFkk</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.13</strong> चित्र 3.13 वि।ुत वाहक बल ε1 तथा ε2 के दो सेल JेणीØम में संयोजित हैं। त1 तथा त2 उनके आंतरिक çतिरोèा हैं। । तथा ऋ के मèय संबंèान के लिए संयोजन को वि।ुत वाहक बल εमु तथा</span>
     <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
   </div>
 </div>
@@ -1512,9 +1512,9 @@ req = r
 I
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_14_hi.png" alt="चित्र 3.14" onclick="openImageModal(this.src, 'चित्र 3.14: fp=k 3.14 nks lsyksa dk ik&#39;oZ la;kstu...')">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_14_hi.png" alt="चित्र 3.14" onclick="openImageModal(this.src, 'चित्र 3.14ः चित्र 3.14 दो सेलों का पा&#39यर्व संयोजनण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.14</strong> fp=k 3.14 nks lsyksa dk ik'oZ la;kstu</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.14</strong> चित्र 3.14 दो सेलों का पाश्र्व संयोजन</span>
     <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
   </div>
 </div>
@@ -1793,9 +1793,9 @@ a
 30 Ω
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_15_hi.png" alt="चित्र 3.15" onclick="openImageModal(this.src, 'चित्र 3.15: èkkjkvksa dk ;ksx bl laf/ ls fudyus okyh fo|qr èkkjkvksa osQ ;ksx osQ cjkcj gksr...')">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_15_hi.png" alt="चित्र 3.15" onclick="openImageModal(this.src, 'चित्र 3.15ः èााराओं का योग इस संध िसे निकलने वाली वि।ुत èााराओं के योग के बराबर होतण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.15</strong> èkkjkvksa dk ;ksx bl laf/ ls fudyus okyh fo|qr èkkjkvksa osQ ;ksx osQ cjkcj gksrk gS (fp=k 3.15)A bl fu;e dk çek.k bl rF; ls le>rs gSa fd tc fo|qr èkkjk LFkk;h gksrh gS] fdlh lafèk ;k pkyd osQ fdlh fcanq ij vkos'k lafpr ugha gksrk gSA vr% ços'k djus okyh oqQy fo|qr èkkjk,¡ (tks fd lafèk esa vkos'k osQ çokg dh nj gS) ckgj fudyus okyh oqQy fo|qr èkkjkvksa osQ cjkcj gksrh gSaA (b) ik'k (ywi) fu;eµçfrjksèkdksa rFkk lsyksa ls lfEefyr fdlh can ik'k osQ pkjksa vksj foHko esa ifjorZuksa dk chtxf.krh; ;ksx 'kwU; gksrk gS (fp=k 3.15)A</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.15</strong> èााराओं का योग इस संध िसे निकलने वाली वि।ुत èााराओं के योग के बराबर होता है (चित्र 3.15)। इस नियम का çमाण इस तथ्य से सम>ते हैं कि जब वि।ुत èाारा स्थायी होती हैए किसी संèिा या चालक के किसी बिंदु पर आवेश संचित नहीं होता है। अत% çवेश करने वाली वुफल वि।ुत èााराएँ (जो कि संèिा में आवेश के çवाह की दर है) बाहर निकलने वाली वुफल वि।ुत èााराओं के बराबर होती हैं। (इ) पाश (लूप) नियमष्टçतिरोèाकों तथा सेलों से सम्मिलित किसी बंद पाश के चारों आेर विभव में परिवर्तनों का बीजगणितीय योग शूनय होता है (चित्र 3.15)।</span>
     <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
   </div>
 </div>
@@ -1843,9 +1843,9 @@ V = e + Ir
 के विकर्णतः सम्मुख कोनों से जुड़ी है। परिपथ जाल में 12 प्रतिरोध के 12 प्रतिरोधक हैं
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_16_hi.png" alt="चित्र 3.16" onclick="openImageModal(this.src, 'चित्र 3.16: mnkgj.k 3.5 10 V rFkk ux.; vkarfjd çfrjksèk dh cSVjh ,d ?kuh; ifjiFk tky (usVooZ...')">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_16_hi.png" alt="चित्र 3.16" onclick="openImageModal(this.src, 'चित्र 3.16ः उदाहरण 3.5 10 ट तथा नगण्य आंतरिक çतिरोèा की बैटरी एक घनीय परिपथ जाल (नेटवर्वण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.16</strong> mnkgj.k 3.5 10 V rFkk ux.; vkarfjd çfrjksèk dh cSVjh ,d ?kuh; ifjiFk tky (usVooZQ) osQ fod.kZr% lEeq[k dksuksa ls tqM+h gSA ifjiFk tky esa 1 Ω çfrjksèk osQ 12 çfrjksèkd gSa (fp=k 3.16)A ifjiFk tky dk lerqY; çfrjksèk rFkk ?ku osQ çR;sd fdukjs osQ vuqfn'k fo|qr èkkjk Kkr dhft,A</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.16</strong> उदाहरण 3.5 10 ट तथा नगण्य आंतरिक çतिरोèा की बैटरी एक घनीय परिपथ जाल (नेटवर्वफ) के विकर्णत% सम्मुख कोनों से जुड+ी है। परिपथ जाल में 1 Ω çतिरोèा के 12 çतिरोèाक हैं (चित्र 3.16)। परिपथ जाल का समतुल्य çतिरोèा तथा घन के çत्येक किनारे के अनुदशि वि।ुत èाारा Kात कीजिए।</span>
     <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
   </div>
 </div>
@@ -1988,9 +1988,9 @@ CERT
 के उपयोग द्वारा समस्या को हल कर सकते हैं। यह उदाहरण 3.6 में स्पष्ट किया गया है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_17_hi.png" alt="चित्र 3.17" onclick="openImageModal(this.src, 'चित्र 3.17: mnkgj.k 3.6 fp=k 3.17 esa fn[kyk, x, usVooZQ dh çR;sd &#39;kk[kk esa èkkjk Kkr d...')">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_17_hi.png" alt="चित्र 3.17" onclick="openImageModal(this.src, 'चित्र 3.17ः उदाहरण 3.6 चित्र 3.17 में दखिलाए गए नेटवर्वफ की çत्येक &#39यााखा में èाारा Kात कण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.17</strong> mnkgj.k 3.6 fp=k 3.17 esa fn[kyk, x, usVooZQ dh çR;sd 'kk[kk esa èkkjk Kkr dhft,A</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.17</strong> उदाहरण 3.6 चित्र 3.17 में दखिलाए गए नेटवर्वफ की çत्येक शाखा में èाारा Kात कीजिए।</span>
     <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
   </div>
 </div>
@@ -2169,9 +2169,9 @@ WAFA SoHHH
 किरखोफ के एक अनुप्रयोग के रूप में
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_18_hi.png" alt="चित्र 3.18" onclick="openImageModal(this.src, 'चित्र 3.18: fdj[kksiQ osQ ,d vuqç;ksx osQ :i esa fp=k 3.18 esa fn[kk, ifjiFk ij fopkj dhft,]...')">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_18_hi.png" alt="चित्र 3.18" onclick="openImageModal(this.src, 'चित्र 3.18ः किरखोपफ के एक अनुçयोग के रूप में चित्र 3.18 में दखिाए परिपथ पर विचार कीजिएए ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.18</strong> fdj[kksiQ osQ ,d vuqç;ksx osQ :i esa fp=k 3.18 esa fn[kk, ifjiFk ij fopkj dhft,] tks fd OghVLVksu lsrq dgykrk gSA lsrq esa pkj çfrjksèkd R1, R2, R3 rFkk R4 gksrs gSaA fod.kZr% foijhr fcanqvksa (fp=k esa A rFkk C) osQ ,d ;qXe ls dksbZ fo|qr lzksr lac¼ gSA ;g (vFkkZr AC) cSVjh Hkqtk dgykrh gSA nwljs nks 'kh"kZ ¯cnqvksa] B rFkk D osQ eè; ,d xSYosuksehVj (tks fo|qr èkkjk osQ lalwpu dh ,d ;qfDr gS) lac¼ gSA ;g ykbu] ftls fp=k esa BD ls fn[kk;k x;k gS] xSYosuksehVj Hkqtk dgykrh gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.18</strong> किरखोपफ के एक अनुçयोग के रूप में चित्र 3.18 में दखिाए परिपथ पर विचार कीजिएए जो कि व्हीटस्टोन सेतु कहलाता है। सेतु में चार çतिरोèाक त्1ए त्2ए त्3 तथा त्4 होते हैं। विकर्णत% विपरीत बिंदुओं (चित्र में । तथा ऋ) के एक युग्म से कोर्इ वि।ुत सzोत संब¼ है। यह (अर्थात । ऋ) बैटरी भुजा कहलाती है। दूसरे दो शीर्ष ¯बदुओंए झ् तथा क् के मèय एक गैल्वेनोमीटर (जो वि।ुत èाारा के संसूचन की एक युक्ति है) संब¼ है। यह लाइनए जिसे चित्र में झ्क् से दखिाया गया हैए गैल्वेनोमीटर भुजा कहलाती है।</span>
     <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
   </div>
 </div>
@@ -2266,9 +2266,9 @@ R
 उदाहरण 3.7 व्हीटस्टोन सेतु की चार भुजाओं (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_19_hi.png" alt="चित्र 3.19" onclick="openImageModal(this.src, 'चित्र 3.19: mnkgj.k 3.7 OghVLVksu lsrq dh pkj Hkqtkvksa (fp=k 3.19) osQ çfrjksèk fuEuor gSa%...')">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_19_hi.png" alt="चित्र 3.19" onclick="openImageModal(this.src, 'चित्र 3.19ः उदाहरण 3.7 व्हीटस्टोन सेतु की चार भुजाओं (चित्र 3.19) के çतिरोèा निम्नवत हैं%ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.19</strong> mnkgj.k 3.7 OghVLVksu lsrq dh pkj Hkqtkvksa (fp=k 3.19) osQ çfrjksèk fuEuor gSa%</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.19</strong> उदाहरण 3.7 व्हीटस्टोन सेतु की चार भुजाओं (चित्र 3.19) के çतिरोèा निम्नवत हैं%</span>
     <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
   </div>
 </div>
@@ -2760,9 +2760,9 @@ repu
 का ताप-गुणांक 1.70 × 10^4 °C¯¹ है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_20_hi.png" alt="चित्र 3.20" onclick="openImageModal(this.src, 'चित्र 3.20: 3.6 fuØkse dk ,d rkiu&vo;o 230 V dh lIykbZ ls la;ksftr gS vkSj 3.2 A dh çkjafHkd...')">
+  <img src="data/diagrams/12th_physics_ch03_current_electricity_fig_3_20_hi.png" alt="चित्र 3.20" onclick="openImageModal(this.src, 'चित्र 3.20ः 3.6 निØोम का एक तापन&अवयव 230 ट की सप्लार्इ से संयोजित है और 3.2 । की çारंभिकण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.20</strong> 3.6 fuØkse dk ,d rkiu&vo;o 230 V dh lIykbZ ls la;ksftr gS vkSj 3.2 A dh çkjafHkd èkkjk ysrk gS tks oqQN lsoaQM esa 2.8 A ij LFkk;h gks tkrh gSA ;fn dejs dk rki 27.0 °C gS rks rkiu&vo;o dk LFkk;h rki D;k gksxk\ fn, x, rki&ifjlj esa fuØkse dk vkSlr çfrjksèk dk rki&xq.kkad 1.70 × 10-4 °C−1 gSA 3.7 fp=k 3.20 esa n'kkZ, usVooZQ dh çR;sd 'kk[kk esa izokfgr èkkjk Kkr dhft,A</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.20</strong> 3.6 निØोम का एक तापन&अवयव 230 ट की सप्लार्इ से संयोजित है और 3.2 । की çारंभिक èाारा लेता है जो कुछ सेवंफड में 2.8 । पर स्थायी हो जाती है। यद िकमरे का ताप 27.0 त्तऋ है तो तापन&अवयव का स्थायी ताप क्या होगा। दएि गए ताप&परिसर में निØोम का औसत çतिरोèा का ताप&गुणांक 1.70 × 10-4 त्तऋ−1 है। 3.7 चित्र 3.20 में दर्शाए नेटवर्वफ की çत्येक शाखा में पzवाहित èाारा Kात कीजिए।</span>
     <button class="icon-btn" onclick="goToPdfPage(26)">📄 View in PDF (Page 26)</button>
   </div>
 </div>

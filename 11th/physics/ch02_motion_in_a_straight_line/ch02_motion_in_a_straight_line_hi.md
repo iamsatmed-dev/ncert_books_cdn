@@ -122,9 +122,9 @@ t के सापेक्ष
 गतिमान कार का वेग t = 4s (बिंदु P) पर निकालना चाहते हैं ।
 पहले हम t = 4 s को केंद्र में रखकर △t को 2s लें । औसत
 वेग की परिभाषा के अनुसार सरल रेखा P₁P₂ (<div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_1_hi.png" alt="चित्र 2.1" onclick="openImageModal(this.src, 'चित्र 2.1: P ij Li&#39;kZ js[kk gks tkrh gS A bl izdkj t = 4 s {k.k ij dkj dk osx ml fcanq ...')">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_1_hi.png" alt="चित्र 2.1" onclick="openImageModal(this.src, 'चित्र 2.1ः च् पर स्प&#39र्या रेखा हो जाती है । इस प्रकार ज = 4 े {ाण पर कार का वेग उस बिंदु ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.1</strong> P ij Li'kZ js[kk gks tkrh gS A bl izdkj t = 4 s {k.k ij dkj dk osx ml fcanq ij [khaph xbZ Li'kZ js[kk dh izo.krk osQ cjkcj gksxk A ;|fi xzkfiQd fof/ ls bls iznf'kZr djuk oqQN dfBu gS rFkkfi ;fn blosQ fy, ge xf.krh; fof/ dk mi;ksx djsa rks lhekar izfØ;k vklkuh ls le>h tk ldrh gS A fp=k 2.1 eas [khaps x, xzkiQ osQ fy, x = 0.8 t3 gS A lkj.kh 2.1 eas t=4 s dks osaQnz esas j[kdj ∆t = 2.0 s, 1.0 s,</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.1</strong> च् पर स्पर्श रेखा हो जाती है । इस प्रकार ज = 4 े {ाण पर कार का वेग उस बिंदु पर खींची गर्इ स्पर्श रेखा की पzवणता के बराबर होगा । य।पि गzापिफक विध िसे इसे पzदर्शित करना कुछ कझ्नि है तथापि यद िइसके लिए हम गणितीय विध िका उपयोग करें तो सीमांत पzØिया आसानी से सम>ी जा सकती है । चित्र 2.1 मंे खींचे गए गzापफ के लिए ग = 0.8 ज3 है । सारणी 2.1 मंे ज=4 े को वेंफदz मेंे रखकर ∆ज = 2.0 ेए 1.0 ेए</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>
@@ -542,9 +542,9 @@ t
 (c)
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_2_hi.png" alt="चित्र 2.2" onclick="openImageModal(this.src, 'चित्र 2.2: fp=k 2.2 ,slh xfr osQ fy, fLFkfr&le; xzkiQ ftlosQ fy,...')">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_2_hi.png" alt="चित्र 2.2" onclick="openImageModal(this.src, 'चित्र 2.2ः चित्र 2.2 एेसी गति के लिए स्थिति&समय गzापफ जिसके लिएण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.2</strong> fp=k 2.2 ,slh xfr osQ fy, fLFkfr&le; xzkiQ ftlosQ fy,</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.2</strong> चित्र 2.2 एेसी गति के लिए स्थिति&समय गzापफ जिसके लिए</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -573,9 +573,9 @@ t-0
 
 अब हम यह देखेंगे कि कुछ सरल उदाहरणों में वेग-समय
 ग्राफ कैसा दिखलाई देता है । <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_3_hi.png" alt="चित्र 2.3" onclick="openImageModal(this.src, 'चित्र 2.3: − gksxk A vr,o] v= vñ+at (2.4) vc ge ;g ns[ksaxs fd oqQN ljy mnkgj.kksa eas osx&...')">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_3_hi.png" alt="चित्र 2.3" onclick="openImageModal(this.src, 'चित्र 2.3ः − होगा । अतएवए अ= अह्न+ंज (2.4) अब हम यह देखेंगे कि कुछ सरल उदाहरणों मंे वेग&ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.3</strong> − gksxk A vr,o] v= vñ+at (2.4) vc ge ;g ns[ksaxs fd oqQN ljy mnkgj.kksa eas osx&le; xzkiQ oSQlk fn[kykbZ nsrk gS A fp=k 2.3 eas fLFkj Roj.k osQ fy, pkj vyx&vyx fLFkfr;ksa eas v – t xzkiQ fn[kk, x, gSa%</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.3</strong> − होगा । अतएवए अ= अह्न+ंज (2.4) अब हम यह देखेंगे कि कुछ सरल उदाहरणों मंे वेग&समय गzापफ वैफसा दखिलार्इ देता है । चित्र 2.3 मंे स्थिर त्वरण के लिए चार अलग&अलग स्थितियों मंे अ – ज गzापफ दखिाए गए हैं%</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -617,9 +617,9 @@ rep
 सुगमता के लिए एक स्थिर वेग u से गतिमान वस्तु पर विचार
 करके इस कथन की सत्यता प्रमाणित कर सकते हैं। इसका
 वेग-समय ग्राफ <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_4_hi.png" alt="चित्र 2.4" onclick="openImageModal(this.src, 'चित्र 2.4: vkSj fiQj Í.kkRed fn&#39;kk eas Í.kkRed Roj.k osQ lkFk xfreku gS A fdlh xfreku o...')">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_4_hi.png" alt="चित्र 2.4" onclick="openImageModal(this.src, 'चित्र 2.4ः और पिफर Íणात्मक द&ि#39याा मंे Íणात्मक त्वरण के साथ गतिमान है । किसी गतिमान वण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.4</strong> vkSj fiQj Í.kkRed fn'kk eas Í.kkRed Roj.k osQ lkFk xfreku gS A fdlh xfreku oLrq osQ osx&le; xzkiQ dk ,d egÙoiw.kZ y{k.k gS fd v–t xzkiQ osQ varxZr vkus okyk {ks=kiQy oLrq dk foLFkkiu O;Dr djrk gSA bl dFku dh lkekU; miifÙk osQ fy, vody xf.kr dh vko';drk iM+rh gS rFkkfi lqxerk osQ fy, ,d fLFkj osx u ls xfreku oLrq ij fopkj djosQ bl dFku dh lR;rk izekf.kr dj ldrs gSa A bldk osx&le; xzkiQ fp=k 2.4 eas fn[kk;k x;k gS A</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.4</strong> और पिफर Íणात्मक दशिा मंे Íणात्मक त्वरण के साथ गतिमान है । किसी गतिमान वस्तु के वेग&समय गzापफ का एक महÙवपूर्ण ल{ाण है कि अ–ज गzापफ के अंतर्गत आने वाला क्षेत्रपफल वस्तु का विस्थापन व्यक्त करता है। इस कथन की सामानय उपपÙिा के लिए अवकल गणित की आवश्यकता पड+ती है तथापि सुगमता के लिए एक स्थिर वेग न से गतिमान वस्तु पर विचार करके इस कथन की सत्यता पzमाणित कर सकते हैं । इसका वेग&समय गzापफ चित्र 2.4 मंे दखिाया गया है ।</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -693,9 +693,9 @@ v = v + at
 (2.4)
 
 इस समीकरण को <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_5_hi.png" alt="चित्र 2.5" onclick="openImageModal(this.src, 'चित्र 2.5: v = vo + at (2.4) bl lehdj.k dks fp=k 2.5 eas xzkiQ osQ :i eas fu:fir fd;k x;k g...')">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_5_hi.png" alt="चित्र 2.5" onclick="openImageModal(this.src, 'चित्र 2.5ः अ = अव + ंज (2.4) इस समीकरण को चित्र 2.5 मंे गzापफ के रूप मंे निरूपित किया गया हण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.5</strong> v = vo + at (2.4) bl lehdj.k dks fp=k 2.5 eas xzkiQ osQ :i eas fu:fir fd;k x;k gS A</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.5</strong> अ = अव + ंज (2.4) इस समीकरण को चित्र 2.5 मंे गzापफ के रूप मंे निरूपित किया गया है ।</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>
@@ -936,9 +936,9 @@ v² = v² + 2a(x − xo)
 कितना समय लेगी? g = 10 m s-2 ।
 
 हल (a) y - अक्ष को <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_6_hi.png" alt="चित्र 2.6" onclick="openImageModal(this.src, 'चित्र 2.6: gy (a) y – v{k dks fp=k 2.6 eas fn[kk, x, vuqlkj ÅèokZ/j fn&#39;kk eas Åij dh vk...')">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_6_hi.png" alt="चित्र 2.6" onclick="openImageModal(this.src, 'चित्र 2.6ः हल (ं) ल – अ{ा को चित्र 2.6 मंे दखिाए गए अनुसार ऊèर्वाधर द&ि#39याा मंे ऊपर की आण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.6</strong> gy (a) y – v{k dks fp=k 2.6 eas fn[kk, x, vuqlkj ÅèokZ/j fn'kk eas Åij dh vksj bl izdkj pqurs gSa fd v{k dk 'kwU; fcanq /jrh ij gks A vc] vo = + 20 m s–1,</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.6</strong> हल (ं) ल – अ{ा को चित्र 2.6 मंे दखिाए गए अनुसार ऊèर्वाधर दशिा मंे ऊपर की आेर इस प्रकार चुनते हैं कि अ{ा का शूनय बिंदु धरती पर हो । अबए अव = + 20 उ े–1ए</span>
     <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
   </div>
 </div>
@@ -1198,9 +1198,9 @@ t(s)
 (m) -90
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_7_hi.png" alt="चित्र 2.7" onclick="openImageModal(this.src, 'चित्र 2.7: v2 = 0 – 2 g y = –19.6 y m2 s–2 ;s lehdj.k oLrq osQ osx] vkSj mlosQ }kjk pyh xbZ...')">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_7_hi.png" alt="चित्र 2.7" onclick="openImageModal(this.src, 'चित्र 2.7ः अ2 = 0 – 2 ह ल = –19.6 ल उ2 े–2 ये समीकरण वस्तु के वेगए और उसके द्वारा चली गर्इण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.7</strong> v2 = 0 – 2 g y = –19.6 y m2 s–2 ;s lehdj.k oLrq osQ osx] vkSj mlosQ }kjk pyh xbZ nwjh dks le; osQ iQyu osQ :i eas rFkk nwjh osQ lkis{k mlosQ osx eas ifjorZu dks O;Dr djrs gSa A le; osQ lkis{k Roj.k] osx rFkk nwjh osQ ifjorZu dks fp=k 2.7(a), (b) rFkk (c) esa fn[kyk;k x;k gS A ¶</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.7</strong> अ2 = 0 – 2 ह ल = –19.6 ल उ2 े–2 ये समीकरण वस्तु के वेगए और उसके द्वारा चली गर्इ दूरी को समय के पफलन के रूप मंे तथा दूरी के सापे{ा उसके वेग मंे परिवर्तन को व्यक्त करते हैं । समय के सापे{ा त्वरणए वेग तथा दूरी के परिवर्तन को चित्र 2.7(ं)ए (इ) तथा (ब) में दखिलाया गया है । ष्ठ</span>
     <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
   </div>
 </div>
@@ -1433,9 +1433,9 @@ d =
 और उससे कहें कि वह आपके हाथ के अंगूठे और तर्जनी
 के बीच की खाली जगह से रूलर ऊर्ध्वाधर दिशा में गिरा
 दे (<div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_8_hi.png" alt="चित्र 2.8" onclick="openImageModal(this.src, 'चित्र 2.8: vki Lo;a dk izfrfØ;k dky ,d lk/kj.k iz;ksx }kjk eki ldrs gSa A vki vius fe=k dks...')">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_8_hi.png" alt="चित्र 2.8" onclick="openImageModal(this.src, 'चित्र 2.8ः आप स्वयं का पzतिØिया काल एक साधारण पzयोग द्वारा माप सकते हैं । आप अपने मि=ा कोण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.8</strong> vki Lo;a dk izfrfØ;k dky ,d lk/kj.k iz;ksx }kjk eki ldrs gSa A vki vius fe=k dks ,d :yj nsa vkSj mlls dgsa fd og vkiosQ gkFk osQ vaxwBs vkSj rtZuh osQ chp dh [kkyh txg ls :yj ÅèokZ/j fn'kk eas fxjk ns (fp=k 2.8) A T;ksagh :yj dks NksM+k tk, vki mls idM+ ysa A bu nksuksa ?kVukvksa (:yj dks NksM+us rFkk vkiosQ }kjk idM+us) osQ chp yxs le; tr rFkk :yj }kjk pyh xbZ nwjh d dks uki ysa A fdlh fo'ks"k mnkgj.k eas d = 21.0 cm gS rks izfrfØ;k dky dh x.kuk dhft, A gy :yj eqDr :i ls fxjrk gS] vr% v0 = 0, a = – g = –9.8</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.8</strong> आप स्वयं का पzतिØिया काल एक साधारण पzयोग द्वारा माप सकते हैं । आप अपने मि=ा को एक ःलर दें और उससे कहें कि वह आपके हाथ के अंगूझ्े और तर्जनी के बीच की खाली जगह से ःलर ऊèर्वाधर दशिा मंे गिरा दे (चित्र 2.8) । ज्योंही ःलर को छोड+ा जाए आप उसे पकड+ लें । इन दोनों घटनाओं (ःलर को छोड+ने तथा आपके द्वारा पकड+ने) के बीच लगे समय जत तथा ःलर द्वारा चली गर्इ दूरी क को नाप लें । किसी विशेष उदाहरण मंे क = 21.0 बउ है तो पzतिØिया काल की गणना कीजिए । हल ःलर मुक्त रूप से गिरता हैए अत% अ0 = 0ए ं = – ह = –9.8</span>
     <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
   </div>
 </div>
@@ -1775,9 +1775,9 @@ B
 t
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_9_hi.png" alt="चित्र 2.9" onclick="openImageModal(this.src, 'चित्र 2.9: 2.2 nks cPps A o B vius fo|ky; O ls ykSV dj vius&vius ?kj Øe&#39;k% P rFkk Q dks...')">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_9_hi.png" alt="चित्र 2.9" onclick="openImageModal(this.src, 'चित्र 2.9ः 2.2 दो बच्चे । व झ् अपने वि।ालय व् से लौट कर अपने&अपने घर Øम&#39या% च् तथा फ कोण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.9</strong> 2.2 nks cPps A o B vius fo|ky; O ls ykSV dj vius&vius ?kj Øe'k% P rFkk Q dks tk jgs gSa A muosQ fLFkfr&le; (x - t ) xzkiQ fp=k 2.9 esa fn[kk, x, gSa A uhps fy[ks dks"Bdksa esa lgh izfof"V;ksa dks pqfu, %</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.9</strong> 2.2 दो बच्चे । व झ् अपने वि।ालय व् से लौट कर अपने&अपने घर Øमश% च् तथा फ को जा रहे हैं । उनके स्थिति&समय (ग - ज ) गzापफ चित्र 2.9 में दखिाए गए हैं । नीचे लिखे कोष्झ्कों में सही पzविष्टियों को चुनिए %</span>
     <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
   </div>
 </div>
@@ -1861,9 +1861,9 @@ Wolished
 चाल हमेशा तात्क्षणिक वेग के बराबर होती है । क्यों ?
 
 ### 2.13 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_10_hi.png" alt="चित्र 2.10" onclick="openImageModal(this.src, 'चित्र 2.10: 2.13 fp=k 2.10 esa (a) ls (d) rd osQ xzkiQksa dks è;ku ls nsf[k, vkSj ns[kdj crk...')">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_10_hi.png" alt="चित्र 2.10" onclick="openImageModal(this.src, 'चित्र 2.10ः 2.13 चित्र 2.10 में (ं) से (क) तक के गzापफों को èयान से देखिए और देखकर बताण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.10</strong> 2.13 fp=k 2.10 esa (a) ls (d) rd osQ xzkiQksa dks è;ku ls nsf[k, vkSj ns[kdj crkb, fd buesa ls dkSu&lk xzkiQ ,dfoeh; xfr dks laHkor% ugha n'kkZ ldrk A</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.10</strong> 2.13 चित्र 2.10 में (ं) से (क) तक के गzापफों को èयान से देखिए और देखकर बताइए कि इनमें से कौन&सा गzापफ एकविमीय गति को संभवत% नहीं दर्शा सकता ।</span>
     <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
   </div>
 </div>
@@ -1890,9 +1890,9 @@ t
 (b)
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_12_hi.png" alt="चित्र 2.12" onclick="openImageModal(this.src, 'चित्र 2.12: 2.16 fp=k 2.12 esa fn[kk, x, izR;sd xzkiQ osQ fy, fdlh mfpr HkkSfrd fLFkfr dk lq...')">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_12_hi.png" alt="चित्र 2.12" onclick="openImageModal(this.src, 'चित्र 2.12ः 2.16 चित्र 2.12 में दखिाए गए पzत्येक गzापफ के लिए किसी उचित भौतिक स्थिति का सुण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.12</strong> 2.16 fp=k 2.12 esa fn[kk, x, izR;sd xzkiQ osQ fy, fdlh mfpr HkkSfrd fLFkfr dk lq>ko nhft, %</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.12</strong> 2.16 चित्र 2.12 में दखिाए गए पzत्येक गzापफ के लिए किसी उचित भौतिक स्थिति का सुझव दीजिए %</span>
     <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
   </div>
 </div>
@@ -1900,9 +1900,9 @@ t
 
 
 ### 2.14 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_11_hi.png" alt="चित्र 2.11" onclick="openImageModal(this.src, 'चित्र 2.11: 2.14 fp=k 2.11 esa fdlh d.k dh ,dfoeh; xfr dk x - t xzkiQ fn[kk;k x;k gS A xzkiQ...')">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_11_hi.png" alt="चित्र 2.11" onclick="openImageModal(this.src, 'चित्र 2.11ः 2.14 चित्र 2.11 में किसी कण की एकविमीय गति का ग - ज गzापफ दखिाया गया है । गzापफण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.11</strong> 2.14 fp=k 2.11 esa fdlh d.k dh ,dfoeh; xfr dk x - t xzkiQ fn[kk;k x;k gS A xzkiQ ls D;k ;g dguk Bhd gksxk fd ;g d.k t < 0 osQ fy, fdlh ljy js[kk esa vkSj t > 0 osQ fy, fdlh ijoyh; iFk esa xfr djrk gS A ;fn ugha] rks xzkiQ osQ laxr fdlh mfpr HkkSfrd lanHkZ dk lq>ko nhft, A</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.11</strong> 2.14 चित्र 2.11 में किसी कण की एकविमीय गति का ग - ज गzापफ दखिाया गया है । गzापफ से क्या यह कहना झ्ीक होगा कि यह कण ज < 0 के लिए किसी सरल रेखा में और ज > 0 के लिए किसी परवलीय पथ में गति करता है । यद िनहींए तो गzापफ के संगत किसी उचित भौतिक संदर्भ का सुझव दीजिए ।</span>
     <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
   </div>
 </div>
@@ -1966,9 +1966,9 @@ t
 सरल रेखा में गति
 
 ### 2.17 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_13_hi.png" alt="चित्र 2.13" onclick="openImageModal(this.src, 'चित्र 2.13: 2.17 fp=k 2.13 esa fdlh d.k dh ,dfoeh; ljy vkorhZ xfr osQ fy, x - t xzkiQ fn[kk;...')">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_13_hi.png" alt="चित्र 2.13" onclick="openImageModal(this.src, 'चित्र 2.13ः 2.17 चित्र 2.13 में किसी कण की एकविमीय सरल आवर्ती गति के लिए ग - ज गzापफ दखिायण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.13</strong> 2.17 fp=k 2.13 esa fdlh d.k dh ,dfoeh; ljy vkorhZ xfr osQ fy, x - t xzkiQ fn[kk;k x;k gS A (bl xfr osQ ckjs esa vki vè;k; 13 esa i<+saxs) le; t = 0.3 s, 1.2 s, –1.2 s ij d.k osQ fLFkfr] osx o Roj.k osQ fpÉ D;k gksaxs \</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.13</strong> 2.17 चित्र 2.13 में किसी कण की एकविमीय सरल आवर्ती गति के लिए ग - ज गzापफ दखिाया गया है । (इस गति के बारे में आप अèयाय 13 में प<+ेंगे) समय ज = 0.3 ेए 1.2 ेए –1.2 े पर कण के स्थितिए वेग व त्वरण के चि् क्या होंगे ।</span>
     <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
   </div>
 </div>
@@ -1993,9 +1993,9 @@ t
 चित्र 2.13
 
 ### 2.18 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_14_hi.png" alt="चित्र 2.14" onclick="openImageModal(this.src, 'चित्र 2.14: 2.18 fp=k 2.14 fdlh d.k dh ,dfoeh; xfr dk x - t xzkiQ n&#39;kkZrk gS A blesa rhu...')">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_14_hi.png" alt="चित्र 2.14" onclick="openImageModal(this.src, 'चित्र 2.14ः 2.18 चित्र 2.14 किसी कण की एकविमीय गति का ग - ज गzापफ द&#39र्यााता है । इसमें तीनण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.14</strong> 2.18 fp=k 2.14 fdlh d.k dh ,dfoeh; xfr dk x - t xzkiQ n'kkZrk gS A blesa rhu leku varjky fn[kk, x, gSa A fdl varjky esa vkSlr pky vf/dre gS vkSj fdlesa U;wure gS \ izR;sd varjky osQ fy, vkSlr osx dk fpÉ crkb, A</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.14</strong> 2.18 चित्र 2.14 किसी कण की एकविमीय गति का ग - ज गzापफ दर्शाता है । इसमें तीन समान अंतराल दखिाए गए हैं । किस अंतराल में औसत चाल अधकितम है और किसमें नयूनतम है । पzत्येक अंतराल के लिए औसत वेग का चि् बताइए ।</span>
     <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
   </div>
 </div>
@@ -2014,9 +2014,9 @@ CERT
 republished
 
 ### 2.19 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_15_hi.png" alt="चित्र 2.15" onclick="openImageModal(this.src, 'चित्र 2.15: 2.19 fp=k 2.15 esa fdlh fu;r (fLFkj) fn&#39;kk osQ vuqfn&#39;k py jgs d.k dk pky...')">
+  <img src="data/diagrams/11th_physics_ch02_motion_in_a_straight_line_fig_2_15_hi.png" alt="चित्र 2.15" onclick="openImageModal(this.src, 'चित्र 2.15ः 2.19 चित्र 2.15 में किसी नियत (स्थिर) द&ि#39याा के अनुद&ि#39या चल रहे कण का चालण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.15</strong> 2.19 fp=k 2.15 esa fdlh fu;r (fLFkj) fn'kk osQ vuqfn'k py jgs d.k dk pky&le; xzkiQ fn[kk;k x;k gS A blesa rhu leku le; varjky fn[kk, x, gSa A fdl varjky esa vkSlr Roj.k dk ifjek.k vf/dre gksxk \ fdl varjky esa vkSlr pky vf/dre gksxh \ /ukRed fn'kk dks xfr dh fLFkj fn'kk pqurs gq, rhuksa varjkyksa esa v rFkk a osQ fpÉ crkb, A A, B, C, o D fcanqvksa ij Roj.k D;k gksaxs \</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.15</strong> 2.19 चित्र 2.15 में किसी नियत (स्थिर) दशिा के अनुदशि चल रहे कण का चाल&समय गzापफ दखिाया गया है । इसमें तीन समान समय अंतराल दखिाए गए हैं । किस अंतराल में औसत त्वरण का परिमाण अधकितम होगा । किस अंतराल में औसत चाल अधकितम होगी । धनात्मक दशिा को गति की स्थिर दशिा चुनते हुए तीनों अंतरालों में अ तथा ं के चि् बताइए । । ए झ्ए ऋए व क् बिंदुओं पर त्वरण क्या होंगे ।</span>
     <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
   </div>
 </div>

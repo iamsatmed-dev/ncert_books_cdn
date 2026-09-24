@@ -635,15 +635,15 @@ not to
   <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_1_hi.png" alt="
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_hi.png" alt="चित्र 1" onclick="openImageModal(this.src, 'चित्र 1: fp=k 1-1— xSl dh foys;rk ij nkc dk...')">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_hi.png" alt="चित्र 1" onclick="openImageModal(this.src, 'चित्र 1ः चित्र 1.1— गैस की विलेयता पर दाब काण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1</strong> fp=k 1-1— xSl dh foys;rk ij nkc dk</span>
+    <span class="diagram-caption-text"><strong>चित्र 1</strong> चित्र 1.1— गैस की विलेयता पर दाब का</span>
     <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
   </div>
 </div>
 
 <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.1</strong> cgqr lh xSlsa ty esa ?kqy tkrh gSaA vkWDlhtu ty esa cgqr de ek=kk esa ?kqyrh gSA vkWDlhtu dh ;g ?kqyh gqbZ ek=kk tyh; thou dks thfor j[krh gSA nwljh vksj gkbMªkstu DyksjkbM xSl (HCl) ty esa vR;fèkd ?kqyu'khy gksrh gSA xSlksa dh nzoksa esa foys;rk rki ,oa nkc }kjk cgqr vfèkd izHkkfor gksrh gSA nkc c<+us ij xSlksa dh foys;rk c<+rh tkrh gSA fp=k 1.1 (d) esa n'kkZ;s x, xSlksa osQ foy;u osQ ,d fudk; dk p nkc ,oa T rki ij vè;;u djrs gSa ftldk fupyk Hkkx foy;u gS ,oa Åijh Hkkx xSlh; gSA eku ysa fd ;g fudk; xfrd lkE; voLFkk esa gS_ vFkkZr~ bu ifjfLFkfr;ksa esa xSlh; d.kksa osQ foy;u esa tkus o mlesa ls fudyus dh xfr leku gSA vc xSl osQ oqQN vk;ru dks laihfMr dj foy;u ij nkc c<+krs gSa (fp=k 1.1 [k)A blls foy;u osQ Åij mifLFkr xSlh; d.kksa dh la[;k izfr bdkbZ vk;ru esa c<+ tk,xh rFkk xSlh; d.kksa dh] foy;u dh lrg esa izos'k djus osQ fy,] mlls Vdjkus dh nj Hkh c<+ tk,xhA blls xSl dh foys;rk rc rd c<+sxh tc rd fd ,d u;k lkE; LFkkfir u gks tk,A vr% foy;u ij nkc c<+us ls xSl dh foys;rk c<+rh gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.1</strong> बहुत सी गैसें जल में घुल जाती हैं। ऑक्सीजन जल में बहुत कम मा=ाा में घुलती है। ऑक्सीजन की यह घुली हुर्इ मा=ाा जलीय जीवन को जीवित रखती है। दूसरी आेर हाइडªोजन क्लोराइड गैस (भ्ऋस) जल में अत्यèिाक घुलनशील होती है। गैसों की दzवों में विलेयता ताप एवं दाब द्वारा बहुत अèिाक पzभावित होती है। दाब ब<+ने पर गैसों की विलेयता ब<+ती जाती है। चित्र 1.1 (क) में दर्शाये गए गैसों के विलयन के एक निकाय का च दाब एवं ज् ताप पर अèययन करते हैं जिसका निचला भाग विलयन है एवं ऊपरी भाग गैसीय है। मान लें कि यह निकाय गतिक साम्य अवस्था में है_ अर्थात~ इन परिस्थितियों में गैसीय कणों के विलयन में जाने व उसमें से निकलने की गति समान है। अब गैस के कुछ आयतन को संपीडित कर विलयन पर दाब ब<+ाते हैं (चित्र 1.1 ख)। इससे विलयन के ऊपर उपस्थित गैसीय कणों की संख्या पzति इकार्इ आयतन में ब<+ जाएगी तथा गैसीय कणों कीए विलयन की सतह में पzवेश करने के लिएए उससे टकराने की दर भी ब<+ जाएगी। इससे गैस की विलेयता तब तक ब<+ेगी जब तक कि एक नया साम्य स्थापित न हो जाए। अत% विलयन पर दाब ब<+ने से गैस की विलेयता ब<+ती है।</span>
     <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
   </div>
 </div>
@@ -706,9 +706,9 @@ N
 गैस की विलेयता गैस के आंशिक दाब पर निर्भर करती है। यदि हम विलयन
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_2_hi.png" alt="चित्र 1.2" onclick="openImageModal(this.src, 'चित्र 1.2: p = KH x (1.11) ;gk¡ KH gsujh fLFkjkad gSA ;fn ge xSl osQ vkaf&#39;kd nkc ,oa fo...')">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_2_hi.png" alt="चित्र 1.2" onclick="openImageModal(this.src, 'चित्र 1ण्2ः च = Kभ् ग (1ण्11) यहाँ Kभ् हेनरी स्थिरांक है। यद िहम गैस के आं&ि#39याक दाब एवं विण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.2</strong> p = KH x (1.11) ;gk¡ KH gsujh fLFkjkad gSA ;fn ge xSl osQ vkaf'kd nkc ,oa foy;u esa xSl osQ eksy&va'k osQ eè; vkys[k [khapsa rks gesa fp=k 1.2 esa n'kkZ;k x;k vkys[k izkIr gksxkA</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.2</strong> च = Kभ् ग (1.11) यहाँ Kभ् हेनरी स्थिरांक है। यद िहम गैस के आंशिक दाब एवं विलयन में गैस के मोल&अंश के मèय आलेख खींचें तो हमें चित्र 1.2 में दर्शाया गया आलेख पzाप्त होगा।</span>
     <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
   </div>
 </div>
@@ -992,9 +992,9 @@ n = 1.29 × 10¯º × 55.5 mol
 समानुपाती होता है। अतः अवयव 1 के लिए-
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_3_hi.png" alt="चित्र 1.3" onclick="openImageModal(this.src, 'चित्र 1.3: fp=k 1.3—fLFkj rki ij vkn&#39;kZ foy;u osQ ok&quot;i nkc...')">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_3_hi.png" alt="चित्र 1.3" onclick="openImageModal(this.src, 'चित्र 1.3ः चित्र 1.3—स्थिर ताप पर आद&#39र्या विलयन के वा&ुनवजयप दाबण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.3</strong> fp=k 1.3—fLFkj rki ij vkn'kZ foy;u osQ ok"i nkc</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.3</strong> चित्र 1.3—स्थिर ताप पर आदर्श विलयन के वाष्प दाब</span>
     <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
   </div>
 </div>
@@ -1224,9 +1224,9 @@ p = KH x
 पर डाला गया दाब उस द्रव का वाष्प दाब कहलाता है
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_4_hi.png" alt="चित्र 1.4" onclick="openImageModal(this.src, 'चित्र 1.4: okf&quot;ir gksrk gS rFkk lkE;koLFkk ij nzo dh ok&quot;i dk] nzo izkoLFkk ij Mky...')">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_4_hi.png" alt="चित्र 1.4" onclick="openImageModal(this.src, 'चित्र 1ण्4ः वा&िुनवजयपत होता है तथा साम्यावस्था पर दzव की वा&ुनवजयप का, दzव पzावस्था पर डालण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.4</strong> okf"ir gksrk gS rFkk lkE;koLFkk ij nzo dh ok"i dk] nzo izkoLFkk ij Mkyk x;k nkc ml nzo dk ok"i nkc dgykrk gS (fp=k 1.4 d)A 'kq¼ nzoksa dh lkjh lrg nzo osQ v.kqvksa }kjk f?kjh jgrh gSA ;fn fdlh foyk;d esa ,d vok"i'khy foys; Mkydj foy;u cuk;k tk, rks bl foy;u dk ok"i nkc osQoy foyk;d osQ ok"inkc osQ dkj.k gksrk gS (fp=k 1.4 [k)A fn, x, rki ij foy;u dk ;g ok"i nkc 'kq¼ foyk;d osQ ok"inkc ls de gksrk gSA foy;u dh lrg ij foys; o foyk;d nksukas osQ v.kq mifLFkr jgrs gSaA vr% lrg dk foyk;d osQ v.kqvksa ls f?kjk Hkkx de jg tkrk gSA blosQ dkj.k lrg NksM+dj tkus okys foyk;d v.kqvksa dh la[;k Hkh rnuqlkj ?kV tkrh gS] vr% foyk;d dk ok"i nkc Hkh de gks tkrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.4</strong> वाष्पित होता है तथा साम्यावस्था पर दzव की वाष्प काए दzव पzावस्था पर डाला गया दाब उस दzव का वाष्प दाब कहलाता है (चित्र 1.4 क)। शु¼ दzवों की सारी सतह दzव के अणुओं द्वारा घिरी रहती है। यद िकिसी विलायक में एक अवाष्पशील विलेय डालकर विलयन बनाया जाए तो इस विलयन का वाष्प दाब केवल विलायक के वाष्पदाब के कारण होता है (चित्र 1.4 ख)। दएि गए ताप पर विलयन का यह वाष्प दाब शु¼ विलायक के वाष्पदाब से कम होता है। विलयन की सतह पर विलेय व विलायक दोनांे के अणु उपस्थित रहते हैं। अत% सतह का विलायक के अणुओं से घिरा भाग कम रह जाता है। इसके कारण सतह छोड+कर जाने वाले विलायक अणुओं की संख्या भी तदनुसार घट जाती हैए अत% विलायक का वाष्प दाब भी कम हो जाता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
   </div>
 </div>
@@ -1294,9 +1294,9 @@ P₁ = x₁ p
 वाष्प दाब व मोल-अंश प्रभाज के मध्य खींचा गया आलेख रेखीय होता है (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_5_hi.png" alt="चित्र 1.5" onclick="openImageModal(this.src, 'चित्र 1.5: lekuqikrh fLFkjkad &#39;kq¼ foyk;d osQ ok&quot;i nkc 0 1 p osQ cjkcj gksrk gS] f...')">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_5_hi.png" alt="चित्र 1.5" onclick="openImageModal(this.src, 'चित्र 1ण्5ः समानुपाती स्थिरांक &#39याु¼ विलायक के वा&ुनवजयप दाब 0 1 च के बराबर होता है, ण्ण्ण्ि')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.5</strong> lekuqikrh fLFkjkad 'kq¼ foyk;d osQ ok"i nkc 0 1 p osQ cjkcj gksrk gS] foyk;d osQ ok"i nkc o eksy&va'k izHkkt osQ eè; [khapk x;k vkys[k js[kh; gksrk gS (fp=k 1.5)A</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.5</strong> समानुपाती स्थिरांक शु¼ विलायक के वाष्प दाब 0 1 च के बराबर होता हैए विलायक के वाष्प दाब व मोल&अंश पzभाज के मèय खींचा गया आलेख रेखीय होता है (चित्र 1.5)।</span>
     <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
   </div>
 </div>
@@ -1367,9 +1367,9 @@ A-A व B-B के बीच अंतराआण्विक आकर्ष�
 के वाष्प दाब का मोल-अंश के सापेक्ष आलेख,
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_6_hi.png" alt="चित्र 1.6" onclick="openImageModal(this.src, 'चित्र 1.6: tc dksbZ foy;u lHkh lkanzrkvksa ij jkmYV osQ fu;e dk ikyu ugha djrk rks og vukn&...')">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_6_hi.png" alt="चित्र 1.6" onclick="openImageModal(this.src, 'चित्र 1.6ः जब कोर्इ विलयन सभी सांदzताओं पर राउल्ट के नियम का पालन नहीं करता तो वह अनाद&ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.6</strong> tc dksbZ foy;u lHkh lkanzrkvksa ij jkmYV osQ fu;e dk ikyu ugha djrk rks og vukn'kZ foy;u dgykrk gSA bl izdkj osQ foy;uksa dk ok"inkc jkmYV osQ fu;e }kjk izkxqDr (predict) fd, x, ok"i nkc ls ;k rks vf/d gksrk gS ;k de (lehdj.k 1.16)A ;fn ;g vfèkd gksrk gS rks ;g foy;u jkmYV fu;e ls /ukRed fopyu izn£'kr djrk gS vkSj ;fn ;g de gksrk gS rks ;g Í.kkRed fopyu izn£'kr djrk gSA ,sls foy;uksa osQ ok"i nkc dk eksy&va'k osQ lkis{k vkys[k] fp=k 1.6 esa fn[kk;k x;k gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.6</strong> जब कोर्इ विलयन सभी सांदzताओं पर राउल्ट के नियम का पालन नहीं करता तो वह अनादर्श विलयन कहलाता है। इस प्रकार के विलयनों का वाष्पदाब राउल्ट के नियम द्वारा पzागुक्त (चतमकपबज) किए गए वाष्प दाब से या तो अधकि होता है या कम (समीकरण 1.16)। यद ियह अèिाक होता है तो यह विलयन राउल्ट नियम से धनात्मक विचलन पzद£शत करता है और यद ियह कम होता है तो यह Íणात्मक विचलन पzद£शत करता है। एेसे विलयनों के वाष्प दाब का मोल&अंश के सापे{ा आलेखए चित्र 1.6 में दखिाया गया है।</span>
     <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
   </div>
 </div>
@@ -1716,9 +1716,9 @@ M2 × 39 g
 विलायक का वाष्प दाब कम हो जाता है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_7_hi.png" alt="चित्र 1.7" onclick="openImageModal(this.src, 'चित्र 1.7: oC) ij mcyrk gS D;ksafd bl rki ij ty dk ok&quot;i nkc 1.013 bar (1 ok;qeaMy) gSA...')">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_7_hi.png" alt="चित्र 1.7" onclick="openImageModal(this.src, 'चित्र 1ण्7ः वऋ) पर उबलता है क्योंकि इस ताप पर जल का वा&ुनवजयप दाब 1ण्013 इंत (1 वायुमंडल) है। ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.7</strong> oC) ij mcyrk gS D;ksafd bl rki ij ty dk ok"i nkc 1.013 bar (1 ok;qeaMy) gSA geus fiNys [kaM esa tkuk fd vok"i'khy foys; fd mifLFkfr ls foyk;d dk ok"i nkc de gks tkrk gSA fp=k 1.7 'kq¼ foyk;d vkSj foy;u osQ ok"inkc dk rki osQ lkFk ifjorZu izn£'kr djrk gSA mnkgj.k osQ fy, lqØksl osQ tyh; foy;u dk ok"inkc 373.15 K ij 1.013 bar ls de gSA bl foy;u dks mckyus osQ fy, rki dks 'kq¼ foyk;d (ty) osQ DoFkukad ls vfèkd c<+kdj foy;u dk ok"i nkc 1.013 bar rd c<+kuk iM+sxkA vr% fdlh Hkh foy;u dk DoFkukad 'kq¼ foyk;d] ftlesa foy;u cuk;k x;k gS] osQ DoFkukad ls ges'kk vfèkd</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.7</strong> वऋ) पर उबलता है क्योंकि इस ताप पर जल का वाष्प दाब 1.013 इंत (1 वायुमंडल) है। हमने पिछले खंड में जाना कि अवाष्पशील विलेय कि उपस्थिति से विलायक का वाष्प दाब कम हो जाता है। चित्र 1.7 शु¼ विलायक और विलयन के वाष्पदाब का ताप के साथ परिवर्तन पzद£शत करता है। उदाहरण के लिए सुØोस के जलीय विलयन का वाष्पदाब 373.15 K पर 1.013 इंत से कम है। इस विलयन को उबालने के लिए ताप को शु¼ विलायक (जल) के क्वथनांक से अèिाक ब<+ाकर विलयन का वाष्प दाब 1.013 इंत तक ब<+ाना पड+ेगा। अत% किसी भी विलयन का क्वथनांक शु¼ विलायकए जिसमें विलयन बनाया गया हैए के क्वथनांक से हमेशा अèिाक</span>
     <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
   </div>
 </div>
@@ -1906,9 +1906,9 @@ M₂ =
 ### 1.6.3 हिमांक का अवनमन वाष्प दाब में कमी के कारण शुद्ध विलायक की तुलना में विलयन के हिमांक का अवनमन
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_8_hi.png" alt="चित्र 1.8" onclick="openImageModal(this.src, 'चित्र 1.8: ok&quot;i nkc esa deh osQ dkj.k &#39;kq¼ foyk;d dh rqyuk esa foy;u osQ fgekad dk...')">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_8_hi.png" alt="चित्र 1.8" onclick="openImageModal(this.src, 'चित्र 1ण्8ः वा&ुनवजयप दाब में कमी के कारण &#39याु¼ विलायक की तुलना में विलयन के हिमांक काण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.8</strong> ok"i nkc esa deh osQ dkj.k 'kq¼ foyk;d dh rqyuk esa foy;u osQ fgekad dk voueu gksrk gS (fp=k 1.8)A ge tkurs gSa fd fdlh inkFkZ osQ fgekad ij] Bksl izkoLFkk ,oa nzo izkoLFkk xfrd lkE; esa jgrh gSA vr% fdlh inkFkZ osQ fgekad fcanq dks bl izdkj ifjHkkf"kr fd;k tk ldrk gS fd ;g og rki gS ftlij nzo voLFkk dk ok"i nkc mldh Bksl voLFkk osQ ok"i nkc osQ cjkcj gksrk gSA ,d foy;u dk rHkh fgehdj.k gksrk gS tc mldk ok"i nkc 'kq¼ Bksl foyk;d osQ ok"i nkc osQ cjkcj gks tk, tSlk fd fp=k 1.8</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.8</strong> वाष्प दाब में कमी के कारण शु¼ विलायक की तुलना में विलयन के हिमांक का अवनमन होता है (चित्र 1.8)। हम जानते हैं कि किसी पदार्थ के हिमांक परए झ्ोस पzावस्था एवं दzव पzावस्था गतिक साम्य में रहती है। अत% किसी पदार्थ के हिमांक बिंदु को इस प्रकार परिभाषित किया जा सकता है कि यह वह ताप है जिसपर दzव अवस्था का वाष्प दाब उसकी झ्ोस अवस्था के वाष्प दाब के बराबर होता है। एक विलयन का तभी हिमीकरण होता है जब उसका वाष्प दाब शु¼ झ्ोस विलायक के वाष्प दाब के बराबर हो जाए जैसा कि चित्र 1.8</span>
     <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
   </div>
 </div>
@@ -2235,9 +2235,9 @@ p
 मिलती हैं, अथवा सेलोफेन की तरह संश्लेषित प्रकृति की होती हैं।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_9_hi.png" alt="चित्र 1.9" onclick="openImageModal(this.src, 'चित्र 1.9: eku yhft, fd osQoy foyk;d osQ v.kq gh bu v/ZikjxE; f>fYy;ksa esa ls fudy ldrs gS...')">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_9_hi.png" alt="चित्र 1.9" onclick="openImageModal(this.src, 'चित्र 1ण्9ः मान लीजिए कि केवल विलायक के अणु ही इन अर्धपारगम्य >िल्लियों में से निकल सकते हैण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.9</strong> eku yhft, fd osQoy foyk;d osQ v.kq gh bu v/ZikjxE; f>fYy;ksa esa ls fudy ldrs gSaA ;fn fp=k 1.9 esa n'kkZ;s vuqlkj ;g f>Yyh foyk;d ,oa foy;u osQ eè; j[k nh tk, rks foyk;d osQ v.kq bl f>Yyh esa ls fudydj foy;u dh vksj izokfgr gks tk,axsA foyk;d osQ izokg dk ;g izØe ijklj.k dgykrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.9</strong> मान लीजिए कि केवल विलायक के अणु ही इन अर्धपारगम्य >िल्लियों में से निकल सकते हैं। यद िचित्र 1.9 में दर्शाये अनुसार यह >िल्ली विलायक एवं विलयन के मèय रख दी जाए तो विलायक के अणु इस >िल्ली में से निकलकर विलयन की आेर पzवाहित हो जाएंगे। विलायक के पzवाह का यह पzØम परासरण कहलाता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
   </div>
 </div>
@@ -2266,9 +2266,9 @@ p
 ## 📄 Page 21
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_10_hi.png" alt="चित्र 1.10" onclick="openImageModal(this.src, 'चित्र 1.10: ,d foy;u dk ijklj.k nkc og vfrfjDr nkc gS] tks ijklj.k dks jksdus vFkkZr~ foyk;d...')">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_10_hi.png" alt="चित्र 1.10" onclick="openImageModal(this.src, 'चित्र 1ण्10ः एक विलयन का परासरण दाब वह अतिरिक्त दाब है, जो परासरण को रोकने अर्थात~ विलायकण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.10</strong> ,d foy;u dk ijklj.k nkc og vfrfjDr nkc gS] tks ijklj.k dks jksdus vFkkZr~ foyk;d osQ v.kqvksa oQks ,d vèkZikjxE; f>Yyh }kjk foy;u esa tkus ls jksdus osQ fy, yxk;k tkuk pkfg,A ;g fp=k 1.10 esa le>k;k x;k gSA ijklj.k nkc ,d v.kqla[;d xq.k gS] tks fd foys; fd v.kq la[;k ij fuHkZj djrk gS] u fd mldh izÑfr ijA ruq foy;uksa osQ fy, izk;ksfxd rkSj ij ;g ik;k x;k gS fd ijklj.k nkc fn, x, rki T ij] eksyjrk] C osQ lekuqikfrd gksrk gSA vr%</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.10</strong> एक विलयन का परासरण दाब वह अतिरिक्त दाब हैए जो परासरण को रोकने अर्थात~ विलायक के अणुओं वफो एक अर्èापारगम्य >िल्ली द्वारा विलयन में जाने से रोकने के लिए लगाया जाना चाहिए। यह चित्र 1.10 में समझया गया है। परासरण दाब एक अणुसंख्यक गुण हैए जो कि विलेय कि अणु संख्या पर निर्भर करता हैए न कि उसकी पzÑति पर। तनु विलयनों के लिए पzायोगिक तौर पर यह पाया गया है कि परासरण दाब दएि गए ताप ज् परए मोलरताए ऋ के समानुपातिक होता है। अत%</span>
     <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
   </div>
 </div>
@@ -2439,9 +2439,9 @@ M₂ =
 ## 📄 Page 23
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_11_hi.png" alt="चित्र 1.11" onclick="openImageModal(this.src, 'चित्र 1.11: dk vkjs[kh; fu:i.k fp=k 1.11 esa n&#39;kkZ;k x;k gSA tc ijklj.k nkc ls vfèkd nkc...')">
+  <img src="data/diagrams/12th_chemistry_ch01_solutions_fig_1_11_hi.png" alt="चित्र 1.11" onclick="openImageModal(this.src, 'चित्र 1.11ः का आरेखीय निरूपण चित्र 1.11 में द&#39र्यााया गया है। जब परासरण दाब से अèिाक दाबण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.11</strong> dk vkjs[kh; fu:i.k fp=k 1.11 esa n'kkZ;k x;k gSA tc ijklj.k nkc ls vfèkd nkc yxk;k tkrk gS rks 'kq¼ ty v/ZikjxE; f>Yyh osQ ekè;e ls leqnzh ty esa ls fu"dkflr gks tkrk gSA rks bl mís'; osQ fy, fofHkUu izdkj dh cgqydh; f>fYy;k¡ miyCèk gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.11</strong> का आरेखीय निरूपण चित्र 1.11 में दर्शाया गया है। जब परासरण दाब से अèिाक दाब लगाया जाता है तो शु¼ जल अर्धपारगम्य >िल्ली के माèयम से समुदzी जल में से निष्कासित हो जाता है। तो इस उíेश्य के लिए विभिन्न प्रकार की बहुलकीय >िल्लियाँ उपलऋèा हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
   </div>
 </div>

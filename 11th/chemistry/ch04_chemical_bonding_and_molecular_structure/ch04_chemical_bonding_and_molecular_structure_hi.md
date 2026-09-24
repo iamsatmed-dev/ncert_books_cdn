@@ -1065,9 +1065,9 @@ tron Diffraction) विधियों की सहायता से ज्�
 आबंधित युग्म का प्रत्येक परमाणु आबंध-लंबाई में योगदान देता
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_hi.png" alt="चित्र 4" onclick="openImageModal(this.src, 'चित्र 4: tron Diffraction) fofèk;ksa dh lgk;rk ls Kkr dh tkrh gSA bu rduhdksa dk vè;;u vk...')">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_hi.png" alt="चित्र 4" onclick="openImageModal(this.src, 'चित्र 4ः जतवद क्पfितंबजपवद) विèिायों की सहायता से Kात की जाती है। इन तकनीकों का अèययन आण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4</strong> tron Diffraction) fofèk;ksa dh lgk;rk ls Kkr dh tkrh gSA bu rduhdksa dk vè;;u vki mPp d{kkvksa esa djsaxsA vkcafèkr ;qXe dk çR;sd ijek.kq vkcaèk&yackbZ esa ;ksxnku nsrk gS (fp=k 4-1)A lgla;ksth vkcaèk esa çR;sd ijek.kq dk ;ksxnku ml ijek.kq dh ^lgla;ksth f=kT;k* dgykrh gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 4</strong> जतवद क्पिितंबजपवद) विèिायों की सहायता से Kात की जाती है। इन तकनीकों का अèययन आप उच्च क{ााओं में करेंगे। आबंèिात युग्म का çत्येक परमाणु आबंèा&लंबार्इ में योगदान देता है (चित्र 4.1)। सहसंयोजी आबंèा में çत्येक परमाणु का योगदान उस परमाणु की ^सहसंयोजी =िाज्या* कहलाती है।</span>
     <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
   </div>
 </div>
@@ -4428,9 +4428,9 @@ O₂ के इलेक्ट्रॉनिक विन्यास से �
 लिखे जाकते हैं। B₂ से Ne₂ तक के अणुओं के लिए आण्विक
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_21_hi.png" alt="चित्र 4.21" onclick="openImageModal(this.src, 'चित्र 4.21: blh çdkj vkorZ lkj.kh osQ f}rh; vkorZ osQ vU; leukfHkdh; f}ijek.kqd v.kqvksa osQ...')">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_21_hi.png" alt="चित्र 4.21" onclick="openImageModal(this.src, 'चित्र 4.21ः इसी çकार आवर्त सारणी के ।ितीय आवर्त के अनय समनाभिकीय ।िपरमाणुक अणुओं केण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.21</strong> blh çdkj vkorZ lkj.kh osQ f}rh; vkorZ osQ vU; leukfHkdh; f}ijek.kqd v.kqvksa osQ bysDVªkWfud foU;kl fy[ks tkdrs gSaA B2 ls Ne2 rd osQ v.kqvksa osQ fy, vkf.od d{kd foU;kl rFkk vkf.od xq.k fp=k 4.21 esa fn, x, gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.21</strong> इसी çकार आवर्त सारणी के ।ितीय आवर्त के अनय समनाभिकीय ।िपरमाणुक अणुओं के इलेक्टªाॅनिक विनयास लिखे जाकते हैं। झ्2 से छम2 तक के अणुओं के लिए आण्विक क{ाक विनयास तथा आण्विक गुण चित्र 4.21 में दएि गए हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(31)">📄 View in PDF (Page 31)</button>
   </div>
 </div>
@@ -4688,9 +4688,9 @@ H-X......Η- Χ......Η- Χ
 फिनॉल में हाइड्रोजन, जो ऑक्सीजन के मध्य रहता है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_22_hi.png" alt="चित्र 4.22" onclick="openImageModal(this.src, 'चित्र 4.22: fp=k 4.22 o-ukbVªksI+kQhukWy v.kq esa varj&v.kqd gkbMªkstu vkcaèk...')">
+  <img src="data/diagrams/11th_chemistry_ch04_chemical_bonding_and_molecular_structure_fig_4_22_hi.png" alt="चित्र 4.22" onclick="openImageModal(this.src, 'चित्र 4.22ः चित्र 4.22 व-नाइटªोप्+ाफीनाॅल अणु में अंतर&अणुक हाइडªोजन आबंèाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.22</strong> fp=k 4.22 o-ukbVªksI+kQhukWy v.kq esa varj&v.kqd gkbMªkstu vkcaèk</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.22</strong> चित्र 4.22 व-नाइटªोप्+ाफीनाॅल अणु में अंतर&अणुक हाइडªोजन आबंèा</span>
     <button class="icon-btn" onclick="goToPdfPage(32)">📄 View in PDF (Page 32)</button>
   </div>
 </div>

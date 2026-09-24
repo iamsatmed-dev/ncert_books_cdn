@@ -126,9 +126,9 @@ blished
 ## 📄 Page 3
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_hi.png" alt="चित्र 5" onclick="openImageModal(this.src, 'चित्र 5: Ük`a[kyk dk 3^ fdukjk dgrs gSaA ikWyhU;wfDy;ksVkbM Ük`a[kyk osQ vkèkkj dk fuekZ....')">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_hi.png" alt="चित्र 5" onclick="openImageModal(this.src, 'चित्र 5ः Üाृंखला का 3^ किनारा कहते हैं। पाॅलीनयूक्लियोटाइड Üाृंखला के आèाार का निर्माण्ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5</strong> Ük`a[kyk dk 3^ fdukjk dgrs gSaA ikWyhU;wfDy;ksVkbM Ük`a[kyk osQ vkèkkj dk fuekZ.k 'koZQjk o iQkWLisQV~l ls gksrk gSA ukbVªkstuh {kkj 'koZQjk va'k ls tqM+k gksrk gS tks vkèkkj ls iz{ksfir gksrk gS (fp=k 5-1)A</span>
+    <span class="diagram-caption-text"><strong>चित्र 5</strong> Üाृंखला का 3^ किनारा कहते हैं। पाॅलीनयूक्लियोटाइड Üाृंखला के आèाार का निर्माण शर्वफरा व पफाॅस्पेफट~स से होता है। नाइटªोजनी {ाार शर्वफरा अंश से जुड+ा होता है जो आèाार से पz{ोपित होता है (चित्र 5.1)।</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>
@@ -149,9 +149,9 @@ C
 व फॉस्फेट्स से होता है। नाइट्रोजनी क्षार शर्करा अंश से जुड़ा होता है है जो जो आधार अ से
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_1_hi.png" alt="चित्र 5.1" onclick="openImageModal(this.src, 'चित्र 5.1: fp=k 5.1 ,d ikyhU;wfDy;ksVkbM Ük`a[kyk...')">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_1_hi.png" alt="चित्र 5.1" onclick="openImageModal(this.src, 'चित्र 5.1ः चित्र 5.1 एक पालीनयूक्लियोटाइड Üाृंखलाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.1</strong> fp=k 5.1 ,d ikyhU;wfDy;ksVkbM Ük`a[kyk</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.1</strong> चित्र 5.1 एक पालीनयूक्लियोटाइड Üाृंखला</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>
@@ -220,9 +220,9 @@ A
 T
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_2_hi.png" alt="चित्र 5.2" onclick="openImageModal(this.src, 'चित्र 5.2: fp=k 5.2 f}jTtqdh; ikWyhU;qfDy;ksVkbM Ük`a[kyk...')">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_2_hi.png" alt="चित्र 5.2" onclick="openImageModal(this.src, 'चित्र 5.2ः चित्र 5.2 ।िरज्जुकीय पाॅलीनयुक्लियोटाइड Üाृंखलाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.2</strong> fp=k 5.2 f}jTtqdh; ikWyhU;qfDy;ksVkbM Ük`a[kyk</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.2</strong> चित्र 5.2 ।िरज्जुकीय पाॅलीनयुक्लियोटाइड Üाृंखला</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -254,9 +254,9 @@ be
 के ऊपर दूसरे स्थित होते हैं। इसके
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_3_hi.png" alt="चित्र 5.3" onclick="openImageModal(this.src, 'चित्र 5.3: osQ mQij nwljs fLFkr gksrs gSaA blosQ vfrfjDr gkbMªkstu caèk oqaQMfyuh lajpuk dk...')">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_3_hi.png" alt="चित्र 5.3" onclick="openImageModal(this.src, 'चित्र 5.3ः के उफपर दूसरे स्थित होते हैं। इसके अतिरिक्त हाइडªोजन बंèा वुंफडलिनी संरचना काण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.3</strong> osQ mQij nwljs fLFkr gksrs gSaA blosQ vfrfjDr gkbMªkstu caèk oqaQMfyuh lajpuk dks LFkkf;Ro iznku djrs gSaA I;wjhu o ihfjehMhu dh lajpukRed rqyuk djksA D;k vki crk ldrs gSa fd Mh,u, esa nks ikWyhU;wfDy;ksVkbM Ük`a[kykvksa osQ chp dh nwjh ges'kk yxHkx leku D;ksa jgrh gS\ (fp=k 5.3)A</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.3</strong> के उफपर दूसरे स्थित होते हैं। इसके अतिरिक्त हाइडªोजन बंèा वुंफडलिनी संरचना को स्थायित्व पzदान करते हैं। प्यूरीन व पीरिमीडीन की संरचनात्मक तुलना करो। क्या आप बता सकते हैं कि डीएनए में दो पाॅलीनयूक्लियोटाइड Üाृंखलाओं के बीच की दूरी हमेशा लगभग समान क्यों रहती है। (चित्र 5.3)।</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -276,9 +276,9 @@ be
 ## 📄 Page 5
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_4_hi.png" alt="चित्र 5.4" onclick="openImageModal(this.src, 'चित्र 5.4: fp=k 5.4v U;wfDy;kslkse...')">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_4_hi.png" alt="चित्र 5.4" onclick="openImageModal(this.src, 'चित्र 5.4ः चित्र 5.4अ नयूक्लियोसोमण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.4</strong> fp=k 5.4v U;wfDy;kslkse</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.4</strong> चित्र 5.4अ नयूक्लियोसोम</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>
@@ -561,9 +561,9 @@ torb
 ### 3. अपकेंद्रण
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_5_hi.png" alt="चित्र 5.5" onclick="openImageModal(this.src, 'चित्र 5.5: fp=k 5.5 g&quot;ksZ&psl dk iz;ksx...')">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_5_hi.png" alt="चित्र 5.5" onclick="openImageModal(this.src, 'चित्र 5.5ः चित्र 5.5 ह&ुनवजर्यो&चेस का पzयोगण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.5</strong> fp=k 5.5 g"ksZ&psl dk iz;ksx</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.5</strong> चित्र 5.5 हर्षे&चेस का पzयोग</span>
     <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
   </div>
 </div>
@@ -737,9 +737,9 @@ G
 GC
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_6_hi.png" alt="चित्र 5.6" onclick="openImageModal(this.src, 'चित्र 5.6: fp=k 5.6 Mh ,u , osQ vèkZlaj{kh izo`Qfr;u dk okVlu&fØd izfr:i...')">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_6_hi.png" alt="चित्र 5.6" onclick="openImageModal(this.src, 'चित्र 5.6ः चित्र 5.6 डी एन ए के अर्èासंर{ाी पzवृफतियन का वाटसन&Øिक पzतिरूपण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.6</strong> fp=k 5.6 Mh ,u , osQ vèkZlaj{kh izo`Qfr;u dk okVlu&fØd izfr:i</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.6</strong> चित्र 5.6 डी एन ए के अर्èासंर{ाी पzवृफतियन का वाटसन&Øिक पzतिरूप</span>
     <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
   </div>
 </div>
@@ -793,9 +793,9 @@ not to
 करने हेतु विभिन्न नमूनों को स्वतंत्र रूप से सीजिएम CSCI ग्रेडिएंट की
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_7_hi.png" alt="चित्र 5.7" onclick="openImageModal(this.src, 'चित्र 5.7: fp=k 5.7 eslsYlu ,oa LVky dk iz;ksx...')">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_7_hi.png" alt="चित्र 5.7" onclick="openImageModal(this.src, 'चित्र 5.7ः चित्र 5.7 मेसेल्सन एवं स्टाल का पzयोगण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.7</strong> fp=k 5.7 eslsYlu ,oa LVky dk iz;ksx</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.7</strong> चित्र 5.7 मेसेल्सन एवं स्टाल का पzयोग</span>
     <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
   </div>
 </div>
@@ -887,9 +887,9 @@ ublished
 ## 📄 Page 13
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_8_hi.png" alt="चित्र 5.8" onclick="openImageModal(this.src, 'चित्र 5.8: fp=k 5.8 izfro`Qr f}&#39;kk[k...')">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_8_hi.png" alt="चित्र 5.8" onclick="openImageModal(this.src, 'चित्र 5.8ः चित्र 5.8 पzतिवृफत ।ि&#39यााखण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.8</strong> fp=k 5.8 izfro`Qr f}'kk[k</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.8</strong> चित्र 5.8 पzतिवृफत ।िशाख</span>
     <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
   </div>
 </div>
@@ -1022,9 +1022,9 @@ NCER
 रज्जुक के 3' किनारे (अनुप्रवाह) पर स्थित होता है और इससे अनुलेखन प्रक्रम की
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_9_hi.png" alt="चित्र 5.9" onclick="openImageModal(this.src, 'चित्र 5.9: fp=k 5.9 vuqys[ku ,dy dh vkjsf[k; lajpuk...')">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_9_hi.png" alt="चित्र 5.9" onclick="openImageModal(this.src, 'चित्र 5.9ः चित्र 5.9 अनुलेखन एकल की आरेखिय संरचनाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.9</strong> fp=k 5.9 vuqys[ku ,dy dh vkjsf[k; lajpuk</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.9</strong> चित्र 5.9 अनुलेखन एकल की आरेखिय संरचना</span>
     <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
   </div>
 </div>
@@ -1107,9 +1107,9 @@ not
 से उसकी विशिष्टता में परिवर्तन के साथ होती है जिससे या तो प्रारंभन या
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_10_hi.png" alt="चित्र 5.10" onclick="openImageModal(this.src, 'चित्र 5.10: fp=k 5.10 cSDVhfj;k esa vuqys[ku izfØ;k...')">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_10_hi.png" alt="चित्र 5.10" onclick="openImageModal(this.src, 'चित्र 5.10ः चित्र 5.10 बैक्टीरिया में अनुलेखन पzØियाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.10</strong> fp=k 5.10 cSDVhfj;k esa vuqys[ku izfØ;k</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.10</strong> चित्र 5.10 बैक्टीरिया में अनुलेखन पzØिया</span>
     <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
   </div>
 </div>
@@ -1251,9 +1251,9 @@ m
 MG.
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_11_hi.png" alt="चित्र 5.11" onclick="openImageModal(this.src, 'चित्र 5.11: fp=k 5.11 lqosaQnzfd;ksa eas vuqys[ku izfØ;k...')">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_11_hi.png" alt="चित्र 5.11" onclick="openImageModal(this.src, 'चित्र 5.11ः चित्र 5.11 सुवेंफदzकियों मंे अनुलेखन पzØियाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.11</strong> fp=k 5.11 lqosaQnzfd;ksa eas vuqys[ku izfØ;k</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.11</strong> चित्र 5.11 सुवेंफदzकियों मंे अनुलेखन पzØिया</span>
     <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
   </div>
 </div>
@@ -1602,9 +1602,9 @@ tRNA
 कूट परिकल्पना के बहुत समय पहले से फ्रेनसिस क्रिक के अनुसार कूट के पढ़ने व
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_12_hi.png" alt="चित्र 5.12" onclick="openImageModal(this.src, 'चित्र 5.12: fp=k 5.12 tvkj,u,&vuqowQyd v.kq...')">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_12_hi.png" alt="चित्र 5.12" onclick="openImageModal(this.src, 'चित्र 5.12ः चित्र 5.12 जआरएनए&अनुवूफलक अणुण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.12</strong> fp=k 5.12 tvkj,u,&vuqowQyd v.kq</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.12</strong> चित्र 5.12 जआरएनए&अनुवूफलक अणु</span>
     <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
   </div>
 </div>
@@ -1636,9 +1636,9 @@ A
 भूमिका के बारे में बाद में जानकारी मिल पायी।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_13_hi.png" alt="चित्र 5.13" onclick="openImageModal(this.src, 'चित्र 5.13: fp=k 5.13 LFkkukarj.k...')">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_13_hi.png" alt="चित्र 5.13" onclick="openImageModal(this.src, 'चित्र 5.13ः चित्र 5.13 स्थानांतरणण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.13</strong> fp=k 5.13 LFkkukarj.k</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.13</strong> चित्र 5.13 स्थानांतरण</span>
     <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
   </div>
 </div>
@@ -1817,9 +1817,9 @@ P
 i
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_14_hi.png" alt="चित्र 5.14" onclick="openImageModal(this.src, 'चित्र 5.14: fp=k 5.14 ySd vksisjku...')">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_14_hi.png" alt="चित्र 5.14" onclick="openImageModal(this.src, 'चित्र 5.14ः चित्र 5.14 लैक आेपेरानण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.14</strong> fp=k 5.14 ySd vksisjku</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.14</strong> चित्र 5.14 लैक आेपेरान</span>
     <button class="icon-btn" onclick="goToPdfPage(24)">📄 View in PDF (Page 24)</button>
   </div>
 </div>
@@ -1969,9 +1969,9 @@ shed
 ## 📄 Page 27
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_15_hi.png" alt="चित्र 5.15" onclick="openImageModal(this.src, 'चित्र 5.15: fp=k 5.15 ekuo thukse ifj;kstuk dk fu:id vkjs[k...')">
+  <img src="data/diagrams/12th_biology_ch05_molecular_basis_of_inheritance_fig_5_15_hi.png" alt="चित्र 5.15" onclick="openImageModal(this.src, 'चित्र 5.15ः चित्र 5.15 मानव जीनोम परियोजना का निरूपक आरेखण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5.15</strong> fp=k 5.15 ekuo thukse ifj;kstuk dk fu:id vkjs[k</span>
+    <span class="diagram-caption-text"><strong>चित्र 5.15</strong> चित्र 5.15 मानव जीनोम परियोजना का निरूपक आरेख</span>
     <button class="icon-btn" onclick="goToPdfPage(27)">📄 View in PDF (Page 27)</button>
   </div>
 </div>

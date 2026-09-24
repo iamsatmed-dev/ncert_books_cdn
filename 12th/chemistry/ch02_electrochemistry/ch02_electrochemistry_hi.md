@@ -117,9 +117,9 @@ m
 ### 2.1 वैद्युत रासायनिक डेन्यल सेल की संरचना एवं कार्यविधि के बारे में हम
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch02_electrochemistry_fig_2_hi.png" alt="चित्र 2" onclick="openImageModal(this.src, 'चित्र 2: MsU;y lsy dh lajpuk ,oa dk;Zfofèk osQ ckjs esa ge fp=k 2-1 ls le> ldrs gSaA ;g l...')">
+  <img src="data/diagrams/12th_chemistry_ch02_electrochemistry_fig_2_hi.png" alt="चित्र 2" onclick="openImageModal(this.src, 'चित्र 2ः डेनयल सेल की संरचना एवं कार्यविèिा के बारे में हम चित्र 2.1 से सम> सकते हैं। यह सण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2</strong> MsU;y lsy dh lajpuk ,oa dk;Zfofèk osQ ckjs esa ge fp=k 2-1 ls le> ldrs gSaA ;g lsy fuEufyf[kr jsMkWDl vfHkfØ;k esa mRlftZr jklk;fud ÅtkZ dks oS|qr ÅtkZ esa ifjofrZr djrh gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 2</strong> डेनयल सेल की संरचना एवं कार्यविèिा के बारे में हम चित्र 2.1 से सम> सकते हैं। यह सेल निम्नलिखित रेडाॅक्स अभिØिया में उत्सर्जित रासायनिक ऊर्जा को वै।ुत ऊर्जा में परिवर्तित करती है।</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>
@@ -161,9 +161,9 @@ Zn(s) + Cu²+(aq) → Zn2+(aq) + Cu(s)
 यदि गैल्वैनी सेल में एक विपरीत बाह्य विभव लगाया जाए (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch02_electrochemistry_fig_2_2_hi.png" alt="चित्र 2.2" onclick="openImageModal(this.src, 'चित्र 2.2: ;fn xSYoSuh lsy esa ,d foijhr cká foHko yxk;k tk, (fp=k 2.2 d) ,oa bls èkhjs&èkh...')">
+  <img src="data/diagrams/12th_chemistry_ch02_electrochemistry_fig_2_2_hi.png" alt="चित्र 2.2" onclick="openImageModal(this.src, 'चित्र 2.2ः यद िगैल्वैनी सेल में एक विपरीत बाá विभव लगाया जाए (चित्र 2.2 क) एवं इसे èाीरे&èाीण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.2</strong> ;fn xSYoSuh lsy esa ,d foijhr cká foHko yxk;k tk, (fp=k 2.2 d) ,oa bls èkhjs&èkhjs c<+k;k tk,] rks ge ns[krs gSa fd vfHkfØ;k rc rd pyrh jgrh gS tc rd fd cká foHko 1.1 V ugha gks tkrk] bl fLFkfr esa vfHkfØ;k iw.kZr% #d tkrh gS ,oa lsy esa fo|qr èkkjk izokfgr ugha gksrhA cká foHko esa dksbZ Hkh vfrfjDr o`f¼ vfHkfØ;k dks iqu% ijarq foijhr fn'kk esa izkjaHk dj nsrh gS (fp=k 2.2 x)A vc ;g ,d oS|qrvi?kVuh lsy osQ leku dk;Z djrh gS tks fd ,d Lor% vizofrZr jklk;fud vfHkfØ;k dks fo|qrh; ÅtkZ osQ mi;ksx ls izkjaHk djus dh ;qfDr gSA nksuksa gh lsy cgqr egRoiw.kZ gksrs gSaA budh oqQN izeq[k fo'ks"krkvksa dk vè;;u vkxs osQ i`"Bksa esa djsaxsA</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.2</strong> यद िगैल्वैनी सेल में एक विपरीत बाá विभव लगाया जाए (चित्र 2.2 क) एवं इसे èाीरे&èाीरे ब<+ाया जाएए तो हम देखते हैं कि अभिØिया तब तक चलती रहती है जब तक कि बाá विभव 1.1 ट नहीं हो जाताए इस स्थिति में अभिØिया पूर्णत% #क जाती है एवं सेल में वि।ुत èाारा पzवाहित नहीं होती। बाá विभव में कोर्इ भी अतिरिक्त वृ¼ि अभिØिया को पुन% परंतु विपरीत दशिा में पzारंभ कर देती है (चित्र 2.2 ग)। अब यह एक वै।ुतअपघटनी सेल के समान कार्य करती है जो कि एक स्वत% अपzवर्तित रासायनिक अभिØिया को वि।ुतीय ऊर्जा के उपयोग से पzारंभ करने की युक्ति है। दोनों ही सेल बहुत महत्वपूर्ण होते हैं। इनकी कुछ पzमुख विशेषताओं का अèययन आगे के पृष्झ्ों में करेंगे।</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>

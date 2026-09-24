@@ -134,15 +134,15 @@ c = 29,97,92,458 m s¯¹
   <img src="data/diagrams/11th_physics_ch14_waves_fig_14_1_hi.png" alt="
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_hi.png" alt="चित्र 14" onclick="openImageModal(this.src, 'चित्र 14: fp=k 14-4 esa vuqnS?;Z rjaxksa osQ lcls lkekU; mnkgj.k èofu rjaxksa dh fLFkfr iz...')">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_hi.png" alt="चित्र 14" onclick="openImageModal(this.src, 'चित्र 14ः चित्र 14.4 में अनुदैघ्र्य तरंगों के सबसे सामानय उदाहरण èवनि तरंगों की स्थिति पzण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 14</strong> fp=k 14-4 esa vuqnS?;Z rjaxksa osQ lcls lkekU; mnkgj.k èofu rjaxksa dh fLFkfr iznf'kZr dh xbZ gSA ok;q ls Hkjs fdlh yacs ikbi osQ ,d fljs ij ,d fiLVu yxk gSA fiLVu dks ,d ckj vanj dh vksj èkosQyrs vkSj fiQj ckgj dh vksj [khapus ls laihMu</span>
+    <span class="diagram-caption-text"><strong>चित्र 14</strong> चित्र 14.4 में अनुदैघ्र्य तरंगों के सबसे सामानय उदाहरण èवनि तरंगों की स्थिति पzदर्शित की गर्इ है। वायु से भरे किसी लंबे पाइप के एक सिरे पर एक पिस्टन लगा है। पिस्टन को एक बार अंदर की आेर èाकेलते और पिफर बाहर की आेर खींचने से संपीडन</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
 
 <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 14.1</strong> fp=k 14.1 esa n'kkZ, vuqlkj ,d nwljs ls lac¼ dekfu;ksa dh O;oLFkk ij fopkj dhft, A ;fn blosQ ,d fljs dh dekuh dks ;dk;d [khapdj NksM+ nsa] rks mRiUu fo{kksHk nwljs fljs rd xeu djrk gS A bl izfØ;k esa D;k gksrk gS \ ;dk;d [khapus ij igyh dekuh viuh lkE;koLFkk dh yackbZ ls fo{kksfHkr gksrh gS A pw¡fd nwljh dekuh igyh dekuh ls lac¼ gS] vr% mlesa ruko vFkok laihMu gksrk gS vkSj bl izdkj ;g izfØ;k vkxs c<+rh tkrh gS A ;gk¡ fo{kksHk rks ,d fljs ls nwljs rd lapfjr gks tkrk gS] ijarq izR;sd dekuh viuh lkE;koLFkk dh fLFkfr osQ b/j&m/j gh y?kq nksyu djrh jgrh gS A ,sls gh ,d O;kogkfjd mnkgj.k osQ :i esa jsyos LVs'ku ij fojke dh fLFkfr esa [kM+h fdlh jsyxkM+h ij fopkj dhft, A jsyxkM+h osQ fofHkUu</span>
+    <span class="diagram-caption-text"><strong>चित्र 14.1</strong> चित्र 14.1 में दर्शाए अनुसार एक दूसरे से संब¼ कमानियों की व्यवस्था पर विचार कीजिए । यद िइसके एक सिरे की कमानी को यकायक खींचकर छोड+ देंए तो उत्पनन वि{ाोभ दूसरे सिरे तक गमन करता है । इस पzØिया में क्या होता है । यकायक खींचने पर पहली कमानी अपनी साम्यावस्था की लंबार्इ से वि{ाोभित होती है । चूँकि दूसरी कमानी पहली कमानी से संब¼ हैए अत% उसमें तनाव अथवा संपीडन होता है और इस प्रकार यह पzØिया आगे ब<+ती जाती है । यहाँ वि{ाोभ तो एक सिरे से दूसरे तक संचरित हो जाता हैए परंतु पzत्येक कमानी अपनी साम्यावस्था की स्थिति के इधर&उधर ही लघु दोलन करती रहती है । एेसे ही एक व्यावहारिक उदाहरण के रूप में रेलवे स्टेशन पर विराम की स्थिति में खड+ी किसी रेलगाड+ी पर विचार कीजिए । रेलगाड+ी के विभिन्न</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>
@@ -203,14 +203,14 @@ A
 से दूसरे क्षेत्र की ओर गति करते हैं, जिसके कारण वायु में विक्षोभ
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_2_hi.png" alt="चित्र 14.2" onclick="openImageModal(this.src, 'चित्र 14.2: fp=k 14.2 esa fdlh Mksjh osQ vuqfn&#39;k ,d ,sls Lian dks xfr djrs fn[kk;k x;k g...')">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_2_hi.png" alt="चित्र 14.2" onclick="openImageModal(this.src, 'चित्र 14.2ः चित्र 14.2 में किसी डोरी के अनुद&ि#39या एक एेसे स्पंद को गति करते दखिाया गया हण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 14.2</strong> fp=k 14.2 esa fdlh Mksjh osQ vuqfn'k ,d ,sls Lian dks xfr djrs fn[kk;k x;k gS ftls Mksjh dks ,d ckj Åij&uhps >Vdus osQ ckn mRiUu fd;k x;k gSA ;fn Lian osQ vkeki dh rqyuk esa Mksjh dh yackbZ vR;fèkd gks rks mlosQ nwljs fljs rd igq¡pus ls igys gh Lian dk voeanu gks tk,xkA vr% nwljs fljs ij Lian osQ ijkorZu dks vuns[kk fd;k tk ldrk gSA
+    <span class="diagram-caption-text"><strong>चित्र 14.2</strong> चित्र 14.2 में किसी डोरी के अनुदशि एक एेसे स्पंद को गति करते दखिाया गया है जिसे डोरी को एक बार ऊपर&नीचे >टकने के बाद उत्पनन किया गया है। यद िस्पंद के आमाप की तुलना में डोरी की लंबार्इ अत्यèिाक हो तो उसके दूसरे सिरे तक पहुँचने से पहले ही स्पंद का अवमंदन हो जाएगा। अत% दूसरे सिरे पर स्पंद के परावर्तन को अनदेखा किया जा सकता है। 
 
-<div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_3_hi.png" alt="चित्र 14.3" onclick="openImageModal(this.src, 'चित्र 14.3: fp=k 14.3 14.3 14.3 14.3 14.3 fdlh Mksjh osQ vuqfn&#39;k izsf&quot;kr dksbZ vkor...')">
-  <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 14.3</strong> fp=k 14.3 14.3 14.3 14.3 14.3 fdlh Mksjh osQ vuqfn'k izsf"kr dksbZ vkorZ (T;koØh;) rjax vuqizLFk rjax dk ,d mnkgj.k gSA rjax osQ {ks=k esa Mksjh dk dksbZ izfr:ih vo;o rjax dh xeu fn'kk osQ yacor~ viuh lkE;koLFkk osQ lkis{k nksyu djrk gSA</span>
+<कपअ बसंेे=ष्दबमतज-कपंहतंउ-बंतकष्>
+ <पउह ेतब=ष्कंजंधकपंहतंउेध11जी_चीलेपबे_बी14_ूंअमे_पिह_14_3_ीपण्चदहष् ंसज=ष्चित्र 14.3ष् वदबसपबा=ष्वचमदप्उंहमडवकंस(जीपेण्ेतबए श्चित्र 14.3ः चित्र 14.3 14.3 14.3 14.3 14.3 किसी डोरी के अनुद&ि#39या पzे&िुनवजयात कोर्इ आवतण्ण्ण्श्)ष्>
+ <कपअ बसंेे=ष्कपंहतंउ-बंचजपवद-इवगष्>
+ <ेचंद बसंेे=ष्कपंहतंउ-बंचजपवद-जमगजष्><ेजतवदह>चित्र 14.3<धेजतवदह> चित्र 14.3 14.3 14.3 14.3 14.3 किसी डोरी के अनुदशि पzेषित कोर्इ आवर्त (ज्यावØीय) तरंग अनुपzस्थ तरंग का एक उदाहरण है। तरंग के क्षेत्र में डोरी का कोर्इ पzतिरूपी अवयव तरंग की गमन दशिा के लंबवत~ अपनी साम्यावस्था के सापे{ा दोलन करता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>
@@ -297,9 +297,9 @@ X
 पर केंद्रित करें तथा समय के साथ इसके दोलनों को देखें।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_4_hi.png" alt="चित्र 14.4" onclick="openImageModal(this.src, 'चित्र 14.4: fp=k 14.4 14.4 14.4 14.4 14.4 fiLVu dks vkxs&ihNs xfr djkdj ok;q ls Hkjh uyh esa...')">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_4_hi.png" alt="चित्र 14.4" onclick="openImageModal(this.src, 'चित्र 14.4ः चित्र 14.4 14.4 14.4 14.4 14.4 पिस्टन को आगे&पीछे गति कराकर वायु से भरी नली मेंण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 14.4</strong> fp=k 14.4 14.4 14.4 14.4 14.4 fiLVu dks vkxs&ihNs xfr djkdj ok;q ls Hkjh uyh esa èofu rjax mRiUu dh tkrh gS A pw¡fd ok;q&vo;o osQ nksyu rjax xfr dh fn'kk osQ lekarj gSa] vr% ;g vuqnS?;Z rjax gS A</span>
+    <span class="diagram-caption-text"><strong>चित्र 14.4</strong> चित्र 14.4 14.4 14.4 14.4 14.4 पिस्टन को आगे&पीछे गति कराकर वायु से भरी नली में èवनि तरंग उत्पनन की जाती है । चूँकि वायु&अवयव के दोलन तरंग गति की दशिा के समांतर हैंए अत% यह अनुदैघ्र्य तरंग है ।</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -409,9 +409,9 @@ X
 ज्यावक्रीय प्रगामी तरंग को तब निम्न रूप से वर्णित करते हैं
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_5_hi.png" alt="चित्र 14.5" onclick="openImageModal(this.src, 'चित्र 14.5: fp=k 14.5 14.5 14.5 14.5 14.5 lehdj.k (14.2) osQ ekud fpÉksa dh ifjHkk&quot;kkA...')">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_5_hi.png" alt="चित्र 14.5" onclick="openImageModal(this.src, 'चित्र 14.5ः चित्र 14.5 14.5 14.5 14.5 14.5 समीकरण (14.2) के मानक चि्ों की परिभा&ुनवजयाा। ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 14.5</strong> fp=k 14.5 14.5 14.5 14.5 14.5 lehdj.k (14.2) osQ ekud fpÉksa dh ifjHkk"kkA</span>
+    <span class="diagram-caption-text"><strong>चित्र 14.5</strong> चित्र 14.5 14.5 14.5 14.5 14.5 समीकरण (14.2) के मानक चि्ों की परिभाषा।</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>
@@ -419,9 +419,9 @@ X
 राशियों के नाम दर्शाता है जिसको हम अब परिभाषित करेंगे।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_6_hi.png" alt="चित्र 14.6" onclick="openImageModal(this.src, 'चित्र 14.6: fp=k 14.6 14.6 14.6 14.6 14.6 fHkUu le;ksa ij x-v{k dh èkukRed fn&#39;kk osQ vuq...')">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_6_hi.png" alt="चित्र 14.6" onclick="openImageModal(this.src, 'चित्र 14.6ः चित्र 14.6 14.6 14.6 14.6 14.6 भिनन समयों पर ग-अ{ा की èानात्मक द&ि#39याा के अनुण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 14.6</strong> fp=k 14.6 14.6 14.6 14.6 14.6 fHkUu le;ksa ij x-v{k dh èkukRed fn'kk osQ vuqfn'k xfr'khy dksbZ vkorhZ rjax</span>
+    <span class="diagram-caption-text"><strong>चित्र 14.6</strong> चित्र 14.6 14.6 14.6 14.6 14.6 भिनन समयों पर ग-अ{ा की èानात्मक दशिा के अनुदशि गतिशील कोर्इ आवर्ती तरंग</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>
@@ -626,9 +626,9 @@ kको संचरण स्थिरांक अथवा कोणीय �
 14.3.3 आवर्तकाल, कोणीय आवृत्ति तथा आवृत्ति
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_7_hi.png" alt="चित्र 14.7" onclick="openImageModal(this.src, 'चित्र 14.7: fp=k 14.7 esa ,d T;koØh; vkys[k fn[kk;k x;k gSA ;g fdlh fuf&#39;pr {k.k ij rjax ...')">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_7_hi.png" alt="चित्र 14.7" onclick="openImageModal(this.src, 'चित्र 14.7ः चित्र 14.7 में एक ज्यावØीय आलेख दखिाया गया है। यह किसी नि&ि#39यचत {ाण पर तरंग ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 14.7</strong> fp=k 14.7 esa ,d T;koØh; vkys[k fn[kk;k x;k gSA ;g fdlh fuf'pr {k.k ij rjax dk vkdkj ugha n'kkZrk gS cfYd ekè;e osQ ,d vo;o (fdlh fuf'pr fLFkfr ij) dk le; osQ lkFk foLFkkiu n'kkZrk gSA lqfoèkk osQ fy, ge lehdj.k</span>
+    <span class="diagram-caption-text"><strong>चित्र 14.7</strong> चित्र 14.7 में एक ज्यावØीय आलेख दखिाया गया है। यह किसी निश्चित {ाण पर तरंग का आकार नहीं दर्शाता है बल्कि माèयम के एक अवयव (किसी निश्चित स्थिति पर) का समय के साथ विस्थापन दर्शाता है। सुविèाा के लिए हम समीकरण</span>
     <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
   </div>
 </div>
@@ -793,9 +793,9 @@ y
 किस तरह गमन करता है। तरंग के शीर्ष की गति पर ध्यान देना
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_8_hi.png" alt="चित्र 14.8" onclick="openImageModal(this.src, 'चित्र 14.8: fp=k 14.8 14.8 14.8 14.8 14.8 le; t ls t+∆t rd fdlh vko`fÙk rjax dk xeu] tgk¡ ∆t...')">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_8_hi.png" alt="चित्र 14.8" onclick="openImageModal(this.src, 'चित्र 14.8ः चित्र 14.8 14.8 14.8 14.8 14.8 समय ज से ज+∆ज तक किसी आवृÙिा तरंग का गमनए जहाँ ∆जण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 14.8</strong> fp=k 14.8 14.8 14.8 14.8 14.8 le; t ls t+∆t rd fdlh vko`fÙk rjax dk xeu] tgk¡ ∆t y?kq le; varjky gSA rjax iSVuZ leLr :i ls nkb± vksj LFkkukarfjr gks tkrk gSA rjax dk 'kh"kZ (;k fuf'pr dyk okyk dksbZ vkSj fcanq) le; ∆t esa nwjh ∆x xeu djrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 14.8</strong> चित्र 14.8 14.8 14.8 14.8 14.8 समय ज से ज+∆ज तक किसी आवृÙिा तरंग का गमनए जहाँ ∆ज लघु समय अंतराल है। तरंग पैटर्न समस्त रूप से दाइ्य आेर स्थानांतरित हो जाता है। तरंग का शीर्ष (या निश्चित कला वाला कोर्इ और बिंदु) समय ∆ज में दूरी ∆ग गमन करता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
   </div>
 </div>
@@ -1304,9 +1304,9 @@ s-1
 जब विपरीत दिशाओं में गमन करती दो तरंग स्पंद एक दूसरे को
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_9_hi.png" alt="चित्र 14.9" onclick="openImageModal(this.src, 'चित्र 14.9: 14.5 rjaxksa osQ vè;kjksi.k dk fl¼kar tc foijhr fn&#39;kkvksa esa xeu djrh nks r...')">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_9_hi.png" alt="चित्र 14.9" onclick="openImageModal(this.src, 'चित्र 14.9ः 14.5 तरंगों के अèयारोपण का सि¼ांत जब विपरीत द&ि#39यााओं में गमन करती दो तण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 14.9</strong> 14.5 rjaxksa osQ vè;kjksi.k dk fl¼kar tc foijhr fn'kkvksa esa xeu djrh nks rjax Lian ,d nwljs dks ikj djrs gSa rks D;k gksrk gS (fp=k 14.9)\ ;g ns[kk tkrk gS fd ikj djus osQ ckn Hkh rjax Lian viuk O;f"VRo cuk, j[krh gSA ijarq] vfrO;kiu osQ nkSjku] rjax iSVuZ nksuksa rjax Lianksa ls fHkUu gksrk gSA fp=k 14.9 cjkcj ,oa foijhr vkdkjksa okys nks rjax Lianksa osQ ,d nwljs dh vksj xeu dh fLFkfr n'kkZrk gSA tc Lian vfrO;kfIr gksrs gSa rks ifj.kkeh foLFkkiu i`Fkd&i`Fkd Lianksa osQ dkj.k foLFkkiuksa dk chtxf.krh; ;ksx gksrk gSA bl izdkj tksM+uk rjaxksa dk vè;kjksi.k dk fl¼kar dgykrk gSA bl fl¼kar osQ vuqlkj] izR;sd Lian bl izdkj xeu djrk gS ekuks nwljs Lian fo|eku ugha gSaA vr% ekè;e osQ vo;o nksuksa osQ dkj.k foLFkkfir gksrs gSa vkSj pwafd foLFkkiu èkukRed ;k ½.kkRed gks ldrs gSa] usV foLFkkiu nksuksa foLFkkiuks dk chtxf.krh; ;ksx gksrk gSA fp=k 14.9 fofHkUu le;ksa ij rjax vkdkj dk vkys[k n'kkZrk gSA vkys[k (c) esa fo'ks"k izHkko ij è;ku nsa % nksuksa Lianksa osQ dkj.k i`Fkd&i`Fkd mRiUu foLFkkiu ,d nwljs dks Bhd ls fujLr dj nsrs gSa rFkk izR;sd fcanq ij oqQy foLFkkiu 'kwU; gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 14.9</strong> 14.5 तरंगों के अèयारोपण का सि¼ांत जब विपरीत दशिाओं में गमन करती दो तरंग स्पंद एक दूसरे को पार करते हैं तो क्या होता है (चित्र 14.9)। यह देखा जाता है कि पार करने के बाद भी तरंग स्पंद अपना व्यष्टित्व बनाए रखती है। परंतुए अतिव्यापन के दौरानए तरंग पैटर्न दोनों तरंग स्पंदों से भिनन होता है। चित्र 14.9 बराबर एवं विपरीत आकारों वाले दो तरंग स्पंदों के एक दूसरे की आेर गमन की स्थिति दर्शाता है। जब स्पंद अतिव्याप्ति होते हैं तो परिणामी विस्थापन पृथक&पृथक स्पंदों के कारण विस्थापनों का बीजगणितीय योग होता है। इस प्रकार जोड+ना तरंगों का अèयारोपण का सि¼ांत कहलाता है। इस सि¼ांत के अनुसारए पzत्येक स्पंद इस प्रकार गमन करता है मानो दूसरे स्पंद वि।मान नहीं हैं। अत% माèयम के अवयव दोनों के कारण विस्थापित होते हैं और चूंकि विस्थापन èानात्मक या ½णात्मक हो सकते हैंए नेट विस्थापन दोनों विस्थापनो का बीजगणितीय योग होता है। चित्र 14.9 विभिन्न समयों पर तरंग आकार का आलेख दर्शाता है। आलेख (ब) में विशेष पzभाव पर èयान दें % दोनों स्पंदों के कारण पृथक&पृथक उत्पनन विस्थापन एक दूसरे को झ्ीक से निरस्त कर देते हैं तथा पzत्येक बिंदु पर वुफल विस्थापन शूनय है।</span>
     <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
   </div>
 </div>
@@ -1544,14 +1544,14 @@ y
 आपतित एवं परावर्तित तरंगें परावर्तन के सामान्य नियमों का
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_11_hi.png" alt="चित्र 14.11" onclick="openImageModal(this.src, 'चित्र 14.11: fp=k 14.11 fdlh rkfur Mksjh osQ vuqfn&#39;k xeu djrh rFkk ifjlhek ls ijkofrZr gk...')">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_11_hi.png" alt="चित्र 14.11" onclick="openImageModal(this.src, 'चित्र 14.11ः चित्र 14.11 किसी तानित डोरी के अनुद&ि#39या गमन करती तथा परिसीमा से परावर्तित हाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 14.11</strong> fp=k 14.11 fdlh rkfur Mksjh osQ vuqfn'k xeu djrh rFkk ifjlhek ls ijkofrZr gksrh rjax n'kkZrk gSA ;fn eku ysa fd ifjlhek }kjk ÅtkZ dk dksbZ vo'kks"k.k ugha gksrk gS rks ijkofrZr rjax dk vkdkj ogh gksrk gS tks vkifrr Lian dk gS ijarq ijkorZu ls blosQ dyk esa π ;k 180º dk dykarj mRiUu gks tkrk gSA bldk dkj.k ;g gS fd ifjlhek n`<+ gS rFkk ifjlhek ij lHkh {k.kksa ij fo{kksHk dk foLFkkiu 'kwU; gksuk pkfg,A vè;kjksi.k osQ fl¼kar osQ vuqlkj] ;g rHkh laHko gS tc vkifrr ,oa ijkofrZr rjaxksa esa π dykarj gks rkfd ifj.kkeh foLFkkiu 'kwU; gksA ;g roZQ n`<+ nhokj esa ifjlhek izfrcaèk ij vkèkkfjr gSA bl ifj.kke dks ge xfrdh; n`f"V ls Hkh izkIr dj ldrs gSaA tc Lian nhokj ij igq¡prk gS rks og nhokj ij cy vkjksfir djrk gSA U;wVu osQ rhljs fu;e osQ vuqlkj nhokj Mksjh ij ifj.kke esa leku rFkk fn'kk esa foijhr cy vkjksfir
+    <span class="diagram-caption-text"><strong>चित्र 14.11</strong> चित्र 14.11 किसी तानित डोरी के अनुदशि गमन करती तथा परिसीमा से परावर्तित होती तरंग दर्शाता है। यद िमान लें कि परिसीमा द्वारा ऊर्जा का कोर्इ अवशोषण नहीं होता है तो परावर्तित तरंग का आकार वही होता है जो आपतित स्पंद का है परंतु परावर्तन से इसके कला में π या 180º का कलांतर उत्पनन हो जाता है। इसका कारण यह है कि परिसीमा दृ<+ है तथा परिसीमा पर सभी {ाणों पर वि{ाोभ का विस्थापन शूनय होना चाहिए। अèयारोपण के सि¼ांत के अनुसारए यह तभी संभव है जब आपतित एवं परावर्तित तरंगों में π कलांतर हो ताकि परिणामी विस्थापन शूनय हो। यह तर्वफ दृ<+ दीवार में परिसीमा पzतिबंèा पर आèाारित है। इस परिणाम को हम गतिकीय दृष्टि से भी पzाप्त कर सकते हैं। जब स्पंद दीवार पर पहुँचता है तो वह दीवार पर बल आरोपित करता है। नयूटन के तीसरे नियम के अनुसार दीवार डोरी पर परिणाम में समान तथा दशिा में विपरीत बल आरोपित
 
-<div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_10_hi.png" alt="चित्र 14.10" onclick="openImageModal(this.src, 'चित्र 14.10: (14.34) nks rjaxksa dk fouk&#39;kh O;frdj.k n&#39;kkZrk gS ftlesa ifj.kkeh rjax ...')">
-  <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 14.10</strong> (14.34) nks rjaxksa dk fouk'kh O;frdj.k n'kkZrk gS ftlesa ifj.kkeh rjax esa nksuksa vk;ke dk varj gksrk gSA fp=k 14.10 O;frdj.k osQ bu nksuksa izdj.kksa dks n'kkZrk gS tks vè;kjksi.k osQ fl¼kar dk ifj.kke gSA</span>
+<कपअ बसंेे=ष्दबमतज-कपंहतंउ-बंतकष्>
+ <पउह ेतब=ष्कंजंधकपंहतंउेध11जी_चीलेपबे_बी14_ूंअमे_पिह_14_10_ीपण्चदहष् ंसज=ष्चित्र 14.10ष् वदबसपबा=ष्वचमदप्उंहमडवकंस(जीपेण्ेतबए श्चित्र 14.10ः (14.34) दो तरंगों का विना&#39याी व्यतिकरण द&#39र्यााता है जिसमें परिणामी तरंग ण्ण्ण्श्)ष्>
+ <कपअ बसंेे=ष्कपंहतंउ-बंचजपवद-इवगष्>
+ <ेचंद बसंेे=ष्कपंहतंउ-बंचजपवद-जमगजष्><ेजतवदह>चित्र 14.10<धेजतवदह> (14.34) दो तरंगों का विनाशी व्यतिकरण दर्शाता है जिसमें परिणामी तरंग में दोनों आयाम का अंतर होता है। चित्र 14.10 व्यतिकरण के इन दोनों पzकरणों को दर्शाता है जो अèयारोपण के सि¼ांत का परिणाम है।</span>
     <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
   </div>
 </div>
@@ -1703,9 +1703,9 @@ wt अलग-अलग विद्यमान हैं, न कि (kx – wt
 कहते हैं तथा जिन बिंदुओं पर अधिकतम होता है उन्हें प्रस्पंद
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_12_hi.png" alt="चित्र 14.12" onclick="openImageModal(this.src, 'चित्र 14.12: fp=k 14.12 14.12 14.12 14.12 14.12 foijhr fn&#39;kkvksa esa xeu djrh nks vkorhZ ...')">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_12_hi.png" alt="चित्र 14.12" onclick="openImageModal(this.src, 'चित्र 14.12ः चित्र 14.12 14.12 14.12 14.12 14.12 विपरीत द&ि#39यााओं में गमन करती दो आवर्ती ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 14.12</strong> fp=k 14.12 14.12 14.12 14.12 14.12 foijhr fn'kkvksa esa xeu djrh nks vkorhZ rjaxksa osQ vè;kjksi.k ls mRiUu vizxkeh rjaxsaA è;ku nsa fd fuLianksa ('kwU; foLFkkiu okys fcanq) dh fLFkfr lHkh le;ksa ij vifjofrZr jgrh gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 14.12</strong> चित्र 14.12 14.12 14.12 14.12 14.12 विपरीत दशिाओं में गमन करती दो आवर्ती तरंगों के अèयारोपण से उत्पनन अपzगामी तरंगें। èयान दें कि निस्पंदों (शूनय विस्थापन वाले बिंदु) की स्थिति सभी समयों पर अपरिवर्तित रहती है।</span>
     <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
   </div>
 </div>
@@ -1883,9 +1883,9 @@ A
 .......
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_13_hi.png" alt="चित्र 14.13" onclick="openImageModal(this.src, 'चित्र 14.13: fp=k 14.13 eas nksuksa fljksa ij ifjc¼ rkfur Mksjh eas izFke N% xq.kko`fÙk;k¡ n&...')">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_13_hi.png" alt="चित्र 14.13" onclick="openImageModal(this.src, 'चित्र 14.13ः चित्र 14.13 मंे दोनों सिरों पर परिब¼ तानित डोरी मंे पzथम छ% गुणावृÙिायाँ द&ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 14.13</strong> fp=k 14.13 eas nksuksa fljksa ij ifjc¼ rkfur Mksjh eas izFke N% xq.kko`fÙk;k¡ n'kkZ;h xbZ gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 14.13</strong> चित्र 14.13 मंे दोनों सिरों पर परिब¼ तानित डोरी मंे पzथम छ% गुणावृÙिायाँ दर्शायी गर्इ हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
   </div>
 </div>
@@ -2089,9 +2089,9 @@ n = 0, 1, 2, 3...
 (n+1/2), n = 0, 1, 2, 3...
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_14_hi.png" alt="चित्र 14.14" onclick="openImageModal(this.src, 'चित्र 14.14: fp=k 14.14 14.14 14.14 14.14 14.14 ,d fljs ls [kqys rFkk nwljs fljs ij can fdlh ...')">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_14_hi.png" alt="चित्र 14.14" onclick="openImageModal(this.src, 'चित्र 14.14ः चित्र 14.14 14.14 14.14 14.14 14.14 एक सिरे से खुले तथा दूसरे सिरे पर बंद किसी ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 14.14</strong> fp=k 14.14 14.14 14.14 14.14 14.14 ,d fljs ls [kqys rFkk nwljs fljs ij can fdlh ok;q&dkWye dh oqQN izlkekU; foèkk,¡A osQoy fo"ke foèkk,¡ laHko gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 14.14</strong> चित्र 14.14 14.14 14.14 14.14 14.14 एक सिरे से खुले तथा दूसरे सिरे पर बंद किसी वायु&काॅलम की कुछ पzसामानय विèााएँ। केवल विषम विèााएँ संभव हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
   </div>
 </div>
@@ -2105,9 +2105,9 @@ n = 0, 1, 2, 3...
 गुणावृत्तियाँ उत्पन्न होती हैं (देखें
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_15_hi.png" alt="चित्र 14.15" onclick="openImageModal(this.src, 'चित्र 14.15: fp=k 14.15 14.15 14.15 14.15 14.15 fdlh [kqys ikbi eas vizxkeh rjaxsa A igyh pkj...')">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_15_hi.png" alt="चित्र 14.15" onclick="openImageModal(this.src, 'चित्र 14.15ः चित्र 14.15 14.15 14.15 14.15 14.15 किसी खुले पाइप मंे अपzगामी तरंगें । पहली चारण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 14.15</strong> fp=k 14.15 14.15 14.15 14.15 14.15 fdlh [kqys ikbi eas vizxkeh rjaxsa A igyh pkj xq.kko`fÙk;k¡ n'kkZ;h xbZ gSa A</span>
+    <span class="diagram-caption-text"><strong>चित्र 14.15</strong> चित्र 14.15 14.15 14.15 14.15 14.15 किसी खुले पाइप मंे अपzगामी तरंगें । पहली चार गुणावृÙिायाँ दर्शायी गर्इ हैं ।</span>
     <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
   </div>
 </div>
@@ -2395,9 +2395,9 @@ Ubeat = V1-V2
 11 Hz तथा 9 Hz के दो आवृत्ति तरंगों से उत्पन्न विस्पंद
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_16_hi.png" alt="चित्र 14.16" onclick="openImageModal(this.src, 'चित्र 14.16: 11 Hz rFkk 9 Hz osQ nks vko`fÙk rjaxksa ls mRiUu foLian dh ifj?kVuk fp=k 14.16 n...')">
+  <img src="data/diagrams/11th_physics_ch14_waves_fig_14_16_hi.png" alt="चित्र 14.16" onclick="openImageModal(this.src, 'चित्र 14.16ः 11 भ्z तथा 9 भ्z के दो आवृÙिा तरंगों से उत्पनन विस्पंद की परिघटना चित्र 14.16 दण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 14.16</strong> 11 Hz rFkk 9 Hz osQ nks vko`fÙk rjaxksa ls mRiUu foLian dh ifj?kVuk fp=k 14.16 n'kkZrk gSA ifj.kkeh rjax dk vk;ke</span>
+    <span class="diagram-caption-text"><strong>चित्र 14.16</strong> 11 भ्z तथा 9 भ्z के दो आवृÙिा तरंगों से उत्पनन विस्पंद की परिघटना चित्र 14.16 दर्शाता है। परिणामी तरंग का आयाम</span>
     <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
   </div>
 </div>

@@ -252,9 +252,9 @@ H₂O
 उपापचय के बाद के क्रम एक समान होते हैं। ग्लाइकोलिसिस
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_biology_ch12_respiration_in_plants_fig_12_hi.png" alt="चित्र 12" onclick="openImageModal(this.src, 'चित्र 12: Xywdkst ,oa izqQDVkst] gsDlksdkbust ,atkbe }kjk iQkWLiQfjÑr gksdj Xywdkst&6 iQkW...')">
+  <img src="data/diagrams/11th_biology_ch12_respiration_in_plants_fig_12_hi.png" alt="चित्र 12" onclick="openImageModal(this.src, 'चित्र 12ः ग्लूकोज एवं पzुफक्टोजए हेक्सोकाइनेज एंजाइम द्वारा पफाॅस्पफरिÑत होकर ग्लूकोज&6 पफाॅण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 12</strong> Xywdkst ,oa izqQDVkst] gsDlksdkbust ,atkbe }kjk iQkWLiQfjÑr gksdj Xywdkst&6 iQkWLiQsV cukrs gSaA Xywdkst dk iQkWLiQfjÑr :i lek;ohdj.k }kjk izqQDVkst&6 iQkWLisQV esa ifjofrZr gks tkrk gSA Xywdkst ,oa izqQDVkst osQ mikip; osQ ckn osQ Øe ,d leku gksrs gSaA Xykbdksfyfll osQ fofHkUu pj.k fp=k 12-1 esa n'kkZ, x, gSaA XykboQhfyll esa nl Ük`a[kykc¼ vfHkfØ;kvksa esa fofHkUu ,atkbe }kjk Xywdkst ls ikb#osV dk fuekZ.k gksrk gSA Xykbdksfyfll osQ fofHkUu pj.kksa osQ vè;;u osQ nkSjku mu pj.kksa ij è;ku nsa ftlesa ,Vhih dk mi;ksx (,Vhih ÅtkZ) vFkok la'ys"k.k (bl ekeys esa NADH+H+) gksrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 12</strong> ग्लूकोज एवं पzुफक्टोजए हेक्सोकाइनेज एंजाइम द्वारा पफाॅस्पफरिÑत होकर ग्लूकोज&6 पफाॅस्पफेट बनाते हैं। ग्लूकोज का पफाॅस्पफरिÑत रूप समायवीकरण द्वारा पzुफक्टोज&6 पफाॅस्पेफट में परिवर्तित हो जाता है। ग्लूकोज एवं पzुफक्टोज के उपापचय के बाद के Øम एक समान होते हैं। ग्लाइकोलिसिस के विभिन्न चरण चित्र 12.1 में दर्शाए गए हैं। ग्लाइवफीलिसस में दस Üाृंखलाब¼ अभिØियाओं में विभिन्न एंजाइम द्वारा ग्लूकोज से पाइ#वेट का निर्माण होता है। ग्लाइकोलिसिस के विभिन्न चरणों के अèययन के दौरान उन चरणों पर èयान दें जिसमें एटीपी का उपयोग (एटीपी ऊर्जा) अथवा संश्लेषण (इस मामले में छ। क्भ्+भ्+) होता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -584,9 +584,9 @@ FADH, की क्या भूमिका होगी। हमें अब
 ## 📄 Page 8
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_biology_ch12_respiration_in_plants_fig_14_hi.png" alt="चित्र 14" onclick="openImageModal(this.src, 'चित्र 14: fp=k 14-4 bysDVªkWu ra=k...')">
+  <img src="data/diagrams/11th_biology_ch12_respiration_in_plants_fig_14_hi.png" alt="चित्र 14" onclick="openImageModal(this.src, 'चित्र 14ः चित्र 14.4 इलेक्टªाॅन तंत्रण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 14</strong> fp=k 14-4 bysDVªkWu ra=k</span>
+    <span class="diagram-caption-text"><strong>चित्र 14</strong> चित्र 14.4 इलेक्टªाॅन तंत्र</span>
     <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
   </div>
 </div>

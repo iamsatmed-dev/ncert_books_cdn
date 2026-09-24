@@ -127,9 +127,9 @@ hed
 भाग मूल तंत्र जबकि ऊपरी भाग प्ररोह तंत्र होता है (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_biology_ch05_morphology_of_flowering_plants_fig_5_hi.png" alt="चित्र 5" onclick="openImageModal(this.src, 'चित्र 5: ;fn vki fdlh [kjirokj dks m[kkM+sa rks vki ns[ksaxs fd mu lHkh esa ewy] ruk rFkk...')">
+  <img src="data/diagrams/11th_biology_ch05_morphology_of_flowering_plants_fig_5_hi.png" alt="चित्र 5" onclick="openImageModal(this.src, 'चित्र 5ः यद िआप किसी खरपतवार को उखाड+ें तो आप देखेंगे कि उन सभी में मूल, तना तथाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5</strong> ;fn vki fdlh [kjirokj dks m[kkM+sa rks vki ns[ksaxs fd mu lHkh esa ewy] ruk rFkk ifÙk;k¡ gksrh gSaA muesa iwQy rFkk iQy Hkh yxs gks ldrs gSaA iq"ih ikni dk Hkwfexr Hkkx ewy ra=k tcfd Åijh Hkkx izjksg ra=k gksrk gS (fp=k 5-1)A</span>
+    <span class="diagram-caption-text"><strong>चित्र 5</strong> यद िआप किसी खरपतवार को उखाड+ें तो आप देखेंगे कि उन सभी में मूलए तना तथा पÙिायाँ होती हैं। उनमें पूफल तथा पफल भी लगे हो सकते हैं। पुष्पी पादप का भूमिगत भाग मूल तंत्र जबकि ऊपरी भाग पzरोह तंत्र होता है (चित्र 5.1)।</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>

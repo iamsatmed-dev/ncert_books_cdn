@@ -221,9 +221,9 @@ not
 &
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_biology_ch08_cell_the_unit_of_life_fig_8_hi.png" alt="चित्र 8" onclick="openImageModal(this.src, 'चित्र 8: dksf&#39;kdk,a eki] vkdkj o dk;Z dh n`f&quot;V ls dkiQh fHkUu gksrh gSa (fp=k 8-...')">
+  <img src="data/diagrams/11th_biology_ch08_cell_the_unit_of_life_fig_8_hi.png" alt="चित्र 8" onclick="openImageModal(this.src, 'चित्र 8ः को&ि#39याकाएं मापए आकार व कार्य की दृ&िुनवजयट से कापफी भिनन होती हैं (चित्र 8-ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8</strong> dksf'kdk,a eki] vkdkj o dk;Z dh n`f"V ls dkiQh fHkUu gksrh gSa (fp=k 8-1)A mnkgj.kkFkZ& lcls NksVh dksf'kdk ekbdksIykTek 0-3 µm (ekbØksehVj) yackbZ dh] tcfd thok.kq (cSDVhfj;k)esa 3 ls 5 µm (ekbØksehVj) dh gksrh gSaA i`Fkd dh xbZ lcls cM+h dksf'kdk 'kqrjeqxZ osQ vaMs osQ leku gSA cgqdksf'kdh; tho/kfj;ksa esa euq"; dh yky jDr dksf'kdk dk O;kl yxHkx 7-0 µm (ekbØksehVj) gksrk gSA raf=kdk dksf'kdk,a lcls yach dksf'kdkvksa esa gksrh gSaA ;s fcackdkj cgqHkqth] LraHkh] ?kukHk] èkkxs dh rjg ;k vlekÑfr izdkj dh gks ldrh gaSA dksf'kdkvksa dk :i muosQ dk;Z osQ vuqlkj fHkUu gks ldrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 8</strong> कोशिकाएं मापए आकार व कार्य की दृष्टि से कापफी भिनन होती हैं (चित्र 8.1)। उदाहरणार्थ& सबसे छोटी कोशिका माइकोप्लाज्मा 0-3 ष्टउ (माइØोमीटर) लंबार्इ कीए जबकि जीवाणु (बैक्टीरिया)में 3 से 5 ष्टउ (माइØोमीटर) की होती हैं। पृथक की गर्इ सबसे बड+ी कोशिका शुतरमुर्ग के अंडे के समान है। बहुकोशिकीय जीवधारियों में मनुष्य की लाल रक्त कोशिका का व्यास लगभग 7-0 ष्टउ (माइØोमीटर) होता है। तं=िाका कोशिकाएं सबसे लंबी कोशिकाओं में होती हैं। ये बिंबाकार बहुभुजीए स्तंभीए घनाभए èाागे की तरह या असमाÑति प्रकार की हो सकती हंै। कोशिकाओं का रूप उनके कार्य के अनुसार भिनन हो सकता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>

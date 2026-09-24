@@ -184,9 +184,9 @@ not
 (बैरियर), आईयूडीज (कापर टी) मुँह से लेने योग्य गर्भ निरोधक, टीका रूप में, अंतर्रोप
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch03_reproductive_health_fig_3_hi.png" alt="चित्र 3" onclick="openImageModal(this.src, 'चित्र 3: jks/ (cSfj;j) fof/;ksa osQ varxZr jks/d lk/uksa osQ ekè;e ls vaMk.kq vkSj &#39;k...')">
+  <img src="data/diagrams/12th_biology_ch03_reproductive_health_fig_3_hi.png" alt="चित्र 3" onclick="openImageModal(this.src, 'चित्र 3ः रोध (बैरियर) विधयिों के अंतर्गत रोधक साधनों के माèयम से अंडाणु और &#39याण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3</strong> jks/ (cSfj;j) fof/;ksa osQ varxZr jks/d lk/uksa osQ ekè;e ls vaMk.kq vkSj 'kqØk.kq dks HkkSfrd :i ls feyus ls jksdk tkrk gSA bl izdkj osQ mik; iq#"k ,oa L=kh] nksuksa osQ fy, miyC/ gSaA daMkse (fujks/) (fp=k 3-1 v vkSj c) vkfn jks/d mik; gSa ftUgsa iryh jcj ;k ysVsDl ls cuk;k tkrk gS rkfd bl osQ mi;ksx ls iq#"k osQ fyax ;k L=kh dh ;ksfu ,oa xHkkZ'k; xzhok dks laHkksx ls Bhd igys] <d fn;k tk, vkSj L[kfyr 'kqØk.kq L=kh osQ tuuekxZ esa ugha ?kql losQA ;g xHkkZèkku dks cpk ldrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 3</strong> रोध (बैरियर) विधयिों के अंतर्गत रोधक साधनों के माèयम से अंडाणु और शुक्राणु को भौतिक रूप से मिलने से रोका जाता है। इस प्रकार के उपाय पुरुष एवं स्त्रीए दोनों के लिए उपलऋध हैं। कंडोम (निरोध) (चित्र 3.1 अ और ब) आद िरोधक उपाय हैं जिनहें पतली रबर या लेटेक्स से बनाया जाता है ताकि इस के उपयोग से पुरुष के लिंग या स्त्री की योनि एवं गर्भाशय गzीवा को संभोग से झ्ीक पहलेए <क दयिा जाए और स्खलित शुक्राणु स्त्री के जननमार्ग में नहीं घुस सके। यह गर्भाèाान को बचा सकता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -212,9 +212,9 @@ not
 दुष्प्रभाव लगभग शून्य के बराबर हैं। हालाँकि, इसके असफल रहने की दर काफी
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch03_reproductive_health_fig_3_1_hi.png" alt="चित्र 3.1" onclick="openImageModal(this.src, 'चित्र 3.1: fp=k 3.1 (c) L=kh osQ fy, oaQMkse...')">
+  <img src="data/diagrams/12th_biology_ch03_reproductive_health_fig_3_1_hi.png" alt="चित्र 3.1" onclick="openImageModal(this.src, 'चित्र 3.1ः चित्र 3.1 (ब) स्त्री के लिए वंफडोमण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.1</strong> fp=k 3.1 (c) L=kh osQ fy, oaQMkse</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.1</strong> चित्र 3.1 (ब) स्त्री के लिए वंफडोम</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -235,9 +235,9 @@ not
 ## 📄 Page 5
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch03_reproductive_health_fig_3_2_hi.png" alt="चित्र 3.2" onclick="openImageModal(this.src, 'चित्र 3.2: fp=k 3.2 dkWij Vh...')">
+  <img src="data/diagrams/12th_biology_ch03_reproductive_health_fig_3_2_hi.png" alt="चित्र 3.2" onclick="openImageModal(this.src, 'चित्र 3.2ः चित्र 3.2 काॅपर टीण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.2</strong> fp=k 3.2 dkWij Vh</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.2</strong> चित्र 3.2 काॅपर टी</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>
@@ -304,9 +304,9 @@ not
 संयोजन भी टीके या त्वचा के नीचे अंतर्रोप (इंप्लांट) के रूप में किया
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch03_reproductive_health_fig_3_3_hi.png" alt="चित्र 3.3" onclick="openImageModal(this.src, 'चित्र 3.3: fp=k 3.3 varjksZi...')">
+  <img src="data/diagrams/12th_biology_ch03_reproductive_health_fig_3_3_hi.png" alt="चित्र 3.3" onclick="openImageModal(this.src, 'चित्र 3.3ः चित्र 3.3 अंतर्रोपण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.3</strong> fp=k 3.3 varjksZi</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.3</strong> चित्र 3.3 अंतर्रोप</span>
     <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
   </div>
 </div>
@@ -336,9 +336,9 @@ shed
 ही प्रभावशाली होती हैं पर इनमें पूर्वस्थित लाने की गुंजाइश बहुत ही कम होती है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch03_reproductive_health_fig_3_4_hi.png" alt="चित्र 3.4" onclick="openImageModal(this.src, 'चित्र 3.4: fp=k 3.4 (v) &#39;kqØokfgdk&mPNsnu fp=k 3.4 (c) Mac okfguh uyh (iSQyksihufydk)&m...')">
+  <img src="data/diagrams/12th_biology_ch03_reproductive_health_fig_3_4_hi.png" alt="चित्र 3.4" onclick="openImageModal(this.src, 'चित्र 3.4ः चित्र 3.4 (अ) &#39याुØवाहिका&उच्छेदन चित्र 3.4 (ब) डंब वाहिनी नली (पैफलोपीनलिका)&उण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.4</strong> fp=k 3.4 (v) 'kqØokfgdk&mPNsnu fp=k 3.4 (c) Mac okfguh uyh (iSQyksihufydk)&mPNsnu</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.4</strong> चित्र 3.4 (अ) शुक्रवाहिका&उच्छेदन चित्र 3.4 (ब) डंब वाहिनी नली (पैफलोपीनलिका)&उच्छेदन</span>
     <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
   </div>
 </div>

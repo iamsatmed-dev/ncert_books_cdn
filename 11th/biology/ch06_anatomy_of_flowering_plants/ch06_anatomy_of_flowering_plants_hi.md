@@ -70,9 +70,9 @@ not
 कोशिकाएं कहते हैं। रंध्रीय छिद्र, द्वारकोशिका तथा सहायक कोशिकाएं मिलकर रंध्री तंत्र
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_biology_ch06_anatomy_of_flowering_plants_fig_6_hi.png" alt="चित्र 6" onclick="openImageModal(this.src, 'चित्र 6: fp=k 6-1 ja/zh ra=k (v) lse osQ vkdkj okyh }kj dksf&#39;kdk lfgr ja/z (c) Macykd...')">
+  <img src="data/diagrams/11th_biology_ch06_anatomy_of_flowering_plants_fig_6_hi.png" alt="चित्र 6" onclick="openImageModal(this.src, 'चित्र 6ः चित्र 6.1 रंधzी तंत्र (अ) सेम के आकार वाली ।ार को&ि#39याका सहित रंधz (ब) डंबलाकण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6</strong> fp=k 6-1 ja/zh ra=k (v) lse osQ vkdkj okyh }kj dksf'kdk lfgr ja/z (c) Macykdkj }kj dksf'kdk lfgr ja/z</span>
+    <span class="diagram-caption-text"><strong>चित्र 6</strong> चित्र 6.1 रंधzी तंत्र (अ) सेम के आकार वाली ।ार कोशिका सहित रंधz (ब) डंबलाकार ।ार कोशिका सहित रंधz</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>

@@ -58,9 +58,9 @@ blished
 ## 📄 Page 2
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_hi.png" alt="चित्र 4" onclick="openImageModal(this.src, 'चित्र 4: izk.kh dks lefefr osQ vk/kj ij Hkh Js.khc¼ fd;k tk ldrk gSA Liat eq[;r% vlefefr ...')">
+  <img src="data/diagrams/11th_biology_ch04_animal_kingdom_fig_4_hi.png" alt="चित्र 4" onclick="openImageModal(this.src, 'चित्र 4ः पzाणी को सममिति के आधार पर भी Jेणीब¼ किया जा सकता है। स्पंज मुख्यत% असममिति ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4</strong> izk.kh dks lefefr osQ vk/kj ij Hkh Js.khc¼ fd;k tk ldrk gSA Liat eq[;r% vlefefr gksrs gSa_ vFkkZr~ fdlh Hkh osaQnzh; v{k ls xqtjus okyh js[kk bUgsa nks cjkcj Hkkxksa foHkkftr ugha djrhA tc fdlh Hkh osaQnzh; v{k ls xqtjus okyh js[kk izkf.k osQ 'kjhj dks nks le:i Hkkxksa esa foHkkftr djrh gS rks bls vjh; lefefr dgrs gSaA lhysaVjsV] VhuksiQksj] rFkk ,dkbuksMeZ esa blh izdkj dh lefefr gksrh gS (fp=k 4-1 v)A fdarq ,susfyM] vkFkksZiksM] vkfn esa ,d gh v{k ls xqtjus okyh js[kk }kjk 'kjhj nks le:i nk,a o ck,a Hkkx esa ck¡Vk tk ldrk gSA bls f}ik'oZ lefefr dgrs gSaA (fp=k 4-1 c)</span>
+    <span class="diagram-caption-text"><strong>चित्र 4</strong> पzाणी को सममिति के आधार पर भी Jेणीब¼ किया जा सकता है। स्पंज मुख्यत% असममिति होते हैं_ अर्थात~ किसी भी वेंफदzीय अ{ा से गुजरने वाली रेखा इनहें दो बराबर भागों विभाजित नहीं करती। जब किसी भी वेंफदzीय अ{ा से गुजरने वाली रेखा पzाणि के शरीर को दो समरूप भागों में विभाजित करती है तो इसे अरीय सममिति कहते हैं। सीलेंटरेटए टीनोपफोरए तथा एकाइनोडर्म में इसी प्रकार की सममिति होती है (चित्र 4.1 अ)। किंतु एेनेलिडए आर्थोपोडए आद िमें एक ही अ{ा से गुजरने वाली रेखा द्वारा शरीर दो समरूप दाएं व बाएं भाग में बाँटा जा सकता है। इसे ।िपाश्र्व सममिति कहते हैं। (चित्र 4.1 ब)</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>

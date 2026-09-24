@@ -127,9 +127,9 @@ not to
 जब उसके दाब, आयतन, ताप, द्रव्यमान के परिमाण तथा संगठन
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch11_thermodynamics_fig_11_hi.png" alt="चित्र 11" onclick="openImageModal(this.src, 'चित्र 11: fp=k 11 11 11 11 11-1 1 1 1 1 (a) (nks xSlksa osQ) fudk; A o B ,d #¼ks&quot;e nh...')">
+  <img src="data/diagrams/11th_physics_ch11_thermodynamics_fig_11_hi.png" alt="चित्र 11" onclick="openImageModal(this.src, 'चित्र 11ः चित्र 11 11 11 11 11-1 1 1 1 1 (ं) (दो गैसों के) निकाय । व झ् एक #¼ो&ुनवजयम दीण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 11</strong> fp=k 11 11 11 11 11-1 1 1 1 1 (a) (nks xSlksa osQ) fudk; A o B ,d #¼ks"e nhokj ls i`Fko~Q gSa % bl nhokj ls mQ"ek vkj&ikj ugha tk ikrh A (b) ;gh fudk; A o B ,d mQ"ek&ikFkZ nhokj ls i`Fko~Q n'kkZ, x, gSa A ;g ,d pkyd nhokj gksrh gS ftlls mQ"ek ,d fudk; ls nwljs esa pyh tkrh gS A bl mnkgj.k esa rkih; lkE; ;Fkksfpr le; esa izkIr gks tkrk gS A</span>
+    <span class="diagram-caption-text"><strong>चित्र 11</strong> चित्र 11 11 11 11 11-1 1 1 1 1 (ं) (दो गैसों के) निकाय । व झ् एक #¼ोष्म दीवार से पृथव~फ हैं % इस दीवार से उफष्मा आर&पार नहीं जा पाती । (इ) यही निकाय । व झ् एक उफष्मा&पार्थ दीवार से पृथव~फ दर्शाए गए हैं । यह एक चालक दीवार होती है जिससे उफष्मा एक निकाय से दूसरे में चली जाती है । इस उदाहरण में तापीय साम्य यथोचित समय में पzाप्त हो जाता है ।</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>
@@ -1466,9 +1466,9 @@ W = P (V₂-V₁) = μR (T2-T₁)
 भंडार से) समतापीय विधि द्वारा होना चाहिए तथा (अपेक्षाकृत
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch11_thermodynamics_fig_11_9_hi.png" alt="चित्र 11.9" onclick="openImageModal(this.src, 'चित्र 11.9: ge tkurs gSa fd dkuksZ batu ,d mRØe.kh; batu gSA okLro esa ;gh ,dek=k ,slk batu ...')">
+  <img src="data/diagrams/11th_physics_ch11_thermodynamics_fig_11_9_hi.png" alt="चित्र 11.9" onclick="openImageModal(this.src, 'चित्र 11ण्9ः हम जानते हैं कि कार्नो इंजन एक उत्Øमणीय इंजन है। वास्तव में यही एकमा=ा एेसा इंजन ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 11.9</strong> ge tkurs gSa fd dkuksZ batu ,d mRØe.kh; batu gSA okLro esa ;gh ,dek=k ,slk batu laHko gS tks fHkUu rkiksa osQ nks mQ"ek HkaMkjksa osQ eè; dk;Z djrk gSA fp=k 11.9 esas n'kkZ, dkuksZ pØ dk gj pj.k mRozQfer fd;k tk ldrk gSA ;g ml izØe osQ leku gksrk gS] ftlesa T2 rki ij BaMs mQ"ek HkaMkj ls Q2 mQ"ek yh tkrh gS] fudk; ij W dk;Z fd;k tkrk gS] rFkk xje mQ"ek HkaMkj dks Q1 mQ"ek LFkkukarfjr dj nh tkrh gSA ;g ;qfDr ,d mRØe.kh; iz'khrd gksxhA</span>
+    <span class="diagram-caption-text"><strong>चित्र 11.9</strong> हम जानते हैं कि कार्नो इंजन एक उत्Øमणीय इंजन है। वास्तव में यही एकमा=ा एेसा इंजन संभव है जो भिनन तापों के दो उफष्मा भंडारों के मèय कार्य करता है। चित्र 11.9 मेंे दर्शाए कार्नो चक्र का हर चरण उत्वzफमित किया जा सकता है। यह उस पzØम के समान होता हैए जिसमें ज्2 ताप पर झ्ंडे उफष्मा भंडार से फ2 उफष्मा ली जाती हैए निकाय पर ॅ कार्य किया जाता हैए तथा गरम उफष्मा भंडार को फ1 उफष्मा स्थानांतरित कर दी जाती है। यह युक्ति एक उत्Øमणीय पzशीतक होगी।</span>
     <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
   </div>
 </div>
@@ -1747,9 +1747,9 @@ T₁
 लिए अंतिम परिणाम, समीकरण (11.27), किसी भी कार्नो
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch11_thermodynamics_fig_11_10_hi.png" alt="चित्र 11.10" onclick="openImageModal(this.src, 'चित्र 11.10: fp=k 11.10 11.10 11.10 11.10 11.10 mRØe.kh; iz&#39;khrd (R) ls la;qDr ,d vuqRØe....')">
+  <img src="data/diagrams/11th_physics_ch11_thermodynamics_fig_11_10_hi.png" alt="चित्र 11.10" onclick="openImageModal(this.src, 'चित्र 11.10ः चित्र 11.10 11.10 11.10 11.10 11.10 उत्Øमणीय पz&#39याीतक (त्) से संयुक्त एक अनुत्Øमण्ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 11.10</strong> fp=k 11.10 11.10 11.10 11.10 11.10 mRØe.kh; iz'khrd (R) ls la;qDr ,d vuqRØe.kh; batu (I) A ;fn W ′ > W, rks bldk vk'k; ;g gqvk fd vo'kks"kd ls W1 – W mQ"ek fudkydj mls iw.kZr% dk;Z esa :ikarfjr dj fn;k x;k gS] tks mQ"ekxfrdh osQ nwljs fu;e osQ foijhr gS A</span>
+    <span class="diagram-caption-text"><strong>चित्र 11.10</strong> चित्र 11.10 11.10 11.10 11.10 11.10 उत्Øमणीय पzशीतक (त्) से संयुक्त एक अनुत्Øमणीय इंजन (प्) । यद िॅ ′ > ॅए तो इसका आशय यह हुआ कि अवशोषक से ॅ1 – ॅ उफष्मा निकालकर उसे पूर्णत% कार्य में रूपांतरित कर दयिा गया हैए जो उफष्मागतिकी के दूसरे नियम के विपरीत है ।</span>
     <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
   </div>
 </div>

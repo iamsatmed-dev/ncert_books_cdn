@@ -363,9 +363,9 @@ alishe
 संभव हैं – ठोस, द्रव और गैस। इन तीनों अवस्थाओं में द्रव्य के
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_chemistry_ch01_some_basic_concepts_of_chemistry_fig_1_hi.png" alt="चित्र 1" onclick="openImageModal(this.src, 'चित्र 1: nzO; dgykrh gSA gekjs vklikl dh lHkh oLrq,¡ nzO; }kjk cuh gksrh gSaA mnkgj.k osQ...')">
+  <img src="data/diagrams/11th_chemistry_ch01_some_basic_concepts_of_chemistry_fig_1_hi.png" alt="चित्र 1" onclick="openImageModal(this.src, 'चित्र 1ः दzव्य कहलाती है। हमारे आसपास की सभी वस्तुएँ दzव्य द्वारा बनी होती हैं। उदाहरण केण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1</strong> nzO; dgykrh gSA gekjs vklikl dh lHkh oLrq,¡ nzO; }kjk cuh gksrh gSaA mnkgj.k osQ fy,µiqLrd] dye] isfUly] ty] ok;q] lHkh tho vkfn nzO; ls cus gksrs gSaA vki tkurs gSa fd bu lHkh dk nzO;eku gksrk gS vkSj ;s LFkku ?ksjrh gSaA vkb,] ge nzO; dh voLFkkvksa osQ xq.k/eksZa dks ;kn djsa ftUgsa vkius fiNyh d{kkvksa esa i<+k gSA 1-2-1 nzO; dh voLFkk,¡ vki ;g tkurs gSa fd nzO; dh rhu HkkSfrd voLFkk,¡ laHko gSaµ Bksl] nzo vkSj xSlA bu rhuksa voLFkkvksa esa nzO; osQ ?kVd&d.kksa dks fp=k 1-1 esa n'kkZ;k x;k gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 1</strong> दzव्य कहलाती है। हमारे आसपास की सभी वस्तुएँ दzव्य द्वारा बनी होती हैं। उदाहरण के लिएष्टपुस्तकए कलमए पेनसिलए जलए वायुए सभी जीव आद िदzव्य से बने होते हैं। आप जानते हैं कि इन सभी का दzव्यमान होता है और ये स्थान घेरती हैं। आइएए हम दzव्य की अवस्थाओं के गुणधर्मों को याद करें जिनहें आपने पिछली क{ााओं में प<+ा है। 1-2-1 दzव्य की अवस्थाएँ आप यह जानते हैं कि दzव्य की तीन भौतिक अवस्थाएँ संभव हैंष्ट झ्ोसए दzव और गैस। इन तीनों अवस्थाओं में दzव्य के घटक&कणों को चित्र 1.1 में दर्शाया गया है।</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -2104,9 +2104,9 @@ H
 यौगिकों में धनात्मक (सोडियम आयन) और ऋणात्मक (क्लोराइड
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_chemistry_ch01_some_basic_concepts_of_chemistry_fig_1_10_hi.png" alt="चित्र 1.10" onclick="openImageModal(this.src, 'चित्र 1.10: 1-7-4 lw=k&æO;eku oqQN inkFkks± (tSls – lksfM;e DyksjkbM) esa mudh ?kVd bdkb;ksa...')">
+  <img src="data/diagrams/11th_chemistry_ch01_some_basic_concepts_of_chemistry_fig_1_10_hi.png" alt="चित्र 1.10" onclick="openImageModal(this.src, 'चित्र 1.10ः 1-7-4 सू=ा&æव्यमान कुछ पदाथो्य (जैसे – सोडियम क्लोराइड) में उनकी घटक इकाइयोंण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.10</strong> 1-7-4 lw=k&æO;eku oqQN inkFkks± (tSls – lksfM;e DyksjkbM) esa mudh ?kVd bdkb;ksa osQ :i esa v.kq vyx ls mifLFkr ugha gksrsA ,sls ;kSfxdksa esa èkukRed (lksfM;e vk;u) vkSj Í.kkRed (DyksjkbM vk;u) d.k f=kfoeh; lajpuk fp=k 1.10 osQ vuqlkj O;ofLFkr jgrs gSaA ;g è;ku nsus ;ksX; gS fd lksfM;e DyksjkbM esa ,d lksfM;e vk;u N% DyksjkbM vk;uksa ls f?kjk jgrk gS vkSj ,d DyksjkbM vk;u Hkh N% lksfM;e vk;uksa ls f?kjk jgrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.10</strong> 1-7-4 सू=ा&æव्यमान कुछ पदाथो्य (जैसे – सोडियम क्लोराइड) में उनकी घटक इकाइयों के रूप में अणु अलग से उपस्थित नहीं होते। एेसे यौगिकों में èानात्मक (सोडियम आयन) और Íणात्मक (क्लोराइड आयन) कण =िाविमीय संरचना चित्र 1.10 के अनुसार व्यवस्थित रहते हैं। यह èयान देने योग्य है कि सोडियम क्लोराइड में एक सोडियम आयन छ% क्लोराइड आयनों से घिरा रहता है और एक क्लोराइड आयन भी छ% सोडियम आयनों से घिरा रहता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
   </div>
 </div>
@@ -2169,9 +2169,9 @@ SI मात्रकों में मोल (संकेत- mol) को �
 1 मोल सोडियम क्लोराइड = सोडियम क्लोराइड की
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_chemistry_ch01_some_basic_concepts_of_chemistry_fig_1_11_hi.png" alt="चित्र 1.11" onclick="openImageModal(this.src, 'चित्र 1.11: 6.022 × 1023 lw=k bdkb;k¡ fp=k 1.11 esa fofHkUu inkFkks± osQ 1 eksy dks n&#39;kk...')">
+  <img src="data/diagrams/11th_chemistry_ch01_some_basic_concepts_of_chemistry_fig_1_11_hi.png" alt="चित्र 1.11" onclick="openImageModal(this.src, 'चित्र 1.11ः 6.022 × 1023 सू=ा इकाइयाँ चित्र 1.11 में विभिन्न पदाथो्य के 1 मोल को द&#39यााण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.11</strong> 6.022 × 1023 lw=k bdkb;k¡ fp=k 1.11 esa fofHkUu inkFkks± osQ 1 eksy dks n'kkZ;k x;k gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.11</strong> 6.022 × 1023 सू=ा इकाइयाँ चित्र 1.11 में विभिन्न पदाथो्य के 1 मोल को दर्शाया गया है।</span>
     <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
   </div>
 </div>

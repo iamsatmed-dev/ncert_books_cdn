@@ -282,9 +282,9 @@ CERT
 रुधिर कोशिकाओं में परिवर्धन होता है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_hi.png" alt="चित्र 7" onclick="openImageModal(this.src, 'चित्र 7: vkb,! IySTeksfM;e osQ thou pozQ ij ,d fuxkg Mkyrs gSa (fp=k 7-1) tc laozQfer ekn...')">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_hi.png" alt="चित्र 7" onclick="openImageModal(this.src, 'चित्र 7ः आइए! प्लैज्मोडियम के जीवन चवzफ पर एक निगाह डालते हैं (चित्र 7.1) जब संवzफमित मादण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7</strong> vkb,! IySTeksfM;e osQ thou pozQ ij ,d fuxkg Mkyrs gSa (fp=k 7-1) tc laozQfer eknk ,suksiQsyht ekuo dks dkVrh gS rks IySTeksfM;e thok.kqt (LiksjkstkWbV~l) osQ :i esa ekuo 'kjhj esa ?kql tkrs gSaA thok.kqt laozQked :i gSA izkjaHk esa ijthoh ;Ñr esa viuh la[;k c<+krs jgrs gSa vkSj fiQj yky #f/j df.kdkvksa ij vkozQe.k</span>
+    <span class="diagram-caption-text"><strong>चित्र 7</strong> आइए! प्लैज्मोडियम के जीवन चवzफ पर एक निगाह डालते हैं (चित्र 7.1) जब संवzफमित मादा एेनोपफेलीज मानव को काटती है तो प्लैज्मोडियम जीवाणुज (स्पोरोजाॅइट~स) के रूप में मानव शरीर में घुस जाते हैं। जीवाणुज संवzफामक रूप है। पzारंभ में परजीवी यÑत में अपनी संख्या ब<+ाते रहते हैं और पिफर लाल #धरि कणिकाओं पर आवzफमण</span>
     <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
   </div>
 </div>
@@ -292,9 +292,9 @@ CERT
 आइए! प्लैज्मोडियम के जीवन चक्र पर एक निगाह डालते हैं (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_1_hi.png" alt="चित्र 7.1" onclick="openImageModal(this.src, 'चित्र 7.1: fp=k 7.1 IySTeksfM;e osQ thou pØ esa voLFkk,¡...')">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_1_hi.png" alt="चित्र 7.1" onclick="openImageModal(this.src, 'चित्र 7.1ः चित्र 7.1 प्लैज्मोडियम के जीवन चक्र में अवस्थाएँण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.1</strong> fp=k 7.1 IySTeksfM;e osQ thou pØ esa voLFkk,¡</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.1</strong> चित्र 7.1 प्लैज्मोडियम के जीवन चक्र में अवस्थाएँ</span>
     <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
   </div>
 </div>
@@ -344,9 +344,9 @@ CERT
 आंरभ हो जाती है। यह दिलचस्प बात है कि मलेरिया
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_2_hi.png" alt="चित्र 7.2" onclick="openImageModal(this.src, 'चित्र 7.2: fp=k 7.2 ,d fuEu ikn esa fpjdkjh &#39;kksFk n&#39;kkZrk fp=k...')">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_2_hi.png" alt="चित्र 7.2" onclick="openImageModal(this.src, 'चित्र 7.2ः चित्र 7.2 एक निम्न पाद में चिरकारी &#39याोथ द&#39र्यााता चित्रण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.2</strong> fp=k 7.2 ,d fuEu ikn esa fpjdkjh 'kksFk n'kkZrk fp=k</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.2</strong> चित्र 7.2 एक निम्न पाद में चिरकारी शोथ दर्शाता चित्र</span>
     <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
   </div>
 </div>
@@ -388,9 +388,9 @@ CERT
 ## 📄 Page 8
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_3_hi.png" alt="चित्र 7.3" onclick="openImageModal(this.src, 'चित्र 7.3: fp=k 7.3 Ropk osQ nkn izHkkfor {ks=k dks n&#39;kkZrk fp=k...')">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_3_hi.png" alt="चित्र 7.3" onclick="openImageModal(this.src, 'चित्र 7.3ः चित्र 7.3 त्वचा के दाद पzभावित क्षेत्र को द&#39र्यााता चित्रण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.3</strong> fp=k 7.3 Ropk osQ nkn izHkkfor {ks=k dks n'kkZrk fp=k</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.3</strong> चित्र 7.3 त्वचा के दाद पzभावित क्षेत्र को दर्शाता चित्र</span>
     <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
   </div>
 </div>
@@ -507,9 +507,9 @@ blished
 ## 📄 Page 10
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_4_hi.png" alt="चित्र 7.4" onclick="openImageModal(this.src, 'चित्र 7.4: fp=k 7.4 izfrj{kh v.kq dh lajpuk...')">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_4_hi.png" alt="चित्र 7.4" onclick="openImageModal(this.src, 'चित्र 7.4ः चित्र 7.4 पzतिर{ाी अणु की संरचनाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.4</strong> fp=k 7.4 izfrj{kh v.kq dh lajpuk</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.4</strong> चित्र 7.4 पzतिर{ाी अणु की संरचना</span>
     <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
   </div>
 </div>
@@ -691,9 +691,9 @@ ot
 प्रभावी कोशिकाएँ बन जाते हैं। मानव शरीर में विभिन्न लसीकाभ
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_5_hi.png" alt="चित्र 7.5" onclick="openImageModal(this.src, 'चित्र 7.5: fp=k 7.5 ylhdk ra=k...')">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_5_hi.png" alt="चित्र 7.5" onclick="openImageModal(this.src, 'चित्र 7.5ः चित्र 7.5 लसीका तंत्रण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.5</strong> fp=k 7.5 ylhdk ra=k</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.5</strong> चित्र 7.5 लसीका तंत्र</span>
     <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
   </div>
 </div>
@@ -796,9 +796,9 @@ not to be shed
 विषाणुओं की प्रतिकृतियाँ बनती हैं और मोचित होती हैं।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_6_hi.png" alt="चित्र 7.6" onclick="openImageModal(this.src, 'चित्र 7.6: fp=k 7.6 i&#39;pfo&quot;kk.kq (jsVªksok;jl) dh izfro`Qfr...')">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_6_hi.png" alt="चित्र 7.6" onclick="openImageModal(this.src, 'चित्र 7.6ः चित्र 7.6 प&#39यचवि&ुनवजयााणु (रेटªोवायरस) की पzतिवृफतिण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.6</strong> fp=k 7.6 i'pfo"kk.kq (jsVªksok;jl) dh izfro`Qfr</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.6</strong> चित्र 7.6 पश्चविषाणु (रेटªोवायरस) की पzतिवृफति</span>
     <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
   </div>
 </div>
@@ -1010,9 +1010,9 @@ HO
 विशिष्ट ओपिऑइड्स ग्राहियों (रिसेप्ट्रस) से बंध जाते हैं। आमतौर पर 'स्मैक' के नाम
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_7_hi.png" alt="चित्र 7.7" onclick="openImageModal(this.src, 'चित्र 7.7: fp=k 7.7 ekWiQhZu dh jklk;fud lajpuk fp=k 7.8 lksEuhisQje (viQhe iksLr)...')">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_7_hi.png" alt="चित्र 7.7" onclick="openImageModal(this.src, 'चित्र 7.7ः चित्र 7.7 माॅपर्फीन की रासायनिक संरचना चित्र 7.8 सोम्नीपेफरम (अपफीम पोस्त)ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.7</strong> fp=k 7.7 ekWiQhZu dh jklk;fud lajpuk fp=k 7.8 lksEuhisQje (viQhe iksLr)</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.7</strong> चित्र 7.7 माॅपर्फीन की रासायनिक संरचना चित्र 7.8 सोम्नीपेफरम (अपफीम पोस्त)</span>
     <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
   </div>
 </div>
@@ -1038,9 +1038,9 @@ N-CH3
 ## 📄 Page 19
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_9_hi.png" alt="चित्र 7.9" onclick="openImageModal(this.src, 'चित्र 7.9: fp=k 7.9 oSQusfcukbM v.kq dh lajpuk fp=k 7.10 oSQusfcl lSVkbok (Hkk¡x) dh ifÙk;k...')">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_9_hi.png" alt="चित्र 7.9" onclick="openImageModal(this.src, 'चित्र 7.9ः चित्र 7.9 वैफनेबिनाइड अणु की संरचना चित्र 7.10 वैफनेबिस सैटाइवा (भाँग) की पÙिायाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.9</strong> fp=k 7.9 oSQusfcukbM v.kq dh lajpuk fp=k 7.10 oSQusfcl lSVkbok (Hkk¡x) dh ifÙk;k¡</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.9</strong> चित्र 7.9 वैफनेबिनाइड अणु की संरचना चित्र 7.10 वैफनेबिस सैटाइवा (भाँग) की पÙिायाँ</span>
     <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
   </div>
 </div>
@@ -1058,9 +1058,9 @@ N-CH3
 चित्र 7.10 कैनेबिस सैटाइवा (भाँग) की पत्तियाँ
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_11_hi.png" alt="चित्र 7.11" onclick="openImageModal(this.src, 'चित्र 7.11: fp=k 7.11 /rwjk dh iq&quot;ih &#39;kk[kk...')">
+  <img src="data/diagrams/12th_biology_ch07_human_health_and_disease_fig_7_11_hi.png" alt="चित्र 7.11" onclick="openImageModal(this.src, 'चित्र 7.11ः चित्र 7.11 धतूरा की पु&ुनवजयपी &#39यााखाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.11</strong> fp=k 7.11 /rwjk dh iq"ih 'kk[kk</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.11</strong> चित्र 7.11 धतूरा की पुष्पी शाखा</span>
     <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
   </div>
 </div>

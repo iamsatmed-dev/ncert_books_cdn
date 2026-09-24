@@ -200,15 +200,15 @@ At
   <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_1_hi.png" alt="
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_hi.png" alt="चित्र 3" onclick="openImageModal(this.src, 'चित्र 3: fp=k 3-1µ vfHkfØ;k dk rkR{kf.kd ,oa vkSlr osx...')">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_hi.png" alt="चित्र 3" onclick="openImageModal(this.src, 'चित्र 3ः चित्र 3.1ष्ट अभिØिया का तात्{ाणिक एवं औसत वेगण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3</strong> fp=k 3-1µ vfHkfØ;k dk rkR{kf.kd ,oa vkSlr osx</span>
+    <span class="diagram-caption-text"><strong>चित्र 3</strong> चित्र 3.1ष्ट अभिØिया का तात्{ाणिक एवं औसत वेग</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>
 
 <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.1</strong> D;ksafd vfHkfØ;dksa dh lkanzrk ?kVrh gS vr% D[R] ,d ½.kkRed ek=kk gSA vfHkfØ;k osx dks èkukRed ek=kk esa izkIr djus osQ fy, bls –1 ls xq.kk djrs gSaA lehdj.k 3.1 rFkk 3.2 vkSlr vfHkfØ;k osx] rav dks fu:fir djrs gSaA vkSlr vfHkfØ;k osx vfHkfØ;dksa vFkok mRiknksa osQ lkanzrk ifjorZu rFkk ifjorZu esa izR;qDr le; ij fuHkZj djrk gS (fp=k 3.1)A</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.1</strong> क्योंकि अभिØियकों की सांदzता घटती है अत% क्ख्त्ए एक ½णात्मक मा=ाा है। अभिØिया वेग को èानात्मक मा=ाा में पzाप्त करने के लिए इसे –1 से गुणा करते हैं। समीकरण 3.1 तथा 3.2 औसत अभिØिया वेगए तंअ को निरूपित करते हैं। औसत अभिØिया वेग अभिØियकों अथवा उत्पादों के सांदzता परिवर्तन तथा परिवर्तन में पzत्युक्त समय पर निर्भर करता है (चित्र 3.1)।</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>
@@ -490,9 +490,9 @@ dt dt
 कर तथा उसके ढाल की गणना करके ज्ञात किया जा सकता है (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_2_hi.png" alt="चित्र 3.2" onclick="openImageModal(this.src, 'चित्र 3.2: –d[R] d[P] r d d = = t t bls xzkiQ }kjk] R vFkok P esa ls fdlh osQ Hkh lkanzrk&l...')">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_2_hi.png" alt="चित्र 3.2" onclick="openImageModal(this.src, 'चित्र 3.2ः –कख्त्ए कख्च्ए त क क = = ज ज इसे गzापफ द्वाराए त् अथवा च् में से किसी के भी सांदzता&सण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.2</strong> –d[R] d[P] r d d = = t t bls xzkiQ }kjk] R vFkok P esa ls fdlh osQ Hkh lkanzrk&le; oØ ij Li'kZ js[kk [khap dj rFkk mlosQ <ky dh x.kuk djosQ Kkr fd;k tk ldrk gS (fp=k 3.2)A mnkgj.k 3.1</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.2</strong> –कख्त्ए कख्च्ए त क क = = ज ज इसे गzापफ द्वाराए त् अथवा च् में से किसी के भी सांदzता&समय वØ पर स्पर्श रेखा खींच कर तथा उसके <ाल की गणना करके Kात किया जा सकता है (चित्र 3.2)। उदाहरण 3.1</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -1275,9 +1275,9 @@ dt
 किसी मात्रा पर शून्य घातांक का मान इकाई होता है अतः
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_3_hi.png" alt="चित्र 3.3" onclick="openImageModal(this.src, 'चित्र 3.3: [R] = –k t + [R]0 (3.6) lehdj.k 3.6 ljy js[kk osQ lehdj.k y = mx + c osQ lerqY; ...')">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_3_hi.png" alt="चित्र 3.3" onclick="openImageModal(this.src, 'चित्र 3.3ः ख्त्ए = –ा ज + ख्त्ए 0 (3.6) समीकरण 3.6 सरल रेखा के समीकरण ल = उग + ब के समतुल्य ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.3</strong> [R] = –k t + [R]0 (3.6) lehdj.k 3.6 ljy js[kk osQ lehdj.k y = mx + c osQ lerqY; gSA ;fn ge [R] ,oa t osQ chp xzkiQ [khapsa rks ,d lhèkh js[kk izkIr gksrh gS (fp=k 3.3)A bl js[kk dk <ky = – k ,oa var% [kaM [R]0 osQ cjkcj gksrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.3</strong> ख्त्ए = –ा ज + ख्त्ए 0 (3.6) समीकरण 3.6 सरल रेखा के समीकरण ल = उग + ब के समतुल्य है। यद िहम ख्त्ए एवं ज के बीच गzापफ खींचें तो एक सीèाी रेखा पzाप्त होती है (चित्र 3.3)। इस रेखा का <ाल = – ा एवं अंत% खंड ख्त्ए 0 के बराबर होता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
   </div>
 </div>
@@ -1471,9 +1471,9 @@ k=btn b
 समीकरण 3.9 को निम्न प्रकार से भी लिख सकते हैं-
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_4_hi.png" alt="चित्र 3.4" onclick="openImageModal(this.src, 'चित्र 3.4: – k t (3.14) lehdj.k 3.9 lehdj.k y = mx + c osQ lerqY; gS] ;fn ge ln [R] ,oa t o...')">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_4_hi.png" alt="चित्र 3.4" onclick="openImageModal(this.src, 'चित्र 3.4ः – ा ज (3.14) समीकरण 3.9 समीकरण ल = उग + ब के समतुल्य हैए यद िहम सद ख्त्ए एवं ज वण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.4</strong> – k t (3.14) lehdj.k 3.9 lehdj.k y = mx + c osQ lerqY; gS] ;fn ge ln [R] ,oa t osQ eè; xzkiQ [khpsa (fp=k 3.4) rks gesa – <ky = – k okyh ljy js[kk izkIr gksrh gS rFkk var% [kaM dk eku ln [R]0 gksrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.4</strong> – ा ज (3.14) समीकरण 3.9 समीकरण ल = उग + ब के समतुल्य हैए यद िहम सद ख्त्ए एवं ज के मèय गzापफ खीचें (चित्र 3.4) तो हमें – <ाल = – ा वाली सरल रेखा पzाप्त होती है तथा अंत% खंड का मान सद ख्त्ए 0 होता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
   </div>
 </div>
@@ -1501,9 +1501,9 @@ k=btn b
 ### 2.303 [R]。
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_5_hi.png" alt="चित्र 3.5" onclick="openImageModal(this.src, 'चित्र 3.5: 0 [R] log [R] ,oa t osQ eè; xzkiQ [khaps (fp=k 3.5) rks <ky = k/2.303 gksxkA...')">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_5_hi.png" alt="चित्र 3.5" onclick="openImageModal(this.src, 'चित्र 3.5ः 0 ख्त्ए सवह ख्त्ए एवं ज के मèय गzापफ खींचे (चित्र 3.5) तो <ाल = ाध2.303 होगा। ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.5</strong> 0 [R] log [R] ,oa t osQ eè; xzkiQ [khaps (fp=k 3.5) rks <ky = k/2.303 gksxkA</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.5</strong> 0 ख्त्ए सवह ख्त्ए एवं ज के मèय गzापफ खींचे (चित्र 3.5) तो <ाल = ाध2.303 होगा।</span>
     <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
   </div>
 </div>
@@ -2174,9 +2174,9 @@ k=Ae-Ea/RT
 यहाँ A आर्रेनिअस गुणक अथवा आवृत्ति गुणक है। इसे पूर्व-चरघातांकी गुणक भी
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_6_hi.png" alt="चित्र 3.6" onclick="openImageModal(this.src, 'चित्र 3.6: H2 (g) + I2(g)  2HI (g) vkjsZfuvl osQ vuqlkj ;g vfHkfØ;k rHkh gks ldrh gS tc gk...')">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_6_hi.png" alt="चित्र 3.6" onclick="openImageModal(this.src, 'चित्र 3.6ः भ्2 (ह) + प्2(ह)  2भ्प् (ह) आर्रेनिअस के अनुसार यह अभिØिया तभी हो सकती है जब हाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.6</strong> H2 (g) + I2(g)  2HI (g) vkjsZfuvl osQ vuqlkj ;g vfHkfØ;k rHkh gks ldrh gS tc gkbMªkstu dk ,d v.kq vk;ksMhu osQ ,d v.kq ls la?kV~V dj ,d vLFkkbZ eè;orhZ dk fojpu djs (fp=k 3.6)A ;g eè;orhZ cgqr de le; rd vfLrRo esa jgrk gS rFkk VwVdj gkbMªkstu vk;ksMkbM osQ nks v.kqvksa dk fojpu djrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.6</strong> भ्2 (ह) + प्2(ह)  2भ्प् (ह) आर्रेनिअस के अनुसार यह अभिØिया तभी हो सकती है जब हाइडªोजन का एक अणु आयोडीन के एक अणु से संघट~ट कर एक अस्थार्इ मèयवर्ती का विरचन करे (चित्र 3.6)। यह मèयवर्ती बहुत कम समय तक अस्तित्व में रहता है तथा टूटकर हाइडªोजन आयोडाइड के दो अणुओं का विरचन करता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
   </div>
 </div>
@@ -2240,9 +2240,9 @@ H₂ + L → 2HI
 ## 📄 Page 20
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_8_hi.png" alt="चित्र 3.8" onclick="openImageModal(this.src, 'चित्र 3.8: tsEl DykoZQ eSDlosy us vfèkd la[;k esa v.kqvksa osQ O;ogkj dks izkxqDr djus osQ ...')">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_8_hi.png" alt="चित्र 3.8" onclick="openImageModal(this.src, 'चित्र 3.8ः जेम्स क्लार्वफ मैक्सवेल ने अèिाक संख्या में अणुओं के व्यवहार को पzागुक्त करने के ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.8</strong> tsEl DykoZQ eSDlosy us vfèkd la[;k esa v.kqvksa osQ O;ogkj dks izkxqDr djus osQ fy, lkaf[;dh dk iz;ksx fd;kA buosQ vuqlkj xfrt ÅtkZ dk forj.k] (E ) ÅtkZ ls ;qDr v.kqvksa dh la[;k] (NE/NT) ,oa xfrt ÅtkZ osQ eè; oØ [khapdj fd;k tk ldrk gS (fp=k 3.8)A ;gk¡ NE , ÅtkZ E ls ;qDr v.kqvksa dh la[;k gS rFkk NT oqQy v.kqvksa dh la[;k gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.8</strong> जेम्स क्लार्वफ मैक्सवेल ने अèिाक संख्या में अणुओं के व्यवहार को पzागुक्त करने के लिए सांख्यिकी का पzयोग किया। इनके अनुसार गतिज ऊर्जा का वितरणए (म् ) ऊर्जा से युक्त अणुओं की संख्याए (छम्धछज्) एवं गतिज ऊर्जा के मèय वØ खींचकर किया जा सकता है (चित्र 3.8)। यहाँ छम् ए ऊर्जा म् से युक्त अणुओं की संख्या है तथा छज् वुफल अणुओं की संख्या है।</span>
     <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
   </div>
 </div>
@@ -2268,9 +2268,9 @@ t
 ऊर्जा मान की ओर विस्थापित हो जाता है (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_9_hi.png" alt="चित्र 3.9" onclick="openImageModal(this.src, 'चित्र 3.9: oØ dk &#39;kh&quot;kZ] vfrlaHkkO; xfrt ÅtkZ vFkkZr~ v.kqvksa osQ lokZfèkd va&#39...')">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_9_hi.png" alt="चित्र 3.9" onclick="openImageModal(this.src, 'चित्र 3.9ः वØ का &#39याी&ुनवजर्याए अतिसंभाव्य गतिज ऊर्जा अर्थात~ अणुओं के सर्वाèिाक अं&#39.्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.9</strong> oØ dk 'kh"kZ] vfrlaHkkO; xfrt ÅtkZ vFkkZr~ v.kqvksa osQ lokZfèkd va'k dh xfrt ÅtkZ osQ laxr gksrk gSA bl xfrt ÅtkZ ls de vFkok vfèkd ÅtkZ okys v.kqvksa dh la[;k de gksrh tkrh gSA tc rki c<+k;k tkrk gS rks vkys[k dk 'kh"kZ vfèkd ÅtkZ eku dh vksj foLFkkfir gks tkrk gS (fp=k 3.9) rFkk oØ dk iSQyko nkfguh</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.9</strong> वØ का शीर्षए अतिसंभाव्य गतिज ऊर्जा अर्थात~ अणुओं के सर्वाèिाक अंश की गतिज ऊर्जा के संगत होता है। इस गतिज ऊर्जा से कम अथवा अèिाक ऊर्जा वाले अणुओं की संख्या कम होती जाती है। जब ताप ब<+ाया जाता है तो आलेख का शीर्ष अèिाक ऊर्जा मान की आेर विस्थापित हो जाता है (चित्र 3.9) तथा वØ का पैफलाव दाहिनी</span>
     <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
   </div>
 </div>
@@ -2329,9 +2329,9 @@ RT
 Ink एवं 1/T के मध्य वक्र समीकरण 3.19 के अनुरूप सीधी रेखा होता है
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_10_hi.png" alt="चित्र 3.10" onclick="openImageModal(this.src, 'चित्र 3.10: lnk ,oa 1/T osQ eè; oØ lehdj.k 3.19 osQ vuq:i lhèkh js[kk gksrk gS ftls fp=k 3.1...')">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_10_hi.png" alt="चित्र 3.10" onclick="openImageModal(this.src, 'चित्र 3.10ः सदा एवं 1धज् के मèय वØ समीकरण 3.19 के अनुरूप सीèाी रेखा होता है जिसे चित्र 3.1.्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.10</strong> lnk ,oa 1/T osQ eè; oØ lehdj.k 3.19 osQ vuq:i lhèkh js[kk gksrk gS ftls fp=k 3.10 esa n'kkZ;k x;k gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.10</strong> सदा एवं 1धज् के मèय वØ समीकरण 3.19 के अनुरूप सीèाी रेखा होता है जिसे चित्र 3.10 में दर्शाया गया है।</span>
     <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
   </div>
 </div>
@@ -2632,9 +2632,9 @@ k₂ =
 ### 3.5 रासायनिक
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_12_hi.png" alt="चित्र 3.12" onclick="openImageModal(this.src, 'चित्र 3.12: mnkgj.kkFkZ] esFksukWy dk czkseks,Fksu ls fojpu vfHkfØ;dksa osQ vfHkfoU;kl ij fu...')">
+  <img src="data/diagrams/12th_chemistry_ch03_chemical_kinetics_fig_3_12_hi.png" alt="चित्र 3.12" onclick="openImageModal(this.src, 'चित्र 3.12ः उदाहरणार्थए मेथेनाॅल का बzोमोएथेन से विरचन अभिØियकों के अभिविनयास पर निण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.12</strong> mnkgj.kkFkZ] esFksukWy dk czkseks,Fksu ls fojpu vfHkfØ;dksa osQ vfHkfoU;kl ij fuHkZj djrk gSA bls fp=k 3.12 esa izn£'kr fd;k x;k gSA vfHkfØ;dksa osQ v.kqvksa dk mi;qDr vfHkfoU;kl caèk fuekZ.k dj mRikn fufeZr djrk gS rFkk vuqi;qDr vfHkfoU;kl gksus ij os osQoy nksckjk vyx&vyx gks tkrs gSa vkSj mRikn ugha curkA</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.12</strong> उदाहरणार्थए मेथेनाॅल का बzोमोएथेन से विरचन अभिØियकों के अभिविनयास पर निर्भर करता है। इसे चित्र 3.12 में पzद£शत किया गया है। अभिØियकों के अणुओं का उपयुक्त अभिविनयास बंèा निर्माण कर उत्पाद निर्मित करता है तथा अनुपयुक्त अभिविनयास होने पर वे केवल दोबारा अलग&अलग हो जाते हैं और उत्पाद नहीं बनता।</span>
     <button class="icon-btn" onclick="goToPdfPage(23)">📄 View in PDF (Page 23)</button>
   </div>
 </div>

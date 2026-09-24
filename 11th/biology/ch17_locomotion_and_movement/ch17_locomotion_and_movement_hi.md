@@ -123,9 +123,9 @@ not
 ऊतक स्तर से घिरे रहती हैं जिसे संपट्ट (fascia) कहते हैं। प्रत्येक पेशी बंडल में कई
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_biology_ch17_locomotion_and_movement_fig_17_hi.png" alt="चित्र 17" onclick="openImageModal(this.src, 'चित्र 17: ;k iwfydkvksa (fascicles) dh cuh gksrh gS] tks la;qDr :i ls dksyStuh la;ksth Ård...')">
+  <img src="data/diagrams/11th_biology_ch17_locomotion_and_movement_fig_17_hi.png" alt="चित्र 17" onclick="openImageModal(this.src, 'चित्र 17ः या पूलिकाओं (ंिेबपबसमे) की बनी होती हैए जो संयुक्त रूप से कोलैजनी संयोजी ऊतकण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 17</strong> ;k iwfydkvksa (fascicles) dh cuh gksrh gS] tks la;qDr :i ls dksyStuh la;ksth Ård Lrj ls f?kjs jgrh gSa ftls laiV~V (fascia) dgrs gSaA izR;sd is'kh caMy eas dbZ is'kh js'ks gksrs gSa (fp=k 17-1)A izR;sd is'kh js'kk IykTek f>Yyh ls vkLrkfjr gksrk gS</span>
+    <span class="diagram-caption-text"><strong>चित्र 17</strong> या पूलिकाओं (ंिेबपबसमे) की बनी होती हैए जो संयुक्त रूप से कोलैजनी संयोजी ऊतक स्तर से घिरे रहती हैं जिसे संपट~ट (ंिेबपं) कहते हैं। पzत्येक पेशी बंडल मंे कर्इ पेशी रेशे होते हैं (चित्र 17.1)। पzत्येक पेशी रेशा प्लाज्मा >िल्ली से आस्तारित होता है</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>

@@ -80,9 +80,9 @@ blished
 शरीर के सुनियोजित अंतःस्रावी अंग हैं (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_biology_ch19_chemical_coordination_and_integration_fig_19_hi.png" alt="चित्र 19" onclick="openImageModal(this.src, 'चित्र 19: var%Ïkoh xzafFk;ka vkSj &#39;kjhj osQ fofHkUu Hkkxksa esa fLFkr gkeksZu Ïfor dju...')">
+  <img src="data/diagrams/11th_biology_ch19_chemical_coordination_and_integration_fig_19_hi.png" alt="चित्र 19" onclick="openImageModal(this.src, 'चित्र 19ः अंत%Ïावी ग्रंथियां और &#39यारीर के विभिन्न भागों में स्थित हार्मोन Ïवित करनण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 19</strong> var%Ïkoh xzafFk;ka vkSj 'kjhj osQ fofHkUu Hkkxksa esa fLFkr gkeksZu Ïfor djus okys Ård@dksf'kdk,a feydj var%Ïkoh ra=k dk fuekZ.k djrs gSaA ih;w"k xzafFk] fifu;y xzafFk] FkkbjkW;M] ,Mªhuy] vXuk'k;] iSjkFkk;jkWbM] Fkkbel vkSj tuu xzafFk;ka (uj esa o`"k.k vkSj eknk esa vaMk'k;) gekjs 'kjhj osQ lqfu;ksftr var%Ïkoh vax gSa (fp=k 19-1)A buosQ vfrfjDr dqN vU; vax tSls fd tBj&vka=kh; ekxZ] ;Ñr] o`Dd] ân; vkfn Hkh gkeksZu dk mRiknu djrs gSaA ekuo 'kjhj dh lHkh izeq[k var%Ïkoh xzafFk;ksa rFkk gkbiksFkSysel dh lajpuk vkSj muds dk;Z dk laf{kIr fooj.k vxys Hkkx esa fn;k x;k gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 19</strong> अंत%Ïावी ग्रंथियां और शरीर के विभिन्न भागों में स्थित हार्मोन Ïवित करने वाले ऊतक@कोशिकाएं मिलकर अंत%Ïावी तंत्र का निर्माण करते हैं। पीयूष ग्रंथिए पिनियल ग्रंथिए थाइराॅयडए एडªीनलए अग्नाशयए पैराथायराॅइडए थाइमस और जनन ग्रंथियां (नर में वृषण और मादा में अंडाशय) हमारे शरीर के सुनियोजित अंत%Ïावी अंग हैं (चित्र 19.1)। इनके अतिरिक्त कुछ अनय अंग जैसे कि जझ्र&आं=ाीय मार्गए यÑतए वृक्कए âदय आद िभी हार्मोन का उत्पादन करते हैं। मानव शरीर की सभी पzमुख अंत%Ïावी ग्रंथियों तथा हाइपोथैलेमस की संरचना और उनके कार्य का सं{िाप्त विवरण अगले भाग में दयिा गया है।</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>

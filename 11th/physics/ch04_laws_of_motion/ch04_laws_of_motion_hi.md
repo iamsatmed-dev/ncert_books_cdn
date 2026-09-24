@@ -161,15 +161,15 @@ d
   <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_1_hi.png" alt="
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_hi.png" alt="चित्र 4" onclick="openImageModal(this.src, 'चित्र 4: fp=k 4-1 (a)...')">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_hi.png" alt="चित्र 4" onclick="openImageModal(this.src, 'चित्र 4ः चित्र 4.1 (ं)ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4</strong> fp=k 4-1 (a)</span>
+    <span class="diagram-caption-text"><strong>चित्र 4</strong> चित्र 4.1 (ं)</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>
 
 <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.1</strong> 4-3 tM+Ro dk fu;e xSyhfy;ks us oLrqvksa dh xfr dk vè;;u ,d vkur lery ij fd;k FkkA fdlh (i) vkur lery ij uhps dh vksj xfreku oLrq,a Rofjr gksrh gSa tcfd (ii) ry ij mQij dh vksj tkus okyh oLrqvksa esa eanu gksrk gSA {kSfrt lery ij xfr (iii) bu nksuksa osQ chp dh fLFkfr gSA xSyhfy;ks us ;g fu"d"kZ fudkyk fd fdlh ?k"kZ.k jfgr {kSfrt lery ij xfr'khy fdlh oLrq esa u rks Roj.k gksuk pkfg, vkSj u gh eanu] vFkkZr~ bls ,dleku osx ls xfr djuh pkfg, (fp=k 4.1 (a))A</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.1</strong> 4-3 जड+त्व का नियम गैलीलियो ने वस्तुओं की गति का अèययन एक आनत समतल पर किया था। किसी (प) आनत समतल पर नीचे की आेर गतिमान वस्तुएं त्वरित होती हैं जबकि (पप) तल पर उफपर की आेर जाने वाली वस्तुओं में मंदन होता है। {ौतिज समतल पर गति (पपप) इन दोनों के बीच की स्थिति है। गैलीलियो ने यह निष्कर्ष निकाला कि किसी घर्षण रहित {ौतिज समतल पर गतिशील किसी वस्तु में न तो त्वरण होना चाहिए और न ही मंदनए अर्थात~ इसे एकसमान वेग से गति करनी चाहिए (चित्र 4.1 (ं))।</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>
@@ -316,9 +316,9 @@ d
 अब मेज पर विराम अवस्था में रखी एक पुस्तक पर विचार
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_2_hi.png" alt="चित्र 4.2" onclick="openImageModal(this.src, 'चित्र 4.2: fp=k 4.2 (a) est ij fojke esa j[kh iqLrd rFkk (b) ,dleku...')">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_2_hi.png" alt="चित्र 4.2" onclick="openImageModal(this.src, 'चित्र 4.2ः चित्र 4.2 (ं) मेज पर विराम में रखी पुस्तक तथा (इ) एकसमानण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.2</strong> fp=k 4.2 (a) est ij fojke esa j[kh iqLrd rFkk (b) ,dleku</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.2</strong> चित्र 4.2 (ं) मेज पर विराम में रखी पुस्तक तथा (इ) एकसमान</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -687,9 +687,9 @@ dt
 किसी प्रक्षेप्य की गति में वेग का क्षैतिज घटक अपरिवर्तित
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_5_hi.png" alt="चित्र 4.5" onclick="openImageModal(this.src, 'चित्र 4.5: 4- xfr dk f}rh; fu;e ,d LFkkuh; laca/ gSA bldk ;g vFkZ gS fd le; osQ fdlh fuf&#3...')">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_5_hi.png" alt="चित्र 4.5" onclick="openImageModal(this.src, 'चित्र 4.5ः 4- गति का ।ितीय नियम एक स्थानीय संबंध है। इसका यह अर्थ है कि समय के किसी नि&ि#3.्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.5</strong> 4- xfr dk f}rh; fu;e ,d LFkkuh; laca/ gSA bldk ;g vFkZ gS fd le; osQ fdlh fuf'pr {k.k ij lef"V esa fdlh fcanq (d.k dh vofLFkfr) ij yxk cy F mlh {k.k mlh fcanq ij Roj.k a ls lacaf/r gSA vFkkZr~ ^fdlh d.k osQ Roj.k dk fu/kZj.k mlh le; ml ij yxs cy }kjk fd;k tkrk gS] d.k dh xfr osQ fdlh Hkh bfrgkl }kjk ugha (fp=k 4.5 ns[ksa)A</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.5</strong> 4- गति का ।ितीय नियम एक स्थानीय संबंध है। इसका यह अर्थ है कि समय के किसी निश्चित {ाण पर समष्टि में किसी बिंदु (कण की अवस्थिति) पर लगा बल थ् उसी {ाण उसी बिंदु पर त्वरण ं से संबंधति है। अर्थात~ ^किसी कण के त्वरण का निर्धारण उसी समय उस पर लगे बल द्वारा किया जाता हैए कण की गति के किसी भी इतिहास द्वारा नहीं (चित्र 4.5 देखें)।</span>
     <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
   </div>
 </div>
@@ -1431,9 +1431,9 @@ m
 संपर्क में पिण्ड के पृष्ठ के समान्तर लगता है, घषर्ण बल अथवा
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_10_hi.png" alt="चित्र 4.10" onclick="openImageModal(this.src, 'चित्र 4.10: 4-9-1 ?k&quot;kZ.k vkb,] fiQj ls {kSfrt est ij j[ks m lagfr osQ fi.M okys mnkgj....')">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_10_hi.png" alt="चित्र 4.10" onclick="openImageModal(this.src, 'चित्र 4.10ः 4-9-1 घ&ुनवजर्याण आइएए पिफर से {ौतिज मेज पर रखे उ संहति के पिण्ड वाले उदाहरण्ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.10</strong> 4-9-1 ?k"kZ.k vkb,] fiQj ls {kSfrt est ij j[ks m lagfr osQ fi.M okys mnkgj.k ij fopkj djsaA xq#Ro cy (mg) dks est dk vfHkyac cy (N) fujLr dj nsrk gSA vc ekfu, fd fi.M ij dksbZ ckÞ; cy F {kSfrtr% vkjksfir fd;k tkrk gS A vuqHko ls geas ;g Kkr gS fd ifjek.k eas NksVk cy vkjksfir djus ij fi.M dks xfr'khy djus esa vi;kZIr gks ldrk gSA ijarq ;fn vkjksfir cy gh fi.M ij yxk ,d ek=k ckÞ; cy gS] rks ;g cy ifjek.k eas pkgs fdruk Hkh NksVk D;ksa u gks] fi.M dks F/m Roj.k ls xfr'khy gksuk pkfg,A Li"V gS] fd vxj fi.M fojke eas gS rks fi.M ij dksbZ vU; ckÞ; cy {kSfrt fn'kk eas dk;Z djus yxk gS] tks vjksfir cy F dk fojks/ djrk gS] iQyLo:i fi.M ij usV cy 'kwU; gks tkrk gSA ;g fojks/h cy fs, tks est osQ laioZQ eas fi.M osQ i`"B osQ lekUrj yxrk gS] ?k"k.kZ cy vFkok osQoy ?k"kZ.k dgykrk gS (fp=k 4.10(a))A ;gk¡ iknk{kj s dks LFkSfrd ?k"kZ.k osQ fy, iz;ksx fd;k x;k gS] rkfd ge bldh xfrt ?k"kZ.k fk ftlosQ fo"k; eas ckn eas fopkj djsaxs (fp=k 4.10(b))]</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.10</strong> 4-9-1 घर्षण आइएए पिफर से {ौतिज मेज पर रखे उ संहति के पिण्ड वाले उदाहरण पर विचार करें। गु#त्व बल (उह) को मेज का अभिलंब बल (छ) निरस्त कर देता है। अब मानिए कि पिण्ड पर कोर्इ बाÞय बल थ् {ौतिजत% आरोपित किया जाता है । अनुभव से हमंे यह Kात है कि परिमाण मंे छोटा बल आरोपित करने पर पिण्ड को गतिशील करने में अपर्याप्त हो सकता है। परंतु यद िआरोपित बल ही पिण्ड पर लगा एक मा=ा बाÞय बल हैए तो यह बल परिमाण मंे चाहे कितना भी छोटा क्यों न होए पिण्ड को थ्धउ त्वरण से गतिशील होना चाहिए। स्पष्ट हैए कि अगर पिण्ड विराम मंे है तो पिण्ड पर कोर्इ अनय बाÞय बल {ौतिज दशिा मंे कार्य करने लगा हैए जो अरोपित बल थ् का विरोध करता हैए पफलस्वरूप पिण्ड पर नेट बल शूनय हो जाता है। यह विरोधी बल ेिए जो मेज के संपर्वफ मंे पिण्ड के पृष्झ् के समानतर लगता हैए घषर्ण बल अथवा केवल घर्षण कहलाता है (चित्र 4.10(ं))। यहाँ पादा{ार े को स्थैतिक घर्षण के लिए पzयोग किया गया हैए ताकि हम इसकी गतिज घर्षण ाि जिसके विषय मंे बाद मंे विचार करेंगे (चित्र 4.10(इ))ए</span>
     <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
   </div>
 </div>
@@ -1560,9 +1560,9 @@ ma = f≤μ¸N = μ｡ mg
 उदाहरण 4.8 4kg का कोई गुटका एक क्षैतिज समतल
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_11_hi.png" alt="चित्र 4.11" onclick="openImageModal(this.src, 'चित्र 4.11: • mnkgj.k 4.8 4 kg dk dksbZ xqVdk ,d {kSfrt lery ij j[kk gS (fp=k 4.11)A lery dk...')">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_11_hi.png" alt="चित्र 4.11" onclick="openImageModal(this.src, 'चित्र 4.11ः द्ध उदाहरण 4.8 4 ाह का कोर्इ गुटका एक {ौतिज समतल पर रखा है (चित्र 4.11)। समतल काण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.11</strong> • mnkgj.k 4.8 4 kg dk dksbZ xqVdk ,d {kSfrt lery ij j[kk gS (fp=k 4.11)A lery dks /hjs&/hjs rc rd vkur fd;k tkrk gS tc rd {kSfrt ls fdlh dks.k</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.11</strong> द्ध उदाहरण 4.8 4 ाह का कोर्इ गुटका एक {ौतिज समतल पर रखा है (चित्र 4.11)। समतल को धीरे&धीरे तब तक आनत किया जाता है जब तक {ौतिज से किसी कोण</span>
     <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
   </div>
 </div>
@@ -1674,9 +1674,9 @@ tan 0
 ## 📄 Page 14
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_12_hi.png" alt="चित्र 4.12" onclick="openImageModal(this.src, 'चित्र 4.12: • mnkgj.k 4-9 fp=k 4.12(a) esa n&#39;kkZ, CykWd&Vªkyh fudk; dk Roj.k D;k gS] ;fn...')">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_12_hi.png" alt="चित्र 4.12" onclick="openImageModal(this.src, 'चित्र 4.12ः द्ध उदाहरण 4-9 चित्र 4.12(ं) में द&#39र्यााए ऋलाॅक&टªाली निकाय का त्वरण क्या हैए यदण्ण्ण्ि')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.12</strong> • mnkgj.k 4-9 fp=k 4.12(a) esa n'kkZ, CykWd&Vªkyh fudk; dk Roj.k D;k gS] ;fn Vªkyh vkSj i`"B osQ chp xfrt ?k"kZ.k xq.kkad 0-04 gS\ Mksjh eas ruko D;k gS \ (g = 10 m s-2 yhft,)] Mksjh dh lagfr ux.; ekfu, A</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.12</strong> द्ध उदाहरण 4-9 चित्र 4.12(ं) में दर्शाए ऋलाॅक&टªाली निकाय का त्वरण क्या हैए यद िटªाली और पृष्झ् के बीच गतिज घर्षण गुणांक 0-04 है। डोरी मंे तनाव क्या है । (ह = 10 उ े-2 लीजिए)ए डोरी की संहति नगण्य मानिए ।</span>
     <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
   </div>
 </div>
@@ -1784,9 +1784,9 @@ a = 2m s2 = 0.96 m s-2
 सर्पी घर्षण के उद्गम से कुछ भिन्न है। लोटनिक गति के समय
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_13_hi.png" alt="चित्र 4.13" onclick="openImageModal(this.src, 'चित्र 4.13: ge izk;% ?k&quot;kZ.k dks ,d vokaNuh; cy ekurs gSaA cgqr lh fLFkfr;ksa esa] tSls...')">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_13_hi.png" alt="चित्र 4.13" onclick="openImageModal(this.src, 'चित्र 4.13ः हम पzाय% घ&ुनवजर्याण को एक अवांछनीय बल मानते हैं। बहुत सी स्थितियों मेंए जैसेण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.13</strong> ge izk;% ?k"kZ.k dks ,d vokaNuh; cy ekurs gSaA cgqr lh fLFkfr;ksa esa] tSls fdlh e'khu] ftleas fofHkUu oQy iqtZs xfr djrs gksa] eas ?k"kZ.k dh Í.kkRed Hkwfedk gksrh gSA ;g vkis{k xfr;ksa dk fojks/ djrk gS ftlosQ iQyLo:i Å"ek] vkfn osQ :i eas ÅtkZ&{k; gksrk gSA e'khuksa eas Lusgd xfrt ?k"kZ.k dks de djus dk ,d lk/u gksrk gSA ?k"kZ.k dks de djus dk ,d vU; mik; e'khu osQ nks xfr'khy Hkkxksa osQ chp] ckWy&cs;fjax yxkuk gS fp=k 4.13(a)A (D;ksafd nks laioZQ i`"Bksa rFkk cky cs;fjxksa osQ chp yksVfud ?k"kZ.k cgqr de gksrk gS] vr% ÅtkZ&{k; ?kV tkrk gS A lkis{k xfr djrs nks Bksl i`"Bksa osQ chp ok;q dh iryh ijr cuk, j[kdj Hkh izHkkoh <ax ls ?k"kZ.k dks ?kVk;k tk ldrk gS (fp=k 4.13(b))A</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.13</strong> हम पzाय% घर्षण को एक अवांछनीय बल मानते हैं। बहुत सी स्थितियों मेंए जैसे किसी मशीनए जिसमंे विभिन्न वफल पुर्जे गति करते होंए मंे घर्षण की Íणात्मक भूमिका होती है। यह आपे{ा गतियों का विरोध करता है जिसके पफलस्वरूप ऊष्माए आद िके रूप मंे ऊर्जा&{ाय होता है। मशीनों मंे स्नेहक गतिज घर्षण को कम करने का एक साधन होता है। घर्षण को कम करने का एक अनय उपाय मशीन के दो गतिशील भागों के बीचए बाॅल&बेयरिंग लगाना है चित्र 4.13(ं)। (क्योंकि दो संपर्वफ पृष्झ्ों तथा बाल बेयरिगों के बीच लोटनिक घर्षण बहुत कम होता हैए अत% ऊर्जा&{ाय घट जाता है । सापे{ा गति करते दो झ्ोस पृष्झ्ों के बीच वायु की पतली परत बनाए रखकर भी पzभावी <ंग से घर्षण को घटाया जा सकता है (चित्र 4.13(इ))।</span>
     <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
   </div>
 </div>
@@ -1862,9 +1862,9 @@ R
 कार पर तीन बल आरोपित हैं हैं [चित्र [
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_14_hi.png" alt="चित्र 4.14" onclick="openImageModal(this.src, 'चित्र 4.14: dkj ij rhu cy vkjksfir gSa [fp=k 4.14(a)] (i) dkj dk Hkkj] mg...')">
+  <img src="data/diagrams/11th_physics_ch04_laws_of_motion_fig_4_14_hi.png" alt="चित्र 4.14" onclick="openImageModal(this.src, 'चित्र 4.14ः कार पर तीन बल आरोपित हैं ख्चित्र 4.14(ं)ए (प) कार का भारए उहण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.14</strong> dkj ij rhu cy vkjksfir gSa [fp=k 4.14(a)] (i) dkj dk Hkkj] mg</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.14</strong> कार पर तीन बल आरोपित हैं ख्चित्र 4.14(ं)ए (प) कार का भारए उह</span>
     <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
   </div>
 </div>

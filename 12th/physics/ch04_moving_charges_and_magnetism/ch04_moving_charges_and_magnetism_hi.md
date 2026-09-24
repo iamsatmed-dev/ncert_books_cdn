@@ -30,15 +30,15 @@ ONCERT
   <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_1_hi.png" alt="
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_hi.png" alt="चित्र 4" onclick="openImageModal(this.src, 'चित्र 4: mnkgj.k 4.4 dksbZ fo|qr /kjk vo;o ˆ x ∆= ∆ l i ftlls ,d mPp /kjk I = 10A izokfgr...')">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_hi.png" alt="चित्र 4" onclick="openImageModal(this.src, 'चित्र 4ः उदाहरण 4.4 कोर्इ वि।ुत धारा अवयव ˆ ग ∆= ∆ स प जिससे एक उच्च धारा प् = 10। पzवाहितण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4</strong> mnkgj.k 4.4 dksbZ fo|qr /kjk vo;o ˆ x ∆= ∆ l i ftlls ,d mPp /kjk I = 10A izokfgr gks jgh gS] ewy ¯cnq ij fLFkr gS (fp=k 4-8)] y-v{k ij 0.5 m nwjh ij fLFkr fdlh ¯cnq ij blosQ dkj.k pqacdh; {ks=k dk D;k eku gSA ∆x = 1 cm</span>
+    <span class="diagram-caption-text"><strong>चित्र 4</strong> उदाहरण 4.4 कोर्इ वि।ुत धारा अवयव ˆ ग ∆= ∆ स प जिससे एक उच्च धारा प् = 10। पzवाहित हो रही हैए मूल ¯बदु पर स्थित है (चित्र 4.8)ए ल-अ{ा पर 0.5 उ दूरी पर स्थित किसी ¯बदु पर इसके कारण चुंबकीय क्षेत्र का क्या मान है। ∆ग = 1 बउ</span>
     <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
   </div>
 </div>
 
 <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.1</strong> 2000 o"kZ ls Hkh igys fo|qr rFkk pqacdRo nksuksa gh osQ ckjs esa yksxksa dks Kku FkkA fiQj Hkh yxHkx 200 o"kZ iwoZ] 1820 esa ;g Li"V vuqHko fd;k x;k fd bu nksuksa esa vVwV laca/ gSA 1820 dh xzh"e ½rq esa] Mp HkkSfrdfoKkuh gSal fØf'p;u vkWLVsZM us] vius ,d Hkk"k.k osQ nkSjku iz;ksx izn£'kr djrs gq, ns[kk fd ,d lh/s rkj esa fo|qr /kjk izokfgr djus ij ikl j[kh gqbZ pqacdh; lqbZ esa lqLi"V fo{ksi izkIr gksrk gSA mUgksaus bl ifj?kVuk ij 'kks/ vkjaHk fd;kA mUgksaus ik;k fd pqacdh; lqbZ rkj osQ vfHkyacor ry esa rkj dh fLFkfr osQ osaQnzr% o`Ùk dh Li'kZ js[kk osQ lekarj lajsf[kr gksrh gSA bl fLFkfr dks fp=k 4.1(a) esa n'kkZ;k x;k gSA ij ;g ns[kus osQ fy, rkj esa i;kZIr /kjk izokfgr gksuh pkfg, vkSj pqacdh; lqbZ rkj osQ dkiQh fudV j[kh gksuh pkfg, rkfd i`Foh osQ pqacdh; {ks=k dh mis{kk dh tk losQA ;fn rkj esa /kjk dh fn'kk foijhr dj nh tk, rks pqacdh; lqbZ Hkh ?kwe dj foijhr fn'kk esa lajsf[kr gks tkrh gS ¹fp=k 4.1(b) nsf[k,ºA rkj esa /kjk dk ifjek.k c<+kus ;k lqbZ dks rkj osQ fudV ykus ls pqacdh; lqbZ dk fo{ksi c<+ tkrk gSA rkj osQ pkjksa vksj ;fn ykSg pw.kZ fNM+osaQ rks blosQ d.k rkj osQ pkjksa vksj laosaQnzh o`Ùkksa esa O;ofLFkr gks tkrs gSa ¹fp=k 4.1(c) nsf[k,ºA bl ifj?kVuk ls vkWLVsZM us fu"d"kZ fudkyk fd xfreku vkos'k (/kjk) vius pkjksa vksj ,d pqacdh; {ks=k mRiUu djrs gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.1</strong> 2000 वर्ष से भी पहले वि।ुत तथा चुंबकत्व दोनों ही के बारे में लोगों को Kान था। पिफर भी लगभग 200 वर्ष पूर्वए 1820 में यह स्पष्ट अनुभव किया गया कि इन दोनों में अटूट संबंध है। 1820 की गzीष्म ½तु मेंए डच भौतिकविज्ञानी हैंस Øिश्चियन ऑस्र्टेड नेए अपने एक भाषण के दौरान पzयोग पzद£शत करते हुए देखा कि एक सीधे तार में वि।ुत धारा पzवाहित करने पर पास रखी हुर्इ चुंबकीय सुर्इ में सुस्पष्ट वि{ोप पzाप्त होता है। उनहोंने इस परिघटना पर शोध आरंभ किया। उनहोंने पाया कि चुंबकीय सुर्इ तार के अभिलंबवत तल में तार की स्थिति के वेंफदzत% वृÙा की स्पर्श रेखा के समांतर संरेखित होती है। इस स्थिति को चित्र 4.1(ं) में दर्शाया गया है। पर यह देखने के लिए तार में पर्याप्त धारा पzवाहित होनी चाहिए और चुंबकीय सुर्इ तार के कापफी निकट रखी होनी चाहिए ताकि पृथ्वी के चुंबकीय क्षेत्र की उपे{ाा की जा सके। यद ितार में धारा की दशिा विपरीत कर दी जाए तो चुंबकीय सुर्इ भी घूम कर विपरीत दशिा में संरेखित हो जाती है ¹चित्र 4.1(इ) देखिएº। तार में धारा का परिमाण ब<+ाने या सुर्इ को तार के निकट लाने से चुंबकीय सुर्इ का वि{ोप ब<+ जाता है। तार के चारों आेर यद िलौह चूर्ण छिड+वेंफ तो इसके कण तार के चारों आेर संवेंफदzी वृÙाों में व्यवस्थित हो जाते हैं ¹चित्र 4.1(ब) देखिएº। इस परिघटना से ऑस्र्टेड ने निष्कर्ष निकाला कि गतिमान आवेश (धारा) अपने चारों आेर एक चुंबकीय क्षेत्र उत्पनन करते हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(1)">📄 View in PDF (Page 1)</button>
   </div>
 </div>
@@ -241,9 +241,9 @@ F
 इसकी दिशा सदिश गुणनफल (क्रास गुणनफल) के लिए
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_2_hi.png" alt="चित्र 4.2" onclick="openImageModal(this.src, 'चित्र 4.2: B osQ chp dk dks.k gS ¹fp=k 4.2 (a) nsf[k,ºA pqacdh; {ks=k...')">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_2_hi.png" alt="चित्र 4.2" onclick="openImageModal(this.src, 'चित्र 4.2ः झ् के बीच का कोण है ¹चित्र 4.2 (ं) देखिएº। चुंबकीय क्षेत्रण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.2</strong> B osQ chp dk dks.k gS ¹fp=k 4.2 (a) nsf[k,ºA pqacdh; {ks=k</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.2</strong> झ् के बीच का कोण है ¹चित्र 4.2 (ं) देखिएº। चुंबकीय क्षेत्र</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -347,9 +347,9 @@ j
 प्रवाहित हो रही है। यह किसी एकसमान क्षैतिज B चुंबकीय क्षेत्र द्वारा वायु के बीच में निलंबित
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_3_hi.png" alt="चित्र 4.3" onclick="openImageModal(this.src, 'चित्र 4.3: mnkgj.k 4.1 200 g nzO;eku rFkk 1.5 m yackbZ osQ fdlh lhèks rkj ls 2 A fo|qr èkkj...')">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_3_hi.png" alt="चित्र 4.3" onclick="openImageModal(this.src, 'चित्र 4.3ः उदाहरण 4.1 200 ह दzव्यमान तथा 1.5 उ लंबार्इ के किसी सीèो तार से 2 । वि।ुत èाारण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.3</strong> mnkgj.k 4.1 200 g nzO;eku rFkk 1.5 m yackbZ osQ fdlh lhèks rkj ls 2 A fo|qr èkkjk çokfgr gks jgh gSA ;g fdlh ,dleku {kSfrt B pqacdh; {ks=k }kjk ok;q osQ chp esa fuyafcr gS (fp=k 4.3)A pqacdh; {ks=k dk ifjek.k Kkr dhft,A</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.3</strong> उदाहरण 4.1 200 ह दzव्यमान तथा 1.5 उ लंबार्इ के किसी सीèो तार से 2 । वि।ुत èाारा çवाहित हो रही है। यह किसी एकसमान {ौतिज झ् चुंबकीय क्षेत्र द्वारा वायु के बीच में निलंबित है (चित्र 4.3)। चुंबकीय क्षेत्र का परिमाण Kात कीजिए।</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>
@@ -400,9 +400,9 @@ repu
 उदाहरण 4.2 यदि चुंबकीय क्षेत्र धनात्मक y-अक्ष के समान्तर है तथा आवेशित कण धनात्मक
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_4_hi.png" alt="चित्र 4.4" onclick="openImageModal(this.src, 'चित्र 4.4: x-v{k osQ vuqfn&#39;k xfreku gS (fp=k 4.4 nsf[k, ), rks yksjsat cy fdl vksj yxsx...')">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_4_hi.png" alt="चित्र 4.4" onclick="openImageModal(this.src, 'चित्र 4.4ः ग-अ{ा के अनुद&ि#39या गतिमान है (चित्र 4.4 देखिए )ए तो लोरेंज बल किस आेर लगेगण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.4</strong> x-v{k osQ vuqfn'k xfreku gS (fp=k 4.4 nsf[k, ), rks yksjsat cy fdl vksj yxsxk tcfd xfreku d.k (a) bysDVªkWu (½.k vkos'k) (b) çksVkWu (èku vkos'k) gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.4</strong> ग-अ{ा के अनुदशि गतिमान है (चित्र 4.4 देखिए )ए तो लोरेंज बल किस आेर लगेगा जबकि गतिमान कण (ं) इलेक्टªाॅन (½ण आवेश) (इ) çोटाॅन (èान आवेश) है।</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>
@@ -641,17 +641,17 @@ X
 लंबवत बल qv × B अभिकेंद्र बल की भाँति कार्य करता है तथा चुंबकीय क्षेत्र के
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_5_hi.png" alt="चित्र 4.5" onclick="openImageModal(this.src, 'चित्र 4.5: fp=k 4.5 orqZy xfr...')">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_5_hi.png" alt="चित्र 4.5" onclick="openImageModal(this.src, 'चित्र 4.5ः चित्र 4.5 वर्तुल गतिण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.5</strong> fp=k 4.5 orqZy xfr</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.5</strong> चित्र 4.5 वर्तुल गति</span>
     <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
   </div>
 </div>
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_6_hi.png" alt="चित्र 4.6" onclick="openImageModal(this.src, 'चित्र 4.6: fp=k 4.6 oqaQMfyuh xfr...')">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_6_hi.png" alt="चित्र 4.6" onclick="openImageModal(this.src, 'चित्र 4.6ः चित्र 4.6 वुंफडलिनी गतिण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.6</strong> fp=k 4.6 oqaQMfyuh xfr</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.6</strong> चित्र 4.6 वुंफडलिनी गति</span>
     <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
   </div>
 </div>
@@ -744,9 +744,9 @@ E = (2 )mv2 = (½ ) 9 × 10-31 kg × 9 × 1014 m²/s²
 बायो सावर्ट नियम द्वारा प्राप्त होता है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_7_hi.png" alt="चित्र 4.7" onclick="openImageModal(this.src, 'चित्र 4.7: ftrus pqacdh; {ks=k gesa Kkr gSa os lHkh fo|qr /kjkvksa (vFkok xfr&#39;khy vkos&...')">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_7_hi.png" alt="चित्र 4.7" onclick="openImageModal(this.src, 'चित्र 4.7ः जितने चुंबकीय क्षेत्र हमें Kात हैं वे सभी वि।ुत धाराओं (अथवा गति&#39याील आवे&ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.7</strong> ftrus pqacdh; {ks=k gesa Kkr gSa os lHkh fo|qr /kjkvksa (vFkok xfr'khy vkos'kksa) rFkk d.kksa osQ uSt pqacdh; vk?kw.kks± osQ dkj.k mRiUu gq, gSaA ;gk¡ vc ge fo|qr /kjk rFkk mlosQ }kjk mRiUu pqacdh; {ks=k osQ chp laca/ osQ ckjs esa vè;;u djsaxsA ;g laca/ ck;ks lkoVZ fu;e }kjk izkIr gksrk gSA fp=k 4.7 esa ,d ifjfer fo|qr /kjk pkyd</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.7</strong> जितने चुंबकीय क्षेत्र हमें Kात हैं वे सभी वि।ुत धाराओं (अथवा गतिशील आवेशों) तथा कणों के नैज चुंबकीय आघूणो्य के कारण उत्पनन हुए हैं। यहाँ अब हम वि।ुत धारा तथा उसके द्वारा उत्पनन चुंबकीय क्षेत्र के बीच संबंध के बारे में अèययन करेंगे। यह संबंध बायो सावर्ट नियम द्वारा पzाप्त होता है। चित्र 4.7 में एक परिमित वि।ुत धारा चालक</span>
     <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
   </div>
 </div>
@@ -886,9 +886,9 @@ not
 हो रही है, मूल बिंदु पर स्थित है (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_8_hi.png" alt="चित्र 4.8" onclick="openImageModal(this.src, 'चित्र 4.8: fp=k 4.8 gy...')">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_8_hi.png" alt="चित्र 4.8" onclick="openImageModal(this.src, 'चित्र 4.8ः चित्र 4.8 हलण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.8</strong> fp=k 4.8 gy</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.8</strong> चित्र 4.8 हल</span>
     <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
   </div>
 </div>
@@ -975,9 +975,9 @@ ix j = k; jx k = i; kx i = j
 मूल्यांकन मुक्त दिक्स्थान (निर्वात) में किया गया है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_9_hi.png" alt="चित्र 4.9" onclick="openImageModal(this.src, 'चित्र 4.9: fp=k 4.9 esa o`Ùkkdkj ik&#39;k esa LFkk;h fo|qr /kjk I izokfgr gksrs gq, n&#39;k...')">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_9_hi.png" alt="चित्र 4.9" onclick="openImageModal(this.src, 'चित्र 4.9ः चित्र 4.9 में वृÙााकार पा&#39या में स्थायी वि।ुत धारा प् पzवाहित होते हुए द&#39याण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.9</strong> fp=k 4.9 esa o`Ùkkdkj ik'k esa LFkk;h fo|qr /kjk I izokfgr gksrs gq, n'kkZbZ xbZ gSA ik'k dks ewy ¯cnq ij x y ry esa fLFkr n'kkZ;k x;k gS rFkk ik'k dk f=kT;k R gSA x-v{k gh ywi dk v{k gSA gesa blh v{k osQ ¯cnq P ij pqacdh; {ks=k ifjdfyr djuk gS] eku yhft, ¯cnq P ik'k osQ osaQnz ls x nwjh ij fLFkr gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.9</strong> चित्र 4.9 में वृÙााकार पाश में स्थायी वि।ुत धारा प् पzवाहित होते हुए दर्शार्इ गर्इ है। पाश को मूल ¯बदु पर ग ल तल में स्थित दर्शाया गया है तथा पाश का =िाज्या त् है। ग-अ{ा ही लूप का अ{ा है। हमें इसी अ{ा के ¯बदु च् पर चुंबकीय क्षेत्र परिकलित करना हैए मान लीजिए ¯बदु च् पाश के वेंफदz से ग दूरी पर स्थित है।</span>
     <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
   </div>
 </div>
@@ -1103,9 +1103,9 @@ not
 वृत्ताकार तार के कारण चुंबकीय क्षेत्र रेखाएँ बंद वृत्ताकार पाश बनाती हैं जिन्हें
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_10_hi.png" alt="चित्र 4.10" onclick="openImageModal(this.src, 'चित्र 4.10: o`Ùkkdkj rkj osQ dkj.k pqacdh; {ks=k js[kk,¡ can o`Ùkkdkj ik&#39;k cukrh gaS ftU...')">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_10_hi.png" alt="चित्र 4.10" onclick="openImageModal(this.src, 'चित्र 4.10ः वृÙााकार तार के कारण चुंबकीय क्षेत्र रेखाएँ बंद वृÙााकार पा&#39या बनाती हंै जिनण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.10</strong> o`Ùkkdkj rkj osQ dkj.k pqacdh; {ks=k js[kk,¡ can o`Ùkkdkj ik'k cukrh gaS ftUgsa fp=k 4.10 esa n'kkZ;k x;k gSA pqacdh; {ks=k dh fn'kk (,d vU;) nf{k.k gLr vaxq"B fu;e }kjk gksrh gSA ;g fu;e uhps fn;k x;k gS]</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.10</strong> वृÙााकार तार के कारण चुंबकीय क्षेत्र रेखाएँ बंद वृÙााकार पाश बनाती हंै जिनहें चित्र 4.10 में दर्शाया गया है। चुंबकीय क्षेत्र की दशिा (एक अनय) द{िाण हस्त अंगुष्झ् नियम द्वारा होती है। यह नियम नीचे दयिा गया हैए</span>
     <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
   </div>
 </div>
@@ -1131,9 +1131,9 @@ not
 तथा निचले पार्श्व को दक्षिण ध्रुव माना जा सकता है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_11_hi.png" alt="चित्र 4.11" onclick="openImageModal(this.src, 'चित्र 4.11: mnkgj.k 4.5 fp=k 4.11 esa n&#39;kkZ, vuqlkj fdlh lh/s rkj ftlesa 12 A fo|qr /kjk...')">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_11_hi.png" alt="चित्र 4.11" onclick="openImageModal(this.src, 'चित्र 4.11ः उदाहरण 4.5 चित्र 4.11 में द&#39र्यााए अनुसार किसी सीधे तार जिसमें 12 । वि।ुत धाराण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.11</strong> mnkgj.k 4.5 fp=k 4.11 esa n'kkZ, vuqlkj fdlh lh/s rkj ftlesa 12 A fo|qr /kjk izokfgr gks jgh gS] dks 2.0 cm f=kT;k osQ v/Zo`Ùkkdkj pki esa eksM+k x;k gSA bl pki osQ osaQnz ij pqacdh; {ks=k B dks ekusaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.11</strong> उदाहरण 4.5 चित्र 4.11 में दर्शाए अनुसार किसी सीधे तार जिसमें 12 । वि।ुत धारा पzवाहित हो रही हैए को 2.0 बउ =िाज्या के अर्धवृÙााकार चाप में मोड+ा गया है। इस चाप के वेंफदz पर चुंबकीय क्षेत्र झ् को मानें।</span>
     <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
   </div>
 </div>
@@ -1210,9 +1210,9 @@ I
 ### 4.6 ऐम्पियर का परिपथीय नियम
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_12_hi.png" alt="चित्र 4.12" onclick="openImageModal(this.src, 'चित्र 4.12: fp=k 4.12...')">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_12_hi.png" alt="चित्र 4.12" onclick="openImageModal(this.src, 'चित्र 4.12ः चित्र 4.12.्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.12</strong> fp=k 4.12</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.12</strong> चित्र 4.12</span>
     <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
   </div>
 </div>
@@ -1264,9 +1264,9 @@ not
 जब किसी निकाय में इस प्रकार की सममिति हो जैसे कि
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_13_hi.png" alt="चित्र 4.13" onclick="openImageModal(this.src, 'चित्र 4.13: tc fdlh fudk; esa bl izdkj dh lefefr gks tSls fd fp=k 4.13 esa lh/s fo|qr /kjkok...')">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_13_hi.png" alt="चित्र 4.13" onclick="openImageModal(this.src, 'चित्र 4.13ः जब किसी निकाय में इस प्रकार की सममिति हो जैसे कि चित्र 4.13 में सीधे वि।ुत धारावाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.13</strong> tc fdlh fudk; esa bl izdkj dh lefefr gks tSls fd fp=k 4.13 esa lh/s fo|qr /kjkokgh vuar rkj osQ fy, gS] rc ,sfEi;j dk fu;e gesa pqacdh; {ks=k dk ,d ljy ewY;kadu djus ;ksX; cukrk gS tks Bhd mlh izdkj gS tSls fd xkml fu;e fo|qr {ks=k dks fu/kZfjr djus esa gekjh lgk;rk djrk gSA bls uhps fn, x, mnkgj.k 4.8 esa n'kkZ;k x;k gSA ik'k dh lhek js[kk dk p;u ,d o`Ùk gS rFkk pqacdh; {ks=k o`Ùk dh ifjf/ osQ Li'kZjs[kh; gSA lehdj.k [4.13 (b)] osQ oke i{k osQ fy, bl fu;e ls izkIr eku B. 2πr gSA ge ;g ikrs gSa fd rkj osQ ckgj r nwjh ij pqacdh; {ks=k Li'kZjs[kh; gS rFkk bls bl izdkj O;Dr fd;k tk ldrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.13</strong> जब किसी निकाय में इस प्रकार की सममिति हो जैसे कि चित्र 4.13 में सीधे वि।ुत धारावाही अनंत तार के लिए हैए तब एेम्पियर का नियम हमें चुंबकीय क्षेत्र का एक सरल मूल्यांकन करने योग्य बनाता है जो झ्ीक उसी प्रकार है जैसे कि गाउस नियम वि।ुत क्षेत्र को निर्धारित करने में हमारी सहायता करता है। इसे नीचे दएि गए उदाहरण 4.8 में दर्शाया गया है। पाश की सीमा रेखा का चयन एक वृÙा है तथा चुंबकीय क्षेत्र वृÙा की परिध िके स्पर्शरेखीय है। समीकरण ख्4.13 (इ)ए के वाम प{ा के लिए इस नियम से पzाप्त मान झ्ण् 2πत है। हम यह पाते हैं कि तार के बाहर त दूरी पर चुंबकीय क्षेत्र स्पर्शरेखीय है तथा इसे इस प्रकार व्यक्त किया जा सकता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
   </div>
 </div>
@@ -1467,9 +1467,9 @@ a2
 ऐम्पियर के नियम का उपयोग करने पर B (2nr) = Mo
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_14_hi.png" alt="चित्र 4.14" onclick="openImageModal(this.src, 'चित्र 4.14: fp=k 4.14...')">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_14_hi.png" alt="चित्र 4.14" onclick="openImageModal(this.src, 'चित्र 4.14ः चित्र 4.14.्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.14</strong> fp=k 4.14</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.14</strong> चित्र 4.14</span>
     <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
   </div>
 </div>
@@ -1518,9 +1518,9 @@ lished
 परिनालिका पर लपेटने के लिए इनैमलित तारों का उपयोग किया जाता है ताकि फेरे एक दूसरे से
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_15_hi.png" alt="चित्र 4.15" onclick="openImageModal(this.src, 'चित्र 4.15: fp=k 4.15 esa fdlh ifjfer ifjukfydk dk pqacdh; {ks=k n&#39;kkZ;k x;k gSA fp=k 4....')">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_15_hi.png" alt="चित्र 4.15" onclick="openImageModal(this.src, 'चित्र 4.15ः चित्र 4.15 में किसी परिमित परिनालिका का चुंबकीय क्षेत्र द&#39र्यााया गया है। चित्र 4.्ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.15</strong> fp=k 4.15 esa fdlh ifjfer ifjukfydk dk pqacdh; {ks=k n'kkZ;k x;k gSA fp=k 4.15 (a) esa geus bl ifjukfydk osQ ,d [kaM dks foLrkfjr djosQ fn[kk;k gSA fp=k 4.15 (b) esa o`Ùkkdkj ik'k ls ;g Li"V gS fd nks ikl&ikl osQ isQjksa osQ chp pqacdh; {ks=k u"V gks tkrk gSA fp=k 4.15 (b)</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.15</strong> चित्र 4.15 में किसी परिमित परिनालिका का चुंबकीय क्षेत्र दर्शाया गया है। चित्र 4.15 (ं) में हमने इस परिनालिका के एक खंड को विस्तारित करके दखिाया है। चित्र 4.15 (इ) में वृÙााकार पाश से यह स्पष्ट है कि दो पास&पास के पेफरों के बीच चुंबकीय क्षेत्र नष्ट हो जाता है। चित्र 4.15 (इ)</span>
     <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
   </div>
 </div>
@@ -1552,9 +1552,9 @@ lished
 नहीं है। जैसे-जैसे परिनालिका की लंबाई में वृद्धि होती है वह लंबी बेलनाकार धातु के पटल जैसी
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_16_hi.png" alt="चित्र 4.16" onclick="openImageModal(this.src, 'चित्र 4.16: esa ge ;g ns[krs gSa fd vUr%Hkkx osQ eè; ¯cnq P ij pqacdh; {ks=k ,dleku] izcy rF...')">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_16_hi.png" alt="चित्र 4.16" onclick="openImageModal(this.src, 'चित्र 4.16ः में हम यह देखते हैं कि अनत%भाग के मèय ¯बदु च् पर चुंबकीय क्षेत्र एकसमानए पzबल तथ्ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.16</strong> esa ge ;g ns[krs gSa fd vUr%Hkkx osQ eè; ¯cnq P ij pqacdh; {ks=k ,dleku] izcy rFkk ifjukfydk osQ v{k osQ vuqfn'k gSA cká Hkkx osQ eè; ¯cnq Q ij paqcdh; {ks=k nqcZy gS vkSj lkFk gh ;g ifjukfydk osQ v{k osQ vuqfn'k gS rFkk bldk yacor vFkok vfHkyacor dksbZ ?kVd Hkh ugha gSA tSls&tSls ifjukfydk dh yackbZ esa o`f¼ gksrh gS og yach csyukdkj /krq osQ iVy tSlh fn[kkbZ nsus yxrh gSA fp=k 4.16 esa ;g vkn'khZo`Qr fp=k.k fu:fir fd;k x;k gSA ifjukfydk osQ ckgj pqacdh; {ks=k 'kwU; gksus yxrk gSA ifjukfydk osQ Hkhrj gj ¯cnq ij pqacdh; {ks=k v{k osQ lekarj gksrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.16</strong> में हम यह देखते हैं कि अनत%भाग के मèय ¯बदु च् पर चुंबकीय क्षेत्र एकसमानए पzबल तथा परिनालिका के अ{ा के अनुदशि है। बाá भाग के मèय ¯बदु फ पर चंुबकीय क्षेत्र दुर्बल है और साथ ही यह परिनालिका के अ{ा के अनुदशि है तथा इसका लंबवत अथवा अभिलंबवत कोर्इ घटक भी नहीं है। जैसे&जैसे परिनालिका की लंबार्इ में वृ¼ि होती है वह लंबी बेलनाकार धातु के पटल जैसी दखिार्इ देने लगती है। चित्र 4.16 में यह आदर्शीवृफत चित्रण निरूपित किया गया है। परिनालिका के बाहर चुंबकीय क्षेत्र शूनय होने लगता है। परिनालिका के भीतर हर ¯बदु पर चुंबकीय क्षेत्र अ{ा के समांतर होता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
   </div>
 </div>
@@ -1656,9 +1656,9 @@ I
 प्रकट करने में हमारी सहायता करेंगे।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_17_hi.png" alt="चित्र 4.17" onclick="openImageModal(this.src, 'चित्र 4.17: fp=k 4.17 esa nks yacs lekarj pkyd a rFkk b n&#39;kkZ, x, gSa ftuosQ chp i`Fkdu ...')">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_17_hi.png" alt="चित्र 4.17" onclick="openImageModal(this.src, 'चित्र 4.17ः चित्र 4.17 में दो लंबे समांतर चालक ं तथा इ द&#39र्यााए गए हैं जिनके बीच पृथकन ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.17</strong> fp=k 4.17 esa nks yacs lekarj pkyd a rFkk b n'kkZ, x, gSa ftuosQ chp i`Fkdu d gS rFkk ftuls (lekarj) Øe'k% Ia rFkk Ib fo|qr /kjk,¡ izokfgr gks jgh gSaA pkyd ‘a’ pkyd ‘b’ osQ vuqfn'k izR;sd ¯cnq ij leku pqacdh; {ks=k Ba yxk jgk gSA rc nf{k.k gLr fu;e osQ vuqlkj bl pqacdh; {ks=k dh fn'kk v/kseq[kh (tc pkyd {kSfrtr% j[ks gksrs gSa) gSA ,sfEi;j osQ ifjiFkh; fu;e vFkok ¹lehdj.k [4.15 (a)º osQ vuqlkj bl pqacdh; {ks=k dk ifjek.k</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.17</strong> चित्र 4.17 में दो लंबे समांतर चालक ं तथा इ दर्शाए गए हैं जिनके बीच पृथकन क है तथा जिनसे (समांतर) Øमश% प्ं तथा प्इ वि।ुत धाराएँ पzवाहित हो रही हैं। चालक द्दंद्र चालक द्दइद्र के अनुदशि पzत्येक ¯बदु पर समान चुंबकीय क्षेत्र झ्ं लगा रहा है। तब द{िाण हस्त नियम के अनुसार इस चुंबकीय क्षेत्र की दशिा अधोमुखी (जब चालक {ौतिजत% रखे होते हैं) है। एेम्पियर के परिपथीय नियम अथवा ¹समीकरण ख्4.15 (ं)º के अनुसार इस चुंबकीय क्षेत्र का परिमाण</span>
     <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
   </div>
 </div>
@@ -1869,9 +1869,9 @@ Sublisted
 इस प्रकार स्थित है कि एकसमान चुंबकीय क्षेत्र B पाश के तल में है। इसे
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_18_hi.png" alt="चित्र 4.18" onclick="openImageModal(this.src, 'चित्र 4.18: igys ge ml ljy izdj.k ij fopkj djrs gSa ftlesa vk;rkdkj ik&#39;k bl izdkj fLFkr ...')">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_18_hi.png" alt="चित्र 4.18" onclick="openImageModal(this.src, 'चित्र 4.18ः पहले हम उस सरल पzकरण पर विचार करते हैं जिसमें आयताकार पा&#39या इस प्रकार स्थित ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.18</strong> igys ge ml ljy izdj.k ij fopkj djrs gSa ftlesa vk;rkdkj ik'k bl izdkj fLFkr gS fd ,dleku pqacdh; {ks=k B ik'k osQ ry esa gSA bls fp=k 4.18 (a) esa n'kkZ;k x;k gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.18</strong> पहले हम उस सरल पzकरण पर विचार करते हैं जिसमें आयताकार पाश इस प्रकार स्थित है कि एकसमान चुंबकीय क्षेत्र झ् पाश के तल में है। इसे चित्र 4.18 (ं) में दर्शाया गया है।</span>
     <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
   </div>
 </div>
@@ -1989,9 +1989,9 @@ a
 का कोण लेते हैं (पहला प्रकरण 0 = n/2 के तदनुरूपी है)।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_19_hi.png" alt="चित्र 4.19" onclick="openImageModal(this.src, 'चित्र 4.19: dk dks.k θ ysrs gSa (igyk izdj.k θ = π/2 osQ rnuq:ih gS)A fp=k 4.19 esa ;g O;kid...')">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_19_hi.png" alt="चित्र 4.19" onclick="openImageModal(this.src, 'चित्र 4.19ः का कोण θ लेते हैं (पहला पzकरण θ = πध2 के तदनुरूपी है)। चित्र 4.19 में यह व्यापकण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.19</strong> dk dks.k θ ysrs gSa (igyk izdj.k θ = π/2 osQ rnuq:ih gS)A fp=k 4.19 esa ;g O;kid izdj.k n'kkZ;k x;k gSA Hkqtkvksa BC rFkk DA ij dk;Zjr cy ifjek.k esa leku fn'kk esa foijhr rFkk oqaQMyh osQ v{k osQ vuqfn'k dk;Z djrs gSaA ;s cy BC rFkk DA osQ lagfr osaQnzksa dks la;ksftr djrs gSaA v{k osQ vuqfn'k lajsf[kr gksus osQ dkj.k ;s ,d nwljs dks fujLr djrs gSa] ifj.kkeLo:i dksbZ usV cy vFkok cy vk?kw.kZ ugha gSA Hkqtkvksa AB rFkk CD ij dk;Zjr cy F1 rFkk F2 gSaA ;s Hkh ifjek.k lfgr leku ,oa foijhr gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.19</strong> का कोण θ लेते हैं (पहला पzकरण θ = πध2 के तदनुरूपी है)। चित्र 4.19 में यह व्यापक पzकरण दर्शाया गया है। भुजाओं झ्ऋ तथा क्। पर कार्यरत बल परिमाण में समान दशिा में विपरीत तथा वुंफडली के अ{ा के अनुदशि कार्य करते हैं। ये बल झ्ऋ तथा क्। के संहति वेंफदzों को संयोजित करते हैं। अ{ा के अनुदशि संरेखित होने के कारण ये एक दूसरे को निरस्त करते हैंए परिणामस्वरूप कोर्इ नेट बल अथवा बल आघूर्ण नहीं है। भुजाओं । झ् तथा ऋक् पर कार्यरत बल थ्1 तथा थ्2 हैं। ये भी परिमाण सहित समान एवं विपरीत हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
   </div>
 </div>
@@ -2486,9 +2486,9 @@ Jis
 1.5 A विद्युत धारा प्रवाहित हो रही है अथवा किसी प्रतिरोधक के सिरों
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_20_hi.png" alt="चित्र 4.20" onclick="openImageModal(this.src, 'चित्र 4.20: 1.5 A fo|qr /kjk izokfgr gks jgh gS vFkok fdlh izfrjks/d osQ fljksa osQ chp 1.2 ...')">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_20_hi.png" alt="चित्र 4.20" onclick="openImageModal(this.src, 'चित्र 4.20ः 1.5 । वि।ुत धारा पzवाहित हो रही है अथवा किसी पzतिरोधक के सिरों के बीच 1.2 ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.20</strong> 1.5 A fo|qr /kjk izokfgr gks jgh gS vFkok fdlh izfrjks/d osQ fljksa osQ chp 1.2 V foHkokarj gSA fp=k 4.20 esa blh mís'; osQ mi;ksx ls fd;k tkus okyk mi;ksxh midj.k n'kkZ;k x;k gS ftls py oqaQMyh xSYosuksehVj (moving coil galvanometer — MCG) dgrs gSaA ;g ,d ,slh ;qfDr gS ftlosQ fl¼kar dks gekjs }kjk vuqHkkx esa 4.9 esa dh xbZ ppkZ osQ vk/kj ij le>k tk ldrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.20</strong> 1.5 । वि।ुत धारा पzवाहित हो रही है अथवा किसी पzतिरोधक के सिरों के बीच 1.2 ट विभवांतर है। चित्र 4.20 में इसी उíेश्य के उपयोग से किया जाने वाला उपयोगी उपकरण दर्शाया गया है जिसे चल वुंफडली गैल्वेनोमीटर (उवअपदह बवपस हंसअंदवउमजमत — डऋG) कहते हैं। यह एक एेसी युक्ति है जिसके सि¼ांत को हमारे द्वारा अनुभाग में 4.9 में की गर्इ चर्चा के आधार पर समझ जा सकता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(24)">📄 View in PDF (Page 24)</button>
   </div>
 </div>
@@ -2603,9 +2603,9 @@ S
 का प्रभाव भी कम होगा जिसकी उपेक्षा की जा सकती है। इस व्यवस्था का एक योजना आरेख
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_21_hi.png" alt="चित्र 4.21" onclick="openImageModal(this.src, 'चित्र 4.21: RG rs / (RG + rs) ~ rs ;fn RG >> rs ;fn ifjiFk osQ izfrjks/ Re dh rqyuk esa rs d...')">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_21_hi.png" alt="चित्र 4.21" onclick="openImageModal(this.src, 'चित्र 4.21ः त्G ते ध (त्G + ते) ~ ते यद ित्G >> ते यद िपरिपथ के पzतिरोध त्म की तुलना में ते कण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.21</strong> RG rs / (RG + rs) ~ rs ;fn RG >> rs ;fn ifjiFk osQ izfrjks/ Re dh rqyuk esa rs dk eku de gS rks ekid ;a=k dks ifjiFk esa tksM+us dk izHkko Hkh de gksxk ftldh mis{kk dh tk ldrh gSA bl O;oLFkk dk ,d ;kstuk vkjs[k fp=k 4.21 esa fn[kk;k x;k gSA bl izdkj cus ,sehVj osQ iSekus dk va'kkadu dj fn;k tkrk gS rkfd vklkuh ls èkkjk dk eku i<+k tk losQA ,sehVj dh lqxzkfgrk dh ifjHkk"kk ge fo{ksi izfr bdkbZ èkkjk osQ :i esa djrs gSaA lehdj.k (4.26) osQ vuqlkj èkkjk lqxzkfgrk gS]</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.21</strong> त्G ते ध (त्G + ते) ~ ते यद ित्G >> ते यद िपरिपथ के पzतिरोध त्म की तुलना में ते का मान कम है तो मापक यं=ा को परिपथ में जोड+ने का पzभाव भी कम होगा जिसकी उपे{ाा की जा सकती है। इस व्यवस्था का एक योजना आरेख चित्र 4.21 में दखिाया गया है। इस प्रकार बने एेमीटर के पैमाने का अंशांकन कर दयिा जाता है ताकि आसानी से èाारा का मान प<+ा जा सके। एेमीटर की सुगzाहिता की परिभाषा हम वि{ोप पzति इकार्इ èाारा के रूप में करते हैं। समीकरण (4.26) के अनुसार èाारा सुगzाहिता हैए</span>
     <button class="icon-btn" onclick="goToPdfPage(25)">📄 View in PDF (Page 25)</button>
   </div>
 </div>
@@ -2637,9 +2637,9 @@ k
 श्रेणीक्रम में एक बड़ा प्रतिरोध R जोड़ा जाता है। इस व्यवस्था का योजना आरेख
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_22_hi.png" alt="चित्र 4.22" onclick="openImageModal(this.src, 'चित्र 4.22: /kjkekih dk mi;ksx ifjiFk osQ fdlh va&#39;k osQ fljksa osQ chp foHkokarj Kkr dju...')">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_22_hi.png" alt="चित्र 4.22" onclick="openImageModal(this.src, 'चित्र 4.22ः धारामापी का उपयोग परिपथ के किसी अं&#39या के सिरों के बीच विभवांतर Kात करनण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.22</strong> /kjkekih dk mi;ksx ifjiFk osQ fdlh va'k osQ fljksa osQ chp foHkokarj Kkr djus osQ fy, oksYVrkekih osQ :i esa Hkh gks ldrk gSA bl mís'; osQ fy, bldks ifjiFk osQ ml va'k osQ ik'oZØe esa yxkuk gksxkA vkSj fiQj] blesa ls vR;Yi /kjk izokfgr gksuh pkfg,] vU;Fkk] oksYVrk dh eki ewy O;oLFkk dks vR;f/d fo{kqC/ dj nsxhA izk;% ge ekid ;a=kksa }kjk mRiUu fo{kksHk dks ,d izfr'kr ls de j[krs gSaA eki dh ifj'kq¼rk cuk, j[kus osQ fy,] xSYosuksehVj osQ Js.khØe esa ,d cM+k izfrjksèk R tksM+k tkrk gSA bl O;oLFkk dk ;kstuk vkjs[k fp=k 4.22 esa n'kkZ;k x;k gSA è;ku nhft, fd vc oksYVehVj dk oqQy izfrjksèk]</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.22</strong> धारामापी का उपयोग परिपथ के किसी अंश के सिरों के बीच विभवांतर Kात करने के लिए वोल्टतामापी के रूप में भी हो सकता है। इस उíेश्य के लिए इसको परिपथ के उस अंश के पाश्र्वØम में लगाना होगा। और पिफरए इसमें से अत्यल्प धारा पzवाहित होनी चाहिएए अनयथाए वोल्टता की माप मूल व्यवस्था को अत्यधकि वि{ाुऋध कर देगी। पzाय% हम मापक यं=ाों द्वारा उत्पनन वि{ाोभ को एक पzतिशत से कम रखते हैं। माप की परिशु¼ता बनाए रखने के लिएए गैल्वेनोमीटर के JेणीØम में एक बड+ा पzतिरोèा त् जोड+ा जाता है। इस व्यवस्था का योजना आरेख चित्र 4.22 में दर्शाया गया है। èयान दीजिए कि अब वोल्टमीटर का वुफल पzतिरोèाए</span>
     <button class="icon-btn" onclick="goToPdfPage(25)">📄 View in PDF (Page 25)</button>
   </div>
 </div>
@@ -2763,9 +2763,9 @@ berer
 ### 3.00 V
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_23_hi.png" alt="चित्र 4.23" onclick="openImageModal(this.src, 'चित्र 4.23: fp=k 4.23...')">
+  <img src="data/diagrams/12th_physics_ch04_moving_charges_and_magnetism_fig_4_23_hi.png" alt="चित्र 4.23" onclick="openImageModal(this.src, 'चित्र 4.23ः चित्र 4.23.्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.23</strong> fp=k 4.23</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.23</strong> चित्र 4.23</span>
     <button class="icon-btn" onclick="goToPdfPage(26)">📄 View in PDF (Page 26)</button>
   </div>
 </div>

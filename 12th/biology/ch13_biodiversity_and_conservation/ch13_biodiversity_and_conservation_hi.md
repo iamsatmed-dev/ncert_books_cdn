@@ -126,9 +126,9 @@ ished
 (एम्फीबिया), सरीसृप (रेप्टाइल) तथा स्तनधारियों (मैमल्स) से अधिक है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch13_biodiversity_and_conservation_fig_13_hi.png" alt="चित्र 13" onclick="openImageModal(this.src, 'चित्र 13: vkb,! i`Foh dh tSofofoèkrk osQ oqQN jkspd igyqvksa dks orZeku esa miyCèk tkrh; l...')">
+  <img src="data/diagrams/12th_biology_ch13_biodiversity_and_conservation_fig_13_hi.png" alt="चित्र 13" onclick="openImageModal(this.src, 'चित्र 13ः आइए! पृथ्वी की जैवविविèाता के कुछ रोचक पहलुओं को वर्तमान में उपलऋèा जातीय सण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 13</strong> vkb,! i`Foh dh tSofofoèkrk osQ oqQN jkspd igyqvksa dks orZeku esa miyCèk tkrh; lwfp;ksa osQ vkèkkj ij ns[ksaA lHkh vkdfyr tkfr;ksa esa ls 70 izfr'kr ls vfèkd tarq gSa] tcfd 'kSoky] dod] czk;ksiQkbV] vko`Ùkchth rFkk vuko`Ùkchft;ksa tSls ikniksa dks feykdj 22 izfr'kr ls vfèkd ugha gSaA tarqvksa esa dhV lcls vfèkd le`¼ tkrh; oxZ lewg gS] tks laiw.kZ tkfr;ksa osQ 70 izfr'kr ls vfèkd gSA bldk vFkZ ;g gS fd bl xzg esa izR;sd 10 tarqvksa esa 7 dhV gSaA iqu% dhVksa dh bl vR;fèkd fofoèkrk dks ge oSQls le>k,¡\ lalkj esa dod tkfr;ksa dh oqQy la[;k] eNyh] mHk;pj (,EiQhfc;k)] ljhl`i (jsIVkby) rFkk Lruèkkfj;ksa (eSeYl) ls vfèkd gSA fp=k 13-1 esa oqQN eq[; oxZd (VSDlk) dh tkfr;ksa dh tSo&fofoèkrk dks n'kkZ;k x;k gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 13</strong> आइए! पृथ्वी की जैवविविèाता के कुछ रोचक पहलुओं को वर्तमान में उपलऋèा जातीय सूचियों के आèाार पर देखें। सभी आकलित जातियों में से 70 पzतिशत से अèिाक जंतु हैंए जबकि शैवालए कवकए बzायोपफाइटए आवृÙाबीजी तथा अनावृÙाबीजियों जैसे पादपों को मिलाकर 22 पzतिशत से अèिाक नहीं हैं। जंतुओं में कीट सबसे अèिाक समृ¼ जातीय वर्ग समूह हैए जो संपूर्ण जातियों के 70 पzतिशत से अèिाक है। इसका अर्थ यह है कि इस गzह में पzत्येक 10 जंतुओं में 7 कीट हैं। पुन% कीटों की इस अत्यèिाक विविèाता को हम वैफसे समझएँ। संसार में कवक जातियों की वुफल संख्याए मछलीए उभयचर (एम्पफीबिया)ए सरीसृप (रेप्टाइल) तथा स्तनèाारियों (मैमल्स) से अèिाक है। चित्र 13.1 में कुछ मुख्य वर्गक (टैक्सा) की जातियों की जैव&विविèाता को दर्शाया गया है।</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>

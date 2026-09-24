@@ -1806,9 +1806,9 @@ not
 COH
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch10_biomolecules_fig_10_hi.png" alt="चित्र 10" onclick="openImageModal(this.src, 'चित्र 10: eksM+ ij fLFkr C O lewg osQ lkFk gkbMªkstu vkcaèk cukrk gS tSlk fd fp=k 10-1 esa...')">
+  <img src="data/diagrams/12th_chemistry_ch10_biomolecules_fig_10_hi.png" alt="चित्र 10" onclick="openImageModal(this.src, 'चित्र 10ः मोड+ पर स्थित ऋ व् समूह के साथ हाइडªोजन आबंèा बनाता है जैसा कि चित्र 10.1 मेंण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 10</strong> eksM+ ij fLFkr C O lewg osQ lkFk gkbMªkstu vkcaèk cukrk gS tSlk fd fp=k 10-1 esa n'kkZ;k x;k gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 10</strong> मोड+ पर स्थित ऋ व् समूह के साथ हाइडªोजन आबंèा बनाता है जैसा कि चित्र 10.1 में दर्शाया गया है।</span>
     <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
   </div>
 </div>

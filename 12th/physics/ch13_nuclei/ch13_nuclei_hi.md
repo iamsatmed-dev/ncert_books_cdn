@@ -525,15 +525,15 @@ hed
   <img src="data/diagrams/12th_physics_ch13_nuclei_fig_13_1_hi.png" alt="
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch13_nuclei_fig_13_hi.png" alt="चित्र 13" onclick="openImageModal(this.src, 'चित्र 13: 26.7 MeV mQtkZ fueqZDr gksrh gSA fdlh rkjs osQ var% iVy esa osQoy ghfy;e dk gh f...')">
+  <img src="data/diagrams/12th_physics_ch13_nuclei_fig_13_hi.png" alt="चित्र 13" onclick="openImageModal(this.src, 'चित्र 13ः 26ण्7 डमट उफर्जा निर्मुक्त होती है। किसी तारे के अंत% पटल में केवल हीलियम का ही ण्ण्ण्ि')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 13</strong> 26.7 MeV mQtkZ fueqZDr gksrh gSA fdlh rkjs osQ var% iVy esa osQoy ghfy;e dk gh fuekZ.k ugha gksrkA tSls&tSls ØksM esa gkbMªkstu (ghfy;e esa cny dj) de gksrh gS] ØksM BaMk gksus yxrk gSA blls rkjk vius xq#Ro osQ dkj.k laoqQfpr gksrk gS ftlls ØksM dk rki c<+ tkrk gSA ;fn ØksM dk rki 108K rd c<+ tk;s rks lay;u dh fØ;k iqu% gksus yxsxh] ij bl ckj ghfy;e dkcZu esa ifjofrZr gksxhA bl izdkj dh izfØ;k esa lay;u }kjk cM+s nzO;eku la[;k okys rRoksa dk tuu gks ldrk gSA ijUrq caèku&ÅtkZ oØ (fp=k 13-1) osQ 'kh"kZ ij fLFkr Hkkjh rRoksa dk fuekZ.k bl izfØ;k ls ugha gks ldrkA</span>
+    <span class="diagram-caption-text"><strong>चित्र 13</strong> 26.7 डमट उफर्जा निर्मुक्त होती है। किसी तारे के अंत% पटल में केवल हीलियम का ही निर्माण नहीं होता। जैसे&जैसे Øोड में हाइडªोजन (हीलियम में बदल कर) कम होती हैए Øोड झ्ंडा होने लगता है। इससे तारा अपने गु#त्व के कारण संवुफचित होता है जिससे Øोड का ताप ब<+ जाता है। यद िØोड का ताप 108K तक ब<+ जाये तो संलयन की Øिया पुन% होने लगेगीए पर इस बार हीलियम कार्बन में परिवर्तित होगी। इस प्रकार की पzØिया में संलयन द्वारा बड+े दzव्यमान संख्या वाले तत्वों का जनन हो सकता है। परनतु बंèान&ऊर्जा वØ (चित्र 13.1) के शीर्ष पर स्थित भारी तत्वों का निर्माण इस पzØिया से नहीं हो सकता।</span>
     <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
   </div>
 </div>
 
 <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 13.1</strong> fp=k 13.1 esa cgqr ls ukfHkdksa osQ fy, izfr U;wfDy;kWu caèku mQtkZ Ebn ,oa nzO;eku la[;k A esa xzkiQ fn[kk;k x;k gSA bl xzkiQ esa gesa fuEufyf[kr y{k.k ij fo'ks"k n`f"Vxkspj gksrs gSa µ</span>
+    <span class="diagram-caption-text"><strong>चित्र 13.1</strong> चित्र 13.1 में बहुत से नाभिकों के लिए पzति नयूक्लियाॅन बंèान उफर्जा म्इद एवं दzव्यमान संख्या । में गzापफ दखिाया गया है। इस गzापफ में हमें निम्नलिखित ल{ाण पर विशेष दृष्टिगोचर होते हैं ष्ट</span>
     <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
   </div>
 </div>
@@ -634,9 +634,9 @@ A = 120 के दो नाभिकों में टूटता है त
 की स्थितिज ऊर्जा और उनके बीच की दूरी में संबंध दर्शाने वाला एक अपरिष्कृत
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch13_nuclei_fig_13_2_hi.png" alt="चित्र 13.2" onclick="openImageModal(this.src, 'चित्र 13.2: yxus okyk ukfHkdh; cy rs”kh ls ?kVdj &#39;kwU; gks tkrk gSA bl dkj.k] vkSlr vFko...')">
+  <img src="data/diagrams/12th_physics_ch13_nuclei_fig_13_2_hi.png" alt="चित्र 13.2" onclick="openImageModal(this.src, 'चित्र 13.2ः लगने वाला नाभिकीय बल तेद्घाी से घटकर &#39याूनय हो जाता है। इस कारणए औसत अथवण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 13.2</strong> yxus okyk ukfHkdh; cy rs”kh ls ?kVdj 'kwU; gks tkrk gSA bl dkj.k] vkSlr vFkok cM+s lkb”k osQ ukfHkdksa esa ^cyksa dh lar`Irrk* dh fLFkfr vk tkrh gS ftlosQ ifj.kkeLo:i izfr U;wfDy;kWu ca/u&ÅtkZ fu;r gks tkrh gSA nks ukfHkdksa dh fLFkfrt ÅtkZ vkSj muosQ chp dh nwjh esa laca/ n'kkZus okyk ,d vifj"Ñr vkjs[k fp=k 13.2 esa n'kkZ;k x;k gSA yxHkx 0.8 fm dh nwjh r0 ij fLFkfrt ÅtkZ dk eku U;wure gksrk gSA bldk vFkZ ;g gqvk fd ;fn ukfHkdksa osQ chp nwjh 0.8 fm ls vf/d gksrh gS rks ;s cy vkd"kZ.k cy gksrs gSa vkSj 0.8 fm ls de nwfj;ksa osQ fy, ;s izfrd"kZ.k cy gksrs gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 13.2</strong> लगने वाला नाभिकीय बल तेद्घाी से घटकर शूनय हो जाता है। इस कारणए औसत अथवा बड+े साइद्घा के नाभिकों में ^बलों की संतृप्तता* की स्थिति आ जाती है जिसके परिणामस्वरूप पzति नयूक्लियाॅन बंधन&ऊर्जा नियत हो जाती है। दो नाभिकों की स्थितिज ऊर्जा और उनके बीच की दूरी में संबंध दर्शाने वाला एक अपरिष्Ñत आरेख चित्र 13.2 में दर्शाया गया है। लगभग 0.8 उि की दूरी त0 पर स्थितिज ऊर्जा का मान नयूनतम होता है। इसका अर्थ यह हुआ कि यद िनाभिकों के बीच दूरी 0.8 उि से अधकि होती है तो ये बल आकर्षण बल होते हैं और 0.8 उि से कम दूरियों के लिए ये पzतिकर्षण बल होते हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
   </div>
 </div>

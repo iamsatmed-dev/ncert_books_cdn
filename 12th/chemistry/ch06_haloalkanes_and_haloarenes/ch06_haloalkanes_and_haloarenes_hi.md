@@ -1020,9 +1020,9 @@ CH3CH2Br + Nal
 पर आकर्षण बल और अधिक प्रबल हो जाते हैं।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch06_haloalkanes_and_haloarenes_fig_6_hi.png" alt="चित्र 6" onclick="openImageModal(this.src, 'चित्र 6: v.kqvksa dk vkdkj cM+k gksus ij rFkk vfèkd la[;k esa bysDVªkWu mifLFkr gksus ij ...')">
+  <img src="data/diagrams/12th_chemistry_ch06_haloalkanes_and_haloarenes_fig_6_hi.png" alt="चित्र 6" onclick="openImageModal(this.src, 'चित्र 6ः अणुओं का आकार बड+ा होने पर तथा अèिाक संख्या में इलेक्टªाॅन उपस्थित होने पर ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6</strong> v.kqvksa dk vkdkj cM+k gksus ij rFkk vfèkd la[;k esa bysDVªkWu mifLFkr gksus ij vkd"kZ.k cy vkSj vfèkd izcy gks tkrs gSaA fp=k 6-1 esa fofHkUu gSykbMksa osQ DoFkukadksa esa ifjorZu dk izk:i fn;k x;k gSA leku ,sfYdy lewg osQ fy, ,sfYdy gSykbMksa osQ DoFkukadksa osQ ?kVus dk Øe µ RI > RBr > RCl > R–F gSA ,slk gSykstu ijek.kq osQ vkdkj rFkk nzO;eku esa o`f¼ gksus ls okUMjokYl cyksa osQ ifjek.k esa o`f¼ gksus osQ dkj.k gksrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 6</strong> अणुओं का आकार बड+ा होने पर तथा अèिाक संख्या में इलेक्टªाॅन उपस्थित होने पर आकर्षण बल और अèिाक पzबल हो जाते हैं। चित्र 6.1 में विभिन्न हैलाइडों के क्वथनांकों में परिवर्तन का पzारूप दयिा गया है। समान एेल्किल समूह के लिए एेल्किल हैलाइडों के क्वथनांकों के घटने का Øम ष्ट त्प् > त्झ्त > त्ऋस > त्–थ् है। एेसा हैलोजन परमाणु के आकार तथा दzव्यमान में वृ¼ि होने से वानडरवाल्स बलों के परिमाण में वृ¼ि होने के कारण होता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
   </div>
 </div>

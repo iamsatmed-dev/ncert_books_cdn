@@ -342,9 +342,9 @@ Ca
 में फ्लुओरीन, क्लोरीन, ब्रोमीन आदि के साथ गुणधर्मों में
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_chemistry_ch03_classification_of_elements_fig_3_hi.png" alt="चित्र 3" onclick="openImageModal(this.src, 'चित्र 3: (empirical formula) rFkk muosQ xq.kèkeks± dh lekurk dks vkèkkj ekukA og ;g tkurs...')">
+  <img src="data/diagrams/11th_chemistry_ch03_classification_of_elements_fig_3_hi.png" alt="चित्र 3" onclick="openImageModal(this.src, 'चित्र 3ः (मउचपतपबंस वितउनसं) तथा उनके गुणèामो्य की समानता को आèाार माना। वह यह जानतेण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3</strong> (empirical formula) rFkk muosQ xq.kèkeks± dh lekurk dks vkèkkj ekukA og ;g tkurs Fks fd ;fn ijek.kq&Hkkj osQ Øe dk iw.kZr% ikyu fd;k tkrk] rks oqQN rÙo muosQ }kjk fn, x, Øe esa vkorZ&lkj.kh esa ugha j[ks tk ldrs FksA mUgksaus leku jklk;fud xq.k n'kkZus okys rÙoksa dks vkorZ&lkj.kh esa mfpr LFkku nsus osQ fy, muosQ ijek.kq&Hkkjksa osQ Øe dh mis{kk dhA mnkgj.k osQ rkSj ijµ vk;ksMhu] ftldk ijek.kq Hkkj lewg VI osQ rÙo ^VSywfj;e* ls de Fkk] dks lewg VII esa Ýyqvksjhu] Dyksjhu] czksehu vkfn osQ lkFk xq.kèkeks± esa lekurk osQ vkèkkj ij j[kk x;k (fp=k 3-1)A mUgksaus leku xq.kèkeks± okys rÙoksa dks ,d lewg esa j[kus dh izkFkfedrk dks vkèkkj ekurs gq, ;g izLrkfor fd;k fd oqQN rÙo (tks [kksts ugha x, Fks) osQ fy, lkj.kh esa oqQN fjDr LFkku NksM+ fn, x,A mnkgj.k osQ fy,µ tc esaMyho dh vkorZ&lkj.kh izdkf'kr gqbZ] rc xSfy;e (Gallium) rFkk tesZfu;e</span>
+    <span class="diagram-caption-text"><strong>चित्र 3</strong> (मउचपतपबंस वितउनसं) तथा उनके गुणèामो्य की समानता को आèाार माना। वह यह जानते थे कि यद िपरमाणु&भार के Øम का पूर्णत% पालन किया जाताए तो कुछ तÙव उनके द्वारा दएि गए Øम में आवर्त&सारणी में नहीं रखे जा सकते थे। उनहोंने समान रासायनिक गुण दर्शाने वाले तÙवों को आवर्त&सारणी में उचित स्थान देने के लिए उनके परमाणु&भारों के Øम की उपे{ाा की। उदाहरण के तौर परष्ट आयोडीनए जिसका परमाणु भार समूह टप् के तÙव ^टैलूरियम* से कम थाए को समूह टप्प् में Ýलुआेरीनए क्लोरीनए बzोमीन आद िके साथ गुणèामो्य में समानता के आèाार पर रखा गया (चित्र 3.1)। उनहोंने समान गुणèामो्य वाले तÙवों को एक समूह में रखने की पzाथमिकता को आèाार मानते हुए यह पzस्तावित किया कि कुछ तÙव (जो खोजे नहीं गए थे) के लिए सारणी में कुछ रिक्त स्थान छोड+ दएि गए। उदाहरण के लिएष्ट जब मेंडलीव की आवर्त&सारणी पzकाशित हुर्इए तब गैलियम (Gंससपनउ) तथा जर्मेनियम</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>
@@ -2759,9 +2759,9 @@ X*(g) → X²+(g) + e¯
 प्रथम वर्ग के क्षारीय धातुओं में क्रमशः
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_chemistry_ch03_classification_of_elements_fig_3_6_hi.png" alt="चित्र 3.6" onclick="openImageModal(this.src, 'चित्र 3.6: Fig. 3.6 (d) f}rh; vkorZ osQ rÙoksa osQ izFke vk;uu ,aFkSYih eku] mu rÙoksa osQ ...')">
+  <img src="data/diagrams/11th_chemistry_ch03_classification_of_elements_fig_3_6_hi.png" alt="चित्र 3.6" onclick="openImageModal(this.src, 'चित्र 3.6ः थ्पहण् 3.6 (क) ।ितीय आवर्त के तÙवों के पzथम आयनन एंथैल्पी मानए उन तÙवों के ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.6</strong> Fig. 3.6 (d) f}rh; vkorZ osQ rÙoksa osQ izFke vk;uu ,aFkSYih eku] mu rÙoksa osQ ijek.kq&Øekad dk iQyu ([k) {kkjh;</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.6</strong> थ्पहण् 3.6 (क) ।ितीय आवर्त के तÙवों के पzथम आयनन एंथैल्पी मानए उन तÙवों के परमाणु&Øमांक का पफलन (ख) {ाारीय</span>
     <button class="icon-btn" onclick="goToPdfPage(16)">📄 View in PDF (Page 16)</button>
   </div>
 </div>

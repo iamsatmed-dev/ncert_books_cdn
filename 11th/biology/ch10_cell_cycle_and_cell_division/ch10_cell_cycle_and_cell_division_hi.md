@@ -73,9 +73,9 @@ G
 की कोशिका के संवर्द्धन में होता है, जो लगभग प्रत्येक (सूत्री विभाजन)
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_biology_ch10_cell_cycle_and_cell_division_fig_10_hi.png" alt="चित्र 10" onclick="openImageModal(this.src, 'चित्र 10: ,d iz:ih (;wosQfj;ksfVd) pØ dk mnkgj.k euq&quot;; dh dksf&#39;kdk osQ lao¼Zu esa...')">
+  <img src="data/diagrams/11th_biology_ch10_cell_cycle_and_cell_division_fig_10_hi.png" alt="चित्र 10" onclick="openImageModal(this.src, 'चित्र 10ः एक पzरूपी (यूकेरियोटिक) चक्र का उदाहरण मनु&ुनवजयय की को&ि#39याका के संवर्¼न मेंण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 10</strong> ,d iz:ih (;wosQfj;ksfVd) pØ dk mnkgj.k euq"; dh dksf'kdk osQ lao¼Zu esa gksrk gS] tks yxHkx izR;sd pkSchl ?kaVs esa foHkkftr gksrh gS (fp=k 10-1)A ;|fi dksf'kdk pØ dh ;g vofèk ,d tho ls nwljs tho ,oa dksf'kdk ls nwljh dksf'kdk izk:i osQ fy, cny ldrh gSA mnkgj.kkFkZ& ;hLV osQ dksf'kdk pØ osQ iw.kZ gksus esa yxHkx uCcs feuV yxrs gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 10</strong> एक पzरूपी (यूकेरियोटिक) चक्र का उदाहरण मनुष्य की कोशिका के संवर्¼न में होता हैए जो लगभग पzत्येक चौबीस घंटे में विभाजित होती है (चित्र 10.1)। य।पि कोशिका चक्र की यह अवèिा एक जीव से दूसरे जीव एवं कोशिका से दूसरी कोशिका पzारूप के लिए बदल सकती है। उदाहरणार्थ& यीस्ट के कोशिका चक्र के पूर्ण होने में लगभग नऋबे मिनट लगते हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>

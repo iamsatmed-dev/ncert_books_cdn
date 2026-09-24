@@ -195,9 +195,9 @@ bublished
 क्रियाओं द्वारा मृदा में निक्षलित
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch12_ecosystem_fig_12_hi.png" alt="चित्र 12" onclick="openImageModal(this.src, 'चित्र 12: ;g le>uk egÙoiw.kZ gSa fd mi;qZDr vi?kVu dh leLr izfØ;k,¡ vijn ij lekukarj :i ls...')">
+  <img src="data/diagrams/12th_biology_ch12_ecosystem_fig_12_hi.png" alt="चित्र 12" onclick="openImageModal(this.src, 'चित्र 12ः यह सम>ना महÙवपूर्ण हैं कि उपर्युक्त अपघटन की समस्त पzØियाएँ अपरद पर समानांतर रूप सेण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 12</strong> ;g le>uk egÙoiw.kZ gSa fd mi;qZDr vi?kVu dh leLr izfØ;k,¡ vijn ij lekukarj :i ls yxkrkj pyrh jgrh gaSA (fp=k 12-1) áwehfiQosQ'ku vkSj feujsykbts'ku dh izfØ;k vi?kVu osQ nkSjku e`nk esa laiUu gksrh gSA áwehfiQosQ'ku osQ }kjk ,d xgjs jax osQ fØlVy jfgr rÙo dk fuekZ.k gksrk gS ftls áwel dgrs gSa tksfd lw{etSfod fØ;k osQ fy, mPp izfrjks/h gksrk gS vkSj bldk vi?kVu cgqr gh /heh xfr ls pyrk gSA LoHkko (izÑfr) esa dksykbMy gksus osQ dkj.k ;g iks"kd osQ HkaMkj dk dke djrk gSA áwel iqu% oqQN lw{ethoksa }kjk [kafMr gksrk gS vkSj tks [kfuthdj.k uked izfØ;k }kjk vdkcZfud iks"kd mRiUu gksrs gSa mUgsa eqDr djrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 12</strong> यह सम>ना महÙवपूर्ण हैं कि उपर्युक्त अपघटन की समस्त पzØियाएँ अपरद पर समानांतर रूप से लगातार चलती रहती हंै। (चित्र 12.1) áूमीपिफकेशन और मिनरेलाइजेशन की पzØिया अपघटन के दौरान मृदा में संपनन होती है। áूमीपिफकेशन के द्वारा एक गहरे रंग के Øिसटल रहित तÙव का निर्माण होता है जिसे áूमस कहते हैं जोकि सू{मजैविक Øिया के लिए उच्च पzतिरोधी होता है और इसका अपघटन बहुत ही धीमी गति से चलता है। स्वभाव (पzÑति) में कोलाइडल होने के कारण यह पोषक के भंडार का काम करता है। áूमस पुन% कुछ सू{मजीवों द्वारा खंडित होता है और जो खनिजीकरण नामक पzØिया द्वारा अकार्बनिक पोषक उत्पनन होते हैं उनहें मुक्त करता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>

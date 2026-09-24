@@ -160,9 +160,9 @@ shed
 ## 📄 Page 5
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch11_organisms_and_populations_fig_11_hi.png" alt="चित्र 11" onclick="openImageModal(this.src, 'चित्र 11: fdlh fn, x, le; esa lef&quot;V fHkUu vk;q okys O;f&quot;V;ksa ls feydj curh gSA ...')">
+  <img src="data/diagrams/12th_biology_ch11_organisms_and_populations_fig_11_hi.png" alt="चित्र 11" onclick="openImageModal(this.src, 'चित्र 11ः किसी दएि गए समय में सम&िुनवजयट भिनन आयु वाले व्य&िुनवजयटयों से मिलकर बनती है। ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 11</strong> fdlh fn, x, le; esa lef"V fHkUu vk;q okys O;f"V;ksa ls feydj curh gSA vxj lef"V osQ fy, vk;q forj.k (nh xbZ vk;q vFkok vk;q oxZ osQ O;f"V;ksa dk izfr'kr) vkysf[kr (IykWVsM) fd;k tkrk gS rks cuus okyh lajpuk vk;q fijSfeM dgykrh gS (fp=k 11-1)A ekuo lef"V osQ fy, vk;q fijSfeM vkerkSj ij uj vkSj fL=k;ksa dk vk;q forj.k la;qDr vkjs[k dks n'kkZrk gSA fijSfeM dk vkdkj lef"V dh fLFkfr izfrfcafcr djrk gS & (d) D;k ;g c<+ jgk gS] ([k) fLFkj gS ;k (x) ?kV jgk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 11</strong> किसी दएि गए समय में समष्टि भिनन आयु वाले व्यष्टियों से मिलकर बनती है। अगर समष्टि के लिए आयु वितरण (दी गर्इ आयु अथवा आयु वर्ग के व्यष्टियों का पzतिशत) आलेखित (प्लाॅटेड) किया जाता है तो बनने वाली संरचना आयु पिरैमिड कहलाती है (चित्र 11.1)। मानव समष्टि के लिए आयु पिरैमिड आमतौर पर नर और स्=िायों का आयु वितरण संयुक्त आरेख को दर्शाता है। पिरैमिड का आकार समष्टि की स्थिति पzतिबिंबित करता है & (क) क्या यह ब<+ रहा हैए (ख) स्थिर है या (ग) घट रहा है।</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>

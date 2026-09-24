@@ -78,15 +78,15 @@ not to
   <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_1_hi.png" alt="
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_hi.png" alt="चित्र 8" onclick="openImageModal(this.src, 'चित्र 8: fn[kk, x, gSaA fp=k 8-1(a) esa] ,d csyu dks mlosQ vuqizLFk ifjPNsn dh yacor~ fn&...')">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_hi.png" alt="चित्र 8" onclick="openImageModal(this.src, 'चित्र 8ः दखिाए गए हैं। चित्र 8.1(ं) मेंए एक बेलन को उसके अनुपzस्थ परिच्छेद की लंबवत~ द&िण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8</strong> fn[kk, x, gSaA fp=k 8-1(a) esa] ,d csyu dks mlosQ vuqizLFk ifjPNsn dh yacor~ fn'kk esa nks leku cy yxkdj rkfur fd;k x;k gSA bl fLFkfr esa] ,dkad {ks=kiQy ij izR;ku;u cy dks ruu izfrcy dgrs gSaA ;fn izR;kjksfir cyksa osQ dk;Z ls csyu laihfMr gks tk, rks ,dkad {ks=kiQy ij izR;ku;u cy dks laihMu izfrcy dgrs gSaA ruu ;k laihMu izfrcy dks vuqnS?;Z izfrcy Hkh dgk tk ldrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 8</strong> दखिाए गए हैं। चित्र 8.1(ं) मेंए एक बेलन को उसके अनुपzस्थ परिच्छेद की लंबवत~ दशिा में दो समान बल लगाकर तानित किया गया है। इस स्थिति मेंए एकांक क्षेत्रपफल पर पzत्यानयन बल को तनन पzतिबल कहते हैं। यद िपzत्यारोपित बलों के कार्य से बेलन संपीडित हो जाए तो एकांक क्षेत्रपफल पर पzत्यानयन बल को संपीडन पzतिबल कहते हैं। तनन या संपीडन पzतिबल को अनुदैघ्र्य पzतिबल भी कहा जा सकता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>
 
 <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8.1</strong> fp=k 8.1 8.1 8.1 8.1 8.1 (a) ruu izfrcy osQ izHkko esa ,d csyu ∆L eku ls foLRkfjr gks tkrk gS] (b) vi:i.k (Li'khZ) izfrcy osQ izHkko esa ,d csyu dks.k θ ls fo:fir gks tkrk gS] (c) vi:i.k izfrcy osQ izHkko esa ,d iqLrd] (d) leku tyh; izfrcy osQ izHkko esa ,d Bksl xksyk ∆V eku ls vk;ru esa laoqQfpr gks tkrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 8.1</strong> चित्र 8.1 8.1 8.1 8.1 8.1 (ं) तनन पzतिबल के पzभाव में एक बेलन ∆स् मान से विस्त्ारित हो जाता हैए (इ) अपरूपण (स्पर्शी) पzतिबल के पzभाव में एक बेलन कोण θ से विरूपित हो जाता हैए (ब) अपरूपण पzतिबल के पzभाव में एक पुस्तकए (क) समान जलीय पzतिबल के पzभाव में एक झ्ोस गोला ∆ट मान से आयतन में संवुफचित हो जाता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>
@@ -206,9 +206,9 @@ F
 है)। यदि किसी पुस्तक को हाथ से दबाकर क्षैतिज दिशा में
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_2_hi.png" alt="चित्र 8.2" onclick="openImageModal(this.src, 'चित्र 8.2: θ = 10° rks θ vkSj tanθ osQ eku esa osQoy 1% dk varj gksrk gS)A ;fn fdlh iqLrd d...')">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_2_hi.png" alt="चित्र 8.2" onclick="openImageModal(this.src, 'चित्र 8ण्2ः θ = 10त्त तो θ और जंदθ के मान में केवल 1% का अंतर होता है)। यद िकिसी पुस्तक कण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8.2</strong> θ = 10° rks θ vkSj tanθ osQ eku esa osQoy 1% dk varj gksrk gS)A ;fn fdlh iqLrd dks gkFk ls nckdj {kSfrt fn'kk esa <osQysa] tSlk fp=k 8.2(c) esa fn[kk;k x;k gS] rc Hkh ,slh foo`Qfr dks ns[kk tk ldrk gSA bl izdkj]</span>
+    <span class="diagram-caption-text"><strong>चित्र 8.2</strong> θ = 10त्त तो θ और जंदθ के मान में केवल 1% का अंतर होता है)। यद िकिसी पुस्तक को हाथ से दबाकर {ौतिज दशिा में <केलेंए जैसा चित्र 8.2(ब) में दखिाया गया हैए तब भी एेसी विवृफति को देखा जा सकता है। इस प्रकारए</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>
@@ -369,9 +369,9 @@ B और D के बीच का भाग यह दर्शाता है
 सकता है, फिर भी वह अपनी प्रारंभिक आकृति में वापस आ
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_3_hi.png" alt="चित्र 8.3" onclick="openImageModal(this.src, 'चित्र 8.3: fp=k 8.3 8.3 8.3 8.3 8.3 egk/euh] ân; ls jDr dks ys tkus okyh o`gr ufydk (okfgdk...')">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_3_hi.png" alt="चित्र 8.3" onclick="openImageModal(this.src, 'चित्र 8.3ः चित्र 8.3 8.3 8.3 8.3 8.3 महाधमनीए âदय से रक्त को ले जाने वाली वृहत नलिका (वाहिकाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8.3</strong> fp=k 8.3 8.3 8.3 8.3 8.3 egk/euh] ân; ls jDr dks ys tkus okyh o`gr ufydk (okfgdk)] osQ izR;kLFk Ård osQ fy, izfrcy&foo`Qfr oØA</span>
+    <span class="diagram-caption-text"><strong>चित्र 8.3</strong> चित्र 8.3 8.3 8.3 8.3 8.3 महाधमनीए âदय से रक्त को ले जाने वाली वृहत नलिका (वाहिका)ए के पzत्यास्थ ऊतक के लिए पzतिबल&विवृफति वØ।</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -692,9 +692,9 @@ S
 पीठ के बल लेटा हुआ है, के पैरों पर आधारित है (जैसा
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_4_hi.png" alt="चित्र 8.4" onclick="openImageModal(this.src, 'चित्र 8.4: fp=k 8.4 8.4 8.4 8.4 8.4 loZQl esa ,d ekuoh; fijSfeMA...')">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_4_hi.png" alt="चित्र 8.4" onclick="openImageModal(this.src, 'चित्र 8.4ः चित्र 8.4 8.4 8.4 8.4 8.4 सर्वफस में एक मानवीय पिरैमिड। ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8.4</strong> fp=k 8.4 8.4 8.4 8.4 8.4 loZQl esa ,d ekuoh; fijSfeMA</span>
+    <span class="diagram-caption-text"><strong>चित्र 8.4</strong> चित्र 8.4 8.4 8.4 8.4 8.4 सर्वफस में एक मानवीय पिरैमिड।</span>
     <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
   </div>
 </div>
@@ -850,9 +850,9 @@ G (109 Nm-2
 हल सीसे का स्लैब स्थिर है तथा बल को पतली फलक के
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_5_hi.png" alt="चित्र 8.5" onclick="openImageModal(this.src, 'चित्र 8.5: fp=k 8.5 8.5 8.5 8.5 8.5...')">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_5_hi.png" alt="चित्र 8.5" onclick="openImageModal(this.src, 'चित्र 8.5ः चित्र 8.5 8.5 8.5 8.5 8.5.्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8.5</strong> fp=k 8.5 8.5 8.5 8.5 8.5</span>
+    <span class="diagram-caption-text"><strong>चित्र 8.5</strong> चित्र 8.5 8.5 8.5 8.5 8.5</span>
     <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
   </div>
 </div>
@@ -1284,9 +1284,9 @@ A≥ W/σ₁ = Mg/бу
 बारे में विचार करें जो सिरों के पास आधारित हो तथा जिसके
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_6_hi.png" alt="चित्र 8.6" onclick="openImageModal(this.src, 'चित्र 8.6: fp=k 8.6 8.6 8.6 8.6 8.6 fljksa ij vk/kfjr rFkk osQUnz ij Hkkfjr ,d n.MA...')">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_6_hi.png" alt="चित्र 8.6" onclick="openImageModal(this.src, 'चित्र 8.6ः चित्र 8.6 8.6 8.6 8.6 8.6 सिरों पर आधारित तथा केनदz पर भारित एक दण्ड। ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8.6</strong> fp=k 8.6 8.6 8.6 8.6 8.6 fljksa ij vk/kfjr rFkk osQUnz ij Hkkfjr ,d n.MA</span>
+    <span class="diagram-caption-text"><strong>चित्र 8.6</strong> चित्र 8.6 8.6 8.6 8.6 8.6 सिरों पर आधारित तथा केनदz पर भारित एक दण्ड।</span>
     <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
   </div>
 </div>
@@ -1325,9 +1325,9 @@ W
 बढ़ाने पर पट्टी ऐसे बंकित हो सकती है जैसा
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_7_hi.png" alt="चित्र 8.7" onclick="openImageModal(this.src, 'चित्र 8.7: FkksM+k lk oSQyoqQyl vkSj ftruk vki igys gh i<+ pqosQ gSa] mldk mi;ksx djosQ bl ...')">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_7_hi.png" alt="चित्र 8.7" onclick="openImageModal(this.src, 'चित्र 8ण्7ः थोड+ा सा वैफलवुफलस और जितना आप पहले ही प<+ चुके हैं, उसका उपयोग करके इस ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8.7</strong> FkksM+k lk oSQyoqQyl vkSj ftruk vki igys gh i<+ pqosQ gSa] mldk mi;ksx djosQ bl laca/ dk fuxeu fd;k tk ldrk gSA lehdj.k (8.15) ls ge ns[krs gSa fd fdlh fn;s gq, Hkkj osQ fy, cadu de djus osQ fy, ,sls nzO; dk mi;ksx djuk pkfg, ftldk ;ax xq.kkad Y vf/d gksA fdlh fn;s gq, nzO; osQ fy, cadu de djus osQ fy, pkSM+kbZ b oQh ctk; eksVkbZ d dks c<+kuk vf/d izHkkoh gksrk gS D;ksafd δ , d -3 ysfdu b-1 osQ vuqØekuqikrh gksrk gS (;|fi n.M dh yackbZ ;FkklEHko de gksuh gh pkfg,)A ysfdu tc rd ,slk u gks fd Hkkj fcyoqQy Bhd LFkku ij yxk gks (ij pyrs gq, ;krk;kr okys iqy ij ,slk O;ofLFkr djuk dfBu gS)] eksVkbZ c<+kus ij iêðh ,sls cafdr gks ldrh gS tSlk fp=k 8.7(b) esa fn[kk;k x;k gSA bls vkoqaQpu dgrs gSaA blls cpus osQ fy, lk/kj.kr;k fp=k 8.7(c) esa fn[kkbZ xbZ vkÑfr dk vuqizLFk ifjPNsn fy;k tkrk gSA ,sls ifjPNsn ls Hkkj ogu djus osQ fy, cM+k i`"B rFkk cadu jksdus osQ fy, i;kZIr eksVkbZ feyrh gSA bl izdkj dh vkÑfr ls izcyrk dks U;ksNkoj fd;s fcuk gh n.M osQ Hkkj dks de fd;k tk ldrk gS] vr% ykxr Hkh de gks tkrh gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 8.7</strong> थोड+ा सा वैफलवुफलस और जितना आप पहले ही प<+ चुके हैंए उसका उपयोग करके इस संबंध का निगमन किया जा सकता है। समीकरण (8.15) से हम देखते हैं कि किसी दयिे हुए भार के लिए बंकन कम करने के लिए एेसे दzव्य का उपयोग करना चाहिए जिसका यंग गुणांक ल् अधकि हो। किसी दयिे हुए दzव्य के लिए बंकन कम करने के लिए चौड+ार्इ इ वफी बजाय मोटार्इ क को ब<+ाना अधकि पzभावी होता है क्योंकि δ ए क -3 लेकिन इ-1 के अनुØमानुपाती होता है (य।पि दण्ड की लंबार्इ यथासम्भव कम होनी ही चाहिए)। लेकिन जब तक एेसा न हो कि भार बिलवुफल झ्ीक स्थान पर लगा हो (पर चलते हुए यातायात वाले पुल पर एेसा व्यवस्थित करना कझ्नि है)ए मोटार्इ ब<+ाने पर पêðी एेसे बंकित हो सकती है जैसा चित्र 8.7(इ) में दखिाया गया है। इसे आवुंफचन कहते हैं। इससे बचने के लिए साधारणतया चित्र 8.7(ब) में दखिार्इ गर्इ आÑति का अनुपzस्थ परिच्छेद लिया जाता है। एेसे परिच्छेद से भार वहन करने के लिए बड+ा पृष्झ् तथा बंकन रोकने के लिए पर्याप्त मोटार्इ मिलती है। इस प्रकार की आÑति से पzबलता को नयोछावर किये बिना ही दण्ड के भार को कम किया जा सकता हैए अत% लागत भी कम हो जाती है।</span>
     <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
   </div>
 </div>
@@ -1362,9 +1362,9 @@ b
 प्रचलित है। गोल सिरों वाले खम्भे जैसा
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_8_hi.png" alt="चित्र 8.8" onclick="openImageModal(this.src, 'चित्र 8.8: Hkouksa rFkk iqyksa esa [kEHkksa ;k LrEHkksa dk mi;ksx Hkh cgqr izpfyr gSA xksy ...')">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_8_hi.png" alt="चित्र 8.8" onclick="openImageModal(this.src, 'चित्र 8ण्8ः भवनों तथा पुलों में खम्भों या स्तम्भों का उपयोग भी बहुत पzचलित है। गोल ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8.8</strong> Hkouksa rFkk iqyksa esa [kEHkksa ;k LrEHkksa dk mi;ksx Hkh cgqr izpfyr gSA xksy fljksa okys [kEHks tSlk fp=k 8.8(a) esa fn[kk;s x;s gSa] iSQykonkj vkÑfr fp=k 8.8(b) okys [kEHkksa dh vis{kk de Hkkj ogu dj ldrs gSaA fdlh iqy ;k Hkou dh ifj'kq¼ fMT+kkbu djrs le; mu ckrksa dk è;ku j[kuk iM+rk gS fd og fdu ifjfLFkfr;ksa esa dke djrk gS] ykxr D;k gksxh vkSj laHkkfor nzO;ksa vkfn dh nh?kZdkyhu fo'oluh;rk vkfn D;k gS\</span>
+    <span class="diagram-caption-text"><strong>चित्र 8.8</strong> भवनों तथा पुलों में खम्भों या स्तम्भों का उपयोग भी बहुत पzचलित है। गोल सिरों वाले खम्भे जैसा चित्र 8.8(ं) में दखिाये गये हैंए पैफलावदार आÑति चित्र 8.8(इ) वाले खम्भों की अपे{ाा कम भार वहन कर सकते हैं। किसी पुल या भवन की परिशु¼ डिज्+ााइन करते समय उन बातों का èयान रखना पड+ता है कि वह किन परिस्थितियों में काम करता हैए लागत क्या होगी और संभावित दzव्यों आद िकी दीर्घकालीन विश्वसनीयता आद िक्या है।</span>
     <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
   </div>
 </div>
@@ -1541,9 +1541,9 @@ beron
 है । स्टील तथा ताँबे के यंग प्रत्यास्थता गुणांकों में क्या अनुपात है?
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_9_hi.png" alt="चित्र 8.9" onclick="openImageModal(this.src, 'चित्र 8.9: fp=k 8.9 8.9 8.9 8.9 8.9...')">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_9_hi.png" alt="चित्र 8.9" onclick="openImageModal(this.src, 'चित्र 8.9ः चित्र 8.9 8.9 8.9 8.9 8.9.्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8.9</strong> fp=k 8.9 8.9 8.9 8.9 8.9</span>
+    <span class="diagram-caption-text"><strong>चित्र 8.9</strong> चित्र 8.9 8.9 8.9 8.9 8.9</span>
     <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
   </div>
 </div>
@@ -1585,9 +1585,9 @@ beron
 8.3 दो पदार्थों A और B के लिए प्रतिबल-विकृति ग्राफ
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_10_hi.png" alt="चित्र 8.10" onclick="openImageModal(this.src, 'चित्र 8.10: fp=k 8.10 8.10 8.10 8.10 8.10...')">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_10_hi.png" alt="चित्र 8.10" onclick="openImageModal(this.src, 'चित्र 8.10ः चित्र 8.10 8.10 8.10 8.10 8.10.्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8.10</strong> fp=k 8.10 8.10 8.10 8.10 8.10</span>
+    <span class="diagram-caption-text"><strong>चित्र 8.10</strong> चित्र 8.10 8.10 8.10 8.10 8.10</span>
     <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
   </div>
 </div>
@@ -1625,9 +1625,9 @@ not to republished
 8.5 0.25 cm व्यास के दो तार, जिनमें एक इस्पात का तथा दूसरा पीतल का है,
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_11_hi.png" alt="चित्र 8.11" onclick="openImageModal(this.src, 'चित्र 8.11: bu xzkiQksa dks ,d gh iSekuk ekudj [khapk x;k gSA (a) fdlh inkFkZ dk ;ax izR;kLF...')">
+  <img src="data/diagrams/11th_physics_ch08_mechanical_properties_of_solids_fig_8_11_hi.png" alt="चित्र 8.11" onclick="openImageModal(this.src, 'चित्र 8ण्11ः इन गzापफों को एक ही पैमाना मानकर खींचा गया है। (ं) किसी पदार्थ का यंग पzत्यास्थ्ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8.11</strong> bu xzkiQksa dks ,d gh iSekuk ekudj [khapk x;k gSA (a) fdlh inkFkZ dk ;ax izR;kLFkrk xq.kkad vf/d gS\ (b) nksuksa inkFkks± esa dkSu vf/d etcwr gS\ 8.4 fuEufyf[kr nks dFkuksa dks è;ku ls if<+;s vkSj dkj.k lfgr crkb;s fd os lR; gSa ;k vlR; % (a) bLikr dh vis{kk jcM+ dk ;ax xq.kkad vf/d gS_ (b) fdlh oqQ.Myh dk ruu mlosQ vi:i.k xq.kkad ls fu/kZfjr gksrk gSA 8.5 0.25 cm O;kl osQ nks rkj] ftuesa ,d bLikr dk rFkk nwljk ihry dk gS] fp=k 8.11 osQ vuqlkj Hkkfjr gSaA fcuk Hkkj yVdk;s bLikr rFkk ihry osQ rkjksa dh yackb;k¡ Øe'k% 1.5 m rFkk 1.0 m gSaA ;fn bLikr rFkk ihry osQ ;ax xq.kkad Øe'k% 2.0 × 1011 Pa rFkk 0.91 × 1011 Pa gksa rks bLikr rFkk ihry osQ rkjksa esa foLrkj dh x.kuk dhft,A</span>
+    <span class="diagram-caption-text"><strong>चित्र 8.11</strong> इन गzापफों को एक ही पैमाना मानकर खींचा गया है। (ं) किसी पदार्थ का यंग पzत्यास्थता गुणांक अधकि है। (इ) दोनों पदाथो्य में कौन अधकि मजबूत है। 8.4 निम्नलिखित दो कथनों को èयान से प<ि+ये और कारण सहित बताइये कि वे सत्य हैं या असत्य % (ं) इस्पात की अपे{ाा रबड+ का यंग गुणांक अधकि है_ (इ) किसी वुफण्डली का तनन उसके अपरूपण गुणांक से निर्धारित होता है। 8.5 0.25 बउ व्यास के दो तारए जिनमें एक इस्पात का तथा दूसरा पीतल का हैए चित्र 8.11 के अनुसार भारित हैं। बिना भार लटकाये इस्पात तथा पीतल के तारों की लंबाइयाँ Øमश% 1.5 उ तथा 1.0 उ हैं। यद िइस्पात तथा पीतल के यंग गुणांक Øमश% 2.0 × 1011 च्ं तथा 0.91 × 1011 च्ं हों तो इस्पात तथा पीतल के तारों में विस्तार की गणना कीजिए।</span>
     <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
   </div>
 </div>

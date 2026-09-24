@@ -273,9 +273,9 @@ ot to be republished
 आधारस्तंभों में विशिष्ट केंद्रों पर काटता है (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch09_biotechnology_principles_and_processes_fig_9_hi.png" alt="चित्र 9" onclick="openImageModal(this.src, 'चित्र 9: izfrca/u ,atkbe] U;wfDy,tst dgykus okys ,atkbeksa osQ cM+s oxZ esa vkrs gSaA ,Dl...')">
+  <img src="data/diagrams/12th_biology_ch09_biotechnology_principles_and_processes_fig_9_hi.png" alt="चित्र 9" onclick="openImageModal(this.src, 'चित्र 9ः पzतिबंधन एंजाइम, नयूक्लिएजेज कहलाने वाले एंजाइमों के बड+े वर्ग में आते हैं। एक्सण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 9</strong> izfrca/u ,atkbe] U;wfDy,tst dgykus okys ,atkbeksa osQ cM+s oxZ esa vkrs gSaA ,DlksU;wfDy,t nks izdkj osQ gksrs gSa— ,oa ,aMksU;wfDy,t ,DlksU;wfDy,t Mh,u, osQ fljs ls U;wfDy;ksVkbM dks vyx djrs gSa] tcfd ,aMksU;wfDy,t Mh,u, dks Hkhrj fof'k"V LFkyksa ij dkVrs gSaA izR;sd izfrca/u ,aMksU;wfDy,t Mh,u, vuqØe dh yackbZ osQ ^fujh{k.k* osQ ckn dk;Z djrk gSA tc ;g viuk fof'k"V igpku vuqØe ik tkrk gS rc ;g Mh,u, ls tqM+rk gS rFkk f}oqQaMfyuh dh nksuksa yfM+;ksa dks 'kdZjk&iQkWLiQsV vk/kjLraHkksa esa fof'k"V osaQnzksa ij dkVrk gS (fp=k 9-1) izR;sd izfrca/u ,aMksU;wfDy,t Mh,u, esa fof'k"V iSyhUMksfed U;wfDy;ksVkbM vuqØeksa dks igpkurk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 9</strong> पzतिबंधन एंजाइमए नयूक्लिएजेज कहलाने वाले एंजाइमों के बड+े वर्ग में आते हैं। एक्सोनयूक्लिएज दो प्रकार के होते हैं— एवं एंडोनयूक्लिएज एक्सोनयूक्लिएज डीएनए के सिरे से नयूक्लियोटाइड को अलग करते हैंए जबकि एंडोनयूक्लिएज डीएनए को भीतर विशिष्ट स्थलों पर काटते हैं। पzत्येक पzतिबंधन एंडोनयूक्लिएज डीएनए अनुØम की लंबार्इ के ^निरी{ाण* के बाद कार्य करता है। जब यह अपना विशिष्ट पहचान अनुØम पा जाता है तब यह डीएनए से जुड+ता है तथा ।िवुफंडलिनी की दोनों लडि+यों को शर्करा&पफाॅस्पफेट आधारस्तंभों में विशिष्ट वेंफदzों पर काटता है (चित्र 9.1) पzत्येक पzतिबंधन एंडोनयूक्लिएज डीएनए में विशिष्ट पैलीनडोमिक नयूक्लियोटाइड अनुØमों को पहचानता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
   </div>
 </div>

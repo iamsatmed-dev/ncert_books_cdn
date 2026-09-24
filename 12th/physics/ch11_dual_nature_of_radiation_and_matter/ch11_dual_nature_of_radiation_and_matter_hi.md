@@ -146,15 +146,15 @@ blish
   <img src="data/diagrams/12th_physics_ch11_dual_nature_of_radiation_and_matter_fig_11_1_hi.png" alt="
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch11_dual_nature_of_radiation_and_matter_fig_11_hi.png" alt="चित्र 11" onclick="openImageModal(this.src, 'चित्र 11: ;g ,d egRoiw.kZ ifj.kke gSA blls ;g izkxqfDr gksrh gS fd V0 osQ fo#¼ ν dk oØ ,d ...')">
+  <img src="data/diagrams/12th_physics_ch11_dual_nature_of_radiation_and_matter_fig_11_hi.png" alt="चित्र 11" onclick="openImageModal(this.src, 'चित्र 11ः यह एक महत्वपूर्ण परिणाम है। इससे यह पzागुक्ति होती है कि ट0 के वि#¼ ν का वØ एक ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 11</strong> ;g ,d egRoiw.kZ ifj.kke gSA blls ;g izkxqfDr gksrh gS fd V0 osQ fo#¼ ν dk oØ ,d ljy js[kk gS] ftldk <yku = (h/e), tks fd inkFkZ dh izo`Qfr ij fuHkZj ugha djrkA 1906&1916 osQ eè;] fefydu us vkbaLVkbu osQ izdk'k&fo|qr lehdj.k dks vlR;kfir djus osQ fy, izdk'k&oS|qr izHkko ij iz;ksxksa dh Ük`a[kyk dhA fp=k 11-5 esa n'kkZ, vuqlkj]</span>
+    <span class="diagram-caption-text"><strong>चित्र 11</strong> यह एक महत्वपूर्ण परिणाम है। इससे यह पzागुक्ति होती है कि ट0 के वि#¼ ν का वØ एक सरल रेखा हैए जिसका <लान = (ीधम)ए जो कि पदार्थ की पzवृफति पर निर्भर नहीं करता। 1906&1916 के मèयए मिलिकन ने आइंस्टाइन के पzकाश&वि।ुत समीकरण को असत्यापित करने के लिए पzकाश&वै।ुत पzभाव पर पzयोगों की Üाृंखला की। चित्र 11.5 में दर्शाए अनुसारए</span>
     <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
   </div>
 </div>
 
 <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 11.1</strong> nks bysDVªksMksa (/krq ifêðdkvksa) okyh fdlh fuokZfrr dk¡p dh uyh esa mRltZd ifêðdk ij ijkcSaxuh fofdj.kksa dks vkifrr djus ij yhukMZ (1862-1947) us ik;k fd ifjiFk esa /kjk izokg gksrk gS (fp=k 11.1)A tSls gh ijkcSaxuh fofdj.kksa dks jksdk x;k] oSls gh /kjk izokg Hkh #d x;kA bu ijh{k.kksa ls Kkr gksrk gS fd tc ijkcSaxuh fofdj.k mRltZd ifêðdk C ij vkifrr gksrs gSa] bysDVªkWu ifêðdk ls ckgj vk tkrs gSa rFkk fo|qr {ks=k }kjk /ukRed laxzkgd ifêðdk A dh vksj vkd£"kr gks tkrs gSaA fuokZfrr dk¡p dh uyh esa bysDVªkWuksa osQ izokg osQ dkj.k /kjkizokg gksrh gSA bl izdkj ls] mRltZd osQ i`"B ij izdk'k iM+us osQ dkj.k cká ifjiFk esa èkkjkizokg gksrh gSA gkyokWDl rFkk yhukMZ us laxzkgd ifêðdk osQ foHko] vkifrr izdk'k dh vko`fÙk rFkk rhozrk osQ lkFk izdk'k /kjk esa ifjorZu dk vè;;u fd;kA</span>
+    <span class="diagram-caption-text"><strong>चित्र 11.1</strong> दो इलेक्टªोडों (धातु पêिðकाओं) वाली किसी निर्वातित काँच की नली में उत्सर्जक पêिðका पर पराबैंगनी विकिरणों को आपतित करने पर लीनार्ड (1862-1947) ने पाया कि परिपथ में धारा पzवाह होता है (चित्र 11.1)। जैसे ही पराबैंगनी विकिरणों को रोका गयाए वैसे ही धारा पzवाह भी #क गया। इन परी{ाणों से Kात होता है कि जब पराबैंगनी विकिरण उत्सर्जक पêिðका ऋ पर आपतित होते हैंए इलेक्टªाॅन पêिðका से बाहर आ जाते हैं तथा वि।ुत क्षेत्र द्वारा धनात्मक संगzाहक पêिðका । की आेर आक£षत हो जाते हैं। निर्वातित काँच की नली में इलेक्टªाॅनों के पzवाह के कारण धारापzवाह होती है। इस प्रकार सेए उत्सर्जक के पृष्झ् पर पzकाश पड+ने के कारण बाá परिपथ में èाारापzवाह होती है। हालवाॅक्स तथा लीनार्ड ने संगzाहक पêिðका के विभवए आपतित पzकाश की आवृÙिा तथा तीवzता के साथ पzकाश धारा में परिवर्तन का अèययन किया।</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>
@@ -272,9 +272,9 @@ A
 ## 📄 Page 5
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch11_dual_nature_of_radiation_and_matter_fig_11_2_hi.png" alt="चित्र 11.2" onclick="openImageModal(this.src, 'चित्र 11.2: j[krs gq,] izdk&#39;k dh rhozrk dks ifjofrZr fd;k tkrk gS vkSj ifj.kkeh izdk&#39...')">
+  <img src="data/diagrams/12th_physics_ch11_dual_nature_of_radiation_and_matter_fig_11_2_hi.png" alt="चित्र 11.2" onclick="openImageModal(this.src, 'चित्र 11ण्2ः रखते हुए, पzका&#39या की तीवzता को परिवर्तित किया जाता है और परिणामी पzका&#39ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 11.2</strong> j[krs gq,] izdk'k dh rhozrk dks ifjofrZr fd;k tkrk gS vkSj ifj.kkeh izdk'k&fo|qr èkkjk dks izR;sd ckj ekik tkrk gSA ;g ik;k tkrk gS fd izdkf'kd èkkjk vkifrr izdk'k dh rhozrk osQ lkFk jSf[kdr% c<+rh gS tSlk fd fp=k 11.2 esa xzkiQh; :i esa n'kkZ;k x;k gSA izdkf'kd èkkjk mRlftZr gksus okys izfr lsoaQM bysDVªkWuksa dh la[;k osQ vuqØekuqikrh gS] vr% mRlftZr gksus okys izfr lsoaQM izdkf'kd bysDVªkWuksa dh la[;k vkifrr fofdj.k dh rhozrk osQ lekuqikrh gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 11.2</strong> रखते हुएए पzकाश की तीवzता को परिवर्तित किया जाता है और परिणामी पzकाश&वि।ुत èाारा को पzत्येक बार मापा जाता है। यह पाया जाता है कि पzकाशिक èाारा आपतित पzकाश की तीवzता के साथ रैखिकत% ब<+ती है जैसा कि चित्र 11.2 में गzापफीय रूप में दर्शाया गया है। पzकाशिक èाारा उत्सर्जित होने वाले पzति सेवंफड इलेक्टªाॅनों की संख्या के अनुØमानुपाती हैए अत% उत्सर्जित होने वाले पzति सेवंफड पzकाशिक इलेक्टªाॅनों की संख्या आपतित विकिरण की तीवzता के समानुपाती है।</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>
@@ -309,9 +309,9 @@ A पर पहुँच जाते हैं।
 द्वारा उत्सर्जित सभी प्रकाशिक इलेक्ट्रॉन संग्राहक पट्टिका
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch11_dual_nature_of_radiation_and_matter_fig_11_3_hi.png" alt="चित्र 11.3" onclick="openImageModal(this.src, 'चित्र 11.3: fp=k 11.3 vkifrr fofdj.k dh fofHkUu rhozrkvksa osQ fy,...')">
+  <img src="data/diagrams/12th_physics_ch11_dual_nature_of_radiation_and_matter_fig_11_3_hi.png" alt="चित्र 11.3" onclick="openImageModal(this.src, 'चित्र 11.3ः चित्र 11.3 आपतित विकिरण की विभिन्न तीवzताओं के लिएण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 11.3</strong> fp=k 11.3 vkifrr fofdj.k dh fofHkUu rhozrkvksa osQ fy,</span>
+    <span class="diagram-caption-text"><strong>चित्र 11.3</strong> चित्र 11.3 आपतित विकिरण की विभिन्न तीवzताओं के लिए</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>
@@ -380,14 +380,14 @@ Vo के मध्य संबंध का अध्ययन करेंग
 साथ प्रकाश-विद्युत धारा के परिवर्तन का अध्ययन करते
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch11_dual_nature_of_radiation_and_matter_fig_11_4_hi.png" alt="चित्र 11.4" onclick="openImageModal(this.src, 'चित्र 11.4: V0 osQ eè; lacaèk dk vè;;u djsaxsA ge izdk&#39;k fofdj.k dh fofHkUu vko`fÙk;ksa ...')">
+  <img src="data/diagrams/12th_physics_ch11_dual_nature_of_radiation_and_matter_fig_11_4_hi.png" alt="चित्र 11.4" onclick="openImageModal(this.src, 'चित्र 11.4ः ट0 के मèय संबंèा का अèययन करेंगे। हम पzका&#39या विकिरण की विभिन्न आवृÙिायों ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 11.4</strong> V0 osQ eè; lacaèk dk vè;;u djsaxsA ge izdk'k fofdj.k dh fofHkUu vko`fÙk;ksa ij mi;qDr izdkj ls ,d gh rhozrk dks lek;ksftr djrs gSa vkSj laxzkgh ifêðdk foHko osQ lkFk izdk'k&fo|qr èkkjk osQ ifjorZu dk vè;;u djrs gSaA ifj.kkeh ifjorZu dks fp=k 11.4 esa n'kkZ;k x;k gSA gesa vkifrr fofdj.k dh fHkUu vko`fÙk;ksa osQ fy, fujksèkh foHko osQ fHkUu eku ijarq lar`Ir èkkjk dk ,d gh eku izkIr gksrk gSA mRl£tr bysDVªkWuksa dh ÅtkZ vkifrr fofdj.kksa dh vko`fÙk ij fuHkZj gSA vkifrr fofdj.k dh mPprj vko`fÙk osQ fy, fujksèkh foHko dk eku vfèkd ½.kkRed gksrk gSA fp=k 11.4 ls ;g Kkr gksrk gS fd ;fn vko`fÙk;k¡ ν3 > ν2 > ν1 osQ Øe esa gksa rks fujksèkh foHkoksa dk Øe V03 > V02 > V01 gksrk gSA blesa ;g var£ufgr gS fd vkifrr izdk'k dh vko`fÙk ftruh vfèkd gksxh] izdkf'kd bysDVªkWuksa dh mPpre xfrt ÅtkZ mruh gh vfèkd gksxhA iQyLo:i] bUgsa iw.kZ :i ls jksdus osQ fy, vfèkd fujksèkh foHko dh vko';drk gksxhA ;fn ge fHkUu èkkrqvksa osQ fy, vkifrr fofdj.k dh vko`fÙk vkSj lacafèkr fujksèkh foHko osQ chp xzki+Q [khpsa rks gesa ,d lhèkh js[kk izkIr gksrh gS tSlk fd
+    <span class="diagram-caption-text"><strong>चित्र 11.4</strong> ट0 के मèय संबंèा का अèययन करेंगे। हम पzकाश विकिरण की विभिन्न आवृÙिायों पर उपयुक्त प्रकार से एक ही तीवzता को समायोजित करते हैं और संगzाही पêिðका विभव के साथ पzकाश&वि।ुत èाारा के परिवर्तन का अèययन करते हैं। परिणामी परिवर्तन को चित्र 11.4 में दर्शाया गया है। हमें आपतित विकिरण की भिनन आवृÙिायों के लिए निरोèाी विभव के भिनन मान परंतु संतृप्त èाारा का एक ही मान पzाप्त होता है। उत्स£जत इलेक्टªाॅनों की ऊर्जा आपतित विकिरणों की आवृÙिा पर निर्भर है। आपतित विकिरण की उच्चतर आवृÙिा के लिए निरोèाी विभव का मान अèिाक ½णात्मक होता है। चित्र 11.4 से यह Kात होता है कि यद िआवृÙिायाँ ν3 > ν2 > ν1 के Øम में हों तो निरोèाी विभवों का Øम ट03 > ट02 > ट01 होता है। इसमें यह अंत£नहित है कि आपतित पzकाश की आवृÙिा जितनी अèिाक होगीए पzकाशिक इलेक्टªाॅनों की उच्चतम गतिज ऊर्जा उतनी ही अèिाक होगी। पफलस्वरूपए इनहें पूर्ण रूप से रोकने के लिए अèिाक निरोèाी विभव की आवश्यकता होगी। यद िहम भिनन èाातुओं के लिए आपतित विकिरण की आवृÙिा और संबंèिात निरोèाी विभव के बीच गzाप+फ खीचें तो हमें एक सीèाी रेखा पzाप्त होती है जैसा कि
 
-<div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch11_dual_nature_of_radiation_and_matter_fig_11_5_hi.png" alt="चित्र 11.5" onclick="openImageModal(this.src, 'चित्र 11.5: fp=k 11.5 ,d fn, gq, izdk&#39;k laosnh inkFkZ osQ fy, vkifrr...')">
-  <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 11.5</strong> fp=k 11.5 ,d fn, gq, izdk'k laosnh inkFkZ osQ fy, vkifrr</span>
+<कपअ बसंेे=ष्दबमतज-कपंहतंउ-बंतकष्>
+ <पउह ेतब=ष्कंजंधकपंहतंउेध12जी_चीलेपबे_बी11_कनंस_दंजनतम_व_ितंकपंजपवद_ंदक_उंजजमत_पिह_11_5_ीपण्चदहष् ंसज=ष्चित्र 11.5ष् वदबसपबा=ष्वचमदप्उंहमडवकंस(जीपेण्ेतबए श्चित्र 11.5ः चित्र 11.5 एक दएि हुए पzका&#39या संवेदी पदार्थ के लिए आपतितण्ण्ण्श्)ष्>
+ <कपअ बसंेे=ष्कपंहतंउ-बंचजपवद-इवगष्>
+ <ेचंद बसंेे=ष्कपंहतंउ-बंचजपवद-जमगजष्><ेजतवदह>चित्र 11.5<धेजतवदह> चित्र 11.5 एक दएि हुए पzकाश संवेदी पदार्थ के लिए आपतित</span>
     <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
   </div>
 </div>

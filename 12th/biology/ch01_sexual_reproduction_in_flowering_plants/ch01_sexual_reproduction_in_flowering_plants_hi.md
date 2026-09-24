@@ -128,9 +128,9 @@ published
 ## 📄 Page 4
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_hi.png" alt="चित्र 1" onclick="openImageModal(this.src, 'चित्र 1: ,d tho oSKkfud osQ fy, iq&quot;i] vkdkfjdh; ,oa HkzkSf.kdh; (Hkzw.kh;) vk&#39;p;...')">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_hi.png" alt="चित्र 1" onclick="openImageModal(this.src, 'चित्र 1ः एक जीव वैKानिक के लिए पु&ुनवजयप, आकारिकीय एवं भzौणिकीय (भzूणीय) आ&#39यचयण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1</strong> ,d tho oSKkfud osQ fy, iq"i] vkdkfjdh; ,oa HkzkSf.kdh; (Hkzw.kh;) vk'p;Z rFkk ySafxd tuu LFky gSA vkius d{kk 11 esa ,d iq"i osQ fofHkUUk vaxksa osQ ckjs esa vè;;u fd;k gSA fp=k 1-1 vkidks ,d iz:ih iq"i osQ fof'k"V vaxksa dks iqu% Lej.k djus esa lgk;d gksxkA D;k vki ,d iq"Ik osQ nks vaxksa osQ uke crk ldrs gks ftuesa ySafxd tuu fodkl osQ fy, lokZf/d egÙoiw.kZ okyh nks bdkbZ;k¡ gksrh gSa\</span>
+    <span class="diagram-caption-text"><strong>चित्र 1</strong> एक जीव वैKानिक के लिए पुष्पए आकारिकीय एवं भzौणिकीय (भzूणीय) आश्चर्य तथा लैंगिक जनन स्थल है। आपने क{ाा 11 में एक पुष्प के विभिन्ना अंगों के बारे में अèययन किया है। चित्र 1.1 आपको एक पzरूपी पुष्प के विशिष्ट अंगों को पुन% स्मरण करने में सहायक होगा। क्या आप एक पुष्प्ा के दो अंगों के नाम बता सकते हो जिनमें लैंगिक जनन विकास के लिए सर्वाधकि महÙवपूर्ण वाली दो इकार्इयाँ होती हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -144,9 +144,9 @@ published
 तथा लैंगिक जनन स्थल है। आपने कक्षा 11 में एक पुष्प के विभिन्न अंगों के बारे में
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_1_hi.png" alt="चित्र 1.1" onclick="openImageModal(this.src, 'चित्र 1.1: fp=k 1.1 iq&quot;i osQ ,y-,l- dk vkjs[kh; fu:i.k...')">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_1_hi.png" alt="चित्र 1.1" onclick="openImageModal(this.src, 'चित्र 1.1ः चित्र 1.1 पु&ुनवजयप के एल-एस- का आरेखीय निरूपणण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.1</strong> fp=k 1.1 iq"i osQ ,y-,l- dk vkjs[kh; fu:i.k</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.1</strong> चित्र 1.1 पुष्प के एल-एस- का आरेखीय निरूपण</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -177,9 +177,9 @@ published
 ### 1.2.1 पुंकेसर, लघुबीजाणुधानी तथा परागकण
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_2_hi.png" alt="चित्र 1.2" onclick="openImageModal(this.src, 'चित्र 1.2: fp=k 1.2 (v) ,d izk#fid iqaosQlj (c) ,d ijkx dks&#39;k rhu vk;keh; vuqHkkx...')">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_2_hi.png" alt="चित्र 1.2" onclick="openImageModal(this.src, 'चित्र 1.2ः चित्र 1.2 (अ) एक पzारुपिक पुंकेसर (ब) एक पराग को&#39या तीन आयामीय अनुभागण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.2</strong> fp=k 1.2 (v) ,d izk#fid iqaosQlj (c) ,d ijkx dks'k rhu vk;keh; vuqHkkx</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.2</strong> चित्र 1.2 (अ) एक पzारुपिक पुंकेसर (ब) एक पराग कोश तीन आयामीय अनुभाग</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>
@@ -215,9 +215,9 @@ epubli
 (कोष्ठ) को अलग करते हुए लंबवत् गुजरता है। आइए
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_3_hi.png" alt="चित्र 1.3" onclick="openImageModal(this.src, 'चित्र 1.3: fp=k 1.3 (v) ,d vko&#39;;d ijkxdks&#39;k dk vuqizLFkdkV_ (c) fHkfÙkirks± dks izn...')">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_3_hi.png" alt="चित्र 1.3" onclick="openImageModal(this.src, 'चित्र 1.3ः चित्र 1.3 (अ) एक आव&#39ययक परागको&#39या का अनुपzस्थकाट_ (ब) भिÙिापतो्य को पzदण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.3</strong> fp=k 1.3 (v) ,d vko';d ijkxdks'k dk vuqizLFkdkV_ (c) fHkfÙkirks± dks iznf'kZr djrs gq, ,d y?kqchtk.kq/kuh dk foLrfjr</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.3</strong> चित्र 1.3 (अ) एक आवश्यक परागकोश का अनुपzस्थकाट_ (ब) भिÙिापतो्य को पzदर्शित करते हुए एक लघुबीजाणुधानी का विस्तरित</span>
     <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
   </div>
 </div>
@@ -325,9 +325,9 @@ nott
 ## 📄 Page 7
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_4_hi.png" alt="चित्र 1.4" onclick="openImageModal(this.src, 'चित्र 1.4: fp=k 1.4 oqQN ijkxd.kksa dk bysDVªkWu lw{en&#39;khZ; ijn`&#39;; ijkxd.k...')">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_4_hi.png" alt="चित्र 1.4" onclick="openImageModal(this.src, 'चित्र 1.4ः चित्र 1.4 कुछ परागकणों का इलेक्टªाॅन सू{मद&#39र्याीय परदृ&#39यय परागकणण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.4</strong> fp=k 1.4 oqQN ijkxd.kksa dk bysDVªkWu lw{en'khZ; ijn`'; ijkxd.k</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.4</strong> चित्र 1.4 कुछ परागकणों का इलेक्टªाॅन सू{मदर्शीय परदृश्य परागकण</span>
     <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
   </div>
 </div>
@@ -364,9 +364,9 @@ publ
 चाहिए? जनन छिद्र के क्या कार्य हैं?
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_5_hi.png" alt="चित्र 1.5" onclick="openImageModal(this.src, 'चित्र 1.5: fp=k 1.5 (v) ,d ijkxd.k pqrq&quot;d dk...')">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_5_hi.png" alt="चित्र 1.5" onclick="openImageModal(this.src, 'चित्र 1.5ः चित्र 1.5 (अ) एक परागकण चुतु&ुनवजयक काण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.5</strong> fp=k 1.5 (v) ,d ijkxd.k pqrq"d dk</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.5</strong> चित्र 1.5 (अ) एक परागकण चुतुष्क का</span>
     <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
   </div>
 </div>
@@ -421,9 +421,9 @@ Extract
 खिलाड़ियों एवं धावक अश्वों (घोड़ों) की कार्यदक्षता में वृद्धि करता है (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_6_hi.png" alt="चित्र 1.6" onclick="openImageModal(this.src, 'चित्र 1.6: fp=k 1.6 iksyu mRikn...')">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_6_hi.png" alt="चित्र 1.6" onclick="openImageModal(this.src, 'चित्र 1.6ः चित्र 1.6 पोलन उत्पादण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.6</strong> fp=k 1.6 iksyu mRikn</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.6</strong> चित्र 1.6 पोलन उत्पाद</span>
     <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
   </div>
 </div>
@@ -494,9 +494,9 @@ DAYS
 पुष्पासन
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_7_hi.png" alt="चित्र 1.7" onclick="openImageModal(this.src, 'चित्र 1.7: fp=k 1.7 (v) xqM+gy osQ ,d foPNsfnr iq&quot;i esa L=khosQlj dk izn&#39;kZu (vU;i...')">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_7_hi.png" alt="चित्र 1.7" onclick="openImageModal(this.src, 'चित्र 1.7ः चित्र 1.7 (अ) गुड+हल के एक विच्छेदति पु&ुनवजयप में स्त्रीकेसर का पzद&#39र्यान (अनयपण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.7</strong> fp=k 1.7 (v) xqM+gy osQ ,d foPNsfnr iq"i esa L=khosQlj dk izn'kZu (vU;iq"ih; vax fudkys x,) n'kkZ;k x;k gS (c) iSikoj osQ cgqvaMih] ;qDrkaMih L=khosQlj] (l) ekbpsfy;k osQ cgqvaMih] fo;qDrkaMih L=khosQlj (n) ,d iz:ih izrh; chtkaM dk fp=kkRed n`';</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.7</strong> चित्र 1.7 (अ) गुड+हल के एक विच्छेदति पुष्प में स्त्रीकेसर का पzदर्शन (अनयपुष्पीय अंग निकाले गए) दर्शाया गया है (ब) पैपावर के बहुअंडपीए युक्तांडपी स्त्रीकेसरए (स) माइचेलिया के बहुअंडपीए वियुक्तांडपी स्त्रीकेसर (द) एक पzरूपी पzतीय बीजांड का चित्रात्मक दृश्य</span>
     <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
   </div>
 </div>
@@ -554,9 +554,9 @@ DAYS
 का क्या महत्त्व है? अर्धसूत्रीविभाजन के परिणाम स्वरूप चार गुरूबीजाणुओं का उत्पादन
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_8_hi.png" alt="चित्र 1.8" onclick="openImageModal(this.src, 'चित्र 1.8: fp=k 1.8 (v) chtakM osQ vax — ,d O;kid xq:chtk.kq ekr` dksf&#39;kdk] ,d Mh;kM rF...')">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_8_hi.png" alt="चित्र 1.8" onclick="openImageModal(this.src, 'चित्र 1.8ः चित्र 1.8 (अ) बीजंाड के अंग — एक व्यापक गुःबीजाणु मातृ को&ि#39याकाए एक डीयाड तथ्ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.8</strong> fp=k 1.8 (v) chtakM osQ vax — ,d O;kid xq:chtk.kq ekr` dksf'kdk] ,d Mh;kM rFkk ,d xq:chtk.kq dk VªsVkM (prq"Vd) iznf'kZr gS_ (c) Hkzw.kdks"k osQ 1, 2, 4 rFkk 8 U;qfDy;sV pj.k rFkk ,d ifjiDo Hkzw.kdks"k_ (l) ifjiDo Hkwz.kdks"k dk ,d vkjs[kh; izLrqrhdj.k ( chtkaM dk chtkaM}kj 'kh"kZ fn[kkrk gS)A</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.8</strong> चित्र 1.8 (अ) बीजंाड के अंग — एक व्यापक गुःबीजाणु मातृ कोशिकाए एक डीयाड तथा एक गुःबीजाणु का टªेटाड (चतुष्टक) पzदर्शित है_ (ब) भzूणकोष के 1ए 2ए 4 तथा 8 नयुक्लियेट चरण तथा एक परिपक्व भzूणकोष_ (स) परिपक्व भ्रूणकोष का एक आरेखीय पzस्तुतीकरण ( बीजांड का बीजांड।ार शीर्ष दखिाता है)।</span>
     <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
   </div>
 </div>
@@ -766,9 +766,9 @@ to
 का वर्तिकाग्र के संपर्क में आना महज संयोगात्मक
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_10_hi.png" alt="चित्र 1.10" onclick="openImageModal(this.src, 'चित्र 1.10: fp=k 1.10 ok;q ijkfxr ikni la?kfur iq&quot;iØe rFkk Li&quot;V...')">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_10_hi.png" alt="चित्र 1.10" onclick="openImageModal(this.src, 'चित्र 1.10ः चित्र 1.10 वायु परागित पादप संघनित पु&ुनवजयपØम तथा स्प&ुनवजयटण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.10</strong> fp=k 1.10 ok;q ijkfxr ikni la?kfur iq"iØe rFkk Li"V</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.10</strong> चित्र 1.10 वायु परागित पादप संघनित पुष्पØम तथा स्पष्ट</span>
     <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
   </div>
 </div>
@@ -802,9 +802,9 @@ to
 ## 📄 Page 14
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_11_hi.png" alt="चित्र 1.11" onclick="openImageModal(this.src, 'चित्र 1.11: fp=k 1.11 (v) oSfylusfj;k esa ty }kjk ijkx.k...')">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_11_hi.png" alt="चित्र 1.11" onclick="openImageModal(this.src, 'चित्र 1.11ः चित्र 1.11 (अ) वैलिसनेरिया में जल द्वारा परागणण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.11</strong> fp=k 1.11 (v) oSfylusfj;k esa ty }kjk ijkx.k</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.11</strong> चित्र 1.11 (अ) वैलिसनेरिया में जल द्वारा परागण</span>
     <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
   </div>
 </div>
@@ -972,9 +972,9 @@ lished
 वर्तिकाग्र पर जनित होते हैं ताकि एक जनन छिद्र के माध्यम से एक परागनलिका उत्पन्न
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_12_hi.png" alt="चित्र 1.12" onclick="openImageModal(this.src, 'चित्र 1.12: fp=k 1.12 (v) ijkxd.kksa dk ofrZdkxz ij vaoqQj.k (c) ofrZdk esa ijkx ufydkvksa d...')">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_12_hi.png" alt="चित्र 1.12" onclick="openImageModal(this.src, 'चित्र 1.12ः चित्र 1.12 (अ) परागकणों का वर्तिकागz पर अंवुफरण (ब) वर्तिका में पराग नलिकाओं कण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.12</strong> fp=k 1.12 (v) ijkxd.kksa dk ofrZdkxz ij vaoqQj.k (c) ofrZdk esa ijkx ufydkvksa dh o`f¼ (l) L=khosQlj osQ vuqizLFk (yac) dkV esa ijkx ufydk dh o`f¼ fn[k jgh gS] (n) ,d vaM lEeqp; osQ o`gn~ n`'; iVy ij ,d lgk; dksf'kdk osQ rarqe; lEeqp; esa ijkx ufydk dk izos'k fn[krk gSA (b) ,d lgk; dksf'kdk esa uj ;qXed dk L[kyu ,oa 'kqØk.kq dh xfr'khyrk — tks ,d vaMs esa rFkk nwljh osaQnzh; dksf'kdk esa gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.12</strong> चित्र 1.12 (अ) परागकणों का वर्तिकागz पर अंवुफरण (ब) वर्तिका में पराग नलिकाओं की वृ¼ि (स) स्त्रीकेसर के अनुपzस्थ (लंब) काट में पराग नलिका की वृ¼ि दखि रही हैए (द) एक अंड सम्मुचय के वृहद~ दृश्य पटल पर एक सहाय कोशिका के तंतुमय सम्मुचय में पराग नलिका का पzवेश दखिता है। (इ) एक सहाय कोशिका में नर युग्मक का स्खलन एवं शुक्राणु की गतिशीलता — जो एक अंडे में तथा दूसरी वेंफदzीय कोशिका में हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
   </div>
 </div>
@@ -1122,9 +1122,9 @@ not
 न्युक्ली (केंद्रिकी) सम्मिलित होते हैं। अतः इसे त्रिसंलयन कहते हैं (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_13_hi.png" alt="चित्र 1.13" onclick="openImageModal(this.src, 'चित्र 1.13: gksrh gSA nwljk uj ;qXed osaQnzh; dksf&#39;kdk esa fLFkr nks /zqoh; U;qDyh (osaQ...')">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_13_hi.png" alt="चित्र 1.13" onclick="openImageModal(this.src, 'चित्र 1ण्13ः होती है। दूसरा नर युग्मक वेंफदzीय को&ि#39याका में स्थित दो धzुवीय नयुक्ली (वेंफण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.13</strong> gksrh gSA nwljk uj ;qXed osaQnzh; dksf'kdk esa fLFkr nks /zqoh; U;qDyh (osaQfnzdh) dh vksj xfr djrk gS vkSj muls laxfyr gksdj f=kxqf.kr (izkbejh baMksLieZ U;qfdy;l (izkFkfed Hkzw.kiks"k osaQnzd) cukrk gSA tSlk fd blosQ vUrxZr rhu vxqf.krd U;qDyh (osaQfnzdh) lfEefyr gksrs gSaA vr% bls f=klay;u dgrs gSa (fp=k 1.13 v)A pw¡fd ,d Hkzw.k iqVh (Hkzw.kdks'k) esa nks izdkj osQ lay;u (laxyu)] ;qXedlay;u rFkk f=klay;u LFkku ysrs gSa vr% bl ifj?kVuk dks nksgjk fu"kspu dgk tkrk gSA tks fd iq"ih ikniksa osQ fy, ,d vuwBh ?kVuk gSA f=klay;u osQ i'pkr~ osaQnzh; dksf'kdk izkFkfed Hkzw.kiks"k dksf'kdk cu tkrh gS rFkk Hkzw.kiks"k osQ :i esa fodflr gksus yxrh gS tcfd ;qXeut ,d Hkwz.k osQ :i esa fodflr gksrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.13</strong> होती है। दूसरा नर युग्मक वेंफदzीय कोशिका में स्थित दो धzुवीय नयुक्ली (वेंफदzिकी) की आेर गति करता है और उनसे संगलित होकर =िागुणित (पzाइमरी इंडोस्पर्म नयुकिलयस (पzाथमिक भzूणपोष वेंफदzक) बनाता है। जैसा कि इसके अनतर्गत तीन अगुणितक नयुक्ली (वेंफदzिकी) सम्मिलित होते हैं। अत% इसे =िासंलयन कहते हैं (चित्र 1.13 अ)। चूँकि एक भzूण पुटी (भzूणकोश) में दो प्रकार के संलयन (संगलन)ए युग्मकसंलयन तथा =िासंलयन स्थान लेते हैं अत% इस परिघटना को दोहरा निषेचन कहा जाता है। जो कि पुष्पी पादपों के लिए एक अनूझ्ी घटना है। =िासंलयन के पश्चात~ वेंफदzीय कोशिका पzाथमिक भzूणपोष कोशिका बन जाती है तथा भzूणपोष के रूप में विकसित होने लगती है जबकि युग्मनज एक भ्रूण के रूप में विकसित होता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(19)">📄 View in PDF (Page 19)</button>
   </div>
 </div>
@@ -1242,9 +1242,9 @@ blished
 ### 1.4.2 भ्रूण
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_14_hi.png" alt="चित्र 1.14" onclick="openImageModal(this.src, 'चित्र 1.14: fp=k 1.14 (v) ,d iz:ih f}chti=kh Hkzw.k (c) ,d ?kkl osQ Hkzw.k dk vuqizLFk dkV...')">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_14_hi.png" alt="चित्र 1.14" onclick="openImageModal(this.src, 'चित्र 1.14ः चित्र 1.14 (अ) एक पzरूपी ।िबीजप=ाी भzूण (ब) एक घास के भzूण का अनुपzस्थ काटण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.14</strong> fp=k 1.14 (v) ,d iz:ih f}chti=kh Hkzw.k (c) ,d ?kkl osQ Hkzw.k dk vuqizLFk dkV</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.14</strong> चित्र 1.14 (अ) एक पzरूपी ।िबीजप=ाी भzूण (ब) एक घास के भzूण का अनुपzस्थ काट</span>
     <button class="icon-btn" onclick="goToPdfPage(20)">📄 View in PDF (Page 20)</button>
   </div>
 </div>
@@ -1301,9 +1301,9 @@ shed
 बीज में विशिष्ट रूप से बीज आवरण, बीजपत्र तथा एक भ्रूण अक्ष (अँखुआ) समाहित
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_15_hi.png" alt="चित्र 1.15" onclick="openImageModal(this.src, 'चित्र 1.15: fp=k 1.15 (v) oqQN chtksa dh lajpuk (c) lsc ,oa LVªkcsjh osQ vkHkklh iQy...')">
+  <img src="data/diagrams/12th_biology_ch01_sexual_reproduction_in_flowering_plants_fig_1_15_hi.png" alt="चित्र 1.15" onclick="openImageModal(this.src, 'चित्र 1.15ः चित्र 1.15 (अ) कुछ बीजों की संरचना (ब) सेब एवं स्टªाबेरी के आभासी पफलण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1.15</strong> fp=k 1.15 (v) oqQN chtksa dh lajpuk (c) lsc ,oa LVªkcsjh osQ vkHkklh iQy</span>
+    <span class="diagram-caption-text"><strong>चित्र 1.15</strong> चित्र 1.15 (अ) कुछ बीजों की संरचना (ब) सेब एवं स्टªाबेरी के आभासी पफल</span>
     <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
   </div>
 </div>

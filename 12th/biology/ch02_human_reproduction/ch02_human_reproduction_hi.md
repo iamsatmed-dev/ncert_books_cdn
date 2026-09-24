@@ -49,9 +49,9 @@ not to
 पुरुष जनन तंत्र शरीर के श्रोणि क्षेत्र (पेल्विस रीजन) में अवस्थित
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_hi.png" alt="चित्र 2" onclick="openImageModal(this.src, 'चित्र 2: iq#&quot;k tuu ra=k &#39;kjhj osQ Jksf.k {ks=k (isfYol jhtu) esa vofLFkr gksrk g...')">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_hi.png" alt="चित्र 2" onclick="openImageModal(this.src, 'चित्र 2ः पु#&ुनवजया जनन तंत्र &#39यारीर के श्रोणि क्षेत्र (पेल्विस रीजन) में अवस्थित होता हण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2</strong> iq#"k tuu ra=k 'kjhj osQ Jksf.k {ks=k (isfYol jhtu) esa vofLFkr gksrk gS (fp=k 2-1 v)A blosQ varxZr ,d tksM+k o`"k.k] lgk;d</span>
+    <span class="diagram-caption-text"><strong>चित्र 2</strong> पुरुष जनन तंत्र शरीर के श्रोणि क्षेत्र (पेल्विस रीजन) में अवस्थित होता है (चित्र 2.1 अ)। इसके अंतर्गत एक जोड+ा वृषणए सहायक</span>
     <button class="icon-btn" onclick="goToPdfPage(1)">📄 View in PDF (Page 1)</button>
   </div>
 </div>
@@ -77,9 +77,9 @@ not to
 प्रत्येक वृषण में लगभग 250 कक्ष होते हैं
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_1_hi.png" alt="चित्र 2.1" onclick="openImageModal(this.src, 'चित्र 2.1: fp=k 2.1 (c) iq#&quot;k tuu ra=k dk vkjs[kh; n`&#39;; (vkarfjd lajpukvksa dks n&...')">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_1_hi.png" alt="चित्र 2.1" onclick="openImageModal(this.src, 'चित्र 2.1ः चित्र 2.1 (ब) पु#&ुनवजया जनन तंत्र का आरेखीय दृ&#39यय (आंतरिक संरचनाओं को द&ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.1</strong> fp=k 2.1 (c) iq#"k tuu ra=k dk vkjs[kh; n`'; (vkarfjd lajpukvksa dks n'kkZus osQ fy, o`"k.k dk vuqnSè;Z dkV</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.1</strong> चित्र 2.1 (ब) पुरुष जनन तंत्र का आरेखीय दृश्य (आंतरिक संरचनाओं को दर्शाने के लिए वृषण का अनुदैèर्य काट</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>
@@ -133,9 +133,9 @@ lished
 / स्पर्मेटोगोनिया) और सर्टोली कोशिकाएँ
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_2_hi.png" alt="चित्र 2.2" onclick="openImageModal(this.src, 'चित्र 2.2: fp=k 2.2 &#39;kqØtud ufydkvksa osQ vkjs[kh; dkV dk ,d n`&#39;;...')">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_2_hi.png" alt="चित्र 2.2" onclick="openImageModal(this.src, 'चित्र 2.2ः चित्र 2.2 &#39याुØजनक नलिकाओं के आरेखीय काट का एक दृ&#39ययण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.2</strong> fp=k 2.2 'kqØtud ufydkvksa osQ vkjs[kh; dkV dk ,d n`';</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.2</strong> चित्र 2.2 शुक्रजनक नलिकाओं के आरेखीय काट का एक दृश्य</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>
@@ -258,9 +258,9 @@ not
 स्त्री जनन तंत्र के अन्तर्गत एक जोड़ा अंडाशय (ओवरी) के
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_3_hi.png" alt="चित्र 2.3" onclick="openImageModal(this.src, 'चित्र 2.3: fp=k 2.3 (c) L=kh tuu ra=k dk vkjs[kh;&dkV n`&#39;;...')">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_3_hi.png" alt="चित्र 2.3" onclick="openImageModal(this.src, 'चित्र 2.3ः चित्र 2.3 (ब) स्त्री जनन तंत्र का आरेखीय-काट दृ&#39ययण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.3</strong> fp=k 2.3 (c) L=kh tuu ra=k dk vkjs[kh;&dkV n`';</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.3</strong> चित्र 2.3 (ब) स्त्री जनन तंत्र का आरेखीय-काट दृश्य</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -376,9 +376,9 @@ not
 मानव जनन
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_4_hi.png" alt="चित्र 2.4" onclick="openImageModal(this.src, 'चित्र 2.4: fp=k 2.4 Lru xzafFk dk vkjs[kh;&dkV n`&#39;;...')">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_4_hi.png" alt="चित्र 2.4" onclick="openImageModal(this.src, 'चित्र 2.4ः चित्र 2.4 स्तन ग्रंथि का आरेखीय-काट दृ&#39ययण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.4</strong> fp=k 2.4 Lru xzafFk dk vkjs[kh;&dkV n`';</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.4</strong> चित्र 2.4 स्तन ग्रंथि का आरेखीय-काट दृश्य</span>
     <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
   </div>
 </div>
@@ -431,9 +431,9 @@ not
 गुजरते हुए चार बराबर अगुणित शुक्राणुप्रसू (स्पर्मेटिड्स) पैदा करते हैं (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_5_hi.png" alt="चित्र 2.5" onclick="openImageModal(this.src, 'चित्र 2.5: fp=k 2.5 &#39;kqØtud ufydkvksa (ofèkZr) osQ vkjs[kh; dkV dk ,d n`&#39;;...')">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_5_hi.png" alt="चित्र 2.5" onclick="openImageModal(this.src, 'चित्र 2.5ः चित्र 2.5 &#39याुØजनक नलिकाओं (वर्धित) के आरेखीय काट का एक दृ&#39ययण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.5</strong> fp=k 2.5 'kqØtud ufydkvksa (ofèkZr) osQ vkjs[kh; dkV dk ,d n`';</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.5</strong> चित्र 2.5 शुक्रजनक नलिकाओं (वर्धित) के आरेखीय काट का एक दृश्य</span>
     <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
   </div>
 </div>
@@ -507,9 +507,9 @@ no
 ## 📄 Page 8
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_6_hi.png" alt="चित्र 2.6" onclick="openImageModal(this.src, 'चित्र 2.6: fp=k 2.6 &#39;kqØk.kq dh lajpuk...')">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_6_hi.png" alt="चित्र 2.6" onclick="openImageModal(this.src, 'चित्र 2.6ः चित्र 2.6 &#39याुØाणु की संरचनाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.6</strong> fp=k 2.6 'kqØk.kq dh lajpuk</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.6</strong> चित्र 2.6 शुक्राणु की संरचना</span>
     <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
   </div>
 </div>
@@ -578,9 +578,9 @@ CERT
 ### 2.6 शुक्राणु की संरचना
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_7_hi.png" alt="चित्र 2.7" onclick="openImageModal(this.src, 'चित्र 2.7: fp=k 2.7 vaMk&#39;k; osQ vkjs[kh; dkV dk ,d n`&#39;;...')">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_7_hi.png" alt="चित्र 2.7" onclick="openImageModal(this.src, 'चित्र 2.7ः चित्र 2.7 अंडा&#39याय के आरेखीय काट का एक दृ&#39ययण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.7</strong> fp=k 2.7 vaMk'k; osQ vkjs[kh; dkV dk ,d n`';</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.7</strong> चित्र 2.7 अंडाशय के आरेखीय काट का एक दृश्य</span>
     <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
   </div>
 </div>
@@ -659,9 +659,9 @@ CERT
 प्रथम ध्रुवीय
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_8_hi.png" alt="चित्र 2.8" onclick="openImageModal(this.src, 'चित्र 2.8: fp=k 2.8 &#39;kqØtuu ,oa vaMtuu dk vkjs[kh; fu:i.k (v) (c)...')">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_8_hi.png" alt="चित्र 2.8" onclick="openImageModal(this.src, 'चित्र 2.8ः चित्र 2.8 &#39याुØजनन एवं अंडजनन का आरेखीय निरूपण (अ) (ब)ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.8</strong> fp=k 2.8 'kqØtuu ,oa vaMtuu dk vkjs[kh; fu:i.k (v) (c)</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.8</strong> चित्र 2.8 शुक्रजनन एवं अंडजनन का आरेखीय निरूपण (अ) (ब)</span>
     <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
   </div>
 </div>
@@ -751,9 +751,9 @@ paus!
 ### 2.4 आर्तव चक्र
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_9_hi.png" alt="चित्र 2.9" onclick="openImageModal(this.src, 'चित्र 2.9: fp=k 2.9 vkrZo pØ osQ nkSjku fofHkUu ?kVukvksa dk vkjs[kh; fu:i.k...')">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_9_hi.png" alt="चित्र 2.9" onclick="openImageModal(this.src, 'चित्र 2.9ः चित्र 2.9 आर्तव चक्र के दौरान विभिन्न घटनाओं का आरेखीय निरूपणण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.9</strong> fp=k 2.9 vkrZo pØ osQ nkSjku fofHkUu ?kVukvksa dk vkjs[kh; fu:i.k</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.9</strong> चित्र 2.9 आर्तव चक्र के दौरान विभिन्न घटनाओं का आरेखीय निरूपण</span>
     <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
   </div>
 </div>
@@ -856,9 +856,9 @@ not
 (एंपुला) क्षेत्र तक पहुँचते हैं (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_11_hi.png" alt="चित्र 2.11" onclick="openImageModal(this.src, 'चित्र 2.11: fp=k 2.11 vaMk.kq dk vfHkxeu] fu&quot;kspu ,oa fMEcokfguh uyh ls gksdj o/Zu&#39;...')">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_11_hi.png" alt="चित्र 2.11" onclick="openImageModal(this.src, 'चित्र 2.11ः चित्र 2.11 अंडाणु का अभिगमनए नि&ुनवजयोचन एवं डिम्बवाहिनी नली से होकर वर्धन&#39यण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.11</strong> fp=k 2.11 vaMk.kq dk vfHkxeu] fu"kspu ,oa fMEcokfguh uyh ls gksdj o/Zu'khy Hkwz.k dk xqtjuk</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.11</strong> चित्र 2.11 अंडाणु का अभिगमनए निषेचन एवं डिम्बवाहिनी नली से होकर वर्धनशील भ्रूण का गुजरना</span>
     <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
   </div>
 </div>
@@ -883,9 +883,9 @@ not
 पेल्युसिडा) स्तर के संपर्क में आता है
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_10_hi.png" alt="चित्र 2.10" onclick="openImageModal(this.src, 'चित्र 2.10: fp=k 2.10 oqQN &#39;kqØk.kqvksa }kjk f?kjk gqvk vaMk.kq...')">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_10_hi.png" alt="चित्र 2.10" onclick="openImageModal(this.src, 'चित्र 2.10ः चित्र 2.10 कुछ &#39याुØाणुओं द्वारा घिरा हुआ अंडाणुण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.10</strong> fp=k 2.10 oqQN 'kqØk.kqvksa }kjk f?kjk gqvk vaMk.kq</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.10</strong> चित्र 2.10 कुछ शुक्राणुओं द्वारा घिरा हुआ अंडाणु</span>
     <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
   </div>
 </div>
@@ -1055,9 +1055,9 @@ not
 करते हैं, जिन्हें अपरा (प्लैसेंटा) कहा
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_12_hi.png" alt="चित्र 2.12" onclick="openImageModal(this.src, 'चित्र 2.12: fp=k 2.12 xHkkZ&#39;k; esa vijk n&#39;kkZrk gqvk ekuo Hkwz.k...')">
+  <img src="data/diagrams/12th_biology_ch02_human_reproduction_fig_2_12_hi.png" alt="चित्र 2.12" onclick="openImageModal(this.src, 'चित्र 2.12ः चित्र 2.12 गर्भा&#39याय में अपरा द&#39र्यााता हुआ मानव भ्रूणण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2.12</strong> fp=k 2.12 xHkkZ'k; esa vijk n'kkZrk gqvk ekuo Hkwz.k</span>
+    <span class="diagram-caption-text"><strong>चित्र 2.12</strong> चित्र 2.12 गर्भाशय में अपरा दर्शाता हुआ मानव भ्रूण</span>
     <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
   </div>
 </div>

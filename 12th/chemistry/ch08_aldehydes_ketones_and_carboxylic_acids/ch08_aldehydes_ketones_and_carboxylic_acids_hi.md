@@ -315,9 +315,9 @@ CH3-CH-C-CH-CH3
 है जैसा कि समतलीय त्रिकोणीय संरचना में अपेक्षित है (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch08_aldehydes_ketones_and_carboxylic_acids_fig_8_hi.png" alt="चित्र 8" onclick="openImageModal(this.src, 'चित्र 8: dkcksZfuy lewg esa dkcZu ijek.kq sp2 ladfjr voLFkk esa gksrk gS rFkk rhu flXek (...')">
+  <img src="data/diagrams/12th_chemistry_ch08_aldehydes_ketones_and_carboxylic_acids_fig_8_hi.png" alt="चित्र 8" onclick="openImageModal(this.src, 'चित्र 8ः कार्बोनिल समूह में कार्बन परमाणु ेच2 संकरित अवस्था में होता है तथा तीन सिग्मा (ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8</strong> dkcksZfuy lewg esa dkcZu ijek.kq sp2 ladfjr voLFkk esa gksrk gS rFkk rhu flXek (s) vkcaèk fufeZr djrk gSA dkcZu dk pkSFkk la;kstdrk bysDVªkWu dkcZu osQ vladfjr p-d{kd esa gksrk gS rFkk vkWDlhtu osQ p-d{kd osQ lkFk vfrO;kiu djosQ ,d p vkcaèk cukrk gSA blosQ vfrfjDr vkWDlhtu ijek.kq ij nks vukcaèkh bysDVªkWu ;qxy mifLFkr gksrs gSaA bl izdkj dkcksZfuy lewg dk dkcZu rFkk blls vkcafèkr rhu ijek.kq ,d gh ry esa gksrs gSa ,oa p bysDVªkWu vHkz bl ry osQ Åij ,oa uhps gksrk gSA caèkd dks.k yxHkx 120° dk gksrk gS tSlk fd leryh; f=kdks.kh; lajpuk esa visf{kr gS (fp=k 8-1)A</span>
+    <span class="diagram-caption-text"><strong>चित्र 8</strong> कार्बोनिल समूह में कार्बन परमाणु ेच2 संकरित अवस्था में होता है तथा तीन सिग्मा (े) आबंèा निर्मित करता है। कार्बन का चौथा संयोजकता इलेक्टªाॅन कार्बन के असंकरित च-क{ाक में होता है तथा ऑक्सीजन के च-क{ाक के साथ अतिव्यापन करके एक च आबंèा बनाता है। इसके अतिरिक्त ऑक्सीजन परमाणु पर दो अनाबंèाी इलेक्टªाॅन युगल उपस्थित होते हैं। इस प्रकार कार्बोनिल समूह का कार्बन तथा इससे आबंèिात तीन परमाणु एक ही तल में होते हैं एवं च इलेक्टªाॅन अभz इस तल के ऊपर एवं नीचे होता है। बंèाक कोण लगभग 120त्त का होता है जैसा कि समतलीय =िाकोणीय संरचना में अपे{िात है (चित्र 8.1)।</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>

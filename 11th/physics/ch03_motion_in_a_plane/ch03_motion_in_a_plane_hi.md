@@ -135,9 +135,9 @@ be
 वस्तु की स्थिति क्रमशः P और P' है (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_hi.png" alt="चित्र 3" onclick="openImageModal(this.src, 'चित्र 3: fp=k 3-3 (a) lfn&#39;k A rFkk mls èkukRed la[;k nks ls xq.kk djus ij izkIr ifj.k...')">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_hi.png" alt="चित्र 3" onclick="openImageModal(this.src, 'चित्र 3ः चित्र 3.3 (ं) सद&ि#39या । तथा उसे èानात्मक संख्या दो से गुणा करने पर पzाप्त परिणण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3</strong> fp=k 3-3 (a) lfn'k A rFkk mls èkukRed la[;k nks ls xq.kk djus ij izkIr ifj.kkeh lfn'k] (b) lfn'k A rFkk mls Í.kkRed la[;kvksa &1 rFkk &1-5 ls xq.kk djus ij izkIr ifj.kkeh lfn'k A</span>
+    <span class="diagram-caption-text"><strong>चित्र 3</strong> चित्र 3.3 (ं) सदशि । तथा उसे èानात्मक संख्या दो से गुणा करने पर पzाप्त परिणामी सदशिए (इ) सदशि । तथा उसे Íणात्मक संख्याओं &1 तथा &1-5 से गुणा करने पर पzाप्त परिणामी सदशि ।</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>
@@ -167,9 +167,9 @@ P'
 D
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_1_hi.png" alt="चित्र 3.1" onclick="openImageModal(this.src, 'चित्र 3.1: 3-2-1 fLFkfr ,oa foLFkkiu lfn&#39;k fdlh lery esa xfreku oLrq dh fLFkfr O;Dr dju...')">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_1_hi.png" alt="चित्र 3.1" onclick="openImageModal(this.src, 'चित्र 3.1ः 3-2-1 स्थिति एवं विस्थापन सद&ि#39या किसी समतल में गतिमान वस्तु की स्थिति व्यक्त करनण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.1</strong> 3-2-1 fLFkfr ,oa foLFkkiu lfn'k fdlh lery esa xfreku oLrq dh fLFkfr O;Dr djus osQ fy, ge lqfoèkkuqlkj fdlh fcanq O dks ewy fcanq osQ :i esa pqurs gSa A dYiuk dhft, fd nks fHkUu&fHkUu le;ksa t vkSj t' ij oLrq dh fLFkfr Øe'k% P vkSj P' gS (fp=k 3.1a) A ge P dks O ls ,d ljy js[kk ls tksM+ nsrs gSa A bl izdkj OP le; t ij oLrq dh fLFkfr lfn'k gksxh A bl js[kk osQ fljs ij ,d rhj dk fu'kku yxk nsrs gSa A bls fdlh fpÉ (eku yhft,) r ls fu:fir djrs gSa] vFkkZr~ OP = r A blh izdkj fcanq P' dks ,d nwljs fLFkfr lfn'k OP' ;kuh r' ls fu:fir djrs gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.1</strong> 3-2-1 स्थिति एवं विस्थापन सदशि किसी समतल में गतिमान वस्तु की स्थिति व्यक्त करने के लिए हम सुविèाानुसार किसी बिंदु व् को मूल बिंदु के रूप में चुनते हैं । कल्पना कीजिए कि दो भिनन&भिनन समयों ज और जश् पर वस्तु की स्थिति Øमश% च् और च्श् है (चित्र 3.1ं) । हम च् को व् से एक सरल रेखा से जोड+ देते हैं । इस प्रकार व्च् समय ज पर वस्तु की स्थिति सदशि होगी । इस रेखा के सिरे पर एक तीर का निशान लगा देते हैं । इसे किसी चि् (मान लीजिए) त से निरूपित करते हैंए अर्थात~ व्च् = त । इसी प्रकार बिंदु च्श् को एक दूसरे स्थिति सदशि व्च्श् यानी तश् से निरूपित करते हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>
@@ -196,9 +196,9 @@ PQ तथा गति के भिन्न-भिन्न मार्ग �
 है जब उनके परिमाण बराबर हों तथा उनकी दिशा समान हो** ।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_2_hi.png" alt="चित्र 3.2" onclick="openImageModal(this.src, 'चित्र 3.2: fp=k 3.2(a) esa nks leku lfn&#39;kksa A rFkk B dks n&#39;kkZ;k x;k gS A ge budh ...')">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_2_hi.png" alt="चित्र 3.2" onclick="openImageModal(this.src, 'चित्र 3.2ः चित्र 3.2(ं) में दो समान सद&ि#39याों । तथा झ् को द&#39र्यााया गया है । हम इनकी ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.2</strong> fp=k 3.2(a) esa nks leku lfn'kksa A rFkk B dks n'kkZ;k x;k gS A ge budh lekurk dh ij[k vklkuh ls dj ldrs gSa A B dks Lo;a osQ lekarj f[kldkb;s rkfd mldh iqPN Q lfn'k A dh iqPN O osQ laikrh gks tk, A fiQj D;ksafd muosQ 'kh"kZ S ,oa P Hkh laikrh gSa vr% nksuksa lfn'k cjkcj dgyk,axs A lkekU;r;k bl lekurk dks A = B osQ :i esa fy[krs gSa A bl</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.2</strong> चित्र 3.2(ं) में दो समान सदशिों । तथा झ् को दर्शाया गया है । हम इनकी समानता की परख आसानी से कर सकते हैं । झ् को स्वयं के समांतर खिसकाइये ताकि उसकी पुच्छ फ सदशि । की पुच्छ व् के संपाती हो जाए । पिफर क्योंकि उनके शीर्ष ै एवं च् भी संपाती हैं अत% दोनों सदशि बराबर कहलाएंगे । सामानयतया इस समानता को । = झ् के रूप में लिखते हैं । इस</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>
@@ -290,9 +290,9 @@ A की है । इस गुणनफल को हम A से लिख�
 व -1.5 से गुणा करें तो परिणामी सदिश
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_3_hi.png" alt="चित्र 3.3" onclick="openImageModal(this.src, 'चित्र 3.3: | | | | C C λ = λ ;fn 0 > λ mnkgj.kLo:i] ;fn A dks 2 ls xq.kk fd;k tk,] rks ifj....')">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_3_hi.png" alt="चित्र 3.3" onclick="openImageModal(this.src, 'चित्र 3.3ः । । । । ऋ ऋ λ = λ यद ि0 > λ उदाहरणस्वरूपए यद ि। को 2 से गुणा किया जाएए तो परिण्ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.3</strong> | | | | C C λ = λ ;fn 0 > λ mnkgj.kLo:i] ;fn A dks 2 ls xq.kk fd;k tk,] rks ifj.kkeh lfn'k 2A gksxk (fp=k 3.3a) ftldh fn'kk A dh fn'kk gksxh rFkk ifjek.k | | C dk nksxquk gksxk A lfn'k A dks ;fn ,d Í.kkRed la[;k –λ ls xq.kk djsa rks ,d vU; lfn'k izkIr gksrk gS ftldh fn'kk A dh fn'kk osQ foijhr gS vkSj ftldk ifjek.k | | C dk λ xquk gksrk gS A ;fn fdlh lfn'k A dks Í.kkRed la[;kvksa &1 o &1-5 ls xq.kk djsa rks ifj.kkeh lfn'k fp=k 3-3(b) tSls gksaxs A</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.3</strong> । । । । ऋ ऋ λ = λ यद ि0 > λ उदाहरणस्वरूपए यद ि। को 2 से गुणा किया जाएए तो परिणामी सदशि 2। होगा (चित्र 3.3ं) जिसकी दशिा । की दशिा होगी तथा परिमाण । । ऋ का दोगुना होगा । सदशि । को यद िएक Íणात्मक संख्या –λ से गुणा करें तो एक अनय सदशि पzाप्त होता है जिसकी दशिा । की दशिा के विपरीत है और जिसका परिमाण । । ऋ का λ गुना होता है । यद िकिसी सदशि । को Íणात्मक संख्याओं &1 व &1-5 से गुणा करें तो परिणामी सदशि चित्र 3.3(इ) जैसे होंगे ।</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>
@@ -325,9 +325,9 @@ A की है । इस गुणनफल को हम A से लिख�
 करते हैं । अब हम ग्राफी विधि द्वारा योग के इस नियम को
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_4_hi.png" alt="चित्र 3.4" onclick="openImageModal(this.src, 'चित्र 3.4: 3-4 lfn&#39;kksa dk ladyu o O;odyu % xzkIkQh fofèk tSlk fd [k.M 3-2 esa cryk;k t...')">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_4_hi.png" alt="चित्र 3.4" onclick="openImageModal(this.src, 'चित्र 3.4ः 3-4 सद&ि#39याों का संकलन व व्यवकलन % गzाप्ाफी विèिा जैसा कि खण्ड 3-2 में बतलाया जण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.4</strong> 3-4 lfn'kksa dk ladyu o O;odyu % xzkIkQh fofèk tSlk fd [k.M 3-2 esa cryk;k tk pqdk gS fd lfn'k ;ksx osQ f=kHkqt fu;e ;k lekUrj prqHkqZt osQ ;ksx osQ fu;e dk ikyu djrs gSa A vc ge xzkiQh fofèk }kjk ;ksx osQ bl fu;e dks le>k,axs A ge fp=k 3.4 (a) esa n'kkZ, vuqlkj fdlh lery esa fLFkr nks lfn'kksa A rFkk B ij fopkj djrs gSa A bu lfn'kksa dks O;Dr djus okyh js[kk&[k.Mksa dh yackb;k¡ lfn'kksa osQ ifjek.k osQ lekuqikrh gSa A ;ksx A + B izkIr djus osQ fy, fp=k 3-4(b) osQ vuqlkj ge lfn'k B bl izdkj j[krs gSa fd mldh iqPN lfn'k A osQ 'kh"kZ ij gks A fiQj ge A dh iqPN</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.4</strong> 3-4 सदशिों का संकलन व व्यवकलन % गzाप्ाफी विèिा जैसा कि खण्ड 3-2 में बतलाया जा चुका है कि सदशि योग के =िाभुज नियम या समानतर चतुर्भुज के योग के नियम का पालन करते हैं । अब हम गzापफी विèिा द्वारा योग के इस नियम को समझएंगे । हम चित्र 3.4 (ं) में दर्शाए अनुसार किसी समतल में स्थित दो सदशिों । तथा झ् पर विचार करते हैं । इन सदशिों को व्यक्त करने वाली रेखा&खण्डों की लंबाइयाँ सदशिों के परिमाण के समानुपाती हैं । योग । + झ् पzाप्त करने के लिए चित्र 3.4(इ) के अनुसार हम सदशि झ् इस प्रकार रखते हैं कि उसकी पुच्छ सदशि । के शीर्ष पर हो । पिफर हम । की पुच्छ</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>
@@ -449,9 +449,9 @@ A + 0 = A
 को हम दो सदिशों A व B के योग के रूप में निम्न प्रकार
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_5_hi.png" alt="चित्र 3.5" onclick="openImageModal(this.src, 'चित्र 3.5: fp=k 3.5 (a) nks lfn&#39;k A o B, –B dks Hkh fn[kk;k x;k gS A (b) lfn&#39;k A ls...')">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_5_hi.png" alt="चित्र 3.5" onclick="openImageModal(this.src, 'चित्र 3.5ः चित्र 3.5 (ं) दो सद&ि#39या । व झ्ए –झ् को भी दखिाया गया है । (इ) सद&ि#39या । सेण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.5</strong> fp=k 3.5 (a) nks lfn'k A o B, –B dks Hkh fn[kk;k x;k gS A (b) lfn'k A ls lfn'k B dk ?kVkuk&ifj.kke R2 gS A rqyuk osQ fy, lfn'kksa A o B dk ;ksx R1 Hkh fn[kyk;k x;k gS A</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.5</strong> चित्र 3.5 (ं) दो सदशि । व झ्ए –झ् को भी दखिाया गया है । (इ) सदशि । से सदशि झ् का घटाना&परिणाम त्2 है । तुलना के लिए सदशिों । व झ् का योग त्1 भी दखिलाया गया है ।</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -463,9 +463,9 @@ A + 0 = A
 इन सदिशों को जोड़ने के लिए उनकी पुच्छ को एक उभयनिष्ठ
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_6_hi.png" alt="चित्र 3.6" onclick="openImageModal(this.src, 'चित्र 3.6: fp=k 3.6 (a) ,d gh mHk;fu&quot;B fcanq okys nks lfn&#39;k A o B ij, (b) lekUrj p...')">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_6_hi.png" alt="चित्र 3.6" onclick="openImageModal(this.src, 'चित्र 3.6ः चित्र 3.6 (ं) एक ही उभयनि&ुनवजयझ् बिंदु वाले दो सद&ि#39या । व झ् परए (इ) समानतर चण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.6</strong> fp=k 3.6 (a) ,d gh mHk;fu"B fcanq okys nks lfn'k A o B ij, (b) lekUrj prqHkqZt fofèk }kjk A+B ;ksx izkIr djuk] (c) nks lfn'kksa dks tksM+us dh lekUrj prqHkqZt fofèk f=kHkqt fofèk osQ lerqY; gS A</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.6</strong> चित्र 3.6 (ं) एक ही उभयनिष्झ् बिंदु वाले दो सदशि । व झ् परए (इ) समानतर चतुर्भुज विèिा द्वारा । +झ् योग पzाप्त करनाए (ब) दो सदशिों को जोड+ने की समानतर चतुर्भुज विèिा =िाभुज विèिा के समतुल्य है ।</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>
@@ -615,9 +615,9 @@ P
 चित्र 3.
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_7_hi.png" alt="चित्र 3.7" onclick="openImageModal(this.src, 'चित्र 3.7: fp=k 3.7...')">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_7_hi.png" alt="चित्र 3.7" onclick="openImageModal(this.src, 'चित्र 3.7ः चित्र 3.7.्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.7</strong> fp=k 3.7</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.7</strong> चित्र 3.7</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>
@@ -732,9 +732,9 @@ A = |A|n
 अनुसार सदिश A समतल x-y में स्थित है ।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_9_hi.png" alt="चित्र 3.9" onclick="openImageModal(this.src, 'चित्र 3.9: lfn&#39;k&?kVdksa Øe&#39;k% λa rFkk µb esa fo;ksftr dj fn;k x;k gS A bl fofèk dk...')">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_9_hi.png" alt="चित्र 3.9" onclick="openImageModal(this.src, 'चित्र 3.9ः सद&ि#39या&घटकों Øम&#39या% λं तथा ष्टइ में वियोजित कर दयिा गया है । इस विèिा काण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.9</strong> lfn'k&?kVdksa Øe'k% λa rFkk µb esa fo;ksftr dj fn;k x;k gS A bl fofèk dk mi;ksx djosQ ge fdlh lfn'k dks mlh lery osQ nks lfn'k&?kVdksa esa fo;ksftr dj ldrs gSa A ,dkad ifjek.k osQ lfn'kksa dh lgk;rk ls ledksf.kd funsZ'kkad fudk; osQ vuqfn'k fdlh lfn'k dk fo;kstu lqfoèkktud gksrk gS A ,sls lfn'kksa dks ,dkad lfn'k dgrs gSa ftl ij vc ge ifjppkZ djsaxs A ,dkad lfn'k % ,dkad lfn'k og lfn'k gksrk gS ftldk ifjek.k ,d gks rFkk tks fdlh fo'ks"k fn'kk osQ vuqfn'k gks A u rks bldh dksbZ foek gksrh gS vkSj u gh dksbZ ek=kd A ek=k fn'kk O;Dr djus osQ fy, bldk mi;ksx gksrk gS A fp=k 3.9a esa iznf'Zkr ,d ^vk;rh; funsZ'kkad fudk;* dh x, y rFkk z v{kksa osQ vuqfn'k ,dkad lfn'kksa dks ge Øe'k% l.k ˆ ˆ rFkk mˆ }kjk O;Dr djrs gSa A D;ksafd ;s lHkh ,dkad lfn'k gSa] blfy,</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.9</strong> सदशि&घटकों Øमश% λं तथा ष्टइ में वियोजित कर दयिा गया है । इस विèिा का उपयोग करके हम किसी सदशि को उसी समतल के दो सदशि&घटकों में वियोजित कर सकते हैं । एकांक परिमाण के सदशिों की सहायता से समकोणिक निर्देशांक निकाय के अनुदशि किसी सदशि का वियोजन सुविèााजनक होता है । एेसे सदशिों को एकांक सदशि कहते हैं जिस पर अब हम परिचर्चा करेंगे । एकांक सदशि % एकांक सदशि वह सदशि होता है जिसका परिमाण एक हो तथा जो किसी विशेष दशिा के अनुदशि हो । न तो इसकी कोर्इ विमा होती है और न ही कोर्इ मा=ाक । मा=ा दशिा व्यक्त करने के लिए इसका उपयोग होता है । चित्र 3.9ं में पzदर्श्िात एक ^आयतीय निर्देशांक निकाय* की गए ल तथा z अ{ाों के अनुदशि एकांक सदशिों को हम Øमश% सण ˆ ˆ तथा उˆ द्वारा व्यक्त करते हैं । क्योंकि ये सभी एकांक सदशि हैंए इसलिए</span>
     <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
   </div>
 </div>
@@ -1020,9 +1020,9 @@ c = cxi + Cyj + czk
 तो सदिश T = a + b − c के घटक निम्नलिखित होंगे:
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_10_hi.png" alt="चित्र 3.10" onclick="openImageModal(this.src, 'चित्र 3.10: fp=k 3.10...')">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_10_hi.png" alt="चित्र 3.10" onclick="openImageModal(this.src, 'चित्र 3.10ः चित्र 3.10.्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.10</strong> fp=k 3.10</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.10</strong> चित्र 3.10</span>
     <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
   </div>
 </div>
@@ -1061,9 +1061,9 @@ B
 ओर 60° पर है । मोटरबोट का परिणामी वेग निकालिए ।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_11_hi.png" alt="चित्र 3.11" onclick="openImageModal(this.src, 'चित्र 3.11: fp=k 3.11...')">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_11_hi.png" alt="चित्र 3.11" onclick="openImageModal(this.src, 'चित्र 3.11ः चित्र 3.11.्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.11</strong> fp=k 3.11</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.11</strong> चित्र 3.11</span>
     <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
   </div>
 </div>
@@ -1331,9 +1331,9 @@ P से चलना प्रारम्भ करती है । वस्
 (a), (b) तथा (c) में क्रमशः घटते हुए △t के मानों अर्थात् At₁,
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_12_hi.png" alt="चित्र 3.12" onclick="openImageModal(this.src, 'चित्र 3.12: fp=k 3.12 (a) fLFkfr lfn&#39;k r, (b) foLFkkiu ∆r rFkk d.k dk...')">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_12_hi.png" alt="चित्र 3.12" onclick="openImageModal(this.src, 'चित्र 3.12ः चित्र 3.12 (ं) स्थिति सद&ि#39या तए (इ) विस्थापन ∆त तथा कण काण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.12</strong> fp=k 3.12 (a) fLFkfr lfn'k r, (b) foLFkkiu ∆r rFkk d.k dk</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.12</strong> चित्र 3.12 (ं) स्थिति सदशि तए (इ) विस्थापन ∆त तथा कण का</span>
     <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
   </div>
 </div>
@@ -1528,9 +1528,9 @@ At
 a = axi+ayj.
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_13_hi.png" alt="चित्र 3.13" onclick="openImageModal(this.src, 'चित्र 3.13: ∆r iFk dh Li&#39;kZ js[kk osQ vuqfn&#39;k gks tkrk gS (fp=k 3.13d)A bl izdkj iFk...')">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_13_hi.png" alt="चित्र 3.13" onclick="openImageModal(this.src, 'चित्र 3.13ः ∆त पथ की स्प&#39र्या रेखा के अनुद&ि#39या हो जाता है (चित्र 3.13क)। इस प्रकार पथण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.13</strong> ∆r iFk dh Li'kZ js[kk osQ vuqfn'k gks tkrk gS (fp=k 3.13d)A bl izdkj iFk osQ fdlh fcanq ij osx ml fcanq ij [khaph xbZ Li'kZ js[kk }kjk O;Dr gksrk gS ftldh fn'kk oLrq dh xfr osQ vuqfn'k gksrh gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.13</strong> ∆त पथ की स्पर्श रेखा के अनुदशि हो जाता है (चित्र 3.13क)। इस प्रकार पथ के किसी बिंदु पर वेग उस बिंदु पर खींची गर्इ स्पर्श रेखा द्वारा व्यक्त होता है जिसकी दशिा वस्तु की गति के अनुदशि होती है।</span>
     <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
   </div>
 </div>
@@ -2474,9 +2474,9 @@ g
 गति की अवधि में एकसमान (नियत) रहती है । माना कि
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_18_hi.png" alt="चित्र 3.18" onclick="openImageModal(this.src, 'चित्र 3.18: ∆t osQ vuqfn&#39;k gS] blfy, c Hkh ∆r osQ yacor~ gksxk A vc ;fn ge ∆v dks ml js[...')">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_18_hi.png" alt="चित्र 3.18" onclick="openImageModal(this.src, 'चित्र 3.18ः ∆ज के अनुद&ि#39या हैए इसलिए ब भी ∆त के लंबवत~ होगा । अब यद िहम ∆अ को उस रेख्ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.18</strong> ∆t osQ vuqfn'k gS] blfy, c Hkh ∆r osQ yacor~ gksxk A vc ;fn ge ∆v dks ml js[kk ij j[ksa tks r o r' osQ chp osQ dks.k dks f}Hkkftr djrh gS rks ge ns[ksaxs fd bldh fn'kk o`Ùk osQ osaQnz dh vksj gksxh A bUghs jkf'k;ksa dks fp=k 3.18(b) esa NksVs le; varjky osQ fy, fn[kk;k x;k gS A ∆v, vr% c dh fn'kk iqu% osaQnz dh vksj gksxh A fp=k (3-18c) esa ∆t→0 gS] blfy, vkSlr Roj.k] rkR{kf.kd Roj.k osQ cjkcj gks tkrk gS A bldh fn'kk osaQnz dh vksj gksrh gS* A bl izdkj] ;g fu"d"kZ fudyrk gS fd ,dleku o`Ùkh; xfr osQ fy, oLrq osQ Roj.k dh fn'kk o`Ùk osQ osaQnz dh vksj gksrh gS A vc ge bl Roj.k dk ifjek.k fudkysaxsA ifjHkk"kk osQ vuqlkj] a dk ifjek.k fuEufyf[kr lw=k ls O;Dr gksrk gS]</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.18</strong> ∆ज के अनुदशि हैए इसलिए ब भी ∆त के लंबवत~ होगा । अब यद िहम ∆अ को उस रेखा पर रखें जो त व तश् के बीच के कोण को ।िभाजित करती है तो हम देखेंगे कि इसकी दशिा वृÙा के वेंफदz की आेर होगी । इनहीे राशियों को चित्र 3.18(इ) में छोटे समय अंतराल के लिए दखिाया गया है । ∆अए अत% ब की दशिा पुन% वेंफदz की आेर होगी । चित्र (3-18ब) में ∆ज→0 हैए इसलिए औसत त्वरणए तात्{ाणिक त्वरण के बराबर हो जाता है । इसकी दशिा वेंफदz की आेर होती है* । इस प्रकारए यह निष्कर्ष निकलता है कि एकसमान वृÙाीय गति के लिए वस्तु के त्वरण की दशिा वृÙा के वेंफदz की आेर होती है । अब हम इस त्वरण का परिमाण निकालेंगे। परिभाषा के अनुसारए ं का परिमाण निम्नलिखित सू=ा से व्यक्त होता हैए</span>
     <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
   </div>
 </div>
@@ -3341,9 +3341,9 @@ P
 वह पार्क की परिधि के अनुदिश साइकिल चलाता हुआ GO के रास्ते (जैसा
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_20_hi.png" alt="चित्र 3.20" onclick="openImageModal(this.src, 'चित्र 3.20: 3-9 dksbZ lkbfdy lokj fdlh o`Ùkh; ikoaZQ osQ osaQnz O ls pyuk &#39;kq: djrk gS r...')">
+  <img src="data/diagrams/11th_physics_ch03_motion_in_a_plane_fig_3_20_hi.png" alt="चित्र 3.20" onclick="openImageModal(this.src, 'चित्र 3.20ः 3-9 कोर्इ साइकिल सवार किसी वृÙाीय पार्वंफ के वेंफदz व् से चलना &#39याुः करता है तण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3.20</strong> 3-9 dksbZ lkbfdy lokj fdlh o`Ùkh; ikoaZQ osQ osaQnz O ls pyuk 'kq: djrk gS rFkk ikoZQ osQ fdukjs P ij igq¡prk gSA iqu% og ikoZQ dh ifjf/ osQ vuqfn'k lkbfdy pykrk gqvk QO osQ jkLrs (tSlk fp=k 3.20 esa fn[kk;k x;k gS) osaQnz ij okil vk tkrk gS A ikoZQ dh f=kT;k 1 km gS A ;fn iwjs pDdj esa 10 feuV yxrs gksa rks lkbfdy lokj dk (a) oqQy foLFkkiu] (b) vkSlr osx] rFkk (c) vkSlr pky D;k gksxh\</span>
+    <span class="diagram-caption-text"><strong>चित्र 3.20</strong> 3-9 कोर्इ साइकिल सवार किसी वृÙाीय पार्वंफ के वेंफदz व् से चलना शुः करता है तथा पार्वफ के किनारे च् पर पहुँचता है। पुन% वह पार्वफ की परिध िके अनुदशि साइकिल चलाता हुआ फव् के रास्ते (जैसा चित्र 3.20 में दखिाया गया है) वेंफदz पर वापस आ जाता है । पार्वफ की =िाज्या 1 ाउ है । यद िपूरे चक्कर में 10 मिनट लगते हों तो साइकिल सवार का (ं) वुफल विस्थापनए (इ) औसत वेगए तथा (ब) औसत चाल क्या होगी।</span>
     <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
   </div>
 </div>

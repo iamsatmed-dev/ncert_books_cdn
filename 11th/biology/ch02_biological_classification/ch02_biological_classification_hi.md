@@ -254,9 +254,9 @@ publi
 (बहुवचन-विब्रियाँ) तथा सर्पिलाकार स्पाइरिलम (बहुवचन स्पाइरिला) में बाँटा गया है
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_biology_ch02_biological_classification_fig_2_hi.png" alt="चित्र 2" onclick="openImageModal(this.src, 'चित्र 2: fp=k 2-1 fofHkUu vkdkj osQ cSDVhfj;k...')">
+  <img src="data/diagrams/11th_biology_ch02_biological_classification_fig_2_hi.png" alt="चित्र 2" onclick="openImageModal(this.src, 'चित्र 2ः चित्र 2.1 विभिन्न आकार के बैक्टीरियाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2</strong> fp=k 2-1 fofHkUu vkdkj osQ cSDVhfj;k</span>
+    <span class="diagram-caption-text"><strong>चित्र 2</strong> चित्र 2.1 विभिन्न आकार के बैक्टीरिया</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>

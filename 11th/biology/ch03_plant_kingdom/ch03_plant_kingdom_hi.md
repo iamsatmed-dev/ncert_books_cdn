@@ -96,9 +96,9 @@ RT
 तथा तंतुमयी जैसे यूलोथ्रिक्स, स्पाइरोगायरा (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_biology_ch03_plant_kingdom_fig_3_hi.png" alt="चित्र 3" onclick="openImageModal(this.src, 'चित्र 3: &#39;kSoky osQ eki rFkk vkdkj esa cgqr fofHkUurk gksrh gSA ;s dkWyksfu; tSls okW...')">
+  <img src="data/diagrams/11th_biology_ch03_plant_kingdom_fig_3_hi.png" alt="चित्र 3" onclick="openImageModal(this.src, 'चित्र 3ः &#39यौवाल के माप तथा आकार में बहुत विभिन्नता होती है। ये काॅलोनिय जैसे वाॅण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 3</strong> 'kSoky osQ eki rFkk vkdkj esa cgqr fofHkUurk gksrh gSA ;s dkWyksfu; tSls okWYokWDl rFkk rarqe;h tSls ;wyksfFkzDl] Likbjksxk;jk (fp=k 3-1) rd gks ldrs gSaA buesa ls oqQN] 'kSoky tSls osQYi] cgqr fo'kkydk; gksrs gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 3</strong> शैवाल के माप तथा आकार में बहुत विभिन्नता होती है। ये काॅलोनिय जैसे वाॅल्वाॅक्स तथा तंतुमयी जैसे यूलोथिzक्सए स्पाइरोगायरा (चित्र 3.1) तक हो सकते हैं। इनमें से कुछए शैवाल जैसे केल्पए बहुत विशालकाय होते हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>

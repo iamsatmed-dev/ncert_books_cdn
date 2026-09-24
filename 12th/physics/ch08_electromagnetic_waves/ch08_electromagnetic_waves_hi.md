@@ -79,15 +79,15 @@ republished
   <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_1_hi.png" alt="
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_hi.png" alt="चित्र 8" onclick="openImageModal(this.src, 'चित्र 8: fp=k 8-4 oS|qrpaqcdh; LisDVªe ftlosQ fofHkUu Hkkxksa osQ lkekU; uke n&#39;kkZ, x...')">
+  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_hi.png" alt="चित्र 8" onclick="openImageModal(this.src, 'चित्र 8ः चित्र 8.4 वै।ुतचंुबकीय स्पेक्टªम जिसके विभिन्न भागों के सामानय नाम द&#39र्यााए गण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8</strong> fp=k 8-4 oS|qrpaqcdh; LisDVªe ftlosQ fofHkUu Hkkxksa osQ lkekU; uke n'kkZ, x, gSaA fofHkUu Hkkxksa</span>
+    <span class="diagram-caption-text"><strong>चित्र 8</strong> चित्र 8.4 वै।ुतचंुबकीय स्पेक्टªम जिसके विभिन्न भागों के सामानय नाम दर्शाए गए हैं। विभिन्न भागों</span>
     <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
   </div>
 </div>
 
 <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8.1</strong> dk mi;ksx djsaA ¹fp=k 8.1(a)º esa ,d lekarj IysV laèkkfj=k C n'kkZ;k x;k gS tks ,d ,sls ifjiFk dk Hkkx gS ftlesa le; osQ lkFk ifjorZu'khy èkkjk i (t) izokfgr gks jgh gSA vkb,] lekarj IysV laèkkfj=k osQ cká {ks=k esa fLFkr fdlh ¯cnq tSls fd P ij paqcdh; {ks=k Kkr djsaA blosQ fy,] ge r f=kT;k dk ,d lery o`Ùkkdkj ywi ysrs gSa ftldk ry èkkjkokgh rkj dh fn'kk osQ yacor gS vkSj ftldk osaQnz rkj osQ Åij gS ¹fp=k 8.1(a)ºA lefefr osQ vkèkkj ij ge dg ldrs gSa fd paqcdh; {ks=k dh fn'kk o`Ùkkdkj ywi dh ifjfèk osQ vuqfn'k gS vkSj ywi osQ izR;sd ¯cnq ij bldk ifjek.k leku gSA bl dkj.k] ;fn {ks=k dk ifjek.k B gS rks lehdj.k (8.1) dk oke i{k</span>
+    <span class="diagram-caption-text"><strong>चित्र 8.1</strong> का उपयोग करें। ¹चित्र 8.1(ं)º में एक समांतर प्लेट संèाारि=ा ऋ दर्शाया गया है जो एक एेसे परिपथ का भाग है जिसमें समय के साथ परिवर्तनशील èाारा प (ज) पzवाहित हो रही है। आइएए समांतर प्लेट संèाारि=ा के बाá क्षेत्र में स्थित किसी ¯बदु जैसे कि च् पर चंुबकीय क्षेत्र Kात करें। इसके लिएए हम त =िाज्या का एक समतल वृÙााकार लूप लेते हैं जिसका तल èाारावाही तार की दशिा के लंबवत है और जिसका वेंफदz तार के ऊपर है ¹चित्र 8.1(ं)º। सममिति के आèाार पर हम कह सकते हैं कि चंुबकीय क्षेत्र की दशिा वृÙााकार लूप की परिèिा के अनुदशि है और लूप के पzत्येक ¯बदु पर इसका परिमाण समान है। इस कारणए यद िक्षेत्र का परिमाण झ् है तो समीकरण (8.1) का वाम प{ा</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>
@@ -305,9 +305,9 @@ M पर होना चाहिए [चित्र 8.1(a)]। आवेश�
 अस्तित्व में आता है। इसको इसलिए विस्थापन धारा अथवा मैक्सवेल की विस्थापन धारा कहा जाता
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_2_hi.png" alt="चित्र 8.2" onclick="openImageModal(this.src, 'चित्र 8.2: fdlh Hkh n`f&quot;V ls foLFkkiu èkkjk osQ HkkSfrd izHkko pkyu èkkjk osQ leku gSa...')">
+  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_2_hi.png" alt="चित्र 8.2" onclick="openImageModal(this.src, 'चित्र 8ण्2ः किसी भी दृ&िुनवजयट से विस्थापन èाारा के भौतिक पzभाव चालन èाारा के समान हैंण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8.2</strong> fdlh Hkh n`f"V ls foLFkkiu èkkjk osQ HkkSfrd izHkko pkyu èkkjk osQ leku gSaA oqQN fLFkfr;ksa esa] mnkgj.kkFkZ] fdlh pkyd rkj esa fu;r fo|qr {ks=k osQ fy, foLFkkiu èkkjk dk eku 'kwU; gks ldrk gS D;ksafd fdlh fo|qr {ks=k E le; osQ lkFk ifjo£rr ugha gksrkA oqQN nwljh fLFkfr;ksa esa] tSls fd Åij crk, x, vkosf'kr gksrs laèkkfj=k esa pkyu ,oa foLFkkiu èkkjk nksuksa gh mifLFkr gks ldrs gSa ij vyx&vyx fno~QLFkkuksa esaA ijarq vfèkdrj fLFkfr;ksa esa nksuksa ,d gh LFkku ij fo|eku gks ldrs gSa D;kasfd dksbZ Hkh ekè;e iw.kZ pkyd ;k iw.kZ fo|qrjksèkh ugha gksrkA lokZfèkd jkspd rF; ;g gS fd fdlh fo'kky {ks=k esa tgk¡ dksbZ Hkh pkyu èkkjk ugha gksrh] le; osQ lkFk ifjorZu'khy fo|qr {ks=k osQ dkj.k osQoy foLFkkiu èkkjk gh gksrh gSA ,sls {ks=k esa] vklikl dksbZ (pkyu) èkkjk lzksr ugha gksus ij Hkh paqcdh; {ks=k fo|eku gksxkA bl foLFkkiu èkkjk osQ vfLrRo dh izkxqfDr iz;ksx }kjk iq"V dh tk ldrh gSA mnkgj.k osQ fy,] fp=k 8.2(a) osQ laèkkfj=k dh IysVksa osQ chp (ekuk ¯cnq M ij) paqcdh; {ks=k ekik tk ldrk gSA ;g Bhd mruk gh ik;k tk,xk ftruk fd ckgj osQ fdlh ¯cnq (ekuk P) ijA</span>
+    <span class="diagram-caption-text"><strong>चित्र 8.2</strong> किसी भी दृष्टि से विस्थापन èाारा के भौतिक पzभाव चालन èाारा के समान हैं। कुछ स्थितियों मेंए उदाहरणार्थए किसी चालक तार में नियत वि।ुत क्षेत्र के लिए विस्थापन èाारा का मान शूनय हो सकता है क्योंकि किसी वि।ुत क्षेत्र म् समय के साथ परिव£तत नहीं होता। कुछ दूसरी स्थितियों मेंए जैसे कि ऊपर बताए गए आवेशित होते संèाारि=ा में चालन एवं विस्थापन èाारा दोनों ही उपस्थित हो सकते हैं पर अलग&अलग दवि~फस्थानों में। परंतु अèिाकतर स्थितियों में दोनों एक ही स्थान पर वि।मान हो सकते हैं क्यांेकि कोर्इ भी माèयम पूर्ण चालक या पूर्ण वि।ुतरोèाी नहीं होता। सर्वाèिाक रोचक तथ्य यह है कि किसी विशाल क्षेत्र में जहाँ कोर्इ भी चालन èाारा नहीं होतीए समय के साथ परिवर्तनशील वि।ुत क्षेत्र के कारण केवल विस्थापन èाारा ही होती है। एेसे क्षेत्र मेंए आसपास कोर्इ (चालन) èाारा सzोत नहीं होने पर भी चंुबकीय क्षेत्र वि।मान होगा। इस विस्थापन èाारा के अस्तित्व की पzागुक्ति पzयोग द्वारा पुष्ट की जा सकती है। उदाहरण के लिएए चित्र 8.2(ं) के संèाारि=ा की प्लेटों के बीच (माना ¯बदु ड पर) चंुबकीय क्षेत्र मापा जा सकता है। यह झ्ीक उतना ही पाया जाएगा जितना कि बाहर के किसी ¯बदु (माना च्) पर।</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -633,9 +633,9 @@ y
 आप निम्न परिणाम पर पहुँच सकते हैं
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_3_hi.png" alt="चित्र 8.3" onclick="openImageModal(this.src, 'चित्र 8.3: fp=k 8.3 ,d js[kh; èkqzfor oS|qrpaqcdh; rjax tks z-fn&#39;kk esa xeu dj jgh gS v...')">
+  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_3_hi.png" alt="चित्र 8.3" onclick="openImageModal(this.src, 'चित्र 8.3ः चित्र 8.3 एक रेखीय èाुzवित वै।ुतचंुबकीय तरंग जो z-द&ि#39याा में गमन कर रही है अण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8.3</strong> fp=k 8.3 ,d js[kh; èkqzfor oS|qrpaqcdh; rjax tks z-fn'kk esa xeu dj jgh gS vkSj</span>
+    <span class="diagram-caption-text"><strong>चित्र 8.3</strong> चित्र 8.3 एक रेखीय èाुzवित वै।ुतचंुबकीय तरंग जो z-दशिा में गमन कर रही है और</span>
     <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
   </div>
 </div>
@@ -819,9 +819,9 @@ E₂ = 60 sin (0.5 × 10³x + 1.5 × 10¹¹ t) V/m
 सूक्ष्म (माइक्रो) तरंगें, पराबैंगनी एवं अवरक्त तरंगें ये सभी em तरंगें हैं। तरंगों का आवृत्ति के क्रम
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_4_hi.png" alt="चित्र 8.4" onclick="openImageModal(this.src, 'चित्र 8.4: ftl le; eSDlosy us oS|qrpaqcdh; rjaxksa lacaèkh viuk fl¼kar izLrqr fd;k Fkk rks ...')">
+  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_4_hi.png" alt="चित्र 8.4" onclick="openImageModal(this.src, 'चित्र 8ण्4ः जिस समय मैक्सवेल ने वै।ुतचंुबकीय तरंगों संबंèाी अपना सि¼ांत पzस्तुत किया था तो ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8.4</strong> ftl le; eSDlosy us oS|qrpaqcdh; rjaxksa lacaèkh viuk fl¼kar izLrqr fd;k Fkk rks n`'; izdk'k rjaxsa gh ,d ek=k lqifjfpr oS|qrpqacdh; (em) rjaxas FkhaA ijkcSxuh ,oa vojDr rjaxksa dk vfLrRo vHkh eqf'dy ls lkfcr gks ik;k FkkA mUuhloha 'krkCnh osQ var rd X- fdj.ksa ,oa xkek fdj.ksa Hkh [kkst yh xbZ FkhaA vc ge tkurs gSa fd n`'; izdk'k rjaxsa] X- fdj.ksa] xkek fdj.ksa] jsfM;ks rjaxsa] lw{e (ekbØks) rjaxas] ijkcSaxuh ,oa vojDr rjaxsa ;s lHkh em rjaxsa gSaA rjaxksa dk vko`fÙk osQ Øe esa oxhZdj.k (fp=k 8.4) oS|qrpaqcdh; LisDVªe dgykrk gSA ,d izdkj dh rjax vkSj mlosQ fudVorhZ nwljs izdkj dh rjax osQ chp dksbZ Li"V foHkktu js[kk ugha gSA oxhZdj.k eksVs rkSj ij bl ckr ij vkèkkfjr gS fd rjaxsa fdl izdkj mRiUu ,oa@vFkok lalwfpr dh tkrh gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 8.4</strong> जिस समय मैक्सवेल ने वै।ुतचंुबकीय तरंगों संबंèाी अपना सि¼ांत पzस्तुत किया था तो दृश्य पzकाश तरंगें ही एक मा=ा सुपरिचित वै।ुतचुंबकीय (मउ) तरंगंे थीं। पराबैगनी एवं अवरक्त तरंगों का अस्तित्व अभी मुश्किल से साबित हो पाया था। उननीसवीं शताऋदी के अंत तक ग्- किरणें एवं गामा किरणें भी खोज ली गर्इ थीं। अब हम जानते हैं कि दृश्य पzकाश तरंगेंए ग्- किरणेंए गामा किरणेंए रेडियो तरंगेंए सू{म (माइØो) तरंगंेए पराबैंगनी एवं अवरक्त तरंगें ये सभी मउ तरंगें हैं। तरंगों का आवृÙिा के Øम में वर्गीकरण (चित्र 8.4) वै।ुतचंुबकीय स्पेक्टªम कहलाता है। एक प्रकार की तरंग और उसके निकटवर्ती दूसरे प्रकार की तरंग के बीच कोर्इ स्पष्ट विभाजन रेखा नहीं है। वर्गीकरण मोटे तौर पर इस बात पर आèाारित है कि तरंगें किस प्रकार उत्पनन एवं@अथवा संसूचित की जाती हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
   </div>
 </div>
@@ -1356,9 +1356,9 @@ Z
 के विकिरणों में सर्वाधिक प्रबल हैं।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_5_hi.png" alt="चित्र 8.5" onclick="openImageModal(this.src, 'चित्र 8.5: fp=k 8.5...')">
+  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_5_hi.png" alt="चित्र 8.5" onclick="openImageModal(this.src, 'चित्र 8.5ः चित्र 8.5.्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8.5</strong> fp=k 8.5</span>
+    <span class="diagram-caption-text"><strong>चित्र 8.5</strong> चित्र 8.5</span>
     <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
   </div>
 </div>
@@ -1381,9 +1381,9 @@ not
 क्या किरखोफ का प्रथम नियम संधारित्र की प्रत्येक प्लेट पर लागू होता है? स्पष्ट कीजिए।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_6_hi.png" alt="चित्र 8.6" onclick="openImageModal(this.src, 'चित्र 8.6: 8.2 ,d lekarj IysV laèkkfj=k (fp=k 8.6)] R = 6.0 cm f=kT;k dh nks o`Ùkkdkj IysVk...')">
+  <img src="data/diagrams/12th_physics_ch08_electromagnetic_waves_fig_8_6_hi.png" alt="चित्र 8.6" onclick="openImageModal(this.src, 'चित्र 8.6ः 8.2 एक समांतर प्लेट संèाारि=ा (चित्र 8.6)ए त् = 6.0 बउ =िाज्या की दो वृÙााकार प्लेटाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 8.6</strong> 8.2 ,d lekarj IysV laèkkfj=k (fp=k 8.6)] R = 6.0 cm f=kT;k dh nks o`Ùkkdkj IysVksa ls cuk gS vkSj bldh èkkfjrk C = 100 pF gSA laèkkfj=k dks 230 V, 300 rad s–1 dh (dks.kh;) vko`fÙk osQ fdlh lzksr ls tksM+k x;k gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 8.6</strong> 8.2 एक समांतर प्लेट संèाारि=ा (चित्र 8.6)ए त् = 6.0 बउ =िाज्या की दो वृÙााकार प्लेटों से बना है और इसकी èाारिता ऋ = 100 चथ् है। संèाारि=ा को 230 टए 300 तंक े–1 की (कोणीय) आवृÙिा के किसी सzोत से जोड+ा गया है।</span>
     <button class="icon-btn" onclick="goToPdfPage(13)">📄 View in PDF (Page 13)</button>
   </div>
 </div>

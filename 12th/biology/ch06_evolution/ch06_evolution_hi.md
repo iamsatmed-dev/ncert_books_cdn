@@ -133,9 +133,9 @@ CH
 NH3
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_hi.png" alt="चित्र 6" onclick="openImageModal(this.src, 'चित्र 6: xBu gks ldkA ml le; i`Foh dh voLFkk mPp rki ;qDr] Tokykeq[kh; rwiQku okyh rFkk o...')">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_hi.png" alt="चित्र 6" onclick="openImageModal(this.src, 'चित्र 6ः गझ्न हो सका। उस समय पृथ्वी की अवस्था उच्च ताप युक्त, ज्वालामुखीय तूपफान वाली तथा वण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6</strong> xBu gks ldkA ml le; i`Foh dh voLFkk mPp rki ;qDr] Tokykeq[kh; rwiQku okyh rFkk ok;qeaMy esa feFksu] veksfu;k vkfn dh deh okyh FkhA ,d vesfjdh oSKkfud ,l-,y- feyj us 1953 esa viuh iz;ksx'kkyk esa blh iSekus fd fLFkfr;k¡ iSnk dh (fp=k 6-1)A blus ,d can ÝykLd esa fufgr feFksu] gkbMªkstu] veksfu;k rFkk 8000C lsfYl;l ij rki osQ lkFk ,d fo|qr&fMLpktZ dj ns[kk fd vehuks ,flM curk gSA vU; yksxksa us Hkh Bhd blh izdkj osQ iz;ksx }kjk 'kdZjkvksa] ukbVªkstsu {kkjdksa] o.kZdksa rFkk olk vkfn izkIr fd, mYdkvksa dh varoZLrqvksa osQ fo'ys"k.k ls izdV gqvk fd Bhd ,slh gh izfØ;k varfj{k osQ fdlh vU; LFkku ij (,slh ?kVuk) ?kfVr gksrh jgh gksxhA lhfer lk{;ksa osQ vk/kj ij fujk/kj dYiuk okyh dgkfu;ksa osQ igys Hkkx vFkkZr~ jklk;fud fodkl dks Hkh FkksM+h cgqr ek=kk osQ :i esa Loho`Qr fd;k tk ldrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 6</strong> गझ्न हो सका। उस समय पृथ्वी की अवस्था उच्च ताप युक्तए ज्वालामुखीय तूपफान वाली तथा वायुमंडल में मिथेनए अमोनिया आद िकी कमी वाली थी। एक अमेरिकी वैKानिक एस-एल- मिलर ने 1953 में अपनी पzयोगशाला में इसी पैमाने कि स्थितियाँ पैदा की (चित्र 6.1)। इसने एक बंद Ýलास्क में निहित मिथेनए हाइडªोजनए अमोनिया तथा 8000ऋ सेल्सियस पर ताप के साथ एक वि।ुत&डिस्चार्ज कर देखा कि अमीनो एसिड बनता है। अनय लोगों ने भी झ्ीक इसी प्रकार के पzयोग द्वारा शर्कराओंए नाइटªोजेन {ाारकोंए वर्णकों तथा वसा आद िपzाप्त किए उल्काओं की अंतर्वस्तुओं के विश्लेषण से पzकट हुआ कि झ्ीक एेसी ही पzØिया अंतरि{ा के किसी अनय स्थान पर (एेसी घटना) घटित होती रही होगी। सीमित सा{यों के आधार पर निराधार कल्पना वाली कहानियों के पहले भाग अर्थात~ रासायनिक विकास को भी थोड+ी बहुत मा=ाा के रूप में स्वीवृफत किया जा सकता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>
@@ -145,9 +145,9 @@ NH3
 एस.एल. मिलर ने 1953 में अपनी प्रयोगशाला में इसी पैमाने कि स्थितियाँ पैदा की
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_1_hi.png" alt="चित्र 6.1" onclick="openImageModal(this.src, 'चित्र 6.1: fp=k 6.1 feyj osQ iz;ksx dk vkjs[kh; fu:i.k...')">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_1_hi.png" alt="चित्र 6.1" onclick="openImageModal(this.src, 'चित्र 6.1ः चित्र 6.1 मिलर के पzयोग का आरेखीय निरूपणण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.1</strong> fp=k 6.1 feyj osQ iz;ksx dk vkjs[kh; fu:i.k</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.1</strong> चित्र 6.1 मिलर के पzयोग का आरेखीय निरूपण</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>
@@ -220,9 +220,9 @@ NH3
 तलछट के निर्माण के दौरान मरे थे। उनमें से कुछ आधुनिक जीवों से मिलते-जुलते हैं
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_2_hi.png" alt="चित्र 6.2" onclick="openImageModal(this.src, 'चित्र 6.2: fp=k 6.2 Mkbukslksjksa dk oa&#39;k&o`{k vkSj muosQ vkt osQ feyrs&tqyrs tho tSls ...')">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_2_hi.png" alt="चित्र 6.2" onclick="openImageModal(this.src, 'चित्र 6.2ः चित्र 6.2 डाइनोसोरों का वं&#39या&वृ{ा और उनके आज के मिलते&जुलते जीव जैसे ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.2</strong> fp=k 6.2 Mkbukslksjksa dk oa'k&o`{k vkSj muosQ vkt osQ feyrs&tqyrs tho tSls exjePN] i{kh vkfn</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.2</strong> चित्र 6.2 डाइनोसोरों का वंश&वृ{ा और उनके आज के मिलते&जुलते जीव जैसे मगरमच्छए प{ाी आदि</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>
@@ -331,9 +331,9 @@ republished
 शकरकंदी (जड़/मूल – रूपांतर) तथा आलू (तना-रूपांतर) (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_3_hi.png" alt="चित्र 6.3" onclick="openImageModal(this.src, 'चित्र 6.3: fp=k 6.3 letkr vaxksa osQ mnkgj.k (v) ikS/s vkSj (c) tkuoj...')">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_3_hi.png" alt="चित्र 6.3" onclick="openImageModal(this.src, 'चित्र 6.3ः चित्र 6.3 समजात अंगों के उदाहरण (अ) पौधे और (ब) जानवरण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.3</strong> fp=k 6.3 letkr vaxksa osQ mnkgj.k (v) ikS/s vkSj (c) tkuoj</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.3</strong> चित्र 6.3 समजात अंगों के उदाहरण (अ) पौधे और (ब) जानवर</span>
     <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
   </div>
 </div>
@@ -353,9 +353,9 @@ CERT
 ## 📄 Page 7
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_4_hi.png" alt="चित्र 6.4" onclick="openImageModal(this.src, 'चित्र 6.4: fp=k 6.4 &#39;osr ia[kksa vkSj dkys ia[kksa okys &#39;kyHkksa osQ o`{k osQ rus i...')">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_4_hi.png" alt="चित्र 6.4" onclick="openImageModal(this.src, 'चित्र 6.4ः चित्र 6.4 &#39यवेत पंखों और काले पंखों वाले &#39यालभों के वृ{ा के तने पण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.4</strong> fp=k 6.4 'osr ia[kksa vkSj dkys ia[kksa okys 'kyHkksa osQ o`{k osQ rus ij] osQ fp=k (v) iznw"k.k jfgr vkSj (c) iznwf"kr {ks=kksa esa</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.4</strong> चित्र 6.4 श्वेत पंखों और काले पंखों वाले शलभों के वृ{ा के तने परए के चित्र (अ) पzदूषण रहित और (ब) पzदूषित क्षेत्रों में</span>
     <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
   </div>
 </div>
@@ -420,9 +420,9 @@ ished
 अवसरधारी घटना और जीवों में संयोग जन्य उत्परिवर्तन (म्यूटेशन) पर आधारित है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_5_hi.png" alt="चित्र 6.5" onclick="openImageModal(this.src, 'चित्र 6.5: fp=k 6.5 fiaQp if{k;ksa dh pksapksa dh fofo/rk tks Mkjfou us xSyiSxksl }hi esa n...')">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_5_hi.png" alt="चित्र 6.5" onclick="openImageModal(this.src, 'चित्र 6.5ः चित्र 6.5 पिंफच प{िायों की चोंचों की विविधता जो डारविन ने गैलपैगोस ।ीप में दण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.5</strong> fp=k 6.5 fiaQp if{k;ksa dh pksapksa dh fofo/rk tks Mkjfou us xSyiSxksl }hi esa ns[kha</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.5</strong> चित्र 6.5 पिंफच प{िायों की चोंचों की विविधता जो डारविन ने गैलपैगोस ।ीप में देखीं</span>
     <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
   </div>
 </div>
@@ -443,9 +443,9 @@ ished
 मार्सुपियल (शिशुधानी प्राणियों) का है। अधिकांश मासुपियल जो एक दूसरे से बिल्कुल
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_6_hi.png" alt="चित्र 6.6" onclick="openImageModal(this.src, 'चित्र 6.6: fp=k 6.6 vkLVªsfy;k osQ f&#39;k&#39;kq/kuh izkf.k;ksa osQ vuqowQyh fopj.k...')">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_6_hi.png" alt="चित्र 6.6" onclick="openImageModal(this.src, 'चित्र 6.6ः चित्र 6.6 आस्टªेलिया के &ि#39या&#39याुधानी पzाणियों के अनुवूफली विचरणण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.6</strong> fp=k 6.6 vkLVªsfy;k osQ f'k'kq/kuh izkf.k;ksa osQ vuqowQyh fopj.k</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.6</strong> चित्र 6.6 आस्टªेलिया के शिशुधानी पzाणियों के अनुवूफली विचरण</span>
     <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
   </div>
 </div>
@@ -526,9 +526,9 @@ berepushshed
 अपरा स्तनी
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_7_hi.png" alt="चित्र 6.7" onclick="openImageModal(this.src, 'चित्र 6.7: fp=k 6.7 vkLVªsfy;kbZ f&#39;k&#39;kq/kuh vkSj vijk Lruèkkfj;ksa dk vilkjh fodkl ...')">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_7_hi.png" alt="चित्र 6.7" onclick="openImageModal(this.src, 'चित्र 6.7ः चित्र 6.7 आस्टªेलियार्इ &ि#39या&#39याुधानी और अपरा स्तनèाारियों का अपसारी विकास ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.7</strong> fp=k 6.7 vkLVªsfy;kbZ f'k'kq/kuh vkSj vijk Lruèkkfj;ksa dk vilkjh fodkl n'kkZus okyk fp=k</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.7</strong> चित्र 6.7 आस्टªेलियार्इ शिशुधानी और अपरा स्तनèाारियों का अपसारी विकास दर्शाने वाला चित्र</span>
     <button class="icon-btn" onclick="goToPdfPage(10)">📄 View in PDF (Page 10)</button>
   </div>
 </div>
@@ -662,9 +662,9 @@ ple helple-ch
 सँकरा होता जाता है
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_8_hi.png" alt="चित्र 6.8" onclick="openImageModal(this.src, 'चित्र 6.8: fp=k 6.8 (v) LFkk;hdkjd (c) fn&#39;kkRed vkSj fonkjd y{k.kksa ij izkÑfrd oj.k dh...')">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_8_hi.png" alt="चित्र 6.8" onclick="openImageModal(this.src, 'चित्र 6.8ः चित्र 6.8 (अ) स्थायीकारक (ब) द&ि#39याात्मक और विदारक ल{ाणों पर पzाÑतिक वरण कीण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.8</strong> fp=k 6.8 (v) LFkk;hdkjd (c) fn'kkRed vkSj fonkjd y{k.kksa ij izkÑfrd oj.k dh LakfØ;k dk vkjs[kh izfr:i.k</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.8</strong> चित्र 6.8 (अ) स्थायीकारक (ब) दशिात्मक और विदारक ल{ाणों पर पzाÑतिक वरण की स्ंाØिया का आरेखी पzतिरूपण</span>
     <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
   </div>
 </div>
@@ -730,9 +730,9 @@ lished
 ## 📄 Page 14
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_9_hi.png" alt="चित्र 6.9" onclick="openImageModal(this.src, 'चित्र 6.9: fp=k 6.9 HkwoSKkfud dkyksa esa gksdj ikniksa osQ fodkl dk fp=k...')">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_9_hi.png" alt="चित्र 6.9" onclick="openImageModal(this.src, 'चित्र 6.9ः चित्र 6.9 भूवैKानिक कालों में होकर पादपों के विकास का चित्रण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.9</strong> fp=k 6.9 HkwoSKkfud dkyksa esa gksdj ikniksa osQ fodkl dk fp=k</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.9</strong> चित्र 6.9 भूवैKानिक कालों में होकर पादपों के विकास का चित्र</span>
     <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
   </div>
 </div>
@@ -859,9 +859,9 @@ ot to behed
 मगरमच्छ
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_10_hi.png" alt="चित्र 6.10" onclick="openImageModal(this.src, 'चित्र 6.10: fp=k 6.10 HkwoSKkfud dkyksa esa gksdj d&#39;ks:fd;ksa dk fodklh; bfrgkl dk fp=k....')">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_10_hi.png" alt="चित्र 6.10" onclick="openImageModal(this.src, 'चित्र 6.10ः चित्र 6.10 भूवैKानिक कालों में होकर क&#39योःकियों का विकासीय इतिहास का चित्रण्ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.10</strong> fp=k 6.10 HkwoSKkfud dkyksa esa gksdj d'ks:fd;ksa dk fodklh; bfrgkl dk fp=k.k</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.10</strong> चित्र 6.10 भूवैKानिक कालों में होकर कशेःकियों का विकासीय इतिहास का चित्रण</span>
     <button class="icon-btn" onclick="goToPdfPage(15)">📄 View in PDF (Page 15)</button>
   </div>
 </div>
@@ -914,9 +914,9 @@ ot to behed
 रामापिथिकस अधिक मनुष्यों जैसे थे जबकि ड्रायोपिथिकस वनमानुष (ऐप) जैसे थे।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_11_hi.png" alt="चित्र 6.11" onclick="openImageModal(this.src, 'चित्र 6.11: fp=k 6.11 vk/qfud o;Ld ekuo] f&#39;k&#39;kq fpaiSath vkSj o;Ld fpaiSath dh [kksi...')">
+  <img src="data/diagrams/12th_biology_ch06_evolution_fig_6_11_hi.png" alt="चित्र 6.11" onclick="openImageModal(this.src, 'चित्र 6.11ः चित्र 6.11 आधुनिक वयस्क मानवए &ि#39या&#39याु चिंपैंजी और वयस्क चिंपैंजी की खोपण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 6.11</strong> fp=k 6.11 vk/qfud o;Ld ekuo] f'k'kq fpaiSath vkSj o;Ld fpaiSath dh [kksifM+;ksa dh rqyukA f'k'kq fpaiSath dh [kksiM+h vfèkd ekuo</span>
+    <span class="diagram-caption-text"><strong>चित्र 6.11</strong> चित्र 6.11 आधुनिक वयस्क मानवए शिशु चिंपैंजी और वयस्क चिंपैंजी की खोपडि+यों की तुलना। शिशु चिंपैंजी की खोपड+ी अèिाक मानव</span>
     <button class="icon-btn" onclick="goToPdfPage(17)">📄 View in PDF (Page 17)</button>
   </div>
 </div>

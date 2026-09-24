@@ -124,20 +124,20 @@ republished
   <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_1_hi.png" alt="
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_hi.png" alt="चित्र 12" onclick="openImageModal(this.src, 'चित्र 12: * fdlh bysDVªkWu dh E = 0 eV ls vf/d oqQN Hkh oqQy ÅtkZ gks ldrh gSA ,slh n&#39;...')">
+  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_hi.png" alt="चित्र 12" onclick="openImageModal(this.src, 'चित्र 12ः * किसी इलेक्टªाॅन की म् = 0 मट से अधकि कुछ भी वुफल ऊर्जा हो सकती है। एेसी द&#39यण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 12</strong> * fdlh bysDVªkWu dh E = 0 eV ls vf/d oqQN Hkh oqQy ÅtkZ gks ldrh gSA ,slh n'kkvksa esa bysDVªkWu Lora=k gksrk gSA bl izdkj E = 0 eV ls Åij fp=k 12-7 esa n'kkZ, vuqlkj ÅtkZ voLFkkvksa dk ,d lkarR; gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 12</strong> * किसी इलेक्टªाॅन की म् = 0 मट से अधकि कुछ भी वुफल ऊर्जा हो सकती है। एेसी दशाओं में इलेक्टªाॅन स्वतंत्र होता है। इस प्रकार म् = 0 मट से ऊपर चित्र 12.7 में दर्शाए अनुसार ऊर्जा अवस्थाओं का एक सांतत्य है।</span>
     <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
   </div>
 </div>
 
 <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 12.1</strong> 83Bi ls mRlftZr 5.5 MeV ÅtkZ okys α−d.kksa osQ ,d iqat dks irys Lo.kZ iUuh ij fn"V djk;k x;k] tSlk fd fp=k 12.1 esa n'kkZ;k x;k gSA
+    <span class="diagram-caption-text"><strong>चित्र 12.1</strong> 83झ्प से उत्सर्जित 5.5 डमट ऊर्जा वाले α−कणों के एक पुंज को पतले स्वर्ण पननी पर दष्टि कराया गयाए जैसा कि चित्र 12.1 में दर्शाया गया है। 
 
-<div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_2_hi.png" alt="चित्र 12.2" onclick="openImageModal(this.src, 'चित्र 12.2: fp=k 12.2 xkbxj&eklZMu iz;ksx dk O;oLFkkRed fu:i.kA...')">
-  <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 12.2</strong> fp=k 12.2 xkbxj&eklZMu iz;ksx dk O;oLFkkRed fu:i.kA</span>
+<कपअ बसंेे=ष्दबमतज-कपंहतंउ-बंतकष्>
+ <पउह ेतब=ष्कंजंधकपंहतंउेध12जी_चीलेपबे_बी12_ंजवउे_पिह_12_2_ीपण्चदहष् ंसज=ष्चित्र 12.2ष् वदबसपबा=ष्वचमदप्उंहमडवकंस(जीपेण्ेतबए श्चित्र 12.2ः चित्र 12.2 गाइगर&मार्सडन पzयोग का व्यवस्थात्मक निरूपण। ण्ण्ण्श्)ष्>
+ <कपअ बसंेे=ष्कपंहतंउ-बंचजपवद-इवगष्>
+ <ेचंद बसंेे=ष्कपंहतंउ-बंचजपवद-जमगजष्><ेजतवदह>चित्र 12.2<धेजतवदह> चित्र 12.2 गाइगर&मार्सडन पzयोग का व्यवस्थात्मक निरूपण।</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>
@@ -204,9 +204,9 @@ ZnS परदा
 चित्र 12.2 गाइगर-मार्सडन प्रयोग का व्यवस्थात्मक निरूपण।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_3_hi.png" alt="चित्र 12.3" onclick="openImageModal(this.src, 'चित्र 12.3: fp=k 12.3 esa fdlh fn, le;karjky esa fofHkUu dks.kksa ij izdhf.kZr oqQy ,sYI+kQk...')">
+  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_3_hi.png" alt="चित्र 12.3" onclick="openImageModal(this.src, 'चित्र 12.3ः चित्र 12.3 में किसी दएि समयांतराल में विभिन्न कोणों पर पzकीर्णित वुफल एेल्प्+ाफाण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 12.3</strong> fp=k 12.3 esa fdlh fn, le;karjky esa fofHkUu dks.kksa ij izdhf.kZr oqQy ,sYI+kQk&d.kksa dh la[;k dk izk:fid vkys[k n'kkZ;k x;k gSA bl fp=k esa fn[kk, x, ¯cnq iz;ksx esa izkIr vk¡dM+ksa dks fu:fir djrs gSa vkSj larr oØ lS¼kafrd iwokZuqeku gS tks bl dYiuk ij vk/kfjr gS fd ijek.kq esa ,d lw{e l?ku rFkk /ukosf'kr ukfHkd gSA cgqr ls ,sYI+kQk&d.k Lo.kZ iUuh dks ikj dj tkrs gSaA bldk vFkZ gS muesa la?kêðu ugha gksrkA vkifrr ,sYI+kQk&d.kksa esa ls osQoy 0.14% (yxHkx) dk 1</span>
+    <span class="diagram-caption-text"><strong>चित्र 12.3</strong> चित्र 12.3 में किसी दएि समयांतराल में विभिन्न कोणों पर पzकीर्णित वुफल एेल्प्+ाफा&कणों की संख्या का पzारूपिक आलेख दर्शाया गया है। इस चित्र में दखिाए गए ¯बदु पzयोग में पzाप्त आँकड+ों को निरूपित करते हैं और संतत वØ सै¼ांतिक पूर्वानुमान है जो इस कल्पना पर आधारित है कि परमाणु में एक सू{म सघन तथा धनावेशित नाभिक है। बहुत से एेल्प्+ाफा&कण स्वर्ण पननी को पार कर जाते हैं। इसका अर्थ है उनमें संघêðन नहीं होता। आपतित एेल्प्+ाफा&कणों में से केवल 0.14% (लगभग) का 1</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>
@@ -325,9 +325,9 @@ F=
 ऐल्फ़ा-कण के प्रारंभिक वेग सदिश की नाभिक के केंद्र से अभिलंबीय दूरी है (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_4_hi.png" alt="चित्र 12.4" onclick="openImageModal(this.src, 'चित्र 12.4: ,sYI+kQk&d.k }kjk vuqjsf[kr iz{ksi iFk] la?kêð osQ la?kêð izkpy] b ij fuHkZj djr...')">
+  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_4_hi.png" alt="चित्र 12.4" onclick="openImageModal(this.src, 'चित्र 12.4ः एेल्प्+ाफा&कण द्वारा अनुरेखित पz{ोप पथए संघêð के संघêð पzाचलए इ पर निर्भर करतण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 12.4</strong> ,sYI+kQk&d.k }kjk vuqjsf[kr iz{ksi iFk] la?kêð osQ la?kêð izkpy] b ij fuHkZj djrk gSA la?kêð izkpy ,sYI+kQk&d.k osQ izkjafHkd osx lfn'k dh ukfHkd osQ osaQæ ls vfHkyach; nwjh gS (fp=k 12.4)A fn, x, ,sYI+kQk&d.kksa osQ iqat ds la?kêð izkpy b dk forj.k bl izdkj gS fd iqat fofHkUu fn'kkvksa</span>
+    <span class="diagram-caption-text"><strong>चित्र 12.4</strong> एेल्प्+ाफा&कण द्वारा अनुरेखित पz{ोप पथए संघêð के संघêð पzाचलए इ पर निर्भर करता है। संघêð पzाचल एेल्प्+ाफा&कण के पzारंभिक वेग सदशि की नाभिक के वेंफæ से अभिलंबीय दूरी है (चित्र 12.4)। दएि गए एेल्प्+ाफा&कणों के पुंज के संघêð पzाचल इ का वितरण इस प्रकार है कि पुंज विभिन्न दशिाओं</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>
@@ -612,9 +612,9 @@ e
 पृष्ठभूमि पर दीप्त रेखाएँ होती हैं।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_5_hi.png" alt="चित्र 12.5" onclick="openImageModal(this.src, 'चित्र 12.5: i`&quot;BHkwfe ij nhIr js[kk,¡ gksrh gSaA fp=k 12.5 esa ijek.oh; gkbMªkstu }kjk ...')">
+  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_5_hi.png" alt="चित्र 12.5" onclick="openImageModal(this.src, 'चित्र 12.5ः पृ&ुनवजयझ्भूमि पर दीप्त रेखाएँ होती हैं। चित्र 12.5 में परमाण्वीय हाइडªोजन द्वारा ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 12.5</strong> i`"BHkwfe ij nhIr js[kk,¡ gksrh gSaA fp=k 12.5 esa ijek.oh; gkbMªkstu }kjk mRl£tr LisDVªe n'kkZ;k x;k gSA vr% fdlh inkFkZ osQ mRltZu jSf[kd LisDVªe dk vè;;u] xSl dh igpku djus osQ fy, ¯iQxj¯izV osQ :i esa dk;Z dj ldrk gSA tc 'osr izdk'k fdlh xSl ls gksdj xq”kjrk gS rFkk ge LisDVªksehVj }kjk ikjxr izdk'k dk fo'ys"k.k djrs gSa rks LisDVªe esa oqQN vnhIr js[kk,¡ fn[kkbZ nsrh gSaA ;s vnhIr js[kk,¡ ifj'kq¼r% :i ls mu rjaxnS?;ks± osQ rnuq:ih gksrh gSa tks ml xSl osQ mRltZu jSf[kd LisDVªe esa ikbZ tkrh gSaA ;g ml xSl osQ inkFkZ dk vo'kks"k.k LisDVªe dgykrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 12.5</strong> पृष्झ्भूमि पर दीप्त रेखाएँ होती हैं। चित्र 12.5 में परमाण्वीय हाइडªोजन द्वारा उत्स£जत स्पेक्टªम दर्शाया गया है। अत% किसी पदार्थ के उत्सर्जन रैखिक स्पेक्टªम का अèययनए गैस की पहचान करने के लिए ¯पफगर¯पzट के रूप में कार्य कर सकता है। जब श्वेत पzकाश किसी गैस से होकर गुद्घारता है तथा हम स्पेक्टªोमीटर द्वारा पारगत पzकाश का विश्लेषण करते हैं तो स्पेक्टªम में कुछ अदीप्त रेखाएँ दखिार्इ देती हैं। ये अदीप्त रेखाएँ परिशु¼त% रूप से उन तरंगदैघ्यो्य के तदनुरूपी होती हैं जो उस गैस के उत्सर्जन रैखिक स्पेक्टªम में पार्इ जाती हैं। यह उस गैस के पदार्थ का अवशोषण स्पेक्टªम कहलाता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
   </div>
 </div>
@@ -671,9 +671,9 @@ Pablished
 इलेक्ट्रॉन अंदर की ओर सर्पिल पथ पर चलेगा तथा अंततः नाभिक में गिर
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_6_hi.png" alt="चित्र 12.6" onclick="openImageModal(this.src, 'चित्र 12.6: ijek.kq osQ jnjiQksMZ }kjk izLrkfor ekWMy esa ;g eku fy;k x;k gS fd ijek.kq osQ ...')">
+  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_6_hi.png" alt="चित्र 12.6" onclick="openImageModal(this.src, 'चित्र 12.6ः परमाणु के रदरपफोर्ड द्वारा पzस्तावित माॅडल में यह मान लिया गया है कि परमाणु के ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 12.6</strong> ijek.kq osQ jnjiQksMZ }kjk izLrkfor ekWMy esa ;g eku fy;k x;k gS fd ijek.kq osQ osaQnz esa ukfHkd gksrk gS rFkk ifjØek djrs bysDVªkWu fLFkj gSa Bhd oSls gh tSlk lkSj ifjokj esa gksrk gS ftldk vuqdj.k djosQ bl ekWMy dks fodflr fd;k x;kA rFkkfi] nksuksa fLFkfr;ksa esa oqQN ewyHkwr varj gSA xzgh; ra=k xq#Roh; cy osQ dkj.k c¡/k gS] tcfd ukfHkd&bysDVªkWu ra=k esa vkosf'kr d.k gksus osQ dkj.k] cy osQ owQykWe&fu;e }kjk vU;ksU; fØ;k gksrh gSA ge tkurs gSa fd o`Ùkkdkj iFk esa ?kwerh dksbZ oLrq yxkrkj Roj.k esa gksrh gS] vkSj bl Roj.k dh izo`Qfr vfHkosaQnzh gSA Dykfldh oS|qrpqacdh; fl¼kar osQ vuqlkj dksbZ Rofjr vkosf'kr d.k oS|qrpqacdh; rjaxksa osQ :i esa fofdj.k mRl£tr djrk gSA vr% Rofjr bysDVªkWu dh ÅtkZ fujarj ?kVuh pkfg,A bysDVªkWu vanj dh vksj l£iy iFk ij pysxk rFkk varr% ukfHkd esa fxj tk,xk (fp=k 12.6)A vr% ,slk ijek.kq LFkk;h ugha gks ldrkA blosQ vfrfjDr] Dykfldh oS|qrpqacdh; fl¼kar osQ vuqlkj ifjØeh bysDVªkWuksa }kjk mRl£tr oS|qrpqacdh; rjaxksa dh vko`fÙk ifjØe.k&vko`fÙk osQ cjkcj gksrh gSA tc bysDVªkWu l£iy iFk ij vanj ukfHkd dh vksj vkrs gSa rks muosQ dks.kh; osx vkSj bl izdkj mudh vko`fÙk;k¡ fujarj ifjo£rr gksaxhA iQyLo:i mRl£tr izdk'k dh vko`fÙk Hkh fujarj ifjo£rr gksuh pkfg,A vr% bUgsa ,d larr LisDVªe mRlftZr djuk pkfg, tks okLro esa izsf{kr jSf[kd LisDVªe osQ foijhr gSA Li"Vr;k jnjiQksMZ dk ekWMy osQoy rLohj dk ,d igyw fn[kykrk gS ftldk vFkZ gS fd Dykfldh fopkj ijek.kq lajpuk dh O;k[;k djus osQ fy, i;kZIr ugha gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 12.6</strong> परमाणु के रदरपफोर्ड द्वारा पzस्तावित माॅडल में यह मान लिया गया है कि परमाणु के वेंफदz में नाभिक होता है तथा परिØमा करते इलेक्टªाॅन स्थिर हैं झ्ीक वैसे ही जैसा सौर परिवार में होता है जिसका अनुकरण करके इस माॅडल को विकसित किया गया। तथापिए दोनों स्थितियों में कुछ मूलभूत अंतर है। गzहीय तंत्र गु#त्वीय बल के कारण बँधा हैए जबकि नाभिक&इलेक्टªाॅन तंत्र में आवेशित कण होने के कारणए बल के वूफलाॅम&नियम द्वारा अनयोनय Øिया होती है। हम जानते हैं कि वृÙााकार पथ में घूमती कोर्इ वस्तु लगातार त्वरण में होती हैए और इस त्वरण की पzवृफति अभिवेंफदzी है। क्लासिकी वै।ुतचुंबकीय सि¼ांत के अनुसार कोर्इ त्वरित आवेशित कण वै।ुतचुंबकीय तरंगों के रूप में विकिरण उत्स£जत करता है। अत% त्वरित इलेक्टªाॅन की ऊर्जा निरंतर घटनी चाहिए। इलेक्टªाॅन अंदर की आेर स£पल पथ पर चलेगा तथा अंतत% नाभिक में गिर जाएगा (चित्र 12.6)। अत% एेसा परमाणु स्थायी नहीं हो सकता। इसके अतिरिक्तए क्लासिकी वै।ुतचुंबकीय सि¼ांत के अनुसार परिØमी इलेक्टªाॅनों द्वारा उत्स£जत वै।ुतचुंबकीय तरंगों की आवृÙिा परिØमण&आवृÙिा के बराबर होती है। जब इलेक्टªाॅन स£पल पथ पर अंदर नाभिक की आेर आते हैं तो उनके कोणीय वेग और इस प्रकार उनकी आवृÙिायाँ निरंतर परिव£तत होंगी। पफलस्वरूप उत्स£जत पzकाश की आवृÙिा भी निरंतर परिव£तत होनी चाहिए। अत% इनहें एक संतत स्पेक्टªम उत्सर्जित करना चाहिए जो वास्तव में पzे{िात रैखिक स्पेक्टªम के विपरीत है। स्पष्टतया रदरपफोर्ड का माॅडल केवल तस्वीर का एक पहलू दखिलाता है जिसका अर्थ है कि क्लासिकी विचार परमाणु संरचना की व्याख्या करने के लिए पर्याप्त नहीं है।</span>
     <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
   </div>
 </div>
@@ -870,9 +870,9 @@ n2
 कुल ऊर्जा E (eV)
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_7_hi.png" alt="चित्र 12.7" onclick="openImageModal(this.src, 'चित्र 12.7: fp=k 12.7 gkbMªkstu ijek.kq osQ fy, ÅtkZ&Lrj vkjs[kA dejs osQ rki ij gkbMªkstu...')">
+  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_7_hi.png" alt="चित्र 12.7" onclick="openImageModal(this.src, 'चित्र 12.7ः चित्र 12.7 हाइडªोजन परमाणु के लिए ऊर्जा&स्तर आरेख। कमरे के ताप पर हाइडªोजनण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 12.7</strong> fp=k 12.7 gkbMªkstu ijek.kq osQ fy, ÅtkZ&Lrj vkjs[kA dejs osQ rki ij gkbMªkstu</span>
+    <span class="diagram-caption-text"><strong>चित्र 12.7</strong> चित्र 12.7 हाइडªोजन परमाणु के लिए ऊर्जा&स्तर आरेख। कमरे के ताप पर हाइडªोजन</span>
     <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
   </div>
 </div>
@@ -1007,9 +1007,9 @@ n
 2π r = ηλ, n = 1, 2, 3...
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_8_hi.png" alt="चित्र 12.8" onclick="openImageModal(this.src, 'चित्र 12.8: fp=k 12.8 o`Ùkkdkj d{kk esa ,d vizxkeh...')">
+  <img src="data/diagrams/12th_physics_ch12_atoms_fig_12_8_hi.png" alt="चित्र 12.8" onclick="openImageModal(this.src, 'चित्र 12.8ः चित्र 12.8 वृÙााकार क{ाा में एक अपzगामीण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 12.8</strong> fp=k 12.8 o`Ùkkdkj d{kk esa ,d vizxkeh</span>
+    <span class="diagram-caption-text"><strong>चित्र 12.8</strong> चित्र 12.8 वृÙााकार क{ाा में एक अपzगामी</span>
     <button class="icon-btn" onclick="goToPdfPage(12)">📄 View in PDF (Page 12)</button>
   </div>
 </div>

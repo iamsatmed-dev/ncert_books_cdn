@@ -78,9 +78,9 @@ not
 को संयुक्त रूप से संगठित पदार्थ कहते हैं (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_biology_ch15_body_fluids_and_circulation_fig_15_hi.png" alt="चित्र 15" onclick="openImageModal(this.src, 'चित्र 15: yky #f/j df.kdk (bfjFkzkslkbV)]&#39;osrk.kq (Y;qdkslkbV) rFkk iV~fVdk.kq (IysVys...')">
+  <img src="data/diagrams/11th_biology_ch15_body_fluids_and_circulation_fig_15_hi.png" alt="चित्र 15" onclick="openImageModal(this.src, 'चित्र 15ः लाल #धरि कणिका (इरिथzोसाइट), &#39यवेताणु (ल्युकोसाइट) तथा पट~टिकाणु (प्लेटलेण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 15</strong> yky #f/j df.kdk (bfjFkzkslkbV)]'osrk.kq (Y;qdkslkbV) rFkk iV~fVdk.kq (IysVysV~l) dks la;qDr :i ls laxfBr inkFkZ dgrs gSa (fp=k 15-1) vkSj ;s jDr osQ yxHkx 45 izfr'kr Hkkx cukrs gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 15</strong> लाल #धरि कणिका (इरिथzोसाइट)ए श्वेताणु (ल्युकोसाइट) तथा पट~टिकाणु (प्लेटलेट~स) को संयुक्त रूप से संगझ्ति पदार्थ कहते हैं (चित्र 15.1) और ये रक्त के लगभग 45 पzतिशत भाग बनाते हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>

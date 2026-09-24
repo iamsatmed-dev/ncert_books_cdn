@@ -704,15 +704,15 @@ X
   <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_1_hi.png" alt="
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_hi.png" alt="चित्र 4" onclick="openImageModal(this.src, 'चित्र 4: fp=k 4-2µ laØe.k rRoksa dh d.ku ,UFkSYih dh izo`fÙk;k¡ fp=k 4-1µ laØe.k rRoksa o...')">
+  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_hi.png" alt="चित्र 4" onclick="openImageModal(this.src, 'चित्र 4ः चित्र 4.2ष्ट संØमण तत्वों की कणन एनथैल्पी की पzवृÙिायाँ चित्र 4.1ष्ट संØमण तत्वों वण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4</strong> fp=k 4-2µ laØe.k rRoksa dh d.ku ,UFkSYih dh izo`fÙk;k¡ fp=k 4-1µ laØe.k rRoksa osQ xyukadksa dh izo`fÙk;k¡</span>
+    <span class="diagram-caption-text"><strong>चित्र 4</strong> चित्र 4.2ष्ट संØमण तत्वों की कणन एनथैल्पी की पzवृÙिायाँ चित्र 4.1ष्ट संØमण तत्वों के गलनांकों की पzवृÙिायाँ</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
 
 <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.1</strong> laØe.k /krq,a (f”kad] dSMfe;e rFkk eD;wZjh osQ vioknksa osQ lkFk) vfrdBksj rFkk vYi ok"i'khy gksrh gSaA buosQ xyukad o DoFkukad mPp gksrs gSaA fp=k 4.1 esa 3d, 4d rFkk 5d Js.kh dh laØe.k /krqvksa osQ xyukad fn, x, gSaA mPp xyukad dk dkj.k varjkijekf.od èkkfRod caèku esa ns bysDVªkWu osQ vfrfjDr (n–1)d d{kdksa osQ vfèkd bysDVªkWuksa dh Hkkxhnkjh gSA osQoy Mn rFkk Tc osQ vioknksa dks NksM+dj fdlh Hkh Js.kh esa /krqvksa osQ xyukad d</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.1</strong> संØमण धातुएं (द्घिांकए कैडमियम तथा मक्र्यूरी के अपवादों के साथ) अतिकझ्ोर तथा अल्प वाष्पशील होती हैं। इनके गलनांक व क्वथनांक उच्च होते हैं। चित्र 4.1 में 3कए 4क तथा 5क Jेणी की संØमण धातुओं के गलनांक दएि गए हैं। उच्च गलनांक का कारण अंतरापरमाण्विक èाात्विक बंèान में दे इलेक्टªाॅन के अतिरिक्त (द–1)क क{ाकों के अèिाक इलेक्टªाॅनों की भागीदारी है। केवल डद तथा ज्ब के अपवादों को छोड+कर किसी भी Jेणी में धातुओं के गलनांक क</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -724,9 +724,9 @@ X
 में नियमित रूप से कमी आती है। इनकी कणन एन्थैल्पी (enthalpy of atomisation)
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_2_hi.png" alt="चित्र 4.2" onclick="openImageModal(this.src, 'चित्र 4.2: 5 foU;kl ij vfèkdre gksrs gSa rFkk c<+rs gq, ijek.kq Øekadksa osQ lkFk xyukadksa...')">
+  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_2_hi.png" alt="चित्र 4.2" onclick="openImageModal(this.src, 'चित्र 4.2ः 5 विनयास पर अèिाकतम होते हैं तथा ब<+ते हुए परमाणु Øमांकों के साथ गलनांकोंण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.2</strong> 5 foU;kl ij vfèkdre gksrs gSa rFkk c<+rs gq, ijek.kq Øekadksa osQ lkFk xyukadksa esa fu;fer :i ls deh vkrh gSA budh d.ku ,UFkSYih (enthalpy of atomisation) osQ eku mPp gksrs gSa tSlk fd fp=k 4.2 esa n'kkZ;k x;k gSA izR;sd Js.kh osQ yxHkx eè; esa mPpre eku bl rF; dks n'kkZrk gS fd izcy varjkijekf.od vU;ksU;fØ;k osQ fy, izfr</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.2</strong> 5 विनयास पर अèिाकतम होते हैं तथा ब<+ते हुए परमाणु Øमांकों के साथ गलनांकों में नियमित रूप से कमी आती है। इनकी कणन एनथैल्पी (मदजींसचल व िंजवउपेंजपवद) के मान उच्च होते हैं जैसा कि चित्र 4.2 में दर्शाया गया है। पzत्येक Jेणी के लगभग मèय में उच्चतम मान इस तथ्य को दर्शाता है कि पzबल अंतरापरमाण्विक अनयोनयØिया के लिए पzति</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -1465,9 +1465,9 @@ not to
 ### 4.3.5 M2+/M मानक इलैक्ट्रोड
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_4_hi.png" alt="चित्र 4.4" onclick="openImageModal(this.src, 'चित्र 4.4: V osQ izsf{kr ekuksa osQ eè; rqyuk dks fp=k 4.4 esa n&#39;kkZ;k x;k gSA...')">
+  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_4_hi.png" alt="चित्र 4.4" onclick="openImageModal(this.src, 'चित्र 4.4ः ट के पzे{िात मानों के मèय तुलना को चित्र 4.4 में द&#39र्यााया गया है। ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.4</strong> V osQ izsf{kr ekuksa osQ eè; rqyuk dks fp=k 4.4 esa n'kkZ;k x;k gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.4</strong> ट के पzे{िात मानों के मèय तुलना को चित्र 4.4 में दर्शाया गया है।</span>
     <button class="icon-btn" onclick="goToPdfPage(9)">📄 View in PDF (Page 9)</button>
   </div>
 </div>
@@ -2230,9 +2230,9 @@ Zn2+
 ### 4.3.10 रंगीन आयनों का बनना
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_5_hi.png" alt="चित्र 4.5" onclick="openImageModal(this.src, 'चित्र 4.5: okys d-d{kd esa gksrk gS rks mÙkstu ÅtkZ (energy of excitation) dk eku vo&#39;kk...')">
+  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_5_hi.png" alt="चित्र 4.5" onclick="openImageModal(this.src, 'चित्र 4.5ः वाले क-क{ाक में होता है तो उÙोजन ऊर्जा (मदमतहल व िमगबपजंजपवद) का मान अव&#39यााण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.5</strong> okys d-d{kd esa gksrk gS rks mÙkstu ÅtkZ (energy of excitation) dk eku vo'kksf"kr izdk'k dh vko`fÙk osQ laxr gksrk gS (,dd 5)A lkekU;r% ;g vko`fÙk] n`'; iz{ks=k (visible region) esa fLFkr gksrh gSA izsf{kr jax] vo'kksf"kr izdk'k dk iwjd jax gksrk gSA vo'kksf"kr izdk'k osQ vko`fÙk dk fu/kZj.k fyxUM (Ligand) osQ LoHkko osQ vk/kj ij fd;k tkrk gSA lkj.kh 4-8 esa vk;uksa osQ tyh; foy;u esa izsf{kr jaxksa dks Øec¼ fd;k x;k gS] ;gk¡ ty osQ v.kq fyxUM dk dk;Z djrs gSaA fp=k 4.5 esa oqQN d-CykWd rRoksa osQ jaxhu foy;uksa dks n'kkZ;k x;k gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.5</strong> वाले क-क{ाक में होता है तो उÙोजन ऊर्जा (मदमतहल व िमगबपजंजपवद) का मान अवशोषित पzकाश की आवृÙिा के संगत होता है (एकक 5)। सामानयत% यह आवृÙिाए दृश्य पzक्षेत्र (अपेपइसम तमहपवद) में स्थित होती है। पzे{िात रंगए अवशोषित पzकाश का पूरक रंग होता है। अवशोषित पzकाश के आवृÙिा का निर्धारण लिगनड (स्पहंदक) के स्वभाव के आधार पर किया जाता है। सारणी 4-8 में आयनों के जलीय विलयन में पzे{िात रंगों को Øमब¼ किया गया हैए यहाँ जल के अणु लिगनड का कार्य करते हैं। चित्र 4.5 में कुछ क-ऋलाॅक तत्वों के रंगीन विलयनों को दर्शाया गया है।</span>
     <button class="icon-btn" onclick="goToPdfPage(14)">📄 View in PDF (Page 14)</button>
   </div>
 </div>
@@ -3289,9 +3289,9 @@ Sm³+
 नियमित नहीं है जैसा कि M³⁺ आयनों में नियमित रूप से देखने
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_6_hi.png" alt="चित्र 4.6" onclick="openImageModal(this.src, 'चित्र 4.6: 3+ vk;uksa esa fu;fer :i ls ns[kus dks feyrk gS] (fp=k 4.6)A ;g vkoaqQpu Bhd oSl...')">
+  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_6_hi.png" alt="चित्र 4.6" onclick="openImageModal(this.src, 'चित्र 4.6ः 3+ आयनों में नियमित रूप से देखने को मिलता हैए (चित्र 4.6)। यह आवंुफचन झ्ीक वैसण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.6</strong> 3+ vk;uksa esa fu;fer :i ls ns[kus dks feyrk gS] (fp=k 4.6)A ;g vkoaqQpu Bhd oSlk gh gS tSlkfd lkekU; laØe.k Jsf.k;ksa esa ik;k x;k gS rFkk dkj.k Hkh leku gS] vFkkZr~ ,d gh midks'k esa ,d bysDVªkWu dk nwljs bysDVªkWu }kjk viw.kZ ifjj{k.k izHkko (imperfact shielding</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.6</strong> 3+ आयनों में नियमित रूप से देखने को मिलता हैए (चित्र 4.6)। यह आवंुफचन झ्ीक वैसा ही है जैसाकि सामानय संØमण Jेणियों में पाया गया है तथा कारण भी समान हैए अर्थात~ एक ही उपकोश में एक इलेक्टªाॅन का दूसरे इलेक्टªाॅन द्वारा अपूर्ण परिर{ाण पzभाव (पउचमतंिबज ेीपमसकपदह</span>
     <button class="icon-btn" onclick="goToPdfPage(21)">📄 View in PDF (Page 21)</button>
   </div>
 </div>
@@ -3475,9 +3475,9 @@ LnX बनाती हैं। ये ऑक्साइड M₂O₃ तथा
 क्षारकीय होते हैं। इनकी सामान्य अभिक्रियाएं
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_7_hi.png" alt="चित्र 4.7" onclick="openImageModal(this.src, 'चित्र 4.7: Ln3C, Ln2C3 rFkk LnC2 curs gSaA ;g ruq vEyksa ls gkbMªkstu xSl eqDr djrh gSa rFk...')">
+  <img src="data/diagrams/12th_chemistry_ch04_d_and_f_block_elements_fig_4_7_hi.png" alt="चित्र 4.7" onclick="openImageModal(this.src, 'चित्र 4.7ः स्द3ऋए स्द2ऋ3 तथा स्दऋ2 बनते हैं। यह तनु अम्लों से हाइडªोजन गैस मुक्त करती हैं तथण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 4.7</strong> Ln3C, Ln2C3 rFkk LnC2 curs gSaA ;g ruq vEyksa ls gkbMªkstu xSl eqDr djrh gSa rFkk gSykstu osQ okrkoj.k esa tyus ij gSykbM cukrh gSaA ;s vkWDlkbM M2O3 rFkk gkbMªkWDlkbM M(OH)3 cukrh gSaA gkbMªkWDlkbM fuf'pr ;kSfxd gSa u fd osQoy gkbMªsVsM vkWDlkbMA ;s {kkjh; e`nk /krqvksa osQ vkWDlkbM rFkk gkbMªkWDlkbM dh Hkk¡fr {kkjdh; gksrs gSaA budh lkekU; vfHkfØ;k,a fp=k 4.7 esa izn£'kr dh xbZ gSaA ySUFksukW;Mks dk loksZÙke mi;ksx IysV rFkk ikbi cukus osQ fy, feJkrq bLikr osQ mRiknu esa gSA ,d lqizfl¼ feJkrq fe'k èkkrq</span>
+    <span class="diagram-caption-text"><strong>चित्र 4.7</strong> स्द3ऋए स्द2ऋ3 तथा स्दऋ2 बनते हैं। यह तनु अम्लों से हाइडªोजन गैस मुक्त करती हैं तथा हैलोजन के वातावरण में जलने पर हैलाइड बनाती हैं। ये ऑक्साइड ड2व्3 तथा हाइडªाॅक्साइड ड(व्भ्)3 बनाती हैं। हाइडªाॅक्साइड निश्चित यौगिक हैं न कि केवल हाइडªेटेड ऑक्साइड। ये {ाारीय मृदा धातुओं के ऑक्साइड तथा हाइडªाॅक्साइड की भाँति {ाारकीय होते हैं। इनकी सामानय अभिØियाएं चित्र 4.7 में पzद£शत की गर्इ हैं। लैनथेनाॅयडो का सर्वोÙाम उपयोग प्लेट तथा पाइप बनाने के लिए मिJातु इस्पात के उत्पादन में है। एक सुपzसि¼ मिJातु मिश èाातु</span>
     <button class="icon-btn" onclick="goToPdfPage(22)">📄 View in PDF (Page 22)</button>
   </div>
 </div>

@@ -362,9 +362,9 @@ Cl2(g) + 2e → 2 Cl(g)
 ## 📄 Page 4
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_chemistry_ch07_redox_reactions_fig_7_hi.png" alt="चित्र 7" onclick="openImageModal(this.src, 'चित्र 7: tSlk fp=k 7-1 esa n&#39;kkZ;k x;k gS] ¯”kd èkkrq dh ,d iV~Vh dks ,d ?kaVs osQ fy...')">
+  <img src="data/diagrams/11th_chemistry_ch07_redox_reactions_fig_7_hi.png" alt="चित्र 7" onclick="openImageModal(this.src, 'चित्र 7ः जैसा चित्र 7.1 में द&#39र्यााया गया हैए ¯द्घाक èाातु की एक पट~टी को एक घंटे के लिण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7</strong> tSlk fp=k 7-1 esa n'kkZ;k x;k gS] ¯”kd èkkrq dh ,d iV~Vh dks ,d ?kaVs osQ fy, dkWij ukbVªsV osQ tyh; foy;u esa j[kk x;k gSA vki ns[ksaxs fd èkkrq dh iV~Vh ij dkWij èkkrq dh yky jax dh ijr te tkrh gS rFkk foy;u dk uhyk jax xk;c gks tkrk gSA f”kd vk;u Zn2+ dk mRikn osQ :i esa cuuk Cu</span>
+    <span class="diagram-caption-text"><strong>चित्र 7</strong> जैसा चित्र 7.1 में दर्शाया गया हैए ¯द्घाक èाातु की एक पट~टी को एक घंटे के लिए काॅपर नाइटªेट के जलीय विलयन में रखा गया है। आप देखेंगे कि èाातु की पट~टी पर काॅपर èाातु की लाल रंग की परत जम जाती है तथा विलयन का नीला रंग गायब हो जाता है। द्घिाक आयनर् द2+ का उत्पाद के रूप में बनना ऋन</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>

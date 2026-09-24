@@ -223,9 +223,9 @@ PO, SO
 हाइड्रोजन (अमीनो अम्ल-ग्लाइसीन), मेथिल समूह (ऐलेनीन), हाइड्रोक्सीमेथिल (सीरिन)
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_biology_ch09_biomolecules_fig_9_hi.png" alt="चित्र 9" onclick="openImageModal(this.src, 'चित्र 9: miyC/rk osQ vk/kj ij ;s 21 izdkj osQ gksrs gSaA izksVhu osQ vehuks vEyksa esa R ...')">
+  <img src="data/diagrams/11th_biology_ch09_biomolecules_fig_9_hi.png" alt="चित्र 9" onclick="openImageModal(this.src, 'चित्र 9ः उपलऋधता के आधार पर ये 21 प्रकार के होते हैं। पzोटीन के अमीनो अम्लों में त् ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 9</strong> miyC/rk osQ vk/kj ij ;s 21 izdkj osQ gksrs gSaA izksVhu osQ vehuks vEyksa esa R lewg] gkbMªkstu (vehuks vEy&Xykblhu)] esfFky lewg (,sysuhu)] gkbMªksDlhesfFky (lhfju) vkfn gks ldrs gSaA 21 esa ls 3 dks fp=k 9-1 esa n'kkZ;k x;k gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 9</strong> उपलऋधता के आधार पर ये 21 प्रकार के होते हैं। पzोटीन के अमीनो अम्लों में त् समूहए हाइडªोजन (अमीनो अम्ल&ग्लाइसीन)ए मेथिल समूह (एेलेनीन)ए हाइडªोक्सीमेथिल (सीरिन) आद िहो सकते हैं। 21 में से 3 को चित्र 9.1 में दर्शाया गया है।</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>

@@ -416,9 +416,9 @@ arrangement) को समन्वय बहुफलक कहते हैं
 चतुष्फलकीय है तथा [PtCl4]² वर्ग समतलीय है।
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch05_coordination_compounds_fig_5_hi.png" alt="चित्र 5" onclick="openImageModal(this.src, 'चित्र 5: 2– oxZ leryh; gSA fp=k 5-1 esa fofHkUu leUo; cgqiQydksa dh vko`Qfr;k¡ n&#39;kkZ;...')">
+  <img src="data/diagrams/12th_chemistry_ch05_coordination_compounds_fig_5_hi.png" alt="चित्र 5" onclick="openImageModal(this.src, 'चित्र 5ः 2– वर्ग समतलीय है। चित्र 5.1 में विभिन्न समनवय बहुपफलकों की आवृफतियाँ द&#39र्याायण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 5</strong> 2– oxZ leryh; gSA fp=k 5-1 esa fofHkUu leUo; cgqiQydksa dh vko`Qfr;k¡ n'kkZ;h xbZ gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 5</strong> 2– वर्ग समतलीय है। चित्र 5.1 में विभिन्न समनवय बहुपफलकों की आवृफतियाँ दर्शायी गर्इ हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>

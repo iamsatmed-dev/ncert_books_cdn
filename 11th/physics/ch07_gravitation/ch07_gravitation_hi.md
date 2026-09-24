@@ -115,9 +115,9 @@ not t
 वक्र होता है, जिसे बहुत सरलता से इस प्रकार खींचा जा
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_hi.png" alt="चित्र 7" onclick="openImageModal(this.src, 'चित्र 7: 1. d{kkvksa dk fu;e % lHkh xzg nh?kZo`Ùkh; d{kkvksa esa xfr djrs gSa rFkk lw;Z b...')">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_hi.png" alt="चित्र 7" onclick="openImageModal(this.src, 'चित्र 7ः 1.् क{ााओं का नियम % सभी गzह दीर्घवृÙाीय क{ााओं में गति करते हैं तथा सूर्य इण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7</strong> 1. d{kkvksa dk fu;e % lHkh xzg nh?kZo`Ùkh; d{kkvksa esa xfr djrs gSa rFkk lw;Z bldh] ,d ukfHk ij fLFkr gksrk gS (fp=k 7-1a)A</span>
+    <span class="diagram-caption-text"><strong>चित्र 7</strong> 1.् क{ााओं का नियम % सभी गzह दीर्घवृÙाीय क{ााओं में गति करते हैं तथा सूर्य इसकीए एक नाभि पर स्थित होता है (चित्र 7.1ं)।</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>
@@ -133,9 +133,9 @@ NCERT
 करते हैं तथा सूर्य इसकी, एक नाभि पर स्थित होता है
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_1_hi.png" alt="चित्र 7.1" onclick="openImageModal(this.src, 'चित्र 7.1: fp=k 7.1(a) lw;Z osQ ifjr% fdlh xzg }kjk vuqjsf[kr nh?kZo`ÙkA lw;Z...')">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_1_hi.png" alt="चित्र 7.1" onclick="openImageModal(this.src, 'चित्र 7.1ः चित्र 7.1(ं) सूर्य के परित% किसी गzह द्वारा अनुरेखित दीर्घवृÙा। सूर्यण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.1</strong> fp=k 7.1(a) lw;Z osQ ifjr% fdlh xzg }kjk vuqjsf[kr nh?kZo`ÙkA lw;Z</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.1</strong> चित्र 7.1(ं) सूर्य के परित% किसी गzह द्वारा अनुरेखित दीर्घवृÙा। सूर्य</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>
@@ -167,9 +167,9 @@ NCERT
 रेखा समान समय अंतरालों में समान क्षेत्रफल प्रसर्प करती है
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_2_hi.png" alt="चित्र 7.2" onclick="openImageModal(this.src, 'चित्र 7.2: fp=k 7.2 xzg P lw;Z osQ ifjr% nh?kZo`Ùkh; d{kk esa xfr djrk gSA...')">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_2_hi.png" alt="चित्र 7.2" onclick="openImageModal(this.src, 'चित्र 7.2ः चित्र 7.2 गzह च् सूर्य के परित% दीर्घवृÙाीय क{ाा में गति करता है। ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.2</strong> fp=k 7.2 xzg P lw;Z osQ ifjr% nh?kZo`Ùkh; d{kk esa xfr djrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.2</strong> चित्र 7.2 गzह च् सूर्य के परित% दीर्घवृÙाीय क{ाा में गति करता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(3)">📄 View in PDF (Page 3)</button>
   </div>
 </div>
@@ -442,9 +442,9 @@ r³
 एकांक सदिश तथा r = r₂ - r₁ है जैसा कि
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_3_hi.png" alt="चित्र 7.3" onclick="openImageModal(this.src, 'चित्र 7.3: ;gk¡ G lkoZf=kd xq#Roh; fu;rkad] ɵr m1 ls m2 rd ,dkad lfn&#39;k rFkk r = r2 – r1...')">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_3_hi.png" alt="चित्र 7.3" onclick="openImageModal(this.src, 'चित्र 7ण्3ः यहाँ G सार्व=िाक गु#त्वीय नियतांक, ɵत उ1 से उ2 तक एकांक सद&ि#39या तथा त = त2 – त1ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.3</strong> ;gk¡ G lkoZf=kd xq#Roh; fu;rkad] ɵr m1 ls m2 rd ,dkad lfn'k rFkk r = r2 – r1 gS tSlk fd fp=k 7.3 esa n'kkZ;k x;k gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.3</strong> यहाँ G सार्व=िाक गु#त्वीय नियतांकए ɵत उ1 से उ2 तक एकांक सदशि तथा त = त2 – त1 है जैसा कि चित्र 7.3 में दर्शाया गया है।</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -526,9 +526,9 @@ F12 = -F21
 गुरुत्वाकर्षण बलों के सदिश योग के बराबर होता है जैसा कि
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_4_hi.png" alt="चित्र 7.4" onclick="openImageModal(this.src, 'चित्र 7.4: F12 = –F21 lehdj.k (7.5) dk vuqiz;ksx] vius ikl miyC/ fi.Mksa ij dj ldus ls iwoZ...')">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_4_hi.png" alt="चित्र 7.4" onclick="openImageModal(this.src, 'चित्र 7ण्4ः थ्12 = –थ्21 समीकरण (7ण्5) का अनुपzयोग, अपने पास उपलऋध पिण्डों पर कर सकने से पूर्वण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.4</strong> F12 = –F21 lehdj.k (7.5) dk vuqiz;ksx] vius ikl miyC/ fi.Mksa ij dj ldus ls iwoZ gesa lko/ku jguk gksxk] D;ksafd ;g fu;e fcUnq nzO;ekuksa ls lacaf/r gS] tcfd gesa foLrkfjr fi.Mksa] ftudk ifjfer vkeki gksrk gS] ij fopkj djuk gSA ;fn gekjs ikl fcUnq nzO;ekuksa dk dksbZ lap;u gS] rks muesa ls fdlh ,d ij cy vU; fcUnq nzO;ekuksa osQ dkj.k xq#Rokd"kZ.k cyksa osQ lfn'k ;ksx osQ cjkcj gksrk gS tSlk fd fp=k 7.4 esa n'kkZ;k x;k gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.4</strong> थ्12 = –थ्21 समीकरण (7.5) का अनुपzयोगए अपने पास उपलऋध पिण्डों पर कर सकने से पूर्व हमें सावधान रहना होगाए क्योंकि यह नियम बिनदु दzव्यमानों से संबंधति हैए जबकि हमें विस्तारित पिण्डोंए जिनका परिमित आमाप होता हैए पर विचार करना है। यद िहमारे पास बिनदु दzव्यमानों का कोर्इ संचयन हैए तो उनमें से किसी एक पर बल अनय बिनदु दzव्यमानों के कारण गु#त्वाकर्षण बलों के सदशि योग के बराबर होता है जैसा कि चित्र 7.4 में दर्शाया गया है।</span>
     <button class="icon-btn" onclick="goToPdfPage(4)">📄 View in PDF (Page 4)</button>
   </div>
 </div>
@@ -609,9 +609,9 @@ T31
 (b) यदि शीर्ष A पर रखे द्रव्यमान को दो गुना कर दिया
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_5_hi.png" alt="चित्र 7.5" onclick="openImageModal(this.src, 'चित्र 7.5: AG = BG = CG = 1m yhft, (nsf[k, fp=k 7.5)...')">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_5_hi.png" alt="चित्र 7.5" onclick="openImageModal(this.src, 'चित्र 7.5ः । G = झ्G = ऋG = 1उ लीजिए (देखिए चित्र 7.5)ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.5</strong> AG = BG = CG = 1m yhft, (nsf[k, fp=k 7.5)</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.5</strong> । G = झ्G = ऋG = 1उ लीजिए (देखिए चित्र 7.5)</span>
     <button class="icon-btn" onclick="goToPdfPage(5)">📄 View in PDF (Page 5)</button>
   </div>
 </div>
@@ -730,9 +730,9 @@ GC
 कैवेन्डिश ने 1797 में किया था। उनके द्वारा उपयोग किए गए
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_6_hi.png" alt="चित्र 7.6" onclick="openImageModal(this.src, 'चित्र 7.6: 7.4 xq#Roh; fu;rkad xq#Rokd&quot;kZ.k osQ lkoZf=kd fu;e esa iz;qDr xq#Roh; fLFkj...')">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_6_hi.png" alt="चित्र 7.6" onclick="openImageModal(this.src, 'चित्र 7ण्6ः 7ण्4 गु#त्वीय नियतांक गु#त्वाक&ुनवजर्याण के सार्व=िाक नियम में पzयुक्त गु#त्वीय स्थिरण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.6</strong> 7.4 xq#Roh; fu;rkad xq#Rokd"kZ.k osQ lkoZf=kd fu;e esa iz;qDr xq#Roh; fLFkjkad G osQ eku dks izk;ksfxd vk/kj ij Kkr fd;k tk ldrk gS rFkk bl izdkj osQ iz;ksx dks loZizFke vaxzst oSKkfud gsujh oSQosfUM'k us 1797 esa fd;k FkkA muosQ }kjk mi;ksx fd, x, midj.k dks O;oLFkk fp=k 7.6 esa n'kkZ;k x;k gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.6</strong> 7.4 गु#त्वीय नियतांक गु#त्वाकर्षण के सार्व=िाक नियम में पzयुक्त गु#त्वीय स्थिरांक G के मान को पzायोगिक आधार पर Kात किया जा सकता है तथा इस प्रकार के पzयोग को सर्वपzथम अंगzेज वैKानिक हेनरी वैफवेनडिश ने 1797 में किया था। उनके द्वारा उपयोग किए गए उपकरण को व्यवस्था चित्र 7.6 में दर्शाया गया है।</span>
     <button class="icon-btn" onclick="goToPdfPage(6)">📄 View in PDF (Page 6)</button>
   </div>
 </div>
@@ -848,9 +848,9 @@ G = 6.67x10-11 N m²/kg2
 पृथ्वी के भीतर स्थित बिन्दुओं के लिए स्थिति भिन्न होती
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_7_hi.png" alt="चित्र 7.7" onclick="openImageModal(this.src, 'चित्र 7.7: i`Foh osQ Hkhrj fLFkr fcUnqvksa osQ fy, fLFkfr fHkUu gksrh gSA bls fp=k 7.7 esa ...')">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_7_hi.png" alt="चित्र 7.7" onclick="openImageModal(this.src, 'चित्र 7.7ः पृथ्वी के भीतर स्थित बिनदुओं के लिए स्थिति भिनन होती है। इसे चित्र 7.7 में ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.7</strong> i`Foh osQ Hkhrj fLFkr fcUnqvksa osQ fy, fLFkfr fHkUu gksrh gSA bls fp=k 7.7 esa Li"V fd;k x;k gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.7</strong> पृथ्वी के भीतर स्थित बिनदुओं के लिए स्थिति भिनन होती है। इसे चित्र 7.7 में स्पष्ट किया गया है।</span>
     <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
   </div>
 </div>
@@ -950,9 +950,9 @@ g तथा R के ज्ञान को सम्मिलित करन�
 किसी बिन्दु द्रव्यमान m पर विचार कीजिए (
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_8_hi.png" alt="चित्र 7.8" onclick="openImageModal(this.src, 'चित्र 7.8: fp=k esa n&#39;kkZ, vuqlkj i`Foh osQ i`&quot;B ls Å¡pkbZ h ij fLFkr fdlh fcUnq n...')">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_8_hi.png" alt="चित्र 7.8" onclick="openImageModal(this.src, 'चित्र 7.8ः चित्र में द&#39र्यााए अनुसार पृथ्वी के पृ&ुनवजयझ् से ऊँचार्इ ी पर स्थित किसी बिनदु दण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.8</strong> fp=k esa n'kkZ, vuqlkj i`Foh osQ i`"B ls Å¡pkbZ h ij fLFkr fdlh fcUnq nzO;eku m ij fopkj dhft, (fp=k 7.8(a))A</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.8</strong> चित्र में दर्शाए अनुसार पृथ्वी के पृष्झ् से ऊँचार्इ ी पर स्थित किसी बिनदु दzव्यमान उ पर विचार कीजिए (चित्र 7.8(ं))।</span>
     <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
   </div>
 </div>
@@ -1522,9 +1522,9 @@ RE
 द्रव्यमान के दो एकसमान ठोस गोले इस प्रकार रखे हैं कि
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_10_hi.png" alt="चित्र 7.10" onclick="openImageModal(this.src, 'चित्र 7.10: fp=k 7.10...')">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_10_hi.png" alt="चित्र 7.10" onclick="openImageModal(this.src, 'चित्र 7.10ः चित्र 7.10.्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.10</strong> fp=k 7.10</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.10</strong> चित्र 7.10</span>
     <button class="icon-btn" onclick="goToPdfPage(11)">📄 View in PDF (Page 11)</button>
   </div>
 </div>
@@ -2446,9 +2446,9 @@ r
 7.10 एकसमान द्रव्यमान घनत्व की अर्धगोलीय खोलों द्वारा परिभाषित ढोल के पृष्ठ के केन्द्र पर गुरुत्वीय तीव्रता की दिशा
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_11_hi.png" alt="चित्र 7.11" onclick="openImageModal(this.src, 'चित्र 7.11: 7.9 fuEufyf[kr esa ls dkSu ls y{k.k vUrfj{k esa vUrfj{k ;k=kh osQ fy, nq[k%nk;h ...')">
+  <img src="data/diagrams/11th_physics_ch07_gravitation_fig_7_11_hi.png" alt="चित्र 7.11" onclick="openImageModal(this.src, 'चित्र 7ण्11ः 7ण्9 निम्नलिखित में से कौन से ल{ाण अनतरि{ा में अनतरि{ा या=ाी के लिए दुख%दायी ण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7.11</strong> 7.9 fuEufyf[kr esa ls dkSu ls y{k.k vUrfj{k esa vUrfj{k ;k=kh osQ fy, nq[k%nk;h gks ldrs gSa\ (a) iSjksa esa lwtu] (b) psgjs ij lwtu] (c) fljnnZ] (d) fno~QfoU;kl leL;kA 7.10 ,dleku nzO;eku ?kuRo dh v/Zxksyh; [kksyksa }kjk ifjHkkf"kr <ksy osQ i`"B osQ osQUnz ij xq#Roh; rhozrk dh fn'kk [nsf[k, fp=k 7.11] (i) a, (ii) b, (iii) c, (iv) 0 esa fdl rhj }kjk n'kkZ;h tk,xh\</span>
+    <span class="diagram-caption-text"><strong>चित्र 7.11</strong> 7.9 निम्नलिखित में से कौन से ल{ाण अनतरि{ा में अनतरि{ा या=ाी के लिए दुख%दायी हो सकते हैं। (ं) पैरों में सूजनए (इ) चेहरे पर सूजनए (ब) सिरदर्दए (क) दवि~फविनयास समस्या। 7.10 एकसमान दzव्यमान घनत्व की अर्धगोलीय खोलों द्वारा परिभाषित <ोल के पृष्झ् के केनदz पर गु#त्वीय तीवzता की दशिा ख्देखिए चित्र 7.11ए (प) ंए (पप) इए (पपप) बए (पअ) 0 में किस तीर द्वारा दर्शायी जाएगी।</span>
     <button class="icon-btn" onclick="goToPdfPage(18)">📄 View in PDF (Page 18)</button>
   </div>
 </div>

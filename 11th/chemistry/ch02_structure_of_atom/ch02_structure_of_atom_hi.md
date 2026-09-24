@@ -122,9 +122,9 @@ shed
 नलिकाएँ कहा जाता है, में विद्युत्-विसर्जन का अध्ययन आरंभ
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_chemistry_ch02_structure_of_atom_fig_2_hi.png" alt="चित्र 2" onclick="openImageModal(this.src, 'चित्र 2: 1850 ds eè; esa vusd oSKkfud] fo&#39;ks&quot;kdj iSQjkMs us vkaf&#39;kd :i ls fu...')">
+  <img src="data/diagrams/11th_chemistry_ch02_structure_of_atom_fig_2_hi.png" alt="चित्र 2" onclick="openImageModal(this.src, 'चित्र 2ः 1850 के मèय में अनेक वैKानिक, वि&#39यो&ुनवजयाकर पैफराडे ने आं&ि#39याक रूप से निण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 2</strong> 1850 ds eè; esa vusd oSKkfud] fo'ks"kdj iSQjkMs us vkaf'kd :i ls fuokZfrr ufydkvksa] ftUgsa oSQFkksM fdj.k ufydk,¡ dgk tkrk gS] esa fo|qr~&foltZu dk vè;;u vkjaHk fd;kA bls fp=k 2-1 (d) esa n'kkZ;k x;k gSA oSQFkksM fdj.k ufydk dk¡p dh cuh gksrh gS] ftlesa èkkrq osQ nks irys VqdM+s] ftUgsa bysDVªksM dgrs gSa] lhy fd, gq, gksrs gSaA xSlksa esa fo|qr~&foltZu dks fliQZ fuEu nkc ,oa mPp foHko ij izsf{kr fd;k tk ldrk gSA dk¡p dh ufydkvksa esa fofHkUu xSlksa osQ nkc dks fuokZru }kjk fu;af=kr fd;k x;kA bl izdkj tc bysDVªksMksa ij mPp oksYVrk ykxw dh xbZ] rks ufydk esa d.kksa dh èkkjk osQ }kjk Í.kkRed bysDVªksM (oSQFkksM) ls èkukRed bysDVªksM (,suksM) dh rjiQ fo|qr~ dk izokg vkjaHk gks x;kA budks oSQFkksM fdj.ksa vFkok oSQFkksM fdj.k d.k dgrs gSaA</span>
+    <span class="diagram-caption-text"><strong>चित्र 2</strong> 1850 के मèय में अनेक वैKानिकए विशेषकर पैफराडे ने आंशिक रूप से निर्वातित नलिकाओंए जिनहें वैफथोड किरण नलिकाएँ कहा जाता हैए में वि।ुत~&विसर्जन का अèययन आरंभ किया। इसे चित्र 2.1 (क) में दर्शाया गया है। वैफथोड किरण नलिका काँच की बनी होती हैए जिसमें èाातु के दो पतले टुकड+ेए जिनहें इलेक्टªोड कहते हैंए सील किए हुए होते हैं। गैसों में वि।ुत~&विसर्जन को सिपर्फ निम्न दाब एवं उच्च विभव पर पzे{िात किया जा सकता है। काँच की नलिकाओं में विभिन्न गैसों के दाब को निर्वातन द्वारा नियं=िात किया गया। इस प्रकार जब इलेक्टªोडों पर उच्च वोल्टता लागू की गर्इए तो नलिका में कणों की èाारा के द्वारा Íणात्मक इलेक्टªोड (वैफथोड) से èानात्मक इलेक्टªोड (एेनोड) की तरपफ वि।ुत~ का पzवाह आरंभ हो गया। इनको वैफथोड किरणें अथवा वैफथोड किरण कण कहते हैं।</span>
     <button class="icon-btn" onclick="goToPdfPage(2)">📄 View in PDF (Page 2)</button>
   </div>
 </div>

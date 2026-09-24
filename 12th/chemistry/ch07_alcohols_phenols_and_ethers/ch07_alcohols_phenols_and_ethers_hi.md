@@ -663,9 +663,9 @@ CH3 Br
 होती है। जो कार्बन के sp³ संकरित कक्षक और ऑक्सीजन के sp³ संकरित कक्षक के
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/12th_chemistry_ch07_alcohols_phenols_and_ethers_fig_7_hi.png" alt="चित्र 7" onclick="openImageModal(this.src, 'चित्र 7: ,sYdksgkWyksa esa –OH lewg dh vkWDlhtu dkcZu osQ lkFk ,d flXek (s) vkca/ }kjk tq...')">
+  <img src="data/diagrams/12th_chemistry_ch07_alcohols_phenols_and_ethers_fig_7_hi.png" alt="चित्र 7" onclick="openImageModal(this.src, 'चित्र 7ः एेल्कोहाॅलों में –व्भ् समूह की ऑक्सीजन कार्बन के साथ एक सिग्मा (े) आबंध द्वारा जुण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 7</strong> ,sYdksgkWyksa esa –OH lewg dh vkWDlhtu dkcZu osQ lkFk ,d flXek (s) vkca/ }kjk tqM+h gksrh gSA tks dkcZu osQ sp3 ladfjr d{kd vkSj vkWDlhtu osQ sp3 ladfjr d{kd osQ vfrO;kiu }kjk curk gSA fp=k 7-1 esFksukWy] i+QhukWy rFkk esFkkWDlhesFksu osQ lajpukRed igyqvksa dks iznf'kZr djrk gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 7</strong> एेल्कोहाॅलों में –व्भ् समूह की ऑक्सीजन कार्बन के साथ एक सिग्मा (े) आबंध द्वारा जुड+ी होती है। जो कार्बन के ेच3 संकरित क{ाक और ऑक्सीजन के ेच3 संकरित क{ाक के अतिव्यापन द्वारा बनता है। चित्र 7.1 मेथेनाॅलए प+फीनाॅल तथा मेथाॅक्सीमेथेन के संरचनात्मक पहलुओं को पzदर्शित करता है।</span>
     <button class="icon-btn" onclick="goToPdfPage(7)">📄 View in PDF (Page 7)</button>
   </div>
 </div>

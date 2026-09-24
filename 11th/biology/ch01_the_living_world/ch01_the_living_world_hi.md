@@ -355,9 +355,9 @@ re
 ## 📄 Page 8
 
 <div class="ncert-diagram-card">
-  <img src="data/diagrams/11th_biology_ch01_the_living_world_fig_1_hi.png" alt="चित्र 1" onclick="openImageModal(this.src, 'चित्र 1: fp=k 1-1 esa inkuqØe dks ns[kksA D;k vki bl O;oLFkk osQ vk/kj dk Lej.k dj ldrs g...')">
+  <img src="data/diagrams/11th_biology_ch01_the_living_world_fig_1_hi.png" alt="चित्र 1" onclick="openImageModal(this.src, 'चित्र 1ः चित्र 1.1 में पदानुØम को देखो। क्या आप इस व्यवस्था के आधार का स्मरण कर सकते हण्ण्ण्')">
   <div class="diagram-caption-box">
-    <span class="diagram-caption-text"><strong>चित्र 1</strong> fp=k 1-1 esa inkuqØe dks ns[kksA D;k vki bl O;oLFkk osQ vk/kj dk Lej.k dj ldrs gks \ mnkgj.k osQ fy, tSls&tSls ge Lih'kht ls txr dh vksj Åij tkrs gSa_ oSls gh leku xq.kksa esa deh vkrh tkrh gSA lcls uhps tks VSDlk gksxk mlosQ lnL;ksa esa lcls vf/d leku xq.k gksaxsA tSls&tSls mPprj laoxZ dh vksj tkrs gSa] mlh Lrj ij vU; VSDlk osQ laca/ fu/kZfjr djus vf/d dfBu gks tkrs gSaA blfy, oxhZdj.k dh leL;k vkSj Hkh tfVy gks tkrh gSA</span>
+    <span class="diagram-caption-text"><strong>चित्र 1</strong> चित्र 1.1 में पदानुØम को देखो। क्या आप इस व्यवस्था के आधार का स्मरण कर सकते हो । उदाहरण के लिए जैसे&जैसे हम स्पीशीज से जगत की आेर ऊपर जाते हैं_ वैसे ही समान गुणों में कमी आती जाती है। सबसे नीचे जो टैक्सा होगा उसके सदस्यों में सबसे अधकि समान गुण होंगे। जैसे&जैसे उच्चतर संवर्ग की आेर जाते हैंए उसी स्तर पर अनय टैक्सा के संबंध निर्धारित करने अधकि कझ्नि हो जाते हैं। इसलिए वर्गीकरण की समस्या और भी जटिल हो जाती है।</span>
     <button class="icon-btn" onclick="goToPdfPage(8)">📄 View in PDF (Page 8)</button>
   </div>
 </div>
